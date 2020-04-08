@@ -50,13 +50,14 @@ def harvest():
 
 #Once we find a trinomial, we call find_entries to look for useful neighboring
 #vocabulary terms that might be associated with it
-def find_entries(line, lineNum):
+def find_entries(line, lineNum, human_readable):
 	#Looks for county codes and ensures we count them as counties (ha)
 	cc = countycodes.findall(line)
 	if cc is not None:
 		for item in cc:
 			if item in ccodes:
-				print("LOCATION " + str(cmap[item]) + " County, line " + str(lineNum))
+				if(human_readable):
+					print("LOCATION " + str(cmap[item]) + " County, line " + str(lineNum))
 	#Look for NER terms
 	#TODO: This is probably where we should declare a list of the terms 
 	#for the CSV, and filling them in below. We wouldn't even need to do 
@@ -66,13 +67,15 @@ def find_entries(line, lineNum):
 	#TODO: maybe the optimal setup would be a map of trinomial->array
 	for term in set_of_vals:
 		if term in line:
-			print("TERM " + str(term.upper()) + ", line " + str(lineNum))
+			if(human_readable):
+				print("TERM " + str(term.upper()) + ", line " + str(lineNum))
 
 	#Look for BP dates (tend to get lost) w regex
 	bp_check = bp_dates.findall(line)
 	if bp_check is not None:
 			for item in bp_check:
-				print("DATE " + str(item.upper()) + ", line " + str(lineNum))
+				if(human_readable):
+					print("DATE " + str(item.upper()) + ", line " + str(lineNum))
 	#Stanford NER Method, goes in and finds dates and spelled out
 	#counties
 	ents = nlpGetEntities(line)
@@ -80,22 +83,30 @@ def find_entries(line, lineNum):
 		for item in ents:
 			#Grab date
 			if item[1] == 'DATE' and item[0].lower() not in timeExclude:
-				print(str(item[1].upper()) +" "+ str(item[0].upper()) + ", line " + str(lineNum))
+				if(human_readable):
+					print(str(item[1].upper()) +" "+ str(item[0].upper()) + ", line " + str(lineNum))
 			#Grab county
 			if item[1] == 'LOCATION':
 				if item[0] in cnames:
-					print(str(item[1].upper()) +" "+ str(item[0].upper()) + ", line " + str(lineNum))
+					if(human_readable):
+						print(str(item[1].upper()) +" "+ str(item[0].upper()) + ", line " + str(lineNum))
 				elif ' ' in item[0] and item[0].split(' ',1)[1].upper() == 'COUNTY':
 					if item[0].split(' ',1)[0] in cnames:
-						print(str(item[1].upper()) +" "+ str(item[0].upper()) + ", line " + str(lineNum))
+						if(human_readable):
+							print(str(item[1].upper()) +" "+ str(item[0].upper()) + ", line " + str(lineNum))
 
 #Driver method
 def main():
 
+	output.open("out.csv", "a+")
 	#How far above and below the line we should look
 	SEARCH_SIZE = 2
+
 	asciiFile = str(sys.argv[1])
-	lineNum = 0
+	human_readable_input = str(sys.argv[2]).lower()
+	human_readable = False
+	if human_readable_input == 'y' or human_readable_input == 'yes':
+		human_readable = True
 	with codecs.open(asciiFile, 'r', encoding = 'utf-8', errors='ignore') as f:
 		content = f.readlines()
 
@@ -106,15 +117,18 @@ def main():
 		trin = trinomials.findall(content[line_num])
 		if trin is not None:
 				for item in trin:
-					if item not in relevantTrinomials or item in relevantTrinomials:
-						print("***ARTIFACT " + str(item.upper()) + ", line " + str(line_num))
+					if item in relevantTrinomials:
+						if(human_readable):
+							print("***ARTIFACT " + str(item.upper()) + ", line " + str(line_num))
 						search_space = ''
 						for i in range(line_num - SEARCH_SIZE, line_num + SEARCH_SIZE):
 							if i >= 0 and i < len(content):
 								search_space += content[i]
 
-						entries = find_entries(search_space, i)
-						print("\n")
+						entries = find_entries(search_space, i, human_readable)
+						if(human_readable):
+							print("\n")
+	output.close()
 
 
 #iso8601Date: YYYY-MM-DDTHH:MM:SS
