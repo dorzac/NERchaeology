@@ -1,10 +1,12 @@
+#TODO: Fix bug re aiobe
+#TODO: archaic late archaic issue
+import os
 import re
 import csv
 import sys
-import codecs
-import json	
-import os
 import glob
+import json	
+import codecs
 from subprocess import check_output
 
 
@@ -50,7 +52,7 @@ def harvest():
 
 #Once we find a trinomial, we call find_entries to look for useful neighboring
 #vocabulary terms that might be associated with it
-def find_entries(line, lineNum, human_readable):
+def find_entries(line, lineNum, human_readable, found_list):
 	#Looks for county codes and ensures we count them as counties (ha)
 	cc = countycodes.findall(line)
 	if cc is not None:
@@ -58,17 +60,13 @@ def find_entries(line, lineNum, human_readable):
 			if item in ccodes:
 				if(human_readable):
 					print("LOCATION " + str(cmap[item]) + " County, line " + str(lineNum))
+				found_list[1].append(cmap[item])
 	#Look for NER terms
-	#TODO: This is probably where we should declare a list of the terms 
-	#for the CSV, and filling them in below. We wouldn't even need to do 
-	#10 different for loops, we could just do a doubly nested over the 
-	#periodo list. At the very end, we could take each empty field in the
-	#list and abstract in the values from the periodo list.
-	#TODO: maybe the optimal setup would be a map of trinomial->array
 	for term in set_of_vals:
 		if term in line:
 			if(human_readable):
 				print("TERM " + str(term.upper()) + ", line " + str(lineNum))
+			found_list[0].append(term)
 
 	#Look for BP dates (tend to get lost) w regex
 	bp_check = bp_dates.findall(line)
@@ -76,6 +74,7 @@ def find_entries(line, lineNum, human_readable):
 			for item in bp_check:
 				if(human_readable):
 					print("DATE " + str(item.upper()) + ", line " + str(lineNum))
+				found_list[1].append(item)
 	#Stanford NER Method, goes in and finds dates and spelled out
 	#counties
 	ents = nlpGetEntities(line)
@@ -85,28 +84,36 @@ def find_entries(line, lineNum, human_readable):
 			if item[1] == 'DATE' and item[0].lower() not in timeExclude:
 				if(human_readable):
 					print(str(item[1].upper()) +" "+ str(item[0].upper()) + ", line " + str(lineNum))
+				found_list[1].append(item[0])
 			#Grab county
 			if item[1] == 'LOCATION':
 				if item[0] in cnames:
 					if(human_readable):
 						print(str(item[1].upper()) +" "+ str(item[0].upper()) + ", line " + str(lineNum))
+					found_list[1].append(item[0])
 				elif ' ' in item[0] and item[0].split(' ',1)[1].upper() == 'COUNTY':
 					if item[0].split(' ',1)[0] in cnames:
 						if(human_readable):
 							print(str(item[1].upper()) +" "+ str(item[0].upper()) + ", line " + str(lineNum))
+						found_list[1].append(item[0])
 
 #Driver method
 def main():
 
-	output.open("out.csv", "a+")
 	#How far above and below the line we should look
 	SEARCH_SIZE = 2
+
+	#Map Artifact(Trinomial?)-> Array of terms to be printed
+	artifacts = {}
 
 	asciiFile = str(sys.argv[1])
 	human_readable_input = str(sys.argv[2]).lower()
 	human_readable = False
 	if human_readable_input == 'y' or human_readable_input == 'yes':
 		human_readable = True
+
+	output = open("out.csv", "a+")
+
 	with codecs.open(asciiFile, 'r', encoding = 'utf-8', errors='ignore') as f:
 		content = f.readlines()
 
@@ -118,6 +125,9 @@ def main():
 		if trin is not None:
 				for item in trin:
 					if item in relevantTrinomials:
+						#item->period terms, list of str
+						#i0 -> periods, #i1 -> other data
+						artifacts[item] = [[],[]]
 						if(human_readable):
 							print("***ARTIFACT " + str(item.upper()) + ", line " + str(line_num))
 						search_space = ''
@@ -125,10 +135,23 @@ def main():
 							if i >= 0 and i < len(content):
 								search_space += content[i]
 
-						entries = find_entries(search_space, i, human_readable)
+						entries = find_entries(search_space, i, human_readable, artifacts[item])
 						if(human_readable):
 							print("\n")
+	#TODO: Call method to fill in blanks for the artifacts.get(Trinomial)s
+	#Then, write to output
+	write_dictionary(output, artifacts)
 	output.close()
+
+def write_dictionary(f, d):
+	for artifact in d.keys():
+		f.write(str(artifact))
+		for period in d[artifact][0]:
+			f.write("," + str(period))
+			index = periodo[1].index(period)
+			f.write("," + str(periodo[4][index])) #Write periodo[4], in time
+			f.write("," + str(periodo[5][index])) #Write periodo[5], out time
+		f.write("\n")
 
 
 #iso8601Date: YYYY-MM-DDTHH:MM:SS
@@ -176,7 +199,7 @@ def nlpGetEntities(text, host='localhost', iso8601Date='', labelLst=['DATE','LOC
 
 
 """
-Useful Global Variables
+Useful Global Variables, setup
 """
 #Constants
 timeExclude = ["late", "early", "the past", "once", "falls", "previously", "now", "fall", "recently", "time", "present", "past", "current", "currently"]
@@ -188,22 +211,6 @@ bp_dates = re.compile("\d+ B\.?[P]\.?") #only BP
 #Harvest vocabs from files
 relevantTrinomials, counties, periodo = harvest()
 
-#Separate periodo data to make it more programmer friendly
-#TODO get this operating in terms of periodo list, so can
-#delete this shit
-period = periodo[0]
-"""
-label = periodo[1]
-spatial_coverage = periodo[2]
-gazetteer_links = periodo[3]
-start = periodo[4]
-stop = periodo[5]
-authority = periodo[6]
-source = periodo[7]
-publication_year = periodo[8]
-derived_periods = periodo[9]
-"""
-
 set_of_vals = set(periodo[1] + periodo[4] + periodo[5])
 
 #Set up s.t. dictionary can translate county codes into names
@@ -213,4 +220,5 @@ for item in counties:
 	cnames.append(item[0])
 	ccodes.append(item[1])
 cmap = dict(zip(ccodes, cnames))
+
 main()
