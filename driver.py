@@ -1,5 +1,7 @@
-#TODO: Fix bug re aiobe
-#TODO: archaic late archaic issue
+#TODO: Fix... everything
+#TODO: Maybe work on a fix for duplicate rows in csv?
+#TODO: Only run all _that_ stuff when we have multiple trins in a line
+
 import os
 import re
 import csv
@@ -54,6 +56,7 @@ def harvest():
 #vocabulary terms that might be associated with it
 def find_entries(line, lineNum, human_readable, found_list):
 	#Looks for county codes and ensures we count them as counties (ha)
+	"""
 	cc = countycodes.findall(line)
 	if cc is not None:
 		for item in cc:
@@ -61,13 +64,17 @@ def find_entries(line, lineNum, human_readable, found_list):
 				if(human_readable):
 					print("LOCATION " + str(cmap[item]) + " County, line " + str(lineNum))
 				found_list[1].append(cmap[item])
+
+	"""
 	#Look for NER terms
 	for term in set_of_vals:
-		if term in line:
+		if term.casefold() in line:
 			if(human_readable):
 				print("TERM " + str(term.upper()) + ", line " + str(lineNum))
-			found_list[0].append(term)
+			#found_list[0].append(term)
+			found_list.append([term, lineNum])
 
+	"""
 	#Look for BP dates (tend to get lost) w regex
 	bp_check = bp_dates.findall(line)
 	if bp_check is not None:
@@ -96,12 +103,13 @@ def find_entries(line, lineNum, human_readable, found_list):
 						if(human_readable):
 							print(str(item[1].upper()) +" "+ str(item[0].upper()) + ", line " + str(lineNum))
 						found_list[1].append(item[0])
+	"""
 
 #Driver method
 def main():
 
 	#How far above and below the line we should look
-	SEARCH_SIZE = 2
+	SEARCH_SIZE = 5
 
 	#Map Artifact(Trinomial?)-> Array of terms to be printed
 	artifacts = {}
@@ -127,7 +135,8 @@ def main():
 					if item in relevantTrinomials:
 						#item->period terms, list of str
 						#i0 -> periods, #i1 -> other data
-						artifacts[item] = [[],[]]
+						if item not in artifacts:
+							artifacts[item] = [[],[]]
 						if(human_readable):
 							print("***ARTIFACT " + str(item.upper()) + ", line " + str(line_num))
 						search_space = ''
@@ -135,23 +144,124 @@ def main():
 							if i >= 0 and i < len(content):
 								search_space += content[i]
 
-						entries = find_entries(search_space, i, human_readable, artifacts[item])
+						sentences = split_into_sentences(search_space)
+
+						matches = []
+						trinomial_sentence_location = -1;
+						for sen_index in range(len(sentences)):
+							if item in sentences[sen_index]:
+								trinomial_sentence_location = sen_index
+							#find_entries(sentences[sen_index].casefold(), line_num, human_readable, artifacts[item])
+							find_entries(sentences[sen_index].casefold(), sen_index, human_readable, matches)
+
+						optimal_term = get_optimal_term(matches, trinomial_sentence_location, sentences, item)
+						if optimal_term is not None:
+							artifacts[item][0] = optimal_term[0]
+							write_out(output, (item, optimal_term[0]))
+
+						#No need to store artifacts with no found terms
+						if artifacts[item][0] == None:
+							del artifacts[item]
+
+						#TODO add matches ideal value to artifacts[item]
 						if(human_readable):
 							print("\n")
-	#TODO: Call method to fill in blanks for the artifacts.get(Trinomial)s
-	#Then, write to output
-	write_dictionary(output, artifacts)
+
+	print(artifacts)
+	#write_dictionary(output, artifacts)
 	output.close()
 
+def write_out(f, t):
+	trinomial = t[0]
+	period = t[1]
+	f.write(str(trinomial))
+	f.write("," + str(period))
+	index = periodo[1].index(period)
+	f.write("," + str(periodo[4][index])) #Write periodo[4], in time
+	f.write("," + str(periodo[5][index])) #Write periodo[5], out time
+	f.write("\n")
+
+#Find the term that is most likely to match up with the trinomial
+#@param matches is a list of size 2 lists "tuples" of form (term, sentence_index)
+#@param key_index is sentence index of trinomial
+#@param sentences is list of sentences containing results
+#@param trin is the trinomial
+def get_optimal_term(matches, key_index, sentences, trin):
+
+	#Only keep values in the nearest sentence(s)
+	matches.sort(key = lambda tpl : abs(key_index - tpl[1]))
+	closest_val = None
+	best_term = None
+	if len(matches) != 0:
+		for tpl in matches:
+			tpl[1] = abs(key_index - tpl[1])
+		matches.sort(key = lambda tpl : tpl[1])
+		closest_val = matches[0][1]
+		result = []
+		for tpl in matches:
+			if tpl[1] == closest_val:
+				result.append(tpl)
+		matches = result
+		best_term = matches[0]
+
+	#Within the nearest sentences, figure out which one is closest
+	if len(matches) > 1:
+		agg_sentence = ""
+		#Make all sentences one String for convenience
+		for si in range(key_index - closest_val, key_index + closest_val):
+			if si >= 0 and si < len(sentences):
+				agg_sentence += sentences[si]
+		#Everything is on the sentence at key_index
+		if agg_sentence == "":
+			agg_sentence = sentences[key_index]
+
+		#Run distances through in order of longest tpl[0] to shortest
+		#This is to prevent terms that are substrings of other terms
+		#causing problems
+		matches.sort(key = lambda tpl : len(tpl[0]))
+		matches = list(reversed(matches))
+		
+		min_distance = len(agg_sentence) + 1;
+		best_term = None
+		for tpl in matches:
+			dist = distance(agg_sentence.casefold(), tpl[0].casefold(), trin.casefold())
+			if dist <= min_distance:
+				min_distance = dist
+				best_term = tpl
+
+	return best_term
+
+
+
+#Really basic way of defining a distance between two words
+#based on counting number of whitespace between them.
+#@param s is the parent string
+#@param w1 and @param w2 are words to find distance between
+def distance(s, w1, w2):
+	#Get index of w1
+	i1 = s.index(w1)
+	#Get index of w2
+	i2 = s.index(w2)
+	#Should never happen
+	if i1 < 0 or i2 < 0:
+		return -1
+	i1, i2 = min(i1, i2), max(i1, i2)
+	#Count occurances of white space in between
+	s_copy = s[i1:i2+1]
+	spaces = re.findall('\s+', s_copy)
+	#Return number of whitespace
+	return len(spaces)
+
 def write_dictionary(f, d):
+	print(d)
 	for artifact in d.keys():
-		f.write(str(artifact))
-		for period in d[artifact][0]:
+		for period in set(d[artifact][0]):
+			f.write(str(artifact))
 			f.write("," + str(period))
 			index = periodo[1].index(period)
 			f.write("," + str(periodo[4][index])) #Write periodo[4], in time
 			f.write("," + str(periodo[5][index])) #Write periodo[5], out time
-		f.write("\n")
+			f.write("\n")
 
 
 #iso8601Date: YYYY-MM-DDTHH:MM:SS
@@ -197,10 +307,46 @@ def nlpGetEntities(text, host='localhost', iso8601Date='', labelLst=['DATE','LOC
 
 	return entities
 
+#Credit to D Greenberg on Github
+def split_into_sentences(text):
+    text = " " + text + "  "
+    text = text.replace("\n"," ")
+    text = re.sub(prefixes,"\\1<prd>",text)
+    text = re.sub(websites,"<prd>\\1",text)
+    if "Ph.D" in text: text = text.replace("Ph.D.","Ph<prd>D<prd>")
+    text = re.sub("\s" + alphabets + "[.] "," \\1<prd> ",text)
+    text = re.sub(acronyms+" "+starters,"\\1<stop> \\2",text)
+    text = re.sub(alphabets + "[.]" + alphabets + "[.]" + alphabets + "[.]","\\1<prd>\\2<prd>\\3<prd>",text)
+    text = re.sub(alphabets + "[.]" + alphabets + "[.]","\\1<prd>\\2<prd>",text)
+    text = re.sub(" "+suffixes+"[.] "+starters," \\1<stop> \\2",text)
+    text = re.sub(" "+suffixes+"[.]"," \\1<prd>",text)
+    text = re.sub(" " + alphabets + "[.]"," \\1<prd>",text)
+    if "”" in text: text = text.replace(".”","”.")
+    if "\"" in text: text = text.replace(".\"","\".")
+    if "!" in text: text = text.replace("!\"","\"!")
+    if "?" in text: text = text.replace("?\"","\"?")
+    text = text.replace(".",".<stop>")
+    text = text.replace("?","?<stop>")
+    text = text.replace("!","!<stop>")
+    text = text.replace("<prd>",".")
+    sentences = text.split("<stop>")
+    sentences = sentences[:-1]
+    sentences = [s.strip() for s in sentences]
+    return sentences
+
 
 """
 Useful Global Variables, setup
 """
+
+#Sentence Splitting
+alphabets= "([A-Za-z])"
+prefixes = "(Mr|St|Mrs|Ms|Dr)[.]"
+suffixes = "(Inc|Ltd|Jr|Sr|Co)"
+starters = "(Mr|Mrs|Ms|Dr|He\s|She\s|It\s|They\s|Their\s|Our\s|We\s|But\s|However\s|That\s|This\s|Wherever)"
+acronyms = "([A-Z][.][A-Z][.](?:[A-Z][.])?)"
+websites = "[.](com|net|org|io|gov)"
+
 #Constants
 timeExclude = ["late", "early", "the past", "once", "falls", "previously", "now", "fall", "recently", "time", "present", "past", "current", "currently"]
 countycodes = re.compile("\s([A-Z]{2})[\s,\.,\,]")
@@ -211,7 +357,11 @@ bp_dates = re.compile("\d+ B\.?[P]\.?") #only BP
 #Harvest vocabs from files
 relevantTrinomials, counties, periodo = harvest()
 
-set_of_vals = set(periodo[1] + periodo[4] + periodo[5])
+#set_of_vals = set(periodo[1] + periodo[4] + periodo[5])
+set_of_vals = set(periodo[1])
+
+#x = list(set_of_vals)
+#x.sort(key = lambda s : len(s))
 
 #Set up s.t. dictionary can translate county codes into names
 cnames = []
