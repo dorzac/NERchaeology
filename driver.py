@@ -1,6 +1,4 @@
-#TODO: Fix... everything
 #TODO: Maybe work on a fix for duplicate rows in csv?
-#TODO: Only run all _that_ stuff when we have multiple trins in a line
 
 import os
 import re
@@ -112,7 +110,7 @@ def main():
 	SEARCH_SIZE = 5
 
 	#Map Artifact(Trinomial?)-> Array of terms to be printed
-	artifacts = {}
+	result = {}
 
 	asciiFile = str(sys.argv[1])
 	human_readable_input = str(sys.argv[2]).lower()
@@ -129,46 +127,54 @@ def main():
 	for line_num in range(len(content)):
 
 		#Look for Trinomials using regex
-		trin = trinomials.findall(content[line_num])
-		if trin is not None:
-				for item in trin:
-					if item in relevantTrinomials:
-						#item->period terms, list of str
-						#i0 -> periods, #i1 -> other data
-						if item not in artifacts:
-							artifacts[item] = [[],[]]
-						if(human_readable):
-							print("***ARTIFACT " + str(item.upper()) + ", line " + str(line_num))
-						search_space = ''
-						for i in range(line_num - SEARCH_SIZE, line_num + SEARCH_SIZE):
-							if i >= 0 and i < len(content):
-								search_space += content[i]
+		tris_in_line = trinomial_regex.findall(content[line_num])
+		if tris_in_line is None:
+			continue
+		for trinomial in tris_in_line:
+			if trinomial in RELEVANT_TRINOMIALS:
+				#item->period terms, list of str
+				#i0 -> periods, #i1 -> other data
+				if trinomial not in result:
+					result[trinomial] = [[],[]]
+				if(human_readable):
+					print("***TRINOMIAL " + str(trinomial.upper()) + ", line " + str(line_num))
+				search_space = ''
+				for line in range(line_num - SEARCH_SIZE, line_num + SEARCH_SIZE + 1):
+					if line >= 0 and line < len(content):
+						search_space += content[line]
 
-						sentences = split_into_sentences(search_space)
+				local_trin_count = len(trinomial_regex.findall(search_space))
+				sentences = split_into_sentences(search_space)
+				
+				#Parsing regex fails for image captioning
+				if len(sentences) == 0:
+					sentences.append(search_space)
 
-						matches = []
-						trinomial_sentence_location = -1;
-						for sen_index in range(len(sentences)):
-							if item in sentences[sen_index]:
-								trinomial_sentence_location = sen_index
-							#find_entries(sentences[sen_index].casefold(), line_num, human_readable, artifacts[item])
-							find_entries(sentences[sen_index].casefold(), sen_index, human_readable, matches)
+				possible_pairs = []
+				trinomial_sentence_location = -1;
+				for sen_index in range(len(sentences)):
+					if trinomial in sentences[sen_index]:
+						trinomial_sentence_location = sen_index
+					find_entries(sentences[sen_index].casefold(), sen_index, human_readable, possible_pairs)
 
-						optimal_term = get_optimal_term(matches, trinomial_sentence_location, sentences, item)
-						if optimal_term is not None:
-							artifacts[item][0] = optimal_term[0]
-							write_out(output, (item, optimal_term[0]))
+				#If there are other terms nearby, extract carefully
+				if local_trin_count > 1:
+					optimal_term = get_optimal_term(possible_pairs, trinomial_sentence_location, sentences, trinomial)
+					if optimal_term is not None:
+						result[trinomial][0] = optimal_term[0]
+						write_out(output, (trinomial, optimal_term[0]))
+				#Otherwise, grab everything useful
+				else:
+					print(sen_index)
+					find_entries(sentences[sen_index].casefold(), sen_index, human_readable, result[trinomial])
 
-						#No need to store artifacts with no found terms
-						if artifacts[item][0] == None:
-							del artifacts[item]
+				#No need to store result with no found terms
+				if result[trinomial][0] == None:
+					del result[trinomial]
 
-						#TODO add matches ideal value to artifacts[item]
-						if(human_readable):
-							print("\n")
+				if(human_readable):
+					print("\n")
 
-	print(artifacts)
-	#write_dictionary(output, artifacts)
 	output.close()
 
 def write_out(f, t):
@@ -208,7 +214,7 @@ def get_optimal_term(matches, key_index, sentences, trin):
 	if len(matches) > 1:
 		agg_sentence = ""
 		#Make all sentences one String for convenience
-		for si in range(key_index - closest_val, key_index + closest_val):
+		for si in range(key_index - closest_val, key_index + closest_val + 1):
 			if si >= 0 and si < len(sentences):
 				agg_sentence += sentences[si]
 		#Everything is on the sentence at key_index
@@ -239,6 +245,8 @@ def get_optimal_term(matches, key_index, sentences, trin):
 #@param w1 and @param w2 are words to find distance between
 def distance(s, w1, w2):
 	#Get index of w1
+	print("the stuff is ",w1, "SENTNECE", s)
+	print("nagatoro ", w1 in s)
 	i1 = s.index(w1)
 	#Get index of w2
 	i2 = s.index(w2)
@@ -253,7 +261,6 @@ def distance(s, w1, w2):
 	return len(spaces)
 
 def write_dictionary(f, d):
-	print(d)
 	for artifact in d.keys():
 		for period in set(d[artifact][0]):
 			f.write(str(artifact))
@@ -350,12 +357,12 @@ websites = "[.](com|net|org|io|gov)"
 #Constants
 timeExclude = ["late", "early", "the past", "once", "falls", "previously", "now", "fall", "recently", "time", "present", "past", "current", "currently"]
 countycodes = re.compile("\s([A-Z]{2})[\s,\.,\,]")
-trinomials = re.compile("41[a-zA-Z]{2}[0-9]{1,4}")
+trinomial_regex = re.compile("41[a-zA-Z]{2}[0-9]{1,4}")
 bp_dates = re.compile("\d+ B\.?[P]\.?") #only BP
 #bp_dates = re.compile("\d+ B\.?[P,C]\.?") #inc. BC
 
 #Harvest vocabs from files
-relevantTrinomials, counties, periodo = harvest()
+RELEVANT_TRINOMIALS, counties, periodo = harvest()
 
 #set_of_vals = set(periodo[1] + periodo[4] + periodo[5])
 set_of_vals = set(periodo[1])

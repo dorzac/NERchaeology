@@ -53,7 +53,6 @@ then
 	rm out.csv
 fi
 touch out.csv
-echo "period,dcterms:coverage_temporal,xsd:gDate_start,xsd:gDate_end" > out.csv
 
 #Parse for smithsonian trinomials, dates
 for FILE in ./ascii/*.txt
@@ -69,6 +68,11 @@ do
 	fi
 done
 echo "*** Finished parsing"
+
+python3 csv_cleanup.py out.csv temp.csv
+mv temp.csv out.csv
+sort out.csv -o out.csv
+sed -i '1s/^/period,dcterms:coverage_temporal,xsd:gDate_start,xsd:gDate_end\n/' out.csv
 
 #close container
 #docker rm -f stanfordcorenlp
