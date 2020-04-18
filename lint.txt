@@ -1,0 +1,229 @@
+************* Module driver
+W:  1, 0: TODO: Insert docstring (fixme)
+W: 15, 0: TODO: Insert docstring (fixme)
+W:336, 0: Cannot decode using encoding "ascii", unexpected byte at position 5 (invalid-encoded-data)
+C: 72, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+C:141, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+C:160, 0: Wrong hanging indentation (add 37 spaces).
+							sentences[sen_index].casefold(),
+       ^                                    | (bad-continuation)
+C:161, 0: Wrong hanging indentation (add 37 spaces).
+							sen_index, human_readable, possible_pairs)
+       ^                                    | (bad-continuation)
+C:166, 0: Wrong hanging indentation (add 37 spaces).
+							possible_pairs, trinomial_sentence_location,
+       ^                                    | (bad-continuation)
+C:167, 0: Wrong hanging indentation (add 37 spaces).
+							sentences, trinomial)
+       ^                                    | (bad-continuation)
+C:174, 0: Wrong hanging indentation (add 37 spaces).
+							sentences[sen_index].casefold(),
+       ^                                    | (bad-continuation)
+C:175, 0: Wrong hanging indentation (add 37 spaces).
+							sen_index, human_readable,
+       ^                                    | (bad-continuation)
+C:176, 0: Wrong hanging indentation (add 37 spaces).
+							result[trinomial])
+       ^                                    | (bad-continuation)
+C:183, 0: Unnecessary parens after 'print' keyword (superfluous-parens)
+C:205, 0: Exactly one space required after :
+	matches.sort(key=lambda tpl:abs(key_index - tpl[1]))
+                            ^ (bad-whitespace)
+C:211, 0: Exactly one space required after :
+		matches.sort(key=lambda tpl:tpl[1])
+                             ^ (bad-whitespace)
+C:234, 0: Exactly one space required after :
+		matches.sort(key=lambda tpl:len(tpl[0]))
+                             ^ (bad-whitespace)
+C:287, 0: Line too long (110/100) (line-too-long)
+C:325, 0: Exactly one space required after comma
+	text = text.replace("\n"," ")
+                         ^ (bad-whitespace)
+C:326, 0: Exactly one space required after comma
+	text = re.sub(prefixes,"\\1<prd>",text)
+                       ^ (bad-whitespace)
+C:326, 0: Exactly one space required after comma
+	text = re.sub(prefixes,"\\1<prd>",text)
+                                  ^ (bad-whitespace)
+C:327, 0: Exactly one space required after comma
+	text = re.sub(websites,"<prd>\\1",text)
+                       ^ (bad-whitespace)
+C:327, 0: Exactly one space required after comma
+	text = re.sub(websites,"<prd>\\1",text)
+                                  ^ (bad-whitespace)
+C:328, 0: Exactly one space required after comma
+	if "Ph.D" in text: text = text.replace("Ph.D.","Ph<prd>D<prd>")
+                                               ^ (bad-whitespace)
+C:329, 0: Exactly one space required after comma
+	text = re.sub("\s" + alphabets + "[.] "," \\1<prd> ",text)
+                                        ^ (bad-whitespace)
+C:329, 0: Exactly one space required after comma
+	text = re.sub("\s" + alphabets + "[.] "," \\1<prd> ",text)
+                                                     ^ (bad-whitespace)
+C:330, 0: Exactly one space required after comma
+	text = re.sub(acronyms+" "+starters,"\\1<stop> \\2",text)
+                                    ^ (bad-whitespace)
+C:330, 0: Exactly one space required after comma
+	text = re.sub(acronyms+" "+starters,"\\1<stop> \\2",text)
+                                                    ^ (bad-whitespace)
+C:331, 0: Line too long (105/100) (line-too-long)
+C:331, 0: Exactly one space required after comma
+	text = re.sub(alphabets + "[.]" + alphabets + "[.]" + alphabets + "[.]","\\1<prd>\\2<prd>\\3<prd>",text)
+                                                                        ^ (bad-whitespace)
+C:331, 0: Exactly one space required after comma
+	text = re.sub(alphabets + "[.]" + alphabets + "[.]" + alphabets + "[.]","\\1<prd>\\2<prd>\\3<prd>",text)
+                                                                                                   ^ (bad-whitespace)
+C:332, 0: Exactly one space required after comma
+	text = re.sub(alphabets + "[.]" + alphabets + "[.]","\\1<prd>\\2<prd>",text)
+                                                    ^ (bad-whitespace)
+C:332, 0: Exactly one space required after comma
+	text = re.sub(alphabets + "[.]" + alphabets + "[.]","\\1<prd>\\2<prd>",text)
+                                                                       ^ (bad-whitespace)
+C:333, 0: Exactly one space required after comma
+	text = re.sub(" "+suffixes+"[.] "+starters," \\1<stop> \\2",text)
+                                           ^ (bad-whitespace)
+C:333, 0: Exactly one space required after comma
+	text = re.sub(" "+suffixes+"[.] "+starters," \\1<stop> \\2",text)
+                                                            ^ (bad-whitespace)
+C:334, 0: Exactly one space required after comma
+	text = re.sub(" "+suffixes+"[.]"," \\1<prd>",text)
+                                 ^ (bad-whitespace)
+C:334, 0: Exactly one space required after comma
+	text = re.sub(" "+suffixes+"[.]"," \\1<prd>",text)
+                                             ^ (bad-whitespace)
+C:335, 0: Exactly one space required after comma
+	text = re.sub(" " + alphabets + "[.]"," \\1<prd>",text)
+                                      ^ (bad-whitespace)
+C:335, 0: Exactly one space required after comma
+	text = re.sub(" " + alphabets + "[.]"," \\1<prd>",text)
+                                                  ^ (bad-whitespace)
+C:336, 0: Exactly one space required after comma
+	if "?" in text: text = text.replace(".?","?.")
+                                             ^ (bad-whitespace)
+C:337, 0: Exactly one space required after comma
+	if "\"" in text: text = text.replace(".\"","\".")
+                                           ^ (bad-whitespace)
+C:338, 0: Exactly one space required after comma
+	if "!" in text: text = text.replace("!\"","\"!")
+                                          ^ (bad-whitespace)
+C:339, 0: Exactly one space required after comma
+	if "?" in text: text = text.replace("?\"","\"?")
+                                          ^ (bad-whitespace)
+C:340, 0: Exactly one space required after comma
+	text = text.replace(".",".<stop>")
+                        ^ (bad-whitespace)
+C:341, 0: Exactly one space required after comma
+	text = text.replace("?","?<stop>")
+                        ^ (bad-whitespace)
+C:342, 0: Exactly one space required after comma
+	text = text.replace("!","!<stop>")
+                        ^ (bad-whitespace)
+C:343, 0: Exactly one space required after comma
+	text = text.replace("<prd>",".")
+                            ^ (bad-whitespace)
+C:359, 0: Wrong continued indentation (add 9 spaces).
+			"We\s|But\s|However\s|That\s|This\s|Wherever)")
+   ^        | (bad-continuation)
+W:264, 0: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:329, 0: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:358, 0: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:358, 0: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:358, 0: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:358, 0: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:358, 0: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:358, 0: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:359, 0: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:359, 0: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:359, 0: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:359, 0: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:359, 0: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:367, 0: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:367, 0: Anomalous backslash in string: '\s'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:367, 0: Anomalous backslash in string: '\.'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:367, 0: Anomalous backslash in string: '\,'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:369, 0: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:369, 0: Anomalous backslash in string: '\.'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+W:369, 0: Anomalous backslash in string: '\.'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+C:  1, 0: Missing module docstring (missing-docstring)
+W: 34, 1: Redefining name 'periodo' from outer scope (line 373) (redefined-outer-name)
+W: 30, 2: Redefining name 'counties' from outer scope (line 373) (redefined-outer-name)
+C: 14, 0: Missing function docstring (missing-docstring)
+C: 19,65: Variable name "f" doesn't conform to snake_case naming style (invalid-name)
+R: 23, 5: Comparison to literal (literal-comparison)
+C: 28,63: Variable name "f" doesn't conform to snake_case naming style (invalid-name)
+C: 38,37: Variable name "f" doesn't conform to snake_case naming style (invalid-name)
+R: 47, 8: Comparison to literal (literal-comparison)
+W: 35, 5: Unused variable 'i' (unused-variable)
+W: 33, 1: Unused variable 'label' (unused-variable)
+C: 56, 0: Argument name "lineNum" doesn't conform to snake_case naming style (invalid-name)
+W:105,-1: String statement has no effect (pointless-string-statement)
+C:108, 0: Missing function docstring (missing-docstring)
+R:108, 0: Too many local variables (19/15) (too-many-locals)
+C:111, 1: Variable name "SEARCH_SIZE" doesn't conform to snake_case naming style (invalid-name)
+C:116, 1: Variable name "asciiFile" doesn't conform to snake_case naming style (invalid-name)
+C:124,72: Variable name "f" doesn't conform to snake_case naming style (invalid-name)
+C:128, 1: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+C:151, 7: Do not use `len(SEQUENCE)` to determine if a sequence is empty (len-as-condition)
+C:156, 4: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+W:174,17: Using possibly undefined loop variable 'sen_index' (undefined-loop-variable)
+W:175, 7: Using possibly undefined loop variable 'sen_index' (undefined-loop-variable)
+C:179, 7: Comparison to None should be 'expr is None' (singleton-comparison)
+R:108, 0: Too many branches (17/12) (too-many-branches)
+C:187, 0: Argument name "f" doesn't conform to snake_case naming style (invalid-name)
+C:187, 0: Argument name "t" doesn't conform to snake_case naming style (invalid-name)
+C:187, 0: Missing function docstring (missing-docstring)
+C:202, 0: Missing function docstring (missing-docstring)
+C:208, 4: Do not use `len(SEQUENCE)` to determine if a sequence is empty (len-as-condition)
+C:224, 6: Variable name "si" doesn't conform to snake_case naming style (invalid-name)
+C:253, 0: Argument name "s" doesn't conform to snake_case naming style (invalid-name)
+C:253, 0: Argument name "w1" doesn't conform to snake_case naming style (invalid-name)
+C:253, 0: Argument name "w2" doesn't conform to snake_case naming style (invalid-name)
+C:253, 0: Missing function docstring (missing-docstring)
+C:255, 1: Variable name "i1" doesn't conform to snake_case naming style (invalid-name)
+C:257, 1: Variable name "i2" doesn't conform to snake_case naming style (invalid-name)
+C:261, 1: Variable name "i1" doesn't conform to snake_case naming style (invalid-name)
+C:261, 5: Variable name "i2" doesn't conform to snake_case naming style (invalid-name)
+C:268, 0: Argument name "f" doesn't conform to snake_case naming style (invalid-name)
+C:268, 0: Argument name "d" doesn't conform to snake_case naming style (invalid-name)
+C:268, 0: Missing function docstring (missing-docstring)
+W:280, 0: Dangerous default value [] as argument (dangerous-default-value)
+C:280, 0: Function name "nlpGetEntities" doesn't conform to snake_case naming style (invalid-name)
+C:280, 0: Argument name "iso8601Date" doesn't conform to snake_case naming style (invalid-name)
+C:280, 0: Argument name "labelLst" doesn't conform to snake_case naming style (invalid-name)
+C:280, 0: Missing function docstring (missing-docstring)
+R:280, 0: Too many local variables (17/15) (too-many-locals)
+C:284, 4: Do not use `len(SEQUENCE)` to determine if a sequence is empty (len-as-condition)
+C:289, 1: Variable name "dedupSet" doesn't conform to snake_case naming style (invalid-name)
+W:314, 1: No exception type(s) specified (bare-except)
+C:306, 4: Variable name "dedupKey" doesn't conform to snake_case naming style (invalid-name)
+C:311, 7: Do not use `len(SEQUENCE)` to determine if a sequence is empty (len-as-condition)
+C:317, 2: Variable name "errorMessage" doesn't conform to snake_case naming style (invalid-name)
+W:315, 2: Unused variable 'exc_type' (unused-variable)
+W:315,12: Unused variable 'exc_obj' (unused-variable)
+C:323, 0: Missing function docstring (missing-docstring)
+C:328,20: More than one statement on a single line (multiple-statements)
+C:336,19: More than one statement on a single line (multiple-statements)
+C:337,18: More than one statement on a single line (multiple-statements)
+C:338,17: More than one statement on a single line (multiple-statements)
+C:339,17: More than one statement on a single line (multiple-statements)
+W:352,-1: String statement has no effect (pointless-string-statement)
+C:355, 0: Constant name "alphabets" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:356, 0: Constant name "prefixes" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:357, 0: Constant name "suffixes" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:358, 0: Constant name "starters" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:360, 0: Constant name "acronyms" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:361, 0: Constant name "websites" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:364, 0: Constant name "timeExclude" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:367, 0: Constant name "countycodes" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:368, 0: Constant name "trinomial_regex" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:369, 0: Constant name "bp_dates" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:373,21: Constant name "counties" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:373,31: Constant name "periodo" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:376, 0: Constant name "set_of_vals" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:382, 0: Constant name "cnames" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:383, 0: Constant name "ccodes" doesn't conform to UPPER_CASE naming style (invalid-name)
+C:387, 0: Constant name "cmap" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 3.45/10 (previous run: 3.35/10, +0.10)
+
