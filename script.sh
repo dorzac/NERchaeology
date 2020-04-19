@@ -61,9 +61,9 @@ do
 	f=$(basename "$FILE" .txt)
 	if [[ hr ]]
 	then
-		python3 driver.py ascii/"$f.txt" "$REPLY" > ./output/"$f.output"
+		python3.7 driver.py ascii/"$f.txt" "$REPLY" > ./output/"$f.output"
 	else
-		python3 driver.py ascii/"$f.txt" "$REPLY"
+		python3.7 driver.py ascii/"$f.txt" "$REPLY"
 	fi
 done
 echo "*** Finished parsing"

@@ -1,8 +1,9 @@
-# DONE: Check for "no evidence of historic period at site"
+"""REFACTOR"""
 
 # TODO: Write custom sort for periodo terms that's safer than zipping
 # TODO: Use dates as a refinement mechanism
 # TODO: Weighing trinomials based on mentions
+# TODO: check out driver, seems to be a weird issue with it now
 
 import os
 import re
@@ -71,7 +72,6 @@ def harvest():
 			#ignoring the labels, for convenience
 			for row in range(1, len(data)):
 				for column in range(len(data[row])):
-					#if row != 0:
 					if data[row][column] is not '':
 						periodo[column].append(data[row][column])
 
@@ -97,108 +97,49 @@ def harvest():
 	return relevant_trinomials, counties, periodo
 
 
-#Once we find a trinomial, we call find_entries to look for useful neighboring
+#Once we find a trinomial, we call find_terms to look for useful neighboring
 #vocabulary terms that might be associated with it
-def find_entries(line, line_num, human_readable, found_list):
+
+
+def find_terms(line, line_num, human_readable, found_list):
 	"""
 	Checks a line of text against the defined vocabularies.
 	Grabs everything relevant, nondiscretely.
+	@param line is the string of text which to parse
+	@param line_num is the line number, used for output and checking
+		   relationship between term location and site location
+	@param human_readable is a boolean used for output
+	@param found_list is a list of lists with entries of the form
+		   [term, line_num] (must remain mutable)
 	"""
 
-	#Looks for county codes and ensures we count them as counties (ha)
-	"""
-	cc = countycodes.findall(line)
-	if cc is not None:
-		for item in cc:
-			if item in ccodes:
-				if(human_readable):
-					print("LOCATION " + str(cmap[item]) + " County, line " + str(line_num))
-				found_list[1].append(cmap[item])
-
-	"""
-	#Look for NER terms
+	print
 	for term in set_of_vals:
 		if term.casefold() in line:
 			for negator in NEGATIVES:
 				if negator.casefold() in line:
 					break
-				else:
-					if human_readable:
-						print("TERM " + str(term.upper()) + \
-							", line " + str(line_num))
-						print(line)
-					line = line.replace(term.casefold(), '')
-					found_list.append([term, line_num])
+				elif human_readable:
+					print("TERM " + str(term.upper()))
+				line = line.replace(term.casefold(), '')
+				found_list.append([term, line_num])
+				break
 
 
-	"""
-	#Look for BP dates (tend to get lost) w regex
-	bp_check = bp_dates.findall(line)
-	if bp_check is not None:
-			for item in bp_check:
-				if(human_readable):
-					print("DATE " + str(item.upper()) + ", line " + str(line_num))
-				found_list[1].append(item)
-	#Stanford NER Method, goes in and finds dates and spelled out
-	#counties
-	ents = nlpGetEntities(line)
-	if len(ents) is not 0:
-		for item in ents:
-			#Grab date
-			if item[1] == 'DATE' and item[0].lower() not in timeExclude:
-				if(human_readable):
-					print(str(item[1].upper()) +" "+ str(item[0].upper()) + ", line " + str(line_num))
-				found_list[1].append(item[0])
-			#Grab county
-			if item[1] == 'LOCATION':
-				if item[0] in cnames:
-					if(human_readable):
-						print(str(item[1].upper()) +" "+ str(item[0].upper()) + ", line " + str(line_num))
-					found_list[1].append(item[0])
-				elif ' ' in item[0] and item[0].split(' ',1)[1].upper() == 'COUNTY':
-					if item[0].split(' ',1)[0] in cnames:
-						if(human_readable):
-							print(str(item[1].upper()) +" "+ str(item[0].upper()) + ", line " + str(lineNum))
-						found_list[1].append(item[0])
-	"""
-
-
-def main():
-	"""
-	Loops over the input for trinomials. When one is found, the
-	chunk of nearby text is grabbed. If there are no other nearby
-	trinomials, calls find_entries. Otherwise, extracts precisely
-	with get_optimal_term.
-	"""
+def parse_content(human_readable, content):
 	#TODO: break this method down!
+	#TODO: Docstring
 
-	input_file = str(sys.argv[1])
-	human_readable_input = str(sys.argv[2]).lower()
-	human_readable = False
-	if human_readable_input == 'y' or human_readable_input == 'yes':
-		human_readable = True
-
-	output = open("out.csv", "a+")
-
-	with codecs.open(input_file, "r", encoding="utf-8", errors="ignore") as f:
-		content = f.readlines()
-
-	result = {}
 	records = set()
 	for line_num in range(len(content)):
 
-		#Look for Trinomials using regex
+		#Look for Trinomials
 		tris_in_line = trinomial_regex.findall(content[line_num])
 		if tris_in_line is None:
 			continue
 		for trinomial in tris_in_line:
 			if trinomial in RELEVANT_TRINOMIALS:
-				r = Record(trinomial)
-				print(r)
-				#item->period terms, list of str
-				#i0 -> periods, #i1 -> other data
-				if trinomial not in result:
-					result[trinomial] = [[], []]
+				r = Record(site_name = trinomial)
 
 				if human_readable:
 					print("***TRINOMIAL " + str(trinomial.upper()) + \
@@ -212,52 +153,50 @@ def main():
 				local_trin_count = len(set(trinomial_regex.findall(search_space)))
 				sentences = split_into_sentences(search_space)
 
-				#Parsing regex fails for image captioning
+				#Parsing regex fails for image captioning, workaround
 				if not sentences:
 					sentences.append(search_space)
 
 				possible_pairs = []
-				trinomial_sentence_location = -1
 				for sen_index in range(len(sentences)):
 					if trinomial in sentences[sen_index]:
-						trinomial_sentence_location = sen_index
-					find_entries(
+						r.site_name_line = sen_index
+					find_terms(
 							sentences[sen_index].casefold(),
 							sen_index, human_readable, possible_pairs)
 
 				#If there are other terms nearby, extract carefully
 				if local_trin_count > 1:
 					optimal_term = get_optimal_term(
-							possible_pairs, trinomial_sentence_location,
+							possible_pairs, r.site_name_line,
 							sentences, trinomial)
 					if optimal_term is not None:
-						result[trinomial][0] = optimal_term[0]
-						write_out(output, (trinomial, optimal_term[0]))
+						r.period_term = optimal_term	
+						records.add(r)
+
 				#Otherwise, grab everything useful
 				else:
 					for pair in possible_pairs:
-						write_out(output, (trinomial, pair[0]))
-
-				#No need to store result with no found terms
-				if result[trinomial][0] == None:
-					del result[trinomial]
+						tmp = Record( \
+							site_name = r.site_name, \
+							site_name_line = r.site_name_line, \
+							period_term = pair[0], \
+							dates = r.dates)
+						records.add(tmp)
 
 				if human_readable:
 					print("\n")
+	return records
 
-	output.close()
-
-def write_out(f, t):
+def write_record(f, r):
 	"""
-	@param f a file
-	@param t a tuple of the form (trinomial, term)
+	@param f a file to write to
+	@param t a Record dataclass
 	Writes the file in CSV form.
 	"""
-	trinomial = t[0]
-	period = t[1]
-	f.write(str(trinomial))
-	f.write("," + str(period))
-	index = PERIODO[1].index(period)
+	f.write(r.site_name)
+	f.write("," + r.period_term)
+	index = PERIODO[1].index(r.period_term)
 	f.write("," + str(PERIODO[4][index])) #Write periodo[4], in time
 	f.write("," + str(PERIODO[5][index])) #Write periodo[5], out time
 	f.write("\n")
@@ -290,7 +229,7 @@ def get_optimal_term(matches, key_index, sentences, trin):
 				result.append(tpl)
 		matches = result
 		best_term = matches[0]
-
+		
 	#Within the nearest sentences, figure out which one is closest
 	if len(matches) > 1:
 		agg_sentence = ""
@@ -316,7 +255,9 @@ def get_optimal_term(matches, key_index, sentences, trin):
 				min_distance = dist
 				best_term = tpl
 
-	return best_term
+	if best_term != None:
+		return best_term[0]
+	return None
 
 
 def distance(s, w1, w2):
@@ -422,6 +363,29 @@ def split_into_sentences(text):
 	sentences = [s.strip() for s in sentences]
 	return sentences
 
+
+def main():
+	"""
+	TODO: Docstring
+	"""
+
+	input_file = str(sys.argv[1])
+	human_readable_input = str(sys.argv[2]).lower()
+	human_readable = False
+	if human_readable_input == 'y' or human_readable_input == 'yes':
+		human_readable = True
+
+	with codecs.open(input_file, "r", encoding="utf-8", errors="ignore") as f:
+		content = f.readlines()
+
+	records = parse_content(human_readable, content)
+
+	o = open("out.csv", "a+")
+	for r in records:
+		write_record(o, r)
+	o.close()
+
+
 """
 Setup
 """
@@ -446,3 +410,48 @@ for item in COUNTIES:
 cmap = dict(zip(ccodes, cnames))
 
 main()
+
+
+"""
+Here be monsters
+"""
+
+
+def find_more_stuff(line, line_num, human_readable, found_list):
+	#Looks for county codes and ensures we count them as counties (ha)
+	cc = countycodes.findall(line)
+	if cc is not None:
+		for item in cc:
+			if item in ccodes:
+				if(human_readable):
+					print("LOCATION " + str(cmap[item]) + " County, line " + str(line_num))
+				found_list[1].append(cmap[item])
+
+	#Look for BP dates (tend to get lost) w regex
+	bp_check = bp_dates.findall(line)
+	if bp_check is not None:
+			for item in bp_check:
+				if(human_readable):
+					print("DATE " + str(item.upper()) + ", line " + str(line_num))
+				found_list[1].append(item)
+	#Stanford NER Method, goes in and finds dates and spelled out
+	#counties
+	ents = nlpGetEntities(line)
+	if len(ents) is not 0:
+		for item in ents:
+			#Grab date
+			if item[1] == 'DATE' and item[0].lower() not in timeExclude:
+				if(human_readable):
+					print(str(item[1].upper()) +" "+ str(item[0].upper()) + ", line " + str(line_num))
+				found_list[1].append(item[0])
+			#Grab county
+			if item[1] == 'LOCATION':
+				if item[0] in cnames:
+					if(human_readable):
+						print(str(item[1].upper()) +" "+ str(item[0].upper()) + ", line " + str(line_num))
+					found_list[1].append(item[0])
+				elif ' ' in item[0] and item[0].split(' ',1)[1].upper() == 'COUNTY':
+					if item[0].split(' ',1)[0] in cnames:
+						if(human_readable):
+							print(str(item[1].upper()) +" "+ str(item[0].upper()) + ", line " + str(lineNum))
+						found_list[1].append(item[0])

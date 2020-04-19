@@ -1,4 +1,4 @@
-**Dependencies: python3, Docker, Linux (at least a subsystem)
+** Dependencies: python3.7, Docker, Linux (at least a subsystem)
 
 Running script.sh should handle everything. Make sure it has relevant permissions, as it needs to execute and write. 
 script.sh must also be run as root, since opening and closing the docker container modifies system state. Therefore in terminal, run

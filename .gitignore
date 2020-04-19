@@ -7,3 +7,5 @@ plan.txt
 spec.txt
 discuss.txt
 wget-log
+*.swp
+*.swo
