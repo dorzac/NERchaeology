@@ -10,7 +10,6 @@ then
 fi
 
 
-
 #set up structures
 if [[ -d "./ascii" ]]
 then

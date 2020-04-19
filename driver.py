@@ -1,5 +1,6 @@
+# DONE: Check for "no evidence of historic period at site"
+
 # TODO: Write custom sort for periodo terms that's safer than zipping
-# TODO: Check for "no evidence of historic period at site"
 # TODO: Use dates as a refinement mechanism
 # TODO: Weighing trinomials based on mentions
 
@@ -34,6 +35,7 @@ countycodes = re.compile("\s([A-Z]{2})[\s,\.,\,]")
 trinomial_regex = re.compile("41[a-zA-Z]{2}[0-9]{1,4}")
 bp_dates = re.compile("\d+ B\.?[P]\.?") #only BP
 #bp_dates = re.compile("\d+ B\.?[P,C]\.?") #inc. BC
+NEGATIVES = [" none ", " not ", "no "] #CONSIDER: yet to find
 
 
 def harvest():
@@ -115,12 +117,17 @@ def find_entries(line, line_num, human_readable, found_list):
 	"""
 	#Look for NER terms
 	for term in set_of_vals:
-		print(term)
 		if term.casefold() in line:
-			if human_readable:
-				print("TERM " + str(term.upper()) + ", line " + str(line_num))
-			line = line.replace(term.casefold(), '')
-			found_list.append([term, line_num])
+			for negator in NEGATIVES:
+				if negator.casefold() in line:
+					break
+				else:
+					if human_readable:
+						print("TERM " + str(term.upper()) + \
+							", line " + str(line_num))
+						print(line)
+					line = line.replace(term.casefold(), '')
+					found_list.append([term, line_num])
 
 
 	"""
