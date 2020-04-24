@@ -75,18 +75,6 @@ def harvest():
 					if data[row][column] is not '':
 						periodo[column].append(data[row][column])
 
-	"""
-	l1 = ["four", "three", "two", "z_onenoenene"]
-	l2 = [4,3,2,1]
-	l3 = ['f', 't', 't2', 'o']
-	l = [l1, l2, l3]
-	#matches.sort(key=lambda tpl:len(tpl[0]))
-	l1, l3 = (list(t) for t in zip(*sorted(zip(l1, l2), key=lambda l1:len(l1[0]), reverse=True)))
-	print(l1)
-	print(l2)
-	print(l3)
-	"""
-
 	# TODO: This only sorts 3 columns in parallel. Maybe write
 	# custom sort to clean this up
 	periodo[1], periodo[4], periodo[5] = (list(t) for t in zip(*sorted( \
@@ -113,7 +101,8 @@ def find_terms(line, line_num, human_readable, found_list):
 		   [term, line_num] (must remain mutable)
 	"""
 
-	print
+	line = re.sub(r"\s+", ' ', line)
+	print(line)
 	for term in set_of_vals:
 		if term.casefold() in line:
 			for negator in NEGATIVES:

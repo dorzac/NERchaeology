@@ -34,10 +34,10 @@ echo "*** Finished preprocessing"
 for FILE in ./pdfs/*.pdf
 do
 	basename "$FILE"
-	#f="$(basename -- $FILE)"
 	f=$(basename "$FILE" .pdf)
-	#pdftotext -layout pdfs/"$f" ./ascii/"${f%.pdf}.txt"
-	pdftotext -layout pdfs/"$f.pdf" ./ascii/"$f.txt"
+	#pdftotext -layout pdfs/"$f.pdf" ./ascii/"$f.txt"
+	abiword --to=text pdfs/"$f.pdf" -o ./ascii/"$f.txt"
+
 done
 
 echo "*** Finished Conversions"
@@ -61,9 +61,9 @@ do
 	f=$(basename "$FILE" .txt)
 	if [[ hr ]]
 	then
-		python3.7 driver.py ascii/"$f.txt" "$REPLY" > ./output/"$f.output"
+		python3.7 refactor.py ascii/"$f.txt" "$REPLY" > ./output/"$f.output"
 	else
-		python3.7 driver.py ascii/"$f.txt" "$REPLY"
+		python3.7 refactor.py ascii/"$f.txt" "$REPLY"
 	fi
 done
 echo "*** Finished parsing"

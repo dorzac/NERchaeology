@@ -327,6 +327,8 @@ def distance(s, w1, w2):
 	@param w1 and @param w2 are words to find distance between
 	"""
 
+	print("NAGA SENT", s)
+	print("NAGA WORDS", w1, w2)
 	#Get index of w1
 	i1 = s.index(w1)
 	#Get index of w2
