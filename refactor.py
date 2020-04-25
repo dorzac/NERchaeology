@@ -37,7 +37,7 @@ countycodes = re.compile("\s([A-Z]{2})[\s,\.,\,]")
 trinomial_regex = re.compile("41[a-zA-Z]{2}[0-9]{1,4}")
 bp_dates = re.compile("\d+ B\.?[P]\.?") #only BP
 #bp_dates = re.compile("\d+ B\.?[P,C]\.?") #inc. BC
-NEGATIVES = [" none ", " not ", "no "] #CONSIDER: yet to find
+NEGATIVES = [" none ", " not ", " no "] #CONSIDER: 'yet to find'
 
 
 def harvest():
@@ -101,18 +101,18 @@ def find_terms(line, line_num, human_readable, found_list):
 		   [term, line_num] (must remain mutable)
 	"""
 
-	line = re.sub(r"\s+", ' ', line)
-	print(line)
-	for term in set_of_vals:
+	#line = re.sub(r"\s+", ' ', line)
+	terms = list(dict.fromkeys(set_of_vals))
+	print("PARSING",line)
+	for term in terms:
 		if term.casefold() in line:
 			for negator in NEGATIVES:
 				if negator.casefold() in line:
-					break
-				elif human_readable:
-					print("TERM " + str(term.upper()))
-				line = line.replace(term.casefold(), '')
-				found_list.append([term, line_num])
-				break
+					return
+			if human_readable:
+				print("TERM " + str(term.upper()))
+			line = line.replace(term.casefold(), '')
+			found_list.append([term, line_num])
 
 
 def parse_content(human_readable, content):
@@ -133,15 +133,11 @@ def parse_content(human_readable, content):
 				if human_readable:
 					print("***TRINOMIAL " + str(trinomial.upper()) + \
 					", line " + str(line_num))
-				search_space = ''
-				for line in range(line_num - SEARCH_SIZE, 
-					line_num + SEARCH_SIZE + 1):
-					if line >= 0 and line < len(content):
-						search_space += content[line]
 
+				#TODO: Perhaps add these 5x lines to get_search_space
+				search_space = get_search_space(line_num, content, trinomial)
 				local_trin_count = len(set(trinomial_regex.findall(search_space)))
 				sentences = split_into_sentences(search_space)
-
 				#Parsing regex fails for image captioning, workaround
 				if not sentences:
 					sentences.append(search_space)
@@ -161,6 +157,8 @@ def parse_content(human_readable, content):
 							sentences, trinomial)
 					if optimal_term is not None:
 						r.period_term = optimal_term	
+						print("Appending term",r.site_name)
+						print("Appending term",optimal_term)
 						records.add(r)
 
 				#Otherwise, grab everything useful
@@ -176,6 +174,25 @@ def parse_content(human_readable, content):
 				if human_readable:
 					print("\n")
 	return records
+
+
+def get_search_space(line_num, content, trinomial):
+	search_space = ''
+	flag = False
+	for line in range(line_num - SEARCH_SIZE, 
+		line_num + SEARCH_SIZE + 1):
+		if line >= 0 and line < len(content):
+			search_space += content[line]
+
+		if trinomial in content[line]:
+			flag = True
+		if content[line].strip() == "":
+			if not flag:
+				search_space = ""
+			else:
+				break
+	return search_space
+
 
 def write_record(f, r):
 	"""
@@ -385,7 +402,7 @@ RELEVANT_TRINOMIALS, COUNTIES, PERIODO = harvest()
 #PERIODO.sort(key=lambda PERIODO:len(PERIODO[1]))
 #PERIODO = list(reversed(matches))
 
-SEARCH_SIZE = 3 # About 30 lines
+SEARCH_SIZE = 3 # size 3 seems to be about optimal
 
 #set_of_vals = set(periodo[1] + periodo[4] + periodo[5])
 set_of_vals = list(dict.fromkeys(PERIODO[1]))

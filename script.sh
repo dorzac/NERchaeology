@@ -35,8 +35,8 @@ for FILE in ./pdfs/*.pdf
 do
 	basename "$FILE"
 	f=$(basename "$FILE" .pdf)
-	#pdftotext -layout pdfs/"$f.pdf" ./ascii/"$f.txt"
-	abiword --to=text pdfs/"$f.pdf" -o ./ascii/"$f.txt"
+	pdftotext -layout pdfs/"$f.pdf" ./ascii/"$f.txt"
+	#abiword --to=text pdfs/"$f.pdf" -o ./ascii/"$f.txt"
 
 done
 
