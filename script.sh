@@ -13,15 +13,29 @@ fi
 #set up structures
 if [[ -d "./ascii" ]]
 then
-	rm -r ./ascii
+	#rm -r ./ascii
+	echo "Using ascii files present"
+else
+#Convert all pdfs to ascii text
+	mkdir ./ascii
+	chmod 777 ascii
+
+	for FILE in ./pdfs/*.pdf
+	do
+		basename "$FILE"
+		f=$(basename "$FILE" .pdf)
+		#pdftotext -layout pdfs/"$f.pdf" ./ascii/"$f.txt"
+		abiword --to=text pdfs/"$f.pdf" -o ./ascii/"$f.txt"
+
+	done
+echo "*** Finished Conversions"
+
 fi
+
 if [[ -d "./output" ]]
 then
 	rm -r ./output
 fi
-mkdir ./ascii
-chmod 777 ascii
-
 if [[ hr ]]
 then
 	mkdir ./output
@@ -30,17 +44,6 @@ fi
 
 echo "*** Finished preprocessing"
 
-#Convert all pdfs to ascii text
-for FILE in ./pdfs/*.pdf
-do
-	basename "$FILE"
-	f=$(basename "$FILE" .pdf)
-	pdftotext -layout pdfs/"$f.pdf" ./ascii/"$f.txt"
-	#abiword --to=text pdfs/"$f.pdf" -o ./ascii/"$f.txt"
-
-done
-
-echo "*** Finished Conversions"
 
 #Open docker container to hold stanford server on port 9000
 #docker pull anwala/stanfordcorenlp

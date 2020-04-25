@@ -12,6 +12,7 @@ import sys
 import glob
 import json
 import codecs
+from nltk import tokenize
 from operator import itemgetter
 from subprocess import check_output
 from record import *
@@ -103,7 +104,6 @@ def find_terms(line, line_num, human_readable, found_list):
 
 	#line = re.sub(r"\s+", ' ', line)
 	terms = list(dict.fromkeys(set_of_vals))
-	print("PARSING",line)
 	for term in terms:
 		if term.casefold() in line:
 			for negator in NEGATIVES:
@@ -134,13 +134,7 @@ def parse_content(human_readable, content):
 					print("***TRINOMIAL " + str(trinomial.upper()) + \
 					", line " + str(line_num))
 
-				#TODO: Perhaps add these 5x lines to get_search_space
-				search_space = get_search_space(line_num, content, trinomial)
-				local_trin_count = len(set(trinomial_regex.findall(search_space)))
-				sentences = split_into_sentences(search_space)
-				#Parsing regex fails for image captioning, workaround
-				if not sentences:
-					sentences.append(search_space)
+				sentences, local_trin_count = get_search_space(line_num, content, trinomial)
 
 				possible_pairs = []
 				for sen_index in range(len(sentences)):
@@ -157,8 +151,6 @@ def parse_content(human_readable, content):
 							sentences, trinomial)
 					if optimal_term is not None:
 						r.period_term = optimal_term	
-						print("Appending term",r.site_name)
-						print("Appending term",optimal_term)
 						records.add(r)
 
 				#Otherwise, grab everything useful
@@ -183,15 +175,25 @@ def get_search_space(line_num, content, trinomial):
 		line_num + SEARCH_SIZE + 1):
 		if line >= 0 and line < len(content):
 			search_space += content[line]
+			if trinomial in content[line]:
+				flag = True
+			if content[line].strip() == "":
+				if not flag:
+					search_space = ""
+				else:
+					break
 
-		if trinomial in content[line]:
-			flag = True
-		if content[line].strip() == "":
-			if not flag:
-				search_space = ""
-			else:
-				break
-	return search_space
+	search_space = re.sub(r"\s+", ' ', search_space)
+	local_trin_count = len(set(trinomial_regex.findall(search_space)))
+	#TODO: For some reason this fails, so use tokenize
+	#sentences = split_into_sentences(search_space)
+	sentences = tokenize.sent_tokenize(search_space)
+
+	#Parsing regex fails for image captioning, workaround
+	if not sentences:
+		sentences.append(search_space)
+
+	return sentences, local_trin_count
 
 
 def write_record(f, r):
@@ -246,6 +248,7 @@ def get_optimal_term(matches, key_index, sentences, trin):
 		#Everything is on the sentence at key_index
 		if agg_sentence == "":
 			agg_sentence = sentences[key_index]
+		agg_sentence = re.sub(r"\s+", ' ', agg_sentence)
 
 		#Run distances through in order of longest tpl[0] to shortest
 		#This is to prevent terms that are substrings of other terms
@@ -255,8 +258,11 @@ def get_optimal_term(matches, key_index, sentences, trin):
 
 		min_distance = len(agg_sentence) + 1
 		best_term = None
+		dist = 1000
 		for tpl in matches:
-			dist = distance(agg_sentence.casefold(), tpl[0].casefold(), trin.casefold())
+			while tpl[0].casefold() in agg_sentence:
+				dist = distance(agg_sentence.casefold(), tpl[0].casefold(), trin.casefold())
+				agg_sentence = agg_sentence.replace(tpl[0].casefold(), '', 1)
 			if dist <= min_distance:
 				min_distance = dist
 				best_term = tpl
