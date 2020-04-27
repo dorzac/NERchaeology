@@ -1,3 +1,6 @@
+"""
+Record class for storing associations between a site and its era.
+"""
 from dataclasses import dataclass, field
 from typing import List
 

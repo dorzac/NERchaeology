@@ -1,9 +1,8 @@
-"""REFACTOR"""
+"""refactor"""
 
 # TODO: Write custom sort for periodo terms that's safer than zipping
 # TODO: Use dates as a refinement mechanism
 # TODO: Weighing trinomials based on mentions
-# TODO: check out driver, seems to be a weird issue with it now
 
 import os
 import re
@@ -36,9 +35,28 @@ timeExclude = ["late", "early", "the past", "once", "falls", \
 				"present", "past", "current", "currently"]
 countycodes = re.compile("\s([A-Z]{2})[\s,\.,\,]")
 trinomial_regex = re.compile("41[a-zA-Z]{2}[0-9]{1,4}")
-bp_dates = re.compile("\d+ B\.?[P]\.?") #only BP
-#bp_dates = re.compile("\d+ B\.?[P,C]\.?") #inc. BC
+#bp_dates = re.compile("\d+ B\.?[P]\.?") #only BP
+bp_dates = re.compile("\d+ b\.?[p,c]\.?") #inc. BC
+cents = re.compile("(((beginning|middle|end|early|mid|late|[0-9a-z]*(st|nd|rd|th))[a-z ]*)?(([a-z]*(\-|\s))?[a-z]*)[0-9]{0,2}?(st|nd|rd|th)\s(century|millenia)(\s(b\.?c\.?e\.?|c\.?e\.?|b\.?c\.?|a\.?d\.?))?)")
+
 NEGATIVES = [" none ", " not ", " no "] #CONSIDER: 'yet to find'
+
+#Globals
+human_readable = False
+relevant_trinomials = []
+set_of_vals = []
+counties = []
+periodo = []
+
+SEARCH_SIZE = 3 # size 3 seems to be about optimal
+
+#Set up s.t. dictionary can translate county codes into names
+cnames = []
+ccodes = []
+for item in counties:
+	cnames.append(item[0])
+	ccodes.append(item[1])
+cmap = dict(zip(ccodes, cnames))
 
 
 def harvest():
@@ -86,20 +104,16 @@ def harvest():
 	return relevant_trinomials, counties, periodo
 
 
-#Once we find a trinomial, we call find_terms to look for useful neighboring
-#vocabulary terms that might be associated with it
-
-
-def find_terms(line, line_num, human_readable, found_list):
+def find_terms(line, line_num, found_list):
 	"""
-	Checks a line of text against the defined vocabularies.
-	Grabs everything relevant, nondiscretely.
 	@param line is the string of text which to parse
 	@param line_num is the line number, used for output and checking
 		   relationship between term location and site location
 	@param human_readable is a boolean used for output
 	@param found_list is a list of lists with entries of the form
 		   [term, line_num] (must remain mutable)
+	Checks a line of text against the defined vocabularies.
+	Grabs everything relevant, nondiscretely.
 	"""
 
 	#line = re.sub(r"\s+", ' ', line)
@@ -109,40 +123,41 @@ def find_terms(line, line_num, human_readable, found_list):
 			for negator in NEGATIVES:
 				if negator.casefold() in line:
 					return
-			if human_readable:
-				print("TERM " + str(term.upper()))
 			line = line.replace(term.casefold(), '')
 			found_list.append([term, line_num])
 
 
-def parse_content(human_readable, content):
-	#TODO: break this method down!
+def find_times(line, line_num, found_list):
+
+	#Look for BP dates (tend to get lost) w regex
+	bp_check = bp_dates.findall(line)
+	if bp_check is not None:
+			for item in bp_check:
+				found_list.append(item)
+
+	#cents = re.compile("\d+ b\.?[p,c]\.?") #inc. BC
+	century_check = cents.findall(line)
+	if century_check is not None:
+			for item in century_check:
+				found_list.append(century_check[0][0])
+
+
+def parse_content(content):
 	#TODO: Docstring
 
 	records = set()
 	for line_num in range(len(content)):
-
-		#Look for Trinomials
 		tris_in_line = trinomial_regex.findall(content[line_num])
 		if tris_in_line is None:
 			continue
 		for trinomial in tris_in_line:
-			if trinomial in RELEVANT_TRINOMIALS:
-				r = Record(site_name = trinomial)
+			if trinomial in relevant_trinomials:
+				r = Record(site_name = trinomial, site_name_line = line_num)
 
-				if human_readable:
-					print("***TRINOMIAL " + str(trinomial.upper()) + \
-					", line " + str(line_num))
+				sentences, local_trin_count = get_search_space(content, r)
+				possible_pairs = get_possible_pairs(sentences, r)
 
-				sentences, local_trin_count = get_search_space(line_num, content, trinomial)
 
-				possible_pairs = []
-				for sen_index in range(len(sentences)):
-					if trinomial in sentences[sen_index]:
-						r.site_name_line = sen_index
-					find_terms(
-							sentences[sen_index].casefold(),
-							sen_index, human_readable, possible_pairs)
 
 				#If there are other terms nearby, extract carefully
 				if local_trin_count > 1:
@@ -158,17 +173,51 @@ def parse_content(human_readable, content):
 					for pair in possible_pairs:
 						tmp = Record( \
 							site_name = r.site_name, \
-							site_name_line = r.site_name_line, \
+							site_name_line = line_num, \
 							period_term = pair[0], \
 							dates = r.dates)
 						records.add(tmp)
 
-				if human_readable:
-					print("\n")
+				r.site_name_line = line_num
 	return records
 
 
-def get_search_space(line_num, content, trinomial):
+def display_hr(records):
+	"""
+	@param records is an array of record objects.
+	Prints data to console
+	"""
+	print("======"+str(len(records))+" Records Stored======")
+	for record in records:
+		print("SITE:", record.site_name, "line", record.site_name_line)
+		print("PERIOD:", record.period_term)
+		if record.dates:
+			print("EXPLICIT DATES:", record.dates)
+		print("\n")
+
+
+def get_possible_pairs(sentences, rec):
+	"""
+	@param sentences is an array of sentences to scan for terma
+	@param rec is a record object for a single site
+	@return an array of pairings between site and term
+	"""
+	possible_pairs = []
+	for sen_index in range(len(sentences)):
+		if rec.site_name in sentences[sen_index]:
+			rec.site_name_line = sen_index
+
+		find_terms(
+				sentences[sen_index].casefold(),
+				sen_index, possible_pairs)
+
+		found_times = []
+		find_times(sentences[sen_index].casefold(), sen_index, found_times)
+	rec.dates = found_times
+	return possible_pairs
+
+
+def get_search_space(content, rec):
 	"""
 	@param line_num is the line number with regard to the document
 	@param content is a list of lines representing the document
@@ -182,11 +231,11 @@ def get_search_space(line_num, content, trinomial):
 	"""
 	search_space = ''
 	flag = False
-	for line in range(line_num - SEARCH_SIZE, 
-		line_num + SEARCH_SIZE + 1):
+	for line in range(rec.site_name_line - SEARCH_SIZE, 
+		rec.site_name_line + SEARCH_SIZE + 1):
 		if line >= 0 and line < len(content):
 			search_space += content[line]
-			if trinomial in content[line]:
+			if rec.site_name in content[line]:
 				flag = True
 			if content[line].strip() == "":
 				if not flag:
@@ -215,9 +264,9 @@ def write_record(f, r):
 	"""
 	f.write(r.site_name)
 	f.write("," + r.period_term)
-	index = PERIODO[1].index(r.period_term)
-	f.write("," + str(PERIODO[4][index])) #Write periodo[4], in time
-	f.write("," + str(PERIODO[5][index])) #Write periodo[5], out time
+	index = periodo[1].index(r.period_term)
+	f.write("," + str(periodo[4][index])) #Write periodo[4], in time
+	f.write("," + str(periodo[5][index])) #Write periodo[5], out time
 	f.write("\n")
 
 
@@ -391,46 +440,32 @@ def main():
 	"""
 	TODO: Docstring
 	"""
+	global human_readable
+	global relevant_trinomials
+	global counties
+	global periodo
+	global set_of_vals
 
 	input_file = str(sys.argv[1])
 	human_readable_input = str(sys.argv[2]).lower()
-	human_readable = False
+	#human_readable = False
 	if human_readable_input == 'y' or human_readable_input == 'yes':
 		human_readable = True
 
 	with codecs.open(input_file, "r", encoding="utf-8", errors="ignore") as f:
 		content = f.readlines()
 
-	records = parse_content(human_readable, content)
+	relevant_trinomials, counties, periodo = harvest()
+	set_of_vals = list(dict.fromkeys(periodo[1]))
+	records = parse_content(content)
 
 	o = open("out.csv", "a+")
 	for r in records:
 		write_record(o, r)
 	o.close()
 
-
-"""
-Setup
-"""
-
-
-#Harvest vocabs from files
-RELEVANT_TRINOMIALS, COUNTIES, PERIODO = harvest()
-#PERIODO.sort(key=lambda PERIODO:len(PERIODO[1]))
-#PERIODO = list(reversed(matches))
-
-SEARCH_SIZE = 3 # size 3 seems to be about optimal
-
-#set_of_vals = set(periodo[1] + periodo[4] + periodo[5])
-set_of_vals = list(dict.fromkeys(PERIODO[1]))
-
-#Set up s.t. dictionary can translate county codes into names
-cnames = []
-ccodes = []
-for item in COUNTIES:
-	cnames.append(item[0])
-	ccodes.append(item[1])
-cmap = dict(zip(ccodes, cnames))
+	if human_readable:
+		display_hr(records)
 
 main()
 
