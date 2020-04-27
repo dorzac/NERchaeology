@@ -169,6 +169,17 @@ def parse_content(human_readable, content):
 
 
 def get_search_space(line_num, content, trinomial):
+	"""
+	@param line_num is the line number with regard to the document
+	@param content is a list of lines representing the document
+	@param trinomial is the trinomial the search space is being built around.
+	@return a tuple of the form (list of sentences, number of trinomials in
+			those sentences.
+	Loops over lines surrounding the trinomial in question and appends those
+	lines to a string, ignoring lines that are a line-break away from the
+	trinomial (i.e., in a different paragraph.) After developing the search
+	space, it is tokenized into sentences.
+	"""
 	search_space = ''
 	flag = False
 	for line in range(line_num - SEARCH_SIZE, 
