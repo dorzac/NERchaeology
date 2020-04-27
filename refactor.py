@@ -36,8 +36,9 @@ timeExclude = ["late", "early", "the past", "once", "falls", \
 countycodes = re.compile("\s([A-Z]{2})[\s,\.,\,]")
 trinomial_regex = re.compile("41[a-zA-Z]{2}[0-9]{1,4}")
 #bp_dates = re.compile("\d+ B\.?[P]\.?") #only BP
-bp_dates = re.compile("\d+ b\.?[p,c]\.?") #inc. BC
-cents = re.compile("(((beginning|middle|end|early|mid|late|[0-9a-z]*(st|nd|rd|th))[a-z ]*)?(([a-z]*(\-|\s))?[a-z]*)[0-9]{0,2}?(st|nd|rd|th)\s(century|millenia)(\s(b\.?c\.?e\.?|c\.?e\.?|b\.?c\.?|a\.?d\.?))?)")
+bp_dates = re.compile("\d+(\s?b\.?[p,c]\.?)?\s?(.|to|and)?\s?\d+\s?(b\.?[p,c]\.?)")
+
+cents = re.compile("(((beginning|middle|end|early|mid|late|[0-9a-z]*(st|[^a]nd|rd|th)\s)[a-z ]*)?(([a-z]*(\-|\s))?[a-z]*)[0-9]{0,2}?(st|nd|rd|th)\s(century|millenia)(\s(b\.?c\.?e\.?|c\.?e\.?|b\.?c\.?|a\.?d\.?))?)")
 
 NEGATIVES = [" none ", " not ", " no "] #CONSIDER: 'yet to find'
 
@@ -133,13 +134,12 @@ def find_times(line, line_num, found_list):
 	bp_check = bp_dates.findall(line)
 	if bp_check is not None:
 			for item in bp_check:
-				found_list.append(item)
+				found_list.append(item[0])
 
-	#cents = re.compile("\d+ b\.?[p,c]\.?") #inc. BC
 	century_check = cents.findall(line)
 	if century_check is not None:
 			for item in century_check:
-				found_list.append(century_check[0][0])
+				found_list.append(item[0])
 
 
 def parse_content(content):
@@ -454,6 +454,12 @@ def main():
 
 	with codecs.open(input_file, "r", encoding="utf-8", errors="ignore") as f:
 		content = f.readlines()
+	l = []
+	for line in content:
+		find_times(line, 0, l)
+	print("Found in this document:")
+	print(l)
+	print("\n")
 
 	relevant_trinomials, counties, periodo = harvest()
 	set_of_vals = list(dict.fromkeys(periodo[1]))
