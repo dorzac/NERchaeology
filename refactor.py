@@ -1,8 +1,14 @@
-"""refactor"""
-
+"""High Priority"""
+# TODO: Weighing trinomials based on mentions
+# TODO: skos:CloseMatch periodO URI title
+# TODO: four date columns
+# TODO: Handle prehistoric case
+# TODO: Handle Toyah issue where we compare the dates
+"""Low Priority"""
 # TODO: Write custom sort for periodo terms that's safer than zipping
 # TODO: Use dates as a refinement mechanism
-# TODO: Weighing trinomials based on mentions
+# TODO: Instead of looking for TRI + TERM + DATE, look for TRI + TERM 
+#		and TRI + DATE separately
 
 import os
 import re
@@ -44,6 +50,7 @@ NEGATIVES = [" none ", " not ", " no "] #CONSIDER: 'yet to find'
 
 #Globals
 human_readable = False
+input_file = ""
 relevant_trinomials = []
 set_of_vals = []
 counties = []
@@ -97,8 +104,9 @@ def harvest():
 
 	# TODO: This only sorts 3 columns in parallel. Maybe write
 	# custom sort to clean this up
-	periodo[1], periodo[4], periodo[5] = (list(t) for t in zip(*sorted( \
-		zip(periodo[1], periodo[4], periodo[5]), \
+	periodo[0], periodo[1], periodo[4], periodo[5] = \
+		(list(t) for t in zip(*sorted( \
+		zip(periodo[0], periodo[1], periodo[4], periodo[5]), \
 		key=lambda l1:len(l1[0]), reverse=True)))
 
 
@@ -145,6 +153,7 @@ def find_times(line, line_num, found_list):
 def parse_content(content):
 	#TODO: Docstring
 
+	freqs = {}
 	records = set()
 	for line_num in range(len(content)):
 		tris_in_line = trinomial_regex.findall(content[line_num])
@@ -152,6 +161,10 @@ def parse_content(content):
 			continue
 		for trinomial in tris_in_line:
 			if trinomial in relevant_trinomials:
+				if trinomial in freqs:
+					freqs[trinomial] = freqs[trinomial] + 1
+				else:
+					freqs[trinomial] = 1
 				r = Record(site_name = trinomial, site_name_line = line_num)
 
 				sentences, local_trin_count = get_search_space(content, r)
@@ -179,7 +192,23 @@ def parse_content(content):
 						records.add(tmp)
 
 				r.site_name_line = line_num
+
+	implement_freqs(freqs, records)
 	return records
+
+
+def implement_freqs(freqs, records):
+	"""
+	@param freqs is a dictionary mapping a trinomial to its in
+		   document frequency
+	@param records is a set of record objects
+	Calculates the frenquency as a percentage of a trinomial in a doc
+	"""	
+	total = 0
+	for e in freqs:
+		total += freqs[e]
+	for record in records:
+		record.freq = round(freqs[record.site_name] / total, 3)
 
 
 def display_hr(records):
@@ -267,6 +296,9 @@ def write_record(f, r):
 	index = periodo[1].index(r.period_term)
 	f.write("," + str(periodo[4][index])) #Write periodo[4], in time
 	f.write("," + str(periodo[5][index])) #Write periodo[5], out time
+	f.write("," + str(periodo[0][index])) #Write periodo[0], URI
+	f.write("," + str(r.freq))
+	f.write("," + input_file) #Write filename
 	f.write("\n")
 
 
@@ -445,6 +477,7 @@ def main():
 	global counties
 	global periodo
 	global set_of_vals
+	global input_file
 
 	input_file = str(sys.argv[1])
 	human_readable_input = str(sys.argv[2]).lower()
@@ -454,6 +487,7 @@ def main():
 
 	with codecs.open(input_file, "r", encoding="utf-8", errors="ignore") as f:
 		content = f.readlines()
+	input_file = os.path.basename(input_file)
 	l = []
 	for line in content:
 		find_times(line, 0, l)

@@ -71,10 +71,10 @@ do
 done
 echo "*** Finished parsing"
 
-python3 csv_cleanup.py out.csv temp.csv
-mv temp.csv out.csv
-sort out.csv -o out.csv
-sed -i '1s/^/period,dcterms:coverage_temporal,xsd:gDate_start,xsd:gDate_end\n/' out.csv
+#python3 csv_cleanup.py out.csv temp.csv
+#mv temp.csv out.csv
+#sort out.csv -o out.csv
+sed -i '1s/^/period,dcterms:coverage_temporal,xsd:gDate_start,xsd:gDate_end,skos:CloseMatch,significance,source_name\n/' out.csv
 
 #close container
 #docker rm -f stanfordcorenlp
