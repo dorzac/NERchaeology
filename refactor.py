@@ -1,14 +1,14 @@
 """High Priority"""
-# TODO: Weighing trinomials based on mentions
-# TODO: skos:CloseMatch periodO URI title
 # TODO: four date columns
-# TODO: Handle prehistoric case
+# TODO: Handle prehistoric case >> Rough fix, use umbrella bag
 # TODO: Handle Toyah issue where we compare the dates
 """Low Priority"""
 # TODO: Write custom sort for periodo terms that's safer than zipping
 # TODO: Use dates as a refinement mechanism
 # TODO: Instead of looking for TRI + TERM + DATE, look for TRI + TERM 
 #		and TRI + DATE separately
+
+# TODO: Only add the periodo csvs UP TO the current year!!!
 
 import os
 import re
@@ -17,6 +17,7 @@ import sys
 import glob
 import json
 import codecs
+import datetime
 from nltk import tokenize
 from operator import itemgetter
 from subprocess import check_output
@@ -43,7 +44,7 @@ countycodes = re.compile("\s([A-Z]{2})[\s,\.,\,]")
 trinomial_regex = re.compile("41[a-zA-Z]{2}[0-9]{1,4}")
 #bp_dates = re.compile("\d+ B\.?[P]\.?") #only BP
 bp_dates = re.compile("\d+(\s?b\.?[p,c]\.?)?\s?(.|to|and)?\s?\d+\s?(b\.?[p,c]\.?)")
-
+pub_date = re.compile("((19|20)[0-9]{2})")		
 cents = re.compile("(((beginning|middle|end|early|mid|late|[0-9a-z]*(st|[^a]nd|rd|th)\s)[a-z ]*)?(([a-z]*(\-|\s))?[a-z]*)[0-9]{0,2}?(st|nd|rd|th)\s(century|millenia)(\s(b\.?c\.?e\.?|c\.?e\.?|b\.?c\.?|a\.?d\.?))?)")
 
 NEGATIVES = [" none ", " not ", " no "] #CONSIDER: 'yet to find'
@@ -51,6 +52,7 @@ NEGATIVES = [" none ", " not ", " no "] #CONSIDER: 'yet to find'
 #Globals
 human_readable = False
 input_file = ""
+date = 0
 relevant_trinomials = []
 set_of_vals = []
 counties = []
@@ -102,12 +104,26 @@ def harvest():
 					if data[row][column] is not '':
 						periodo[column].append(data[row][column])
 
-	# TODO: This only sorts 3 columns in parallel. Maybe write
-	# custom sort to clean this up
-	periodo[0], periodo[1], periodo[4], periodo[5] = \
+	periodo[0], periodo[1], periodo[4], periodo[5], periodo[8] = \
 		(list(t) for t in zip(*sorted( \
-		zip(periodo[0], periodo[1], periodo[4], periodo[5]), \
-		key=lambda l1:len(l1[0]), reverse=True)))
+		zip(periodo[0], periodo[1], periodo[4], periodo[5], periodo[8]), \
+		key=lambda l1:l1[1])))
+	print("NAGA START")
+	for e in range(len(periodo[1])):
+		print(periodo[1][e], periodo[4][e], periodo[5][e], periodo[8][e])
+	print("NAGA END")
+
+	# TODO: This only sorts 5 columns in parallel. Maybe write
+	# custom sort to clean this up
+	periodo[0], periodo[1], periodo[4], periodo[5], periodo[8] = \
+		(list(t) for t in zip(*sorted( \
+		zip(periodo[0], periodo[1], periodo[4], periodo[5], periodo[8]), \
+		key=lambda l1:len(l1[1]), reverse=True)))
+
+	print("NAGA START")
+	for e in range(len(periodo[1])):
+		print(periodo[1][e], periodo[4][e], periodo[5][e], periodo[8][e])
+	print("NAGA END")
 
 
 	return relevant_trinomials, counties, periodo
@@ -124,7 +140,7 @@ def find_terms(line, line_num, found_list):
 	Checks a line of text against the defined vocabularies.
 	Grabs everything relevant, nondiscretely.
 	"""
-
+	#TODO: If we find a term, compare pub date with periodo[8]
 	#line = re.sub(r"\s+", ' ', line)
 	terms = list(dict.fromkeys(set_of_vals))
 	for term in terms:
@@ -133,8 +149,19 @@ def find_terms(line, line_num, found_list):
 				if negator.casefold() in line:
 					return
 			line = line.replace(term.casefold(), '')
+			term = verify_term(term)
+			print(term)
 			found_list.append([term, line_num])
 
+def verify_term(term):
+	print(term)
+	if term == 'Toyah' or term == 'Toyah Phase':
+		print("NAGATORO BABY AY AY AY")
+		if date > 1982:
+			return 'Toyah'
+		else:
+			return 'Toyah Phase'
+	return term
 
 def find_times(line, line_num, found_list):
 
@@ -195,6 +222,20 @@ def parse_content(content):
 
 	implement_freqs(freqs, records)
 	return records
+
+
+def get_date(content):
+	now = datetime.datetime.now()
+	dates = pub_date.findall(input_file)
+	if dates:
+		return int(dates[0][0])
+	for i in range(len(content)):
+		if i > 20:
+			break
+		dates = pub_date.findall(content[i])
+		if dates:
+			return int(dates[0][0])
+	return int(now.year)
 
 
 def implement_freqs(freqs, records):
@@ -478,6 +519,7 @@ def main():
 	global periodo
 	global set_of_vals
 	global input_file
+	global date
 
 	input_file = str(sys.argv[1])
 	human_readable_input = str(sys.argv[2]).lower()
@@ -485,9 +527,13 @@ def main():
 	if human_readable_input == 'y' or human_readable_input == 'yes':
 		human_readable = True
 
-	with codecs.open(input_file, "r", encoding="utf-8", errors="ignore") as f:
+	with codecs.open(input_file, "r", encoding="utf-8", \
+			errors="ignore") as f:
 		content = f.readlines()
+
 	input_file = os.path.basename(input_file)
+	date = get_date(content)
+
 	l = []
 	for line in content:
 		find_times(line, 0, l)
