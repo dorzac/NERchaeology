@@ -8,8 +8,6 @@
 # TODO: Instead of looking for TRI + TERM + DATE, look for TRI + TERM 
 #		and TRI + DATE separately
 
-# TODO: Only add the periodo csvs UP TO the current year!!!
-
 import os
 import re
 import csv
@@ -68,6 +66,11 @@ for item in counties:
 	ccodes.append(item[1])
 cmap = dict(zip(ccodes, cnames))
 
+#NOTE: Based on date choose name vs name Phase
+#NOTE: For these, only include the latest one before pub date
+interchangeable_terms = ['Archaic', 'Historic', 'Early Archaic',\
+		'Late Archaic', 'Late Paleoindian', 'Late Prehistoric', \
+		'Middle Archaic', 'Paleoindian',]
 
 def harvest():
 	"""
@@ -96,6 +99,11 @@ def harvest():
 		with open(filename, newline='') as f:
 			reader = csv.reader(f)
 			data = list(reader)
+
+			if int(data[1][8]) >= date:
+				print("Not including", filename)
+				continue
+			print("Including",filename)
 
 			#Transpose columns and rows of the CSV,
 			#ignoring the labels, for convenience
@@ -142,26 +150,15 @@ def find_terms(line, line_num, found_list):
 	"""
 	#TODO: If we find a term, compare pub date with periodo[8]
 	#line = re.sub(r"\s+", ' ', line)
-	terms = list(dict.fromkeys(set_of_vals))
+	terms = set_of_vals
 	for term in terms:
 		if term.casefold() in line:
 			for negator in NEGATIVES:
 				if negator.casefold() in line:
 					return
 			line = line.replace(term.casefold(), '')
-			term = verify_term(term)
-			print(term)
 			found_list.append([term, line_num])
 
-def verify_term(term):
-	print(term)
-	if term == 'Toyah' or term == 'Toyah Phase':
-		print("NAGATORO BABY AY AY AY")
-		if date > 1982:
-			return 'Toyah'
-		else:
-			return 'Toyah Phase'
-	return term
 
 def find_times(line, line_num, found_list):
 
@@ -532,7 +529,7 @@ def main():
 		content = f.readlines()
 
 	input_file = os.path.basename(input_file)
-	date = get_date(content)
+	date = max(1981, get_date(content))
 
 	l = []
 	for line in content:
@@ -542,7 +539,7 @@ def main():
 	print("\n")
 
 	relevant_trinomials, counties, periodo = harvest()
-	set_of_vals = list(dict.fromkeys(periodo[1]))
+	set_of_vals = periodo[1]
 	records = parse_content(content)
 
 	o = open("out.csv", "a+")
