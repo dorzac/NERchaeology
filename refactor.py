@@ -1,7 +1,6 @@
 """High Priority"""
-# TODO: four date columns
-# TODO: Handle prehistoric case >> Rough fix, use umbrella bag
-# TODO: Handle Toyah issue where we compare the dates
+# TODO: 'Where a periodO def only has 1 date for start or end or both, 
+#		 leave latestStart and earliestEnd blank.'
 """Low Priority"""
 # TODO: Write custom sort for periodo terms that's safer than zipping
 # TODO: Use dates as a refinement mechanism
@@ -66,9 +65,7 @@ for item in counties:
 	ccodes.append(item[1])
 cmap = dict(zip(ccodes, cnames))
 
-#NOTE: Based on date choose name vs name Phase
-#NOTE: For these, only include the latest one before pub date
-interchangeable_terms = ['Archaic', 'Historic', 'Early Archaic',\
+multi_terms = ['Archaic', 'Historic', 'Early Archaic',\
 		'Late Archaic', 'Late Paleoindian', 'Late Prehistoric', \
 		'Middle Archaic', 'Paleoindian',]
 
@@ -94,7 +91,7 @@ def harvest():
 
 	#get periodo vocabs from all periodo csvs
 	periodo = []
-	periodo.extend([[] for col in range(9)])
+	periodo.extend([[] for col in range(12)])
 	for filename in glob.glob('vocabularies/periodo*'):
 		if filename == 'vocabularies/periodo-non-phases.csv':
 			if date < 1983:
@@ -115,12 +112,15 @@ def harvest():
 			#ignoring the labels, for convenience
 			for row in range(1, len(data)):
 				for column in range(len(data[row])):
-					if data[row][column] is not '':
-						periodo[column].append(data[row][column])
+					#if data[row][column] is not '':
+					print(filename)
+					print(row,column)
+					periodo[column].append(data[row][column])
 
-	periodo[0], periodo[1], periodo[4], periodo[5], periodo[8] = \
+	periodo[0], periodo[1], periodo[4], periodo[5], periodo[8], periodo[10], periodo[11] = \
 		(list(t) for t in zip(*sorted( \
-		zip(periodo[0], periodo[1], periodo[4], periodo[5], periodo[8]), \
+		zip(periodo[0], periodo[1], periodo[4], periodo[5], periodo[8], \
+		periodo[10], periodo[11]), \
 		key=lambda l1:l1[1])))
 	"""
 	print("NAGA START")
@@ -131,9 +131,11 @@ def harvest():
 
 	# TODO: This only sorts 5 columns in parallel. Maybe write
 	# custom sort to clean this up
-	periodo[0], periodo[1], periodo[4], periodo[5], periodo[8] = \
+	periodo[0], periodo[1], periodo[4], periodo[5], periodo[8], \
+		periodo[10], periodo[11] = \
 		(list(t) for t in zip(*sorted( \
-		zip(periodo[0], periodo[1], periodo[4], periodo[5], periodo[8]), \
+		zip(periodo[0], periodo[1], periodo[4], periodo[5], periodo[8], \
+		periodo[10], periodo[11]), \
 		key=lambda l1:len(l1[1]), reverse=True)))
 
 	"""
@@ -203,8 +205,6 @@ def parse_content(content):
 
 				sentences, local_trin_count = get_search_space(content, r)
 				possible_pairs = get_possible_pairs(sentences, r)
-
-
 
 				#If there are other terms nearby, extract carefully
 				if local_trin_count > 1:
@@ -342,12 +342,48 @@ def write_record(f, r):
 	f.write(r.site_name)
 	f.write("," + r.period_term)
 	index = periodo[1].index(r.period_term)
-	f.write("," + str(periodo[4][index])) #Write periodo[4], in time
-	f.write("," + str(periodo[5][index])) #Write periodo[5], out time
+	late_start, early_end, early_start, late_end = fix_dates(r, index)
+	f.write("," + str(early_start))
+	f.write("," + str(late_start))
+	f.write("," + str(early_end))
+	f.write("," + str(late_end))
 	f.write("," + str(periodo[0][index])) #Write periodo[0], URI
 	f.write("," + str(r.freq))
 	f.write("," + input_file) #Write filename
 	f.write("\n")
+
+
+def fix_dates(r, index):
+	"""
+	@param r is the record object the date is being retrieved for
+	@param index is the first index found for the period term in the set
+	@return a tuple containing a min date and max date
+	Basically, if a term shows up in the periodo data more than once, then
+	choose the one with the most recent publication date before the date
+	of publication from the source document.
+	"""
+	only_two = True
+	if r.period_term not in multi_terms:
+		if only_two and not (periodo[10][index] and periodo[11][index]):
+			return periodo[4][index], periodo[5][index], '', ''
+		return periodo[4][index], periodo[5][index], \
+			periodo[10][index], periodo[11][index]
+	matches = []
+	for i in range(len(periodo[1])):
+		if periodo[1][i] == r.period_term:
+			matches.append((i, int(periodo[8][i])))
+	best_index = 0;
+	best_pubtime = 0;
+	for e in matches:
+		if e[1] > best_pubtime and e[1] <= date:
+			best_index = e[0]
+			best_pubtime = e[1]
+	if only_two and not \
+		(periodo[10][best_index] and periodo[11][best_index]):
+		return periodo[4][best_index], periodo[5][best_index], '', ''
+	return periodo[4][best_index], periodo[5][best_index], \
+		periodo[10][best_index], periodo[11][best_index]
+	
 
 
 def get_optimal_term(matches, key_index, sentences, trin):
