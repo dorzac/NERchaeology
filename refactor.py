@@ -96,14 +96,20 @@ def harvest():
 	periodo = []
 	periodo.extend([[] for col in range(9)])
 	for filename in glob.glob('vocabularies/periodo*'):
+		if filename == 'vocabularies/periodo-non-phases.csv':
+			if date < 1983:
+				continue
+		if filename == 'vocabularies/periodo-phases.csv':
+			if date >= 1983:
+				continue
 		with open(filename, newline='') as f:
 			reader = csv.reader(f)
 			data = list(reader)
 
-			if int(data[1][8]) >= date:
-				print("Not including", filename)
-				continue
-			print("Including",filename)
+			if filename == 'vocabularies/periodo-phases.csv':
+				for row in range(1, len(data)):
+					if data[row][1] is not '':
+						data[row][1] = data[row][1].split('Phase',1)[0]
 
 			#Transpose columns and rows of the CSV,
 			#ignoring the labels, for convenience
@@ -116,10 +122,12 @@ def harvest():
 		(list(t) for t in zip(*sorted( \
 		zip(periodo[0], periodo[1], periodo[4], periodo[5], periodo[8]), \
 		key=lambda l1:l1[1])))
+	"""
 	print("NAGA START")
 	for e in range(len(periodo[1])):
 		print(periodo[1][e], periodo[4][e], periodo[5][e], periodo[8][e])
 	print("NAGA END")
+	"""
 
 	# TODO: This only sorts 5 columns in parallel. Maybe write
 	# custom sort to clean this up
@@ -128,10 +136,12 @@ def harvest():
 		zip(periodo[0], periodo[1], periodo[4], periodo[5], periodo[8]), \
 		key=lambda l1:len(l1[1]), reverse=True)))
 
+	"""
 	print("NAGA START")
 	for e in range(len(periodo[1])):
 		print(periodo[1][e], periodo[4][e], periodo[5][e], periodo[8][e])
 	print("NAGA END")
+	"""
 
 
 	return relevant_trinomials, counties, periodo
