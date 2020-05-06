@@ -1,5 +1,5 @@
 # NERchaeology
-<b>Dependencies:<b>  python3.7, nltk, abiword
+<b>Dependencies:</b>  python3.7, nltk, abiword
 
 Running script.sh should handle everything. Make sure it has relevant permissions, as it needs to execute and write. 
 
