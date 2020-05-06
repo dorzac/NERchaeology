@@ -6,6 +6,8 @@
 # TODO: Use dates as a refinement mechanism
 # TODO: Instead of looking for TRI + TERM + DATE, look for TRI + TERM 
 #		and TRI + DATE separately
+# TODO: Make variables like multi_terms more general, have a method to 
+#		find these.
 
 import os
 import re

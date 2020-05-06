@@ -1,20 +1,43 @@
-** Dependencies: python3.7, Docker, Linux (at least a subsystem)
+** Dependencies: python3.7, nltk, abiword
 
 Running script.sh should handle everything. Make sure it has relevant permissions, as it needs to execute and write. 
-script.sh must also be run as root, since opening and closing the docker container modifies system state. Therefore in terminal, run
-```
-chmod +x script.sh #gives the script executable permission
-sudo ./script.sh #runs script as root
-```
 
 
 /** Background info **/
-script.sh first reads in the files in the pdf directory, which ideally should be symbollically linked to the location where all files are stored (due to the difficulty of interfacing directly to the Windows fileshare on Linux, this is probably on a ssd or something.) The script will proceed to read OCR-ed PDFs and convert them into simple ASCII text files, which will be placed in the /temp_ascii directory with a .txt extension. This completes the preprocessing.
 
-Now for the NER aspect.
-The most helpful library here is going to be Stanford's NER program, but the entire library is so bulky and difficult to wrap that the simplest solution I could come up with is through docker. Stanford's CoreNLP package is launched in a docker container and laced to port 9000, and all requests are handled this way. By doing this, one avoids the local libraries and can simply use Python to web handling to interface directly.
-The script's biggest job is calling the driver.py program on every file in the /temp_ascii directory and dumping output into the /temp_output directory. The driver program will read in the ascii file line by line, call Stanford's NER methods on it to look for relevant artifacts, and then also manually parse the line for other mandated vocabulary (Smithsonian trinomials, etc) usually with regular expressions but also by running against predefined vocabulary lists, located in the /vocabularies dir. 
+Current configuration is organized to convert pdfs to plaintext if there 
+is already an /ascii directory present to save time, but this will likely 
+be modified later to check explicitly for pdfs that haven't been 
+converted. I was originally converting everything using the \*NIX utility
+`pdftotext`, but I found that couldn't handle pdfs with multiple columns.
+I found that the program `abiword` handles this nicely, albeit at the cost
+of the plaintext file's readability to an extent. However, this doesn't
+interrupt the parsing. 
+
+I was using a Docker container that interfaced against Stanford's Core
+NLP suite, but I found that it was far too slow and doing too much for
+what was necessary, so I rewrote the useful tools myself. This is when
+the driver script is called (it is important that it is called with 
+Python 3.7 or later, due to library issues).
+
+The driver script grabs all the periodo data it thinks will be useful for
+the given file, then searches line by line for trinomials. When it finds
+a trinomial, it tries to pick out which nearby period terms are relevant
+in association with it. After parsing the whole file, it will write the
+relevant data found to `out.csv`, and then dump a lot of human readable
+data into an /output directory. 
+
+I had high hopes to do a lot of my tokenization purely in regular
+expressions, but I started coming up against cases in which the pdf to 
+text conversion hurt the grammatical formatting on a lot of phrases, which
+confused my regex. This is why I'm using Python's nltk library, as it 
+handles the job excellently. The drawback is speed-- it slows the program
+down a hundredfold, so it might be prudent to return to the regex solution
+once everything else is good to go.
 
 
 /** Misc **/
+
+The /vocabularies directory currently holds all useful csvs to be handled. All periodo csvs should begin with `periodo` in their filename to be considered. 
+
 The /misc_scripts directory contains various programs that were used in preprocessing to manage and manipulate data that were useful for preparing information but are not actively needed.

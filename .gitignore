@@ -4,9 +4,13 @@
 /pdfs
 /periodo
 /__pycache__
+/json
+/periodo
 plan.txt
 spec.txt
 discuss.txt
 wget-log
+driver.py
 *.swp
 *.swo
+*.pyc
