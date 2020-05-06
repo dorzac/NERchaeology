@@ -1,9 +1,10 @@
-** Dependencies: python3.7, nltk, abiword
+# NERchaeology
+<b>Dependencies:<b>  python3.7, nltk, abiword
 
 Running script.sh should handle everything. Make sure it has relevant permissions, as it needs to execute and write. 
 
 
-/** Background info **/
+## /** Background info **/
 
 Current configuration is organized to convert pdfs to plaintext if there 
 is already an /ascii directory present to save time, but this will likely 
@@ -36,7 +37,7 @@ down a hundredfold, so it might be prudent to return to the regex solution
 once everything else is good to go.
 
 
-/** Misc **/
+## /** Misc **/
 
 The /vocabularies directory currently holds all useful csvs to be handled. All periodo csvs should begin with `periodo` in their filename to be considered. 
 
