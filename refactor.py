@@ -345,6 +345,7 @@ def write_record(f, r):
 	f.write("," + r.period_term)
 	index = periodo[1].index(r.period_term)
 	late_start, early_end, early_start, late_end = fix_dates(r, index)
+	print(late_start, late_end, early_start, early_end)
 	f.write("," + str(early_start))
 	f.write("," + str(late_start))
 	f.write("," + str(early_end))
@@ -364,7 +365,7 @@ def fix_dates(r, index):
 	choose the one with the most recent publication date before the date
 	of publication from the source document.
 	"""
-	only_two = True
+	only_two = False
 	if r.period_term not in multi_terms:
 		if only_two and not (periodo[10][index] and periodo[11][index]):
 			return periodo[4][index], periodo[5][index], '', ''
