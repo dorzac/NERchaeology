@@ -345,8 +345,8 @@ def write_record(f, r):
 	f.write("," + str(late_end))
 	f.write("," + str(periodo[0][index])) #Write URI
 	f.write("," + str(r.freq))
-	f.write("," + input_file) #Write filename
-	f.write("\n")
+	f.write(",\"" + input_file) #Write filename
+	f.write("\"\n")
 
 
 def fix_dates(r, index):
