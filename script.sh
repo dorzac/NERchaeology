@@ -95,9 +95,11 @@ sed -i '1s/^/period,dcterms:coverage_temporal,xsd:gDate_earliestStart,xsd:gDate_
 #Set permissions so all users can access (hack to fix root creation)
 if [[ -d "./output" ]]
 then
+	touch ./output/deleted.txt
 	find ./output -size 0 -print -delete > ./output/deleted.txt
 	find ./output/ -type f -exec chmod 777 {} \;
 fi
+touch ./ascii/deleted.txt
 find ./ascii -size 0 -print -delete > ./ascii/deleted.txt
 find ./ascii/ -type f -exec chmod 777 {} \;
 

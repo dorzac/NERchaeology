@@ -138,6 +138,8 @@ def find_terms(line, line_num, found_list):
 			for negator in NEGATIVES:
 				if negator.casefold() in line:
 					return
+			if term.casefold() == 'austin'.casefold() and 'texas'.casefold() in line:
+				continue
 			line = line.replace(term.casefold(), '')
 			found_list.append([term, line_num])
 
