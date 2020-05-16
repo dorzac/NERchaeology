@@ -134,12 +134,10 @@ def find_terms(line, line_num, found_list):
 	"""
 
 	for term in periodo[1]:
-		print(term)
 		if term.casefold() in line:
 			for negator in NEGATIVES:
 				if negator.casefold() in line:
 					return
-			print(line)
 			line = line.replace(term.casefold(), '')
 			found_list.append([term, line_num])
 
@@ -260,6 +258,8 @@ def display_hr(records):
 	@param records is an array of record objects.
 	Prints data to console
 	"""
+	if not len(records):
+		return
 	print("======"+str(len(records))+" Records Stored======")
 	for record in records:
 		print("SITE:", record.site_name, "line", record.site_name_line)

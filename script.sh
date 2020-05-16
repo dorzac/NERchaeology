@@ -11,11 +11,24 @@ fi
 
 
 #set up structures
+regen=true
 if [[ -d "./ascii" ]]
 then
+	regen=false
 	#rm -r ./ascii
-	echo "Using ascii files present"
-else
+	echo "Ascii files already present."
+	echo "Do you want to regenerate? This may take some time."
+	read -p "Enter y/n: " -n 1 -r $REPLY
+	echo
+	if [[ $REPLY =~ ^[Yy]$ ]]
+	then
+		regen=true
+		rm -r ./ascii
+	fi
+fi
+
+if [[ regen ]]
+then
 #Convert all pdfs to ascii text
 	mkdir ./ascii
 	chmod 777 ascii
@@ -29,7 +42,6 @@ else
 
 	done
 echo "*** Finished Conversions"
-
 fi
 
 if [[ -d "./output" ]]
