@@ -1,3 +1,4 @@
+# Switched tokenization from lines to sentences
 """High Priority"""
 """Low Priority"""
 # TODO: Write custom sort for periodo terms that's safer than zipping
@@ -30,7 +31,7 @@ cents = re.compile("(((beginning|middle|end|early|mid|late|[0-9a-z]*(st|[^a]nd|r
 		"\s)[a-z ]*)?(([a-z]*(\-|\s))?[a-z]*)[0-9]{0,2}?(st|nd|rd|th)\s(century|millenia)" +
 		"(\s(b\.?c\.?e\.?|c\.?e\.?|b\.?c\.?|a\.?d\.?))?)")
 NEGATIVES = [" none ", " not ", " no "] 
-SEARCH_SIZE = 3 # size 3 seems to be about optimal
+SEARCH_SIZE = 2 # size 1 seems to be about optimal for sentence based parsing
 
 #Globals
 human_readable = False
@@ -131,17 +132,21 @@ def find_terms(line, line_num, found_list):
 		   [term, line_num] (must remain mutable)
 	Checks a line of text against the defined vocabularies.
 	Grabs everything relevant, nondiscretely.
+	If there's a negator in the line, we avoid it to be safe.
 	"""
 
+	print("$$",line)
 	for term in periodo[1]:
 		if term.casefold() in line:
 			for negator in NEGATIVES:
 				if negator.casefold() in line:
 					return
-			if term.casefold() == 'austin'.casefold() and 'texas'.casefold() in line:
+			if term.casefold() == 'austin'.casefold() and ('texas'.casefold() in line \
+					or 'tx'.casefold() in line):
 				continue
 			line = line.replace(term.casefold(), '')
 			found_list.append([term, line_num])
+			print("***found",term)
 
 
 def find_times(line, line_num, found_list):
@@ -186,6 +191,7 @@ def parse_content(content):
 			continue
 		for trinomial in tris_in_line:
 			if trinomial in relevant_trinomials:
+				#DEBUG
 				if trinomial in freqs:
 					freqs[trinomial] = freqs[trinomial] + 1
 				else:
@@ -273,11 +279,12 @@ def display_hr(records):
 
 def get_possible_pairs(sentences, rec):
 	"""
-	@param sentences is an array of sentences to scan for terma
+	@param sentences is an array of sentences to scan for terms
 	@param rec is a record object for a single site
 	@return an array of pairings between site and term
 	"""
 	possible_pairs = []
+	print("\nSITE",rec.site_name)
 	for sen_index in range(len(sentences)):
 		if rec.site_name in sentences[sen_index]:
 			rec.site_name_line = sen_index
@@ -306,19 +313,18 @@ def get_search_space(content, rec):
 	"""
 	search_space = ''
 	flag = False
-	for line in range(rec.site_name_line - SEARCH_SIZE, 
-		rec.site_name_line + SEARCH_SIZE + 1):
+	for line in range(rec.site_name_line - 1, 
+			rec.site_name_line + SEARCH_SIZE + 1):
 		if line >= 0 and line < len(content):
-			search_space += content[line]
+			tris_in_line = TRINOMIAL_REGEX.findall(content[line])
+			if not tris_in_line: 
+				search_space += content[line] + ' '
+			elif rec.site_name.casefold() in tris_in_line:
+				search_space += content[line] + ' ' 
+			elif line == rec.site_name_line:
+				search_space += content[line] + ' ' 
 			if rec.site_name in content[line]:
 				flag = True
-			"""
-			if content[line].strip() == "":
-				if not flag:
-					search_space = ""
-				else:
-					break
-			"""
 
 	search_space = re.sub(r"\s+", ' ', search_space)
 	local_trin_count = len(set(TRINOMIAL_REGEX.findall(search_space)))
@@ -412,6 +418,7 @@ def get_optimal_term(matches, key_index, sentences, trin):
 		matches = result
 		best_term = matches[0]
 		
+		
 	#Within the nearest sentences, figure out which one is closest
 	if len(matches) > 1:
 		agg_sentence = ""
@@ -434,9 +441,9 @@ def get_optimal_term(matches, key_index, sentences, trin):
 		best_term = None
 		dist = 1000
 		for tpl in matches:
-			while tpl[0].casefold() in agg_sentence:
+			while tpl[0].casefold() in agg_sentence.casefold():
 				dist = distance(agg_sentence.casefold(), tpl[0].casefold(), trin.casefold())
-				agg_sentence = agg_sentence.replace(tpl[0].casefold(), '', 1)
+				agg_sentence = agg_sentence.replace(tpl[0].casefold(), '', 1).casefold()
 			if dist <= min_distance:
 				min_distance = dist
 				best_term = tpl
@@ -486,6 +493,11 @@ def main():
 			errors="ignore") as f:
 		content = f.readlines()
 
+	master = ""
+	for c in content:
+		master += c + ' '
+	tokens = tokenize.sent_tokenize(master)
+
 	input_file = os.path.basename(input_file)
 	date = max(1981, get_date(content))
 
@@ -494,7 +506,10 @@ def main():
 		find_times(line, 0, l)
 
 	relevant_trinomials, periodo = harvest()
+	print("trad")
 	records = parse_content(content)
+	print("new")
+	records2 = parse_content(tokens)
 
 	o = open("out.csv", "a+")
 	for r in records:
@@ -502,6 +517,9 @@ def main():
 	o.close()
 
 	if human_readable:
+		print("trad")
 		display_hr(records)
+		print("new")
+		display_hr(records2)
 
 main()
