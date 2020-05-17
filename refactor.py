@@ -31,7 +31,7 @@ cents = re.compile("(((beginning|middle|end|early|mid|late|[0-9a-z]*(st|[^a]nd|r
 		"\s)[a-z ]*)?(([a-z]*(\-|\s))?[a-z]*)[0-9]{0,2}?(st|nd|rd|th)\s(century|millenia)" +
 		"(\s(b\.?c\.?e\.?|c\.?e\.?|b\.?c\.?|a\.?d\.?))?)")
 NEGATIVES = [" none ", " not ", " no "] 
-SEARCH_SIZE = 2 # size 1 seems to be about optimal for sentence based parsing
+SEARCH_SIZE = 1 # size 1 seems to be about optimal for sentence based parsing
 
 #Globals
 human_readable = False
@@ -313,7 +313,7 @@ def get_search_space(content, rec):
 	"""
 	search_space = ''
 	flag = False
-	for line in range(rec.site_name_line - 1, 
+	for line in range(rec.site_name_line, 
 			rec.site_name_line + SEARCH_SIZE + 1):
 		if line >= 0 and line < len(content):
 			tris_in_line = TRINOMIAL_REGEX.findall(content[line])
@@ -507,9 +507,9 @@ def main():
 
 	relevant_trinomials, periodo = harvest()
 	print("trad")
-	records = parse_content(content)
+	#records = parse_content(content)
 	print("new")
-	records2 = parse_content(tokens)
+	records = parse_content(tokens)
 
 	o = open("out.csv", "a+")
 	for r in records:
@@ -520,6 +520,6 @@ def main():
 		print("trad")
 		display_hr(records)
 		print("new")
-		display_hr(records2)
+		#display_hr(records2)
 
 main()
