@@ -36,6 +36,9 @@ handles the job excellently. The drawback is speed-- it slows the program
 down a hundredfold, so it might be prudent to return to the regex solution
 once everything else is good to go.
 
+The program is optimized to handle the equipped vocabulary, but can be easily
+modified to accomodate for others.
+
 
 ## /** Misc **/
 
