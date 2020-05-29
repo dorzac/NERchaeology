@@ -1,4 +1,6 @@
 """High Priority"""
+# TODO: Parse by heading
+# TODO: Run the dataset.
 """Low Priority"""
 # TODO: Write custom sort for periodo terms that's safer than zipping
 # TODO: Use dates as a refinement mechanism
@@ -39,7 +41,9 @@ human_readable = False
 input_file = ""
 date = 0
 relevant_trinomials = []
+relevant_counties = []
 periodo = []
+artifacts = []
 
 
 def harvest():
@@ -49,6 +53,8 @@ def harvest():
 	Method called first, all preprocessing work.
 	Reads in vocabulary files and stores them.
 	"""
+	global relevant_trinomials
+	global relevant_counties
 	
 	#get relevant trinomials from csv
 	relevant_trinomials = []
@@ -58,6 +64,14 @@ def harvest():
 	for sublist in data:
 		if sublist[0] != '':
 			relevant_trinomials.append(sublist[0])
+
+	relevant_trinomials = []
+	with open('vocabularies/relevantCounties.csv', newline='') as f:
+		reader = csv.reader(f)
+		data = list(reader)
+	for sublist in data:
+		if sublist[1] != '':
+			relevant_counties.append(sublist[1])
 
 	#get periodo vocabs from all periodo csvs
 	periodo = []
@@ -92,6 +106,52 @@ def harvest():
 					else:
 						periodo[column].append(data[row][column])
 
+	global artifacts
+	artifacts.extend([[] for col in range(15)])
+	with open('vocabularies/dinaa.csv', newline='') as f:
+		reader = csv.reader(f)
+		data = list(reader)
+
+		#Transpose columns and rows of the CSV, ignoring labels
+		for row in range(1, len(data)):
+			for column in range(len(data[row])):
+				artifacts[column].append(data[row][column])
+				wordsplit = data[row][0].split()
+				for word in wordsplit:
+					if word == wordsplit[0]:
+						continue
+					if word == 'Projectile':
+						break
+					wordsplit[0] += ' ' + word
+				ARTIFACT_SUBS = [" Point", " Dart", " Projectile"]
+				if wordsplit and 'Projectile' in wordsplit:
+					for term in ARTIFACT_SUBS:
+						temp = data[row][0]
+						data[row][0] = wordsplit[0] + term
+						artifacts[column].append(data[row][column])
+						data[row][0] = temp
+
+	#Fix '123 BC' terms
+	for i, v in enumerate(artifacts[2]):
+		if v:
+			ugh = re.compile("(\d+)\s+([A-Za-z]+)")
+			vals = ugh.findall(v)
+			v = vals[0][0]
+			if vals[0][1] == 'BCE':
+				artifacts[2][i] = int(v) + 1949
+			if vals[0][1] == 'CE':
+				artifacts[2][i] = 1950 - int(v)
+
+	for i, v in enumerate(artifacts[3]):
+		if v:
+			ugh = re.compile("(\d+)\s+([A-Za-z]+)")
+			vals = ugh.findall(v)
+			v = vals[0][0]
+			if vals[0][1] == 'BCE':
+				artifacts[3][i] = int(v) + 1949
+			if vals[0][1] == 'CE':
+				artifacts[3][i] = 1950 - int(v)
+
 	# Sort terms alphabetically
 	periodo[0], periodo[1], periodo[4], periodo[5], periodo[8], periodo[10], periodo[11] = \
 		(list(t) for t in zip(*sorted( \
@@ -108,6 +168,7 @@ def harvest():
 		zip(periodo[0], periodo[1], periodo[4], periodo[5], periodo[8], \
 		periodo[10], periodo[11]), \
 		key=lambda l1:len(l1[1]), reverse=True)))
+
 
 	return relevant_trinomials, periodo
 
@@ -146,8 +207,8 @@ def find_terms(line, line_num, found_list):
 
 	# Reduce chance of false positives
 	for e in HIST_EXCLUDE:
-		if e in line:
-			line = line.replace(e.casefold(), '')
+		if e.casefold() in line.casefold():
+			line = line.casefold().replace(e.casefold(), '')
 
 	for term in periodo[1]:
 		if term.casefold() in line:
@@ -158,6 +219,27 @@ def find_terms(line, line_num, found_list):
 			print("$$",line)
 			line = line.replace(term.casefold(), '')
 			found_list.append([term, line_num])
+
+
+def find_artifacts(line, line_num, found_list):
+	"""
+	@param line is the string of text which to parse
+	@param line_num is the line number, used for output and checking
+		   relationship between term location and site location
+	@param found_list is a list of lists with entries of the form
+		   [term, line_num] (must remain mutable)
+	Checks a line of text against the defined vocabularies.
+	Grabs everything relevant, nondiscretely.
+	"""
+
+	for term in artifacts[0]:
+		if not term.casefold():
+			continue
+		if term.casefold() in line:
+			print("FOUND",term)
+			print("&tomori&",line)
+			line = line.replace(term.casefold(), '')
+			found_list.append(term)
 
 
 def find_times(line, line_num, found_list):
@@ -201,7 +283,8 @@ def parse_content(content):
 		if tris_in_line is None:
 			continue
 		for trinomial in tris_in_line:
-			if trinomial in relevant_trinomials:
+			#if trinomial in relevant_trinomials:
+			if trinomial[2:4] in relevant_counties:
 				if trinomial in freqs:
 					freqs[trinomial] = freqs[trinomial] + 1
 				else:
@@ -219,6 +302,9 @@ def parse_content(content):
 					if optimal_term is not None:
 						r.period_term = optimal_term	
 						records.add(r)
+					elif r.artifacts:
+						r.period_term = ""
+						records.add(r)
 
 				#Otherwise, grab everything useful
 				else:
@@ -227,12 +313,44 @@ def parse_content(content):
 							site_name = r.site_name, \
 							site_name_line = line_num, \
 							period_term = pair[0], \
+							artifacts = r.artifacts, \
 							dates = r.dates)
 						records.add(tmp)
 
 				r.site_name_line = line_num
 
+	old = records
+	records = split_artifacts(records)
 	implement_freqs(freqs, records)
+	return records
+
+
+def split_artifacts(records):
+	
+	to_add = []
+	to_remove = []
+	for r in records:
+		if r.artifacts:
+			for a in r.artifacts:
+				tmp = Record( \
+					site_name = r.site_name, \
+					site_name_line = r.site_name_line, \
+					period_term = r.period_term, \
+					artifacts = r.artifacts, \
+					artifact = a, \
+					dates = r.dates)
+				to_add.append(tmp)
+		else:
+			tmp = Record( \
+				site_name = r.site_name, \
+				site_name_line = r.site_name_line, \
+				period_term = r.period_term, \
+				artifacts = r.artifacts, \
+				artifact = "", \
+				dates = r.dates)
+			to_add.append(tmp)
+
+	records = set(to_add)
 	return records
 
 
@@ -283,17 +401,22 @@ def display_hr(records):
 		print("SITE:", record.site_name, "line", record.site_name_line)
 		print("PERIOD:", record.period_term)
 		if record.dates:
-			print("EXPLICIT dateS:", record.dates)
+			print("EXPLICIT dates:", record.dates)
+		if record.artifacts:
+			print("Artifact List:", record.artifacts)
+			print("Key Artifact:", record.artifact)
 		print("\n")
 
 
 def get_possible_pairs(sentences, rec):
 	"""
-	@param sentences is an array of sentences to scan for terma
+	@param sentences is an array of sentences to scan for terms
 	@param rec is a record object for a single site
 	@return an array of pairings between site and term
 	"""
 	possible_pairs = []
+	found_times = []
+	found_art = []
 	for sen_index in range(len(sentences)):
 		if rec.site_name in sentences[sen_index]:
 			rec.site_name_line = sen_index
@@ -302,9 +425,12 @@ def get_possible_pairs(sentences, rec):
 				sentences[sen_index].casefold(),
 				sen_index, possible_pairs)
 
-		found_times = []
 		find_times(sentences[sen_index].casefold(), sen_index, found_times)
+
+		find_artifacts(sentences[sen_index].casefold(), sen_index, found_art)
+
 	rec.dates = found_times
+	rec.artifacts = found_art
 	return possible_pairs
 
 
@@ -322,8 +448,8 @@ def get_search_space(content, rec):
 	"""
 	search_space = ''
 	flag = False
-	#for line in range(rec.site_name_line - SEARCH_SIZE, 
-	for line in range(rec.site_name_line - 1,#SEARCH_SIZE, 
+	for line in range(rec.site_name_line - SEARCH_SIZE, 
+	#for line in range(rec.site_name_line - 1,#SEARCH_SIZE, 
 		rec.site_name_line + SEARCH_SIZE + 1):
 		if line >= 0 and line < len(content):
 			search_space += content[line]
@@ -341,6 +467,37 @@ def get_search_space(content, rec):
 	local_trin_count = len(set(TRINOMIAL_REGEX.findall(search_space)))
 	sentences = tokenize.sent_tokenize(search_space)
 
+	while rec.site_name.casefold() not in sentences[0].casefold():
+		del sentences[0]
+
+	"""
+	temp = []
+	for s in sentences:
+		trins = TRINOMIAL_REGEX.findall(s)
+		for t in trins:
+			i = s.casefold().index(t.casefold())
+			s = s[:i] + ',' + s[i+1:]
+		temp.append(s)
+	sentences = temp
+	"""
+
+	temp = []
+	for s in sentences:
+		temp += s.split(',')
+	sentences = temp
+
+	"""
+	for s in sentences[:]:
+		trins = TRINOMIAL_REGEX.findall(s)
+		if len(set(trins)) > 0 and rec.site_name not in s:
+			sentences.remove(s)
+
+	for s in sentences[:]:
+		if not s or s == ' ':
+			sentences.remove(s)
+	print(sentences)
+	"""
+
 	#Parsing fails for image captioning, workaround
 	if not sentences:
 		sentences.append(search_space)
@@ -354,15 +511,27 @@ def write_record(f, r):
 	@param t, a Record dataclass.
 	Writes the file in CSV form.
 	"""
+	print(r)
 	f.write(r.site_name)
-	f.write("," + r.period_term)
-	index = periodo[1].index(r.period_term)
-	late_start, early_end, early_start, late_end = fix_dates(r, index)
+	f.write(",")
+	if r.period_term:
+		f.write(r.period_term)
+		index = periodo[1].index(r.period_term)
+		uri = periodo[0][index]
+	if not r.artifacts:
+		f.write(",")
+		late_start, early_end, early_start, late_end = fix_dates(r, index)
+	else:
+		f.write("," + r.artifact)
+		late_start, early_end = ('', '')
+		index = artifacts[0].index(r.artifact)
+		early_start, late_end = (artifacts[2][index], artifacts[3][index])
+		uri = ""
 	f.write("," + str(early_start))
 	f.write("," + str(late_start))
 	f.write("," + str(early_end))
 	f.write("," + str(late_end))
-	f.write("," + str(periodo[0][index])) #Write URI
+	f.write("," + str(uri))
 	f.write("," + str(r.freq))
 	f.write(",\"" + input_file) #Write filename
 	f.write("\"\n")
@@ -387,6 +556,8 @@ def fix_dates(r, index):
 	matches = []
 	for i in range(len(periodo[1])):
 		if periodo[1][i] == r.period_term:
+			if not periodo[8][i]:
+				periodo[8][i] = -1
 			matches.append((i, int(periodo[8][i])))
 	best_index = 0;
 	best_pubtime = 0;
@@ -450,6 +621,9 @@ def get_optimal_term(matches, key_index, sentences, trin):
 		min_distance = len(agg_sentence) + 1
 		best_term = None
 		dist = 1000
+		for m in matches[:]:
+			if not m[0]:
+				matches.remove(m)
 		for tpl in matches:
 			while tpl[0].casefold() in agg_sentence:
 				dist = distance(agg_sentence.casefold(), tpl[0].casefold(), trin.casefold())
@@ -484,7 +658,7 @@ def distance(s, w1, w2):
 	spaces = re.findall("\s+", s_copy)
 	#Return number of whitespace
 	return len(spaces)
-
+	
 
 def main():
 
@@ -512,6 +686,7 @@ def main():
 
 	relevant_trinomials, periodo = harvest()
 	records = parse_content(content)
+	#TODO: Compress artifact sites
 
 	o = open("out.csv", "a+")
 	for r in records:
