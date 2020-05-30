@@ -17,5 +17,6 @@ class Record:
 	def __eq__(self, other):
 		if other.__class__ is not self.__class__:
 			return NotImplemented
-		return (self.site_name, self.period_term, self.artifacts, self.artifact) \
-				== (other.site_name, other.period_term, self.artifacts, self.artifact)
+		return (self.site_name, self.period_term, self.artifacts, \
+		self.artifact) == (other.site_name, other.period_term, \
+		self.artifacts, self.artifact)

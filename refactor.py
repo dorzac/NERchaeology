@@ -3,9 +3,6 @@
 # TODO: Run the dataset.
 """Low Priority"""
 # TODO: Write custom sort for periodo terms that's safer than zipping
-# TODO: Use dates as a refinement mechanism
-# TODO: Instead of looking for TRI + TERM + date, look for TRI + TERM 
-#		and TRI + date separately
 
 import os
 import re
@@ -131,7 +128,7 @@ def harvest():
 						artifacts[column].append(data[row][column])
 						data[row][0] = temp
 
-	#Fix '123 BC' terms
+	# Fixes '123 BC' terms
 	for i, v in enumerate(artifacts[2]):
 		if v:
 			ugh = re.compile("(\d+)\s+([A-Za-z]+)")
@@ -326,6 +323,13 @@ def parse_content(content):
 
 
 def split_artifacts(records):
+	"""
+	@param records is a set of records.
+	@return the modified version of this set.
+	Actually a method more for saving programmer time than
+	efficiency, goes through and makes a separate record for
+	each artifact associated with a site, for printing purposes.
+	"""
 	
 	to_add = []
 	to_remove = []
@@ -436,9 +440,9 @@ def get_possible_pairs(sentences, rec):
 
 def get_search_space(content, rec):
 	"""
-	@param line_num is the line number with regard to the document
 	@param content is a list of lines representing the document
-	@param trinomial is the trinomial the search space is being built around.
+	@param rec is the record with the trinomial the search space 
+	is being built around.
 	@return a tuple of the form (list of sentences, number of trinomials in
 			those sentences.
 	Loops over lines surrounding the trinomial in question and appends those
@@ -447,22 +451,38 @@ def get_search_space(content, rec):
 	space, it is tokenized into sentences.
 	"""
 	search_space = ''
-	flag = False
+	key_line = ''
+	key_line_num = -1
+	found = False
 	for line in range(rec.site_name_line - SEARCH_SIZE, 
-	#for line in range(rec.site_name_line - 1,#SEARCH_SIZE, 
 		rec.site_name_line + SEARCH_SIZE + 1):
 		if line >= 0 and line < len(content):
 			search_space += content[line]
-			if rec.site_name in content[line]:
-				flag = True
-			"""
-			if content[line].strip() == "":
-				if not flag:
-					search_space = ""
-				else:
-					break
-			"""
+			if rec.site_name in content[line] and not found:
+				key_line = content[line]
+				key_line_num = line
+				found = True
 
+	# If a trinomial is a heading, the search space should be the entire section
+	if len(key_line.split()) < 4:
+		if key_line_num + 1 < len(content) and \
+				len(content[key_line_num + 1].split()) > 4:
+			line = key_line_num + 1
+			search_space = content[key_line_num]
+			while len(content[line].split()) >= 4:# or \
+					#content[line] != '\n':
+				search_space += content[line]
+				line += 1
+				if line > key_line_num + 20:
+					break
+			search_space = re.sub(r"\s+", ' ', search_space)
+			sentences = tokenize.sent_tokenize(search_space)
+			local_trin_count = 1
+			if not sentences:
+				sentences.append(search_space)
+
+			return sentences, local_trin_count
+		
 	search_space = re.sub(r"\s+", ' ', search_space)
 	local_trin_count = len(set(TRINOMIAL_REGEX.findall(search_space)))
 	sentences = tokenize.sent_tokenize(search_space)
@@ -470,33 +490,10 @@ def get_search_space(content, rec):
 	while rec.site_name.casefold() not in sentences[0].casefold():
 		del sentences[0]
 
-	"""
-	temp = []
-	for s in sentences:
-		trins = TRINOMIAL_REGEX.findall(s)
-		for t in trins:
-			i = s.casefold().index(t.casefold())
-			s = s[:i] + ',' + s[i+1:]
-		temp.append(s)
-	sentences = temp
-	"""
-
 	temp = []
 	for s in sentences:
 		temp += s.split(',')
 	sentences = temp
-
-	"""
-	for s in sentences[:]:
-		trins = TRINOMIAL_REGEX.findall(s)
-		if len(set(trins)) > 0 and rec.site_name not in s:
-			sentences.remove(s)
-
-	for s in sentences[:]:
-		if not s or s == ' ':
-			sentences.remove(s)
-	print(sentences)
-	"""
 
 	#Parsing fails for image captioning, workaround
 	if not sentences:
@@ -686,7 +683,6 @@ def main():
 
 	relevant_trinomials, periodo = harvest()
 	records = parse_content(content)
-	#TODO: Compress artifact sites
 
 	o = open("out.csv", "a+")
 	for r in records:
