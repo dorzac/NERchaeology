@@ -31,7 +31,7 @@ cents = re.compile("(((beginning|middle|end|early|mid|late|[0-9a-z]*(st|[^a]nd|r
 NEGATIVES = [" none ", " not ", " no "] 
 SEARCH_SIZE = 3 # size 3 seems to be about optimal
 PLACES = ['Austin', 'San Marcos', 'Jarrell', 'Round Rock', 'Uvalde']
-HIST_EXCLUDE = ['Historically', 'Historic Places', 'Historic Overlay', 'Historical Commission']
+HIST_EXCLUDE = ['Historian', 'Historically', 'Historic Places', 'Historic Overlay', 'Historical Commission']
 
 #Globals
 human_readable = False
@@ -120,7 +120,8 @@ def harvest():
 					if word == 'Projectile':
 						break
 					wordsplit[0] += ' ' + word
-				ARTIFACT_SUBS = [" Point", " Dart", " Projectile"]
+				#ARTIFACT_SUBS = [" Point", " Dart", " Projectile"]
+				ARTIFACT_SUBS = [" Projectile Point"]
 				if wordsplit and 'Projectile' in wordsplit:
 					for term in ARTIFACT_SUBS:
 						temp = data[row][0]
@@ -135,9 +136,11 @@ def harvest():
 			vals = ugh.findall(v)
 			v = vals[0][0]
 			if vals[0][1] == 'BCE':
-				artifacts[2][i] = int(v) + 1949
+				artifacts[2][i] = -1 * int(v)
+				#artifacts[2][i] = int(v) + 1949
 			if vals[0][1] == 'CE':
-				artifacts[2][i] = 1950 - int(v)
+				artifacts[2][i] = int(v)
+				#artifacts[2][i] = 1950 - int(v)
 
 	for i, v in enumerate(artifacts[3]):
 		if v:
@@ -145,9 +148,11 @@ def harvest():
 			vals = ugh.findall(v)
 			v = vals[0][0]
 			if vals[0][1] == 'BCE':
-				artifacts[3][i] = int(v) + 1949
+				artifacts[3][i] = -1 * int(v)
+				#artifacts[3][i] = int(v) + 1949
 			if vals[0][1] == 'CE':
-				artifacts[3][i] = 1950 - int(v)
+				artifacts[3][i] = int(v)
+				#artifacts[3][i] = 1950 - int(v)
 
 	# Sort terms alphabetically
 	periodo[0], periodo[1], periodo[4], periodo[5], periodo[8], periodo[10], periodo[11] = \

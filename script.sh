@@ -18,27 +18,33 @@ then
 	#rm -r ./ascii
 	echo "Ascii files already present."
 	echo "Do you want to regenerate? This may take some time."
-	read -p "Enter y/n: " -n 1 -r $REPLY
+	read -p "Enter y/n: " -n 1 -r $REPLY2
 	echo
-	if [[ $REPLY =~ ^[Yy]$ ]]
+	if [[ $REPLY2 =~ "^[Yy]$" ]]
 	then
+		echo "Requested regen..."
 		regen=true
-		rm -r ./ascii
+		#rm -r ./ascii
 	fi
+	regen=false
+	echo $regen
 fi
 
-if [[ regen ]]
+if [[ $regen == "true" ]]
 then
 #Convert all pdfs to ascii text
+	echo "Regenerating ascii"
 	mkdir ./ascii
 	chmod 777 ascii
 
+	#for FILE in ./pdfs/*.pdf ./pdfs/**/*.pdf;
+	#for FILE in $(find ./pdfs/ -name '*.pdf');
 	for FILE in ./pdfs/*.pdf
 	do
 		basename "$FILE"
 		f=$(basename "$FILE" .pdf)
-		#pdftotext -layout pdfs/"$f.pdf" ./ascii/"$f.txt"
-		abiword --to=text pdfs/"$f.pdf" -o ./ascii/"$f.txt"
+		#abiword --to=text pdfs/"$f.pdf" -o ./ascii/"$f.txt"
+		abiword --to=text "$FILE" -o ./ascii/"$f.txt"
 
 	done
 echo "*** Finished Conversions"
@@ -69,6 +75,7 @@ fi
 touch out.csv
 
 #Parse for smithsonian trinomials, dates
+#for FILE in $(find ./ascii -name '*.txt');
 for FILE in ./ascii/*.txt
 do
 	basename "$FILE"
@@ -86,7 +93,7 @@ echo "*** Finished parsing"
 #python3 csv_cleanup.py out.csv temp.csv
 #mv temp.csv out.csv
 #sort out.csv -o out.csv
-sed -i '1s/^/period,artifact,dcterms:coverage_temporal,xsd:gDate_earliestStart,xsd:gDate_latestStart,xsd:gDate_earliestEnd,xsd:gDate_latestEnd,skos:CloseMatch,significance,source_name\n/' out.csv
+sed -i '1s/^/trinomial,dcterms:coverage_temporal,artifact,xsd:gDate_earliestStart,xsd:gDate_latestStart,xsd:gDate_earliestEnd,xsd:gDate_latestEnd,skos:CloseMatch,significance,source_name\n/' out.csv
 
 #close container
 #docker rm -f stanfordcorenlp
