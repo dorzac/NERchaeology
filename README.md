@@ -45,3 +45,5 @@ modified to accomodate for others.
 The /vocabularies directory currently holds all useful csvs to be handled. All periodo csvs should begin with `periodo` in their filename to be considered. 
 
 The /misc_scripts directory contains various programs that were used in preprocessing to manage and manipulate data that were useful for preparing information but are not actively needed.
+
+In the DINAA artifacts file, the Cadale Point was described as being found up until 2750 CE. This is slightly impossible, so I am assuming this is meant to be BCE.

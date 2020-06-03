@@ -120,8 +120,8 @@ def harvest():
 					if word == 'Projectile':
 						break
 					wordsplit[0] += ' ' + word
-				#ARTIFACT_SUBS = [" Point", " Dart", " Projectile"]
-				ARTIFACT_SUBS = [" Projectile Point"]
+				ARTIFACT_SUBS = [" Point", " Dart", " Projectile"]
+				#ARTIFACT_SUBS = [" Projectile Point"]
 				if wordsplit and 'Projectile' in wordsplit:
 					for term in ARTIFACT_SUBS:
 						temp = data[row][0]
@@ -239,7 +239,7 @@ def find_artifacts(line, line_num, found_list):
 			continue
 		if term.casefold() in line:
 			print("FOUND",term)
-			print("&tomori&",line)
+			print("&&",line)
 			line = line.replace(term.casefold(), '')
 			found_list.append(term)
 
@@ -529,6 +529,8 @@ def write_record(f, r):
 		index = artifacts[0].index(r.artifact)
 		early_start, late_end = (artifacts[2][index], artifacts[3][index])
 		uri = ""
+
+
 	f.write("," + str(early_start))
 	f.write("," + str(late_start))
 	f.write("," + str(early_end))
@@ -561,7 +563,7 @@ def fix_dates(r, index):
 			if not periodo[8][i]:
 				periodo[8][i] = -1
 			matches.append((i, int(periodo[8][i])))
-	best_index = 0;
+	best_index = index;
 	best_pubtime = 0;
 	for e in matches:
 		if e[1] > best_pubtime and e[1] <= date:
