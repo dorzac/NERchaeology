@@ -13,6 +13,7 @@ class Record:
 	artifacts: List[str]  = field(default_factory=list, hash=False)
 	artifact: str = field(default="", hash=True)
 	freq: float = field(default=0, hash=False)
+	count: int = field(default=0, hash=False)
 
 	def __eq__(self, other):
 		if other.__class__ is not self.__class__:

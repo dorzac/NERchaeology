@@ -344,7 +344,8 @@ def split_artifacts(records):
 				tmp = Record( \
 					site_name = r.site_name, \
 					site_name_line = r.site_name_line, \
-					period_term = r.period_term, \
+					period_term = "", \
+					#period_term = r.period_term, \
 					artifacts = r.artifacts, \
 					artifact = a, \
 					dates = r.dates)
@@ -396,6 +397,7 @@ def implement_freqs(freqs, records):
 		total += freqs[e]
 	for record in records:
 		record.freq = round(freqs[record.site_name] / total, 3)
+		record.count = freqs[record.site_name]
 
 
 def display_hr(records):
@@ -536,6 +538,7 @@ def write_record(f, r):
 	f.write("," + str(early_end))
 	f.write("," + str(late_end))
 	f.write("," + str(uri))
+	f.write("," + str(r.count))
 	f.write("," + str(r.freq))
 	f.write(",\"" + input_file) #Write filename
 	f.write("\"\n")
