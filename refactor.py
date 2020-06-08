@@ -345,11 +345,20 @@ def split_artifacts(records):
 					site_name = r.site_name, \
 					site_name_line = r.site_name_line, \
 					period_term = "", \
-					#period_term = r.period_term, \
 					artifacts = r.artifacts, \
 					artifact = a, \
 					dates = r.dates)
 				to_add.append(tmp)
+
+				if r.period_term:
+					tmp = Record( \
+						site_name = r.site_name, \
+						site_name_line = r.site_name_line, \
+						period_term = r.period_term, \
+						artifacts = r.artifacts, \
+						artifact = "", \
+						dates = r.dates)
+					to_add.append(tmp)
 		else:
 			tmp = Record( \
 				site_name = r.site_name, \
@@ -519,10 +528,10 @@ def write_record(f, r):
 	f.write(r.site_name)
 	f.write(",")
 	if r.period_term:
+		print("It's a period term!")
 		f.write(r.period_term)
 		index = periodo[1].index(r.period_term)
 		uri = periodo[0][index]
-	if not r.artifacts:
 		f.write(",")
 		late_start, early_end, early_start, late_end = fix_dates(r, index)
 	else:
