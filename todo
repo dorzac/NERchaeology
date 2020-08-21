@@ -1,5 +1,0 @@
-3 spreadsheets
-
-1: append lat long, give unique number 1-6400
-2: remove source file column, freq, then merge what exists
-3: remove period/artifact, compress dates, then merge
