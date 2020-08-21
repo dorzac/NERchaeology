@@ -1,0 +1,10 @@
+1. Reference for Age: I've found mentions of radiocarbon dating, etc-- when an explicit paper/study isn't cited, and there's nothing explicit in the biblio, can I assume it's an internal reference?
+
+2. For the start and end dates, I assume that having an explicit date in the paper should trump the periodO ranges. 
+
+3. I haven't found anything related to time step, and elevation above sea level doesn't often appear. Often, an elevation for a site is set to an arbitrary value and then relative positions are given based on that.
+
+4. Does 'Dr. Jarvis' function as a suitable Location Source? Assuming I am allowed to use his provided lat/long for these sites. 
+
+5. On that note, I also assume I am not restricted to public articles like what is on Google Scholar, and I can use the TARL library.
+

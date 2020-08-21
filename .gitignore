@@ -4,6 +4,7 @@
 /pdfs
 /periodo
 /__pycache__
+/vocabularies
 /json
 /periodo
 /test-pdfs
@@ -12,6 +13,8 @@ spec.txt
 discuss.txt
 wget-log
 driver.py
+out.csv
+out-*.csv
 *.swp
 *.swo
 *.pyc

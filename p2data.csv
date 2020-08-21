@@ -1,0 +1,39 @@
+Unique Identifier,Publication ID,Zotero URL,Trinomial,Location (GCS),Location Source,Geonames URI,Elevation,County,Location Notes,Report Includes Absolute Dates,Report Includes Relative Dates,Number of Absolute Dates,Dating Method,Reference for Age,Earliest Start Date,Latest Start Date,Earliest End Date,Latest End Date,Time Step Size,Depth of Sequence,Earliest Arch Period,Earliest PeriodO URI,Latest Arch Period,Latest PeriodO URI,Material Classes,Validity of Record
+Num,Filename,,,"Lat,Long",,,Meters above sea level,CC,Natural Bridge Caverns,Y/N,Y/N,,,"Citation, Internal, None",,,,,,SURF or 50m,,,,,,
+1,AR-TX_SWTSU_03-031.pdf,,41HY165,"29.890674,-97.932657",TARL,,,HY,,Y,Y,24,AMS,Internal,,4490 BP,1700 CE,1950 CE,,1.2m,Paleoindian,,Historic,,"BRCK,CERM,DBTG,HIST,LITH,MBOT,VTFR",
+2,AR-TX_BAI_01_2016-02.pdf,,41VV2013,"29.430942,-100.865032",TARL,,,VV,,Y,Y,7,AMS,Internal,53 CE,266 CE,1619 CE,1670 CE,,3.7m,Middle Archaic,,Historic,,"BRCK,CERM,DBTG,LITH,MBOT,POLL",
+3,AR-TX_SWTSU_03-032.pdf,,41HY160,"29.893635,-97.928401",TARL,,,HY,,Y,Y,15,"AMS,STY",Internal,6932 BP,6792 BP,544 BP,514 BP,,2.9m,Early Archaic,,Late Prehistoric,,"BRCK,CERM,DBTG,VTFR,NISO,OISO",
+4,AR-TX_TARL_01a.1994.01.pdf,,41BX52,"29.50839,-98.602285",TARL,,303.732m,BX,Pavo Real,Y,Y,2,RAC,Haynes 1992,10500 BP,11500 BP,650 CE,750 CE,,0.7m,Early Paleoindian,,Early Archaic,,"BRCK,DBTG,INFR,LITH,MBOT",
+5,AR-TX_LCRA_04-015.pdf,,41SS178,"31.196365,-98.711904",TARL,,,SS,,Y,Y,1,RAC,Internal,11500 BP,8800 BP,910 BP,830 BP,,1m,Paleoindian,,Late Prehistoric,,"BRCK,CERM,DBTG,CTFR,INFR,LITH",Useful regarding shellfish it seems
+6,AR-TX_SWCA_03_2007-373.pdf,,41WM1028,"30.51204,-97.636002",TARL,,715m,WM,,Y,Y,1,RAC,Brownlow 2003,,6850 BCE,1150 CE,1690 CE,,1.9m,Early Archaic,,Late Prehistoric,,"BRCK,DBTG,LITH",Doesn’t seem super useful
+7,HESI_060231AR_CR_Testing_Viscaya_Dev_Vol_2_Spicewood_Travis_CO_TX_TAC_na_2007.pdf,,41TV2263,"30.381842,-98.022783",TARL,,665m,TV,Western end of a small peninsula extending easterly into Lake Travis,Y,Y,2,RAC,Internal,910 BC,760 BC,1230 CE,,,1.1m,Late Archaic,,Late Prehistoric,,"BRCK,LITH,MBOT,INFR,",Very comprehensive report with emphasis on site 41TV2265
+8,HESI_060231AR_CR_Testing_Viscaya_Dev_Vol_2_Spicewood_Travis_CO_TX_TAC_na_2007.pdf,,41TV2265,"30.379842,-98.023602",TARL,,655m,TV,Upland area routinely inundated by Lake Travis,Y,Y,7,RAC,Internal,9550 BC,6850 BCE,690 CE,950 CE,,1.5m,Paleoindian,,Late Prehistoric,,"BRCK,DBTG,LITH,MBOT,INFR,",
+9,Vol.\ 65_1994.pdf,***,41BC65,,TARL,,,,Sleeper,,Y,,,,,,,,,,Early Archaic,,,,"BRCK,DBTG,HIST,INFR,LITH,",Early Archaic campsite|rare single component site|u
+,,OOS,41BL323,,,,,,Gault,,,,,,,,,,,,,,,,,
+,,,41BX126,,,,,,Culebra Creek,,,,,,,,,,,,,,,,,
+,,,41BX184,,,,,,Higgins,,,,,,,,,,,,,,,,,
+,,,41BX228,,,,,,Panther Springs Creek,,,,,,,,,,,,,,,,,
+,,,41BX831,,,,,,Richard Beene,,,,,,,,,,,,,,,,,
+,,,41BX996,,,,,,Number 6,,,,,,,,,,,,,,,,,
+,BTAS_414693_Text_v6.pdf,,41CM1,"29.890353,-98.276625",TARL,,274m,CM,Oblate,Y,Y,4,"RAC,STY","Stuiver, Reimer, 2011",4821 BP,3083 BP,,,,2.74m,Late Archaic,,Historic,,,"Great, lot of projectile points"
+,,***,41ED28,,,,,,Varga,,,,,,,,,,,,,,,,,
+,CAS_TSU-SWTSU_AS_Rept_18_Prehistoric_Life_Zatopec_Site_San_Marcos_TX_TAC_5469.pdf,,41HY163,"29.86929,-97.967105",TARL,,,HY,Zatopec,Y,Y,26,"RAC,STY,AAR",Internal,4000 BP,2200 BP,300 BP,200 BP,,,Early Archaic,,Early Historic,,"BRCK,CERM,DBTG,HIST,HUMN,VTFR,LITH,MBOT,CISO,NISO,POLL","724 page monster, extremely detailed"
+,BTAS Volume 80 (2009) OCR.pdf,,41KR621,,TARL,,,KR,Gatlin,Y,Y,19,RAC,Internal,7570 BP,7420 BP,3720 BP,3560 BP,,,Early Archaic,,Late Archaic,,"BRCK,DBTG,VTFR,LITH,",Very useful Early-Middle Archaic artifacts
+,Vol.\ 65_1994.pdf,,41ME29,,TARL,,,ME,Jonas Terrace,Y,N,12,AMS,Internal,4560 BP,4400 BP,1490 BP,1370 BP,,,Middle Archaic,,Late Prehistoric,,"BRCK,DBTG","Not much here, as the site is mostly used to establish a Central Texas chronology"
+,,,41MS32,,TARL,,,MS,Honey Creek,N,Y,0,,,,,,,,,,,,,"BRCK,LITH,",Fairly useless
+,CAS_TSU-SWTSU_AS_Rept_18_Prehistoric_Life_Zatopec_Site_San_Marcos_TX_TAC_5469.pdf,,41TG346,,TARL,,,TG,Rush,N,Y,0,,None,,,,,,,Toyah,,Late Prehistoric,,"VTFR,INFR",Data about bison remains. Otherwise useless
+,Vara Daniel Site 41TV1364 ECOMM 2010.pdf,,41TV1364,,TARL,,143m,TV,Vara Daniel,Y,Y,19,"OSL, AMS",Internal,10900 BP,10395 BP,9230 BP,8630 BP,,6.2m,Pre-Clovis,,Early Archaic,,"BRCK,DBTG,INFR,LITH,MBOT,OISO,CISO","Tons of data, but organization, especially re: dating, is weak"
+,,***,41TV528,,,,,,Eckols,,,,,,,,,,,,,,,,,
+,,***,41UV2,,,,,,Kincaid Shelter,,,,,,,,,,,,,,,,,
+,,***,41UV60,,,,,,Anthon,,,,,,,,,,,,,,,,,
+,,***,41UV88,,,,,,Woodrow Heard,,,,,,,,,,,,,,,,,
+,,***,41VV188,,,,,,Devil’s Mouth,,,,,,,,,,,,,,,,,
+,(pp 111-127) Diet Change in the Lower Pecos_Analysis of Baker Cave Coprolites Kristin D Sobolik.pdf,,41VV213,,TARL,,,VV,Baker Cave,Y,Y,1,RAC,"Brown, 1988",7000 BC,,900 AD,,,,Late Paleoindian,,Late Prehistoric,,"POLL,COPR,INFR,VTFR,",Short document with heavy focus on coprolite samples
+,,***,41VV218,,,,,,Bonfire Shelter,,,,,,,,,,,,,,,,,
+,AR-TX_TARL_02.008.pdf,,41VV456,,TARL,,,VV,Hinds Cave,Y,N,30,RAC,Various,11550 BP,Pm 190,1230 BP,Pm 190,,,Paleoindian,,Late Archaic,,"BRCK,LITH","Lower Pecos prehistory, nothing really focusing on Hinds Cave here"
+,,***,41VV74,,,,,,Fate Bell,,,,,,,,,,,,,,,,,
+,AR-TX_TARL_02.008.pdf,,41VV99,,TARL,,,VV,Arenosa Shelter,Y,Y,32,RAC,Various,9550 BP,Pm 190,1320 BP,450 BP,,,Early Archaic,,Late Archaic,,LITH,"Tons of raw data, not much analysis. Discussion over Langtry points"
+,,***,41WM13,,,,,,Bessie Kruze,,,,,,,,,,,,,,,,,
+,,,41WM230,,TARL,,,WM,Loeve-Fox,N,Y,0,,"Prewitt, 1974",,,,,,,Toyah,,Round Rock,,"BRCK,HUMN,LITH,CERM,INFR,",Document is useful for subperiod breakdown more than anything
+,,OOS,41WM325,,,,,,Wilson-Leonard,,,,,,,,,,,,,,,,,
+,,***,41WM989,"30.481403,-97.743326",TARL,,,WM,Davis Spring Branch,,Y,,,,,,,,,,,,,,,

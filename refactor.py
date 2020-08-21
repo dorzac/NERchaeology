@@ -1,8 +1,8 @@
-"""High Priority"""
-# TODO: Parse by heading
-# TODO: Run the dataset.
-"""Low Priority"""
-# TODO: Write custom sort for periodo terms that's safer than zipping
+"""
+Last updated 21 Aug 2020.
+Code written by Zach Dorf.
+Contact at dorzac0@utexas.edu.
+"""
 
 import os
 import re
@@ -16,6 +16,7 @@ from nltk import tokenize
 from operator import itemgetter
 from subprocess import check_output
 from record import *
+
 
 """
 Useful Global Variables, Expressions, etc
@@ -41,6 +42,7 @@ relevant_trinomials = []
 relevant_counties = []
 periodo = []
 artifacts = []
+coords = {}
 
 
 def harvest():
@@ -52,7 +54,14 @@ def harvest():
 	"""
 	global relevant_trinomials
 	global relevant_counties
+	global coords
 	
+	with open('vocabularies/coord.csv', newline='') as f:
+		reader = csv.reader(f)
+		data = list(reader)
+	for line in data:
+		coords[line[0]] = (line[1], line[2])
+
 	#get relevant trinomials from csv
 	relevant_trinomials = []
 	with open('vocabularies/relevantTrinomials.csv', newline='') as f:
@@ -162,7 +171,7 @@ def harvest():
 		key=lambda l1:l1[1])))
 
 	# Sort terms by descending string len
-	# TODO: This only sorts 7 columns in parallel. Maybe write
+	# TODO: This only sorts 7 columns in parallel. Write
 	# custom sort to clean this up
 	periodo[0], periodo[1], periodo[4], periodo[5], periodo[8], \
 		periodo[10], periodo[11] = \
@@ -285,7 +294,6 @@ def parse_content(content):
 		if tris_in_line is None:
 			continue
 		for trinomial in tris_in_line:
-			#if trinomial in relevant_trinomials:
 			if trinomial[2:4] in relevant_counties:
 				if trinomial in freqs:
 					freqs[trinomial] = freqs[trinomial] + 1
@@ -470,6 +478,7 @@ def get_search_space(content, rec):
 	key_line = ''
 	key_line_num = -1
 	found = False
+	
 	for line in range(rec.site_name_line - SEARCH_SIZE, 
 		rec.site_name_line + SEARCH_SIZE + 1):
 		if line >= 0 and line < len(content):
@@ -524,11 +533,9 @@ def write_record(f, r):
 	@param t, a Record dataclass.
 	Writes the file in CSV form.
 	"""
-	print(r)
 	f.write(r.site_name)
 	f.write(",")
 	if r.period_term:
-		print("It's a period term!")
 		f.write(r.period_term)
 		index = periodo[1].index(r.period_term)
 		uri = periodo[0][index]
@@ -549,6 +556,11 @@ def write_record(f, r):
 	f.write("," + str(uri))
 	f.write("," + str(r.count))
 	f.write("," + str(r.freq))
+	try:
+		f.write("," + str(coords[r.site_name][0]))
+		f.write("," + str(coords[r.site_name][1]))
+	except:
+		f.write(",,")
 	f.write(",\"" + input_file) #Write filename
 	f.write("\"\n")
 
@@ -674,6 +686,29 @@ def distance(s, w1, w2):
 	spaces = re.findall("\s+", s_copy)
 	#Return number of whitespace
 	return len(spaces)
+
+
+def handle_site_file(input_file):
+	"""
+	Site files are formatted as CSVs instead of plaintext, so they
+	warrant special treatment. Each line in a SiteFile seems to cover
+	a single site, so we want to restrict searching for terms to just
+	that line. SiteFiles often have newlines embedded in them, which
+	throws off the script, so this method removes newlines from within
+	quoted text.
+	@param input_file is the site file being handled.
+	@return input_file, the reformatted siteFile
+	"""
+
+	if os.path.exists(input_file + ".rf"):
+		os.remove(input_file + ".rf")
+	with codecs.open(input_file, "rb", encoding="utf-8", errors="ignore") as ip, \
+			codecs.open(input_file + ".rf", "wb", encoding="utf-8", errors="ignore") as op:
+		w = csv.writer(op)
+		for record in csv.reader(ip):
+			w.writerow(tuple(s.replace("\n",'') for s in record))
+	input_file = input_file + ".rf"
+	return input_file
 	
 
 def main():
@@ -683,14 +718,20 @@ def main():
 	global periodo
 	global input_file
 	global date
+	global SEARCH_SIZE
+	global site_file
 
 	input_file = str(sys.argv[1])
 	human_readable_input = str(sys.argv[2]).lower()
 	if human_readable_input == 'y' or human_readable_input == 'yes':
 		human_readable = True
 
-	with codecs.open(input_file, "r", encoding="utf-8", \
-			errors="ignore") as f:
+	#Preprocessing to handle SiteFiles
+	if input_file.endswith('.csv'):
+		input_file = handle_site_file(input_file)
+		SEARCH_SIZE = 0
+
+	with codecs.open(input_file, "r", encoding="utf-8", errors="ignore") as f:
 		content = f.readlines()
 
 	input_file = os.path.basename(input_file)
