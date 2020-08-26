@@ -1,0 +1,3110 @@
+AN ARCHAEOLOGICAL SURVEY OF THE PROPOSED SAM
+HOUSTON STATE UNIVERSITY CAMP PROJECT
+IN WALKER COUNTY, TEXAS
+
+Texas Antiquities Permit Number 3340
+
+by
+William E. Moore
+
+Brazos Valley Research Associates
+Contract Report Number 132
+
+2004
+
+AN ARCHAEOLOGICAL SURVEY OF THE PROPOSED SAM HOUSTON STATE
+UNIVERSITY CAMP PROJECT IN WALKER COUNTY, TEXAS
+
+Author and Principal Investigator
+William E. Moore
+
+BVRA Project 04-06
+
+Prepared by
+Brazos Valley Research Associates
+813 Beck Street
+Bryan, Texas 77803
+
+Prepared for
+Sam Houston State University
+1808 Avenue I
+Wilson Building 219
+Huntsville, Texas 77341
+
+ABSTRACT
+In February and March of 2004, Brazos Valley Research Associates (BVRA)
+conducted a Phase I archaeological survey of 345.58 acres owned by Sam Houston State
+University (SHSU) in north Walker County, Texas under Antiquities Permit 3340. William
+E. Moore was the Principal Investigator, and James E. Warren and Edward P. Baxter
+assisted him. The project area is in an upland setting overlooking Harmon Creek at its
+confluence with the Trinity River.
+Prehistoric site 41WA2 was recorded in 1965 and is located within the project area.
+This State Archeological Landmar was visited, and a large portion of this site was
+determined to be severely disturbed through rock quarrying activities. Shovel testing in
+undisturbed areas of 41WA2 confirmed the presence of this site and extended its eastern
+and western boundaries. In addition, nine previously unrecorded prehistoric sites
+(41WA273 - 41WA281) were documented. Site 41WA278 is located to the east of 41WA2
+and is on the same landform. Although separated from 41WA2 by a gully, it is possible
+that this site is an extension of 41WA2 or was occupied at the same time. Both sites date
+to the Late Prehistoric Period based on the presence of ceramics observed by previous
+researchers at 41WA2 and collected during this survey at 41WA278.
+The majority of the newly recorded sites are small and may represent hunting
+camps or short term activity areas where the reworking of tools was a major lithic activity.
+At seven of these sites no diagnostic artifacts were collected, and no features were
+observed at any of the sites in the project area including 41WA2. One site (41WA275),
+however, appears to be significant and is recommended for avoidance. It dates to the
+Archaic period of Texas prehistory based on the presence of a Yarbrough dart point, a
+Waco sinker, and an apparent absence of ceramics. Since Archaic sites in this part of
+Southeast Texas are not well documented, it is recommended that this site be tested for
+significance if avoidance is not possible.
+Historic artifacts consisting of undecorated crockery fragments, nails, and bottle
+glass were found at sites 41WA274 and 41WA275. No evidence of a structure was found
+through archival research or during the field survey. These components are not viewed by
+BVRA as significant.
+The ten archaeological sites located within the boundaries of the project area
+confirm the hypothesis that upland margins along major streams in Southeast Texas are
+high probability areas for the presence of prehistoric sites.
+
+ii
+
+All artifacts recovered during shovel testing were collected. Following analysis, only
+those considered to be diagnostic were retained for curation per an agreement with the
+Texas Historical Commission (THC), Archeology Division. The artifacts have been placed
+in permanent curation at the Texas Archeological Research Laboratory (TARL) on the
+campus of The University of Texas at Austin.
+
+iii
+
+ACKNOWLEDGMENTS
+The following individuals are thanked for their participation in this project. At SHSU,
+assistance was provided by Karen Murff, Director of Internal Audit; Rodney Conwell,
+Facility Project Coordinator; and Keith Jenkins, Assistant Dean of Student Services and
+Director of Recreational Sports. Two field crews were utilized. The initial crew consisted of
+James E. Warren, Arthur Romine, Kent Romine, Bobby Jemison, Charles Stricklen, and
+Manuel Alvarado. Later, Edward P. Baxter finished the project. The file search was
+performed by Allegra Azulay (Records File Search Assistant at TARL) and Jean L. Hughes
+(Assistant Curator of Records at TARL). Lili G. Lyddon and Edward P. Baxter prepared the
+figures that appear in this report. William A. Martin of the THC served as the Project
+Reviewer. The lithic assemblage was analyzed by William A. Dickens, and Charles L.
+Boyd examined the Waco sinker. The artifacts were prepared for curation at TARL by
+Jean L. Hughes. Harry J. Shafer and Wayne Klement provided information regarding
+previous work at site 41WA2. Jim Wieferman at the Perry CastaÃ±eda Library on the
+campus of The University of Texas at Austin is thanked for providing information regarding
+an earlier version of the Riverside topographic map. Rodney Conwell personally visited the
+Walker County Appraisal District office and searched the tax records with Raymond Kizer,
+an employee of that agency, for evidence of a homestead in the project area. James
+Patton (County Clerk) and Melba High (Deputy Registrar) checked the deed records for
+previous owners and filing of a homestead in the project area.
+
+iv
+
+CONTENTS
+ABSTRACT ......................................................ii
+ACKNOWLEDGMENTS .............................................iv
+INTRODUCTION ...................................................1
+ENVIRONMENTAL SETTING .........................................4
+PREVIOUS INVESTIGATIONS ........................................8
+METHODS ......................................................12
+DISCUSSION OF AREAS SURVEYED ..................................14
+SITE 41WA2 .....................................................35
+RESULTS AND CONCLUSIONS ......................................38
+RECOMMENDATIONS .............................................40
+REFERENCES CITED ..............................................41
+
+Appendices
+Appendix I: Trip Report for 41WA2
+Appendix II: Shovel Test Log
+Appendix III: Lithic Analysis
+Appendix IV: Areas Surveyed and Site Locations
+v
+
+Figures
+Figure
+Figure
+Figure
+Figure
+Figure
+Figure
+Figure
+Figure
+Figure
+Figure
+Figure
+Figure
+Figure
+Figure
+Figure
+Figure
+Figure
+Figure
+Figure
+Figure
+Figure
+
+1. General Location Map............................................................................... 2
+2. Project Area Depicted on Topographic Map Riverside ................................... 3
+3. Area A...................................................................................................15
+4. Area B...................................................................................................16
+5. Area C...................................................................................................18
+6. Area D...................................................................................................19
+7. Yarbrough point (a), distal tip (b), and Waco Sinker (c) ...............................22
+8. Area E ...................................................................................................22
+9. Area F ...................................................................................................23
+10. Area G.................................................................................................24
+11. Area H.................................................................................................25
+12. Area I..................................................................................................26
+13. Area J..................................................................................................27
+14. Area K .................................................................................................28
+15. Area L .................................................................................................29
+16. Area M ................................................................................................30
+17. Hammerstone from Area M ....................................................................31
+18. Area N.................................................................................................32
+19. Area U.................................................................................................34
+20. Disturbance at 41WA2 ...........................................................................36
+21. Disturbance at 41WA2 ...........................................................................37
+
+vi
+
+INTRODUCTION
+SHSU plans to develop a 345.58 acre tract of land overlooking Harmon Creek and
+the Trinity River in the northern area of Walker County, Texas (Figure 1). The area is
+proposed for development as a park, and selective timber cutting is anticipated. The camp
+will contain various activity areas such as baseball fields, basketball courts, soccer fields,
+tennis courts, cabins, trails, picnic tables, rest rooms, and a swimming pool. The project
+area is covered by the 7.5' topographic map Riverside dated 1961 and photorevised 1972
+(Figure 2).
+The area examined used to belong to the Texas Department of Corrections and
+was part of the Ellis Unit, and ownership was transferred to Sam Houston State University
+in 2002. It is bounded on the north and east by Harmon Creek and the Trinity River (now
+part of Lake Livingston). On the south is State Highway 19, and on the west is State
+Highway 980. The area had been used for recreational purposes by the prison system. A
+pavilion and 23 cabins were constructed in 1978, and a boat ramp provided access to the
+lake. A portion of the area contains natural sandstone rock and gravels which were
+quarried in the 1970s and perhaps in the 1980s when this activity was suspended.
+Archaeological site 41WA2 is a State Archeological Landmark and is present in the
+project area. The aerial photograph in the soil survey (McClintock et al. 1979:Sheet 12)
+shows the location of this site to be in a very disturbed setting. In this photograph the area
+is cleared and contains several roads. It has been described by other researchers as a
+"rather significant Caddoan site because of the quantity of artifacts that have been
+collected from it" (see Appendix I). The presence of this site and landforms that appear to
+be likely settings for other sites prompted the Archeology Division of the Texas Historical
+Commission to require an archaeological survey by a professional archaeologist prior to
+any land alteration activities. The University retained BVRA to conduct a Phase I
+archaeological survey of the project area to assess the current condition of 41WA2 and
+identify other archaeological sites that may be present. This project was carried out under
+Antiquities Permit 3340. The BVRA project number is 04-06.
+
+1
+
+Figure 1. General Location Map
+
+2
+
+Figure 2. Project Area Depicted on Topographic Map Riverside
+3
+
+ENVIRONMENTAL SETTING
+General
+Walker County is located within the Austroriparian biotic province as defined by Blair
+(1950) and includes the Gulf coastal plain from the Atlantic Ocean to eastern Texas. The
+western boundary of this province in Texas is approximated by a line running north from
+western Harris County to western Red River County. The western boundary of the
+Austroriparian is also the western boundary of the main body of the pine and hardwood
+forests of the eastern Gulf coastal plain (Blair 1950:99). According to Thornthwaite (1948),
+these forests are limited on the west by available moisture.
+Flora
+The Project Area is located within the loblolly pine, shortleaf pine, and upland
+hardwood plant community as defined by the United States Forest Service for the four
+National Forests in East Texas. According to Ippolito (1983:6-7), the major forest cover
+types in this community include loblolly pine, shortleaf pine, slash pine, post oak, southern
+red oak, white oak, black oak, blackjack oak, black gum, sweet gum, American elm, red
+maple, hickories, and beech. Approximately 70 percent of East Texas is currently
+occupied by the Piney Woods with Post Oak Savannah and Blackland Prairie in the rest of
+the region (Boyd and Howard 1988:4). Keller (1974:139-156) believes that deciduous
+trees may have been more numerous during most of the Holocene and were probably
+more important resources to prehistoric populations than the modern flora would suggest.
+Fauna
+The vertebrate fauna of the Austroriparian is considered typical of that to the east.
+Blair (1950:99) states that at least 47 species of mammals occur or have occurred there in
+recent times. Known types include at least 29 species of snakes, 10 lizards, 2 land turtles,
+17 anurans, and 18 urodeles. Ippolito (1983:11) states that there is an inadequate sample
+of faunal material for the area in an archaeological context. Therefore, assumptions
+concerning prehistoric exploitation of animals must be based on historical accounts and
+current populations.
+A study by Keller (1974:78-81) of the paleoecology of the middle Neches region lists
+those mammals most likely to have been hunted in the area. They are Whitetail deer,
+Cottontail rabbit, Swamp rabbit, Grey squirrel, Fox squirrel, Flying squirrel, Raccoon,
+Opossum, Red fox, Grey fox, Woodchuck, Bobcat, Spotted skunk, Striped skunk, Mink,
+Otter, Long-tailed weasel, and Muskrat. According to Ippolito (1983:11), this list excludes
+many species of birds, especially migratory fowl, and fish that can still be found in the area.
+4
+
+Species not found in the area today include Black bear, beaver, and wild turkey.
+These were once numerous but were eradicated by uncontrolled hunting and timber
+harvesting that irreparably altered their habitats.
+Climate
+The following climatic data were taken from McClintock et al. (1979). The weather
+in Walker County consists of hot summers and cool winters. An occasional cold front may
+cause temperatures to drop below freezing, sometimes quite suddenly. The average
+winter temperature is 51 degrees Fahrenheit with an average daily minimum of 41
+degrees. In summer, the average is 82 degrees with an average daily maximum of 94
+degrees. The growing season has 234 days above freezing each year. Prevailing winds
+are from the south-southeast. Rainfall is uniformly distributed throughout the year and
+snowfall is rare.
+Soils
+According to the Soil Survey of Walker County (McClintock et al. 1979:Sheet 12),
+the Project Area is located within eleven soil types. They are the Annona association,
+gently undulating (2); Annona association, gently rolling (3); Depcor-Huntsburg association,
+gently undulating (9); Elmina association, gently undulating (11); Falba fine sandy loam
+(13); Falba complex, 5 to 8 percent slopes (14); Kaufman-Gowker complex, frequently
+flooded (29); Kitteril-Rock outcrop complex, 1 to 10 percent slopes (31); Leson clay, 0 to 3
+percent slopes (33); Pits (38); and Redco clay, 0 to 2 percent slopes (39).
+Annona association soils (2) are described by McClintock et al. (1979:7) as soils on
+convex uplands in broad areas on interstream divides. Slopes are 1 to 5 percent, and
+areas are irregular to oval and vary from 10 to 500 acres. Typically, the surface layer is a
+friable, slightly acid, brown fine sandy loam about 4 inches thick. From 4 to 10 inches, is a
+very firm, strongly acid, red clay mottled with strong brown. These soils are poorly drained
+and have a high available water capacity. Permeability and runoff are slow.
+Annona association soils (3) are described by McClintock et al. (1979:7-8) as deep
+soils on the lower parts of slopes on uplands. Slopes are 5 to 10 percent and are slightly
+convex. Areas are long and range from 20 to 125 acres. This unit is about 85 percent
+Annona soils and 15 percent other soils. Typically, the Annona soils have a surface layer
+of friable, slightly acid, grayish-brown fine sandy loam about 7 inches thick. From 7 to 12
+inches, very firm, strongly acid, red clay is present. From 12 to 17 inches, a firm, very
+strongly acid, mottled red, strong brown, and light gray clay is present. From 17 to 39
+inches, a very firm, very strongly acid, light gray clay mottled with red is present.
+5
+
+These soils are somewhat poorly drained and have a high available water capacity.
+Permeability is very slow, and runoff is slow. Included in this mapping area are small
+areas of Ferris clay. These soils make up about 15 percent of any one mapped area.
+Wetness and the very slow permeability restrict recreational use.
+Depcor-Huntsburg soils (9) are described by McClintock et al. (1979:9-10) as soils
+in the uplands on interstream divides. This unit is about 54 percent Depcor soils, 31
+percent Huntsburg soils, and 15 percent other soils. Depcor soils consist of loamy fine
+sand overlying a sandy clay loam between 44 and 65 inches, while Huntsburg soils consist
+of a loamy fine sand overlying a reddish-yellow clay from 22 to 32 inches.
+Elmina association, gently undulating soils (11) are described by McClintock et al.
+(1979:11) as deep soils on upland interstream divides. The surface layer is a very friable,
+strongly acid, light brownish-gray loamy fine sand about 4 inches thick overlying a loamy
+fine sand to 32 inches. From 32 to 40 inches is very firm, very strongly acid, grayish-brown
+clay mottled with red and yellowish-brown. It is somewhat poorly drained and has a low
+available water capacity. Permeability and runoff are very slow.
+Falba fine sandy loam, 1 to 5 percent slopes (13) is described by McClintock et al.
+(1979:11) as a moderately deep soil on convex uplands. The surface layer is a very
+friable, strongly acid, brown fine sandy loam about 5 inches thick. Between 7 and 24
+inches is a very firm, very strongly acid, grayish-brown clay. The underlying material to a
+depth of 55 inches is very pale brown tuffaceous fine sandstone.
+Falba complex, 5 to 8 percent slopes (14) is described by McClintock et al.
+(1979:11-12) as a soil found on side slopes of uplands. This unit is about 70 percent Falba
+and similar soils and about 30 percent other soils. The typical surface layer consists of a
+friable, very strongly acid, grayish-brown fine sandy loam about 8 inches thick. From 8 to
+30 inches is a very firm, strongly acid, grayish-brown clay. This soil is somewhat poorly
+drained. Surface runoff is medium, and permeability is very slow. Available water capacity
+is low. Similar soils are 12 to 17 inches deep over sandstone or have sandy clay loam
+subsoil.
+Kaufman-Gowker complex, frequently flooded (29) soils are described by
+McClintock et al. (1979:17) as deep soils on flood plains that are inundated about twice a
+year for periods of 2 to 7 days. Kaufman soils occupy backwater areas and have a surface
+layer of very firm, slightly acid, black clay about 30 inches thick. Gowker soils are adjacent
+to stream channels and have a surface layer of a firm, slightly acid, very dark gray clay
+loam about 9 inches thick. From 30 to 34 inches is a very firm, slightly acid, dark gray clay
+mottled with brown.
+6
+
+Kitteril-Rock outcrop complex, 1 to 10 percent slopes (31) is described by
+McClintock et al. (1979:17-18) as located on uplands. It is about 34 percent Kitteril soil, 34
+percent rock outcrop, and 32 percent other soils. The Kitteril soil is a friable, slightly acid,
+grayish-brown fine sandy loam about 6 inches thick. The underlying material is gray,
+tuffaceous sandstone. The Rock outcrop is gray, tuffaceous sandstone.
+Leson clay, 0 to 3 percent slopes (33) is described by McClintock et al. (1979:18) as
+a deep soil on uplands. The surface layer is firm, neutral, black clay about 21 inches thick.
+Pits (38) are described by McClintock et al. (1979:20) as being found on uplands. It
+consists of excavation sites 3 to 75 feet deep, and areas range from 3 to 70 acres.
+Material excavated from these pits is used for base material for roads, driveway topping,
+and fill in major building construction. Some of the larger pits hold water and have high
+potential for recreation use.
+Redco clay, 0 to 2 percent slopes (39) is described by McClintock et al. (1979:20)
+as a deep soil on uplands. The surface layer is firm, slightly acid, very dark grayish-brown
+clay about 7 inches thick. This soil is poorly drained and has a high available water
+capacity. Permeability and runoff are very slow.
+Three of the above soil types are only marginally represented in the project area as
+depicted on the topographic map by the client. These are Kaufman-Gowker complex,
+frequently flooded (29); Kitteril-Rock outcrop complex, 1 to 10 percent slopes (31); and
+Redco clay, 0 to 2 percent slopes (39).
+
+7
+
+PREVIOUS INVESTIGATIONS
+General
+Although several significant studies involving prehistoric and historic sites have
+been conducted in Walker County, many investigations involved little or no subsurface
+testing. In the 1970s, the largest number of sites recorded during one project was an
+independent study by Bill Moore (1976) in 1974 and 1975 that recorded 34 sites. These
+sites were identified based on the artifacts observed on the surface and private collections;
+not one site was tested. In 1983, a proposed lignite mine was examined by Espey, Huston
+& Associates along Bedias and Nelson creeks. In all, 39 sites were identified; however, the
+project was terminated, and no report was produced. Until recently, most of the
+information for Walker County was based on projects in surrounding areas such as Lake
+Livingston in Polk and San Jacinto counties (McClurkan 1968; Ensor and Carlson 1988),
+Lake Conroe in Montgomery County (McNatt 1978; Shafer 1968; Shafer and Stearns
+1975), and the Gibbons Creek Mine in Grimes County (Rogers 1993, 1994).
+Work at Lake Conroe is especially relevant to the project area because a preceramic site (41MQ41) in the area was tested by archaeologists from Texas A&M
+University (Shafer and Stearns 1975). At the time this site was investigated, it represented
+the oldest cultural remains recovered from the Lake Conroe Area. The findings were
+significant in that they confirm an earlier hypothesis that prehistoric sites having
+considerable antiquity are present on older landforms in the area. Earlier work in the area
+tended to sample sites on more recent landforms; therefore, the materials from these sites
+are relatively late. Formal tools found include a San Patrice point and other stemmed
+biface forms not present in the Late Lithic and subsequent periods. Shafer and Stearns
+(1975:39) describe 41MQ41 as a "lightly occupied, probably intermittent campsite used
+during the Early and Middle Lithic periods." This dates the site to sometime between 8000
+B.C. and 1000 B.C. Another probable pre-ceramic site in the area is 41WA99. It was
+discovered during a survey by Moore Archeological Consulting (Moore et al. 1999). Shovel
+testing revealed a large dart point, flakes, and no ceramics on a sandy hill high above the
+nearest creek.
+Several overviews of the area provide valuable data for Walker County and vicinity.
+Some of the major works are discussed below.
+In 1978 a file and literature search was conducted by TARL in an effort to prepare
+an overview of the cultural resources within the Davy Crockett, Sam Houston, Angelina,
+and Sabine National Forests of Texas. Information in the TARL files was compiled by
+8
+
+Ross Fields and Rosario Casarez. This report (Fields 1979) provides a good synthesis of
+central East Texas prehistory and 17 sites in Walker County were assessed. These sites
+are 41WA47 and 41WA48, 41WA50 and 41WA51, 41WA54, 41WA57 and 41WA58,
+41WA63 and 41WA64, 41WA68, 41WA81 through 41WA86, and 41WA88.
+John Ippolito (1983), Forest Service Archeologist for the National Forest, Southern
+Region, compiled an overview of cultural resources present in the National Forests of
+Texas that includes 53,490 acres of the Sam Houston National Forest in Walker County.
+This volume presents a short history of Texas forests and discusses such topics as
+environment and ecosystems, culture history, past archaeological activities relevant to the
+National Forests in Texas, and direction for future cultural resource investigations. A map
+depicting areas surveyed within the forest and a list of compliance projects with acreage,
+date conducted, and sites found are included.
+More recently, five studies have been published which are worthy of mention.
+These are Archeology in the Eastern Planning Region, Texas: A Planning Document
+compiled by the Department of Antiquities Protection (Kenmotsu and Perttula (1993);
+Roger G. Moore's (1995) Ph.D. dissertation entitled The Mossy Grove Model of Long-Term
+Forager-Collector Adaptations in Inland Southeast Texas; Volume 66 of the Bulletin of the
+Texas Archeological Society which reviews the current state of Archeology in Texas and
+contains a chapter devoted to Southeast Texas (Patterson 1995); an archaeological study
+by the Texas Parks and Wildlife Department at the Huntsville Fish Hatchery (Davis et al.
+1994:20-33); and a data base by Moore Archeological Consulting (Moore and Moore
+1995). The database was created from encoding site data for all known sites in Walker
+County at the time of this project. This database was an attempt to define settlement rules
+specific to Walker County through the application of an empirical analysis cross-tabulating
+site data with environmental variables and was based, as stated above, on the
+computerization of data from all of the existing TARL site records for the county. A total of
+181 sites was used for this study; however the analyses utilized only those sites with
+prehistoric components since the sample size for historic sites is inadequate and the
+settlement criteria for historic sites location are much different and currently more
+ambiguous than for prehistoric sites.
+This study revealed that prehistoric sites seem to be found throughout the county
+where suitable landforms (sandy ridges and knolls) exist in close proximity to dependable
+water sources. The only large concentrations of prehistoric sites are the result of large
+area surveys. Single sites along major drainages should not be interpreted as sparse use
+of an area; rather, these sites were probably recorded by individuals with restricted access
+to larger areas.
+Project Area
+In the 1960s, archaeologists from the Texas Archeological Salvage Project (TASP)
+9
+
+conducted an archaeological survey of the area to be inundated by waters from the
+proposed Lake Livingston Reservoir in Polk, San Jacinto, Trinity, and Walker counties.
+They were assisted by members of the Houston Archeological Society (HAS) who
+examined the Walker County portion. They recorded the first seven sites (41WA1 41WA7) in Walker County, including 41WA2 within the current project area.
+Since no site form for 41WA2 exists from the original survey, it is not known what
+level of work was performed by the HAS field survey crew. A black-and-white print of
+artifacts from this site is on file at TARL. This plate (taken in 1965 by Harry J. Shafer)
+shows contracting stem dart points and bifacial tools made from silicified wood and
+probably local quartzite and chert. The owner of these artifacts is not stated, and Shafer
+does not recall the events surrounding his participation at this site.
+In 1984, archaeologists Wayne Klement and Gail L. Bailey, representing the Texas
+Historical Commission, visited 41WA2 located on Texas Department of Corrections
+property. According to the site form completed by Klement, this site was brought to the
+attention of the archaeological community by a local informant (Thomas Anders) who
+reported vandalism on state property. The recorders conducted an "informal walk" of the
+site to examine the extent of disturbance. They dug no shovel tests, took no notes, and did
+not collect any artifacts. Artifacts observed included bone, flakes, freshwater mussel
+fragments, and a few prehistoric ceramics in the backdirt of potholes. The depth of the site
+was estimated at one meter based on numerous potholes present. The recorders
+composed an "Idealized Sketch" off site that depicts the relative position and number of
+potholes present. They state that the site location is only an estimate taken from the
+topographic map. In addition to a field inspection of the site, private artifact collections
+were examined and photographed. According to Lillie Thompson at the Texas Historical
+Commission, these photographs are not present in the THC files. The only other
+documentation of this visit is a "Trip Report" authored by Wayne Klement (Appendix I). In
+a recent conversation with Wayne Klement, he stated that he did not remember much
+about his brief visit to the site in 1984.
+At the time of their visit, the area was covered with a pine forest along with mixed
+hardwoods. Except for the areas disturbed by looters, surface visibility was poor due to a
+heavy ground cover such as pine needles and leaves. They noted two forms of
+disturbance caused by a quarry where rock was being mined as well as numerous
+excavated areas they describe as potholes. Three screens were observed. According to
+them, 41WA2 is a prehistoric site approximately 150 x 500 meters in size on a sandy ridge
+overlooking Harmon Creek to the north.
+They make three assumptions regarding 41WA2. First, they refer to it as dating to
+the Late Prehistoric period. This is a correct statement due to the presence of ceramics.
+Second, they say it may be a multi-component site because the deep potholes (1 meter)
+"suggest it must have been occupied for quite some time and may have several cultural
+10
+
+levels." Third, the site appears to them to be a "rather significant Caddoan site because of
+the quantity of artifacts that have been collected from it" as well as the fact that the deposits
+appear to be quite deep.
+
+Further research was recommended by Klement and Bailey in order to determine
+whether or not it is a single component or multiple component site. In their opinion, this site
+is eligible for the National Register of Historic Places and is worthy of designation as a
+State Archeological Landmark. This site became a State Archeological Landmark on
+January 21, 1985 even though no professional work had been conducted at 41WA2. In
+addition, no regular nomination form was submitted for this site. The nominee was the
+Texas Department of Corrections.
+
+11
+
+METHODS
+Prior to entering the field, the Principal Investigator requested a check of the site
+records at TARL on the campus of The University of Texas at Austin for the presence of
+previously recorded sites within the project area. The only known site in the project area at
+the time was 41WA2 that had been designated a State Archeological Landmark. Several
+state agencies were contacted as part of the archival research for this project. According
+to Jim Wieferman, Map Room Librarian at the Perry CastaÃ±eda Library on the campus of
+The University of Texas at Austin (wieferman@mail.utexas.edu), only two editions of the
+Riverside topographic quadrangle exist, and both were checked for the presence of historic
+sites or houses. A conversation with an employee of the office of the United States
+Department of Agriculture, Natural Resources Conservation Service in Temple, Texas
+revealed that the 1979 soil survey for Walker County is the only version that has been
+published. Also, there are no earlier aerial photographs on file at that agency. Since the
+oldest aerial coverage of Walker County on file at the Texas Natural Resource Information
+Service (TNRIS) is 1958, it was not necessary to visit this agency. The 1940 edition of the
+Walker County General Highway Map was checked for previous structures in the project
+area. According to the map librarian at the General Land Office (GLO) in Austin, their
+maps do not depict the location of structures. In addition, deed records at the Walker
+County Courthouse were reviewed for ownership of the land and presence of the filing of a
+homestead. Tax records at the Walker County Appraisal District were checked for any
+information that might signal a marked increase in property value such as a house.
+The Principal Investigator communicated with Harry J. Shafer, photographer of the
+41WA2 artifacts in 1965, regarding his knowledge of this site. He also asked Timothy K.
+Perttula about the possibility of a significant Caddo site in this part of Texas. A call was
+made to Wayne Klement, one of the site recorders in 1984, who remembers little about his
+visit. Other archaeological reports for the area and the soil survey for Walker County were
+examined.
+Due to a thick ground cover over much of the project area, it was impossible to
+locate the presence of prehistoric sites without shovel testing. All exposed areas, however,
+were subjected to a 100% pedestrian survey. A review of the topographic map revealed
+21 areas (A-U) that appeared to be good settings for prehistoric sites, and each of these
+areas were visited by the field survey crew. Some areas were quickly eliminated because
+of extensive disturbance due to past quarrying activities, and others were discounted after
+shovel probes revealed the presence of a very shallow sandy mantle overlying clay or rock.
+12
+
+The rest of the sites were shovel tested. All shovel tests were 30 x 50 cm in size and
+excavated to basal clay when possible. In areas of deep sand, most tests were terminated
+between 80 and 100 cm. All excavated earth was passed through quarter-inch hardware
+cloth. A shovel test log was kept in the field (Appendix II). In all, 190 tests were excavated.
+Site boundaries were defined by excavating two negative shovel tests in each
+cardinal direction. All artifacts recovered from shovel tests were collected for analysis
+(Appendix III). A GPS reading was taken at the approximate center of each site. Site
+maps were created with a compass and tape. These maps were drafted for inclusion in
+this report. All artifacts recovered during shovel testing were collected and returned to the
+laboratory for analysis. Following analysis, the artifacts were placed in temporary storage
+at BVRA. Diagnostic artifacts will be placed in permanent curation at TARL. Certain
+artifacts were selected for illustration in this report. The rest have been sketched, and
+these drawings will be part of the records curated at TARL.
+The location of site 41WA2 was evaluated by a 100% Pedestrian Survey and shovel
+testing. It was immediately obvious that most of the site area had been thoroughly
+disturbed through quarrying for large sandstone boulders embedded in the sandy matrix.
+Therefore, most of the shovel tests were excavated at the eastern (Area U) and western
+boundaries (Area M) of the site area where disturbance seemed to be less. The northern
+and southern boundaries are well defined by the landform, and limited shovel testing in
+these areas was conducted. The disturbance at this site was documented by digital
+photography, an updated site map was drafted, and a site revisit form was completed.
+
+13
+
+DISCUSSION OF AREAS SURVEYED
+Area A (41WA273)
+This area is located in the southeast corner of the project area in an upland setting
+above the Trinity River approximately .37 km to the east. The elevation of Area A varies
+between 150 and 170 feet above mean sea level. The area has been greatly disturbed
+through the construction of a pavilion and 23 brick cabins in the 1970s by prison labor.
+These buildings served as a recreational area for employees of the Texas Department of
+Corrections. The structures do not meet the age criterion for National Register of Historic
+Places eligibility. Eleven shovel tests (1-11) were excavated in this area in an effort to
+locate the presence of a buried prehistoric site. One flake of palm wood (not collected)
+was found in an earlier probe, and two flakes were found in shovel tests 7 and 8 at 0-10
+cm. This landform appears to be a good setting for a prehistoric site; however, the recent
+disturbance associated with the existing structures and roads has negatively affected the
+area to the point that intact deposits are not likely. Deep sandy soils were not
+encountered. Of the 11 shovel tests, only 4 encountered clay deeper than 20 cm. Based
+on the paucity of artifacts and absence of diagnostic artifacts, the age and function of this
+site is not known. The presence of small thinning flakes and absence of large primary and
+secondary flakes is an indication that the major lithic activity was the reworking of tools.
+After delineation, site 41WA273 is believed to be approximately 30 meters east west by 15
+meters north south (Figure 3).
+Due to the shallow deposits, paucity of artifacts, and evidence of disturbance, this
+site does not meet any of the five criteria that would make it eligible for designation as a
+State Archeological Landmark.
+
+14
+
+Figure 3. Area A
+
+15
+
+Area B (no site)
+This area is in the approximate center of the project area on a trail that is depicted
+on the topographic map (Figure 4). Two shovel tests (12-13) were excavated to determine
+the soil type present in this area. Firm red clay was found between 10 and 15 cm, and no
+additional tests were dug. No site was found in this area, and no artifacts were recovered.
+
+Figure 4. Area B
+
+16
+
+Area C (41WA274)
+This area is on a sandy hill in the uplands overlooking the Trinity River .53 km to the
+east at the 170 foot contour. This area is wooded and does not appear to have been
+affected by artificial means except for the small trail at its southeastern boundary. Nineteen
+shovel tests in the site area (14-26; 159-164) revealed a fine sandy loam over yellow clay
+at depths between 60 and 80 cm.
+Evidence of a prehistoric occupation was found between 10 cm and 90 cm in three
+shovel tests (16, 18, and 161). In all, 19 tests were dug in the site area. The prehistoric
+artifacts consist of 8 flakes. Based on the paucity of artifacts, the age and function of the
+prehistoric component of this site is not known. The presence of small thinning flakes and
+absence of large primary and secondary flakes is an indication that the major lithic activity
+was the reworking of tools. After delineation, the site is believed to be approximately 50
+meters east west by 100 meters north south (Figure 5).
+Due to the paucity of artifacts, consisting solely of debitage, the prehistoric
+component at this site does not meet any of the five criteria that would make it eligible for
+designation as a State Archeological Landmark.
+Historic artifacts were found between the surface and 20 cm in shovel tests 14 and
+17-19 near an existing trail. Several undecorated ceramic fragments were observed in the
+trail, but they were not collected. Artifacts found in the shovel tests include undecorated
+whiteware fragments, bottle glass fragments (clear and brown), and nails (machined and
+cut). Although these kinds of artifacts are known to have been manufactured sometime
+between the late 19th century and early 20th century, there are no specimens in this
+sample that are temporally diagnostic. Therefore, it is not possible to associate them with
+a definite time period. A thorough surface inspection did not recover brick or window glass,
+artifacts typically associated with a house or features such as a well or cistern; and, no
+evidence of a structure or residence was found through archival research. Therefore, it is
+likely that these artifacts were probably discarded as trash, perhaps as a single dumping
+episode. The historic component at this site does not exhibit evidence of intact, time
+specific artifacts and contains no features typically associated with a residence. Therefore,
+it does not meet any of the five criteria that would make it eligible for designation as a State
+Archeological Landmark.
+
+17
+
+Figure 5. Area C
+
+18
+
+Area D (41WA275)
+This area is on a sandy hill in the uplands overlooking the Trinity River .4 km to the
+east and an unnamed tributary .16 km to the north. This landform is located at an elevation
+ranging from 160 to 166 feet above mean sea level. Twenty-one shovel tests (27-42; 172176) in the site area (Figure 6) revealed a fine sandy loam over firm clay at depths between
+40 and 80 cm.
+Evidence of a prehistoric occupation was found between the surface and 60 cm in
+nine shovel tests (28, 32-33, 36-40, 42) over an area of 60 meters north south by 75
+meters east west. The prehistoric artifacts consist of 80 flakes, 1 Waco sinker, 1
+Yarbrough dart point, and 1 distal tip of a projectile point. After delineation, the site is
+believed to be approximately 75 meters east west by 60 meters north south. Based on the
+paucity of artifacts, the age and function of the prehistoric component of this site is not
+known. The presence of small thinning flakes and absence of large primary and secondary
+flakes is an indication that the major lithic activity was the reworking of tools.
+
+Figure 6. Area D
+19
+
+The presence of a Yarbrough point (Figure 7a) and a Waco sinker (Figure 7c) and
+the absence of ceramics suggest the prehistoric component is an Archaic site that was
+occupied prior to the use of pottery. This is the first recovery of a Waco sinker in Walker
+County by a professional archaeologist under controlled conditions. Pre-ceramic sites in
+the immediate area are scarce, as only two have been reported. Sites 41MQ41 on Lake
+Conroe in Montgomery County and 41WA99 in Walker County are the only two other
+recorded examples (see Archaeological Background above). At 41WA99, a feature
+(possible hearth) was discovered during shovel testing but not formally investigated. If
+features associated with this site are present, and if the site proves to be a single
+component Archaic occupation, this would be very significant.
+The prehistoric component at this site has the potential to contribute to a better
+understanding of the prehistory of Texas by the addition of new and important information.
+Therefore, it is may be eligible for designation as a State Archeological Landmark.
+Historic artifacts were found in two shovel tests (33 and 38) where ceramic
+fragments and green glass were recovered between 0 and 30 cm, and ceramic fragments
+were found on the surface of the road that bisects the site. Although these kinds of
+artifacts are known to have been manufactured sometime between the late 19th century
+and early 20th century, there are no specimens in this sample that are temporally
+diagnostic. Therefore, it is not possible to associate them with a definite time period. A
+thorough surface inspection did not recover brick or window glass, artifacts typically
+associated with a house or features such as a well or cistern; and, no evidence of a
+structure or residence was found through archival research. Therefore, it is likely that
+these artifacts were probably discarded as trash, perhaps as a single dumping episode.
+The historic component at this site contains a paucity of artifacts and does not
+exhibit evidence of intact, time specific artifacts and contains no features typically
+associated with a residence. Therefore, it does not meet any of the five criteria that would
+make it eligible for designation as a State Archeological Landmark.
+
+20
+
+21
+
+Figure 7. Yarbrough point (a), distal tip (b), and Waco Sinker (c)
+Area E (41WA276)
+This area is on the slope of a sandy hill in the uplands overlooking the Trinity River
+.28 km to the east and an unnamed tributary .14 km to the north. In all, 10 shovel tests
+were dug in this area. Two (43 and 166) were contained cultural materials; five flakes
+between the surface and 40 cm. In general, the soils consist of fine sandy loam over red
+clay at depths between depths of 40 and 50 cm. Based on the paucity of artifacts, the age
+and function of this site is not known. The presence of small thinning flakes and absence
+of large primary and secondary flakes is an indication that the major lithic activity was the
+reworking of tools. After delineation, the site is believed to be approximately 30 meters
+east west by 30 meters north south (Figure 8).
+Due to the paucity of artifacts, consisting solely of debitage, the prehistoric
+component at this site does not meet any of the five criteria that would make it eligible for
+designation as a State Archeological Landmark.
+
+Figure 8. Area E
+
+22
+
+Area F (41WA277)
+This area is on an upland remnant overlooking the Trinity River 1.01 km to the east
+and Harmon Creek .97 km to the north. Twelve shovel tests in the site area (46-53; 154158) revealed red and yellow clays between 20 and 30 cm. Evidence of prehistoric
+occupation was found between the surface and 20 cm in four tests (46, 48-49, 52). The
+prehistoric artifacts consist of 18 flakes. Much of the area has been destroyed through
+road construction and quarrying activities. Based on the paucity of artifacts, the age and
+function of this site is not known. The presence of small thinning flakes and absence of
+large primary and secondary flakes is an indication that the major lithic activity was the
+reworking of tools. After delineation, the site is believed to be approximately 90 meters
+east west by 60 meters north south (Figure 9).
+Due to the paucity of artifacts, consisting solely of debitage, and evidence of
+disturbance nature of the area, this site does not meet any of the five criteria that would
+make it eligible for designation as a State Archeological Landmark.
+
+Figure 9. Area F
+
+23
+
+Area G (no site)
+This area is on an upland ridge overlooking Harmon Creek to the northwest. This
+area appeared in the field to be a good location for a prehistoric site. Three shovel tests
+(151-153) and several probes, however, revealed the presence of firm clay at or near the
+surface, and no additional tests were dug. No site was found in this area, and no artifacts
+were recovered. This area is depicted in Figure 10.
+
+Figure 10. Area G
+
+24
+
+Area H (no site)
+This area is on an upland ridge overlooking Harmon Creek to the west. Five shovel
+tests (58-62) revealed firm clay between 10 and 40 cm, and no additional tests were dug.
+No site was found in this area, and no artifacts were recovered. This area is depicted in
+Figure 11.
+
+Figure 11. Area H
+
+25
+
+Area I (no site)
+This area is on an upland ridge overlooking Harmon Creek to the west. Ten shovel
+tests (64-72) revealed firm clay between 10 and 40 cm, and no additional tests were dug.
+No site was found in this area, and no artifacts were recovered. This area is depicted in
+Figure 12.
+
+Figure 12. Area I
+
+26
+
+Area J (41WA278)
+This area is on an upland ridge overlooking Harmon Creek approximately 120
+meters to the north. Eleven shovel tests in the site area (73-75, 124-131) revealed a sandy
+loam over firm clay at depths between 10 and 90 cm. One test was dug to 100 cm without
+reaching clay. Evidence of prehistoric occupation was found between 10 and 100 cm in
+four tests (73, 75, 127, 129). The prehistoric artifacts consist of 12 flakes, 1 proximal biface
+fragment, 1 tested cobble, and 1 ceramic sherd. The presence of a single ceramic sherd
+dates this site to sometime during the Late Prehistoric period. Based on the paucity of
+artifacts, the function of this site is not known. The presence of small thinning flakes and
+absence of large primary and secondary flakes is an indication that the major lithic activity
+was the reworking of tools. After delineation, the site is believed to be approximately 25
+meters east west by 15 meters north south (Figure 13).
+Due to the paucity of artifacts and evidence of disturbance, this site does not meet
+any of the five criteria that would make it eligible for designation as a State Archeological
+Landmark.
+
+Figure 13. Area J
+
+27
+
+Area K (41WA279)
+This area is on an upland ridge overlooking Harmon Creek .26 km to the northeast
+and an unnamed tributary .08 km to the north. Eighteen shovel tests in the site area (7693) revealed firm clay between 20 and 70 cm. Cultural materials (10 flakes, 1 core, 1
+possible core, and 1 tested cobble) were found in the sandy mantle between 30 and 60 cm
+in four shovel tests (78, 85-87). Artifacts recovered consist primarily of small thinning
+flakes and a few cores. Based on the paucity of artifacts, the function of this site is not
+known. The presence of small thinning flakes and the absence of large primary and
+secondary flakes is an indication that the major lithic activity was the reworking of tools.
+After delineation, site 41wWA279 is believed to be approximately 40 meters east west by
+20 meters north south (Figure 14).
+Due to the paucity of artifacts, this site does not meet any of the five criteria that
+would make it eligible for designation as a State Archeological Landmark.
+
+Figure 14. Area K
+
+28
+
+Area L (41WA280)
+This area is on an upland ridge overlooking Harmon Creek .32 km to the north.
+Thirty shovel tests in the site area (94-123) revealed cultural materials buried in a sandy
+mantle between 20 and 100 cm. Cultural materials (23 flakes) were found in 9 tests (99,
+103-104, 106, 109-111, 118-119). Artifacts recovered consist primarily of small thinning
+flakes. Based on the paucity of artifacts, the function of this site is not known. The
+presence of small thinning flakes and the absence of large primary and secondary flakes is
+an indication that the major lithic activity was the reworking of tools. After delineation,
+site41WA280 is believed to be approximately 85 meters east west by 60 meters north
+south (Figure 15).
+Due to the paucity of artifacts, this site does not meet any of the five criteria that
+would make it eligible for designation as a State Archeological Landmark.
+
+Figure 15. Area L
+
+29
+
+Area M (41WA2)
+This area is on an upland ridge overlooking Harmon Creek approximately 100
+meters to the north and is immediately west of the limits of previously recorded site 41WA2
+as depicted on the site maps at TARL. Eleven shovel tests (53-57; 132-137) in the site
+area revealed cultural materials buried in a sandy mantle between 40 and 100 cm and they
+extended the western boundary of this site by 94 meters (Figure 16). Artifacts were
+recovered from five shovel tests (55, 57, 132-134) and consist of 11 flakes, 2 pieces of
+mussel shell, and a ground abraded cobble or hammerstone (Figure 17). Based on the
+presence of mussel shell, pottery, a hammerstone, flakes, and numerous formal tools
+observed by a previous researcher site 41WA2 area is believed to have functioned as a
+campsite sometime during the Late Prehistoric period.
+Due to amount of disturbance in this area, this site does not meet any of the five
+criteria that would make it eligible for designation as a State Archeological Landmark.
+
+Figure 16. Area M
+30
+
+Figure 17. Hammerstone from Area M
+
+31
+
+Area N (41WA281)
+This area is on an upland ridge overlooking the Trinity River .3 km to the east.
+Thirteen shovel tests in the site area (138-150) revealed cultural materials buried in a
+sandy mantle between 20 and 60 cm. Cultural materials (1 split cobble, 1 proximal biface
+fragment, and 6 flakes) were found in five tests (138-140, 144 and 146). Based on the
+paucity of artifacts, the function of this site is not known. The presence of small thinning
+flakes and absence of large primary and secondary flakes is an indication that the major
+lithic activity was the reworking of tools. After delineation, site 41WA28 is believed to be
+approximately 55 meters east west by 25 meters north south (Figure 18). This site is a
+good example of a small activity area that was utilized away from a major campsite,
+possibly 41WA2 or 41WA275.
+Due to the paucity of artifacts, this site does not meet any of the five criteria that
+would make it eligible for designation as a State Archeological Landmark.
+
+Figure 18. Area N
+
+Area O (no site)
+32
+
+This area was designated as high probability based on the topographic map
+plotting. A field inspection revealed that the entire area had been disturbed through
+quarrying activities. If an archaeological site was present in the past all evidence has
+disappeared.
+Area P (no site)
+This was designated as a high probability area based on the topopgraphic map
+plotting. A field inspection revealed that the entire area contained bedrock and gravel at
+the surface. Very little soil is present, and no shovel testing was necessary.
+Area Q (no site)
+This was designated a high probability area based on the topographic map plotting.
+A field inspection revealed that this is a prominent ridge with gravel and clay very close to
+the surface (less than 5 cm of soil development).
+Area R (no site)
+This was designated as a high probability area based on the topographic map
+plotting. A field inspection revealed that the entire area contains clay at or near the
+surface.
+Area S (no site)
+This was designated as a high probability area based on the topographic map
+plotting. A field inspection revealed that the entire area contains clay at or near the surface
+as well as some rock outcrops. This area also contained steep slopes. It is possible that a
+lower terrace, now under water, may have been a suitable location for a site.
+Area T (no site)
+This area was selected for survey because of its placement along the Upland
+Margin overlooking the Trinity River to the east. A 100% pedestrian survey accompanied
+by shovel probes revealed a steep slope with firm clay at 20 cm. The upper reaches of the
+slope were destroyed by the septic system for the 23 cabins in Area A.
+
+33
+
+Area U (41WA2)
+This area is on an upland ridge overlooking Harmon Creek approximately 100
+meters to the north and is immediately east of the limits of previously recorded site 41WA2
+as depicted on the site maps at TARL. Fourteen shovel tests in the site area (177-190)
+revealed cultural materials buried in a sandy mantle between 20 and 60 cm. Some of the
+tests were terminated when sandstone rock was encountered. Artifacts consist of 2 flakes,
+1 biface, and 1 core. After delineation, this area extends the eastern boundary of 41WA2
+by 30 meters (Figure 19).
+Due to amount of disturbance in this area, this site does not meet any of the five
+criteria that would make it eligible for designation as a State Archeological Landmark.
+
+Figure 19. Area U
+
+34
+
+SITE 41WA2
+The location of site 41WA2, as plotted on the maps at TARL, is in a very disturbed
+setting (figures 20 and 21). This area has been the locus of a quarry where sandstone was
+crushed and used for roads and other forms of construction for the local prison. This area
+was selected for quarrying because of the abundance of subsurface sandstone boulders
+and natural outcrops. In fact, it is referred to in the Soil Survey of Walker County, Texas
+(McClintock et al. 1979) as "Pits." This is not a soil type. Rather, it is used to identify an
+area containing numerous pits due to quarrying. If it were described as a soil type it would
+probably be labeled the Kitteril-Rock outcrop complex, 1 to 10 percent slopes, which is
+located nearby.
+According to Rodney Conwell (personal communication, February 4, 2004), the
+area was cleared of all vegetation except live oaks in the 1980s when the quarry was in
+operation. Today, it is mainly forested with small diameter trees that have grown since the
+quarry was closed. Some of these trees were observed growing within pits caused by
+quarrying. Large stands of palmetto have invaded the disturbed areas. In most areas it is
+impossible to determine the original land surface. The three areas of "potholes" described
+by Klement and Bailey in 1984 are believed to be the result of the quarrying, not artifact
+collectors. The sketch map drawn (not on site) by Wayne Klement and Gail L. Bailey
+depicts a pattern of holes uniform in size. This is not what was observed in the field, as the
+sketch map presents a much different picture than what is actually present. It is important
+to state here that the sketch map was not made on site, and the location of quarry and
+"potted areas" are an estimate. There were numerous areas where sandy soil was visible
+due to rodent burrows, ant mounds, or other forms of disturbance associated with the
+quarrying. However, no cultural materials were observed on the surface in this area during
+a 100% pedestrian survey of the site area by a team of four persons. Klement and Bailey
+also refer to 41WA2 as a multi-component site that may represent a significant Caddo
+occupation. There is no hard evidence for these statements. They, for example, do not
+describe specific artifacts that can be identified as Caddo. No description is given for the
+ceramic sherd they observed in a "pothole." No ceramics are mentioned in the two
+photographs they took of two local collections. On the site form they only mention
+projectile points made from local material.
+This project recovered artifacts at the eastern and western edges of 41WA2 as
+plotted on the TARL maps. These materials provide the first account of artifacts collected
+by shovel testing at this site.
+
+35
+
+Figure 20. Disturbance at 41WA2
+
+36
+
+Figure 21. Disturbance at 41WA2
+
+No evidence was found to support the designation of this site as a State
+Archeological Landmark. No formal investigations were conducted at this site prior to its
+nomination. No features were observed by the previous researchers or during this study.
+Only one photograph of artifacts from the site area exists, and it depicts projectile points
+along with unifacial and bifacial tools made from local materials. These artifact types are
+very common throughout Walker County and are typical of the many Late Prehistoric sites
+in this part of Texas.
+
+37
+
+RESULTS AND CONCLUSIONS
+The Minimum Survey Standards published by the THC, Archeology Division,
+discuss levels of work for project areas of 200 acres or less. Larger project areas must be
+reviewed by the THC prior to initiating a field survey. For this project, a Research Design
+was submitted with the permit application, which outlined the methods to be followed.
+In addition to previously recorded site 41WA2, nine prehistoric sites (41WA273 41WA281) were found within the boundaries of the project area as currently proposed.
+The site inventory consists of two probable campsites (41WA2 and 41WA275) and eight
+sites described here as special activity areas or short term use areas where tool reworking
+was the major activity. Previous work in this part of Southeast Texas (Moore 1996) has
+proven that upland margins overlooking major streams are very high probability areas for
+the presence of prehistoric sites. This study supports this hypothesis in that most of the
+nine sites found during this study were along or near the upland margin overlooking
+Harmon Creek or the Trinity River, two of the most important drainages in the county.
+Lithic artifacts and debitage from these sites consist solely of local materials. The gravels
+were probably obtained from lag deposits in nearby streams. Although this study has
+identified a number of sites in an upland setting, the majority of these areas are not worthy
+of additional investigation. Site 41WA2 may have contained research potential prior to
+being virtually destroyed by quarrying activities. Although no features were observed at
+site 41WA275, the presence of a dart point and a Waco sinker suggest this area may
+represent a campsite. Since this area appears to have been occupied during the Archaic
+period and few of these sites have been investigated in this part of Texas, it is the only
+prehistoric site within the project area believed to possess research potential and be worthy
+of additional investigation.
+Two sites (41WA274 and 41WA275) contain historic components. The artifact
+return from each site is sparse and consists of nails (machined and cut), bottle glass
+(machine made), and undecorated crockery fragments at or near the surface. These
+artifacts have long production ranges and are not particularly temporally sensitive. The
+bottle glass came from machine-made vessels, suggesting these items were discarded
+after 1920. The presence of two cut nails may suggest a pre-twentieth date for these
+specimens, but this inference was not confirmed by any of the other artifacts recovered onsite and is suspect due to the small sample size. Artifacts typically associated with a house
+such as bricks and window glass were not recovered, and no above-ground features such
+as a well or cistern were observed during a thorough surface inspection of the area.
+All available maps were checked for evidence of a house or other type of structure
+in the area of these sites (see Methods above). Nothing indicating the presence of a
+structure in the vicinity of the historic trash was found.
+38
+
+The earliest reference to the project area on file at the Walker County Courthouse
+revealed that the 345.58 acre tract containing sites 41WA274 and 41WA275 was part of a
+2510.45 acre tract of land owned by Johnnie May Smither, the widow of Gabe Smither, in
+1912 (Volume 110, pages 225-234; Abstract 322), the widow of Gabe Smither. According
+to local informants, Mr. Smither always lived in town and never developed this tract for a
+residence. Smither sold that portion of his property containing the current project area to
+Johnny W. Allen and his wife, Lue Eller Allen, on October 16, 1937 (Volume 165, page
+138). The Allens were also absentee owners who lived in Hillsborough, Florida. They sold
+the tract to Albert and Julia Cunningham of Walker County, Texas in December of 1958
+(Volume 165, page 138; Abstract 38). The fact that the Cunninghams lived in Huntsville
+suggests that they were non-resident owners and that the land had not been substantially
+improved. This statement is supported by an absence of structures on the topographic
+maps, no marked increase in taxes in the tax records at the Walker County Appraisal
+District, and no record of anyone filing for a homestead at the Walker County Courthouse.
+On November of 1959 ownership of the 345.58 acre tract was transferred by donation from
+the Cunninghams to the Texas Department of Corrections. The only structures known to
+have been constructed by the prison are the brick houses and pavilion built by prison labor
+in the 1970s. These buildings were still standing during the current survey.
+Based on this information, it is hypothesized that these materials may represent an
+area where trash was intentionally discarded. Based on the paucity of historic artifacts at
+these two components and the lack of intact deposits, these components do not appear to
+meet any of the five criteria that would make them eligible for designation as a State
+Archeological Landmark.
+Appendix III presents a thorough discussion of the artifacts found during this survey,
+and Appendix IV depicts the location of the 21 areas surveyed and sites identified.
+
+39
+
+RECOMMENDATIONS
+Evidence of a State Archeological Landmark site (41WA2) in the area depicted on
+the topographic map at TARL was found during this survey. The vast majority of the site
+has been disturbed through rock quarrying activities that has destroyed its research
+potential; therefore, no further work in this area is recommended.
+Only one of the nine newly recorded prehistoric sites (41WA275) is believed to
+contain research potential and be eligible for designation as a State Archeological
+Landmark. It is recommended that the prehistoric component of this site be tested for
+significance if avoidance is not possible during construction of the SHSU Camp.
+Evidence of historic utilization of the project area was found at sites 41WA274 and
+41WA275 in the form of crockery fragments, nails, and bottle glass on the surface and in
+the upper layers of certain shovel tests. The historic components at these sites do not
+meet any of the five criteria for eligibility as a State Archeological Landmark, and additional
+work is not deemed necessary.
+
+40
+
+REFERENCES CITED
+Blair, W. Frank
+1950
+
+The Biotic Provinces of Texas. The Texas Journal of Science
+11(1):93-116.
+
+Boyd, Douglas K., and Margaret A. Howard
+Archeological Testing at 41WA97, Sam Houston National Forest,
+1988
+Walker County, Texas. Prewitt and Associates, Inc., Technical
+Reports, Number 3.
+Davis, Michael W., Jan Guy, Marybeth S. F. Tomka, and Daniel J. Crouch
+Archeological Investigations at Huntsville Fish Hatchery, Walker
+1994
+County, Texas. Texas Parks and Wildlife Department, Cultural
+Resources Program. Austin.
+Ensor, H. Blaine, and David L. Carlson
+The Crawford Site, 41PK69, Central Trinity River Uplands, Polk
+1988
+County, Texas. Texas State Department of Highways and Public
+Transportation, Highway Design Division, Contract Reports in
+Archeology Number 4.
+Fields, Ross C.
+1979
+
+Ippolito, John E.
+1983
+
+Cultural Resources of the Davy Crockett, Sam Houston, Angelina,
+and Sabine National Forests of Texas. Report submitted under
+Contract No. 53-432P-8-00219 to the United States Department of
+Agriculture, United States Forest Service, by the Texas
+Archeological Research Laboratory, The University of Texas at
+Austin.
+
+A Cultural Resource Overview of the National Forests in Texas.
+United States Department of Agriculture, Forest Service, Lufkin,
+Texas.
+
+Keller, John Esten
+1974
+The Subsistence Paleoecology of the Middle Neches Region of
+East Texas. Unpublished Ph.D. Dissertation, The University of
+Texas at Austin.
+
+41
+
+Kenmotsu, Nancy Adele, and Timothy K. Perttula (editors)
+Archeology in the Eastern Planning Region, Texas: A Planning
+1993
+Document. Department of Antiquities Protection, Cultural Resource
+Management Report 3. Texas Historical Commission.
+McClintock, William R., Jr., Joseph J. Castille, Michael Stewart, and L. E. Andrew
+1979
+Soil Survey of Walker County, Texas. United States Department of
+Agriculture, Soil Conservation Service and Forest Service in
+cooperation with the Texas Agricultural Experiment Station.
+McClurkan, Burney B.
+Livingston Reservoir, 1965-66: Late Archaic and Neo-American
+1968
+Occupations. Papers of the Texas Archeological Salvage Project,
+Number 12.
+McNatt, Logan D.
+1978
+
+Moore, Roger G.
+1995
+
+1996
+
+Archeological Investigations at the Kaygal Recreation Area Site
+(41WA82), Walker County, Texas. Texas A&M University,
+Anthropology Laboratory, Report 44.
+
+The Mossy Grove Model of Long-Term Forager-Collector
+Adaptation in Inland Southeast Texas. Unpublished Ph.D.
+dissertation, Department of Anthropology, Rice University, Houston,
+Texas.
+An Empirical Analysis of Elements of Prehistoric Site Location and
+Formation in Harris County, Texas. Moore Archeological
+Consulting, Reports of Investigations 149.
+
+Moore, William E., and Roger G. Moore
+An Archeological Survey of a Proposed Trinity River Authority
+1995
+Waterline Project, Walker County, Texas. Moore Archeological
+Consulting, Report of Investigations Number 171.
+Patterson, Leland W.
+1995
+The Archeology of Southeast Texas. Bulletin of the Texas
+Archeological Society 66:239-264.
+
+42
+
+Rogers, Robert
+1993
+
+1994
+
+Shafer, Harry J.
+1968
+
+Data Recovery of Three Prehistoric Sites at the Gibbons Creek
+Third Five-Year Mine Permit Area, Grimes County, Texas. Espey,
+Huston & Associates, Inc. Document Number 910529.
+Excavations at Site 41GM224 in the Gibbons Creek Lignite Mine
+Permit 38A Area, Grimes County, Texas. Espey, Huston &
+Associates, Inc. Document Number 930476.
+
+Archeological Investigations in the San Jacinto River Basin,
+Montgomery County, Texas. Papers of the Texas Archeological
+Salvage Project, Number 13.
+
+Shafer, Harry J., and Thomas B. Stearns
+Archeological Investigations at the Scott's Ridge Site (41MQ41),
+1975
+Montgomery County, Texas. Archeology Laboratory, Report
+Number 17. Texas A&M University.
+Thornthwaite, C. W.
+1948
+An Approach Toward a Rational Classification of Climate.
+Geography Review 38:55-94.
+
+43
+
+APPENDIX I
+
+TRIP REPORT FOR 41WA2
+(Transcribed from the original document by William E. Moore)
+
+Trip Report
+Wayne Klement
+Office of the State Archeologist
+
+Trip to Huntsville, Texas
+September 27, 1984
+________________________________________________________________
+On Thursday, September 27, 1984, Gail Bailey and I made a trip to
+Huntsville to follow up a report from Tom Anders that a site on state property
+(prison land) was being vandalized. I phoned Tom Anders in advance and made
+arrangements for him to show us the location of the site, and contacted the
+Department of Corrections to inform them that we would be coming down to
+evaluate the site.
+We arrived at the entrance to the Ellis Unit of the state prison at 10:00
+a.m. where we met Tom Anders and the Farm Manager of the prison, Jean
+Roberts. Then we drove out to the site that is located along the south shore of
+Lake Livingston in the Harmon Creek branch. Jean informed us that part of this
+area was quarried for sand and gravel in previous years and that artifacts had
+been found while removing the fill.
+Upon inspection, we found that the eastern portion of the site had been
+destroyed by the quarrying operations; also, there were quite a few potholes in
+this area -- and several looked fairly recent. Cultural material was also observed,
+mostly in backdirt piles from the potholes. West of the quarry area, a portion of
+the site was found to be heavily potted, as there were numerous potholes and
+backdirt piles observed along with three standing screens. Cultural material was
+also present in this area, including a pottery sherd and shell tool that was
+photographed. Photographs were taken of the heavily potted area, the
+pothunters' screens, and the quarry area. The site appears to cover a fairly large
+area, as determined by cultural material observed in the backdirt piles and
+occasionally along the ground surface. And, in some areas that have not been
+damaged, the ground cover was so heavy that cultural material could not be
+observed on the surface, but these areas most likely also contain cultural
+deposits. However, testing of the site needs to be done to actually determine
+how much of the occupation areas remain intact. In a rough estimate, I would
+say that probably 40%-50% of the site remains intact.
+After visiting the site, Gail, Tom, and I talked with Warden Estes at the
+Ellis Unit and informed him that the site was being vandalized and that such sites
+should be protected in accordance with the Texas Antiquities Code. Warden
+Estes stated that he would have the gate to the area kept locked when possible
+to try and keep people away from the site. Apparently, the site is in the vicinity of
+the prison employees' recreation area, so people do have access to the area.
+
+Tom Anders also made arrangements for us to photograph a private
+collection from the site owned by a Huntsville area resident, Bill Woods, as well
+as allowing us to photograph his collection from the site.
+This site appears to be a rather significant Caddoan site because of the
+quantity of artifacts that have been collected from it as well as the fact that the
+depth of the cultural material deposits suggest that the site must have been
+occupied for quite some time and may have stratified cultural levels. At this time
+it is unknown whether or not this is a single or multiple component site.
+Recommendations: A more extensive survey of the entire area and mapping and
+testing of this site.
+Although the Warden said he would try to keep the gate to the area
+locked, the site needs to be checked again in the near future to make sure that
+the vandalism of the site has stopped. It may also be necessary to have the
+screens on the site impounded, either by the prison officials or by the local law
+enforcement agency, as the site is on state land that is being vandalized. "No
+Trespassing" signs might also be posted in the site area.
+
+Address & names of contacts in Huntsville:
+Tom Anders
+P.O. Box 4
+Huntsville, Texas 77340
+Warden Estes
+Ellis Unit
+Huntsville, Texas 77343
+Bill Woods
+(home address unknown)
+Work location - Central Freight Lines; Huntsville, Texas
+
+APPENDIX II: SHOVEL TEST LOG
+________________________________________________________________
+Test
+Depth
+Results
+________________________________________________________________
+Area A (41WA273)
+01
+
+40 cm
+
+gray sandy clay over yellow clay; negative
+
+02
+
+30 cm
+
+gray sandy clay over yellow clay; negative
+
+03
+
+20 cm
+
+gray sandy clay over yellow clay; negative
+
+04
+
+20 cm
+
+gray sandy clay over yellow clay; negative
+
+05
+
+20 cm
+
+gray sandy clay over yellow clay; negative
+
+06
+
+30 cm
+
+gray sandy clay over yellow clay; negative
+
+07
+
+30 cm
+
+gray sandy clay over yellow clay; 1 flake at 10 cm
+
+08
+
+25 cm
+
+gray sandy clay over yellow clay; 1 flake at 10 cm
+
+09
+
+20 cm
+
+gray sandy clay over yellow clay; negative
+
+10
+
+20 cm
+
+gray sandy clay over yellow clay; negative
+
+11
+
+20 cm
+
+gray sandy clay over yellow clay; negative
+Area B
+
+12
+
+15 cm
+
+gray sandy clay over red clay; negative
+
+13
+
+10 cm
+
+gray sandy clay over red clay; negative
+Area C (41WA274)
+
+14
+
+80 cm
+
+yellow fine sandy loam over yellow clay; 3 historic
+ceramics at 0-10 cm
+
+15
+
+60 cm
+
+yellow fine sandy loam over yellow clay; negative
+
+16
+
+65 cm
+
+dark gray fine sandy loam to 30 cm; yellow fine sandy
+loam to 65 cm; dug through red clay to 65 cm; 3
+flakes at 10-20 cm
+
+________________________________________________________________
+Test
+Depth
+Results
+________________________________________________________________
+17
+
+70 cm
+
+dark gray fine sandy loam to 30 cm; yellow fine sandy
+loam to 60 cm; dug through red clay to 70 cm; glass
+(n=5) and historic ceramics (n=2) at 10-20 cm
+
+18
+
+70 cm
+
+dark gray fine sandy loam to 30 cm; yellow fine sandy
+loam to 60 cm; dug through red clay to 70 cm; glass
+(n=3), nails (n=2), ceramics (n=1), and flakes (n=2) at
+10-20 cm; 2 flakes at 30-40 cm
+
+19
+
+70 cm
+
+dark gray fine sandy loam to 40 cm; yellow fine sandy
+loam to 60 cm; dug through red clay to 70 cm; glass
+(n=6) and nails (n=20) at 10-20 cm
+
+20
+
+30 cm
+
+dark gray sandy clay over red clay; negative
+
+21
+
+40 cm
+
+dark gray sandy clay over red clay; negative
+
+22
+
+60 cm
+
+dark gray fine sandy loam to 30 cm; tan fine sandy
+loam to 50 cm; dug through red clay at to 60 cm;
+negative
+
+23
+
+70 cm
+
+dark gray fine sandy loam to 30 cm; tan fine sandy
+loam to 50 cm; dug through red clay to 70 cm;
+negative
+
+24
+
+60 cm
+
+dark gray fine sandy loam to 30 cm; tan fine sandy
+loam to 55 cm; dug through red clay to 60 cm;
+negative
+
+25
+
+60 cm
+
+dark gray fine sandy loam to 35 cm; tan fine sandy
+loam to 55 cm; dug through red clay to 60 cm;
+negative
+
+26
+
+70 cm
+
+dark gray fine sandy loam to 40 cm; tan fine sandy
+loam to 60 cm; dug through red clay to 70 cm;
+negative
+
+159
+
+40 cm
+
+sand over clay; negative
+
+160
+
+40 cm
+
+sand over clay; negative
+
+________________________________________________________________
+Test
+Depth
+Results
+________________________________________________________________
+161
+
+100 cm
+
+sand (no clay encountered); 1 flake at 60-70 cm
+
+162
+
+60 cm
+
+sand over clay; negative
+
+163
+
+60 cm
+
+sand over clay; negative
+
+164
+
+50 cm
+
+sand over clay; negative
+Area D (41WA275)
+
+27
+
+70 cm
+
+dark gray fine sandy loam to 30 cm; tan fine sandy
+loam to 65 cm; dug through red clay to 70 cm;
+negative
+
+28
+
+80 cm
+
+dark gray fine sandy loam to 30 cm; tan fine sandy
+loam to 70 cm; dug through red clay to 80 cm; 6
+flakes at 20-30 cm
+
+29
+
+70 cm
+
+dark gray fine sandy loam to 30 cm; tan fine sandy
+loam to 60 cm; dug through red clay to 70 cm;
+
+30
+
+70 cm
+
+dark gray fine sandy loam to 30 cm; tan fine sandy
+loam to 60 cm; dug through red clay to 70 cm;
+negative
+
+31
+
+70 cm
+
+dark gray fine sandy loam to 35 cm; tan fine sandy
+loam to 60 cm; dug through red clay to 70 cm;
+negative
+
+32
+
+50 cm
+
+dark gray fine sandy loam to 20 cm; tan fine sandy
+loam to red clay at 50 cm; 2 flakes at 10-20 cm and 4
+flakes and 1 dart point at 20-30 cm
+
+33
+
+50 cm
+
+dark gray fine sandy loam to 20 cm; tan fine sandy
+loam to red clay at 50 cm; 1 historic ceramic at 0-10
+cm and 4 flakes at 20-30 cm.
+
+34
+
+60 cm
+
+dark gray fine sandy loam to 20 cm; tan fine sandy
+loam to red clay at 60 cm; negative
+
+________________________________________________________________
+Test
+Depth
+Results
+________________________________________________________________
+35
+
+50 cm
+
+dark gray fine sandy loam to 30 cm; tan fine sandy
+loam to red clay at 50 cm; negative
+
+36
+
+55 cm
+
+dark gray fine sandy loam to 25 cm; tan fine sandy
+loam to red clay at 55 cm; 6 flakes at 20-30 cm.
+
+37
+
+80 cm
+
+dark gray fine sandy loam to 30 cm; tan fine sandy
+loam to red clay at 80 cm; 5 flakes at 30-40 cm.
+
+38
+
+50 cm
+
+dark gray fine sandy loam to 20 cm; tan fine sandy
+loam to red clay at 50 cm; 13 flakes at 0-10 cm and 3
+flakes at 20-30 cm.
+
+39
+
+50 cm
+
+dark gray fine sandy loam to 30 cm; tan fine sandy
+loam to red clay at 50 cm; 5 flakes at 0-10 cm, 3
+flakes at 10-20 cm, 1 Waco sinker at 20-30 cm, and
+22 flakes at 40-50 cm.
+
+40
+
+50 cm
+
+dark gray fine sandy loam to 30 cm; tan fine sandy
+loam to red clay at 50 cm; 3 flakes at 30-40 cm.
+
+41
+
+40 cm
+
+dark gray fine sandy loam to 30 cm; tan fine sandy
+loam to red clay at 40 cm; negative.
+
+42
+
+50 cm
+
+dark gray fine sandy loam to 30 cm; tan fine sandy
+loam to red clay at 50 cm; 3 flakes at 20-30 cm.
+
+172
+
+40 cm
+
+sand over clay; negative
+
+173
+
+20 cm
+
+sand over clay; negative
+
+174
+
+60 cm
+
+sand over clay; negative
+
+175
+
+40 cm
+
+sand over clay; negative
+
+176
+
+60 cm
+
+sand over clay; negative
+
+________________________________________________________________
+Test
+Depth
+Results
+________________________________________________________________
+Area E (41WA276)
+43
+
+40 cm
+
+dark gray fine sandy loam to 20 cm; tan fine sandy
+loam to red clay at 40 cm; 4 flakes at 0-10 cm.
+
+44
+
+40 cm
+
+dark gray fine sandy loam to 20 cm; tan fine sandy
+loam to red clay at 40 cm; negative
+
+45
+
+50 cm
+
+dark gray fine sandy loam to 20 cm; tan fine sandy
+loam to red clay at 50 cm; negative
+
+165
+
+40 cm
+
+sand over clay; negative
+
+166
+
+60 cm
+
+sand over clay; 1 flake at 30-40 cm
+
+167
+
+15 cm
+
+sand over clay; negative
+
+168
+
+50 cm
+
+sand over clay; negative
+
+169
+
+20 cm
+
+sand over clay; negative
+
+170
+
+40 cm
+
+sand over clay; negative
+
+171
+
+60 cm
+
+sand over clay; negative
+Area F (41WA277)
+
+46
+
+30 cm
+
+dark gray fine sandy loam to 10 cm; tan fine sandy
+loam to 20 cm; dug through red clay to 30 cm; 6
+flakes at 0-10 cm.
+
+47
+
+25 cm
+
+dark gray fine sandy loam over a yellow clay at 25
+cm; negative
+
+48
+
+30 cm
+
+dark gray fine sandy loam to 10 cm; tan fine sandy
+loam to 30 cm where a yellow clay was encountered;
+7 flakes at 10-20 cm.
+
+49
+
+30 cm
+
+dark gray fine sandy loam to 10 cm; tan fine sandy
+loam to 30 cm where a yellow clay was encountered;
+1 flake at 0-10 cm.
+
+________________________________________________________________
+Test
+Depth Results
+________________________________________________________________
+50
+
+30 cm
+
+dark gray fine sandy loam to 10 cm; tan fine sandy
+loam to 30 cm where a yellow clay was encountered;
+negative
+
+51
+
+30 cm
+
+dark gray fine sandy loam to 10 cm; tan fine sandy
+loam to 30 cm where a yellow clay was encountered;
+negative
+
+52
+
+25 cm
+
+dark gray fine sandy loam to 10 cm; yellow fine sand
+to 25 cm where a yellow clay was encountered; 4
+flakes at 10-20 cm.
+
+53
+
+20 cm
+
+dark gray fine sandy loam to 10 cm; yellow fine sand
+to 20 cm where a yellow clay was encountered;
+negative
+
+155
+
+30 cm
+
+sand over clay; negative
+
+156
+
+40 cm
+
+sand over clay; negative
+
+157
+
+20 cm
+
+sand over clay; negative
+
+158
+
+50 cm
+
+sand over clay; negative
+Area G
+
+151
+
+20 cm
+
+dark gray fine sandy loam to 10 cm; yellow fine sand
+to 20 cm where a yellow clay was encountered;
+negative
+
+152
+
+20 cm
+
+dark gray fine sandy loam to 10 cm; yellow fine sand
+to 20 cm where a yellow clay was encountered;
+negative
+
+153
+
+25 cm
+
+dark gray fine sandy loam to 10 cm; yellow fine sand
+to 25 cm where a yellow clay was encountered;
+negative
+
+________________________________________________________________
+Test
+Depth Results
+________________________________________________________________
+Area H
+58
+
+40 cm
+
+sand over clay; negative
+
+59
+
+20 cm
+
+clay; negative
+
+60
+
+20 cm
+
+clay; negative
+
+61
+
+10 cm
+
+clay; negative
+
+62
+
+10 cm
+
+clay; negative
+Area I
+
+63
+
+30 cm
+
+sand over clay; negative
+
+64
+
+20 cm
+
+clay; negative
+
+65
+
+20 cm
+
+sandy clay over clay; negative
+
+66
+
+20 cm
+
+sandy clay over clay; negative
+
+67
+
+30 cm
+
+sand over clay; negative
+
+68
+
+40 cm
+
+sandy clay over clay; negative
+
+69
+
+30 cm
+
+sandy clay over clay; negative
+
+70
+
+30 cm
+
+sandy clay over clay; negative
+
+71
+
+20 cm
+
+clay; negative
+
+72
+
+10 cm
+
+clay; negative
+Area J (41WA278)
+
+73
+
+50 cm
+
+sand over clay; 1 flake at 10-20 cm
+
+74
+
+40 cm
+
+sandy clay over clay; negative
+
+________________________________________________________________
+Test
+Depth Results
+________________________________________________________________
+75
+
+100 cm
+
+sand (clay not encountered) to 100 cm; 1 flake at 3040 cm, 1 biface fragment at 70-80, and 1 ceramic
+sherd at 90-100 cm.
+
+124
+
+50 cm
+
+sand over clay; negative
+
+125
+
+30 cm
+
+sandy loam over clay; negative
+
+126
+
+50 cm
+
+sandy loam over clay; negative
+
+127
+
+90 cm
+
+sandy over clay; 2 flakes at 40-50 cm, 2 flakes at 5060 cm, and 1 flake at 80-90 cm.
+
+128
+
+10 cm
+
+clay; negative
+
+129
+
+60 cm
+
+sand over clay; 1 flake at 30-40 cm and 3 flakes and 1
+cobble at 40-50 cm
+
+130
+
+65 cm
+
+sand over clay; negative
+
+131
+
+70 cm
+
+sand over clay; negative
+Area K (41WA279)
+
+76
+
+40 cm
+
+sand over clay; negative
+
+77
+
+30 cm
+
+sand over clay; negative
+
+78
+
+60 cm
+
+sand (clay not encountered); 1 flake at 20-30 cm, 4
+flakes and 1 core at 50-60 cm, and 1 tested
+cobble/core at 70-80 cm.
+
+79
+
+40 cm
+
+sand over clay; negative
+
+80
+
+20 cm
+
+sand over clay; negative
+
+81
+
+20 cm
+
+sand over clay; negative
+
+82
+
+20 cm
+
+sand over clay; negative
+
+83
+
+40 cm
+
+sand over clay; negative
+
+________________________________________________________________
+Test
+Depth Results
+________________________________________________________________
+84
+
+20 cm
+
+sand over clay; negative
+
+85
+
+70 cm
+
+sand over clay; 1 flake at 40-50 cm and 1 flake and 1
+tested cobble at 50-60 cm
+
+86
+
+50 cm
+
+sand over clay; 2 flakes at 40-50 cm
+
+87
+
+40 cm
+
+sand over clay; 1 flake at 30-40 cm
+
+88
+
+40 cm
+
+sand over clay; negative
+
+89
+
+40 cm
+
+sand over clay; negative
+
+90
+
+20 cm
+
+sand over clay; negative
+
+91
+
+50 cm
+
+sand over clay; negative
+
+92
+
+50 cm
+
+sand over clay; negative
+
+93
+
+40 cm
+
+sand over clay; negative
+Area L (41WA280)
+
+94
+
+40 cm
+
+sandy loam over clay; negative
+
+95
+
+30 cm
+
+sand over clay; negative
+
+96
+
+30 cm
+
+sand over clay; negative
+
+97
+
+100 cm
+
+sand (no clay encountered); negative
+
+98
+
+35 cm
+
+sand over clay; negative
+
+99
+
+50 cm
+
+sand over clay; 1 flake at 20-30 cm and 2 flakes at
+40-50 cm
+
+100
+
+40 cm
+
+sand over clay; negative
+
+101
+
+30 cm
+
+sand over clay; negative
+
+102
+
+30 cm
+
+sand over clay; negative
+
+________________________________________________________________
+Test
+Depth Results
+_______________________________________________________________
+103
+
+100 cm
+
+sand (no clay encountered); 1 flake at 60-70 cm and 1
+flake at 80-90 cm
+
+104
+
+80 cm
+
+sand over clay; 1 flake at 50-60 cm
+
+105
+
+50 cm
+
+sandy clay over clay; negative
+
+106
+
+80 cm
+
+sand over clay; 1 flake at 60-70 cm
+
+107
+
+40 cm
+
+sand over clay; negative
+
+108
+
+100 cm
+
+sand (no clay encountered); negative
+
+109
+
+100 cm
+
+sand (no clay encountered); 1 flake at 50-60 cm, 1 f
+lake at 70-80 cm, and 1 flake at 90-100 cm
+
+110
+
+100 cm
+
+sand (no clay encountered); 1 flake at 30-40 cm and 2
+flakes at 80-90 cm
+
+111
+
+70 cm
+
+sand over clay; 2 flakes at 60-70 cm
+
+112
+
+30 cm
+
+sand over clay; negative
+
+113
+
+50 cm
+
+sand over clay; negative
+
+114
+
+50 cm
+
+sand over clay; negative
+
+115
+
+60 cm
+
+sandy clay over clay; negative
+
+116
+
+50 cm
+
+sandy clay over clay; negative
+
+117
+
+70 cm
+
+sand over clay; negative
+
+118
+
+60 cm
+
+sand over clay; 1 flake at 40-50 cm and 2 flakes at
+50-60 cm
+
+119
+
+40 cm
+
+sand over clay; 2 flakes at 30-40 cm
+
+120
+
+40 cm
+
+sandy loam over clay; negative
+
+121
+
+30 cm
+
+sandy loam over clay; negative
+
+________________________________________________________________
+Test
+Depth Results
+_______________________________________________________________
+122
+
+30 cm
+
+sandy loam over clay; negative
+
+123
+
+40 cm
+
+sandy loam over clay; negative
+Area M (41WA2)
+
+53
+
+50 cm
+
+sand over clay; negative
+
+54
+
+100 cm
+
+sand; negative
+
+55
+
+100 cm
+
+sand (no clay encountered); 2 flakes at 50-60 cm and
+1 flake and 1 hammerstone at 80-90 cm
+
+56
+
+100 cm
+
+sand (no clay encountered); negative
+
+57
+
+100 cm
+
+sand (no clay encountered); 1 flake and 1 piece of
+mussel shell at 50-60 cm, 1 flake and 1 piece of
+mussel shell at 70-80 cm, and 1 flake and 1 piece of
+shatter at 90-100 cm.
+
+132
+
+90 cm
+
+sand (no clay encountered); 1 hammerstone at 60-70
+cm; 1 flake at 60-70 cm, and 1 flake at 70-80 cm
+
+133
+
+100 cm
+
+sand (no clay encountered); 1 flake at 70-80 cm and 1
+flake at 90-100 cm
+
+134
+
+100 cm
+
+sand (no clay encountered); 1 flake at 70-80 cm
+
+135
+
+100 cm
+
+sand (no clay encountered); negative
+
+136
+
+100 cm
+
+sand (no clay encountered); negative
+
+137
+
+100 cm
+
+sand (no clay encountered); negative
+Area N (41WA281)
+
+138
+
+70 cm
+
+sand (no clay encountered); 1 split cobble and 1 flake
+at 20-30 cm and 1 biface fragment at 50-60 cm
+
+139
+
+50 cm
+
+sand over clay; 1 flake at 30-40 cm
+
+________________________________________________________________
+Test
+Depth Results
+________________________________________________________________
+140
+
+30 cm
+
+sand over clay; 2 flakes at 20-30 cm
+
+141
+
+20 cm
+
+sandy clay over clay; negative
+
+142
+
+30 cm
+
+sandy clay over clay; negative
+
+143
+
+50 cm
+
+sandy clay over clay; negative
+
+144
+
+60 cm
+
+sand over clay; 1 flake at 20-30 cm
+
+145
+
+60 cm
+
+sand over clay; negative
+
+146
+
+40 cm
+
+sand over clay; 1 flake at 20-30 cm
+
+147
+
+20 cm
+
+sandy clay over clay; negative
+
+148
+
+30 cm
+
+sand over clay; negative
+
+149
+
+40 cm
+
+sand over clay; negative
+
+150
+
+50 cm
+
+sand over clay; negative
+Area U (41WA2)
+
+177
+
+60 cm
+
+sand clay over rock; negative
+
+178
+
+20 cm
+
+clay; negative
+
+179
+
+40 cm
+
+sandy clay over clay; negative
+
+180
+
+30 cm
+
+sandy clay over clay; negative
+
+181
+
+40 cm
+
+sandy clay over clay; negative
+
+182
+
+40 cm
+
+sandy clay over clay; negative
+
+183
+
+30 cm
+
+sandy clay over clay; negative
+
+184
+
+50 cm
+
+sandy clay over clay; negative
+
+185
+
+50 cm
+
+sand over clay; 1 flake and 1 core at 30-40 cm
+
+________________________________________________________________
+Test
+Depth Results
+________________________________________________________________
+186
+
+40 cm
+
+sand over clay; negative
+
+187
+
+30 cm
+
+sand over clay; negative
+
+188
+
+40 cm
+
+sand over clay; 1 flake and 1 biface at 30-40 cm
+
+189
+
+40 cm
+
+sandy clay over clay; negative
+
+190
+20 cm
+sandy clay over clay; negative
+________________________________________________________________
+________________________________________________________________
+
+APPENDIX III: LITHIC ANALYSIS
+Introduction
+The archaeological survey conducted on Sam Houston State University
+(SHSU) property resulted in the recovery of 14 lithic artifacts and 177 pieces of
+lithic debitage or waste flakes. These artifacts were collected from 47 shovel
+tests that, when plotted on the topographic map at TARL, defined ten distinct
+occupational areas or sites (41WA2, 41WA273 - 41WA281).
+Analysis
+The artifacts include 1 complete projectile point, 1 fragmented projectile
+point (distal end), 3 biface fragments, 3 tested cobbles, 2 cores, 2
+hammerstones, 1 Waco sinker, and 1 split cobble. These artifacts and the
+debitage, composed of flakes discarded from various lithic manufacturing and
+maintenance activities, are all made of local materials such as a variety of chert
+types, silicified wood, silicified palm, opalized wood, and quartzite. All of these
+materials, especially chert and quartzite, commonly occur within local gravels.
+Silicified wood, palm, and opal are also found within these gravels, but may also
+be found in more scattered deposits.
+Most of these materials produce good identifiable artifacts and byproducts, but in some cases it can be difficult to determine whether the artifacts
+they produced were made by cultural or natural mechanisms. Silicified wood, for
+example, is a very common material found in a number of contexts over most of
+the eastern half of Texas. This abundance and the fact that it often fractures in
+linear planes that commonly terminates in squared edges or chunks, makes the
+exact origin of some fragments difficult or impossible to determine. For this
+reason, only those specimens having definable characteristics identifying them
+as being culturally derived were analyzed.
+As mentioned above, ten occupational areas are defined by the artifact
+recovery. The artifacts from each of these areas were analyzed and interpreted
+separately. However, the significance between these areas within the survey will
+be discussed as a whole in the concluding remarks. Each artifact is identified as
+to artifact type, material type, condition, and size. Flakes were categorized for
+flake type (i.e., cortical, secondary or interior) along with noting platform type,
+platform preparation, and ventral characteristics such as presence of platform
+lipping and bulb of percussion. The evaluation of each of these individual
+attributes will provide some information as to the type of activities performed at
+each of these occupational areas. A list of artifacts and debitage recovered by
+shovel test, level, and area is provided in Appendix II. The ten occupational
+areas are discussed below.
+
+41WA273 (Area A)
+This area contains the smallest number of recovered materials by the
+survey. Only two flakes were recovered, both from Level 1 (0 - 10 cm) of two
+shovel tests. Both flakes are of local chert and are fragmented, consisting only of
+the distal ends. Both are interior flakes (i.e., flakes without cortex) and are small,
+categorized as size grades 5 (less than 3/4 inch, but greater than 1/2 inch) and 6
+(less than 1/2 inch, but greater than 1/4 inch), respectively.
+Since no other artifacts and only two flakes were recovered, little can be
+derived from this area other than a minor cultural presence. Their presence in
+Level 1 suggests either a very late presence or they are the result of some
+disturbance. The small size and fragmented state of the flakes can only hint at
+their purpose. For example, flakes often fragment during production, and the
+smaller sizes usually indicate late stage tool manufacture or maintenance
+activities. Therefore, based on the state of these flakes, not much more can be
+concluded.
+41WA274 (Area C)
+Eight flakes were recovered from this area in four shovel tests. Five flakes
+were recovered from Level 2 (10 - 20 cm), 2 from level 4 (30 - 40 cm), and 1 from
+Level 9 (80 - 90 cm). The flakes from Level 2 consisted of silicified wood (n=3)
+and chert (n=2). All of the silicified wood flakes are small distal fragments, 2
+being size grade 6, and 1 size grade 7, (less than 3/8 inch, but greater than 1/4
+inch). The chert flakes are a proximal and medial fragment, both size grade 7.
+All of the Level 2 flakes are interior except one of the chert flakes that is
+secondary (a flake having less than 90% of its surface covered in cortex). The
+single proximal chert fragment has an unlipped plain platform combined with a
+good bulb of percussion (an evident swelling near the striking platform) on its
+ventral surface. Typical views of such flakes suggest its removal by the use of a
+hard hammer, such as a quartzite hammerstone.
+The two flakes from Level 4 consist of the distal end of a silicified wood
+flake and a complete chert flake. The chert flake is a secondary flake, size grade
+5 with a plain unlipped platform and a prominent bulb of percussion, while the
+silicified wood flake is a smaller interior flake in size grade 7. The single Level 9
+flake is an interior distal fragment, made of chert, and is size grade 7. The
+overall small size of these flakes suggests that tool maintenance activities and
+possibly expedient flake manufacturing activities utilizing hard hammer type
+percussion were the primary activities at this area. The presence of small
+secondary flakes would be expected in both biface and expedient flake
+manufacture.
+
+Typically, cortex removal occurs only during the initial bifacial reduction of
+cobbles where the cortical covered surface is gradually removed during
+reduction. Thus, in most cases, only the earlier biface stages will contain cortex,
+although occasionally cortex may remain even on finished bifaces used as
+projectile points or knives. However, if a cobble is used as a core for expedient
+flake production where flakes are removed as needed, some cortex may remain
+throughout the cobbles use as a core. Therefore, some secondary flakes may be
+produced throughout the use-life of the core.
+The flakes indicate that the heaviest occupation of this area is in levels 2
+through 4, but with some occupation in Level 9. Since no diagnostic artifacts
+were recovered it is difficult to determine what time periods are represented by
+these flakes. In addition, the low number and density of flakes recovered
+indicates only a minor occupation.
+41WA275 (Area D)
+This area had the largest number of artifacts and debitage recovered by
+the survey. They include 1 complete projectile point, the distal tip of a projectile
+point, a Waco sinker, and 80 pieces of debitage. They are discussed below.
+The distal tip of a projectile point was recovered from Level 2 of Shovel
+Test 40 (see Figure 3 in the report). This specimen comprises the distal half of a
+dart point with no remnant of a haft element remaining. It is made of a dense
+grade of silicified wood and measures 39.5 mm in length, 26.2 mm in width, and
+11.5 mm in thickness. Since no portion of the haft element or stem remains it
+cannot be identified to a definitive type. It's size, however, does classify it as a
+dart point, which at least places it no later than the Transitional Archaic, circa 300
+B.C. - A.D. 700 (Turner and Hester:1993:55-57).
+The complete projectile point was recovered from Level 3 of Shovel Test
+32 (see Figure 3 in the report). It has been identified as a Yarbrough point made
+of a white, possibly patinated, chert that measures 35.5 mm in length, 23.2 mm in
+width, and 9.1 mm in thickness. The tip has been shortened by re-sharpening or
+as a result of breakage, but otherwise is not damaged. The Yarbrough type is
+described as a slender point with convex lateral edges, slightly prominent
+shoulders, and a rectangular stem with edges that have been smoothed. This
+type dates to the Archaic 1000 B.C. to possibly later times, and it is commonly
+found throughout East Texas and decreases toward the west in north and central
+Texas (Perino 1985:400; Turner and Hester 1993:197).
+
+An artifact described as a Waco sinker was recovered from Level 3 of
+Shovel Test 39 (see Figure 3 in the report). This type of artifact was first
+identified by H. G. Moore (1935:11) and later named by Frank H. Watt (1938:2169). It is described as a medium-sized artifact fashioned from quartz or quartzite
+pebbles of varying colors ranging from clear, creamy white, greenish- brown,
+gray, dense blue, purple, and reddish black. In addition, some examples are
+known to have been made from hematite and sandstone. The ends of these
+pebbles are notched or grooved with shapes that were often fashioned by
+pecking and grinding into some elaborate shapes (Boyd and Shafer 1997:264265). Their exact function has not been determined, but many hypothesize they
+were used as either bolas or sinker stones (Watt 1938:53-57; Turner and Hester
+1993:316-317) or in some ritual or spiritual function (Boyd and Shafer 1997:266).
+The earliest dates recorded for Waco sinkers are from the Wilson-Leonard
+site at 9650-8000 B.C. (Boyd and Shafer 1997:266), but are more commonly
+found on Archaic aged sites (Turner and Hester:1993:316). They are generally
+found in central and north-central Texas, with the "core" area being in Ellis, Falls,
+Hill, Johnson, Limestone, McLennan, Coryell, Milam, and Navarro counties (Boyd
+and Shafer 1997:263).
+As mentioned above, the current specimen was recovered from Level 3 at
+a depth of 20-30 cm. This is slightly below the Yarbrough point which was found
+at the 10-20 cm level. This places its date within the Archaic to Late Archaic
+period. To date, no Waco sinkers have been recorded from this part of Texas in
+general and from Walker County in particular (Charles Boyd: personal
+communication 2004).
+This specimen is made of a light brown, fine-grained quartzite and
+measures 44.4 mm in length, 31.9 mm in width, and 22.2 mm in thickness. Only
+one end is grooved. The other end is only slightly abraded. Although some
+single grooved specimens are known (Watt 1938:31-31), this specimen appears
+to be an unfinished form.
+Eighty flakes were recovered from eight shovel tests in levels 1 - 5 (0-50
+cm). Eighteen flakes were recovered in Level 1 from two shovel tests (38-39), 10
+flakes in Level 2 from four shovel tests (32-33, 39-40), 22 flakes in Level 3 from
+five shovel tests (28, 32, 36, 38, 40), 8 flakes in Level 4 from two shovel tests
+(37, 40), and 22 flakes in Level 5 from one shovel test (39).
+All Level 1 flakes are small, fragmented, less than 3/8 inch and fall within
+size grades 6 (n=5), 7 (n=12), and 8 (n=1). Only 4 flakes are complete, and 3
+are proximal fragments. The majority of the flakes are interior types with only two
+that are secondary. Materials consist of silicified wood (n=12), quartzite (n=2),
+and several varieties of chert (n=4). Plain platforms with little modification were
+identified on five flakes, but some preparation in the form of faceting, is noted on
+the others.
+
+This type modification occurs when special attention is required on the
+platform area to produce a proper angle and to strengthen and/or isolate the
+striking point (platform). These modifications are often necessary to produce a
+successful and/or specific flake removal. The ventral surfaces range from those
+with bulbs of percussion and no platform lipping to those with diffuse (flat) bulbs
+and some platform lipping. This suggests that, in addition to hard hammer
+percussion, some soft hammer percussion has been introduced.
+The Level 2 flakes mirror Level 1 flakes. They are all small, falling within
+size grades 6 (n=4), 7 (n=5), and 8 (n=1), with only three complete flakes.
+Materials include silicified wood (n=2) and several types of chert (n=8). One
+flake of silicified wood is a primary flake (completely covered in cortex, or, in this
+case, its natural surface), while the rest are interior flakes. The platforms and
+platform preparation are the same as in level 1, except for the primary flake that
+has a natural, or unaltered platform.
+The Level 3 flakes are a continuation of those from the previous levels.
+They include 8 complete flakes, 3 proximal, 9 medial, and 2 distal fragments and
+fall within size grades 5 (n=3), 6 (n=7), 7 (n=9), and 8 (n=3). They are made of
+silicified wood (n=6) and several varieties of chert (n=16). All are interior flakes
+except for three primary and three secondary types. Two of the primary and all
+of the secondary are of chert. In addition, both lipped platforms with diffuse
+bulbs, and unlipped platforms with bulbs continue to be represented.
+Level 4 contained eight flakes, the fewest number recovered. They are
+small and fall within size grades 5 (n=1), 6 (n=4), and 7 (n=3). This sample
+consists of 5 complete flakes, 2 medial fragments, and 1 distal fragment. Of
+these 7 are interior, and 1 is secondary. Materials include silicified wood (n=3)
+and several varieties of chert (n=5). These flakes, like those in the previous
+levels, also reflect the same attributes and strategies employed as noted in the
+others.
+There is an increase in flakes within Level 5 with a total of 22 (the same
+number as those from Level 3). Size grades range from 5 (n=3), 6 (n=6), 7
+(n=7), and 8 (n=6). Eight are complete flakes, 3 are proximal, 9 are medial, and
+2 are distal fragments, of which, 3 are primary, 3 are secondary, and the
+remainder are interior types. The materials are like the previous levels that
+include silicified wood (n=13), silicified palm wood (n=1), quartzite (n=1), and
+chert (n=7). Platform preparation, in the form of faceting and some abrasion,
+continues to occur on both the complete flakes and the proximal fragments along
+with platform lipping combined with diffuse bulbs and un-lipped platforms with
+strong bulbs on the ventral surfaces.
+
+The debitage recovered from 41WA275 (Area D) indicates that tool refurbishing, such as re-shaping and sharpening activities were occurring. This is
+noted in the Yarbrough point, for example, which has been re-sharpened to a
+point where the tip has been significantly shortened. This, of course, may not
+have occurred at this spot, but it is an example of the type of activities that are
+indicated by the small debitage. In addition, the presence of some primary and
+secondary flakes and the lack of bifaces suggest that some expedient flake
+production may also have been performed as opposed to a formal tool
+manufacturing site. The most significant artifact recovered from this area is the
+Waco sinker, an artifact type that has not previously been reported from Walker
+County. In addition to its occurrence in Walker County, it was found in close
+association with a type of projectile point with a known approximate age that is
+valuable in providing additional dating information for Waco sinkers.
+41WA276 (Area E)
+Five flakes were recovered at this site; 4 in Level 1 at ST 43 and 1 in Level
+4 at ST 166. The Level 1 flakes are all interior flakes that are small [size grades
+6 (n=1) and 7 (n=4)] and include two 2 distal fragments and 2 proximal fragments
+made of silicified wood (n=2), quartzite (n=1), and chert (n=1). Both of the
+proximal fragments have diffuse bulbs of percussion with one having a plain
+platform with lipping while the other is crushed. The single flake from Level 4 is a
+secondary proximal fragment (size grade 7) and is made of chert. The platform
+is crushed, and the ventral surface is diffuse. Little can be deduced from these
+flakes other than the point that there was some occupation of this area with
+activities that centered on minor tool refurbishing or possible expedient tool
+manufacturing.
+41WA277 (Area F)
+Eighteen flakes were recovered at this site in levels 1 and 2 from four
+shovel tests (46, 48-49, 52). Seven flakes were recovered from Level 1 (six from
+ST 46 and one from ST 49). These flakes are small and measure within size
+grades 6 (n=3), 7 (n=2), and 8 (n=2). They consist of three complete flakes and
+four medial fragments. One flake is primary, and the rest are interior. They
+consist of 3 of silicified wood and 4 of chert. The complete flakes have platforms
+that are plain, un-lipped with diffuse bulbs, indicating the use of hard hammer
+percussion.Eleven flakes were recovered from Level 2. Like those from Level 1,
+these are small and fall within size grades 6 (n=2), 7 (n=6), and 8 (n=3). All
+flakes are interior and include 2 complete flakes, 6 medial, and 3 distal fragments
+that are made of silicified wood (n=4), silicified palm wood (n=1), quartzite (n=1),
+and several varieties of chert (n=5). Only one complete flake has an identifiable
+platform that is dihedral or faceted, abraded, with no lipping and a diffuse bulb of
+percussion.
+
+The presence of a diffuse bulb without a platform lip is not surprising as
+this condition often occurs in both soft and hard hammer types of percussion.
+The presence and absence of a bulb and, to a lesser degree, a platform lip can
+be altered depending upon the amount and direction of force as well as the type
+of percussor employed. Although more flakes were recovered from this area than
+from areas A and E, they reveal little information on the activities of the site. As
+with the other areas, minor tool refurbishing and possible expedient flake/tool
+manufacture appear to be predominant.
+41WA278 (Area J)
+Two artifacts and 12 pieces of debitage were recovered at this site. The
+artifacts include the proximal half of a biface and a tested cobble.
+The biface is the proximal half of an early stage biface that was found in
+Level 8 of Shovel Test 75. It is made of silicified wood, and the remaining portion
+is 35.6 mm in length, 40.0 mm in width, and 18.0 mm in thickness. It is an early
+stage biface made on a rough blank that has had only minimal flaking around
+one end and a portion of the remaining edge. Fracture probably occurred as a
+result of an end snap due to the fragility of the material.
+The tested cobble was found in Level 5 of ST 129 and is best described
+as a rectangular chunk of silicified wood with squared edges. It measures 70.1
+mm in length, 39.7 mm in width, and 27.6 mm in thickness. A single narrow flake
+has been removed from across one of its ends, revealing a solid and fine-grained
+interior. This procedure of removing one or two flakes from a piece of raw
+material is typical in when testing the usefulness of that material. For example,
+when looking for material to make stone tools, it is necessary to make an initial
+determination of the quality of the material selected. The simplest method is to
+remove a flake or two from the edge of the parent material (core) and evaluate
+the interior for the presence of cracks and/or inclusions. This is especially
+important when one considers the amount of energy expended carrying a piece
+of material for some distance if that material is ultimately found to be of no value
+for tool manufacture.
+Twelve flakes were found between levels 2 to 9 from four shovel tests. A
+single flake was recovered from Level 2 (ST 73), 0 in Level 3, 2 in Level 4 (75
+and 129), 5 in Level 5 (127 and 129), 3 in Level 6 (75 and 127), and 1 in Level 9
+(ST 127).
+The single flake from Level 2 is an interior type, size grade 6 medial
+fragment of silicified wood. The two flakes from Level 4 are small, grade 7,
+secondary and distal fragments of chert. Level 5 flakes are also small and fall
+within size grades 6 (n=1), 7 (n=3), and 8 (n=1) and consist of 2 complete flakes,
+2 medial flakes, and 1 distal fragment. They are all interior flakes and are made
+of silicified wood (n=1), quartzite (n=2), and chert (n=2).
+
+Level 6 flakes include one complete secondary size grade 6 flake of chert
+and one interior medial grade 8 flake made of silicified wood. The Level 9 flake
+is a complete secondary, size grade 6 flake made of opalized wood. The
+platforms on the complete flakes for all levels are plain, un-lipped, and have good
+bulbs of percussion.
+The biface and tested cobble recovered indicate that some artifacts were
+bifacially reduced at this site. Both of these artifacts are small an indication that
+other blanks of raw materials selected for this purpose may also have been
+small. This assumption may account for the abundance of small flakes as
+opposed to larger flakes that are usually associated with bifacial reduction
+activities. Also, silicified wood does not have the normal cortical surface found
+on chert and quartzite cobbles, but has a uniform surface throughout with an
+outer surface that differs only in the amount of weathering it has been subjected
+to.
+41WA279 (Area K)
+Three artifacts and 10 pieces of debitage were recovered at this site. The
+artifacts include 1 core, 1 tested cobble/core, and 1 tested cobble.
+The core was made from a small chert cobble, and it was found in Level 6
+of Shovel Test 78. It measures 39.3 mm in length, 22.2 mm in width, and 16.1
+mm in thickness. Flakes have been removed from both lateral edges; the dorsal
+and ventral surfaces and one end. Cores are made from cobbles, chunks, or
+tabs of various types of siliceous materials such as chert to produce a variety of
+flakes or blades to be used as is or made into a desired type of tool. This
+specimen was used to produce flakes. It was first prepared by the removal of
+small flakes from the lateral edges. This lateral flaking enabled platforms to be
+set up for the removal of larger flakes from the dorsal and ventral surfaces.
+Materials such as chert cobbles have surfaces that are covered in cortex or are
+irregular, both of which are unsuitable for usable flake removals. Therefore, the
+edges are modified in order to establish a clear surface having a proper angle
+that will enable the removal of usable flakes. The small size of this core
+suggests that no further usable flakes could be produced, and it was abandoned.
+The tested cobble/core was made from a squared chunk of silicified wood,
+and it was found in Level 6 of Shovel Test 78. It measures 38.9 mm in length,
+18.4 mm in width, and 15.9 mm in thickness. One end and one of its surfaces
+have been flaked. Neither of the flakes removed were very large, and it is
+unclear whether these removals were performed to test the material or to
+produce usable flakes. Several cracks are apparent on its surface, but the
+interior revealed by the two flake removals shows that it is solid and fine grained.
+This suggests that it is still usable and that it may have been lost or cached.
+
+The tested cobble was made from a small quartzite cobble, and it was
+found in Level 6 of Shovel Test 85. It measures 46.1 mm in length, 28.7 mm in
+width, and 24.0 mm in thickness. Two small flakes have been removed from one
+end of the cobble, and the other end has been broken off. The surface contains
+a number of cracks that appear to continue into the mass of the cobble and may
+be the reason it was rejected. Cores, however, were often selected from poor
+quality materials (i.e., those considered unsuitable for formal tool manufacture,
+but contain enough mass to produce a number of usable flakes). Thus, these
+would be used to remove several flakes and then discarded. This specimen
+may have fallen into that category.
+The ten flakes were found in levels 3 (n=1), 4 (n=1), 5 (n=3), and 6 (n=5).
+The first flake encountered was in Level 3 (ST 78) and is a small (size grade 6)
+secondary flake made of opal. It has a plain platform and contains a good bulb
+of percussion. Interestingly, the cortex present occurs only on the proximal and
+distal ends. This suggests that it was flaked from the vertical edge of a core and
+may have been removed to enable a platform to be set up for subsequent flaking
+from one of the core's surfaces. A single interior flake was found in Level 4 (ST
+87). It is a very small, size grade 8, medial fragment made of chert. Three flakes
+were found in Level 5 of two shovel tests (85 and 86). These are small interior
+flakes, falling within size grades 6, 7, and 8, respectively. Two are proximal
+fragments, and one is complete. Materials include silicified wood (n=1) and chert
+(n=2). Both chert flakes have plain platforms and diffuse bulbs, while the silicified
+wood flake has an abraded plain platform with a prominent bulb of percussion.
+The five flakes from Level 6 were recovered from two shovel tests (78 and 85).
+Two of these are size grade 5, and 3 are size grade 7. One is primary, 1 is
+secondary, and 3 are interior. They include three complete specimens and two
+distal fragments that are made of silicified wood (n=1), opal (n=1), and several
+varieties of chert (n=3). The platform types and ventral surface characteristics
+are similar to those from the other levels, indicating a continuation of the same
+manufacturing techniques.
+The recovery of the cores and tested cobbles and at least one flake
+indicate that one of the primary activities on this site was the production of usable
+flakes to be used as expedient tools. The small flakes also indicate that tool refurbishing was performed. Such activities are typical of sites occupied for short
+periods of time where the principal tasks were centered on plant gathering and
+hunting.
+41WA280 (Area L)
+Twenty-three flakes were found at this site. They were found in levels that
+ranged 3 to 10 in nine shovel tests. One flake was recovered from Level 3 (ST
+99), 3 from Level 4 (110 and 119), 3 from Level 5 (99 and 118), 6 from Level 6
+(103, 104, 109, 118), 4 from Level 7 (103, 106, 111), 2 from Level 8 (ST 109), 3
+from Level 9 (103 and 110), and 1 from Level 10 (ST 109).
+
+The single flake from Level 3 is a small distal interior flake, size grade 7,
+and is made of opal. The Level 4 flakes are all interior and size grade 7. Two
+are distal fragments, and one is complete. They are made of silicified wood,
+quartzite, and chert. The single complete flake (quartzite) has a natural platform
+and a prominent bulb of percussion. The Level 5 flakes were size graded at 6, 7,
+and 8 and consist of 1 complete flake, 1 medial, and 1 distal fragment. Materials
+include opal (n=1), quartzite (n=1), and chert (n=1), with the opal specimen being
+a primary flake and the others interior. The single complete flake (quartzite) has
+a natural platform and a prominent bulb of percussion.
+The Level 6 flakes include one secondary flake and five interior flakes. All
+are small and fall within size grades 7 (n=3) and 8 (n=3). They consist of 3
+complete flakes, 1 proximal flake, and 2 distal fragments. Materials include
+silicified wood (n=2), quartzite (n=1), and several varieties of chert (n=3). Two of
+the complete flakes have plain platforms. One is lipped with a diffuse bulb, and
+one is un-lipped with a diffuse bulb of percussion. The proximal fragment also
+has a plain platform but has a strong bulb, while the third complete flake has a
+crushed platform and a strong bulb of percussion.
+The flakes from Level 7 are interior and are size grade 7. They consist of
+1 proximal and 3 distal fragments. Materials include silicified wood (n=1) and
+several varieties of chert (n=3). The single proximal fragment has a plain
+platform with a strong bulb of percussion. The two Level 8 flakes are also both
+interior and were size graded at 7. One is complete, and the other is a distal
+fragment. The complete flake has a plain platform that is lipped with a diffuse
+bulb of percussion.
+The Level 9 flakes are all interior and fall within size grades 7 (n=2) and 8
+(n=1). They consist of 1 complete flake, 1 proximal fragment, and 1 distal
+fragment. Materials include chert (n=2) and quartzite (n=1). The quartzite flake
+has a natural platform and a strong bulb. The complete chert flake has a plain
+platform with a diffuse bulb of percussion. The single Level 10 flake is a
+complete interior flake (size grade 6) and is made of silicified wood. The platform
+is natural combined with a prominent bulb of percussion.
+Although no artifact types were recovered, the flakes continue to reflect
+similar strategies and activities that have been determined from the flakes and
+artifacts noted from the other areas. The combinations having presence/absence
+of platform lipping and bulbs of percussion also continue to support the use of
+both soft and hard hammer percussion in the flaking techniques employed.
+
+41WA2 (Area M)
+Two artifacts and 11 pieces of debitage were recovered at this site. The
+artifacts are two hammerstones.
+Hammerstone 1 is a specimen that was made from a small quartzite
+cobble, and it was found in Level 7 of Shovel Test 132. It measures 47.9 mm in
+length, 30.4 mm in width, and 22.0 mm in thickness. Quartzite is often used for
+hammerstones. The interior structure of quartzite is composed of a large
+granular type structure that tends to collapse upon being struck as opposed to a
+sharp fracture that usually occurs in more fine-grained materials such as chert.
+Of course, if struck with enough force and at the proper angle, quartzite can be
+easily flaked and fashioned into various type tools. This specimen has only slight
+abrasion on one end and has been split on the other end from impact. The
+impacted end continued to be used as a hammerstone that, as evidenced by
+abrasion, was abraded/battered on the fractured surface.
+Hammerstone 2 is a specimen that was made from quartzite, and it was
+found in Level 9 of Shovel Test 55. It measures 84.3 mm long, 52.4 mm wide
+and 42.2 mm thick. This is a very unusual hammerstone because one end was
+used as a hammerstone while the other narrower end has a well-defined groove
+ground across it. The purpose of this groove is unclear, but it appears to have
+been used in some form of abrading. Its position on the narrow end would
+preclude its use in platform grinding, as it would be difficult to position on a sharp
+edge, such as on a biface. Rather, it would be much easier to use one of the
+more flattened sides for that purpose.
+The eleven flakes were found in levels 6, 7, 8, 9, and 10 from five shovel
+tests. Two flakes were found in Level 2 (185 and 188), 3 from Level 6 (55 and
+57), 1 from Level 7 (ST 132), 4 from Level 8 (57, 132, 133, and 134), 1 from
+Level 9 (ST 55), and 2 from Level 10 (57 and 133).
+The three Level 6 flakes are all complete with 2 made of chert and 1 of
+silicified wood. They were size graded as 6 (n=2) and 7 (n=1). Both chert flakes
+have natural platforms, one with a diffuse bulb and one with a strong bulb. The
+silicified wood flake has a crushed platform with a diffuse bulb of percussion.
+The single Level 7 flake is an interior distal fragment of silicified wood and was
+size graded as 7. The four Level 8 flakes are small and fall within grades 6 (n=3)
+and 7 (n=1). They consist of 1 complete flake, 2 medial fragments, and 1 distal
+fragment. Materials are silicified wood (n=1), quartzite (n=1), and chert (n=2).
+The only complete flake has a plain platform and a diffuse bulb. The single Level
+9 flake is a small, size grade 6 distal secondary flake of silicified wood. The two
+Level 10 flakes are both complete interior size grade 6 with one made of silicified
+wood and the other of chert. The platform on the chert specimen is natural with a
+bulb, and the platform on the silicified wood specimen is crushed with a diffuse
+bulb.
+
+The presence of the hammerstones indicate the use of hard hammer type
+percussion, such as would be expected from the use of quartzite hammerstones.
+The flakes are an indication of tool re-working.
+41WA281 (Area N)
+Two artifacts and 6 pieces of debitage were recovered from this area. The
+artifacts include a biface fragment and a split cobble.
+The biface is the proximal half of a biface recovered from Level 6 in
+Shovel Test 138. It is made of silicified wood and measures 32.3 mm in length,
+31.4 mm in width, and 11.5 mm in thickness. The material appears to be solid
+and fine-grained with no internal cracking. It is an approximate Stage 2 biface
+where both faces have been totally percussion flaked with the sides reduced to a
+sharp edge. The biface failed in a bending fracture that probably occurred as a
+result of an unsupported end snap.
+The split cobble was found in Level 2 of Shovel test 138. It is a small
+quartzite cobble that measures 32.6 mm in length, 19.4 mm in width, and 12.4
+mm in thickness. The cobble has been split through a bi-polar type technique.
+This is a technique where a small cobble was placed upon an anvil and struck
+with a percussor (Crabtree 1972:42) such as a quartzite hammerstone.
+Evidence for this technique is the presence of crushing on both ends that
+resulted from pressure exerted by the percussor and contact with an anvil.
+These attributes are exhibited on this specimen. This example has also had one
+flake removed from the edge of the fractured surface.
+The six flakes were found in Levels 2, 3, and 4 from five shovel tests. One
+flake was found in Level 3 (ST 138), 1 flake was found in Level 4 (ST 139), 2
+flakes were found in Level 3 (ST 140), and 2 flakes were found in Level 3 in
+shovel tests 144 and 146.
+The Level 2 flake a proximal interior flake (size grade 7) and made of
+chert. A platform is present which is plain with a good bulb of percussion. Level
+3 flakes are small and fall within size grades 7 (n=3) and 8 (n=1). They consist of
+two complete flakes and two medial fragments. They are made of silicified wood
+(n=2) and chert (n=2). Both of the complete bulbs have plain platforms, but one
+contains a bulb of percussion, and the other is diffuse. The recovery of the
+biface, and possibly the split cobble, indicate that biface reduction was one of the
+activities that occurred on the site. The flakes add little to this activity other than
+supporting the continued tool re-furbishing use of hard and soft hammer
+percussion, both of which are noted in the other areas.
+
+41WA2 (Area U)
+Two artifacts and two flakes were found in this area. The artifacts are a
+core and an early stage biface.
+The core was made from a quartzite cobble, and it was found in Level 4 of
+Shovel Test 185. It measures 60.5 mm long, 53.4 mm wide, and is 26. 5 mm
+thick with approximately one-half of its mass flaked away. Two large flake scars
+are evident on the fractured ventral surface, each having been flaked from
+opposite sides of the cobble, and meeting approximately mid-line. These flakes,
+and possibly more, successfully split the cobble in half.
+The biface is an early stage biface made on a large flake of silicified wood.
+It was recovered from Level 7 of Shovel Test 132. It measures 62.7 mm in
+length, 29.1 mm in width, and 21.6 mm in thickness. The blank is a large flake
+that spalled from a larger piece of silicified wood. The dorsal surface is strongly
+convex, the ventral is flat, and the whole tapers rapidly towards the distal end. A
+platform is present, which is natural with a large bulb of percussion. Several
+flakes have been removed from the proximal, or platform end, on both the ventral
+and dorsal surfaces. No apparent reason for its abandonment is noted other
+than the rapid tapering toward the distal end. Since silicified wood is very brittle,
+the thinness towards the end may not have been considered desirable, thus it
+was rejected.
+The two flakes from Level 4 include 1 complete secondary quartzite
+specimen, size grade 4, and 1 complete interior silicified wood specimen, size
+grade 5. The quartzite specimen has a crushed platform with a slight bulb, while
+the silicified wood specimen has an un-lipped faceted platform with a prominent
+bulb of percussion.
+The artifacts found in this area demonstrate that flake production and the
+making of bifaces were occurring on this site. Flake production is substantiated
+by the presence of the two flakes. Hard hammer flaking is indicated by un-lipped
+and crushed platforms on these flakes. These attributes also coincide with the
+use of hard hammer type percussion, such as would be expected from the use of
+quartzite hammerstones.
+Conclusions
+This survey resulted in isolating ten distinct areas (sites) of occupation.
+These areas were defined by the results of 49 shovel tests that were positive for
+prehistoric lithics. The total lithics recovered included 14 lithic artifacts and 177
+pieces of debitage. A listing of each of these artifacts and pieces of debitage by
+area, level, and shovel test are listed in Appendix I.
+
+The previous analysis and brief discussion of the prehistoric materials
+from each area has provided some insight into the activities that may have
+occurred on each of the sites as well as the archaeological value that may be
+gained from the artifacts. In summary, the low recovery of lithics from sites
+41WA273 (Area A), 41WA274 (Area C), 41WA276 (Area E), 41WA277 (Area F),
+and 41WA28 (Area L) provide little information as to the activities that occurred
+on each of these sites. The only materials found in the shovel testing of these
+sites were low numbers of small flakes with the highest number of flakes
+recovered coming from 41WA277 (Area F) with 18 flakes and 41WA280 (Area L)
+with 23 flakes. The deductions from the analysis of these individual
+assemblages indicate that minor subsistence activities, such as hunting and plant
+gathering, and small tool re-furbishing were the primary tasks performed on
+these sites. The addition of a number of artifact types, along with debitage from
+the remaining sites (i.e., 41WA275 (Area D), 41WA278 (Area J), 41WA279 (Area
+K), Area M (site number not assigned), and 41WA281 (Area N) provided a
+greater view of the activities occurring on each site, as well as possible dates of
+occupation. Like the other sites, hunting and plant gathering were probably the
+primary activities at these areas. However, the recovery of several projectile
+points, bifaces, cores, hammerstones, tested cobbles, and the Waco sinker are
+valuable additions to the knowledge and extent of these activities.
+The fragmented bifaces, cores, tested cobbles, and hammerstones
+indicate that some tool manufacture was performed. In addition, the re-worked
+projectile point shows that worn points were either re-sharpened or broken ones
+re-shaped. This is not surprising when one understands that stone tools often
+break or are lost during the performance of these activities, requiring either a
+replacement or the re-furbishing of broken or dull tools. In many regions, such as
+the study area, available lithic materials are scant, and any materials
+encountered during their movements would be evaluated and, if selected,
+transported to the temporary campsite. Once at the campsite, tools needing reshaping or sharpening would be flaked and additional tools manufactured. In
+addition, expedient tools, such as small flakes, may not have been part of the
+primary tool kit brought from the home base but would be manufactured later at
+the hunting camps on an as needed or task-directed basis. This would require
+that raw materials would have to be brought along initially, picked up along the
+way, or excavated from previous caches. The artifacts mentioned above support
+the performance of these strategies within the project area.
+The most significant find is the Waco sinker. Although, only partially
+finished, its presence represents the first documented specimen from Walker
+County. In addition, its close association with a Yarbrough point places its date
+to the Late and/or Transitional Archaic. Its presence in a upland setting type
+camp, probably used as a base for hunting or plant gathering activities, supports
+the idea that it was intended for use as a form of hunting weapon, such as a bola,
+rather than as a net sinker or in some ritual context.
+
+The overall flake counts from all the sites areas shows that the highest
+density of flakes occurs within the upper 60 cm. The number of flakes found
+within the first six levels is relatively constant ranging between 10% and 19% of
+the total flakes per level with three of the levels averaging 18%. This percentage
+drops rapidly in the lower four levels where the totals average 3% or less.
+A point not previously addressed concerns burned flakes. A large number
+(n=39) of the lithics recovered from the shovel tests were burned shatter and potlids (small heat spalled fragments) and eliminated from the sample. In addition,
+38% of the lithics analyzed were naturally burned. Only one flake appeared to
+have been removed from raw material that had previously been heated. This
+does not necessarily indicate purposeful heat alteration; rather it was probably a
+piece of raw material that had been heated through natural means.
+Many modern flintknappers and researchers accept the idea that lithics
+were regularly heat altered to improve the materials "knapability." This is a valid
+technique but it was not necessarily always used. The burned materials from this
+survey are obviously the result of natural fires and not from a purposely
+controlled heat alteration process. However, the idea of natural burns may not
+be totally true. It is well known that Native Americans often started fires to clear
+brush, open the forest, and as an aid in hunting. For example, Henri Joutel, the
+personal aid and expedition journalist for Robert Cavelier de LaSalle's expedition
+in Texas, recorded that Indians frequently burned the open areas within the Post
+Oak region of east-central Texas as an aid in bison hunting (Bonnicksen
+2000:170-171). It cannot be ascertained that this was the case in the project
+area, but it should be considered as a causal factor for the presence of the
+burned lithics.
+In conclusion, the analysis of the lithics recovered from this survey has
+revealed some very interesting views and data on the regional behavior of
+Walker County's early inhabitants. Although small, the lithics provide an
+additional insight into the activities that occur on small upland habitation sites that
+are overlooked in our current understanding of broader regional archaeological
+contexts.
+
+References Cited
+Bonnicksen, Thomas M.
+2000
+America's Ancient Forests. John Wiley & Sons, Inc. New York.
+Boyd, Charles L., and Harry J. Shafer
+1997
+Another Look at the Distribution, Age, and Function of "Waco
+Sinkers." Bulletin of the Texas Archeological Society 68:263-271,
+Austin.
+Crabtree, Don E.
+1972
+An Introduction to Flintknapping. Occasional Papers of the Idaho
+State University Museum, Number 28, Pocatello, Idaho.
+Moore, H. G.
+1935
+A Sinker Factory. Central Texas Archeologist 1:11-12, Waco.
+Perino, Gregory
+1985
+Selected Preforms, Points and Knives of the North American
+Indians, Volume 1. Idabel, Oklahoma.
+Turner, Ellen Sue, and Thomas R. Hester
+1993
+A Field Guide to Stone Artifacts of the Texas Indians. Texas
+Monthly Field Guide Series, Gulf Publishing Company, Houston,
+Texas.
+Watt, Frank H.
+1938
+The Waco Sinker. Central Texas Archeologist 4:21-70, Waco.
+
+APPENDIX IV
+AREAS SURVEYED AND SITE LOCATIONS
+
+

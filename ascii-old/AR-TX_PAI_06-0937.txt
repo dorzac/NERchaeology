@@ -1,0 +1,1301 @@
+MECHANICAL SEARCH FOR UNMARKED GRAVES IN THE LCRA
+T219 TRANSMISSION LINE REPLACEMENT PROJECT CORRIDOR
+ADJACENT TO OAK HILL CEMETERY (41LM18),
+LAMPASAS, TEXAS
+
+by
+Douglas K. Boyd
+
+Principal Investigator
+Douglas K. Boyd
+
+LETTER REPORT NO. 937
+
+submitted to
+
+Lower Colorado River Authority
+Austin, Texas
+
+by
+
+Prewitt and Associates, Inc.
+Cultural Resources Services
+Austin, Texas
+
+July 2019
+
+TEXAS ANTIQUITIES PERMIT NO. 8823
+
+TABLE OF CONTENTS
+
+ABSTRACT...............................................................................................................................
+
+v
+
+CURATION...............................................................................................................................
+
+v
+
+ACKNOWLEDGMENTS..........................................................................................................
+
+v
+
+INTRODUCTION.....................................................................................................................
+
+1
+
+HISTORY OF THE OAK HILL CEMETERY AND POTENTIAL
+FOR UNMARKED GRAVES....................................................................................................
+
+1
+
+THE LCRA T219 TRANSMISSION LINE PROJECT AREA.................................................
+
+5
+
+PREFIELD INVESTIGATIONS..............................................................................................
+
+8
+
+GEOLOGICAL SETTING AND SOILS...................................................................................
+
+10
+
+FIELD SURVEY METHODS AND RESULTS........................................................................
+
+10
+
+SUMMARY AND RECOMMENDATIONS.............................................................................
+
+20
+
+REFERENCES CITED.............................................................................................................
+
+21
+
+iii
+
+LIST OF FIGURES
+1.
+
+Project area map showing the T219 transmission line survey area
+adjacent to Oak Hill Cemetery.......................................................................................
+
+2
+
+2.
+
+Map of Oak Hill Cemetery showing the locations of the original 10-acre
+cemetery plot, the Potter’s Field section, and the African American burial
+area in relation to the T219 transmission line corridor................................................
+
+4
+
+Aerial photograph showing the location of the LRCA T219 electrical
+transmission line corridor adjacent to Oak Hill Cemetery and the locations
+of the nine existing electrical towers and poles.............................................................
+
+6
+
+4.
+
+Aerial photograph showing the seven proposed tower locations..................................
+
+7
+
+5.
+
+1941 aerial photograph of the Oak Hill Cemetery area from the Tobin
+Aerial Archives................................................................................................................
+
+9
+
+6.
+
+Map showing locations of backhoe trenches and excavation blocks.............................
+
+13
+
+7.
+
+High-resolution LIDAR topographic map of the Oak Hill Cemetery area
+and a north-south surface cross section of the LCRA T219 transmission
+line corridor.....................................................................................................................
+
+16
+
+8.
+
+Photographs illustrating selected trench excavations..................................................
+
+17
+
+9.
+
+Photographs illustrating selected trench excavations..................................................
+
+18
+
+10.
+
+Photographs illustrating selected trench excavations..................................................
+
+19
+
+3.
+
+LIST OF TABLES
+1.
+
+Summary of backhoe trenches and excavation blocks..................................................
+
+iv
+
+14
+
+ABSTRACT
+The Lower Colorado River Authority (LCRA) is replacing the T219 electrical transmission
+line in Burnet and Lampasas Counties, and the existing metal lattice towers and wooden poles
+will be removed and larger tower structures put in place. In April 2019, Prewitt and Associates,
+Inc., archeologists conducted an archeological survey of one segment of the transmission line
+corridor. The survey area is the LCRA’s 40-ft-wide easement that runs north-south for 2,400 ft
+along the west side of the historic Oak Hill Cemetery (41LM18) in Lampasas, Texas. The survey
+consisted of excavation of trenches to search for possible unmarked graves at each of the seven
+locations proposed for new towers. All of the trenches exposed weathered limestone bedrock or
+undulating hard limestone shelves at depths varying from 2.0 to 4.5 ft. Any intrusive excavations
+would have been obvious, but no unusual soil anomalies or evidence of possible grave shafts
+were observed. Prewitt and Associates recommends that no further archeological investigations
+are needed and that the LCRA may proceed with the plans to rebuild the T219 transmission
+line section adjacent to the Oak Hill Cemetery.
+CURATION
+No artifacts were recovered during this investigation. All of the project records, consisting
+of original field notes and digital photographs, will be submitted for permanent curation to the
+Texas Archeological Research Laboratory at The University of Texas at Austin.
+ACKNOWLEDGMENTS
+Thanks go to a number of people who were involved in various aspects of this survey
+project. For the Lower Colorado River Authority (LCRA), archeologist and project manager Andy
+Malof worked with Prewitt and Associates, Inc. (PAI), and the Texas Historical Commission
+(THC) to develop the scope of work and get the contractual paperwork completed. He also
+coordinated our subsequent fieldwork and reviewed the draft report. For the THC, Tiffany
+Osburn (regional archeologist and reviewer) and Jennifer McWilliams (Cemetery Programs
+Coordinator) reviewed and approved the scope of work, along with subsequent scope of work
+modifications as the LCRA’s design plans changed.
+The City of Lampasas manages the Oak Hill Cemetery, and their cemetery crew leader,
+Duane Griffith, was extremely helpful before, during, and after our field investigation. He
+provided help in planning and contacting other interested parties, and he also provided historical
+information on the evolution of the cemetery and copies of old cemetery maps.
+Prior to conducting the field survey, PAI contacted interested parties to inform them
+about the project, including Jane McMillan, Ashley Underwood, and Roy Koon with the Oak Hill
+Cemetery Association and Ms. Clydell Wallace with the Lampasas County Historical Commission.
+We also contacted Jeff Jackson, a former Lampasas County Historical Commission Member
+and local historian who in 1995 published the book Lampasas County Cemeteries, 1865–1995.
+Mr. Jackson provided valuable historical insights about the evolution of the Oak Hill Cemetery.
+Many people were involved in the field investigation. Brian Beaver, the owner of the land
+immediately south of the southwestern portion of the cemetery, allowed us to cross his property
+to access the LCRA right of way. PAI archeologists Doug Boyd and John Dockall conducted the
+v
+
+field survey using a backhoe provided by Evant Backhoe and Construction, LLC. The backhoe
+operator was Aaron Giocobbi, who regularly digs grave shafts within the Oak Hill Cemetery and
+other cemeteries in the area. His knowledge of the local geological features and soils proved to
+be a valuable asset for this investigation. For PAI, Sandy Hannum created the maps and figures
+and laid out the report, and Ross Fields edited it.
+
+vi
+
+INTRODUCTION
+The Lower Colorado River Authority (LCRA) proposes to rebuild the 40-yearold T219 electrical transmission line in Burnet and Lampasas Counties, Texas. A
+portion of this line runs through the northwestern part of the City of Lampasas,
+and within the city limits a 2,400-ft-long section of this line extends along the west
+side of Oak Hill Cemetery. In this area, the 40-ft-wide transmission line corridor is
+cleared of large vegetation and runs from south to north, parallel to and abutting
+the western cemetery fence. The existing line runs down the center of this corridor,
+with nine existing towers and poles in a straight line approximately 15 to 25 ft west
+of the western cemetery fence. Large four-leg steel lattice towers are present at the
+north and south ends of this segment, and in between are seven tall wooden pole
+towers. These nine towers will be replaced with seven larger towers.
+The core area of the Oak Hill Cemetery was a 10-acre tract, and it contains
+burials that date back to the 1870s and possibly earlier. The cemetery was expanded
+over the years to its current size of approximately 60 acres (City of Lampasas
+2019a), and it now encompasses another smaller (1.2 acres) historic cemetery with
+some burials dating to the 1860s and 1870s. Consequently, the LCRA and the Texas
+Historical Commission (THC) determined that an archeological survey should be
+conducted and include the use of mechanical excavations to search for possible
+unmarked historic graves that might exist outside the known cemetery boundary.
+In January 2019, LCRA contracted with Prewitt and Associates, Inc. (PAI),
+to conduct the search for unmarked graves. On April 23, 2019, PAI archeologists
+conducted an archeological survey of the 2,400-long section of the T219 line, using
+a backhoe to excavate linear trenches or blocks at each of the seven proposed new
+tower locations in close proximity to the cemetery. This report describes how this
+survey was conducted and documents the findings of the search for unmarked
+graves.
+As shown in Figure 1, the Oak Hill Cemetery property extends on both sides
+of Cemetery Creek in the northwestern part of Lampasas. The LCRA project corridor
+is approximately 40 ft wide (12 m) and extends roughly north-south for a distance
+of approximately 2,400 ft (731 m). This area encompasses 2.2 acres.
+HISTORY OF THE OAK HILL CEMETERY AND
+POTENTIAL FOR UNMARKED GRAVES
+The City of Lampasas was incorporated in 1873, but its original settlement
+and its earliest post office date to the 1850s (Rhoades 2010). The Oak Hill Cemetery
+officially began as a 10-acre tract in 1872, as detailed in the brief narrative on the
+Oak Hill Cemetery historical marker at the south entrance at 702 North Porter
+Street:
+Hartwell Fountain sold ten acres of land to the City of Lampasas in
+1872 to establish this cemetery. Originally known as City Cemetery,
+it was renamed Oak Hill Cemetery in 1908. The Ladies Cemetery
+Association, a group of concerned Lampasas women, maintained the
+cemetery from 1891 to 1948, when the city assumed responsibility.
+1
+
+2
+
+Among those buried here are local pioneers, prominent business
+people, veterans of wars including the Texas Revolution and the
+Civil War, and their descendants (Texas Historical Commission
+1992).
+
+Oak Hill Cemetery
+
+T219 Transmission Line Corridor
+
+³
+
+Huling-Anderson Cemetery or Old Lampasas Cemetery
+
+Lampasas County
+
+0
+
+200
+
+400
+
+T E X A S
+
+800
+
+Meters
+0
+
+1,000
+
+2,000
+
+4,000
+
+Feet
+
+Figure 1. Project area map showing the T219 transmission line survey area adjacent to Oak Hill Cemetery. Map
+base is USGS 7.5-minute Lampasas quadrangle (United States Geological Survey 2019).
+
+3
+
+Oak Hill Cemetery was expanded several times over the years (Jackson
+1995a), and in 1967, the boundary was expanded to the east to its current size of
+approximately 60 acres (City of Lampasas 2019a). This eastern expansion took
+in a large area along and east of Cemetery Creek, including a 1.2-acre tract that
+was originally called the Huling-Anderson Cemetery or Old Lampasas Cemetery
+(Texas Historical Commission 2019a, 2019b). This small burial ground contains 38
+marked graves, and 9 of them date to the 1860s and 1870s (Jackson 1995b; City
+of Lampasas 2019b). The expanded Oak Hill Cemetery is now a perpetual care
+cemetery as defined in the Texas Health and Safety Code.
+It is common for old historic cemeteries to contain some unmarked graves,
+and quite often they contain many unmarked graves in their older sections. The
+Oak Hill Cemetery probably is no exception, and it likely contains unmarked graves
+in some areas. The potential for unmarked graves is especially high in the HulingAnderson Cemetery. The marked graves there date from 1862 to 1948 (Jackson
+1995b; Texas Historical Commission 2019b). Notably absent are graves that date
+to the early settlement of Lampasas in the 1850s.
+The Huling-Anderson Cemetery is about one-quarter mile east of the LCRA
+transmission line, so the potential for unmarked graves within and near it is not
+relevant to the current project. However, the potential for unmarked graves is high
+in two other sections within the Oak Hill Cemetery that are immediately adjacent
+to the LCRA transmission line (Figure 2). One area is the original 10-acre tract
+acquired by the city in 1872. The date of the original 10-acre land transaction does
+not preclude the possibility that there were already burials on this land when the
+City of Lampasas acquired it. This 10-acre tract also encompasses a burial area
+depicted on old cemetery maps as “Potters Field” (cemetery map and data provided
+by Duane Griffith, personal communication 2019). This rectangular area is in the
+northwestern corner of the current cemetery, and it extends about 330 ft to the
+south and 110 ft to the east, encompassing ca. 0.8 acres. Typically, the term “Potter’s
+Field” refers to a graveyard or cemetery section for burying unknown or indigent
+people. Within the Oak Hill Potter’s Field section, there are many well-marked
+graves, and some plots and grave markers are more elaborate than typical indigent
+graves. However, there are also many graves marked with modest gravestones,
+simple hand-carved gravestones, and even fieldstones with no markings at all. The
+old Potter’s Field also contains many blank spaces—seemingly empty grave plots—
+where unmarked graves may exist despite absence of surface evidence. Historically,
+it was not uncommon for indigent burials to have had ephemeral grave markers
+that deteriorated over time, temporary grave markers that fell and were removed,
+or no formal grave markers at all.
+The second area where unmarked graves are likely is in the southwest corner
+of the cemetery, which was the African American burial ground. Marked as Section
+B on cemetery maps, this area was historically used as a segregated burial ground
+(Duane Griffith, personal communication 2019). Examination of this area revealed
+several characteristics typical of African American cemeteries and segregated burial
+sections, as described by Boyd and Norment (2016), including: probable grave locations
+marked only by depressions; out-of-place vegetation anomalies; clusters of non-native
+
+4
+
+African American Section
+Original 10-acre Cemetery
+Potter's Field Section
+Project Area
+
+³
+
+0
+
+0
+
+25
+
+50
+
+Meters
+100 200
+
+100
+
+400
+
+Feet
+
+Figure 2. Map of Oak Hill Cemetery showing the locations of the original 10-acre cemetery plot, the Potter’s Field
+section, and the African American burial area in relation to the T219 transmission line corridor.
+
+5
+
+plants (such as irises); graves lacking formal headstones but marked with ephemeral
+surface evidence such as field stones, shells, and ceramic items; and graves marked
+with homemade and vernacular headstones (including cast concrete markers with
+free-hand inscriptions). There are relatively few obvious graves given the size of this
+area, but many of the seemingly vacant plots could contain burials. Another odd feature
+here is a linear cluster of limestone rocks piled adjacent to a tree and along a small
+stream channel that follows through the section from northwest to southeast. This
+pile may contain many stones that once marked grave locations but were cleaned up
+by well-intentioned people who did not recognize them as grave indications.
+One historic cemetery listed in the THC’s online Historic Sites Atlas is called
+the Huling Slave Cemetery (Texas Historical Commission 2019c). There is no map
+plotting for this cemetery, and its precise location is not known. The Atlas simply
+says it is “W. of Lampasas.” Jackson (1995c) states that “Morgan Jordan is buried in
+the old slave cemetery on the Bean place, a few miles west of Lampasas” and notes
+that “The cemetery is located about 1/4 mile south of the Bean-Huling house…” It
+is unclear where this old cemetery is located, but it is probably within a few miles
+west of the Oak Hill Cemetery. Historically, however, the Huling Slave Cemetery
+is a precursor to the African American burial section in Oak Hill Cemetery. While
+the original 10-acre tract of the Oak Hill Cemetery was deeded to the City in 1872,
+it did not include any burial area for African Americans. It is not clear when the
+first burials occurred in the African American section or when the City formally
+acquired this tract and added it to the cemetery.
+In 1992, the original portion of the Oak Hill Cemetery was recorded as
+archeological site 41LM18. As the site is currently recorded, it encompasses the
+sections west of Cemetery Creek/Avenue E and comprises an area of approximately
+40 acres. This site area excludes the old Huling-Anderson Cemetery and all of the
+more-recent burial sections east of Cemetery Creek.
+THE LCRA T219 TRANSMISSION LINE PROJECT AREA
+The current LCRA easement that runs along the west side of Oak Hill
+Cemetery was purchased from private landowners in 1979, and the T219 transmission
+line was built in the same year. Figure 3 is an aerial photograph showing the location
+of the nine existing electrical power poles in the survey area. Figure 4 is an aerial
+photograph showing the locations of the seven proposed new towers. Three of the
+proposed structures—22/1, 22/3, and 23/1—are in the same locations as existing
+structures, and the other four are offset from the existing structures.
+Historical evidence indicates that the western cemetery property boundary
+has been established for a long time and that the LCRA T219 transmission line
+corridor was never part of the cemetery. However, because the corridor is immediately
+adjacent to the cemetery and the original core of the cemetery contains graves
+dating back to at least the 1870s, LCRA recognized the possibility that unmarked
+graves could be present beyond the cemetery’s western fence. Consequently, LCRA
+determined that an archeological survey with subsurface trenching was needed to
+confirm that there are no unmarked graves that would impacted by the replacement
+of the electrical transmission poles.
+
+6
+
+Figure 3
+
+Figure 3. Aerial photograph showing the location of the LRCA T219 electrical transmission line corridor adjacent to Oak
+Hill Cemetery and the locations of the nine existing electrical towers and poles. Image provided by LCRA.
+
+7
+
+23/2
+
+E
+
+23/1
+
+E
+
+22/12
+
+E
+
+22/11
+
+E
+
+22/10
+
+E
+
+22/9
+E
+
+Proposed Tower
+
+³
+
+Project Area
+0
+
+20 40
+Meters
+
+E
+
+80
+
+22/7
+
+E
+
+Figure 4. Aerial photograph showing the seven proposed tower locations. Base image is 2016 aerial photograph
+from the National Agriculture Imagery Program, Farm Service Agency, United States Department of Agriculture.
+
+8
+
+PREFIELD INVESTIGATIONS
+Before beginning the survey, PAI archeologists conducted background
+research in the Texas Historical Commission’s Archeological and Historic Sites
+Atlas, reviewed geology and soils data for the project area, and conducted online
+search for historical information pertaining to Oak Hill Cemetery. PAI then
+prepared an antiquities permit application form and submitted it to the Texas
+Historical Commission, along with a written scope of work describing the plan for
+trenching at each of the nine proposed tower locations. The scope of work and permit
+application were reviewed by the LCRA’s cultural resources supervisor (Andy Malof)
+and the Texas Historical Commission’s cemetery programs coordinator (Jennifer
+McWilliams) and archeology division reviewer (Tiffany Osburn). On March 12, 2019,
+the Texas Historical Commission issued Antiquities Permit No. 8823 to principal
+investigator Douglas K. Boyd.
+Before fieldwork began, LCRA changed its design plans decreasing the
+number of proposed new towers from nine to seven. Three of the seven towers were
+to be placed in the same locations as existing towers, and this would require PAI
+to offset the excavations slightly from the existing towers. For these locations, PAI
+recommended a change to the scope of work that would allow for excavation of a
+linear backhoe trench near each existing tower. These trenches had to be at least
+10 ft away from each tower base, and the trenches could not be excavated more
+than 5 ft deep. These stipulations were set to comply with safety requirements
+recommended by LCRA engineers. The scope of work modification was approved
+by LCRA and the Texas Historical Commission on April 2, 2019.
+In the prefield stage, PAI obtained and examined historic aerial photographs
+and maps showing the Oak Hill Cemetery area. These images were examined to
+determine if the western boundary of the cemetery appeared to be well established
+or if there were any hints that burials may have occurred beyond the boundary.
+No improvements are visible within this corridor on the 1977 aerial photograph
+in the Lampasas County soil survey (United States Department of Agriculture
+2001:Sheet 38), but the map scale is too large to see small features. The 1954
+Lampasas 7.5-minute quandrangle map (United States Geological Survey 1954)
+shows the cemetery boundary to be the ca. 40-acre rectangular area that is defined
+on the current cemetery maps.
+Two historic aerial photographs were obtained. A 1941 aerial image from
+the Tobin Aerial Archives (1941) shows the area west of the cemetery was cleared
+of large vegetation and was presumably used for grazing livestock (Figure 5). No
+unusual anomalies are visible along the western boundary of the cemetery. A 1953
+aerial photograph (United States Geological Survey 1953) shows essentially the
+same thing as the 1941 image. In both aerial photographs, the western boundary
+of the cemetery is a straight tree line, indicating the presence of a well-defined
+cemetery boundary fence.
+About three weeks prior to the survey, PAI began contacting interested
+parties regarding the upcoming investigation. The following interested parties were
+notified: Jane McMillan, Ashley Underewood, and Roy Koon, Oak Hill Cemetery
+
+9
+
+C
+
+E
+
+e
+
+m
+
+et
+e
+
+ry
+
+C
+
+re
+
+ek
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+E
+
+³
+
+Proposed Tower
+0 25 50
+Meters
+0 100 200
+
+100
+
+400
+
+Feet
+
+Figure 5. 1941 aerial photograph of the Oak Hill Cemetery area from the Tobin Aerial Archives (1941). Drainages
+have been added.
+
+10
+
+Association; Duane Griffith, cemetery crew leader, City of Lampasas; and Clydell
+Wallace, Lampasas County Historical Commission. Mr. Griffith provided historical
+information regarding the cemetery. He also provided critical and timely help with
+planning of survey. PAI also contacted Jeff Jackson, a former Lampasas County
+Historical Commission member and knowledgeable local historian, and he provided
+additional information about the history of the cemetery.
+Following Mr. Griffith’s advice, PAI contracted with Evant Backhoe and
+Construction for backhoe services and arranged for Aaron Giocobbi to be the backhoe
+operator. Mr. Giocobbi has dug many graves in Oak Hill Cemetery, and his knowledge
+of the local geology and soils was valuable during the survey. About one week before
+the survey was scheduled to start, PAI completed a Texas One Call to begin the
+trench safety coordination process. The responses to the One Call ticket revealed
+that there were no buried utilities within the T219 transmission line corridor.
+GEOLOGICAL SETTING AND SOILS
+The Geological Atlas of Texas (Bureau of Economic Geology 1976) shows the
+project corridor is situated in an area dominated by Lower Cretaceous limestone
+outcrops, with the precise location being at the interface between the Glen Rose
+Formation to the west and the Travis Peak Formation to the east. Glen Rose
+Formation outcrops are characterized as alternating beds of limestone, claystone,
+and sandstone, with softer beds having eroded more quickly to form a classic stairstepped hillslope topography. The Travis Peak Formation contains limestones,
+sandstones, and conglomerates, and some of these deposits are rubified due to high
+iron content, which contrasts with the typical gray and white colors of Cretaceous
+limestones in central Texas. The soil survey for Lampasas County shows that the
+entire project corridor is classified as Brackett gravelly clay loam on 3 to 8 percent
+slopes (United Stated Department of Agriculture 2001:17, Map Sheet 38). In a
+typical profile, this soil unit consists of light brownish gray gravelly clay loam at
+0–9 inches, pale brown clay loam at 9–17 inches, and white loam with interbedded
+weakly cemented limestone and marly loamy earth at 17–60 inches. Given the
+nature of these deposits, it was anticipated that any grave shafts or other intrusive
+excavations through these layers would be easy to identify.
+FIELD SURVEY METHODS AND RESULTS
+The survey was done April 23, 2019. Following the modified scope of work,
+fieldwork consisted of pedestrian survey and excavation of a backhoe trench or block
+at or near the location of each of the seven proposed tower locations.
+While one archeologist monitored the mechanical excavations, another
+walked the entire corridor to search for anomalies and surface artifacts. The area
+around each existing tower or pole was closely examined to search for artifacts that
+might have been brought to the surface when the structures were installed in 1979.
+A metal detector was used to scan the areas around some of the existing poles, but
+this proved futile because abundant metal items are scattered in many parts of the
+project corridor. Fence staples and wire fragments are particularly common and
+
+11
+
+indicate rebuilding of the cemetery boundary fence. At the time of the survey, the
+wood and wire fence had just been removed in the southern portion of the project
+area, and old cedar fence posts, rolls of mesh wire, and rolls of barbed wire were
+observed inside and west of this segment of the survey corridor. Fragments of white
+ceramic electrical insulators were found in several places, and whole insulators were
+observed attached to fence posts with long nails, indicating that some segments of
+the western cemetery boundary fence had once had electrical wires attached.
+The pedestrian survey revealed that the transmission line corridor is
+hummocky in many areas with numerous scatters of limestone rocks, reflecting
+mechanical brush clearing. The corridor would have been mechanically bladed
+when the transmission line was built in 1979, and LCRA maintains the easement
+with regular brush clearing, most recently in 2003 (Andy Malof, personal
+communication 2019). In addition to modern brush clearing, the 1941 and 1953
+aerial photographs indicate a long history of clearing for agricultural purposes at
+this location. The entire area west of the cemetery was cleared of trees in these
+years, and clearing probably has occurred many times over the past century. This
+clearing probably was done by various mechanical methods, such as bulldozing,
+grubbing, cabling or chaining, roller chopping, and root plowing. Many of these
+practices were developed in the 1930s and 1940s, and they cause significant impacts
+to the limestone landscape of central Texas, commonly uprooting trees and shrubs
+to create depressions and rock piles (Hamilton and Hanselka 2004; Welsh 1991).
+Even hand grubbing for removal of tree root balls causes similar disturbances
+and local topographic modifications.
+Numerous artifact concentrations were observed in several areas of the
+corridor, and these appear to represent discarded grave offerings. These materials
+were most concentrated in the northern portion of the corridor, adjacent to the
+original 10-acre cemetery tract. Historical or modern items observed there include
+broken bottle glass (all machine-made bottles postdating 1904) and broken ceramic
+sherds. The latter included undecorated whiteware, blue transfer-printed whiteware,
+hand-painted whiteware, and coarse earthenwares with a variety of bright-colored
+paints. The white vessels represented by these ceramics include plates and bowls,
+while the earthenware vessels all appear to be large ornamental pots (i.e., flower
+pots) and embossed pieces of decorative figurines. These materials were originally
+placed as offerings on individual gravesites, and they subsequently were removed
+during cemetery cleaning and thrown over the western fence line. Similar glass
+and ceramic vessels were observed at many of the graves near the western fence.
+In some cases, the bottles and ceramic vessels and objects were whole, but in other
+cases these items were broken in place.
+The locations of the seven excavations are shown in Figure 6, and the
+excavations are summarized in Table 1. Square or rectangular blocks were excavated
+at four locations where the proposed new towers are offset from the existing towers.
+All four of these block excavations were centered on the precise new tower spot using
+GPS data provided by LCRA. For the three locations where the proposed towers are
+at the same locations as existing towers, linear trenches were offset at least 10 ft
+from the existing towers. Two of the excavation areas actually consist of two trench
+
+12
+
+excavations each because it was not possible to excavate a single long trench in these
+places. Trenches 1-South and 1-North were split apart to avoid an entrance gate in
+a property fence, and Trenches 3-South and 3-North were excavated on either side
+of an existing wooden power pole.
+All excavations were completed using a John Deere 310C backhoe equipped
+with a 2-ft-wide, smooth-bladed bucket. PAI archeologists directed and closely
+monitored the mechanical excavation at each location. Each excavation proceeded
+carefully by scraping no more than four to six inches of sediment with each pass.
+Each excavation was documented with photographs and stratigraphic notes.
+While historic artifacts and modern items were observed on the surface
+in many parts of the project corridor, no historic artifacts or possible grave shaft
+anomalies were observed in any of the trenches. As summarized in Table 1, the
+trench excavations were terminated as soon as undisturbed layers of weathered
+bedrock were observed or hard bedrock layers were encountered. The depths of
+the excavated trenches varied from 2.0 to 4.5 ft, with three of the trenches dug to
+depths of 4.0 to 4.5 ft.
+Figure 7 is a high-resolution topographic map of the Oak Hill Cemetery
+area along with a north-south surface cross section of the LCRA project corridor.
+The vertical scale is exaggerated, but this cross section shows the trench locations
+relative to the hills, slopes, and drainages. Intact alluvial soils were observed only in
+Trenches 5 and 7, both of which are in a valley bottom or lower slope near a drainage.
+Trench 5 was in a swale of an unnamed tributary, and Trench 7 was on a strath
+terrace along Cemetery Creek, which is the largest drainage in the immediate area.
+Figures 8–10 illustrate the nature of the shallow bedrock deposits throughout
+the project corridor. Figure 8a shows the completed excavation of Trench 1-South,
+looking east. The existing lattice tower (Structure 22/7) is to the right, and the wooden
+power pole on the left is just outside the southwest corner of the cemetery. This trench
+exposed a thin A horizon over white or reddish brown weathered bedrock. Figure 8b
+shows the completed excavation of Trench 3-North with the backhoe excavating Trench
+3-South in the background. Weathered limestone occurs all across the bottom of the
+trench. Figure 9a shows the Trench 4 block excavation, looking west, when it was
+approximately one-half complete. The excavation exposed weathered reddish-brown
+limestone. Figure 9b shows the completed excavation of Trench 5, looking north. This
+block excavation exposed alluvial soils on a strath terrace, with the alluvium coming
+from an unnamed tributary located about 170 ft to the south. The white bedrock at
+the bottom of the excavation is hard limestone, and its top undulates across the block.
+Figure 10a shows the completed block excavation of Trench 6, exposing an undulating
+surface of hard limestone bedrock with pockets of rubified weathered bedrock. Figure
+10b is a view of Trench 7, looking south. This trench ran north-south between the
+large lattice tower on the right and the northwest corner of Oak Hill Cemetery on
+the left (tall fence on the property line). Trench 7 exposed up to 3.5 ft of alluvial soils
+deposited by Cemetery Creek, which is about 100 ft behind where the photographer
+was standing (to the north of the trench). The alluvium sits on top of a strath terrace,
+and weathered bedrock was exposed at 4.0–4.5 ft.
+
+13
+
+E T7
+
+T6
+E
+
+T5
+E
+
+T4
+E
+
+T3-North
+E T3-South
+
+E
+E
+
+Proposed Tower
+
+³
+
+Backhoe Trench or Block Excavation
+0
+
+0
+
+100
+
+20 40
+Meters
+200
+
+T2
+
+80
+
+400
+
+Feet
+
+Figure 6. Map showing locations of backhoe trenches and excavation blocks.
+
+T1-North
+T1-South
+E
+
+North of
+proposed Tower
+22/7 (10 ft away
+existing 4-leg
+lattice tower)
+
+At location of
+proposed Tower
+22/9
+
+East and south
+of proposed
+Tower 22/10
+(existing wood
+pole tower)
+
+East and
+north of
+proposed Tower
+22/10(existing
+wood pole
+tower)
+
+1-North
+
+2
+
+3-South
+
+3-North
+
+Trench
+No.
+1-South
+
+Location
+Relative to
+Proposed Tower
+North of
+proposed Tower
+22/7 (10 ft away
+from existing
+4-leg lattice
+tower)
+
+Trench
+Orientation
+(degrees)
+E-W
+(250)
+
+N-S
+(340)
+
+N-S
+(340)
+
+N-S
+(336)
+
+N-S
+(328)
+
+Trench Size
+(length x
+width in ft)
+40x2
+
+23x2
+
+30x16
+
+18x2
+
+18x2
+
+2.5
+
+2.5
+
+4.0
+
+2.0
+
+Maximum
+Depth (ft)
+4.0
+
+Approximate
+Surface Elevation
+(ft above mean
+sea level)
+Stratigraphic Description
+1104–1105
+Upper zone from 0 to 1 ft is an A horizon of dark gray to dark
+grayish brown (10YR 4/1 to 4/2) silty clay loam or clay loam
+with subangular limestone gravels from pea to pebble size. B
+or Bk horizon of variable thickness, increasing gravels in light
+brownish gray to weak red (10YR 6/2 to 10R 5/3) clay loam.
+Clear boundary between the A and B horizons. C horizon
+consists of highly fractured and weathered-in-place limestone
+bedrock encountered at varying depths from 3 to 4 ft.
+1126–1127
+Upper zone from 0 to 1 ft is an A horizon of dark gray to dark
+grayish brown (10YR 4/1 to 4/2) silty clay loam or clay loam
+with subangular limestone gravels from pea to pebble size. B
+or Bk horizon of variable thickness, increasing gravels in light
+brownish gray to weak red (10YR 6/2 to 10R 5/3) clay loam.
+Clear boundary between A and B horizons. C horizon consists
+of highly fractured and weathered-in-place limestone bedrock
+encountered between 1.5 and 2.0 ft deep.
+1124–1139
+Upper zone from 0 to 1 ft is an A horizon of dark gray to dark
+grayish brown (10YR 4/1 to 4/2) silty clay loam or clay loam
+with subangular limestone gravels from pea to pebble size. B
+or Bk horizon of variable thickness, increasing gravels in light
+brownish gray to weak red (10YR 6/2 to 10R 5/3) clay loam.
+Clear boundary between A and B horizons. C horizon consists
+of highly fractured and weathered-in-place limestone bedrock
+encountered at a depth of 1.5 ft below the surface.
+1157–1158
+Upper zone from 0 to 1 ft is an A horizon of dark gray to dark
+grayish brown (10YR 4/1 to 4/2) silty clay loam or clay loam
+with subangular limestone gravels from pea to pebble size.
+B or Bk horizon of variable thickness is present from 1 to 2.5
+ft, with increasing gravels in light brownish gray to weak red
+(10YR 6/2 to 10R 5/3) clay loam. Clear boundary between A
+and B horizons. C horizon consists of highly fractured and
+weathered-in-place limestone bedrock.
+1157–1160
+Upper zone from 0 to 1 ft is an A horizon of dark gray to dark
+grayish brown (10YR 4/1 to 4/2) silty clay loam or clay loam
+with subangular limestone gravels from pea to pebble size. B
+or Bk horizon of variable thickness, with increasing gravels
+in light brownish gray to weak red (10YR 6/2 to 10R 5/3) clay
+loam. Clear boundary between A and B horizons. C horizon
+consists of highly fractured and weathered-in-place limestone
+bedrock at 2.0 to 2.5 ft.
+
+Table 1. Summary of backhoe trenches and excavation blocks
+
+20 ft to west
+fence
+
+16 ft to west
+fence
+
+6 ft to west fence
+
+6 ft to west fence
+near southwest
+corner
+
+Closest Point
+to Cemetery
+Boundary Fence
+7 ft to south
+fence near
+southwest corner
+
+14
+
+At location of
+proposed Tower
+22/12
+
+At location of
+proposed Tower
+23/1
+
+Southeast of
+Tower 23/2
+(existing 4-leg
+lattice tower)
+
+5
+
+6
+
+7
+
+4
+
+Trench
+No.
+
+Location
+Relative to
+Proposed Tower
+At location of
+proposed Tower
+22/11
+
+Table 1, continued
+Trench
+Orientation
+(degrees)
+–
+
+–
+
+–
+
+N-S
+(340)
+
+Trench Size
+(length x
+width in ft)
+16x16
+
+15x15
+
+18x18
+
+28x2
+
+4.5
+
+3.5
+
+3.5
+
+Maximum
+Depth (ft)
+3.0
+
+Approximate
+Surface Elevation
+(ft above mean
+sea level)
+Stratigraphic Description
+1134–1137
+Upper zone is an A horizon of 1 to 1.5 ft of brownish dark gray
+to dark grayish brown (10YR 4/1 to 4/2) silty clay loam or clay
+loam with pieces of subangular weathered limestone. B or Bk
+horizon consists of 1 to 1.5 ft of in situ weathered limestone
+and clay loam with a weak red color (10R 5/3). An R horizon
+is primarily unweathered limestone, but it is extensively
+fractured in the bottom of the excavation block at 3 ft below
+the surface.
+1125–1126
+From 0 to 1.7 ft is a brown (7.5YR 5/2 to 4/2) clay loam to
+loam with no inclusions other than roots and rootlets. This
+upper zone is an A horizon formed in alluvial sediment from
+an unnamed tribuary. It has a diffuse lower boundary and
+grades into a B or Bk horizon, a reddish brown (5YR 4/4)
+clay that has common calcium carbonate nodules. The R
+horizon, consisting of undulating hard limestone bedrock, was
+encountered at approximately 3.2 to 3.5 ft
+1144–1147
+Heavily weathered and fractured limestone present at
+surface. Upper 0.5 to 0.8 ft is a thin A horizon of dark grayish
+brown (10YR 4/2) very gravelly silty clay loam that is dry
+and loosely consolidated. The underlying B or Bk horizon is
+reddish brown (5YR 4/4) clay loam, dry and loosely compacted,
+with abundant fragments of angular to subangular weathered
+limestone (pea size to cobble size). This zone varies in
+thickness across the block but is much deeper in the central
+portion because of surface fractures in the underlying
+limestone bedrock. C horizon is angular to subangular
+weathered and fractured limestone, from pea to cobble size,
+with dry loose clay loam filling the interstices. The depth of
+the undulating C horizon varied from 0.7 ft deep at the south
+edge of the excavation block to 3.4 ft deep on the west edge.
+1131–1137
+Upper zone from 0 to 3.5 ft is a light gray (10YR 7/1) silty
+clay loam, loosely compacted with no inclusions. This is an
+A horizon formed in alluvial sediment from Cemetery Creek
+(located ca. 100 ft to the north). Lower zone from 3.5 to 4.0 ft
+is a pale red (10R 7/4) friable silty clay to silty clay loam with
+common calcium carbonate nodules. This is a Bk horizon with
+rubified sediment and calcium carbonate nodules that formed
+in situ. The trench excavation was terminated at 4.0 to 4.5 ft
+deep when reddish gray to white (2.5Y 6/1 to 8/1) weathered
+bedrock limestone (C or R horizon) was encountered.
+
+11 ft to
+northwest corner
+
+9 ft to west fence
+
+7 ft to west fence
+
+Closest Point
+to Cemetery
+Boundary Fence
+16 ft to west
+fence
+
+15
+
+16
+
+C
+
+North
+
+em
+
+et
+er
+y
+
+C
+
+T7
+
+re
+ek
+
+T6
+
+T5
+
+T4
+
+T3-North
+T3-South
+
+T2
+
+³
+
+0 25 50
+
+T1-North
+T1-South
+
+100
+
+Meters
+0
+
+100 200
+
+400
+
+South
+
+Feet
+
+1150
+1140
+1130
+1120
+1110
+1100
+
+Trench
+
+North
+
+T7
+
+T6
+
+T5
+
+T4
+
+T3N T3S
+
+T2
+
+T1N T1
+
+South
+
+Figure 7. High-resolution LIDAR topographic map of the Oak Hill Cemetery area and a north-south surface cross
+section of the LCRA T219 transmission line corridor. Topography is shown using 2-ft contour intervals, and the cross
+section vertical scale is exaggerated. Data are from the Texas Natural Resources Information System (2014).
+
+Figure 8
+
+a
+
+b
+Figure 8. Photographs illustrating selected trench excavations. (a) View east of completed
+excavation of Trench 1-South; (b) view north of completed excavation of Trench 3-South with
+backhoe excavating Trench 3-North in the background.
+
+17
+
+18
+
+Figure 9
+
+a
+
+b
+Figure 9. Photographs illustrating selected trench excavations. (a) View west of Trench 4 with the excavation block onehalf complete; (b) view south of Trench 5 with the block excavation completed.
+
+Figure 10
+
+a
+
+b
+Figure 10. Photographs illustrating selected trench excavations. (a) View west of Trench 6 with the block excavation
+completed; (b) view south looking upslope at the completed Trench 7 excavation.
+
+19
+
+20
+
+SUMMARY AND RECOMMENDATIONS
+The Lower Colorado River Authority is rebuilding the T219 electrical
+transmission line in Burnet and Lampasas Counties, and a portion of the line runs
+along the western edge of the historic Oak Hill Cemetery in Lampasas. Because of
+the possibility that unmarked historic graves could be present in the corridor and
+could be impacted by construction of new towers, LCRA contracted with Prewitt
+and Associates to excavate trenches at or near the locations of the seven proposed
+towers located near the western cemetery boundary. PAI archeologists found no
+unusual soil anomalies or any other evidence that might hint at the presence of
+graves at these locations. The excavations prove that there are no unmarked graves
+at the locations of four proposed tower structures (22/9, 22/11, 22/12, and 23/1), and
+they indicate that unmarked graves are highly unlikely at the other three (22/7,
+22/10, and 23/2). Consequently, PAI recommends that no further archeological
+investigations are warranted and that the LCRA T219 transmission line rebuild
+project be allowed to proceed as planned.
+The results of this survey cannot be taken to mean that there are no
+unmarked graves present anywhere within the LCRA’s T219 transmission line
+corridor. While the combined archeological and historical evidence suggests that
+the western boundary of Oak Hill Cemetery has not changed over time, this does
+not preclude the possibility that unauthorized burials could occurred beyond the
+established cemetery boundary. It is beyond the scope of this study, but additional
+archival research could help reveal a more precise history of how the cemetery
+evolved over time and space. In particular, deed research to establish the chain of
+title for all the cemetery properties would be helpful in reconstructing the history
+of Oak Hill Cemetery.
+
+21
+
+REFERENCES CITED
+Boyd, Douglas K., and Aaron R. Norment
+2016
+African American Graveyards, Pioneer Cemetery, and the African Diaspora. In
+Bioarcheological Investigations of Nineteenth-Century African American Burials at the
+Pioneer Cemetery (41BO202) in Brazoria, Texas, by Aaron R. Norment, Jeremy W. Pye,
+Cory J. Broehm, and Douglas K. Boyd, pp. 141–241. Reports of Investigations No. 180.
+Prewitt and Associates, Inc., Austin. Archeological Studies Program Report No. 174.
+Environmental Affairs Division, Texas Department of Transportation, Austin.
+Bureau of Economic Geology
+1976
+Geologic Atlas of Texas, Brownwood Sheet. Bureau of Economic Geology, The University
+of Texas at Austin.
+City of Lampasas
+2019a Oak Hill Cemetery. Electronic document, https://www.lampasas.org/121/Cemetery,
+accessed May 4, 2019.
+2019b
+
+Oak Hill Cemetery Association. Electronic document, https://www.lampasas.org/268/
+Oak-Hill-Cemetery-Association, accessed May 4, 2019.
+
+Hamilton, Wayne T., and C. Wayne Hanselka
+2004
+Mechanical Practices prior to 1975. In Brush Management: Past, Present, and Future,
+edited by Wayne T. Hamilton, Allan McGinty, Darrel N. Ueckert, C. Wayne Hanselka,
+and Michelle R. Lee, pp. 17–32. Texas A&M University Press, College Station.
+Jackson, Jeff
+1995a Oak Hill Cemetery. In Lampasas County Cemeteries 1865–1995. Lampasas County
+Historical Commission. Online USGENWEB entry. Electronic document, http://files.
+usgwarchives.net/tx/lampasas/cemeteries/oakhill01.txt, accessed May 4, 2019.
+1995b
+
+Old Lampasas Cemetery (Huling/Anderson Cemetery). In Lampasas County Cemeteries
+1865–1995. Lampasas County Historical Commission. Online USGENWEB entry.
+Electronic document, http://files.usgwarchives.net/tx/lampasas/cemeteries/oldlampasas.
+txt, accessed May 4, 2019.
+
+1995c
+
+Huling Slave Cemetery. In Lampasas County Cemeteries 1865–1995. Lampasas County
+Historical Commission. Online USGENWEB entry. Electronic document, http://files.
+usgwarchives.net/tx/lampasas/cemeteries/huling.txt, accessed May 4, 2019.
+
+National Agriculture Imagery Program
+2016
+Aerial photograph of Lampasas area from the National Agriculture Imagery Program,
+Farm Service Agency, United States Department of Agriculture. Available from: https://
+www.fsa.usda.gov/programs-and-services/aerial-photography/imagery-programs/
+naip-imagery/index.
+Rhoades, Alice J.
+2010
+Lampasas, Tx. In Handbook of Texas Online. Texas State Historical Association.
+Electronic document, http://www.tshaonline.org/handbook/online/articles/hfl01, accessed
+April 25, 2019.
+Texas Historical Commission
+1992
+Oak Hill Cemetery. Texas Historical Marker No. 3646. Texas Historical Commission
+online Texas Historic Sites Atlas, Atlas No. 5281003646. Electronic document, https://
+atlas.thc.state.tx.us/, accessed May 4, 2019.
+2019a
+
+Oak Hill Cemetery. Online Texas Historic Sites Atlas, Cemetery ID No. LM-C006. Texas
+Historical Commission. Electronic document, https://atlas.thc.state.tx.us/, accessed May
+4, 2019.
+
+22
+2019b
+
+Old Huling-Anderson Cemetery. Online Texas Historic Sites Atlas, Cemetery ID No.
+LM-C033. Texas Historical Commission. Electronic document, https://atlas.thc.state.
+tx.us/, accessed May 4, 2019.
+
+2019c
+
+Huling Slave Cemetery. Online Texas Historic Sites Atlas, Cemetery ID No. LM-C050.
+Texas Historical Commission. Electronic document, https://atlas.thc.state.tx.us/,
+accessed May 4, 2019.
+
+Texas Natural Resources Information System
+2014
+Bandera and Lampasas Counties LIDAR, January 25, 2014. Strategic Mapping Program
+(StratMap), Texas Natural Resources Information System. Available from: https://tnris.
+org/stratmap/.
+Tobin Aerial Archive
+1941
+Lampasas County, aerial photograph taken on August 11, 1941. Licensing available
+from P2 Energy Solutions, San Antonio, Texas, at https://www.p2energysolutions.com/
+tobin-data/tobin-imagery.
+United States Department of Agriculture
+2001
+Soil Survey of Lampasas County, Texas. United States Department of Agriculture,
+Natural Resources Conservation Service, in cooperation with the Texas Agricultural
+Experiment Station.
+United States Geological Survey
+1953
+Lampasas County, aerial photograph taken on August 22, 1953. National Aerial
+Photography Program, Earth Resources Observation and Science Center, United States
+Geological Survey. Available from USGS Earth Explorer at https://earthexplorer.usgs.
+gov/.
+1954
+
+Lampasas, TX. 7.5-minute quandrangle map. United States Geological Survey. Digital
+version from the Perry Castañeda Library Map Collection, University of Texas at Austin.
+Available from: https://legacy.lib.utexas.edu/maps/.
+
+2019
+
+Lampasas, TX. 7.5-minute quadrangle map. National Geospatial Program, United
+States Geological Survey. Available from: https://www.usgs.gov/core-science-systems/
+national-geospatial-program/national-map.
+
+Welsh, Tommy G.
+1991
+Brush Management Methods. Publication No. Texas A&M AgriLife Extension Service,
+the United States Department of Agriculture, and the County Commissioners Courts
+of Texas. Electronic document, http://counties.agrilife.org/gillespie/files/2014/01/BrushManagement-Methods.pdf, accessed May 23, 2019.
+
+

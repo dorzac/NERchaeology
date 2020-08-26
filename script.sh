@@ -10,25 +10,30 @@ then
 fi
 
 
+# abiword is necessary for pdf processing
+if ! command -v abiword
+then
+	read -p "Abiword must be installed. Enter 'y' to proceed, or CTRL+C to quit. "
+	apt install abiword -y
+fi
+
+
 #set up structures
 regen=true
-if [[ -d "./ascii" ]]
-then
-	regen=false
-	#rm -r ./ascii
-	echo "Ascii files already present."
-	echo "Do you want to regenerate? This may take some time."
-	read -p "Enter y/n: " -n 1 -r $REPLY2
-	echo
-	if [[ $REPLY2 =~ "^[Yy]$" ]]
-	then
-		echo "Requested regen..."
-		regen=true
-		#rm -r ./ascii
-	fi
-	regen=false
-	echo $regen
-fi
+#if [[ -d "./ascii" ]]
+#then
+	#regen=true
+	#echo "Ascii files already present."
+	#echo "Do you want to regenerate? This may take some time."
+	#read -p "Enter y/n: " -n 1 -r $REPLY2
+	#echo
+	#if [[ $REPLY2 =~ "^[Yy]$" ]]
+	#then
+		#echo "Requested regen..."
+		#regen=true
+	#fi
+	#echo $regen
+#fi
 
 if [[ $regen == "true" ]]
 then
@@ -37,14 +42,20 @@ then
 	mkdir ./ascii
 	chmod 777 ascii
 
-	#for FILE in ./pdfs/*.pdf ./pdfs/**/*.pdf;
-	#for FILE in $(find ./pdfs/ -name '*.pdf');
+	echo "Handling pdfs"
 	for FILE in ./pdfs/*.pdf
 	do
 		basename "$FILE"
 		f=$(basename "$FILE" .pdf)
-		#abiword --to=text pdfs/"$f.pdf" -o ./ascii/"$f.txt"
 		abiword --to=text "$FILE" -o ./ascii/"$f.txt"
+
+	done
+	echo "Handling csvs"
+	for FILE in ./pdfs/*.csv
+	do
+		basename "$FILE"
+		f=$(basename "$FILE" .csv)
+		cp "$FILE" ./ascii/"$f.csv"
 
 	done
 echo "*** Finished Conversions"
@@ -63,10 +74,6 @@ fi
 echo "*** Finished preprocessing"
 
 
-#Open docker container to hold stanford server on port 9000
-#docker pull anwala/stanfordcorenlp
-#docker run --rm -d -p 9000:9000 --name stanfordcorenlp anwala/stanfordcorenlp
-
 #create the csv for output
 if [[ -f "out.csv" ]]
 then
@@ -75,11 +82,9 @@ fi
 touch out.csv
 
 #Parse for smithsonian trinomials, dates
-#for FILE in $(find ./ascii -name '*.txt');
 for FILE in ./ascii/*.txt
 do
 	basename "$FILE"
-	#f="$(basename -- $FILE)"
 	f=$(basename "$FILE" .txt)
 	if [[ hr ]]
 	then
@@ -88,15 +93,20 @@ do
 		python3.7 refactor.py ascii/"$f.txt" "$REPLY"
 	fi
 done
+for FILE in ./ascii/*.csv
+do
+	basename "$FILE"
+	f=$(basename "$FILE" .csv)
+	if [[ hr ]]
+	then
+		python3.7 refactor.py ascii/"$f.csv" "$REPLY" > ./output/"$f.output"
+	else
+		python3.7 refactor.py ascii/"$f.csv" "$REPLY"
+	fi
+done
 echo "*** Finished parsing"
 
-#python3 csv_cleanup.py out.csv temp.csv
-#mv temp.csv out.csv
-#sort out.csv -o out.csv
 sed -i '1s/^/trinomial,dcterms:coverage_temporal,artifact,xsd:gDate_earliestStart,xsd:gDate_latestStart,xsd:gDate_earliestEnd,xsd:gDate_latestEnd,skos:CloseMatch,count,significance,lat,long,source_name\n/' out.csv
-
-#close container
-#docker rm -f stanfordcorenlp
 
 #Delete files with no useful data
 #Set permissions so all users can access (hack to fix root creation)

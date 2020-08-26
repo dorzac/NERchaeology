@@ -1,0 +1,4348 @@
+ARCHEOLOGICAL SURVEY OF THE PROPOSED
+HIDALGO PROTECTIVE LEVEE SYSTEM
+IMPROVEMENTS IN HIDALGO COUNTY, TEXAS
+Prepared for:
+United States Section, International Boundary and Water Commission
+Under Contract IBM04D0005, Task Order IBM06T0015
+
+Prepared by:
+CH2M HILL, Inc., El Paso, Texas
+and
+Hicks & Company, Austin, Texas
+ARPA Permit No. 0012
+USFWS Special Use Permit No. 21551
+
+Principal Investigator:
+James W. Karbula
+Written by:
+Brian King and Charles Frederick
+Archeology Series No. 177
+
+March 2007
+
+Table of Contents
+
+TABLE OF CONTENTS
+ABSTRACT ......................................................................................................................... iii
+INTRODUCTION AND EXECUTIVE SUMMARY......................................................................1
+ENVIRONMENTAL SETTING .................................................................................................5
+Vegetation, Wildlife, and Land Use ...................................................................................... 5
+CULTURAL BACKGROUND ..................................................................................................7
+Archeological Background ................................................................................................... 7
+South Texas Cultural Chronology......................................................................................... 7
+Historic Period.................................................................................................................... 8
+Previous Investigations ..................................................................................................... 11
+PROBABILITY MODEL ........................................................................................................ 13
+Summary of Probability Model ........................................................................................... 17
+GEOARCHEOLOGICAL INVESTIGATIONS .......................................................................... 19
+Methods ........................................................................................................................... 19
+Stratigraphic Overview ...................................................................................................... 19
+Fill ............................................................................................................................... 19
+Modern Alluvium (MA)................................................................................................... 20
+Late Holocene Alluvium (LHA)....................................................................................... 21
+Middle Holocene Alluvium (MHA)................................................................................... 21
+Geologic Summary ........................................................................................................... 22
+Geomorphology ............................................................................................................ 22
+Trench Descriptions ...................................................................................................... 25
+RESULTS OF FIELD INVESTIGATIONS ............................................................................... 35
+Survey Narrative ............................................................................................................... 36
+Phase I Area and HPA-1 Summary .................................................................................... 37
+Phase II Area ................................................................................................................... 41
+Hidalgo Bend Wetland Mitigation Area Summary ................................................................ 43
+HPA-2 Summary ............................................................................................................... 47
+CONCLUSION AND RECOMMENDATIONS ......................................................................... 49
+REFERENCES CITED.......................................................................................................... 51
+
+LIST OF TABLES
+Table 1
+Table 2
+
+Backhoe trenches excavated by Cooper et al (2003) near the proposed
+project area ........................................................................................................... 15
+List of backhoe trenches described in detail, other similar sub trenches, and the age
+and depositional environment of the exposed deposits............................................. 19
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+i
+
+Table of Contents
+
+LIST OF FIGURES
+Figure 1 Project location map ................................................................................................ 3
+Figure 2 A scanned copy of the historic March 31, 1920 map of Irrigated Land Magic Valley
+Hidalgo County, Texas. .......................................................................................... 10
+Figure 3 Geoarcheological Spatical Distribution Map ............................................................. 23
+Figure 4 Relative Positions of Stratigraphic Units and Trenches ............................................. 27
+Figure 5 Representative photograph of BHT3 excavated within the Phase I area and HPA-1,
+facing south. .......................................................................................................... 38
+Figure 6 Backhoe Trench Soil Profiles .................................................................................. 39
+Figure 7 Photograph of the McAllen Pumping Station, facing west. ........................................ 41
+Figure 8 Representative photograph of BHT9 excavated within the Phase I area and HPA-1,
+facing south. .......................................................................................................... 42
+Figure 9 Backhoe Trench Soil Profiles .................................................................................. 43
+Figure 10 Photograph of historic irrigation well located in the Hidalgo Bend National Wildlife
+Refuge proposed wetland mitigation area, facing northwest...................................... 46
+Figure 11 Photograph of exposed trench cut adjacent to the historic irrigation well located within
+the Hidalgo Bend National Wildlife Refuge proposed wetland mitigation area,
+facing northwest. ................................................................................................... 46
+Figure 12 Photograph depicting the vegetation within the Phase II area, facing east.................. 47
+
+LIST OF APPENDICES
+Appendix A
+
+Plates 1 through 3
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+ii
+
+Abstract
+
+ABSTRACT
+Hicks & Company conducted a combination reconnaissance and
+systematic cultural resources investigation for the Hidalgo Protective
+Levee System Rehabilitation Project in Hidalgo County, Texas on behalf
+of the United States Section, International Boundary and Water
+Commission (USIBWC). The project consists of raising the 4.5-mile
+Hidalgo Protective Levee System, from 3 â 9 feet depending on location, to
+meet current requirements for flood control along the lower Rio Grande .
+The USIBWC proposes to rehabilitate the Hidalgo Protective Levee
+System within the Lower Rio Grande Flood Control Project (LRGFCP).
+As currently designed, the proposed levee improvements consist of two
+phases (Phase I and Phase II), each covering separate geographic areas of
+the Hidalgo Protective Levee System and a proposed wetland mitigation
+area located on the Hidalgo Bend National Wildlife Refuge property,
+totaling approximately 83.24 acres.
+The survey consisted of a
+reconnaissance trenching and geomorphic study within the proposed
+levee expansion footprint, supplemented by 100% pedestrian survey,
+intensive shovel testing, and backhoe trenching in areas with a high
+probability for historic or prehistoric resources. In addition, two areas
+(HPA-1 and HPA-2) identified during NEPA studies for the Lower Rio
+Grande Flood Control Project as having a high probability for buried
+historic cultural resources were investigated during the current study. A
+total of 35 shovel tests and 26 backhoe trenches were excavated along
+the project corridor, with all being ne gative for cultural resources. A
+geomorphologist identified the majority of the project area to be Modern
+Alluvium (MA), except for two elevated scarps of Late Holocene Alluvium
+(LHA) and Middle Holocene Alluvium (MHA) found in the Phase I and
+Phase II areas. Both of the elevated scarp areas were subject to intensive
+systematic archeological survey with subsurface testing according to
+THC minimum survey standards.
+No new archeological sites were
+documented during the current survey.
+Regulatory clearance for the entire surveyed area of the Hidalgo
+Protective Levee System as mapped under the current investigations is
+recommended.
+Based on the results of shovel testing, trench
+excavations, and the geomorphic characteristics of the project landscape,
+it is recommended that the proposed project will have no adverse impacts
+on any NRHP-eligible archeological sites or portions of sites within the
+project Area of Potential Effect (APE). No further work is recommended
+within the surveyed areas for this project. All project related documents
+and materials will be professionally curated at the Center for
+Archeological Resources (CAR) in San Antonio, Texas.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+iii
+
+Introduction and Executive Summary
+
+INTRODUCTION AND EXECUTIVE SUMMARY
+Between November 12 â 21, 2006, Hicks & Company conducted a
+combination reconnaissance and systematic cultural resources
+investigation for the Hidalgo Protective Levee System Rehabilitation
+Project in Hidalgo County, Texas on behalf of the United States Section,
+International Boundary and Water Commission (USIBWC) (Figure 1).
+The purpose of the archeological survey is to assist the USIBWC in
+meeting its requirements under Section 106 of the National Historic
+Preservation Act (NHPA). The survey was conducted under USIBWC
+ARPA Permit No. 0012 (Archeological Resources Protection Act) to enable
+survey on federal property. A USFWS Special Use Permit (No. 21551) was
+obtained to conduct survey on the Hidalgo Bend NWR property. All work
+complied with the guidelines set out under 36CFR800 which outlines the
+procedures for Section 106 implementation and compliance and
+consistent with the rules of practice and procedure for the Texas
+Antiquities Code.
+The project consists of raising the 4.5-mile Hidalgo Protective Levee
+System to meet design requirements for flood control in the LRGFCP.
+The USIBWC proposes to rehabilitate the Hidalgo Protective Levee
+System within the Lower Rio Grande Flood Control Project (LRGFCP).
+The Hidalgo Protective Levee System was identified as a priority area for
+improvement by the LRGFCP since it does not meet current flood
+protection criteria. The USIBWC has proposed to raise the existing levee
+height ranging from 3 â 9 feet, depending on location, and expand the
+levee footprint horizontally from 64 feet to approximately 100 feet in
+width. The areas of proposed levee improvements continues downstream
+of the Rio Grande beyond the Historic Hidalgo Pump House with the
+southern terminus being located in an area south of Tejano Estates
+Subdivision. The southern terminus area is bordered by the Hidalgo
+Bend National Wildlife Refuge of the USFWS.
+As currently de signed, the proposed levee improvements consist of two
+phases, each covering separate geographic areas of the Hidalgo Protective
+Levee System and a proposed wetland mitigation area in the Hidalgo
+Bend NWR property.
+The proposed expansion footprint totals
+approximately 83.24 acres. The proposed project area is depicted on
+Plates 1 and 3, (see Appendix A). Phase 1 entails increasing levee
+height in the upstream 3.3-mile reach of the levee system, from Hidalgo
+Levee junction with the LRGFCP Main Floodway, to the west margin of
+the Hidalgo-Reynosa International Bridge. Phase 2 consists of partial
+rerouting of the 1.2-mile downstream reach of the levee system.
+Rerouting the levee system in this portion of the proposed project area
+will eliminate the need for construction of a floodwall in front of the
+Hidalgo Historic Pump House, which is a resource included in the
+National Regi ster of Historic Places (NRHP).
+A proposed wetland
+mitigation area is located in the Hidalgo Bend National Wildlife Refuge of
+the Lower Rio Grande Valley south of the Hidalgo Historic Pump House.
+The wetland area is situated west of the international border station,
+between levee miles 3.0 to 3.2; this easement is 26.98 acres in size.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+1
+
+Introduction and Executive Summary
+
+A previous survey sponsored by the USIBWC and the U.S. Army Corps of
+Engineers Galveston and Fort Worth Districts in 1999 near the proposed
+project area made an attempt to assess the potential effects to historic
+properties within the Lower Rio Grande Flood Control Project (Cooper et
+al. 2003). Data obtained from this survey allowed Hicks & Company
+archeologists to develop a predictive analysis model of areas having a
+high probability for archeological sites within the proposed project area.
+According to Cooper et al. (2003), there is a high potential for buried
+prehistoric archeological deposits in areas adjacent to bancos and
+resacas. Cooper et al. (2003) identifies two high probability areas (HPA-1
+and HPA-2) within the proposed project area (Plates 2 and 3). The study
+suggests that these areas were used by both prehistoric and historic
+occupations. To date, the Cooper et al. report represents the best
+archeological data documented within or near the proposed project area.
+In coordination with the USIBWC and THC, Hicks & Company
+archeologists conducted a reconnaissance trenching and geomorphic
+study within the proposed levee footprint, supplemented with a 100%
+pedestrian survey and intensive shovel testing and backhoe trenching in
+areas having a high probability for historic and/or prehistoric resources.
+The entire project area was inventoried for cultural resources. A total of
+35 shovel tests and 26 backhoe trenches were excavated within the
+project area, with none being positive for cultural resources. A review of
+archival data at the Texas Arche ological Research Laboratory (TARL)
+revealed no previously recorded archeological sites located within the
+proposed levee expansion footprint.
+Research of archival records
+maintained by the NRHP and the Texas Historic Sites Atlas and data files
+of archeological sites and surveys identified a single archeological site
+(41HG180) located within a two-kilometer radius of the project area
+(NRHP online 2006; TARL online 2006). Site 41HG180 is located well
+outside of the project area and was not evaluated for cultural resources
+during the current study. No new archeological sites were recorded
+during the current survey. The survey took place on property owned by
+the USIBWC, the City of Hidalgo, and the USFWS. Geological data
+recovered from excavated shovel tests and backhoe trenches suggest that
+most of the upper six feet of deposition within the project area is very
+recent Holocene deposition except for two areas. The area located
+between BHT2 and BHT4 and the area east of the Historic Hidalgo Pump
+House were found by Charles Frederick, a geomorphologist, to be older
+landforms that could possibly contain intact pockets of prehistoric
+cultural material. It is important to point out that the current geologic
+data is similar to that documented during the Cooper et al. (2003)
+geoarcheological investigation of the Lower Rio Grande Valley.
+No logistical difficulties were encountered during the survey. James
+Karbula functioned as Principal Investigator for the project. Brian King
+(Project Archeologist) and David Peyton conducted the survey. Charles
+Frederick conducted the geological study. Mr. Isidirio Gomez operated
+the backhoe. Kay Wolfe (Curator of the Hidalgo Pump House) provided
+investigators with historic maps and archival information on the Pump
+House. All project related records will be permanently housed at the
+Center for Archeological Research (CAR), in San Antonio, Texas. This
+report is offered in partial fulfillment of ARPA Permit No. 0012.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+2
+
+Introduction and Executive Summary
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+4
+
+Environmental Setting
+
+ENVIRONMENTAL SETTING
+The project area is located primarily in the Rio Grande Valley / South
+Texas Brushlands of the Gulf Coastal Plains ecological or natural
+subregion. The South Texas Brushlands occupy a large, wide, wedgeshaped plain in south Texas below the Balcones Escarpment, east of the
+Rio Grande and west of the Blackland Prairies region (Telfair 1999). The
+majority of the proposed project area has been cleared of all vegetation.
+Areas adjacent to the levee expansion footprint are lined with mesquite acacia savannah or south Texas mesquite -scrub brush savannah,
+recently plowed agricultural fields, and/or commercial development.
+The existing Hidalgo levee is located in the Rio Grande floodplain. The
+proposed levee expansion footprint area transects a single geological
+formation: Alluvium. The alluvium is dominantly sand and silt deposits
+from frequent flooding of the Rio Grande . The Rio Grande includes
+sedimentary rocks from the Cretaceous and Tertiary Periods and a wide
+variety of igneous and sedimentary rocks from Trans-Pecos Texas,
+Mexico, and New Mexico (Fisher 1976).
+Soils within all the proposed project area are mapped within the RioGrande -Matamoros Association. Soils in this association are located in
+deep, moderately and slowly permeable soils. These soils consist of
+nearly level soils on bottom lands with typical light-brownish gray or
+grayish brown soil color. Rio Grande soils are located at higher elevations
+than the nearly level lower positions of Matamoros soils. Rio Grande soils
+typically have an eight inch thick gray silt loam surface layer underlain
+by a brown silt loam to a depth of 65 inches. Matamoros soils have a
+grayish brown silty clay surface layer eight inches thick underlain by
+light brown gray or grayish brown silty clay to a depth of 65 inches.
+Camargo soils are located in positions similar to Rio Grande soils. Grulla
+soils are found in old river channels or oxbows. Zalla soils are typically
+found in the inside meandering curves of the Rio Grande . Since irrigation
+pump houses were built in the region in the early 1900âs, soils located in
+the proposed project area are presently used for agricultural cropland. A
+few areas having Zalla and Grulla soils are used as improved pasture or
+for livestock grazing. Soils in the project area have a low potential for
+urban or recreation usage because of hazardous flooding of the Rio
+Grande . The majority of the project area is situated on Rio Grande soils.
+Ground surface visibility in the proposed project area is poor (10%), with
+little to no visibility observed by investigators.
+The typical climate in Hidalgo County is a subtropical, subhumid climate
+with mild winters and hot summers. Temperatures range from an
+average minimum of 61Â° F in January to an average maximum of 95Â° F
+in July. Rainfall within the Hidalgo County averages 23 inches a year
+(Garza 2001).
+
+VEGETATION, WILDLIFE, AND LAND USE
+The project is located within the South Texas Plains Vegetational Area of
+Texas (Gould 1962). This region includes most of southern Texas from
+the Rio Grande to the Coastal Plains and extends on an east-west line
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+5
+
+Environmental Setting
+
+between San Antonio and Del Rio. The climate of this region is described
+as subtropical steppe and is characterized by semiarid to arid conditions
+(Larkin and Bomar 1983).
+The vegetational structure and relative
+species composition of the South Texas Plains has changed drastically
+over time. Historically, the dominant vegetation types were brushy
+savannahs and grasslands. Increased grazing and the cessation of fire
+have led to the spread of woody species from riparian areas and ridges to
+all parts of the landscape (Inglis 1964). The proliferation of these woody
+species has progressed to such an extent that the area is now commonly
+referred to as the Brush Country of South Texas.
+This vegetational area is further divided into two vegetation types as
+described in âThe Vegetation Types of Texasâ (Frye 1984).
+These
+vegetation types are Mesquite -Blackbrush Brush and Crops. The
+Mesquite -Blackbrush vegetation type is principally found on shallow,
+gravelly or loamy soils. Examples of this type of vegetation observed in
+the project area during survey include lotebush, desert olive, allthorn,
+prickly pear cactus, yucca, and tasajillo. Cropland, as the name implies,
+consists of cultivated cover crops or row crops providing food and/or
+fiber for either man or domestic animals. This type may also portray
+grassland associated with crop rotations (Frye 1984).
+The fauna distributed here illuminates the transitional nature of the
+province. There are considerable elements of neo-tropical species,
+grassland species, and Chihuahuan desert species inhabiting the variety
+of habitats present. Several species of mammals, snakes, lizards, and
+anurans (frogs and toads), occur, or have recently occurred, in the
+Tamaulipan province. Bird life is also diverse, with several species
+documented at Falcon Lake State Park, located near Falcon Dam.
+Perhaps the most noteworthy example of the local wildlife observed
+during the survey was a rather large western diamondback rattlesnake,
+encountered at an uncomfortably close distance.
+Present day land use in the region is predominantly agricultural and
+residential.
+This includes single family residences, range land,
+pastureland and crops. More urban and residential land uses are
+concentrated in and around the cities of Roma and Rio Grande City. Oil
+and gas production are found throughout the region, often at high
+densities. Hunting of wildlife is of tremendous economic importance in
+the region.
+Recreational hunting for white-tailed deer, wild hogs,
+bobwhite quail, and mourning and white -winged dove bring substantial
+financial benefits to the local economy.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+6
+
+Cultural Background
+
+CULTURAL BACKGROUND
+ARCHEOLOGICAL BACKGROUND
+The project corridor extends across the Rio Grande Plain biogeographical
+subregion of the South Texas Plains archeological region as defined by
+Black (1989). While the Rio Grande nominally defines the western and
+southern border of most of this region, the river almost certainly did not
+function as a cultural boundary in prehistoric times. In fact, the
+northeastern areas within the Mexican states of Nuevo Leon and
+Tamaulipas manifest prehistoric cultural materials that are strikingly
+similar to those found in south Texas (He ster 1980). The South Texas
+Plains archeological region is poorly understood, reflecting a paucity of
+systematic excavations as well as the geomorphic characteristics the
+landscape as they pertain to site formation processes.
+The most
+commonly recorded sites in south Texas are open occupation sites. In
+some cases, meaningful excavation of these sites has proven to be a
+challenge to archeologists (Hester 1995). This vexing situation stems
+from the horizontal patterning of many open occupation sites in the
+region. These sites tend to exist as laterally extensive occupation areas
+with temporally separated components found across the area that are
+also separated horizontally and rarely overlap (Hester 1995). Other open
+occupation sites, especially in upland settings, occur on stable ancient
+surfaces with very shallow or deflated cultural deposits that are virtually
+impossible to conclusively attribute to a particular time period.
+Comparatively few deeply stratified occupation sites have been excavated
+in south Texas. Black posits that this is a result of both settlement
+patterning and depositional context (Black 1989). Other site types
+present in south Texas include lithic procurement and reduction sites,
+rockshelters, artifact caches, and burials. Lithic procurement and
+reduction sites are somewhat common and are typically found in upland
+areas where chert resources in the form of Uvalde gravels occur.
+
+SOUTH TEXAS CULTURAL CHRONOLOGY
+Archeological evidence indicates that prehistoric occupations were
+present in Hidalgo County, dating back 11,000 years. Cultural material
+identified by previous investigations in the area indicate that the region
+was inhabited early on by hunter and gatherers whose subsistence
+strategy consisted of hunting big game and gathering plant fruits and
+nuts; this semi-arid environment was not suitable for intensive
+agricultural although an attempt to grow maize was attempted in the
+region. The Archaic Period (6000 B.C. â A.D. 800) saw the shift from a
+nomadic hunting and gathering lifestyle to a less mobile more sedentary
+subsistence strategy. There is little evidence of Early Archaic (6000 B.C.
+â 2500 B.C.) and Middle Archaic (2500 â 400 B.C.) occupations in the
+Lower Rio Grande Valley, with sites being found near the Coastal Bend of
+south Texas. Late Archaic Period (400 B.C. âA.D. 800) sites are more
+common within the Lower Rio Grande Valley. These sites are usually
+found in association with Late Prehistoric Period assemblages. Cooper et
+al. (2003) suggest most of the inland Late Archaic sites would have a
+subsistence strategy based on collection rather than gathering. Small
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+7
+
+Cultural Background
+
+mammals (rabbits, rodents, etc.) and different plant species would be
+used for food. The Late Prehistoric Period (A.D. 800-1600) is the best
+understood of all the prehistoric periods. These sites are more common
+and, therefore, more radiocarbon data has been collected and analyzed
+by researchers. MacNeish (1947, 1958, cited in Cooper et al. 2003)
+defined the Barril complex and the Brownsville complex within the Lower
+Rio Grande valley. The Barril complex slightly predates the Brownsville
+complex (A.D. 800) with the Brownsville complex possibly extending into
+the Historic Period. Both of these complexes are characterized by an
+extensive shell industry, triangular arrow points, and Huastecan-like
+ceramics (Cooper et al. 2003:37). The projectile point styles include
+Matamoros, Fresno, Starr, and Cameron types. The Barril complex is
+typically found south of the Rio Grande while the Brownsville complex is
+found north of the Rio Grande. Cemeteries become more abundant in the
+Late Prehistoric Period in the Lower Rio Grande valley. The Coahuilteco
+and Karankawa were linguistic groups known to live in the Lower Rio
+Grande Valley. Native American Indian subsistence strategies include
+hunting a variety of animals, fish, and gathering of berries, fruits, and
+roots. The Lipan Apaches relocated to this area from Colorado during
+the 1700âs. The Comanches later moved into south Texas in the early
+19th century. Agricultural practices were not widely used in this area
+due to the lack of water for crops to survive. Based on these data, C ooper
+et al. (2003) indicate that small seasonal prehistoric campsites would be
+expected to be found near bancos or resacas left by the meanderi ng Rio
+Grande. These areas are considered to have the highest probability for
+prehistoric cultural material within the proposed project area.
+
+HISTORIC PERIOD
+The community of Hidalgo was established in 1852 and named for
+Miguel Hidalgo y Costilla, who gave the cry for Mexican Indepe ndence
+from Spanish rule (Garza 2001). Early irrigation methods in the region
+originated with the first Spanish settlers, but the fickle water levels and
+flood behavior of the Rio Grande prevented the large-scale irrigation
+required for successful farming. The coming of the railroad to Laredo and
+the Lower Rio Grande Valley in the 1880s opened up new agricultural
+possibilities. A citrus industry took root in the 1870s, and rapidly
+expanded over the next several decades (Thompson 1994:69). The
+railroads allowed for new irrigation technologies and equipment to reach
+the Rio Grande, and by the late nineteenth century large -scale irrigation
+was in place up and down the river. The irrigation canals and pump
+houses helped turn a once dry and desolate scrub desert into what was
+billed at the time as the âmagical valleyâ (Thompson 1994:71). The drop
+in the water level of the river, however, spelled the end of the riverboat
+traffic. By 1909 the river was all but non-navigable for anything but
+small flatboats due to rapids and sandbars.
+A levee system was first proposed in 1892 by W.H. Chatfield, an army
+engineering officer at Fort Brown (Matthews 1938:53-54). Chatfieldâs
+proposal, offered as a letter in a local newspaper, entailed buildi ng levees
+around the resacas, connecting them via a series of canals and
+floodgates. Water would enter the system during flood stages, to be held
+and released as needed to help irrigate farmland. This would not only
+provide irrigation for agriculture, but much-needed flood control as well.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+8
+
+Cultural Background
+
+Chatfieldâs proposal was not directly implemented, as other
+entrepreneurs had already started setting up pumping and lift stations
+along the river by this time, but a levee system was put in place
+sometime in the first half of the twentieth century for flood control. A
+pre-1933 map of the Rio Bravo Plantation Company lands and canals
+shows no levee system in place, but this is not direct proof of a later
+construction date; a levee along the western edge of Hidalgo does appear
+on a 1949 map of the McAllen area.
+George Brulay, the owner of a large plantation outside of Brownsville, is
+commonly credited with being the first to pump water from the Rio
+Grande for irrigation, in 1876 (Matthews 1938:55). John Closner was the
+first to pump water in Hidalgo for his sugar cane plantation in 1895, just
+east of the town (Matthews 1938:56). In 1904, Closner began the Rio
+Grande Valley Reservoir and Irrigation Company, building canals for the
+next four years (Louisiana--Rio Grande Canal Company Irrigation System
+National Register Listing 1995). In 1909, the Louisiana-Rio Grande Canal
+Company organized, subsuming Closnerâs and building their first pump
+house in 1909-1910 (Matthews 1938:68). This station, originally known
+as the first lift station, is now known as the Historic Hidalgo Pump
+house. Originally built on the banks of the Rio Grande, the 1933
+Brownsville hurricane caused massive flooding that changed the course
+of the river to its present location one half mile to the southwest. After
+the hurricane, the existing intake inlet was dredged and reinforced so
+that the pump house could still function.
+As evidenced by the 1933 hurricane, the Rio Grande was highly
+susceptible to course changes. The International Boundary and Water
+Commission (IBWC) produced a series of reports, informally known as
+âbanco books,â that mapped the course of the river every few years and
+its most recent, previous course. The current levee walls roughly follow
+the course of the river in 1903, but the river moved several times near
+Hidalgo over the next three decades, wiping out a 1912 pump house west
+of the town and culminating in the 1933 course change; the destroyed
+pump house is most likely the historic remains found at Site 41HG180.
+Historic maps suggest the McAllen Pump house was built after 1933,
+and the current levee walls post-1956. The area around the Hidalgo
+Historic Pump house was once land belonging to the King-Woods Oil
+Company according to a 1949 map of the McAllen area, and would have
+included pa rt of the distribution system for the Louisiana-Rio Grande
+Canal Company in addition to agricultural land. Figure 2 is a scanned
+copy of a 1920 Historic Map of Irrigated Land in Hidalgo County, Texas
+within the vicinity of the proposed project area.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+9
+
+Cultural Background
+
+Figure 2 A scanned copy of the historic March 31, 1920 map of Irrigated Land Magic
+Valley Hidalgo County, Texas.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+10
+
+Cultural Background
+
+PREVIOUS INVESTIGATIONS
+Research of archival records maintained by the NRHP and the Texas
+Historic Sites Atlas and data files of archeological sites and surveys was
+conducted within a two-kilometer radius of the proposed project area
+(NRHP online 2006; TARL online 2006). One previously recorded
+archeological site (41HG180) was recorded within the two kilometer
+buffer zone. Site 41HG180 is a possible historic residential site that was
+recorded in 1999 by Eben Cooper. The site was recorded during the 1999
+Lower Rio Grande Survey (Cooper et al. 2003) conducted by Wendy Lopez
+and Associates under subcontract to Geo-Marine, Inc. All cultural
+artifacts were observed on the ground surface. Artifacts included brick
+fragments and a small piece of clear-glazed earthenware . One brick
+fragment contained an unidentified makerâs mark. Investigators believe
+the site most likely dates from ca. 1918 to 1950. A local informant
+reported that several Mexican âshacksâ were located in this area and they
+manufactured bricks for a living. Site 41HG180 is located on the
+floodplain of the Rio Grande and approximately 1.5 kilometers west of
+the McAllen Pumping Station. The site was originally part of Mexico until
+the United States Rio Grande channelization project ca. 1970 changed
+the direction of the river cutting off two lobes of land that was old Mexico.
+Further archeological work was recommended at Site 41HG180 to
+determine its NRHP status.
+Cooper et al. (2003) also recorded potential historic archeological
+properties, previously recorded NRHP sites, and designated areas having
+a high potential for archeological resources. There were seven areas
+designated by Cooper et al. as having a potential for historic
+archeological resources (16PA5, 16MI3, 16HI2, 16HI3, 16HI4, 16LM9,
+and 16LM10). Potential archeological historic sites 16PA5, 16MI3, 16HI2,
+16HI3, 16LM9, and 16LM10 were all located on 1916 USGS topographic
+maps with their current status unknown to researchers. Potential
+historic site 16PA5 appears to be impacted by the construction of the
+main floodway (Cooper et al. 2003:B-14). Cooper et al. identified site
+16HI4 as having a high potential for historic artifacts, however, this site
+is actually the Old Historic Hidalgo Pump House that is already listed in
+the NRHP (see below for summary of the Old Historic Hidalgo Pump
+House). Another structure identified by Cooper et al. (2003) and Sanchez
+(1994) is potential historic site MCAP which is identified as the remains
+of a 1912 complete steam engine pumping station. It is unknown if any
+portion of this structure still remains.
+The three NRHP sites located near the proposed project area include the
+Hidalgo Historic Pump House, the Old Hidalgo Courthouse and buildings
+(includes the Hidalgo County Jail and the Hidalgo Post Office), and the
+Old Hidalgo School. The Hidalgo Historic Pump House is a restored
+historic structure listed in the National Register of Historic Places in
+1991. The pump house is currently used as a museum documenting
+irrigation history of the Lower Rio Grande Valley. The pump house is the
+only remaining steam pump in the nation and is also listed as a Texas
+Recorded Historic Landmark. The pump was built in 1909 to irrigate the
+semi-arid Lower Rio Grande Valley, which was historically productive
+only for livestock grazing. The pump distributed water to some 72,000
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+11
+
+Cultural Background
+
+farms and agriculture boomed and the scenery changed from ranchland
+to agricultural crops of orchards and cotton fields.
+The Old Hidalgo School is thought to have been built in 1898. The
+building is a two-story brick educational facility used for generations.
+The first documented graduation was in 1922, with a class of three
+students. The school has served the community of Hidalgo as a place of
+education, shelter from hurricanes, floods, and many social functions.
+The building was listed in the NRHP in 1979.
+The old Hidalgo County Courthouse and buildings served as the Hidalgo
+County Courthouse from its construction in 1886 until 1908, when the
+county seat was moved to Chapin (later named Edinburg). The original
+building was two-stories constructed from brick manufactured in nearby
+Reynosa, Mexico. A fire in the early 20th century destroyed its cupola,
+roof and second floor. After the building was no longer used as a
+courthouse it was later used as an immigration and customs facility. The
+Hidalgo Courthouse was recorded as a Texas Historic Landmark in 1963.
+The historic courthouse complex also included the Hidalgo County Jail
+and the Hidalgo Post Office. The Old Hidalgo County Jail was built in
+1886 by S.W. Brooks, who also constructed the Old Hidalgo Courthouse.
+The building served as a jail during a turbulent period in history, when
+outlaw raids were still occurring in the Lower Rio Grande Valley. The
+building was also used to publish the city of Hidalgoâs first newspaper,
+âThe Hidalgo Advanceâ from 1904 to 1908. The jail is a two-story
+structure constructed of handmade brick. It served the city of Hidalgo as
+a jail until the county seat was moved to Chapin (modern day Edinburg)
+in 1908. The Old Hidalgo Jail was recorded as a Texas Historic
+Landmark in 1984. The Hidalgo Post Office was built in 1889 and is the
+oldest in existence. The structure was originally used as a general store
+but also served as a post office until 1913. The post office was recorded
+as a Texas Historic Landmark in 1965. The old Hidalgo County
+Courthouse and buildings were listed in the NRHP in 1980.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+12
+
+Probability Model
+
+PROBABILITY MODEL
+A review of the archival files indicates that Cooper et al. (2003) conducted
+an assessment of potential historic properties within the Lower Rio
+Grande Valley for the USIBWC (LRGFCP). This report represents the best
+archeological data documented within or near the proposed project area.
+According to Cooper et al. (2003), there is a high potential for buried
+archeological de posits in areas adjacent to bancos and resacas. The
+study suggests that these areas were used by both prehistoric and
+historic occupations. An intensive geoarcheological investigation of the
+area indicates that the Rio Grande is a complex meanderbelt. Most near
+surface sediments along the Rio Grande are extremely young deposits
+having a low probability to contain potentially significant cultural
+resources; however, the investigators also suggest that there are pockets
+of intact soils that may exist and contain cultural resources within the
+proposed project area. This premise is based on data obtained from the
+excavation of 60 backhoe trenches along the Rio Grande . The data
+collected from trench excavations indicate that the majority of nearsurface deposits along the river (< 2 meters) are very recent in age and
+have a low probability of containing significant cultural deposits in good
+context.
+There is potential for unrecorded archeological resources to be present,
+as most of the project area is completely unsurveyed. The current study
+conducted by Hicks & Company personnel provides the results of a
+detailed background predictive assessment for the potential for
+archeological sites. The probability for prehistoric sites has been
+determined by examining the geology, soils, topography, and river
+drainages in the proposed project area. In addition to the archeological
+file search, investigators relied heavily on the probability assessment and
+geoarcheological investigations conducted by Cooper et al. (2003) as a
+way to identify areas having a high probability for cultural resources.
+Seven backhoe trenches were excavated by Cooper et al. (2003) within a
+two-kilometer radius of the proposed project area (BHT-9.13, BHT-9.14,
+BHT-10.17, BHT-10.18, BHT-11.15, BHT11.16, and BHT-12.19). Table 1
+summarizes backhoe trenches excavated by Cooper et al. (2003:
+Appendix C) during an intensive geoarcheological investigation near the
+proposed project area. BHT-9.13 and BHT-9.14 were excavated at
+archeological Site 41HG180. BHT-9.13 contained brick fragments to at
+least 80 centimeters below the ground surface. BHT9.14 contained brick
+fragments, plaster, and glass fragments to a depth of 45 centimeters
+below ground surface. Current investigations suggest these historic
+artifacts probably represent fill from earth movement associated with the
+levee. BHT-12.19 was excavated west of the proposed wetland mitigation
+area in the Hidalgo Bend National Wildlife Refuge. This trench was found
+to be disturbed to a depth of 253 centimeters below ground surface.
+Investigators found concrete, two strands of wire cable and a single piece
+of brick between the depths of 35 to 176 centimeters below ground
+surface. The trench was terminated at 253 centimeters below ground
+surface when a concrete slab, modern bricks, glass fragments, and a
+piece of a 7-UP bottle were encountered between 192-253 centimeters
+below ground surface. The remaining four trenches excavated by Cooper
+et al. (2003) were negative for cultural material.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+13
+
+Probability Model
+
+In addition, a single radiocarbon sample was collected from BHT-10.17,
+which is located within two-kilometers of the proposed project area. This
+sample consisted of common charcoal or a black decaying organic
+material collected between 285-295 centimeters (9.4 to 9.7 feet) below
+ground surface. The sample yielded a conventional date of 1,710 +/- 30
+B.P. (A.D. 250 to 410). This data suggests that there may be intact
+pockets of buried cultural material dating to the Late Archaic Period (400
+B.C. â A.D. 800) between 9 to 10 feet within the proposed project area
+(Cooper et al. 2003:34).
+A review of these backhoe trench data would suggest that Hicks &
+Company personnel would expect to find the upper two-meters of
+sediments to be very young recent deposition from the Rio Grande. Based
+on radiocarbon data from BHT-10.17, investigators could expect to find
+pockets of buried cultural material dating to the Late Archai c Period
+between depths of 9 â 10 feet below the ground surface. Any historic sites
+that have any contextual integrity would most likely be found on the
+ground surface. The catastrophic flood in 1933 most likely destroyed and
+buried any historic site having any archeological significance;
+furthermore, any historic sites found would most likely be the result of
+secondary deposition, hence, having poor contextual integrity and little
+to no research value.
+In the high probability assessment of the Lower Rio Grande Flood
+Control Project report by Cooper et al. (2003), two high probability areas
+(HPA-1 and HPA-2) were identified as having a possible intact historic
+component (Plates 2 and 3). HPA-1 and HPA-2 were identified as
+structures on a 1916 United States Geological Survey topographic map.
+HPA-1 is located near the McAllen Pump House. No structure(s) exist in
+this area now but historic cultural materials may remain. HPA-2 is
+located near the Old Hidalgo Historic Pump House. Although no standing
+structures are located in this area today, Cooper et al. considered this
+area to have the potential for historic cultural material. Prehistoric
+cultural material in both HPA-1 and HPA-2 were considered low since
+geoarcheological investigations by Cooper et al. led them to suggest that
+ground disturbance extending no more than six feet in depth ââ¦would
+not likely impact significant archeological depositsâ¦â (Cooper et al.
+2003:84-90). The current study has produced data consistent with
+Cooper et al. (2003) findings.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+14
+
+Probability Model
+
+Table 1 Backhoe trenches excavated by Cooper et al (2003) near the proposed project area
+Cooper et
+Maximum
+Site
+Depth
+al. (2003)
+Depth
+Soil Description
+Pos/Neg
+Backhoe
+Number
+(cmbs)
+(cmbs)
+Trenches
+0-25 cmbs
+
+25-90 cmbs
+
+BHT 9.13
+
+41HG180
+
+330 cmbs
+
+90-126
+cmbs
+126-156
+cmbs
+
+156-330
+cmbs
+
+0-25
+
+25-100
+cmbs
+100-171
+cmbs
+BHT9.14
+
+41HG180
+
+310 cmbs
+171-222
+cmbs
+
+222-237
+cmbs
+237-297
+cmbs
+297-310
+cmbs
+BHT 10.17
+
+350 cmbs
+
+0-16 cmbs
+16-61 cmbs
+61-73/80
+cmbs
+73/80-108110 cmbs
+108/110142 cmbs
+142-192
+cmbs
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+Pale Brown (10YR6/3) sandy clay; dense;
+massive; abundant woody roots; gradual
+boundary
+Pale Brown (10YR6/3) sandy , silt clay;
+dense to very firm; massive; white
+calcareous deposits in pores and fine
+krotovina; brick fragments to at least 80
+centimeters
+Brown (10YR5/3) sandy, clayey silt; very firm
+to dense; white calcareous deposits
+throughout; few charcoal flecks
+Pale Brown (10YR6/3) silt; friable to firm;
+faint orange Fe mottles; some white
+calcareous deposits
+Pale Brown (10YR6/3) silty fine-grained sand
+grading to sandy silt; friable to firm; dark
+orange Fe mottles in upper portion; white
+calcareous deposits in upper portion; few
+charcoal flecks
+Pale Brown (10YR6/3) sandy clay; firm;
+massive; abundant rootlets; bioturbated with
+common termite burrows and tunnels; brick
+fragments, glass, plaster to a depth of 45
+centimeters at least; clear to abrupt
+boundary
+Dark grayish brown (10YR4/2) clay; blocky;
+firm; common rootlets; termite tunnels
+Brown becoming pale brown (10YR5/3 to
+10YR6/3) silty fine-grained sand; white
+calcareous deposits in upper portion;
+common dark-filled vertical fine krotovina
+2 centimeters of dark grayish brown
+(10YR4/2) clay then brown (10YR4/3) silty
+clay; zone lightens to yellowish brown
+(10YR5/4) color and grades to a pale brown
+(10YR6/3) clayey silty sand at base; abrupt
+bioturbated boundary
+Brown (7.5YR4/3 moist) clay
+Brown to pale brown (10YR5/3 to 10YR6/3
+moist) silty fine-grained sand; common
+blackish orange vertical FeMn mottles;
+bioturbation is present
+Brown to yellowish brown (10YR5/3 to
+10YR5/4 moist) slightly sandy, clayey silt;
+firm to plastic
+Brown (10YR5/3) sandy, silty, clay; loose;
+rootlets are abundant
+Pale brown (10YR6/3) sandy silt; bioturbated
+boundary; rootlets
+Dark grayish brow n (10YR4/2) clay; common
+woody roots and fine rootlets
+Pale brown (10YR6/3) silt
+Brown to pale brown (10YR5/3 to 10YR6/3)
+silt; trace of Fe stain; clear boundary
+Interbedded clay and silt; zone is
+predominantly brown (10YR4/3) clay; silt is
+brown (10YR5/3)
+
+Neg
+
+Pos
+
+Neg
+
+Neg
+
+Neg
+
+Pos
+
+Neg
+
+Neg
+
+Neg
+
+Neg
+
+Neg
+
+Neg
+Neg
+Neg
+Neg
+Neg
+Neg
+Neg
+
+15
+
+Probability Model
+
+Table 1 Backhoe trenches excavated by Cooper et al (2003) near the proposed project area
+Cooper et
+Maximum
+Site
+Depth
+al. (2003)
+Depth
+Soil Description
+Pos/Neg
+Backhoe
+Number
+(cmbs)
+(cmbs)
+Trenches
+192-209
+cmbs
+209-251
+cmbs
+251-275
+cmbs
+
+275-307
+cmbs
+
+307-327
+cmbs
+327-338
+cmbs
+338-350
+cmbs
+0-65 cmbs
+
+BHT10.18
+
+Cooper et
+al. (2003)
+recorded
+as MCAP
+
+65-160
+cmbs
+330 cmbs
+160-183
+cmbs
+183-300
+cmbs
+
+0-105 cmbs
+
+BHT 11.15
+
+345 cmbs
+
+105-133
+cmbs
+133-345
+cmbs
+
+BHT 11.16
+
+325 cmbs
+
+0-20 cmbs
+
+20-53 cmbs
+
+53-90 cmbs
+90-122
+cmbs
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+Pale brown (10YR6/3) sandy silt; common
+fine krotovina with blackish orange FeMn
+stain
+Light brownish gray (10YR6/2) fine-grained
+sand; loose; charcoal or black decaying
+organics on some beds; clear gradual
+boundary
+Pale Brown 10YR6/3) slightly sandy silt;
+slight black FeMn stain
+Upper few centimeters brown (10YR4/3)
+then brown to dark grayish brown (7.5YR4/2
+to 10YR4/2) clay; upper part is bioturbated
+with tan silt; common charcoal or pieces of
+black decaying organic material
+(Radiocarbon date was obtained)
+Pale Brown (10YR6/3) sandy silt; bioturbated
+with common vertical krotovina filled with
+dark soil
+Dark grayish brown (10YR4/2) clay;
+bioturbated
+Pale Brown (10YR6/3) sandy silt
+Pale brown (10YR6/3) slightly silty finegrained sand; abundant rootlets in upper 25
+centimeters, common below that depth;
+bioturbated with common filled krotovina
+Brown (10YR5/3) silty fine-grained sand;
+common rootlets; highly bioturbated with
+vertical filled krotovina
+Brown (10YR4/3) silty, sand clay grading to
+brown (10YR5/3) silt; trace dark orange Fe
+stain; bioturbated with many filled krotovina;
+abrupt boundary
+Alternating beds of dark grayish brown
+(10YR4/2) clay, brown (10YR4/3) silty clay,
+and very pale brown (10YR7/3) silt
+Fill; upper part rootlet bound; chunks of
+concrete, plywood, and brick fragments;
+erratic clay lenses; matrix is pale brown
+(10YR6/3) clayey, sandy silt; bioturbated
+with common filled krotovina
+Brown (10YR4/3) clay; common rootlets and
+open fine krotovina
+Pale Brown (10YR6/3) silty fine-grained
+sand; few sets of laminae contain charcoal
+flecks and are slightly darker (10YR5/3); few
+shell fragments; a few fine orange Fe mottle
+near base
+Pale Brown (10YR6/3) slightly silty finegrained sand; concrete slab imbedded at
+end of trench
+Brown to pale brown (10YR5/3 to 10Y R6/3)
+silty fine-grained sand; zone contains two 2centimeters-thick brown (10YR4/3) clay
+layers
+Dark grayish brown (10YR4/2) clay; common
+rootlets and few woody roots; abundant dark
+orange Fe stain in clayey parts
+Pale Brown (10YR6/3) sandy silt with two
+thin interbeds of dark grayish brown
+(10YR4/2 clay
+
+Neg
+
+Neg
+
+Neg
+
+Neg
+
+Neg
+Neg
+Neg
+
+Neg
+
+Neg
+
+Neg
+
+Neg
+
+Pos
+
+Neg
+
+Neg
+
+Neg
+
+Neg
+
+Neg
+
+Neg
+
+16
+
+Probability Model
+
+Table 1 Backhoe trenches excavated by Cooper et al (2003) near the proposed project area
+Cooper et
+Maximum
+Site
+Depth
+al. (2003)
+Depth
+Soil Description
+Pos/Neg
+Backhoe
+Number
+(cmbs)
+(cmbs)
+Trenches
+122-185
+cmbs
+185-261
+cmbs
+261-266
+cmbs
+266-335
+cmbs
+
+0-35/41
+cmbs
+
+BHT 12.19
+
+253 cmbs
+
+35/41-176
+cmbs
+176-192
+cmbs
+192-253
+cmbs
+
+Upper 40 centimeters of zone consist of dark
+grayish brown (10YR4/2) clay with 3
+interbeds of pale brown (10YR6/3) silt with a
+trace of sand; some calcareous deposits.
+Pale brown (10YR6/3) silt; white calcareous
+deposits; mottle with Fe stain
+Dark grayish brown (10YR4/2) clay; common
+rootlet holes stained orange with Fe
+Pale Brown (10YR6/3) sandy silt grading to
+light brownish gray to pale brown (10YR6/2
+to 10YR6/3) medium-grained sand
+Brown to pale brown (10YR5/3 to 10YR6/3)
+silty very fine-grained sand; few charcoal
+flecks; zone thickens slightly to south;
+boundary abrupt smooth bioturbated in part
+and marked by pale orange Fe mottles
+Light grayish brown to pale brown (10YR6/2
+to 10YR6/3) fine-grained sand; loose to
+friable; few charcoal flecks; several pieces
+of concrete, 2 strands of wire cable, 1
+piece of brick; clear smooth boundary
+Pale Brown (10YR6/3) silty fine-grained
+sand; firm; common orange Fe mottles
+Fill; silty sand matrix containing concrete
+slab, modern bricks, glass, and pieces of
+7-UP bottles
+
+Neg
+
+Neg
+Neg
+Neg
+
+Neg
+
+Neg
+
+Neg
+Neg
+
+SUMMARY OF PROBABILITY MODEL
+In summary, Hicks & Company archeologists created a predictive
+probability model in order to define areas having a high potential for
+cultural resources within the proposed Hidalgo Protective Levee System
+in Hidalgo County, Texas. An intensive geoarcheological investigation by
+Cooper et al. (2003) indicates that the upper two-meters of deposition
+within the proposed project area is very recent Holocene deposition from
+frequent flooding of the Rio Grande as well as flooding caused by a
+hurricane in 1933. The Rio Grande is an extremely complex meanderbelt
+that has shifted course throughout history either by flooding, hurricanes,
+or human intervention; the events that altered the course of the river left
+behind bancos and resacas which, from an archeological perspective
+have the highest potential for historic and prehistoric occupations.
+Although Cooper et al. found that most of the project area is buried
+under young deposition, they clearly state that pockets of intact
+sediments with good contextual integrity exist and these most likely are
+present around bancos and resacas. A single radiocarbon date obtained
+by Cooper et al. (2003) near the project area in BHT-10.17 (285-295
+centimeters below ground surface) suggest that these intact pockets may
+date to the Late Archaic Period, especially along bancos and resacas. All
+bancos and resacas located within the project area should be intensively
+investigated for historic and prehistoric occupations. In addition, high
+probability areas HPA-1 and HPA-2 were identified on 1916 USGS
+topographic maps as areas having historic structures (Cooper et al.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+17
+
+Probability Model
+
+2003). A review of the USGS topographic maps indicated that more
+historic settlements may have been present in the vicinity of the
+proposed project area, with only HPA-1 and HPA-2 being located within
+the current study area (Cooper et al. 2003). Unfortunately, a review of
+USGS topographic maps and 2003 aerial photography maps by Hicks &
+Company investigators could not identify any bancos and resacas located
+within the proposed project area.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+18
+
+Geoarcheological Investigations
+
+GEOARCHEOLOGICAL INVESTIGATIONS
+By: Charles Frederick, Ph.D., P.G.
+
+METHODS
+At the time the geoarcheological fieldwork was performed, 16 of the 26
+trenches were open (specifically, BHT 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12,
+18, 19, 21 and 22) and these were briefly cleaned, and a simple
+stratigraphic sketch made. From these data the trenches were grouped
+into deposits of similar age and depositional environment, and from
+those groups one (or more) trenches in each group were described in
+detail (see Trench Descriptions, below; Table 2). Three different age
+deposits were identified during the field work (Modern Alluvium (MA),
+Late Holocene Alluvium (LHA) and Middle Holocene Alluvium (MHA), see
+discussion below). A total of eight trenches were thus described. For each
+of those eight trenches, a single vertical column was picked with a knife
+and shaved with a trowel, and then described. Each physically distinct
+deposit (termed a zone) was described using the terminology of
+Schoeneberger et al. (2002) and Birkeland (1999). Where multiple,
+repetitive beds were present (as was often the case for the near channel
+overbank facies of the Modern Alluvium) the deposits were groupe d for
+descriptive purposes, and the depth of various beds was depicted on the
+stratigraphic sketch.
+
+Table 2 List of backhoe trenches described in detail, other similar sub trenches, and the
+age and depositional environment of the exposed deposits.
+Described
+Trenches in
+Deposit Age(s)
+Depositional Environment/Facies
+Trench
+Representative
+Group
+2
+3, 22
+
+2
+3, 22
+
+LHA
+MA over LHA
+
+4
+5
+9
+12
+21
+
+7, 8, 9, 10,
+5
+1, 18, 19
+4, 11, 12
+21
+
+MA
+MA
+MA
+MA
+MHA
+
+LHA:Medial to distal floodplain
+MA: near channel overbank
+LHA: medial to distal floodplain
+MA: near channel overbank
+MA: channel
+MA: channel plug(?)
+MA: near channel overbank and point bar
+MHA: medial to distal floodplain
+
+STRATIGRAPHIC OVERVIEW
+Four different deposits were observed in the field: 1) Fill; 2) Modern
+alluvium (abbreviated MA); 3) Late Holocene alluvium (abbreviated LHA),
+and 4) older (presumably Middle Holocene) alluvial deposits (abbreviated
+MHA). The most prevalent were deposits associated with the modern
+depositional regime, but several trenches penetrated a remnant of a late
+Holocene alluvial deposit, and one trench revealed a slightly older alluvial
+fill.
+Fill
+
+Several of the trenches described in detail contained recent fill which
+appears to have been associated with construction of the levee. These
+deposits typically exhibited heterogeneous lithology, often displayed
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+19
+
+Geoarcheological Investigations
+
+lenticular or âsmearedâ beds, sometimes had rounded aggregates of soil
+suspended in the matrix, and usually had a high density (firm to
+extremely firm consistence). A few contained reworked historic age
+cultural material (brick fragments, patinated glass, and plastic) and
+charred zones. Where present, these sediments were the uppermost
+deposit, and rested upon Modern Alluvium.
+In areas away from the existing levee, several trenches exposed a thin
+20-30 centimeter thick plow zone, but in a few cases this could not be
+distinguished on the bases of the deposits alone, but was inferred from
+the depth of recent age cultural material.
+Modern Alluvium (MA)
+The majority of the trenches exposed deposits which are effectively
+modern in age. Although the precise age of these deposits is unknown
+and certainly debatable, it is likely that they are no more than 1000
+years old, and many (perhaps most) may be of historic age. The
+demonstrably historic age deposits of the Rio Grande elsewhere in the
+catchment are known for producing erroneously old bulk radiocarbon
+ages (cf. Frederick 2006; Frederick 2004; Frederick and Higgins 1993),
+and here in the delta, Cooper et al., (2003:84-89) suspected that their
+bulk sediment dates were erroneously old but could not substantiate it.
+At this time it is not possible to distinguish historic from recent
+prehistoric deposits in the field, and for this reason all of these deposits
+should be considered likely to bury and contain historic and Late
+Prehistoric cultural material.
+Deposits in this group share a number of attributes, which include a lack
+of significant pedogenic alteration, and prominent and well preserved
+bedding (both well-defined beds and sedimentary structures such as
+horizontal and ripple laminations, and cross-bedding), and abrupt
+boundaries. Slight pedogenic alteration was noted in these sediments in
+the form of very infrequent calcium carbonate filaments, rare threads of
+gypsum, reddish-brown coats lining pores and ped faces (oxidized
+organic matter?), and yellowish brown mottles along bedding planes in
+sandy deposits. Significant pedogenic alteration in the form of master
+horizons such as A or B horizons were conspicuously absent.
+The color of the modern deposits was strongly conditioned by the texture,
+with coarser textured sediments being lighter colored, and finer textured
+ones darker. In specific, sands ranged in color from light gray (10YR
+7/2) to pale brown (10YR 6/3, meters) and very pale brown (10YR 7/3),
+whereas sandy loams and loamy sands were generally pale brown (10YR
+6/3), brown (10YR 5/3), or yellowish brown (10YR 5/4). Loamy deposits
+(loam, silt loam and silt) were generally a slightly darker colored brown
+(10YR 5/3 to 10YR 4/2). Muds (silty clay, silty clay loam and clay) were
+most often brown (10YR 4/2) but massive muds in channel plug-like
+deposits were usually a slightly lighter colored light brownish gray (10YR
+5/2).
+Modern alluvial deposits were typically observed beneath recent Fill and
+resting upon Late Holocene Alluvium.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+20
+
+Geoarcheological Investigations
+
+Late Holocene Alluvium (LHA)
+Several trenches penetrated a remnant of what is inferred to be Late
+Holocene alluvium. These deposits were all from the same general
+depositional setting, namely a medial to distal floodplain environment
+and consisted of a series of stacked, weakly-developed floodplain soils
+formed in medium to thick fining upward beds which were sandy to
+loamy at their base and silty clay to clay at the top. The tops of these
+beds were generally darker colored than the demonstrably unaltered
+floodplain muds in the Modern Alluvium (even when yielding the same
+Munsell color), and were therefore recognized as A horizons. These soils
+exhibited A-C profiles.
+The LHA deposits differed from the Modern Alluvium deposits in several
+ways. First, only the base of the fining upward beds were abrupt, and
+within a single fining upward bed internal boundaries were either clear
+or gradual.
+Second, these deposits lacked sedimentary structures.
+Third, nearly all of the fine -grained deposits exhibited calcium carbonate
+filaments. And finally, terrestrial gastropods (specifically Rabdotus sp.)
+were common within the LHA deposits, and only rarely encountered in
+the Modern alluvium.
+The coarse -textured basal part of the fining upward beds were typically
+sandy loam, loam to silt loam, with colors ranging from pale brown (10YR
+6/3) to brown (10YR 4/3) to yellowish brown (10YR 5/4).
+The fine -grained upper parts of these beds, which had been
+pedogenically altered to form A horizons, ranged in texture from silt loam
+to silty clay loam, and were either very dark grayish brown (10YR 3/2) or
+brown (10YR 4/3).
+The Late Holocene alluvial deposits were overlain by Modern Alluvial
+deposits in two trenches, and appeared to rest on a truncated, older,
+presumably Middle Holocene, rubified alluvial deposit at depth. The age
+of this deposit is presently assumed rather than demonstrated, but it
+would seem likely that these sediments hold the potential for buried
+cultural material ranging in age from Late Prehistoric through Late
+Archaic. Older materials may be present at depth depending upon the
+actual age of the unit.
+Middle Holocene Alluvium (MHA)
+One trench encountered what appeared to be a complete profile of an
+older alluvial deposit (BHT-21) which exhibited an A-AB-Bk-C soil profile
+and fragments of a similar colored deposit were observed beneath the
+LHA at the base of two trenches (BHT-3 and BHT-22). The relative
+stratigraphic position of this deposit (beneath a higher terrace, and
+stratigraphically beneath LHA) together with the fact that it was rubified
+(exhibited 7.5YR hues) suggest that this alluvial deposit is older than the
+Late Holocene Alluvium. In terms of stratigraphic position, the complete
+profile was observed on a terrace surface that stands several meters
+above the modern floodplain (the same surface the Pharr-San Juan
+pump station is built on), and the absence of a recognizable drape of
+Modern Alluvium on this profile suggests that this surface may only
+rarely be inundated.
+It is possible that the brick in the top 30
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+21
+
+Geoarcheological Investigations
+
+centimeters of BHT-21 may actually be buried by a drape of Modern
+Alluvium which is, in this setting, part of cumulic A horizon, but if this is
+the case, the Modern Alluvium here bears none of its classic attributes
+described in detail above.
+Although this deposit is here described as Middle Holocene age, the true
+age of this deposit is unknown, and itâs age is estimated on the basis of
+its degree of soil development.
+
+GEOLOGIC SUMMARY
+The landscape traversed by the project in the vici nity of Hidalgo is at the
+upper (western) end of what the Bureau of Economic Geology has
+mapped as the Holocene floodplain deposits of the Rio Grande delta (BEG
+1976).
+Geomorphology
+There are at least two constructional geomorphic surfaces within the
+project area, but the degree of landscape modification associated with
+agriculture, urbanism and the levee construction have altered the
+landscape enough to make sorting out the original topography rather
+challenging. The modern floodplain of the Rio Grande is separated from
+an elevated terrace by about a four meter scarp. This scarp was quite
+well expressed in the vicinity of Trenches 2, 3, 22, and 23. Another
+scarp (possibly the same one) separates the old town of Hidalgo, near the
+Pharr-San Juan Pump Station from the floodplain to the north. Trench
+21 is situated on this higher surface, whereas nearby Trench 9 is clearly
+on the floodplain. It is possible that these are two different surfaces with
+slightly different relative elevations (the one near the pump station being
+slightly higher than the other), but that could not be confirmed with the
+data obtained during fieldwork.
+The Bureau of Economic Geologyâs map of this landscape is based
+primarily upon lithology, and they recognize two different terrains in the
+project area: 1) sandy alluvium (BEG map unit Qas) and 2) muddy
+alluvium (BEG map unit Qam). Most of the project area (specifically the
+modern Rio Grande floodplain) is mapped as sandy alluvium whereas the
+higher surface underlain by the older alluvial deposits is mapped as
+muddy alluvium. It may be in part the elevational difference that
+underlies the BEG mapping of this landscape, but from the results of
+this project it is apparent that there is considerable temporal complexity
+to these deposits that is not depicted on the BEG maps.
+Figure 3 shows the location of the trenches and the inferred age of the
+deposits, and this clearly shows the location of the higher surface(s)
+which are underlain by older alluvial deposits. The old town of Hida lgo
+is situated on the leading edge of a bit of higher ground which is
+underlain by older alluvial deposits, and bordered on the south by the
+modern Rio Grande floodplain. The western edge of this elevated area
+roughly parallels Highway 281 north of Hidalgo, and then turns
+southeast immediately south of Hidalgo and the Pharr-San Juan Pump
+Station. The canal from the pump station hugs the leading edge of the
+scarp which separates this higher surface from the floodplain.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+22
+
+Geoarcheological Investigations
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+24
+
+Geoarcheological Investigations
+
+The scarp separating the floodplain from this elevated surface was
+particularly clear in the vicinity of Trenches 2, 3, 22 and 23. In part of
+this area the levee parallels the scarp and is situated on the higher
+surface. The spatial distribution of the modern alluvial deposits on the
+leading edge of this surface suggests that modern floods have submerged
+the margins of it, but the core has probably only rarely been inundated.
+Figure 4 illustrates a hypothetical cross-section showing the relative
+stratigraphic position of the deposits described above. Obviously, the
+thickness of most units is highly conjectural, except where the Late
+Holocene Alluvium (LHA) rests upon the beveled edge of the Middle
+Holocene Alluvium (MHA), which was directly observed in several
+trenches. But given the LHA deposits are a medial to distal floodplain
+facies, it is likely that this unit is considerably thicker elsewhere, outside
+of the project area and what is preserved here is the valley margin
+portion of this deposit.
+Within each of these macro-depositional units are a myriad of alluvial
+facies typically associated with meandering streams and which are fairly
+well represented by the Modern Alluvium deposits exposed during
+trenching. The three-dimensional geometry of these deposits is, if the
+Modern Alluvium is a representative example, likely to be tremendously
+complex. Although the majority of the Modern alluvial deposits exposed
+during trenching were associated with vertical accretion, the deeper
+deposits of this unit undoubtedly are dominated by lateral accretion
+deposits associated with channel and point bar facies.
+Trench Descriptions
+Trench 2: Late Holocene Middle Floodplain Facies
+Comment: The top 57 centimeters in this trench appeared to be fill
+introduced to make the levee, and it rested unconformably upon a
+roughly three meters thick section of Late Holocene alluvial deposits.
+The latter consists of a series of stacked, weakly developed paleosols
+which appear to have formed in a medial to distal floodplain depositional
+environment that experienced episodic sedimentation. This deposit is
+inferred to be of Late Holocene age on the basis of the lack of
+rubification, and weakly expressed soil morphology.
+Although no
+radiocarbon dates are available for this deposit, the appearance of this
+fill suggests that Late Archaic and possibly Late Prehistoric occupations
+may be present within it.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+25
+
+Geoarcheological Investigations
+
+Zone
+
+Depth
+
+Unit
+
+Horizon
+
+1
+
+0-57
+
+Fill
+
+C
+
+2
+
+57-90
+
+LHA
+
+Ab
+
+3
+
+90-100
+
+LHA
+
+AC
+
+4
+
+100-135
+
+LHA
+
+2Ab
+
+5
+
+135-145
+
+LHA
+
+2C
+
+6
+
+145-180
+
+LHA
+
+3Ab
+
+7
+
+180-204
+
+LHA
+
+3C
+
+8
+
+204-246
+
+LHA
+
+4Ab
+
+9
+
+246-330
+
+LHA
+
+4C
+
+Description
+Pale brown (10YR 6/3, meters) silty clay loam to clay loam, firm to
+extremely firm, strong medium to coarse angular blocky structure, abrupt
+smooth boundary, violently effervescent, introduced fill, few pebbles,
+compacted by equipment.
+Very dark grayish brown (10YR 3/2, meters) silty loam to silty clay loam,
+friable to firm, strong coarse angular blocky structure parting to
+moderate medium subangular blocky structure, clear smooth boundary,
+violently effervescent, structure most strongly expressed at top of zone
+owing to compaction by equipment.
+Brown (10YR 4/3, meters) loam, very friable, weak coarse subangular
+blocky structure, abrupt smooth boundary, violently effervescent.
+Very dark grayish brown (10YR 3/2, meters) silt loam, friable, weak
+coarse subangular blocky structure, gradual smooth boundary, violently
+effervescent, few (1%) calcium carbonate filaments, few snails.
+Brown-yellowish brown (10YR 5/3.5, meters) sandy loam, very friable,
+massive, abrupt smooth boundary, violently effervescent, few (1%)
+calcium carbonate filaments.
+Brown (10YR 4/3, meters) silt loam, friable, weak very coarse
+subangular blocky structure, gradual smooth boundary, violently
+effervescent, few (1%) calcium carbonate filaments, few snails.
+Brown (10YR 5/3, meters) silt loam to loam, friable, moderate medium to
+fine prismatic structure parting to moderate fine subangular blocky
+structure, abrupt, smooth boundary, few (3%) calcium carbonate
+filaments.
+Very dark grayish brown to brown (10YR 3/2 to 10YR 4/2, meters) silty
+clay loam, friable, moderate fine subangular blocky structure parting to
+medium moderate granular structure, clear smooth boundary, violently
+effervescent, few (3%) calcium carbonate filaments.
+Brown (10YR 4/3, meters) silt loam to loam, friable, weak medium to
+coarse subangular blocky structure, violently effervescent, few (1-3%)
+calcium carbonate filaments.
+
+Trench 3: Modern Near channel overbank facies overlying Late Holocene Middle
+Floodplain Facies
+Comment: At the very base of this trench is a slightly rubified deposit
+which may be an older depositional unit (provisionally identified as
+MHA), but the majority of the deposits exposed here, like Trench 2, are
+thought to be of Late Holocene age, and draped by a thin veneer of recent
+floodplain sediment (Zone 2). Zone 2 is a composite of slack water
+deposits (SWDâs, or event specific overbank flood couplets; cf. Kochel and
+Baker 1988; Jarrett and England 2002), where Zone 2a represents the
+fine -textured or mud part of the couplet, and Zone 2b represents the
+basal coarse fractions. Zone 1 appears to be recent fill.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+26
+
+Geoarcheological Investigations
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+28
+
+Geoarcheological Investigations
+
+Zone
+
+Depth
+
+Unit
+
+Horizon
+
+1
+
+0-30
+
+Fill
+
+C
+
+2a
+
+30-133
+
+MA
+
+2C
+
+2b
+
+30-133
+
+MA
+
+2C
+
+3
+
+133-180
+
+LHA
+
+3Ab
+
+4
+
+180-200
+
+LHA
+
+3C
+
+5
+
+200-211
+
+LHA
+
+4Ab
+
+6
+
+211-216
+
+LHA
+
+4C
+
+7
+
+216-235
+
+LHA
+
+5Ab
+
+8
+
+235-280
+
+LHA
+
+5C
+
+9
+
+280-300
+
+MHA?
+
+6C
+
+Description
+Variable color owing to admixture of multiple materials, generally a
+sandy loam, firm, massive structure, violently effervescent, abrupt
+smooth boundary.
+Brown (10YR 4/2, meters) clay, firm, strong medium wedge to strong
+coarse granular structure, clear smooth boundary, strongly
+effervescent, few yellowish red (5YR 5/8) haloes around pores.
+Pale brown (10YR 6/3, meters) loamy sand to sand, friable, weak to
+moderate coarse angular blocky structure parting to weak coarse
+prismatic structure, abrupt smooth boundary, violently effervescent,
+often horizontally laminated.
+Brown (10YR 4/2, meters) silt loam to silty clay loam, friable, weak to
+moderate fine to medium prismatic structure, gradual smooth boundary,
+violently effervescent, few (1%) calcium carbonate filaments, few snails.
+Pale brown âvery pale brown (10YR 6.5/3, meters) fine sandy loam,
+very friable, massive, abrupt smooth boundary, violently effervescent,
+faint traces of horizontal bedding.
+Brown (10YR 4/3, meters) loam, friable, weak medium subangular
+blocky structure, abrupt smooth boundary, violently effervescent, few
+(1%) calcium carbonate filaments.
+Pale brown (10YR 6/3, meters) sandy loam, very friable, weak coarse
+subangular blocky structure, abrupt smooth boundary, violently
+effervescent, few (1%) calcium carbonate filaments.
+Brown (10YR 4/3, meters) silt loam, friable, weak coarse subangular
+blocky structure, clear smooth boundary, violently effervescent, few
+(3%) calcium carbonate filaments.
+Pale brown (10YR 6/3, meters) sandy loam to loamy sand, very friable,
+weak coarse subangular blocky to massive structure, abrupt smooth
+boundary, few (1%) calcium carbonate filaments.
+Brown (7.5YR 4.5/3, meters) silt loam, friable, weak coarse subangular
+blocky structure, violently effervescent, few (3%) calcium carbonate
+filaments.
+
+Trench 4: Modern near channel overbank facies
+Comment: The top 83 centimeters of this trench appears to be
+construction fill associated with the levee. All of the deposits below that
+are Modern Alluvium, but there appears to be a shift in facies from point
+bar related deposits in the lowest meter, to near channel overbank
+deposits (slack water sediments) between 85 and 200 centimeters depth.
+The slack water sediments comprise Zones 2 and 3, and these are
+composite zones where repetitive bedding was present. Zone 3 was
+dominantly fine sediment with a few thin sand beds, whereas Zone 2 was
+almost equal amounts of fine and coarse sediment. See graphic for
+relative thickness and frequency of the various beds. The probability of
+cultural deposits between 2-3 meters is unlikely given its apparent
+landscape setting, but they could easily be present in the slack water
+sediments which rest on the point bar deposits.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+29
+
+Geoarcheological Investigations
+
+Zone
+
+Depth
+
+Unit
+
+Horizon
+
+1
+
+0-85
+
+Fill
+
+C
+
+2a
+
+85-136
+
+MA
+
+2C
+
+2b
+
+85-136
+
+MA
+
+2C
+
+3a
+
+136-198
+
+MA
+
+2C
+
+3b
+
+136-198
+
+MA
+
+2C
+
+4
+
+198-230
+
+MA
+
+2C
+
+5
+
+230-264
+
+MA
+
+2C
+
+6
+
+264-266
+
+MA
+
+2C
+
+7
+
+266-300
+
+MA
+
+2C
+
+Description
+Brown (10YR 4/2, meters) clay to brown (10YR 5/3, meters) loam,
+variable texture throughout zone, extremely firm to friable, strong fine
+platy to massive structure, abrupt wavy boundary, violently
+effervescent, contains several lenticular zones of charred material,
+some patinated glass (window and bottle) and brick fragments, and
+numerous rounded earth fragments suspended in matrix; clearly fill.
+Pale brown (10YR 6/3, meters) sandy loam, very friable, massive
+structure, abrupt wavy to smooth boundary, violently effervescent, faint
+traces of laminations in places.
+Brown (10YR 5/3, meters) loam to silt loam, very friable, weak fine
+subangular blocky structure, clear smooth boundary, violently
+effervescent, trace (<1%) of calcium carbonate filaments.
+Brown (10YR 4/2, meters) silt loam to loam, very friable, massive to
+weak fine subangular blocky structure, abrupt smooth boundary,
+common worm casts, violently effervescent.
+Pale brown (10YR 6/3, meters) fine sand to sandy loam, very friable,
+massive structure, abrupt smooth boundary, violently effervescent,
+common worm casts, occasionally laminated.
+Very pale brown (10YR 7/3, meters) loamy sand to sand, very friable,
+weak coarse subangular blocky structure, abrupt smooth boundary,
+violently effervescent.
+Pale brown (10YR 6/3, meters) to very pale brown (10YR 7/3, meters)
+fine sand, loose to very friable, single grained, abrupt wavy boundary,
+violently effervescent, ripple laminated.
+Brown (10YR 5/3, meters) silt, firm, moderate fine angular blocky
+structure, abrupt wavy boundary, violently effervescent; a mud drape.
+Pale brown (10YR 6/3, meters) to very pale brown (10YR 7/3, meters)
+fine sand, loose to very friable, single grained, abrupt wavy boundary,
+violently effervescent, ripple laminated.
+
+Trench 5: Modern Channel Facies
+Comment: This trench exposed a Modern Alluvium channel deposit
+which experienced flow to the east, roughly perpendicular to the levee.
+The presence of a massive mud at the base of the trench (reminiscent of
+a channel plug) may indicate that this shallow channel deposit
+represents reactivation of an older, now largely filled abandoned channel.
+The likelihood of encountering cultural deposits in this trench is very
+low, given the high energy depositional environment it represents.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+30
+
+Geoarcheological Investigations
+
+Zone
+
+Depth
+
+Unit
+
+Horizon
+
+1
+
+0-30
+
+Fill
+
+C
+
+2
+
+30-55
+
+MA
+
+2C
+
+3
+
+55-67
+
+MA
+
+2C
+
+4
+
+67-90
+
+MA
+
+2C
+
+5
+
+90-190
+
+MA
+
+2C
+
+6
+
+190-215
+
+MA
+
+2C
+
+7
+
+215-285
+
+MA
+
+2C
+
+8
+
+285-300
+
+MA
+
+2C
+
+Description
+Variable textured, not described in detail, firm, strong coarse angular
+blocky to strong medium platy structure, abrupt smooth boundary,
+violently effervescent, appears to have been disturbed by levee
+construction.
+Brown (10YR 5/3, meters) sandy loam, very friable, massive to weak
+coarse subangular blocky structure, abrupt smooth boundary, violently
+effervescent, few thin dipping sand laminae present, top of this bed is
+densely compacted by machinery.
+Pale brown (10YR 6/3, meters) loamy sand to sandy loam, very friable,
+massive structure, abrupt smooth boundary, violently effervescent,
+prominent ripple laminations.
+Brown (10YR 5/3, meters) loam, very friable, massive, abrupt smooth
+boundary, violently effervescent.
+Light brownish gray (10YR 5/2, meters) sand, loose, single grained,
+abrupt smooth boundary, violently effervescent, upper half of this zone
+exhibited prominent trough cross beds denoting current flow normal to
+the long axis of the trench, the lower half was ripple laminated, with
+critical and super-critical climbing ripples.
+Brown-yellowish brown (10YR 5/3.5, meters) loamy sand, very friable,
+massive, abrupt smooth boundary, violently effervescent, prominent
+ripple laminations.
+Grayish brown-brown (10YR 5/2.5, meters) sandy loam, very friable,
+massive, abrupt smooth boundary, violently effervescent, horizontally
+laminated, few yellowish brown (10YR 5/6, meters) stains along
+bedding planes.
+Brown (10YR 4/2, meters) silty clay to clay, firm, massive to weak fine
+subangular blocky structure, violently effervescent, common brown
+(7.5YR 4/4, meters) stains lining pores and ped faces, no obvious
+bedding.
+
+Trench 9: Modern Channel Plug Facies?
+Comment: The Modern Alluvium deposits in this trench consisted of
+numerous variable thickness beds of slack water sediments. The upper
+half of the trench (zones 2a, 2b and 2c) is dominated by sands with
+occasional thin mud drapes, whereas the lower half of the trench (zones
+3a and 3b) is dominated by muds within which only a few thin sand beds
+are preserved. The general trend therefore is from fairly low energy
+deposition (most likely an ephemeral pond or slough) to one of
+increasingly higher energy floods. Although the deposit appears to be of
+the right age to harbor Late Prehistoric and/or Modern occupations, the
+probability of such occupations in the lower half of the trench is unlikely
+given that this appears to have been a fairly wet setting. The potential of
+occupation is probably better in the upper half where this surface was
+incrementally flooded rather than the scene of long term inundation.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+31
+
+Geoarcheological Investigations
+
+Zone
+
+Depth
+
+Unit
+
+Horizon
+
+1
+
+0-20
+
+MA
+
+Ap
+
+2a
+
+20-195
+
+MA
+
+C
+
+2b
+
+20-195
+
+MA
+
+C
+
+2c
+
+20-195
+
+MA
+
+C
+
+3a
+
+118-320
+
+MA
+
+C
+
+3b
+
+118-320
+
+MA
+
+C
+
+Description
+Pale brown (10YR 6/3, meters) sandy loam, very friable, massive,
+abrupt smooth boundary, violently effervescent, few rocks.
+Pale brown (10YR 6/3, meters) to light yellowish brown (10YR 6/4,
+meters) sandy loam to loamy sand, very friable, massive, abrupt
+smooth boundary, violently effervescent, most beds are horizontally
+laminated.
+Light brownish gray (10YR 5/2, meters) silty clay to clay, friable,
+massive, abrupt smooth to wavy boundary, these are thin (0.5 to 1.5
+centimeters) continuous mud drapes, a few of which are laminated.
+Brown (10YR 5/3, meters) silty clay to clay, friable, moderate medium
+subangular blocky structure, abrupt smooth boundary, violently
+effervescent, this zone comprises slightly thicker mud beds than zone
+2b; few 1-3 mm reddish brown (5YR 4/4, meters) stains on pores and
+ped faces.
+Light brownish gray (10YR 5/2, meters) clay, extremely firm, strong
+extremely coarse prismatic structure, abrupt smooth boundary,
+strongly effervescent, common prominent 1-4 centimeters long
+shrinkage vughs, with yellowish red (5YR 4/6, meters) to dusky red
+(10R 3/2, meters) oxidized coats, few 1-3 mm wide channels filled with
+sand and similar coats. Massive clay plug.
+Yellowish brown (10YR 5/4, meters) loamy sand, very friable, single
+grained, abrupt smooth boundary, violently effervescent, horizontally
+laminated.
+
+Trench 12: Modern Near Channel Overbank to Point Bar Facies
+Comment: All of the deposits exposed by this trench are of Modern age.
+The top 60 centimeters of this trench exhibited slack water sediments
+deposited in a near channel setting, and below this the deposits were
+point bar sands which exhibited various sedimentary structures. All of
+the deposit below 60 centimeters were associated with high energy
+flooding, and for this reason cultural deposits are considered unlikely.
+Zone
+
+Depth
+
+Unit
+
+Horizon
+
+1
+
+0-20
+
+MA
+
+Ap
+
+2a
+
+20-60
+
+MA
+
+C
+
+2b
+
+20-60
+
+MA
+
+C
+
+3a
+
+60-105
+
+MA
+
+C
+
+3b
+
+105-158
+
+MA
+
+C
+
+4
+
+158-160
+
+MA
+
+C
+
+5
+
+160-230
+
+MA
+
+C
+
+6
+
+230-290
+
+MA
+
+C
+
+7
+
+290-350
+
+MA
+
+C
+
+Description
+Brown (10YR 5/3, meters) to pale brown (10YR 6/3, meters) sandy
+loam, very friable, massive, abrupt smooth boundary, violently
+effervescent, plow zone.
+Brown (10YR 5/3, meters) clay to silty clay, firm, strong medium
+angular blocky structure, abrupt smooth boundary, violently
+effervescent, common dark brown (7.5YR 3/4, meters) stains/coats on
+ped faces.
+Pale brown (10YR 6/3, meters) fine sandy loam, very friable, single
+grain to massive, abrupt smooth boundary, violently effervescent,
+common yellowish brown (10YR 5/6, meters) stains along bedding
+planes.
+Pale brown (10YR 6/3, meters) loamy sand, very friable, massiv e,
+abrupt smooth boundary, violently effervescent, 3-5% coarse
+fragments consisting of matrix-supported rounded fine gravel size ripup clasts of zone 3b.
+Brown (10YR 5/3, meters) sandy loam, very friable, massive, abrupt
+smooth boundary, violently effervescent, 3-5% coarse fragments
+consisting of matrix-supported rouded mud rip-up clasts of dark
+grayish brown (10YR 4/2, meters) clay.
+Brown (10YR 4/2, meters) silty clay, very friable, massive, abrupt
+smooth boundary, violently effervescent, mud drape.
+Brown (10YR 5/3 to 10YR 4/3, meters) fine sandy loam, very friable,
+massive, abrupt smooth boundary, violently effervescent, prominent
+ripple laminations.
+Light gray (10YR 7/2, meters) fine sand, loose, single grained, abrupt
+smooth boundary, violently effervescent, upper plane bed lamination.
+Light gray (10YR 7/2, meters) fine sand, loose, single grained, abrupt
+smooth boundary, violently effervescent, prominent ripple laminations,
+mostly climbing ripples.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+32
+
+Geoarcheological Investigations
+
+Trench 21: Middle Holocene (?) Floodplain Facies
+Comment: This appears to be an older floodplain deposit with two
+distinct facies present: a near channel sand, which is overlain by massive
+floodplain mud. The rubified color (7.5YR hue) is distinctly different from
+all of the Late Holocene and Modern deposits, and it is provisionally
+inferred to be of middle Holocene age on the basis of soil development,
+although its actual age is presently unknown. The presence of brick
+fragments around 30 centimeters may indicate that the A horizon has
+been a cumulic feature during the historic period, or it may also be an
+artifact of cultivation, although no plow zone was observed. There was a
+conspicuous line of terrestrial snails around 70 centimeters depth which
+was potentially associated with a prehistoric occupation but picking the
+walls of the trench at this elevation failed to turn up any cultural
+material. The sand at the base of the trench exhibited faint evidence of
+bedding, but probably represents a high energy depositional setting and
+is unlikely to prehistoric contain cultural material in primary context.
+Zone
+
+Depth
+
+Unit
+
+Horizon
+
+1
+
+0-55
+
+MHA
+
+A
+
+2
+
+55-93
+
+MHA
+
+AB
+
+3
+
+93-170
+
+MHA
+
+Bk
+
+4
+
+170-240
+
+MHA
+
+C
+
+Description
+Black (10YR 3/1, meters) silty clay, friable to firm, strong coarse
+subangular blocky structure parting to strong fine granular structure,
+gradual smooth boundary, violently effervescent, numerous termite
+galleries, several brick fragments in the top 30 centimeters, which
+suggests that the top 30 centimeters is disturbed, but no clear
+stratigraphic evidence of this was observed.
+Brown (7.5YR 5/3, meters) silty clay loam, friable, weak coarse prismatic
+structure parting to weak coarse subangular blocky structure, gradual
+smooth boundary, violently effervescent, few (1%) calcium carbonate
+filaments, several snails (Rabdotus) observed in a roughly horizontal line
+around 70 centimeters.
+Brown (7.5YR 4/3, meters) silt loam to silty clay loam, friable, moderate
+to strong medium subangular blocky structure, abrupt smooth boundary,
+violently effervescent, common (7%) calcium carbonate filaments.
+Light yellowish brown (10YR 6/4, meters) sandy loam, very friable,
+massive, violently effervescent, hints of bedding.
+
+Trench 22:
+Modern Near Channel Overbank Facies Resting Upon Late
+Holocene Floodplain Facies
+Comment: This trench has a 1.2 meters thick drape of modern
+floodplain slack water sediments which rest upon presumed late
+Holocene floodplain deposits within which several weakly developed soils
+have formed. The late Holocene deposits appear to drape a truncated
+older deposit (middle Holocene alluvium?) around 2.8 meters depth, and
+in this regard the stratigraphy of this trench is very similar to Trench 3.
+This trench holds the potential for cultural material in primary context
+from the Middle Holocene to the present, although the deposition of the
+sediments was undoubtedly episodic rather than continuous.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+33
+
+Geoarcheological Investigations
+
+Zone
+
+Depth
+
+Unit
+
+Horizon
+
+1
+
+0-16
+
+Fill
+
+Ap
+
+2
+
+16-125
+
+MA
+
+2C
+
+2b
+
+16-125
+
+MA
+
+2C
+
+3
+
+125-135
+
+LHA
+
+3Ab
+
+4
+
+135-141
+
+LHA
+
+3C
+
+5
+
+141-170
+
+LHA
+
+4Ab
+
+6
+
+170-178
+
+LHA
+
+na: Burn
+
+7
+
+178-230
+
+LHA
+
+4CA
+
+8
+
+230-260
+
+LHA
+
+5Ab
+
+9
+
+260-281
+
+LHA
+
+5C
+
+10
+
+281-326
+
+MHA?
+
+6Bw
+
+Description
+Brown (10YR 4/2, meters) clay, firm, massive, abrupt smooth boundary,
+violently effervescent, plow zone.
+Brown (10YR 4/2, meters) clay, firm, strong medium to fine subangular
+blocky structure, abrupt smooth boundary, violently effervescent, above
+80 centimeters this deposit is faintly bedded, but below this it exhibits
+prominent horizontal laminations.
+Pale yellow (2.5Y 7/3, meters) loamy sand, very friable, single grained,
+abrupt smooth boundary, violently effervescent, common brown (7.5YR
+4/6, meters) stains along bedding planes, laminated.
+Very dark grayish brown (10YR 3/2, meters) silty clay, friable, weak
+coarse prismatic structure, clear smooth boundary, violently
+effervescent.
+Pale brown (10YR 6/3, meters) sandy loam, very friable, massive,
+abrupt smooth boundary, violently effervescent.
+Brown (10YR 4/2, meters) silt loam, very friable, weak coarse prismatic
+structure, clear smooth boundary, violently effervescent.
+Brown (7.5YR 5/4, meters) silt loam, very friable, weak medium
+subangular blocky structure, gradual smooth boundary, this is the
+oxidized rim below a burned surface, and the presence of sporadic
+patches of fine gravels immediately above it suggest this may be the
+result of burnt flood debris or flotsam.
+Brown-pale brown (10YR 5.5/3, meters) loam, very friable, weak coarse
+subangular blocky structure, abrupt smooth boundary, violently
+effervescent, few snails throughout.
+Very dark grayish brown-dark grayish brown (10YR 3.5/2, meters) silt
+loam, friable, weak coarse subangular blocky structure, gradual smooth
+boundary, few (1%) calcium carbonate filaments, violently effervescent.
+Yellowish brown (10YR 5/4, meters) silt loam, friable, weak to moderate
+medium subangular blocky structure, abrupt smooth boundary, violently
+effervescent.
+Brown (7.5YR 4/3, meters) silty clay, friable, moderate coarse
+subangular blocky structure, violently effervescent, few (3%) calcium
+carbonate filaments.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+34
+
+Results of Field Investigations
+
+RESULTS OF FIELD INVESTIGATIONS
+Hicks & Company archeologists conducted a pedestrian archeological
+survey supplemented with shovel testing and mechanical backhoe
+trenching for the proposed Hidalgo Protective Levee System project
+(Figure 1). The investigators inventoried the entire project area for
+cultural resources (Phase I, Phase II, the Hidalgo Bend Wetland
+Mitigation Area, HPA-1, and HPA-2). The proposed expansion footprint
+totals approximately 83.24 acres. The proposed project area is depicted
+on Plates 1 â 3.
+A total of 35 shovel tests and 26 backhoe trenches were excavated along
+the project corridor, with all being negative for cultural resources.
+Shovel tests were distributed at approximately 100-meter (325 feet)
+intervals, approximately 16 per mile, in only those areas having a high
+probability for cultural resources. All shovel tests were terminated at a
+depth of 100 centimeters below ground surface. Additionally, no fewer
+than six shovel tests were excavated at each high probability area (HPA-1
+and HPA-2) in order to evaluate the area in terms of context, depth,
+content, and definitive characteristics. All excavated soil was screened
+through Â¼-inch wire mesh. Each shovel test was recorded in 10centimeter levels on standardized forms and plotted onto a site sketch
+map and/or an aerial photograph of the project area. The walls and
+bottom of each shovel test were cleaned with a trowel to examine the
+stratigraphy and any evidence of historic and prehistoric activity; a soil
+profile was recorded for each shovel test. Once these data were recorded,
+all of the shovel tests were backfilled. The results of each shovel test were
+documented through standardized forms, field notes, and photographs.
+Areas of disturbance were noted and recorded through photographs. No
+archeological cultural material was recovered during the current study.
+Backhoe excavations were designed to remove consecutive layers of earth
+in-order-to locate and expose cultural features or occupation levels
+within the floodplain of the Rio Grande. The backhoe employed a
+toothless bucket to aid in locating anomalies and/or features. All of the
+backhoe trenches were excavated to a depth of 12 feet as outlined in the
+scope of work. Backhoe excavations were directed and monitored by an
+archeologist certified as a competent person trained in OSHA trench
+safety standards. Each backhoe trench was recorded on a standardize
+form, with notes made for stratigraphy, features, and cultural artifacts.
+A soil profile, plan view map, and photographs were recorded for each
+trench. After these data were recorded, the backhoe trenches were
+backfilled. No cultural material was observed in any of the excavated
+backhoe trenches.
+Investigators initially conducted a reconnaissance trenching and
+geomorphic study within the proposed levee expansion footprint. These
+trenches were spaced approximately 200 â 250 meters (656 â 820 feet)
+apart along the Phase I and Phase II footprint and left open for a
+geomorphologist to later record.
+Charles Frederick conducted
+geoarcheological investigations for 16 of the 26 excavated trenches. The
+geomorphologist identified the majority of the project area to be very
+young recent deposition from the Rio Grande except in two specific areas
+within the Phase I and Phase II areas. These younger areas of the
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+35
+
+Results of Field Investigations
+
+modern floodplain of the Rio Grande were labeled âMAâ (Modern
+Alluvium). The age of the majority of MA sediments is estimated to be
+very recent deposition spanning from 50 to several hundred years ago, or
+historic in age. Frede rick found that the modern floodplain of the Rio
+Grande was separated by an elevated terrace by about a four meter
+scarp. Frederick identified two scarps within the project area which
+investigators considered to have a high probability for buried prehistoric
+cultural material. One scarp was identified as primarily Late Holocene
+Alluvium (LHA) between Backhoe Trenches 2, 3, 22, and 23 within the
+Phase I area. Another scarp, possibly the same scarp, was found east of
+the Old Historic Hidalgo Pump House consisting of an elevated Middle
+Holocene Alluvium (MHA) terrace within the Phase II area. Backhoe
+Trenches 21 and 9 were observed by Frederick , with BHT 9 being clearly
+located within the floodplain of the Rio Grande (MA) and BHT 21 being
+situated on the higher older MHA terrace.
+The two elevated terraces were considered by investigators to have a high
+probability for buried prehistoric cultural material and were subject to
+intensive archeological survey. The two areas found to have LHA and
+MHA deposition were targeted by archeologists with systematically
+spaced shovel tests (approximately 100 meter intervals, 16 per mile ) and
+additional trench excavations to investigate for intact subsurface cultural
+deposits (Plates 1 â 3). In addition, the high probability areas (HPA-1
+and HPA-2) identified by Cooper et al. (2003) had a minimum of six
+shovel tests excavated to explore for intact subsurface cultural deposits.
+Backhoe Trench 3 was excavated in HPA-1 while BHT 21, 25, and 26
+were excavated in HPA-2. A typical shovel test profile excavated within
+the proposed right-of-way consistently revealed disturbed soils in the
+upper two-feet underlain by recent Holocene deposition. Navigation
+along the proposed project corridor was guided by a Trimble XT GPS unit
+and detailed maps provided by the USIBWC. All GPS positions were
+downloaded and plotted on aerial maps by Hicks & Company GIS
+personnel.
+
+SURVEY NARRATIVE
+The field survey started at the northern terminus of the project area from
+the junction with the main floodway (Common Levee). Archeologists
+continued surveying the Phase I area in a southerly direction ending at
+the International Hidalgo Bridge. At this point, archeologists worked in
+the Phase II area traveling in an easterly direction passing the Old
+Hidalgo Pump House, with the project ending at the southern terminus
+near Lake Texano. The southern terminus area is bordered by the
+Hidalgo Bend National Wildlife Refuge of the USFWS, which contains the
+proposed Hidalgo Wetland Mitigation Area.
+The Hidalgo Wetland
+Mitigation Area was subject to backhoe trench excavations to investigate
+for buried cultural resources. Shovel tests and backhoe trenche s were
+excavated in high probability areas, specifically targe ting areas in HPA-1,
+HPA-2, and within the two elevated scarps identified by a
+geomorphologist containing Late Holocene Alluvium (Phase I Area) and
+Middle Holocene Alluvium (Phase II Area) (Plates 1-3). As previously
+mentioned, a review of archeological records at the Texas Archeological
+Research Laboratory (TARL) revealed no previously recorded sites located
+within the proposed right-of-way.
+No new archeological sites were
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+36
+
+Results of Field Investigations
+
+documented during the current study.
+A summary of the
+reconnaissance trenching and geomorphic study as well as shovel tests
+and trenches excavated within the Phase I area, Phase II area, Hidalgo
+Bend Wetland Mitigation Area, HPA-1, and HPA-2 follows.
+
+PHASE I AREA AND HPA-1 SUMMARY
+Investigators excavated a total of 21 shovel tests (ST 15 â 35) and 11
+backhoe trenches (1, 2, 3, 4, 5, 6, 7, 8, 22, 23, and 24) within the Phase I
+area (Plates 1 â 2). During the reconnaissance and geomorphic study,
+eight backhoe trenches (BHT1 â BHT8) were excavated and left open to
+be analyzed by Charles Frederick, a geomorphologist.
+Frederick
+identified an elevated four meter scarp consisting primarily of Late
+Holocene Alluvium (LHA) between BHT2 and BHT3. Both BHT1 and
+BHT4 contain Modern Alluvium (MA), which suggests that the LHA scarp
+remnant present within the APE lies between BHT1 and BHT4. This
+pocket of LHA was considered by investigators to have a high probability
+for buried prehistoric cultural material.
+At this point, investigators decided to systematically survey the elevated
+scarp surrounding BHT2 and BHT4 to investigate for buried prehistoric
+cultural material. Two additional trenches (BHT 22 and 23) were
+excavated in this area so systematic intervals between each trench
+excavated along the elevated LHA scarp were between 200 â 250 meters
+apart. Furthermore, researchers excavated 21 shovel tests (ST 15 â 35)
+at 100 meter intervals (325 feet) from approximately 300 meters north of
+BHT 2 and 100 meters south of BHT 4, to locate any buried cultural
+material. Figure 5 is a photograph of BHT3 but also is a representative
+picture of all the trenches excavated in the Phase I area. Figure 6
+illustrates the typical soil profiles documented by the geomorphologist in
+Backhoe Trenches 2, 3, 4, 5, and 22 excavated along the Phase I corridor
+(See Geoarcheological Investigation section for detailed trench
+descriptions). All of these trenches were excavated to a depth of 12 feet
+before being terminated. The trenches were placed on the east and west
+sides of the existing levee system between the junction with the main
+floodway (Common Levee) downstream to the Hidalgo Reynosa
+International Bridges. The upper 2-3 feet were consistently observed to
+be disturbed by levee construction activities.
+The high probability area HPA-1, which is located in the Phase I area,
+was specifically targeted by archeologists to investigate for buried historic
+cultural material. HPA-1 is located near the Old McAllen Pump Station
+(Figure 7) located approximately 175 meters to the west of the proposed
+project area (Plate 2). This area was considered high probability since a
+1916 historic map depicted a structure in the vicinity of the proposed
+project area.
+Six of the 21 shovel tests (ST 15 â 19 and 30) were
+specifically excavated within HPA-1 to investigate for any historic or
+prehistoric cultural material. No cultural material was documented in
+any of the shovel tests or trenches excavated within the Phase I area and
+HPA-1. No further work is recommended.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+37
+
+Results of Field Investigations
+
+Figure 5 Representative photograph of BHT3 excavated within the Phase I area and
+HPA-1, facing south.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+38
+
+Results of Field Investigations
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+40
+
+Results of Field Investigations
+
+Figure 7 Photograph of the McAllen Pumping Station, facing west.
+
+PHASE II AREA
+Investigators excavated 14 shovel tests and seven ba ckhoe trenches
+within the Phase II area (Plate 3). The Phase II area starts at the Hidalgo
+Reynosa International bridges moving in an easterly direction until
+terminating at the eastern terminus of Lake Texano. The Phase II levee
+new location expansion area runs adjacent to the Hidalgo Bend National
+Wildlife Refuge, which contains the Hidalgo Bend Wetland Mitigation
+Area and is property owned by the City of Hidalgo. Backhoe Trenches 9,
+10, 11, 12, and 21 were excavated and left open during the
+reconnaissance survey, with BHT 9 being specifically excavated within
+the vicinity of the Old Historic Hidalgo Pump House. Charles Frederick,
+a geomorphologist, analyzed all five trenches excavated during the
+reconnaissance survey. As previously mentioned, Frederick identified an
+elevated scarp with Middle Holocene Alluvium (MHA) east of the Old
+Hidalgo Pump House and Modern Alluvium (MA) west of the pump
+house. Based on these findings, the Principal Investigator made a
+decision to systematically survey the entire levee expansion footprint in
+the Phase II area. Shovel Tests 1 â 14 were systematically excavated
+along the Phase II corridor at 100-meter (325 feet, 16 per mile ) intervals
+to investigate for buried historic and prehistoric cultural materials.
+Additional backhoe trenches (BHT 25 and 26) were excavated on the
+Middle Holocene Alluvium scarp. The interval distance between BHT 25
+and BHT 21 was approximately 250 meters (820 feet). Backhoe Trench
+26 was placed approximately 75 meters (246 feet) from BHT 21 at the
+edge of rising topography and dense vegetation. Shovel tests east of BHT
+26 revealed disturbed soils from past levee construction activities.
+Figure 8 is a photograph of BHT 9 and represents a typical excavated
+trench in the Phase II area. Figure 9 illustrates the typical soil profile
+documented by the geomorphologist in Backhoe Trenches 9, 12, and 21
+Archeological Survey â Hidalgo Levee â March 2007
+
+41
+
+Results of Field Investigations
+
+excavated along the Phase II corridor. Each trench was excavated to a
+depth of 12 or more feet as indicated in the scope of work before being
+terminated. Modern Alluvium (MA) found within the Phase II area is
+similar to that found in the Phase I area. Frederick points out that the
+elevated Middle Holocene Alluvial scarp in the eastern portion of the
+Phase II area may possibly be apart of the same Late Holocene Alluvial
+scarp found in the Phase I area; unfortunately, based on data
+documented during the current study there is not enough evidence to
+validate this theory (See Geoarcheological Investigation section for
+detailed trench descriptions).
+Figure 8 Representative photograph of BHT9 excavated within the Phase I area and
+HPA-1, facing south.
+
+Investigators observed and documented a historic irrigation well and
+pipes within the wetland area (Figure 10; Plate 3). A small trench cut
+was made adjacent to the irrigation well to see how deep recent alluvial
+deposition was within the area. Figure 11 depicts the exposed stone
+irri gation pipe exposed near the surface in the trench cut, which
+suggests that little to no alluvial deposition has occurred within the
+proposed wetland area since the irrigation system was built post 1930âs.
+A 1954 map of the Hidalgo County Water Improvement District No. 2
+does not depict the irrigation well and pipes as part of the original
+National Register-listed Louisiana-Rio Grande Canal Company Irrigation
+System Historic District, which includes the Old Historic Hidalgo Pump
+House. The boundaries of the district are limited to the original 45,000
+acres of the Louisiana-Rio Grande Canal Company lands, which do not
+include the proposed Hidalgo Bend Wetland Mitigation Area.
+The
+existing irrigation well was most likely constructed as part of a privately
+owned field irrigation ditch.
+These types of irrigation wells are
+ubiquitous in the region and this particular well is in a state of neglect
+and disrepair.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+42
+
+Results of Field Investigations
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+44
+
+Results of Field Investigations
+
+HIDALGO BEND WETLAND MITIGATION AREA SUMMARY
+Hicks & Company archeologists excavated eight backhoe trenches within
+the proposed Hidalgo Bend Wetland Area, situated within the Hidalgo
+Bend National Wildlife Refuge (Plate 3). The wetland area is located west
+of the international Hidalgo/Reynosa bridges and south of the existing
+Hidalgo levee footprint, between the levee miles 3.0 to 3.2; the proposed
+Hidalgo Bend Wetland Area totals approximately 26.98 acres. Combined
+with trenches excavated in the adjacent Phase II area (BHT 9-12) a total
+of 12 trenches were excavated between the canal and the Rio Grande,
+subsuming the wetland mitigation area.
+A total of 3.42 acres
+immediately adjacent to the Rio Grande were identified as low probability
+modern channel deposits and not trenched. As outlined in the scope of
+work, backhoe trenches were excavated at approximately one every two
+acres within the remaining 23.56 acres of proposed Hidalgo Bend
+Wetland Mitigation Area. Backhoe Trenches 13 â 20 were excavated
+during the reconnaissance survey and were analyzed by Charles
+Frederick during the geomorphic study. As documented in trenches
+excavated in the Phase I and Phase II areas, the typical stratigraphy
+recorded in each of these trenches contained Modern Alluvium (MA) (See
+Geoarcheological Investigation section for detailed trench descriptions). A
+review of old irrigation maps obtained from the Old Hidalgo Pump House
+Museum and data obtained from the eight excavated backhoe trenches
+suggests that the proposed Hidalgo Bend Wetland Mitigation Area is in
+fact the previous channel of the Rio Grande that was subsequently filled
+by modern fill; the catastrophic hurricane of 1933 altered the course of
+the Rio Grande to its present day location. In result, the proposed
+wetland mitigation area represents post 1933 deposition, and zero
+probability for buried prehistoric archeological sites. In addition, there is
+minimal potential for historic sites to be found in the wetland area due to
+frequent seasonal flooding from the Rio Grande. No cultural material
+was encountered in any of the trenches excavated in the proposed
+Hidalgo Bend Wetland Mitigation Area.
+No further work is
+recommended.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+45
+
+Results of Field Investigations
+
+Figure 10 Photograph of historic irrigation well located in the Hidalgo Bend National
+Wildlife Refuge proposed wetland mitigation area, facing northwest.
+
+Figure 11 Photograph of exposed trench cut adjacent to the historic irrigation well located
+within the Hidalgo Bend National Wildlife Refuge proposed wetland mitigation area, facing
+northwest.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+46
+
+Results of Field Investigations
+
+HPA-2 SUMMARY
+As previously mentioned, Cooper et al. (2003) identified a high
+probability area (HPA-2) just south and east of the existing Old Hidalgo
+Pump House (Plate 3). Cooper et al. (2003) during a high probability
+study of the Lower Rio Grande Valley considered this area have a high
+probability for archeological sites since a historic 1916 map depicted a
+structure within or near this area. Hicks & Company investigators
+conducted additional archival and map research and now believe the
+structure on the 1916 map was in fact the existing Old Historic Hidalgo
+Pump House. Since Charles Frederick identified the majority of the HPA2 area was located on an elevated Middle Holocene Alluvial scarp, as
+described in the Phase II Summary, investigators decided to
+systematically survey the entire area for buried historic and prehistoric
+cultural resources. Shovel Tests 8 â 14 and Backhoe Trenches 21, 25,
+and 26 were excavated within the HPA-2 area. Shovel Test 8 contained
+Modern Alluvium (MA) similar to that found in BHT 9. Shovel Test 9 and
+BHT 25 revealed an elevated scarp containing Middle Holocene Alluvium
+to the east. Figure 12 depicts the vegetation encountered in the Phase II
+area. No cultural material was documented in any of the shovel tests or
+trenches excavated within the HPA-2 area. No further work is
+recommended.
+Figure 12 Photograph depicting the vegetation within the Phase II area, facing east.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+47
+
+Results of Field Investigations
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+48
+
+Conclusions and Recommendations
+
+CONCLUSION AND RECOMMENDATIONS
+Between November 12â21, 2006, Hicks & Company archeologists
+conducted a combination reconnaissance and systematic cultural
+resources investigation for the Hidalgo Protective Levee System
+Rehabilitation Project in Hidalgo County, Texas on behalf of the United
+States Section, International Boundary and Water Commission
+(USIBWC).
+In coordination with the USIBWC and THC, Hicks &
+Company archeologists conducted a reconnaissance trenching and
+geomorphic study within the proposed levee footprint, supplemented with
+a 100% pedestrian survey and intensive shovel testing and backhoe
+trenching in areas having a high probability for historic and/or
+prehistoric resources. The purpose of the archeological survey is to
+assist the USIBWC in meeting its requirements under Section 106 of the
+National Historic Preservation Act (NHPA). The survey was conducted
+under USIBWC ARPA Permit No. 0012 (Archeological Resources
+Protection Act) to enable survey on federal property. A USFWS Special
+Use Permit (No. 21551) was obtained to conduct survey on the Hidalgo
+Bend NWR property. All work complied with the guidelines set out under
+36CFR800 which outlines the procedures for Section 106
+implementation and compliance and is consistent with the THC
+minimum survey standards in high probability areas, and the rules of
+practice and procedure for the Texas Antiquities Code.
+The project consists of raising the 4.5-mile Hidalgo Protective Levee
+System to meet design requirements for flood control in the LRGFCP.
+The USIBWC proposes to rehabilitate the Hidalgo Protective Levee
+System within the Lower Rio Grande Flood Control Project (LRGFCP). As
+currently designed, the proposed levee improvements consist of two
+phases, each covering separate geographic areas of the Hidalgo Protective
+Levee System and a proposed wetland mitigation area in the Hidalgo
+Bend NWR property, totaling approximately 83.24 acres. In addition,
+previous research by Cooper et al. (2003) identified two areas (HPA-1 and
+HPA-2) having a high probability for cultural resources within the project
+area.
+The entire proposed project area was surveyed by Hicks &
+Company archeologists for cultural resources. A total of 35 shovel tests
+and 26 backhoe trenches were excavated along the project corridor, with
+all being negative for cultural resources. Charles Frederick conducted
+the geomorphic study and identified a pocket of Late Holocene Alluvial
+scarp in the Phase I area and a Middle Holocene scarp east of the Old
+Hidalgo Pump House in the Phase II area. All other areas were identified
+by Frederick as Modern Alluvium (MA). These findi ngs are similar to
+those found by Cooper et al. (2003) during their survey of the Lower Rio
+Grande Valley. Shovel tests were systematically excavated in both of the
+scarps identified by Frederick to have older sediments (LHA and MHA).
+The majority of MA sediments are estimated to be 50 to several hundred
+years old, or more (historic age). No new archeological sites were
+documented during the current survey. A historic irrigation well and
+pipes were documented in the Phase II levee expansion area, adjacent to
+the proposed Hidalgo Bend Mitigation Area. As discussed in the Results
+of Field Investigations the Louisiana-Rio Grande Canal Company
+Irrigation System Historic District NRHP nomination indicates that the
+privately owned pipe and irrigation ditch features are noncontributing to
+the Historic District. In addition, the irrigation well and pipes have no
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+49
+
+Conclusions and Recommendations
+
+known significant associations, are ubiquitous throughout the region,
+generally poorly preserved and, therefore, they are not considered eligible
+to be listed in the NRHP. No further work is recommended.
+Regulatory clearance for the entire surveyed area of the Hidalgo
+Protective Levee System as mapped under the current investigations is
+recommended.
+Based on the results of shovel testing, trench
+excavations, and the geomorphic characteristics of the project landscape,
+it is recommended that the proposed project will have no adverse impacts
+on any NRHP-eligible archeological sites or portions of sites within the
+project Area of Potential Effect (APE).
+No further archeological
+investigations or cultural resource coordination pertaining to
+archeological sites are recommended within the surveyed areas for this
+project.
+All project related documents and materials will be
+professionally curated at the Cente r for Archeological Research (CAR) in
+San Antonio, Texas. In the unlikely event that significant cultural
+resources such as human remains are located during clearing activities,
+drilling, or any phase of the proposed project, construction should be
+halted and USIBWC personnel should work in conjunction with the THC
+to determine if any mitigation action is required.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+50
+
+References Cited
+
+REFERENCES CITED
+Beard, J.R.
+1949 Revised McAllen Field Area map. Edinburg, TX.
+1956 Map of Hidalgo County, Central 1/3. Edinburg, TX
+Birkeland, Peter W.
+1999 Soils and Geomorphology, 3rd Edition. Oxford University Press, Oxford.
+Black, Stephen L.
+1989 Central Texas Plateau Prairie. In From the Gulf to the Rio Grande: Human
+Adaptation in Central, South, and Lower Pecos Texas. By Thomas R. Hester,
+Stephen L. Black, D. Gentry Steele, Ben W. Olive, Anne A. Fox, Karl J. Reinhard,
+and Leland C. Bement, pp.17-38. Arkansas Archeological Research Series, No.
+33. Fayetteville.
+Bureau of Economic Geology
+1976 McAllen-Brownsville Sheet, Geologic Atlas of Texas. Scale 1:250,000. The
+Bureau of Economic Geology, The University of Texas at Austin, Austin, Texas.
+Cooper, Eben, Nancy Reese, David Shanabrook, Victor Gibbbs, and Duane E. Peter
+2003 An Assessment of Potential Effects to Historic Properties within the Lover Rio
+Grande Flood Control Project by Proposed Maintenance Activities of the U.S.
+International Boundary and Water Commission. Wendy Lopez and Associates.
+Miscellaneous Reports of Investigations Number 184.
+Department of State
+1903 Proceedings of the International (Water) Boundary Commission, Treaties of
+1884 and 1889 Equitible Distribution of the Waters of the Rio Grande, Vols. 1-2.
+Washington, D.C.
+Fisher, William L.
+1976 Geologic Atlas of Texas: McAllen-Brownsville Sheet.
+Geology, The University of Texas at Austin.
+
+Bureau of Economic
+
+Frederick, Charles D.
+2004 Geoarchaeological Investigations on the Rio Grande Floodplain adjacent to
+the USIBWC levee in the vicinity of Presidio, Texas. In Cultural Resource
+Reconnaissance Survey for the Presidio-Ojinaga Flood Control Project, Presidio
+County, Texas. Parsons Corporation.
+2006 Coming to Grips with the Holocene Alluvial History of the Rio Grande in West
+Texas.
+Paper presented at the Center for Big Bend Studies 13th Annual
+Conference, Sul Ross State University, Alpine, Texa
+Frederick, Charles D. and H.C. Higgins
+1993 Archeological Services for Rio Grande American Canal Extension, El Paso
+County, Texas: Geoarchaeological Investigations.
+Prepared for International
+Boundary Water Commission, U. S. Section, El Paso, Texas. Contract No. IBM 915, Delivery Order No. 15, Mariah Associates, Inc., Albuquerque, N.M, MAI Project
+595-15.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+51
+
+References Cited
+
+Frye, Roy
+1984 The Vegetation Types of Texas. Texas Parks & Wildlife Department. Austin,
+Texas.
+Garza, Alicia A.
+2001
+Hidalgo County. Handbook of Texas Online. http://www.tsha.utexas.edu/handbook/online/.
+Electronic document. Accessed December 2006.
+Gould, Frank W.
+1962 Texas Plants: A Checklist and Ecological Summary. Texas Agricultural
+Experiment Station, Texas A&M University. College Station, Texas.
+Hidalgo County Water Improvement District No. 2
+1954 Hidalgo County Water Improvement District No. 2 Map. Hidalgo County, Texas
+Hester, Thomas R.
+1980 Digging into South Texas Prehistory. Corona Publishing. San Antonio, Texas.
+1995 The Prehistory of South Texas. Bulletin of the Texas Archeological Society 66:
+427-459
+Inglis, Jack M.
+1964 A History of Vegetation on the Rio Grande Plains. Texas Park s & Wildlife
+Department. Pittman-Robertson Project W-84-Texas. Bulletin No. 45
+Jarrett, Robert D., and John F. England
+2002 Reliability of paleostage indicator for paleoflood studies. In Ancient Floods,
+Modern Hazards: Principles and Applications of Paleoflood Hydrology, edited by P.
+Kyle House, Robert H. Webb, Victor R. Baker, Daniel R. Levish, pp. 91-110. Water
+Science and Application Volume 5, American Geophysical Union, Washington D.C.
+Kochel, R. Craig and Victor Baker
+1988 Paleoflood analysis using slackwater deposits. In Flood Geomorphology, edited
+by Victor R. Baker, R. Craig Kochel, and Peter C. Patton, pp. 357-376. John Wiley
+& Sons, New York.
+Larkin, Thomas J. and George W. Bomar
+1983 Climatic Atlas of Texas. Texas Department of Water Re sources. Publication
+No. LP-192.
+MacNeish, Richard S.
+1947 A Preliminary Report on Coastal Tamaulipas, Mexico. American Antiquity
+13(1):1-15.
+1958 Preliminary Archaeological Investigations in the Sierra de Tamaulipas, Mexico.
+Transactions of the American Philosophical Society 48:6.
+Matthews, William K.
+1938 A History of Irrigation in the Lower Rio Grande Valley. Master of Arts thesis,
+The University of Texas at Austin, Austin.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+52
+
+References Cited
+
+National Park Service
+1995 Louisiana--Rio Grande Canal Company Irrigation System National Register
+Listing, Washington, D.C.
+National Register of Historic Places
+2006 State Listings, Hidalgo County, Texas.
+http://www.nationalregisterofhistoricplaces.com/tx/Hidalgo/state.html.
+Electronic document. Accessed December 2006.
+Rio Bravo Plantation Co.
+n.d. Map, Lands and Canals of Rio Bravo Plantation Company. (ca. 1920).
+Sanchez, Mario L.
+1994 A Shared Experience: The History, Architecture and Historic Designations of the
+Lower Rio Grande Heritage Corridor. Texas Historical Commission, Austin, Texas.
+Schoeneberger, P. J., Wysocki, D. A., Benham, E. C., and Broderson, W, D. (editors)
+2002 Field Book for Describing and Sampling Soils. Version 2.0. Natural Resources
+Conservation Service, National Soil Survey Center, Lincoln, Nebraska.
+Telfair II, Ray C.
+1999 Ecological Regions of Texas: Description, Land Use, and Wildlife. In Texas
+Wildlife and Land Uses edited by R.C. Telfair II. University of Texas Press. Austin,
+Texas.
+Texas Archeological Research Laboratory
+2006 Texas Historical Commission Online Archeological Sites Atlas, Hidalgo County,
+Texas. http://nueces.thc.state.tx.us/. Electronic document. Accessed December
+2006.
+Thompson, Jerry D.
+1994 Historical Overview. In A Shared Experience: The History, Architecture and
+Historic Designations of the Lower Rio Grande Heritage Corridor, p. 18-77. Texas
+Historical Commission, Austin, Texas.
+
+Archeological Survey â Hidalgo Levee â March 2007
+
+53
+
+APPENDIX A
+PLATES 1 THROUGH 3
+
+Archeological Survey of
+the Proposed Hidalgo
+Protective Levee System
+Improvements
+in Hidalgo County, Texas
+Locator Diagram
+1
+
+2
+
+3
+
+HIDALGO
+
+Centerline
+Current Levee Footprint
+Shovel Test Area - 36.08 acres
+Hidalgo Bend Refuge 26.98 acres
+Hidalgo Bend Proposed
+Wetland - 23.56 acres
+22
+
+21
+
+20
+
+Hidalgo Bend Low Probability
+Modern Fill/Channel Deposits 3.42 acres
+
+Ã
+(
+
+24
+
+Ã
+(
+
+35
+
+23
+
+BHT 1
+
+BHT 2
+
+High Probability Areas
+HPA 1 = 4.79 acres
+HPA 2 = 86.09 acres
+Proposed Expansion
+Footprint - 83.24 acres
+
+25
+
+Negative Shovel Test
+
+23rd
+
+Ã
+(
+
+26
+
+BHT 22
+
+27
+
+Irrigation Well
+
+Ã
+(
+
+Backhoe Trench
+
+Ã
+(
+
+Backhoe Trench
+2000 Cooper et al.
+
+Ã
+(
+
+#
+*
+
+BHT 23
+
+USGS Quadrangles:
+Hidalgo (2698-21), Mission (2698-124)
+
+W
+
+Dep
+
+ot
+
+0
+
+250
+
+500
+
+Feet
+0
+
+50
+
+100
+Meters
+
+Plate 1
+
+200
+
+Archeological Survey of
+the Proposed Hidalgo
+Protective Levee System
+Improvements
+in Hidalgo County, Texas
+Locator Diagram
+1
+
+2
+
+Ã
+(
+
+3
+
+Ã
+(
+
+25
+
+11.16
+
+Centerline
+
+Ã
+(
+
+Ã
+(
+
+26
+
+Current Levee Footprint
+
+BHT 22
+
+11.15
+
+Shovel Test Area - 36.08 acres
+27
+
+Ã
+(
+
+30
+
+Ã
+(
+
+34
+
+Ã
+(
+
+BHT 24
+
+33
+
+32
+
+Ã
+(
+
+18
+
+29
+
+17
+
+19
+
+28
+
+Hidalgo Bend Refuge 26.98 acres
+
+Ã
+(
+
+HPA 1
+
+10.17
+
+HIDALGO
+
+BHT 23
+
+Hidalgo Bend Proposed
+Wetland - 23.56 acres
+
+16
+
+Hidalgo Bend Low Probability
+Modern Fill/Channel Deposits 3.42 acres
+
+BHT 3
+
+15
+
+High Probability Areas
+HPA 1 = 4.79 acres
+HPA 2 = 86.09 acres
+
+31
+
+Proposed Expansion
+Footprint - 83.24 acres
+
+BHT 4
+
+Ã
+(
+
+Negative Shovel Test
+
+BHT 5
+
+Ã
+(
+
+BHT 6
+
+State Spur 115
+
+23rd
+
+#
+*
+
+Irrigation Well
+
+Ã
+(
+
+Backhoe Trench
+
+Ã
+(
+
+Backhoe Trench
+2000 Cooper et al.
+
+USGS Quadrangles:
+Hidalgo (2698-21), Mission (2698-124)
+
+nal
+Ca
+
+W
+
+y 281
+
+ot
+
+Olmos
+
+US Hw
+
+Dep
+
+4th
+
+0
+
+6
+192
+FM
+
+250
+Feet
+
+du
+Pro
+ce
+
+n
+Eba
+o
+
+Dat
+
+0
+
+50
+
+100
+Meters
+
+il
+
+zil
+Bra
+
+1st
+
+500
+
+Plate 2
+
+200
+
+Ã
+(
+
+Ã
+(
+
+Archeological Survey of
+the Proposed Hidalgo
+Protective Levee System
+Improvements
+in Hidalgo County, Texas
+
+4th
+
+FM 19
+2
+
+6
+
+BHT 6
+
+Tulipan
+
+5th
+
+13th
+
+US H
+
+wy 2
+
+81
+
+Acacia
+
+Locator Diagram
+
+Texano
+
+14th
+
+1st
+
+1
+Azalea
+
+Ã
+(
+
+Boga
+
+mbil ia
+
+3
+
+3rd
+
+BHT 7
+
+8th
+
+2
+HIDALGO
+
+Azalia
+
+Bridg
+
+e
+
+7th
+
+Came
+lia
+
+11th
+
+Bugam
+
+6th
+
+Esper
+an
+
+M
+El
+
+BHT 8
+
+Shovel Test Area - 36.08 acres
+ita
+Lup
+
+Ã
+(
+
+Current Levee Footprint
+
+16th
+
+Dalia
+
+Centerline
+
+bil ia
+
+za
+
+d
+ca
+er
+
+Hidalgo Bend Refuge 26.98 acres
+
+15th
+
+Hidalgo Bend Low Probability
+Modern Fill/Channel Deposits 3.42 acres
+
+Pa
+ts
+y
+
+Flora
+
+Garde
+nia
+
+High Probability Areas
+HPA 1 = 4.79 acres
+HPA 2 = 86.09 acres
+
+Ju
+dy
+
+17th
+
+y
+rre
+te
+on
+M
+
+2nd
+
+Joe Pate
+
+Kitty
+
+o
+
+Hidalgo Bend Proposed
+Wetland - 23.56 acres
+
+Proposed Expansion
+Footprint - 83.24 acres
+Negative Shovel Test
+
+Leave
+s
+
+Ã
+(
+
+State
+Hw
+
+y 241
+
+12.19
+
+Ã
+(
+
+1
+
+2
+
+BHT 12
+
+Ã
+(
+
+4
+
+3
+
+#
+*
+
+BHT 11
+
+Ã
+(
+
+BHT 20
+
+Ã
+(
+
+BHT 13
+
+Ã
+(
+
+BHT 14
+
+Ã
+(
+
+BHT 15
+
+Low Probability Modern Fill /
+Channel Deposits - 3.42 acres
+
+Ri
+
+o
+
+Gr
+
+Ã
+(
+
+6
+
+5
+
+Ã
+(
+
+BHT 10
+
+Hidalgo Bend Proposed Wetland
+23.56 acres
+
+Ã
+(
+
+BHT 16
+
+8
+
+Ã
+(
+
+BHT 25
+
+10
+
+Ã
+(
+
+BHT 21
+
+Ã
+(
+
+BHT 17
+
+Ã
+(
+
+Backhoe Trench
+
+Ã
+(
+
+Backhoe Trench
+2000 Cooper et al.
+
+W
+
+12
+
+Ã
+(
+
+HPA 2
+
+Irrigation Well
+
+USGS Quadrangles:
+Hidalgo (2698-21), Mission (2698-124)
+
+11
+
+Ã
+(
+
+BHT 18
+
+Ã
+(
+
+BHT 19
+
+9
+
+7
+BHT 9
+
+Le vee
+
+#
+*
+
+BHT 26
+
+13
+
+0
+
+14
+
+250
+
+500
+
+Feet
+
+an
+
+de
+
+0
+
+50
+
+100
+Meters
+
+Plate 3
+
+200
+
+Archeological Survey of
+the Proposed Hidalgo
+Protective Levee System
+Improvements
+in Hidalgo County, Texas
+Locator Diagram
+1
+
+2
+
+3
+
+HIDALGO
+
+Centerline
+Current Levee Footprint
+Shovel Test Area - 36.08 acres
+Hidalgo Bend Refuge 26.98 acres
+Hidalgo Bend Proposed
+Wetland - 23.56 acres
+22
+
+21
+
+20
+
+Hidalgo Bend Low Probability
+Modern Fill/Channel Deposits 3.42 acres
+
+Ã
+(
+
+24
+
+Ã
+(
+
+35
+
+23
+
+BHT 1
+
+BHT 2
+
+High Probability Areas
+HPA 1 = 4.79 acres
+HPA 2 = 86.09 acres
+Proposed Expansion
+Footprint - 83.24 acres
+
+25
+
+Negative Shovel Test
+
+23rd
+
+Ã
+(
+
+26
+
+BHT 22
+
+27
+
+Irrigation Well
+
+Ã
+(
+
+Backhoe Trench
+
+Ã
+(
+
+Backhoe Trench
+2000 Cooper et al.
+
+Ã
+(
+
+#
+*
+
+BHT 23
+
+USGS Quadrangles:
+Hidalgo (2698-21), Mission (2698-124)
+
+W
+
+Dep
+
+ot
+
+0
+
+250
+
+500
+
+Feet
+0
+
+50
+
+100
+Meters
+
+Plate 1
+
+200
+
+Archeological Survey of
+the Proposed Hidalgo
+Protective Levee System
+Improvements
+in Hidalgo County, Texas
+Locator Diagram
+1
+
+2
+
+Ã
+(
+
+3
+
+Ã
+(
+
+25
+
+11.16
+
+Centerline
+
+Ã
+(
+
+Ã
+(
+
+26
+
+Current Levee Footprint
+
+BHT 22
+
+11.15
+
+Shovel Test Area - 36.08 acres
+27
+
+Ã
+(
+
+30
+
+Ã
+(
+
+34
+
+Ã
+(
+
+BHT 24
+
+33
+
+32
+
+Ã
+(
+
+18
+
+29
+
+17
+
+19
+
+28
+
+Hidalgo Bend Refuge 26.98 acres
+
+Ã
+(
+
+HPA 1
+
+10.17
+
+HIDALGO
+
+BHT 23
+
+Hidalgo Bend Proposed
+Wetland - 23.56 acres
+
+16
+
+Hidalgo Bend Low Probability
+Modern Fill/Channel Deposits 3.42 acres
+
+BHT 3
+
+15
+
+High Probability Areas
+HPA 1 = 4.79 acres
+HPA 2 = 86.09 acres
+
+31
+
+Proposed Expansion
+Footprint - 83.24 acres
+
+BHT 4
+
+Ã
+(
+
+Negative Shovel Test
+
+BHT 5
+
+Ã
+(
+
+BHT 6
+
+State Spur 115
+
+23rd
+
+#
+*
+
+Irrigation Well
+
+Ã
+(
+
+Backhoe Trench
+
+Ã
+(
+
+Backhoe Trench
+2000 Cooper et al.
+
+USGS Quadrangles:
+Hidalgo (2698-21), Mission (2698-124)
+
+nal
+Ca
+
+W
+
+y 281
+
+ot
+
+Olmos
+
+US Hw
+
+Dep
+
+4th
+
+0
+
+6
+192
+FM
+
+250
+Feet
+
+du
+Pro
+ce
+
+n
+Eba
+o
+
+Dat
+
+0
+
+50
+
+100
+Meters
+
+il
+
+zil
+Bra
+
+1st
+
+500
+
+Plate 2
+
+200
+
+Ã
+(
+
+Ã
+(
+
+Archeological Survey of
+the Proposed Hidalgo
+Protective Levee System
+Improvements
+in Hidalgo County, Texas
+
+4th
+
+FM 19
+2
+
+6
+
+BHT 6
+
+Tulipan
+
+5th
+
+13th
+
+US H
+
+wy 2
+
+81
+
+Acacia
+
+Locator Diagram
+
+Texano
+
+14th
+
+1st
+
+1
+Azalea
+
+Ã
+(
+
+Boga
+
+mbil ia
+
+3
+
+3rd
+
+BHT 7
+
+8th
+
+2
+HIDALGO
+
+Azalia
+
+Bridg
+
+e
+
+7th
+
+Came
+lia
+
+11th
+
+Bugam
+
+16th
+
+Shovel Test Area - 36.08 acres
+6th
+
+ita
+Lup
+
+Esper
+an
+
+M
+El
+
+BHT 8
+
+Current Levee Footprint
+
+Dalia
+
+Ã
+(
+
+Centerline
+
+bil ia
+
+za
+
+d
+ca
+er
+
+Hidalgo Bend Refuge 26.98 acres
+
+15th
+
+Hidalgo Bend Low Probability
+Modern Fill/Channel Deposits 3.42 acres
+
+Pa
+ts
+y
+
+Flora
+
+Garde
+nia
+
+High Probability Areas
+HPA 1 = 4.79 acres
+HPA 2 = 86.09 acres
+
+Ju
+dy
+
+17th
+
+y
+rre
+te
+on
+M
+
+2nd
+
+Joe Pate
+
+Kitty
+
+o
+
+Hidalgo Bend Proposed
+Wetland - 23.56 acres
+
+Proposed Expansion
+Footprint - 83.24 acres
+Negative Shovel Test
+
+Leave
+s
+
+Ã
+(
+
+State
+Hw
+
+y 241
+
+12.19
+
+Ã
+(
+
+1
+
+2
+
+BHT 12
+
+Ã
+(
+
+4
+
+3
+
+#
+*
+
+BHT 11
+
+Ã
+(
+
+BHT 20
+
+Ã
+(
+
+BHT 13
+
+Ã
+(
+
+BHT 14
+
+Ã
+(
+
+BHT 15
+
+Low Probability Modern Fill /
+Channel Deposits - 3.42 acres
+
+Ri
+
+o
+
+Gr
+
+Ã
+(
+
+6
+
+5
+
+Ã
+(
+
+BHT 10
+
+Hidalgo Bend Proposed Wetland
+23.56 acres
+
+Ã
+(
+
+BHT 16
+
+8
+
+Ã
+(
+
+BHT 25
+
+10
+
+Ã
+(
+
+BHT 21
+
+Ã
+(
+
+BHT 17
+
+Ã
+(
+
+Backhoe Trench
+
+Ã
+(
+
+Backhoe Trench
+2000 Cooper et al.
+
+W
+
+12
+
+Ã
+(
+
+HPA 2
+
+Irrigation Well
+
+USGS Quadrangles:
+Hidalgo (2698-21), Mission (2698-124)
+
+11
+
+Ã
+(
+
+BHT 18
+
+Ã
+(
+
+BHT 19
+
+9
+
+7
+BHT 9
+
+Le vee
+
+#
+*
+
+BHT 26
+
+13
+
+0
+
+14
+
+250
+
+500
+
+Feet
+
+an
+
+de
+
+0
+
+50
+
+100
+Meters
+
+Plate 3
+
+200
+
+

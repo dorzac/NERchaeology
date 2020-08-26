@@ -1,0 +1,4453 @@
+CULTURAL RESOURCE INVENTORY
+OF 878 ACRES AT LAKE B.A. STEINHAGEN
+AND LAKE SAM RAYBURN,
+JASPER, NACOGDOCHES, AND
+SAN AUGUSTINE COUNTIES, TEXAS
+
+Ecological Communications Corporation
+
+2008
+
+CULTURAL RESOURCE INVENTORY
+OF 878 ACRES AT LAKE B.A. STEINHAGEN
+AND LAKE SAM RAYBURN,
+JASPER, NACOGDOCHES, AND
+SAN AUGUSTINE COUNTIES, TEXAS
+
+by
+
+Richard S. Jones
+Antonio E. Padilla
+W. Nicholas Trierweiler
+Rachel J. Feit
+
+Prepared by
+
+Ecological Communications Corporation
+Austin, Texas
+
+U.S. Army Corps of Engineers, Fort Worth District
+Fort Worth, Texas
+
+Contract W9126G-07-D-0017
+Task Order No. 24
+
+April 2008
+
+Form Approved
+OMB No. 0704-0188
+
+REPORT DOCUMENTATION PAGE
+
+Public reporting burden for this collection of information is estimated to average 1 hour per response, including the time for reviewing instructions, searching existing data sources,
+gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspect of this
+collection of information, including suggestions for reducing this burden, Washington Headquarters Services, Directorate for Information Operations and Reports, 1215 Jefferson Davis
+Highway, suite 1204, Arlington, VA 22202-4302, and to the Office of Management and Budget, Paperwork Reduction Project (0704-0188), Washington, D.C. 20503
+
+1. AGENCY USE ONLY (leave Blank)
+
+2. REPORT DATE
+April 2008
+
+3. REPORT TYPE AND DATES COVERED
+Final Report, 2008
+
+3. TITLE AND SUBTITLE
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam
+Rayburn, Jasper, Nacogdoches, and San Augustine Counties, Texas.
+
+5. FUNDING NUMBERS
+W9126G-07-0017
+Task Order No. 03
+
+4. AUTHOR(S)
+Jones, Richard S., Antonio E. Padilla, W. Nicholas Trierweiler, and Rachel E. Feit
+7. PERFORMING ORGANIZATION NAME(S) AND ADDRESS(ES)
+
+8 PERFORMING ORGANIZATION
+REPORT NUMBER
+
+Ecological Communications Corporation
+4009 Banister, Suite 300
+Austin, TX 78704
+
+046-024
+
+9. SPONSRING/MONITORING AGENCY NAME(S) AND ADDRESS(ES)
+
+10. SPONSORING/MONITORING
+AGENCY REPORT NUMBER
+
+U.S. Army Corps of Engineers, Fort Worth District
+Piney Woods Project Office
+2669 FM 726
+Jefferson, TX 75657
+11. SUPPLEMENARY NOTES
+12a. DISTRIBUTION AVAILABILITY STATEMENT
+
+12b. DISTRIBUTION CODE
+
+Available for public release
+13. ABSTRACT (Maximum 200 words)
+This report documents the findings and recommendations of a cultural resource inventory conducted on 878 acres
+at Lake B.A. Steinhagen and Lake Sam Rayburn in East Texas. Work was conducted for the United States Army
+Corps of Engineers, Fort Worth District, which has proposed timber harvesting within the selected tracts. In
+compliance with Section 106 of the National Historic Preservation Act, the inventories were conducted to ensure
+that any cultural resource sites would be considered in planning and conducting the undertaking.
+Archeological fieldwork included a 100 percent pedestrian survey accompanied by excavation of 523 shovel tests.
+Recovered artifacts included historic ceramics, metal, glass, prehistoric lithic flakes, and one projectile point. All
+artifacts will be curated at the Texas Archeological Research Laboratory. Archival research was also conducted on
+one historic site. One new historic site and one new prehistoric site were discovered. Historic site 41SA290 is
+recommended as not eligible for the National Register of Historic Places (NRHP) and no further work is warranted.
+The significance of prehistoric site 41NA305 could not be clearly assessed using the limited shovel test inventory
+tactics - it has an unknown NRHP eligibility status and should be avoided and protected from adverse impacts.
+14. SUBJECT TERMS
+
+15. NUMBER OF
+PAGES 63+append.
+
+archeology, Texas, Lake Sam Rayburn, Lake B.A. Steinhagen
+17. SECURITY CLASSIFICATION
+OF REPORT
+unclassified
+
+18. SECURITY CLASSIFICATION
+OF THIS PAGE
+unclassified
+
+16. PRICE CODE
+19. SECURITY CLASSIFICATION
+OF THIS PAGE
+unclassified
+
+20. LIMITATION OF
+ABSTRACT
+unclassified
+
+Standard Form 298 (rev. 2-89)(EG)
+Prescribed by ANSI Std. 239.18
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+ABSTRACT
+This report documents the substantive findings and management recommendations of a cultural
+resource inventory conducted on four separate tracts of land totaling 878 acres at Lake B.A.
+Steinhagen and Lake Sam Rayburn in East Texas. Work was conducted at the request of the
+Piney Woods Project Office of the United States Army Corps of Engineers, Fort Worth District
+(USACE). The USACE has proposed timber harvesting within the selected tracts and, in
+compliance with Section 106 of the National Historic Preservation Act, the inventories were
+conducted to ensure that any cultural resource sites located on the parcels would be considered in
+planning and conducting the undertaking.
+Archeological fieldwork was completed between October 17-26, 2007. Fieldwork included a
+100 percent pedestrian survey accompanied by manual excavation of 523 shovel tests.
+Recovered artifacts included historic ceramics, metal, glass, prehistoric lithic flakes, and one
+projectile point. All subsurface artifacts were recovered and will be curated at the Texas
+Archeological Research Laboratory (TARL). Archival research was also conducted on one
+historic site.
+One new historic site and one new prehistoric site were discovered and documented. Historic
+site 41SA290 is recommended as not eligible for the National Register of Historic Places (NRHP)
+and no further work is warranted. The NRHP eligibility of prehistoric site 41NA305 could not
+be clearly assessed using the limited shovel test inventory tactics; it has an unknown NRHP
+eligibility status and should be avoided and protected from adverse impacts.
+
+Ecological Communications Corporation
+
+i
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+ii
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+TABLE OF CONTENTS
+Page
+ABSTRACT ................................................................................................................................................................. I
+ACKNOWLEDGMENTS..........................................................................................................................................V
+1.0
+
+PROJECT DESCRIPTION..........................................................................................................................1
+
+1.1
+1.2
+1.2.1
+1.2.2
+1.3
+1.4
+1.4.1
+1.4.2
+2.0
+
+THE UNDERTAKINGS ...................................................................................................................................1
+LOCATION ...................................................................................................................................................1
+Lake Sam Rayburn .................................................................................................................................2
+Lake B.A. Steinhagen .............................................................................................................................6
+NATURAL ENVIRONMENT............................................................................................................................6
+GEOLOGY AND SOILS ..................................................................................................................................8
+Underlying Geological Formations .......................................................................................................8
+Soil Formations .....................................................................................................................................9
+
+CULTURAL CONTEXT............................................................................................................................15
+
+2.1
+PREVIOUS RESEARCH ................................................................................................................................15
+2.1.1
+Lake Sam Rayburn ...............................................................................................................................15
+2.1.2
+Lake B.A. Steinhagen ...........................................................................................................................15
+2.2
+PREVIOUSLY RECORDED SITES..................................................................................................................16
+2.2.1
+Sites within the Inventory Parcels........................................................................................................16
+2.2.2
+Sites and Prior Surveys within One Mile of the Inventory Parcels......................................................16
+2.3
+CULTURAL FRAMEWORK...........................................................................................................................17
+2.3.1
+Paleoindian Period ..............................................................................................................................18
+2.3.2
+Archaic Period.....................................................................................................................................18
+2.3.3
+Woodland/Early Ceramic Period ........................................................................................................19
+2.3.4
+Formative Caddoan Period and Early Caddoan Period .....................................................................20
+2.3.5
+Middle Caddoan Period.......................................................................................................................20
+2.3.6
+Late Caddoan Period...........................................................................................................................20
+2.3.7
+Historic Period ....................................................................................................................................21
+3.0
+3.1
+3.2
+3.3
+3.4
+4.0
+
+METHODS ..................................................................................................................................................23
+SURVEY TACTICS ......................................................................................................................................23
+DENSITY OF SHOVEL TESTING ...................................................................................................................24
+ARCHIVAL RESEARCH ...............................................................................................................................25
+EVALUATION OF SIGNIFICANCE .................................................................................................................25
+RESULTS AT LAKE SAM RAYBURN ...................................................................................................27
+
+4.1
+POWELL POINT ..........................................................................................................................................27
+4.2
+BUCK BRANCH ..........................................................................................................................................28
+4.3
+SANDY CREEK ...........................................................................................................................................28
+Site 41SA290 ......................................................................................................................................................28
+4.4
+MOUTH OF CARIZZO BAYOU .....................................................................................................................36
+Site 41NA305 .....................................................................................................................................................36
+5.0
+
+SUMMARY AND RECOMMENDATIONS ............................................................................................41
+
+8.0
+
+REFERENCES CITED ..............................................................................................................................43
+
+Ecological Communications Corporation
+
+iii
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+LIST OF FIGURES
+Figure 1-1
+Figure 1-2
+Figure 1-3
+Figure 1-4
+Figure.1-5
+Figure 1-6
+Figure 4-1
+Figure 4-2
+Figure 4-3
+Figure 4-4
+Figure 4-5
+Figure 4-6
+Figure 4-7
+Figure 4-8
+Figure 4-9.
+Figure 4-10.
+Figure 4-11
+
+Project Location, Lakes Sam Rayburn and B.A. Steinhagen, East Texas .......................... 2
+Location of Powell Point Parcel on Buck Bay USGS Quadrangle ..................................... 3
+Location of Mouth of Carizzo Bayou Parcel on Platt USGS Quadrangle â¦â¦â¦â¦â¦â¦.. 4
+Buck Branch and Sandy Creek Parcels on Buck Bay USGS Quadrangle â¦â¦â¦â¦â¦â¦â¦ 5
+Forks of the Rivers Parcel on Pacehill USGS Quadrangle â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦... 7
+Typical Vegetation Encountered Within Inventory Areas â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦ 8
+Powell Point project area, facing east â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦...â¦27
+Buck Branch project area, facing southwest â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦.28
+Site map, 41SA290 â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦...29
+Feature 1, 41SA290 â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..32
+Figure 2, 41SA290 â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦33
+Feature 3, 41SA290 â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..33
+Feature 4, 41SA290 â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..34
+Feature 5, 41SA290 â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..34
+Site Map, 41NA305 â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..37
+Site 41NA305, facing east â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦....38
+Yarbrough Projectile Point, 41NA305 â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦.39
+
+LIST OF TABLES
+Table 1-1
+Table 1-2
+Table 1-3
+Table 1-4
+Table 1-5
+Table 1-6
+Table 2-1
+Table 2-2
+Table 3-1
+Table 4-1
+Table 4-2
+Table 4-3
+Table 4-4
+Table 4-5
+Table 5-1
+
+Summary of Inventoried Parcels â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦... 1
+Acreage of Soil Types at Powell Point, Lake Sam Rayburn â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦ 9
+Acreage of Soil Types at Mouth of Carizzo Bayou, Lake Sam Rayburn â¦â¦â¦â¦â¦â¦â¦.10
+Acreage of Soil Types at Buck Branch, Lake Sam Rayburn â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦...11
+Acreage of Soil Types, Sandy Creek Parcel â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦.12
+Acreage of Soil Types at Forks of the Rivers, at Lake B.A. Steinhagen â¦â¦â¦â¦â¦â¦â¦ 13
+Previously Recorded Sites within One Mile of Project Areas at Lake Sam Rayburn â¦â¦..17
+Previously Recorded Sites within One Mile of Project Area at Lake B.A. Steinhagen â¦..17
+Shovel Testing Summary â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..24
+Summary of Sites at Lake Sam Rayburn â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..27
+Chain of Title for 41SA290 â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..31
+Artifact Assemblage, 41SA290 â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦35
+Diagnostic Artifacts, 41SA290 â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦.36
+Shovel Test Results, 41NA305 â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦.38
+Site Summary and Recommendations â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..41
+
+APPENDICES
+APPENDIX A â SHOVEL TEST LOCATIONS â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦.49
+APPENDIX B â TYPICAL SOIL PROFILESâ¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦55
+APPENDIX C â LOCATIONS OF ARCHEOLOGICAL SITES (CD-ROM) â¦â¦â¦â¦â¦â¦â¦..â¦â¦â¦â¦â¦â¦â¦.. 61
+APPENDIX D â ARCHEOLOGICAL SITE FORMS (CD-ROM) â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..â¦â¦â¦â¦â¦â¦. 63
+
+iv
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+ACKNOWLEDGMENTS
+The authors thank Daniel E. McGregor, Cultural Resources Manager for the United States Army
+Corps of Engineers, Fort Worth District (USACE), who made this project possible and was
+extremely helpful throughout every phase. We also greatly appreciate the time and logistical
+assistance provided by USACE employees Keith Cook and Floyd Boyett. Fieldwork was
+directed by Project Archeologist Richard Jones, with Matt Carter, Antonio Padilla, and Lisa
+Shaddox assisting as Archeological Technicians. Matt Carter, Daniel Rose, and Emory Worrell
+processed artifacts and prepared them for curation. Antonio Padilla contributed research on the
+natural environment, soils, and previous archeological investigations. The property deed search
+was conducted at the San Augustine courthouse by Rosamunda Findeisen and the results were
+interpreted by Rachel Feit.
+
+Ecological Communications Corporation
+
+v
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+vi
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+1.0
+1.1
+
+PROJECT DESCRIPTION
+
+THE UNDERTAKINGS
+
+The United States Army Corps of Engineers, Fort Worth District (USACE) is responsible for
+managing certain federally owned lands in East Texas in association with lakes, reservoirs and
+navigable waterways. These management responsibilities include 17,461 acres at Lake Sam
+Rayburn, and 7,943 acres at Lake B.A. Steinhagen (acreages are outside conservation pools)
+(Figure 1-1).
+While planning and conducting undertakings that have the potential to affect historic properties,
+the USACE must take such resources into account. Therefore, in compliance with Section 106 of
+the National Historic Preservation Act (NHPA) of 1966 as amended through 1992 (P.L. 89-665 et
+seq.), the inventories were authorized by the USACE to identify any archeological sites,
+buildings, structures, or other resources that may be eligible for inclusion on the National
+Register of Historic Places (NRHP). All inventories were conducted and all sites are located on
+lands owned by the Federal Government and managed by the USACE.
+Much of the USACE managed acreage at both lakes are forested by mature pine and hardwood
+stands. In conjunction with the existing management plans for the reservoirs and in accordance
+with accepted silviculture methodologies, the USACE has planned certain management areas for
+selective timber thinning at these lakes. Commercial thinning removes marketable trees in
+uneven-aged stands (not clear-cut) through single tree selection. Removal of crop trees often
+disturbs the ground surface, but extensive subsurface disturbance is not common.
+1.2
+
+LOCATION
+
+The total project area consists of five separate parcels (Table 1-1). Four of these are located at
+Lake Sam Rayburn in San Augustine and Nacogdoches Counties and the fifth parcel is located at
+Lake B.A. Steinhagen in Jasper County, Texas. Together, the five parcels total 878 acres and
+range in size from a minimum of 39 acres to a maximum of 573 acres.
+Table 1-1. Summary of Inventoried Parcels.
+Lake
+Lake Sam Rayburn
+
+Lake B.A. Steinhagen
+
+Inventory
+Powell Point
+Mouth of Carizzo Bayou
+Buck Branch
+Sandy Creek
+Lake subtotal
+Forks of the Rivers
+
+County
+San Augustine
+Nacogdoches
+San Augustine
+San Augustine
+
+USGS
+Quadrangle
+Buck Bay
+Platt
+Buck Bay
+Buck Bay
+
+Acres
+95
+41
+39
+130
+305
+
+Jasper
+
+Pacehill
+
+573
+573
+
+Lake subtotal
+Total
+
+Ecological Communications Corporation
+
+878
+
+1
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+1.2.1
+
+Lake Sam Rayburn
+
+Lake Sam Rayburn was authorized by Congress in 1955 for the purposes of flood control along
+the Angelina River, hydroelectric power generation, and conservation of water for
+municipalities, industry, agriculture, and recreation. Construction of the reservoir was begun by
+the USACE in 1956, and impoundment began in 1965. Initially known as McGee Bend
+Reservoir, the lake was renamed in honor of Speaker of the U.S. House of Representatives Sam
+Rayburn. The lake is the largest body of water within the boundaries of the State of Texas. At
+conservation pool level (164.4 ft above mean sea level), the lake has approximately 750 miles of
+shoreline (Figure 1-1). The current inventory includes four parcels totaling 305 acres.
+
+Figure 1-1.
+
+2
+
+Project Location, Lakes Sam Rayburn and B.A. Steinhagen, East Texas.
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Powell Point
+The Powell Point area totals 95 acres and is located in San Augustine County on the east bank of
+Lake Sam Rayburn, about 0.4 miles (600 m) northwest of Powell Park & Marina (Figure 1-2).
+The tract measures about 1.5 km long from north to south, and averages about 220 m wide from
+east to west. It is located on the Buck Bay USGS 7.5â topographic quadrangle. Elevation varies
+between 165 ft AMSL at the shoreline to about 180 ft AMSL inland.
+
+Figure 1-2.
+
+Location of Powell Point Parcel on Buck Bay USGS Quadrangle.
+
+Ecological Communications Corporation
+
+3
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Mouth of Carizzo Bayou
+The Mouth of Carizzo Bayou area totals 41 acres and is located in Nacogdoches County on the
+east bank of Lake Sam Rayburn, about 4.9 miles (7.8 km) northwest of Etolie (Figure 1-3). The
+tract measures about 620 m from east to west by about 1.1 km from north to south. It is located
+on the Platt USGS 7.5â topographic quadrangle. Elevation varies between 160 ft AMSL at the
+shoreline to about 185 ft AMSL on elevated terraces.
+
+Figure 1-3.
+
+4
+
+Location of Mouth of Carizzo Bayou Parcel on Platt USGS Quadrangle.
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Buck Branch
+The Buck Branch area totals 39 acres. It is located in San Augustine County within the Buck Bay
+area on the east shore of Lake Sam Rayburn, about 0.3 miles (550 m) northeast of the small
+community of Parkway (Figure 1-4). The tract measures about 800 m north to south by about
+620 m east to west. It is located at on the Buck Bay USGS 7.5â topographic quadrangle.
+Elevation is about 175 ft AMSL.
+
+Figure 1-4.
+
+Buck Branch and Sandy Creek Parcels on Buck Bay USGS Quadrangle.
+
+Ecological Communications Corporation
+
+5
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Sandy Creek
+The Sandy Creek area totals 130 acres. It is located in San Augustine County within the Buck
+Bay area on the east shore of Lake Sam Rayburn, about 0.8 miles (1.3 km) east by northeast of
+the community of Parkway (see Figure 1-4). At its nearest approach, the parcel is within about
+150 ft (50 m) of the Sabine County line. The irregularly shaped tract measures about 1.1 km
+north to south by about 1.2 km east to west. It is located at on the Buck Bay USGS 7.5â
+topographic quadrangle. Elevation ranges about 160 ft along the shoreline to 200 ft AMSL
+inland.
+1.2.2
+
+Lake B.A. Steinhagen
+
+Operated by the USACE, Lake B. A. Steinhagen is situated on the Neches River about 17 km
+southwest of Jasper in Tyler and Jasper counties (Figure 1-1). Impounded by the Town Bluff
+Dam, the lake is about 8 miles (12.8 km) long and 4 miles (6.4 km) wide. Construction was
+started in March 1947, deliberate impoundment began April 1951, and the dam was completed in
+June 1953. At maximum operating pool elevation of 83 ft AMSL, the lake impounds 13,700
+acres (USACE 2006). The current inventory includes one parcel totaling 573 acres.
+Forks of the Rivers
+The Forks of the Rivers inventory area totals 573 acres, and is located about 2.5 miles (4.0 km)
+northeast of the confluences of the Neches and Angelina Rivers. The parcel is located in Jasper
+County, about 0.8 miles (1.3 km) west of the town of Bevilport (Figure 1-5). The tract contains
+two individual sub-areas that are separated by a slough. The northern area totals 79 acres and the
+southern area totals 494 acres. Together, the two areas measure about 2.2 km north to south by
+about 1.9 km east to west. The inventory area is located on the Pacehill USGS 7.5â topographic
+quadrangle. Elevation of the parcel varies from 90 ft AMSL to 92 ft AMSL.
+1.3
+
+NATURAL ENVIRONMENT
+
+The project is located in the Oak-Hickory-Pine Forest vegetation region of east Texas as defined
+by Gould (1969). Forested areas in the project areas included secondary growth and mature pine
+and pine-hardwood stands (Figure 1-6). Pine stands observed during the field inventory were
+typically comprised of loblolly (Pinus taeda), shortleaf (Pinus echinata), and longleaf (Pinus
+palustris) pines. Hardwood trees noted during the survey included southern red oak (Quercus
+falcate), white oak (Quercus alba) and American sycamore (Platanus occidentalis). Other
+representative hardwoods present in the area include sweetgum (Liquidambar styraciflua), bald
+cypress (Taxodium spp.), black walnut (Juglans nigra L.), osage orange (Maclura pomifera),
+and Dahoon holly (Ilex cassine).
+The project is located within the Austroriparian biotic province as defined by Blair (1950).
+Wildlife common to the area includes whitetail deer (Odocoileus virginianus), red fox (Vulpes
+vulpes), bobcat (Felis rufus), grey squirrel (Sciurus carolinensis), coyote (Canis latrans),
+
+6
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Figure 1-5.
+
+Forks of the Rivers Parcel on Pacehill USGS Quadrangle.
+
+raccoon (Procyon lotor), opossum (Didelphus virginiana), wild hog (Sus scrofa), nutria
+(Myocastor coypus), river otter (Lutra canadensis), and mink (Mustela vison). Lake habitats
+support a variety of turtles, frogs and snakes, as well as largemouth bass (Micropterus salmoides
+salmoides), flathead (Pylodictis olivaris) and channel (Ictalurus punctatus) catfish, white
+(Pomoxis annularis) and black (Pomoxis nigromaculatus) crappie, white bass (Morone
+chrysops), bluegill (Lepomis macrochirus), and other sunfish. Bird species include the
+endangered red-cockaded woodpecker (Picoides borealis), as well as bald eagles (Haliaeetus
+leucocephalus), osprey (Pandion haliaetus), bobwhite (Colinus virginianus), mourning doves
+
+Ecological Communications Corporation
+
+7
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+(Zenaida macroura), white pelicans (Elecanus erythrorhynchos), common loons (Gavia immer),
+herons, and egrets.
+
+Figure 1-6.
+
+Typical Vegetation Encountered Within Inventory Areas.
+
+1.4
+
+GEOLOGY AND SOILS
+
+1.4.1
+
+Underlying Geological Formations
+
+The project area contains five separate parcels, each of which is located near or along the edge of
+the Angelina River. Four of the five parcels are located at Lake Sam Rayburn while the fifth
+parcel is closer to Lake B.A. Steinhagen. The geological formations of the parcels adjacent to
+Lake Sam Rayburn consist of the Claiborne and Jackson Groups of the upper Eocene. Within
+these groups, varying formations compose the underlying bedrock (AAPG 1979).
+At Lake Sam Rayburn, bedrock under the Mouth of Carizzo parcel consists of the Cook
+Mountain formation of the Claiborne group. The Cook Mountain formation is positioned across
+the landscape in an easterly to westerly direction, increasing in thickness towards the west from
+about 100 ft (30 m) to 370 ft (113 m) in thickness. The bedrock formation of the Buck Branch
+parcel is the Caddell formation of the Jackson group. The Caddell formation measures 25 ft (7.6
+m) to 45 ft (13.7 m) in thickness and is comprised of clay and a fine grained quartz sand that is
+typically brown in color. Three bedrock formations are mapped within the Sandy Creek parcel.
+The western-most portion of the parcel is comprised of the Caddell formation as seen at the Buck
+8
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Branch parcel. The central portion of the parcel, consisting of the majority of acreage within the
+parcel is comprised of Quaternary alluvium. The geological formation of the eastern portion of
+the parcel is the Yazoo formation of the Jackson group. The Yazoo formation is an interbedded
+formation of clay and sand, typically light brownish gray in color and measures up to 200 ft. in
+thickness. This formation is also the underlying bedrock at the Powell Point parcel.
+Near Lake Steinhagen, the Forks of the Rivers parcel is ntirely comprised of Holocene
+Quaternary alluvium, representing approximately 12,000 years of alluvial floodplain deposition.
+1.4.2
+
+Soil Formations
+
+Powell Point
+Soils within the Powell Point survey area include the Metcalf-Sawtown complex, EastwoodLatex complex, and Moswell loam (Table 1-2). Typical pedons are described in Appendix B.
+All soil descriptions and profiles are from USDA-SCS (2007).
+Table 1-2. Acreage of Soil Types at Powell Point, Lake Sam Rayburn.
+Map Unit Symbol
+
+Acres
+
+Percent
+
+Metcalf-Sawtown complex, 0 to 2% slopes
+Eastwood-Latex complex 1 to 3% slopes, mounded
+Moswell loam, 5 to 15% slopes
+Water
+
+61
+30
+1
+3
+
+64%
+31%
+1%
+4%
+
+Total
+
+95
+
+100%
+
+Within the Powell Point parcel, the majority of soils are classified under the Metcalf-Sawtown
+complex. The Metcalf Series is a Pleistocene age loamy alluvial or marine sediment,
+characterized as being deep, slowly permeable, soils that are typically poorly drained. These
+soils are located on broad to nearly level marine or stream terraces and usually have a slope
+ranging to two percent. The Sawtown series are loamy soils typically located along nearly level
+marine or stream terraces. These soils are well drained, very deep, moderately permeable, and
+nearly level.
+Eastwood-Latex complex soils were also encountered within the Powell Point parcel. These
+soils make up about one-third of the total soils within the parcel (Table 1-2). Eastwood series
+soils are located on moderately steep to gently sloping uplands, with slopes ranging up to 20
+percent. These soils are very slowly permeable, deep soils that are typically well drained. These
+soils formed within marine deposits of silty clay loam. Latex series soils are comprised of slowly
+permeable, deep soils that are also well drained. These soils are located on wide gently sloping
+and nearly level terraces.
+Also within the Powell Point parcel, three acres of Moswell loam are mapped (Table 1-2). Soils
+in this series are typically deep and xtend down to shale or mudstone. They are characterized as
+
+Ecological Communications Corporation
+
+9
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+being well drained and very slowly permeable, with slopes ranging up to 15 percent. These soils
+are usually located on gently sloping to moderately steep uplands.
+Mouth of Carizzo Bayou
+The Mouth of Carizzo Bayou parcel contains roughly equal proportions of Attoyac fine sandy
+loam, Cuthbert fine sandy loam, and Kirvin fine sandy loam (Table 1-3). Typical pedons are
+described in Appendix B. Soil descriptions and profiles are from USDA-SCS (2007).
+Table 1-3. Acreage of Soil Types at Mouth of Carizzo Bayou, Lake Sam Rayburn.
+Map Unit Name
+
+Acres
+
+Percent
+
+Attoyac fine sandy loam, 8 to 15 percent slopes
+Kirvin fine sandy loam, 1 to 8 percent slopes
+Cuthbert fine sandy loam, 8 to 20 percent slopes
+
+15
+14
+12
+
+36%
+33%
+31%
+
+Total
+
+41
+
+100%
+
+Attoyac fine sandy loam occurs in 36 percent of the Mouth of Carizzo Bayou parcel. This deep
+soil is located on sloping to moderately steep upland terraces with slopes ranging up to 15
+percent. The formation commonly occurs in areas containing wind modified alluvial deposits.
+Thirty-three percent of the parcel is represented by Kirvin fine sandy loam which commonly
+occurs on gently sloping to sloping, narrow and broad ridges, round knobs, and inter-stream
+divides. These soils typically have slopes ranging up to eight percent and are deep, usually down
+to stratified shale and sandstone.
+The remaining 31 percent of the parcel is represented by Cuthbert fine sandy loam, a moderately
+deep soil overlying weakly consolidated shale and sandstone. These soils characteristically have
+strongly sloping to moderately steep soils, commonly located on higher areas overlooking major
+drainageways. Slopes of these soils commonly range from 8 to 25 percent, however they can
+range up to 40 percent.
+Buck Branch
+The Buck Branch parcel is dominated by Mattex-lulus complex soils (Table 1-4). These soils are
+deep loams found either in separate deposits or in a mixture of the two. Other soils present on
+the parcel area include the Alazan-Besner complex and the Metcalf-Sawtown complex. In
+addition, small, dispersed pockets of Moswell and Rayburn soils are present (Table 1-4).
+Typical pedons are described in Appendix B. Soil descriptions and profiles are from USDASCS (2007).
+The Mattex-Iulus complex is comprised of intermixed Mattex series soils and Iulus series soils.
+Mattex series soils are very deep, slowly permeable loamy soils that are somewhat poorly
+drained. These soils are nearly level and form in loamy clayey alluvium. The Iulus series soils
+are similarly very deep but are moderately well drained and moderately permeable. Also nearly
+10
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+level, these soils formed in recent alluvium derived from costal plain sediments. Mattex-Iulus
+complex soils make up about one-half of the total parcel area.
+Table 1-4. Acreage of Soil Types at Buck Branch, Lake Sam Rayburn.
+Map Unit Name
+
+Acres
+
+Percent
+
+Mattex-Iulus complex, 0 to 1 percent slopes, frequently flooded
+
+19
+
+49%
+
+Mattex clay loam, 0 to 1 percent slopes, frequently flooded
+Alazan-Besner complex, 0 to 2 percent slopes
+Moswell loam, 1 to 5 percent slopes
+Metcalf-Sawtown complex, 0 to 2 percent slopes
+Iulus fine sandy loam, 0 to 1 percent slopes, occasionally flooded
+Rayburn loam, 5 to 15 percent slopes
+
+11
+5
+2
+1
+0.5
+0.5
+
+28%
+13%
+5%
+2%
+1.5%
+1.5%
+
+Total
+
+39
+
+100%
+
+The Mattex and Iulus series soils occur in isolated pockets across the landscape. There is a small
+pocket of soil at the northeastern corner of the parcel that is solely comprised of Iulus fine sandy
+loam. This portion only represents less than one acre of the parcel, while an area at the southern
+end of the parcel encompasses about 11 acres and is comprised of only Mattex clay loam.
+The southwestern portion of the parcel contains soils characterized as the Alazan-Besner
+complex. This complex is comprised of both Alazan series and Besner series soils that are both
+typically very deep, moderately well drained, and moderately permeable. The Alazan series soils
+typically form in loamy alluvial or marine sediments, while the Besner series soils are formed in
+alluvial sediments and are found on mounded Pleistocene terraces that have been somewhat
+reworked by wind. The slopes of these soils typically range up to two percent while the Besner
+soils can range up to five percent.
+Along the western portion of the parcel, at the northwestern most corner and along the western
+most edge of the center, pockets of the Metcalf-Sawtown complex are present. This complex is
+comprised of soils from the Metcalf series and the Sawtown series. These soils make up two
+percent of the total parcel and are the same as those at the Powell Point parcel.
+Moswell loam, present in this parcel, was observed before at Powell Point, however the soil
+represented here is slightly different. The Moswell loam soils seen at the Powell Point parcel
+was denoted as MsD, and the Moswell loam seen at this parcel is denoted as MsB. MsB soils are
+characteristically deep soils on slightly concave to smooth, gently sloping, wide interstream
+divides. These soils typically form in marine shales and clays. The surfaces of these soils are
+distinguished by gilgai or humps about 2 to 3 inches (5 to 8 cm) high. This type of soil only
+occurs on five percent of the parcel. Although the MsB loam is slightly different from the MsD
+loam seen at Powell Point, it is from the same series (Moswell Series), and therefore consists of
+the same pedon.
+The final soil represented at the parcel is Rayburn loam of the Rayburn series (Table 1-4). This
+loam pocket is present in less than one acre at the extreme southeastern corner of the inventory
+area. The soils of the Rayburn series are deep, moderately well drained upland soils that are very
+
+Ecological Communications Corporation
+
+11
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+slowly permeable. These soils were formed from tuffaceous siltstones and sandstones with
+slopes ranging from up to 20 percent.
+Sandy Creek
+Of the 130 acres surveyed at Sandy Creek, the Mattex-Iulus complex predominates at 35 percent
+of the total area. This soil type is followed by Laneville loam covering about 22 percent of the
+parcel, Metcalf Sawtown complex, at 17 percent, Penning-Kurth complex, at 15 percent, Mattex
+clay loam, at 4.6 percent, Rayburn Loam, at 3.8 percent, and Moswell loam, at 2.6 percent (Table
+1-5). All but two of these soils were encountered at other parcels within the vicinity of Lake
+Sam Rayburn. Typical pedons are described in Appendix B. Soil descriptions and profiles are
+from USDA-SCS (2007).
+Table 1-5. Acreage of Soil Types, Sandy Creek Parcel.
+Map Unit Name
+
+Acres
+
+Percent
+
+Mattex-Iulus complex, 0 to 1 percent slopes, frequently flooded
+Laneville loam, 0 to 1 percent slopes, frequently flooded
+Metcalf-Sawtown complex, 0 to 2 percent slopes
+Penning-Kurth complex, 0 to 2 percent slopes
+Mattex clay loam, 0 to 1 percent slopes, frequently flooded
+Rayburn loam; 5 to 15 percent slopes
+Moswell loam; 1 to 5 percent slopes
+
+45
+28
+22
+20
+6
+5
+4
+
+35%
+22%
+17%
+15%
+4.6%
+3.8%
+2.6%
+
+Total
+
+130
+
+100%
+
+The Penning-Kurth complex is composed of two types of soil series, the Penning series, and the
+Kurth series. Soils of the Penning series are deep soils typically to the underlying shale deposits.
+These soils are typically well drained soils that are moderately permeable, and are found on
+nearly level uplands. Soils of the Kurth series are very deep soils, typically to underlying
+geological materials of sandstone and mudstone. These soils are moderately well drained and
+slowly permeable, usually formed in loamy coastal plain sediments. Kurth soils are located on
+gently sloping to moderately sloping uplands with slopes ranging up to eight percent.
+Laneville loam soils are classified as a Laneville series type. These loamy soils are
+characteristically very deep, moderately well drained, and slowly permeable, typically found on
+flood plains. The formation of these soil types occur in nearly level loamy and clayey alluvium.
+Forks of the Rivers
+The Forks of the Rivers parcel is located outside the Lake Sam Rayburn vicinity, near Lake B.A.
+Steinhagen. The geology of the area is different from those near Lake Sam Rayburn, and is
+reflected in the soils. Soils within the Forks of the Rivers parcel are comprised by two different
+complexes, the Besner-Molliville complex and the Bienville-Alaga complex (Table 1-6) The
+Besner-Molliville complex dominates the parcel area. Typical pedons are described in Appendix
+B. Soil descriptions and profiles are from USDA-SCS (2007).
+
+12
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+Table 1-6. Acreage of Soil Types at Forks of the Rivers, at Lake B.A. Steinhagen.
+Map Unit Name
+
+Acres
+
+Percent
+
+Besner-Molliville complex, gently undulating
+Bienville-Alaga association, gently undulating
+
+384
+189
+
+67%
+33%
+
+Total
+
+573
+
+100%
+
+The Besner-Molliville complex is comprised of two soil series, the Besner series and the
+Molliville series. Soils of the Besner series are located on terraces and are characterized as being
+deep, gently undulating loamy, well drained, moderately permeable soils. The formation of
+theses soils occur in loamy sediments modified by wind, generally with soil slopes ranging to
+three percent. Soils of the Molliville series are loamy, typically deep, and nearly level or gently
+undulating, and are poorly drained. The slopes of the soils are usually found on terraces. The
+formation of these soils occurred in thick, stratified, loamy sediments.
+The remaining of the parcel is comprised of the Bienville-Alaga complex, which consists of soils
+of the Bienville series and soils from the Alaga series. Soils of the Bienville series are
+characterized as deep, gently undulating, sandy, and excessively drained. These soils are located
+on terraces near the river bottom lands. The formation of these soils occurs from sandy alluvium
+from sandy coastal plain sediments. These soils have slopes that range up to five percent. Soils
+of the Alaga series are deep, gently undulating, sandy, and excessively drained. These soils are
+found on terraces along major streams, and were formed in thick fluvial beds of sands and loamy
+sands, with slopes ranging up to five percent.
+1.4.3
+
+Archaeological Potential of the Soils
+
+The landscape of East Texas and Northwestern Louisiana is generally characterized as âweakly
+consolidated, Tertiary age fluvial-deltaic deposits of predominantly sandy textureâ (Frederick et
+al. 2002:191), known as the Sandy Mantle. In Texas, the sandy mantle is a soil formation that
+âextends in a slowly expanding pattern from south of San Antonio in a northeasterly direction
+into east Texasâ (Nickels and Lehman 2004:107), closely following the distribution of sandy
+Eocene deposits, known as the Claiborne formation. The location of four of the five inventoried
+parcels, near Lake Sam Rayburn, are within this geographical feature, and it is reflected by the
+soils encountered within the parcels. The fifth parcel, Mouth of the Carizzo Bayou, however is
+located just outside of the sandy mantle boundaries.
+Archaeological significance of the sandy mantle area is currently heavily debated because the
+age and origin of this formation is unknown (Boulter et al. 2007). Stratigraphically, the sandy
+mantle is comprised of an AâEâBt pedon, with the Bt pedon dating to the Pleistocene. The
+problems encountered with archaeological projects located in this area lie in the debate as to the
+age of the sands; rather, the formation of the AâE pedons. Some scientists argue that the
+formation of the sandy mantle is predominately of pedogenic origins, whereas others argue that
+the formation is attributed to colluvial and eolian processes (see Heinrich 1986; Rogers 1994;
+Thoms 1993). According to Frederick et al. (2002:191â192), if the soils over the Bt horizon âare
+the product of in situ pedological weathering of Tertiary bedrock, then the AâEâBt horizon all
+formed simultaneously from the same parent material,â therefore cultural material found within
+these soils were affected by pedoturbation, meaning, âthese sites would have minimal integrity
+
+Ecological Communications Corporation
+
+13
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+and would be unworthy of preservation or excavation.â However, if the soils are a product of
+colluvial and eolian processes, the underlying argillic formation (Bt pedons), was already
+established, therefore cultural material within these soils are in context and have archaeological
+significance (Frederick et al. 2002:191â192).
+Research geared towards understanding the formation of the sandy mantle has been on going by
+various projects within the sandy mantle area (e.g. Boulter et al. 2007; Bruseth and Martin 2001;
+Frederick et al. 2000, 2002; Nickels and Lehman 2004). One in particular, Fredrick et al. (2002)
+provides evidence of eolian deposition on uplands, based on optically stimulated luminescence
+(OSL) dating. In their research, 33 samples were collected from an excavated trench at
+41LE191. Seven of the samples were collected from the sand above the Bt horizon, one from the
+Bt horizon, six from unconsolidated sands, and 19 others from the same profile, as a control.
+Results of their findings (see Fredrick et al. 2002), shows that sands covering the hill at 41LE191
+were deposited during the Holocene and were not a product of in situ deposition. However this
+is only shown for this area, other research shows that it can be applied throughout the sandy
+mantle area.
+From 2002 to 2003, the Center for Archaeological Studies (CAS) at Texas State University
+conducted extensive archaeological work within the 11,500 acre confines of Camp Swift in
+Bastrop County. One of the primary research issues addressed by CAS during their work was the
+formation of the sandy mantle. For the survey phase, CAS conducted a study measuring the
+depth of the sand deposits based on depths recorded from the excavations of over 800 shovel
+tests in 57 different locations within the Camp Swift Texas National Guard base. Their research
+compared depths within different settings (i.e. terraces, foot slopes, side slopes, drainageways,
+ridges, and uplands), to the vertical distribution of cultural material within these specific
+locations. From this research, it was shown that sand depths varied across the landscape, and
+âthat the physiographic setting cannot be viewed as an overriding consideration when evaluating
+site depth, intensity of use, and integrity,â therefore âsites must be tested on a case-by-case basis
+regardless of their settingâ (Nickels and Lehman 2004:124).
+In 2002, CAS conducted NRHP eligibility testing on 20 prehistoric sites recorded during the
+survey that included the excavation of 120 test units and six backhoe trenches. The results of
+testing revealed stratigraphic correlations in the data that suggest some sites within the sandy
+mantel indeed contain deep, intact deposits of cultural materials. This conclusion was based on
+data gathered from multi-linear, corroborating lines of evidence including soil susceptibility
+values, pH values, statistical data, artifact densities and sizes, non-artifact densities and sizes, soil
+horizons, archeomagnetic samples, projectile point typology, clay lamella development, and C14
+samples (David Nickels, personnel communication 2008; Nickels et al. 2008).
+However, the archaeological potential of the soils at the Forks of the Rivers parcel should be
+regarded as being low. The parcel is located near the confluence of the Neches and Angelina
+River, northeast of Lake B.A. Steinhagen. This area is a topographically low (averaging 90 ft
+ASL), flat wooded marsh and floodplain that features no prominent terraces or ridgelines were
+prehistoric occupations in East Texas are generally known to occur (Perttula 2004). In addition,
+the area is prone to long term inundation and frequent flooding which has resulted in soils that
+have a mixed/secondary depositional history with an overall low integrity.
+14
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+2.0
+2.1
+
+PREVIOUS RESEARCH
+
+2.1.1
+
+Lake Sam Rayburn
+
+CULTURAL CONTEXT
+
+The earliest documented archeological investigations in the vicinity of the now Lake Sam
+Rayburn were conducted during the late 1930s by the Works Progress Administration (WPA)
+under the direction of Gus Arnold. Some 23 sites were reported by the WPA (Arnold 1940). A
+decade later, the River Basin Surveys under the direction of Stephenson recorded 57 additional
+sites within the area of the proposed reservoir (Stephenson 1948a, 1948b). This work was
+followed in the late 1950s and early 1960s by limited surveys by the Texas Archeological
+Salvage Project (TASP) (Davis, n.d., Jelks 1965).
+Since completion of the reservoir, numerous systematic inventories have been conducted on
+behalf of the Corps of Engineers. Between 1993 and 2001, these studies have investigated more
+than 3,700 acres and recorded 58 sites (Ferring 1993a; Nichols 1994; Trask et al. 1996; Keller
+1998; Trask and Skinner 1998; Skinner and Trask 1999; Corbin 2001; Moore 2001). Since
+2002, a series of inventories has been conducted by EComm for the USACE in advance of
+timber thinning undertakings (Trierweiler and Bonine 2002; Trierweiler et al. 2002; Trierweiler
+and Bonine 2003; Bonine et al. 2004; Jones and Trierweiler 2005, 2006, 2007).
+In total, more than 250 sites have been reported in the immediate vicinity of Lake Sam Rayburn.
+Of these, fewer than a dozen have been subjected to any subsurface investigations other than
+shovel testing. Nine sites received limited exploratory excavations by Jelks. Three of these were
+dug in 1956, including 41SA86 Runnels No. 2), 41SA87 (Runnels No. 1), and 41SA89 (Sawmill
+site), and were subsequently reported by Curtis Tunnell (Tunnell 1961). The following year
+Jelks excavated at 41SA94 (Wylie Price), 41SB36 (Print Bell), and 41SB50 (Walter Bell),
+followed in 1959 by 41SA101 (Jonas Short) (Jelks 1965). In 1961 and 1962, the Sabine-Neches
+Archeological Society conducted limited excavations at 41SA83 (Zavonian Springs). Finally,
+site 41AG66 received extensive shovel testing in 1966 to assess the extent of vandalism (Skinner
+and Trask 1996). Despite these investigations, no site at Lake Sam Rayburn has received
+extensive data recovery excavations.
+2.1.2
+
+Lake B.A. Steinhagen
+
+During the late 1930s, the WPA recorded a handful of archeological sites in the vicinity of the
+later Lake Steinhagen (Arnold 1940) and this early work was followed in the 1940s by the RBS
+surveys of Stephenson (1948a, 1948b). Approximately a dozen sites were recorded in this
+vicinity by these early surveys. In the late 1950s, the TASP recorded several sites at Lake
+Steinhagen but a report was not produced.
+Beginning in the 1980s, numerous systematic surveys have been conducted on USACE fee lands
+at Lake B.A. Steinhagen (see Dervin 1982; Ferring 1993a; 1993b; Carpenter 1994; Leach-Palm
+and Rader 1995; Perttula et al. 1998). These surveys totaled more than 1,100 acres and resulted
+in the documentation of 24 archeological sites. More recently, EComm has conducted several
+
+Ecological Communications Corporation
+
+15
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+inventories for the USACE in advance of timber thinning undertakings (Trierweiler and Bonine
+2002; Trierweiler et al 2002; Trierweiler and Bonine 2003; Bonine et al 2004; Jones and
+Trierweiler 2006, 2007). In addition, EComm conducted a linear inventory of 6 km at nearby
+Martin Dies Jr. State Park (Bonine 2004).
+One site at Lake Steinhagen has been the target of systematic subsurface investigations. The Hen
+House site (41JP65) was tested in 1977 by TPWD because of continuing erosion (Chafin-Lohse
+and Anderson 1979). No sites at Lake Steinhagen have received data recovery excavations.
+2.2
+
+PREVIOUSLY RECORDED SITES
+
+2.2.1
+
+Sites within the Inventory Parcels
+
+A map and records search was conducted using the Texas Historical Commission (THC) Atlas
+online database on November 12, 2007. Searches of this database revealed that no previously
+recorded sites are located within the project APEs at either lake. Although no prehistoric or
+historic archeological sites are known within the project areas, several sites have been recorded
+within one mile of the inventory parcels.
+2.2.2
+
+Sites and Prior Surveys within One Mile of the Inventory Parcels
+
+Three previously recorded archaeological sites are located within one mile (1,600 m) of the
+combined project areas. Two sites, 41SA175 and 41SA283, are within one mile of the Buck
+Branch parcel at Lake Sam Rayburn and the third site, 41JP5, is within one mile of the parcel at
+Lake B.A. Steinhagen.
+Five previous archeological surveys have been conducted near the current inventory parcels. A
+single survey is associated with the four Lake Sam Rayburn parcel areas. This River Basin
+Survey was conducted in the late 1940s by the Smithsonian Institution under the direction of
+archeologist R.L. Stephenson. The purpose this survey was to document sites in the
+impoundment area of the then proposed reservoir, now Lake Sam Rayburn. Three additional
+surveys have been conducted within one mile of the Buck Branch parcel. These surveys were
+conducted on behalf of the USACE in 1993, 1997, and 2001. During the 1993 survey, two areas
+were surveyed along the Sam Rayburn shore line. In one of these parcels, site 41SA175 was
+recorded about 350 m west of Buck Branch. The second parcel was located about 550 m
+southwest and had no sites recorded. The survey conducted in 1997 was located about 850 m
+southwest of Buck Branch and contained no sites. At the Fork of the Rivers parcel located near
+Lake B.A. Steinhagen, a USACE survey was conducted in 1982 about 1.5 km west of Fork of
+the Rivers. This inventory recorded no sites.
+Lake Sam Rayburn
+Two archaeological sites have been recorded within one mile of Buck Branch at Lake Sam
+Rayburn. One of these sites (41SA283) was recorded by Corbin in 2001 and the other site
+(41SA175) was recorded by the Corps of Engineers in 1993 (Table 2-1). Site 41SA283 is
+16
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+located about 1.5 km to the west of the Buck Branch parcel. The site, encompassing about 500
+m2, is distributed across the ridge of a sandy knoll overlooking the Ayish Bayou. The site
+consists of a lithic scatter comprised of flakes, core fragments, and one piece of fire cracked
+rock. Due to the lack of diagnostic artifacts, the cultural/temporal affiliation of the site is
+unknown. Site 41SA175 is located about 1.4 km southwest of the Buck Branch parcel.
+Although the site was given a trinomial designation, no other information besides the location of
+the site is known (Carolyn Spock, personal communication, 2007).
+Table 2-1. Previously Recorded Sites within One Mile of Project Areas at Lake Sam Rayburn
+Trinomial
+
+Recorder, Date
+
+Setting
+
+Site Area
+
+41SA175
+
+Dorthy, 2004
+
+unknown
+
+unknown
+
+41SA283
+
+Corbin, 2001
+
+Ridge top
+
+500 m
+
+2
+
+Site Type
+
+Age
+
+Period
+
+unknown
+
+unknown
+
+unknown
+
+Unknown
+
+Prehistoric
+
+Archaic
+
+Lake B.A. Steinhagen
+One previously recorded archaeological site is located within one mile of the Lake B.A.
+Steinhagen inventory parcel (Table 2-2). Site 41JP5 was first recorded by G.E. Arnold in 1940
+and is described as a campsite located on top of a bluff along the eastern bank of the Angelina
+River. The site is concentrated within an area measuring 4,047 m2, and is comprised of a lithic
+scatter consisting of a projectile point, flakes of chert and petrified wood, and mussel shells.
+Although a projectile point was found, the time period of occupation is not known. One
+historical marker is recorded within a mile of the project area. The historical marker was noted
+on the 2003 revision of the Pace Hill, Texas USGS 1:24000, sheet and commemorates the 1834
+municipality of Bevil, an important river shipping and trade point established along the Angelina
+River.
+Table 2-2. Previously Recorded Sites within One Mile of Project Area at Lake B.A. Steinhagen
+
+2.3
+
+Trinomial
+
+Recorder, Date
+
+Setting
+
+Site Area
+
+41JP5
+
+Arnold, 1940
+
+Bluff
+
+4,047 m
+
+2
+
+Site Type
+
+Age
+
+Period
+
+Campsite
+
+Prehistoric
+
+Unknown
+
+CULTURAL FRAMEWORK
+
+The archeological regions of Texas vary depending on what research is used in determining the
+cultural framework of the project area. In some cases, such as in Turner and Hester (1993),
+Texas is divided in to nine archeological regions, whereas, Perttula (2004) further divides these
+regions, based on physiographic zones and biotic communities, into 16 distinct archeological
+regions. Based on Turner and Hesterâs divisions of the archaeological regions of Texas, the
+project is located in the East Texas archaeological region, whereas in Perttulaâs (2004)
+archaeological regions in the state of Texas model, the project area is located in Deep East
+Texas. Whatever that case may be, both models of the archaeological regions of Texas are
+correct, however Perttulaâs division better suits the project area ecologically and
+
+Ecological Communications Corporation
+
+17
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+physiographically. For the purpose of this report, Perttulaâs (2004), model will be used in
+discussing the cultural framework of the region.
+The prehistoric cultural framework of the Deep East Texas region includes the Paleo-Indian
+period, Archaic and Woodland periods, and periods of Caddo horticultural adaptation. Much of
+the information known about this region has been recorded by many archeological
+investigations, beginning in the 1930âs. This cultural framework, discussed further below, has
+been adapted from Kenmotsu and Perttula (1993) and Perttula (1993a, 1993b, 1995, 2004).
+2.3.1
+
+Paleoindian Period
+
+The Paleoindian period describes the time in which North America was first occupied by peoples
+migrating from the Old World. The occupation of the New World is due in part to the migration
+of extinct fauna (e.g. bison, camel, and horse) across the newly open lands and the people who
+followed them, relying on these animals for everyday subsistence. Although this portrayal of the
+early occupants of North America is generally accepted among some archeologists, others see
+the Paleoindian period as a time in which Pleistocene peoples are separated into Early and Late
+stages between ca. 12,000â8,000 B.P. based on cultural traditions of tool technologies (Bousman
+et al. 2004).
+These stages differ from area to area and region to region depending on the data recorded in
+those regions. There is a lack of good data in East Texas relating to the Paleoindian Period (ca.
+9500 to 7000 B.C.). While many projectile points such as Clovis, Plainview, Dalton, Scottsbluff,
+and San Patrice have been recovered, most were isolated, mixed, found on the surface, or found
+in excavations of later contexts (Perttula 2004). The distribution of artifacts suggests that most
+sites occur within the valleys of major stream basins and resource-rich areas. Available evidence
+suggests that groups occupied small camps, used a generalized toolkit, and were more likely to
+be highly mobile hunters and gatherers rather than specialized large-game hunters (Perttula
+2004).
+2.3.2
+
+Archaic Period
+
+The Archaic stage signifies a shift from big-game hunting subsistence strategies to a less mobile,
+more generalized subsistence strategy. This change in subsistence strategies shows a greater
+exploitation of local environments with the exploitation of plants and animals located in the
+immediate vicinity. Along with the change in subsistence, a change is also seen in lithic
+technology. Evidence of this is apparent in the archaeological record where lanceolate-shaped
+points gave way to dart points that were stemmed and barbed and the application of groundstone
+(Collins 2004). Although Archaic peoples were still nomadic in nature, travel became more
+seasonal, utilizing food resources specific to certain localities.
+In Texas, the Archaic period is thought to have lasted approximately 7,500 years, from 8800 to
+about 1200 B.P or 1300 B.P. and is divided into three sub-stages: the Early Archaic 8800â6000
+B.P., the Middle Archaic 6000â4000 B.P., and the Late Archaic 4000â1200 B.P. or 1300 B.P.
+
+18
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+(Collins 1995). However, in the East Texas archaeological region, reliable dating is not yet
+available to unequivocally substantiate these different periods.
+During the Early Archaic period the climate has changed from wet and mild conditions seen in
+the Paleoindian stage, to a warmer and drier climate, ultimately leading to severe xeric
+conditions during the middle stages of the Early Archaic. These climate changes forced the
+peoples of the Early Archaic to broaden their subsistence strategies from hunting bison to include
+the exploitation of resources such as acorns, fruits, rodents, deer, and prickly pear (Story
+1985:38â39; Weir 1976). Settlement patterns also change during the Early Archaic. Sites are
+smaller and more widely distributed, suggesting high group mobility within large territories.
+Although most Early Archaic sites are only briefly used, they are apt to be concentrated in the
+larger drainage areas in the region (Perttula 2004).
+The Middle Archaic is characterized by larger sites within major basins in the region, a more
+diverse hunting toolkit, the use of ground and polished stone tools, and the increased use of plant
+foods as indicated by grinding implements and burned rock features. Possible hearths, ovens and
+burned rock concentrations in the region suggest processing and cooking of plant resources was
+important (Perttula 2004).
+Throughout East Texas, Late Archaic period sites are relatively common along major streams
+and springs in the uplands and on tributary drainages. During the Late Archaic population
+density may have peaked, as evidenced by the apparent increase in the number of sites and
+greater distribution of sites over the landscape. The large number and widespread distribution of
+sites also suggests limited group mobility, the possible use of more defined territories, and
+regular exploitation of localized food resources (Perttula 2004).
+2.3.3
+
+Woodland/Early Ceramic Period
+
+The Woodland Period (ca. 200 B.C. â A.D. 800) is not well defined but is largely identified by
+plainware ceramics, tempered with clay/grog or bone, and by Gary projectile points. At sites
+near the Red River, artifact assemblages are largely made up of ceramics, while at other sites in
+Northeast Texas, such as near the Sulphur and Sabine rivers, ceramics are not as common. One
+explanation for this difference may be possible regional differences in food processing and diet
+during this time period, all of which may have an effect on the degree of sedentism between
+regions (Perttula 2004).
+To date, archeological evidence suggests that Woodland populations were hunters and gatherers
+living in larger groups and settling in given locations for longer periods of time than they had
+during the Archaic period. There are some instances (e.g., Skibo and Blinman 1999) in which
+pottery making is linked to sedentism, perhaps giving reason to these long stays. In some cases,
+such as at the Ray site, small settlements with structures and middens suggest a more
+concentrated occupation, but these sites are not as permanent as those seen at later Caddo period
+sites in the region (Perttula 2004). With the exception of the Sulphur and Neches-Angelina
+River Basins, Woodland sites are not very common throughout much of Northeast Texas, but
+when they occur, are represented by villages and hamlets in the floodplains or terraces of larger
+
+Ecological Communications Corporation
+
+19
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+streams, and by smaller components in the uplands. No Woodland period burial mounds have
+been documented in the region.
+2.3.4
+
+Formative Caddoan Period and Early Caddoan Period
+
+Sites dating to the Formative Caddoan Period (ca. A.D. 800-1000) and Early Caddoan Period
+(ca. A.D. 1000-1200) are located primarily in the uplands just adjacent to major streams and
+smaller tributaries and springs. Settlement locations with fertile soils and good drainage were
+primarily chosen for habitation and cultivation of maize, squash and native plants. Permanent
+settlements including structures, middens, pits, cemeteries, and artifacts such as tools and
+ceramics were widespread. Common settlements in the region include hamlets and farmsteads
+with rectangular and circular structures, many with associated cemeteries. In addition to small
+farmsteads, larger communities such as the George C. Davis site on the Neches River are also
+encountered. These large villages are more common during the Early Caddoan Period and
+continue through the Middle Caddoan period, and include large groups of many structures,
+mound centers, and elite burial pits. Distinctive artifacts such as celts, ceramic pipes and
+earspools, and diversely decorated ceramic bowls and jars are commonly recovered from
+Formative and Early Caddoan sites (Perttula 2004).
+2.3.5
+
+Middle Caddoan Period
+
+The majority of archeological sites in Northeast Texas date to the Middle Caddoan Period (ca.
+A.D. 1200-1400). These sites continue the trend of diverse ceramic artifacts and larger settlements
+with multiple mounds seen at the end of the Early Caddoan Period. One example of such a site is
+the Oak Hill Village (41RK214), a large village with mounds, middens, and public structures.
+Cultivation of maize and squash continued, but there is no evidence of dependence on maize and
+other crops until after A.D. 1300 (Perttula 2004).
+2.3.6
+
+Late Caddoan Period
+
+Archeological sites that date to the Late Caddoan Period (ca. AD 1400-1680) are abundant in
+Northeast Texas. Late Caddoan sites are predominantly found in river basins such as the Red,
+Cypress Creek, and Neches River basins. Smaller groups of sites are present in the Angelina,
+Attoyac, middle and upper Sabine, and lower Cypress Bayou basins. Most Late Caddoan Period
+archeological sites are either large permanent communities, or smaller farmsteads, both with
+associated cemeteries. Late Caddoan period earthen mounds were constructed and primarily
+used between A.D. 1400-1540, except in the Red River, where mound construction and mound
+shaft burials continued until 1650 or 1700 (Kenmotsu and Perttula 1993). Stable isotope and
+bioarcheological evidence from the region indicate that at this time Caddo peoples were heavily
+dependent on maize as their main dietary staple.
+The Late Caddoan Titus Phase (ca. A.D. 1430-1680) refers to the archeological remains of
+Caddoan peoples living in the northeastern Texas pineywoods between the Sulphur and Sabine
+rivers. These Caddos lived in a hierarchical and elite-controlled society. They constructed both
+small settlements with family cemeteries and large settlements with status-ranked community
+20
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+cemeteries, and made culturally distinct and diverse ceramics. Titus phase sites usually are
+found on valley terraces and upland slopes, projections, and basins, and permanent settlements
+are usually located near freshwater springs (Perttula 2004).
+2.3.7
+
+Historic Period
+
+Historic Caddoan Period
+The Historic Caddoan period (ca. AD 1680-1860) is defined as the sustained European presence
+in and occupation of the Caddoan area by Europeans in the region. It is during this time period
+that the Caddo and all other Native American groups except the Alabama and Coushatta were
+eventually moved from Texas to the Indian Territory. Most Historic Caddoan settlements in the
+region were small farmsteads and hamlets with associated household cemeteries. Communities
+were composed of many of these farmsteads spread out over large territories. Artifacts
+recovered from these sites include a wide variety of Caddoan ceramics, basketry, ornaments, and
+bone, stone, and wooden tools. European goods are commonly found on Historic Caddoan sites
+after ca. A.D. 1740 and include guns and gun parts, glass beads, and metal items such as kettles,
+hatchets, knives, hoes, lead balls, and silver, brass, and copper ornaments (Kenmotsu and
+Perttula, 1993).
+European Exploration and Historic Periods
+The area around the future Lake Sam Rayburn was re-inhabited by Antonio Gil Ibarvo and his
+fellow settlers in 1779 at the location of the previously abandoned mission in the Nacogdoches
+area. Areas to the southeast of Nacogdoches along the Angelina River, called the Ayish Bayou
+District, were also settled by the Spanish in the late eighteenth century. Shortly after
+Nacogdochesâ founding, Ibarvo built a building called the âOld Stone Fortâ for business and
+administration, and the settlement became a center for illegal trade between Spanish, French, and
+Americans (Long 2005; McDonald 1981). Throughout the eighteenth and nineteenth centuries
+Nacogdoches was the central location of politics in East Texas. The town was sacked by JoaquÃ­n
+de Arredondo around 1812 for housing supporters of Augustus Magee and Bernardo GuitiÃ©rrez.
+It became the stage for a battle in 1832 that helped instigate the Texas Revolution, as well as the
+center of the CÃ³rdova uprising 1838 (McDonald 1981).
+San Augustine, the only other densely inhabited area during this time period, also participated
+heavily in political activities and conflicts (Crocket 1932). Although the region was constantly
+contested in the 1820s and 1830s, Anglo-American settlers continued to come and set up farms
+in what would become Nacogdoches, Angelina, San Augustine, Tyler, and Jasper Counties.
+Bevilâs Settlement, later called Jasper, was founded in 1824 by John Bevil and became the
+county seat of Jasper County in 1844 (Smith 1979). The first ferry and port town in the area,
+Town Bluff, was settled on the Neches River in 1833 as part of the Lorenzo de Zavalaâs colony.
+Woodville was established in 1846 when Tyler County was formed and quickly established itself
+as the county seat.
+
+Ecological Communications Corporation
+
+21
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+By 1844, after the Regulator-Moderator War in the east, most of the area had seen the last of
+openly violent conflict (McCroskey 2002). However, a new conflict was brewing that eventually
+erupted into the Civil War. The region was settled mostly by Southerners who carried the slaverun plantation culture with them; but, unlike their neighbors to the north, much of the
+environment was not conducive to cotton production, so many who remained in the area were
+poor farmers with few or no slaves, relying on subsistence agriculture, corn, and hogs, as well as
+some tobacco, rice, and cattle. Steamboats ferried corn, cotton, and other products down the
+Angelina and other navigable rivers to markets in the east, and many towns derived their income
+from port fees. As a result, the reaction of the regionâs inhabitants to secession was mixed. The
+Mexican population in Nacogdoches did not approve of secession, but the area eventually voted
+to support the cause (Long 2005). Angelina County was one of the few counties in the state to
+reject secession altogether (Boon 1937). The other counties to the south and east stuck to their
+Southern roots and supported the action, sometimes by an overwhelming margin. Once the Civil
+War began, all the inhabitants of the region supported the Confederate Army, supplying troops
+and some iron goods. San Augustine was occupied by Confederate troops to guard against
+invasion, but no battles were fought in the area.
+Nacogdoches, Woodville, and Jasper were occupied by Union troops during Reconstruction, and
+some KKK-like organizations were formed to force African-American activists out of the area;
+however, these organizations dissolved soon after they were created. The region suffered
+economically after the Civil War, and it did not begin to recover until the railroads were built in
+the 1880s. All but San Augustine County had railroads built by the end of the nineteenth
+century, and this mode of transportation enabled lumbering to be developed in full force. Towns
+such as Colmesneil, Rockland, Browndell, Zavilla, and Broaddus sprung up around new
+sawmills, and existing towns began to harvest nearby timber for a new source of income (St.
+Clair and St. Clair 1982; Wooster 2001). However, poor timber renewal practices and the
+Depression caused timber sales to plummet in the 1930s, and several small towns were deserted.
+In most areas, livestock raising began to replace what little cotton production was present, and
+modest oil extraction was developed to support the economy in Nacogdoches and Jasper
+Counties. However, the primary economy remained agricultural, and the people maintained a
+steady rural lifestyle. Timber harvesting was revived during and after World War II but not to
+the extent of previous years. Other areas began planting sugar cane, raising poultry, and
+manufacturing tung (to make lacquer). Lake Sam Rayburn was completed in 1965, and tourism
+helped to revive the regional economy.
+
+22
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+3.0
+
+METHODS
+
+The archeological field inventory was conducted over a period of 10 workdays between October
+17-26, 2007. Approximately 40 person-days were spent in the field. Methods and density of
+shovel testing complied with, or exceeded, the minimum requirements for field tactics stipulated
+by the USACE for archeological inventories in east Texas (USACE 2007:39-51).
+3.1
+
+SURVEY TACTICS
+
+For each parcel, a logistical plan was prepared in advance with transect lines indicated at 20 m
+intervals on aerial photographs. Each field archeologist was given a copy of the aerial and was
+assigned a transect line and a targeted number of shovel tests. Transect lines were designated
+with an alpha prefix and individual shovel tests along each transect line were numbered, so that
+shovel test G-5 identified the fifth test along the seventh transect (Transect G). In general, each
+crewmember followed his/her own transect, walking in parallel with the other crewmembers.
+Occasionally, for logistical reasons, two crewmembers doubled up with one person digging the
+shovel tests and another screening and recording the field forms, or two crew members would
+âleapfrogâ along one transect, each digging alternating shovel tests. While approximately even
+coverage was attempted, surveyors deviated from transect alignments in order to test high
+probability locations. Tests were selectively placed on landforms shown by previous research to
+be preferred site locations, such as ridgelines, knolls, and promontories. Areas of obvious deep
+disturbance, such as bulldozing, were noted on the field maps and were excluded from shovel
+testing. Similarly, areas that were completely inundated were excluded from transect coverage,
+including low swampy areas, ponds, and all areas underneath current lake levels.
+Recent debris, such as aluminum cans, beer bottles and plastic detritus, was commonly observed,
+especially along shorelines at both lakes. No further attention was paid to such items clearly less
+than 50 years old.
+At all positive shovel tests and at selected other tests, GPS readings were taken to verify transect
+and shovel test locations. All shovel tests were 30 to 35 cm in diameter. All tests were dug to
+the bottom of the Holocene deposits as indicated by clay, or to 80 cm below ground surface if no
+clay was present. Tests were individually recorded with regard to depth, soil type and color, and
+cultural material present. Tests were dug in natural stratigraphic levels not exceeding 20 cm in
+thickness and all excavated material was screened through Â¼-inch (6.4 mm) mesh.
+All cultural material within shovel tests was collected with the exception of recent objects such
+as bottle glass shards, nails, and aluminum pop-tabs. These were assumed to indicate recent
+disturbance and were not collected. All shovel tests were backfilled.
+Each positive shovel test was further investigated by excavating additional shovel tests in the
+immediate vicinity at 5 to 15 m distances for up to six tests in an area. If more than one of these
+tests were positive or if more than two artifacts were found in any single test, then the location
+was designated as a site. Otherwise, the positive test was designated as an isolated occurrence.
+The coordinates of isolates were plotted and the artifacts were collected, but these were not
+further recorded. The recorded locations of previously recorded sites were similarly investigated
+
+Ecological Communications Corporation
+
+23
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+using multiple shovel tests. On each site a permanent site datum was established using a 12-inch
+iron re-bar fixed with an aluminum tag. Tags were stamped with âECOMM 2007â and with a
+temporary field site number for newly recorded sites.
+Site boundaries were delineated by excavating multiple shovel tests in the area to identify zones
+of zero or low artifact presence. Generally, these were in cardinal directions from the initial
+positive test, unless topography suggested an alternative tactic. Site boundaries were defined on
+the basis of subsurface artifact distribution, complemented by surface artifacts and features
+(where present), topography, soil exposures, and other relevant criteria. Additionally, sites along
+the shoreline were visually inspected for artifact distribution, and site size was determined by the
+extent of the surface artifacts. Based on the distribution of negative shovel tests or absence of
+surface artifacts, site boundaries were prominently marked with fluorescent pink flagging tape.
+Sites were photographed, sketched and mapped, and all site data were recorded onto State of
+Texas site data forms. All recovered artifacts were processed and analyzed by the authors of this
+report in ECommâs Austin laboratory. Artifacts, notes and records will be curated at TARL.
+Appendix A presents aerial photographs of each survey parcel showing the locations of all
+transects and shovel tests. Appendix B summarizes typical soil profiles within the several survey
+parcels. Site locations are depicted on USGS topographic quadrangles in Appendix C, and
+completed State of Texas site forms are presented in Appendix D.
+3.2
+
+DENSITY OF SHOVEL TESTING
+
+The contractual scope of work issued by the USACE specified that at a minimum, one shovel test
+was to be excavated per three acres (0.33 tests per acre). Using this rate of coverage, a minimum
+of 293 shovel tests was required to inventory the 878 acres (Table 3-1). Field crews attempted to
+exceed this rate of coverage and at the conclusion of field work, a total of 523 shovel tests had
+been dug. This number exceeds the required minimum by 230 tests (27 percent). Intensity of
+shovel testing varied from parcel to parcel depending on ground visibility, vegetation and
+topography. Shovel testing density varied from a minimum of 0.46 tests per acre at the Buck
+Branch parcel at Lake Sam Rayburn to a maximum of 1.02 tests per acre at the Mouth of Carizzo
+Bayou parcel at Lake Sam Rayburn. For the project as a whole, final coverage averaged 0.60
+tests per acre.
+Table 3-1. Shovel Testing Summary.
+Lake
+Lake Sam Rayburn
+
+Acres
+Inventoried
+
+Tests Dug
+
+Tests per
+Acre
+
+Sandy Creek
+
+130
+
+81
+
+0.62
+
+Powell Point
+
+95
+
+52
+
+0.55
+
+Mouth of Carizzo Bayou
+
+41
+
+42
+
+1.02
+
+Buck Branch
+
+39
+
+18
+
+0.46
+
+Inventory Parcel
+
+Lake Subtotal
+Lake B.A. Steinhagen
+
+Forks of the Rivers
+
+305
+573
+
+Lake Subtotal
+Total
+
+24
+
+193
+330
+
+573
+878
+
+330
+523
+
+0.63
+0.58
+0.58
+0.60
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+3.3
+
+ARCHIVAL RESEARCH
+
+Archival research was conducted on those sites where archeological evidence indicated an
+occupation during the historic period. The purpose of the archival research was to identify
+historically notable persons possibly associated with each site. Initial archival research was
+carried out by examining the primary sources in the deed, land title, and probate records. The
+landowners, their heirs, assigns, and grantees were identified. This research was conducted in
+San Augustine, Texas for San Augustine County.
+The identified persons were then further researched for historic significance. Individuals of
+historic significance were defined as those who have merited an individual listing in The
+Handbook of Texas Online published by the Texas State Historical Association and the General
+Libraries of the University of Texas at Austin. If a person of historical significance was in any
+way associated with the properties, capsule biography information was compiled and the nature
+of the personâs relationship with the area and the tracts was further researched to determine the
+level of the personâs involvement. Persons residing on a piece of property and/or actively
+participating in its development were determined to be significantly associated with the property.
+Persons owning a piece of property but not residing there nor actively participating in its
+development (eg., absentee owners) were determined to be not significantly associated with the
+property.
+3.4
+
+EVALUATION OF SIGNIFICANCE
+
+Historic properties may be nominated for the NRHP, or may be determined eligible for such
+nomination, under evaluation criteria that are expressed at 36 CFR Â§ 60.4.
+The quality of significance in American history, architecture, archeology, engineering
+and culture is present in districts, sites, buildings, structures, and objects that possess
+integrity of location, design, setting, materials, workmanship, feeling, and association
+(36 CFR Â§ 60.4).
+Significance is further defined in four criteria. Cultural resources are considered significant if:
+(a) they are associated with events that have made a significant contribution to the broad
+patterns of our history; or
+(b) they are associated with the lives of persons significant in our past; or
+(c) they embody the distinctive characteristics of a type, period or method of construction,
+or that represent the work of a master, or that possess high artistic values, or that
+represent a significant and distinguishable entity whose component may lack individual
+distinction; or
+(d) they have yielded, or may be likely to yield information important in prehistory or
+history (36 CFR Â§ 60.4).
+
+Ecological Communications Corporation
+
+25
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Cultural resources may qualify for inclusion on the NRHP under any of the four evaluation
+criteria. In this study, prehistoric sites were evaluated for significance and with respect to NHPA
+criterion (d). The demonstrated data content of each site was compared to the important research
+contexts as outlined above. Sites in good condition and state of preservation and having several
+data types bearing on one or more of the research contexts were evaluated as significant under
+criterion (d). Those sites that were observed to be in poor condition or state of preservation
+and/or sites with no data types bearing on one or more of the research contexts were evaluated as
+not significant. Finally, sites whose expression could not be satisfactorily investigated using the
+survey level tactics employed by this study were classified as being of unknown significance.
+Historic sites, in addition to being evaluated under criterion (d) as described above, were also
+evaluated for NRHP eligibility with respect to criterion (b). Because none of the historic sites
+retained any architectural elements, criterion (c) was not applicable. Similarly, none of the sites
+are associated with important historical events and so criterion (a) was not applicable.
+
+26
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+4.0
+
+RESULTS AT LAKE SAM RAYBURN
+
+Within the four parcels at Lake Sam Rayburn, the inventory surveyed a total of 305 acres,
+recording one site each in the Sandy Creek and Mouth of Carizzo Bayou parcel (Table 4-1).
+Locations of transects and shovel tests are depicted in Appendix A. Site locations are depicted
+on USGS topographic quadrangles in Appendix C (CD-ROM), and completed State of Texas site
+forms are presented in Appendix D.
+Table 4-1. Summary of Sites at Lake Sam Rayburn.
+Parcel
+Buck Branch
+Mouth of Carizzo Bayou
+Powell. Point
+Sandy Creek
+
+4.1
+
+Field number
+none
+EComm 103
+none
+EComm 101
+
+Trinomial
+41NA305
+41SA290
+
+Dimensions
+140 x 80 m
+160 x 120 m
+
+Acres
+2.77
+4.74
+
+Site Type
+Prehistoric
+Historic
+
+Period
+Archaic
+th
+Early 20 C
+
+POWELL POINT
+
+The Powell Point inventory area totaled 95 acres and was inventoried using 52 shovel tests for a
+density of 0.55 shovel tests per acre. No cultural resources were observed on the ground surface
+and all shovel tests were negative; no cultural resource sites are present within the parcel. A
+typical landscape is shown in Figure 4-1, with the main access road bordering the parcel on to
+the southeast shown in the foreground and the inventory parcel to the left. An aerial photograph
+showing the locations of all shovel tests excavated within the inventory area is provided in
+Appendix A.
+
+Figure 4-1.
+
+Ecological Communications Corporation
+
+Powell Point project area, facing east.
+
+27
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+4.2
+
+BUCK BRANCH
+
+The Buck Branch inventory area totaled 39 acres and was inventoried using 18 shovel tests for a
+density of 0.46 shovel tests per acre. No cultural resources were observed on the ground surface
+and all shovel tests were negative; no cultural resource sites are present within the parcel. A
+typical landscape is shown in Figure 4-2. An aerial photograph showing the locations of all
+shovel tests excavated within the inventory area is provided in Appendix A.
+
+Figure 4-2.
+
+4.3
+
+Buck Branch project area, facing southwest.
+
+SANDY CREEK
+
+The Sandy Creek area totaled 130 acres and was inventoried using 81 shovel tests for a net
+density of 0.62 shovel tests per acre. The survey within the parcel resulted in the discovery of
+one new historic site, 41SA290.
+Site 41SA290
+Site 41SA290 (ECOMM 101) is a newly discovered early twentieth century homestead that also
+contains an unidentified prehistoric component located in the southeastern portion of the Sandy
+Creek parcel. The site is at an elevation of 176 ft. ASL and is situated on a slightly raised terrace
+adjacent to the south of an ephemeral drainage. Site dimensions are estimated as approximately
+160 by 120 m (Figure 4-3). Vegetation noted within the site included mixed stands of hardwood
+and pine. Surface visibility was approximately 10 percent. Soils fell within the Laneville loam
+28
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+series; the typical pedon for this soil type is presented in Chapter 1. The structure associated
+with this site was probably razed after the USACE acquired the land in the mid twentieth century.
+
+Figure 4-3.
+
+Ecological Communications Corporation
+
+Site map, 41SA290.
+
+29
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Historical Research
+Site 41SA290 is located on a league of land patented by William Lakey from the Mexican
+Republic in 1835. Lakey (40 yrs), his wife, four children, and two individuals who were
+probably enslaved persons, are listed in the 1835 Census for Sabine (TxGenWeb Project 2008),
+which at that time probably encompassed Site 41SA290. Hence, it may be inferred that Lakey
+probably did occupy his league, if only for a short time, although it may be unlikely that he lived
+at the location currently designated as archeological site 41SA290. In January of 1838, he sold
+the entirety of his land to Thomas Huling, a merchant and land speculator who lived in nearby
+Jasper County (Wooster 2008). Huling appears to have subdivided the land, selling 3,321 acres
+later that year to James Espy and Alexander Piper. Espy and Piper were likely also investors;
+neither name appears on the census for San Augustine County in 1850, 1860, or 1870. In 1857
+Espy and Piper transferred ownership of the Lakey property to their sons, Kirk Espy and James
+Piper. In 1880, the heirs of Kirk Espy and James Piper sold 100 acres to Martha Shipp. Given
+the small size of the parcel compared to the more than 3,000 acres which they were originally
+deeded, it seems reasonable to assume that the heirs of Piper and Espy were subdividing the
+property into many different small farms and selling them to various landowners. The following
+year, Shipp sold the same 100-acre property to Henry Powell.
+At this point the land was probably being used as farmland. It is not known whether Powell
+lived on this land but in 1890, he sold the entire 100 acres to T.J. Jacks, a resident of San
+Augustine County. In 1880, he was a 24 year old (US Census 1880) farmer living with his wife
+and two children. He also appears to have had later interests in the neighboring land parcel to
+the south, as his name appears on deed records for that tract as well starting around 1896. In
+1895, he sold the 100-acre Lakey tract to J.H. Latimer, a 27 year old farmer. According to the
+1900 census, he did reside on this property with his wife, Mary and three children (US Census
+1900).
+In 1908, Latimer and his wife sold the 100-acre Lakey tract to J.G. Langston, who was also a
+farmer, and according to the 1910 census he too lived on this property with his wife, and two
+sons (US Census 1910). Five years later, he sold the farm to O.C Wise and his wife Lizzie. A
+deed from 1918 suggests that the Wises sold the land to another family, the Ritters; however, in
+1922 the Ritters sold the land back to the Wises. According to the 1920 census, Lizzie Wise did
+live in this part of San Augustine County, with her 12-year old twins and another 14-year old son
+(US Census 1920). The census indicates that she was a divorced head of household, and gave
+her profession as âfarm managerâ. That she was separated from her husband is confirmed by a
+certificate of divorce, dated 1948 and filed in 1950, in which she and O.C. Wise split the 100
+acres between them, with the north half going to Lizzie, and the south half going to O.C. Lizzie
+sold her half of the land to Temple Lumber Company in 1949. O.C. sold his half of the land in
+1949 to O.E. Wise (possibly, a son or brother) who sold the land to Raiford Stripling in 1951.
+Raiford Stripling was a well-known restoration architect who lived in San Augustine. Stripling
+was responsible for restoration of the kitchen and carriage house for the French Legation in
+Austin (Hafertepe 2008). Stripling, however, appears to have purchased the property for
+investment purposes; he sold the land to Temple Lumber Company in 1952.
+
+30
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+It is interesting to note that the all of the land transactions initiated by the Wises were filed
+several years after they took place. For instance, although they undertook a formal division of
+land in 1948, resulting from their divorce, the certificate was not filed until two years later.
+Moreover, the census records from 1920 suggest that their separation actually occurred well
+before that time. In a similar way, the Wises failed to file the 1922 deed, in which the Ritters
+sold the land back to them, until 1951. That deed was filed, in fact, on the same day as the deed
+in which O.C. Wise sold his half of the property to O.E. Wise, after O.E. Wise had already sold
+the land to Raiford Stripling. Though ultimately this did not impact the validity of any of the
+deed transactions, the slowness to file does offer a small glimpse into the lives and habits of the
+Wises. It suggests that they were independent people who may have shied away from legal
+interference in their affairs. Like so many rural Texans in the early twentieth century, they
+probably made deals with handshakes and nods, without the urgency to immediately formalize
+their transactions.
+The remains at Site 41SA290 relate to the time when the parcel was farmed, from around 1890
+onward, which comports with the types of artifacts and features recovered at the site. Most of
+the artifacts date to the early twentieth century, to the time when the Latimer family, J.G.
+Langston, or the Wises owned the property. By 1949, the 100-acre parcel had been broken up
+and was sold for its timber potential. Table 4-2 summarizes the chain of title for the property.
+Table 4-2.
+Date
+6/19/1835
+1/22/1838
+7/20/1838
+2/3/1857
+8/30/1880
+2/9/1882
+12/10/1892
+11/23/1895
+8/27/1908
+8/7/1913
+10/12/1918
+12/9/1922
+12/27/1948
+1/3/1949
+11/15/1949
+5/19/1951
+2/1/1952
+
+Instrument
+Patent
+Warranty
+Deed
+Warranty
+Deed
+Warranty
+Deed
+Warranty
+Deed
+Warranty
+Deed
+Warranty
+Deed
+Warranty
+Deed
+Warranty
+Deed
+Warranty
+Deed
+Warranty
+Deed
+Warranty
+Deed
+Certificate
+of Divorce
+Warranty
+Deed
+Warranty
+Deed
+Warranty
+Deed
+Warranty
+Deed
+
+Chain of Title for 41SA290
+
+Grantor
+Coahuila & St. of Texas
+William Lakey et ux
+
+Grantee
+William Lakey
+Thomas B. Huling
+
+Comments
+4428 acres
+3321 acres of Lakey Survey
+
+Thomas B. Huling et ux
+
+James Espy &
+A.M. Piper
+Kirk Espy and
+James W. Piper
+Martha Shipp
+
+3321 acres of Lakey Survey
+
+James Espy et ux,
+Mary Espy & A.M Piper et ux
+W.K. Piper, and Rectina
+Espy, Widow of Kirk Espy
+Martha Shipp
+
+3321 acres of Lakey Survey
+
+H.J. Powell
+
+100 acres of Lakey Survey (heirs
+of J. Piper and Kirk Espy)
+100 acres of Lakey Survey
+
+H.J. Powell
+
+T.J. Jacks
+
+100 acres of Lakey Survey
+
+T.J. Jacks et ux
+
+J.H. Latimer
+
+100 acres of Lakey Survey
+
+J.H. Latimer et ux
+
+J.G. Langston
+
+100 acres of Lakey Survey
+
+J.G. Langston et ux
+
+O.C. Wise
+
+100 acres of Lakey Survey
+
+O.C. Wise et ux
+
+J.S. Ritter & W.G.
+Ritter
+O.C. Wise
+
+100 acres of Lakey Survey
+
+J. S. Ritter et ux &
+W.G. Ritter et ux
+The Public
+
+100 acres of Lakey Survey
+
+O.C. Wise
+
+Lizzie Wise vs.
+O.C. Wise
+Temple Lumber
+Co.
+O.E. Wise
+
+S. Â½ of 100 acres in Lakey Survey
+
+O.E. Wise
+
+R.N. Stripling
+
+S. Â½ of 100 acres in Lakey Survey
+
+R.N. Stripling
+
+Temple Lumber
+Company
+
+S. Â½ of 100 acres in Lakey Survey
+
+Lizzie Wise
+
+Ecological Communications Corporation
+
+N. Â½ of Lakey Survey to Lizzie
+Wise and S. Â½ to O.C. Wise
+N. Â½ of 100 acres in Lakey Survey
+
+31
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Archeological Results
+Five features were observed on the surface of the site.
+Feature 1 is a circular depression measuring approximately 5 m in diameter and an estimated 50
+cm deep. Interpretation of this feature is uncertain but it may be the remnants of a collapsed root
+cellar.
+Feature 2 is a surface artifact scatter measuring about 10 m in diameter. Historic artifacts
+observed on the surface include two whole clear glass bottles, five brown snuff jars, one broken
+purple glass wine goblet, one aqua glass plate, the bottom of a white ware vessel with transfer
+decorations, three whole blue âVicks Vapo-rubâ jars, and two whiteware sherds.
+Feature 3 is the rusted cab and chassis portion of a 1915 Ford Model T truck. The wreck
+measures about 4.5 feet wide by about 9 feet long (1.5 by 3 m).
+Feature 4 is a debris pile about 40 cm in height and about 4 m in diameter. The pile is located
+about three meters southwest of Feature 1 and contains an estimated 50 sandstone cobbles.
+Associated artifacts include eight red brick fragments with the âPALMERâ makers mark.
+Feature 5 is a circular depression. It measures about 5 m diameter and is deeper than similar
+Feature 1 at 1.5 m deep. It is interpreted as a possible collapsed cellar.
+
+Figure 4-4.
+32
+
+Feature 1, 41SA290.
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Figure 4-5.
+
+Figure 2, 41SA290.
+
+Figure 4-6.
+
+Feature 3, 41SA290.
+
+Ecological Communications Corporation
+
+33
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+34
+
+Figure 4-7.
+
+Feature 4, 41SA290.
+
+Figure 4-8.
+
+Feature 5, 41SA290.
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+A surface artifact inventory was conducted to document the sites surface artifact assemblage and
+to help establish boundaries. Including artifacts recorded within the features, 150 artifacts were
+recorded on the surface (Table 4-2). Most of these were associated with Feature 2, including
+approximately 50 brown, 50 clear, and 10 cobalt blue bottle glass shards each. Fourteen shovel
+tests were excavated and cultural material was present in five tests (29 percent ubiquity). Thirtyone historic and seven prehistoric artifacts were recovered between the surface and 40 cmbs.
+(Table 4-3). Because the prehistoric artifacts were recovered at the same depth, and above, as
+the historic material, it is likely that the prehistoric component has been disturbed by either the
+historic era activities or when the site was razed.
+Table 4-3. Artifact Assemblage, 41SA290.
+
+2-4
+
+3-1
+
+3-2
+
+3-3
+
+3-4
+
+3-5
+
+9-1
+
+2-3
+
+2-2
+
+2
+
+2-1
+
+-
+
+F3 F4
+
+1-4
+
+F2
+
+1-3
+
+General
+Surface
+
+1-2
+
+Artifact type
+
+Shovel Test
+1-1
+
+Features
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Total
+
+Historic
+undecorated whiteware
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+5
+
+8
+
+window glass
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+2
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+2
+
+aqua glass
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+-
+
+6
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+8
+
+milk glass
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+clear bottle glass
+
+-
+
+~50
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+51
+
+brown bottle glass
+
+-
+
+~50
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+52
+
+cobalt blue glass
+
+-
+
+~10
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+10
+
+purple glass
+
+-
+
+5
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+5
+
+clear glass bottle
+
+-
+
+3
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+3
+3
+
+Vicks Vap-O-Rub bottle
+
+-
+
+3
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+brown snuff bottles
+
+3
+
+5
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+8
+
+purple glass goblet
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+clear glass plate
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+blue enamelware bowl
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+metal wash basin
+
+2
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+2
+
+wire nail
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+3
+
+-
+
+-
+
+1
+
+-
+
+4
+
+metal can fragments
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+5
+
+-
+
+5
+
+metal canister
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+metal lid
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+red "PALMER" bricks
+
+-
+
+-
+
+-
+
+-8
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+8
+
+1915 Model T truck cab
+
+-
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+Model T suspension
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+metal bed frame
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+interior flake
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+3
+
+-
+
+-
+
+2
+
+-
+
+5
+
+exterior flake
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+2
+
+-
+
+-
+
+-
+
+-
+
+2
+
+sandstone pendant
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+-
+
+-
+
+-
+
+-
+
+1
+
+fire-cracked chert
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+2
+
+-
+
+2
+
+~130 1
+
+8
+
+0
+
+0
+
+0
+
+0
+
+3
+
+1
+
+15
+
+0
+
+0
+
+9
+
+0
+
+0
+
+10
+
+0
+
+188
+
+-
+
+Prehistoric
+
+Total
+
+11
+
+Analysis of manufacturing date ranges for all diagnostic artifacts suggests that the site appears to
+have been occupied sometime within a 40 to 50 year time span between 1902 and 1943 or 1952
+
+Ecological Communications Corporation
+
+35
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+(Table 4-4). These dates correlate with the earliest possible manufacture date of the Palmer
+bricks (1902) and the sale of the property in 1949 to the Temple Lumber Company (see previous
+discussion). Based on the artifact data, which reflects a broad period spanning several different
+landowners, and based on the historical background information that suggests no persons or
+events of exceptional significance are associated with this property, it is recommended that Site
+41SA290 is not eligible for listing on the National Register of Historic Places under any criteria.
+Table 4-4. Diagnostic Artifacts, 41SA290
+
+Item
+
+N
+
+Size
+(in)
+
+Makers Mark
+
+Manufacture
+Dates
+
+12 oz. beer bottle (brown glass)
+
+1
+
+8 x 2.5
+
+Streator Bottle & Glass Co.
+
+1881-1905
+
+Snuff Jar
+
+8
+
+4 x 2.5
+
+Probable Levi Garrett & Sons
+
+1900+
+
+Whiteware Plate
+
+1
+
+6 x 10
+
+Harker Pottery Co.
+
+1890-1972
+
+Red Brick Fragments
+
+8
+
+4x3
+
+Palmer Pressed Brick Co.
+
+1902-1929
+
+Ford Model-T truck cab
+
+1
+
+9x5
+
+-
+
+1915
+
+Medicine Bottle (clear glass)
+
+1
+
+4.5 x 2
+
+Hazel-Atlas Glass Co.
+
+1920-1964
+
+screw top
+
+Vicks Vap-O-Rub Bottle
+
+3
+
+2.5 x 3
+
+Maryland Glass Co.
+
+1921-1970
+
+screw top
+
+Medicine Bottle (clear glass)
+
+1
+
+6.5 x 3.5
+
+3 Rivers Glass Co.
+
+1925-1937
+
+screw top
+
+Whiskey Bottle (clear glass)
+
+1
+
+7.5 x 2.5
+
+Diamond Glass Co.
+
+1924+
+
+Notes
+The Herman Lackman
+Brewing Co. Cincinnati O.
+2, 3, and 4 dots on base
+semi porcelain
+
+cab has no roof
+
+mold seam to lip; post
+mold base
+
+Identified with reference to BLM 2007; Kovel 1986; Munsey 1970; Steinbommer 1983; Toulouse 1971
+
+4.4
+
+MOUTH OF CARIZZO BAYOU
+
+The Mouth of Carizzo Bayou area totaled 41 acres and was inventoried using 42 shovel tests for
+a density of 1.02 shovel tests per acre. The survey within the parcel resulted in the discovery of
+one prehistoric site (41NA305).
+Site 41NA305
+Site 41NA305 (ECOMM 103) is a prehistoric campsite dating to the archaic period located on the
+western portion of the Mouth of Carizzo Bayou parcel (Figures 4-9 and 4-10). Site dimensions
+are estimated as approximately 140 by 80 m. The site is topographically situated on an elevated
+terrace (170 ft ASL) that forms a peninsula that extends northward into the mouth of Carrizo
+Creek which joins Lake Sam Rayburn west of the site. Soils within the site fell within the
+Attoyac fine sandy loam series; the typical pedon for this soil is presented in Chapter 1.
+Vegetation within the site consisted of mixed stand of hardwoods and pine. The portion of the
+site in proximity to the lake has been slightly impacted by erosion, and surface visibility was 10
+percent.
+
+36
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Figure 4-9.
+
+Site Map, 41NA305.
+
+The site was discovered at the location of shovel test 6-3 . Twelve additional shovel tests were
+excavated for a total of 13 tests (Table 4-5). Artifacts were recovered from nine of the 13 tests
+for a ubiquity measure of 69 percent. The assemblage consists of 14 lithic flakes, one core
+fragment, and one projectile point in two probable components between 0-20 and 40-100 cmbs.
+A small fragmentary burned bone specimen was collected in test E between 60-80 cmbs. In
+addition, two sandstone fire-cracked rock and some charcoal staining was observed in test 8-2
+between 80-100 cmbs. All lithic material was manufactured from either petrified wood or chert
+colored red, brown, and white. Sterile clay was encountered at depths between 60-100 cmbs.
+
+Ecological Communications Corporation
+
+37
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Figure 4-10.
+
+Site 41NA305, facing east.
+
+The excavated projectile point is nearly complete but has a flaking scar that has removed a small
+portion of the stem (Figure 4-11). The point is roughly flaked with a small amount of beveling
+along the right edge of both faces. Total length of the artifact is 4 cm; maximum width is 1.90
+cm; stem width is 1.15 cm; maximum body thickness is 0.80 cm. The material is petrified wood
+with small amounts of cortex visible on the body. The point resembles a Yarbrough (Suhm and
+Jelks 1989: 261-262; Turner and Hester 1993:197) which is dated to the Archaic.
+Table 4-5. Shovel Test Results, 41NA305.
+Depth
+(cmbs)
+0-20
+20-40
+40-60
+60-80
+80-100
+100+
+Totals
+
+Shovel Test
+6-3
+2IF
+-
+
+5N
+-
+
+5W
+PP
+-
+
+8-2
+-
+
+A
+-
+
+B
+-
+
+C
+-
+
+cl
+
+cl
+
+cl
+
+IF
+2 FCR
+charcoal
+cl
+3
+
+Core
+cl
+
+cl
+
+EF
+cl
+
+2
+
+0
+
+1
+
+1
+
+0
+
+1
+
+D
+4IF,
+2AD
+cl
+
+6
+
+E
+IF
+-
+
+F
+-
+
+G
+-
+
+H
+-
+
+I
+-
+
+Total
+
+Bone
+
+cl
+
+cl
+
+IF, EF
+cl
+
+EF
+cl
+
+11
+2
+
+cl
+2
+
+0
+
+0
+
+2
+
+1
+
+4
+0
+
+2
+0
+19
+
+Shading indicates an excavated level.
+KEY: cl=clay, EF=exterior flake, IF=interior flake, PP=projectile point, AD=angular debris; FCR-fire cracked rock
+
+38
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Figure 4-11.
+
+Ecological Communications Corporation
+
+Yarbrough Projectile Point, 41NA305.
+
+39
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+40
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+5.0
+
+SUMMARY AND RECOMMENDATIONS
+
+This cultural resources inventory investigated four parcels at Lakes Sam Rayburn and B.A.
+Steinhagen in Jasper, Nacogdoches, and San Augustine County. The parcels ranged in size from
+39 acres (Buck Branch) to 573 acres (Forks of the Rivers), and the total area inventoried was 878
+acres. Field methods included a pedestrian inventory at 20 m intervals accompanied by
+excavation of 523 shovel tests. Shovel tests were approximately 30 cm in diameter and were dug
+to either the clay horizon or to 80 cm below the surface. Overall testing density for the project
+was 0.60 tests per acre (or, 1.6 acres per test).
+The inventory documented two new archeological sites. No intact historic building or structure
+greater than 50 years old was present in any of the inventory areas. Site 41SA290 is considered
+not eligible for the NRHP, and no further work is warranted. The eligibility of site 41NA305 is
+considered unknown and further work is necessary to determine eligibility (Table 5-1).
+Table 5-1. Site Summary and Recommendations.
+
+Site
+
+41SA290
+
+41NA305
+
+Site Type
+
+Temporal
+Component
+
+Historic
+Homestead
+
+Early 20th
+Century
+
+Unknown
+Prehistoric
+
+Unknown
+Prehistoric
+
+Prehistoric
+Campsite
+
+Archaic
+
+Features
+Historic dump;
+2 Depressions,
+Rock Pile,
+Model T Cab
+
+none
+
+Site
+Size
+(m)
+
+NRHP
+Eligibility
+
+Recommendations
+
+Poor
+
+Not
+eligible
+
+No
+Further
+work
+
+Good
+
+Unknown
+
+Avoid
+
+Depth
+(cmbs)
+
+Subsurface
+artifacts
+
+Integrity
+
+160 x
+120
+
+0-40
+
+38
+
+140 x
+80
+
+0-20;
+40-100
+
+19
+
+Site 41SA290 is the location of a razed early twentieth century homestead that also contains an
+prehistoric component of unknown age. Five features was observed on the surface during the
+pedestrian survey including a historic surface dump deposit, two circular depressions, one rock
+pile, and a 1915 Model T truck cab. Fourteen shovel tests were excavated; cultural material was
+present in five tests (29 percent ubiquity), with 31 historic and 7 prehistoric artifacts recovered
+between the surface and 40 cmbs. Due to the fact that historic artifacts were recovered at the
+same depth (and below) as the prehistoric material encountered during shovel testing, the
+prehistoric component of the site has in all likelihood been impacted by either historic era
+activities or when the site was razed. Analysis of the artifact assemblage suggests that the site
+was occupied sometime between 1902 and 1949. Archival research indicated that the site was
+not associated with any historically significant individual. Based on the low integrity of deposits
+and the results attained from archival research, EComm recommends that the site is not eligible
+for nomination to the NRHP, and no further work is warranted.
+Site 41NA305 is a newly recorded prehistoric campsite located on an elevated terrace that forms
+a peninsula that extends north into Carizzo Creek. Thirteen shovel tests were excavated and
+artifacts were recovered from nine of the 13 tests. Vertical distribution of artifacts suggests two
+possible components: four artifacts were recovered between 0-20 cmbs and 15 were recovered
+between 40-100 cmbs. Artifacts recovered included 14 lithic flakes, one core fragment, and one
+Yarbrough projectile point which dates the upper component to the Archaic period. In addition,
+Ecological Communications Corporation
+
+41
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+two sandstone fire-cracked rock (FCR), charcoal, one burned bone fragment, were recovered and
+charcoal staining was observed. The presence of buried deposits of both FCR and faunal
+remains and the charcoal suggests that the site may have the potential to provide significant
+information regarding the prehistoric adaptation and subsistence strategies employed by the
+inhabitants of East Texas during the Archaic. However, based on the limited shovel testing
+tactics employed during the surface inventory, the overall character of the site is unknown and
+the research potential and NRHP eligibility of the site are therefore also unknown. EComm
+recommends that the site be avoided until additional investigations can test the research potential
+and NRHP eligibility of the site.
+
+42
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+8.0
+
+REFERENCES CITED
+
+American Association of Petroleum Geologists
+1979 Geological Highway Map of Texas. H.B. Renfro Memorial Edition. In cooperation with the
+Bureau of Economic Geology, The University of Texas, and Texas Tech University.
+Arnold, G.
+1940 Manuscript on file, Texas Archeological Research Laboratory, University of Texas, Austin.
+Blair, F.
+1950 The Biotic Provinces of Texas. Texas Journal of Science 2(1):93-117.
+Bonine, M.L.
+2004 Cultural Resources Survey of Waterline Improvements at Martin Dies, Jr. State Park, Jasper
+County, Texas. Prepared for Texas Parks and Wildlife Department by Ecological Communication
+Corporation. Austin.
+Bonine, M.L., R.S. Jones, and W.N. Trierweiler
+2004 A Cultural Resource Inventory of 1,612 Acres at Lake Wright Patman and Lake Sam Rayburn,
+Texas. Ecological Communications Corporation. Austin.
+Boon, E.M.
+1937 The History of Angelina County. M.A. Thesis, University of Texas at Austin.
+Bousman, C.B., B.W. Baker, A.C. Kerr
+2004 Paleoindian Archeology in Texas. In The Prehistory of Texas, edited by T.K. Perttula, pp. 15-101.
+Texas A & M University Press, College Station.
+Boulter C., M.D. Bateman, and C.D. Frederick
+2007 Developing a protocol for selecting and dating sandy sites in East Central Texas: preliminary
+results. Quaternary Geochronology 2 (2007):45-50.
+Bruseth, J.E. and W.A. Martin
+2001 OSL dating and sandy mantle sites in East Texas. Current Archeology in Texas 3:12-17.
+Bureau of Land Management
+2007 Historic Bottle Website. http://www.sha.org/bottle/index.htm [accessed Nov 10, 2007].
+Carpenter, S.M.
+1994 Cultural Resource Survey of Targeted Areas, B.A. Steinhagen Lake, Jasper and Tyler Counties,
+Texas. Technical Series 41. Texas Archeological Research Laboratory, University of Texas at
+Austin.
+Chafin-Lohse, M., and T. Anderson
+1979 The Hen House Ridge Site (41JP65): Analysis of Excavations. Prepared for the US Department
+of Agriculture, Soil Conservation Service, Lufkin, Texas.
+Collins, M.B.
+1995 Forty Years of Archeology in Central Texas. Bulletin of the Texas Archeological Society 66:361400.
+
+Ecological Communications Corporation
+
+43
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+2004
+
+Archeology in Central Texas. In The Prehistory of Texas, edited by T.K. Perttula, pp. 101-127.
+Texas A & M University Press, College Station.
+
+Corbin, J.E.
+2001 Archeological Survey of the Northern Portion of San Augustine Park, San Augustine County,
+Texas. Prepared for the US Army Corps of Engineers, Fort Worth District.
+Crocket, G.L.
+1932 Two Centuries of East Texas: a history of San Augustine county and surrounding territory from
+1685 to the present time. The Southwest Press, Dallas.
+Davis, W.A.
+n.d.
+Site records on file. Texas Archeological Research Laboratory, University of Texas, Austin
+Dervin, D.
+1982 B.A. Steinhagen Lake, Jasper County, Texas, Surplus Lands Under EO 12348. United States
+Army Corps of Engineers. Ft. Worth, Texas.
+Ferring, C.R.
+1993a An Archeological Survey of 714 Acres at Sam Rayburn Reservoir, Jasper, Sabine, and San
+Augustine Counties, Texas. Prepared for the US Army Corps of Engineers by the Center for
+Environmental Archeology, University of North Texas, Denton.
+1993b An Archeological Survey of 205 Acres at Town Bluff Lake, Jasper County, Texas. Prepared for
+the US Army Corps of Engineers by the Center for Environmental Archeology, University of
+North Texas, Denton.
+Frederick, C.D., M.D. Bateman, and P.H. Lehman
+2000 Geoarchaeological Investigations. In National Register Eligibility Testing at 41LE177, ALCOA
+Sandow Mine, Lee County, Texas: Archaeological, Geoarchaeological and Paleoenvironmental
+Assessment of an Upland Sandy Mantle Site. pp 53-90. Edited by R.A. Ricklis. Coastal
+Archaeological Research, Inc., Corpus Christi, Texas.
+Frederick, C.D., M.D. Bateman, and R. Rogers
+2002 Evidence for eolian deposition in the sandy uplands of East Texas and the implications for
+archaeological site integrity. Geoarchaeology 17:191-217.
+Gould, F. W.
+1969 Texas Plants: A Checklist and Ecological Summary. Texas Agricultural Experiment Station
+Bulletin MP-585, College Station.
+Hafertepe, Ken
+2008 âFrench Legation,â Handbook of Texas Online,
+http://www.tshaonline.org/handbook/online/articles/FF/ccf3.html (accessed January 29, 2008).
+Heinrich, P.V.
+1986 Geomorphology of Seven Sites at the Jewett Mine Project. In National Register Assessments of
+Archeological and Historical Resources at the Jewett Mine, Leon County, Texas, by R.C. Fields,
+S.V. Lisk, J.M. Jackson, M.D. Freeman, and G.L. Bailey, pp. 191-223. Reports of Investigations
+No. 48. Prewitt and Associates, Inc., Austin.
+
+44
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Jelks, E.B.
+1965 The Archeology of McGee Bend Reservoir, Texas. Unpublished Ph.D. dissertation, Department
+of Anthropology, University of Texas, Austin.
+Jones, R. S. and W. N. Trierweiler
+2005 A Cultural Resource Inventory of 350 Acres at Lake Sam Rayburn, Angelina County, Texas.
+Ecological Communications Corporation. Austin, Texas.
+2006
+
+Cultural Resource Inventories at Lake Wright Patman, Lake Sam Rayburn and Lake B.A.
+Steinhagen, East Texas. Ecological Communications Corporation. Austin, Texas.
+
+2007
+
+Archeological Investigations in the Vicinity of the Lost Town of Marion at Lake Sam Rayburn,
+Angelina County, Texas. Ecological Communications Corporation. Austin, Texas. In Draft.
+
+Keller, J.E.
+1998 A Cultural Resources Survey and Assessment of Certain Recreational/Park Lands Along the
+Shoreline of Lake Sam Rayburn, Jasper, Nacogdoches, Sabine, and San Augustine Counties,
+Texas. Report of Investigations 10-97. Southern Archaeological Consultants, Inc., Los Fresnos.
+Kenmotsu, N.A., and T.K. Perttula (editors)
+1993 Archeology in the Eastern Planning Region, Texas: A Planning Document. Department of
+Antiquities Protection, Cultural Resource Report 3, Texas Historical Commission, Austin.
+Kovel, Ralph
+1986 Kovelsâ New Dictionary of Marks. Pottery & Porcelain: 1850 to the Present. Crown Publishers
+Inc., New York.
+Leach-Palm, L., and B.F. Rader
+1995 Cultural Resources Survey of 460 acres at B.A. Steinhagen Lake Tyler County, Texas. Horizon
+Environmental Services. Austin, Texas.
+Long, C.
+2005 âORE CITY, TEXASâ. The Handbook of Texas Online.
+http://www.tsha.utexas.edu/handbook/online/articles/OO/hjo6.html [accessed Fri Jun 17 2005].
+McCroskey, V.K.
+2002 âSAN AUGUSTINE COUNTY.â The Handbook of Texas Online.
+http://www.tsha.utexas.edu/handbook/online/articles/view/SS/hcs2.html [assessed Thu Jul 11
+14:05:42 US/Central 2002].
+McDonald, A.P.
+1981 The Old Stone Fort. Texas State Historical Association, Austin.
+Moore, W. E.
+2001 An Archeological Survey of the Tiger Creek Compartment 3, Jasper County, Texas. Prepared for
+the US Army Corps of Engineers by Brazos Valley Research Associates.
+Munsey, C.
+1970 The Illustrated Guide to Collecting Bottles. Hawthorn Books, Inc., New York.
+
+Ecological Communications Corporation
+
+45
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Nichols, P.
+1994 An Archaeological Survey of 592 Acres at Sam Rayburn Reservoir, Angelina, Nacodoches,
+Sabine, and San Augustine Counties, Texas. Horizon Environmental Services, Inc., Austin,
+Texas.
+Nickels, D.L., C.B. Bousman, L. Nordt
+2008 NRHP Eligibility Testing on 20 Prehistoric Sites Located in Camp Swift, Bastrop County, Texas.
+Working draft in progress. Center for Archaeological Studies, Texas State University. San
+Marcos, Texas.
+Nickels, D.L., and M. Lehman
+2004 Archaeological Evaluation of Sandy Mantle Prehistoric and Historic Sites at Camp Swift,
+Bastrop County, Texas: 2003. Archaeological Studies Report No. 5. Center for Archaeological
+Studies. Texas State University, San Marcos.
+Perttula, T.K.
+1993a The Development of Agriculture in Northeast Texas before A.D. 1600. In Archeology in the
+Eastern Planning Region, Texas: A Planning Document, edited by N.A. Kenmotsu and T.K.
+Perttula, pp. 121-146. Cultural Resource Management Report 3. Department of Antiquities
+Protection, Texas Historical Commission, Austin.
+1993b Effects of European Contact on Native and Immigrant Indians in Northeast Texas. In, Archeology
+in the Eastern Planning Region, Texas: A Planning Document, pages 147-187. Department of
+Antiquities Protection, Cultural Resource Report 3, Texas Historical Commission, Austin.
+1995
+
+The Archeology of the Pineywoods and Post Oak Savanna of North East Texas. In Bulletin of the
+Texas Archeological Society, vol. 66:331-359.
+
+2004
+
+The Prehistoric and Caddoan Archeology of the Northeastern Texas Pineywoods. In The
+Prehistory of Texas, edited by T.K. Perttula, pp. 370-407. Texas A & M University Press, College
+Station.
+
+Perttula, T.K., D.J. Prikryl, B. Nelson, and R. Cast
+1998 An Archaeological Survey of 437 Acres at B.A. Steinhagen Lake, Jasper and Tyler Counties,
+Texas. Report of Investigation No. 5. Frontera Archaeology. Austin, Texas.
+Rogers, R.
+1994 Excavations at site 41GM224 in the Gibbons Creek Lignite Mine Permit 38A Area, Grimes
+County, Texas. Espey, Huston & Associates, Inc., Austin.
+Skibo, J.M., and E. Blinman
+1999 Exploring the Origins of Pottery on the Colorado Plateau. In Potter and People: A Dynamic
+Interaction, edited by J.M. Skibo and G.M. Feinman, pp. 171-83. Salt Lake City: University of
+Utah Press.
+Skinner, S.A., and L.K. Trask
+1996 An Archeological Evaluation of the Mosquito Island Site, Sam Rayburn Lake, Texas. Prepared
+for the US Army Corps of Engineers by AR Consultants, Dallas.
+1999
+
+46
+
+Cultural Resources Survey of Four Timber Sale Areas, Sam Rayburn Lake, Texas. Prepared for
+the US Army Corps of Engineers by AR Consultants, Dallas
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Smith, M.
+1979 Historically Marked Sites in Jasper County: Their Histories and Marker Inscriptions. Jasper
+County Historical Commission.
+Stephenson, R.L.
+1948a Archeological Survey of McGee Bend Reservoir, Jasper, Sabine, San Augustine, Angelina, and
+Nacogdoches Counties, Texas. River Basin Surveys, Austin, Texas, office. Smithsonian
+Institution.
+1948b Archeological Survey of McGee Bend Reservoir: A Preliminary Report. Bulletin of the Texas
+Archeological and Paleontological Society 19:57-75.
+St. Clair, K.E., and C.R. St. Clair (editors)
+1982 Little Towns of Texas. Jayroe Graphic Arts, Jacksonville, Texas.
+Steinbommer, R.A.
+1983 Brickmaking in Texas. Texas Historical Commission, Austin. Draft manuscript on file at the San
+Antonio Conservation Society Library, San Antonio.
+Story, D.A.
+1985 Adaptive Strategies of Archaic Cultures of the West Gulf Coastal Plain. In Prehistoric Food
+Production in North America, edited by R.I. Ford, pp. 19-56. Anthropological Papers 75.
+Museum of Anthropology, University of Michigan, Ann Arbor.
+Suhm, D.A., and E.B. Jelks
+1989 Handbook of Texas Archeology: Type Descriptions. Texas Archeological Society, Special
+Publications, No. 1, and Texas Memorial Museum, Bulletin, No. 4. Limited edition reprint of
+1962 printing.
+TxGenWeb Project
+2008 âCensus Report of Sabine 1835,â
+http://ftp.rootsweb.com/pub/usgenweb/tx/census/1835/1835sabi.txt
+(accessed January 28, 2008)
+Thoms, A.V. (editor)
+1993 The Brazos Valley Slopes Archaeological Project: Cultural Resources Assessments for the Texas
+A&M University Animal Science Teaching and Research Complex, Brazos County, Texas.
+Archaeological Research Laboratory, Reports of Investigations No. 14. Texas A&M University,
+College Station .
+Toulouse, J.H.
+1971 Bottle Makers and Their Marks. The Blackburn Press. New Jersey.
+Trask, L.K., and S.A. Skinner
+1998 Cultural Resources Survey of Tram Island and Compartment 6 at Sam Rayburn Lake, Texas.
+Prepared for the US Army Corps of Engineers by AR Consultants, Dallas.
+Trask, L.K., S.A. Skinner, and R. Hubbard
+1996 Cultural Resources Survey in the Brookeland, Needmore, and Twin Dikes Areas, Sam Rayburn
+Lake, Texas. Prepared for the US Army Corps of Engineers by AR Consultants, Dallas.
+
+Ecological Communications Corporation
+
+47
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Trierweiler, W.N., and M.L. Bonine
+2002 A Cultural Resource Survey of 52 Acres at Lake Sam Rayburn, Angelina and Jasper Counties,
+Texas. Ecological Communications Corporation. Austin, Texas.
+2003
+
+Cultural Resource Inventories of Selected Areas at Lake Sam Rayburn and Town Bluff
+Dam/Steinhagen Lake, Texas. Ecological Communications Corporation. Austin, Texas.
+
+Trierweiler, W. N., M. L. Bonine, and V. Galan
+2002 Cultural Resource Inventories of Selected Areas at Four Lakes in East Texas. Ecological
+Communications Corporation. Austin, Texas.
+Tunnell, C.D.
+1961 Evidence of a Late Archaic Horizon at Three Sites in the McGee Bend Reservoir, San Augustine
+County, Texas. Bulletin of the Texas Archeological Society 30:123-158.
+Turner, E.S. and T.R. Hester
+1993 A Field Guide to Stone Artifacts of Texas Indians. Second edition. Gulf Publishing, Houston.
+U.S. Army Corps of Engineers, Fort Worth District
+2007 Contract W9126G-07-T-0046: Cultural Resources Inventory and Testing within the U.S. Army
+Corps of Engineers, Fort Worth District, Geographic Area of East Texas and Surrounding Areas.
+2006
+
+âDam Structure and Facilities.â
+
+http://www.swf-wc.usace.army.mil/townbluff/damstructurefacilitiespage.htm
+[accessed Fri Mar 03 2006].
+U.S. Department of Agriculture â Soil Conservation Service
+2007 Official Soil Series Descriptions (OSD)
+http://soils.usda.gov/technical/classification/osd/index.html [accessed Tues Nov 21 2007].
+United States Federal Census, 1880, 1990, 1920, 1970.
+Weir, F.A.
+1976 The Central Texas Archaic. Unpublished Ph.D. dissertation, Department of Anthropology,
+Washington State University, Pullman.
+Wooster, R.
+2001 âCOOPER, SAMUEL BRONSONâ. The Handbook of Texas Online.
+http://www.tsha.utexas.edu/handbook/online/articles/CC/fco61.html [accessed Weds Apr 19
+2001].
+2008
+
+48
+
+âHuling, Thomas B.â Handbook of Texas Online,
+http://www.tshaonline.org/handbook/online/articles/FF/ccf3.html (accessed January 29, 2008).
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+APPENDIX A
+SHOVEL TEST LOCATIONS
+
+Ecological Communications Corporation
+
+49
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+50
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Figure A-1
+
+Shovel Test Location at Powell Point parcel on aerial photograph
+
+Ecological Communications Corporation
+
+51
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Figure A-2
+
+52
+
+Shovel Test Location at Mouth of the Carizzo parcel on aerial photograph
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Figure A-3
+
+Shovel Test Location at Buck Branch and Sandy Creek parcels on aerial photograph
+
+Ecological Communications Corporation
+
+53
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Figure A-4
+
+54
+
+Shovel Test Location at Forks of the Rivers parcel on aerial photograph
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+APPENDIX B
+TYPICAL SOIL PROFILES
+
+Ecological Communications Corporation
+
+55
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+56
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Alaga series soils have the following typical pedon.
+A1: 0 to 5 inches dark grayish brown (10YR 4/2) loamy sand
+C1:
+5 to 32 inches yellowish brown (10YR 5/6) loamy sand
+C2:
+32 to 65 inches brownish yellow (10YR 6/6) loamy sand
+C3:
+65 to 80 inches light yellowish brown (10YR 6/4) and light gray (10YR 7/1) sand.
+Alazan soils have the following typical pedon.
+A:
+0 to 5 inches brown (10YR 4/3) loam
+E:
+5 to 10 inches pale brown (10YR 6/3) loam
+Bt/E1: 10 to 30 inches strong brown (7.5YR 5/6) sandy clay loam
+Bt/E2: 30 to 80 inches reddish yellow (7.5YR 6/8) sandy clay loam.
+Attoyac series soils have the following typical pedon.
+Ap:
+0 to 7 inches brown (7.5YR 5/4) fine sandy loam/
+A:
+7 to 12 inches brown (7.5YR 5/4) fine sandy loam
+Bt1: 12 to 17 inches red (2.5YR 4/6) fine sandy loam
+Bt2: 17 to 27 inches red (2.5YR 4/6) sandy clay loam
+Bt3: 27 to 51 inches red (10R 4/6) sandy clay loam
+Bt4: 51 to 72 inches red (2.5YR 4/8) sandy clay loam
+Bt5: 72 to 80 inches red (2.5YR 4/8) fine sandy clay loam.
+Besner soils have the following typical pedon.
+A:
+0 to 2 inches dark grayish brown (10YR 4/2) fine sandy loam
+E1:
+2 to 9 inches brown (10YR 5/3) fine sandy loam
+E2:
+9 to 30 inches pale brown (10YR 6/3) fine sandy loam
+Bt:
+30 to 45 inches strong brown (7.5YR 5/6) loam
+Bt/E1: 45 to 72 inches strong brown (7.5YR 5/6) loam
+Bt/E2: 72 to 80 inches strong brown (7.5YR 5/6) loam.
+Bienville series soils have the following typical pedon.
+A1:
+0 to 6 inches brown (10YR 4/3) loamy fine sand
+A2:
+6 to 20 inches brown (7.5YR 5/4) loamy fine sand
+B21t: 20 to 70 inches strong brown (7.5YR 5/6) loamy fine sand
+B22t: 70 to 80 inches pale brown (10YR 6/3) loamy fine sand.
+Cuthbert series soils a have the following typical pedon.
+A:
+0 to 4 inches very dark gray (10YR 3/1), grayish brown (10YR 5/2) dry, fine
+sandy loam
+E:
+4 to 8 inches brown (10YR 5/3) fine sandy loam
+Bt1: 8 to 20 inches dark red (2.5YR 3/6) clay
+Bt2: 20 to 29 inches red (2.5YR 4/8) clay
+Bt/C: 29 to 34 inches stratified layers of red (2.5YR 4/8), strong brown (7.5YR 5/6) and
+grayish brown (10YR 5/3) sandy clay loam
+C:
+34 to 60 inches stratified red (2.5YR 4/8) and strong brown (7.5YR 5/6)
+sandstone with fine sandy loam and sandy clay loam texture.
+
+Ecological Communications Corporation
+
+57
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Eastwood series soils have the following typical pedon.
+A:
+0 to 3 inches dark yellowish brown (10YR 4/4) very fine sandy loam
+E/B: 3 to 8 inches light yellowish brown (10YR 6/4) and strong brown (7.5YR 5/6)
+very fine sandy loam
+Bt1: 8 to 12 inches red (2.5YR 4/6) clay
+Bt2: 12 to 17 inches red (2.5YR 4/6) clay
+Bt3: 17 to 23 inches red (2.5YR 4/6) clay
+Bt4: 23 to 28 inches red (2.5YR 4/8) clay
+Bt5: 28 to 37 inches yellowish brown (10YR 5/6) silty clay
+Bt6: 37 to 46 inches light yellowish brown (10YR 5/4) loam
+BCt: 46 to 51 inches yellowish brown (10YR 5/4) loam
+C:
+51 to 72 inches light yellowish brown (2.5YR 6/4) weakly consolidated material
+of silty clay loam texture.
+Iulus soils have the following typical pedon.
+A:
+0 to 7 inches yellowish brown (10YR 5/4) loam
+Bw1: 7 to 18 inches yellowish brown (10YR 5/6) fine sandy loam
+Bw2: 18 to 34 inches yellowish brown (10YR 5/6) fine sandy loam
+Bw3: 34 to 49 inches strong brown (7.5YR 5/6) loam
+Bw4: 49 to 62 inches strong brown (7.5YR 5/6) loam
+Bg:
+62 to 80 inches light brownish gray (10YR 6/2) loam.
+Kirvin series soils have the following typical pedon.
+A:
+0 to 4 inches brown (10YR 4/3) very fine sandy loam
+E:
+4 to 11 inches pale brown (10YR 6/3) very fine sandy loam
+Bt1: 11 to 23 inches red (2.5YR 4/6) clay
+Bt2: 23 to 41 inches red (2.5YR 4/6) clay
+BCt: 41 to 47 inches yellowish red (5YR 5/8) clay
+C:
+47 to 64 inches stratified layers of red (2.5YR 4/6) and yellowish red (5YR 5/8)
+weakly consolidated sandstone with sandy clay loam texture and light brownish
+gray (10YR 6/2) platy shale with clay texture.
+Kurth series soils have the following typical pedon.
+A:
+0 to 6 inches brown (10YR 4/3) fine sandy loam
+E:
+6 to 18 inches pale brown (10YR 6/3) fine sandy loam
+Bt/E1: 18 to 30 inches yellowish brown (10YR 5/6) sandy clay loam
+Bt/E2: 30 to 38 inches yellowish brown (10YR 5/6) sandy clay loam
+Bt/E3: 38 to 49 inches variegated yellowish brown (10YR 5/6) and red (2.5YR 4/6)
+sandy clay loam
+2Btg: 49 to 69 inches light brownish gray (10YR 6/2) clay loam
+2C:
+69 to 80 inches light yellowish brown (2.5Y 6/3) weakly consolidated mudstone
+with texture of clay loam.
+Laneville series soils have the following typical pedon.
+A1:
+0 to 4 inches brown (10YR 5/3) loam
+58
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+A2:
+4 to 15 inches yellowish brown (10YR 5/4) silt loam
+Bw1: 15 to 22 inches mixed dark yellowish brown (10YR 4/6), yellowish brown (10YR
+5/8) and grayish brown (10YR 5/2) clay loam
+Bw2: 22 to 36 inches mixed yellowish brown (10YR 5/6), grayish brown (10YR 5/2)
+and strong brown (7.5YR 5/8) clay loam
+2Bgb1: 36 to 42 inches gray (10YR 5/1) clay loam
+2Bgb2: 42 to 50 inches gray (10YR 5/1) clay loam
+2Bgb3: 50 to 80 inches gray (10YR 5/1) clay loam.
+Latex series soils have the following typical pedon.
+A:
+0 to 3 inches brown (10YR 4/3) fine sandy loam
+E:
+3 to 10 inches brown (10YR 5/3) fine sandy loam
+Bt1: 10 to 18 inches strong brown (7.5YR 5/6) clay loam
+Bt2: 18 to 33 inches yellowish brown (10YR 5/6) clay loam
+Bt/E: 33 to 42 inches yellowish brown (10YR 5/6) clay loam
+2Bt/E: 42 to 46 inches red (2.5YR 4/6) clay loam
+2Btg: 46 to 75 inches variegated light brownish gray (10YR 6/2), red (2.5YR 4/8), and
+brownish yellow (10YR 6/6) clay
+2BCg: 75 to 80 inches variegated light gray (10YR 7/1), red (2.5YR 4/8), and yellowish
+red (5YR 5/8) weakly stratified very fine sandy loam and silt loam.
+Mattex series have the following typical pedon.
+A:
+0 to 8 inches dark brown (10YR 4/3) loam
+Bg1: 8 to 13 inches dark gray (10YR 4/1) loam
+Bg2: 13 to 26 inches grayish brown (10YR 5/2) sandy clay loam
+Bg3: 26 to 34 inches gray (10YR 5/1) sandy clay loam
+Bg4: 34 to 44 inches mixed colors of light brownish gray (10YR 6/2) and gray (10YR
+5/1) very fine sandy loam
+2Bgb: 44 to 80 inches dark gray (10YR 4/1) clay loam.
+Metcalf series soils have the following typical pedon.
+A1:
+0 to 3 inches dark grayish brown (10YR 4/2) silt loam
+E:
+3 to 8 inches light yellowish brown (10YR 6/4) silt loam
+Bt1: 8 to 16 inches yellowish brown (10YR 5/6) loam
+Bt2: 16 to 23 inches yellowish brown (10YR 5/4) loam
+Bt3: 23 to 30 inches yellowish brown (10YR 5/4) loam
+Bt/E: 30 to 38 inches light brownish gray (10YR 6/2) loam
+2Btg1: 38 to 55 inches gray (10YR 6/1) silty clay
+2Btg2: 55 to 65 inches light brownish gray (2.5YR 6/2)
+Molliville series soils have the following typical pedon.
+A1:
+0 to 4 inches dark grayish brown (10YR 4/2) silt loam
+Ag2: 4 to 12 inches light gray (10YR 7/2) very fine sandy loam
+B21t: 12 to 26 inches grayish brown (10YR 5/2) clay loam
+B22tg: 26 to 59 inches grayish brown (10YR 5/2) clay loam
+B3g: 59 to 76 inches light brownish gray (10YR 6/2) fine sandy loam.
+
+Ecological Communications Corporation
+
+59
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+Moswell series soils have the following typical pedon.
+A:
+0 to 2 inches dark grayish brown (10YR 4/2) loam
+E:
+2 to 5 inches pale brown (10YR 6/3) loam
+Bt:
+5 to 12 inches red (2.5YR 4/8) clay
+Btss1: 12 to 23 inches prominently variegated yellowish red (5YR 5/8), and grayish
+brown (10YR 5/2) clay
+Btss2: 23 to 31 inches yellowish red (5YR 5/8) clay
+Btssy1: 31 to 37 inches grayish brown (2.5Y 5/2) and light brownish gray (2.5Y 6/2) clay
+thin layers of red (2.5YR 5/8) clay
+Btssy2: 37 to 45 inches equal amounts of grayish brown (2.5Y 5/2), light brownish gray
+(2.5Y 6/2), and light yellowish brown (2.5Y 6/4) platy clay
+Cy:
+45 to 57 inches horizontally bedded layers of olive (5Y 5/3), pale yellow (5Y 7/3),
+and red (2.5YR 4/8) shale with clay texture
+C:
+57 to 70 inches horizontally bedded layers of olive (5Y 5/3) and pale yellow (5Y
+7/3) shale with clay texture.
+Penning soils have the following typical pedon.
+A:
+0 to 4 inches brown (10YR 4/3) very fine sandy loam
+E1:
+4 to 9 inches brown (10YR 5/3) very fine sandy loam
+E2:
+9 to 19 inches pale brown (10YR 6/3) very fine sandy loam
+Bt/E1: 19 to 24 inches yellowish brown (10YR 5/8) very fine sandy loam
+Bt/E2: 24 to 38 inches brownish yellow (10YR 6/6) loam
+Bt/E3: 38 to 50 inches brownish yellow (10YR 6/6) sandy clay loam
+Bt/E4: 50 to 56 inches grayish brown (10YR 5/2) sandy clay loam
+2C:
+56 to 70 inches light brownish gray (2.5YR 6/2) shale with clay texture.
+Rayburn series soils have the following typical pedon.
+A:
+0 to 5 inches very dark grayish brown (10YR 3/2) fine sandy loam
+E:
+5 to 7 inches dark grayish brown (10YR 4/2) fine sandy loam
+Bt1: 7 to 16 inches red (2.5YR 4/6) clay
+Bt2: 16 to 27 inches mottled light brownish gray (10YR 6/2), strong brown (7.5YR
+5/6) and red (2.5YR 4/6) clay
+Bt3: 27 to 45 inches mottled pale brown (10YR 6/3), strong brown (7.5YR 5/6) and
+pale olive (5Y 6/3) clay
+BC: 45 to 55 inches pale olive (5Y 6/3) clay
+Cr:
+55 to 65 inches light gray (2.5Y 7/2) weakly consolidated tuffaceous sandstone.
+Sawtown series soils have the following typical pedon.
+A:
+0 to 9 inches brown (10YR 4/3) very fine sandy loam
+E:
+9 to 23 inches yellowish brown (10YR 5/4) very fine sandy loam
+Bt1: 23-31 inches strong brown (10YR 5/4) loam
+Bt2: 31-49 inches brownish yellow (10YR 6/6) clay loam
+2Btg/E: 40-80 inches light brownish gray (10YR 6/2) clay
+
+60
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+APPENDIX C
+LOCATIONS OF ARCHEOLOGICAL SITES
+
+(Sensitive information â restricted distribution on CD-ROM)
+
+Ecological Communications Corporation
+
+61
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+62
+
+Ecological Communications Corporation
+
+Cultural Resource Inventory of 878 Acres at Lake B.A. Steinhagen and Lake Sam Rayburn,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+APPENDIX D
+ARCHEOLOGICAL SITE FORMS
+
+(Sensitive information â restricted distribution on CD-ROM)
+
+Ecological Communications Corporation
+
+63
+
+Cultural Resource Inventory of 878 Acres at B.A. Steinhagen and Sam Rayburn Lakes,
+Jasper, Nacogdoches, and San Augustine Counties, Texas
+
+64
+
+Ecological Communications Corporation
+
+

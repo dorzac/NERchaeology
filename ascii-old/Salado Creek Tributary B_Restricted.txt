@@ -1,0 +1,738 @@
+Prepared by:
+Kristi Miller Nichols
+and
+Mark P. Luzmoor
+
+Prepared for:
+Transportation and Capital Improvements Department
+Environmental Management Division
+114 W. Commerce, 2nd Floor
+San Antonio, Texas 78205
+
+RESTRICTED
+Texas Antiquities Committee Permit Number: 7516
+ASF14-176-36
+Principal Investigator: Kristi Miller Nichols
+
+Management Summary
+In December 2015, The City of San Antonio, Transportation and Capital Improvements Department
+(Client) contracted with Raba Kistner Environmental, Inc. (RKEI), to perform archaeological backhoe
+trenching associated with the Salado Creek Tributary B Restoration Project near downtown San Antonio,
+Bexar County, Texas. This portion of Tributary B experiences high rates of flooding during typical rain
+events and it was hoped that a redesign of the channel may reduce or entirely eliminate the incidence of
+flooding. The channel segment that is to be modified is found along the southern portion of Tributary B
+directly west of Pecan Valley Drive. As a part of the restoration project, the city proposed the following
+measures: 1) widen and modify the morphology of the existing channel to allow for greater carrying
+capacity, and 2) concrete-line the channel to reduce erosion. To complete the project, additional ROW
+will be acquired in an area that is suspected of having served as a landfill. The Raba Kistner
+Environmental staff was contracted to determine the extent and content of the suspected landfill within
+the study area, and establish whether intact soils were present within the study area but outside of the
+limits of the landfill. The project area is owned by the city and therefore the investigation fall under the
+Antiquities Code of Texas (TAC #7516) as administered by the Texas Historical Commission (THC).
+To comply with the requirements of the Antiquities Code, RKEI archaeologists excavated four
+backhoe trenches near the edges of the study area where it was suspected that the landfill deposits
+were either not present or were present only as a thin veneer. The hope was that intact soils would be
+identified in these areas and one may be able to determine whether these soils contained in situ cultural
+deposits. In addition, to ensure that no other localities within the study area contain in situ historic or
+prehistoric cultural deposits, archaeologists also inspect all other backhoe trenches excavated for
+geophysical purposes.
+The archaeological backhoe trenches revealed no intact soils and in situ historic or prehistoric
+materials. Instead, two trenches at the southern terminus of the study area exposed landfill debris
+indicating that the landfill extended up to and likely past the edges of the study area. The two trenches
+located in the northern terminus of the study area did not encounter cultural deposits. The examination
+of the 10 geophysical trenches also identified no intact deposits on the banks of the creek. Instead,
+pockets and patches of fill debris dating between 1945 and 1980 were common throughout the study
+area. RKEI archaeologists conclude that no in situ intact cultural materials are present within the study
+area and therefore the planned project will have no adverse impact on cultural deposits.
+i
+
+Table of Contents:
+Management Summary ................................................................................................................................. i
+Table of Contents .......................................................................................................................................... ii
+List of Figures ............................................................................................................................................... iii
+Chapter 1: Introduction and Area of Potential Effect ................................................................................. 1
+The Area of Potential Effect ................................................................................................ 1
+Chapter 2: Environmental Setting ............................................................................................................... 5
+Project Area Setting ............................................................................................................ 5
+Soils ..................................................................................................................................... 5
+Geology ............................................................................................................................... 5
+Flora and Fauna .................................................................................................................. 7
+South Texas Climate............................................................................................................ 7
+Chapter 3: Previous Archaeology and Historic Aerial Review ..................................................................... 8
+Historic Aerial Review ....................................................................................................... 10
+Chapter 4: Field and Laboratory Methodology ......................................................................................... 20
+Field Methods ................................................................................................................... 20
+Backhoe Trenching ..................................................................................................... 20
+Monitoring.................................................................................................................. 20
+Laboratory Methods ......................................................................................................... 21
+Chapter 5: Results of Investigation ........................................................................................................... 22
+Trench 1 .......................................................................................................................... 233
+Trench 2 ............................................................................................................................ 25
+Trench 6 .......................................................................................................................... 277
+Trench 7 .......................................................................................................................... 288
+Geophysical Trenches ....................................................................................................... 29
+Chapter 6: Summary and Recommendations ........................................................................................... 34
+References ............................................................................................................................................... 366
+
+ii
+
+List of Figures:
+Figure 1-1. The location of the project area in southern San Antonio, Bexar County, Texas. ..................... 2
+Figure 1-2. The location of the project area on the San Antonio East (2998-133), 7.5 minute
+United States Geological Survey (USGS) topographic quadrangle map.................................... 3
+Figure 1-3. The study limits within the Area of Potential Effect. ................................................................. 4
+Figure 2-1. The soils located within and around the project area. .............................................................. 6
+Figure 3-1. Location of previous archaeological projects and sites within a 1-km radius of the APE. ........ 9
+Figure 3-2. The 1938 aerial of the project area. ........................................................................................ 11
+Figure 3-3. The 1959 aerial of the project area. ........................................................................................ 12
+Figure 3-4. The 1963 aerial showing the completed channelization of the tributary. .............................. 13
+Figure 3-5. The 1973 aerial of the project area. ........................................................................................ 14
+Figure 3-6. The project area in 1985. ......................................................................................................... 15
+Figure 3-7. The 1995 aerial of the project area. ........................................................................................ 17
+Figure 3-8. The 2005 aerial of the project area. ........................................................................................ 18
+Figure 3-9. The 2014 aerial of the project area. ........................................................................................ 19
+Figure 5-1. Location of the backhoe trenches excavated during the project. ......................................... 222
+Figure 5-2. Sample of material encountered in the landfill matrix............................................................ 24
+Figure 5-3. East wall of Trench 1. ............................................................................................................. 244
+Figure 5-4. The upper portion of the west wall of Trench 2 noting the landfill deposit. ........................ 255
+Figure 5-5. Sample of material associated with the landfill from Trench 2. ............................................ 266
+Figure 5-6. Noxzema jar encountered in Trench 2. ................................................................................. 266
+Figure 5-7. South wall of Trench 6. .......................................................................................................... 288
+Figure 5-8. The north wall of Trench 7. ...................................................................................................... 29
+Figure 5-9. Backdirt of Trench 4 showing the landfill artifacts; looking southwest................................. 300
+Figure 5-10. The west wall of Trench 9. Note the red, trash layer in the profile. ................................... 311
+Figure 5-11. The west wall of Trench 10. Note water pooling at the base of the trench. ...................... 311
+Figure 5-12. The yellowish tan clay with evidence of carbonates located below the fill in Trench 12. .. 322
+
+iii
+
+Chapter 1: Introduction and Area of Potential Effect
+Raba Kistner Environmental, Inc. (RKEI) was contracted by The City of San Antonio, Transportation
+and Capital Improvements Department (CLIENT) to perform archaeological backhoe trenching
+associated with the Salado Creek Tributary B Restoration Project. In addition to excavating four
+archaeological trenches, the Project Archaeologist was to inspect the walls of ten geophysical trenches
+excavated under the direction of the RKEI Environmental staff, for the presence/absence of intact
+cultural deposits. The proposed improvements are to impact the southern portion of Tributary B in the
+vicinity of Pecan Valley Drive. This portion of Tributary B experiences high rates of flooding and the
+redesign of the channel should reduce the neighboring areas that fall within the flood zone. The city
+proposes to widen and modify the morphology of the existing channel to allow for greater carrying
+capacity, and also to line the bend of the channel with concrete to reduce erosion through the area. To
+complete the project, additional ROW will be acquired in an area that is suspected of having served as a
+landfill. The Raba Kistner Environmental staff was contracted to determine the extent and content of
+the suspected landfill within the study area, and establish whether intact soils were present within the
+study area but outside of the limits of the landfill.
+
+The RKEI archaeologists were contracted to
+
+determine whether intact buried cultural deposits were present in the vicinity of the upstream and
+downstream edges of the study area, on the north descending bank of the creek. The project area is
+owned by the city and therefore the archaeological investigation fall under the Antiquities Code of Texas
+as administered by the Texas Historical Commission (THC).
+
+The Area of Potential Effect
+The APE is located west of Pecan Valley Drive, south of H Street, and east of the I Street terminus
+(Figure 1-1). The project area is located along the southern portion of Salado Creek Tributary B just west
+of Pecan Valley Drive, in south San Antonio. The project area is situated in an urban setting, with
+residential homes located on either side of the tributary. The tributary is concrete lined, with trees and
+shrubs growing in the vacant field to the north of the channel. The survey area is approximately 2.5
+acres and is rectangular in size.
+
+1
+
+Figure 1-1. The location of the project area in southern San Antonio, Bexar County, Texas.
+The current APE is located on the San Antonio East (2998-133), 7.5 minute United States Geological
+Survey (USGS) topographic quadrangle map (Figure 1-2).
+
+2
+
+Figure 1-2. The location of the project area on the San Antonio East (2998-133), 7.5 minute USGS
+topographic quadrangle map.
+
+3
+
+The APE includes a portion of a landfill that has been recorded by the City as site number U1770.
+The landfill was believed to have been started in 1945. The size of the landfill was never officially
+determined. Public Works identified the landfill in 1980, although it is unknown if it was still actively
+used at that time. The landfill was recorded in the Alamo Area Council of Governments Closed Landfill
+Inventory (AACGCLI) in 2002.
+
+At the time, the property was owned by Frank Brenner and was
+
+considered vacant (AACGCLI 2002).
+While the project area spans from IH-10 to Pecan Valley Road, a smaller segment at the lower bend
+of the tributary was designated as the âStudy Limitsâ for the archaeological and geophysical trenches
+(Figure 1-3).
+
+Figure 1-3. The study limits within the Area of Potential Effect.
+
+4
+
+Chapter 2: Environmental Setting
+Project Area Setting
+The project area is located in the geographic region referred to as the Edwards Plateau. The region
+is bordered by the Blackland Prairie to the east and the Central/Llano Basin to the north. A gently rolling
+landscape with seasonal drainages dominates the setting. Elevations in the northern part of the project
+area are approximately 590 ft above mean sea level (amsl) and drop to 560 ft amsl along the southern
+portion of the APE.
+A tributary of Salado Creek passes through the APE. The tributary is a natural drainage into Salado
+Creek. By 1959, it was straightened and concrete aprons were constructed to reduce erosion. The
+parcels of land located on either side of the channel are undeveloped. The south bank is grassed over
+and maintained. Electrical transmission towers have been constructed on the south bank of Salado
+Creek in an easement that spans from Pecan Valley Drive to IH-10/US-90. The segment of the west bank
+of Salado Creek between IH-10 and the electrical easement is at the base of a terrace on which houses
+have been constructed. It appears that the local residents have been using the space between the
+terrace drop-off and the creek bank as a dump. Along the east bank, within the landfill, the area is
+undeveloped and exhibits unmaintained vegetation.
+
+Soils
+The soils identified within the APE and the study area consist of Branyon clay (HtB), with 1 to 3
+percent slopes (Figure 2-1) (U.S. Department of Agriculture [USDA] 2015). Branyon clay series are
+typical in stream terraces and are moderately well drained. Due to the construction of the concrete
+aprons within the tributary channel, there is a strong likelihood that disturbed soils may be encountered
+within the study area.
+
+Geology
+The underlying geology of the project area is 100 percent Quaternary-age Fluviatile terrace deposits
+adjacent to the Salado Creek (TWDB 2016). These terrace deposits consist predominately of gravel,
+limestone, dolomite, and chert, with sand, silt, and clay. Most low terrace deposits along entrenched
+
+5
+
+waterways like Salado Creek are above flood level (TWDB 2016) but flood frequently.
+
+Figure 2-1. The soils located within and around the project area.
+
+6
+
+Flora and Fauna
+The project area is located near the intersection of the Balconian and Taumaulipan biotic provinces
+(Blair 1950). A diverse number of floral and faunal resources are available from the Austroriparian,
+Taumaulipan, Chihuahuan, Kansan, Balconian, and Texan biotic provinces.
+There are three major geographic regions nearby the project area: the Edwards Plateau, the
+Blackland Prairie, and the South Texas Plains. Trees, plants, and grasses in this region include cedar
+(Juniperus ashei), live oak (Quercus fusiformis), Texas mountain laurel (Sophora secundiflora), mesquite
+(Prosopis glandulosa), prickly pear (Optunia sp.), agarita (Berberis trifoliolata), cat claw (Smilax bonanox), mustang grape (Vitis mustangensis), sotol (Dasylirion texanum), and Spanish dagger (Yucca sp.).
+The fauna that inhabit the South-Central Texas region includes at least 95 bird and 29 mammal
+species. The area also contains a wide array of reptiles, fish, and amphibians. Mammal species that
+were noted along the ROW include white-tailed deer (Odocoileus virginianus), nine-banded armadillo
+(Dasypus novemcinctus), Virginia opossum (Didelphis virgininana), striped skunk (Mephitis mephitis),
+raccoon (Procyon lotor), coyote (Canis latrans), and cottontail rabbit (Sylvilagus audubonii).
+During the field work, RKEI identified mesquite, live oak, Spanish dagger, prickly pear, mountain
+cedar, bunch grasses, and wild onion along the vegetated areas of the Salado Creek bank. Evidence of
+raccoons and opossums remains was noted not far from the study area.
+
+South Texas Climate
+The climate in South-Central Texas is humid subtropical with hot and humid summers. From May
+through September, hot weather dominates with the cool season beginning around the first of
+November and extending through March. Winters are typically short and mild with little precipitation.
+San Antonio averages only 33 inches of rain per year (Southern Regional Climate Center [SRCC] 2016;
+based on monthly averages from 1980 to 2010). Monthly temperature averages range between 52Â°F in
+January to 85Â°F in August.
+
+7
+
+Chapter 3: Previous Archaeology and Historic Aerial Imagery
+Review
+A review of the Texas Archeological Sites Atlas shows that there are no archaeological sites located
+within the current APE. Outside but within a 1-km radius of the APE, one archaeological site is recorded
+and three archaeological surveys have been conducted (Figure 3-1). The site, 41BX64, is located at the
+junction of Salado Creek and an unnamed tributary entering the creek from the northwest, at the
+eastern end of J Street, and to the east of the current APE. The site was recorded by Anne Fox in 1971
+as a prehistoric campsite. In 2000, the site was re-evaluated to determine if the site was eligible for
+listing on the National Register of Historic Places (NRHP) or as a State Antiquity Landmark (SAL). Due to
+the lack of information, the NRHP eligibility of site 41BX64 was undetermined.
+
+One of the previous surveys indicated on the Texas Archaeological Sites Atlas took place
+approximately Â¼ km from the eastern edge of the current APE. The survey was conducted in 1973 for
+HCRS (THC 2016). No information concerning the project was noted.
+
+In 2003, the Center for Archaeological Research at the University of Texas at San Antonio (CARUTSA) conducted a 4.8-km linear archaeological survey of a segment of Salado Creek for the proposed
+Salado Creek Hike and Bike Trail.
+
+Shovel testing and backhoe trenching yielded no significant
+
+archaeological deposits. No cultural material was collected during the survey. The Alsbury Family
+Cemetery was thought to be located in the vicinity of the Hike and Bike Trail. A backhoe trench (BHT)
+and shovel tests placed along the path of the trail in the vicinity of the cemetery encountered no
+evidence of graves, and archival research suggests the cemetery is well outside the trail ROW. The
+project was recommended to proceed as planned, with additional archival and archaeological work
+recommended to locate the Alsbury Cemetery should future project impacts affect the area outside of
+the Hike and Bike Trail (Weston et al. 2004).
+
+In 2014, Pape-Dawson contracted SWCA to conduct an archaeological survey of the proposed 39acre Roland Avenue San Antonio Independent School District Transportation Facility located to the west
+of the current APE. SWCA excavated 20 shovel tests over the project area, finding much disturbance in
+the form of land form modifications, the installation of utilities, and refuse dumping. No further
+investigations were recommended and the project was allowed to proceed as planned (Ward 2014).
+
+8
+
+Figure 3-1. Location of previous archaeological projects and sites within a 1-km radius of the APE.
+
+One historical marker is located approximately 1 km from the western edge of the current APE. The
+marker identifies the location of Stephen F. Austinâs camp in October 1835. Austin was assembling
+troops in preparation of the attack on the Mexican garrison at San Antonio.
+
+9
+
+Historic Aerial Imagery Review
+The historic aerials of the project area span from 1938 to 2014. The aerials illustrate the changes
+that have occurred to the channel of Tributary B of Salado Creek over the years. The 1938 aerial (Figure
+3-2) reveals that the banks of the tributary were forested, except in the vicinity of the study area. The
+north descending bank was cleared and in cultivation. No modifications to the tributary channel were
+noted on the aerial. A farmstead appears to be located to the east of the project area. The property
+identified as the landfill in later years appears to be an agricultural field.
+The 1959 aerial of the APE shows that the channelization of the tributary was underway (Figure 3-3).
+The land adjacent to the channel was cleared and the route of the tributary had been slightly altered.
+The cleared tracts had become residential areas. Houses are noted on the properties to the east and
+west of the tributary. According to City records, the landfill was in operation at the time this aerial was
+taken (AACGCLI 2002). The property used as the landfill appears to exhibit evidence of grading.
+By 1963 (Figure 3-4), the channelization of Tributary B was complete. The concrete aprons were in
+place. The area immediately adjacent to the channel appears to be vegetated and does not exhibit
+structures. To the east and west of the APE, the area is residential. The landfill area appears to be
+vegetated. A drainage leading into the tributary was constructed in the southern portion of the project
+area.
+Ten years later, IH-10/US 90 is in place near the northern portion of the project area (Figure 3-5).
+The banks of the drainage are not developed. A structure is noted on the aerial on the exterior of the
+southern bend of the tributary. The area of the landfill appears to have rows of trees.
+The small drainage entering the creek in the southern portion of the project area appears to have
+been altered and possibly lined with concrete aprons by 1985 (Figure 3-6). In addition, the property
+adjacent to the southern portion of the project area appears to be cleared perhaps in anticipation of the
+installation of the power line towers that currently run from east to west, parallel with J Street. The
+landfill area appears to have rows of trees on the property. The structure located on the outer portion
+of the southern bend seems to have been razed and the property was under construction in 1985.
+
+10
+
+Figure 3-2. The 1938 aerial of the project area.
+
+11
+
+Figure 3-3. The 1959 aerial of the project area.
+
+12
+
+Figure 3-4. The 1963 aerial showing the completed channelization of the tributary.
+
+13
+
+Figure 3-5. The 1973 aerial of the project area.
+
+14
+
+Figure 3-6. The project area in 1985.
+
+15
+
+The aerial photograph taken in 1995 (Figure 3-7) reveals that vegetation is present along the
+tributary channel. In addition, the construction noted in the previous aerial on the exterior of the
+southern bend of the tributary has been completed. The aerial indicates that there is a vegetated area
+running between the tributary and the new construction. This corresponds with the landform, as the
+residential area is at a higher elevation than the vegetated area along the banks of the tributary. The
+landfill area appears to have rows of trees.
+Not much changed within or adjacent to the project area by 2005 (Figure 3-8). The undeveloped
+areas appear to be more densely vegetated, but no new construction is evident. City records indicate
+that the landfill was closed by 2004. Similar to the 2005 aerial, the 2014 aerial indicates that not much
+changed over 10-year period, with the exception of increase in vegetation in the undeveloped areas
+(Figure 3-9).
+
+16
+
+Figure 3-7. The 1995 aerial of the project area.
+
+17
+
+Figure 3-8. The 2005 aerial of the project area.
+
+18
+
+Figure 3-9. The 2014 aerial of the project area.
+
+19
+
+Chapter 4: Field and Laboratory Methodology
+Field Methods
+RKEI performed archaeological investigations of the up-stream and down-stream ends of the Salado
+Creek Tributary B Restoration where undisturbed deposits may be present in the designated âStudy
+Limitsâ. RKEI proposed to excavate two BHTs in each of these areas within the study limits to determine
+whether these locations do indeed contain undisturbed soils or not. These investigations occurred in
+conjunction with the excavation of geophysical trenches aimed at identifying the limits of the landfill. If
+the archaeological trenches revealed undisturbed deposits, the archaeologist was to examine these
+deposits for cultural materials and/or features. In additions, all ten of the backhoe trenches excavated
+for geotechnical purposes also were to be examined for intact soil deposits.
+
+Backhoe Trenching
+The archaeological backhoe trenches were positioned near the up-stream and down-stream termini
+of the study area on the north-descending bank of the tributary. Two BHTs each were proposed for the
+upstream and downstream portions of the study limits. It was assumed that intact deposits would be
+most likely within these locations given the extent of the fill across the creek terrace. The geophysical
+backhoe trenches were evenly spaced within the study limits on both banks of the creek.
+The trenches typically ranged from 3 to 5 meters in length and were approximately 1 meter wide to
+allow ease of access. Due to the depths of the trenches, observations of the soil stratigraphy were made
+from ground level. Measurements were taken from surface level to each soil change. The walls were
+observed for in situ cultural material, and the backdirt was examined. No cultural material associated
+with the landfill was collected during the project.
+
+Monitoring
+Ten geophysical trenches were excavated to evaluate the nature and composition of soils and the
+potential presence of buried wastes and/or associated environmental impacts. The trenches were
+excavated to a maximum depth of 10-15 feet below existing grade surface (bgs). The trenches were to
+be excavated 5 feet into native soil or a maximum depth of 15 feet. An RKEI archaeologist inspected the
+trench walls and backdirt for potential intact cultural material.
+
+20
+
+Laboratory Methods
+All project related documentation produced during the survey was prepared in accordance with
+federal regulation 36 CFR Part 79, and THC requirements for State Held-in-Trust collections. Field notes,
+field forms, photographs, and field drawings were placed into labeled archival folders and converted
+into electronic files. Digital photographs were printed on acid-free paper, labeled with archivally
+appropriate materials, and were placed in archival-quality plastic sleeves when needed. All field forms
+were completed with pencil. Ink-jet produced maps and illustrations were placed in archival quality
+plastic page protectors to prevent against accidental smearing due to moisture. A copy of the report
+and all digital materials was saved onto a CD and stored with field notes and documents. Since no
+artifacts were encountered during the course of the project, no cultural material was curated. All
+project-related documentation is permanently housed at Texas Archeological Research Laboratory
+(TARL).
+
+21
+
+Chapter 5: Results of Investigation
+Over the course of two days, 14 BHTs were excavated to document the extent of the suspected
+landfill across the Study Limits of the Tributary B Restoration Project in east-central San Antonio, Bexar
+County, Texas. The 14 BHTs were positioned in a systematic manner to examine the entire length of the
+study area within the APE (Figure 5-1). Four BHTs on the east bank of Tributary B were designated as
+archaeological trenches to determine if intact soils and cultural deposits were present near the upstream and down-stream edges of the study limits. Overall, seven trenches were excavated on each
+bank of the tributary.
+
+Figure 5-1. Location of the backhoe trenches excavated during the project.
+
+22
+
+Trenches 1, 2, 6, and 7 were designated as archaeological BHTs. These trenches were positioned
+near what was thought to be the edges of the landfill, or possibly outside of the landfill footprint. The
+remaining ten BHTs were placed by the geophysical technician to adequately sample the study area that
+will be affected by the improvements to the tributary channel. All trenches were oriented perpendicular
+to the tributary channel.
+
+Trench 1
+Trench 1 was placed on the east bank, in the southern portion of the APE. It was 4.6 meters long
+and 3.9 meters deep. All of the cultural material observed in the trench walls and in the backdirt was
+associated with the landfill zone exposed by the backhoe trench.
+The upper 10 cm of the trench consisted of dark brown clay loam that had many roots. Below the
+organic-rich upper layer was approximately 70 cm of mottled clay with gravels. The gravels averaged
+between 3 and 8 cm in diameter. Below the mottled clay, and approximately 75 cm below the surface,
+the backhoe encountered landfill deposits.
+Much of the soil was red, due to the decomposing metal items that were encountered. The landfill
+stratum was mostly composed of glass bottles and bottle fragments, as well as rusted metal items such
+as can fragments and car parts (Figure 5-2). A few fragments of animal bones were noted. These
+appeared to exhibit saw cut marks. Some ceramics were also encountered representing plates and
+coffee cups. Many of the glass bottles encountered had makerâs marks. There were brown Orange
+Crush bottles and bottle fragments that date from the 1940s to the 1970s (Sedelamaier 2012). The
+bottle exhibits a screen print rather than embossing, indicating it likely falls within the later portion of
+the date range. Another bottle had embossing on it that read âOrange Smileâ. The Orange Smile Syrup
+Company was headquartered in Missouri, and appears to have been in business from about 1922 to
+1964 (Painted Ad 2016). The unique shape of the bottle is consistent with those that were patented in
+1922. The top portion of a Coca-Cola Syrup bottle with the metal screw cap was also encountered. The
+syrup was transported in 1 gallon jugs between the 1940s and 1960s. Similar bottles are found in
+antique stores (Railroad Antique Store [RAS] 2016). In addition to the syrup jug fragment, several green
+glass Coca-Cola bottles made in San Antonio were also encountered.
+
+23
+
+Figure 5-2. Sample of material encountered in the landfill matrix.
+Below the landfill zone, the matrix was heavy with gravels that ranged from 5 to 10 cm in diameter.
+Chert cobbles were noted in the backdirt, but were not modified. A few fragmentary artifacts derived
+from the landfill zone migrated into the upper portion of the gravel layer. No other cultural material
+was observed. The gravel layer was approximately one meter thickness. At approximately three meters
+below the surface, the backhoe encountered a caliche layer that consisted of mottled yellow, tan, and
+white clays (Figure 5-3). No cultural material was noted in the caliche layer.
+
+Figure 5-3. East wall of Trench 1.
+
+24
+
+Trench 2
+Trench 2 was placed to the west of Trench 1. The top soil was approximately 16 cm in thickness.
+Between 16 cm and 70 cm below the surface, three layers of fill were noted. Below this fill, evidence of
+the landfill was exposed (Figure 5-4). The landfill deposit did not span the entire trench length. Rather,
+the trash layer ended approximately 1.5 meters from the north end of the trench, away from the
+tributary channel. Dark brown clay with approximately 30 percent gravels was encountered beneath
+the landfill deposit and extended to approximately 1.3 meters below the surface in the northern portion
+of the trench (see Figure 5-4). Below the clay with gravels, a black clay layer containing few gravels and
+carbonate nodules was encountered. This level was approximately 50 cm thick and sits atop the same
+gravel layer noted in Trench 1. The gravel layer was approximately 1.2 meters in thickness. Caliche was
+encountered below the gravels.
+
+Figure 5-4. The upper portion of the west wall of Trench 2 noting the landfill deposit.
+The artifacts encountered within the landfill deposit consisted of cast iron, metal fragments, plastic
+bags and fragments, paper, ceramic sherds, glass fragments, and glass bottles (Figure 5-5). Interesting
+items included a part from a Ford Model-T, an octagonal Noxzema jar (Figure 5-6), a Virginia Dare
+Bottle, Listerine bottles, a Halitosine bottle, and many soda bottles. The Noxzema jar appears to be one
+of the early varieties after the product was developed in 1911 (Neff 2008). One bottle was labeled as
+Virginia Dare Wine (Virginia Dare 2016). Virginia Dare was a wine stared circa 1835 by Garrettâs &
+
+25
+
+Company in North Carolina. In 1920, the company moved its manufacturing to Brooklyn, New York
+(Holland 2008). The problem with the move is that shortly after setting up shop in New York,
+Prohibition started. To be able to keep in business during prohibition, Garrettâs & Company removed
+the alcohol from the product and began producing extracts and flavorings. The bottle encountered
+during the trench excavations likely contained flavoring, and was produced after the move to New York.
+The bottle exhibited a threaded finish for a screw cap, which were common during the 1940s and 1950s.
+
+Figure 5-5. Sample of material associated with the landfill from Trench 2.
+
+Figure 5-6. Noxzema jar encountered in Trench 2.
+
+26
+
+Listerine was used as both an antiseptic and a mouthwash to prevent bad breath and reduce germs.
+Quite a few small Listerine bottles were encountered during the excavation of Trench 2. Many still
+retained remnants of the paper label. They all had threaded finishes for screw lids, indicating that these
+were likely manufactured during the 1940s and 1950s (Kilmer House 2016).
+Halitosine was another antiseptic that was used for cuts as well as for mouthwash. Halitosine was
+trademark registered in 1965 by the Luyties Pharmacal Company (Trademarkia 2016). The bottle
+encountered during trenching was likely from this time period.
+It appears that the bulk of the artifacts encountered in the landfill layer of Trench 2 dates between
+the 1940s to the 1960s. The trench reached a depth of 3.5 meters below the surface and was
+approximately 4.5 meters in length.
+
+Trench 6
+Trench 6 was placed along the east bank of the tributary, just north of the curve in the channel. The
+trench exhibited significantly different soils than the previously excavated trenches (Figure 5-7). The
+upper layer of soil was a dark brown clay loam that was very organic.
+
+The upper layer was
+
+approximately 20 to 30 cm thick and some gravels were present. A few fragments of glass and ceramic
+were noted in the backdirt. There were no more than about 10 items, mostly clear glass. Below, the soil
+changed to a lighter brown clay loam with some gravels, although a lesser density than the previous
+level. The lighter brown soil was approximately 40 cm thick. At 80 cm below the surface, the soil
+exhibited higher clay content. Carbonate flecks were noted in the matrix, as well as approximately 20
+percent gravels. A thin layer of the mottled caliche clay was noted at 1.2 meters below the surface. The
+layer was only 20 cm thick, and did not contain cultural material. Below the caliche, the soil became a
+black, blocky clay with ribbons of red. No cultural material was noted in this layer.
+Trench 6 was excavated to a terminal depth of 2.9 meters below the surface. The trench was
+approximately 5 meters in length. In comparison to Trenches 1 and 2, Trench 6 appears to have been
+placed outside of the footprint of the landfill. The few artifacts that were noted in the backdirt may
+have been deposited as part of the erosion process of the landform.
+
+27
+
+Figure 5-7. South wall of Trench 6.
+
+Trench 7
+Trench 7 was placed to the northeast of Trench 6. The upper 30 to 40 cm below the surface
+consisted of a dark brown clay loam with approximately 20 percent gravels (Figure 5-8). Between 40
+and 70 cm below surface, the soil became slightly lighter but continued to exhibit approximately 20
+percent gravels. In addition, small carbonate nodules were noted. No cultural material was noted in
+these upper two soil levels. Between 70 and 100 cm below the surface, the soil turned to a light brown.
+The density of gravels decreased slightly, and the carbonate nodules increased. At 1 meter below the
+surface, a caliche layer was encountered. The caliche layer was approximately 20 to 40 cm in thickness.
+The layer consisted of mottled yellow, tan, and white clays with gravels. The remainder of the trench
+consisted of black, blocky clay with red inclusions.
+
+The trench excavations were terminated at
+
+approximately 2.5 meters below the surface. The trench was 4.5 meters in length. No cultural material
+was encountered during the excavation of Trench 7. It appears that the trench was located outside of
+the limits of the historic landfill. Intact natural soil deposits were encountered, but did not contain
+cultural deposits.
+
+28
+
+Figure 5-8. The north wall of Trench 7.
+
+Geophysical Trenches
+Ten trenches (BHTs 3 through BHT 5 and BHT 8 through BHT14) were excavated specifically for the
+purpose of determining the extent of the landfill and the potential for encountering contaminated soils.
+Nonetheless, all 14 trenches (i.e., archaeological trenches included) were examined by the geotechnical
+expert for the landfill, as well as sampled the major strata for geochemical testing. Trenches 1 through 7
+were located on the east bank of the tributary, while BHTs 8 through 14 were located on the west bank.
+Trenches 3 through 5 encountered evidence of the landfill with deposits of trash ranging from 50 cm
+to 100 cm in thickness. The cultural material encountered in these trenches consisted of glass bottles,
+shoe soles, metal fragments, spoons, a headlight, tire tread, tire tubes, and other household items
+(Figure 5-9). The materials encountered appear to fall within the 1940s to a late 1970s date range.
+
+29
+
+Figure 5-9. Trench 4 backdirt with landfill artifacts; looking southwest.
+
+The landfill appears to not have extended to the west bank of the tributary. Trench 8 encountered
+mottled soils in the upper 1.45 meters of the trench. Below, the trenching revealed gravels with little
+clay. The gravels averaged in size from 5 to 25 cm in diameter. The gravel layer extended to
+approximately 3.2 meters below the surface. Natural clays were encountered below the gravels to the
+terminal depth of the trench at 3.95 meters below the surface. In addition, trenching revealed that the
+water table was located at approximately 3.5 meters below the surface as water began pooling at the
+base of the trench. No cultural material was noted within the trench or the backdirt.
+Trench 9 exhibited similar soils as Trench 8, but encountered a pocket of trash at 1.9 meters below
+the surface. The trash did not extend the entire length of the trench, and was visible in the east wall of
+the trench.
+
+The bottom of the trash deposit was at 2.25 meters below the surface, and was
+
+approximately 1.35 meters in length. The trench was excavated to a terminal depth of 3.85 meters
+below the surface. The native clay was encountered below the gravels at 3.8 meters below the surface.
+The trash deposit consisted of clear glass fragments and degraded metal fragments that turned the soil
+red (Figure 5-10). The material associated with the trash deposit has little diagnostic value, but may
+date to the mid-twentieth century.
+
+The deposit was not considered significant as it was
+
+contemporaneous with the landfill material, therefore not considered an archaeological deposit.
+
+30
+
+Figure 5-10. The west wall of Trench 9. Note the red, trash layer in the profile.
+Trench 10 encountered native, sterile clays at 3.5 meters below the surface. Above this, the
+excavation encountered gravels and fill material. One fragment of a white earthenware plate was
+encountered in the first 20 cm of excavation. The sherd was not associated with any other material.
+The remainder of the trench did not encountered cultural material.
+
+During the sampling and
+
+documentation, the base of the trench began to fill with water (Figure 5-11). The trench was excavated
+to a terminal depth of 3.84 meters below surface.
+
+Figure 5-11. The west wall of Trench 10. Note water pooling at the base of the trench.
+
+31
+
+Trench 11 was located on the north side of the drainage of the tributary. The trench was excavated
+to a terminal depth of 2.75 meters below the surface. Matrix in the upper 90 cm of the trench was
+composed of mottled soils and discarded cultural materials. At 1.5 meters below the surface, the
+excavations revealed the top of the gravel layers. At 2.44 meters below the surface, yellow-tan clay with
+carbonate streaks was encountered. The soils appear to slope toward the tributary channel.
+Trench 12 was excavated to a terminal depth of 1.9 meters below the surface. The trench exhibited
+a light gray to brown clay loam soil extending to a depth of 55 cm below the surface. A dark gray clay
+loam deposit is found immediately below the top soil and extends to an average depth of 92 cm below
+surface. This soil layer appears to represent an old surface that was subsequently artificially covered by
+a layer of light gray clay loam soil that formed a cap over the original surface. At 92 cm below the
+surface, the soil changed to a yellowish brown clay with carbonate streaks (Figure 5-12). The soil zones
+slope towards the creek. The basal yellow clay may be the same light colored soil exposed by grading
+and shown on the 1959 aerial image of the study area. The overlying dark gray soil may be the one
+accumulated over the landform as the vegetation re-established on the landform and contributed
+organics to the surface. The top soil zone may be derived from recent flood deposits. No cultural
+material was encountered during the excavation of Trench 12.
+
+Figure 5-12. The yellowish tan clay with evidence of carbonates located below the fill in Trench 12.
+Trenches 13 and 14 were located at the base of an upper terrace (T2) situated on the southdescending bank of the creek, near the upstream end of the study area. The landform gradually rises to
+the west of the creek channel in this portion of the APE.
+
+32
+
+These trenches encountered intact,
+
+undisturbed soils, capped by a thinner layer of mottled topsoil containing small numbers of modern
+artifacts (i.e., recent trash). The mottled topsoil sloped toward the channel of the creek and it was clear
+that the soils are derived from colluvial slope wash from higher elevations along the creek bank.
+Modern debris, including construction materials (i.e., tile, bathroom porcelain, and corrugated metal),
+tires), and household trash, litter the slope of the terrace. No cultural materials were noted within the
+undisturbed soil strata of the trench wall.
+
+33
+
+Chapter 6: Summary and Recommendations
+RKEI was contracted by the Transportation and Capital Improvements Department of the City of San
+Antonio to conduct archaeological backhoe trenching in selected areas of the proposed Salado Creek
+Tributary B Restoration Project. The project area was a section of Tributary B of Salado Creek located
+between IH-10/US 90 and Pecan Valley Drive. City records indicate that the area located on the east
+bank of the tributary was used as a public landfill from 1945 possibly until the 1980s.
+Four backhoe trenches were excavated near the up-stream (n=2) and downstream (n=2) termini of
+the study area, on the north descending bank of the creek. The goal of these archaeological trenches
+was to determine if intact soil deposits and in situ artifacts are present outside of the limits of the
+landfill near the edges of the study area. In addition, archaeologists were asked to also examine the
+stratigraphy and content of ten additional backhoe trenches excavated by the geophysical crew of RKEI.
+These trenches were to determine the horizontal and vertical distribution of landfill deposits and to
+evaluate the composition of soils and the potential presence of buried wastes and/or associated
+environmental impacts. Of the fourteen trenches, seven trenches were excavated on each side of the
+tributary channel.
+Backhoe Trenches 1 and 2 at the southern terminus of the Study Site exposed portions of the landfill
+including trash deposits dating between the 1940s and 1980s. Backhoe Trenches 6 and 7 excavated on
+the north descending bank of the creek near the northern terminus of the Study Site did not contain
+landfill deposits. The landfill deposit does not appear to extend to this portion of the project area. BHTs
+2 through 5 also found on the north-descending bank of the creek did expose landfill deposits and
+buried trash deposits. Some of the materials present in the landfill date to the 1920s likely indicating
+that many turn-of-the-century households retained and continued to use decades-old artifacts prior to
+discard.
+The trenches excavated on the south descending bank of the creek (Trenches 8 through 14) did not
+encounter the landfill deposits. However, Trench 9 revealed a pocket of trash that may represent the
+remnants of an isolated trash dump. The materials found in this dump appear to date between the
+1960s and 1980s. The remaining trenches encountered fill material in the upper levels and intact soils in
+the lower levels.
+
+34
+
+Based on the backhoe trenches excavated for archaeological purposes and the examination of the
+ten geophysical backhoe trenches, RKEI was able to define the extent of the landfill deposits within the
+study site. The deposits are distributed primarily across the north descending bank of Tributary B. No
+intact soil deposits and buried in situ prehistoric and/or historic cultural deposits are found under the
+landfill zone. Therefore, it is our recommendation that the planned Tributary B Restoration project will
+not adversely affect significant cultural deposits within the portion of the APE examined during this
+project. It is our assessment that the proposed improvements can proceed as planned.
+
+35
+
+References
+Blair, W.F.
+1950 The Biotic Provinces of Texas. Texas Journal of Science 2(1):93-117.
+Holland, J.
+2008 Days of Wine and Onions: Garrett & Co and Virginia Dare. Bklyn Public Library.
+http://brooklynology.brooklynpubliclibrary.org/post/2011/02/22/Days-of-Wine-andOnions-Garrett-Co-and-Virginia-Dare.aspx. Accessed January 2016.
+Kilmer House
+2016 Listerine Antiseptic: A Very Useful Product. Kilmer House: The Story of Johnson & Johnson
+and its People. http://www.kilmerhouse.com/2008/02/listerine-antiseptic-a-very-usefulproduct/. Accessed January 2016.
+Neff, J.
+2008
+
+Why You Seldom See Noxema Anymore. Advertising Age. http://adage.com/article/
+news/seldom-noxzema-anymore/129930/. Accessed January 2016.
+
+Painted Ad
+2016 Smile and Cheer Up. The Painted Ad. http://paintedad.com/2011/07/smile/. Accessed
+January 2016.
+RAS (Railroad Antique Store)
+2016 Coca-Cola Syrup Bottle. http://www.railroadantiqueplace.info/store/coca_cola_syrup.html.
+Accessed January 2016.
+Sedelmaier, J.J.
+2012 Vintage Orange Crush Soda Bottles Take a Ribbing. Print. http://www.printmag.com/
+design-inspiration/vintage-orange-crush-soda-bottles-take-a-ribbing/.
+Accessed January
+2016.
+Southern Regional Climate Center (SRCC)
+2016 Electric document, http://www.srcc.lsu.edu/, accessed January 2016.
+Texas Historical Commission (THC)
+2016 Texas Archaeological Sites Atlas, http://nueces.thc.state.tx.us/, accessed January 2016.
+Texas Water Development Board (TWDB)
+2016 Geologic Atlas of Texas. https://www.twdb.texas.gov/groundwater/aquifer/GAT/. Accessed
+January 2016.
+Trademarkia
+2016 Halitosine.
+Trademarkia.
+http://www.trademarkia.com/halitosine-72210724.html.
+Accessed January 2016.
+U.S. Department of Agriculture (USDA)
+
+36
+
+2015
+
+Web Soil Survey. U.S. Department of Agriculture, Soil Conservation Service, in cooperation
+with the Texas Agricultural Experiment Station. http://websoilsurvey.nrcs.usda.gov/
+app/WebSoilSurvey.aspx. Accessed January 2015.
+
+Virginia Dare
+2016 The Virginia Dare Story.
+http://www.virginiadare.com/About-Us/The-Virginia-DareStory.aspx. Accessed January 2016.
+Ward, R.D.
+2014 Intensive Cultural Resources Survey of the Roland Avenue San Antonio Independent School
+District Transportation Facility Project, Bexar County, Texas. SWCA Cultural Resources
+Report No. 14-259. San Antonio, Texas.
+Weston, J.D., B.K. Moses, R.D. Greaves, B.A. Meissner, and R.B. Mahoney
+2004 Archeological Survey for the Proposed Salado Creek Hike and Bike Trail, City of San Antonio,
+Bexar County, Texas. Archeological Survey Report No. 338. Center for Archaeological
+Research, The University of Texas at San Antonio.
+
+37
+
+

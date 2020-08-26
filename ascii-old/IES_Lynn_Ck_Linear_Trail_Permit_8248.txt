@@ -1,0 +1,1446 @@
+Archeological Survey Report
+Lynn Creek Linear Trail
+
+From: Existing Lynn Creek Linear Park Trail End Connection
+To: New York Avenue
+CSJ: 0902-90-025
+Tarrant County, Texas
+April 2018
+Prepared by: Integrated Environmental Solutions, LLC
+Kevin Stone, Principal Investigator
+(972) 562-7672; kstone@intenvsol.com
+The environmental review, consultation, and other actions required by applicable Federal environmental laws for this project are being,
+or have been, carried-out by TxDOT pursuant to 23 U.S.C. 327 and a Memorandum of Understanding dated December 16, 2014, and
+executed by FHWA and TxDOT.
+
+This page intentionally left blank
+
+ABSTRACT
+This report documents the substantive findings and management recommendations of an
+archeological survey conducted by Integrated Environmental Solutions, LLC (IES) for
+the Lynn Creek Linear Trail Project (CSJ: 0902-90-025) in the City of Arlington, Tarrant
+County, Texas. As the City of Arlington is a political subdivision of the State of Texas,
+the proposed project will require coordination with the Texas Historical Commission
+(THC) prior to construction, per the provisions of the Antiquities Code of Texas (ACT).
+All work conformed to 36 Code of Federal Regulations (CFR) Part 800 and 13 Texas
+Administrative Code (TAC) 26, which outline the regulations for implementing Section
+106 of the National Historic Preservation Act (NHPA) and the ACT, respectively.
+The goal of the survey was to locate, identify, and assess any archeological sites that
+could be adversely affected by the proposed development, and to evaluate such resources
+for their potential eligibility for listing as a State Antiquities Landmark (SAL) or
+eligibility for listing in the National Register of Historic Places (NRHP). The
+archeological survey was conducted by archeologist Thomas Chapman on 12 December
+2017, under Texas Antiquities Permit No. 8248. During the IES survey, one historicperiod archeological site (41TR308) was recorded within the 5.37-acre Area of Potential
+Effects (APE). Based on the lack of association with a significant historical event(s) or
+person(s), lack of standing buildings/structures, and the low potential to yield significant
+archeological data, the portion of 41TR308 documented within the APE is considered not
+eligible for inclusion in the NRHP under Criteria A, B, C, or D or designation as a SAL.
+No artifacts were collected as part of this survey. All records will be temporarily curated
+at the IES McKinney office and permanently curated at the Texas Archeological
+Research Laboratory (TARL). No further work is warranted. However, if any
+archeological sites, other than those documented within this report, are encountered
+during construction, the operators should stop construction activities and immediately
+contact the project environment representative to initiate coordination with the THC prior
+to resuming any construction activities.
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page I
+
+This page intentionally left blank
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page II
+
+TABLE OF CONTENTS
+ABSTRACT................................................................................................................................................... i
+PROJECT DESCRIPTION ......................................................................................................... 1
+1.1 Introduction ......................................................................................................................................... 1
+1.2 Area of Potential Effects ..................................................................................................................... 1
+1.3 Administrative Information................................................................................................................. 4
+ENVIRONMENTAL BACKGROUND ..................................................................................... 5
+2.1 Climate ................................................................................................................................................ 5
+2.2 Topographic Setting ............................................................................................................................ 5
+2.3 Geology and Soils ............................................................................................................................... 5
+CULTURAL BACKGROUND .................................................................................................. 9
+3.1 Previous Investigations ....................................................................................................................... 9
+3.2 Regional Historical Background ......................................................................................................... 9
+3.3 Archeological Resources Potential ................................................................................................... 10
+Disturbance Analysis .......................................................................................................... 10
+Prehistoric Resource Potential ............................................................................................ 10
+Historic-Period Resource Potential ..................................................................................... 11
+METHODOLOGY .................................................................................................................... 15
+4.1 Survey Methods ................................................................................................................................ 15
+Shovel Testing .................................................................................................................... 15
+Site Delineation and Recording .......................................................................................... 15
+Archival Research ............................................................................................................... 17
+4.2 Site Evaluation .................................................................................................................................. 17
+National Register Evaluation Criteria ................................................................................. 17
+State Antiquities Landmark Evaluation Criteria ................................................................. 18
+4.3 Curation ............................................................................................................................................ 19
+RESULTS ................................................................................................................................. 21
+5.1 Archeological Survey........................................................................................................................ 21
+General Survey Observations.............................................................................................. 21
+Archeological Survey Results ............................................................................................. 21
+5.2 Documented Cultural Resources....................................................................................................... 21
+Site 41TR308 ...................................................................................................................... 21
+SUMMARY AND RECOMMENDATIONS ........................................................................... 27
+REFERENCES CITED ............................................................................................................................... 29
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page III
+
+LIST OF FIGURES
+Figure 1.1: General Location Map ............................................................................................................... 2
+Figure 1.2: Topographic Setting .................................................................................................................. 3
+Figure 2.1: Geologic Setting ........................................................................................................................ 6
+Figure 2.2: Soils Located Within and Adjacent to the APE ......................................................................... 7
+Figure 3.1: Previous Investigations within One-Mile of the APE ............................................................. 12
+Figure 3.2: Areas of Disturbance Map ....................................................................................................... 13
+Figure 3.3: Potential Archeological Liability Map .................................................................................... 14
+Figure 4.1: High Probability Area Map ..................................................................................................... 16
+Figure 5.1: Archeological Shovel Test Location ....................................................................................... 25
+Figure 5.2: Site 41TR308 Plan Map .......................................................................................................... 26
+
+LIST OF TABLES
+Table 2.1: Soils Located within the APE ..................................................................................................... 5
+Table 3.1: Previous Surveys within 1 Mile of the APE ................................................................................ 9
+Table 5.1: 41TR308 Chain of Title ............................................................................................................. 23
+Table 6.1: Summary of NRHP/SAL Eligibility Recommendations............................................................ 27
+
+APPENDICES
+Appendix A â Photograph Location Map and Photographs
+Appendix B â Archeological Site Location Map
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page IV
+
+PROJECT DESCRIPTION
+This report presents the results of a cultural resources survey conducted by Integrated Environmental
+Solutions, LLC (IES), under subcontract to Schrickel, Rollins, and Associates, Inc. and on behalf of the
+City of Arlington, for the proposed Lynn Creek Linear Trail (CSJ-0902-90-025). The purpose of these
+investigations was to conduct an inventory of cultural resources (as defined by Code of Federal
+Regulations, Title 36, Section 800.4 [36 CFR 800.4]) present within the proposed project area and to
+evaluate identified resources for their eligibility for inclusion in the National Register of Historic Places
+(NRHP), as per Section 106 (36 CFR 800) of the National Historic Preservation Act (NHPA) of 1966, as
+amended, or for designation as State Antiquities Landmarks (SALs) under the Antiquities Code of Texas
+(ACT; Texas Administrative Code, Title 13, Chapter 26 [13 TAC 26]) and was conducted under Texas
+Antiquities Permit No. 8248. A brief description of the proposed project area or Area of Potential Effects
+(APE), environmental and historical contexts, field and analytical methods, results of the investigations,
+and recommendations regarding the identified cultural resources are provided in this document. Prepared
+in accordance with the Council of Texas Archeologists (CTA 2002) guidelines, this report satisfies the
+NHPA Section 106 and ACT requirements of the proposed project.
+
+1.1 Introduction
+The City of Arlington proposes to construct a 1.64-mile pedestrian and cycling trail along Lynn Creek
+between the current endpoint of the Lynn Creek Linear Trail near Buttercup Lane to New York Avenue in
+the City of Arlington, Tarrant County, Texas. The APE is plotted on modern aerial photography and the
+Arlington 7.5-minute series U.S. Geological Survey (USGS) topographic quadrangle map (Figures 1.1
+and 1.2). The proposed project is located within property owned and maintained by the City of Arlington
+and is funded by Texas Department of Transportation and the Federal Highway Administration. As the
+project consultant for Schrickel, Rollins, and Associates, Inc. and on behalf of the City of Arlington, IES
+performed an archeological survey to locate any prehistoric or historic-period archeological sites that
+could be considered potentially eligible for inclusion on the NRHP or designation as a SAL within the
+5.37-acre APE.
+
+1.2 Area of Potential Effects
+The APE encompasses an approximately 5.37-acre area that ranges in width from 16 feet to 168 feet
+along the 1.64-mile proposed trail corridor. Engineering designs call for the construction of a 12-foot
+wide concrete pathway with 2-foot shoulders that would include landscaping, concrete benches, and
+retaining walls. A prefabricated, 40-foot by 12-foot pedestrian bridge would be installed approximately
+450 feet east of the existing Lynn Creek Park Trail end connection. To construct this trail, grading and
+drainage improvements would be required throughout the APE, which includes the installation of four
+pipe culverts. The westernmost culvert would be located approximately 290 feet west of the cul-de-sec of
+Watch Hill Court. One culvert would be located approximately 400 feet east of the intersection of Victory
+Crest Drive and Sienna Drive and another 185 feet south of the intersection of Broken Kettle Road and
+Sienna Drive. A final reinforced concrete pipe (RCP) culvert would be located 450 feet west of New York
+Avenue.
+Vertical impacts within the APE would primarily be restricted to the ground surface; however, the
+proposed grading would reach approximately 6 to 12 feet in depth. These deeper subsurface impacts
+would occur between Hillgreen Drive and South Collins Street and approximately 120 feet directly east of
+South Collins Street where the retaining walls and rock rip-rap would be installed; however, these deeper
+grading activities would occur within areas that have been significantly disturbed. As such, it is
+anticipated that no backhoe trenching would be required.
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 1
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 2
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 3
+
+1.3 Administrative Information
+Sponsor: City of Arlington
+Review Agency: Texas Department of Transportation, Texas Historical Commission
+Principal Investigator: Kevin Stone, MA, RPA
+IES Project Number: 04.022.011
+Date(s) of Field Work: 12 December 2017
+Area Surveyed: 5.37 acres
+Sites Recommended Eligible for NRHP Under Criteria in 36 CFR 60.4: None
+Sites Recommended Not Eligible for NRHP Under Criteria in 36 CFR 60.4: 41TR308
+Curation Facility: No artifacts were collected. Field notes and all records will be temporarily curated at
+the IES office in McKinney and permanently curated at Texas Archeological Research Laboratory
+(TARL).
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 4
+
+ENVIRONMENTAL BACKGROUND
+2.1 Climate
+Tarrant County is in North-Central Texas. This region features a humid subtropical climate with an
+annual rainfall average ranging from approximately 35 to 40 inches. About half of the rain usually falls
+between April and May, with July and August being the two driest months of the year. The subtropical
+region tends to have a relatively mild year-round temperature with the occasional exceedingly hot and
+cold snaps (Estaville and Earl 2008).
+
+2.2 Topographic Setting
+The USGS Arlington 7.5-minute topographic quadrangle map illustrates that the APE is primarily located
+within a gently sloping upland setting along Lynn Creek, a tributary to the Elm Fork Trinity River. The
+APE parallels Lynn Creek and is dissected by several of its unnamed tributaries (see Figure 1.2). Lynn
+Creek empties into Joe Pool Lake approximately 1.85 miles southeast of the APE.
+
+2.3 Geology and Soils
+The APE is located within the Northern Blackland Prairie in the Texas Blackland Prairie ecoregion. This
+region is distinguished from surrounding regions by the gently rolling hills and fine-textured, black clayey
+soils with predominant prairie vegetation (Griffith et al. 2007). Vertisols dominate the Texas Blackland
+Prairie and consist of a high content of clay that has great shrinking and swelling potential. The Eagle
+Ford Formation (Kef) underlies these soils, and consists of shale with calcareous concretions, siltstone,
+and limestone (McGowen et al. 1987; Scoggins 2004; USGS 2017; Figure 2.1).
+As shown by the Soil Survey of Tarrant County, Texas, there are seven mapped soils within the APE
+(Ressel 1981; Table 2.1). Approximately 81.4 percent of the APE contains soils typical of upland terrain
+within the Northern Blackland Prairie ecoregion. The remaining 18.6 percent of the APE contains
+frequently flooded soils along Lynn Creek. Soil data was viewed from the USDA NRCS Web Soil Survey
+(Web Soil Survey 2017; Figure 2.2).
+Table 2.1: Soils Located within the APE
+Approximate
+Percentage
+of the APE
+
+Soil Map Unit Description
+18 - Branyon clay 0 to 1 percent slopes - This component is described as clay derived from mudstone of Pleistocene age
+located on stream terraces. Depth to a root restrictive layer or bedrock is greater than 80 inches. The natural drainage class is
+moderately well drained.
+
+30.1
+
+24 - Ferris clay, 5 to 12 percent slopes, eroded - This component is described as clay residuum weathered from mudstone
+and located on ridges. Depth to a root restrictive layer or bedrock is 39 to 60 inches to densic bedrock. The natural drainage
+class is well drained.
+
+14.2
+
+25 - Ferris-Heiden complex, 2 to 5 percent slopes - This component is described as clay located on ridges. Depth to a
+restrictive layer is between 39 to 60 inches to densic bedrock. The natural drainage class is well drained.
+
+28.9
+
+27 - Frio silty clay, frequently flooded - This component is described as silty clay located on Flood plains. Depth to a root
+restrictive layer or bedrock is More than 80 inches. The natural drainage class is Well drained.
+
+0.1
+
+33 - Heiden clay, 1 to 3 percent slopes - This component is described as a clay residuum weathered from mudstone located
+on ridges. Depth to a restrictive layer is 40 to 65 inches to densic material. The natural drainage class is well drained.
+
+4.8
+
+54 - Ovan clay, frequently flooded - This component is described as clay located on flood plain steps. Depth to a root
+restrictive layer or bedrock is greater than 80 inches. The natural drainage class is moderately well drained.
+
+18.5
+
+84 - Wilson clay loam, 0 to 2 percent slopes - This component is described as clay loam derived from mudstone and located
+on stream terraces. Depth to a root restrictive layer or bedrock is more than 80 inches. The natural drainage class is
+moderately well drained.
+
+3.5
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 5
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 6
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 7
+
+This page intentionally left blank
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 8
+
+CULTURAL BACKGROUND
+3.1 Previous Investigations
+A file search within the TASA maintained by the Texas Historic Commission (THC) identified no
+previously recorded archeological sites, previously conducted archeological surveys, National Register
+Properties, historical markers, or cemeteries are located within or directly adjacent to the APE (TASA
+2017). TASA records indicated that one previously recorded archeological site and twelve previously
+conducted archeological surveys are located within 1 mile of the APE (Figure 3.1; Tables 3.1 and 3.2).
+TASA records do not contain any data for the previously recorded archeological site (41TR126).
+Table 3.1: Previous Surveys within 1 Mile of the APE
+ACT*
+Permit #
+
+Firm/Institution
+
+Date
+
+Survey
+Type
+
+U.S. Army Corps of
+Engineers, Fort Worth
+District (USACE-SWF)
+
+n/a
+
+Southern Methodist University
+
+1979
+
+Linear
+
+0.96 mile east of APE
+
+USACE-SWF
+
+n/a
+
+Southern Methodist University
+
+1979
+
+Area
+
+0.98 mile east of APE
+
+City of Arlington
+
+1239
+
+Geo-Marine, Inc.
+
+1993
+
+Area
+
+0.78 mile northwest of APE
+
+City of Arlington
+
+1405
+
+Geo-Marine, Inc.
+
+1994
+
+Area
+
+0.4 mile west of APE
+
+City of Arlington
+
+1405
+
+Geo-Marine, Inc.
+
+1994
+
+Area
+
+0.55 mile west of APE
+
+Federal Highway
+Administration
+
+â
+
+Texas Department of Transportation
+
+1994
+
+Linear
+
+0.86 mile north of APE
+
+Texas Parks and Wildlife
+Department
+
+2345
+
+Geo-Marine, Inc.
+
+2000
+
+Area
+
+0.71 mile south of APE
+
+Environmental Protection
+Agency
+
+n/a
+
+AR Consultants, Inc.
+
+2004
+
+Area
+
+0.85 mile southeast of APE
+
+City of Grand Prairie
+
+4741
+
+AR Consultants, Inc.
+
+2008
+
+Area
+
+0.7 mile east of APE
+
+Federal Aviation
+Administration
+
+4804
+
+Doughtry Sprague Environmental
+
+2008
+
+Area
+
+0.77 mile north of APE
+
+Texas Department of
+Transportation
+
+5160
+
+AmaTerra Environmental, Inc.
+
+2011
+
+Area
+
+0.63 mile east of APE
+
+City of Arlington
+
+7870
+
+AJC Environmental, LLC
+
+2016
+
+Area
+
+0.75 mile south of APE
+
+Agency
+
+Location (Approximate)
+
+*ACT = Antiquities Code of Texas
+
+3.2 Regional Historical Background
+Prior to 1843, occupation by Anglo-American settlers was limited due to hostile relations with Native
+American Comanche, Kiowa, and Wichita tribes. A series of punitive raid attempts, beginning in 1838,
+were conducted against the Native Americans settled along Village Creek, culminating in the Battle of
+Village Creek on May 24, 1841. A treaty signed in 1843 relocated the Native Americans to a reservation
+on the upper Brazos River. The treaty provided a greater sense of security to immigrants, which began to
+move into the region in larger quantities. By 1849, the growth in population warranted additional military
+support. Thus, an outpost, Camp Worth (later to become the town of Fort Worth), was established and the
+area was formally recognized by the Texas Legislature as Tarrant County (Hightower 2012). The postCivil War and Reconstruction years during the mid- to late-1860s saw the population decrease, as well as,
+economic decline and shortages. However, construction of the Texas and Pacific Railroad and the
+Missouri-Kansas-Texas Railroad through Fort Worth, during the 1870s, ensured the importance of the
+region and aided in its development and growth. Spurred by the railroads, agriculture began to take root
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 9
+
+during the 1880s. Agriculture was firmly established within the region by 1890, when open range
+ranching and long-distance cattle drives were eliminated by the widespread adoption of barbed wire
+fencing. The combination of agriculture coupled with localized cattle ranching continued to fuel growth in
+Tarrant County, raising the population from 41,142 to 152,800 between 1890 to 1920. Economies within
+Tarrant County flourished until the peak of the Great Depression in 1932. Times remained tough, with
+few employment opportunities, until New Deal projects were initiated by President Franklin D Roosevelt.
+The economy continued to improve with the onset of World War II, which permanently established Fort
+Worth as an aviation powerhouse in both the military and manufacturing sectors. Population growth
+within the county was immense during the mid to late 20th century, rising from 361,253 in 1950 to 1.4
+million by 2000. The population growth was linked to several key components, including: aviation and
+manufacture, interstate highway construction, and the completion of the DFW International Airport.
+Today, the City of Fort Worth and Tarrant County has maintained its frontier atmosphere while serving as
+a vital component to the Dallas-Fort Worth metropolitan area (Hightower 2012).
+
+3.3 Archeological Resources Potential
+In addition to the TASA review, several additional sources were referenced to determine the overall
+potential for encountering archeological sites within the APE. These sources included the Soil Survey of
+Tarrant County, Texas, the Geologic Atlas of Texas - Sherman Sheet, the USGS topographic map, the
+NRCS digital soil database for Tarrant County, the Potential Archeological Liability Map (PALM), the
+National Archives and Records Administrationâs (NARA) 1940 Census Enumeration District Maps for
+Tarrant County, the Texas Historic Overlay (THO) georeferenced maps, and both past and current aerial
+photography.
+Disturbance Analysis
+During the background review, it was determined that ground-disturbing activities have transpired within
+the APE since the mid-twentieth century that have pertained to land use, transportation development, and
+residential development (Figure 3.2). Prior to the 1990s, the area surrounding the proposed project area
+largely consisted of agricultural properties and dispersed rural residences. A vegetated riparian corridor
+has been maintained along Lynn Creek since at least the early 1950s; however, some erosion is evident
+along the channel and its unnamed tributaries on a 1953 USGS aerial photograph. By the late 1960s,
+several ponds had been created using earthen berms within the more severe erosional areas as depicted in
+a 1968 USGS aerial photograph. This erosion and subsequent earthen berm construction is likely to have
+compromised the contextual integrity, specifically integrity of location, design, and association, of
+archeological deposits in those areas, if present. The area surrounding the APE remained largely
+unchanged until 2000, with the construction of several residential developments adjacent to the APE
+including the Lynn Creek Village, the Western Trails Addition, the Eden Creek Addition, and the Collins
+Terrace subdivisions (Tarrant Appraisal District 2017). A review of modern aerial imagery indicates that
+the portion of the APE along Jessica Lane has been extensively disturbed during the construction of the
+roadway. In addition, the portion of the APE south of Sienna Drive near the intersection with Switchgrass
+Road is the former location of one of the mid-twentieth century ponds previously described. These areas
+are also expected to have severely compromised contextual integrity.
+Prehistoric Resource Potential
+Data presented within the PALM indicates that most of the APE contains a moderate potential for
+containing shallow and deeply buried prehistoric resources within a reasonable context. In areas where the
+APE crosses or is located on the lower terraces of Lynn Creek, there is high potential for shallow
+resources and a moderate potential for deeply buried cultural resources. The PALM indicates that
+negligible potential is present within limited portions of the APE near the intersection of Switchgrass
+Road and Sienna Drive (described above) and along New York Avenue (Figure 3.3). While portions of
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 10
+
+the APE have been affected by vegetation removal and urban development, it is recommended that
+portions of the APE contain a reasonable context and has retained moderate to high probability for
+preserving archeological deposits.
+Historic-Period Resource Potential
+Historic-period resources within North-Central Texas are primarily related to farmsteads, houses, and
+associated outbuildings and structures that date from the mid-nineteenth to the mid-twentieth centuries.
+Typically, these types of resources are located along old roadways, but can also be located along
+railroads, creeks, and open pastures. Although determining the presence of the earliest of these buildings
+and structures is problematic, thorough and accurate post-1920 maps depicting these features were widely
+available.
+The 1920 U.S. Bureau of Soils map for Tarrant County indicated that a historic-period dwelling was
+located immediately north of the eastern terminus of the APE at New York Avenue. This is confirmed by
+the 1959 USGS topographic map that depicts a structure in the same location. Historical aerial
+photography from 1953 shows that the structure, a residential house, had several associated outbuildings
+and was situated on a fenced parcel north of the APE. Although many of the outbuildings have been
+removed, the house is currently standing at 6618 New York Avenue.
+At the eastern terminus of the project area, a farmstead was formerly located within the APE. The
+farmstead consisted of a residential building that was built between 1963 and 1968. An associated barn
+structure was erected south of the residence in the 1970s. The residential building was demolished by
+1990 and the barn was removed between 2009 and 2011. As such, it was determined that the APE
+contains a moderate potential for containing historic-period archeological resources within proximity to
+those identified through background research.
+Historical maps indicated that the remaining portion of the APE was void of historic-period resources
+prior to 1930. This was visually confirmed through historical aerial photography from 1953 and modern
+aerial imagery review. As such, it was determined that the APE contains a low potential for containing
+historic-period archeological resources outside of the area identified above.
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 11
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 12
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 13
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 14
+
+METHODOLOGY
+The archeological inventory for the archeological survey of the Lynn Creek Linear Trail Project was
+conducted on 13 December 2017. The methods and density of excavating shovel tests met the minimum
+requirements for fieldwork stipulated by the THC and CTA Archeological Survey Standards for Texas.
+Prior to field work, the IES staff conducted a historical and archeological records search to determine
+what archeological sites have been recorded within the APE and within a 1-mile radius of the APE. This
+information was detailed in Chapter 3. Additionally, IES staff reviewed ecological, geological, soils data,
+as well as, historical and recent topographic maps and aerial photography.
+
+4.1 Survey Methods
+Approximately 3.72 acres of the total 5.37-acre APE was located within areas that have experienced
+significant disturbance. The remaining 1.65 acres appeared to have avoided modern ground disturbances.
+As such, the pedestrian survey consisted of location-specific investigations that targeted high probability
+areas (HPAs) within the APE (Figure 4.1). To develop HPAs, areas containing with moderate and high
+potential for containing cultural resources identified within the PALM were selected within the APE.
+This selection was compared to current land use, past disturbances, and previous survey limits. HPAs did
+not denote the specific limits of a given survey, but was expanded or contracted depending on field
+observations. Areas displaying high levels of disturbance were photographed to document the lack of
+potential for intact archeological deposits. Other documentation methods included narrative notes, maps,
+and shovel test records.
+Shovel Testing
+In areas with potential for archeological materials, shovel tests were excavated to 80 centimeters (cm) or
+the bottom of culturally sterile deposits, whichever was encountered first. Each shovel test was 30 cm in
+diameter and was hand excavated in natural stratigraphic levels not exceeding 20 cm in thickness.
+Excavated soil was screened using Â¼-inch hardware cloth to test for the presences of buried archeological
+material. All tests were recorded on maps and plotted using hand-held global positioning system (GPS)
+units. Investigators documented the results of each test on standardized shovel test forms. Although the
+entire APE was comprised of 5.37 acres, due to the aforementioned reasons, acreage for the HPA was a
+much smaller area of approximately 1.27 acres. Although HPA methodology is not discussed within the
+CTA survey standards, using the standards as a guideline, a minimum of two shovel tests were conducted
+for each HPA acre surveyed. However, shovel test numbers varied from this amount based on the exact
+limit of cultural material, the level of disturbance, erosion, and steep slope observed during the pedestrian
+survey. All positive shovel tests, cultural features, and other site data were geospatially recorded using
+Trimble XT hand-held GPS units.
+Site Delineation and Recording
+An archeological site is typically considered to be a spatially discrete area containing cultural resources.
+The recognition of a âsiteâ is therefore contingent on the basis of content and extent. Content may refer
+to artifacts or cultural features encountered in surface or subsurface contexts, architectural elements, or
+other manifestations of past human activity. The extent of a site is based on the vertical and horizontal
+spatial arrangement of these cultural remains. For surficial materials, a site is defined as five or more
+artifacts of at least two different materials or functional classes located within the same vicinity (typically
+a 400-m2 [0.1-acre] area) or at least one cultural feature. The extent of the surface artifacts and cultural
+features are then defined as the site boundary. When artifacts or features are encountered in buried
+contexts, a site is defined within the extent of the culturally positive excavations. In cases where an
+excavated survey sampling location (i.e., shovel test or backhoe trench) yields cultural materials,
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 15
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 16
+
+additional delineation excavations are conducted to define the boundary of the site. The spatial extent of
+the site is defined within the extent of positive excavations. Archeological sites may also be defined
+within the extent of surface artifacts or features and culturally positive excavations when both are present.
+Cultural remains meeting these criteria are designated as a site, recorded on a Texas Archeological Site
+Data Form, and submitted to the Texas Archeological Research Laboratory (TARL) to be included in the
+Texas Archeological Sites Atlas (TASA) database. Conversely, discovery of cultural materials that do not
+meet these criteria are considered isolated occurrences of past human activity and are simply documented
+by location and content. Modern materials and features (i.e., less than 50 years old) are not considered
+sites, with only location and content documented. Depending on depositional integrity and cultural
+content, archeological sites can be eligible for inclusion in the NRHP or for designation as SALs. Cultural
+isolates and modern features are not eligible for inclusion in the NRHP or for designation as SALs
+because of their failure to meet site definition and their inability to contribute important information to the
+understanding of history or prehistory.
+Standards for archeological methods require that measurements be recorded in metric units. For this
+reason, while general distances and engineering specifications are described in imperial units (e.g., inches,
+feet, miles) within this report, archeological measurements and observations are listed in metric units
+(e.g., centimeters, meters, kilometers), unless historic-period artifact or architectural elements are more
+appropriately recorded in imperial units.
+Archival Research
+Historic maps and aerial photographs encompassing the direct APE and indirect APE were reviewed to
+determine the locations of historic-age (e.g., greater than 50 years old) structures. Deed/title research was
+conducted for historic-period architectural resources and archeological sites that contained evidence of
+historic-period site components. The purpose was to identify historically notable persons that were
+possibly associated with the site. Initial research was carried out by examining deed and land title records
+at the Tarrant County Clerkâs office. The historic significance of identified persons associated with each
+resource were also researched using The Handbook of Texas Online database and within various local
+history publications.
+
+4.2 Site Evaluation
+Each identified archeological site was plotted on the appropriate 7.5-minute USGS topographic map and a
+scaled site map was prepared for each site. Field data were processed to evaluate site significance and
+potential eligibility for inclusion in the NRHP and designation as an SAL. When applicable, a variety of
+data were used to assess site significance including temporal period, artifact density, artifact variety,
+feature density, feature variety, feature preservation, stratigraphic integrity, and amount of disturbance.
+National Register Evaluation Criteria
+The assessment of significance of a cultural resources property is based on federal guidelines and
+regulations. The criteria for evaluating properties for inclusion in the National Register are codified under
+the authority of the National Historic Preservation Act of 1966, as amended (36 CFR Part 60.4 [aâd]), and
+the Advisory Council on Historic Preservation has set forth guidelines to use in determining site
+eligibility. Federal regulations indicate that â[t]he term âeligible for inclusion in the National Registerâ
+includes both properties formally determined as such by the Secretary of the Interior and all other
+properties that meet National Register listing criteriaâ (36 CFR Â§800.2[e]). Based on Advisory Council
+guidelines, any cultural resource that is included in or eligible for inclusion in the National Register is a
+historic property.
+Subsequent to the identification of relevant historical themes and related research questions, four criteria
+for eligibility are applied. The quality of significance in American history, architecture, archeology,
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 17
+
+engineering, and culture is present in districts, sites, buildings, structures, and objects that possess
+integrity of location, design, setting, material, workmanship, feeling, and association and:
+Criterion A:
+Criterion B:
+Criterion C:
+
+Criterion D:
+
+that are associated with events that have made a significant contribution to the broad
+patterns of our history; or
+that are association with the lives of persons significant in our past; or
+that embody the distinctive characteristics of a type, period, or method of construction, or
+that represent the work of a master, or that possess high artistic values, or that represent a
+significant and distinguishable entity whose components may lack individual distinction; or
+that have yielded, or may be likely to yield, information important in prehistory or history
+[36 CFR Part 60.4(aâd)].
+
+The principal objective is to determine whether a cultural resource possesses the potential to contribute to
+one or more of the above-defined criteria. Adequate information regarding site function, context, and
+chronological placement from both archeological and, if appropriate, historical perspectives is essential
+for cultural resources investigations. Because research questions vary as a result of geography, temporal
+period, and project design, determination of site context and chronological placement of cultural resources
+is a particularly important objective during the inventory and evaluation processes. Criterion D is
+generally associated with prehistoric, but also historic-era, archeological sites. Criteria A, B, and C
+typically reflect association with historic-era resources, rarely with prehistoric sites. The objective of the
+current project was to locate and define both the horizontal and vertical extents of any cultural resources,
+document and describe those resources, and then, when adequate data were present, evaluate each for
+NRHP eligibility.
+State Antiquities Landmark Evaluation Criteria
+For purposes of implementing the ACT, the THC is the statutorily created body responsible for protecting
+and preserving SALs under the Texas Natural Resources Code, Title 9, Chapter 191. A SAL is an
+archeological site, archeological collection, ruin, building, structure, cultural landscape, site, engineering
+feature, monument or other object, or district that is eligible to be designated as a landmark or is already
+officially designated as a landmark. The State of Texas considers all publicly-owned archeological sites
+and historic buildings and structures to have some intrinsic historic value, and the ACT provides some
+level of protection for those sites, buildings, or structures regardless of their size, character, or ability to
+currently yield data that will contribute important information on the history or prehistory of Texas.
+Additionally, these publicly-owned archeological sites and historic buildings and structures are protected
+from vandalism, or other actions meant to take, alter, or destroy them, and information directly related to
+the specific location of archeological sites is restricted from open records requests. However, not all
+cultural resources are equally significant to the history and prehistory of Texas. Some archeological sites
+may not possess research value sufficient to warrant long-term preservation or investigations beyond
+survey level documentation, and some historic buildings and structures retain minimal integrity due to
+damage or deterioration. Therefore, the issue of whether cultural resources are significant and warrant
+preservation, and/or further research (such as archeological testing and data recovery level investigations),
+is addressed through official landmark designation, permit issuance, and rules associated with
+enforcement of the ACT. Sections 191.091 and 191.092 of the Texas Natural Resources Code provide
+that archeological sites and historic buildings and structures on lands belonging to state agencies or
+political subdivisions of the state of Texas are landmarks or may be eligible to be designated as
+landmarks. Also protected under the Texas Natural Resources Code (Section 191.094) are specially
+designated landmarks on private property [above information compiled from Texas Administrative Code,
+Title 13, Part 2, Chapter 26, Subchapter A, Section 26.2].
+Under the ACT at the state level, archeological sites may be considered significant and be recognized or
+designated as an SAL. The THC uses one or more of the following criteria when assessing the
+appropriateness of official landmark designation, and/or the need for further investigations under the
+permit process:
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 18
+
+Criterion 1: the site has the potential to contribute to a better understanding of the prehistory and/or history of Texas by
+the addition of new and important information;
+Criterion 2: the siteâs archeological deposits and the artifacts within the site are preserved and intact, thereby supporting
+the research potential or preservation interests of the site;
+Criterion 3:
+the site possesses unique or rare attributes concerning Texas prehistory and/or history;
+Criterion 4: the study of the site offers the opportunity to test theories and methods of preservation, thereby
+contributing to new scientific knowledge;
+Criterion 5: there is a high likelihood that vandalism and relic collecting has occurred or could occur, and official
+landmark designation is needed to ensure maximum legal protection, or alternatively, further
+investigations are needed to mitigate the effects of vandalism and relic collecting when the site cannot
+be protected [13 TAC 26.10].
+
+Buildings, structures, cultural landscapes, and non-archeological sites, objects, and districts may be
+designated as landmarks provided that the following conditions are met:
+Condition 1:
+
+the property fits within at least one of the following criteria:
+(a) the property is associated with events that have made a significant contribution to the broad patterns
+of our history, including importance to a particular cultural or ethnic group;
+(b) the property is associated with the lives of persons significant in our past;
+(c) the property embodies the distinctive characteristics of a type, period, or method of construction,
+represents the work of a master, possesses high artistic value, or represents a significant and
+distinguishable entity whose components may lack individual distinctions
+(d) the property has yielded, or may be likely to yield, information important in Texas culture or
+history;
+Condition 2: the property retains integrity at the time of the nomination, as determined by the executive director of the
+commission; and
+Condition 3: for buildings and structures only, the property must be listed in the National Register of Historic
+Places, either individually, or as a contributing property within a historic district as determined by the
+Keeper of the National Register or the executive director of the commission [13 TAC 26.19].
+
+4.3 Curation
+The survey employed a non-collection strategy. Records, files, field notes, forms, and other
+documentation will be included in the curation package. All field-generated documents will be
+temporarily curated at the IES office and permanently curated at TARL. These documents and
+photographs will be organized and catalogued according to TARL curation standards.
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 19
+
+This page intentionally left blank
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 20
+
+RESULTS
+During the pedestrian survey, one archeological site was encountered within the 5.37-acre APE
+inventoried for cultural resources. Shovel test unit locations are illustrated in Figures 5.1. A photograph
+location map, general photographs, and archeological site photographs are located in Appendix A.
+Archeological site maps are illustrated in Figures 5.2. Topographical archeological site locations are in
+Appendix B.
+
+5.1 Archeological Survey
+General Survey Observations
+During the survey, field investigations verified that the past agricultural land use had caused surface
+disturbances within a large percentage of the APE (see Figure 3.2). The APE was located within a varied
+environment that ranged from mixed hardwood forest to maintained park settings (Appendix A,
+Photograph 1 through 27). The topography within the APE was primarily minimally-sloped. Several
+locations along the APE cross Lynn Creek, and as such, the topography increased in slope (see Appendix
+A, Photographs 2, 6, 7, and 11). Overall, the APE west of South Collins Street was located within
+maintained areas that appeared to be sporadically mowed. The APE east of South Collins Street was
+located within mixed wooded terrain with some portions of the proposed trail paralleling Sienna Drive
+and Barred Owl Road. The portions of the APE located within mixed woods setting has experienced low
+density dumping, which resulted in modern trash being scattered throughout the APE (see Appendix A,
+Photographs 2, 11, 14, 15, 16, 17, 18, 20, 21, and 24). The eastern portion of the APE between New
+York Avenue and Barred Owl Road (see Appendix A, Photographs 25 through 27).
+Archeological Survey Results
+During the IES survey, a total 20 shovel tests were excavated throughout the APE (Figure 5.1).
+Archeological survey of the APE utilized an HPAs survey method to adequately investigate portions of
+the APE that have retained a reasonable context for encountering intact archeological deposits. As such,
+two shovel tests were excavated within each HPA when applicable. The small size of several HPAs lent
+to testing using a single shovel test. In instances of larger HPAs, shovel tests were place approximately 50
+m apart. Field survey verified the disturbances surrounding the HPAs.
+Shovel testing within the APE revealed a soil containing a medium to coarse very dark gray clay loams
+(10YR 3/2) with 10 to 20 percent gravels. These shovel tests did not exceed 50 cmbs in depth due to
+extremely compact clay loams and culturally sterile soils. In addition to shovel testing, subsurface
+exposures including animal burrows, disturbed patches, and the cut banks of Lynn Creek were examined
+when applicable. Ground surface visibility was predominately zero, however, select areas within mixed
+woods contained visibility that reached 40 percent. Ground cover ranged from short grasses within
+maintained areas to tall grasses and woody shrubs in overgrown areas.
+
+5.2 Documented Cultural Resources
+Site 41TR308
+During the IES survey, a newly recorded historic-period archeological site (41TR308) was encountered
+within the eastern extent of the APE (Figure 5.2). This newly recorded site pertained to a domestic
+dwelling that was constructed between 1963 and 1968. Based on aerial photographic interpretation, the
+demolition of the structure took place between 2010 and 2011.
+The site was initially encountered when a foundation and associated concrete features were observed
+during the background review for this project and were documented during pedestrian survey. As a
+result, additional shovel tests were excavated within and surrounding the site. During site delineation, a
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 21
+
+total of five shovel tests (TC16 through TC20) were excavated to evaluate the archeological deposits
+present at the site. Site 41TR308 was delineated based on the horizontal extent of surface features,
+through the excavation of negative shovel tests, and within the limits of the APE. However, a complete
+delineation of the site boundary was unobtainable due to the APE limits. The site extends approximately
+30 m east-to-west by 43 m north-to-south across the upper terrace bordering Lynn Creek. The northern
+and southern portions of the site boundary coincide with the limits of the APE. It is likely that the
+southern portion of the site boundary extended up to 15 m outside of the APE, where the upland terrace
+transitions into the steeply-sided Lynn Creek channel. The northern portion of the site boundary likely
+extends approximately 3 m north to the former property line. The eastern portion of the site boundary
+extends to the maintained New York Avenue ROW, currently occupied by utilities and a pedestrian
+sidewalk (Appendix A, Photograph 28). The western boundary was delineated through the presence of
+surface features and negative shovel tests excavated within the APE.
+Survey and Testing Observations
+Site 41TR308 was identified on a nearly-level terrace bordering Lynn Creek. Clear evidence of ground
+disturbance was observed within the site, which included evidence of a demolished historical-period
+structure or structures. Apart from the surface features, the site surface largely consisted of loose gravel
+and concrete chunks (Appendix A, Photographs 29 and 30). Several modern ceramic tiles were observed
+between Feature 1 and Feature 3. Shovel tests were placed surrounding Feature 1 within locations outside
+of the eroded concrete that constitutes Features 2 through 4 to determine the vertical extent and the degree
+of disturbance of the site. Additional testing was conducted to the west of the features to determine the
+horizontal extent of the site.
+Shovel testing revealed a layer of fine dark gray (10YR 4/1) loam that contained 50 percent gravel
+inclusions. This layer likely represented the natural soil intermixed with gravel and concrete chunks
+disturbed during demolition of the structures. This upper layer extended to approximately 30 cmbs.
+Beneath this disturbed layer, soils contained a medium to coarse very dark gray (10YR 3/2) clay loam that
+featured significantly less gravel inclusions. This lower layer was identical with soils see throughout the
+remaining portions of the APE. Through site delineation, no subsurface artifacts or cultural deposits were
+observed.
+Historic-Period Features
+Feature 1 comprises an intact rectangular slab, measuring 9 m by 17 m, that served as the foundation of
+the historical-period dwelling (Appendix A, Photographs 31 through 33). The northern portion of
+Feature 1 contains a 1-m-by-0.5-m section of linoleum flooring adhered to the concrete slab. The central
+portion of the slab contains a 4-inch iron drainage pipe, the top of which was flush with the slab. Small
+trees and shrubs line the northern and southern boundaries of the feature. The western border of Feature 1
+parallels the APE, and a small portion of the northwest corner of the feature extends beyond the APE.
+Overall, Feature 1 exhibits minimal signs of deterioration or erosion.
+Feature 2 is the heavily eroded remnants of the concrete driveway that spanned the eastern extent of the
+original dwelling and connected the two New York Avenue access points (Appendix A, Photographs 34
+through 36). The feature is approximately 2 m wide and 18 m long. It is located approximately 4 m east of
+Feature 1. At the time of the survey, Feature 2 was heavily eroded and partially overgrown. Few locations
+featured a smooth surface, and the soil surrounding Feature 2 contains elevated quantities of gravel and
+concrete chunks.
+Feature 3 is the heavily eroded remnants of a concrete pad surrounding the northern and western borders
+of Feature 1 (Appendix A, Photographs 37 through 45). Feature 3 likely pertained to a driveway
+extension that provided vehicle and parking access to the rear of the original dwelling. Within the APE,
+the feature measures approximately 15 m wide and 19 m long and is present on aerial photography until
+1995. Feature 3 extends south of the APE for approximately 11 m and west of the APE for approximately
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 22
+
+10 m. At the time of field survey, Feature 3 was in varying states of deterioration with the least
+deteriorated portion being within the southern portion of the feature (Appendix A, Photograph 45).
+Feature 3 extended beyond the boundaries of the site and APE.
+Feature 4 is a 5 m by 6 m eroded concrete slab bordering Feature 3 (Appendix A, Photograph 46).
+Feature 4 was differentiated from Feature 3 due to the mound-like form of the concrete. While Feature 3
+was relatively level throughout and surrounding the site, the central portion of Feature 4 was
+approximately 2 feet higher than the surrounding terrain. Oblong concrete signatures matching the
+boundary to Feature 4 are present in aerial photography as early as 2001. As such, it is not likely that
+Feature 4 is a result of demolition of the domestic structure between 2010 and 2011. At the time of field
+survey, the surface of Feature 4 was heavily pitted but was more intact than surrounding portions of
+Feature 3.
+Archival Research
+Site 41TR308 was documented during this survey near the eastern terminus of the APE. The site is
+identified as the structural remnants of a rural residence or farmstead. During the late twentieth century,
+the site consisted of a residential building that was built between 1963 and 1968, based on a review of
+historic aerial photographs. An associated barn structure was erected south of the residence in the 1970s.
+The residential building was demolished by 1990 and the barn was removed between 2009 and 2011.
+Using public deed records from the Tarrant County Clerkâs Office, a chain of title for the property
+encompassing site 41TR308 was generated (Table 5.1).
+Table 5.1: 41TR308 Chain of Title
+Grantor
+Amanda P. Keeter, Elias S. Keeter,
+Annie Belle Waits, J. W. Waits,
+Linnie Mae Box
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+Maudie Lee Brown joined by her
+husband David I. Brown
+
+12/8/1947
+
+1961
+
+296
+
+Maudie Lee Brown, deceased
+
+Margaret June Brown, sole heir
+
+DOD 11/4/1972
+
+5390
+
+892
+
+Margaret June Brown
+
+Eddie M. Robinson and Betty Lou
+Robinson
+
+1/26/1973
+
+5390
+
+896
+
+Betty Lou Robinson
+
+Eddie M. Robinson
+
+6/27/1977
+
+6270
+
+87
+
+Ardell M. Young, trustee
+
+11/7/1977
+
+6359
+
+299
+
+James H. Knapp, trustee
+
+11/11/1977
+
+6359
+
+309
+
+DOD 8/2/1980
+
+Instrument
+D21203512
+
+n/a
+
+Darcy Lee Knapp Fricks, Shelley
+Lynn Knapp, and James Christopher
+Knapp
+
+3/26/1997
+
+12776
+
+134
+
+James Christopher Knapp
+
+9/24/1997
+
+12926
+
+591
+
+City of Arlington
+
+7/14/2016
+
+Instrument
+D216159429
+
+n/a
+
+Eddie M. Robinson and Ruby
+Robinson
+Eddie M. Robinson and Ruby
+Robinson
+James H. Knapp, Jr., deceased
+Darcy Lee Knapp Fricks and James
+Christopher Knapp, co-successor
+trustees of the Darcy Lee Knapp,
+Shelley Lynn Knapp, and James
+Christopher Trusts
+Darcy Lee Knapp Fricks and
+Shelley Lynn Knapp
+James C. Knapp
+
+The primary domestic structure associated with site 41TR308 was likely constructed while the property
+was under the ownership of Maudie Lee Brown and David I. Brown. The associated barn was likely
+added to the property by Eddie M. Robinson and Betty Lou Robinson prior to dividing the interest in the
+property between trustees Ardell M. Young and James H. Knapp. The structures were then demolished
+while the property was under the ownership of James Christopher Knapp, prior to the transfer of the
+property to the City of Arlington.
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 23
+
+Site Integrity
+Site 41TR308 was identified as a late-twentieth-century domestic site encompassing a 0.23-acre area that
+measured approximately 30 m east-to-west by 43 m north-to-south. The site delineation and evaluation
+process revealed that the site occupied an upper terrace bordering Lynn Creek. No surficial or subsurface
+artifacts were observed. Shovel tests illustrated that the upper 30 cmbs of the site had been disturbed and
+was intermixed with large quantities of gravel. As such, the contextual integrity of the site is very low.
+Summary
+Site 41TR308 is a newly-recorded historic-period archeological site that contained concrete features
+pertaining to a domestic dwelling constructed around 1968. Demolition of the structures at the site
+occurred between 2010 and 2011 and the property was vacant at the time of field survey. A total of five
+shovel tests were excavated within and surrounding the site. All shovel tests were negative for cultural
+materials. A total of four features were observed within the site, all of which were concrete features that
+served the original structure. No subsurface features were encountered during site delineation. It is likely
+that the site extends outside of the APE to the west and south. The site has no association with significant
+persons of local, regional, or national historical importance.
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 24
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 25
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 26
+
+SUMMARY AND RECOMMENDATIONS
+During the pedestrian survey, 20 shovel tests were excavated within the 5.37-acre APE. As a result of this
+survey, one archeological site (41TR308) was documented within the APE.
+Table 6.1: Summary of NRHP/SAL Eligibility Recommendations
+NRHP/SAL Eligibility
+Recommendations
+
+Site Trinomial
+
+Not Eligible
+
+41TR308
+
+41TR308 is a newly recorded historic-period archeological site that contained the foundation slab and
+concrete features associated with a mid-twentieth century domestic dwelling constructed between
+1963 and 1968. Shovel testing within the site did not encounter any surficial or subsurface cultural
+materials. Four surface features were encountered within the site and were generic in design. Based
+on the siteâs lack of association with a significant historical event(s) or person(s), lack of standing
+buildings/structures, and the low potential to yield significant archeological data, the portion of
+41TR308 documented within the APE should be considered not eligible for inclusion in the NRHP
+under Criteria A, B, C, or D or designation as a SAL. No further work is recommended for this site
+within the APE. The eligibility of any associated cultural resources located outside the APE remains
+unknown.
+Therefore, it is the recommendation of IES that the Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+be permitted to continue without the need for further cultural resource investigations. However, if any
+cultural resources, other than those detailed within this report, are encountered during construction, the
+operators should immediately cease construction activities in those areas. The project cultural resources
+consultant should then be contacted to initiate further consultation with the THC/SHPO prior to resuming
+construction activities. In addition, if project designs change, and areas outside the APE detailed within
+this report are to be impacted, additional field investigations may be required.
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 27
+
+This page intentionally left blank
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 28
+
+REFERENCES CITED
+Council of Texas Archeologists (CTA)
+1996 Update on Survey Standards. CTA Newsletter 20(2).
+2001
+
+Revised Archeological Survey Standards for Texas. CTA Newsletter 25(2).
+
+2002
+
+Guidelines for the Content of Cultural Resource Management Reports, manuscript on file with
+the membership.
+
+Estaville, L., and R. Earl
+2008 Texas Water Atlas. Texas A&M University Press, College Station.
+Griffith, G., S. Bryce, J. Omernik, and A. Rogers
+2007 Ecoregions of Texas. Texas Commission on Environmental Quality
+Hightower, W. K.
+2012 Handbook of Texas Online. s.v âTarrant County,â
+http://www.tshaonline.org/handbook/online/articles/hct01. Published by the Texas State
+Historical Association. (accessed December 2017).
+Hill, R. T.
+1901 The Topography and Geology of the Cross Timbers and Surrounding Regions in North Texas.
+American Journal of Science 33(196).
+McGowen, J. H., T. F. Hentz, D. E. Owen, M. K. Pieper, C. A. Shelby, and V. E. Barnes
+1991 Geological Atlas of Texas, Sherman Sheet. The University of Texas Austin.
+Ressel, D.
+1981 Soil Survey of Tarrant County, Texas. USDA, Soil Conservation Service in cooperation with
+Texas Agricultural Experiment Station.
+Texas Archeological Site Atlas (TASA)
+2017 Texas Archeological Sites Atlas. s.v. âTarrant Countyâ http://nueces.thc.state.tx.us/ (accessed
+December 2017).
+U.S. Department of Agriculture (USDA)
+2017 Web Soil Survey. National Resources Conservation Service,
+http://websoilsurvey.nrcs.usda.gov/app/HomePage.htm (accessed December 2017).
+U.S. Geological Survey (USGS)
+2017 U.S. Department of the Interior Mineral Resources On-Line Spatial Data Website.
+http://mrdata.usgs.gov/sgmc/tx.html (accessed December 2017).
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+Page 29
+
+This page intentionally left blank
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+APPENDIX A
+Photograph Location Map and Photographs
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 1 - General Setting Looking East
+
+Photograph 2 - General Setting Looking East
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 3 - General Setting Looking West
+
+Photograph 4 - General Setting, Modern Trash
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 5 - General Setting Looking West
+
+Photograph 6 - General Setting Looking East
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 7 - General Setting Looking Southeast
+
+Photograph 8 - General Setting Looking West
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 9 - General Setting Looking West
+
+Photograph 10 - General Setting Looking West
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 11 - General Setting Looking South
+
+Photograph 12 - General Setting Looking East
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 13 - General Setting Looking East
+
+Photograph 14 - General Setting, Modern Trash
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 15 - General Setting, Modern Trash
+
+Photograph 16 - General Setting, Modern Trash
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 17 - General Setting Looking Northeast
+
+Photograph 18 - General Setting Looking Northwest
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 19 - General Setting Looking West
+
+Photograph 20 - General Setting, Concrete Chunks
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 21 - General Setting Looking Northwest
+
+Photograph 22 - General Setting Looking Southwest
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 23 - General Setting Looking South
+
+Photograph 24 - General Setting, Modern Trash
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 25 - General Setting Looking East
+
+Photograph 26 - General Setting Looking East
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 27 - General Setting Looking South
+
+Photograph 28 â Site 41TR308, Looking North
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 29 - Site 41TR308, Looking Southeast
+
+Photograph 30 - Site 41TR308, Looking Northwest
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 31 - Site 41TR308, Feature 1, Looking Southeast
+
+Photograph 32 - Site 41TR308, Feature 1, Looking Northwest
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 33 - Site 41TR308, Feature 1, Looking West
+
+Photograph 34 - Site 41TR308, Feature 2, Looking Northeast
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 35 - Site 41TR308, Feature 2, Looking North
+
+Photograph 36 - Site 41TR308, Feature 2, Looking South
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 37 - Site 41TR308, Feature 3, Looking Northwest
+
+Photograph 38 - Site 41TR308, Feature 3, Looking West
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 39 - Site 41TR308, Feature 3, Looking West
+
+Photograph 40 - Site 41TR308, Feature 3, Southwest
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 41 - Site 41TR308, Feature 3, Looking West
+
+Photograph 42 - Site 41TR308, Feature 3, Looking South
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 43 - Site 41TR308, Feature 3, Looking Southeast
+
+Photograph 44 - Site 41TR308, Feature 3, Looking Northeast
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+Photograph 45 - Site 41TR308, Feature 3, Looking East
+
+Photograph 46 - Site 41TR308, Feature 4, Looking South
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+APPENDIX B
+Archeological Site Location Map
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+This page intentionally left blank
+
+Lynn Creek Linear Trail Project (CSJ: 0902-90-025)
+Archeological Survey Report
+
+IES Project No. 04.022.011
+
+

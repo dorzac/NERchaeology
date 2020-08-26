@@ -1,0 +1,5452 @@
+ARCHAEOLOGICAL SIGNIFICANCE TESTING AT 41WM1028,
+ROUND ROCK, WILLIAMSON COUNTY, TEXAS
+
+Prepared for
+WILLIAMSON COUNTY
+301 Southeast Inner Loop
+Suite 109
+Georgetown, Texas 78626
+
+Prepared by
+Ken Lawrence, John Lowe, and Mercedes C. Cody
+
+SWCA ENVIRONMENTAL CONSULTANTS
+4407 Monterey Oaks Blvd.
+Building 1, Suite 110
+Austin, Texas 78749
+www.swca.com
+
+Principal Investigator
+Steve Carpenter
+Texas Antiquities Permit 4591
+SWCA Project Number 11333-139-AUS
+SWCA Cultural Resources Report No. 2007-373
+February 8, 2008
+
+ABSTRACT
+SWCA Environmental Consultants (SWCA) conducted archaeological signiﬁcance testing from August 6–10,
+2007 at site 41WM1028 along the Arterial “A” Roadway project in southern Williamson County, Texas. On
+behalf of Williamson County and S. D. Kallman Engineers, L. P., this work was conducted in compliance with
+the National Historic Preservation Act and the Texas Antiquities Code under Texas Antiquities Permit 4591. S.
+D. Kallman Engineers, L.P., partially ﬁnanced through federal funds administered through Williamson County,
+will construct an interim three-lane urban arterial roadway (Arterial “A”), 6,000 feet long within a 120-foot wide
+right-of-way (ROW) with associated improvements. Based on the ﬁndings of a previous archaeological reconnaissance and a revisit to 41WM1028 by SWCA, the proposed Arterial “A” route would impact an archaeological
+site (41WM1028) recommended for further investigations. Accordingly, the purpose of SWCA’s investigation
+was to determine the nature, potential signiﬁcance, and limits of cultural resources within the project area.
+The SWCA test excavations at 41WM1028 included excavation of nine backhoe trenches, ﬁve hand-excavated
+1 m² units, mapping, and other documentation. The investigations of 41WM1028 encountered a broad scatter of
+cultural materials (primarily debitage and burned rock fragments) in both surface and subsurface contexts. The
+cultural materials extend about 160 m along the north-south trending Arterial “A” corridor and extend beyond
+the margins of the roughly 37-m wide Area of Potential Effects (APE). The majority of the cultural materials
+for the site are within the upper 50 cm with the highest frequency occurring at the northern end of the site along
+the eastern margin of the survey corridor. The artifact assemblage decreases along the western margins of the
+Arterial “A” corridor and toward the southern end of the site. Several small burned rock features were identiﬁed
+in trench proﬁles and subsequently hand excavated during the text excavations. These investigations determined
+that the vast majority of the deposits retain minimal integrity as a result of bioturbation and agricultural activities
+among others. The recovered temporally diagnostic artifacts indicate that the disturbed plow zone and underlying
+stratum contains a mixed assemblage of Early Archaic to the Late Prehistoric artifacts.
+Based on the general lack of integrity and previous impacts, site 41WM1028 within the Arterial “A” alignment
+is considered to have minimal potential to contribute new or signiﬁcant information to the local or regional
+prehistory. Based on these ﬁndings within the current alignment, SWCA concludes that the project will have
+no adverse affects on signiﬁcant cultural resources and recommends no further archaeological work. Therefore,
+41WM1028 is not recommended as eligible for National Register of Historic Places (NRHP) nomination under
+Criterion D of 36 CFR 60.4. Site 41WM1028 does not warrant State Archeological Landmark (SAL) designation. However, any impact beyond the currently conﬁgured ROW warrants additional assessment.
+The artifacts and records associated with this project are curated at the Texas Archeological Research Laboratory
+(TARL) at The University of Texas at Austin.
+
+i
+
+TABLE OF CONTENTS
+Abstract ................................................................................................................................................................. i
+Figures................................................................................................................................................................. iv
+Tables .................................................................................................................................................................. iv
+Management Summary ........................................................................................................................................ v
+Chapter 1: Signiﬁcance Testing of 41WM1028
+Introduction ................................................................................................................................................1-1
+Previous Investigations at 41WM1028 ......................................................................................................1-1
+Project Description .....................................................................................................................................1-3
+Organization of this Report ........................................................................................................................1-4
+Chapter 2: Environmental Setting
+Introduction ................................................................................................................................................2-1
+Geology ......................................................................................................................................................2-1
+Soils ............................................................................................................................................................2-1
+Vegetation ...........................................................................................................................................2-1
+Fauna....................................................................................................................................................2-2
+Paleoenvironment.......................................................................................................................................2-3
+Chapter 3: Cultural Setting
+Introduction ................................................................................................................................................3-1
+Previously Recorded Prehistoric Sites in the Vicinity of 41WM1028 .......................................................3-1
+Relevant Archaeological Sites in the Region .............................................................................................3-2
+Prehistoric Culture History ........................................................................................................................3-3
+Paleoindian Period (11,500–8,800 b.p.)...............................................................................................3-3
+Archaic Period (8,800–1,200 b.p.).......................................................................................................3-3
+Early Archaic Subperiod (8,800–6,000 b.p.).................................................................................3-3
+Middle Archaic Subperiod (6,000–4,000 b.p.)..............................................................................3-4
+Late Archaic Subperiod (4,000–2,250 b.p.) ..................................................................................3-4
+Transitional Archaic Subperiod (2,250–1,250 b.p.) ......................................................................3-4
+Late Prehistoric Period(1,250–260 b.p.)..............................................................................................3-5
+Historic Culture History .............................................................................................................................3-5
+The Spanish Colonial/Mexican Independence Period (1630–1821 a.d.).............................................3-5
+The Republic of Texas/Pre-Civil War Period (1836–1860 a.d.) ..........................................................3-6
+The Post-Civil War / Reconstruction Period (1865–1890 A.D.).........................................................3-6
+Late Nineteenth/Early Twentieth Century (1890 A.D.–Present) ........................................................3-7
+Chapter 4: Methods and Research Design
+Introduction ................................................................................................................................................4-1
+Research Design .........................................................................................................................................4-1
+Evaluating Site Signiﬁcance and National Register of Historic Places Eligibility..............................4-1
+Research Issue 1: Integrity of the Archaeological Deposits ...............................................................4-1
+Research Issue 2: Potential Data Yield ...............................................................................................4-2
+Evaluating Signiﬁcance .......................................................................................................................4-2
+Scope of Work and Methods ......................................................................................................................4-2
+Artifact Collection ...............................................................................................................................4-3
+Site Mapping........................................................................................................................................4-3
+Feature Documentation........................................................................................................................4-3
+ii
+
+Special Samples ...................................................................................................................................4-3
+Chapter 5: Results of Investigations
+Introduction ................................................................................................................................................5-1
+Narration and Summary of Excavations ....................................................................................................5-1
+Testing Excavations .............................................................................................................................5-1
+Backhoe Trench Excavation..........................................................................................................5-1
+Hand Excavation ...........................................................................................................................5-7
+Test Unit 1 .....................................................................................................................................5-7
+Test Unit 2 .....................................................................................................................................5-8
+Test Unit 3 .....................................................................................................................................5-9
+Test Unit 4 ...................................................................................................................................5-12
+Test Unit 5 ...................................................................................................................................5-13
+Chapter 6: Cultural Features and Recovered Materials
+Introduction ................................................................................................................................................6-1
+Cultural Features ........................................................................................................................................6-1
+Feature 1 .....................................................................................................................................................6-1
+Description...........................................................................................................................................6-1
+Interpretation and Chronology.............................................................................................................6-2
+Feature 2 .....................................................................................................................................................6-2
+Description...........................................................................................................................................6-2
+Interpretation and Chronology.............................................................................................................6-3
+Recovered Materials...................................................................................................................................6-4
+Prehistoric Stone Artifacts ...................................................................................................................6-4
+Informal Tools ............................................................................................................................... 6-4
+Formal Tools..................................................................................................................................6-5
+Bifaces...........................................................................................................................................6-5
+Projectile Points.............................................................................................................................6-7
+Recovered Materials Discussion ....................................................................................................... 6-11
+Chapter 7: Synthesis and Recommendations
+Introduction ................................................................................................................................................7-1
+Natural Stratigraphy.............................................................................................................................7-1
+Cultural Stratigraphy............................................................................................................................7-1
+Site Size and Distribution ....................................................................................................................7-2
+Research Issue 1: Integrity of the Archaeological Deposits ...............................................................7-2
+Research Issue 2: Potential Data Yield ...............................................................................................7-3
+Evaluating Signiﬁcance .......................................................................................................................7-3
+References
+
+iii
+
+Figures
+1.1.
+5.1.
+5.2.
+5.3.
+5.4.
+5.5.
+5.6.
+5.7.
+5.8.
+5.9.
+6.1.
+6.2.
+6.3.
+6.4.
+6.5.
+6.6.
+
+Project location map of site 41WM1028 .................................................................................................1-2
+Overview of site 41WM1028 with investigations ...................................................................................5-2
+Site map of 41WM1028...........................................................................................................................5-3
+Proﬁle of B2 west wall ............................................................................................................................5-6
+Proﬁle of B3 west wall ............................................................................................................................5-7
+Overview of TU 1 at base of excavations................................................................................................5-8
+West wall proﬁle of Test Unit 1 ...............................................................................................................5-9
+South wall proﬁle of Test Unit 2............................................................................................................5-12
+Overview of TU-4 facing north .............................................................................................................5-13
+Proﬁle of TU 5 .......................................................................................................................................5-13
+Overview of Feature 1 in TU 4................................................................................................................6-1
+Overview of burned rock at top of Feature 2...........................................................................................6-2
+Overview of Feature 2 .............................................................................................................................6-3
+Overview of Feature 2 and surrounding matrix.......................................................................................6-4
+Bifaces .....................................................................................................................................................6-8
+Projectile points .......................................................................................................................................6-9
+
+Tables
+5.1.
+5.2.
+5.3.
+6.1.
+6.2.
+
+41WM1028 Backhoe Trench Data ..........................................................................................................5-4
+41WM1028 Recovered Debitage Amounts ...........................................................................................5-10
+41WM1028 Fire-Cracked Rock Amounts/Weights............................................................................... 5-11
+Informal Tools..........................................................................................................................................6-5
+Formal Tools ............................................................................................................................................6-6
+
+iv
+
+MANAGEMENT SUMMARY
+PROJECT TITLE: Archaeological Testing of 41WM1028, Round Rock, Williamson County, Texas.
+SWCA PROJECT NUMBER: 11333-139-AUS.
+PROJECT DESCRIPTION: SWCA conducted archaeological testing at 41WM1028, a prehistoric site partially within
+the area of potential effect along the route of a proposed Arterial “A” Roadway project and bridge installation
+at Brushy Creek.
+LOCATION: The proposed project is located in southern Williamson County about 2.75 miles east of Interstate
+Highway 35 in Round Rock, Texas and about 1.45 miles east of County Road 122. Site 41WM1028 is situated
+on the uplands south of Brushy Creek and north of Forest Creek Drive. The project area is shown on the Round
+Rock USGS 7.5-minute topographic quadrangle.
+EXCAVATED VOLUME: Less than 5 m3 excavated by hand.
+PRINCIPAL INVESTIGATOR: Steve Carpenter.
+TEXAS ANTIQUITIES PERMIT: 4591.
+DATES OF WORK: August 6–10, 2007.
+PURPOSE OF WORK: The investigations were conducted in compliance with the requirements of the Texas
+Antiquities Code.
+ELIGIBILITY OF SITES: Site 41WM1028 is not eligible for NRHP listing and does not warrant SAL designation
+within the limits of the current project APE.
+CURATION: The artifacts and records associated with the project were curated at TARL.
+COMMENTS: None.
+
+v
+
+CHAPTER 1
+
+SIGNIFICANCE TESTING OF 41WM1028
+Ken Lawrence
+
+INTRODUCTION
+The following report details the results of archaeological signiﬁcance testing at 41WM1028 by SWCA
+Environmental Consultants (SWCA) in August 2007
+along the proposed Arterial “A” Phase I Project near
+Round Rock in Williamson County, Texas (Figure 1.1).
+S. D. Kallman Engineers, L.P. partially ﬁnanced by
+federal funds administered through Williamson County
+will construct an interim three-lane urban arterial roadway (Arterial “A”), which is 6,000 feet long within a
+120-foot wide right-of-way (ROW) with associated
+improvements. The cultural resource assessment was
+carried out on behalf of S. D. Kallman Engineers, L.P.
+and was performed in compliance with the National
+Historic Preservation Act (NHPA) and the Texas Antiquities Code under Texas Antiquities Permit 4591.
+The goal of the work was to determine the nature and
+signiﬁcance of previously recorded site 41WM1028
+within the project Area of Potential Effects (APE). The
+results of these investigations would allow S. D. Kallman Engineers, L.P. to determine whether any further
+archaeological work would be necessary and fulﬁll
+current project regulatory requirements. SWCA archaeologists Kevin A. Miller, Steve Carpenter, Mindy
+L. Bonine, Eric Oskanen, Mary Jo Galindo, Joshua
+Gibbs, Daniel Culotta, and Ken Lawrence conducted
+the ﬁeldwork from August 6–10, 2007. Steve Carpenter
+served as Principal Investigator.
+Site 41WM1028 originally documented as a Middle
+Archaic burned rock midden located about 3.1 miles
+(4.9 km) east-southeast of the Interstate Highway
+(IH) 35 and US 79 intersection in Round Rock, Texas,
+roughly 1.37 miles (2.2 km) northwest of the intersection of County Road (CR) 122 (Red Bud Lane) and
+Forest Creek Drive, and about 0.25 mile (400 m) due
+north of Forest Creek Drive. The site lies on the edge
+of an upland ridge overlooking Brushy Creek to the
+north and topographically situated on an interﬂuve
+
+between two tributary drainages that empty into Brushy
+Creek. The surrounding site area contains a mix of
+open meadow with short grasses bordered by mixed
+timber containing an overstory of oak and scattered
+cedar with an understory of sparse short grasses and
+areas of exposed limestone bedrock along the toeslope
+of the ridge.
+
+PREVIOUS INVESTIGATIONS AT 41WM1028
+Site 41WM1028 was originally recorded in 2002 by
+Sergio Iruegas as a Middle Archaic midden with associated lithic scatter (Site Form). The initial recording
+documented the presence of lithic debitage, burned
+rock fragments, and, rather curiously, the “distal” end
+of a Travis point, which was subsequently collected.
+Based on the proﬁle from a road cut, the initial recording interpreted the cultural activities as possibly
+representative of a single component (Site Form). A
+projectile point tip, which is typically not diagnostic,
+suggested a Middle occupation (Texas Archeological
+Research Laboratory [TARL] ﬁles). The recorder considered the site signiﬁcant and recommended further
+investigations.
+In early 2007, SWCA revisited site 41WM1028 and
+encountered a broadly dispersed scatter of surﬁcial
+lithic debitage and ﬁre-cracked rock fragments, particularly evident in the two-track road exposures that
+cross the site. Several collectors’ piles were observed
+along the northern margin of the site near the edge of
+the upland terrace that consisted of chert debitage that
+ranged from 12–40 ﬂakes in each pile. At the time, no
+temporally diagnostic artifacts were observed on the
+surface, which was partly attributed to the collecting
+activities (Lawrence 2007).
+The revisit of 41WM1028 determined that the cultural
+materials were scattered on the surface along 160 m of
+the survey corridor (Arterial A) and extended beyond
+
+1-2
+
+Chapter 1
+
+Figure 1.1.
+
+Project location map of site 41WM1028.
+
+Signiﬁcance Testing of 41WM1028
+the edges of the roughly 37-m wide APE. Most of
+the surﬁcial artifacts decreased in frequency as the
+site trended southward away from the drainage. The
+highest density of surﬁcial artifacts was observed at
+the northern end of the site in proximity to the edge
+of the ridge top.
+The revisit investigations entailed a series of shovel
+tests (STs 1–10) excavated on the site in order to verify the presence of subsurface materials and depth of
+cultural deposits. Contrary to the initial site recording
+that indicated that the site had a single component,
+the results of the shovel test excavations appeared
+to suggest that site 41WM1028 may have two cultural components. Speciﬁcally, the seven shovel
+tests that contained cultural materials (i.e., debitage
+and ﬁre-cracked rock) extended from the surface
+to 30 cm below surface (cmbs) and again at 50–60
+cmbs, possibly suggesting two subsurface cultural
+components. At the time of the revisit, the cultural
+materials in the lower cultural horizon were possibly
+interpreted to have originated in the upper horizon
+and subsequently translocated to their current depth
+due to bioturbation. However, this explanation was
+deemed unlikely due to the consistent depth (50–60
+cmbs) at which these artifacts were observed.
+Regarding the stratigraphy of 41WM1028, the
+SWCA revisit encountered two soil horizons each
+appearing to correlate with the presence of cultural
+materials (Lawrence 2007). Speciﬁcally, the upper
+cultural horizon seemed to be associated with a dark
+clay loam upper soil horizon, while the lower cultural
+materials appeared to correlate to the lighter silt loam
+stratum. Both strata were present on the higher elevation of the landform on the eastern edge of the APE,
+thinning to the west and south before disappearing.
+Site materials correlated with the presence/absence
+of these soils.
+The artifact assemblage observed at 41WM1028
+includes lithic debitage (roughly 100–200 ﬂakes), a
+chipped stone tool fragment, and ﬁre-cracked rock
+fragments composed of angular limestone cobbles.
+The artifact assemblage at the site is diffusely scattered across the upland ridge, becoming most prevalent at the northern end of the site closest to Brushy
+Creek. Since the typing of a distal tip seemed poorly
+
+1-3
+
+substantiated, SWCA considered the temporal afﬁliation for site 41WM1028 as undetermined.
+The SWCA revisit of 41WM1028 determined that
+the site as observed within the APE had a potential
+to provide new or important information regarding
+the prehistory of the region, and accordingly recommended avoidance or further investigations. Since
+site 41WM1028 could not be avoided by the proposed Arterial A alignment, a strategy for testing the
+site was developed to gather additional information
+regarding the signiﬁcance of the cultural deposits.
+
+PROJECT DESCRIPTION
+The Arterial “A” project area is located about 2.75
+miles east of IH-35 in Round Rock, southern Williamson County, Texas (Figure 1.1). The Arterial “A”
+roadway is designed to improve circulation and access to the area. The roadway is proposed to be an interim three-lane and ultimate six-lane divided paved
+and curb and guttered urban arterial roadway with
+an interim three-lane and ultimate six-lane bridge
+that will cross over Brushy Creek. This portion of
+the project roadway (Phase I) will begin just north
+of US 79 at Joe DiMaggio Boulevard near CR 122
+and extend south crossing US 79 and Brushy Creek
+to terminate at Forest Creek Drive west of Rusk
+Road (Figure 1.1). The proposed project crosses
+private land that will be donated and/or purchased
+and controlled by Williamson County.
+SWCA began test excavations at 41WM1028 project
+area on August 6, 2007. SWCA’s test investigations
+at 41WM1028 consisted of two interrelated and
+concurrent activities. The ﬁrst phase of investigation
+began with backhoe trench excavation in select areas
+along the Arterial “A” APE through the site. The
+second phase consisted of several hand excavated
+test units positioned along select backhoe trenches
+on 41WM1028. The results of these investigations
+are the focus of this report, which are discussed in
+subsequent chapters.
+
+1-4
+
+Chapter 1
+
+ORGANIZATION OF THIS REPORT
+This report presents the results of SWCA’s test
+investigations of 41WM1028. Chapter 2 provides
+an overview of the natural setting of the project
+area, and Chapter 3 presents a summary of the
+cultural setting, including discussions on previous
+archaeological investigations and the regional culture history. The research design and methods used
+to conduct ﬁeldwork and analysis are described in
+Chapter 4. The results of the investigations, including a narration of the excavations, descriptions of the
+natural and cultural stratigraphy, the distributions of
+cultural material, and a general summary of the site,
+are included in Chapter 5. The documented cultural
+features and recovered materials encountered during
+testing are described in Chapter 6. The ﬁnal chapter
+of the report includes a summary of the investigations, a discussion about 41WM1028, and SWCA’s
+formal recommendations regarding the eligibility of
+the site for ofﬁcial landmark designation.
+
+CHAPTER 2
+
+ENVIRONMENTAL SETTING
+Ken Lawrence
+
+INTRODUCTION
+Site 41WM1028 is located in central Texas at a junction of varied geology and very diverse vegetation
+regions. Speciﬁcally, the site is situated along the
+margins of the Balcones Fault zone with the Edwards
+Plateau lying to the west and the coastal plain extending to the east. Also, this area is positioned within two
+intermingled ﬂoral communities, namely the Cross
+Timbers and Prairies region and the Blackland Prairies
+region (Correll and Johnston 1979:3–7). This chapter
+provides an overview of the highly variable present
+day environmental setting of 41WM1028 and a brief
+history of the regional paleoenvironmental record. The
+discussion is based on the results of ﬁeld investigations
+performed by SWCA archaeologists and a review of
+relevant literature.
+
+GEOLOGY
+Site 41WM1028 is situated on an upland ridge overlooking a fairly prominent drainage (Brushy Creek) to
+the north. Geologically, the site is mapped as Upper
+Cretaceous age Austin chalk (Barnes 1995). The chalk
+and marl of the Austin Chalk formation is described as
+grayish-white to white chalk composed of microgranular calcite with large amounts of calcium carbonate
+while the marl is characterized as medium gray marl
+with recessive bentonitic seams and common nodules
+of pyrite (Barnes 1995).
+The geology of the area north of site 41WM1028 is
+mapped as alluvial ﬂoodplain deposits with Quaternary
+ﬂuviatile terrace deposits north of the Brushy Creek
+drainage. The alluvial ﬂoodplain within the channel
+is characterized as recent clay, silt, sand, and gravel
+deposits. The Quaternary deposits are described as
+Pleistocene age gravel, sand, silt, and clay occupying
+high terraces along streams. The alluvial ﬂoodplain
+
+is characterized as recent clay, silt, sand, and gravel
+deposits (Barnes 1995).
+
+SOILS
+The soils on and around the ridge top where site
+41WM1028 is situated consists of Eddy very gravelly clay loam on the slopes that apron the ridge and
+Brackett clay loam covers the ridge top. The Eddy
+very gravelly clay loam (3–8 percent slopes) of the
+slopes is described as undulating upland soils that are
+calcareous and gravelly clay loam overlying shallow
+chalk bedrock. The ridge top Brackett clay loam (1–5
+percent) is described as gently sloping soil occupying
+ridge tops and side slopes and consists of a surface
+horizon with clay loam intermixed with limestone
+fragments overlying a silty clay loam that extends to
+about 80 cmbs (Werchan and Coker 1983).
+
+VEGETATION
+Generally deﬁned, site 41WM1028 is positioned along
+the border of two overlapping vegetational communities. Speciﬁcally, the Blackland Prairies region that
+extends from the site to the east and the Cross Timbers
+region that extends westward (Correll and Johnston
+1979:Map 1). The Blackland Prairies region is composed of grasses with scattered timber particularly
+along drainages while the Cross Timbers and Prairies
+region is composed of grasses and open savannah and
+brush (Correll and Johnston 1979:3–7).
+The typical vegetation for the Blackland prairie region
+includes southern hackberry (Celtis laevigata), cedar
+elm (Ulmus crassifolia), bur oak (Quercus macrocarpa), post oak (Quercus stellata), blackjack oak
+(Quercus marilandica), bois d’arc (maclura pomifera)
+with an understory of bunch grasses (e.g., big bluestem,
+Indian grass, sideoats grama, and silver bluestem),
+
+2-2
+
+Chapter 2
+
+shrubs, laurel greenbriar (Smilax laurifolia), yaupon holly (Ilex vomitoria), American beautyberry
+(Callicarpa americana), and coralbean (Erythrina
+herbacea) (Correll and Johnston 1979; Kutac and
+Caran 1994; Petrides 1988; Schmidly 1983; Simpson
+1988; Stein et al. 2003).
+As its name implies, the Cross Timbers and Prairies
+region broadly ranges from open savannah to dense
+brush and timber (Correll and Johnston 1979:7).
+Characteristic vegetation of this region includes an
+overstory of post oak (Quercus stellata), blackjack
+oak (Quercus marilandica), ashe juniper (Juniperus
+ashei), Texas Buckeye (Aesculus glabra), Texas Ashe
+(Fraxinus texensis) Mexican plum (Prunus mexicana), cedar elm (Ulmus crassifolia), pecan (Carya
+illinoensis), and some mesquite (Prosopis sp.) with
+an understory of bunch grasses (e.g., big bluestem,
+Indian grass, Canada wild-rye, hairy grama, and
+Texas wintergrass), various shrubs, hairy tridens
+(Erioneuron pilosum), laurel greenbriar (Smilax laurifolia), American beautyberry (Callicarpa americana), saw greenbriar (Smilax bona-nox) (Correll
+and Johnston 1979; Cox and Leslie 1999; Kutac and
+Caran 1994; Petrides 1979; Schmidly 1983; Simpson
+1988; Stein et al. 2003; Vines 1997).
+
+FAUNA
+Two biotic provinces divide Williamson County
+(Blair 1950). The western half of Williamson
+County lies within the Balconian biotic province
+that comprises the Edwards Plateau region (Blair
+1950). The eastern half of the county is within the
+Texan biotic province, which extends from central
+Texas to east-central Oklahoma (Blair 1950). Site
+41WM1028 is situated along the margins of these
+two biotic provinces.
+The Balconian and Texan biotic provinces are transitional zones extending from the mesic forests of
+eastern North America to the xeric grasslands of
+the central United States, which provide a varied
+habitat that contains a high faunal diversity. At least
+49 species of mammal, 57 species of reptiles, and 23
+species of amphibians have been identiﬁed as native
+to the Texan biotic province (Blair 1950). For the
+Balconian biotic province, Blair (1950) identiﬁes
+
+57 species of mammal, over 42 species of reptile,
+and 15 species of amphibians. None of the fauna
+for the Balconian is restricted solely to this province
+(Blair 1950).
+Some mammals common to the Balconian province
+include: oppossum (Didelphis virginiana), eastern
+pipistrel (Pipistrellus subﬂavus), eastern fox squirrel
+(Sciurus niger), eastern cottontail rabbit (Sylvilagus
+ﬂoridanus), pocket gopher (Geomys breviceps), pallid bat (Antrozous pallidus), valley pocket gopher
+(Thomomys bottae), and badger (Taxidus taxus) (Burt
+and Grossenheider 1976).
+Some native mammals common to the Texan biotic
+province include: oppossum (Didelphis virginiana),
+eastern mole (Scalopus aquaticus), eastern fox
+squirrel (Sciurus niger), pocket gopher (Geomys
+breviceps), fulvous harvest mouse (Reithrodontomys fulvescens), white-footed mouse (Peromyscus
+leucopus), hispid cotton rat (Sigmodon hispidus),
+eastern cottontail rabbit (Sylvilagus ﬂoridanus),
+swamp rabbit (Sylvilagus aquaticus) (Burt and Grossenheider 1976).
+Mammals common to both of these provinces include
+coyote (Canis latrans), gray fox (Urocyon cinereoargenteus), mink (Mustela vison), muskrat (Ondata
+zibethica), raccoon (Procyon lotor), striped skunk
+(Mephitis mephitis), and white-tailed deer (Odocoileus virginianus). Historically, red wolf, gray wolf,
+bison, jaguar, pronghorn, and black bear ranged into
+or near these regions (Burt and Grossenheider 1976;
+Huebner 1991; Schmidly 1983).
+The general reptilian assemblage for both provinces
+include the Great Plains rat snake (Elaphe guttata
+emoryi), Eastern yellowbelly racer (Coluber constrictor ﬂaviventris), Yellow mud turtle (Kinosternon
+ﬂavescan ﬂavescan), bullfrog (Rana catesbiana),
+southern leopard frog (Rana utricularia), and the gulf
+coast toad (Bufo vallicepus) (Blair 1950; Conant and
+Collins 1998; Kutac and Caran 1994).
+
+Environmental Setting
+
+PALEOENVIRONMENT
+Over the past 12,000 years, the environmental and
+climatic conditions of the Central Texas region have
+varied considerably. There is some debate about the
+paleoenvironmental conditions ca. 12,000–10,000
+B.P., and two models are presently posited for the
+paleoenvironment of this early period. Bryant and
+Holloway (1985) have proposed that the Central
+Texas region was predominantly a deciduous forest
+65,000–10,000 years ago, with a diverse assortment
+of tree and plant species. In contrast, more recent
+research by Hall and Valastro (1995) and Toomey et
+al. (1993) suggests that Central Texas was dominated
+by grassland and mesic climatic conditions during
+the late Pleistocene. This interpretation ﬁts well with
+the regional faunal record since megafaunal species from this period such as mastodon, mammoth,
+giant bison, camel, and horse would have required
+substantial areas of grassland for grazing (Dillehay
+1974; Graham 1987; Graham and Lundelius 1984;
+Toomey et al. 1993).
+About 10,000 years ago, changes in palaeoclimatic
+conditions led to mass extinctions of megafauna
+across the region (Graham 1987; Graham and Lundelius 1984). Faunal records from the Edward’s Plateau
+indicate the average seasonal temperature warmed,
+and climatic conditions became progressively drier
+(but still retained higher effective moisture than
+present day) throughout the early Holocene (Bement
+1994; Toomey et al. 1993). As a result, vegetation
+cover diminished, and a degradation of the soil
+mantle ensued (Toomey et al. 1993:316). Johnson
+and Goode (1994:20) argue that the early Holocene
+warming and drying trend experienced on the Edwards Plateau did not impact the Post Oak Belt. Due
+to the wind currents and temperature patterns of the
+nearby Gulf of Mexico, palaeoclimatic conditions
+experienced east of the Edwards Plateau may have
+been relatively warm and moist during this time
+(Johnson and Goode 1994:20).
+Toomey et al. (1993:309) propose that the early
+Holocene warming trend continued into the middle
+and late Holocene and peaked ca. 5,000–2,500 B.P.
+“when climatic conditions were drier than any time
+during the last 20,000 years.” Johnson and Goode
+(1994:5) also recognize this extreme xeric period and
+
+2-3
+
+describe it as the “Dry Edward’s Interval.” Following
+this extensive dry period, the wetter and warmer conditions returned to the region until ca. 1,500–1,000
+B.P. (Bryant and Holloway 1985; Johnson and Goode
+1994; Toomey et al. 1993). From this time forward,
+present-day climatic and environmental conditions
+were ﬁrmly established for south-central Texas.
+
+CHAPTER 3
+
+CULTURAL SETTING
+Ken Lawrence
+
+INTRODUCTION
+Williamson County, that encompasses site 41WM1028,
+is situated within the northeastern margin of the Central
+Texas archaeological region, which extends across
+the eastern half of the Edwards Plateau and includes
+portions of the Blackland Prairie and Post Oak Belt
+(Prewitt 1981:71). Although arbitrarily deﬁned, the
+Central Texas archaeological region is delineated by a
+combination of physiographic characteristics that are
+thought to have inﬂuenced prehistoric systems of subsistence and settlement (Pertulla 2004). This chapter
+discusses some of the important archaeological sites of
+the Central Texas region and those sites in the immediate vicinity of 41WM1028. These brief summaries of
+previous investigations are offered with the intent of
+demonstrating a localized model of the archaeological
+record. These local investigations ultimately contribute
+to our broader understanding of the regional culture
+history, which is also summarized in this chapter.
+
+PREVIOUSLY RECORDED PREHISTORIC
+SITES IN THE VICINITY OF 41WM1028
+There are ﬁve archaeological sites within a mile of
+41WM1028. Of these, four sites are prehistoric or
+have a prehistoric component and include 41WM12,
+41WM465, 41WM467, and 41WM780, which are
+discussed in the following paragraphs.
+Site 41WM12 is located north of 41WM1028 and is
+a large prehistoric occupational site located north of
+Brushy Creek. The site is a long, linear, east-west oriented prehistoric campsite, parallel to the creek. Site
+41WM12 was originally recorded in 1959 by the University of Texas and was subsequently investigated in
+1960 by J. Greer, in 1981 by C. J. Jurgens, and in 1986
+by Espey Huston and Associates. These investigations
+documented the presence of a large surﬁcial scatter
+of lithic debitage, cores, various chipped stone tool
+
+fragments, and projectile points. The projectile points
+are recorded as having been collected. No temporal
+information is provided for site 41WM12. However,
+the base of a Folsom point is reported to have been
+collected from the site suggesting a Paleoindian component. Further investigations were recommended for
+site 41WM12 by these early investigators. However,
+this site was evaluated by SWCA during the previously
+mentioned Phase I portion of the Arterial “A” survey.
+This site was not considered signiﬁcant and no further
+investigations were recommended (Lawrence 2007).
+Site 41WM465 is listed on the National Register of
+Historic Places (NRHP) as the Kenney’s Fort Site.
+The fort was established in 1839 by Thomas Kenney
+and consisted of a blockhouse and several log cabins
+(Scarbrough 2006). It was built to protect the northernmost settlement of the Colorado River frontier from
+neighboring Comanche Indians (Scarbrough 2006).
+Although government soldiers were stationed nearby
+at Camp Williamson in 1839–1840, settlers generally
+defended the fort. The name was brieﬂy changed to Fort
+Dunnington when a major general planned a retaliatory
+expedition against the Comanche, however the plans
+were abandoned and the fort was renamed Kenney’s
+Fort. The Texas-Santa Fe expedition was assembled
+near the fort at Camp Cazneau and state records were
+surrendered near the fort during the Archive War. A
+part of the ﬂagpole is the only known remnant of the
+fort, however historic features may be buried within its
+probable location. A historical marker was erected in
+1936 a half mile north of the site (Scarbrough 2006). In
+addition to its historical signiﬁcance, the site contains
+evidence of a prehistoric occupation. Unfortunately,
+little information is provided regarding the prehistoric
+component of this site. The site was listed on the NRHP
+in 1987. The general location of the fort site (though
+its exact spot is undetermined) is approximately 300
+m west of 41WM1028.
+
+3-2
+
+Chapter 3
+
+Site 41WM467 is located north of Brushy Creek
+approximately 0.25 mile northwest of the project
+area. The site is a prehistoric open campsite consisting of chert ﬂakes and burned rock exposed in a cut
+bank. Further investigations were recommended to
+determine the extent of the site beneath the surface
+and its signiﬁcance (Site Form).
+Site 41WM780 is a multi-component site located
+south of Brushy Creek and approximately 0.21 mile
+east of 41WM1028. The site consists of a historic
+cotton farm and a prehistoric open campsite. The site
+was the original location of the James H. Bell House,
+which was later relocated to Pioneer Farm to be used
+as a living history center. Currently, the site consists
+of a small concrete slab marking the northeast corner
+of the house print, a cistern and a historic scatter. A
+lithic scatter and burned rock midden were observed
+at the site north of the historic manifestations. The
+prehistoric occupation was determined to be potentially eligible for the NRHP and further investigations were recommended for both the historic and
+prehistoric components.
+
+RELEVANT ARCHAEOLOGICAL SITES IN
+THE REGION
+Two archaeological sites situated along the Brushy
+Creek drainage are particularly relevant to the investigation of site 41WM1028. The Blackland Prairie
+site (41WM815) is located about 10.75 miles (17.25
+km) downstream while the Wilson-Leonard site
+(41WM235) is located roughly 8.5 miles (13.6 km)
+upstream of 41WM1028.
+The Blackland Prairie site (41WM815) is a Late Archaic site situated on the alluvial terraces of Brushy
+Creek located about 750 m to the south (Brownlow
+2003). This site was initially encountered in 1994
+and was extensively investigated in 1999. During
+the investigation of the site James Abbott identiﬁed
+ﬁve stratigraphic units for the Brushy Creek drainage
+and the surrounding area (Brownlow 2003). The ﬁve
+stratigraphic units (Units I–V) begin with Unit I at the
+base, and were identiﬁed through backhoe trenches
+and core sampling conducted during the survey of
+the project. Stratigraphic Unit I is in the center of
+
+the valley and composed of dark yellowish-brown
+clay loam, loam, and silty clay over silty gravel and
+based on a radiocarbon sample, dates to 10960±60
+(Brownlow 2003:183–185). Unit II, situated in the
+center of the valley, consists of grayish-brown to
+yellowish-brown loams deposited during the longest
+period of alluvial deposition. The drainage based on
+ﬁve radiocarbon samples ranges from 11950±90 to
+4140±70 (Brownlow 2003:185). This stratigraphic
+unit was observed to contain prehistoric material
+(Brownlow 2003:186). Unit III was deposited in
+roughly the same location of the existing Brushy
+Creek channel and consists of brown silt loam-silty
+clay loam with strongly developed calcium carbonate ﬁlaments (Brownlow 2003:186–187). Based on
+three radiocarbon samples, Unit III ranges in age
+from 3360±60 to 1910±50 (Brownlow 2003:185).
+Stratigraphic Unit IV consists of grayish-brown loam
+to clay loam with moderate amounts of soft carbonate
+masses (Brownlow 2003:187). Based on one sample
+this stratigraphic unit was dated to 6430±70, but was
+subsequently rejected (Brownlow 2003:185). The
+ﬁnal horizon is Unit V and consists of grayish-brown
+loam that grades to silt and silty clay loams. Based
+on three samples (with one rejected sample), Unit V
+ranges in age from 1420±60 to 1010±40 (Brownlow
+2003:185–187).
+Wilson-Leonard is a deeply stratiﬁed, prehistoric
+site with quaternary fill deposits of the Brushy
+Creek valley extending over 6 m in depth (Collins 1998:1). This site, initially recorded in 1973
+and subsequently investigated for over 20 years, is
+situated along the southern bank of Brushy Creek
+drainage. It is considered one of the most signiﬁcant
+prehistoric sites in Texas due to the nearly unbroken
+record of human occupation and environmental data
+from 12,000–1,000 B.P. that is contained within the
+alluvium and colluvium at Wilson-Leonard (Collins 1998; Oskanen et al. 2003). The extensively
+examined stratigraphy of Wilson-Leonard will be
+compared to that encountered at site 41WM1028.
+The stratigraphy of the Wilson-Leonard site is long
+and complicated and will not be thoroughly discussed
+here. However, the Wilson-Leonard investigations
+identiﬁed three ﬂuvial terrace deposits (Q-1 to Q-3)
+for the Brushy Creek drainage, that each contain interior strata (Collins 1998). The oldest terrace is the
+
+Cultural Setting
+Q-3 deposit that is Pleistocene in age and contains
+various clays and clay loams with varying amounts
+of calcium carbonate (Collins 1998:13). This deposit is indicated to correlate with the Fairlie clay
+and Denton clay loam in some locations as well as
+Sunev silty clay in other locations (Collins 1998:13).
+The Q-2 deposit is indicated to range from the late
+Pleistocene to the late Holocene consisting of silt
+and limestone gravel and sand (Collins 1998:13–14).
+The Q-2 deposit is indicated to correlate with Unit
+II identiﬁed by Abbott’s investigations (Brownlow
+2003:188). The age of the Q-1 deposit is unknown,
+but it is younger than the Q-2 deposit and contains
+gray to grayish-brown silty loam to clay loam (Collins 1998:13–14). This deposit is indicated to correlate with the Oakalla series (Collins 1998:14).
+Site 41WM1028 occupies an interﬂuve between two
+intermittent drainages on an upland ridge. The stratigraphy across the site varies slightly with position
+on the landscape, particularly with respect to proximity to crest of the small ridge. The soils mapped
+for 41WM1028 are indicated to be Brackett clay
+loam characterized as gently sloping soil occupying
+ridge tops with clay loam intermixed with limestone
+fragments overlying a silty clay loam that extends
+to about 80 cmbs (Werchan and Coker 1983). The
+soils observed on the site during the test excavations
+do not exactly correlate with that observed during
+either the Blackland Prairie or Wilson-Leonard site
+investigations. Admittedly, site 41WM1028 occupies an upland setting while the Blackland Prairie
+and Wilson-Leonard sites are in a lowland setting.
+Therefore, the depositional history should not correspond exactly.
+
+PREHISTORIC CULTURE HISTORY
+The following cultural-historic outline is based on the
+chronologies proposed by Collins (2004) and Johnson and Goode (1994) for the Central Texas region,
+which build upon the seminal efforts of Suhm (1960)
+and Prewitt (1981, 1985). Dates are reported as years
+before present (B.P.), and the cultural sequence is
+divided into four periods: Paleoindian, Archaic,
+Late Prehistoric, and Historic. The Archaic period
+is subdivided into four subperiods: Early, Middle,
+Late, and Transitional.
+
+3-3
+
+PALEOINDIAN PERIOD
+(11,500–8,800 B.P.)
+Paleoindian artifacts and sites date from about
+11,500–8,800 B.P. and are not uncommon in Central
+Texas (Collins 2004). The period begins during the
+close of the Pleistocene with the earliest evidence
+of humans in the Central Texas region. Diagnostic
+artifacts of the period include lanceolate-shaped,
+fluted projectile points such as Clovis, Folsom,
+and Plainview. These projectile points were hafted
+onto wooden spears, launched from atlatls (spear
+throwers), and often used to hunt big game such
+as mammoth, mastodon, bison, camel, and horse
+(Black 1989). During the Paleoindian period, a
+hunter-gatherer adaptation strategy was employed
+with increased harvesting of ﬂora and small game
+as the big game died off and the climate warmed
+following the end of the Pleistocene ice age. Representative Central Texas Paleoindian sites include
+Kincaid Rockshelter, Wilson-Leonard, Gault, and
+St. Mary’s Hall (Collins 2004).
+
+ARCHAIC PERIOD
+(8,800–1,200 B.P.)
+As the Paleoindian period came to an end, humans
+began to harvest more intensively local ﬂoral and
+faunal resources (Collins 2004). Material culture
+became more diverse, and the use of burned rock
+middens and ovens became widespread. This period
+is known as the Archaic period and dates from approximately 8,800–1,200 B.P. in Central Texas (Collins 2004; Johnson and Goode 1994). While Collins
+(2004) and Johnson and Goode (1994) subdivide the
+Archaic into Early, Middle, and Late subperiods,
+we have added the Transitional subperiod after the
+Late Archaic for reasons discussed in the following
+paragraphs.
+
+EARLY ARCHAIC SUBPERIOD
+(8,800–6,000 B.P.)
+Early Archaic artifacts and sites date from about
+8,800–6,000 B.P. (Collins 2004). Once thought to
+be Paleoindian in age, some unstemmed point types
+such as Angostura have recently been recognized
+
+3-4
+
+Chapter 3
+
+as the ﬁrst Early Archaic diagnostic styles (Collins
+2004). Around 8,000 B.P., these points were replaced
+by stemmed varieties such as Early Split Stem,
+Martindale, and Uvalde (Black 1989; Collins 2004).
+Most sites were open campsites although cave sites
+have been found (Collins 2004). Current site distribution data suggest that Early Archaic peoples were
+concentrated along the eastern and southern margins
+of Edwards Plateau in areas with more stable water
+sources (Collins 2004; McKinney 1981). Specialized tools, perhaps used in woodworking, known as
+Guadalupe and Nueces bifaces, were prevalent in
+this period (Collins 2004). While subsistence data
+are sparse, it appears that people were hunting deer
+and other small animals, ﬁshing, and cooking bulbs
+in earth ovens (Collins 2004). This strategy evolved,
+in part, due to the extinction of megafauna and the
+changing climate at the beginning of the Holocene
+(McKinney 1981).
+
+MIDDLE ARCHAIC SUBPERIOD
+(6,000–4,000 B.P.)
+Middle Archaic artifacts and sites date from about
+6,000–4,000 B.P. with multi-use bifacial knives
+becoming more common. Characteristic Middle
+Archaic projectile points include Bell, Andice, Taylor, Nolan, and Travis, several of which are deeply
+notched (Black 1989). These artifacts could have
+served as knives and projectile points. Bison were
+hunted intensively at the start of the Middle Archaic,
+but, as the climate became drier, a reliance on dry
+climate plants such as sotol probably became common. The end of the Middle Archaic may have been
+the most xeric conditions ever in Central Texas (Collins 2004). The climatic change was accompanied by
+a technological change as Nolan and Travis points,
+which are thick and have narrow blades, ﬁrst appeared in the archaeological record (Collins 2004).
+Burned rock middens and earth ovens ﬁrst appeared
+circa 5,000 B.P. and became increasingly common,
+although their exact functions may have varied based
+on the culture and environment (Johnson and Goode
+1994). Representative sites of the Texas Middle Archaic include the Landslide, Wounded Eye, Gibson,
+and Panther Springs sites (Collins 2004).
+
+LATE ARCHAIC SUBPERIOD
+(4,000–2,250 B.P.)
+Late Archaic artifacts and sites date from about
+4,000–2,250 b.p. The period began with very xeric
+conditions but gradually became more mesic (Collins
+2004). Characteristic dart point types include Bulverde, Pedernales, Marshall, and Marcos (Collins
+2004). Increasingly complex and sedentary cultural
+manifestations ﬁrst appeared in the Late Archaic.
+Sites of the Late Archaic are very common and
+include burned rock middens, open campsites, and
+lithic procurement sites. Large cemeteries and grave
+goods suggest population increases. Also, trade and
+exchange networks between cultures appear to have
+increased in complexity as evidenced by exotic goods
+in sites and cemeteries (Black 1989). Bement (1991)
+interprets the evidence for group investment in the
+Thunder Valley sinkhole cemetery, dated to 2,900
+b.p. based on stratigraphy, to indicate that groups
+were declaring control over a particular territorial
+range during the Late Archaic. Representative sites
+of the Central Texas Late Archaic include the Anthon
+and Loeve Fox sites (Collins 2004).
+
+TRANSITIONAL ARCHAIC SUBPERIOD
+(2,250–1,250 B.P.)
+As Collins (2004:122) notes, “diverse and comparatively complex archeological manifestations toward
+the end of the Late Archaic attest to the emergence
+of kinds of human conduct without precedent in the
+area.” The changes at this time have been attributed to increases in size and/or the introduction of
+religious practices (Collins 2004). Regardless, this
+unique time of change (2,250–1,250 B.P.) is referred
+to here as the Transitional Archaic (Turner and Hester
+1999) or Terminal Archaic (Black 1989). Johnson
+et al. (1962) originally designated the Transitional
+Archaic as a subperiod of the Archaic because of the
+similarities between the latest dart point types and
+the earliest arrow point types. During the Transitional
+Archaic, smaller dart point forms such as Darl, Ensor, Fairland, and Frio were developed (Turner and
+Hester 1999). These points were probably predecessors to the ﬁrst Late Prehistoric arrow point types
+and may have overlapped temporally with them
+(Hester 1995). Several researchers believe that the
+
+Cultural Setting
+increased interaction between groups at the end of the
+Late Archaic was an important catalyst for cultural
+change (Collins 2004; Johnson and Goode 1994).
+This change may have included increased regional
+stress and conﬂict between groups as interaction
+became more frequent.
+
+LATE PREHISTORIC PERIOD
+(1,250–260 B.P.)
+The end of the Transitional Archaic introduced the
+bow and arrow technologies indicated by the increasingly smaller size of projectile points. The Late
+Prehistoric period dates from 1,250–260 B.P. (Collins
+2004). Characteristic artifacts include small arrowpoints like Perdiz and Scallorn as well as a variety of
+speciﬁc use tools. The Austin and Toyah intervals of
+the Late Prehistoric, originally recognized by Suhm
+(1960) and Jelks (1962), remain accepted divisions
+for the period. These style intervals may represent
+distinct cultural entities (Johnson 1994), although
+others challenge this view (Black and Creel 1997).
+During the earlier Austin interval, burned rock
+midden use may have reached its maximum based
+on recent conclusions by Black and Creel (1997).
+Characteristic arrow points of the Austin interval
+include Scallorn and Edwards (Collins 2004; Turner
+and Hester 1999). By the Toyah interval, plainware
+ceramics appeared, indicating possible inﬂuence in
+the Central Texas region from ceramic producing
+cultures to the east and north (Perttula et al. 1995).
+Contrary to bog pollen data (Collins et al. 1993), data
+from Hall’s Cave in Kerr County indicate that the
+climate of Central Texas began to dry around 1,000
+B.P. (Toomey et al. 1993). This drying trend may have
+resulted in a change in vegetation that made central
+and south Texas more conducive to bison migration
+into the area. Bison remains in archaeological sites in
+the region became common after 750 B.P. (Dillehay
+1974; Huebner 1991).
+Most Toyah sites have the distinctive Perdiz arrow
+point type, and some sites also have bison processing tool kits. This technological change has been
+interpreted as a spread of an ethnic group by Johnson
+(1994) and as the spread of technological ideas in
+
+3-5
+
+response to opportunities provided by an increased
+bison population in the Late Prehistoric by Ricklis
+(1992). Increasing complexity in subsistence patterns
+and very high prehistoric populations are postulated
+for the Late Prehistoric period (Black 1989; Collins
+2004). Although no faunal remains were reported
+from the Slab site, archaeologists recovered numerous Perdiz arrow points and Leon Plain ceramics
+indicating a Toyah occupation (Patterson 1987).
+Representative sites of the Central Texas Late Prehistoric include the Kyle, Smith, and Currie sites
+(Collins 2004).
+
+HISTORIC CULTURE HISTORY
+The history of Texas is extensive and multifaceted.
+For the sake of brevity, the historic cultural history
+of Texas has been divided into the Spanish Colonial/
+Mexican Independence period, Republic of Texas/
+Pre-Civil War period, Post-Civil War/Reconstruction period, and Late Nineteenth/Early Twentieth
+Century period. Particular emphasis is placed on
+the history of Williamson County throughout each
+of these periods.
+
+THE SPANISH COLONIAL/MEXICAN
+INDEPENDENCE PERIOD (1630–1821 A.D.)
+The Spanish Colonial period (1630–1821 A.D.) may
+be characterized as the initial period of Aboriginal/
+European contact and European settlement in Texas.
+During this time, the general central Texas area was
+inhabited by several aboriginal groups including the
+Jumano, Tonkawa, Lipan Apache, and Comanche
+(Newcomb 2002). Speciﬁcally to the Williamson
+County area, it is believed that small numbers of
+Kiowa, Yojuane, Tawakoni, and Mayeye aboriginal groups also inhabited the area (Odintz 2007).
+Odintz (2007) indicates that the ﬁrst Europeans
+into the region were probably Spanish explorers
+led by Capt. Alonso De León who sought a route
+between the Spanish missions in East Texas and
+San Antonio. However, this account may be a little
+off as Foster (2000) has the 1689 and 1690 entrada
+routes mapped further to the south. Regardless, the
+Williamson County area was deﬁnitely explored by
+1716 by Louis Juchereau de St. Denis and Domingo
+
+3-6
+
+Chapter 3
+
+Ramón when during their expedition they camped
+somewhere along the present day Brushy Creek and
+the San Gabriel River (Foster 2000; Odintz 2007).
+These explorers named the Brushy Creek the Arroyo de las Bendítas Ánimas and the San Gabriel
+River the Rio de San Xavier (Odintz 2007). Three
+Spanish missions were subsequently established
+on the Rio de San Xavier (San Gabriel River) just
+outside of Williamson County in Milam County in
+the mid-eighteenth century (Odintz 2007; Supplee
+2007). During their operation (ca. 1746–1756) the
+surrounding area was extensively explored by the
+Spanish (Odintz 2007).
+After Mexico gained independence from Spain, the
+newly formed country used a policy of land grants
+to ﬁrst attract Mexican families and then settlers
+from the United States to help inhabit the sparsely
+populated northern regions of Mexico (Odintz 2007;
+Richardson et al. 1983). During the 1820s, Stephen
+F. Austin obtained grants from the Mexican government to settle hundreds of families along the lower
+Brazos and Colorado Rivers (Webb 1952). This
+colony, known as the “Old Three Hundred Colony”,
+was successful in pushing the European settlement
+frontier further west into the Central Texas region.
+Prior to the Texas Revolution, most of the “Old Three
+Hundred Colony” settlement was focused south of
+Bastrop and the old La Bahia Road (Webb 1952).
+However, no substantial settlement occurred from
+these efforts to help inhabit the sparsely populated
+regions of Williamson County (Odintz 2007).
+
+THE REPUBLIC OF TEXAS/PRE-CIVIL WAR
+PERIOD (1836–1860 A.D.)
+During the Texas Revolution with Mexico, the area
+continued to be inhabited only by aboriginal Native
+Americans. After the war, a growing Texan population led many settlers to move northwards in search
+of open, proﬁtable land to plant crops and raise cattle.
+This wave of migration spurred new conﬂicts with
+the native groups living in the area, cumulating in
+the Battle of Brushy Creek, near what is today the
+town of Taylor, in February of 1839. This battle,
+between the Comanche and the Texas Rangers and
+militia units, resulted in numerous deaths and eventu-
+
+ally resulted in the removal of the Native American
+presence in the area.
+After the battle, the nearby town of Waterloo, on
+the banks of the Colorado River, was renamed
+Austin and designated the seat of government for
+the Republic of Texas in 1839 (Webb 1952). Williamson County, located north of the new capital
+of Texas, was organized shortly afterward in 1848
+as the population in the area grew. The county was
+named in honor of Robert M. Williamson, an area
+leader and a veteran of the Battle of San Jacinto.
+During this battle, Williamson lost one of his legs
+and thereafter, wore a wooden leg, which earned
+him the colloquial nickname Three-Legged Willie.
+The city of Round Rock was founded in the spring
+of 1848 under the name of Brushy Creek. In August
+of 1854, due to the insistence of postal ofﬁcials, the
+settlement changed its name from Brushy Creek to
+the current Round Rock.
+Williamson County quickly grew in population and
+economic prosperity as the rich soils made agriculture one of the top industries in the area. From
+1850–1860 the population of Williamson County
+was based on a varied economy of livestock, wheat,
+corn, and cotton (Odintz 2007). The census of 1860
+recorded a population around 4,529 citizens (both
+free and slave residents) with about 38,000 head of
+cattle (Odintz 2007). Accompanying the increases
+in population and commerce was the rapid adoption
+of slave labor. In 1850, two years after the founding
+of the county, the slave population in Williamson
+County totaled 127. By 1864, less than 15 years later,
+the slave count had multiplied by over 10, with an
+enslaved population of 1,074 (Campbell 1989:266).
+However, the advent of the Civil War (1860–1865
+A.D.) negatively affected the economy of the County
+(Odintz 2007) and following this war, many of the
+planters turned to cattle to regain their ante-bellum
+prosperity.
+
+THE POST-CIVIL WAR / RECONSTRUCTION
+PERIOD (1865–1890 A.D.)
+After the Civil War, Texas entered the Reconstruction
+period. Recovery during this period was slow, but
+faster than most communities due to growth in the
+
+Cultural Setting
+cattle and sheep industries. The economic recovery
+was also aided by the Chisholm Trail and other cattle
+drive routes that passed through Williamson County
+(Odintz 2007). The city of Round Rock served as a
+waypoint along the Chisholm Trail for cattle drives
+enroute to Kansas. The county’s prosperity and population grew in part to the construction of rail lines in
+eastern Williamson County (e.g., International-Great
+Northern Railroad), which became an important
+transportation center for the cattle industry (Odintz
+2007; Scarbrough 2007).
+During the 1880s and 1890s the area began to recover
+because of improved transportation, growth in the
+cattle, sheep, and goat industries, and cotton cultivation (Odintz 2007). Cotton sustained the greatest
+increase, growing from a production of 4,217 bales
+in 1880 to 80,514 bales by 1900 (Odintz 2007).
+
+LATE NINETEENTH/EARLY TWENTIETH
+CENTURY (1890 A.D.–PRESENT)
+The economic base of Williamson County shifted
+from a reliance on livestock to cotton from the
+1890s into the 1900s due to advances in agricultural
+technology. By the early twentieth century, roughly
+77 percent of the cropland in Williamson County
+was used for cotton and was second only to Ellis
+County for ginned cotton (Odintz 2007). However,
+the advent of the Great Depression seriously affected
+Williamson County and Texas in general. The years
+during the Great Depression saw a shift from cotton so that by 1959 only 35 percent of the county
+farms were growing cotton (Odintz 2007). By the
+mid-twentieth century, agricultural crops grown
+in Williamson County shifted to corn, sorghum,
+and wheat. The livestock industry began to play a
+prominent role in the economy of Williamson County
+again, which in addition to the traditional cattle and
+sheep included poultry farming (Odintz 2007). By
+1950, Williamson County was ﬁfth in the state for
+chickens and eggs and the county was tenth in the
+state for turkey production by the 1980s.
+Agriculture and cattle production remained the county’s primary economy through the ﬁrst half of the
+twentieth century. However, during the second half
+of the twentieth century the county quickly became
+
+3-7
+
+home to numerous large high-tech industries due to
+the proximity to Austin. Also during this time the
+construction of many housing communities caused
+an era of “suburbanization” in Williamson County
+(Odintz 2007). The population drastically increased
+from roughly 37,305 inhabitants in 1970s to roughly
+140,000 by the 1990s (Odintz 2007). Similarly, the
+area had a signiﬁcant economic shift from agriculture to industry. During this time, residents were
+employed in factories, construction, agribusiness,
+trade, services, and local government (Odintz 2007).
+This growth and increasingly diverse economy has
+continued in Williamson County up to the present.
+Currently, the rapid inﬂux of people and industries to
+the area continues to be the hallmark of the southern
+half of the county while the northern half continues
+to rely on agribusiness.
+
+CHAPTER 4
+
+METHODS AND RESEARCH DESIGN
+Ken Lawrence
+
+INTRODUCTION
+The investigations at 41WM1028 were approached
+with both expectations and questions about the nature
+of the natural and cultural deposits at the site. Because
+little was known of 41WM1028 from the revisit of the
+site during the survey of the Arterial A Phase I project,
+the questions outnumbered the expectations. Prior to
+SWCA’s testing, the known facts of the site included
+a broad scatter of lithic debitage and thermally altered
+rock fragments, a questionable temporal afﬁliation (i.e.,
+distal end of a Travis point), and possibly two buried
+cultural components. SWCA, tasked with testing the
+site to determine its signiﬁcance, developed a basic
+research design, methodology, and scope of work to
+guide the excavations. The research design was based
+around general issues, and the scope of work was designed to be ﬂexible, given the fact that so little was
+known about 41WM1028.
+
+RESEARCH DESIGN
+EVALUATING SITE SIGNIFICANCE AND
+NATIONAL REGISTER OF HISTORIC PLACES
+ELIGIBILITY
+The project was designed to systematically identify,
+record, and assess the signiﬁcance of archaeological
+materials discovered at 41WM1028. Levels of artifactual and contextual integrity, chronology, potential
+data yield, and preservation potential were key criteria
+in this evaluation. The investigations focused on two
+main issues: integrity and potential data yield.
+
+RESEARCH ISSUE 1: INTEGRITY OF THE
+ARCHAEOLOGICAL DEPOSITS
+Prior to testing, a primary factor in determining the
+signiﬁcance of site 41WM1028 would be the integrity
+of its archaeological deposits. One goal of the investigations was to acquire data on depositional context,
+deﬁne any relationships between natural strata and
+subsurface cultural features/deposits, and determine
+if the integrity of the buried deposits was sufﬁcient to
+establish relative and/or absolute chronological dates
+for any subsurface components and (if applicable) to
+subdivide recovered materials into analytical units
+relevant to speciﬁc research questions. Therefore,
+excavations were performed with sufﬁcient detail
+to identify and document the horizontal and vertical
+integrity at 41WM1028. The determination of the
+horizontal integrity of the cultural deposits assisted
+in evaluating and comparing cultural activities and
+features encountered across the site. Determining
+the integrity of vertical deposits aided in deﬁning
+and evaluating cultural components encountered at
+41WM1028. If encountered, radiocarbon samples were
+to be submitted for analysis to establish a chronology
+for the components at the site and as another means of
+evaluating integrity (i.e., are the deposits compressed,
+are they mixed, are they stratiﬁed?).
+Additionally, the integrity of the upland stratigraphy at
+41WM1028 was to be compared with the results from
+backhoe trenching along the ﬂoodplain of Brushy Creek
+during the initial Phase I of the Arterial “A” survey. The
+comparison of the presumably colluvial stratigraphy
+on the upland ridge to the alluvial stratigraphy of the
+Brushy Creek ﬂoodplain may reveal gaps in the depositional record of the area. Admittedly, little is known
+of the deposition and integrity of the upland ridge and
+suggesting speciﬁc research questions may be hasty.
+However, other researchers (Waters and Kuehn 1996)
+have demonstrated some success in explaining gaps in
+
+4-2
+
+Chapter 4
+
+the archaeological record through the comparison of
+upland and lowland stratigraphy of an area.
+
+RESEARCH ISSUE 2: POTENTIAL DATA
+YIELD
+A secondary factor in determining the signiﬁcance
+of the site would be the potential for additional excavations to recover meaningful data in regards to
+SAL criteria. Speciﬁcally, artifacts and other special
+samples may be used to address speciﬁc research
+questions related to one or more historic contexts
+during data recovery. Prior to testing, proposing detailed research questions would have been premature.
+SWCA proposed several general questions, which
+are relevant to any archaeological investigation, to
+be addressed by the testing project, including site
+size, function, and chronology. Preservation potential for macrobotanical or faunal remains were also
+a criterion used to evaluate potential data yield.
+Macrobotanical samples were collected from feature
+contexts.
+Additionally, prior to testing the initial site recording identiﬁed a Middle Archaic time period
+for 41WM1028, which was based upon tenuous
+information. Thus, the temporal afﬁliation for site
+41WM1028 was uncertain. Furthermore, the initial
+site recording indicated a single cultural component
+while data from the recent investigations (SWCA
+survey) suggested that site 41WM1028 may have
+at least two cultural components. Therefore, one of
+the goals of testing site 41WM1028 was to determine the temporal afﬁliation and number of cultural
+components at the site in order to substantiate and/or
+supplement the initial site interpretations. A more secure chronology of the site was to be used to compare
+with site distribution models and settlement theories
+established by other studies along Brushy Creek, a
+natural waterway in Williamson County that has a
+high density of prehistoric sites. Speciﬁcally, an established chronology for 41WM1028 was believed
+to be more easily compared to other sites of similar
+temporal settings in order to determine the site’s
+uniqueness (or lack thereof).
+
+EVALUATING SIGNIFICANCE
+SWCA proposes that for the site to be found signiﬁcant under SAL criteria, the deposits must demonstrate sufﬁcient integrity and data yield potential
+to address speciﬁc, detailed research questions that
+contribute to the understanding of the regional prehistory within the framework of one or more historic
+contexts. Speciﬁcally, if the site had good integrity
+but was stratigraphically dispersed, with low density
+of artifacts, no dateable materials, no features, and
+poor preservation of organics, it would be less likely
+to contribute new or important information. Similarly, if the site had abundant artifacts and materials
+but poor archaeological integrity, eligibility would
+be contraindicated. In either case, the eligibility will
+hinge on its ability to address one or more explicit,
+non-trivial questions about prehistory. If the site
+was determined eligible and further work was recommended, the testing report would identify such
+questions that could be addressed through mitigation and support the determination with an explicit
+data presentation in graphic, tabular, and/or textual
+format, as appropriate.
+As SWCA mentioned prior to testing, recommendations for signiﬁcance were not limited to but could
+include an argument developed around one or more
+chronological occupational episodes. If radiocarbon assays and/or lithic chronological diagnostics
+implied temporal distinction(s); if excavations
+conﬁrmed stratigraphic integrity; and if any lithic,
+faunal, and/or ﬂoral assemblages were encountered,
+then the investigators would graphically illustrate a
+sample of attributes of these assemblages grouped by
+chronological period. The ability to illustrate samples
+of these attributes through time could be the basis
+for recommending signiﬁcance.
+
+SCOPE OF WORK AND METHODS
+SWCA’s testing investigations utilized a variety of
+techniques, including hand excavations and limited mechanical means to further deﬁne the site’s
+boundaries to determine the research potential of the
+cultural deposits at 41WM1028. SWCA proposed
+to excavate about six backhoe trenches and up to
+six hand excavation 1-x-1-m units to be allocated
+
+Methods and Research Design
+according to the Principal Investigator’s and Project
+Archaeologist’s professional judgment.
+The backhoe trenches were excavated to roughly
+2 m in depth to examine the natural and cultural
+stratigraphy at the site and allow the complete recording of all features and geomorphic information
+to depths of project impacts. Trench proﬁles were
+to be utilized to further deﬁne the site depositional
+setting and guide subsequent hand excavations. The
+trench walls were cleaned using shovels and trowels,
+photographed, and stratigraphically proﬁled as an
+initial step in the testing.
+The hand-excavated units focused on the 120-foot
+(37-m) wide Arterial A, Phase I project corridor
+particularly at the northern end of the site overlooking Brushy Creek where previous investigations
+observed cultural materials within intact deposits.
+The hand excavation units were 1-x-1-m in size,
+excavated to 1 m deep in select units or to sterile
+deposits, whichever was encountered ﬁrst. Using
+standard archaeological methods, the test units were
+systematically excavated in arbitrary 10-cm levels
+and documented using standardized ﬁeld forms and
+photographs. All soils were screened through 1/4-inch
+hardware mesh. When appropriate, feature ﬁll was
+to be screened through 1/8-inch mesh. All artifacts
+and pertinent faunal or ﬂoral remains were to be collected for analysis. Features encountered during the
+investigations were carefully exposed, documented,
+and excavated.
+
+ARTIFACT COLLECTION
+All artifacts and samples recovered from each provenience unit were collected, bagged, and labeled
+accordingly. Burned rock was quantiﬁed (by size
+category) and weighed in the ﬁeld but not collected
+unless for the purposes of special sample analysis.
+
+SITE MAPPING
+An arbitrary vertical datum with an elevation of 100
+m was established at the site (the actual surface elevation is approximately 715 feet above sea level). A
+grid was not established at the site. Backhoe trenches
+and test units were designated by number (assigned
+
+4-3
+
+sequentially). The locations of all excavations and
+features at 41WM1028 were carefully mapped using
+a digital theodolite during the testing project. The excavations and site boundaries were related to modern
+construction features, the existing topography, and
+natural features including Brushy Creek. Additionally, a Garmin eTrex global positioning system (GPS)
+hand unit was used to map select site features. The
+GPS unit was used to map the backhoe trenches and
+site datum during the test excavations.
+
+FEATURE DOCUMENTATION
+Buried burned rock features encountered during the
+test excavations were numbered (e.g., Feature 1). All
+features were exposed in plan, drawn, and photographed. Each feature was thoroughly documented,
+cross-sectioned, sampled, and recovered. Detailed
+coarse (burned rock) and ﬁne matrix analyses were
+conducted, describing the types, counts, and characteristics of the matrices. When appropriate, the
+feature matrix was collected and returned to the
+laboratory for further processing.
+
+SPECIAL SAMPLES
+Prior to testing, special samples were proposed to be
+systematically collected from appropriate contexts
+across the site. The proposed special samples were
+to include materials for radiocarbon dating (from
+features, geomorphic units, and other appropriate
+contexts, with AMS dating to be used when necessary), matrix samples for ﬂotation and/or ﬁne
+screening (from features), possibly pollen/phytolith
+samples (from features and systematic retrieval from
+site and controls) to aid in paleoenvironmental reconstruction, and possibly burned rock samples for
+lipid residue analysis. Unfortunately, no radiocarbon
+material was encountered during test excavations for
+sampling. Similarly, the context or integrity of the
+examined features at 41WM1028 was questionable
+and only one bulk matrix sample was collected.
+
+CHAPTER 5
+
+RESULTS OF INVESTIGATIONS
+Ken Lawrence
+
+INTRODUCTION
+This chapter summarizes the results of SWCA test
+excavations conducted at site 41WM1028. The results
+from the various excavations (backhoe trench and
+hand units) undertaken at the site are discussed. More
+detailed information on cultural features and recovered
+materials encountered during these excavations are
+within the following Chapter 6.
+
+NARRATION AND SUMMARY OF
+EXCAVATIONS
+TESTING EXCAVATIONS
+The SWCA early 2007 revisit of 41WM1028 determined that the site as observed within the APE had a
+good potential to provide new or important information
+regarding the prehistory of the region. Although the
+site has been moderately affected by a variety of disturbances, the site was interpreted to possibly have two
+intact buried cultural components. Therefore, SWCA
+considered the portions of the site within the Arterial
+A APE as potentially signiﬁcant and further investigations or avoidance were recommended (Lawrence
+2007). Since site 41WM1028 could not be avoided by
+the proposed Arterial A alignment, a strategy for testing
+the site was developed to gather additional information
+regarding the signiﬁcance of the cultural deposits.
+SWCA began test excavations at the 41WM1028 project area on August 6, 2007. An arbitrary vertical datum
+with an elevation of 100 m was established at the site
+(the actual surface elevation is approximately 715 feet
+above sea level). Although an excavation grid was not
+established, the horizontal data for the investigations
+were mapped with a GPS unit. SWCA’s test investigations at 41WM1028 consisted of two interrelated and
+concurrent activities. The ﬁrst phase of investigation
+
+began with backhoe trench excavations in select areas
+along the APE through the site. The second phase consisted of several hand excavated test units positioned
+along select backhoe trenches on 41WM1028. Backhoe
+trenches and test units were designated by number (assigned sequentially) (Figure 5.1).
+
+BACKHOE TRENCH EXCAVATION
+Initially, seven trenches (B1–7) were systematically
+placed and excavated in various site locations to examine the site stratigraphy and presence of cultural
+materials (Figure 5.1). An additional two trenches (B8
+and B9) where excavated near the end of the site testing
+to verify site stratigraphy. All of the backhoe trenches
+were as closely aligned to 357 degrees as possible,
+which parallels the survey corridor (Figure 5.2). The
+intervals of the trench placement were tighter at the
+northern end of the trench and as excavations moved
+southward the spacing between the trenches increased
+(Figure 5.2).
+The depth of these nine backhoe trenches (B1–B9)
+ranged from 67–190 cmbs (Table 5.1). With some
+exceptions, the general stratigraphy observed in the
+trenches consisted of an upper stratum of black to very
+dark grayish-brown (10YR2/1–3/2) clay loam with
+common snail shell fragments, small scattered gravels,
+and abundant roots (Table 5.1). The upper stratum
+appeared to be a disturbed zone possibly from plowing and the lower boundary ranged from clear to very
+diffuse. Below this stratum lay a brown to yellowishbrown (10YR4/3–5/4) silt loam with some clay content
+and some scattered rounded limestone gravels with a
+very diffuse lower boundary that was wavy in a few
+locations (Table 5.1). The third stratum consisted of a
+brownish-yellow to yellowish-brown (10YR6/6–5/4)
+silt with some rare snail shell fragments and occasional
+inclusions of very pale brown (10YR7/3) chalk like
+material. The lower boundary for the third stratum
+varies from clear to gradual depending on the trench.
+
+5-2
+
+Chapter 5
+
+Figure 5.1.
+
+Overview of site 41WM1028 with investigations.
+
+Results of Investigations
+
+Figure 5.2.
+
+5-3
+
+Site map of 41WM1028.
+
+At the northern end of the site, the lower boundary
+was typically clear while as the excavations explored
+southward, the lower boundary became more gradual
+(Table 5.1). Underlying this stratum was the fourth
+stratum that consisted of a very pale brown to brownish-yellow (10YR7/4–6/6) silt that has some CaCO³
+pebbles and chalk that increases in frequency with
+depth (Table 5.1). The lower boundary of the fourth
+stratum was clear and smooth, overlaying the ﬁfth
+stratum, which was the bottom stratum in most of
+the trenches. The ﬁfth stratum consisted of very pale
+brown (10YR8/3–8/2) silty clay that contains small
+subrounded limestone gravels. The clay content in
+the ﬁfth stratum increased with depth (Table 5.1).
+There were some exceptions to the previously
+described trench stratigraphy. Speciﬁcally, B1 at
+the edge of the upland ridge and the trenches (B4,
+B7, and B9) along the western margin of the APE
+exhibited a slightly different proﬁle. Trench B1 was
+very unique in comparison to the rest of the site
+stratigraphy. This trench contained an upper stratum
+of brown (7.5YR5/4) clay loam with abundant roots
+
+and occasional gravels with an abrupt lower boundary (Table 5.1). Below this stratum lay a stratum of
+white (7.5YR8/1) silt loam with common roots and
+some occasional gravels and snail shell fragments
+with a clear to abrupt lower boundary. The third
+stratum consisted of a reddish-brown (7.5YR6/8)
+clay loam with evidence of bioturbation from roots
+that have been ﬁlled in with soil from the overlying
+stratum. The lower boundary of the third stratum
+was indistinct to gradual. The fourth stratum was the
+basal stratum of B1 that consisted of reddish-brown
+(7.5YR6/8) clay loam to clay that increased in clay
+content with depth (Table 5.1). The trenches (B4,
+B7 and B9) along the western margins of the APE
+generally exhibited a surface stratum of brown to
+very dark grayish-brown (10YR4/3–3/2) clay loam
+with abundant gravels and roots with an abrupt lower
+boundary. Below this soil horizon lay a stratum of
+yellowish-brown to grayish-brown (10YR5/4–5/2)
+silty clay loam with small CaCO³ pieces that increased in frequency with depth. The lower boundary of the second stratum was abrupt with a wavy
+topography. The third stratum was the basal horizon
+
+5-4
+
+Chapter 5
+
+Table 5.1.
+
+41WM1028 Backhoe Trench Data
+
+Level/ Depth
+Soil Texture
+Trench Strat (cmbs) Munsell Soil Color Description
+
+Cultural Materials &
+Comments
+
+0-35
+
+7.5YR 5/4
+
+Brown
+
+Clay Loam
+
+Roots; occasional
+irregular gravels
+
+Abrupt/
+Smooth
+
+Flakes observed on surface
+
+II
+
+35-90 7.5YR 8/1
+
+White
+
+Silt Loam
+
+Roots; irregular
+gravels & shells 1-3
+cm diameter
+
+ClearAbrupt/
+Smooth
+
+No cultural materials
+
+III
+
+90-150 7.5YR 6/8
+
+Reddish
+Yellow
+
+Clay Loam
+
+Roots; in-ﬁlled with
+Strat II
+
+IndistinctGradual/
+Smooth
+
+No cultural materials
+
+IV
+
+150-185 7.5YR 6/8
+
+Reddish
+Yellow
+
+Clay Loam
+
+N/A
+
+N/A
+
+No cultural materials; increase
+in clay content; slightly more
+complact
+
+Black
+
+Clay
+
+Roots & rootlets;
+micro gravels; crushed
+snail shells
+
+Gradual/
+Wavy
+
+Biface in east wall at 29 cmbs,
+ﬂakes, & burned rock
+
+I
+
+II
+
+0-52
+
+10YR 2/1
+
+52-98 10YR 4/3
+
+Brown
+
+III
+
+98-155 10YR 6/4
+
+Light
+Yellowish
+Brown
+
+IV
+
+155-190 2.5Y 8/2 Pale Yellow
+
+B2
+
+I
+
+B4
+
+Lower
+Boundary
+
+I
+
+B1
+
+B3
+
+Inclusions
+
+0-40
+
+10YR3/2
+
+Very Dark
+Grayish
+Brown
+
+Few rootlets; calcium
+Projectile point?, ﬂakes, &
+Silt Loam/
+carbonate-<5cm;
+Abrupt/ Very
+burned rock; natural rocks
+Clay Loam micro gravels; crushed Irregular
+(some 5-10 cm) follow bottom
+snail shell
+boundary
+Silt Loam/ Rootlets; high quantity
+Clay Loam
+of gypsum
+
+Abrupt/
+Wavy
+
+No cultural materials; strat of
+gypsum in east wall 1.5 m from
+north wall out then disappears at
+92-110 cmbs 20 cm thick
+
+Silt/Clay/
+Gypsum
+
+Firm gypsum &
+calcium carbonate
+nodules <1cm
+
+N/A
+
+no cultural materials; small
+clay amount; mostly calcium
+carbonate
+
+Clay Loam
+
+N/A
+
+Clear/
+smooth
+
+Disturbed possibly from plowing,
+has some scattered debitage.
+
+II
+
+40-50
+
+10YR4/3
+
+Brown
+
+Silt Loam
+
+Some small rounded
+limestone gravels
+
+Gradual/
+smooth
+
+A transitional zone between
+stratum above and stratum
+below, contains some small
+limestone fragments and
+debitage.
+
+III
+
+50-65
+
+10YR5/4
+
+Yellowish
+Brown
+
+Silt Loam
+
+N/A
+
+Diffuse/
+smooth
+
+Contains some burned rock.
+
+IV
+
+65-95
+
+10YR6/4
+
+Light
+Yellowish
+Brown
+
+Silt
+
+Some snail shell
+
+Diffuse/
+smooth
+
+Snail shell scattered throughout
+stratum.
+
+V
+
+95-115 10YR7/4
+
+Very Pale
+Brown
+
+Silt
+
+Some calcium
+carbonate and chalk
+pieces
+
+Gradual/
+smooth
+
+Calcium carbonate and chalk
+increases in frequency with
+depth.
+
+VI
+
+115150+
+
+10YR8/2
+
+Very Pale
+Brown
+
+Sitly clay
+
+Small white gravels
+
+Unknown
+
+I
+
+0-18
+
+10YR 4/3
+
+Brown
+
+Sand/Clay
+Loam
+
+Roots & rootlets;
+micro gravels; small
+snail shell fragments
+
+Gradual/
+Smooth
+
+No cultural materials; organic
+top layer
+
+Abrupt/
+Wavy
+
+No cultural materials
+
+N/A
+
+No cultural materials
+
+Yellowish
+Brown
+
+Roots & rootlets;
+calcium carbonate
+Clay Loam 0-1 cm increasing w/
+depth; small snail shell
+fragments
+
+II
+
+18-50 10YR 5/4
+
+III
+
+50-67 10YR 6/3 Pale Brown Clay Loam
+
+Heavy 75% calcium
+carbonate &
+degrading bedrock
+
+Results of Investigations
+Table 5.1.
+
+41WM1028 Backhoe Trench Data, continued
+
+Level/ Depth
+Soil Texture
+Trench Strat (cmbs) Munsell Soil Color Description
+I
+
+0-20
+
+10YR 2/1
+
+Black
+
+B7
+
+Lower
+Boundary
+
+Cultural Materials &
+Comments
+
+Clay Loam
+
+Roots & rootlets;
+micro gravels; snail
+shell fragments
+
+Gradual/
+Smooth
+
+No cultural materials
+
+Clay Loam
+
+Rootlets; small
+amount of calcium
+carbonate, micro
+gravels; snail shell
+fragments
+
+Gradual/
+Smooth
+
+FCR found at bottom of level
+
+Gradual/
+Smooth
+
+No cultural materials
+
+20-37 10YR 3/4
+
+III
+
+37-55 10YR 5/6
+
+Yellowish
+Brown
+
+Silt Loam
+
+Rootlets; increased
+calcium carbonate,
+micro gravels; snail
+shell fragments
+
+IV
+
+55-90 10YR 6/6
+
+Brownish
+Yellow
+
+Silt Loam
+
+Tiny rootlets; 30-40%
+calcium carbonate
+nodules
+
+Clear/
+Irregualr
+
+No cultural materials
+
+Brown
+
+Clay Loam
+
+Roots; krotovina;
+worms
+
+Clear/
+Smooth
+
+No cultural materials
+
+B5
+
+B6
+
+Inclusions
+
+Dark
+Yellowish
+Brown
+
+II
+
+5-5
+
+I
+
+0-25
+
+II
+
+25-50 7.5YR 4/3
+
+Pink
+
+Silt Loam/
+Clay Loam
+
+Calcium carbonate
+
+Gradual/
+Smooth
+
+No cultural materials; matrix w/
+soft nodules
+
+III
+
+50-75 7.5YR 4/3
+
+Pink
+
+Silt Loam
+
+Soft calcium
+carbonate nodules
+
+Gradual/
+Irregular
+
+No cultural materials; bottom of
+trench texture change to more
+compacted
+
+I
+
+0-35
+
+Very Dark
+Grayish
+Brown
+
+Clay Loam
+
+Roots & rootlets; 30%
+calcium carbonate
+
+Abrupt/
+Irregular
+
+No cultural materials; top soil;
+burned concentration in top level
+on south side of trench
+
+II
+
+35-55 10YR 5/2
+
+Grayish
+Brown
+
+Silt Loam
+
+Roots & rootlets; 70%
+calcium carbonate
+
+Abrupt/
+Brokent
+
+No cultural materials; gypsum
+& calcium carbonate exists in
+pockets
+
+III
+
+55-166 10YR 8/3
+
+Very Pale
+Brown
+
+Silt/Clay
+(Silty Mix)
+
+Rootlets; 80% calcium
+carbonate
+
+N/A
+
+No cultural materials; changes
+from silt powder to silty clay;
+pockets of gypsum & calcium
+carbonate 1cm in size
+
+Silt Loam
+
+Roots
+
+Clear/
+Smooth
+
+Flakes & some burned rock
+observed
+
+Silt Loam
+
+Irregular gravels;
+calcium carbonate
+nodules up to 1 cm in
+diameter
+
+Clear/
+Smooth
+
+Burned rock observed at base of
+contact of Strat I & II
+
+I
+
+0-30
+
+7.5YR 4/2
+
+10YR 3/2
+
+7.5YR 3/2 Dark Brown
+
+II
+
+30-50 7.5YR 4/2
+
+Brown
+
+III
+
+50-95 7.5YR 6/4 Light Brown
+
+Silt Loam
+
+Iron staining; calcium
+carbonate 1 cm
+diameter
+
+Clear/
+Smooth
+
+No cultural materials
+
+IV
+
+95-120 7.5YR 7/3
+
+Pink
+
+Silt Loam
+
+Calcium carbonate
+1-2 cm diameter
+
+N/A
+
+No cultural materials
+
+B8
+
+I
+
+0-40
+
+7.5YR 4/3
+
+Brown
+
+Silt Loam
+
+Roots
+
+Abrupt/
+Wavy
+
+No cultural materials
+
+II
+
+40-80 7.5YR 4/3
+
+Brown
+
+Silt Loam
+
+Calcium carbonate
+
+N/A
+
+No cultural materials; parent
+material calcium carbonate
+chalky substitute
+
+B9
+
+5-6
+
+Chapter 5
+
+of these trenches and consisted of very pale brown
+to pale brown (10YR8/3–6/3) clay loam-clay with
+abundant CaCO³ pieces and degrading bedrock
+(Table 5.1).
+Regarding cultural materials, trenches B1, B4, B6,
+and B9 did not contain cultural materials in the examined proﬁles. All of the remaining trenches (B2, B3,
+B5, B7, and B8) contained some evidence of cultural
+materials. Trench B2 contained some ﬁre-cracked
+rock and scattered debitage in the west proﬁle at the
+northern end of the trench (Figure 5.3). Also, during
+the excavation of B2 a projectile point (PP1) was
+observed in the backdirt that appeared to suggest an
+Early Archaic temporal afﬁliation. This artifact is
+discussed in the following chapter, but brieﬂy it is the
+proximal midsection portion of a lanceolate shaped
+projectile point with a slightly contracting stem, a
+concave base that exhibits extensive edge grinding,
+and long, parallel ﬂaking across the body. The distal
+tip is missing, with extensive facial damage in the
+area of the break possibly indicating a strong impact
+caused the break. This stemmed, lanceolate point is
+morphologically similar to an Early Stemmed Lanceolate, which is associated with the Early Archaic.
+This artifact was recovered somewhere between
+the surface and 60 cmbs at the southern end of B2.
+About 20 m south of B2, the proﬁle of B3 contained
+
+Figure 5.3.
+
+Proﬁle of B2 west wall.
+
+a cluster of fractured limestone some of which were
+thermally altered. This cluster of limestone (n=4)
+was observed in the west wall at the northern end
+of the trench (Figure 5.4). The proﬁle of B5, about
+50 m south of B3, contained two pieces of burned
+rock. The thermally altered limestone was observed
+in the western proﬁle of the trench at about 20 cmbs.
+No debitage was observed in this proﬁle. Trench
+B7 contained a shallowly buried cluster of burned
+rock (Figure 5.2). Approximately 15 pieces of ﬁrecracked rock was observed at the southern end of B7
+beginning at about 20 cmbs. The ﬁnal trench (B8) is
+about 25 m north of B4 and contained some sparse
+debitage and thermally altered rock (n=2) between
+30–50 cmbs in the eastern proﬁle at the north end
+of the trench.
+Each occurrence of cultural materials in the trenches
+was examined to determine if they warranted further
+investigation with hand excavations (Test Units).
+With the exception of the cultural materials in B8,
+all were considered to merit additional evaluation.
+The materials in B8, upon inspection, represented
+the remains of a possible feature. Unfortunately, the
+excavation of the trench removed all but a few ﬁrecracked rock fragments. The backdirt pile did contain
+additional thermally-altered limestone fragments,
+but no charcoal, faunal remains, or lithic artifacts.
+
+Results of Investigations
+
+Figure 5.4.
+
+5-7
+
+Proﬁle of B3 west wall.
+
+Therefore, the burned rock phenomenon in B8 was
+considered to be completely demolished and not
+worthy of further work.
+
+HAND EXCAVATION
+Upon completion of the backhoe trenching, SWCA
+began the hand excavated test units. A total of ﬁve
+test units (TUs 1–5) was placed along the trenches
+containing cultural materials. Test Units 1 and 2 were
+placed on B2, TU3 was positioned along B3, TU4
+was placed on B7, and TU5 was positioned along B5
+(Figure 5.2). Each of the ﬁve test units were placed to
+slightly overlap the wall of the backhoe trench. The
+results of the test units are discussed below.
+
+TEST UNIT 1
+Test Unit 1 is one of the northernmost units on
+41WM1028 intended to assess the extent and nature of the burned rock in the western proﬁle of B2
+(Figure 5.3). The unit was established along the
+western wall and was placed over the feature at the
+northern end. A string line datum was established
+south of TU1 along the western side of the trench at
+an elevation of 99.40 m, roughly 16 cm above the
+ground surface. The ﬁrst level was slightly sloped,
+and excavation in the unit began at 99.26 m (14
+
+cmbd). A total of nine levels was excavated, reaching
+a bottom depth of 98.30 m (110 cmbd).
+The stratigraphy of TU1 was similar to that observed
+in most of the trenches on the site. Speciﬁcally, the
+upper stratum consisted of a dark clay loam with
+scattered snail shell fragments and gravels, which appeared to be disturbed possibly from plowing (Figure
+5.5). This stratum gradually transitioned into a lighter
+silt loam containing some clay content and scattered
+rounded limestone gravels. This transitioned very
+gradually with an irregular to wavy lower boundary
+into the underlying stratum (Figure 5.6). This consisted of very light colored silt with some rare snail
+shell fragments and occasional inclusions of a chalk
+like material and CaCO³ pieces. This stratum clearly
+transitioned into the silt and white chalk of the fourth
+stratum of TU1 that, with depth, had an increasing
+amount of CaCO³ (Figure 5.5). Excavation in TU1
+ceased within the fourth stratum.
+Cultural materials in TU1 were present in all
+levels including the bottom level (Level 9) from
+98.40–98.30. However, the cultural materials within
+a portion of Level 7 and all of Levels 8 and 9 were
+recovered from the matrix of an animal burrow in
+the southeast corner of the unit and were interpreted
+to be compromised (Figure 5.3). For the remaining
+levels, the cultural assemblage was relatively con-
+
+5-8
+
+Chapter 5
+feature in the levels with the higher
+quantities of ﬁre-cracked rock.
+
+TEST UNIT 2
+
+Figure 5.5.
+
+Overview of TU 1 at base of excavations. Note
+chalk horizon.
+
+sistent in quantity of artifacts. Although there were
+differences between levels, no dramatic ﬂuctuations
+in frequency were apparent (Table 5.2). Also, no
+predominant stage of lithic reduction was apparent
+between unit levels. However, the debitage recovered
+from TU1 was all manufactured from a ﬁne-grained
+chert, probably locally procured, that exhibited all
+stages of reduction. Overall, the chert debitage
+of TU1 seems to be primarily represented by the
+middle to late stages of biface reduction. Regarding
+chipped stone tools, TU1 contained 14 formal tools
+(projectile points and various biface fragments) and
+11 informal tools (modiﬁed ﬂakes and cores). Formal
+chipped stone tools were recovered in Levels 1, 3–7
+with Level 5 (98.80–98.70 m) containing the most
+(n=4). The informal tools in TU1 were recovered
+from Levels 4–8 with Levels 4, 5, and 7 containing
+the most (n=3). The projectile points of this unit were
+encountered in Level 1 (Bulverde and Pedernales),
+Level 3 (Pedernales), and Level 4 (Pedernales).
+Regarding ﬁre-cracked rock in TU1, there were some
+apparent ﬂuctuations in the excavated levels (Table
+5.3). Level 5 had the most thermally altered rock
+fragments followed by Levels 6 and 3 (Table 5.3).
+The remaining levels were relatively consistent for
+quantity of ﬁre-cracked rock fragments. During the
+excavation of TU1, no evidence of patterning was
+observed to suggest the presence of an intact thermal
+
+The second unit (TU2) was also placed
+along B2, about 3 m south of TU1 on
+the eastern wall of the trench (Figure
+5.3). The placement of TU2 was in the
+vicinity of where artifact PP 1 originated and was intended to determine if
+artifacts similar to PP 1 were present.
+The ﬁrst level was slightly sloped, and
+excavation in the unit began at 99.40
+m, which was equivalent to the trench
+datum elevation. A total of nine levels
+was excavated, reaching a bottom depth
+of 98.40 m, (100 cmbd).
+
+The stratigraphy of TU2 was consistent
+with that encountered in TU1, which was similar
+to that observed in most of the trenches on the site.
+Brieﬂy, the stratigraphy observed in TU2 was almost
+exactly the same as that in TU1 (Figure 5.7). However, the third stratum containing scattered CaCO³
+pieces was encountered at a shallower depth (i.e.,
+98.80), which is about 10–15 cm shallower than in
+TU1 (Figure 5.7). As in TU1, the excavation of TU2
+ceased upon encountering the fourth stratum that
+contained silt with chalky materials and increasing
+amounts of CaCO³.
+Another distinction between TU1 and TU2 is observed within the recovered materials. Speciﬁcally,
+TU2 is similar to TU1 in that the recovered lithic
+debitage exhibited all stages of reduction with a
+slight predominance of middle to late stage ﬂakes
+represented. However, in contrast to TU1, there is
+a level that is demonstrably higher in quantity that
+the other levels. Speciﬁcally, Level 3 (99.10–99.00)
+contained almost twice the amount of any of the other
+levels in this test unit (Table 5.2). Unfortunately, this
+level of higher quantities of lithic debitage is within
+the upper stratum of disturbed clay loam (Figure
+5.7). Regarding chipped stone tools, TU2 contained
+six formal tools (projectile point fragments) and two
+informal tools (modiﬁed ﬂakes and indeterminate).
+The chipped stone tool frequency observed in TU2
+
+Results of Investigations
+
+Figure 5.6.
+
+5-9
+
+West wall proﬁle of Test Unit 1.
+
+TEST UNIT 3
+consisted of formal tools recovered in Level 1 (Alba/
+Edwards and untyped distal tip), Level 2 (stem/tang
+possible Perdiz/Bonham), and Level 3 (drill tip and
+possible Marcos base).
+As with the higher quantities of lithic debitage in
+Level 3 of TU2, there is also a noticeably higher
+amount of thermally altered rock at this depth (Table
+5.3). By weight, Level 3 contains roughly three times
+the amount than that of the next highest level (i.e.,
+Level 1) (Table 5.3). As previously mentioned, the
+depth of this elevated amount of ﬁre-cracked rocks
+is within the upper stratum of disturbed clay loam
+(Figure 5.7). The remaining levels that contained ﬁrecracked rock were relatively consistent for quantity.
+No thermally altered rock was observed in TU2 from
+Level 5 to the base of the unit in Level 9.
+
+The third unit (TU3) was positioned along B3, which
+is about 20 m south of B2 (Figure 5.2). This unit was
+placed on the western wall at the northern end of the
+trench over a cluster of thermally altered rock (Figure
+5.4). A string line datum was established south of
+TU3 along the western side of B3 at an elevation of
+100 m, roughly 10 cm above the ground surface. The
+ﬁrst level was slightly undulating and excavation in
+the unit began at 99.90 m, (10 cmbd). A total of six
+levels was excavated, reaching a bottom depth of
+99.30 m, (70 cmbd).
+The stratigraphy of TU3 was very similar to that
+encountered in TUs 1 and 2 the excavation of TU3
+ceased upon encountering the deeper silt with abundant CaCO³ ﬁlaments and pieces.
+The recovered cultural materials in TU3 were present
+in all levels. The quantity of lithic debitage in TU3
+
+5-10
+
+Chapter 5
+
+Table 5.2.
+Test
+Unit Level
+
+41WM1028 Recovered Debitage Amounts
+Elevation
+
+Depth
+(cmbd)* Count Feature
+
+Comments
+
+1
+
+1
+
+99.26-99.10
+
+14-30
+
+126
+
+Mostly tertiary; 9 secondary; 10% burned
+
+1
+
+2
+
+99.10-99.00
+
+30-40
+
+111
+
+Mostly tertiary; 7-8 secondary; ~10% burned; 1 ﬂake of unusual
+marblized orange and gray material
+
+1
+
+3
+
+99.00-98.90
+
+40-50
+
+323
+
+40% patinated; mostly tertiary; 7-8 secondary; ~10% burned; 8 coarsegrained
+
+1
+
+4
+
+98.90-98.80
+
+50-60
+
+189
+
+50% patinated; mostly tertiary; 7-8 secondary; ~5% burned; 1 coarsegrained
+
+1
+
+5
+
+98.80-98.70
+
+60-70
+
+309
+
+50% patinated; mostly tertiary; 2 primary; 2 secondary, ~5% burned; 4
+coarse-grained
+
+1
+
+6
+
+98.70-98.60
+
+70-80
+
+230
+
+50% patinated; mostly tertiary; 4 secondary, ~5% burned; 2 coarsegrained
+
+1
+
+7
+
+98.60-98.50
+
+80-90
+
+131
+
+50% patinated; mostly tertiary; 3 secondary, 6 burned; 1 coarse-grained
+
+1
+
+8
+
+98.50-98.40
+
+90-100
+
+63
+
+40% patinated; mostly tertiary; 2 secondary; 5 burned
+
+1
+
+9
+
+98.40-98.30
+
+100-100
+
+1
+
+Chunky secondary ﬂake, almost shatter
+
+2
+
+1
+
+99.40-99.20
+
+0-20
+
+148
+
+Includes 3 medial blade fragments
+
+2
+
+2
+
+99.20-99.10
+
+20-30
+
+153
+
+2 primary ﬂakes (not huge)
+
+2
+
+3
+
+99.10-99.00
+
+30-40
+
+411
+
+Several larger secondary ﬂakes, one possible blade
+
+2
+
+4
+
+99.00-98.90
+
+40-50
+
+216
+
+3 coarse-grained or quartzite ﬂakes, 10-12 large secondary ﬂakes
+
+2
+
+5
+
+98.90-98.80
+
+50-60
+
+126
+
+90% patinated, some heavily; one possible notching ﬂake
+
+2
+
+6
+
+98.80-98.70
+
+60-70
+
+16
+
+Seem less patinated, or else completely whitened
+
+2
+
+7
+
+98.70-98.60
+
+70-80
+
+4
+
+Two secondary, two tertiary
+
+2
+
+8
+
+98.60-98.50
+
+80-90
+
+1
+
+Secondary ﬂake, crystal inclusions, burned
+
+2
+
+9
+
+98.50-98.40
+
+90-100
+
+0
+
+Nothing collected
+
+3
+
+1
+
+99.90-99.80
+
+10-20
+
+9
+
+Six tertiary, three secondary. Two are burned.
+
+3
+
+2
+
+99.80-99.70
+
+20-30
+
+7
+
+Three secondary, one thin bladelike ﬂake
+
+3
+
+3
+
+99.70-99.60
+
+30-40
+
+22
+
+Two large coarse-grained or quartzite secondary ﬂakes, remainder
+patinated ﬁne-grained chert
+
+3
+
+4
+
+99.60-99.50
+
+40-50
+
+67
+
+90% patinated, some heavily burnt. 1 small coarse-grained or quartzite
+ﬂake
+
+3
+
+5
+
+99.50-99.40
+
+50-60
+
+60
+
+90% patinated, 1 coarse-grained
+
+3
+
+4&5
+
+99.50-99.40
+
+50-60
+
+n/a
+
+3
+
+6
+
+99.40-99.30
+
+60-70
+
+166
+
+90+% patinated; 4-5 larger secondary ﬂakes; one possible notching
+ﬂake
+
+4
+
+1
+
+98.64-98.50
+
+36-50
+
+177
+
+Several large, chunky secondary ﬂakes; 10-20 pieces of thermal shatter
+
+4
+
+2
+
+98.50-98.40
+
+50-60
+
+98
+
+Majority are patinated tertiary ﬂakes, some of which are biface thinning
+ﬂakes; 1 coarse-grained
+
+4
+
+1&2
+
+98.64-98.35
+
+36-65
+
+93
+
+5
+
+1
+
+100.59-100.50
+
+30
+
+13
+
+1 primary Round Rock variety; 3 burned; mostly ﬂake frags
+
+5
+
+2
+
+100.50-100.40
+
+40
+
+28
+
+Some patination; 4 secondary; 1 blade-like frag; mostly small ﬂakes
+and frags
+
+5
+
+3
+
+100.40-100.30
+
+50
+
+38
+
+Majority patinated; 3 secondary; 1 blade-like frag; 60% smaller ﬂakes/
+frags
+
+5
+
+4
+
+100.30-100.20
+
+60
+
+47
+
+Majority patinated; 6 secondary; 1 coarse-grained; 4 heavily burned
+
+* indicates depth cm below respective trench datum.
+
+2
+
+1
+
+Debitage not separated, included with Bag 32.
+
+80% patinated; one large coarse-grained secondary; 4 large ﬁnegrained tertiary;2 larger ﬁne-grained secondary; several heavily burned
+ﬂakes.
+
+Results of Investigations
+Table 5.3.
+
+41WM1028 Fire-Cracked Rock Amounts/Weights
+10-15 cm
+
+> 15 cm
+
+Elevation
+
+Depth
+(cmbd)*
+
+5-10 cm
+
+Level
+
+#
+
+kg
+
+#
+
+kg
+
+#
+
+#
+
+1
+
+1
+
+99.26-99.10
+
+14-30
+
+58
+
+0.7
+
+7
+
+0.7
+
+1
+
+2
+
+99.10-99.00
+
+30-40
+
+17
+
+0.2
+
+3
+
+1
+
+3
+
+99.00-98.90
+
+40-50
+
+68
+
+0.6
+
+15
+
+TU
+
+Feature
+
+5-11
+
+< 5 cm
+
+kg
+
+kg
+
+Total # Total kg
+65
+
+1.4
+
+0.1
+
+20
+
+0.3
+
+1.5
+
+83
+
+2.1
+
+1
+
+4
+
+98.90-98.80
+
+50-60
+
+13
+
+0.3
+
+12
+
+1.3
+
+25
+
+1.6
+
+1
+
+5
+
+98.80-98.70
+
+60-70
+
+48
+
+1.1
+
+27
+
+3.1
+
+1
+
+0.3
+
+76
+
+4.5
+
+1
+
+6
+
+98.70-98.60
+
+70-80
+
+42
+
+0.8
+
+12
+
+1.5
+
+1
+
+0.1
+
+55
+
+2.4
+
+1
+
+7
+
+98.60-98.50
+
+80-90
+
+21
+
+0.4
+
+7
+
+0.5
+
+1
+
+0.1
+
+29
+
+1.0
+
+1
+
+8
+
+98.50-98.40
+
+90-100
+
+3
+
+>0.1
+
+2
+
+>0.1
+
+5
+
+>0.1
+
+2
+
+1
+
+99.40-99.20
+
+20
+
+41
+
+0.2
+
+4
+
+0.6
+
+45
+
+0.8
+
+2
+
+2
+
+99.20-99.10
+
+20-30
+
+8
+
+0.2
+
+4
+
+0.2
+
+12
+
+0.4
+
+2
+
+3
+
+99.10-99.00
+
+30-40
+
+10
+
+0.2
+
+19
+
+2.3
+
+29
+
+2.5
+
+2
+
+4
+
+99.00-98.90
+
+40-50
+
+1
+
+0.1
+
+1
+
+0.1
+
+2
+
+0.2
+
+3
+
+1
+
+99.90-99.80
+
+10-20
+
+10
+
+0.3
+
+1
+
+0.2
+
+11
+
+0.5
+
+3
+
+2
+
+99.80-99.70
+
+20-30
+
+15
+
+0.1
+
+1
+
+0.1
+
+16
+
+0.2
+
+3
+
+3
+
+99.70-99.60
+
+30-40
+
+13
+
+0.7
+
+1
+
+0.1
+
+14
+
+0.8
+
+3
+
+4
+
+99.60-99.50
+
+40-50
+
+169
+
+0.5
+
+1
+
+0.1
+
+170
+
+0.6
+
+3
+
+5
+
+99.50-99.40
+
+50-60
+
+66
+
+0.9
+
+14
+
+0.1
+
+80
+
+1.9
+
+3
+
+6
+
+99.40-99.30
+
+60-70
+
+4
+
+0.1
+
+2
+
+0.2
+
+6
+
+0.3
+
+87
+
+19.2
+
+36
+
+1.4
+
+3
+
+2
+
+4
+4
+
+4&5
+
+99.50-99.40
+
+50-60
+
+43
+
+6.8
+
+33
+
+6.9
+
+1
+
+98.64-98.50
+
+36-50
+
+31
+
+0.5
+
+5
+
+0.9
+
+10
+
+5.0
+
+2
+
+98.50-98.40
+
+50-60
+
+24
+
+0.5
+
+12
+
+1.1
+
+1
+
+0.3
+
+1&2
+
+98.64-98.35
+
+36-65
+
+30
+
+0.8
+
+27
+
+4.5
+
+5
+
+1.5
+
+5
+
+1
+
+100.59-100.50
+
+30
+
+2
+
+0.1
+
+5
+
+2
+
+100.50-100.40
+
+40
+
+4
+
+0.1
+
+2
+
+0.1
+
+5
+
+3
+
+100.40-100.30
+
+50
+
+3
+
+0.1
+
+1
+
+0.1
+
+4
+
+1
+
+1
+
+1
+
+0.5
+
+1.5
+
+37
+
+1.9
+
+63
+
+8.3
+
+2
+
+0.1
+
+6
+
+0.2
+
+4
+
+0.2
+
+*indicates depth in cm below respective trench datum.
+
+was much lower in comparison to the recovery in
+TU1 and TU2, but increased in amount with depth
+(Table 5.2). However, due to the abundant CaCO³
+filaments and pieces in the stratum, excavation
+ceased. Furthermore, as this unit was a feature focus
+unit targeting an identiﬁed feature (i.e., Feature 2) excavations ceased upon completion of the level below
+the feature. No predominant stage of lithic reduction
+was evident when comparing the debitage between
+TU3 levels, but the majority of the ﬂakes (90 percent)
+exhibited some level of patination from Levels 4–6.
+Regarding chipped stone tools, TU3 contained two
+formal tools (various biface fragments) and two
+informal tools (utilized ﬂakes). The chipped stone
+tool frequency observed in TU3 solely consisted of
+a formal tool in Level 1 (biface fragment) and Level
+
+3 (distal tip of possible point) and two informal tools
+recovered in Level 5 (utilized ﬂakes).
+Regarding fire-cracked rock in TU3, there is a
+dramatic ﬂuctuation in amounts within the excavated levels (Table 5.3). Speciﬁcally, Levels 4 and
+5 contained almost all of the thermally altered rock
+observed in TU3. This dramatic increase in ﬁrecracked rock was not unexpected as it correlated
+to the cluster of burned rock observed in the trench
+proﬁle that compelled the placement of TU3 (Figure
+5.4). This cluster of ﬁre-cracked rock was identiﬁed
+as a feature during excavation (Feature 2), which is
+discussed in the following chapter. For the remaining
+levels of TU3, only minimal amounts of burned rock
+were observed in these levels.
+
+5-12
+
+Chapter 5
+
+Figure 5.7.
+
+South wall proﬁle of Test Unit 2.
+
+TEST UNIT 4
+Test Unit 4 was positioned along B7, which is about
+12 m west of B2 (Figure 5.2). This unit was placed
+along the western wall at the southern end of the
+trench over an identiﬁed cluster of thermally altered
+rock in the trench proﬁle. A string line datum was
+established north of TU4 along the western side of
+B7 at an elevation of 99 m, roughly 34 cm above the
+ground surface. The ﬁrst level was slightly undulating and excavation in the unit began at 98.66 m, (34
+cmbd). A total of two levels was excavated, reaching
+a bottom depth of 98.40 m, (60 cmbd).
+The stratigraphy of TU4 was slightly different from
+that observed in the other test units. The upper stratum consisted of the same dark clay loam observed
+across the site, but the soil appeared to be very disturbed from roots and possibly vehicular trafﬁc and
+included common pieces of chalky material within
+
+the matrix (Figure 5.8). The chalky material is similar
+to that observed in the third stratum of B7. It appears
+that the chalky material may have been translocated
+by abundant tree roots. The excavation ceased in TU4
+as the third stratum was being encountered.
+The recovered cultural materials in TU4 were present in all excavated levels of the unit. The quantity
+of lithic debitage in TU4 was relatively consistent
+in quantity, but was slightly lower compared to the
+recovery in Test Units 1 and 2 located roughly 12
+m away (Table 5.2). No predominant stage of lithic
+reduction was evident when comparing the debitage
+between levels, but some evidence of thermally altered ﬂakes were present and a majority of the ﬂakes
+(80 percent) exhibited some level of patination in
+Level 2. Regarding chipped stone tools, TU4 contained two formal tools (various biface fragments)
+and two informal tools (modiﬁed and utilized ﬂakes).
+The chipped stone tool frequency observed in TU4
+
+Results of Investigations
+
+5-13
+
+at 100.59 m, (21 cmbd). A total of four
+levels was excavated, reaching a bottom depth of 100.20 m, (60 cmbd).
+
+Figure 5.8.
+
+Overview of TU-4 facing north. Note heavy roots
+and chalk fragments.
+
+solely consisted of two biface fragments in Level
+1 and two informal tools recovered in Level 2 (a
+modiﬁed and a utilized ﬂake).
+In TU4 the amounts of ﬁre-cracked rock increased
+with depth (Table 5.3). Beginning at the base of
+Level 1 and into Level 2 almost all of the thermally
+altered rock was encountered for TU4. Of note, this
+cluster of burned rock was not unexpected as it was
+observed during the investigation of B7. The cluster
+of ﬁre-cracked rock was identiﬁed as a feature during excavation and designated Feature 1, which is
+discussed in the following chapter. No
+additional levels were excavated after
+the investigation of Feature 1.
+
+encountered.
+
+The stratigraphy of TU5 contained the
+upper stratum of the disturbed dark
+clay loam observed across the site. This
+stratum encompassed the ﬁrst two excavation levels, which then transitioned
+into a lighter brown clay loam with
+ﬁlaments of CaCO³ dispersed through
+the third and into the fourth excavation
+levels. Near the base of the excavations,
+the soil consisted of a brown clay loam
+with increasing amounts of CaCO³
+pieces and small nodules (Figure 5.9).
+The excavation ceased in TU5 as the
+stratum with common CaCO³ was
+
+Cultural materials were recovered in all excavated
+levels of TU5. The quantity of lithic debitage in TU5
+was much lower in comparison to the recovery in the
+other units at the site, but did show an increase in
+amount with depth (Table 5.2). However, due to the
+abundant CaCO³ pieces in the stratum, excavation
+ceased. No predominant stage of lithic reduction was
+observed in this test unit, but there was a signiﬁcant
+amount of shatter and thermally altered ﬂakes present. Furthermore, a majority of the debitage in this
+
+TEST UNIT 5
+The last test unit (TU5) was positioned
+along B5, which is about 50 m south
+of B5 at the southern end of the site
+(Figure 5.2). This unit was placed
+along the western wall at the northern
+end of the trench above a small cluster
+of thermally altered rock in the trench
+proﬁle. A string line datum was established south of TU5 along the western
+side of B5 at an elevation of 100.80
+m, roughly 23 cm above the ground
+surface. Excavation began in the unit
+
+Figure 5.9.
+
+Proﬁle of TU 5; facing north.
+
+5-14
+
+Chapter 5
+
+unit exhibited some patination in Levels 2–4. The
+chipped stone tool frequency observed in TU5 was
+very sparse, consisting of one modiﬁed ﬂake in Level
+4 (100.30–100.20).
+The ﬁre-cracked rock amounts in TU5 are consistent,
+but very low in quantity (Table 5.3). The quantity of
+thermally altered rock in this test unit is minuscule
+in comparison to the other test units on the site. The
+burned rock was randomly scattered with no apparent patterning or intentional placement. Therefore,
+the ﬁre-cracked rock observed in TU5 may, in effect,
+be the result of horizontal movement, possibly by
+the disturbance (e.g., plowing) that has affected the
+upper soil horizon.
+
+CHAPTER 6
+
+CULTURAL FEATURES AND RECOVERED MATERIALS
+John Lowe, Mercedes C. Cody, and Ken Lawrence
+
+INTRODUCTION
+This chapter summarizes the cultural features and
+recovered materials encountered during SWCA test
+excavations conducted at site 41WM1028. Each category is individually discussed below beginning with
+a discussion of the cultural features followed by a
+discussion of the recovered materials.
+
+body of Feature 1, which consisted of a disorganized
+scatter of burned rock clustered at the eastern edge of
+the unit (Figure 6.1). The western half of the unit did
+contain some scattered limestone rock, but no thermally-altered rock fragments. A few scattered burned rocks
+of Feature 1 extended to depths that would correspond
+to Level 3 (98.40–98.30), but this and subsequent levels
+were not excavated.
+
+DESCRIPTION
+
+CULTURAL FEATURES
+Evidence of several cultural features was encountered
+during the investigations of site 41WM1028. Varying
+amounts of burned rock were observed in the proﬁles
+of B2, B3, B5, B7, and B8. Upon further examination
+in each of these locations, only the burned rock in B7
+and B3 warranted feature designation (i.e., Features 1
+and 2, respectively). The burned rock in the remaining
+trenches was either determined to be randomly scattered and diffuse in nature or widely distributed through
+post-depositional processes (e.g., plowing).
+
+Feature 1 is a loose, disorganized scatter of burned
+rocks, including some non-burned limestone cobbles,
+with no discernible pattern. The burned rocks were situated within a matrix of soil undifferentiated from the
+surrounding matrix with no evidence of in situ burning.
+The limestone rocks composing the feature were highly
+fragmented and rarely observed to be overlapping. Of
+the 61 burned rocks, roughly 75 percent were rounded
+and 25 percent were angular in shape and between 0–10
+cm in size. The burned rocks were situated adjacent
+to each other in an irregular oval shape (Figure 6.1).
+
+FEATURE 1
+During the excavation of B7 a scatter of
+heavily fragmented burned rock was observed at the southern end of the trench in
+the western proﬁle. The thermally altered
+rock was situated about 20 cm below the
+ground surface within the upper dark clay
+loam stratum. To investigate this phenomenon a test unit (TU 4) was placed above
+the cluster of burned rock and excavated.
+Within the ﬁrst level (98.64–98.50), some
+burned rock was encountered along the
+margins of the trench wall, but Level 1 also
+contained an abundant amount of unburned
+limestone cobbles. The second excavated
+level (98.50–98.40) contained the main
+
+Figure 6.1.
+
+Overview of Feature 1 in TU 4; facing north.
+
+6-2
+
+Chapter 6
+
+Dimensionally, the cluster of rock extends about 48
+cm east-west (truncated by trench) and about 100
+cm north-south, with a maximum thickness of 25
+cm (98.57–98.32).
+
+hearth cleaning episode, but the initial location of
+the thermal event that created the burned rocks of
+Feature 1 is unknown.
+
+All Feature 1 matrix was screened and with the exception of the lateral margin of a possible projectile
+point, no notable artifacts were recovered. The artifact frequencies of the feature matrix compared to
+the non-feature matrix of TU 4 appears to be similar
+(see Table 5.2). No carbon pieces or ﬂecking were
+observed in Feature 1 and no special samples were
+collected.
+
+FEATURE 2
+
+An indeterminate portion of Feature 1 was removed
+during the excavation of B7, but at least half of
+the feature remained. However, the matrix of this
+remaining portion of Feature 1 has been severely affected by bioturbation from roots. The root growth in
+the area was extensive and impacted the area within
+and around the cluster of burned rocks composing
+Feature 1.
+
+INTERPRETATION AND CHRONOLOGY
+There was no charcoal observed within Feature
+1. As such, no radiocarbon dates are available for
+this feature. Additionally, no temporally diagnostic
+artifacts were encountered within or in
+association with the cluster of burned
+rock. The soil stratum containing the
+feature is interpreted to be disturbed.
+Similarly, based on temporally diagnostic artifacts from other trenches (i.e.,
+B2) the upper dark clay loam stratum is
+interpreted to be a palimpsest containing materials dating from the Middle
+Archaic to Late Prehistoric periods.
+Furthermore, the extensive root growth
+has severely impacted the cluster of
+burned rock. The loose and irregular
+orientation of the limestone rock may
+be attributed to this bioturbation. Based
+on all these reasons, an interpretative
+function can not be confidently assigned to Feature 1. This feature may
+represent the location of a secondary
+disposal location of burned rock or a Figure 6.2.
+
+During the excavation of B3 a small cluster of burned
+rock was observed at the northern end of the trench
+in the western proﬁle. The thermally altered rock was
+located about 40 cmbs. This small cluster of rock was
+situated near the base of the upper dark clay loam
+stratum within a transitional zone between the ﬁrst
+and second stratums (see Figure 5.4). To investigate this phenomenon a test unit (TU 3) was placed
+above the cluster of burned rock and excavated.
+At the beginning of the ﬁfth level (98.50–98.40),
+some burned rock was encountered near the center
+of the unit and along the margins of the B3 proﬁle.
+Based on the presence of a cluster of burned rock in
+a relatively limited area, the phenomenon was designated Feature 2 and feature investigations began
+(Figure 6.2).
+
+DESCRIPTION
+Feature 2 is a conglomeration of burned rocks situated in an amorphous shaped pattern. The main body
+
+Overview of burned rock at top of Feature 2; facing
+west.
+
+Cultural Features and Recovered Materials
+of the feature is surrounded by a periphery of more
+burned rocks (Figure 6.3). The soil matrix within the
+burned rocks was undifferentiated from the surrounding matrix with no evidence of in situ burning or
+staining. The limestone rocks composing the feature
+were highly fragmented and about half of the rocks
+were observed to be overlapping.
+Of the 87 burned rocks composing the feature,
+roughly 67 percent were angular in shape and
+between 0–10 cm in size and roughly 70 percent
+appeared to be fractured in situ. The burned rocks
+were situated adjacent to each other in an irregular
+oval shape (Figure 6.3). Dimensionally, the cluster
+of rock extends about 90 cm east-west (truncated
+by trench) and about 70 cm north-south, with a
+maximum thickness of 10 cm (99.49–99.39). In
+cross section, Feature 2 demonstrated an irregular
+basal conﬁguration resting on a ﬂat surface with no
+formal basin observed.
+Most of the Feature 2 matrix was screened except
+for one matrix special sample collected from around
+the burned rocks. The debitage for the feature matrix was tallied (n=25) and incorporated into the
+recovered debitage for Level 5 (see Table 5.2). The
+artifact frequencies of the feature matrix compared
+to the non-feature matrix of TU 3 appears to be
+similar (see Table 5.2). Of note, the vast majority
+of the recovered debitage in and around Feature 2
+exhibited heavy patination, which suggests extensive
+surface exposure.
+
+INTERPRETATION AND CHRONOLOGY
+There was only one ﬂeck of charcoal observed within
+Feature 2, which was insufﬁcient for obtaining a
+viable sample. Therefore no radiocarbon dates are
+available for this feature. Furthermore, no temporally
+diagnostic artifacts were recovered within or near
+Feature 2. Thus, the cultural context and age for
+Feature 2 is unknown. The dark clay loam stratum
+partially containing Feature 2 is interpreted to be
+disturbed. Additionally, comparing temporally diagnostic artifacts from other trenches (i.e., B2), the
+upper dark clay loam stratum is interpreted to be a
+jumbled palimpsest containing materials dating from
+the Middle Archaic to Late Prehistoric periods. Based
+on the orientation and coherence of the apparently ‘in
+situ’ burned rocks, Feature 2 appears to represent the
+primary location of a thermal hearth feature. Also,
+the absence of thermally altered soil and paucity of
+carbon suggests that the feature may have been a
+low-energy thermal feature. Furthermore, the high
+percentage of debitage exhibiting some level of
+patination within a stratum that is interpreted to be a
+palimpsest suggests that this feature was exposed on
+the surface for a considerable amount of time. The
+extent of the negative effects that have acted upon
+the feature (e.g., duration of surface exposure, roots,
+and plowing) is unknown.
+
+An indeterminate portion of Feature
+2 was removed during the excavation
+of B3, but at least 75 percent of the
+feature appeared intact. The matrix of
+the remaining portion of Feature 2 has
+been heavily affected by bioturbation
+as evidenced by roots, worm casts, and
+numerous inclusions. The bioturbation
+observed was particularly evident in the
+level preceding the feature and in the
+feature level (i.e., Level 4 and 5). The
+disturbance from root growth may account for the periphery of burned rock
+that surrounds Feature 2 (Figure 6.4).
+Figure 6.3.
+
+6-3
+
+Overview of Feature 2; facing west.
+
+6-4
+
+Chapter 6
+varied, as two of the cores display
+multidirectional scars. The other two
+exhibit bifacial reduction sequences
+and the largest of these could have been
+used as a chopping tool. The ﬁfth core is
+a small fragment of a ﬁne-grained very
+dark grey chert raw material, similar in
+appearance to the Round Rock variety
+of Edwards Chert. The specimen has a
+ﬂat, slightly weathered cortical section
+and multidirectional reduction scars.
+The distribution of the cores suggests
+that the area near TU 1 was used for
+lithic reduction.
+
+Figure 6.4.
+
+Test Unit 1 also accounted for ﬁve of
+the 11 total ﬂake tools recovered from
+41WM1028, and four of the six edgemodiﬁed ﬂakes. These ﬂakes have evidence of retouching along at least one lateral margin.
+These specimens lack polish from use and display
+only slight evidence of usewear overall. The rest of
+the assemblage consists of utilized ﬂakes, displaying evidence of edge-wear or use marks but lacking
+retouch scars. Secondary ﬂakes account for ﬁve of
+these tools, while ﬁve more are made on bifacethinning ﬂakes. A single modiﬁed ﬂake was made
+on a blade-like tertiary ﬂake, and two of the bifacethinning ﬂakes also had a blade-like morphology. A
+number of chert types are evident in the assemblage,
+including two specimens of the aforementioned
+Round Rock variety, but heavy patination hampered
+identiﬁcation on several of the ﬂakes. The modiﬁed
+ﬂake recovered from Level 7 (98.60–98.50) of TU
+1 is of the same material as the cores from that level
+(Table 6.1).
+
+Overview of Feature 2 and surrounding matrix.
+Note chalk pebbles and roots.
+
+RECOVERED MATERIALS
+This section of the chapter describes the cultural
+materials artifacts recovered during the test excavations in the ﬁve test units and nine backhoe trenches
+at 41WM1028. The discussion of the site’s artifact
+assemblage is grouped into various categories, all of
+which are prehistoric.
+
+PREHISTORIC STONE ARTIFACTS
+A total of 46 chipped stone tools were recovered
+during the test excavations at 41WM1028. Of these,
+18 were informal tools, such as cores, edge-modiﬁed
+ﬂakes, and unifaces. The remaining chipped stone
+tools were categorized as formal tools that include
+bifaces and projectile points. The informal tools are
+cataloged in Table 6.1 while Table 6.2 summarizes
+data regarding the formal tools recovered during test
+excavations.
+
+INFORMAL TOOLS
+All ﬁve of the cores found at 41WM1028 came from
+TU 1 (Table 6.1). Four of these are from weathered
+cobbles of a white (7.5YR8/1) chert. Cortex was
+present on all four specimens in limited areas, generally along a ﬂat plane. This possibly suggests that the
+cobbles were not obtained from a creek bed, where
+gravels are more rounded. Reduction strategies are
+
+A single uniface was recovered from the southwest
+portion of TU 1, Level 4 (98.90–98.80). This tool was
+made from a large, secondary biface-thinning ﬂake
+of very dark grayish-brown (10YR3/2) chert that has
+areas of heavy patina. All of the lateral margins have
+been retouched; the long, straight margin and the
+distal portion are extensively chipped. This variation
+suggests that the tool may have had multiple uses,
+although only light use-wear is visible. An additional
+proximal fragment of an indeterminate tool type,
+made of Round Rock variety chert and showing
+heavy use damage, came from TU 2 (Table 6.1).
+
+Cultural Features and Recovered Materials
+Table 6.1.
+
+6-5
+
+Informal Tools
+
+Unit
+
+Level
+
+Artifact Type
+
+Color
+
+1
+
+5
+
+Core
+
+7.5YR 8/1
+
+Multi-directional; ﬂat cobble; weathered material
+
+Comments
+
+1
+
+7
+
+Core
+
+7.5YR 8/1
+
+Multi-directional; ﬂat cobble; weathered material
+
+1
+
+7
+
+Core
+
+Patinated
+
+Mostly bifacial; ﬂat cobble with some rounded edges
+
+1
+
+8
+
+Core fragment
+
+Gley 1 3/N, patinated
+Round Rock?
+
+1
+
+5
+
+Core/Chopper
+
+7.5YR 8/1
+
+2
+
+3
+
+Indeterminate
+
+10YR 3/2 Round Rock
+Chert
+
+1
+
+4
+
+Modiﬁed Flake
+
+Patinated
+
+1
+
+4
+
+Modiﬁed Flake
+
+10YR 3/2 Round Rock
+Chert
+
+1
+
+5
+
+Modiﬁed Flake
+
+10YR 7/3, opaque
+
+1
+
+7
+
+Modiﬁed Flake
+
+7.5YR 8/1
+
+4
+
+2
+
+Modiﬁed Flake
+
+Cloudy white with red
+banding
+
+5
+
+4
+
+Modiﬁed Flake
+
+Patinated
+
+Early stage bifacial thinning ﬂake;retouch on longer straight margin,
+no use wear near retouch
+
+1
+
+4
+
+Uniface
+
+Patinated
+
+Large secondary ﬂake, all margins retouched. End scraper with
+cutting edges
+
+1
+
+6
+
+Utilized Flake
+
+10YR 3/2 Round Rock
+Chert
+
+Secondary ﬂake, prepared platform. Use nibbling on margins by
+platform.
+
+2
+
+1
+
+Utilized Flake
+
+Cloudy grayish
+
+Biface thinning ﬂake, light edge wear on lateral margibns and ventral
+surface
+
+3
+
+5
+
+Utilized Flake
+
+Cloudy gray
+
+Bifacial thinning ﬂake; blade-like; light edge wear on medial & distal
+margins
+
+3
+
+5
+
+Utilized Flake
+
+Light gray
+
+Bifacial thinning ﬂake; nibbling near platform; use wear on ventral
+surface-no polish
+
+4
+
+2
+
+Utilized Flake
+
+Cloudy tan/gray Edwards?
+
+Large secondary bifacial thinning ﬂake; medial section; light edge
+damage on ventral surface by remaining edge
+
+Multi-directional; ﬂat cobble; weathered material, some very
+patinated sides
+Bifacial; ﬂat cobble; weathered exterior
+Probably from the proximal end of a tool. Lots of cortex on ventral
+surface. Edge angle not steep enough for scraper, some bifacial
+reduction or use wear, edge grinding.
+Blade-like ﬂake, retouch on lateral edge near platform
+Secondary ﬂake, cortical platform. Light retouch on one lateral and
+distal portions
+Secondary ﬂake, cortical platform. Light retouch on all lateral
+margins. One shallow notch, almost spoke shave.
+Distal portion of a large secondary ﬂake, some heat damage, steep
+edges
+Bifacial thinning ﬂake; ground platform; retouch on margin; some use
+wear-no polish
+
+FORMAL TOOLS
+The formal tool assemblage recovered at 41WM1028
+consists of 16 biface fragments, one complete biface,
+and 11 projectile point fragments (Table 6.2). Almost
+40 percent of the formal tools were projectile point
+fragments; they also account for 24 percent of the
+total tool assemblage.
+
+BIFACES
+The biface assemblage is characterized mainly by
+small fragments of completed or nearly completed
+tools. Approximately two-thirds of the collection ﬁt
+
+into Stage 4 or 5 in the biface reduction sequence
+described by Andrefsky (2002). A single specimen of
+Round Rock variety chert appears to be in the early
+stages of reduction and is morphologically similar to
+a core fragment. This is also one of two specimens
+that appear to be made from a cobble rather than a
+ﬂake blank, as many of the fragments have remnant
+platforms or bulbs of percussion. Many of the ﬁnished tool specimens display areas of possible use
+wear along the margins and fracturing consistent with
+use breakage. Likewise, the middle-stage fragments
+appear to have been broken during manufacturing
+and discarded.
+
+6-6
+
+Chapter 6
+
+Table 6.2.
+Unit
+
+Level
+
+Formal Tools
+Artifact Type
+
+Color
+Gley2 4/1
+10PB
+
+Condition
+Lateral
+Fragment
+
+Breakage/Damage
+
+Comments
+
+Vertical manufacture failure
+
+Weathered cobble with cortex
+remaining; rather crude & similar to
+core shatter; heavily patinated
+
+1
+
+5
+
+Biface Stage 2
+
+1
+
+3
+
+Biface Stage 3
+
+1
+
+7
+
+Biface Stage 3
+
+Gley 2 2.5/1
+5PB
+
+4
+
+1
+
+Biface Stage 3
+
+7.5 YR 4/3
+
+Proximal
+
+Lateral manufacture
+failure-inclusion may have
+contributed to failure
+
+Manufactured from a ﬂake?; domed
+
+4
+
+1
+
+Biface Stage 3
+
+Patinated
+
+Proximal
+
+Diagonal snap & hinge
+fracture
+
+Manufactured from ﬂake with platform
+remnant; domed; may have been used
+
+4
+
+1
+
+Biface Stage 3
+
+Gley 2 4/1
+10B
+
+Midsection
+
+Two hinge fractures
+
+Heavily burned with crazing &
+calciﬁed; edges rather tough; pressure
+ﬂakes on opposing sides
+
+1
+
+3
+
+Biface Stage
+3/4
+
+10YR 3/2
+
+Proximal
+
+Lateral
+
+Manufactured from ﬂake with platform
+remnant; dorsal heavily patinated; knot
+on dorsal
+
+1
+
+5
+
+Biface Stage 4
+
+5YR 7/1
+
+Complete
+
+None
+
+Cobble?; made from coarse chert/
+quartzite-low quality material;
+alternately beveled; not well thinned
+in middle
+
+1
+
+6
+
+Biface Stage 4
+
+Gley 2 4/1
+10PB
+
+Medial
+
+Multiple fractures-one
+lateral & one diagonal
+
+Patinated; manufacture failure
+probably occurred during thinning on
+opposite ???
+
+4
+
+1
+
+Biface Stage 4
+
+7.5 YR 3/2
+
+Proximal/Lateral
+
+Biface Stage
+4/5
+
+10YR 7/2
+
+Lateral
+Fragment-Small
+
+Feature
+1/2
+1-4
+
+10YR 6/3, 7/2, Medial Biface8/2
+Proximal Flake
+
+Lateral one manufacture
+Manufactured from ﬂake with platform
+& one material-crystalline
+remnant
+inclusion failures
+
+Lateral
+Two diagonal manufacture
+Manufactured from ﬂake with remnant
+Fragmentfailures-inclusions
+platform
+Possibly Distal
+contributed to failure
+
+Two diagonal manufacture Manufactured from ﬂake with platform
+failures
+remnant; edges are ground
+Lateral snap & two other
+breakages
+
+Medium grain chert; not ﬁnely ﬂaked
+
+1
+
+7
+
+Biface Stage 5
+
+Gley 2 4/1
+10PB
+
+Proximal/Lateral
+
+3
+
+1
+
+Biface Stage 5
+
+Gley 2 2.5/1
+5PB
+
+Distal/MedialMissing Tip
+
+Lateral snap; tip removal
+may be impact fracture
+
+Probably from a dart point; no
+patination; some crazing
+
+1
+
+5
+
+Biface Stage 5
+
+Light GrayWhite Patina
+
+MedialMidsection
+
+Lateral & Diagonal Snap
+
+Patinated; narrow somewhat domed
+cross-section; quite heavily used
+
+1
+
+5
+
+Biface Stage 5
+
+Patinated
+
+Lateral
+Fragment
+
+2
+
+3
+
+Biface Stage
+5- Drill Tip
+
+10YR 4/2
+
+Tip Only
+
+Use breakage
+
+Edwards chert; some patination; tip is
+worn; slight bevel
+
+1
+
+4
+
+Biface Stage 5
+or Used Stage 4
+
+2.5Y 4/1
+10YR 2/1
+Black
+
+Lateral
+Fragment
+
+Multiple impact/snap &
+excavation fractures
+
+Edge is thinned with some ﬁne ﬂaking;
+thick towards middle
+
+Grey/White
+Patina
+
+Mostly
+Complete-Tip &
+Burin Removed
+
+Impact fracture at tip &
+burin along lateral margin
+
+May have been recycled; heavily
+patinated; beveled long thin ﬂakes
+from left sides
+
+BHT 2
+
+<60 Early Stemmed
+cm
+Lancelolate
+
+Diagonal snap; strong hinge Manufactured from ﬂake; strong hinge
+fracture
+fracture
+
+Multiple snaps; might have Some large ﬂakes from edge-may be
+a damaged tool?
+rejuvenation ﬂakes
+
+2
+
+3
+
+Projectile Point
+base; possibly
+Marcos
+
+Unknown
+
+Base
+
+Unknown snap; possible
+burin
+
+Heavily patinated; possibly burned;
+some basal grinding
+
+2
+
+1
+
+Projectile Point
+Edwards or
+Alba
+
+10YR 4/2
+
+Tip Missing
+& One Tail
+Barb Heavily
+Damaged
+
+Impact-diagonal fracture
+
+Edwards chert; very ﬁnely ﬂaked
+
+Cultural Features and Recovered Materials
+Table 6.2.
+
+6-7
+
+Formal Tools, continued
+
+Unit
+
+Level
+
+Artifact Type
+
+Color
+
+Condition
+
+Breakage/Damage
+
+Comments
+
+1
+
+3
+
+Projectile Point
+Pedernales
+
+7.5YR 3/1
+
+Base/Midsection
+
+Diagonal snap; base? tips
+damaged
+
+Core blank; one side heavily
+patinated; base beveled
+
+1
+
+1
+
+Projectile Point
+Pedernales
+
+Lateral snap; one face
+damaged
+
+Patinated; some edge grinding; slight
+bevel
+
+1
+
+4
+
+Projectile Point
+Pedernales
+
+Unknown
+
+Stem “Tail” Only
+
+Lateral snap took face off
+both sides
+
+Heavily patinated all over; very slight
+bevel
+
+2
+
+2
+
+Projectile Point
+Stem/Tang
+
+10YR 3/1
+
+Base/Barb Only
+
+Lateral snap
+
+Bonham/Perdiz stem or general arrow
+tang; extemely well-made; thin; one
+edge shows some light grinding
+
+3
+
+3
+
+Projectile point
+tip; Untyped
+
+Gley 2 6/1
+5PB
+
+Tip Only
+
+Lateral fracture-maybe
+snap
+
+Heavily patinated; tip still pretty sharpedges less so
+
+2
+
+1
+
+Projectile Point Gley 2 2.5/1
+Untyped
+5PB
+
+2
+
+4
+
+Projectile Point;
+possibly Darl
+preform
+
+1
+
+6
+
+Gley2 3/10B
+3/1- Edges Stem “Tail” Only
+10YR 4/4
+
+Grey/White
+Patina
+
+Tip Only
+
+Probably arrow point tip; extememly
+Lateral manufacture? failure well made; tip edges still sharp-likely
+never used.
+
+Lateral margin
+Vertical fracture has
+of proximal and
+removed one lateral margin
+midsection
+
+Gley 2 3/10B
+3/1 Patina
+Mostly completewith White
+Projectile
+Tip Missing
+preform Stage Inclusions& Only One
+4; Bulverde
+Maybe
+Shoulder
+Brownish
+Chert
+
+Some patterns are evident in the distribution of the
+bifaces across the site. Of the 17 total specimens,
+10 were recovered from TU 1 (Table 6.2). Half of
+these are from completed tools, including the single
+complete biface. Test Units 2 and 3 each contained
+a single fragment from a completed tool (Table 6.2).
+The ﬁve remaining examples are from TU 4, which
+included Feature 1. A small lateral fragment of a medium-grained, light gray chert came from the feature
+context. Three of the other four fragments are Stage
+3 manufacturing failures, and the fourth appears to
+have broken during rejuvenation. It is possible that
+a tool manufacturing area may be associated with
+Feature 1.
+A complete bifacial knife (Figure 6.5d) encountered
+in Level 5 (98.80–98.70) of TU 1 is a very unique
+specimen (Table 6.2). The artifact is made of a light
+gray (5YR7/1) coarse-grained chert or quartzite. The
+edges are alternately beveled but not particularly
+well ﬂaked, and the middle is poorly thinned. There
+is no evidence of use wear or hafting. Considering
+the abundance of high-quality chert in the vicinity of
+the site as well as the debitage and tool assemblage,
+
+Lateral manufacture
+fracture
+
+Very crude preform of possible Darl
+point.
+
+Unknown blank; heavily patinated &
+interior maybe brownish chert; large
+knot on one side closer to cortex
+
+this tool was very likely transported into the area
+and onto the site.
+The only other unique tool form in the biface assemblage is a drill tip recovered from Level 3 (99.10–
+99.00) of TU 2 (Figure 6.5d). The shape, thickness,
+and slight beveling distinguish this small fragment as
+a drill. It is made from a ﬁne-grained, dark grayishbrown (10YR4/2) Edwards chert with some patina
+that has destroyed any traces of use polish. However,
+the tip and edges are worn and the fracture pattern
+suggests that the tool snapped during use.
+
+PROJECTILE POINTS
+The projectile point assemblage from site 41WM1028
+(Figures 6.5 a–d and 6.6 a–i) is made up entirely of
+fragmentary specimens. Two of the 11 total examples
+are ﬁnely ﬂaked distal sections with snap breaks.
+Both the edges and tips of these points are still
+sharp and do not evidence any damage outside of
+the separation fracture.
+
+6-8
+
+Chapter 6
+
+Figure 6.5.
+
+Bifaces: a) drill tip biface, b) distal tip, c) distal tip, and d) knife.
+
+Cultural Features and Recovered Materials
+
+Figure 6.6.
+
+Projectile points: a) Indeterminate; b) Darl, c) Alba, d) Bulverde; e) Pedernales; f)
+Early Stemmed Lanceolate; g) Pedernales; h) Indeterminate; i) Pedernales.
+
+6-9
+
+6-10
+
+Chapter 6
+
+A possible arrow point stem or tang was recovered
+from TU 2, Level 2 (99.20–99.10) (Figure 6.6a). This
+artifact is made from a translucent, dark gray ﬁnegrained chert of the Round Rock variety and is very
+ﬁnely ﬂaked. The stem/tang is narrow, with parallel
+sides and a slightly rounded base. The edges show
+some light grinding or possibly haft wear. A small
+bit of remnant platform on one of the basal corners
+shows that the point was made from a ﬂake blank and
+is an apparent arrow point fragment. If this artifact
+is a point base and not a tang it is morphologically
+similar to the Bonham or Perdiz type stems (Turner
+and Hester 1999). Unfortunately, there is not enough
+of the artifact remaining to make a conﬁdent identiﬁcation.
+The other arrow point from 41WM1028 was recovered from Level 1 (99.40–99.30) of TU 2 (Table 6.6).
+This artifact retains the proximal and medial sections
+of a corner-notched, slightly expanding stem projectile point that is stylistically similar to an Alba point
+(Turner and Hester 1999:200). One side appears to
+be slightly serrated, but this could also have been the
+result of damage (Figure 6.6c). The point is made
+from a dark grayish-brown (10YR4/2) ﬁne-grained
+Edwards chert. The distal tip is missing as the result
+of an impact that left a slight hinge fracture scar and
+broke the point at a diagonal. The Alba projectile
+point type is associated with the Late Prehistoric
+time period (Turner and Hester 1999:200).
+The remaining two projectile points from TU 2 are
+dart point fragments (Table 6.2). An expanding stem
+point base with an extremely heavy patina (Figure
+6.2h) is morphologically similar to a Marcos base,
+which dates to the Late and Transitional Archaic
+periods (Turner and Hester 1999). The specimen,
+from Level 3 (99.10–99.00), has a heavy patina and
+has been damaged by potlidding. A heavily patinated
+Darl preform (Figure 6.6b), dating to the Transitional
+Archaic period, was found in Level 4 (99.00–98.90).
+This point has a wide stem and weak shoulders and
+would have been rather small and narrow if complete. A long vertical fracture has removed one full
+lateral margin of the point, and the distal tip is also
+missing. The point is relatively thick and the base
+has a ﬂat section, which suggests that the point was
+not completed. The lateral section may have been
+removed as a burin.
+
+TU 1 yielded parts of three Pedernales points (Table
+6.2). The Pedernales point type according to Turner
+and Hester (1999) dates to Middle Archaic while Collins (2004) associates this point with the Late Archaic
+period. A point base from Level 1 (99.26–99.10) has
+the rectangular, bifurcated shape and basal concavity
+with thinning ﬂakes characteristic of the Pedernales
+type (Figure 6.6g). There is some edge grinding
+and slight beveling on the specimen, which is made
+from a ﬁne-grained, brown Edwards chert. The stem
+fractured from snapping, as there is a hinge scar on
+one face.
+A large proximal and medial fragment of a Pedernales point was recovered from Level 2 (99.10–99.00)
+(Figure 6.6e). The stem has edge grinding and is
+slightly beveled, and the tips of the “tail” are damaged. One face of this point has a heavy patina,
+while the other has some white spots that may be
+inclusions in an otherwise very dark gray (7.5YR3/1)
+Edwards chert. The distal and much of the medial
+section broke away at a diagonal, likely resulting
+from an impact.
+A ﬁnal Pedernales base, with an extremely heavy
+patina, was found in Level 4 (98.90–98.80) (Table
+6.2). This specimen is thinner than the others, is
+only very slightly beveled, and has rounded basal
+ears (Figure 6.6i). This piece also suffered a snap
+fracture, which removed a portion of both faces in
+the area of the break.
+A nearly complete Bulverde point preform was
+uncovered in Level 5 (98.80–98.70) of TU 1 (Table
+6.2). The distal tip of the point is missing, likely removed as part of a manufacturing or material failure
+(Figure 6.6d). One face has a large knot of a white,
+medium-grained chert that may have once been near
+the cortex of the raw material. One interesting element of this preform is that one portion of the stem
+and adjoining shoulder are essentially ﬁnished, while
+the opposing side has only been ﬂaked on one face
+and the shoulder has not been formed (Figure 6.6d).
+This may provide some insight into the production
+sequence of Bulverde manufacturing. This artifact,
+like most of the lithic material at 41WM1028, is
+heavily patinated. However, a small area of excavation damage shows that the original raw material
+color was a dark gray brown, likely Edwards chert.
+
+Cultural Features and Recovered Materials
+
+6-11
+
+According to Turner and Hester (1999:82) the Bulverde point type dates to the Early Archaic while
+Collins (2004) associates this point with the Late
+Archaic period.
+
+one arrow point fragment, one dart point fragment,
+and two indeterminate point fragments while one
+dart point (PP-1) was observed during the excavation of B2.
+
+The most distinctive projectile point, PP-1, is an
+Early Stemmed Lanceolate dart point, which dates to
+the Early Archaic Period, recovered from the backdirt
+of B2 at a depth of less than 60 cmbs (Table 6.2).
+This stemmed, lanceolate point (Figure 6.6f) has a
+contracting stem, a concave base, and extensive edge
+grinding. The body shows areas of long, parallel ﬂaking from the left. The distal tip of the point is missing, with extensive facial damage in the area of the
+break probably attributable to a strong impact. One
+of the lateral margins has been removed as a burin
+spall. The artifact is heavily patinated throughout,
+although some areas around the distal break look as
+though the original raw material was a lighter tan
+or white color. There is no clear evidence that this
+point was collected and recycled by the later occupants of the site during its use-life. The remaining
+lateral margin is still relatively sharp, but the color
+and level of patination in this area does not differ
+from the body of the point, which still retains the
+original parallel ﬂake scars. Typically, when a tool
+with heavy patina is rejuvenated, the work area will
+be the original color, and any additional patina will
+be starting fresh from the original. This dart point
+is stylistically similar to quite a few Early Stemmed
+Lanceolate points that have been recovered from
+other archaeological sites in the area.
+
+Recovery from the B2 area indicates most of the
+cultural material is concentrated near the base of
+the upper dark clay loam stratum at 99.10–98.90
+elevation (see Table 5.2). The artifact frequencies are relatively consistent for the ﬁrst couple of
+levels and increase dramatically around the third
+excavated level (see Table 5.2). After the rise in
+artifact quantities the frequencies steadily decrease
+with depth until relative cultural sterility around
+the seventh level (98.60–98.50). General cultural
+sterility occurs within the third stratum identiﬁed
+during backhoe trenching, which consists of brownish-yellow (10YR6/6) silt with pockets of a chalk
+like materials and small pieces of CaCo³ scattered
+throughout the level.
+
+RECOVERED MATERIALS DISCUSSION
+Several archaeological patterns were identified
+during the 41WM1028 artifact analysis. The most
+prominent pattern is demonstrated in the quantity of
+artifacts recovered from TUs 1 and 2. Speciﬁcally,
+the highest artifact amounts for the site are along
+the eastern edge of the APE, particularly around B2
+(see Table 5.2). Furthermore, all of the temporally
+diagnostic artifacts came from either B2 or TU 1 and
+2 within that trench (Tables 6.1 and 6.2). Although
+none of the recovered projectile points are complete
+they generally have an intact characteristic (e.g.,
+proximal end) implying a typology. Brieﬂy, TU 1
+contained four dart point fragments, TU 2 contained
+
+The patination observed on some of the debitage
+is also suggestive. High frequencies of debitage
+recovered from the test units contained moderate-heavy patination (see Table 5.2). Patination is
+generally believed to indicate stable surfaces over
+an extended period of time. Basically, if all the
+artifacts were patinated then they may be roughly
+contemporaneous. However, if the assemblage is
+mixed (e.g., some with patination and some without
+patination) then the artifacts likely were deposited
+at different times. Therefore, artifacts exhibiting
+patination can be interpreted to be a palimpsest. This
+appears to be the case in TU 1 and 2 where over half
+of the debitage exhibit patination beginning around
+98.90–98.50 elevation (see Table 5.2). Based upon
+the mixed amounts of patination observed on the TU
+1 and 2 debitage it appears that the artifacts are not
+associated with an isolable component.
+The temporally diagnostic artifacts recovered during
+the testing also are indicative of a jumbled context.
+In TU 1, there are three projectile points associated
+with the Middle Archaic (Pedernales) that came
+from the ﬁrst stratum of dark clay loam and an Early
+Archaic Bulverde point that came from near the
+base of the ﬁrst stratum (Table 6.2). In TU 2, a Late
+Prehistoric Alba point and a Transitional Archaic
+Darl point came from the upper dark clay loam of
+
+6-12
+
+Chapter 6
+
+the ﬁrst stratum (Table 6.2). Therefore, the upper
+stratum of the site that contains dark clay loam and
+evidence of disturbance has artifacts that temporally
+span from the Early Archaic to the Late Prehistoric.
+Therefore it is interpreted that the upper clay loam
+stratum is a disturbed palimpsest. Unfortunately, the
+Late Paleoindian point (Early Stemmed Lanceolate)
+was recovered from the back dirt during B2 excavation. Thus, this artifact lacks a deﬁnite provenience.
+However, it is known that the projectile point was
+recovered at less than 60 cmbs. Therefore, the artifact could have originated from either the bottom
+of the dark clay loam ﬁrst stratum or the top of the
+second stratum.
+
+CHAPTER 7
+
+SYNTHESIS AND RECOMMENDATIONS
+Ken Lawrence
+
+INTRODUCTION
+The SWCA testing excavations of 41WM1028 provided data for the determination of the cultural components and interpretation of the site’s stratigraphy.
+This chapter summarizes the results of the testing by
+discussing the nature of stratigraphy, the distribution
+of cultural materials, and the site size. Subsequent to
+this review, the natural and cultural stratigraphy will
+be correlated to assist in the interpretation of the site’s
+integrity and potential data yield to enable the determination of eligibility of 41WM1028.
+
+NATURAL STRATIGRAPHY
+Synthesizing the various proﬁles across the site, certain
+correlation can be made in the region yield tentative
+trends. Stratum 1 is a dark clay loam plow zone roughly
+40–50 cm thick. Diagnostic artifacts indicate the unit
+is a very gradual cumulic soil that contains 4,000 years
+of intermixed diagnostic artifacts.
+Based upon the age of the temporally diagnostic artifacts recovered from the ﬁrst stratum of dark clay
+loam at 41WM1028, it appears that the soils may be
+contemporaneous with Unit II identiﬁed by Abbott
+(Brownlow 2003). Unit II was indicated to have the
+longest depositional history of those identiﬁed by Abbott and appears to temporally encompass some of the
+cultural deposits at the site (Brownlow 2003:185).
+The second stratum at 41WM1028, which contained
+some cultural materials, consists of brown to yellowish-brown silt loam with some clay content and some
+scattered rounded limestone gravels may correlate
+with Unit I of Abbott’s investigation. This stratigraphic
+unit contains dark yellowish-brown clay loam, loam,
+and silty clay over silty gravel that dates to 10960±60
+(Brownlow 2003:183–185). Although the investiga-
+
+tions did not recover a temporally diagnostic artifact
+from this stratum it is older than the ﬁrst stratum.
+The remaining strata observed at 41WM1028 consists
+of the third stratum of a brownish-yellow to yellowish-brown silt with a few snail shell fragments and
+chalk above the fourth stratum of very pale brown to
+brownish-yellow silt with CaCO³ pebbles and chalk
+that overlies the ﬁfth stratum of very pale brown silty
+clay with small subrounded limestone gravels. None
+of the remaining three strata at 41WM1028 appears
+to correlate with the stratigraphic investigations at the
+Blackland Prairie or Wilson-Leonard sites.
+
+CULTURAL STRATIGRAPHY
+Several cultural components, as evident by a range of
+diagnostic artifacts, are present at 41WM1028, but for
+the most part these are intermixed or compressed in one
+or two depositional units with little or no stratigraphic
+separation. The projectile points for 41WM1028 are
+associated with the Early Archaic, Middle Archaic,
+Transitional Archaic, and Late Prehistoric time periods. However, the recovered temporally diagnostic
+artifacts were almost exclusively recovered from
+the ﬁrst stratum of dark clay loam (see Table 6.2).
+The exception is the Early Archaic dart point (Early
+Stemmed Lanceolate) which was recovered during
+trench excavation of B2.
+The vertical distribution of the artifact assemblage for
+all of 41WM1028 is based upon amounts of recovered
+debitage in the levels of TUs 1 and 2. Speciﬁcally,
+the amounts of debitage in TUs 1 and 2 were higher
+than the other units on the site. Due to the elevated
+amounts of debitage in these two units they have been
+interpreted to be a fair representation of the cultural
+stratigraphy for the site as a whole. However, the site’s
+surface undulates topographically causing some variance in regards to elevations of the units in contrast to
+
+7-2
+
+Chapter 7
+
+the soil strata that covers the site. Speciﬁcally, the
+surface level (Level 1) in TU 1 is higher in elevation
+than the surface level in some of the other units and
+lower than others. To account for these variances,
+the cultural stratigraphy is referenced in relation
+to the natural stratigraphy observed in the backhoe
+trenches, which all the test units share.
+Based upon the recovered materials from TUs 1 and
+2, the artifact frequencies are generally consistent
+for the ﬁrst couple of levels, but increase near the
+base of the ﬁrst stratum and the upper portion of the
+second stratum (see Table 5.2). Within the second
+soil stratum of lighter silt loam the artifact quantities
+gradually begin to decrease with depth. Within the
+third stratum consisting of brownish-yellow silt with
+chalk and small CaCO³ pieces, the cultural materials
+in TU 2 decrease to relatively sterile. As discussed
+in Chapter 5, an animal burrow at the base of the
+second stratum and within the third stratum in TU
+1 may have distorted the debitage amounts in these
+strata (see Figure 5.3).
+Overall, the cultural stratigraphy for 41WM1028
+appears to indicate that the cultural materials are
+concentrated at the base of the ﬁrst stratum and the
+upper portion of the second stratum. Unfortunately,
+temporally diagnostic artifacts recovered suggest
+these deposits are intermixed or packed together in
+the ﬁrst and second strata with no distinct separation. During the SWCA revisit of the site, the survey encountered two soil horizons each appearing
+to correlate with the presence of cultural materials
+(Lawrence 2007). The survey observed cultural materials that seemed to be associated with a dark clay
+loam upper soil horizon (i.e., ﬁrst stratum), while
+lower cultural materials appeared to correlate to the
+lighter silt loam stratum (i.e., second stratum). The
+test excavations at 41WM1028 did not encounter a
+noticeable delineation in artifact amounts between
+the two strata. Therefore, these strata appear to represent a jumbled palimpsest. Although, the ﬁrst and
+second strata contain the most artifacts of the site
+(particularly the ﬁrst stratum), it is disorganized and
+does not contain an intact cultural horizon that can
+be associated with a particular time period.
+
+SITE SIZE AND DISTRIBUTION
+Prior to testing, the SWCA revisit of site 41WM1028
+determined that the cultural materials of the site were
+scattered on the surface along 160 m of the Arterial A
+survey corridor (north-south) and extended beyond
+the edges of the roughly 37-m wide APE (east-west).
+However, the surﬁcial artifacts decreased in frequency toward the southern end of the site while the
+highest density of surﬁcial artifacts was observed at
+the northern end, at the edge of the ridge top. Similarly, the subsurface investigations determined that
+the artifact assemblage was densest at the northern
+end of the site and decreased in frequency as investigations shifted south and westward.
+The test excavations at 41WM1028 appear to indicate
+that the site size is consistent with that interpreted
+during the SWCA survey revisit. The investigations
+did determine that the highest frequency of cultural
+materials occurred along the eastern margin of the
+survey corridor, particularly in the area of B2. In
+contrast, the artifact assemblage along the western
+margins of the site is present, but dramatically
+decreases moving to the west. Horizontally, site
+41WM1028 does appear to extend beyond the edges
+of the examined corridor, but not much farther to
+the west and appears to increase farther to the east.
+Therefore, the main body of the site appears to lie
+to the east of the examined corridor, which is closer
+to the location initially recorded in 2002 by Sergio
+Iruegas mentioned in Chapter 3.
+
+RESEARCH ISSUE 1: INTEGRITY OF THE
+ARCHAEOLOGICAL DEPOSITS
+Integrity of its archaeological deposits is a primary
+consideration in determining the signiﬁcance of site
+41WM1028. Based upon the results of the test excavation of 41WM1028 (within the limits of the APE)
+it appears that the vertical integrity of 41WM1028
+is compressed and intermixed. Specifically, the
+ﬁrst stratum of dark clay loam contains most of the
+temporally diagnostic artifacts spanning from the
+Middle Archaic to the Late Prehistoric. Furthermore, this upper clay loam horizon seems to have
+been disturbed possibly from plowing or vegetation
+removal. Similarly, the horizontal integrity for the
+
+Synthesis and Recommendations
+site appears to be compromised possibly from erosion. The cultural deposits become gradually more
+diffuse and sporadic as the investigations move to the
+west and south. Thus, in regard to the site within the
+APE corridor, the horizontal integrity is degraded.
+However, the area outside of the APE to the east
+may be intact.
+Additionally, another goal for the testing of
+41WM1028 was to examine the upland stratigraphy
+and compare it to the stratigraphy of other areas along
+Brushy Creek. The ﬁrst stratum of dark clay loam
+appears to correlate temporally with Unit II identiﬁed
+by Abbott (2003). Additionally, the second stratum
+at 41WM1028 may correlate with Unit I identiﬁed
+by Abbott (2003).
+
+RESEARCH ISSUE 2: POTENTIAL DATA
+YIELD
+A secondary factor in determining the signiﬁcance
+of the site is the potential for additional excavations
+to recover meaningful data on regional prehistory.
+Prior to testing, SWCA proposed several general
+questions pertaining to the site size, function, and
+chronology.
+The size of 41WM1028 has been determined to
+extend beyond the limits of the APE corridor. Although the artifact frequencies decrease to the west
+and south, they appear to increase toward the east.
+It has been concluded that the main portion of the
+site probably lies to the east of the project corridor,
+as currently aligned.
+Regarding site function, it appears that the site
+served as a prehistoric campsite with various lithic
+reduction activities. Unfortunately, due to the mixed
+debitage assemblage, a determination of which time
+period conducted what lithic reduction and retooling
+activities is uncertain. However, the fact that all of
+the temporally diagnostic artifacts were proximal
+fragments suggests that retooling activities occurred
+at all times.
+Finally, the chronology for 41WM1028 is broad.
+Temporally diagnostic artifacts represent time periods from the Late Paleoindian to the Late Prehistoric.
+
+7-3
+
+Unfortunately, most of the projectile points were
+recovered from the upper clay loam stratum. Therefore, no isolable cultural component can be identiﬁed
+with the current data. Of note, three out of the seven
+identiﬁed projectile points were Pedernales points
+associated with the Middle to Late Archaic (Collins
+2004; Turner and Hester 1999:171). This may suggest that the site was repeatedly or primarily used
+during the Middle to Late Archaic. Admittedly, this
+may also indicate that the site population was greater
+than the other temporal periods, etc. An interpretation
+can not be made with the current data.
+Therefore, the potential data yield for site 41WM1028
+within the APE corridor is low. Due to the compromised integrity of the cultural deposits within the
+APE, additional excavations have little potential for
+gathering new information. However, the area to the
+east of the APE within this site does appear to have
+better potential for providing new data.
+
+EVALUATING SIGNIFICANCE
+SWCA proposed that for the site to found signiﬁcant
+under SAL criteria, the deposits must demonstrate
+sufﬁcient integrity and data yield potential to address
+speciﬁc, detailed research questions that would contribute to the understanding of the regional prehistory within the framework of one or more historic
+contexts. For example, if the site had good integrity
+but a stratigraphically dispersed, low density of artifacts, no dateable materials, no features, and poor
+preservation of organics, it would be less likely to
+contribute new or important information. Similarly,
+if the site had abundant artifacts and materials but
+poor archaeological integrity, eligibility would be
+contraindicated. In either case, the eligibility will
+hinge on its ability to address one or more explicit,
+non-trivial questions about prehistory. The test
+excavations of 41WM1028 determined that the
+site does have abundant artifacts and has a broad
+temporal range. However, the assemblage within
+the APE corridor has a poor archaeological integrity.
+Therefore, SWCA does not consider 41WM1028 as
+signiﬁcant, and no further work within the APE corridor is recommended. However, if work extends to
+the east beyond the currently aligned APE corridor
+then further work is recommended. This portion of
+
+7-4
+
+Chapter 7
+
+the site does appear to have potential to have horizontal and possibly vertical integrity, which would
+warrant additional investigations.
+
+REFERENCES
+
+Abbott, J.
+2003 Appendix K: Stratigraphic and Geomorphic
+Evaluation of Brushy Creek at FM 973. In
+Archeological Investigations at 41WM815:
+A Blackland Prairie Site Williamson County,
+Texas. By Russell K. Brownlow. Studies
+in Archeology 36. Texas Archeological
+Research Laboratory, The University of
+Texas at Austin. Archeological Studies
+Program, Report 23. Texas Department
+of Transportation, Environmental Affairs
+Division, Austin, Texas.
+Andrefsky, W.
+2002 Lithics: Macroscopic Approaches to Analysis.
+Fourth Edition. Cambridge University Press,
+Cambridge.
+Barnes, V. E.
+1995 Geologic Atlas of Texas, Austin Sheet. Bureau
+of Economic Geology, The University of
+Texas at Austin.
+Bement, L. C.
+1991 Hunter-Gatherer Mortuary Practices During
+the Archaic in Central Texas. Unpublished
+Ph.D. dissertation, The University of Texas,
+Austin.
+Black, S. L.
+1989 Central Texas Plateau Prairie. In From the
+Gulf to the Rio Grande: Human Adaptation
+in Central, South, and Lower Pecos Texas,
+T. R. Hester et al. (Eds.), pp.17–38. Research
+Series No. 33, Arkansas Archeological
+Survey, Fayetteville.
+
+Black, S. L., and D. G. Creel
+1997 The Central Texas Burned Rock Midden
+Reconsidered. In Hot Rock Cooking on the
+Greater Edwards Plateau: Four Burned
+Rock Midden Sites in West Central Texas,
+volume I, by S. L. Black, L. W. Ellis, D. G.
+Creel, and G. T. Goode, pp. 269–301. Studies
+in Archaeology 22. Texas Archaeological
+Research Laboratory, The University of
+Texas at Austin. Archaeological Studies
+Program, Report 2. Texas Department of
+Transportation, Environmental Affairs
+Division, Austin, Texas.
+Blair, W. F.
+1950 The Biotic Provinces of Texas. The Texas
+Journal of Science 2(1):93–117.
+Brown, L.
+1985 The Audubon Society Nature Guides:
+Grasslands. Alfred A. Knopf, New York.
+Brownlow, R. K.
+2003 Archeological Investigations at 41WM815:
+A Blackland Prairie Site Williamson County,
+Texas. Studies in Archeology 36. Texas
+Archeological Research Laboratory, The
+University of Texas at Austin. Archeological
+StudiesProgram,Report23.TexasDepartment
+of Transportation, Environmental Affairs
+Division, Austin, Texas.
+Bryant, V. M. Jr., and R. G. Holloway
+1985 A Late Quaternary Paleoenvironmental
+Record of Texas: An Overview of the
+Pollen Evidence. In Pollen Records of Late
+Quaternary North American Sediments,
+pp. 39–70, edited by V. M. Bryant and
+R. G. Holloway. American Association
+of Stratigraphic Palynologist Foundation,
+Dallas.
+
+R-2
+
+References
+
+Burt, W. H., and R. P. Grossenheider
+1976 Peterson Field Guides: Mammals.
+Houghton Mifﬂin Company, Boston and
+New York.
+
+Cox, P. W., and P. Leslie
+1999 Texas Trees: A Friendly Guide. Seventh
+Edition. Corona Publishing Company, San
+Antonio.
+
+Campbell, R. B.
+1989 An Empire for Slavery: The Peculiar
+Institution in Texas, 1821–1865. Louisiana
+State University Press, Baton Rouge.
+
+Dillehay, T. D.
+1974 Late Quaternary Bison Population
+Changes on the Southern Plains. Plains
+Anthropologist 19(65):180–96.
+
+Collins, M. B.
+1995 Forty Years of Archeology in Central
+Texas. Bulletin of the Texas Archeological
+Society 66:361–400.
+
+Foster, W. C.
+2000 Spanish Expeditions Into Texas, 1689–
+1768. Second Edition. University of Texas
+Press, Austin.
+
+1998
+
+Wilson-Leonard: An 11,000-Year
+Archeological Record of Hunter-Gatherers
+in Central Texas, Volume I, edited and
+assembled by Michael B. Collins. Studies
+in Archeology 31. Texas Archeological
+Research Laboratory, The University
+of Texas at Austin. Archeology Studies
+Program, Report 10. Environmental
+Affairs Division, Texas Department of
+Transportation.
+
+Collins, M. B., C. B. Bousman, and T. K. Perttula
+1993 Historic Context: Quaternary Environments
+and Archaeology in Northeastern Texas.
+In Archaeology in the Eastern Planning
+Region, Texas: A Planning Document,
+edited by N Kenmotsu and T. Perttula, pp.
+49–67. Cultural Resource Management
+Report 3. Department of Antiquities
+Protection, Texas Historical Commission,
+Austin.
+Conant, R., and J. T. Collins
+1998 Peterson Field Guides: Reptiles and
+Amphibians Eastern and Central North
+America. Third Edition. Houghton Mifﬂin
+Company, Boston and New York.
+Correll, D. S., and M. C. Johnston
+1979 Manual of the Vascular Plants of Texas.
+University of Texas at Dallas.
+
+Graham, R. W.
+1987 L a t e Q u a t e r n a r y F a u n a a n d
+Paleoenvironments of the Southwestern
+Plains of the United States. In Late
+Quaternary Mammalian Biogeography
+and Environments of the Great Plains and
+Prairies, edited by R. W. Graham, H. A.
+Semken Jr., and M. A. Graham, pp. 24–86.
+Scientiﬁc Papers Volume 22. Illinois State
+Museum, Springﬁeld.
+Graham, R. W., and E. L. Lundelius, Jr.
+1984 Coevolutionary Disequilibrium and
+Pleistocene Extinctions. In Quaternary
+Extinctions: A Prehistoric Revolution,
+edited by P. S. Martin and R. G. Klein,
+pp. 223–249. University of Arizona Press,
+Tucson.
+Hall, S. A., and S. Valastro
+1995 Grassland Vegetation in the Southern Great
+Plains during the Last Glacial Maximum.
+Quaternary Research 44:237–245.
+Hester, T. R.
+1995 The Prehistory of South Texas. Bulletin of
+the Texas Archeological Society 66:427–
+459.
+Huebner, J. A.
+1991 Late Prehistoric Bison Populations in
+Central and Southern Texas. Plains
+Anthropologist 36 (137):343-58.
+
+References
+Jelks, E. B.
+1962 The Kyle Site: A Stratified Central
+Texas Aspect Site in Hill County, Texas.
+Archaeology Report no. 5. Department
+of Anthropology, University of Texas,
+Austin.
+Johnson, L.
+1994 The Life and Times of Toyah-Culture
+Folk: The Buckhollow Encampment, Site
+41KM16, Kimble County, Texas. Report
+38. Office of the State Archaeologist,
+Austin, Texas.
+Johnson, L., and G. T. Goode
+1994 A New Try at Dating and Characterizing
+Holocene Climates, as well asArcheological
+Periods, on the Eastern Edwards Plateau.
+Bulletin of the Texas Archeological Society
+65:1–51.
+Johnson, L., D. A. Suhm, and C. D. Tunnell
+1962 Salvage Archaeology of the Canyon
+Reservoir: The Wunderlich Footbridge,
+and Oblate Sites. Bulletin 5. Texas
+Memorial Museum, The University of
+Texas, Austin.
+Kricher, J., and G. Morrison
+1998 Peterson Field Guides: A Field Guide to
+Eastern Forests North America. Houghton
+Mifﬂin Company, Boston and New York.
+Kutac, E. A., and S. C. Caran
+1994 Birds and Other Wildlife of South Central
+Texas. University of Texas, Austin.
+Lawrence, K.
+2007 A Cultural Resources Survey of Arterial
+A Phase I Roadway Project, Round Rock,
+Williamson County, Texas. SWCA Cultural
+Resources Report No. 2007-123. Austin.
+McKinney, W. W.
+1981 Early Holocene Adaptations in Central and
+Southern Texas: The Problem of the PaloIndian-Archaic Transition. Bulletin of the
+Texas Archaeological Society 52:91–120.
+
+R-3
+
+Newcomb W., Jr.
+2002 The Indians of Texas, from Prehistoric to
+Modern Times. Thirteenth Edition. The
+University of Texas Press, Austin.
+Odintz, M.
+2007 Williamson County. The Handbook of
+Texas Online. <http:tsha.utexas.edu/
+handbook/online/articles/WW/hcw11.
+html> [Accessed August 17, 2007].
+Oskanen, E. R., C. A. Weaver, and E. A. Schroeder
+2003 Cultural Resources Survey of the Proposed
+Brushy Creek Surface Water Supply
+System, Williamson County, Texas. Paul
+Price Associates, Inc. Report No. 354.
+Austin.
+Patterson, P. E.
+1987 Archaeological excavations at 41LL78,
+the Slab Site, Llano County, Texas.
+Publications in Archaeology no. 34. Texas
+State Department of Highways and Public
+Transportation. Austin, Texas.
+Pertulla, T. K., M. R. Miller, R. A. Ricklis, D. J.
+Prikryl, and C. Lintz
+1995 Prehistoric and Historic Aboriginal
+Ceramics in Texas. Bulletin of the Texas
+Archeological Society 66:175–235.
+Pertulla, T. K. (editor)
+2004 The Prehistory of Texas. Texas A & M
+University Press, College Station.
+Petrides, G. A.
+1979 Peterson Field Guides: A Guide to Trees
+and Shrubs. Second Edition. Houghton
+Mifﬂin Company, Boston and New York.
+1988
+
+Peterson Field Guides: A Guide to Eastern
+Trees. Houghton Mifﬂin Company, Boston
+and New York.
+
+Richardson, R. N., E. Wallace, and A. N. Anderson
+1983 Texas, The Lone Star State. Fourth Edition.
+Prentice Hill, Inc. Englewood Cliffs, New
+Jersey.
+
+R-4
+
+References
+
+Ricklis, R. A.
+1992 The Spread of the Late Prehistoric Bison
+Hunting Complex: Evidence from the
+South-Central Coastal Prairie of Texas.
+Plains Anthropologist 37(140):21–273.
+Scarbrough, C. S.
+2006 Kenney’s Fort. The Handbook of Texas
+Online. <http:tsha.utexas.edu/handbook/
+online/articles/KK/uek2.html> [Accessed
+Fri July 14 2006].
+2007
+
+Round Rock. The Handbook of Texas
+Online. <http:tsha.utexas.edu/handbook/
+online/articles/RR/her3.html> [Accessed
+Wed Mar 21 2007].
+
+Schmidly, D. J.
+1983 Texas Mammals East of the Balcones
+Fault Zone. Texas A&M University Press,
+College Station.
+Simpson, B. J.
+1988 AField Guide to Texas Trees. Texas Monthly
+Field Guide Series. Texas Monthly Press,
+Austin, Texas.
+Stein, J., D. Binion, and R. Acciavatti
+2003 Field Guide to Native Oak Species of
+Eastern North America. U. S. Forest
+Service, Forest Health Technology
+Enterprise Team, Morgantown, WV.
+Supplee, J. E.
+2007 San Xavier Missions. The Handbook
+of Texas Online. <http:tsha.utexas.edu/
+handbook/online/articles/SS/uqs34.html>
+[Accessed August 17, 2007].
+Sutton, A., and M. Sutton
+1985 The Audubon Society Nature Guides:
+Eastern Forests. Alfred A. Knopf, Inc.,
+New York.
+Suhm, E. A.
+1960 A Review of Central Texas Archaeology.
+Bulletin of the Texas Archaeological
+Society 29:63–108.
+
+Toomey, R. S.III, M. D. Blum, and S. Valastro, Jr.
+1993 LateQuaternaryClimatesandEnvironments
+of the Edwards Plateau, Texas. Global and
+Planetary Change 7:299–320.
+Turner, E. S., and T. R. Hester
+1999 A Field Guide to Stone Artifacts of Texas
+Indians. Third Edition. Texas Monthly
+Field Guide Series. Gulf Publishing
+Company, Houston, Texas.
+Webb, W. P. (Editor)
+1952 The Handbook of Texas. 2 Vols. Texas State
+Historical Association, Austin.
+Werchan, L. E., and J. L. Coker
+1983 Soil Survey of Williamson County, Texas.
+U.S. Department of Agriculture, Soil
+Conservation Service. Washington DC.
+Vines, R. A.
+1997 Trees of Central Texas. Fifth Edition.
+University of Texas Press, Austin.
+
+

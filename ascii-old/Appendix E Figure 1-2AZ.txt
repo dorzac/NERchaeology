@@ -1,0 +1,73 @@
+N
+
+200
+
+U
+NRM
+
+Sample 2.2
+NRM = 7.8 x 10 -2 A/m
+
+W, -H
+
+E, +H
+450
+450
+NRM
+200
+
+E, +H
+
+W,-H
+
+D
+
+Sample 2.4
+
+NRM
+
+S
+
+NRM = 0.7 A/m
+
+N
+
+U
+
+NRM
+
+S
+
+Sample 2.6
+NRM = 0.2 A/m
+
+400
+
+400
+
+W, -H
+
+E,+H
+
+E, +H
+
+NRM
+
+S
+
+D
+
+Figure 1
+
+400
+350
+
+350
+
+400
+
+D
+
+NRM
+
+

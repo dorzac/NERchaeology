@@ -1,0 +1,181 @@
+METHODOLOGICAL COMMENTS ON WOODALL’S
+PREHIS TORIC S OCIAL B OUNDARIES
+DAVID S. VAUGHAN
+
+Woodall (1973) has hypothesized that the location of prehistoric social
+boundaries (as, for example, between tribes) may be identified through examination of similarities and differences between artifacts found at various
+sites in relation to geographic locations of the sites. In his study, Woodall has
+attempted to formulate an hypothesis concerning the location of a social
+boundary in a set of late prehistoric Caddoan sites along the Neches River of
+Texas and to test this hypothesis. The data analysis problem was defined in a
+manner which allowed application of several quantitative procedures, which
+is desirable. However, due to several defects in the manner in which the
+statistical procedures were used, interpretation of the study is not clear. The
+present author will point out these statistical errors and suggest alternative,
+more appropriate, procedures.
+
+ARTIFACT SIMILARITY AND
+PHYSICAL PROXIMITY
+First, Woodall attempted to show that, among his sample of sites, those
+sites physically closest together contained the most similar artifacts. He did
+this in two ways.
+He obtained an ordinal scale of the sites based on their artifact similarities
+and another ordinal scale of the sites based on their physical location along a
+north-south axis. He then calculated a rank-order correlation between the
+artifact scale values and the physical scale values of the sites. Since the
+artifact scaling was based on an "eyeballing" procedure, it is not clear
+whether or not the best scale values were obtained. Also, it is not clear that a
+one-dimensional scale accurately represents the set of intersite similarities. If
+the scale does not accurately represent the similarities, a high correlation
+between the scale values and physical location does not necessarily represent
+a strong relationship between intersite similarity and physical proximity.
+Difficulties of this general class of scaling methods were described by McNutt
+(1973). More appropriate scaling methods will be discussed below.
+The second method used to test the relationship between artifact similarity
+and physical proximity was to calculate the product-moment correlation
+between the set of 36 intersite artifact similarities for the nine sites and the set
+of intersite physical distances. The correlation was calculated correctly, but
+the significance test was misinterpreted. A basic assumption of the test of
+significance of a correlation is that all observations upon which the correlation is based are independent of each other. However, in the present situation,
+the observations are definitely not independent. Each site enters in to several
+observations; all observations which involve a given site are not independent.
+As a result of this lack of independence, the significance test is probably
+liberally biased. This means that, for example, if the test shows significance at
+
+232
+
+TEXAS ARCHEOLOGICAL SOCIETY
+
+the .05 level, the result is in fact significant at only the .10 level or worse. A
+given number of non-independent observations may be thought of as being
+equivalent to a smaller number of independent observations. A reduced
+number of degrees of freedom and correspondingly increased estimate of
+sampling variance may be used in performing the statistical test. Although
+the number of degrees of freedom to be used cannot be exactly determined, a
+conservative statistical test seems more desirable than a liberal one, and a low
+number of degrees of freedom should be used. Based on an equivalent independent sample size of nine, the correlation of .43 was not significant (t =
+1.248, df = 7).
+How might the author have proceeded in testing this hypothesis? First, it is
+necessary to obtain a (perhaps multidimensional) scaling of the sites based on
+their artifact similarities. If a scaling procedure which depends heavily on the
+investigator’s subjective judgment is used, it would be desirable to have a
+disinterested person at least replicate thescaling to insure that expectations
+of the investigator did not unduly influence the scaling result. Use of either a
+metric (Torgerson 1958) or nonmetric (for example, Young 1968) computerized multidimensional scaling procedure is more appropriate. The result of applying such a procedure to the similarity matrix in Table 1 of
+Woodall (1973) would be coordinates for each site on each of the number of
+dimensions selected, along with a goodness-of-fit measure which may be
+used to choose the appropriate number of dimensions. The configuration of
+points representing the sites in this similarity scaling may be compared to the
+two-dimensional physical configuration of the sites by calculating the canonical correlation (see, for example, Cooley and Lohnes 1962) between the two
+sets of coordinates, or by first rotating the configurations to congruity and
+calculating dimension-by-dimension correlations.
+
+SITE CLUSTERS
+The second examination made by Woodall was to search for two distinct
+clusters among the sites. He postulated that variation of the sites along a scale
+based on artifact similarity would be due to two main causes: different
+geographic location and membership in different cultural groups. He postulated that within each cultural group, the physical and artifact scales
+should be linearly related but that the best-fitting line should be different in
+the two groups. A visual method was used to search for two groups which
+would meet the above conditions. A formal statement of this clustering
+procedure is "find a group division so that the F-ratio is maximized in an
+analysis of covariance with artifact scale location as the dependent variable
+and north-south geographic location as the covariate." His procedure has two
+main defects. It was carried out by "eyeball," and therefore it is not clear that
+an optimal clustering was obtained. Second, it is clear that the results of the
+procedure depend on metric information in the artifact scale; however, the
+actual scale values used were the similarities of each site with one selected
+"base" site. While the ordering of the sites may not be arbitrary, the actual
+scale values, which depend on the selection of a "base" site, are arbitrary.
+
+VAUGHAN: COMMENTS ON WOODALL
+
+233
+
+Also, all metric information other than that contained in the similarities with
+the "base" was lost. Use of one of the automatic scaling procedures mentioned above, which produce metric scale values and use more information in
+the data, would be preferable.
+
+ANALYSES OF DESIGN MOTIFS
+The last set of analyses by Woodall were directed towards confirming his
+finding of two main clusters among the sites through examination of design
+motifs of sherds found at the sites. His procedure was to look for a grouping of
+the sites that maximized a chi-square statistic for each design motif considered. As a method of finding clusters this procedure seems reasonable
+though inefficient, due to the fact that no use was made of relations between
+variables. However, use of the significance test is not appropriate since
+classification of sites to maximize the test statistic allow capitalization on
+chance that is not taken into account in the significance test. As a result, the
+test is biased liberally and significance is more likely to be obtained due to
+chance than it should be. Furthermore, the author did not report how many
+chi-square tests he did altogether. One out of twenty or so tests will probably
+be significant at the .05 level by chance, so five, six, or seven significant
+results out of 100 tests are difficult to interpret.
+If the main goal of this set of analyses was to search for clusters among the
+sites, one of several multivariate clustering procedures, such as that of Cattell
+(Cattell and Coulter 1966:237), Johnson (1967), or Ward (1963:236) would
+make use of more information in the data, as well as being less dependent on
+the investigator’s subjective judgment. However, if the main goa! was to
+confirm the cluster structure suggested in the earlier part of the paper, use of
+discriminant analysis might be more appropriate (see, for example, Cooley
+and Lohnes 1962). To use this procedure, sites should be classified according
+to the previous hypothesis, rather than to maximize a test statistic. Furthermore, an independent sample of sherds should probably be used (the set of
+sherds might be randomly divided into two parts). The result of discriminant
+analysis is a significance test for the classification based simultaneously on
+all the design motifs and also a linear combination of the motifs which best
+distinguishes between the clusters. In this linear combination, the variables
+which best distinguish between the sets of sites will have the largest weights.
+
+DISCUSSION
+Woodall’s use of statistica! procedures was deficient in two main ways. He
+used statistical hypothesis tests in two situations in which important assumptions of the tests were not met. It is seldom, if ever, the case in practice that a!l
+assumptions of a test are met, and furthermore, violation of some assumptions
+seems to have little effect on the tests (see, for example, Lindquist 1953).
+However, the assumptions violated in the present situation are important.
+Violation of these assumptions will probably cause the tests to be liberally
+
+234
+
+TEXAS ARCHEOLOGICAL SOCIETY
+
+biased. The result of this is that conclusions are drawn from data that is more
+likely to be due to chance than the test indicates. Alternative ways of testing
+Woodall’s hypotheses were suggested.
+The second set of deficiencies involved the selection and use of scaling and
+cluster analysis techniques. In this type of data analysis situation, which is
+more exploratory in nature (the main goal is to search for patterns in the data
+rather than to test specific hypotheses), the main virtue of a technique is its
+heuristic value. Several different methods of analysis might be used. However, methods which are relatively free from influence by the investigator’s
+expectations and which make maximum use of all information in the data are
+preferable to methods which do not meet these requirements. Several computerized multivariate scaling and clustering techniques were suggested as
+preferable alternatives to the methods used by Woodall.
+
+REFERENCES CITED
+
+Cattell, R. B. and M. A. Coulter
+1966 Principles of Behavioral Taxonomy and the Mathematical Basis of the
+Taxonome Computer Program. British Journal of Mathematical and
+Statistical Psychology, Vol. 19, No. 2, pp. 237-267.
+Cooley, W. W. and P. R. Lohnes
+1962 Multivariate Procedures for the Behavioral Sciences. John Wiley and
+Sons, New York.
+Johnson, S. C.
+1967 Hierarchical Clustering Schemes. Psychometrika, Vol. 32, pp. 61-66.
+Lindquist, E. F.
+1953 Design and Analysis of Experiments in Psychology and Education.
+Houghton Mifflin, New York.
+McNutt, C. H.
+1973 On the Methodological Validity of Frequency Seriation. American
+Antiquity, Vol. 38, No. 1, pp. 61-79.
+Torgerson, W. S.
+1958 Theory and Methods of Scaling. John Wiley and Sons, New York.
+Ward, J. H.
+1963 Hierarchical Grouping to Optimize an Objective Function. Journal of
+the American Statistical Association, Vol. 58, pp. 236-244.
+Woodall, J. N.
+1973 Prehistoric Social Boundaries: An Archeological Model and Test.
+Bulletin, TexasArcheological Society, Vol. 43 (for 1972), pp. 101-120.
+Young, F. W.
+1968 TORSCA-9, A FORTRAN-IV Program for Non-Metric Multidimensional Scaling. Behavioral Science, Vol. 13, pp. 343-344.
+San Antonio, Texas
+
+

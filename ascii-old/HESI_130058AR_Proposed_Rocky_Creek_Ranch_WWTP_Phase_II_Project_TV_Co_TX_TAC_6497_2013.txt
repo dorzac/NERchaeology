@@ -1,0 +1,2497 @@
+An Intensive Cultural Resources Survey
+of the Proposed Rocky Creek Ranch
+Wastewater Treatment Plant (WWTP)
+Phase II Project in Travis County, Texas
+By:
+Jennifer L. Cochran
+
+HJN 130058 AR
+TAC Permit No. 6497
+Prepared by:
+
+Prepared by:
+
+Jones & Carter, Inc.
+Austin, Texas
+
+Horizon Environmental Services, Inc.
+Austin, Texas
+MAY 2013
+
+An Intensive Cultural Resources Survey
+of the Proposed Rocky Creek Ranch
+Wastewater Treatment Plant (WWTP)
+Phase II Project in Travis County, Texas
+By:
+Jennifer L. Cochran
+
+Prepared for:
+
+Jones & Carter, Inc.
+1701 Directors Blvd, Ste. 400
+Austin, Texas 78744
+
+Prepared by:
+
+Horizon Environmental Services, Inc.
+1507 South IH 35
+Austin, Texas 78741
+
+Principal Investigator: Jennifer L. Cochran, MA
+HJN 130058 AR
+
+TAC Permit No. 6497
+
+MAY 2013
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+MANAGEMENT SUMMARY
+
+On 21 March 2013, Horizon Environmental Services, Inc. (Horizon) conducted cultural
+resources investigations within Travis County Municipal Utility District No. 16’s (TCMUD16)
+proposed Rocky Creek Ranch Phase II wastewater treatment plant (WWTP) development in
+western Travis County, Texas (Project Area). The cultural resources investigations of the
+Project Area consisted of an intensive pedestrian survey of an approximately 77.0-acre irrigation
+field and approximately 11.0 acres of utility easements within planned road rights-of-way
+(ROWs) in the planned development. Overall, the Area of Potential Effect (APE) totals
+approximately 88.0 acres. Because the various project features are on land that is owned and
+maintained by TCMUD16, the undertaking falls under the regulations of the Antiquities Code of
+Texas (ACT). At the request of Jones & Carter, Inc. (JCI), and on behalf of TCMUD16, Horizon
+conducted the intensive cultural resources survey of the 88.0-acre Project Area in compliance
+within the ACT. The purpose of the survey was to determine if any archeological sites were
+located within the APE and, if any existed, to determine their eligibility for formal designation as
+State Archeological Landmarks (SALs).
+The cultural resources investigations within the Project Area resulted in the
+documentation of 3 newly recorded archeological sites. The 3 new sites (41TV2432,
+41TV2433, and 41TV2434) were documented as prehistoric lithic scatters confined primarily to
+surface contexts on upland slopes above a tributary of Rocky Creek. Sites 41TV2432,
+41TV2433, and 41TV2434 all lack temporally diagnostic artifacts, preserved cultural features,
+preserved floral or faunal remains, and the potential for buried, stratified deposits.
+Based on the results of the survey-level investigations documented in this report, it is
+Horizon’s opinion that the development of the Project Area will have no adverse effect on
+significant cultural resources considered eligible for formal designation as SALs. Sites
+41TV2432 and 41TV2434 are recommended as ineligible for formal designation as a SAL, while
+site 41TV2433 recommended as a noncontributing element to the site’s overall eligibility for
+formal designation as a SAL. With this in mind, no additional investigations are recommended
+on sites 41TV2432, 41TV2433, and 41TV2434 in connection with the proposed undertaking.
+Horizon recommends that TCMUD16 be allowed to proceed with the proposed Phase II of a
+WWTP project within the Rocky Creek Ranch development, relative to the jurisdiction of the
+ACT.
+
+HJN 130058 AR
+
+iii
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+TABLE OF CONTENTS
+Chapter
+
+Page
+MANAGEMENT SUMMARY ..................................................................................... iii
+
+1.0
+
+INTRODUCTION ...................................................................................................... 1
+
+2.0
+
+ENVIRONMENTAL SETTING................................................................................... 5
+2.1
+General Description ...................................................................................... 5
+2.2
+Physiography and Hydrology......................................................................... 5
+2.3
+Geology and Geomorphology........................................................................ 8
+2.4
+Climate .........................................................................................................10
+2.5
+Flora and Fauna ...........................................................................................11
+
+3.0
+
+CULTURAL BACKGROUND ...................................................................................13
+3.1
+Paleoindian Period (ca. 11,200 to 8000 BP) .................................................13
+3.2
+Archaic Period (ca. 8000 to 1400 BP) ..........................................................13
+3.2.1 Early Archaic (8000 to 5000 BP) .......................................................14
+3.2.2 Middle Archaic (5000 to 3000 BP) ....................................................14
+3.2.3 Late Archaic (3000 to 1400 BP) ........................................................15
+3.3
+Late Prehistoric Period (ca. 1400 to 400 BP) ................................................16
+
+4.0
+
+ARCHIVAL REVIEW ................................................................................................17
+
+5.0
+
+METHODOLOGY ....................................................................................................19
+
+6.0
+
+RESULTS AND RECOMMENDATIONS ..................................................................23
+6.1
+Results .........................................................................................................23
+6.1.1 Site 41TV2432 ..................................................................................23
+6.1.2 Site 41TV2433 ..................................................................................28
+6.1.3 Site 41TV2434 ..................................................................................33
+6.1.4 Modern Structures ............................................................................37
+6.2
+Recommendations .......................................................................................38
+
+7.0
+
+REFERENCES CITED ............................................................................................39
+APPENDIX A: SHOVEL TEST DATA
+
+HJN 130058 AR
+
+v
+
+Table of Contents
+
+LIST OF FIGURES
+Page
+Figure 1-1. Location of Project Area on USGS topographic quadrangle .................................... 2
+Figure 1-2. Location of Project Area on aerial photograph ........................................................ 3
+Figure 2-1. Typical view of the Project Area (facing east) .......................................................... 6
+Figure 2-2. Another view of the Project Area (facing northwest) ................................................ 6
+Figure 2-3. Typical view of tributary to Rocky Creek (facing northwest)..................................... 7
+Figure 2-4. View of typical rocky clay surface across the majority of the Project Area ............... 7
+Figure 2-5. Distribution of mapped soils in the Project Area ...................................................... 9
+Figure 5-1. Shovel test locations within the Project Area ..........................................................20
+Figure 6-1. Location of sites 41TV2432, 41TV2433, and 41TV2434 with the Project Area .......24
+Figure 6-2. Sketch map of site 41TV2432 ................................................................................25
+Figure 6-3. General view of site 41TV2432 (facing northeast) ..................................................26
+Figure 6-4. Representation of primary and secondary flakes observed on site 41TV2432 .......26
+Figure 6-5. Representation of tertiary flakes observed on site 41TV2432.................................27
+Figure 6-6. Biface fragments observed on site 41TV2432 ........................................................27
+Figure 6-7. Sketch map of site 41TV2433 ................................................................................29
+Figure 6-8. General view of site 41TV2433 (facing southeast) .................................................30
+Figure 6-9. Representation of lithic assemblage observed on site 41TV2433 ..........................31
+Figure 6-10. Representation of tertiary flakes observed on site 41TV2433...............................31
+Figure 6-11. Burned rock fragment observed on site 41TV2433 ..............................................32
+Figure 6-12. Sketch map of site 41TV2434 ..............................................................................34
+Figure 6-13. General view of site 41TV2434 (facing northwest) ...............................................35
+Figure 6-14. Representation of lithic assemblage observed on site 41TV2434.........................35
+Figure 6-15. Core fragment observed on site 41TV2434 ..........................................................36
+Figure 6-16. View of biface fragment partial dart point recovered from site 41TV2434 .............36
+Figure 6-17. Modern structure foundations observed within the Project Area (facing east).......38
+
+LIST OF TABLES
+Page
+Table 2-1. Soils mapped within the Project Area ......................................................................10
+Table 4-1. Documented cultural resources within 1.6 km (1.0 mi) of the Project Area ..............17
+
+vi
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+1.0 INTRODUCTION
+
+This document reports the results of cultural resources investigations conducted within
+the Travis County Municipal Utility District No. 16’s (TCMUD16) proposed Rocky Creek Ranch
+Phase II wastewater treatment plant (WWTP) development in western Travis County, Texas
+(Project Area; Figures 1-1 and 1-2). The cultural resources investigations of the Project Area
+consisted of an intensive pedestrian survey of an approximately 77.0-acre irrigation field and
+approximately 11.0 acres of utility easements within planned road rights-of-way (ROWs) in the
+planned development. Overall, the Area of Potential Effect (APE) totals approximately 88.0
+acres. Because the various project features are on land that is owned and maintained by
+TCMUD16, the undertaking falls under the regulations of the Antiquities Code of Texas (ACT).
+At the request of Jones & Carter, Inc. (JCI), and on behalf of TCMUD16, Horizon Environmental
+Services, Inc. (Horizon) conducted the intensive cultural resources survey of the 88.0-acre
+Project Area in compliance within the ACT. The purpose of the survey was to determine if any
+archeological sites were located within the APE and, if any existed, to determine their eligibility
+for formal designation as State Archeological Landmarks (SALs).
+The cultural resources investigation consisted of an archival review, an intensive
+pedestrian survey of the Project Area, and the production of a report suitable for review by the
+State Historic Preservation Officer (SHPO) in accordance with the Texas Historical
+Commission’s (THC) Rules of Practice and Procedure, Chapter 26, Section 27, and the Council
+of Texas Archeologists (CTA) Guidelines for Cultural Resources Management Reports.
+Jennifer L. Cochran (Principal Investigator) and Michael Mudd (Horizon staff archeologist)
+performed an intensive cultural resources survey of the Project Area to locate any cultural
+resource properties that potentially would be impacted by the proposed undertaking.
+Horizon conducted the survey of the Project Area on 21 March 2013. This entailed
+intensive surface inspection and subsurface shovel testing efforts. The Texas State Minimum
+Archeological Survey Standards (TSMASS) require a minimum of 1 shovel test per 2 acres on
+projects between 11 and 100 acres in size. As such, a total of 44 shovel tests were necessary
+within the 88.0-acre Project Area in order to comply with the TSMASS. Horizon exceeded these
+minimum survey standards by conducting a total of 56 shovel tests across the Project Area.
+
+HJN 130058 AR
+
+1
+
+Chapter 1.0: Introduction
+
+Figure 1-1. Location of Project Area on USGS topographic quadrangle
+2
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+Figure 1-2. Location of Project Area on aerial photograph
+
+HJN 130058 AR
+
+3
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+2.0 ENVIRONMENTAL SETTING
+
+2.1
+
+GENERAL DESCRIPTION
+
+The Project Area of the proposed Rocky Creek Ranch WWTP phase II project consists
+of an approximately 77.0-acre irrigation field and approximately 11.0 acres of utility easements
+within planned road ROWs in the planned phase II development. The Project Area is located
+west of Crumley Ranch Road, just south of its intersection with Hamilton Pool Road. It can be
+found on the US Geological Survey (USGS) 7.5-minute Shingle Hills, Texas, topographic
+quadrangle (see Figure 1-1). Vegetation within the Project Area is typical of that of the Texas
+Hill Country, consisting of scattered live oaks, Ashe juniper, yaupon, agarita, prickly pear, and
+short grasses upon rocky upland surfaces. Photographs of the Project Area are provided in
+Figures 2-1 through 2-4.
+
+2.2
+
+PHYSIOGRAPHY AND HYDROLOGY
+
+The Project Area is located in west-central Travis County, Texas. Travis County is
+situated near the southern end of the Lampasas Cut Plain (Hill 1901; Hill and Vaughn 1900;
+Johnson 1931:125) in Central Texas and close to the common junction of 2 significant
+physiographic provinces—the Lampasas Cut Plain and the Edwards Plateau. The Edwards
+Plateau and Balcones Escarpment are associated with a great fault system that arcs across
+Texas to form a distinct boundary between uplands composed primarily of limestone bedrock
+and lower plains composed mostly of softer rocks. In places, this boundary is marked by an
+abrupt scarp (the Balcones Escarpment) and in others by a more gradational ramp, but the
+entire length of this transition zone is a major ecotone in terms of topography, bedrock,
+hydrology, soil, vegetation, and animal life.
+The Lampasas Cut Plain is a roughly triangular area of rolling hill country in central and
+north-central Texas situated between the Brazos and Colorado rivers ranging in elevation from
+230.0 to 400.0 m (754.0 to 1,312.0 ft) above mean sea level (amsl). The Lampasas Cut Plain
+forms a limestone upland that has been dissected by the Brazos River and its tributaries,
+resulting in landforms characterized by generally rounded uplands cut by moderately broad,
+shallow valleys. Soil is thin to absent on the bedrock and supports a mixed savanna flora,
+whereas soil is moderately deep in valley floors, where it supports mixed riparian
+woodlands and forests. Karst features include sinks, caves, and rockshelters, but such are
+
+HJN 130058 AR
+
+5
+
+Chapter 2.0: Environmental Setting
+
+Figure 2-1. Typical view of the Project Area (facing east)
+
+Figure 2-2. Another view of the Project Area (facing northwest)
+
+6
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+Figure 2-3. Typical view of tributary to Rocky Creek (facing northwest)
+
+Figure 2-4. View of typical rocky clay surface across the majority of the Project Area
+
+HJN 130058 AR
+
+7
+
+Chapter 2.0: Environmental Setting
+
+neither common nor extensive. Edwards chert is locally abundant but not widespread across
+the Lampasas Cut Plain and is of high quality in some places.
+Hydrologically, the Project Area is situated within the Colorado River basin. The
+proposed Project Area is situated on an upland formation that straddles a tributary feeder to
+Rocky Creek. Elevations across the Project Area range from ranges from approximately 305.0
+to 351.0 m (1000.0 to 1150.0 ft) amsl. The Project Area drains primarily via overland sheet flow
+toward a tributary feeder of Rocky Creek and joins the main channel of Rocky Creek just
+southeast of the Project Area. Rocky Creek confluences with Barton Creek several miles east
+of the Project Area, and Barton Creek eventually empties into the Colorado River in South
+Austin.
+
+2.3
+
+GEOLOGY AND GEOMORPHOLOGY
+
+Geologically, the Project Area is situated on the Lower Cretaceous-age Glen Rose
+Formation (Kgr) (Barnes 1974). The Glen Rose Formation consists of clay, limestone, dolomite,
+and marl deposits. Geomorphologically, the Project Area is situated on the Brackett soil
+association (NRCS 2013). This soil association is composed of very shallow to shallow, gently
+undulating to steep, gravelly, calcareous, and loamy sediments on uplands in the Edwards
+Plateau physiographic region. The parent material of in situ soils in the vicinity of the Project
+Area is the indurated limestone bedrock and marl that underlies the region. Closer to the major
+rivers, soils formed over alluvium of recent and Pleistocene age, however no substantial alluvial
+deposits are present in the vicinity of the Project Area. A mosaic of 3 defined soil types are
+mapped within the Project Area. These soils are described below in Table 2-1 (NRCS 2013)
+and their distribution is mapped in Figure 2-5.
+While aboriginal cultural resources are commonly encountered in deep alluvial
+sediments adjacent to major streams in Central Texas, the relative antiquity of the preHolocene-age uplands in the Project Area suggests that any cultural resources would be
+constrained to the modern ground surface, rather than in buried contexts, in erosional settings
+lacking integrity. Intact, buried archeological deposits may occur within alluvial sediments near
+major streams, though no Holocene-age alluvial sediments are mapped within the current
+Project Area. The terrain within the Project Area consists of Lower Cretaceous-age limestone
+upland formations. Erosion has been relatively extensive within the Project Area, and little
+Holocene-age sediment remains on the surface of the upland structure. No alluvial sediments
+with the potential to contain buried, intact archeological deposits are mapped within the Project
+Area. Other things being equal, any cultural resources associated with the soils mapped in the
+Project Area would be expected to occur on the modern ground surface in deflated, eroded
+contexts that would lack stratigraphic integrity. Historic-era resources may be found in virtually
+any physiographic environment. The proximity of the proposed Project Area to the historic city
+of Killeen would tend to suggest that the Project Area possesses moderate to high potential to
+contain historic-era resources, and the presence of standing structures within the Project Area
+suggests an increased potential for architectural resources.
+
+8
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+Figure 2-5. Distribution of mapped soils in the Project Area
+
+HJN 130058 AR
+
+9
+
+Chapter 2.0: Environmental Setting
+
+Table 2-1. Soils mapped within the Project Area
+
+2.4
+
+Soil Name
+
+Soil Type
+
+Brackett-Rock outcrop
+complex, 1 to 12% slopes
+(BlD)
+
+Clay loam
+
+Volente silty clay loam,
+1 to 8% slopes (VoD)
+
+Clay loam
+
+Volente silty clay loam,
+1 to 8% slopes, moderately
+eroded (VoD2)
+
+Clay loam
+
+Soil Depth (inches)
+0 to 6: Gravelly clay loam
+6 to 18: Clay loam
+18 to 48: Bedrock
+0 to 36: Silty clay loam
+36 to 46: Silty clay
+46 to 54: Clay loam
+0 to 36: Silty clay loam
+36 to 46: Silty clay
+46 to 54: Clay loam
+
+Setting
+Ridges
+
+Stream terraces
+
+Stream terraces
+
+CLIMATE
+
+Evidence for climatic change from the Pleistocene to the present is most often obtained
+through studies of pollen and faunal sequences (Bryant and Holloway 1985; Collins 1995).
+Bryant and Holloway (1985) present a sequence of climatic change for nearby east-central
+Texas from the Wisconsin Full Glacial period (22,500 to 14,000 BP) through the Late Glacial
+period (14,000 to 10,000 BP) to the Post-Glacial period (10,000 BP to present). Evidence from
+the Wisconsin Full Glacial period suggests that the climate in east-central Texas was
+considerably cooler and more humid than at present. Pollen data indicate that the region was
+more heavily forested in deciduous woodlands than during later periods (Bryant and Holloway
+1985). The Late Glacial period was characterized by slow climatic deterioration and a slow
+warming and/or drying trend (Collins 1995). In east-central Texas, the deciduous woodlands
+were gradually replaced by grasslands and post oak savannas (Bryant and Holloway 1985).
+During the Post-Glacial period, the east-central Texas environment appears to have been more
+stable. The deciduous forests had long since been replaced by prairies and post oak savannas.
+The drying and/or warming trend that began in the Late Glacial period continued into the midHolocene, at which point there appears to have been a brief amelioration to more mesic
+conditions lasting from roughly 6,000 to 5,000 BP. Recent studies by Bryant and Holloway
+(1985) indicate that modern environmental conditions in east-central Texas were probably
+achieved by 1,500 years ago.
+Travis County is located within the south-central climatic division. The modern climate is
+typically dry to subhumid with long, hot summers and short, mild winters. The climate is
+influenced primarily by tropical maritime air masses from the Gulf of Mexico, but it is modified by
+polar air masses. Tropical maritime air masses predominate throughout spring, summer, and
+fall. Modified polar air masses are dominant in winter and provide a continental climate
+characterized by considerable variations in temperature.
+On average throughout the past century, precipitation and temperature manifest regional
+clines with mean annual precipitation totals declining fairly regularly from east to west and mean
+annual temperature declining equally evenly from northwest to southeast (Larkin and Bomar
+1983:18, 50). Climate has fluctuated from subtropical humid to subtropical subhumid in Travis
+County. Average annual precipitation totals 81 centimeters (cm) (32 in) and temperature
+
+10
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+averages 19°C (67°F) annually, ranging from 36°C (96°F) in August (the warmest month) to
+15°C (59°F) in January (the coldest month). During this time, however, drier periods lasting
+from 3 to 7 years, when total annual rainfall ranged from 30 to 64 cm (12 to 25 in), were
+followed by abnormally wet years with 114 to 127 cm (45 to 50 in) of rainfall.
+Two annual precipitation peaks, which typically occur in May and September, are
+associated with frontal storms that form when southward-moving cool air masses collide with
+warm, moist air masses moving inland from the Gulf of Mexico (Bomar 1983; Carr 1967). The
+topographic discontinuity along the Balcones Escarpment lies directly in the path of the Gulf
+storm trace and increases the lift in convective storms to produce extreme amounts of rainfall
+(Baker 1975). Two extreme examples are the excess of 91 cm (36 in) of rain that fell within an
+18-hour period in the vicinity of Thrall, Texas, in September 1921, and the 56-cm (22-inch [in])
+deluge that fell in less than 3 hours near O’Harris, Texas, in May 1935 (Baker 1975). Lower
+rainfall amounts are characteristic of winter and late summer. In winter, frontal storms pass so
+frequently that there is little time for moisture to increase, and prevailing upper-level winds from
+west to east often dominate over meridional flow, meaning that much of the available moisture
+is derived from the Pacific rather than from the Gulf of Mexico. In summer, cool fronts rarely
+penetrate into the region and rainfall occurs primarily as localized, thermal convective storms.
+
+2.5
+
+FLORA AND FAUNA
+
+The Project Area is in the southwestern portion of the Texan biotic province (Blair 1950),
+an intermediate zone between the forests of the Austroriparian and Carolinian provinces and the
+grasslands of the Kansan, Balconian, and Tamaulipan provinces. Some species reach the
+limits of their ecological range within the Texan province. The boundary, characterized as
+“approximate,” between Blair’s (1950) Texan and Balconian provinces passes through Travis
+County in the vicinity of the Project Area.
+The fauna associated with this region are represented by a mixture of species from the
+Austroriparian, Tamaulipan, Chihuahuan, Kansan, Balconian, and Texan biotic provinces.
+Common mammalian species include white-tailed deer, opossum, eastern cottontail rabbit,
+raccoon, striped skunk, hispid cotton rat, white-footed mouse, nine-banded armadillo, and fox
+squirrel. Common bird species include northern bobwhite, eastern meadowlark, mourning dove,
+killdeer, field sparrow, red-tailed hawk, turkey vulture, belted kingfisher, and mockingbird.
+Reptile and amphibian species common to this biotic zone include six-lined racerunner, rat
+snake, eastern hognose snake, Gulf Coast toad, Texas spiny lizard, rough green snake,
+copperhead, western diamondback rattlesnake, green treefrog, Blanchard’s cricket frog,
+diamondback water snake, Houston toad, and green anole. Although small herds of bison and
+antelope were common during the late prehistoric and early historic periods, these species are
+no longer native to this region (Jurney et al. 1989:13-14).
+
+HJN 130058 AR
+
+11
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+3.0 CULTURAL BACKGROUND
+
+The archeological record of Central Texas spans the known cultural-historical sequence:
+Paleoindian, 11,200 to 8000 BP; Archaic, 8000 to 1400 BP; and Late Prehistoric, 1400 to 400
+BP. A brief breakdown of this general sequence is presented below.
+
+3.1
+
+PALEOINDIAN PERIOD (CA. 11,200 TO 8000 BP)
+
+The Paleoindian period is believed to be the earliest cultural occupation in the Central
+Texas region. This stage is characterized typologically by the occurrence of distinctive
+lanceolate projectile points and highly mobile settlement and exploitation patterns. These
+populations probably practiced a foraging (i.e., hunting and gathering) type of subsistence
+(Prewitt 1981; Weir 1976), although the best-known sites exhibit a focus on the exploitation of
+large mammals, including Mammuthus sp. and Bison antiquus. Investigations at sites such as
+the Kincaid Rockshelter, Wilson-Leonard, and Gault have shown that, during the early part of
+the Paleoindian, the Clovis stage, subsistence included large herbivores (e.g., mammoth, bison,
+and horse) as well as smaller animals such as water turtles, badgers, and raccoons. A
+multitude of plants are presumed to have also been an important part of the aboriginal diet.
+However, during the later part of the Paleoindian period, the Folsom and Plainview stages,
+subsistence seems to have depended more heavily on the specialized hunting of big game,
+particularly bison. This presumption is based on the fact that only camps, stone-working
+locations, and kill sites, mostly in or near grassland habitats, have been documented (Collins
+1995:382). This change was most likely attributable to the climate, which had become warmer
+and drier than the previous Clovis stage.
+
+3.2
+
+ARCHAIC PERIOD (CA. 8000 TO 1400 BP)
+
+The Archaic period, which covers 2/3 of Central Texas prehistory (Collins 1995), is
+divided into 3 subperiods: Early (8000 to 5000 BP), Middle (5000 to 3000 BP), and Late (3000
+to 1400 BP) (Hester 1986). The beginning of the Archaic period in Texas represents a similar
+transition found world-wide at approximately the same time, the most noted indicators being the
+extinction of Pleistocene megafauna and climatic changes. In Texas, there was a gradual
+decrease in moisture and humidity reflecting the intensification of warming and drying trends
+first noted during the Clovis-Folsom transition. An often-quoted response to these climatic
+changes was a greater and more varied use of local resources; in actuality, this was already the
+case in most places. Plant-processing implements such as manos and metates and earth
+
+HJN 130058 AR
+
+13
+
+Chapter 3.0: Cultural Background
+
+ovens become more evident in the archeological record, while the hunting of game continued.
+Although still nomadic, people of the Archaic period restricted their travel to smaller areas than
+did the Paleoindian groups.
+3.2.1
+
+Early Archaic (8000 to 5000 BP)
+
+The Early Archaic, the least understood period, is distinguished by the switch from
+Paleoindian lanceolate-shaped points to notched-and-stemmed points. Overall, the Early
+Archaic patterns in Texas are fairly similar throughout the state. Hester (1989) observed that,
+prior to 5000 BP, the late Holocene hunters and foragers were essentially indistinguishable in
+terms of subsistence strategies across Region 3, which includes the Central Texas Plateau
+Prairie, South Texas Plains, and Lower Pecos Canyonlands. After that date, regionally
+distinctive projectile points emerge. Hughes (1991) also noted similarities when he wrote that
+the Early Archaic typological developments on the Texas High Plains resembled developments
+in Central and Southwestern Texas as well as in other bordering regions.
+Although settlement patterns for the Early Archaic are little known, it is assumed that the
+population density was low and organized into small bands practicing a mobile, generalized
+subsistence and settlement pattern. The wide distribution of artifacts suggests that mobility was
+high and territories relatively undefined. McKinney (1981), among others, has noted that the
+distribution of Early Archaic sites was apparently concentrated along the Balcones Escarpment.
+This phenomenon may possibly reflect the greater availability of water resources along this
+feature during an arid climatic interval (Hester 1989).
+Sites containing Early Archaic components are open campsites such as Loeve, WilsonLeonard, Richard Beene, Sleeper, Landslide, Granberg II, Jetta Court, and Hall’s Cave. Lithic
+materials found within these components include grinding implements, hammerstones, projectile
+points, a variety of unifacial and bifacial chipped stone instruments, and Clear Fork and
+Guadalupe bifaces. The Clear Fork tools, although indicative primarily of the Early Archaic,
+actually appeared in the Late Paleoindian period and, in some regions, lingered into Late
+Archaic and Late Prehistoric times (Hughes 1991).
+3.2.2
+
+Middle Archaic (5000 to 3000 BP)
+
+The Middle Archaic is marked by an increased number of sites, which may reflect an
+expanding population, the development of regionally distinct cultural patterns, and changes in
+settlement, technology, social systems, and territorial boundaries (Black and McGraw 1985:38).
+Hester (1986) suggests that, during this period, the inhabitants of the Balcones Escarpment
+region developed specialized adaptations to the hunting and gathering of abundant regional
+resources, particularly acorns and white-tailed deer.
+Site types include open campsites located near streams or tributaries, lithic workshops in
+upland areas, and special-activity sites such as hunting camps or food-processing stations
+(Black and McGraw 1985). Large burned rock features (hearths and rock ovens) of the early
+part of the Middle Archaic gave way in the later Middle Archaic to burned rock middens (Collins
+1995).
+These latter features have been interpreted as representing several different
+
+14
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+subsistence practices. For example, Hester (1986) proposed that they represent intensive
+utilization of acorns, while Johnson and Goode (1994:26) suggested that they were more
+frequently being used to cook xerophytes such as sotol. This latter explanation has been
+supported by a number of recent investigations where evidence of preserved camas bulbs have
+been recovered within oven and midden contexts (Brownlow 2003, 2004a, 2004b; Bush 2004;
+Dering 1999, 2002; Mauldin et al. 2003; Ricklis and Collins 1994). Middle Archaic projectile
+points include Nolan, Travis, Langtry, and Pedernales (Black 1989), the latter of which is
+considered by Hester (1986) to be diagnostic of this time period in the Balcones Escarpment
+region.
+3.2.3
+
+Late Archaic (3000 to 1400 BP)
+
+The Late Archaic is represented by a continuation, and possibly intensification, of the
+subsistence patterns seen in the Middle Archaic (Hester 1986; Collins 1995). The use of
+burned rock midden sites continued throughout the Middle Archaic, peaking during the latter
+part of this period (Collins 1995). Large cemetery sites are first noted during the Late Archaic
+and may reflect the establishment of territories and subsistence schedules (Black 1989:30;
+Black and McGraw 1985; Story 1985:49). Hester (1986) suggests that the development of
+wide-ranging trade contacts also may have occurred around this time. Characteristic projectile
+points include triangular types such as Lange, Montell, Castroville, and Marcos, along with
+smaller, expanding-stem points such as Ensor, Frio, Darl, and Fairland.
+Although Hester (1986) places the Late Archaic between 3000 and 1400 BP, a later
+carving of the Archaic period by Johnson and Goode (1994) attempts to push back the initiation
+point of the Late Archaic to around 4300 BP. This more recent division is based on what is
+seen as a strong continuity between the material culture and subsistence practices of groups
+utilizing the Pedernales point style and those utilizing the later Montell point style. Primarily,
+Johnson and Goode (1994) point to similarities in the blade shape of these 2 styles, as well as
+similar large, billet-thinned knives utilized during the times of these point styles. They also note
+the continuance of Pedernales period plant baking within existing burned rock middens by later
+groups utilizing Montell points. In fact, they view this continuity as evidence of a distinct culture
+or “folk” on the eastern Edwards Plateau.
+In addition to attempting to push back the initiation date of the Late Archaic period,
+Johnson and Goode (1994) have also attempted to further divide the Late Archaic period into 2
+subperiods (Late Archaic I and Late Archaic II) based on the material cultures as well as climatic
+conditions. Their Late Archaic I subperiod coincides with the Dry Edwards Interval when xeric
+conditions persisted between 4300 and 2600 BP. Diagnostic projectile points of this subperiod
+include the Bulverde, Pedernales, Marshall, Montell, and Castroville styles. The Lange style
+may also correspond to this subperiod based on the recovery of Lange specimens in
+association with both Montell and Castroville specimens at site 41WM815 and dated between
+2800 to 2400 BP (Brownlow 2003). Johnson and Goode (1994:34) note that burned rock
+middens on the Edwards Plateau during the Late Archaic I subperiod are more frequent than in
+any other period. The increase in burned rock middens during this subperiod is undoubtedly a
+result of the xeric climatic conditions that effectively expanded the ranges of certain geophytes
+
+HJN 130058 AR
+
+15
+
+Chapter 3.0: Cultural Background
+
+such as sotol and yucca—foodstuffs that require extended baking periods (in stone-lined ovens)
+in order to break down their starches into edible simple sugars. The xeric conditions likely
+resulted in the spread of grasslands on the plateau, which would have in turn attracted herds of
+buffalo. Plentiful geophytic plants, as well as the presence of buffalo herds, may account for an
+increase in human populations in the region as well (Weir 1976; Prewitt 1985).
+Johnson and Goode’s (1994) Late Archaic II subperiod spans the time period between
+2600 and 1400 BP. They equate this subperiod to more mesic climatic conditions that resulted
+in the active aggradation of floodplains at many localities. The Marcos, Ensor, Frio, and Darl
+dart point styles are viewed as indicators of this subperiod. Observing a break in the broad
+blade stylistic tradition suggested for the Pedernales and Montell styles, Johnson and Goode
+(1994:37) suggest that similarities in the Marcos style dart points to styles on the Southern
+Plains may indicate an influx of new occupants from the Southern Plains or perhaps a borrowing
+of projectile-making techniques from this region. In addition to a perceived influx of new people
+or technologies, Johnson and Goode (1994) also suggest some degree of social intercourse
+with groups from the eastern US. This is evidenced by the recovery of materials such as whelk
+shells and atlatl weights of exotic stone from burials dating to this time period. Although not
+conclusive, Johnson and Goode (1994:37) suggest that these materials may indicate a
+spreading of Eastern religious cult ideas into the region. While it cannot be conclusively stated
+that groups on the Edwards Plateau subscribed to the beliefs and practices of the Eastern
+religions, the evidence does suggest that groups on the plateau participated in extensive trading
+with Eastern groups, primarily contributing large, thin corner-tanged knives made from local
+Edwards chert.
+
+3.3
+
+LATE PREHISTORIC PERIOD (CA. 1400 TO 400 BP)
+
+The Late Prehistoric period is separated from the preceding Archaic by the introduction
+of the bow and arrow and ceramics. Two phases are recognized within this period: the Austin
+(ca. 1400 to 800 BP) and Toyah (ca. 800 to 400 BP) phases. The Austin phase is characterized
+by the transition from the use of the atlatl and dart to that of the bow and arrow and arrow
+points, particularly the expanding-stemmed Scallorn type. This phase is also distinguished by a
+decline in population and changes in settlement practices, in which there was a shift from open
+to protected (rockshelter) sites (Black 1989:32; Collins 1995:385). In spite of these changes,
+most archeologists agree that Late Archaic subsistence practices and settlement patterns
+appear to have continued during the Austin phase (Black 1989; Collins 1995; Prewitt 1974).
+The Toyah phase is characterized by relatively rapid changes in technology, notably
+pottery (both local and imported from the Caddo area); large, thin bifaces; Perdiz (contractingstem) arrow points; and prismatic blades (Black 1989; Collins 1995). Limited horticulture may
+also have begun during this time. The Toyah tool kit was associated with the hunting of bison,
+deer, and antelope, and, although nearly all sites dating to this phase have yielded bison bones,
+deer was the most significant faunal resource during this time (Black 1989:32). Evidence for
+agriculture is seen in the occasional corn cob found at sites such as the Timmeron Rockshelter
+in Hays County. Of course, the corn could also be attributed to the same trade network that
+was bringing in the Caddoan pottery.
+
+16
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+4.0 ARCHIVAL REVIEW
+
+Archival research conducted via the Internet at the THC’s Texas Archeological Sites
+Atlas (Atlas) website indicated the presence of 14 previously recorded archeological sites within
+a 1.6 kilometer (km) [1.0 mile (mi)] radius of the Project Area (THC 2013), while a review of the
+National Park Service’s (NPS) NRHP Google Earth map layer indicated the presence of no
+historic properties listed on the NRHP within the review radius (NPS 2013) (Table 4-1). Of the
+14 previously recorded archeological sites within the review radius, 3 sites (41TV2376,
+41TV2377, and 41TV2378) are located immediately adjacent to the Project Area. Aside from
+these 3 sites, no other previously recorded archeological sites, including any listed on the
+National Register of Historic Places (NRHP) or formally designated as SALs, are located within
+or immediately adjacent to the Project Area. According to the Atlas, the Project Area has not
+been previously assessed for cultural resources.
+Table 4-1. Documented cultural resources within 1.6 km (1.0 mi) of the Project Area
+Trinomial,
+Cemetery,
+Historic Property
+
+Site Type
+
+NRHP Eligibility
+
+Distance/Direction from
+ROW
+
+Potential to
+be Impacted
+by Project?
+
+41TV269
+
+Aboriginal lithic scatter
+
+Undetermined
+
+0.8 km (0.5 mi) Northeast
+
+No
+
+41TV466
+
+Aboriginal lithic procurement site
+
+Ineligible
+
+1.6 km (1.0mi) Northwest
+
+No
+
+41TV2076
+
+Aboriginal biface production site
+
+Ineligible
+
+1.3 km (0.8 mi) North
+
+No
+
+41TV2077
+
+Aboriginal lithic quarry
+
+Ineligible
+
+1.5 km (0.9 mi) North
+
+No
+
+41TV2079
+
+Aboriginal lithic scatter
+
+Ineligible
+
+0.8 km (0.5 mi) Northwest
+
+No
+
+41TV2080
+
+Aboriginal open campsite
+
+Ineligible
+
+1.3 km (0.8 mi) Northeast
+
+No
+
+41TV2081
+
+Aboriginal lithic quarry
+
+Undetermined
+
+1.1 km (0.7 mi) North
+
+No
+
+41TV2129
+
+No site file
+
+Unknown
+
+1.1 km (0.7 mi) Northeast
+
+No
+
+41TV2130
+
+No site file
+
+Unknown
+
+1.5 km (0.9 mi) Northeast
+
+No
+
+41TV2243
+
+Aboriginal lithic scatter
+
+Non-contributing
+
+0.8 km (0.5 mi) Northwest
+
+No
+
+41TV2244
+
+Aboriginal lithic procurement site
+
+Non-contributing
+
+0.6 km (0.4 mi) Northwest
+
+No
+
+41TV2376
+
+Aboriginal lithic scatter
+
+Ineligible
+
+Adjacent
+
+Possible
+
+41TV2377
+
+Historic cattle processing feature
+
+Ineligible
+
+Adjacent
+
+Possible
+
+41TV2378
+
+Aboriginal lithic scatter
+
+Ineligible
+
+Adjacent
+
+Possible
+
+HJN 130058 AR
+
+17
+
+Chapter 4.0: Archival Review
+
+Prehistoric archeological sites are commonly found in upland areas and on alluvial
+terraces near stream/river channels or drainages. Based on the location of the Project Area on
+elevated landforms above a tributary of Rocky Creek, it was Horizon’s original opinion prior to
+the field efforts that there existed a high potential for undocumented prehistoric cultural deposits
+within the boundaries of the Project Area.
+In regard to historic-era resources, 2 structures are visible within the boundaries of the
+Project Area as seen on the 2013 Google Earth imagery. However, the structures do not
+appear on the 1986 USGS 7.5-minute Shingle Hills, Texas, topographic quadrangle. As such,
+they appear to be modern structures that do not qualify as historic-era structures. The lack of
+any visible historic-era structures in proximity to the Project Area suggests a low potential for
+historic-era architectural or archeological resources within the limits of the Project Area.
+
+18
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+5.0 METHODOLOGY
+
+A 2-person Horizon archeological field crew completed the intensive pedestrian survey
+within the Project Area on 21 March 2013. This entailed intensive surface inspection and
+subsurface shovel testing efforts within the Project Area. The TSMASS require a minimum of 1
+shovel test per 2 acres for projects 11 to 100 acres in size. As such, a total of 44 shovel tests
+were necessary within the 88.0-acre Project Area in order to comply with the TSMASS. Horizon
+exceeded the minimum survey standards by excavating 56 shovel tests within the Project Area.
+All excavated matrices were screened through 6.0-millimeter (mm) (0.25-inch (in) hardware
+mesh or were trowel-sorted if the dense clay soils prohibited successful screening.
+In general, shovel tests measured approximately 30.0 cm (12.0 in) in diameter and were
+excavated to a target depth of 1.0 m (3.3 ft) below ground surface, to the top of pre-Holocene
+deposits, or to the maximum depth practicable. In practice, shovel tests were terminated at
+depths of 2.0 to 60.0 cm (0.7 to 23.6 in) below surface due to the presence of pre-Holocene
+sediments generally composed of light brown to dark grayish-brown, gravelly clay loam,
+overlying bedrock and marl in surface and near-surface contexts. The locations of all shovel
+tests were recorded via handheld global positioning system (GPS) units utilizing the Universal
+Transverse Mercator (UTM) coordinate system and the North American Datum of 1983 (NAD
+83). Shovel test locations are presented in Figure 5-1, and shovel test data are presented in
+Appendix A.
+The TSMASS also require backhoe trenching in stream terraces and other areas with
+the potential to contain buried archeological materials at depths below those that shovel tests
+are capable of reaching (approximately 1.0 m [3.3 ft] below surface). The Project Area is
+located on Lower Cretaceous-age uplands adjacent to a tributary feeder to Rocky Creek.
+Shovel testing revealed very shallow surface sediments overlying dense bedrock and marl,
+indicating that shovel testing was capable of penetrating to the bottom of sediments containing
+archeological deposits. As such, shovel testing is considered to constitute an adequate and
+effective survey technique for identifying archeological resources within the Project Area, and
+mechanical trenching was consequently not employed as a site-prospecting technique.
+
+HJN 130058 AR
+
+19
+
+Chapter 5.0: Methodology
+
+Figure 5-1. Shovel test locations within the Project Area
+20
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+Field notes were maintained on terrain, vegetation, soils, land forms, shovel tests,
+cultural material observed (if any), etc. Standardized shovel test forms were completed for
+every shovel test. These forms included location data, depth, soil type, and notations of any
+artifacts encountered. A standard site form and hand-drawn sketch map was completed for the
+archeological site discovered during the survey and filed at the Texas Archeological Research
+Laboratory (TARL) to obtain a permanent site trinomial.
+A selective collection strategy was utilized during the survey efforts wherein only
+diagnostic cultural materials were to be collected for eventual curation at an approved facility or
+for return to the appropriate landowner. Non-diagnostic artifacts were tabulated and assessed
+in the field and placed back where they were found. Digital photographs with a photo log were
+completed as appropriate.
+
+HJN 130058 AR
+
+21
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+6.0 RESULTS AND RECOMMENDATIONS
+
+6.1
+
+RESULTS
+
+The cultural resources investigations within the Project Area resulted in the
+documentation of 3 newly recorded archeological sites (Figure 6-1). The 3 new sites
+(41TV2432, 41TV2433, and 41TV2434) were all documented as aboriginal lithic scatters. It
+should also be noted that there are 2 modern structures visible within Project Area as indicated
+by Google Earth Imagery. Each of the 3 sites and a brief discussion of the 2 modern structures
+are discussed separately below.
+6.1.1
+
+Site 41TV2432
+
+General Description
+Site 41TV2432 represents the remains of a low-density aboriginal lithic scatter located
+1.6 km (1.0 mi) to the southwest of the intersection of Hamilton Pool Road (Ranch Road 3238)
+and Crumley Ranch Road near Bee Cave in Travis County, Texas. The site is situated on a
+upland formation approximately 70.0 to 100.0 m (230.0 to 328.0 ft) north and south of tributaries
+of Rocky Creek at an elevation of 335.4 m (1100.0 ft) amsl (Figure 6-2; see also Figure 6-1).
+The vegetation in the surrounding area consists of cacti and short wild grasses with scattered
+patches of Ashe juniper and oak trees (Figure 6-3). As documented during the current survey,
+site 41TV2432 measures 230.0 m (754.4 ft) in length by 225.0 m (738.0 ft) in width within the
+Project Area. The boundaries of the site were fully documented within the Project Area.
+A total of 11 shovel tests were excavated on site 41TV2432. Of these, only 3 produced
+evidence of subsurface cultural deposits (see Figure 6-2). The remaining 8 shovel tests all
+produced negative results. The entirety of site 41TV2432 was fully assessed and encompasses
+the summit of a landform within the central portion of the Project Area.
+Observed Cultural Materials
+Cultural materials observed on site 41TV2432 consist entirely of aboriginal lithic
+specimens. The observed lithic assemblage includes approximately 10 primary, 20 secondary,
+and 30 tertiary flakes (Figure 6-4 and 6-5). Additionally, 2 biface fragments were observed on
+the site (Figure 6-6). All of the materials observed on 41TV2432 were manufactured from
+light gray to grayish-brown, medium-grained chert. Aside from the observed lithic specimens,
+
+HJN 130058 AR
+
+23
+
+Chapter 6.0: Results and Recommendations
+
+Figure 6-1. Location of sites 41TV2432, 41TV2433, and 41TV2434 with the Project Area
+
+24
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+Figure 6-2. Sketch map of site 41TV2432
+
+HJN 130058 AR
+
+25
+
+Chapter 6.0: Results and Recommendations
+
+Figure 6-3. General view of site 41TV2432 (facing northeast)
+
+Figure 6-4. Representation of primary and secondary flakes observed on site 41TV2432
+
+26
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+Figure 6-5. Representation of tertiary flakes observed on site 41TV2432
+
+Figure 6-6. Biface fragments observed on site 41TV2432
+
+HJN 130058 AR
+
+27
+
+Chapter 6.0: Results and Recommendations
+
+no temporally diagnostic formal tools, preserved floral or faunal remains, or thermally altered
+rocks were noted on the site.
+Cultural Features
+No cultural features were observed on the modern ground surface on the site, and no
+evidence of subsurface cultural features was noted within any of the 11 shovel tests excavated
+on the site.
+Horizontal and Vertical Extents of Cultural Materials
+Based on the distribution of cultural materials on the modern ground surface and in
+shovel tests, site 41TV2432 measures approximately 230.0 m (754.4 ft) northeast to southwest
+by 225.0 m (738.0 ft) northwest to southeast. The boundaries of site 41TV2432 were fully
+documented.
+A total of 11 shovel tests excavated on site 41TV2432 revealed 3.0 to 20.0 cm (1.2 to
+7.9 in) of brown silty loam deposits overlying bedrock. Cultural materials were observed in the
+upper 20.0 cm (7.9 in) of sediments in 3 of the 11 shovel tests excavated on the site; however,
+cultural materials are predominantly restricted to the modern ground surface.
+Site Summary
+Site 41TV2432 is a low-density aboriginal lithic scatter situated on an upland formation
+just to the north and south of a tributary feeder to Rocky Creek. A total of 11 shovel tests were
+excavated over site 41TV2432. Cultural materials were observed in the upper 20.0 cm (7.9 in)
+of sediments in 3 of the 11 shovel tests excavated on the site; however, cultural materials are
+predominantly restricted to the modern ground surface. As the entire extent of site 41TV2432
+was assessed, its overall eligibility for formal designation as a SAL could be determined. The
+aboriginal deposits within the proposed Project Area consist only of a low-density scatter of nondiagnostic lithic specimens on the modern ground surface. Based upon the lack of temporally
+diagnostic stone tools, preserved floral/faunal remains, or stratified, buried cultural deposits, it is
+Horizon’s opinion that site 41TV2432 within the Project Area is considered ineligible for formal
+designation as a SAL. As such, no additional investigations are recommended for site
+41TV2432 in connection with the proposed undertaking.
+6.1.2
+
+Site 41TV2433
+
+General Description
+Site 41TV2433 represents the remains of a low-density aboriginal lithic scatter located
+1.6 km (1.0 mi) to the southwest of the intersection of Hamilton Pool Road (Ranch Road 3238)
+and Crumley Ranch Road near Bee Cave in Travis County, Texas. The site is situated on an
+upland formation approximately 75.0 to 100.0 m (246.0 to 328.0 ft) northwest and west of a
+tributary of Rocky Creek at an elevation of 332.3 m (1090.0 ft) amsl (Figure 6-7; see also Figure
+6-1). The vegetation in the surrounding area consists of cacti and short wild grasses with
+scattered patches of Ashe juniper and oak trees (Figure 6-8). As documented during
+the current survey, site 41TV2433 measures 290.0 m (951.3 ft) in length by 115.0 m (377.2 ft) in
+28
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+Figure 6-7. Sketch map of site 41TV2433
+
+HJN 130058 AR
+
+29
+
+Chapter 6.0: Results and Recommendations
+
+Figure 6-8. General view of site 41TV2433 (facing southeast)
+width within the Project Area. The site boundaries were documented only within the Project
+Area.
+A total of 11 shovel tests were excavated on site 41TV2433, and no cultural materials
+were recovered from subsurface contexts (see Figure 6-7). The site encompasses the
+northwestern corner of the Project Area. Site 41TV2433 was only documented within the
+Project Area, and portions of the site may extend to the northwest and west beyond the Project
+Area’s western boundary. As such, the entirety of site 41TV2433 was not fully assessed.
+Observed Cultural Materials
+Cultural materials observed on site 41TV2433 consist entirely of aboriginal lithic
+specimens (Figures 6-9 through 6-11). The observed lithic assemblage includes approximately
+5 primary, 5 secondary, and 15 tertiary flakes. Additionally, 2 core fragments and 1 burned rock
+were observed on the site. All of the lithic debitage observed on 41TV2433 were manufactured
+from light gray to grayish-brown, medium-grained chert, while the burned rock specimen was
+manufactured from a dark gray medium- to fine-grained chert. Aside from the observed lithic
+specimens, no temporally diagnostic formal tools or preserved floral or faunal remains were
+observed on the site.
+
+30
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+Figure 6-9. Representation of lithic assemblage observed on site 41TV2433
+
+Figure 6-10. Representation of tertiary flakes observed on site 41TV2433
+
+HJN 130058 AR
+
+31
+
+Chapter 6.0: Results and Recommendations
+
+Figure 6-11. Burned rock fragment observed on site 41TV2433
+Cultural Features
+As noted in the previous section, 1 burned rock was observed on site 41TV2433.
+However, no cultural features were observed on the modern ground surface of site 41TV2433,
+and no evidence of subsurface cultural features was noted within any of the 11 shovel tests
+excavated on the site.
+Horizontal and Vertical Extents of Cultural Materials
+Based on the distribution of cultural materials on the modern ground surface, site
+41TV2433 measures approximately 290.0 m (951.3 ft) northeast to southwest by 115.0 m
+(377.2 ft) east to west. Site boundaries were documented only within the Project Area, and
+undocumented portions of the site may extend to the northwest and west beyond the
+documented site boundaries.
+A total of 11 shovel tests excavated on site 41TV2433 revealed 5.0 to 25.0 cm (1.9 to
+7.9 in) of brown gravelly silty loam deposits overlying bedrock. No cultural materials were
+observed from subsurface contexts. All cultural materials observed on site 41TV2433 were
+restricted to the modern ground surface.
+Site Summary
+Site 41TV2433 is a low-density aboriginal lithic scatter situated on an upland formation
+just to the northwest and west of a tributary feeder to Rocky Creek. A total of 11 shovel tests
+
+32
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+were excavated over site 41TV2433. No subsurface cultural materials were observed in any of
+the 11 shovel tests excavated on the site. As the entire extent of site 41TV2433 was not
+assessed, its overall eligibility for formal designation as a SAL remains undetermined.
+However, the aboriginal deposits within the proposed Project Area consist only of a low-density
+scatter of non-diagnostic lithic specimens on the modern ground surface. Based upon the lack
+of temporally diagnostic stone tools, preserved floral/faunal remains, or stratified, buried cultural
+deposits, it is Horizon’s opinion that the portion of site 41TV2433 within the Project Area is
+considered a non-contributing element to the SAL eligibility status of the site. As such, no
+additional investigations are recommended for the aboriginal component of site 41TV2433 in
+connection with the proposed undertaking.
+6.1.3
+
+Site 41TV2434
+
+General Description
+Site 41TV2434 represents the remains of a low-density aboriginal lithic scatter located
+1.6 km (1.0 mi) to the southwest of the intersection of Hamilton Pool Road (Ranch Road 3238)
+and Crumley Ranch Road near Bee Cave in Travis County, Texas. The site is situated on a
+gentle slope approximately 140.0 m (459.2 ft) northwest of a tributary of Rocky Creek at an
+elevation of 327.7 m (1075.0 ft) amsl (Figure 6-12; see also Figure 6-1). The vegetation in the
+surrounding area consists of cacti and short wild grasses with scattered patches of Ashe juniper
+and oak trees (Figure 6-13). As documented during the current survey, site 41TV2434
+measures 420.0 m (1377.6 ft) in length by 145.0 m (410.0 ft) in width within the Project Area.
+The boundaries of the site were fully documented within the Project Area.
+A total of 6 shovel tests were excavated on site 41TV2434 (see Figure 6-2). No cultural
+materials were observed from subsurface contexts. The entirety of site 41TV2434 was fully
+assessed and encompasses the edge of a gentle ridge within the eastern portion of the Project
+Area.
+Observed Cultural Materials
+Cultural materials observed on site 41TV2434 consist entirely of aboriginal lithic
+specimens. The observed lithic assemblage includes approximately 3 primary, 5 secondary,
+and 10 tertiary flakes, 3 chert core fragments, and 2 biface fragments (Figure 6-14 through 616). Additionally, 1 dart point fragment reminiscent of a Marcos point was recovered from the
+surface of site 41TV2434. The point fragment has a broad, triangular body with strong
+shoulders and barbs. The base of the point is missing. If it indeed represents a Marcos point,
+this provides a tentative date of the site to the Middle Archaic period (ca. 1000 B.C.) (Turner and
+Hester 1999). All of the materials observed on 41TV2434 were manufactured from light gray to
+grayish-brown, medium-grained chert. Aside from the 1 dart point fragment, no temporally
+diagnostic formal tools, preserved floral or faunal remains, or thermally altered rocks were noted
+on the site.
+
+HJN 130058 AR
+
+33
+
+Chapter 6.0: Results and Recommendations
+
+Figure 6-12. Sketch map of site 41TV2434
+34
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+Figure 6-13. General view of site 41TV2434 (facing northwest)
+
+Figure 6-14. Representation of lithic assemblage observed on site 41TV2434
+
+HJN 130058 AR
+
+35
+
+Chapter 6.0: Results and Recommendations
+
+Figure 6-15. Core fragment observed on site 41TV2434
+
+Figure 6-16. View of biface fragment partial dart point recovered from site 41TV2434
+
+36
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+Cultural Features
+No cultural features were observed on the modern ground surface on the site, and no
+evidence of subsurface cultural features was noted within any of the 6 shovel tests excavated
+on the site.
+Horizontal and Vertical Extents of Cultural Materials
+Based on the distribution of cultural materials on the modern ground surface, site
+41TV2434 measures approximately 420.0 m (1377.6 ft) north to south by145.0 m (410.0 ft) east
+to west. The boundaries of site 41TV2434 were fully documented.
+A total of 6 shovel tests excavated on site 41TV2434 revealed up to 10.0 cm (3.9 in) of
+brown gravelly silty clay loam deposits overlying bedrock. No cultural materials were observed
+from subsurface contexts. All cultural materials observed on site 41TV2434 were restricted to
+the modern ground surface.
+Site Summary
+Site 41TV2434 is a low-density aboriginal lithic scatter situated on a gentle slope just to
+the northwest of a tributary feeder to Rocky Creek. A total of 6 shovel tests were excavated
+over site 41TV2434. No cultural materials were recovered from subsurface contexts. As the
+entire extent of site 41TV2434 was assessed, its overall eligibility for formal designation as a
+SAL could be determined. The aboriginal deposits within the proposed Project Area consist
+primarily of a low-density scatter of non-diagnostic lithic specimens on the modern ground
+surface. The presence of a dart point fragment suggests a utilization of the site potentially
+during the Middle Archaic period. Aside from the 1 dart point fragment, this site lacks temporally
+diagnostic stone tools, preserved floral/faunal remains, or stratified, buried cultural deposits. As
+such, it is Horizon’s opinion that site 41TV2434 within the Project Area is considered ineligible
+for formal designation as a SAL. As such, no additional investigations are recommended for the
+aboriginal component of site 41TV2434 in connection with the proposed undertaking.
+6.1.4
+
+Modern Structures
+
+Along the eastern edge of the 77.0-acre portion of the Project Area, 2 modern structures
+were visible on the 2013 Google Earth Imagery (see Figures 1-2). The structures do not appear
+on the 1986 USGS 7.5-minute Shingle Hills, Texas, topographic quadrangle. From the Google
+Earth Imagery, the structures appeared to be a house and outbuilding. At the time of survey, no
+standing structures were present and only the remnants of the structures’ foundations were
+located (Figure 6-17). Shawn Graham, a project engineer with JCI, informed Horizon that the 2
+structures present within the Project Area represent modern structures that were only recently
+dismantled. Since the remnants of both structures appear to be modern, they were not recorded
+as historic-era sites.
+
+HJN 130058 AR
+
+37
+
+Chapter 6.0: Results and Recommendations
+
+Figure 6-17. Modern structure foundations observed within the Project Area (facing east)
+
+6.2
+
+RECOMMENDATIONS
+
+Based on the results of the survey-level investigations documented in this report, it is
+Horizon’s opinion that the development of the Project Area will have no adverse effect on
+significant cultural resources considered eligible for formal designation as SALs. Sites
+41TV2432 and 41TV2434 are recommended as ineligible for formal designation as a SAL, while
+site 41TV2433 is recommended as a noncontributing element to the site’s overall eligibility for
+formal designation as a SAL. With this in mind, no additional investigations are recommended
+on sites 41TV2432, 41TV2433, and 41TV2434 in connection with the proposed undertaking.
+Horizon therefore recommends that TCMUD16 be allowed to proceed with the proposed Phase
+II of the WWTP project within the Rocky Creek Ranch development, relative to the jurisdiction of
+the ACT. However, in the unlikely event that any cultural materials (including human remains or
+burial features) are inadvertently discovered at any point during construction, use, or ongoing
+maintenance of the Project Area, even in previously surveyed areas, all work at the location of
+the discovery should cease immediately, and the THC should be notified of the discovery.
+
+38
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+7.0 REFERENCES CITED
+
+Baker, V.R.
+1975
+Flood Hazards Along the Balcones Escarpment in Central Texas—Alternative
+Approaches to the Recognition, Mapping, and Management. Geological Circular
+No. 75-5. Bureau of Economic Geology, The University of Texas at Austin.
+Barnes, V.E.
+1974
+Geologic Atlas of Texas—Austin Sheet.
+University of Texas at Austin.
+
+Bureau of Economic Geology, The
+
+Black, S.L.
+1989
+Central Texas Plateau Prairie. In From the Gulf to the Rio Grande: Human
+Adaptation in Central, South, and Lower Pecos Texas by T.R. Hester, S.L. Black,
+D.G. Steele, B.W. Olive, A.A. Fox, K.J. Reinhard, and L.C. Bement, pp. 17-38.
+Research Series No. 33. Arkansas Archeological Survey, Fayetteville.
+Black, S.L., and A.J. McGraw
+1985
+The Panther Springs Creek Site: Cultural Change and Continuity within the Upper
+Salado Creek Watershed, South-Central Texas. Archeological Survey Report No.
+100, Center for Archeological Research, University of Texas at San Antonio.
+Blair, W.F.
+1950
+The Biotic Provinces of Texas. Texas Journal of Science 2:93-117.
+Bomar, G.W.
+1983
+Texas Weather. University of Texas Press, Austin.
+Brownlow, R.K.
+2003
+Archeological Investigations at 41WM815, A Blackland Prairie Site, Williamson
+County, Texas. Studies in Archeology 36, Texas Archeological Research Laboratory,
+The University of Texas at Austin and Archeological Studies Program, Report 23,
+Environmental Affairs Division, Texas Department of Transportation.
+2004a
+
+National Register of Historic Places Eligibility Testing of 2 Sites (41WM650 and
+41WM651) Located within the Cedar Park Town Center Development, Cedar Park,
+Williamson County, Texas. HJN 040024 AR. Horizon Environmental Services, Inc.,
+Austin, Texas.
+
+HJN 130058 AR
+
+39
+
+Chapter 7.0: References Cited
+
+2004b
+
+Data Recovery Investigations at the Holt Site (41HY341), San Marcos, Hays County,
+Texas. HJN 040032 AR. Horizon Environmental Services, Inc., Austin, Texas.
+
+Bush, L.L.
+2004
+Macrobotanical Remains from Site 41MM341 Milam County, Texas, Draft Report,
+Prewitt and Associates, Inc., Austin, Texas.
+Bryant, V.M., Jr., and R.G. Holloway
+1985
+A Late-Quaternary Paleoenvironmental Record of Texas: An Overview of the Pollen
+Evidence. In Pollen Records of Late-Quaternary North American Sediments, edited
+by V.M. Bryant, Jr., and R.G. Holloway, pp. 39-70. American Association of
+Stratigraphic Palynologists Foundation, Dallas, Texas.
+Carr, J.T.
+1967
+Climate and Physiography of Texas.
+No. 53, Austin.
+
+Texas Water Development Board, Report
+
+Collins, M.B.
+1995
+Forty Years of Archeology in Central Texas. Bulletin of the Texas Archeological
+Society, Volume 66, pp. 361-400.
+Dering, P.
+1999
+Earth-Oven Plant Processing in Archaic Period Economies: An Example from a
+Semi-Arid Savannah in South-Central North America. American Antiquity 64 (4):
+659-674.
+2002
+
+Plant Remains from the Armstrong Site, 41CW54 in Data Recovery at the Armstrong
+Site (41CW54) Caldwell County, Texas. Volume 1: Background, Methods, and Site
+Context. Volume 2: Cultural Interpretations. Texas Antiquities Permit # 2250. Paul
+Price and Associates Inc. Austin, Texas.
+
+Hester, T.R.
+1986
+Early Human Populations Along the Balcones Escarpment.
+Escarpment, Geological Society of America.
+1989
+
+In The Balcones
+
+An Archeological Synthesis. In From the Gulf to the Rio Grande: Human Adaptation
+in Central, South, and Lower Pecos Texas by T.R. Hester, S.L. Black, D.G. Steele,
+B.W. Olive, A.A. Fox, K.J. Reinhard, and L.C. Bement, pp. 115-128. Research
+Series No. 33. Arkansas Archeological Survey, Fayetteville.
+
+Hill, R.T.
+1901
+Geography and Geology of the Black and Grand Prairies, Texas. Twenty-First
+Annual Report of the United States Geological Survey 1899-1900. United States
+Geological Survey, Washington, D.C.
+Hill, R.T., and T.W. Vaughn
+1900
+Physical Geography of the Texas Region. Topographic Atlas, Austin, Folio 76.
+United States Geological Survey, Washington, D.C.
+
+40
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+Hughes, J.T.
+1991
+Prehistoric Cultural Developments on the Texas High Plains. Bulletin of the Texas
+Archeological Society, Volume 60/1989 (published in 1991), pp. 1-55, Austin, Texas.
+Johnson, E.H.
+1931
+The Natural Regions of Texas. University of Texas Bulletin 3113. The University of
+Texas at Austin.
+Johnson, L., Jr., and G.T. Goode
+1994
+A New Try at Dating and Characterizing Holocene Climates as well as Archeological
+Periods on the Eastern Edwards Plateau. Bulletin of the Texas Archeological
+Society, Volume 65, pp. 1-51, Austin, Texas.
+Jurney, D.H., F. Winchell, and R.W. Moir
+1989
+Cultural Resources Overview of the National Grasslands in North Texas: Studies in
+Predictive Archaeological Modeling for the Caddo and LBJ Grasslands. Archaeology
+Research Program, Institute for the Study of Earth and Man, Southern Methodist
+University, Dallas, Texas. US Forest Service, Lufkin, Texas.
+Larkin, T.J., and G.W. Bomar
+1983
+Climatic Atlas of Texas.
+Resources, Austin.
+
+Publication LP-192.
+
+Texas Department of Water
+
+Mauldin, R.P., D.L. Nickels, and C.J. Broehm
+2003
+(Draft) Archaeological Testing to Determine the National Register Eligibility Status of
+Prehistoric Sites on Camp Bowie, Brown County, Texas, Archeological Survey
+Report 334, Center for Archeological Research, the University of Texas at San
+Antonio.
+McKinney, W.W.
+1981
+Early Holocene Adaptations in Central and Southwestern Texas: The Problem of the
+Paleoindian-Archaic Transition. Bulletin of the Texas Archeological Society, Volume
+52, pp. 91-120.
+(NAIP) National Agriculture Imagery Program
+2012
+Digital orthophoto, Travis County, Texas. US Department of Agriculture, Farm
+Service Agency, Aerial Photography Field Office.
+(NPS) National Park Service
+2013
+National Register of Historic Places Database. <http://www.nps.gov/history/nr/
+research/>. Accessed 19 March 2013.
+(NRCS) Natural Resources Conservation Service
+2010
+US Department of Agriculture. SSURGO Database for Travis County, Texas. 2010.
+2013
+
+Web Soil Survey, <http://websoilsurvey.nrcs.usda.gov/app/WebSoilSurvey.aspx>.
+Accessed 25 March 2013. US Department of Agriculture.
+
+HJN 130058 AR
+
+41
+
+Chapter 7.0: References Cited
+
+Prewitt, E.R.
+1974
+Archeological Investigations at the Loeve-Fox Site, Williamson County, Texas.
+Texas Archeological Survey, Research Report No. 49, The University of Texas at
+Austin.
+1981
+
+Cultural Chronology in Central Texas. Bulletin of the Texas Archeological Society,
+Volume 52, pp. 65-89.
+
+1985
+
+From Circleville to Toyah: Comments on Central Texas Chronology. Bulletin of the
+Texas Archeological Society, Volume 54, pp. 201-238.
+
+Ricklis, R.A., and M.B. Collins
+1994
+Archaic and Late Prehistoric Human Ecology in the Middle Onion Creek Valley, Hays
+County, Texas.
+Studies in Archeology 19, Texas Archeological Research
+Laboratory, The University of Texas at Austin.
+Story, D.A.
+1985
+Adaptive Strategies of Archaic Cultures of the West Gulf Coastal Plain. In Prehistoric
+Food Production in North America, edited by R.I. Ford, pp. 19-56. Anthropological
+Papers No. 75. Museum of Anthropology, University of Michigan, Ann Arbor.
+(THC) Texas Historical Commission
+2013
+Texas Archeological Sites Atlas.
+March 2013.
+
+<http://nueces.thc.state.tx.us/>.
+
+Turner, E. and T. Hester
+1999
+A Field Guide to Stone Artifacts of Texas Indians.
+Maryland.
+
+Accessed 19
+
+Gulf Publishing, Lanhan,
+
+(USGS) US Geological Survey
+1986
+7.5-minute series topographic maps, Shingle Hills, Texas, quadrangle.
+Weir, F.A.
+1976
+The Central Texas Archaic.
+Unpublished Ph.D. dissertation, Department of
+Anthropology, Washington State University, Pullman.
+
+42
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+APPENDIX A:
+
+SHOVEL TEST DATA
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+ST No.
+
+UTM Coordinates
+Easting
+
+1
+
+Northing
+
+Depth
+(cmbs)
+
+Soils
+
+Artifacts
+
+Site 4TV2432
+JC-1
+
+592590
+
+3350633
+
+0-15
+15+
+
+Dark yellowish-brown silty clay loam
+Bedrock
+
+None
+None
+
+JC-2
+
+592601
+
+3350656
+
+0-10
+10+
+
+Brown silty loam
+Bedrock
+
+None
+None
+
+JC-3
+
+592627
+
+3350677
+
+0-5
+5+
+
+Brown gravelly silty loam
+Bedrock
+
+1 flake
+None
+
+JC-4
+
+592625
+
+3350663
+
+0-3
+3+
+
+Brown gravelly silty loam
+Bedrock
+
+None
+None
+
+JC-5
+
+592621
+
+3350658
+
+0-10
+10+
+
+Brown gravelly silty loam
+Bedrock
+
+7 flakes
+None
+
+JC-6
+
+592675
+
+3350669
+
+0-5
+5+
+
+Brown gravelly silty loam
+Bedrock
+
+None
+None
+
+JC-7
+
+592649
+
+3350632
+
+0-10
+10-20
+20+
+
+Dark brown silty loam
+Dark brown silty loam
+Bedrock
+
+None
+1 biface
+None
+
+JC-8
+
+592654
+
+3350605
+
+0-5
+5+
+
+Brown gravelly silty loam
+Bedrock
+
+None
+None
+
+JC-9
+
+592677
+
+3350585
+
+0-5
+5+
+
+Brown gravelly silty loam
+Bedrock
+
+None
+None
+
+MM-1
+
+592558
+
+3350588
+
+0-5
+5+
+
+Light brown marly silty loam
+Bedrock
+
+None
+None
+
+MM-2
+
+592506
+
+3350599
+
+0-3
+3+
+
+Light brown gravelly silty loam
+Bedrock
+
+None
+None
+
+MM-3
+
+592458
+
+3350578
+
+0-3
+3+
+
+Light brown marly silty loam
+Bedrock
+
+None
+None
+
+Site 41TV2433
+JC-12
+
+592446
+
+3350912
+
+0-5
+5+
+
+Light yellowish-brown silty loam
+Bedrock
+
+None
+None
+
+JC-13
+
+592414
+
+3350863
+
+0-10
+10+
+
+Light yellowish-brown silty loam
+Bedrock
+
+None
+None
+
+JC-14
+
+592324
+
+3350891
+
+0-15
+15+
+
+Light grayish-brown gravelly silty loam
+Bedrock
+
+None
+None
+
+JC-15
+
+592281
+
+3350912
+
+0-25
+25+
+
+Light grayish-brown silty loam
+Bedrock
+
+None
+None
+
+JC-16
+
+592297
+
+3350866
+
+0-5
+5+
+
+Light grayish-brown gravelly silty loam
+Bedrock
+
+None
+None
+
+JC-17
+
+592251
+
+3350758
+
+0-5
+
+Light grayish-brown silty loam
+
+None
+
+HJN 130058 AR
+
+A-1
+
+Appendix A: Shovel Test Data
+
+ST No.
+
+UTM Coordinates
+Easting
+
+1
+
+Northing
+
+Depth
+(cmbs)
+
+Soils
+
+Artifacts
+
+5+
+
+Bedrock
+
+None
+
+JC-19
+
+592302
+
+3350919
+
+0-5
+5+
+
+Light grayish-brown silty loam
+Bedrock
+
+None
+None
+
+JC-20
+
+592319
+
+3350921
+
+0-5
+5+
+
+Light grayish-brown gravelly silty loam
+Bedrock
+
+None
+None
+
+MM-7
+
+592329
+
+3350825
+
+0-2
+2+
+
+Light brown gravelly loam
+Bedrock
+
+None
+None
+
+MM-8
+
+592327
+
+3350891
+
+0-2
+2+
+
+Light brown gravelly loam
+Bedrock
+
+None
+None
+
+MM-9
+
+592420
+
+3350945
+
+0-5
+5+
+
+Brown gravelly loam
+Bedrock
+
+None
+None
+
+Site 41TV2434
+JC-25
+
+593311
+
+3350266
+
+0-5
+5+
+
+Grayish-brown silty loam
+Bedrock
+
+None
+None
+
+JC-26
+
+593300
+
+3350364
+
+0-10
+10+
+
+Grayish-brown gravelly silty loam
+Bedrock
+
+None
+None
+
+JC-27
+
+593271
+
+3350437
+
+0-10
+10+
+
+Grayish-brown gravelly clay loam
+Bedrock
+
+None
+None
+
+JC-28
+
+593263
+
+3350557
+
+0-5
+5+
+
+Grayish-brown silty loam
+Bedrock
+
+None
+None
+
+JC-29
+
+593336
+
+3350499
+
+0-15
+15+
+
+Brown clay loam
+Bedrock
+
+None
+None
+
+JC-30
+
+593350
+
+3350634
+
+0-10
+10-15+
+
+Grayish-brown gravelly silty loam
+Bedrock
+
+None
+None
+
+General
+
+A-2
+
+JC-10
+
+592692
+
+3350550
+
+0-5
+5+
+
+Brown gravelly silty loam
+Bedrock
+
+None
+None
+
+JC-11
+
+592641
+
+3350505
+
+0-10
+10+
+
+Light grayish-brown gravelly silty loam
+Bedrock
+
+None
+None
+
+JC-18
+
+592259
+
+3350734
+
+0-10
+10+
+
+Light grayish-brown gravelly silty loam
+Bedrock
+
+None
+None
+
+JC-21
+
+592576
+
+3350862
+
+0-35
+35+
+
+Very dark grayish-brown loamy clay
+Yellowish-brown marl
+
+None
+None
+
+JC-22
+
+592578
+
+3350903
+
+0-45
+45+
+
+Very dark grayish-brown loamy clay
+Dark brown clay
+
+None
+None
+
+JC-23
+
+592665
+
+3350803
+
+0-35
+35+
+
+Dark grayish-brown loamy clay
+Very dark grayish-brown clay
+
+None
+None
+
+130058_arch_survey_report
+
+An Intensive Cultural Resources Survey of the Proposed Rocky Creek
+Wastewater Treatment Plant (WWTP) Phase II Project in Travis County, Texas
+
+ST No.
+
+UTM Coordinates
+
+1
+
+Depth
+(cmbs)
+
+Soils
+
+Artifacts
+
+Easting
+
+Northing
+
+JC-24
+
+592770
+
+33507220
+
+0-35
+35+
+
+Very dark grayish-brown loamy clay
+Yellowish-brown marl
+
+None
+None
+
+JC-31
+
+593357
+
+3350764
+
+0-45
+45+
+
+Grayish-brown silty clay loam
+Grayish-brown silty clay
+
+None
+None
+
+JC-32
+
+593448
+
+3350518
+
+0-5
+5+
+
+Grayish-brown gravelly silty loam
+Bedrock
+
+None
+None
+
+JC-33
+
+593481
+
+3350515
+
+0-10
+10+
+
+Grayish-brown gravelly silty loam
+Bedrock
+
+None
+None
+
+MM-4
+
+592331
+
+3350552
+
+0-3
+3+
+
+Light brown gravelly loam
+Bedrock
+
+None
+None
+
+MM-5
+
+592292
+
+3350496
+
+0-2
+2+
+
+Light brown gravelly loam
+Bedrock
+
+None
+None
+
+MM-6
+
+592202
+
+3350520
+
+0-5
+5+
+
+Dark brown gravelly clay loam
+Bedrock
+
+None
+None
+
+MM-10
+
+592466
+
+3350987
+
+0-10
+10-30+
+
+Dark brown clay loam
+Dark brown marly clay
+
+None
+None
+
+MM-11
+
+592540
+
+3350971
+
+0-30
+30-60
+60+
+
+Dark brown loamy clay
+Brown loam w/calcite inclusions
+Bedrock
+
+None
+None
+None
+
+MM-12
+
+592457
+
+3350967
+
+0-15
+15-30+
+
+Very dark brown loamy clay
+Very dark brown clay
+
+None
+None
+
+MM-13
+
+592782
+
+3350746
+
+0-20
+20+
+
+Dark grayish-brown loamy clay
+Bedrock
+
+None
+None
+
+MM-14
+
+592897
+
+3350623
+
+0-35
+35+
+
+Very dark gray loamy clay
+Bedrock
+
+None
+None
+
+MM-15
+
+592935
+
+3350544
+
+0-30
+30+
+
+Dark brown loamy clay
+Dark brown clay w/calcite inclusions
+
+None
+None
+
+MM-16
+
+593537
+
+3350072
+
+0-5
+5+
+
+Light brown marly loam
+Bedrock
+
+None
+None
+
+MM-17
+
+593627
+
+3350162
+
+0-3
+3+
+
+Light brown marly loam
+Bedrock
+
+None
+None
+
+MM-18
+
+593721
+
+3350286
+
+0-5
+5+
+
+Light brown marl
+Bedrock
+
+None
+None
+
+MM-19
+
+593676
+
+3350470
+
+0-3
+3+
+
+Light brown marly clay loam
+Bedrock
+
+None
+None
+
+MM-20
+
+593612
+
+3350332
+
+0+
+
+Dense bedrock
+
+None
+
+MM-21
+
+593552
+
+3350202
+
+0+
+
+Dense bedrock
+
+None
+
+MM-22
+
+593441
+
+3350487
+
+0-5
+
+Light brown marly clay loam
+
+None
+
+HJN 130058 AR
+
+A-3
+
+Appendix A: Shovel Test Data
+
+ST No.
+
+MM-23
+
+UTM Coordinates
+Easting
+
+593374
+
+1
+
+Northing
+
+3350382
+
+Depth
+(cmbs)
+
+Soils
+
+Artifacts
+
+5+
+
+Bedrock
+
+None
+
+0-5
+5+
+
+Light brown marly clay loam
+Bedrock
+
+None
+None
+
+ST = Shovel test
+UTM = Universal Transverse Mercator
+cmbs = Centimeters below surface
+
+A-4
+
+130058_arch_survey_report
+
+

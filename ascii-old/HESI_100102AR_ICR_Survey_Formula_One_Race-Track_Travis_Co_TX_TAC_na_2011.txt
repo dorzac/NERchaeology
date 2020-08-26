@@ -1,0 +1,4572 @@
+An Intensive Cultural Resources Survey of the
+USACE Jurisdictional Areas within the
+Proposed Formula One Race Track Development,
+Travis County, Texas
+By:
+Reymundo Chapa
+
+HJN 100102 AR
+Prepared for:
+
+Prepared by:
+
+Accelerator Holdings, LLC
+Austin, Texas
+
+Horizon Environmental Services, Inc.
+Austin, Texas
+January 2011
+
+An Intensive Cultural Resources Survey of the
+USACE Jurisdictional Areas within the
+Proposed Formula One Race Track Development,
+Travis County, Texas
+By:
+Reymundo Chapa
+
+Prepared for:
+
+Accelerator Holdings, LLC
+301 Congress Ave., Suite 220
+Austin, Texas 78701
+
+Prepared by:
+
+Horizon Environmental Services, Inc.
+1507 South IH 35
+Austin, Texas 78741
+
+Reymundo Chapa, MA, Principal Investigator
+HJN 100102 AR
+
+January 2011
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+MANAGEMENT SUMMARY
+
+Between 26 and 29 October 2010, Horizon Environmental Services, Inc. (Horizon)
+conducted an intensive cultural resources survey of the 479.33 acres comprising the US Army
+Corps of Engineers (USACE) jurisdictional areas within the proposed 900.0-acre Formula One
+Race Track Development in Austin, Travis County, Texas (Project Area). Although the Project
+Area is located on private property and funded by private sources, impacts to the USACE
+jurisdictional areas will require the usage of a Nationwide Permit (NWP), which is issued by the
+USACE in compliance with Section 404 of the Clean Water Act of 1976. As a NWP is a federal
+permit, the areas within the purview of the USACE also fall under the regulations of Section 106
+of the National Historic Preservation Act (NHPA) of 1966, as amended. Horizon conducted the
+intensive cultural resources survey of the Project Area on behalf of Accelerator Holdings, LLC,
+in compliance with the regulations of Section 106 of the NHPA. The purpose of the survey was
+to determine if any cultural resources were located within the Project Area and, if so, to
+determine their eligibility for inclusion in the National Register of Historic Places (NRHP). In all,
+the USACE jurisdictional areas investigated within the following report total 479.33 acres.
+The survey of the 479.33-acre Project Area resulted in the documentation of 2 historic
+farmsteads (41TV2386 and 41TV2387) and 1 prehistoric lithic procurement area (site
+41TV2388). Based on the lack of integrity and the lack of potential for buried, stratified cultural
+deposits, it is Horizon’s opinion that all 3 sites do not qualify for inclusion on the NRHP under
+Criteria A and D. Similarly, based on the lack of association of sites 41TV2386 and 41TV2387
+with a person or event of historical significance, it is Horizon’s opinion that these 2 sites also do
+not qualify for inclusion on the NRHP under Criterion B and C. As such, it is Horizon’s overall
+opinion that sites 41TV2386, 41TV2387, and 41TV2388 are all ineligible for inclusion on the
+NRHP and that no further investigations are warranted at these sites.
+Based on the results of the intensive cultural resources survey, it is Horizon’s opinion
+that the development of the Project Area will pose no adverse impacts to significant cultural
+resources and that no further investigations are warranted. Therefore, Horizon recommends
+that cultural resources clearance be granted for the undertaking.
+
+HJN 100102 AR
+
+iii
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+TABLE OF CONTENTS
+Chapter
+
+Page
+MANAGEMENT SUMMARY ...................................................................................... iii
+
+1.0
+
+INTRODUCTION ......................................................................................................... 1
+
+2.0
+
+ENVIRONMENTAL SETTING ..................................................................................... 5
+2.1
+Project Area Description .................................................................................. 5
+2.2
+Physiography and Hydrology ........................................................................... 5
+2.3
+Geology and Soils ........................................................................................... 5
+2.4
+Vegetation ..................................................................................................... 10
+
+3.0
+
+CULTURAL BACKGROUND..................................................................................... 11
+3.1
+Paleo-Indian Period (ca. 11,200 to 8000 BP) ................................................ 11
+3.2
+Archaic Period (ca. 8000 to 1400 BP) ........................................................... 11
+3.2.1 Early Archaic (8000 to 5000 BP) ....................................................... 12
+3.2.2 Middle Archaic (5000 to 3000 BP) ..................................................... 12
+3.2.3 Late Archaic (3000 to 1400 BP) ......................................................... 13
+3.3
+Late Prehistoric Period (ca. 1400 to 400 BP) ................................................ 14
+3.4
+Historic Period (ca. 400 B.P. to Present) ....................................................... 15
+
+4.0
+
+ARCHIVAL RESEARCH ........................................................................................... 21
+4.1
+Archival Research ......................................................................................... 21
+
+5.0
+
+METHODOLOGY ...................................................................................................... 23
+
+6.0
+
+RESULTS AND RECOMMENDATIONS ................................................................... 27
+6.1
+Results........................................................................................................... 27
+6.1.1 Site 41TV2386 ................................................................................... 27
+6.1.2 Site 41TV2387 ................................................................................... 37
+6.1.3 Site 41TV2388 ................................................................................... 45
+6.2
+Recommendations......................................................................................... 50
+
+7.0
+
+REFERENCES CITED .............................................................................................. 51
+APPENDIX A: SHOVEL TEST DATA
+
+HJN 100102 AR
+
+v
+
+Table of Contents
+
+LIST OF FIGURES
+Page
+Figure 1. Topographic map of Project Area ................................................................................. 2
+Figure 2. Aerial photograph of Project Area ................................................................................. 3
+Figure 3. Typical view of hilltop vegetation in southeastern portion of Project Area .................... 6
+Figure 4. Typical view of lowland ridges in northwestern portion of Project Area ........................ 6
+Figure 5. View of holding pond in western portion of Project Area .............................................. 7
+Figure 6. View of typical shovel test in Project Area .................................................................... 7
+Figure 7. Typical view of ground cover in uplands portion of Project Area .................................. 8
+Figure 8. Typical view of lowlands portion of Project Area .......................................................... 8
+Figure 9. Soil distribution within Project Area (NRCS 2010) ...................................................... 10
+Figure 10. Atlas map with location of previously recorded archeological sites (THC 2010) ...... 22
+Figure 11. Five topographic areas created to delineate zones of high probability for cultural
+resources within Project Area (USGS 1987 and 1988) ............................................. 24
+Figure 12. Location of shovel tests within the Project Area ....................................................... 25
+Figure 13. Location of site 41TV2386 ........................................................................................ 28
+Figure 14. Sketch map of site 41TV2386 ................................................................................... 29
+Figure 15. Razed structure on site 41TV2386 ........................................................................... 30
+Figure 16. Another view of the razed structure on site 41TV2386 ............................................. 30
+Figure 17. Some contents of refuse pile on site 41TV2386 ....................................................... 31
+Figure 18. Associated concrete foundation on site 41TV2386 .................................................. 31
+Figure 19. Corral on site 41TV2386 ........................................................................................... 32
+Figure 20. Metal gate entering site 41TV2386 from Piland Triangle .......................................... 32
+Figure 21. Round-headed wire nails used in construction of house on site 41TV2386 ............. 34
+Figure 22. Glass fragments found on site 41TV2386 ................................................................ 34
+Figure 23. Royal Crown Cola bottle found next to corral on site 41TV2386 .............................. 35
+Figure 24. Assorted specimens on site 41TV2386 .................................................................... 35
+Figure 25. Evens & Howard fire brick found on site 41TV2386 ................................................. 36
+Figure 26. Location of site 41TV2387 ........................................................................................ 38
+Figure 27. Sketch map of site 41TV2387 ................................................................................... 39
+Figure 28. Collapsed structure on site 41TV2387 ...................................................................... 39
+Figure 29. Another view of collapsed structure on site 41TV2387 ............................................. 40
+Figure 30. Path cleared by recent activity on site 41TV2387 ..................................................... 40
+Figure 31. Property line that bounds south and southwestern portions of site 41TV2387 ......... 41
+Figure 32. Well feature (foreground) north of house (background) on site 41TV2387 .............. 41
+Figure 33. Assorted specimen fragments found on site 41TV2387 ........................................... 43
+Figure 34. Glass fragments found on site 41TV2387 ................................................................ 43
+
+vi
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+Figure 35.
+Figure 36.
+Figure 37.
+Figure 38.
+Figure 39.
+Figure 40.
+Figure 41.
+
+Assorted unbroken specimens on site 41TV2387 .................................................... 44
+Intact bottle found on site 41TV2387 ........................................................................ 44
+Location of site 41TV2388 ........................................................................................ 46
+Map of site 41TV2388 ............................................................................................... 47
+View of site 41TV2388 .............................................................................................. 48
+Lithic debitage on site 41TV2388 ............................................................................. 49
+Lithic core and biface from site 41TV2388 ............................................................... 49
+
+LIST OF TABLES
+Page
+Table 1.
+Table 2.
+Table 3.
+Table 4.
+
+Soils within the Project Area .......................................................................................... 9
+Documented Cultural Resources within 1.0 km of the Project Area ............................ 21
+Diagnostic specimens on site 41TV2386 ..................................................................... 36
+Diagnostic specimens on site 41TV2387 ..................................................................... 42
+
+HJN 100102 AR
+
+vii
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+1.0 INTRODUCTION
+
+This document reports the results of an intensive cultural resources survey of the 479.33
+acres comprising the US Army Corps of Engineers (USACE) jurisdictional areas within the
+proposed 900.0-acre Formula One Race Track Development located in southeastern Travis
+County, Texas (Project Area; Figures 1 and 2). Although the Project Area is located on private
+property and funded by private sources, impacts to areas under the jurisdiction of the USACE
+will require the usage of a Nationwide Permit (NWP), which is issued by the USACE in
+compliance with Section 404 of the Clean Water Act of 1976. As a NWP is a federal permit, the
+areas within the purview of the USACE also fall under the regulations of Section 106 of the
+National Historic Preservation Act (NHPA) of 1966, as amended. Horizon conducted the
+intensive cultural resources survey of the Project Area on behalf of Accelerator Holdings, LLC,
+in compliance with the regulations of Section 106 of the NHPA. The purpose of the survey was
+to determine if any cultural resources were located within the Project Area and, if so, to
+determine their eligibility for inclusion in the National Register of Historic Places (NRHP). In all,
+the USACE jurisdictional areas investigated within the following report total 479.33 acres.
+The cultural resources investigation consisted of initial consultation with the USACE to
+determine exactly what areas of the overall 900.0 acres were considered to be under the
+jurisdiction of the USACE, an archival review, an intensive pedestrian survey of the Project
+Area, and the production of a report suitable for review by the State Historic Preservation Officer
+(SHPO) in accordance with the Texas Historical Commission’s (THC) Rules of Practice and
+Procedure, Chapter 26, Section 27, and the Council of Texas Archeologists (CTA) Guidelines
+for Cultural Resources Management Reports.
+Reymundo Chapa served as Principal
+Investigator, and he, Jared Wiersema, and Courtney Coffey (archeological field technicians)
+conducted the field investigations.
+Horizon conducted the survey of the Project Area between 26 and 29 October 2010.
+The field investigations consisted of an intensive surface inspection and subsurface shovel
+testing throughout the Project Area. The Texas State Minimum Archeological Survey Standards
+(TSMASS) require a minimum of 1 shovel test per 3 acres on projects over 200 acres in size.
+As such, the 479.33 acres comprising the Project Area required a total of 160 shovel tests to
+comply with the TSMASS. Horizon conducted 175 shovel tests within the Project Area,
+exceeding the minimum survey standards.
+
+HJN 100102 AR
+
+1
+
+Chapter 1.0: Introduction
+
+Figure 1. Topographic map of Project Area
+
+2
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+Figure 2. Aerial photograph of Project Area
+
+HJN 100102 AR
+
+3
+
+Chapter 1.0: Introduction
+
+The survey of the 479.33-acre Project Area resulted in the documentation of 2 historic
+farmsteads (41TV2386 and 41TV2387) and 1 prehistoric lithic procurement area (site
+41TV2388). Site 41TV2386 consists of a razed house with an associated fenced coral and
+outbuilding foundation made of concrete. The farmstead is surrounded by scattered debris
+ranging in date from the early to late 1900s. Site 41TV2387 consists of a collapsed farmstead
+that has been partially destroyed by recent clearing activities. This farmstead is also
+surrounded by scattered debris ranging in date from the early to late 1900s. Site 41TV2388 is a
+prehistoric hilltop lithic procurement area consisting of numerous pieces of lithic debitage, 1
+bifacial specimen, and 1 chert core. Based on the lack of integrity and the lack of potential for
+buried, stratified cultural deposits, it is Horizon’s opinion that all 3 sites do not qualify for
+inclusion on the NRHP under Criteria A and D. Similarly, based on the lack of association of
+sites 41TV2386 and 41TV2387 with a person or event of historical significance, it is Horizon’s
+opinion that these 2 sites also do not qualify for inclusion on the NRHP under Criterion B and C.
+As such, it is Horizon’s overall opinion that sites 41TV2386, 41TV2387, and 41TV2388 are all
+ineligible for inclusion on the NRHP and that no further investigations are warranted at these
+sites.
+Based on the results of the intensive cultural resources survey, it is Horizon’s opinion
+that the development of the Project Area will pose no adverse impacts to significant cultural
+resources and that no further investigations are warranted. Therefore, Horizon recommends
+that cultural resources clearance be granted for the undertaking. However, in the unlikely event
+that any cultural materials (including human remains or burial features) are inadvertently
+discovered at any point during the development of the Project Area, even in previously surveyed
+areas, all work at the location of the find should cease immediately and the THC should be
+notified of the discovery. Additionally, if future development is initiated in the northeastern
+portion of the property, beyond the limits of the current USACE jurisdiction for the development,
+Horizon recommends that an intensive cultural resources survey be conducted before any
+ground-disturbing activities begin.
+
+4
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+2.0
+
+2.1
+
+ENVIRONMENTAL SETTING
+
+PROJECT AREA DESCRIPTION
+
+The Project Area consists of a 479.33-acre tract located approximately 12.3 miles (19.8
+kilometers [km]) southeast of the City of Austin, in southeast Travis County, Texas. It can be
+found on the US Geological Survey (USGS) 7.5’ topographic Montopolis (USGS 1988) and
+Weberville (USGS 1987) quadrangles (see Figure 1). The Project Area will consist primarily of
+a German-designed Formula One Track and its associated constructions. Currently, the Project
+Area is vacant rangeland with active natural gas pipeline and electric transmission line
+easements, and cattle were grazing throughout the property at the time of the cultural survey.
+The Project Area is bounded to the north by Elroy Road, to the east by McAngus Road and to
+the west by Elroy Road. Photographs of the general property are provided in Figures 3 through
+8.
+
+2.2
+
+PHYSIOGRAPHY AND HYDROLOGY
+
+The Project Area consists generally of ridged landforms composed of severely eroded
+gravely clay. The southeastern portion of the Project Area contains hilltops and steep ridges
+that range in elevation from approximately 500.0 to 630.0 feet above mean sea level (amsl)
+(USGS 1987 and 1988). The ridges decrease in elevation from east to west, where the lowest
+elevation is approximately 450.0 feet amsl (USGS 1987 and 1988). The Project Area is located
+within the Suburban Zone of the Dry Creek Watershed (COA 1998) and drainage occurs by
+overland sheet flow in an east-to-west direction towards Dry Creek. In turn, Dry Creek flows
+approximately 9.7 miles (15.5 km) northeast to the Colorado River.
+
+2.3
+
+GEOLOGY AND SOILS
+
+A review of existing literature shows that the site is underlain by the Navarro group,
+Quaternary high terrace deposits, and Quaternary alluvial deposits (Proctor et al. 1981). The
+Navarro geologic group is composed of calcareous clay and marl. Both the Corsicana and
+Kemp geologic formations are included in the Navarro Group. The Corsicana Formation
+represents a maximum thickness of approximately 120.0 feet. It is dark gray to blue-gray in
+color, and is poorly dispersed throughout the Austin area. Located at the base of this formation
+is admixed sand and phosphatic material. The Kemp geologic formation is described as
+montmorillonitic clay with calcareous intervals. It is dark gray or brown in color, and quartz
+siltstone is common between the Corsicana and the bottom of the Kemp Formation. The
+
+HJN 100102 AR
+
+5
+
+Chapter 2.0: Environmental Setting
+
+Figure 3. Typical view of hilltop vegetation in southeastern portion of Project Area
+
+Figure 4. Typical view of lowland ridges in northwestern portion of Project Area
+
+6
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+Figure 5. View of holding pond in western portion of Project Area
+
+Figure 6. View of typical shovel test in Project Area
+
+HJN 100102 AR
+
+7
+
+Chapter 2.0: Environmental Setting
+
+Figure 7. Typical view of ground cover in uplands portion of Project Area
+
+Figure 8. Typical view of lowlands portion of Project Area
+
+8
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+maximum thickness of the Kemp Formation is approximately 350.0 feet. Quaternary high
+terrace deposits are described as unconsolidated gravel, sand, silt, and clay. Quaternary
+alluvial deposits consist of unconsolidated sand, silt, gravel, clay, and cobbles (Garner and
+Young 1976).
+A total of 6 soil types are mapped within the 479.33-acre Project Area. These soils are
+described below in Table 1, and their distribution is mapped in Figure 9 (NRCS 2010):
+Table 1. Soils within the Project Area
+SOIL NAME
+
+SOIL TYPE
+
+SOIL DEPTH
+(INCHES)
+
+UNDERLYING
+MATERIAL
+
+Burleson gravelly clay, 1 to 3%
+slopes (BtB)
+
+Gravelly clay
+
+0 to 6
+
+Clay
+
+Ferris-Heiden complex, 8 to 20%
+slopes (FhF3)
+
+Clay
+
+0 to 36
+
+Silty clay
+
+Heiden clay, 5 to 8% slopes,
+eroded (HeD2)
+
+Clay
+
+0 to 48
+
+Silty clay
+
+Heiden gravelly clay, 8 to 20%
+slopes, eroded (HgF2)
+
+Gravelly clay
+
+0 to 6:
+Gravelly clay
+6 to 48:
+Clay
+
+Silty clay
+
+Houston Black clay, 1 to 3%
+slopes (HnB)
+
+Clay
+
+0 to 80
+
+Clay
+
+Houston Black clay, 3 to 5%
+slopes (HnC2)
+
+Clay
+
+0 to 80
+
+Clay
+
+In general, the geomorphological conditions that prevail within the Project Area suggest
+that any cultural resources would be constrained to the modern ground surface or in erosional
+settings that lack integrity, rather than in buried contexts. Erosion processes are typical of the
+Project Area, and no deep alluvial sediments with the potential of containing buried, intact
+archeological deposits are mapped therein. All things being equal, any cultural resources
+associated with the soils mapped in the Project Area would be expected to occur on the modern
+ground surface in deflated, eroded contexts that lack stratigraphic integrity.
+
+HJN 100102 AR
+
+9
+
+Chapter 2.0: Environmental Setting
+
+Project Area
+boundary
+
+Figure 9. Soil distribution within Project Area (NRCS 2010)
+
+2.4
+
+VEGETATION
+
+The Project Area is situated within the Blackland Prairie vegetational area of Texas
+(Gould 1975). Vegetation is dominated by scrubby woodlands, of which honey mesquite
+(Prosopis glandulosa) is the dominant species. Other vegetation observed throughout the
+subject site includes giant ragweed (Ambrosia trifida), sunflower (Helianthus annuus), prickly
+pear (Opuntia lindheimeri), frostweed (Verbesina virginica), Tasajillo cactus (Opuntia
+leptocaulis), and southern dewberry (Rubus trivialis). Several drainage associated on-channel
+stock ponds and upland stock ponds are located within the Project Area. Within these areas the
+vegetation most often includes black willow (Salix nigra), fiddle dock (Rumex pulcher), water
+primrose (Ludwigia sp.), rattlebush (Sesbania drummondii), spikerush (Eleocharis sp.),
+flatsedge (Cyperus sp.), arrowhead (Sagittaria platyphylla), bulrush (Scirpus sp.), spiny cocklebur (Xanthium spinosum), frog-fruit (Phyla sp.), balloon vine (Cardiospermum sp.), southern
+dewberry (Rubus trivialis), and various sedges (Carex spp.).
+
+10
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+3.0 CULTURAL BACKGROUND
+
+The archeological record of Central Texas spans the known cultural-historical sequence:
+Paleo-Indian, 11,200 to 8000 BP; Archaic, 8000 to 1400 BP; and Late Prehistoric, 1400 to 400
+BP. A brief breakdown of this general sequence is presented below.
+
+3.1
+
+PALEO-INDIAN PERIOD (CA. 11,200 TO 8000 BP)
+
+The Paleo-Indian period is believed to be the earliest cultural occupation in the Central
+Texas region. This stage is characterized typologically by the occurrence of distinctive
+lanceolate projectile points and highly mobile settlement and exploitation patterns. These
+populations probably practiced a foraging (i.e., hunting and gathering) type of subsistence
+(Prewitt 1981; Weir 1976), although the best-known sites exhibit a focus on the exploitation of
+large mammals, including Mammuthus sp. and Bison antiquus. Investigations at sites such as
+the Kincaid Rockshelter, Wilson-Leonard, and Gault have shown that, during the early part of
+the Paleo-Indian, the Clovis stage, subsistence included large herbivores (e.g., mammoth,
+bison, and horse) as well as smaller animals such as water turtles, badgers, and raccoons. A
+multitude of plants are presumed to have also been an important part of the aboriginal diet.
+However, during the later part of the Paleo-Indian period, the Folsom and Plainview stages,
+subsistence seems to have depended more heavily on the specialized hunting of big game,
+particularly bison. This presumption is based on the fact that only camps, stone-working
+locations, and kill sites, mostly in or near grassland habitats, have been documented (Collins
+1995:382). This change was most likely attributable to the climate, which had become warmer
+and drier than the previous Clovis stage.
+
+3.2
+
+ARCHAIC PERIOD (CA. 8000 TO 1400 BP)
+
+The Archaic period, which covers 2/3 of Central Texas prehistory (Collins 1995), is
+divided into 3 subperiods: Early (8000 to 5000 BP), Middle (5000 to 3000 BP), and Late (3000
+to 1400 BP) (Hester 1986). The beginning of the Archaic period in Texas represents a similar
+transition found world-wide at approximately the same time, the most noted indicators being the
+extinction of Pleistocene megafauna and climatic changes. In Texas, there was a gradual
+decrease in moisture and humidity reflecting the intensification of warming and drying trends
+first noted during the Clovis-Folsom transition. An often-quoted response to these climatic
+changes was a greater and more varied use of local resources; in actuality, this was already the
+case in most places. Plant-processing implements such as manos and metates and earth
+
+HJN 100102 AR
+
+11
+
+Chapter 3.0: Cultural Background
+
+ovens become more evident in the archeological record, while the hunting of game continued.
+Although still nomadic, people of the Archaic period restricted their travel to smaller areas than
+did the Paleo-Indian groups.
+3.2.1
+
+Early Archaic (8000 to 5000 BP)
+
+The Early Archaic, the least understood period, is distinguished by the switch from
+Paleo-Indian lanceolate-shaped points to notched-and-stemmed points. Overall, the Early
+Archaic patterns in Texas are fairly similar throughout the state. Hester (1989) observed that,
+prior to 5000 BP, the late Holocene hunters and foragers were essentially indistinguishable in
+terms of subsistence strategies across Region 3, which includes the Central Texas Plateau
+Prairie, South Texas Plains, and Lower Pecos Canyonlands. After that date, regionally
+distinctive projectile points emerge. Hughes (1991) also noted similarities when he wrote that
+the Early Archaic typological developments on the Texas High Plains resembled developments
+in Central and Southwestern Texas as well as in other bordering regions.
+Although settlement patterns for the Early Archaic are little known, it is assumed that the
+population density was low and organized into small bands practicing a mobile, generalized
+subsistence and settlement pattern. The wide distribution of artifacts suggests that mobility was
+high and territories relatively undefined. McKinney (1981), among others, has noted that the
+distribution of Early Archaic sites was apparently concentrated along the Balcones Escarpment.
+This phenomenon may possibly reflect the greater availability of water resources along this
+feature during an arid climatic interval (Hester 1989).
+Sites containing Early Archaic components are open campsites such as Loeve, WilsonLeonard, Richard Beene, Sleeper, Landslide, Granberg II, Jetta Court, and Hall’s Cave. Lithic
+materials found within these components include grinding implements, hammerstones, projectile
+points, a variety of unifacial and bifacial chipped stone instruments, and Clear Fork and
+Guadalupe bifaces. The Clear Fork tools, although indicative primarily of the Early Archaic,
+actually appeared in the Late Paleo-Indian period and, in some regions, lingered into Late
+Archaic and Late Prehistoric times (Hughes 1991).
+3.2.2
+
+Middle Archaic (5000 to 3000 BP)
+
+The Middle Archaic is marked by an increased number of sites, which may reflect an
+expanding population, the development of regionally distinct cultural patterns, and changes in
+settlement, technology, social systems, and territorial boundaries (Black and McGraw 1985:38).
+Hester (1986) suggests that, during this period, the inhabitants of the Balcones Escarpment
+region developed specialized adaptations to the hunting and gathering of abundant regional
+resources, particularly acorns and white-tailed deer.
+Site types include open campsites located near streams or tributaries, lithic workshops in
+upland areas, and special-activity sites such as hunting camps or food-processing stations
+(Black and McGraw 1985). Large burned rock features (hearths and rock ovens) of the early
+part of the Middle Archaic gave way in the later Middle Archaic to burned rock middens (Collins
+1995).
+These latter features have been interpreted as representing several different
+
+12
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+subsistence practices. For example, Hester (1986) proposed that they represent intensive
+utilization of acorns, while Johnson and Goode (1994:26) suggested that they were more
+frequently being used to cook xerophytes such as sotol. This latter explanation has been
+supported by a number of recent investigations where evidence of preserved camas bulbs have
+been recovered within oven and midden contexts (Brownlow 2003, 2004a, 2004b; Bush 2004;
+Dering 1999, 2002; Mauldin et al. 2003; Ricklis and Collins 1994). Middle Archaic projectile
+points include Nolan, Travis, Langtry, and Pedernales (Black 1989), the latter of which is
+considered by Hester (1986) to be diagnostic of this time period in the Balcones Escarpment
+region.
+3.2.3
+
+Late Archaic (3000 to 1400 BP)
+
+The Late Archaic is represented by a continuation, and possibly intensification, of the
+subsistence patterns seen in the Middle Archaic (Hester 1986; Collins 1995). The use of
+burned rock midden sites continued throughout the Middle Archaic, peaking during the latter
+part of this period (Collins 1995). Large cemetery sites are first noted during the Late Archaic
+and may reflect the establishment of territories and subsistence schedules (Black 1989:30;
+Black and McGraw 1985; Story 1985:49). Hester (1986) suggests that the development of
+wide-ranging trade contacts also may have occurred around this time. Characteristic projectile
+points include triangular types such as Lange, Montell, Castroville, and Marcos, along with
+smaller, expanding-stem points such as Ensor, Frio, Darl, and Fairland.
+Although Hester (1986) places the Late Archaic between 3000 and 1400 BP, a later
+carving of the Archaic period by Johnson and Goode (1994) attempts to push back the initiation
+point of the Late Archaic to around 4300 BP. This more recent division is based on what is
+seen as a strong continuity between the material culture and subsistence practices of groups
+utilizing the Pedernales point style and those utilizing the later Montell point style. Primarily,
+Johnson and Goode (1994) point to similarities in the blade shape of these 2 styles, as well as
+similar large, billet-thinned knives utilized during the times of these point styles. They also note
+the continuance of Pedernales period plant baking within existing burned rock middens by later
+groups utilizing Montell points. In fact, they view this continuity as evidence of a distinct culture
+or “folk” on the eastern Edwards Plateau.
+In addition to attempting to push back the initiation date of the Late Archaic period,
+Johnson and Goode (1994) have also attempted to further divide the Late Archaic period into 2
+subperiods (Late Archaic I and Late Archaic II) based on the material cultures as well as climatic
+conditions. Their Late Archaic I subperiod coincides with the Dry Edwards Interval when xeric
+conditions persisted between 4300 and 2600 BP. Diagnostic projectile points of this subperiod
+include the Bulverde, Pedernales, Marshall, Montell, and Castroville styles. The Lange style
+may also correspond to this subperiod based on the recovery of Lange specimens in
+association with both Montell and Castroville specimens at site 41WM815 and dated between
+2800 to 2400 BP (Brownlow 2003). Johnson and Goode (1994:34) note that burned rock
+middens on the Edwards Plateau during the Late Archaic I subperiod are more frequent than in
+any other period. The increase in burned rock middens during this subperiod is undoubtedly a
+result of the xeric climatic conditions that effectively expanded the ranges of certain geophytes
+
+HJN 100102 AR
+
+13
+
+Chapter 3.0: Cultural Background
+
+such as sotol and yucca—foodstuffs that require extended baking periods (in stone-lined ovens)
+in order to break down their starches into edible simple sugars. The xeric conditions likely
+resulted in the spread of grasslands on the plateau, which would have in turn attracted herds of
+buffalo. Plentiful geophytic plants, as well as the presence of buffalo herds, may account for an
+increase in human populations in the region as well (Weir 1976; Prewitt 1985).
+Johnson and Goode’s (1994) Late Archaic II subperiod spans the time period between
+2600 and 1400 BP. They equate this subperiod to more mesic climatic conditions that resulted
+in the active aggradation of floodplains at many localities. The Marcos, Ensor, Frio, and Darl
+dart point styles are viewed as indicators of this subperiod. Observing a break in the broad
+blade stylistic tradition suggested for the Pedernales and Montell styles, Johnson and Goode
+(1994:37) suggest that similarities in the Marcos style dart points to styles on the Southern
+Plains may indicate an influx of new occupants from the Southern Plains or perhaps a borrowing
+of projectile-making techniques from this region. In addition to a perceived influx of new people
+or technologies, Johnson and Goode (1994) also suggest some degree of social intercourse
+with groups from the eastern US. This is evidenced by the recovery of materials such as whelk
+shells and atlatl weights of exotic stone from burials dating to this time period. Although not
+conclusive, Johnson and Goode (1994:37) suggest that these materials may indicate a
+spreading of Eastern religious cult ideas into the region. While it cannot be conclusively stated
+that groups on the Edwards Plateau subscribed to the beliefs and practices of the Eastern
+religions, the evidence does suggest that groups on the plateau participated in extensive trading
+with Eastern groups, primarily contributing large, thin corner-tanged knives made from local
+Edwards chert.
+
+3.3
+
+LATE PREHISTORIC PERIOD (CA. 1400 TO 400 BP)
+
+The Late Prehistoric period is separated from the preceding Archaic by the introduction
+of the bow and arrow and ceramics. Two phases are recognized within this period: the Austin
+(ca. 1400 to 800 BP) and Toyah (ca. 800 to 400 BP) phases. The Austin phase is characterized
+by the transition from the use of the atlatl and dart to that of the bow and arrow and arrow
+points, particularly the expanding-stemmed Scallorn type. This phase is also distinguished by a
+decline in population and changes in settlement practices, in which there was a shift from open
+to protected (rockshelter) sites (Black 1989:32; Collins 1995:385). In spite of these changes,
+most archeologists agree that Late Archaic subsistence practices and settlement patterns
+appear to have continued during the Austin phase (Black 1989; Collins 1995; Prewitt 1974).
+The Toyah phase is characterized by relatively rapid changes in technology, notably
+pottery (both local and imported from the Caddo area); large, thin bifaces; Perdiz (contractingstem) arrow points; and prismatic blades (Black 1989; Collins 1995). Limited horticulture may
+also have begun during this time. The Toyah tool kit was associated with the hunting of bison,
+deer, and antelope, and, although nearly all sites dating to this phase have yielded bison bones,
+deer was the most significant faunal resource during this time (Black 1989:32). Evidence for
+agriculture is seen in the occasional corn cob found at sites such as the Timmeron Rockshelter
+in Hays County. Of course, the corn could also be attributed to the same trade network that
+was bringing in the Caddoan pottery.
+
+14
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+3.4
+
+HISTORIC PERIOD (CA. 400 B.P. TO PRESENT)
+
+The first European incursion into what is now known as Texas was in 1519, when
+Álvarez de Pineda explored the northern shores of the Gulf of Mexico. In 1528, Cabeza de
+Vaca crossed South Texas after being shipwrecked along the Texas Coast near Galveston Bay.
+However, European settlement did not seriously disrupt native ways of life until after 1700. The
+first half of the 18th century was the period in which the fur trade and mission system, as well as
+the first effects of epidemic diseases, began to seriously disrupt the native culture and social
+systems. This process is clearly discernable at the Mitchell Ridge site, where burial data
+suggest population declines and group mergers (Ricklis and Collins 1994) as well as increased
+participation on the part of the Native American population in the fur trade. By the time that
+heavy settlement of Texas began in the early 1800s by Anglo-Americans, the indigenous Indian
+population was greatly diminished.
+The Tonkawa and the Lipan Apache Indians were well established in Central Texas by
+the 14th century, and Comanche and Kiowa tribes arrived in the area by the 18th century 1 . The
+first European known to have crossed the region was Domingo Terán de los Ríos, who made an
+inspection tour to East Texas in 1691. When the Spanish moved their missions out of East
+Texas in 1730, they relocated the missions of San Francisco de los Neches, Nuestra Señora de
+la Purísima Concepción de los Hasinai, and San José de los Nazonis to locations near Barton
+Springs. In 1827, the Mexican government granted Stephen F. Austin his third colony, Little
+Colony, which was located east of the Colorado River and north and west of the Old San
+Antonio Road. Mina (later Bastrop) became the headquarters of the colony, and Travis County
+developed as an offshoot of Mina. Settlers moving into the area in the early 1830s included
+Josiah and Mathias Wilbarger, Reuben Hornsby, Jacob M. Harrell, and John F. Webber. The
+onset of the Texas Revolution delayed further settlement activity, and the news of the fall of the
+Alamo prompted those settlers already in residence to flee.
+Settlement resumed after the revolution, but it proceeded slowly because of the constant
+threat of raids by the Comanche Indians. During the 1830s, a chain of small forts extended
+from Bastrop northwest along Wilbarger’s Bend, Coleman Branch, Webber’s Prairie, and
+Gilleland Creek, to Fort Colorado or Fort Prairie, 8 km (5 miles) east of the site of present-day
+Austin. In June 1835, Thomas Jefferson Chambers surveyed part of an 8-league grant covering
+the present-day site of Austin and the capitol. Sometime before 1837, William Barton settled
+near the springs that were to bear his name. In 1837 or 1838, President Mirabeau B. Lamar
+was on a buffalo hunt in the area and commented on its possibilities as a permanent site for the
+capital. In 1838, the community of Waterloo (later Austin) consisted of 4 families, and about
+20 families established homes at nearby Montopolis in 1839. When the Congress of the
+Republic of Texas chose Waterloo as the site of the new capital, opponents were quick to point
+out the disadvantages—the site's proximity to the frontier, the lack of timber, the poor soil, and
+the threat of Indian raids. In spite of this opposition, however, the new capital—renamed Austin
+
+1
+
+Much of the following historical summary derives from Barkley (1963), Hardy (1938), Humphrey (1985),
+Noize (1990), and Willoughby (1981).
+
+HJN 100102 AR
+
+15
+
+Chapter 3.0: Cultural Background
+
+in honor of Stephen F. Austin—was approved on 19 January 1840. A few days later, the
+Congress established Travis County, naming it in honor of William Barret Travis and making
+Austin its county seat. An election for county officials was held in February 1840, at which time
+the population was reported to be 856. The initial boundaries of Travis County included roughly
+40,000 square miles. Counties that were later carved from Travis County include Callahan
+(1858), Coleman (1858), Comal (1846), Gillespie (1848), Hays (1848), Burnet (1852), Brown
+(1856), Lampasas (1856), Eastland (1858), Runnels (1858), and Taylor (1858). Sam Houston
+moved the government of the Republic of Texas from Austin to Houston when Mexican troops
+invaded San Antonio in March 1842. When he tried to have the government archives removed
+as well, Austin citizens resisted with the Archives War. The Texas Congress held sessions at
+Washington-on-the-Brazos from 1842 to 1845, but the convention that drafted the Constitution
+of 1845 met in Austin in July 1845, and by October the rest of the government had returned to
+the capital city. The first legislature of the new state convened in Austin in February 1846.
+The late 1840s and early 1850s were building years for Austin and Travis County, with
+much of the growth fed by the presence of the state government—the Governor's Mansion,
+office buildings, hotels, new homes, and newspapers. In 1850, Travis County had a population
+of 3,138, of whom 2,336 were white, 791 were slaves, and 11 were free blacks; by 1860, the
+number of residents had more than doubled to 8,080, with 4,931 of them white, 3,136 slaves,
+and 13 free blacks. Although the city of Austin grew faster than the county as a whole—its
+population rose from 629 in 1850 to 3,494 in 1860—most county residents lived in small
+communities. Pflugerville and Del Valle were the most prominent of these communities, but
+rural post offices were also established at Bluff Springs, Webberville, Merrilltown, Gilleland,
+Cage’s Mill, and Hornsby Bend. During the 1850s, the amount of land in farms in what was
+then Travis County increased from 73,300 acres to 1,363,500 acres. Corn was the primary field
+crop, while cattle and sheep were the principal livestock. In 1860, farmers produced
+137,700 bushels of corn and 27,900 bushels of wheat and had 58,000 cattle and 11,800 sheep.
+The earliest schools in Travis County were private institutions that usually met in private
+homes or in space donated by a church or Masonic lodge. More elaborate private facilities
+began to appear by the late 1840s, including Colorado Female College in 1848, Austin Male
+and Female Academy in 1849, Austin Female Academy in 1850, and Austin Collegiate Female
+Institute in 1852. By 1850, Travis County also had 6 public schools serving a scholastic
+population of 183. The county was divided into 19 common school districts in 1852. The state
+established the Asylum for the Blind in Austin in 1856 and the Deaf and Dumb School in 1857.
+Travis County became a center for higher education in the 1880s with the establishment of the
+University of Texas in 1881, Tillotson Collegiate and Normal Institute in 1881, and Saint
+Edward's University in 1885. Samuel Huston College began holding classes in the 1890s. The
+Austin Presbyterian Theological Seminary opened in 1902, Texas Wesleyan College Academy
+in 1912, Concordia Lutheran College in 1926, and the Episcopal Theological Seminary of the
+Southwest in 1952. Austin Community College began operations in 1972. The availability of
+schools resulted in a high level of education for a large portion of the county’s population. In the
+1940s, while more rural areas of the state reported that less than 10% of their population over
+the age of 25 had high school diplomas, nearly 20% of Travis County residents had graduated.
+By 1980, that number had jumped to 75%.
+
+16
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+The earliest churches in Travis County were the Catholic missions relocated to the area
+by the Spanish in 1730, but these were moved to San Antonio in 1731, and it was more than a
+century before any organized religious practices were firmly established. In the 1830s, a variety
+of religious groups began to appear—Methodist circuit riders held services along Gilleland
+Creek in 1837 or 1838; Presbyterians organized a church in Austin in October 1839; Mormons
+settled near Fort Coleman, Webberville, and Hornsby Bend in the late 1830s; and Catholic
+priests, among them Jean Marie Odin, returned to the area in 1840. A Baptist church and a
+Church of Christ were organized in Austin in 1847, a Lutheran church was established in New
+Sweden and a Jewish synagogue in Austin began in 1876, and a Christian Science church
+formed in Austin in 1889. In the early 1980s, Travis County’s 266 churches had an estimated
+combined membership of 194,194; Catholic, Southern Baptist, and United Methodist were the
+largest denominations.
+In spite of the rapid growth that Travis County experienced during the 1850s, the area
+was at that time still very much at the edge of the frontier. The absence of railroads meant that
+goods had to be shipped by wagon to and from Houston and Port Lavaca, and poor roads
+meant that goods sometimes could not be shipped at all. In 1852, the Austin Railroad
+Association was established to encourage railroad construction to the area, and considerable
+progress had been made by the late 1850s; however, the Civil War intervened, and work on
+railroad acquisition was postponed. The Secession Convention convened in Austin on
+28 January 1861. Although a group of Austin citizens staged a demonstration in favor of
+secession, Unionist sentiment was high, and Travis County residents voted against secession,
+704 to 450. Nevertheless, when the Civil War began, Travis County provided several hundred
+volunteers, among them the Travis Rifles, the Tom Green Rifles, the Capitol Guard, and the
+Austin City Light Infantry. In the 2 months between the end of the war and the arrival of federal
+troops in the county, looting of farms and businesses was common. Although the inevitable
+clashes between the Unionist forces and the former rebels resulted in the arrest of as many as
+30 people per day, the presence of federal troops served to curb much of the lawlessness. By
+early 1866, most of the federal soldiers had been mustered out of service, leaving only about
+200 men to police the Austin area until the end of the military occupation in 1870. Austin was
+the site of the constitutional conventions of 1866 and 1868-69 and witnessed both the removal
+of Governor James W. Throckmorton in 1867 and the Coke-Davis Controversy in 1874. In the
+gubernatorial election of 1869, Travis County residents favored Andrew J. Hamilton to Edmund
+J. Davis by a margin of 798 to 593.
+Like most areas in the south, Travis County suffered considerable economic hardship
+immediately after the Civil War and throughout the Reconstruction period. Between 1864 and
+1866, the county as a whole experienced a 49% loss in property tax receipts. Roughly 2/3 of
+this property loss was in slaves, with the rest coming from declines in farm and livestock values,
+each of which fell 25 to 40%. The county began to show signs of recovery by 1880. The overall
+population rose from 13,153 in 1870 to 27,028 in 1880, and the 1880 census reported
+1,912 farms, an increase of 656 over the 1870 totals. The amount of improved land rose from
+83,200 acres in 1870 to 139,800 in 1880. Field crops such as corn, cotton, wheat, and oats
+took up nearly half of the improved farmland, while livestock dominated the rest.
+
+HJN 100102 AR
+
+17
+
+Chapter 3.0: Cultural Background
+
+Economic recovery was facilitated by the arrival of the Houston and Texas Central
+Railway, which completed its track to Austin in 1871, and the International and Great Northern
+Railroad, which was built between Rockdale and Austin in 1876 and completed from Austin to
+Laredo in 1881. The Austin and Northwestern Railroad laid track between Austin and Burnet in
+1882, and the Missouri, Kansas and Texas line arrived in 1904. Communities besides Austin
+that benefited directly from easy railroad access included Pflugerville, Manor, Oak Hill, and
+Manchaca. After the war, many former slaves remained in the area. In the year after the war,
+the black population increased by 60%, while the white population rose by only 12%. By 1870,
+black residents numbered 4,647, comprising 35% of the county's total population. Clarksville,
+Kincheonville, Masontown, and Wheatville were among the communities established by former
+slaves. The number of black residents in Travis County continued to increase steadily, reaching
+13,299 in 1900. It fluctuated between 13,000 and 15,000 from 1900 to 1930, but increased
+rapidly thereafter, rising to 22,493 in 1950, 32,270 in 1970, and 63,173 in 1990. Because other
+segments of the population grew at an even faster rate, the percentage of black residents, with
+respect to the total population, declined significantly, falling to 20% by 1930 and 11% by 1990.
+Contributing to the shift in the ethnic makeup of the county was a variety of immigrant groups,
+the most prominent of which were German, Swedish, and Mexican. By the turn of the century,
+8% of the population was composed of natives of 1 of these countries. Although the early
+Swedish and German settlers contributed to the diversity of Travis County through their religious
+and educational institutions, the Mexican influence was also reinforced by the continued arrival
+of large numbers of new immigrants fleeing the unrest of the Mexican Revolution in the early
+20th century. The 1930 census reported that 10,225 residents, or 13% of the county’s total
+population, were of Hispanic descent; by 1990, the number of Hispanic residents had risen to
+121,689, or 21%.
+In 1890, Travis County had 36,322 residents. Of these, 14,575 lived in Austin, which
+was fast outgrowing its efforts to become a modern city. Innovations and improvements in
+progress at that time included a trolley system and water-generated electricity, but most of its
+streets remained unpaved. By the turn of the century several hundred assorted businesses
+filled the needs of the 22,000 Austin residents. Yet, in spite of this rapid increase in Austin’s
+population, the majority of the county’s residents lived on farms or in smaller towns, and
+agriculture dominated the area economy. Cotton became the principal field crop in the late
+1880s and remained so for more than 60 years. The 1890 census reported 65,000 acres—
+nearly 30% of the county's improved farmland—planted in cotton; by the turn of the century, the
+amount of land devoted to cotton had increased to 113,300 acres, or 56% of the improved
+farmland. However, as more marginal land was used and the soil became depleted, production
+levels fell; in 1930, 143,000 acres produced only 19,000 bales. By the late 1950s, cotton
+accounted for only 26% of the total cropland harvested, and by 1980 it had fallen to only 8%.
+Farm tenancy had increased steadily since the 1890s and peaked in 1930, with tenants
+operating 2/3 of the 3,642 farms. The number of farms fell by more than 1,000 in the 1930s, as
+many tenant farmers either moved away or turned to other occupations. Farmers who remained
+in the area began to devote more of their resources to crops other than cotton and to livestock.
+The number of cattle increased from 32,000 in 1920 and to 51,000 in 1950; the number of
+sheep and goats increased as well, boosting wool and mohair production from 23,600 and
+
+18
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+4,292 pounds, respectively, in 1920, and to 127,800 and 183,600 pounds in 1959. By the late
+1960s, hay and sorghum combined to account for 60% of the cropland harvested.
+The Great Depression was slow to hit Travis County, but, by the mid-1930s, many
+people were unemployed and very glad of the New Deal programs that resulted in work paving
+streets; building bridges, sewers, and parks; and constructing the tower of the University of
+Texas campus. In part because of the job opportunities made available through relief projects,
+state government, and the university community, the population increased by 43% in the 1930s,
+rising from 77,777 in 1930 to 111,053 in 1940. One major job-producing project in the 1930s
+was the construction of a series of dams on the Colorado River. Austin and Travis County had
+begun efforts to tame the Colorado as early as 1869, when the army built a pontoon bridge
+across the river. In 1893, the City of Austin completed a dam designed to provide power for its
+water and electrical systems. By 1899, the city was already experiencing power shortfalls, and
+a major flood in 1900 destroyed the dam. Another flood in 1915 washed out the repairs that
+were underway, and the project was abandoned. The flood of 1935 put much of downtown
+Austin under water, and the area’s interest in a lasting flood-control system was renewed. The
+Lower Colorado River Authority was established and a series of dams was built, forming Lake
+Austin, Lake Travis, Lake Buchanan, Lake Lyndon B. Johnson, Inks Lake, and Lake Marble
+Falls. Travis County also profited from the establishment of several military bases. Camp
+Mabry in northwest Austin, established as the main Texas National Guard facility in 1890,
+served as an army training center during World War I. After the US became involved in World
+War II, the Del Valle Army Air Base, soon renamed Bergstrom Army Air Field, was established
+in southeast Travis County. After the war was over, the presence of military personnel
+continued to bring changes to the county. Thousands of returning veterans enrolled in the local
+colleges and universities, greatly increasing the student population as well as intensifying the
+demand for housing and the growth of service industries.
+In the 1950s and 1960s, Travis County underwent 2 significant developments. The first
+of these was desegregation. The Sweatt v. Painter decision in 1950 pushed the University of
+Texas to the forefront in the fight for civil rights, leading it to become the first southern university
+to admit blacks as undergraduates, although it was not until 1962 that all of the university’s
+facilities were fully integrated. Public schools in Travis County began to follow suit in 1955.
+Local Mexican-American organizations also achieved a measure of success against
+discriminatory practices. Some local businesses resisted these changes, prompting strikes and
+protests in the 1960s, but in the end desegregation was accomplished without the violence
+prevalent in other urban areas of the country. The change became even more visible as blacks
+and Hispanics were elected to public office—Wilhelmina Delco to the school board in 1968 and
+to the Texas House of Representatives in 1976; Berl Handcox to the Austin city council in 1971;
+Richard Moya to the Travis County commissioner’s court in 1970; and Gonzalo Barrientos to the
+Texas House of Representatives in 1974.
+The second major development was the
+establishment of several high-tech industries. In 1951, a small, local company became Texas
+Instruments, and in 1955 Tracor, Incorporated, made Austin its base of operations.
+International Business Machines opened an Austin branch in 1967, followed by Motorola in
+1974. These companies, along with Microelectronics and Computer Technology Corporation
+(1983), Dell Computers (1984), and Sematech (1988), became the county’s largest employers.
+
+HJN 100102 AR
+
+19
+
+Chapter 3.0: Cultural Background
+
+From the end of Reconstruction to the present, most Travis County residents chose to
+support Democratic presidential candidates, with exceptions in 1896, 1928, 1952, 1956, 1972,
+and 1984. Occasionally, a third-party candidate drew a sizable portion of the vote, but only 3 of
+them—the Greenback-Labor candidate in 1880, George Wallace in 1968, and John Anderson in
+1984—garnered sufficient support to affect the county’s overall election results. In state
+elections, Travis County residents were staunchly Democratic. In the early 1980s, 63% of the
+land in Travis County was devoted to farms and ranches. About 23% of the farmland was under
+cultivation, with sorghum, hay, wheat, and cotton accounting for nearly 70% of the 94,000 acres
+harvested; other crops included potatoes, sweet potatoes, peaches, and pecans. Sixty-six
+percent of the county’s $32 million in agricultural receipts came from livestock and livestock
+products, the most important ones being cattle, milk, sheep, wool, and hogs. Although
+agriculture remained an important aspect of the local economy, farm receipts were greatly
+surpassed by the income generated by non-agricultural industries. Professional and related
+services, manufacturing, wholesale and retail trade, and government administration involved
+70% of the work force in the 1980s; of the rest, 7% were self-employed and 3% employed
+outside the county. Since shortly after the turn of the century, the majority of Travis County
+residents had resided in the City of Austin. The jobs made available by the growth of the hightech industries reinforced that trend, and, by 1970, 85% of the 295,516 residents lived in the
+capital city. In the 1970s and 1980s, however, residential development near Lake Travis
+encouraged many people to move away from the city, and although Austin continued to grow at
+a rapid pace, the number of residents choosing to live near the lake and in northern and
+southern suburbs increased at an even faster rate. By 1990, Lago Vista (2,199), Jonestown
+(1,250), Briarcliff (335), Lakeway (4,044), and Pflugerville (4,444) in Travis County, as well as
+Round Rock and even Georgetown in Williamson County, had become popular alternatives to
+living in Austin. Like the rest of Texas, Travis County weathered a serious economic downturn
+in the mid-1980s; newly-built office space sat empty, and many people lost their jobs. Added to
+this was news that Bergstrom Air Force Base was scheduled to close. In the early 1990s,
+however, plans were underway to convert the Bergstrom site into a new municipal airport, and
+the county was looking forward to a period of growth. The population of Travis County was
+reported at 576,407 in 1990, an increase of 37% from 1980. Among the area’s most prevalent
+concerns was that future growth should not destroy the ecological balance of environmentally
+sensitive areas in the western hills.
+
+20
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+4.0 ARCHIVAL RESEARCH
+
+4.1
+
+ARCHIVAL RESEARCH
+
+Archival research conducted on the Texas Historical Commission’s (THC) Texas
+Archeological Sites Atlas (Atlas) database web site indicates a total of 9 archeological sites
+recorded within an approximately 1.0-kilometer (km) (0.6-mile) perimeter of the Project Area
+(THC 2010; Figure 10). All sites occur north and northeast of the Project Area and are
+summarized in Table 2. Their locations relative to the Project Area are presented in Figure 10.
+Table 2. Documented Cultural Resources within 1.0 km of the Project Area
+Site
+Trinomial
+41TV1391
+41TV1392
+
+Site Type
+Historic dumpsite;
+Prehistoric open campsite
+Short-term prehistoric
+campsite
+
+NRHP Eligibility
+Status
+
+Distance/Direction
+from Project Area
+
+Potential to be
+Impacted by
+Project?
+
+Not eligible
+
+1087.7 meters north
+
+No
+
+Not eligible
+
+890.7 meters north
+
+No
+
+41TV1393
+
+Prehistoric quarry
+
+Not eligible
+
+753.1 meters north
+
+No
+
+41TV1394
+
+Historic homestead
+
+Not eligible
+
+1046.4 meters north
+
+No
+
+Not eligible
+
+640.0 meters north
+
+No
+
+Not eligible
+
+1068.0 meters north
+
+No
+
+41TV1395
+41TV1398
+
+Historic farmstead;
+Prehistoric open campsite
+Prehistoric quarry; Shortterm open campsite
+
+41TV1662
+
+Undefined prehistoric
+
+Not eligible
+
+61.1 meters northeast
+
+No
+
+41TV1663
+
+Undefined prehistoric
+
+Not eligible
+
+162.6 meters northeast
+
+No
+
+41TV1664
+
+Undefined prehistoric
+
+Not eligible
+
+554.6 meters northeast
+
+No
+
+Based on the Atlas data, no previously recorded archeological sites, including any listed
+on the NRHP, are located within or immediately adjacent to the boundaries of the Project Area.
+Additionally, no prior cultural resources surveys have been undertaken within the boundaries of
+the Project Area.
+
+HJN 100102 AR
+
+21
+
+Chapter 4.0: Archival Research
+
+Northernmost
+boundary of
+Project Area
+
+Figure 10. Atlas map with location of previously recorded archeological sites (THC 2010)
+
+22
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+5.0 METHODOLOGY
+
+Prior to conducting the field investigations, Horizon consulted with Mr. Skipper Scott of
+the USACE, Fort Worth District. Although the overall tract totals approximately 900.0 acres,
+impacts associated with the proposed Formula One track are contained within the approximate
+southeastern half of the tract. As such, Mr. Scott indicated that the USACE would only be
+taking jurisdiction over the 479.33 acres where the development is currently proposed. These
+479.33 acres comprise what is defined as the Project Area within this document.
+Subsequent to the consultation with the USACE, a Horizon archeological field crew
+completed the intensive pedestrian survey of the Project Area between 26 and 29 October
+2010. Field investigations consisted of an intensive surface inspection and subsurface shovel
+testing throughout the Project Area. The Texas State Minimum Archeological Survey Standards
+(TSMASS) require a minimum of 1 shovel test per 3.0 acres on projects over 200.0 acres in
+size. As such, the 479.33 acres comprising the Project Area required a total of 160 shovel tests
+to comply with the TSMASS. Horizon conducted 175 shovel tests within the Project Area,
+exceeding the minimum survey standards.
+In order to maximize the effect of shovel testing within the 479.33-acre Project Area, field
+crews devised a strategy that concentrated efforts into 5 particular zones (Figure 11). These
+zones delineate topographic features that represent the most likely places in which cultural
+resources were expected to be encountered. In Central Texas, aboriginal archeological sites
+are commonly found in upland areas and on alluvial terraces near stream/river channels and
+springs. Due to the moderate density of previously recorded archeological sites north of the
+current Project Area (see Figure 10) and the Project Area’s relative proximity to the Colorado
+River, the area held at least moderate potential to contain prehistoric cultural resources.
+However, the Project Area is also situated in an erosional setting characterized by gravely clay
+sediments that overlie limestone bedrock on an ancient, Pleistocene-age alluvial terrace
+remnant. No Holocene-age sediments with the potential to contain intact archeological deposits
+are mapped in the Project Area. As such, any cultural resources within the Project Area would
+be expected to occur on the modern ground surface in deflated, eroded contexts or in shallowly
+buried contexts lacking stratigraphic integrity. Therefore, particular attention and priority was
+given to the visual inspection of surface-born material. Historic-age cultural resources occur in
+virtually all physiographic settings, but they are commonly found near major towns and adjacent
+to historic-age roadways.
+
+HJN 100102 AR
+
+23
+
+Chapter 5.0: Methodology
+
+1
+2
+3
+4
+5
+
+Figure 11. Five topographic areas created to delineate zones of high probability for
+cultural resources within Project Area (USGS 1987 and 1988)
+A selective-collection strategy was employed during the survey efforts. If any nondiagnostic cultural materials (e.g., shell, lithic debitage, etc.) were observed on the surface or
+within shovel tests, they were to be tabulated and described in the field and then subsequently
+returned to where they were found. Diagnostic cultural materials (e.g., projectile points,
+charcoal, historic materials with maker’s marks, etc.) were to be collected for analysis and
+further documentation. Field notes were maintained on terrain, vegetation, soils, land forms,
+shovel tests, cultural material observed (if any), etc. Digital photographs with a photo log were
+also completed as appropriate. A handheld GPS unit utilizing the UTM coordinate system and
+the NAD 83 map datum was used to record pertinent location data. The locations of the
+excavated shovel tests are presented in Figure 12. Shovel test data are provided in Appendix
+A.
+
+24
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+Figure 12. Location of shovel tests within the Project Area
+
+HJN 100102 AR
+
+25
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+6.0 RESULTS AND RECOMMENDATIONS
+
+6.1
+
+RESULTS
+
+The cultural resources survey resulted in the documentation of 2 abandoned historic
+farmsteads (sites 41TV2386 and 41TV2387) and 1 prehistoric hilltop lithic procurement area
+(site 41TV2388). Each of these sites is described in detail below.
+6.1.1
+
+Site 41TV2386
+
+General Site Description
+Site 41TV2386 was documented as a small historic farmstead located north of Piland
+Triangle, a road that defines a portion of Project Area’s southern boundary (Figures 13 and 14).
+Based on the extent of features and specimens, the overall dimensions of the site span
+approximately 50 meters (m) (164.0 feet [ft]) north-south by 40 m (131.2 ft) east-west. The site
+is located on a flat hilltop that reduces to a thin ridge that slopes gently into an unnamed
+drainage to the north. In turn, this drainage flows further north to Dry Creek, located
+approximately 0.5 miles (0.8 km) northwest of the site.
+Observed Cultural Features on Site 41TV2386
+The central feature of site 41TV2386 is the remnants of a house structure that has been
+razed and pushed into a central refuse pile (Figures 15 and 16). The pile measures
+approximately 5.0 m (16.4 ft) by 10.0 m (32.8 ft) in size and includes fragments of dimensional
+lumber, corrugated metal, bricks, barbed wire, cinderblocks, and modern-aged plastic trash
+(Figure 17). Approximately 20.0 m (65.6 ft) north of the refuse pile is the crumbling foundation
+of an outbuilding that has no standing structural elements (Figure 18). The foundation
+measures roughly 2.5 m (8.2 ft) by 2.5 m in size.
+Approximately 30 m (98.4 ft) southwest of the refuse pile, along the fence that delineates
+a portion of the Project Area’s southern boundary, is a fenced coral made of cedar posts that
+measures approximately 5.0 m (16.4 ft) by 10.0 m (32.8 ft) (Figure 19). The coral is located on
+the western side of a barbed wire fence that runs along the western periphery of site 41TV2386.
+Because most of the fence has deteriorated, it is difficult to assess whether the area to the west
+of the fence was a separate property, or whether the property was owned and operated by the
+residents of the remnant farmstead. A tubular metal gate (Figure 20) accesses site 41TV2386
+
+HJN 100102 AR
+
+27
+
+Chapter 6.0: Results and Recommendations
+
+Site
+Site 41TV2386
+41TV2386
+
+Figure 13. Location of site 41TV2386
+
+28
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+Figure 14. Sketch map of site 41TV2386
+
+HJN 100102 AR
+
+29
+
+Chapter 6.0: Results and Recommendations
+
+Figure 15. Razed structure on site 41TV2386
+
+Figure 16. Another view of the razed structure on site 41TV2386
+
+30
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+Figure 17. Some contents of refuse pile on site 41TV2386
+
+Figure 18. Associated concrete foundation on site 41TV2386
+
+HJN 100102 AR
+
+31
+
+Chapter 6.0: Results and Recommendations
+
+Figure 19. Corral on site 41TV2386
+
+Figure 20. Metal gate entering site 41TV2386 from Piland Triangle
+
+32
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+from Piland Triangle, and a north-south oriented 2-track dirt road enters the property from the
+gate and passes through the site’s western perimeter, approximately 15.0 m (49.2 ft) west of the
+razed farmstead.
+Deed Research
+The property on which site 41TV2386 is located is near the small town of Elroy, Texas
+(also known as Driskill, Dutch Waterhole, or Hume), a small community established in 1892 and
+named by a local storeowner after his son Leroy (Smyrl 2011). In 1899, Elroy opened a post
+office, and George L. Hume became its postmaster. The post office was closed in 1902, and
+mail began to route through nearby Del Valle. A deed search conducted by Real Property
+Services (see Appendix B) for Horizon indicates the property on which site 41TV2386 is located
+was owned by J.L. Hume and G.L. Hume. Presumably, the latter is the same person who
+served as Elroy’s first postmaster. Beginning in 1898, the Humes sold segments of the property
+to David McAngus, the family of whom retained ownership in one form or another until it was
+sold in 2010 to an entity of Accelerator Holdings, LLC.
+Observed Specimens on Site 41TV2386
+Debris associated with the razed farmstead seems to suggest the site was constructed
+and occupied sometime in the early to mid 1900s. Very little remains of the farmstead structure
+itself, but nails used in and around the farmstead are exclusively round wire nails (Figure 21). In
+general, wire nails are used in buildings after 1900, when the first coils of steel round nails were
+produced (GSNC 2002). The Bessemer process, which greatly reduced the cost of producing
+soft steel during the 1880s, quickly replaced iron hand-wrought and cut nails (Visser 1996).
+According to Visser (1996), by 1886, 10% of nails produced in the US were made of soft steel
+wire. Within 6 years, more steel-wire nails were produced than iron-cut nails. By 1913, 90% of
+nails produced in the US were wire nails.
+Observed cultural materials on this site consisted predominantly of domestic refuse in
+the form of small fragments of glass and historic ceramics. Other observed specimens include
+a soda bottle, a stainless steel butter knife, a metal door strike-plate, ceramic insulators, a small
+grinding wheel, and a brick fragment (Figures 22 to 25). Of the specimens observed, 9 are
+useful in determining the temporal periods associated with the occupation. These are
+selectively numbered throughout Figures 22 to 25 and listed accordingly in Table 3, where they
+are described and given possible ranges in date. Overall, the cultural materials suggest an
+occupation of the site as early as the 1850s based on the age range of the observed brick
+specimen. However, 7 of the 9 diagnostic specimens suggest a likely age range between the
+early 1900s to the present.
+Summary of Site 41TV2386
+Site 41TV2386 appears to be the remnants of a small farmstead that may have been
+occupied as early as the 1850s based on the age range of the recovered brick specimen on the
+site (see Table 3). However, given the isolated nature of the brick (on which that date is based),
+it is more likely that the farmstead was constructed in the late 1890s or early 1900s, during the
+
+HJN 100102 AR
+
+33
+
+Chapter 6.0: Results and Recommendations
+
+Figure 21. Round-headed wire nails used in construction of house on site 41TV2386
+
+1
+
+3
+
+2
+
+5
+
+4
+
+Figure 22. Glass fragments found on site 41TV2386
+
+34
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+6
+
+Figure 23. Royal Crown Cola bottle found next to corral on site 41TV2386
+
+7
+
+8
+
+Figure 24. Assorted specimens on site 41TV2386
+
+HJN 100102 AR
+
+35
+
+Chapter 6.0: Results and Recommendations
+
+9
+
+Figure 25. Evens & Howard fire brick found on site 41TV2386
+Table 3. Diagnostic specimens on site 41TV2386
+Specimen
+Number
+
+Description
+
+Date
+
+Citation
+
+1
+
+Shampoo/Perfume Bottle Base Fragment
+(Helene Curtis Industries, Inc.)
+
+1927-Present
+
+FundingUniverse 2011
+
+2
+
+Glass Fragment (Hazel-Atlas Glass
+Company)
+
+1923-1964
+
+Whitten 2010
+
+3
+
+Machine-Made Screw Top Bottle Fragment
+
+Circa 1938
+
+O’Dell 2007
+
+4
+
+Manganese Dioxide Infused Glass Fragment
+
+Late 1800s to 1915
+
+Henderson 2010
+
+5
+
+Starlight Patterned Milk Glass Plate
+Fragment (Hazel-Atlas Glass Company)
+
+1938-1940
+
+C. Florence and G.
+Florence 1998
+
+6
+
+Royal Crown Cola Bottle
+
+Early 1970s
+
+Flickr® 2010
+
+7
+
+Stainless Steel Knife
+
+1913-Present
+
+Huebner 2002
+
+8
+
+Hollow Core Glazed Porcelain “Post”
+Insulator
+
+1940-Present
+
+Berry 1995
+
+9
+
+Fire Brick Fragment (Evens & Howard)
+
+1850s-1930s (more
+likely 1880s-1930s)
+
+Corbett 2010a, 2010b
+
+36
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+time McAngus first began acquiring parcels of the property from the Humes. Indeed, 7 of the 9
+diagnostic specimens collected during the investigation of site 41TV2386 bear out this
+estimation. Collectively, the specimens signal a date of early occupation at the site starting
+around 1913 and stretching into the mid to late 1900s. Although 3 diagnostic specimens (the
+fire brick fragment, the manganese dioxide infused glass fragment, and round-headed wire
+nails) have possible dates earlier than 1913, their end ranges still occur after that date.
+The abandonment and razing of the farmstead is difficult to ascertain because none of
+the property’s original owners could be contacted for interviews. However, aerial photographs
+from the mid 1980s (COA 1984, 1987) and a topographic map from 1988 (USGS) show a visible
+structure at the location of site 41TV2386. By the early 2000s the structure is no longer there
+(CAPCOG 2002).
+Based on the observed diagnostic specimens, the chain of title, and various topographic
+maps and aerial photographs, it is Horizon’s estimation that the farmstead was constructed
+during the early 1900s and occupied until the mid to late 1980s. An intensive search of the
+McAngus and Hume surnames—those individuals who originally sold or occupied the
+property—revealed no person, past or present, who had a prominent historical significance.
+Similarly, no historically significant event associated with these surnames or the location of site
+41TV2386 was found to exist. As such, it is Horizon’s opinion that site 41TV2386 is ineligible
+for inclusion on the NRHP under Criteria B and C. Additionally, based on the site’s overall lack
+of integrity and the lack of stratified buried cultural deposits, it is Horizon’s opinion that site
+41TV2386 is ineligible for inclusion on the NRHP under Criteria A and D. As such, Horizon
+recommends no additional investigations on this site.
+6.1.2
+
+Site 41TV2387
+
+General Site Description
+Site 41TV2387 was documented as a small historic farmstead located approximately
+322.0 m (1056.4 ft) north of site 41TV2386, on what would have been the same parcel of land
+as the latter (Figures 26 and 27). Based on the extent of debris, its overall dimensions are
+approximately 50.0 m (164.0 ft) north-south by 40.0 m (131.2 ft) east-west. The site is located
+on a gently sloping ridge approximately 35.0 m (114.8 ft) east of a small, unnamed drainage. In
+turn, this drainage flows north to Dry Creek, which is located approximately 0.9 km (0.57 miles)
+northwest.
+Observed Cultural Features on Site 41TV2387
+The central feature of this farmstead consists of a collapsed house that has been
+partially destroyed by relatively recent activity (Figures 28 to 30), so assessing the farmstead’s
+original layout is difficult. The collapsed farmstead was built just inside and to the west of 2
+wooden posts with attached barbed-wire (Figure 31). No associated specimens or features are
+found east of this boundary. While the house seems to have been constructed with dimensional
+lumber, corrugated metal, and other relatively modern building materials, the structure is
+collapsed and lacks integrity. The only other visible feature is a pit (Figure 32) that is generally
+
+HJN 100102 AR
+
+37
+
+Chapter 6.0: Results and Recommendations
+
+Site 41TV2387
+
+Figure 26. Location of site 41TV2387
+
+38
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+Figure 27. Sketch map of site 41TV2387
+
+Figure 28. Collapsed structure on site 41TV2387
+
+HJN 100102 AR
+
+39
+
+Chapter 6.0: Results and Recommendations
+
+Figure 29. Another view of collapsed structure on site 41TV2387
+
+Figure 30. Path cleared by recent activity on site 41TV2387
+40
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+Barbed-wire
+
+Northernmost
+fence post
+
+Southernmost
+corner fence
+post
+
+Figure 31. Property line that bounds south and southwestern portions of site 41TV2387
+
+Collapsed
+farmstead
+
+Pit feature
+
+Figure 32. Well feature (foreground) north of house (background) on site 41TV2387
+
+HJN 100102 AR
+
+41
+
+Chapter 6.0: Results and Recommendations
+
+round and measures approximately 2.0 m (6.5 ft) deep by 2.0 m in diameter (see Figure 32).
+The pit is located 15.0 m (49.2 ft) north of the collapsed farmstead and appears to be an
+abandoned well.
+Site 41TV2387 is located on the same property as site 41TV2386. It is unclear when the
+farmstead might have collapsed or abandoned as it could not be found on any topographic
+maps of the area (PCL 1955, 1966, 1973, 1988, 2008). However, it can be seen on aerial
+photographs as recently as the mid 1980s (COA 1984, 1987). Both sites are unidentifiable on
+later aerial photographs (CAPCOG 2002), so they probably were abandoned at the same time.
+Observed Specimens on Site 41TV2387
+The farmstead is surrounded by scattered domestic debris consisting of a variety of
+historic ceramic fragments, glass, metal fragments/nails, a ceramic insulator, and a beer bottle.
+The observed specimens generally range in date from the early to mid 1900s. Only one
+specimen (a Majolica ceramic plate fragment) has a date that may be earlier, between 18001900 (FMNH 2011). In general, the site contains an assortment of non-diagnostic fragments of
+glass, porcelain ware, course earthenware, stoneware, and plain white glazed ware that
+includes transfer ware and decal over glaze patterns (Figures 33 and 34). All evaluated
+specimens lack general characteristics usually attributed to ceramics manufactured before 1900
+(NATAMU 2010). Of the cultural specimens collected for evaluation, 9 are considered to be
+diagnostic. These are selectively numbered throughout Figures 33 to 36 and listed accordingly
+in Table 4, where they are described and given possible ranges of date.
+Table 4. Diagnostic specimens on site 41TV2387
+Specimen
+Number
+
+Description
+
+Date Range
+
+Citation
+
+1
+
+Majolica Ceramic Plate Fragment (Type: Esquitlan
+Green on Yellow)
+
+1800-1900
+
+FMNH 2011
+
+2
+
+2 X Manganese Dioxide Infused Glass Fragments
+
+Late 1800s to
+1915
+
+Henderson 2010
+
+3
+4
+
+42
+
+Cobalt Blue Screw Top Jar Fragment (Likely Vicks
+VaporRub)
+Starlight Patterned Clear Glass Plate Fragment
+(Hazel-Atlas Glass Company)
+
+1907-Present
+1938-1940
+
+O’Dell 2007; Patterson
+2009
+C. Florence and G.
+Florence 1998
+
+5
+
+Milk Glass Musterole Jar Base Fragment (HazelAtlas Glass Company)
+
+1923-1964
+(Likely from
+1920s)
+
+Whitten 2010;
+Cyberattic.com 2011
+
+6
+
+Crown Top Bottle Cap
+
+1921-Present
+
+O’Dell 2007
+
+7
+
+Round-Headed Wire Nail
+
+1900-Present
+
+GSNC 2002; Visser 1996
+
+8
+
+Hollow Core Glazed Porcelain “Post” Insulator
+
+1940-Present
+
+Berry 1995
+
+9
+
+Tear-Drop Shaped Bottle (Michelob Beer,
+Anheuser-Busch)
+
+1962-Present
+
+CEE 2007
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+1
+
+Figure 33. Assorted specimen fragments found on site 41TV2387
+
+3
+
+4
+
+2
+
+5
+
+Figure 34. Glass fragments found on site 41TV2387
+
+HJN 100102 AR
+
+43
+
+Chapter 6.0: Results and Recommendations
+
+7
+6
+8
+
+Figure 35. Assorted unbroken specimens on site 41TV2387
+
+9
+Figure 36. Intact bottle found on site 41TV2387
+
+44
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+Summary of Site 41TV2387
+The age ranges of the recovered specimens from site 41TV2387 support the idea that it
+and site 41TV2386 may have had interwoven purpose and similar use-lives. Five of the 9
+diagnostic specimens from site 41TV2387 have production ranges that begin after 1913, which
+is the date estimated for the early occupation of the farmstead on site 41TV2386. However, like
+the diagnostic specimens from the other site, all but 1 of them on site 41TV2387 have ranges
+still occurring after 1913. The Majolica ceramic plate fragment from 1800 to 1900 is also the
+only fragment from either site (non-diagnostic and diagnostic) that has its origin in Mexico.
+At the risk of oversimplifying the complexities inherent in concepts of agency and
+identity, a plate such as this might have held special significance for its owner. Much like family
+heirlooms that ground people in a sense of tradition and familial obligation, this one exceptional
+specimen might have reminded the owner of home. The farmstead’s absence on topographic
+maps and the very real possibility that employees of farms and ranches during the 1900s were
+often Hispanic in origin may offer a plausible scenario for why this otherwise inconsistent
+specimen fits well on site 41TV2387.
+Based upon the same evidence provided for site 41TV2387 (i.e., observed diagnostic
+specimens, chain of title, and various topographic maps and aerial photographs), it is Horizon’s
+estimation that the farmstead was constructed during the early 1900s and occupied until the mid
+to late 1980s. However, there exists very little future research potential for site 41TV2387, as
+the farmstead is collapsed and cannot be properly assessed or evaluated, and its occupants
+(probably employees of the property owners) are unknown through chain of title. Based on the
+lack of association with a person of historical significance or a historically significant event
+associated with the location, it is Horizon’s opinion that site 41TV2387 is ineligible for inclusion
+on the NRHP under Criteria B and C. Additionally, based on the site’s overall lack of integrity
+and the lack of stratified buried cultural deposits, it is Horizon’s opinion that site 41TV2387 is
+ineligible for inclusion on the NRHP under Criteria A and D. As such, Horizon recommends no
+additional investigations on this site.
+6.1.3
+
+Site 41TV2388
+
+General Site Description
+Site 41TV2388 was recorded as a moderately dense lithic scatter located on a hilltop in
+the southern portion of the Project Area (Figures 37 through 39). Based on the extent of the
+lithic surface materials, the site’s overall dimensions are approximately 30 m (98.4 ft) northsouth by 30 m east-west. The site is confined to a hilltop that slopes rather sharply into
+unnamed drainages to the northeast and west. In turn, these drainages flow north to Dry Creek,
+which is located approximately 0.8 miles (1.3 km) from the site. The hill is bounded to the
+south, east, and west by a modern barbed wire fence, although the lithic specimens were not
+found to extend to this fence line. As such, the site was delineated completely within the
+boundaries of the Project Area rather than as a portion of a larger site that might extend beyond
+the boundaries of the current Project Area.
+
+HJN 100102 AR
+
+45
+
+Chapter 6.0: Results and Recommendations
+
+Site 41TV2388
+
+Figure 37. Location of site 41TV2388
+
+46
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+Figure 38. Map of site 41TV2388
+
+HJN 100102 AR
+
+47
+
+Chapter 6.0: Results and Recommendations
+
+Figure 39. View of site 41TV2388
+
+Observed Cultural Features on Site 41TV2388
+With the exception of a modern 2-track road and barbed wire fence, no cultural features
+were observed on site 41TV2388.
+Observed Specimens on Site 41TV2388
+The observed cultural materials consist of chert specimens indicative of the various
+stages of the lithic reduction sequence (Figure 40). Most of the specimens consisted of tertiary
+flakes, although both primary and second flakes were present within the observed assemblage.
+Additionally, 1 chert core and 1 bifacially flaked implement were observed on this site (Figure
+41). However, no temporally diagnostic implements were observed on the site. Based on the
+observed materials, this lithic scatter appears to represent a prehistoric lithic procurement site
+that may have been used sporadically throughout prehistory. Except for 1 piece of lithic
+debitage found in the only positive shovel test on the site, all observed artifacts were confined to
+surface contexts. Because of the shallow clay deposits, there exists no potential for deeply
+buried deposits.
+
+48
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+Figure 40. Lithic debitage on site 41TV2388
+
+Figure 41. Lithic core and biface from site 41TV2388
+
+HJN 100102 AR
+
+49
+
+Chapter 6.0: Results and Recommendations
+
+Summary of Site 41TV2388
+Site 41TV2388 was documented as a small lithic procurement site on a hilltop high
+above Dry Creek. The entire surface of the site consists of rocky clays and marl deposits with
+no potential for deeply buried deposits. While lithic procurement sites are often extensive in
+nature, the limits of 41TV2388 were found to be contained well within the limits of the
+boundaries of the current Project Area. As such, the site was delineated completely within the
+boundaries of the Project Area rather than as a portion of a larger site that might extend beyond
+the boundaries of the current Project Area. Based on the lack of temporally diagnostic artifacts
+observed on site 41TV2388 as well as the lack of potential for buried cultural deposits, it is
+Horizon’s opinion that the further investigation of the site will not contribute positively towards
+providing information that is pertinent to the prehistoric past. As such, it is Horizon’s opinion
+that site 41TV2388 is ineligible for inclusion on the NRHP under Criterion D.
+
+6.2
+
+RECOMMENDATIONS
+
+The survey of the 479.33-acre Project Area resulted in the documentation of 2 historic
+farmsteads (41TV2386 and 41TV2387) and 1 prehistoric lithic procurement area (site
+41TV2388). Site 41TV2386 consists of a razed house with an associated fenced coral and
+outbuilding foundation made of concrete. The farmstead is surrounded by scattered debris
+ranging in date from the early to late 1900s. Site 41TV2387 consists of a collapsed farmstead
+that has been partially destroyed by recent clearing activities. This farmstead is also
+surrounded by scattered debris ranging in date from the early to late 1900s. Site 41TV2388 is a
+prehistoric hilltop lithic procurement area consisting of numerous pieces of lithic debitage, 1
+bifacial specimen, and 1 chert core. Based on the lack of integrity and the lack of potential for
+buried, stratified cultural deposits, it is Horizon’s opinion that all 3 sites do not qualify for
+inclusion on the NRHP under Criteria A and D. Similarly, based on the lack of association of
+sites 41TV2386 and 41TV2387 with a person or event of historical significance, it is Horizon’s
+opinion that these 2 sites also do not qualify for inclusion on the NRHP under Criteria B and C.
+As such, it is Horizon’s overall opinion that sites 41TV2386, 41TV2387, and 41TV2388 are all
+ineligible for inclusion on the NRHP and that no further investigations are warranted at these
+sites.
+Based on the results of the intensive cultural resources survey, it is Horizon’s opinion
+that the development of the Project Area will pose no adverse impacts to significant cultural
+resources and that no further investigations are warranted. Therefore, Horizon recommends
+that cultural resources clearance be granted for the undertaking. However, in the unlikely event
+that any cultural materials (including human remains or burial features) are inadvertently
+discovered at any point during the development of the Project Area, even in previously surveyed
+areas, all work at the location of the find should cease immediately and the THC should be
+notified of the discovery. Additionally, if future development is initiated in the northeastern
+portion of the property, beyond the limits of the current USACE jurisdiction for the development,
+Horizon recommends that an intensive cultural resources survey be conducted before any
+ground-disturbing activities begin.
+
+50
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+7.0 REFERENCES CITED
+
+US Army Map Service
+1953
+Aerial Photography, Travis County, Texas.
+Barkley, M.S.
+1963
+History of Travis County and Austin, 1839-1899. Texian Press, Waco.
+Black, S.L.
+1989
+Central Texas Plateau Prairie. In From the Gulf to the Rio Grande: Human
+Adaptation in Central, South, and Lower Pecos Texas by T.R. Hester, S.L. Black,
+D.G. Steele, B.W. Olive, A.A. Fox, K.J. Reinhard, and L.C. Bement, pp. 17-38.
+Research Series No. 33. Arkansas Archeological Survey, Fayetteville.
+Black, S.L., and A.J. McGraw
+1985
+The Panther Springs Creek Site: Cultural Change and Continuity within the Upper
+Salado Creek Watershed, South-Central Texas. Archeological Survey Report No.
+100, Center for Archeological Research, University of Texas at San Antonio.
+Brownlow, R.K.
+2003
+Archeological Investigations at 41WM815, A Blackland Prairie Site, Williamson
+County, Texas. Studies in Archeology 36, Texas Archeological Research Laboratory,
+The University of Texas at Austin and Archeological Studies Program, Report 23,
+Environmental Affairs Division, Texas Department of Transportation.
+2004a
+
+National Register of Historic Places Eligibility Testing of 2 Sites (41WM650 and
+41WM651) Located within the Cedar Park Town Center Development, Cedar Park,
+Williamson County, Texas. HJN 040024 AR. Horizon Environmental Services, Inc.,
+Austin, Texas.
+
+2004b
+
+Data Recovery Investigations at the Holt Site (41HY341), San Marcos, Hays County,
+Texas. HJN 040032 AR. Horizon Environmental Services, Inc., Austin, Texas.
+
+Bush, L.L.
+2004
+Macrobotanical Remains from Site 41MM341 Milam County, Texas, Draft Report,
+Prewitt and Associates, Inc., Austin, Texas.
+
+HJN 100102 AR
+
+51
+
+Chapter 7.0: References Cited
+
+Capitol Area Council of Governments (CAPCOG)
+2002
+Orthoimagery, Montopolis, Texas, southeast quarter quadrangle. CAPCOG Center
+for Regional Development, Austin, Texas.
+CEE Packaging (CEE)
+2007
+“New Bottle for Beer.” <http://www.ceepackaging.com/2007/02/10/new-bottle-forbeer/>. Accessed 5 January 2011.
+City of Austin (COA)
+1984
+Aerial Photograph. Frame P-10.
+1987
+
+Aerial Photograph. Montopolis-Southeast ¼ Quad. Flown by UAM.
+
+1998
+
+Austin Watershed Regulation Areas. Austin, Texas: City of Austin, Department of
+Planning and Development.
+
+Collins, M.B.
+1995
+Forty Years of Archeology in Central Texas. Bulletin of the Texas Archeological
+Society, Volume 66, pp. 361-400.
+Corbett, Bob
+2010a Personal communication between Reymundo Chapa (Horizon) and Bob (Corbett)
+regarding the chronology of fire bricks made by Evens & Howard Fire Brick Company
+(St Louis, Missouri) in the late 1800s and early 1900s, 4 November 2010.
+2010b
+
+“All about bricks,” Bob Corbett’s Dogtown Homepage. <http://www.webster.edu/
+~corbetre/dogtown/dogtown.html>. Accessed 4 October 2010.
+
+Cyberattic.com
+2011
+“1920's Milk Glass Musterole Jar by Hazel Atlas.” <http://www.cyberattic.com/
+stores/pasttreasures/items/781617/item781617cyberattic.html>. Accessed 4 January
+2011.
+Dering, P.
+1999
+Earth-Oven Plant Processing in Archaic Period Economies: An Example from a
+Semi-Arid Savannah in South-Central North America. American Antiquity 64 (4):
+659-674.
+2002
+
+Plant Remains from the Armstrong Site, 41CW54 in Data Recovery at the Armstrong
+Site (41CW54) Caldwell County, Texas. Volume 1: Background, Methods, and Site
+Context. Volume 2: Cultural Interpretations. Texas Antiquities Permit #2250. Paul
+Price and Associates Inc. Austin, Texas.
+
+Flickr® from Yahoo® (Flickr®)
+2010
+“1974-75 Kentucky Colonels ABA Royal Crown Cola ‘RC’ bottles.” <http://www.flickr.
+com/photos/30680837@N03/4537699325/>. Accessed 4 November 2010.
+Florida Museum of Natural History (FMNH)
+2011
+“Esquitlan Green on Yellow – Type Index.” Introduction to Ceramic Identification, the
+Florida Museum of Natural History.
+<http://www.flmnh.ufl.edu/histarch
+
+52
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+/gallery_types/type_index_display.asp?type_name=ESQUITLAN%20GREEN%20ON
+%20YELLOW>. Accessed 5 January 2011.
+FundingUniverse
+2011
+“Helene Curtis Industries, Inc.” <http://www.fundinguniverse.com/company-histories/
+Helene-Curtis-Industries-Inc-Company-History.html>. Accessed 5 January 2011.
+Garner, L.E., and K.P. Young
+1976
+Environmental Geology of the Austin Area: An Aid to Urban Planning. Report of
+Investigations 86. The University of Texas at Austin, Bureau of Economic Geology,
+Austin.
+Glasgow Steel Nail Company, Ltd. (GSNC)
+2002
+“The History of Nail Making.” Adapted from article entitled “Traditional Cut Nails:
+worth preserving?”, published originally on May 2002 in the RICS Building
+Conservation
+Journal.
+<http://www.glasgowsteelnail.com/nailmaking.htm>.
+Accessed 3 January 2011.
+Gould, F.W.
+1975
+Texas Plants – A Checklist and Ecological Summary. College Station: Texas A&M
+University.
+Hardy, A.W.
+1938
+A History of Travis County, 1832-1865.
+Texas.
+
+Unpublished M.A. thesis, University of
+
+Henderson, Elaine
+2010
+“Shedding Light on ‘Sun Purple’ Glass,” Early American Pattern Glass, 1850-1910.
+<http://www.patternglass.com/sunPurple/index.htm.> Accessed 4 October 2010.
+Hester, T.R.
+1986
+Early Human Populations Along the Balcones Escarpment.
+Escarpment, Geological Society of America.
+1989
+
+In The Balcones
+
+An Archeological Synthesis. In From the Gulf to the Rio Grande: Human Adaptation
+in Central, South, and Lower Pecos Texas by T.R. Hester, S.L. Black, D.G. Steele,
+B.W. Olive, A.A. Fox, K.J. Reinhard, and L.C. Bement, pp. 115-128. Research
+Series No. 33. Arkansas Archeological Survey, Fayetteville.
+
+Huebner, M.L.
+2002
+“The History of Cutlery.” Canada Cutlery, Inc. <http://www.canadacutlery.com/
+product/facts_about_history1.pdf>. Accessed 1 January 2011.
+Hughes, J.T.
+1991
+Prehistoric Cultural Developments on the Texas High Plains. Bulletin of the Texas
+Archeological Society, Volume 60/1989 (published in 1991), pp. 1-55, Austin, Texas.
+Humphrey, D.C.
+1985
+Austin: An Illustrated History. Windsor, Northridge, California.
+
+HJN 100102 AR
+
+53
+
+Chapter 7.0: References Cited
+
+Johnson, L., Jr., and G.T. Goode
+1994
+A New Try at Dating and Characterizing Holocene Climates as well as Archeological
+Periods on the Eastern Edwards Plateau. Bulletin of the Texas Archeological
+Society, Volume 65, pp. 1-51, Austin, Texas.
+Mauldin, R.P., D.L. Nickels, and C.J. Broehm
+2003
+(Draft) Archaeological Testing to Determine the National Register Eligibility Status of
+Prehistoric Sites on Camp Bowie, Brown County, Texas, Archeological Survey
+Report 334, Center for Archeological Research, the University of Texas at San
+Antonio.
+McKinney, W.W.
+1981
+Early Holocene Adaptations in Central and Southwestern Texas: The Problem of the
+Paleoindian-Archaic Transition. Bulletin of the Texas Archeological Society, Volume
+52, pp. 91-120.
+Natural Resources Conservation Service (NRCS)
+2010
+Web Soil Survey. <http://websoilsurvey.nrcs.usda.gov/app/WebSoilSurvey.aspx>.
+Accessed October 2010.
+Nautical Archeology at Texas A&M University (NATAMU)
+2010
+“PERIOD VI: 1820s - 1900s,” Evolution of English Household Tableware.
+<http://nautarch.tamu.edu/class/313/ceramics/period-6.htm>. Accessed 4 November
+2010.
+Noize, E.A.
+1990
+Austin: Deep in the Heart of Texas. National Geographic, June.
+O’Dell, D.
+2007
+“Dating Bottles by Their Tops and Bases: 1920-1940 Screw Top Bottles.”
+<http://www.bottlebooks.com/Dating%20Old%20Bottles/dating_bottles_by_their_tops
+_and.htm>. Accessed 3 January 2011.
+Patterson, D.W.
+2009
+“Vicks helped many in the ’18 pandemic breathe easy.” In Health Section, News &
+Record, Greensboro, North Carolina. 29 June 2009. <http://www.newsrecord.com/content/2009/06/28/article/vicks_helped_many_in_18_breathe_easy>.
+Accessed 5 January 2011.
+Perry-Castañeda Library Map Collection, University of Texas Libraries (PCL)
+1955
+Montopolis Quadrangle, Texas, 7.5 Minute Series, Texas Topographic Maps, PerryCastañeda Library Map Collection.
+<http://www.lib.utexas.edu/maps/topo/
+texas/m.html >. Accessed 5 January 2011.
+1966
+
+54
+
+Montopolis Quadrangle, Texas, 7.5 Minute Series, Texas Topographic Maps, PerryCastañeda Library Map Collection.
+<http://www.lib.utexas.edu/maps/topo/
+texas/m.html >. Accessed 5 January 2011.
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed Formula
+One Race Track Development, Travis County, Texas
+
+1973
+
+Montopolis Quadrangle, Texas, 7.5 Minute Series, Texas Topographic Maps, PerryCastañeda Library Map Collection.
+<http://www.lib.utexas.edu/maps/topo/
+texas/m.html >. Accessed 5 January 2011.
+
+1988
+
+Montopolis Quadrangle, Texas, 7.5 Minute Series, Texas Topographic Maps, PerryCastañeda Library Map Collection.
+<http://www.lib.utexas.edu/maps/topo/
+texas/m.html >. Accessed 5 January 2011.
+
+2008
+
+Montopolis Quadrangle, Texas, 7.5 Minute Series, Texas Topographic Maps, PerryCastañeda Library Map Collection.
+<http://www.lib.utexas.edu/maps/topo/
+texas/m.html >. Accessed 4 November 2010.
+
+Prewitt, E.R.
+1974
+Archeological Investigations at the Loeve-Fox Site, Williamson County, Texas.
+Texas Archeological Survey, Research Report No. 49, The University of Texas at
+Austin.
+1981
+
+Cultural Chronology in Central Texas. Bulletin of the Texas Archeological Society,
+Volume 52, pp. 65-89.
+
+Proctor, C.V., Jr., T.E. Brown, J.H. McGowen, N.B. Waechter, and V.E. Barnes
+1981
+Geologic Atlas of Texas, Austin Sheet, Francis Luther Whitney Memorial Edition.
+University of Texas Bureau of Economic Geology, Austin.
+Ricklis, R.A., and M.B. Collins
+1994
+Archaic and Late Prehistoric Human Ecology in the Middle Onion Creek Valley, Hays
+County, Texas.
+Studies in Archeology 19, Texas Archeological Research
+Laboratory, The University of Texas at Austin.
+Smyrl, V.E.
+2011
+"ELROY, TX," Handbook of Texas Online <http://www.tshaonline.org/handbook/
+online/articles/hle15>. accessed 3 January 2010.
+Story, D.A.
+1985
+Adaptive Strategies of Archaic Cultures of the West Gulf Coastal Plain. In Prehistoric
+Food Production in North America, edited by R.I. Ford, pp. 19-56. Anthropological
+Papers No. 75. Museum of Anthropology, University of Michigan, Ann Arbor.
+Texas Historical Commission (THC)
+2010
+Texas Archeological Sites Atlas Restricted Database, Texas Historical Commission.
+<http://www.pedernales.thc.state.tx.us/>. Accessed October 2010.
+US Geological Survey (USGS)
+1954
+Aerial Photography, Travis County, Texas.
+1987
+
+7.5-minute Series Weberville, Texas. Topographic Quadrangle Map.
+
+1988
+
+7.5-minute Series Montopolois, Texas. Topographic Quadrangle Map.
+
+HJN 100102 AR
+
+55
+
+Chapter 7.0: References Cited
+
+Visser, T.D.
+1996
+“Nails: Clues to a Building’s History.” Adapted from A Field Guide to New England
+Barns and Farm Buildings by T.D. Visser, published by the University Press of New
+England. The University of Vermont Historic Preservation Program.
+<http://www.uvm.edu/~histpres/203/nails.html>. Accessed 3 January 2011.
+Weir, F.A.
+1976
+The Central Texas Archaic.
+Unpublished Ph.D. dissertation, Department of
+Anthropology, Washington State University, Pullman.
+Whitten, D.
+2011
+“Glass Factory Marks on Bottles.” In Glass Factories that Manufactured Insulators.
+<http://myinsulators.com/glass-factories/bottlemarks2.html>. Accessed 4 January
+2011.
+Willoughby, L. (ed.)
+1981
+Austin: A Historical Portrait. Donning, Norfolk, Virginia.
+
+56
+
+100102_arch_survey_report
+
+APPENDIX A:
+
+SHOVEL TEST DATA
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed
+Formula One Race Track Development, Travis County, Texas
+ST #
+
+Easting
+
+Northing
+
+Depth
+(cmbs)
+
+Soil Description
+
+Artifacts
+
+TC‐1
+
+630869
+
+3333935
+
+N/A
+
+N/A
+
+N/A
+
+TC‐2
+
+630893
+
+3333958
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐3
+
+630886
+
+3333914
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐4
+
+630857
+
+3333911
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐5
+
+630838
+
+3333934
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐6
+
+630891
+
+3333906
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐7
+
+630907
+
+3333887
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐8
+
+630785
+
+3334019
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐9
+
+630705
+
+3334094
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐10
+
+630643
+
+3334154
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐11
+
+630538
+
+3334196
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐12
+
+630487
+
+3334289
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐13
+
+630484
+
+3334403
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐14
+
+630549
+
+3334329
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐15
+
+630663
+
+3334328
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐16
+
+630609
+
+3334267
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐17
+
+630685
+
+3334191
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐18
+
+630752
+
+3334265
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐19
+
+630772
+
+3334133
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐20
+
+630871
+
+3334057
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐21
+
+630921
+
+3334012
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐22
+
+631035
+
+3334152
+
+N/A
+
+N/A
+
+N/A
+
+TC‐23
+
+631055
+
+3334156
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐24
+
+631021
+
+3334148
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐25
+
+631055
+
+3334132
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐26
+
+631033
+
+3334161
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐27
+
+632235
+
+3334514
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐28
+
+632265
+
+3334476
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐29
+
+632277
+
+3334511
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐30
+
+632243
+
+3334571
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐31
+
+632208
+
+3334556
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐32
+
+632173
+
+3334650
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐33
+
+632147
+
+3334622
+
+0‐20
+
+Very dark brown clay
+
+None
+
+HJN 100102 AR
+
+A-1
+
+Appendix A: Shovel Test Data
+ST #
+
+Easting
+
+Northing
+
+Depth
+(cmbs)
+
+Soil Description
+
+Artifacts
+
+TC‐34
+
+632122
+
+3334640
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐35
+
+632140
+
+3334677
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐36
+
+632154
+
+3334702
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐37
+
+632059
+
+3334610
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐38
+
+632052
+
+3334343
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐39
+
+632019
+
+3334375
+
+0‐20
+
+Very dark brown clay
+
+None
+
+TC‐40
+
+631990
+
+3334408
+
+0‐10
+
+Very dark brown clay
+
+None
+
+TC‐41
+
+631924
+
+3334456
+
+0‐10
+
+Very dark brown clay
+
+None
+
+TC‐42
+
+631280
+
+3333843
+
+0‐15
+
+Very dark brown clay
+
+None
+
+TC‐43
+
+631283
+
+3333850
+
+0‐10
+
+Very dark brown clay
+
+None
+
+TC‐44
+
+631281
+
+3333864
+
+0‐30
+
+Very dark brown clay
+
+None
+
+TC‐45
+
+631282
+
+3333872
+
+0‐30
+
+Very dark brown clay
+
+None
+
+TC‐46
+
+631283
+
+3333886
+
+0‐30
+
+Very dark brown clay
+
+None
+
+TC‐47
+
+631289
+
+3333897
+
+0‐30
+
+Very dark brown clay
+
+None
+
+TC‐48
+
+631285
+
+3333910
+
+0‐30
+
+Very dark brown clay
+
+None
+
+TC‐49
+
+631280
+
+3333925
+
+0‐30
+
+Very dark brown clay
+
+None
+
+TC‐50
+
+631304
+
+3333837
+
+0‐30
+
+Very dark brown clay
+
+None
+
+TC‐51
+
+631297
+
+3333878
+
+0‐30
+
+Very dark brown clay
+
+None
+
+TC‐52
+
+631302
+
+3333877
+
+0‐30
+
+Very dark brown clay
+
+None
+
+TC‐53
+
+631307
+
+3333882
+
+0‐30
+
+Very dark brown clay
+
+None
+
+TC‐54
+
+631306
+
+3333885
+
+0‐30
+
+Very dark brown clay
+
+None
+
+TC‐55
+
+631315
+
+3333862
+
+0‐30
+
+Very dark brown clay
+
+None
+
+TC‐56
+
+631293
+
+3334455
+
+0‐30
+
+Very dark brown clay
+
+None
+
+TC‐57
+
+631260
+
+3334422
+
+0‐30
+
+Very dark brown clay
+
+None
+
+TC‐58
+
+631227
+
+3334388
+
+0‐30
+
+Very dark brown clay
+
+None
+
+TC‐59
+
+631179
+
+3334379
+
+0‐30
+
+Very dark brown clay
+
+None
+
+TC‐60
+
+631157
+
+3334422
+
+0‐30
+
+Very dark brown clay
+
+None
+
+TC‐61
+
+631222
+
+3334455
+
+0‐30
+
+Very dark brown clay
+
+None
+
+JW‐1
+
+632827
+
+3334549
+
+0‐2
+
+Very dark brown clay
+
+None
+
+JW‐2
+
+632861
+
+3334596
+
+0‐2
+
+Very dark brown clay
+
+None
+
+JW‐3
+
+632880
+
+3334631
+
+0‐2
+
+Very dark brown clay
+
+None
+
+JW‐4
+
+632908
+
+3334679
+
+0‐2
+
+Very dark brown clay
+
+None
+
+JW‐5
+
+632933
+
+3334718
+
+0‐5
+
+Very dark brown clay
+
+None
+
+A-2
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed
+Formula One Race Track Development, Travis County, Texas
+ST #
+
+Easting
+
+Northing
+
+Depth
+(cmbs)
+
+Soil Description
+
+Artifacts
+
+JW‐6
+
+632933
+
+3334765
+
+0‐5
+
+Very dark brown clay
+
+None
+
+JW‐7
+
+632685
+
+3335186
+
+0‐25
+
+Dark gray brown clay
+
+None
+
+25+
+
+Dark olive brown clay
+
+None
+
+JW‐8
+
+632725
+
+3335156
+
+0‐30
+
+Very dark brown clay
+
+None
+
+JW‐9
+
+632763
+
+3335119
+
+0‐5
+
+Black rocky clay
+
+None
+
+JW‐10
+
+632803
+
+3335094
+
+0‐5
+
+Black rocky clay
+
+None
+
+JW‐11
+
+632853
+
+3335078
+
+0‐5
+
+Black rocky clay
+
+None
+
+JW‐12
+
+632901
+
+3335057
+
+0‐5
+
+Black rocky clay
+
+None
+
+JW‐13
+
+632940
+
+3335028
+
+0‐5
+
+Black rocky clay
+
+None
+
+JW‐14
+
+632990
+
+3335006
+
+0‐5
+
+Black rocky clay
+
+None
+
+JW‐15
+
+633023
+
+3334997
+
+0‐5
+
+Black rocky clay
+
+None
+
+JW‐16
+
+632984
+
+3334969
+
+0‐30
+
+Gray brown clay
+
+None
+
+JW‐17
+
+632917
+
+3335001
+
+0‐5
+
+Very dark brown clay
+
+None
+
+JW‐18
+
+632853
+
+3335026
+
+0‐20
+
+Very dark brown clay
+
+None
+
+JW‐19
+
+632783
+
+3335042
+
+0‐10
+
+Very dark brown clay
+
+None
+
+JW‐20
+
+632707
+
+3335051
+
+0‐10
+
+Very dark brown clay
+
+None
+
+JW‐21
+
+632647
+
+3335099
+
+0‐10
+
+Very dark brown clay
+
+None
+
+JW‐22
+
+632581
+
+3335085
+
+0‐20
+
+Very dark brown clay
+
+None
+
+JW‐23
+
+632525
+
+3335043
+
+0‐20
+
+Very dark brown clay
+
+None
+
+JW‐24
+
+632641
+
+3335717
+
+0‐30
+
+Dark gray brown clay
+
+None
+
+JW‐25
+
+632636
+
+3335694
+
+0‐30
+
+Very dark brown clay
+
+None
+
+JW‐26
+
+632597
+
+3335654
+
+0‐10
+
+Very dark brown clay
+
+None
+
+JW‐27
+
+632563
+
+3335591
+
+0‐10
+
+Dense black clay
+
+None
+
+JW‐28
+
+632536
+
+3335519
+
+0‐25
+
+Dense black clay
+
+None
+
+JW‐29
+
+632492
+
+3335453
+
+0‐25
+
+Dense black clay
+
+None
+
+JW‐30
+
+632458
+
+3335386
+
+0‐25
+
+Dense black clay
+
+None
+
+JW‐31
+
+632211
+
+3334697
+
+0‐25
+
+Very dark brown clay
+
+None
+
+JW‐32
+
+632172
+
+3334581
+
+0‐30
+
+Very dark brown clay
+
+None
+
+JW‐33
+
+632117
+
+3334579
+
+0‐10
+
+Very dark brown clay
+
+None
+
+JW‐34
+
+632133
+
+3334549
+
+0‐15
+
+Very dark brown clay
+
+None
+
+JW‐35
+
+632146
+
+3334537
+
+0‐15
+
+Very dark brown clay
+
+None
+
+JW‐36
+
+632140
+
+3334511
+
+0‐20
+
+Very dark brown clay
+
+None
+
+JW‐37
+
+632117
+
+3334523
+
+0‐15
+
+Very dark brown clay
+
+None
+
+HJN 100102 AR
+
+A-3
+
+Appendix A: Shovel Test Data
+ST #
+
+Easting
+
+Northing
+
+Depth
+(cmbs)
+
+Soil Description
+
+Artifacts
+
+JW‐38
+
+632108
+
+3334554
+
+0‐20
+
+Very dark brown clay
+
+None
+
+JW‐39
+
+632079
+
+3334555
+
+0‐20
+
+Very dark brown clay
+
+None
+
+JW‐40
+
+632031
+
+3334303
+
+0‐20
+
+Dense black clay
+
+None
+
+JW‐41
+
+631986
+
+3334329
+
+0‐25
+
+Dark brown clay
+
+None
+
+JW‐42
+
+631944
+
+3334354
+
+0‐10
+
+Very dark brown clay
+
+None
+
+JW‐43
+
+631897
+
+3334376
+
+0‐30
+
+Black rocky clay
+
+None
+
+JW‐44
+
+631332
+
+3333851
+
+0‐10
+
+Very dark brown clay
+
+None
+
+JW‐45
+
+631333
+
+3333877
+
+0‐20
+
+Very dark brown clay
+
+None
+
+JW‐46
+
+631328
+
+3333889
+
+0‐10
+
+Very dark brown clay
+
+None
+
+JW‐47
+
+631331
+
+3333906
+
+0‐20
+
+Very dark brown clay
+
+None
+
+JW‐48
+
+631316
+
+3333913
+
+0‐20
+
+Very dark brown clay
+
+None
+
+JW‐49
+
+631363
+
+3333900
+
+0‐30
+
+Black rocky clay
+
+None
+
+JW‐50
+
+631202
+
+3334405
+
+0‐10
+
+Black rocky clay
+
+None
+
+JW‐51
+
+631216
+
+3334501
+
+0‐20
+
+Black rocky clay
+
+None
+
+JW‐52
+
+631181
+
+3334702
+
+0‐20
+
+Black rocky clay
+
+None
+
+JW‐53
+
+631120
+
+3334711
+
+0‐20
+
+Black rocky clay
+
+None
+
+JW‐54
+
+631086
+
+3334816
+
+0‐30
+
+Black rocky clay
+
+None
+
+JW‐55
+
+631021
+
+3334796
+
+0‐30
+
+Black rocky clay
+
+None
+
+JW‐56
+
+631092
+
+3334921
+
+0‐30
+
+Black rocky clay
+
+None
+
+JW‐57
+
+631676
+
+3334505
+
+0‐10
+
+Black rocky clay
+
+None
+
+JW‐58
+
+631624
+
+3334500
+
+0‐30
+
+Black rocky clay
+
+None
+
+JW‐59
+
+631594
+
+3334536
+
+0‐30
+
+Black rocky clay
+
+None
+
+JW‐60
+
+631548
+
+3334554
+
+0‐30
+
+Black rocky clay
+
+None
+
+JW‐61
+
+631537
+
+3334600
+
+0‐30
+
+Black rocky clay
+
+None
+
+JW‐62
+
+631480
+
+3334599
+
+0‐10
+
+Black rocky clay
+
+None
+
+JW‐63
+
+631475
+
+3334630
+
+0‐30
+
+Black rocky clay
+
+None
+
+JW‐64
+
+631512
+
+3334700
+
+0‐30
+
+Black rocky clay
+
+None
+
+JW‐65
+
+631701
+
+3334900
+
+0‐20
+
+Black rocky clay
+
+None
+
+JW‐66
+
+631800
+
+3334868
+
+0‐30
+
+Black rocky clay
+
+None
+
+JW‐67
+
+631889
+
+3334971
+
+0‐30
+
+Black rocky clay
+
+None
+
+JW‐68
+
+631837
+
+3335043
+
+0‐30
+
+Black rocky clay
+
+None
+
+JW‐69
+
+632037
+
+3335104
+
+0‐25
+
+Black rocky clay
+
+None
+
+JW‐70
+
+631918
+
+3335037
+
+0‐30
+
+Black rocky clay
+
+None
+
+A-4
+
+100102_arch_survey_report
+
+An Intensive Cultural Resources Survey of the USACE Jurisdictional Areas within the Proposed
+Formula One Race Track Development, Travis County, Texas
+ST #
+
+Easting
+
+Northing
+
+Depth
+(cmbs)
+
+Soil Description
+
+Artifacts
+
+JW‐71
+
+632014
+
+3335188
+
+0‐30
+
+Black rocky clay
+
+None
+
+JW‐72
+
+631990
+
+3335273
+
+0‐25
+
+Black rocky clay
+
+None
+
+CC‐1
+
+632234
+
+3334701
+
+0‐15
+
+Very dark brown clay
+
+None
+
+CC‐2
+
+632231
+
+3334714
+
+0‐20
+
+Very dark brown clay
+
+None
+
+CC‐3
+
+632211
+
+3334724
+
+0‐20
+
+Very dark brown clay
+
+None
+
+CC‐4
+
+632219
+
+3334678
+
+0‐20
+
+Very dark brown clay
+
+None
+
+CC‐5
+
+632199
+
+3334648
+
+0‐15
+
+Very dark brown clay
+
+None
+
+CC‐6
+
+632190
+
+3334606
+
+0‐20
+
+Very dark brown clay
+
+None
+
+CC‐7
+
+632112
+
+3334714
+
+0‐20
+
+Very dark brown clay
+
+None
+
+CC‐8
+
+632091
+
+3334681
+
+0‐20
+
+Very dark brown clay
+
+None
+
+CC‐9
+
+632063
+
+3334688
+
+0‐20
+
+Very dark brown clay
+
+None
+
+CC‐10
+
+632041
+
+3334322
+
+0‐35
+
+Very dark brown clay
+
+None
+
+CC‐11
+
+632008
+
+3334355
+
+0‐5
+
+Very dark brown clay
+
+None
+
+CC‐12
+
+631953
+
+3334394
+
+0‐5
+
+Very dark brown clay
+
+None
+
+CC‐13
+
+631901
+
+3334431
+
+0‐20
+
+Very dark brown clay
+
+None
+
+CC‐14
+
+631310
+
+3333823
+
+0‐15
+
+Very dark brown clay
+
+None
+
+CC‐15
+
+631305
+
+3333844
+
+0‐10
+
+Very dark brown clay
+
+None
+
+CC‐16
+
+631306
+
+3333868
+
+0‐10
+
+Very dark brown clay
+
+Lithic debitage
+
+CC‐17
+
+631157
+
+3334658
+
+0‐15
+
+Very dark brown clay
+
+None
+
+CC‐18
+
+631105
+
+3334771
+
+0‐15
+
+Very dark brown clay
+
+None
+
+CC‐19
+
+631072
+
+3334851
+
+0‐15
+
+Very dark brown clay
+
+None
+
+CC‐20
+
+631054
+
+3334899
+
+0‐20
+
+Very dark brown clay
+
+None
+
+CC‐21
+
+631677
+
+3334535
+
+0‐10
+
+Very dark brown clay
+
+None
+
+CC‐22
+
+631656
+
+3334557
+
+0‐10
+
+Very dark brown clay
+
+None
+
+CC‐23
+
+631643
+
+3334581
+
+0‐10
+
+Very dark brown clay
+
+None
+
+CC‐24
+
+631623
+
+3334600
+
+0‐10
+
+Very dark brown clay
+
+None
+
+CC‐25
+
+631612
+
+3334625
+
+0‐10
+
+Very dark brown clay
+
+None
+
+CC‐26
+
+631586
+
+3334653
+
+0‐10
+
+Very dark brown clay
+
+None
+
+CC‐27
+
+631542
+
+3334718
+
+0‐5
+
+Very dark brown clay
+
+None
+
+CC‐28
+
+631742
+
+3334850
+
+0‐10
+
+Very dark brown clay
+
+None
+
+CC‐29
+
+631694
+
+3334863
+
+0‐5
+
+Very dark brown clay
+
+None
+
+CC‐30
+
+631652
+
+3334936
+
+0‐10
+
+Very dark brown clay
+
+None
+
+CC‐31
+
+632804
+
+3334564
+
+0‐15
+
+Very dark brown clay
+
+None
+
+HJN 100102 AR
+
+A-5
+
+Appendix A: Shovel Test Data
+ST #
+
+Easting
+
+Northing
+
+Depth
+(cmbs)
+
+Soil Description
+
+Artifacts
+
+CC‐32
+
+632821
+
+3334592
+
+0‐5
+
+Very dark brown clay
+
+None
+
+CC‐33
+
+632841
+
+3334631
+
+0‐5
+
+Very dark brown clay
+
+None
+
+CC‐34
+
+632863
+
+3334667
+
+0‐10
+
+Very dark brown clay
+
+None
+
+CC‐35
+
+632882
+
+3334692
+
+0‐5
+
+Very dark brown clay
+
+None
+
+CC‐36
+
+632580
+
+3334978
+
+0‐5
+
+Very dark brown clay
+
+None
+
+CC‐37
+
+632629
+
+3334975
+
+0‐5
+
+Very dark brown clay
+
+None
+
+CC‐38
+
+632639
+
+3334960
+
+0‐5
+
+Very dark brown clay
+
+None
+
+CC‐39
+
+632681
+
+3334950
+
+0‐5
+
+Very dark brown clay
+
+None
+
+CC‐40
+
+632719
+
+3334903
+
+0‐5
+
+Very dark brown clay
+
+None
+
+CC‐41
+
+632775
+
+3334909
+
+0‐5
+
+Very dark brown clay
+
+None
+
+CC‐42
+
+632824
+
+3334859
+
+0‐5
+
+Very dark brown clay
+
+None
+
+CC‐43
+
+632419
+
+3335299
+
+0‐20
+
+Very dark brown clay
+
+None
+
+CC‐44
+
+632448
+
+3335354
+
+0‐20
+
+Very dark brown clay
+
+None
+
+WP = waypoint
+ST = shovel test
+cmbs = centimeters below surface
+
+A-6
+
+100102_arch_survey_report
+
+APPENDIX B:
+
+CHAIN-OF-TITLE
+
+REAL PROPERTY SERVICES
+10200 Grogan’s Mill Road, Suite 410
+The Woodlands, Texas 77380
+Phone (281) 419­5954 or 1­866­406­5954
+Fax (281) 419­5942
+
+Date: December 16, 2010
+Client: Horizon Environmental Services, Inc.
+Attn: Tony Chapa
+RPS #: A1009704
+Client Search #: N/A
+Through Date: 12/06/2010
+SUBJECT PROPERTY:
+188.5874 acres in the William Lewis Survey No. 2, Abstract 479, Travis County, Texas.
+
+Warranty Deed
+Grantee(s): Land Accelerator, LLC, a Texas limited liability company
+Grantor(s): VCTMJ Limited Partnership
+Instrument Number: 2010117620
+File Date: 08/13/2010
+Warranty Deed
+Grantee(s): VCTMJ Limited Partnership
+Grantor(s): Margaret V. Slaid, and Marion E. McAngus Gibson, each a Trustee for the
+William Andrew McAngus and Hattie McAngus Sponberg Trust
+Instrument Number: 2007120086
+File Date: 06/29/2007
+Warranty Deed
+Grantee(s): Mada D. McAngus Killen and Edward T. Sponberg, Jr., Trustees
+Grantor(s): Gaines W. McAngus and Edward T. Sponberg, Jr.
+Volume/Page: 9606­467
+File Date: 03/13/1986
+Warranty Deed
+Grantee(s): Gaines W. McAngus and Edward T. Sponberg, Trustees
+Grantor(s): W.A. McAngus and Hattie McAngus Sponberg
+Volume/Page: 7888­717
+File Date: 10/19/1982
+
+1
+
+Continued from page 1
+Warranty Deed (71.5 acres)
+Grantee(s): David McAngus
+Grantor(s): George L. Hume
+Volume/Page: 183­570
+File Date: 01/16/1904
+Warranty Deed (60 acres)
+Grantee(s): David McAngus
+Grantor(s): George L. Hume
+Volume/Page: 172­419
+File Date: 11/25/1901
+Warranty Deed (60 acres)
+Grantee(s): David McAngus
+Grantor(s): J.L. Hume and George L. Hume
+Volume/Page: 144­521
+File Date: 01/01/1898
+
+EASEMENTS:
+No easements of environmental concern noted during research.
+
+LEASES:
+None noted during research.
+
+ENVIRONMENTAL LIENS:
+None noted during research.
+
+This search is provided to the above client for use in the historical background analysis of the
+subject property. Its use by third parties for any purpose is strictly prohibited. The
+information contained herein was obtained from the Deed Records of Travis County, Texas
+and Real Property Services does not warranty or guaranty the accuracy or
+content of these records.
+
+2
+
+

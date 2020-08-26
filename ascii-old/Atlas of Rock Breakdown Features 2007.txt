@@ -1,0 +1,2316 @@
+Cover design by Leslie Bleamaster, Planetary Science Institute.
+Planetary images include hemispheric views and mosaics from top to bottom:
+Titan (PIA07774 NASA/JPL/Space Science Institute, Blue Green Red spectral filters)
+Venus - PIA00104 NASA/JPL-Caltech (false color radar mosaic)
+Mars - USGS (Viking mosaic)
+Earth - Apollo 17 (photograph)
+Images courtesy of NASA, the US Geological Survey, JPL-Caltech, and the Space
+Science Institute - field images taken from contributions herein.
+
+A Photographic Atlas of Rock Breakdown
+Features in Geomorphic Environments
+Mary C. Bourke1, 2 and Heather A Viles2 (Eds.)
+
+Contributing Authors:
+Dr. Mary C. Bourke1, 2
+Mr. J. Alexander Brearley3
+Mr. Randall Haas4
+Dr. Heather A. Viles2
+
+1
+
+Planetary Science Institute, 1700 E Ft. Lowell, Tucson, Arizona, 85719
+USA.
+2
+Oxford University Center for the Environment, University of Oxford,
+Oxford, OX13QY, UK.
+3
+Department of Geography, University of Reading, Reading, UK.
+4
+Western Mapping Company, Tucson, Arizona 85719-2360.
+
+International Association of Geomorphologists
+Working Group on Planetary Geomorphology
+
+First published in 2007
+By the Planetary Science Institute,
+1700 E. Fort Lowell, #106,
+Tucson,
+Arizona 85719,
+USA.
+Copyright © 2007 Planetary Science Institute, Tucson, Arizona, USA.
+All rights reserved. No part of this book may be reprinted or reproduced or utilized in any
+form or by any electronic, mechanical, or other means, now known or hereafter invented,
+including photocopying and recording, or in any information storage or retrieval system,
+without permission in writing from the publishers.
+
+Digital Copy available online ISBN 0-9785236-0-1
+
+ii
+
+Acknowledgements:
+The following reviewers made valuable suggestions that improved the content of this
+atlas:
+Dr. Kathryn Amos, University of New South Wales, Canberra, Australia.
+Dr. Nathan Bridges, Jet Propulsion Laboratory, California, USA.
+Prof. Paul Carling, University of Southampton, United Kingdom.
+Dr. Jon Clarke, Geoscience Australia, Canberra, Australia.
+Dr. Jennifer Grier, Planetary Science Institute, Arizona, USA.
+Dr. Julie Laity, California State University, California, USA.
+Dr. Piotr Migoń, University of Wroclaw, Poland.
+Dr. Nichole Richmond, Planetary Science Institute, Arizona, USA.
+In addition to our own collection, we are very grateful to the following for contributing
+images to this atlas.
+Dr. Mircea Badescu, Jet Propulsion Laboratory, California, USA.
+Dr. Nathan Bridges, Jet Propulsion Laboratory, California, USA.
+Ms. Julia Fonseca (M.Sc.), Tucson, Arizona, USA.
+Prof. Andrew Goudie, St Cross College, University of Oxford, UK.
+Dr. Julie Laity, California State University, California, USA.
+Mr. Carl Matter, Tucson, Arizona, USA.
+Dr. Gordon Osinski, Canadian Space Agency, Canada.
+Dr. Keith Richardson, University of Lancaster, United Kingdom.
+Dr. Stewart Sherrit, Jet Propulsion Laboratory, California, USA.
+The compilation of this atlas was funded, in part, by a grant from NASA’s Planetary
+Geology and Geophysics Program.
+
+iii
+
+Table of Contents
+
+CHAPTER 1: INTRODUCTION ................................................................................................................1
+
+CHAPTER 2: AEOLIAN FEATURES .......................................................................................................6
+INTRODUCTION ............................................................................................................................................7
+VENTIFACT ..................................................................................................................................................8
+SHARP FACET EDGE (KEEL)..........................................................................................................................9
+STRAIGHT FACETS .....................................................................................................................................10
+CURVILINEAR FACETS ...............................................................................................................................11
+FLUTES ......................................................................................................................................................12
+GROOVES...................................................................................................................................................14
+ETCHING ....................................................................................................................................................16
+PITS ...........................................................................................................................................................17
+HELICAL SCORES .......................................................................................................................................18
+PROJECTIONS (FINGERS, KNOBS AND RIDGES)............................................................................................19
+SMOOTHING AND POLISHING .....................................................................................................................20
+BASAL SILL ................................................................................................................................................21
+Summary table of aeolian features.......................................................................................................22
+
+CHAPTER 3: FLUVIAL FEATURES ......................................................................................................23
+INTRODUCTION ..........................................................................................................................................24
+Percussion Terminology ......................................................................................................................25
+ROUNDING .................................................................................................................................................28
+POLISHING AND SMOOTHING .....................................................................................................................29
+FISSURE .....................................................................................................................................................30
+BROKEN AND SPLIT CLASTS .......................................................................................................................31
+PERCUSSION FRACTURE FACETS ................................................................................................................32
+Incipient cone.......................................................................................................................................34
+Hertzian cone .......................................................................................................................................35
+Percussion fracture ridge.....................................................................................................................36
+Bulb of Percussion ...............................................................................................................................37
+Terminations ........................................................................................................................................38
+Radial fissures......................................................................................................................................40
+Undulations..........................................................................................................................................41
+PERCUSSION PITS .......................................................................................................................................42
+STRIATIONS/SCRATCHES ............................................................................................................................43
+POTHOLE ...................................................................................................................................................44
+FLUTES ......................................................................................................................................................45
+Summary table of fluvial features ........................................................................................................47
+
+iv
+
+CHAPTER 4: WEATHERING FEATURES............................................................................................48
+INTRODUCTION ..........................................................................................................................................49
+ROUNDED CLAST .......................................................................................................................................50
+ANGULAR CLAST .......................................................................................................................................51
+SPLIT ROCK................................................................................................................................................52
+PEDESTAL/UNDERCUT ROCK ......................................................................................................................53
+DOUGHNUT ROCK ......................................................................................................................................54
+MICROSOLUTIONAL FEATURES ..................................................................................................................55
+WEATHERING GROOVES/RILLS ..................................................................................................................56
+MICROPITTING ...........................................................................................................................................57
+WEATHERING PITS .....................................................................................................................................58
+GRANULAR DISINTEGRATION ....................................................................................................................59
+ALVEOLI OR HONEYCOMBS........................................................................................................................60
+TAFONI ......................................................................................................................................................61
+BASAL HOLLOW.........................................................................................................................................62
+FLAKING ....................................................................................................................................................63
+SPALLING ..................................................................................................................................................64
+MULTIPLE SPLITS .......................................................................................................................................65
+CRACKS AND POLYGONAL CRACKING ........................................................................................................66
+CASE HARDENING ......................................................................................................................................68
+CALCITE CRUSTS .......................................................................................................................................69
+ROCK VARNISH ..........................................................................................................................................70
+SALT EFFLORESCENCE/SALT TIDES ............................................................................................................71
+DUST COATING ..........................................................................................................................................72
+DEBRIS APRON/GRUS .................................................................................................................................73
+Summary table of weathering features.................................................................................................74
+
+REFERENCES ............................................................................................................................................75
+
+v
+
+Chapter 1: Introduction
+Bourke, M.C. and Viles, H.A.
+A primary goal of geomorphological enquiry is to make genetic associations between
+process and form. In rock breakdown studies, the links between process, inheritance and
+lithology are not well constrained. In particular, there is a need to establish an
+understanding of feature persistence. That is, to determine the extent to which in situ rock
+breakdown (e.g., aeolian abrasion or salt weathering) masks signatures of earlier
+geomorphic transport processes (e.g., fluvial transport or crater ejecta). Equally important
+is the extent to which breakdown during geomorphic transport masks the imprint of past
+weathering (Viles et al., 2005).
+Sedimentary particles may retain their primary form to a substantial and recognizable
+degree after more than one cycle of transport (Allen, 1985). This is due to the
+predetermination of shape by factors such as the deposition of crystal boundaries (e.g.,
+grains released from igneous and metamorphic rocks) and the attitude and spacing in the
+rock of planar fractures including bedding, joints and cleavage. The exception to this is
+where there has been breakage (Allen, 1985) as is found in fluvial, ejecta and talus
+environments. Often this initial form is overprinted to some degree during transport (e.g.,
+fluvial, glacial) and/or by subsequent alteration by erosion or weathering. These specific
+geomorphic processes on Earth can be shown to produce a particular size and shape of
+morphological response on rocks. For example, rocks subject to fluvial transport tend to
+be well rounded (Howard, 1998), whilst those freshly collapsed from bedrock walls are
+angular. However, the situation is complicated by lithology and some rocks respond more
+rapidly and in different styles to breakdown processes. Over time, the inheritance of both
+initial lithology and past processes may complicate the relationship between current
+process and morphological response.
+Similar landforms and features can result from quite different sets of processes and
+histories (see discussion in Beven, 1996). Equifinality is of particular concern when
+conducting geomorphological enquiry on other planetary bodies using only remotely
+sensed data. By way of example, pits observed on the surface of clasts can be formed by
+grinding, micro-impact, structural controls such as vesicles in basalt, or selective mineral
+loss. In addition, flutes and grooves are known to form by both aeolian and fluvial
+processes.
+On Earth we generally have the ability to visit a field area and place a sample rock in its
+geomorphic context by mapping the surrounding landforms and sediments. This is more
+difficult on planets and moons such as Mars, Venus and Titan. Data from Landers and
+Rovers return high resolution images that indicate a range of boulder morphologies and
+surface features (Fig. I1) (see also Bridges et al., 1999; Greeley et al., 2004; Thomas et
+al., 2005). Often the resolution is high enough to permit the observation and analysis of
+_____________________________________________________________________
+A Photographic Atlas of Rock Breakdown Features in Geomorphic Environments,
+Edited by Mary Bourke & Heather Viles © 2007 Planetary Science Institute, Tucson.
+
+Chapter 1: Introduction
+
+individual facet-scale features, in addition to the traditional observations of clast
+roundness and sphericity. These data are often used to interpret the transport and
+environmental history of the rock. For example, studies of rock morphology, placement
+and bedforms at the Mars Pathfinder landing site suggested that the sediments were the
+typical deposits of catastrophic floods. However, definitive fluvial signatures were
+difficult to identify on the rocks (e.g., Golombek et al., 1999). This is likely due to the
+fact that they have been subject to sub-aerial erosion for more than two billion years.
+The use of rock features in this way raises the important question: Can features on the
+surface of a rock reliably indicate its geomorphic history? This has not been determined
+for rock surfaces on Earth or other planets. A first step towards constraining the links
+between process, inheritance, and morphology is to identify pristine features produced by
+different process regimes. The purpose of this atlas is to provide a comprehensive image
+collection of breakdown features commonly observed on boulders in different
+geomorphic environments. The atlas is intended as a tool for planetary geoscientists and
+their students to assist in identifying features found on rocks on planetary surfaces.
+In compiling this atlas, we have attempted to include features that have formed ‘recently’
+and where the potential for modification by another geomorphic process is low. However,
+we acknowledge that this is, in fact, difficult to achieve when selecting rocks in their
+natural environment. We group breakdown features according to their formative
+environment and process (Fig.I2).
+In selecting images for inclusion in the atlas we were mindful to cover a wide range of
+climatic zones. For example, in the weathering chapter, clast features are shown from
+locations such as the hyper-arid polar desert of Antarctica and the semi-arid canyons of
+central Australia. This is important as some features (e.g., alveoli) occur across climate
+regimes. We have drawn on the published geomorphological literature and our own field
+experience. We use, where possible, images of extrusive igneous rocks as the data
+returned from Mars, Venus and the Moon indicates that this is the predominant rock type.
+One of the purposes of this atlas is to expand the range of surface features that are known
+to indicate a particular geomorphic environment or process history. The surface features
+on boulders in some environments such as aeolian and weathering are well understood. In
+contrast, those in fluvial or ejecta environments are not. Therefore we have presented a
+comprehensive assemblage of features that are likely to be produced in each of the
+geomorphic environments. We hope that this atlas will trigger more research on
+diagnostic features, particularly their morphometry and detailed morphology, their
+persistence and rates of formation. In this first edition of the atlas we detail the features
+found on clasts in three geomorphic environments: aeolian, fluvial and weathering.
+Future editions of the atlas will include chapters on ejecta, micro-impacts, coastal,
+colluvial, glacial and structural features.
+
+2
+
+Chapter 1: Introduction
+
+Figure I1 Images of rocks on the surface of other planets and moons in our solar system
+a) The surface of Mars taken by the US Viking Lander 2 in 1976 (Image 21A024-BB3)
+b) ‘Big Joe’ on the surface of Mars taken by the US Viking Lander 1 in 1977 (Image
+11D066-BB4).
+c) The surface of Mars taken by the US Viking Lander 1 in 1977 (Image 12D039-BB2)
+d) & e) One of the few images from the surface of Venus. Image taken by the Russian
+probes Venera 13 and 14, in 1982. Venera 14 sampled the soil where it landed, and found
+a type of basalt also common on Earth (Image credit: NASA)
+f) One of the few images taken by the European Huygens Probe of the surface of Titan
+(2005). In view are cm-scale pebbles. A current popular hypothesis is that they are
+composed of water ice, and lie on a darker, finer-grained substrate.
+g) Image of Rock “Moe” from the pathfinder site on Mars (1997) (Image PIA01565)
+h) Image of Rock “Half-dome” from the pathfinder site on Mars (1997)
+i) Pancam image of "FuYi” rock taken by Spirit Rover (2006) along the edge of an arcshaped lava feature called "Lorre Ridge"
+j) Microscopic Imager on the Opportunity Rover image of “Roosevelt”. The image shows
+detailed structure of an outcrop located at the edge of Erebus Crater.
+
+3
+
+Chapter 1: Introduction
+
+a
+
+b
+
+c
+
+d
+
+f
+
+e
+
+g
+
+h
+
+i
+
+j
+
+4
+
+Chapter 1: Introduction
+
+Figure I2 Genetic classification used in the development of the rock breakdown atlas.
+This will be extended in future editions to include ejecta and micro-impacts.
+
+5
+
+Chapter 2: Aeolian Features
+Viles, H.A. and Bourke, M.C.
+
+Ventifacts in southern Death Valley. Image courtesy of J. Laity.
+
+_____________________________________________________________________
+A Photographic Atlas of Rock Breakdown Features in Geomorphic Environments,
+Edited by Mary Bourke & Heather Viles © 2007 Planetary Science Institute, Tucson.
+
+Chapter 2: Aeolian Features
+
+Introduction
+Wind action causes the erosion of boulders through abrasion by entrained particulates.
+Ever since the pioneering work of, amongst others, W. T. L. Travers in 1870 (as noted in
+King, 1936) a whole suite of erosional features have been recorded and studied in areas
+where wind and abrading agents are in ample supply. Much of the early research focused
+on cataloguing sites in very different parts of the world where wind abrasion features
+were found (e.g., Bosworth, 1910; King, 1936; Powers, 1936; Wentworth and Dickey,
+1935) as well as understanding their formation (e.g., Kuenen, 1928). For
+palaeoenvironmental research, such features have been used to confirm the past efficacy
+of wind action, and also to infer dominant wind direction(s) at the time of feature
+formation (Schlyter, 1995; Sharp, 1949).
+Wind abrasion of boulders has been noted on several lithologies in a wide range of
+environments including deserts, periglacial and coastal settings and has been reported on
+Mars (see Bridges et al., 1999). There has been much debate over the types of
+particulates which can cause such abrasion, with most scientists placing major emphasis
+on sand, whilst some authors suggest that silt and snow can also be effective (Frich, 1988;
+Schlyter, 1994). See Breed et al. (pg. 445-453, 1997) for discussion. In most cases, wind
+abrasion by particulates has been observed to be concentrated on the upwind side of
+boulders and outcrops, with the leeside commonly weathered and free from abrasion.
+Recent estimates from boulders within a coastal structure in Oregon, USA indicate that
+wind abrasion can proceed at rates of between 0.24 and 1.63 mm a-1 (Knight and
+Burningham, 2003), although very different rates may be found in other localities.
+Some previous authors have produced useful guides to the features produced by aeolian
+action on rocks, including the classic review of Maxson (1940) and the more recent
+compendium of Laity (1995). Both of these contain images which complement this atlas.
+
+7
+
+Chapter 2: Aeolian Features
+
+Ventifact
+Scale: cm to m
+Feature description:
+Ventifacts may be simply defined as rocks shaped by aeolian abrasion (Cooke et al.,
+1993). The term was introduced by Evans (1911) to describe wind-faceted stones, the
+surfaces of which are flattened such that they intersect at sharp angles (Goudie, 2004b).
+Such ventifacts have clear wind sculpted facets which themselves often have a whole
+suite of smaller abrasion features developed on them. A common shape for small faceted
+ventifacts is a streamlined, almond or brazil nut shape dominated by two or three surface
+facets.
+
+Figure A1 A three-faceted
+ventifact
+(often
+called
+‘dreikanter’) from the Cunene
+River
+terrace,
+Namibia.
+Image courtesy of M. Bourke.
+
+Figure A2 A dolerite
+ventifact in the Namib Desert,
+Africa. Image courtesy of H.
+Viles.
+
+8
+
+Chapter 2: Aeolian Features
+
+Sharp facet edge (keel)
+Scale: several mm to cm long (depending on size of facet), and < 1 mm wide
+Feature description:
+Facets are thought to be abraded at right angles to the formative wind where sand is the
+dominant agent of abrasion. The edge between facets is often razor sharp, where each
+facet is being actively abraded and/or where the rock is fine-grained. Facet edges are also
+often called keels (e.g., Knight, 2005), and can be linear or serrated (Knight and
+Burningham, 2001). The keel is usually aligned perpendicular to the prevailing wind
+direction and thus can be used on fossil forms to infer palaeo-wind direction. However,
+recently Knight (2005) drew attention to the need to take care with such inferences
+because of the role, in some circumstances, of more localized controls on keel orientation
+(such as boulder shape and local wind flow complexity).
+
+Figure A3 Faceted carbonate rock,
+Little Cowhole Mountains (Mojave
+Desert), California. Image courtesy of N.
+Bridges.
+
+Figure A4 A sharp facet edge on
+ventifact from the Cunene River
+terrace gravel Namibia. Note also the
+polished sheen. See figure A1 for
+scale. Image courtesy of C. Matter.
+See also Figure A11.
+
+9
+
+Chapter 2: Aeolian Features
+
+Straight facets
+Scale: cm
+Feature description:
+Smaller facets carved into ventifacts by aeolian abrasion are generally straight in profile
+(i.e. they have a flat face), although their shape can be affected by the pre-existing clast
+form. Smaller rocks are also thought to produce simpler facets (i.e. planar and smooth
+faces), than larger ones where pitting, fluting and other features are likely to develop
+(Laity, 1994).
+
+Figure A5 A straight facet on ventifact from the Cunene River terrace gravel Namibia.
+See figure A1 for scale. Image courtesy of C. Matter.
+
+10
+
+Chapter 2: Aeolian Features
+
+Curvilinear facets
+Scale: cm to m
+Feature description:
+Larger facets are usually abraded into slightly curved forms (Cooke et al., 1993). Indeed,
+large ventifacts abraded by sand often have a highly convex windward facet with the top
+part receding more rapidly than the lower section. Over time, long-term and intense
+abrasion may eventually produce semi-planar surfaces (e.g., Laity, 1995, Fig.12).
+
+Figure A6 Faceted carbonate rock, Little Cowhole Mountains (Mojave Desert),
+California. Image courtesy of N. Bridges.
+
+11
+
+Chapter 2: Aeolian Features
+
+Flutes
+Scale: mm to cm
+Feature description:
+Flutes are near-linear depressions with U-shaped cross-sections, which are closed at the
+upwind end. They are thought to form on low angled or horizontal surfaces, and they
+have been observed to get shorter and deeper as the surface inclination increases.
+Lancaster (1984) noted that, in the Namib Desert, there was some lithological control of
+flute size – with coarse-grained rocks possessing larger and deeper flutes than finegrained rocks. According to Cooke et al. (1993) flutes and grooves are said to develop in
+the early stages of ventifaction, usually originating from pits and becoming shallower
+downwind. They are also said to be better developed on large rather than small rocks.
+Breed et al. (1997) note the presence of y-shaped junctions in fields of flutes, where the
+junctions close in the downwind direction. Flutes have been recorded having widths and
+depths ranging from a few mm to several cm. Flute formation is still debated, but the
+general consensus is that flutes are formed parallel to the wind on the windward side of
+ventifacts as a result of abrasion by sand. Experimental studies by Whitney (1979)
+suggested that fluting on leeward sides could be created by dust entrained in vortical flow
+within winds. However the efficacy of dust as an abrading agent is the subject of debate
+(see Breed et al., 1997). Flutes can also be formed by fluvial abrasion (see Figs. F24F26).
+
+Figure A7 Aeolian flutes, and
+grooves, Dahkla Oasis, Egypt. Image
+courtesy of A. Goudie. The watch
+used for scale is ~4 cm in diameter.
+
+Figure A8 Aeolian flutes, Cady
+Mountains, California. Transparent ruler,
+with blue lettering, is on rock for scale.
+Image courtesy of J. Laity.
+
+12
+
+Chapter 2: Aeolian Features
+
+Flutes (cont.)
+
+Figure A9 Aeolian flutes associated
+with stretched vesicles in Basalt, Cady
+Mountains, California. Image courtesy
+of J. Laity.
+
+Figure A10 Aeolian flutes on a basalt
+rock Cady Mountains, California.
+Image courtesy of J. Laity.
+
+Figure A11 Aeolian flutes on
+carbonate rock, Cowhole Mountains,
+California. Note sharp, serrated keel
+perpendicular to wind flow and the
+presence of flutes on either side
+reflecting bi-directional wind regime.
+Image courtesy of J. Laity.
+
+13
+
+Chapter 2: Aeolian Features
+
+Grooves
+Scale: mm to cm
+Feature description:
+Grooves are similar features to flutes, and many workers group them together. However,
+Laity (1994), amongst others, defines grooves as being longer than flutes and open at
+both ends. They form on gently inclined surfaces, are often separated by sharp-crested,
+sometimes sinuous ridges, and their scale varies from mm to cm. Laity (1995) measured
+groove widths up to 7 cm in the Little Cowhole Mountains. Grooves can also be formed
+by fluvial abrasion (Richardson and Carling, 2005).
+
+Figure A12 Aeolian grooves
+developed on chalk, Farafra
+Oasis, Egypt. Note geological
+hammer for scale. Image
+courtesy of A. Goudie.
+
+Figure A13 Aeolian grooves
+(white arrow) developed on
+marble,
+central
+Namib
+Desert, Africa. The marble
+outcrop is about 50 cm wide.
+Image courtesy of H. Viles.
+
+14
+
+Chapter 2: Aeolian Features
+
+Grooves (cont.)
+
+Figure A14 Aeolian grooves (and flutes) on basalt rock Cady Mountains, California.
+Image courtesy of J. Laity.
+
+15
+
+Chapter 2: Aeolian Features
+
+Etching
+Scale: mm to cm
+Feature description:
+Lancaster (1984) describes how abrasion by dust (and sand) can produce etching,
+whereby lithological and mineralogical variations in the rock are accentuated. Thus, less
+resistant minerals or bands within a facet will become preferentially attacked, forming
+sometimes complex etching patterns. For example, abrasion can pick out foliation
+structures producing flute-like features, whether or not the foliation is parallel to the wind
+direction. Laity (1994) notes that, unlike flutes and grooves, aeolian etching patterns can
+be irregular.
+Figure A15 Etched sandstone
+boulder, Meteor Crater, Arizona.
+Note the overprinting of etching on
+alveoli weathering. Image courtesy
+of M. Bourke.
+
+Figure A16 Etched carbonate rock, Little
+Cowhole Mountains (Mojave Desert),
+California. Image courtesy of N. Bridges.
+
+Figure A17 Etched rock, Lake Vida, Dry
+Valleys, Antarctica. Full separation may have
+been enhanced by freeze-thaw action. Image
+courtesy of M. Badescu and S. Sherrit.
+
+16
+
+Chapter 2: Aeolian Features
+
+Pits
+Scale: mm to cm
+Feature description:
+Pits (also called re-entrants and salients by Cooke et al., 1993) appear to result from
+abrasion attacking pre-existing heterogeneities in the rock surfaces, such as cracks, less
+resistant mineral grains, or vesicles. Pits are defined by Laity (1994) as closed
+depressions, often of irregular shape. According to Greeley and Iverson (1985) pits form
+most commonly on windward facets inclined at between 55o and 90o to the wind.
+However, at the SEM scale Whitney (1979) identifies vortex pits as being produced by
+dust impacts within vortices affecting leeward facets, but such pits have not been
+recorded at the visible scale. Vortex pits appear to differ from sand-abraded pits because
+of the presence in the former of fine-textured dendritic abrasion within the pits (see Breed
+et al., 1997, Fig. 446). Pits may also be oriented at an angle to the surface on which they
+are developed. Christiansen (2004) notes elongated pits on Antarctic rock surfaces which
+form parallel to wind direction as a transitional feature between pits and grooves.
+
+Figure A18 Pits in basalt, Cady Mountains, California. Image courtesy of J. Laity.
+
+17
+
+Chapter 2: Aeolian Features
+
+Helical scores
+Scale: mm to cm
+Feature description:
+Relatively uncommon features, helical scores are corkscrew shaped depressions which
+deepen and spiral in a downwind direction, terminating in a sharp point. They have been
+recorded, for example, on marble in the Mojave Desert, California (Laity, 1995). Their
+genesis is uncertain, but they are thought to evolve from grooves or flutes and be
+produced under very high wind velocities. Similar forms (compound parallel-sided
+furrows) are also noted in fluvial systems (Richardson and Carling, 2005).
+
+Figure A19 Helical scores developed on
+marble in central Namib Desert. Image
+courtesy of H. Viles.
+
+Figure A20 Helical scores
+developed on carbonate
+rock,
+Little
+Cowhole
+Mountains,
+California.
+Image courtesy of J. Laity.
+
+18
+
+Chapter 2: Aeolian Features
+
+Projections (fingers, knobs and ridges)
+Scale: mm to cm
+Feature description:
+Projecting fingers are observed on very abraded facets, where small patches of highly
+resistant minerals have withstood abrasion in comparison with the surrounding surface. In
+some cases a visible inclusion can be seen at the top of the knob or finger, which has
+protected the underlying surface from erosion. Alternative names for these features
+include ‘collar studs’ (Powers, 1936) and ‘dedos’ (McCauley et al., 1979). Highly
+resistant mineral veins within rocks may also withstand abrasion to produce projecting
+ridges.
+
+Figure A21 A finger
+projection (towards viewer,
+white
+arrow)
+on
+Hermansberg
+Sandstone,
+Finke
+River
+Gorge,
+Australia. Image courtesy
+of M. Bourke.
+
+Figure A22 Differentially
+eroded ridges (quartz veins)
+in a basalt rock, Cady
+Mountains,
+California.
+Image courtesy of N.
+Bridges.
+
+19
+
+Chapter 2: Aeolian Features
+
+Smoothing and polishing
+Scale: mm to m
+Feature description:
+Smoothing and polishing of facets is one of the most commonly observed features
+associated with wind abrasion. Polish can occur across whole facets and also within flutes
+and grooves. The degree of polishing is a good indication of the relative age of the
+ventifact although rates vary with lithology (Laity, 1995). Wind polishing can produce
+glassy surfaces on suitable lithologies (Christiansen, 2004). Smoothing and polishing can
+also result from fluvial abrasion (see Fig. F5).
+Figure A23 A polished ventifact surface
+from the Hartman Valley, northern Namibia.
+Image courtesy of M. Bourke.
+
+Figure A24 A polished ventifact from the
+Little Cowhole Mountains, California. Image
+courtesy of Julia Fonseca.
+
+Figure A25 Polished facet on ventifact,
+Lake Vida, Dry Valleys, Antarctica. Image
+courtesy of M. Badescu and S. Sherrit.
+
+20
+
+Chapter 2: Aeolian Features
+
+Basal sill
+Scale: cm
+Feature description:
+Towards the base of larger ventifacts and rocks there is often a zone with minimal
+abrasion features developed, where soil or debris has protected the rock from abrasion.
+This produces a step or sill-like feature at the base of a facet. These sills can also form in
+aggressive weathering environments (see Fig. W19).
+
+Figure A26 Arrow indicates basal sill development on a faceted carbonate rock, Little
+Cowhole Mountains (Mojave Desert), California. Image courtesy of N. Bridges.
+
+21
+
+Chapter 2: Aeolian Features
+
+Summary table of aeolian features
+
+SCALE
+
+TYPE
+
+CLAST
+
+MATERIAL LOSS
+FACET
+NO MATERIAL LOSS OR
+GAIN
+
+NAME
+VENTIFACT
+SHARP FACET EDGE (KEEL)
+STRAIGHT FACET
+CURVILINEAR FACET
+FLUTES
+GROOVES
+ETCHING
+PITS
+HELICAL SCORES OR FORMS
+PROJECTING FINGERS, KNOBS
+AND RIDGES
+SMOOTHING AND POLISHING
+BASAL SILL
+
+22
+
+Chapter 3: Fluvial Features
+Bourke, M.C., Haas, W.R., Brearley, J.A., and Viles, H.A.
+
+View looking downstream along Oak Creek Canyon, Arizona. Image courtesy of M.
+Bourke.
+
+_____________________________________________________________________
+A Photographic Atlas of Rock Breakdown Features in Geomorphic Environments,
+Edited by Mary Bourke & Heather Viles © 2007 Planetary Science Institute, Tucson.
+
+Chapter 3: Fluvial Features
+
+Introduction
+In this chapter, we describe morphological features that are present on fluvial clasts. The
+features are typical of rivers from all flow and climatic regions. Sedimentary facies that
+contain such clasts include floodplains, terraces, channel beds, channel bars and alluvial
+fans. The clasts of interest in this atlas are cobble size and larger (i.e. >6.4 cm
+intermediate axis).
+Cobbles, along with other sediment sizes, usually enter the fluvial system through lower
+order tributaries or can be eroded from adjacent (often, but not always, alluvial)
+sediments. In steep upstream reaches or areas of bedrock confinement, clasts may be
+delivered directly from canyon walls (e.g., by toppling, avalanche or landslide Howard,
+1998) or by block quarrying (plucking) from in-channel bedrock exposures (Tinkler and
+Wohl, 1998). Boulders and megaclasts (> 4.1 m, Blair and McPherson, 1999) are
+sometimes introduced in this way. They may also be the remnant load of a palaeo- higher
+magnitude, flow regime (e.g., glacial outwash). In many rivers on Earth these large
+boulders and megaclasts are now ‘non-transported’, that is, they are stable relative to the
+surrounding bedload under the current flow regime (Richardson and Carling, 2005).
+Megaclasts that are positioned within the channel develop a myriad of features that are
+similar to bedrock bedforms (Richardson and Carling, 2005). Canyon wall collapse or
+impact by clasts during high magnitude floods may introduce smaller fragments of
+fluvially sculpted bedrock into the channel. In this way, clasts with erosional features that
+were formed on a relatively stable bedrock surface may be incorporated into the channel
+as bedload. Although we include some of these features in this atlas (i.e., potholes and
+flutes), a recent review of bedrock channel forms by Richardson and Carling (2005) has
+identified approximately 140 features, all of which could potentially exist on introduced
+clasts. Readers are encouraged to consult that publication for further detail.
+The mobilization of fluvial sediments often alters the surface morphology of clasts, and
+this chapter is primarily concerned with these features. Fluvial sediment is transported in
+three ways: wash, suspension and traction (Richards, 1982). Cobbles and larger size
+clasts generally tend to be transported as traction load. However, if the flow magnitude is
+sufficiently strong, they may be transported in suspension (e.g., Ritter, 1975). Traction
+load is generally moved by dragging and saltation. Transport of clasts in this way subjects
+them to percussion, grinding and abrasion, causing clasts to split, fracture and become
+polished (Kuenen, 1956; Marshall, 1927).
+Previous investigators have cited rounding (Howard, 1998), polishing, smoothing,
+fracturing and fissuring (Marshall, 1927) as indirect evidence of fluvial transport. In
+addition to these we have identified another thirteen signatures of fluvial transport. Eight
+of the additional features are related to percussion events. Such features include:
+percussion-fracture facet, percussion-fracture ridges (distal and proximal), bulb of
+percussion, radial fissure, undulation, hertzian cone, incipient cone, and termination. Pits,
+although related to percussion events, are not related to percussion fracture generation
+and are discussed separately. The remaining features, striations and scratches, potholes,
+and flutes, are primarily related to abrasion events. Many of the features described in this
+24
+
+Chapter 3: Fluvial Features
+
+chapter are not, of themselves, diagnostic of a fluvial environment. For example,
+percussion fracture features are also found on ejecta and colluvial clasts that have been
+subjected to percussion.
+Percussion Terminology
+The term ‘percussion fracture’ requires explanation. For the purpose of this atlas,
+percussion impact refers to any collision between a clast and another clast or bedrock. If a
+certain set of conditions are met during a percussion event, a percussion fracture may
+result. Cotterell and Kamminga (1987) identify three types of percussion fractures:
+conchoidal, bending, and wedging. Of these, conchoidal fractures appear to be the most
+relevant when considering geological processes.
+Geological literature, to our knowledge, does not provide a terminology for describing
+conchoidal fracturing. Archaeologists, on the other hand, have devoted considerable
+effort to understanding such fractures (Andrefsky, 1994; Whittaker, 1994) because the
+technology permitted hominids, for over 2.5 million years, to systematically reduce stone
+into tools with sharp cutting edges (Fig. F1). As the principles of physics that govern
+percussion flaking are the same whether a human action, flood event, or gravity causes
+two rocks to collide, many of the terms used herein are borrowed or adapted from
+archaeological literature.
+Conchoidal fractures are a special case of percussion fracture in which a cone-shaped
+stress wave passes through a rock resulting in the detachment of a flake from a core (Fig.
+F2). In rare instances, the detached flake will take the form of a cone known as a hertzian
+cone. But, conchoidal fractures do not always completely propagate, creating crescentic
+surface depressions known as incipient cones or ring cracks. If a conchoidal fracture fully
+propagates on the margin of a clast, a partial hertzian cone is formed and a flake is
+detached from the core (Fig. F2). The conchoidal fracture manifests on the core as a
+concave facet and on the flake as a convex facet.
+Conchoidal fracture faces are associated with a host of related sub-features. These sub
+features present important diagnostic criteria for identifying and analyzing percussion
+events. When considered in combination with other clast features, conchoidal fracture
+features can provide evidence of percussion that may indicate fluvial transport processes.
+A limited number of formal and informal archaeological experiments and ethnographic
+observations have shed light on the complex set of variables that influence clast fractures
+(Cotterell and Kamminga, 1987; Dibble and Whittaker, 1981; Speth, 1972; Speth, 1974;
+Speth, 1975; Speth, 1981).
+The current state of knowledge allows for a few concrete statements about the
+relationships between percussion fracture variables. First, all else being equal, lithology
+will affect the nature of the fracture. Rocks such as chert, flint, rhyolite and basalt are
+relatively brittle, elastic and homogenous, and are more likely to propagate a percussion
+fracture. Coarser, less homogeneous rocks such as granite are less conducive to
+conchoidal fracturing at the clast scale. Given a particular mineralogy, the next most
+important factor affecting flake morphology is collision and core geometry. Conchoidal
+
+25
+
+Chapter 3: Fluvial Features
+
+fractures most-often occur on the acute edges of clasts at an acute striking angle relative
+to the striking platform (Fig. F3). In general, the closer the platform angle is to 90°, the
+greater the flake length (Speth, 1981). Platform angles greater than 90° deter the
+propagation of percussion fractures. Finally, and perhaps most intuitively, striking force
+plays a key role in the morphology of percussion fractures (Dibble and Whittaker, 1981;
+Speth, 1972; Speth, 1974). Given a particular mineralogy and collision geometry, greater
+striking forces will produce larger percussion fractures. These three simple relationships
+between flake morphology and mineralogy, geometry, and force are fundamental to
+understanding how percussion fractures occur on clasts.
+
+All Fractures
+Fractures
+
+Propagation
+
+Initiation
+
+Percussion
+
+Non-percussion
+Terminal
+
+Incipient
+
+Crack
+
+Termination Hinge Overshoo Ste
+
+Cone
+
+Feather
+
+Hinge Overshoo Step Feather
+
+Wedge
+
+Hinge Overshoo Step Axial
+
+Figure F1 Classification scheme for percussion fractures (Cotterell and Kamminga,
+1987).
+
+26
+
+Chapter 3: Fluvial Features
+
+Figure F2 Diagnostic percussion-fracture features on volcanic glass from Glass Buttes,
+Oregon. The flake on the left was detached from the core on the right (percussed and
+imaged by R. Haas).
+
+Figure F3 Termination classification used in this
+study after Cotterell and Kamminga (1987). Grey
+arrow indicates direction of impact and dashed line
+shows pathway of fracture. Orange arrow indicates
+termination location. There are three types of
+terminations viewed in profile:
+1. Straight (also known as feather, (a)).
+2. Outcurved terminations curve away from the
+mass of the clast and can be one of two types: hinge
+(b) or step (c).
+3. Incurved (also known as overshoot (d)). See
+section on terminations for further discussion.
+Figure after Whittaker (1994).
+
+27
+
+Chapter 3: Fluvial Features
+
+Rounding
+Scale: clast
+Feature description:
+Clast roundness is perhaps the most cited indicator of fluvial transport. Abrasion (also
+known as corrasion) involves the mechanical erosion of rocks by numerous impacts from
+other sediment particles transported in the fluid. These particles may be carried in
+suspension or as bedload, or both. Each impact, if sufficiently energetic, breaks off a
+small piece of the surface. This may be at the scale of a small part of a grain (in the case
+of suspended load), or as much as a substantial chip of rock in the case of coarse bedload
+(Richardson and Carling, 2005). Factors that influence roundness are the particle form
+and the concentration and characteristics of other particles in transport. In fluvial systems,
+sand acts as an abrasive agent when transported with gravel particles, causing them to
+round quickly. Roundness increases with transport distance and particle size and decrease
+with hardness (Allen, 1985).
+
+Figure F4 Rounded and sub-rounded fluvial gravel on channel bed of semi-arid Finke
+River, central Australia. See also Figure F5 for rounded cobble. Image courtesy of M.
+Bourke.
+
+28
+
+Chapter 3: Fluvial Features
+
+Polishing and smoothing
+Scale: clast and facet
+Feature description:
+Suspended sediment can abrade clasts to form extremely smooth, shiny and sometimes
+gently undulating surfaces (Baker and Kale, 1998; Baker and Pickup, 1987; Hancock et
+al., 1998; Wohl and Ikeda, 1998). Although individual clasts can be polished, this
+phenomenon is more often observed on large non-transported clasts and introduced
+bedrock clasts which were already polished. It is found on hard, dense medium and fine
+grained textured clasts (e.g., medium sandstone and finer) (Richardson and Carling,
+2005).
+
+Figure F5 Polished quartzite cobble sitting on sand on a Cunene River terrace, northern
+Namibia. Surface markings are incipient cones. Image courtesy of M. Bourke.
+
+29
+
+Chapter 3: Fluvial Features
+
+Fissure
+Scale: clast and facet
+Feature description:
+The presence of fissures, where cracks can be seen on the rock surface, but without
+complete detachment, is common in fluvial environments. Fissures can form from
+multiple causes (e.g., weathering, ballistic impact, rock structure etc.) and are found in
+many geomorphic environments (fluvial, ejecta, talus slopes etc.). In fluvial
+environments, fissures result from impact with other transported clasts or by impact
+against immobile clasts or bedrock. These ballistic forces may also exploit pre-existing
+structural fissures.
+
+Figure F6 a & b Flood transported clasts in Oak
+Creek Canyon, Arizona. Large fissure bisects
+boulder. Note pits evident, most likely vesicles.
+Image courtesy of M. Bourke.
+
+30
+
+Chapter 3: Fluvial Features
+
+Broken and split clasts
+Scale: clast and facet
+Feature description:
+In fluvial systems, clasts can be broken into more angular shapes as a result of crushing
+between larger stones, and impact. For megaclasts (> 4.1 m, Blair and McPherson, 1999)
+and boulders that are transported infrequently, this is often the primary mechanism of
+physical breakdown. The resultant clast shape often has a sub-rounded to well-rounded
+facet that appears truncated by an angular, often intensely roughened, facet (see Fig. F7).
+Malarz (2005) reported that the proportion of broken and split clasts increased after flood
+events in two streams in the Carpathian mountains by >14% at all sample sites and as
+much as 49% at one site.
+
+Figure F7 Flood transported basalt boulder in Oak Creek Canyon, Arizona. Boulder has
+been split from larger boulder (not in image) along angular facet on left. Note also the
+percussion pits on the surface of the sandstone boulder in the foreground. Image courtesy
+of M. Bourke.
+
+31
+
+Chapter 3: Fluvial Features
+
+Percussion fracture facets (concave and convex)
+Scale: facet
+Feature description:
+During fluvial transport, clasts may collide with sufficient force to propagate percussion
+fractures (Fig. F2). Clast breakage by percussion, particularly on fine-grained rocks,
+creates smooth, shell-like convexities and concavities. These curvilinear facets may have
+secondary morphologies on their surface (e.g., radial fissures, undulation marks) and
+these are described as sub-features following percussion fracture facets. Curvilinear
+facets were commonly observed on the basalt boulders at the Oak Creek Canyon field site
+in Arizona.
+The size, angularity, and shape of a clast surface will affect the morphology of percussion
+fractures and their sub-features. It is generally thought that the angle at which two
+adjacent facets meet controls the fracture type. For example platform angles less than 90°
+are more conducive to the propagation of percussion fractures. Obtuse angles deter
+percussion fractures except in optimal situations in which exceptionally brittle, elastic
+stone is percussed with a relatively large amount of force.
+The superposition and patina of percussion fracture faces may also provide useful
+evidence for the relative sequence of percussion events. Facets that crosscut fracture
+ridges are the result of subsequent percussion events. In addition, conchoidal fracturing
+exposes fresh, un-oxidized surfaces. If there is a measurable difference in the degree of
+patination between two percussion fracture facets, it is reasonable to infer separate
+events.
+
+Figure
+F8
+Floodtransported boulder, Oak
+Creek Canyon, Arizona.
+Note the presence of
+curvilinear (concave) facets.
+Image courtesy of M.
+Bourke.
+
+32
+
+Chapter 3: Fluvial Features
+
+Percussion fracture facet (cont.)
+
+Figure F9 a & b Flood transported boulders from Oak Creek Canyon, Arizona. Note the
+preferential location of percussion fractures along the edge of the boulders. Image
+courtesy of M. Bourke.
+
+33
+
+Chapter 3: Fluvial Features
+
+Incipient cone
+Scale: cm
+Feature description:
+Crescent or circular-shaped fractures form surface depressions as a result of clast impact.
+They often occur as rings that are 5-10 cm in diameter. In fluvial settings, the rounded
+geometry of clasts combined with relatively low-velocity collisions that often occur
+during transport, prevent percussion fractures from fully propagating. In these situations,
+a surface of relatively shallow crescent-shaped depressions is formed. These features are
+surface manifestations of subsurface hertzian cones (see below), hence they are termed
+incipient cones. In the fluvial literature, a second hypothesis for the presence of incipient
+cones is that they are caused
+by cavitation (see fig. 141a
+and b in Richardson and
+Carling, 2005). However,
+erosion of rock by cavitation
+in natural bedrock settings is
+not thought to be significant,
+as the natural roughness of the
+channel may substantially
+aerate the flow and inhibit
+cavitation (Hancock et al.,
+1998).
+Incipient cones are persistent
+features on rock surfaces, as
+they are zones of weakness
+and therefore locations of
+enhanced
+weathering
+(chemical and physical). As a
+result, their surface patterns
+become emphasized with
+time. In addition, as the
+fractures extend in a cone
+shape into the rock (mm to
+cm), the weathering can
+continue at depth.
+Figure F10 Incipient cones on (from top to bottom) obsidian from Partridge Creek,
+Arizona, rhyolite from Partridge Creek, Arizona, quartzite from Cunene River N.
+Namibia, and quartzite from Finke Gorge, Australia. The crescentic depressions on the
+rock surfaces are the result of rock-to-rock collisions during flood events. Image collage
+courtesy of R. Haas.
+
+34
+
+Chapter 3: Fluvial Features
+
+Hertzian cone
+Scale: mm to cm
+Feature description:
+Hertzian cones may be formed when the impact force is particularly high (Whittaker,
+1994). In some rare instances, the full expression of a hertzian cone may be exposed on
+the surface of a clast, but more often only a portion of the cone is exposed (see Fig. F11).
+Typically, the hertzian cone remains in the subsurface (see incipient cones). Hertzian
+cones are also reported in the aeolian literature to describe abrasion marks at the micron
+scale from sand grain-to-grain impact (Greeley and Iversen, 1985; Marshall, 1979).
+
+Figure F11 Partial hertzian cone exposed on the edge of a quartzite cobble from Finke
+River Gorge in central Australia. Note how the proximal end of the cone articulates with
+a circular depression on the surface. Image produced by R. Haas.
+
+35
+
+Chapter 3: Fluvial Features
+
+Percussion fracture ridge
+Scale: facet
+Feature description:
+Percussion fractures are framed by ridges that define the extent of the fracture. These
+ridges are formed where a conchoidal facet intersects the original clast surface or another
+facet. In general, the angularity of the ridge, which can range from sharp to muted, is
+inversely related to the age of the percussion event as they are relatively susceptible to
+rounding. Facet ridges also influence the shape and path of subsequent percussion
+fractures as later impact fractures preferentially follow existing ridges. If there are no
+ridges to guide the force of percussion, then the percussion fractures will tend to fan out
+rapidly (Fig. F9). There are two general types of percussion fracture ridges: proximal and
+distal.
+Proximal ridges result from the initiation of the percussion event. They are oriented
+roughly 90° to the percussion axis. The profile view of a proximal ridge is always acute
+for the core and obtuse for the flake (Cotterell and Kamminga, 1987). As a result, the
+proximal ridges often create surfaces amenable to subsequent percussion events (see Figs.
+F13 and F15).
+Distal ridges are created where the force of percussion terminates. A series of distal
+ridges on the surface of a clast indicate multiple, often overlapping, percussion facets.
+Distal ridges on flakes almost always create angles of less than 90°, whereas those on
+cores are almost always greater than 90°. The importance of this is that sharper angled
+ridges on flakes have a tendency to round more quickly in fluvial environments and may
+explain the relative paucity of flakes in these environments.
+
+Figure F12 Percussion fracture
+ridges (distal) (a) on a basalt
+clast in Oak Creek Canyon,
+Arizona. Muted ridge fractures
+are indicated (b). Image
+courtesy of M. Bourke.
+
+36
+
+Chapter 3: Fluvial Features
+
+Bulb of Percussion
+Scale: sub-facet
+Feature description:
+A single bulb of percussion is almost always evident in a conchoidal fracture facet. On
+the proximal end of the concave facet of a core, the bulb of percussion describes a
+prominent dish-shaped surface (Fig. F13). The bulb represents a partial hertzian cone,
+which is responsible for initiating the conchoidal fracture. This feature always begins at
+the point of initiation and fans outward toward the distal end. Often the bulb of
+percussion terminates partway down the conchoidal fracture face, as in figure F15, but
+sometimes the bulb comprises the entire conchoidal fracture face (Fig. F13). For every
+concave bulb of percussion on a core, there is (or was) a conjugate flake with a convex
+bulb of percussion.
+
+Figure F13 Overprinting of percussion fractures. a) Large step termination. b) Bulb of
+percussion. c) Radial fissures. Multiple smaller percussion marks overlap along the lower
+edge of boulder. Image courtesy of C. Matter.
+
+37
+
+Chapter 3: Fluvial Features
+
+Terminations
+Scale: sub-facet
+Feature description:
+The morphology of a distal ridge varies according to the type of percussion termination.
+The interplay of many factors including impact geometry and force, surface morphology,
+and mineralogy affects the way a conchoidal facet terminates. There are three general
+types of percussion terminations (Cotterell and Kamminga, 1987): straight, outcurved or
+incurved (see Fig. F3). Outcurved terminations curve away from the mass of the clast and
+can be one of two types, hinge or step.
+Hinge terminations are curvilinear and occur when the force of percussion abruptly but
+smoothly curves away from the mass of the core.
+Step terminations are angular and occur when the flake breaks at a right angle to the facet
+plane. Step terminations typically occur when there is insufficient force to propagate a
+flake or where relatively low-angle, fragile rock surfaces have insufficient mass to bear
+the load of the percussion event. The latter situation is common on proximal ridges (Fig.
+F13).
+Hinge and step terminations create topographic irregularities that deter subsequent
+percussion fractures from fully propagating. The result is that step fractures can “pile up”
+behind the initial step fracture. The accumulation is called stacking (see Fig. F15).
+Terminations are not mutually exclusive, as the length of a single distal ridge may include
+multiple termination types. The lateral margin of a percussion facet always has at least
+some length of feather termination, but the ridge at the distal end of the flake may exhibit
+multiple terminations.
+
+Figure F14 Feather termination (a) on basalt boulder, Oak Creek canyon, Arizona. Note
+that successive percussion events are evidenced by differential patina and overprinting (b)
+of the percussion fracture facets. Image courtesy of M. Bourke.
+
+38
+
+Chapter 3: Fluvial Features
+
+Terminations (cont.)
+
+Figure F15 Step (a) and feather (b) terminations on basalt boulder, Oak Creek Canyon,
+Arizona. Note the stacking of percussion fractures and the radial fissures emanating from
+the point of impact. Image courtesy of M. Bourke.
+
+39
+
+Chapter 3: Fluvial Features
+
+Radial fissures
+Scale: sub-facet
+Feature description:
+Radial fissures emanate from the point of impact in a radiating pattern and are the surface
+manifestation of a radiating shockwave. They tend to be topographically more prominent
+on relatively coarse-grained structures such as those in Figures F16 and F17.
+
+Figure F16 Radial fissures on
+basalt
+boulder
+following
+percussion. Oak Creek Canyon,
+Arizona. See also Figures F1315. Image courtesy of M. Bourke.
+
+Figure F17 Large radial
+fissures (a) in Oak Creek
+Canyon, Arizona. Note
+modification
+and
+overprinting at edges by
+step
+terminations
+(b).
+Image courtesy of M.
+Bourke.
+
+40
+
+Chapter 3: Fluvial Features
+
+Undulations1
+Scale: sub-facet
+Feature description:
+Undulations are concentric ridges that originate from the initiation point of a percussion
+fracture. They are aligned perpendicular to the direction of impact. Often, undulations
+have the greatest amplitude close to the impact point and frequency decreases with
+distance. However this needs to be tested with more field observations. Trends may be
+complex as multiple, embedded undulations can occur on the same facet.
+
+Figure F18 Undulations on the surface of a fluvial boulder. The features display muting,
+likely by fluvial abrasion. Oak Creek Canyon, Arizona. Image courtesy of M. Bourke.
+
+1
+
+These features are known as ripples in the archaeology literature, but the use of that term in this context is
+not appropriate given its existing use in fluvial and aeolian literature.
+
+41
+
+Chapter 3: Fluvial Features
+
+Percussion pits
+Scale: clast
+Feature description:
+Percussion events often crush the mineralogical structure of the surface, resulting in pits
+(Figs. F7 and F19). These features occur in relatively non-brittle and/or heterogeneous
+materials. Some lithologies, e.g., sandstone, will not usually propagate a percussion
+fracture. Instead, impacts tend to dislodge sand grains and leave a depression. However
+pits can co-occur with percussion fractures. Often, some degree of crushing may be
+evident at the initiation point of a percussion fracture. On stable clasts, the circular or
+ovoid planform may become modified by erosion focused on the downstream lip, and the
+percussion pits may become loci for incipient flute development (Richardson and
+Carling, 2005).
+
+Figure F19 Flood transported clast in Oak Creek Canyon, Arizona showing percussion
+pits. Note step terminations at edge of percussion pits. Image courtesy of M. Bourke.
+
+42
+
+Chapter 3: Fluvial Features
+
+Striations/scratches
+Scale: cm wide, mm deep
+Feature description:
+Rock striations, also known as tool marks, are formed on mobile clasts as they slide over
+protrusions (clasts and bedock) in the channel bed (Fig. F20). They also form on
+stationary clasts and bedrock by moving clasts. Striations are typically a few cm in length
+and commonly occur in groups which can be i) arranged simply, ii) aligned but not
+parallel or iii) in parallel, looped or arcuate pattern (Fig. F21) (see also Richardson and
+Carling, 2005). Occasionally they may form deeper rills (Bourke, 1990). Striations are
+also observed on rocks that have been glacially transported, but these can be
+distinguished from fluvial features by analysis of micro-features (e.g., Van Hoesen and
+Orndorff, 2004).
+Figure F20 Tool marks (rillsized) on the under-side of the
+boulder
+(bright
+markings)
+indicates sliding and grinding
+movement of this 200 cm granite
+boulder over gravel, Cloghoge
+River, Co. Wicklow, Ireland.
+Both dark manganese staining
+and mm depth of granite were
+removed. Image courtesy of M.
+Bourke.
+
+Figure F21 Schematic figure of striation patterns found in bedrock channels (after
+Richardson and Carling, 2005)
+
+43
+
+Chapter 3: Fluvial Features
+
+Pothole
+Scale: cm to m
+Feature description:
+These are widely reported features in bedrock channels (e.g., Baker and Pickup, 1987;
+Whipple et al., 2000; Wohl, 1993; Wohl and Achyuthan, 2002). They are essentially
+circular (in plan view) deep depressions which are eroded by vortices (Richardson and
+Carling, 2005). They are common in constricted channel reaches and may take 103 yr to
+form in resistant rock (Wohl, 1998). They are often associated with joints, fractures and
+small channel bed irregularities (Hancock et al., 1998). Potholes may evolve from the
+more rounded of the flute forms as erosion is focused downward rather than headward
+where vertical vortices act to selectively erode the flute bottom (Hancock et al., 1998).
+Although potholes are not likely to form on transported clasts, they may enter the channel
+bedload system by erosion (undercutting, plucking) of bedrock.
+
+Figure F22 a & b Segment of breached potholes formed in bedrock but subsequently
+entrained in the Cunene River, N. Namibia. Image courtesy of M. Bourke.
+
+Figure F23 Pothole developed on
+megaclast in the Cunene River, N.
+Namibia. Image courtesy of M.
+Bourke.
+44
+
+Chapter 3: Fluvial Features
+
+Flutes
+Scale: cm
+Feature description:
+Flutes form on megaclasts and bedrock from abrasion by suspended load (Baker and
+Pickup, 1987; Gupta et al., 1999; Hancock et al., 1998; Whipple et al., 2000). In bedrock
+channels they are often well developed on the top of bedrock protrusions and the crest of
+large boulders. They are very well developed on fine grained rock and are associated with
+joints, fractures and small bed irregularities. Similar to their aeolian counterpart (see Figs.
+A7-A11), fluvial flutes are closed at the upstream end. They are thought to migrate in an
+upstream direction and occasionally have a more rounded rather than elongated shape.
+Hancock et al (1998) attributed this to a diminished strength of flow separation due to
+changes in the feature itself or in the surrounding bed. Flutes are poorly described in the
+fluvial literature and a comparative analysis with aeolian features is yet to be undertaken.
+
+Figure F24 Spindle-shaped flutes (Richardson and Carling, 2005) developing at the sites
+of vesicles in volcanic rock (Rhyolitic agglomerate), Huai Nang Rong, Thailand. Flow
+from left to right. Image courtesy of K. Richardson.
+
+45
+
+Chapter 3: Fluvial Features
+
+Flutes (cont.)
+
+Figure F25 En echelon flutes (Richardson and Carling, 2005) developed on Granitic
+gneiss megaclast, Nam Mae Chaem (Ob Luang), Thailand. Flow from bottom right to top
+left. The boulder is approximately 4 m across. Image courtesy of K. Richardson.
+
+Figure F26 Large flute on megaclasts, Cunene
+River, N. Namibia. Image courtesy of M.
+Bourke.
+
+46
+
+Chapter 3: Fluvial Features
+
+Summary table of fluvial features
+
+CLAST
+MOBILITY
+
+SCALE
+
+FEATURE
+
+CLAST
+
+ROUND
+POLISHED & SMOOTH
+
+TRANSPORTED
+& NON-
+
+FISSURE
+
+TRANSPORTED
+
+FACET
+
+BROKEN AND SPLIT CLAST
+PERCUSSION FRACTURE
+FACET
+
+INCIPIENT CONE
+HERTZIAN CONE
+PERCUSSION FRACTURE
+
+TRANSPORTED
+& NON-
+
+RIDGE
+
+TRANSPORTED
+
+NONTRANSPORTED
+
+FACET
+
+BULB OF PERCUSSION
+TERMINATION
+RADIAL FISSURE
+UNDULATION
+PERCUSSION PIT
+STRIATION, SCRATCHES
+POTHOLE
+FLUTE
+
+47
+
+Chapter 4: Weathering Features
+Viles, H.A. and Bourke, M.C.
+
+Alveoli on top of a weathered volcanic boulder in the Atacama Desert, Chile. Note large
+tafoni at base. Image courtesy of H. Viles.
+
+____________________________________________________________________
+A Photographic Atlas of Rock Breakdown Features in Geomorphic Environments,
+Edited by Mary Bourke & Heather Viles © 2007 Planetary Science Institute, Tucson.
+
+Chapter 4: Weathering Features
+
+Introduction
+Mechanical, chemical and biological weathering processes all leave a range of clear
+morphological signatures on boulder surfaces. On Earth, weathering features produced in
+arid (hot and cold) and urban environments have been particularly well observed and
+categorized, and the major features identified from such extreme terrestrial environments
+are probably the most useful analogues for geomorphological interpretation on other
+planets. Often, combinations of weathering processes appear to act together or in
+sequence, to produce the observed breakdown features. This breakdown takes place
+predominantly in situ and movement of weathered materials is local and confined largely
+to the rock location. Even the unconsolidated rock residue may continue to break down in
+place until an end product, essentially in equilibrium with the environment, is formed.
+Many of the features assumed to be produced by weathering also have, perhaps
+superficial, visual similarities to those produced by aeolian processes.
+Mechanical weathering involves the breakdown of rock material into smaller pieces
+without any change in the chemistry or mineralogy of the rock. Disintegration of rock
+material is achieved by the generation of forces within the rock mass. These forces are
+derived either from the growth of materials in voids (predominantly by frost action or the
+growth of salt crystals and occasionally by organic growths) or the internal expansion of
+rocks and minerals. The physical weathering processes associated with internal expansion
+include thermal expansion, unloading, hydration, wetting and drying, organic expansion
+and salt weathering (Dixon, 2004).
+Chemical weathering processes are those which involve the chemical and or
+mineralogical transformation of rocks and minerals into products that are more in
+equilibrium with surface conditions. Several principal chemical weathering processes are
+recognized including solution (dissolution), hydrolysis, hydration, carbonation, chelation
+and redox reactions (oxidation and reduction) (Dixon, 2004).
+Biological weathering by plants, lichens, algae and bacteria represents a significant
+contribution to the chemical weathering of rocks and minerals, primarily due to the fact
+that it produces abundant quantities of organic acids. On Earth most rock surfaces have
+some covering of micro-organisms in the form of a biofilm; although these do not always
+contribute to rock breakdown and may in fact form a bioprotective layer preventing other
+weathering agents from reacting with the rock (Carter and Viles, 2005).
+In most environmental settings weathering processes act in combination and often
+synergistically. For example, physical weathering produces cracks and flakes, causing an
+increase in reactive surface area available for chemical weathering.
+See Dorn and Cherveny (2005) for other useful images of weathering features.
+
+49
+
+Chapter 4: Weathering Features
+
+Rounded clast
+Scale: clast
+Feature description:
+Rounded clasts can be produced by intense weathering. Chemical weathering within soils
+and deep weathering mantles in humid tropical areas has often been seen to produce
+rounded ‘corestones’ of ‘spheroidal weathering’ on rocks such as granite. However, such
+rounded blocks can also be produced within shallow soils and saprolites as recorded in
+southern Sweden (Lidmar-Bergstrom et al., 1997), the Sudetes, and Nova Scotia (Migon,
+1999). Exfoliations caused by salt weathering and other processes within arid areas can
+also produce rounded rocks (as shown in Fig. W1). Lithological control (including
+fracture density and pattern) is probably important – some rock types (e.g., granitoid and
+basaltic rocks) are more likely to produce rounded residual boulders than others. Rounded
+clasts can also be produced by a range of other rock breakdown processes including
+abrasion during fluvial transport.
+
+Figure W1 Extreme spalling and flaking of a rounded granite clast in the central Namib
+Desert. Image courtesy of H. Viles.
+
+50
+
+Chapter 4: Weathering Features
+
+Angular clast
+Scale: clast
+Feature description:
+Weathering by freeze-thaw action in periglacial areas is often assumed to produce
+angular clasts as is weathering in hot deserts (Cooke et al., 1993). Physical weathering
+processes, such as freeze-thaw and salt weathering often cause flaking and spalling of the
+surface which can create angular residual clasts. Lithological control is probably critical
+to the exact shape produced from such processes with fracture density and pattern an
+important control, and not all clasts weathered by freeze-thaw are angular (e.g., Hall and
+Hall, 1991). Furthermore, as a very wide range of breakdown processes may produce
+angular clasts it is a difficult clast property to use confidently as diagnostic of any
+particular process regime.
+
+Figure W2 Angular basalt clasts affected by mechanical weathering, near Purros, N
+Namibia. Image courtesy of H. Viles.
+
+51
+
+Chapter 4: Weathering Features
+
+Split rock
+Scale: clast
+Feature description:
+Intense physical weathering can enhance pre-existing weaknesses (such as fractures or
+joints) within boulders and produce split rocks (called Kernsprunge in German). Within
+deserts, many 19th century explorers reported hearing ‘pistol shots’ at night and finding
+split rocks the next morning, suggesting that dramatic cracking may occur under intense
+heating and cooling regimes. Lightning and fire have also been reported to produce split
+rocks (Dorn, 2003). Under experimental conditions such processes have been hard to
+reproduce, and moisture may be necessary to encourage splitting. Ollier (1971) also notes
+that split rocks can be produced by unloading affecting corestones within a weathered
+rock layer. The processes responsible for split rocks may be scale-dependent: larger split
+blocks may be produced by unloading, whereas smaller split blocks are likely to be
+formed by physical weathering. However, boulder to boulder collisions or impacts may
+also cause split rocks, so care needs to be taken in diagnosing the setting of the split rock
+before a confident identification of the formative process regime can be made.
+
+Figure W3 Split rock from the Atacama Desert, Chile. Volcanic rocks in the coastal
+plain here are affected by intense heating and cooling as well as salt weathering. Image
+courtesy of H. Viles.
+
+52
+
+Chapter 4: Weathering Features
+
+Pedestal/undercut rock
+Scale: clast
+Feature description:
+In several rock types weathering may become concentrated at the base of boulders,
+producing undercutting and the development of small pedestals. They are also referred to
+as mushroom rocks, flared rocks, balanced rocks and perched blocks although there is
+some terminological confusion between boulders with true pedestals and those that are
+simply resting on a surface (Twidale, 2004). Undercut rocks are particularly well
+developed in sandstone, limestone and granite. The causes for such features are hotly
+debated, with some workers ascribing them to enhanced weathering below a cover of soil
+or sediment which has subsequently been removed. Others, however, implicate aeolian
+processes or shadow weathering (Schattenverwitterung) in producing the undercut
+elements, without any need for a former soil or sediment covering. Twidale (2004)
+provides a good review of the debate. It is most probable that several different process
+combinations could produce such features.
+
+Figure W4 Pedestal rock in granite from
+Ameib Ranch, Namibia. Image courtesy of
+H.Viles.
+
+Figure W5 Pedestal rock in sandstone
+Finke River Gorge, central Australia.
+Image courtesy of M. Bourke.
+
+53
+
+Chapter 4: Weathering Features
+
+Doughnut rock
+Scale: clast
+Feature description:
+Rounded boulders can become hollowed out in the middle to produce an annular-shaped
+clast. The processes responsible have not been described (as far as we are aware), and the
+only observations we can find of such features are from the Atacama Desert, Chile and
+Antarctica. Such features should not be confused with the ‘rock doughnuts’ observed on
+some granite outcrops, which are pits surrounded by a raised rim (Campbell, 1997).
+Morris et al., (1972) described ‘potholes’ in sandstone in the dry valleys in Antarctica.
+They suggest that the holes are enlarged by freeze-thaw action of snow melt that has
+collected in a hollow. They do not speculate on how they are initiated. Perhaps the
+features in Figures W 6 and W7 are examples of breached ‘potholes’. Similar pot hole
+morphologies are formed by fluvial processes (see Fig. F22 & F23).
+
+Figure W6 Doughnut rocks
+formed by weathering of
+volcanic rocks in the Atacama
+Desert, Chile. Image courtesy of
+H. Viles.
+
+Figure W7 a and
+b Doughnut
+rocks
+(left) and pothole
+(right) near Lake Vida,
+Dry
+Valleys,
+Antarctica.
+Image
+courtesy
+of
+M.
+Badescu and S. Sherrit.
+
+54
+
+Chapter 4: Weathering Features
+
+Microsolutional features
+Scale: mm to cm
+Feature description:
+Small, often dendritic and curvilinear rills or grooves are found on rock surfaces. Their
+occurrence is restricted to soluble rocks within arid environments. They were first
+described by Lowdermilk and Woodruff (1932) who named them ‘rillensteine’. It is
+hypothesized that these features are produced through chemical weathering where water
+availability is low, thus only small features result. Often they are found on ventifacts. It
+has been suggested that wind-driven films might, on occasion, produce rillensteine with
+preferential orientations to prevailing winds (e.g., Maxson, 1940). A whole suite of
+similar features can be observed which are miniature versions of the karren features
+found on soluble rocks under humid conditions. (see Fig. 21.4 in Cooke et al., 1993).
+
+Figure W8 Microsolutional features
+formed on a basalt clast from NW
+Namibia. Image courtesy of H. Viles.
+
+Figure W9 a & b Microsolutional features
+formed on ventifacts from California. Images
+courtesy of J. Fonseca.
+
+55
+
+Chapter 4: Weathering Features
+
+Weathering grooves/rills
+Scale: cm
+Feature description:
+Most grooves or rills produced by weathering are part of the suite of karren features
+developed as a result of solution of soluble rocks. They are most commonly noted on
+carbonate rocks, but can, in fact, develop on any soluble rocks such as gypsum and halite.
+They are usually found on steeply dipping surfaces and consist of a collection of parallel
+grooves, with U shaped cross-profiles. Each groove is separated from its neighbor by a
+sharp edge. They start at the crest of a slope or facet and die out downslope. Widths are
+characteristically 1 – 3 cm and length is some 10s of cm. Sweeting and Lancaster (1982)
+discuss their occurrence alongside aeolian grooves and flutes on carbonate rocks in the
+central Namib Desert. Similar grooves produced by weathering are also found on
+granitoid rocks and sandstones, although in this case solutional processes are probably
+not the dominant formative agent (Migon, 2006; Twidale, 1982). Many of the grooves on
+sandstones and granitic rocks are much larger than rillenkarren found on limestone.
+
+Figure W10 Rillenkarren on massive limestone, Napier Range, NW Australia. Image
+courtesy of A.S. Goudie.
+
+56
+
+Chapter 4: Weathering Features
+
+Micropitting
+Scale: mm – cm
+Feature description:
+On many different rock types small pits can be produced by chemical and biological
+weathering, often developing from microscale irregularities within the rock surface which
+may be lithologically controlled (e.g., vesicles in basalt). Lichen fruiting bodies, for
+example, are known to form small circular depressions in limestones (Danin and Garty,
+1983).
+
+Figure W11 Micropitting
+formed in fine-grained
+basalt,
+McMurdo,
+Antarctica. Image courtesy
+of G. Osinski.
+
+Figure
+W12
+Micropitting formed in
+dolerite, Transantarctic
+Mountains, Antarctica.
+Image courtesy of G.
+Osinski.
+
+57
+
+Chapter 4: Weathering Features
+
+Weathering pits
+Scale: cm to m
+Feature description:
+A whole range of names have been applied to pits produced by weathering (e.g.,
+gnamma, opferkessel, pias, vasques) which can occur over a wide range of scales and are
+found on many different rock types. On soluble rocks, such as limestone, such features
+are often ascribed to dissolution, and are found in association with other karren features,
+and given names such as kamenitza. Weathering pits have also been extensively recorded
+on granite and similar rocks, ranging in diameter from 15-20 cm to a few meters (Migoń,
+2006). Large weathering pits may have overhanging or flared sidewalls. There is still
+much discussion on how pits develop in rocks that produce insoluble weathering residue.
+
+Figure W13 a & b.
+Kamenitza
+(white
+arrows)
+and
+rillenkarren
+(red
+arrow) on limestone
+in the southern Namib
+Desert.
+Image
+courtesy of H. Viles.
+
+58
+
+Chapter 4: Weathering Features
+
+Granular disintegration
+Scale: mm to cm
+Feature description:
+Granular disintegration is, strictly speaking, a type of breakdown process whereby
+weathering of various sorts (solution of soluble cement, stress induced by volumetric
+expansion, release of residual stress, water adsorption (Nicholson, 2004)) acts to detach
+individual grains from a rock surface, usually producing a roughened surface. The
+product is often loose, coarse grained debris which can easily be removed by erosional
+agents such as wind, water or gravity. This form of rock breakdown occurs commonly in
+coarse grained rocks such as sandstone, dolerite and granite. Clay-rich sandstones are
+thought to be particularly susceptible (Smith et al., 1994). Granular disintegration
+produces a very similar effect to differential weathering in poly-mineral rocks, whereby
+particularly susceptible minerals are preferentially weathered out creating a pitted or
+roughened surface. Sparks (1971), shows an example where rhomb-shaped phenocrysts
+of feldspar have been weathered out from a boulder in Norway leaving a roughened
+surface.
+
+Figure W14 Roughened surfaces caused by differential weathering of minerals within
+coarse granitoid rock, NW Namibia. Image courtesy of H. Viles.
+
+59
+
+Chapter 4: Weathering Features
+
+Alveoli or honeycombs
+Scale: cm
+Feature description:
+Alveoli are small (less than about 1m) cavernous weathering features which usually occur
+in groups. Individual alveoli are separated from their neighbors by narrow, intricate walls,
+creating an overall honeycombed surface. Many different weathering processes have been
+implicated in their formation, and they occur in a wide range of terrestrial environments
+(e.g., coastal outcrops, Antarctica and hot deserts). Alveoli commonly form on large
+boulders and can cover whole facets. Their initiation and outline shape may be
+constrained by lithological variations, but they appear to develop by positive feedback in
+that once a hollow is initiated it creates an environment in which weathering is favored
+(Smith and McAlister, 1986).
+
+Figure
+W15
+Alveoli
+developed in mica schist, NW
+Namibia. The large heartshaped hollow in the centre
+of the image is approximately
+10 cm in diameter. Image
+courtesy of M. Bourke
+
+Figure
+W16
+Alveoli
+developed in sandstone,
+Fink River Gorge, central
+Australia. Note flaking on
+back wall. Image courtesy
+of M. Bourke
+
+60
+
+Chapter 4: Weathering Features
+
+Tafoni
+Scale: m.
+Feature description:
+Tafoni are large (usually over 1m in diameter) cavernous weathering features. Often
+developed towards the base of large boulders, they are characterized by having a flaking
+backwall (when actively forming), and an overhanging lip in front. The opening of the
+tafoni is often near-circular. They are a common feature of deserts, semi-arid regions and
+near coasts or anywhere salts can precipitate from dew or fog (Mustoe, 1982; Young,
+1987). They occur in a wide range of lithologies but particularly in medium and coarse
+grained granites, sandstones and limestones. They are thought to be the result of flaking
+and granular disintegration (caused by hydration, salt crystalisation and chemical attack
+caused by saline solutions, Goudie, 2004a). Some tafoni have overhanging visors or rims
+that partly enclose the opening. In permeable sandstones, volcaniclastic rocks, and
+limestone, secondary cementation by precipitates in the outer layers may contribute to the
+resistant visors (Bloom, 1998; Martini, 1978). Tafoni have been recorded as developing
+over periods of around 104 yrs in Arizona, but very different rates of formation may occur
+in other areas (Norwick and Dexter, 2002).
+
+Figure
+W17
+Tafoni on large
+boulder, near Lake
+Vida, Dry Valleys,
+Antarctica.
+Image courtesy of
+M. Badescu and S.
+Sherrit.
+
+Figure W18 Well-developed and eroding tafoni in volcanic
+rock, showing spalling from the back wall. Atacama Desert,
+Chile. Image courtesy of H. Viles.
+
+61
+
+Chapter 4: Weathering Features
+
+Basal hollow (‘shark’s fin’ weathering)
+Scale: cm
+Feature description:
+In many arid environments, especially where the surficial sediments are salt-rich,
+weathering is concentrated in the near-surface zone. Below the surface, and within a
+blanket of sediment, boulder surfaces are relatively pristine and unweathered. However, a
+highly aggressive weathering environment is found at the surface. This zone often
+produces accelerated weathering and the formation of a basal hollow.
+
+Figure W19 Basal hollow above a basal sill on volcanic rock clast. Clast was removed
+from partial burial on a salty surface, Atacama Desert, Chile. Image courtesy of H. Viles.
+
+62
+
+Chapter 4: Weathering Features
+
+Flaking
+Scale: mm to cm
+Feature description:
+Flaking surfaces are produced where a range of weathering processes acts to remove
+sections of the near-surface layer. The lithological characteristics of the rock often
+determine the size and nature of the flakes removed, which can vary from tiny, thin mm
+to cm sized flakes. Layered and foliated rocks are particularly susceptible to flaking, as
+are those where surface crusts have developed. Migoń (2006) defines flakes on granite as
+being less than 1 cm thick.
+
+Figure W20 Flaking on a small metamorphic rock clast from NW Namibia. Image
+courtesy of H. Viles.
+
+63
+
+Chapter 4: Weathering Features
+
+Spalling
+Scale: cm to m
+Feature description:
+Spalling is the peeling off of platy fragments from the surface of a rock. It is
+differentiated from flaking merely by being larger. Often parts of the surface of boulders,
+some 10s of cm in diameter and generally 1-5 cm in thickness, become detached by a
+combination of weathering processes. Migoń (2006) defines granite spalls as being
+between 1 and 30 cm thick, and up to 5 m2 in surface area. Layered, foliated, crusted or
+case hardened rocks are particularly susceptible to spalling. Lithological controls,
+coupled with suitable penetration of water and temperature fluctuations, may determine
+whether rocks suffer flaking or spalling. Spalling may be accompanied by surface
+alteration or case hardening.
+
+Figure W21 Spalling mica schist boulder from Cunene Sand Sea, NW Namibia. Note
+large detached fragment to left of rock. Image courtesy of H. Viles.
+
+64
+
+Chapter 4: Weathering Features
+
+Multiple splits
+Scale: cm
+Feature description:
+Instead of merely suffering from surface loss, as is the case for rocks affected by granular
+disintegration, flaking and spalling, some (especially small) clasts can break down as a
+result of the development of one, or more commonly a suite of, parallel fractures cutting
+through the whole rock (like a sliced loaf of bread). Such split rocks have been described
+in many deserts and differential receipt of solar radiation may be an important cause
+(McFadden et al., 2005). Multiple splits have also been observed on high latitude coasts,
+ascribed to hydration (P. Migoń, pers. comm.).
+
+Figure W22 Multiple splits forming in salt-affected limestone from UAE. Image
+courtesy of A.S. Goudie.
+
+65
+
+Chapter 4: Weathering Features
+
+Cracks and polygonal cracking
+Scale: mm – m
+Feature description:
+Cracks or fissures may form in clasts and boulders for a number of reasons (differential
+expansion with pressure release; thermal expansion and contraction; growth of foreign
+crystals in cracks and pores (Bloom, 1998)), but weathering and displacive growth of
+secondary minerals may be a particularly important cause of fissuring in arid areas.
+Where joints and linear planes of weakness exist in rocks, salt weathering and the growth
+of gypsum may cause these to become clearly fissured and forced apart. Ollier (1965)
+proposed a mechanism called ‘dirt cracking’ whereby dust blowing into cracks induced
+by thermal expansion and contraction reinforces the development of the cracks. Hall and
+Hall (1991) proposed that fracture patterns can reveal something about the formative
+processes responsible, drawing an analogy between the hierarchical crack patterns with
+90o angles between crack sets found on high altitude boulders with those produced in
+thermal shock experiments on ceramics. Sandstones, granites and more rarely basalts,
+andesites and limestones sometimes show distinctive patterning by networks of shallow
+cracks joining at around 120o angles to produce polygons (Williams and Robinson,
+1989). The cracks are often shallow (usually less than 1 cm) and the resultant polygons
+are usually around 10 cm in diameter. Polygonal cracking (also known as pachydermal
+weathering, elephant skin and tortoise shell, Thomas et al., 2005) occurs commonly in
+hot dryland environments, but is also reported from the humid temperate zone. A number
+of hypotheses have been proposed to explain the development of polygonal cracking,
+such as thermal expansion and contraction, frost weathering or wetting and drying, but
+none
+satisfactorily
+explain all occurrences.
+Williams and Robinson
+(1989) propose that case
+hardening is an essential
+precursor to polygonal
+cracking.
+
+Figure W24 Fissuring
+through
+displacive
+growth of gypsum in
+limestone,
+Namib
+Desert. Image courtesy
+of H. Viles.
+
+66
+
+Chapter 4: Weathering Features
+
+Cracks (cont.)
+
+Figure W24 a & b. Polygonal cracking on sandstone, Finke River Gorge, central
+Australia. Image courtesy of M. Bourke.
+
+67
+
+Chapter 4: Weathering Features
+
+Case hardening
+Scale: mm to cm thick, several cm2
+Feature description:
+Many rock types, including sandstone, granite and limestone, are prone to hardening of
+the near-surface layer, thought to be caused by migration of pore fluids, which then
+evaporate and leave behind soluble minerals. These minerals increase cementation within
+this near-surface layer, causing a hardened skin to develop. Case hardening is often
+important in the development of subsequent weathering features, such as polygonal
+cracking. Micro-organisms have been seen to play a role in case hardening in some cases,
+but purely chemical processes may also be involved (Viles and Goudie, 2005).
+
+Figure W25 Case hardening on quartzite cobble, Cunene River terrace, NW Namibia.
+Image courtesy of M. Bourke.
+
+68
+
+Chapter 4: Weathering Features
+
+Calcite crusts
+Scale: mm to cm
+Feature description:
+In areas where there is abundant calcium carbonate, precipitation on the surfaces
+(especially the undersides) of boulders can occur. The calcite crust is often complexly
+textured, with cauliflower–like growths common. Other minerals may also be
+precipitated in crusts, such as gypsum (dominantly in arid environments), calcium nitrate
+(sometimes called caliche and found in hyper-arid environments) or silica (sometimes
+found as silica speleothems in granite terrains). Under some circumstances such crusts
+can become displacive and cause cracking of the boulder.
+
+Figure W26 Calcite precipitating around the margins and underside of quartzite clast in
+NW Namibia. Image courtesy of Heather Viles.
+
+69
+
+Chapter 4: Weathering Features
+
+Rock varnish
+Scale: microns thick, mm to cm2 surface area coverage
+Feature description:
+Rock varnish is a coating found on many rocks in arid environments, enriched in
+manganese and iron, which usually imparts a red or black colouration to the underlying
+rock, depending on the detailed chemistry. It is also commonly observed to have a shiny
+appearance, probably because of the presence of lustrous minerals and its smooth,
+lamellate surface microtexture (Dorn, 1998). Wind abrasion has been observed to
+breakdown rock varnish. On the other hand, rock varnish has also been noted to form
+over ventifact surfaces, implying a shift in process regimes. Although included in the
+weathering chapter, rock varnish is usually thought of as having a largely external source.
+Silica glazes have also been observed on many rock surfaces ranging in colour from
+translucent to reddish brown or black. Dorn (1998) provides a wide review of many
+different types of varnish and rock coatings.
+
+Figure W27 Patchy rock varnish developing on quartzite clast, NW Namibia. Image
+courtesy of H. Viles. Coin for scale at bottom on image.
+
+70
+
+Chapter 4: Weathering Features
+
+Salt efflorescence/salt tides
+Scale: cm
+Feature description:
+In arid and hyper-arid environments, salts crystallize out of solution easily and may
+become deposited on rock surfaces. In the Atacama Desert, on a range of igneous rocks,
+two distinctive types of salt accretion have been observed. Firstly, clear cauliflower-like
+growths of salts have been found in alveoli. Secondly, salt ‘tides’ – near-horizontal lines
+of amorphous salt deposits near the base of boulders (or at the height to which capillary
+rise might reach) - have been recorded (Heslop, 2003). Gypsum is also known to form
+destructive ‘whiskers’ (J. Clarke, pers. comm.)
+
+Figure
+W28
+Thick
+efflorescence of salt around
+boulders of volcanic rock in
+the Atacama Desert, Chile
+near
+Iquique.
+Image
+courtesy of H. Viles.
+
+Figure W29
+Salt precipitated from
+sublimated
+snow,
+on
+dolerite,
+Transantarctic
+Mountains,
+Antarctica.
+Image courtesy of G.
+Osinski.
+
+71
+
+Chapter 4: Weathering Features
+
+Dust coating
+Scale: microns thick, cm to m2 surface coverage
+Feature description:
+As with desert varnish, dust coatings are largely produced by external material adhering
+to the surface of a boulder (rather than a product of weathering). However, once formed,
+they may react with the underlying surface. Usually recorded as thin, light brown films
+on the surface, dust films have only been rarely recorded in the literature (Dorn, 1998).
+Dust is commonly entrained in winds in arid and semi-arid areas and the clay sized
+particles may easily become accreted on rocks.
+
+Figure W30 a & b Dust coatings in flutes (left) and at base of basalt boulders (right),
+Cady Mountains, California. Images courtesy of J. Laity.
+
+72
+
+Chapter 4: Weathering Features
+
+Debris apron/grus
+Scale: cm to m
+Feature description:
+Granular disintegration, flaking and other weathering processes produce particulate
+debris which, under some circumstances, builds up an apron around the weathering
+boulder. The term grus is often used to describe such a covering in which sand and
+gravel-sized material dominates (Migon, 2004).
+
+Figure W31 a & b Debris apron adjacent to
+a large mica schist boulder near the Cunene River, NW Namibia. Image on right is close
+up of same apron. Image courtesy of M. Bourke.
+
+73
+
+Chapter 4: Weathering Features
+
+Summary table of weathering features
+
+SCALE
+
+TYPE
+
+CLAST
+
+MATERIAL LOSS
+
+FACET
+
+NO MATERIAL LOSS
+OR GAIN
+
+MATERIAL GAIN
+
+NAME
+ROUNDED CLAST
+ANGULAR CLAST
+SPLIT ROCK
+PEDESTAL/UNDERCUT
+ROCK
+DOUGHNUT ROCK
+MICROSOLUTIONAL
+FEATURES
+WEATHERING GROOVES
+& RILLS
+MICROPITTING
+WEATHERING PITS
+GRANULAR
+DISINTEGRATION
+ALVEOLI
+TAFONI
+BASAL HOLLOW
+FLAKING
+SPALLING
+MULTIPLE SPLITS
+CRACKS/POLYGONAL
+CRACKING
+CASE HARDENING
+CALCITE CRUSTS
+ROCK VARNISH
+SALT
+EFFLORESCENCE/TIDES
+DUST COATING
+DEBRIS APRON/GRUS
+
+NB, shaded cells are intermediate between material loss and no material loss or gain
+categories. Flaking, for example, ultimately results in material loss but the flakes can
+persist in situ for long periods
+
+74
+
+References
+Allen, J. R. L. (1985). "Principles of Physical Sedimentology." George Allen & Unwin,
+London.
+Andrefsky, W. (1994). Raw Material Availability and the Organisation of Technology.
+American Antiquity 59, 21-35.
+Baker, V. R., and Kale, V. S. (1998). The Role of Extreme Floods in Shaping Bedrock
+Channels. In "Rivers Over Rock: Fluvial Processes in Bedrock Channels." (K. J.
+Tinkler, and E. E. Wohl, Eds.), pp. 153-165. American Geophysical Union,
+Washington, DC.
+Baker, V. R., and Pickup, G. (1987). Flood Geomorphology of the Katherine Gorge,
+Northern Territory, Australia. Geological Society of America Bulletin 98, 635646.
+Beven, K. J. (1996). Equifinality and Uncertainty in Geomorphological Modelling. In
+"The Scientific Nature of Geomorphology." (B. L. Rhoads, and C. E. Thorn,
+Eds.), pp. 289-313. Wiley, Chichester.
+Blair, T. C., and McPherson, J. G. (1999). Grain-Size and Textural Classification of
+Coarse Sedimentary Particles. Journal of Sedimentary Research 69, 6-19.
+Bloom, A. L. (1998). "Geomorphology: A systematic analysis of Cenozoic landforms."
+Prentice Hall, New Jersey.
+Bosworth, T. O. (1910). Wind erosion on the coast of Mull. Geological Magazine 7, 353355.
+Bourke, M. C. (1990). "The geomorphic effects of the August 1986 storm on a glaciated
+upland catchment in the Wicklow Mountains." Unpublished Masters thesis,
+University College Dublin.
+Breed, C. S., McCauley, J. F., Whitney, M. I., et al. (1997). Wind erosion in drylands. In
+"Arid Zone Geomorphology: Process, Form and Change in Drylands." (D. S. G.
+Thomas, Ed.), pp. 437-464. Wiley & Sons, Chichester, New York, Weinheim,
+Brisbane, Singapore, Toronto.
+Bridges, N. T., Greeley, R., Haldemann, A. F. C., et al. (1999). Ventifacts at the
+Pathfinder landing site. Journal of Geophysical Research 104, 8595-8615.
+Campbell, E. M. (1997). Granite landforms. Journal of the Royal Society of Western
+Australia 80, 101-112.
+Carter, N. E. A., and Viles, H., A. (2005). Bioprotection explored: the story of a little
+known earth surface process. Geomorphology 67, 273-281.
+Christiansen, H. H. (2004). Windpolished boulders and bedrock in the Scottish
+Highlands: Evidence and implications of Late Devensian wind activity. Boreas
+33, 82-94.
+Cooke, R. U., Warren, A., and Goudie, A. S. (1993). "Desert Geomorphology." UCL
+Press Limited, London.
+Cotterell, B., and Kamminga, J. (1987). The Formation of Flakes. American Antiquity 52,
+675-708.
+Danin, A., and Garty, J. (1983). Distribution of cyanobacteria and lichens on hillsides of
+the Negev highlands and their impact on biogenic weathering. Zeitschrift fur
+Geomorphologie 27, 413-421.
+
+Dibble, H., and Whittaker, J. C. (1981). New Experimental Evidence on the Relation
+between Percussion Flaking and Flake Variation. Journal of Archaeological
+Science 8, 283-296.
+Dixon, J. C. (2004). Weathering. In "Encyclopedia of Geomorphology." (A. S. Goudie,
+Ed.), pp. 1108-1112. Routledge, London.
+Dorn, R. I. (1998). "Rock coatings." Elsevier, Amsterdam.
+Dorn, R. I. (2003). Boulder weathering and erosion associated with a wildfire, Sierra
+Ancha Mountains, Arizona. Geomorphology 55, 155-171.
+Dorn, R. I., and Cherveny, N. V. (2005). Atlas of Petroglyph Weathering Forms used in
+the Rock Art Stability Index (RASI). Available at
+http://alliance.la.asu.edu/rockart/stabilityindex/RASIAtlas.html.
+Evans, J. W. (1911). Dreikanter. Geological Magazine 8, 334-345.
+Frich, P. (1988). "An analysis of climatic and geomorphological conditions for the
+abrasion by wind-blown snow in west Greenland." Unpublished M.Sc. thesis,
+University of Copenhagen.
+Golombek, M. P., Anderson, R. C., Barnes, J. R., et al. (1999). Overview of the Mars
+Pathfinder Mission: Launch through landing, surface operations, data sets, and
+science results. Journal of Geophysical Research 104, 8523-8553.
+Goudie, A. S. (2004a). Tafoni. In "Encyclopedia of Geomorphology." (A. S. Goudie,
+Ed.), pp. 1034-1035. Routledge, London.
+Goudie, A. S. (2004b). Ventifact. In "Encyclopedia of Geomorphology." (A. Goudie,
+Ed.), pp. 1091. Routledge, London.
+Greeley, R., and Iversen, J. D. (1985). "Wind as a geological process on Earth, Mars,
+Venus and Titan." Cambridge University Press, Cambridge.
+Greeley, R., Squyres, S. W., Arvidson, R. E., et al. (2004). Wind-Related Processes
+Detected by the Spirit Rover at Gusev Crater, Mars. Science 305, 810-813.
+Gupta, A., Kale, V. S., and Rajaguru, S. N. (1999). The Narmada River, India, through
+space and time. In "Varieties of Fluvial Form." (A. J. Miller, and A. Gupta, Eds.),
+pp. 113-143. John Wiley & Sons, Chichester.
+Hall, K., and Hall, A. (1991). Thermal gradients and rock weathering at low
+temperatures: Some simulation data. Permafrost and Periglacial Processes 2,
+103-112.
+Hancock, G. S., Anderson, R. S., and Whipple, K. X. (1998). Beyond Power: Bedrock
+River Incision Process and Form. In "Rivers Over Rock: Fluvial Processes in
+Bedrock Channels." (K. J. Tinkler, and E. E. Wohl, Eds.), pp. 35-60. American
+Geophysical Union, Washington, DC.
+Heslop, E. E. M. (2003). "Clast breakdown in the Atacama Desert, Chile: An integrated
+field and laboratory approach." Unpublished D.Phil. thesis, University of Oxford.
+Howard, A. D. (1998). Long Profile Development of Bedrock Channels: Interaction of
+Weathering, Mass Wasting, Bed Erosion, and Sediment Transport. In "Rivers
+Over Rock: Fluvial Processes in Bedrock Channels." (K. J. Tinkler, and E. E.
+Wohl, Eds.), pp. 297-319. American Geophysical Union, Washington, DC.
+King, L. C. (1936). Wind-faceted stones from Marlborough, New Zealand. Journal of
+Geology 44, 201-213.
+Knight, J. (2005). Controls on the formation of coastal ventifacts. Geomorphology 64,
+243-253.
+
+76
+
+Knight, J., and Burningham, H. (2001). Formation of bedrock-cut ventifacts and late
+Holocene coastal evolution, County Donegal, Ireland. Journal of Geology 109,
+647-660.
+Knight, J., and Burningham, H. (2003). Recent ventifact development on the central
+Oregon coast, western USA. Earth Surface Processes and Landforms 28, 87-98.
+Kuenen, P. H. (1928). Experiments on the formation of wind-worn pebbles. Leidsche
+Geologische Medellingen 3, 19-38.
+Kuenen, P. H. (1956). Experimental abrasion of pebbles, 2. Rolling by currents. Journal
+of Geology 64, 336-368.
+Laity, J. (1995). Wind abrasion and ventifact formation in California. In "Desert Aeolian
+Processes." (V. Tchakerian, Ed.), pp. 295-321. Chapman & Hall, London.
+Laity, J. E. (1994). Landforms of Aeolian erosion. In "Geomorphology of Desert
+Environments." (A. D. Abrahams, and A. J. Parsons, Eds.), pp. 506-535.
+Chapman and Hall, London.
+Lancaster, N. (1984). Characteristics and occurrence of wind erosion features in the
+Namib Desert. Earth Surface Processes and Landforms 9, 469-478.
+Lidmar-Bergstrom, K., Olsson, S., and Olvmo, M. (1997). Palaeosurfaces and associated
+saprolites in southern Sweden. In "Palaeosurfaces: recognition, reconstruction and
+palaeoenvironmental interpretation." (M. Widdowson, Ed.), pp. 95-124.
+Geological Society of London Special Publication No. 120.
+Lowdermilk, J. D., and Woodruff, A. O. (1932). Concerning rillensteine. American
+Journal of Science 23, 135-154.
+Malarz, R. (2005). Effects of flood abrasion of the Carpathian alluvial gravels. Catena
+64, 1-26.
+Marshall, J. R. (1979). "Experimental abrasion of natural materials." Unpublished Ph.D.
+thesis, University College London.
+Marshall, P. (1927). The wearing of gravels. Transactions of the New Zealand Institute
+58, 507-532.
+Martini, I. P. (1978). Tafoni weathering, with examples from Tuscany, Italy. Zeitschrift
+fur Geomorphologie 22, 44-67.
+Maxson, J. H. (1940). Fluting and faceting of rock fragments. Journal of Geology 48,
+717-751.
+McCauley, J. F., Breed, C. S., and Grolier, M. J. (1979). Yardangs. In "Geomorphology
+in arid regions." (D. O. Doehring, Ed.), pp. 233-269. Annual Geomorphology
+Symposium, Binghampton, NY. Allen & Unwin, Boston.
+McFadden, L. D., Eppes, M. C., Gillespie, A. R., and Hallet, B. (2005). Physical
+weathering in arid landscapes due to diurnal variation in the direction of solar
+heating. Geological Society of America Bulletin 117, 161-173.
+Migon, P. (1999). Residual weathering mantles and their bearing on the long-term
+landscape evolution of the Sudetes, NE Bohemian Massif, Central Europe.
+Zeitschrift fur Geomorphologie Supplement Band 119, 71-90.
+Migon, P. (2004). Grus. In "Encyclopedia of Geomorphology." (A. S. Goudie, Ed.), pp.
+501-503. Routledge, London.
+Migon, P. (2006). "Granite landscapes of the world." Oxford University Press, Oxford.
+
+77
+
+Morris, E. C., Mutch, T. A., and Holt, H. E. (1972). Atlas of geological features in the
+Dry Valleys of South Victoria Land, Antarctica, pp. 156. US Geological Survey
+Interagency report:Astrogeology.
+Mustoe, G. E. (1982). The origin of honeycomb weathering. Geological Society of
+America Bulletin 93, 108-115.
+Nicholson, D. T. (2004). Granular disintegration. In "Encyclopedia of Geomorphology."
+(A. S. Goudie, Ed.), pp. 493-494. Routeledge.
+Norwick, S. A., and Dexter, L. R. (2002). Rates of development of tafoni in the
+Moenkopi and Kaibab formations in Meteor Crater and on the Colorado Plateau,
+northeastern Arizona. Earth Surface Processes and Landforms 27, 11-26.
+Ollier, C. D. (1965). Dirt cracking - a type of insolation weathering. Australian Journal of
+Science 27, 236-237.
+Ollier, C. D. (1971). Causes of spheroidal weathering. Earth Science Reviews 7, 127-141.
+Powers, W. E. (1936). The evidences of wind abrasion. Journal of Geology 44, 214-219.
+Richards, K. (1982). "Rivers: Form and Process in Alluvial Channels." Methuen, New
+York.
+Richardson, K., and Carling, P. A. (2005). A typology of sculpted forms in open bedrock
+channels. Geological Society of America, Special Papers, 108pp.
+Ritter, D. F. (1975). Stratigraphic Implications of Coarse-Grained Gravel Deposited as
+Overbank Sediment, Southern Illinois. Journal of Geology 83, 645-650.
+Schlyter, P. (1994). Paleo-periglacial ventifact formation by suspended silt or snow - site
+studies in south Sweden. Geografiska Annaler, Series A 76 A, 187-201.
+Schlyter, P. (1995). Ventifacts as palaeo-wind indicators in southern Scandinavia.
+Permafrost and Periglacial Processes 6, 207-219.
+Sharp, R. P. (1949). Pleistocene ventifacts east of the Big Horn Mountains, Wyoming.
+Journal of Geology 57, 175-195.
+Smith, B. J., Magee, R. W., and Whalley, W. B. (1994). Breakdown patterns of quartz
+sandstone in a polluted urban environment, Belfast, Northern Ireland. In "Rock
+weathering and landform evolution." (D. A. Robinson, and R. B. G. Williams,
+Eds.), pp. 131-150. Wiley, Chichester.
+Smith, B. J., and McAlister, J. (1986). Observations on the occurrence and origins of salt
+weathering phenomena near Lake Magadi, Southern Kenya. Zeitschrift fur
+Geomorphologie 30, 445-460.
+Sparks, B. (1971). "Rocks and Relief." Longman, London.
+Speth, J. D. (1972). Mechanical basis of percussion flaking. American Antiquity 37, 3460.
+Speth, J. D. (1974). Experimental investigation of hard-hammer percussion flaking: The
+effects of oblique impact. Tebiwa 17, 7-36.
+Speth, J. D. (1975). Miscellaneous studies in hard-hammer percussion flaking: The
+effects of oblique impact. American Antiquity 40, 203-207.
+Speth, J. D. (1981). The role of platform angle and core Size in hard-hammer percussion
+flaking. Lithic Technology 10, 16-21.
+Sweeting, M. M., and Lancaster, N. (1982). Solutional and wind erosion forms on
+limestone in the Central Namib Desert. Zeitschrift fur Geomorphologie 26, 197207.
+
+78
+
+Thomas, M., Clarke, J. D. A., and Pain, C. F. (2005). Weathering, erosion and landscape
+processes on Mars identified from recent rover imagery, and possible Earth
+analogues. Australian Journal of Earth Sciences 52, 365-378.
+Tinkler, K., and Wohl, E. (1998). A Primer on Bedrock Channels. In "Rivers Over Rock:
+Fluvial Processes in Bedrock Channels." (K. J. Tinkler, and E. E. Wohl, Eds.), pp.
+1-18. American Geophysical Union, Washington, DC.
+Twidale, R. (1982). "Granite Landforms." Elsevier, Amsterdam.
+Twidale, R. (2004). Pedestal rock. In "Encyclopedia of Geomorphology." (A. S. Goudie,
+Ed.), pp. 768. Routledge.
+Van Hoesen, J. G., and Orndorff, R. L. (2004). A comparative SEM study on the
+micromorphology of glacial and nonglacial clasts with varying age and lithology.
+Canadian Journal of Earth Sciences 41, 1123-1139.
+Viles, H. A., Brearley, A. J., Bourke, M. C., and Holmlund, J. (2005). What Processes
+Have Shaped Basalt Boulders on Earth and Mars? Studies of Feature Persistence
+Using Facet Mapping and Fractal Analysis. In "LPSC XXXVI, abs. 2237."
+Viles, H. A., and Goudie, A. S. (2005). Biofilms and case hardening on sandstones from
+Al-Quwayra, Jordan. Earth Surface Processes & Landforms 29, 1473-1485 DOI:
+10.1002/esp.1134.
+Wentworth, C. K., and Dickey, R. I. (1935). Ventifact localities in the United States.
+Journal of Geology 43, 97-104.
+Whipple, K., Hancock, G., and Anderson, R. (2000). River incision into bedrock:
+Mechanics and relative efficiacy of plucking, abrasion, and cavitation. Geological
+Society of America Bulletin 112, 490-503.
+Whitney, M. I. (1979). Electron micrography of mineral surfaces subject to wind-blast
+erosion. Geological Society of America Bulletin 90, 917-934.
+Whittaker, J. C. (1994). " Flintknapping: Making and understanding stone tools."
+University of Texas Press, Austin.
+Williams, R. B. G., and Robinson, D. A. (1989). Origin and distribution of polygonal
+cracking of rock surfaces. Geografiska Annaler 71, 145-159.
+Wohl, E. E. (1993). Bedrock channel incision along Piccaninny Creek, Australia. Journal
+of Geology 101, 749-761.
+Wohl, E. E. (1998). Bedrock Channel Morphology in Relation to Erosional Processes. In
+"Rivers Over Rock: Fluvial Processes in Bedrock Channels." (K. J. Tinkler, and
+E. E. Wohl, Eds.), pp. 133-152. American Geophysical Union, Washington, DC.
+Wohl, E. E., and Achyuthan, H. (2002). Substrate influences on incised-channel
+morphology. Journal of Geology 110, 115-120.
+Wohl, E. E., and Ikeda, H. (1998). Patterns of Bedrock Channel Erosion on the Boso
+Peninsula, Japan. The Journal of Geology 106, 331-345.
+Young, A. R. M. (1987). Salt as an agent in the development of cavernous weathering.
+Geology 15, 962-966.
+
+79
+
+About the Authors:
+
+Dr. Mary Bourke is a Research Scientist at the Planetary Science Institute in Tucson and a
+Senior Research Associate at the University of Oxford. She is a geomorphologist who
+specializes in the fluvial and aeolian geomorphology of desert regions on Earth and on Mars.
+Mr. J. Alexander Brearley undertook his undergraduate degree in Geography at Oxford and is
+currently undertaking a Ph.D in Oceanography at Southampton University.
+Mr. Randall Haas is an archaeologist and GIS specialist with Western Mapping Company in
+Tucson, Arizona. His interests are in the use of stone tool analysis and geospatial methods to
+explore the social dynamics and behavioral ecology of hunter-gatherers and early agriculturists.
+Dr. Heather Viles is Reader in Geomorphology at the University of Oxford. Her research
+focuses on rock breakdown and landscape evolution in a range of environments, as well as on
+the deterioration of building stones.
+
+Heather Viles (left) and Mary Bourke (right) in the Cunene Sand Sea, Namibia.
+
+ISBN 0-9785236-0-1
+
+

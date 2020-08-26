@@ -1,0 +1,7848 @@
+Final Report
+
+March 2018
+
+Phase I Cultural Resources Survey of the
+Proposed Line 1-N Abandonment Project
+in Harrison and Marion Counties, Texas
+
+Prepared For:
+
+Texas Eastern Transmission, LP
+5400 Westheimer Court
+5B-44
+Houston, TX 77056
+Sensitive Information: Not For Public Distribution
+
+R. Christopher Goodwin & Associates, Inc.
+309 Jefferson Highway  New Orleans, LA 70121
+
+Phase I Cultural Resources Survey of the
+Proposed Line 1-N Abandonment Project
+in Harrison and Marion Counties, Texas
+
+Nathanael Heller, M.A.
+Principal Investigator
+
+Final Report
+By
+Peter Cropley, Tyler Leben, and Joey O’Keefe
+R. Christopher Goodwin & Associates, Inc.
+309 Jefferson Highway
+New Orleans, LA 70121
+March 2018
+For
+Texas Eastern Transmission, LP
+5400 Westheimer Court
+5B-44
+Houston, TX 77056
+
+R. Christopher Goodwin & Associates, Inc.
+
+i
+
+Contains Privileged Information -- Do Not Release
+
+Abstract
+
+T
+
+his report describes the results of Phase I
+cultural resources investigation of workspaces associated with the proposed Line
+1-N Abandonment Project in Harrison and Marion Counties, Texas. This field effort resulted in
+the examination of 40 workspaces that totaled
+2.83 ha (7.01 ac) in total extent. All fieldwork
+was conducted in accordance with the procedures
+outlined in the National Historic Preservation
+Act of 1966, as amended; the Archaeological and
+Historic Preservation Act of 1974; and Title 36
+of the Code of Federal Regulations, Parts 60-66
+and 800, as appropriate. Additionally, this survey
+effort abided by the standards set forth in Archeology and Historic Preservation: The Secretary
+of the Interior’s Guidelines, and with guidelines
+contained within Preservation Connection: Texas’ Statewide Historic Preservation Plan. 20112020. Information provided by the Council of
+Texas Archeologists, the Texas Archaeological
+Research Laboratory, the Antiquities Code of
+Texas, and the Texas Historical Commission’s
+Archeological Survey Standards For Texas and
+Rules of Practice and Procedure for the Antiqui-
+
+R. Christopher Goodwin & Associates, Inc.
+
+ties Code of Texas also was utilized. This investigation was completed in January of 2018 by R.
+Christopher Goodwin & Associates, Inc. on behalf of Texas Eastern Transmission, LP.
+During survey, two historic standing structures, HSS-TJL-0117A and HSS-TJL-0117B,
+were identified and recorded outside of but within
+50 m (164 ft) of two adjacent workspaces located within Harrison County, Texas. However, the
+use of these temporary workspaces will not alter
+permanently, directly or indirectly, any physical
+characteristics of these two historic resources.
+Therefore, temporary use of these workspaces within the existing Line 1-N Abandonment
+Project has no potential to cause adverse effects
+to nearby properties as defined in 36 CFR Part
+800.3. No further architectural investigations are
+recommended for these two historic properties.
+No additional cultural resources were identified
+as a result of this investigation, and no additional
+examination of the proposed workspaces associated with the Line 1-N Pipeline Abandonment
+Project is recommended.
+
+ii
+
+Contains Privileged Information -- Do Not Release
+
+Table of Contents
+Abstract . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ii
+List of Figures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . v
+List of Tables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . viii
+I.
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Project Description  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Summary of Results and Recommendations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Project Personnel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Organization of the Report . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .9
+
+II.
+
+Previous Investigations, Research Design, Soils, and Field  . .
+Methodology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Previous Investigations  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Previously Conducted Cultural Resources Investigations Conducted
+within 1.6 km (1 mi) of the Proposed Project Line 1-N Areas . . . . . . . . . . . . . . . . . . . . . 10
+Previously Identified Archeological Sites Situated within 1.6 km (1 mi)
+of the Proposed Project Area  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+National Register of Historic Places Listed Properties within 1.6 km (1
+mi) of the Proposed Project Area . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Cemeteries situated within 1.6 km (1 mi) of the Proposed Project Area . . . . . . . . . . . . . 11
+Soils Mapped in the Vicinity of the Line 1-N Abandonment Project Workspaces . . . . . . . . . . . . 11
+Mapped Soil Unit Descriptions for Line 1-N Workspaces in Harrison County, TX  . . . . 12
+Mapped Soil Unit Descriptions for Line 1-N Workspaces in Marion County, Texas  . . . 13
+Research Design  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Field Methodology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Shovel Testing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Architectural Review and Standing Structures Recordation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Curation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+III.
+
+Results of the Field Investigations, Summary,
+and Recommendations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Harrison County . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Workspace 8”-DIG POINT #01 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Workspace 8”-DIG POINT #02 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Workspace 8”-DIG POINT #03 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Workspace 8”-DIG POINT #04 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+Workspace 8”-DIG POINT #05 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+Workspace 8”-DIG POINT-13/14 (8” MP 1.04 Exposure)  . . . . . . . . . . . . . . . . . . . . . . . 46
+Workspace 8”-DIG POINT #06 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+Workspace 8”-DIG POINT #07 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+Workspace 8”-DIG POINT #08 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+
+R. Christopher Goodwin & Associates, Inc.
+
+iii
+
+Contains Privileged Information -- Do Not Release
+
+Workspace 8”-DIG POINT #09 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+Workspace 8”-DIG POINT #10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+Workspace 8”-DIG POINT #11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+Workspace 8”-DIG POINT #15/16 (8” MP 4.44 Exposure)  . . . . . . . . . . . . . . . . . . . . . . 63
+Workspace 10”-DIG POINT #01 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+Workspace 10”-DIG POINT #02 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+Workspace 10”-DIG POINT #03 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+Workspace 10”-DIG POINT #04 (10” MP Exposure 13.87/13.88 Exposure) . . . . . . . . . 68
+Resource HSS-TJL-0117B  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+Workspace 10”-DIG POINT #05 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+Resource HSS-TJL-0117A  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+Workspace 10”-DIG POINT #16-19 (18’ Exposed 10” Pipe)  . . . . . . . . . . . . . . . . . . . . . 78
+Workspace 10”-DIG POINT #20/21 (10” MP 15.03 Exposure; also 10”
+Dig Point #20/21 extension) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+Workspace 10”-DIG POINT #06 (10” MP 15.13 Exposure) . . . . . . . . . . . . . . . . . . . . . . 80
+Workspace 12”-DIG POINT #22/23 (10” MP 18.85 Exposure)  . . . . . . . . . . . . . . . . . . . 82
+Workspace 10”-DIG POINT-07 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+Workspace 10”-DIG POINT #08 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+Marion County . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+Workspace 10”-DIG POINT #09 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+Workspace 10”-DIG POINT #10  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+Workspace 10”-DIG POINT #11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
+Workspace 10”-DIG POINT #12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96
+Workspace 10”-DIG POINT #13  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96
+Workspace 10”-DIG POINT #14 and 15  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 98
+Workspace 12”-DIG POINT #01  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+Workspace 12”-DIG POINT #02 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
+Workspace 12”-DIG POINT #03 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 103
+Workspace 12” MP 29.28 Exposure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107
+Workspace 12”-DIG POINT #04 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+Workspace 12”-DIG POINT #05 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  111
+Workspace 12”-DIG POINT #10 and 12”-DIG POINT #11 (15’ Exposed
+12” Pipe/12D-07) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  111
+Workspace 12”-DIG POINT #06 and Workspace 12”-Dig Point #07 . . . . . . . . . . . . . . 113
+Summary and Recommendations  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
+
+References Cited . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118
+Shovel Test Table . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  Appendix I
+
+R. Christopher Goodwin & Associates, Inc.
+
+iv
+
+Contains Privileged Information -- Do Not Release
+
+List of Figures
+Figure 1.1
+
+Map locator depicting locations of Line 1-N Abandonment Project Workspaces in Harrison and Marion Counties, Texas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+Figure 1.2
+
+USGS Quadrangle excerpt depicting locations of Line 1-N Abandonment
+Project Workspaces in Harrison and Marion Counties, Texas. . . . . . . . . . . . . . . . . . . . .  3-8
+
+Figure 3.1
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison and Marion Counties, Texas. . . . . . . . . . . . . . . . . . . . . .  18-39
+
+Figure 3.2
+
+Overview photograph of Workspace 8”-Dig Point #01, facing east. . . . . . . . . . . . . . . . . 42
+
+Figure 3.3
+
+Overview photograph of Workspace 8”-Dig Point #02, facing north. . . . . . . . . . . . . . . . 43
+
+Figure 3.4
+
+Overview photograph Workspace 8”-Dig Point #03, facing southwest.  . . . . . . . . . . . . . 44
+
+Figure 3.5
+
+Overview photograph of Workspace 8”-Dig Point #04, facing southwest. . . . . . . . . . . . 45
+
+Figure 3.6
+
+Profile of typical shovel test excavated within Workspace 8”-Dig Point #04. . . . . . . . . . 47
+
+Figure 3.7
+
+Overview photograph of Workspace 8”-Dig Point #05, facing north. . . . . . . . . . . . . . . . 48
+
+Figure 3.8
+
+Profile of typical shovel test excavated within Workspace 8”-Dig Point #05. . . . . . . . . . 49
+
+Figure 3.9
+
+Overview photograph of Workspace 8”-Dig Point #13/14 (8” MP 1.04
+Exposure), facing west. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+
+Figure 3.10
+
+Profile of typical shovel test excavated within Workspace 8”-Dig Point
+#13/14 (8” MP 1.04 Exposure).  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+
+Figure 3.11
+
+Overview photograph of Workspace 8”-Dig Point #06. . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+
+Figure 3.12
+
+Profile of typical shovel test excavated within Workspace 8”-Dig Point #06. . . . . . . . . . 53
+
+Figure 3.13
+
+Overview photograph of Workspace 8”-Dig Point #07, facing west. . . . . . . . . . . . . . . . . 54
+
+Figure 3.14
+
+View of trailor house near Workspace 8”-Dig Point #07, facing southeast. . . . . . . . . . . . 55
+
+Figure 3.15
+
+Profile of typical shovel test excavated within Workspace 8”-Dig Point #07. . . . . . . . . . 56
+
+Figure 3.16
+
+Overview photograph of Workspace 8”-Dig Point #08, facing north. . . . . . . . . . . . . . . . 57
+
+Figure 3.17
+
+Overview photograph of Workspace 8”-Dig Point #09, facing north. . . . . . . . . . . . . . . . 58
+
+R. Christopher Goodwin & Associates, Inc.
+
+v
+
+Contains Privileged Information -- Do Not Release
+
+Figure 3.18
+
+Overview photograph of Workspace 8”-Dig Point #10, facing north.  . . . . . . . . . . . . . . 59
+
+Figure 3.19
+
+Profile of typical shovel test excavated within Workspace 8”-Dig Point #10. . . . . . . . . . 60
+
+Figure 3.20
+
+Overview photograph of Workspace 8”-Dig Point #11, facing north. . . . . . . . . . . . . . . . 61
+
+Figure 3.21
+
+Profile of typical shovel test excavated within Workspace 8”-Dig Point
+#11, facing south. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+
+Figure 3.22
+
+Overview photograph of Workspace 8”-Dig Point #15/16 (8” MP 4.44
+Exposure), facing west. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+
+Figure 3.23
+
+Overview photograph of 10”-Dig Point #01. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64
+
+Figure 3.24
+
+Profile of typical shovel test excavated within Workspace 8”-Dig Point
+#15/16 (8” MP 4.44 Exposure).  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+
+Figure 3.25
+
+Overview photograph of Workspace 10”-Dig Point #02, facing south. . . . . . . . . . . . . . . 66
+
+Figure 3.26
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #02. . . . . . . . . 67
+
+Figure 3.27
+
+Overview photograph of Workspace 10”-Dig Point #03, facing north. . . . . . . . . . . . . . . 68
+
+Figure 3.28
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #03. . . . . . . . . 69
+
+Figure 3.29
+
+Overview photograph of Workspace 10”-Dig Point #04 (10” MP
+13.87/13.88 Exposure), facing north. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+
+Figure 3.30
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point
+#04 (10” MP 13.87/13.88 Exposure). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+
+Figure 3.31
+
+Overview photograph of Resource HSS-TJL-0117B, facing northeast. . . . . . . . . . . . . . .72
+
+Figure 3.32
+
+Planview map of Resource HSS-TJL-0117B.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+
+Figure 3.33
+
+Overview photograph of Workspace 10” –Dig Point #05, facing north. . . . . . . . . . . . . . 74
+
+Figure 3.34
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #05. . . . . . . . . 75
+
+Figure 3.35
+
+Overview photograph of Resource HSS-TJL-0117A, facing northeast.  . . . . . . . . . . . . . 76
+
+Figure 3.36
+
+Planview map of Resource HSS-TJL-0117A.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+
+Figure 3.37
+
+Overview photograph of Workspace 10” –Dig Point #16-19, facing north.  . . . . . . . . . . 78
+
+Figure 3.38
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #16-19. . . . . . 79
+
+R. Christopher Goodwin & Associates, Inc.
+
+vi
+
+Contains Privileged Information -- Do Not Release
+
+Figure 3.39
+
+Overview photograph of Workspace 10” –Dig Point #20/21 (10” MP
+15.03 Exposure), facing north. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+
+Figure 3.40
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point
+#20/21 (10” MP 15.03 Exposure).  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+
+Figure 3.41
+
+Overview photograph of Workspace 10” –Dig Point #06 (10” MP 15.13
+Exposure), facing east. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+
+Figure 3.42
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point
+#06 (10” MP 15.13 Exposure). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+
+Figure 3.43
+
+Overview photograph of Workspace 12” –Dig Point #22/23 (10” MP
+18.85 Expsoure), facing east. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+
+Figure 3.44
+
+Profile of typical shovel test excavated within Workspace 12”-Dig Point
+#22/23 (10” MP 18.85 Expsoure).  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+
+Figure 3.45
+
+Overview photograph of Workspace 10” –Dig Point #07, facing north. . . . . . . . . . . . . . 86
+
+Figure 3.46
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #07. . . . . . . . . 87
+
+Figure 3.47
+
+Overview photograph of Workspace 10” –Dig Point #08, facing south. . . . . . . . . . . . . . 88
+
+Figure 3.48
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #08. . . . . . . . . 89
+
+Figure 3.49
+
+Overview photograph of Workspace 10” –Dig Point #09, facing south. . . . . . . . . . . . . . 90
+
+Figure 3.50
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #09. . . . . . . . . 91
+
+Figure 3.51
+
+Overview photograph of Workspace 10” –Dig Point #10, facing north. . . . . . . . . . . . . . 92
+
+Figure 3.52
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #10. . . . . . . . . 93
+
+Figure 3.53
+
+Overview photograph of Workspace 10” –Dig Point #11, facing north. . . . . . . . . . . . . . 94
+
+Figure 3.54
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #11. . . . . . . . . 95
+
+Figure 3.55
+
+Overview photograph of Workspace 10” –Dig Point #12, facing south. . . . . . . . . . . . . . 96
+
+Figure 3.56
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #12. . . . . . . . . 97
+
+Figure 3.57
+
+Overview photograph of Workspace 10” –Dig Point #13, facing south. . . . . . . . . . . . . . 98
+
+Figure 3.58
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #13. . . . . . . . . 99
+
+Figure 3.59
+
+Overview photograph of Workspace 10” –Dig Point #14 and 15, facing north.  . . . . . . 100
+
+R. Christopher Goodwin & Associates, Inc.
+
+vii
+
+Contains Privileged Information -- Do Not Release
+
+Figure 3.60
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #14 and 15. . 101
+
+Figure 3.61
+
+Overview photograph of Workspace 12” -Dig Point #01, facing north.  . . . . . . . . . . . . 102
+
+Figure 3.62
+
+Overview photograph of Workspace 12” –Dig Point #02, facing north. . . . . . . . . . . . . 103
+
+Figure 3.63
+
+Profile of typical shovel test excavated within Workspace 12”-Dig Point #02. . . . . . . . 104
+
+Figure 3.64
+
+Overview photograph of Workspace 12” –Dig Point #03, facing north. . . . . . . . . . . . . 105
+
+Figure 3.65
+
+Profile of typical shovel test excavated within Workspace 12”-Dig Point #03. . . . . . . . 106
+
+Figure 3.66
+
+Overview photograph of Workspace 12” –MP 29.28 Exposure, facing north.  . . . . . . . 107
+
+Figure 3.67
+
+Profile of typical shovel test excavated within Workspace 12”-Dig Point
+MP 29.28 Exposure. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 108
+
+Figure 3.68
+
+Overview photograph of Workspace 12” –Dig Point #04, facing southeast. . . . . . . . . . 109
+
+Figure 3.69
+
+Profile of typical shovel test excavated within Workspace 12”-Dig Point #04. . . . . . . . 110
+
+Figure 3.70
+
+Overview photograph of Workspace 12” –Dig Point #05, facing northwest.  . . . . . . . .  111
+
+Figure 3.71
+
+Overview photograph of Workspace 12” –Dig Point #05, with nearby
+modern residence, facing northwest.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+
+Figure 3.72
+
+Overview photograph of Workspace 12” –Dig Point #10 and #11, facing south. . . . . . 113
+
+Figure 3.73
+
+Profile of typical shovel test excavated within Workspace 12”-Dig Point #10 and #11. 114
+
+Figure 3.74
+
+Overview photograph of Workspace 12” –Dig Point #06 and #07, facing north.  . . . . . 115
+
+Figure 3.75
+
+Profile of typical shovel test excavated within Workspace 12” –Dig Point
+#06 and #07. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
+
+List of Tables
+Table 3.1
+
+Line 1-N Abandonment Project Workspaces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+
+R. Christopher Goodwin & Associates, Inc.
+
+viii
+
+Contains Privileged Information -- Do Not Release
+
+Chapter I
+
+Introduction
+
+T
+
+Project Description
+Texas Eastern plans to abandon three segments of the Line 1-N natural gas pipeline. These
+abandonments are located in Harrison and Marion Counties, Texas. To facilitate this abandonment, removing liquids and other contaminants
+from 8”, 10” and 12” segments will be conducted
+by using compressed nitrogen. Where segments
+are located in isolated areas, these abandonments will have their ends capped or plated with
+block valves. At each state maintained roadway
+crossing, railroad crossing, or body of water, the
+pipeline segments will be abandoned per Texas
+Department of Transportation and Harrison and
+Marion County requirements. All above ground
+appurtenances associated with each of the Line
+1-N, 8”, 10”, and 12” segments will be removed.
+In order to facilitate the abandonment of these
+pipeline segments, a total of forty workspaces
+totaling 2.83 ha (7.01 ac) were examined for cultural resources.
+
+his document describes the results of
+Phase I cultural resources survey of the
+proposed Line 1-N Project in Harrison
+and Marion Counties, Texas (Figures 1.1 and
+1.2). Fieldwork for this project was completed
+between January 15 and 19, 2018. This cultural
+resources investigation entailed the examination of 40 workspaces that together totaled 2.83
+hectares (ha) (7.01 acres [ac]) in extent. The investigated workspaces are associated with the
+proposed abandonment of 8”, 10”, and 12” diameter pipeline segments that comprise portions
+of Texas Eastern’s Lateral 1-N pipeline. This
+cultural resources investigation was completed
+on behalf of Texas Eastern by R. Christopher
+Goodwin & Associates, Inc.
+This field effort was designed to identify
+and to evaluate all historic properties, archeological sites, cultural resources loci, standing structures, and/or cemeteries that may be impacted
+adversely by the proposed project. All work was
+performed in accordance with the procedures
+outlined in the National Historic Preservation
+Act of 1966, as amended; the Archaeological
+and Historic Preservation Act of 1974; Title 36
+of the Code of Federal Regulations, Parts 60-66
+and 800, as appropriate; Guidance for Reporting
+on Cultural Resources Investigations 18 CFR
+380.12(f) and 36 CFR 800, Archeology and
+Historic Preservation: The Secretary of the Interior’s Guidelines; and with guidelines contained
+within the Texas Historical Commission’s Preservation Connection: Texas’ Statewide Historic
+Preservation Plan. This undertaking also was
+guided by survey protocols promulgated by the
+Council of Texas Archeologists, the Texas Archaeological Research Laboratory, the Antiquities Code of Texas, and the Texas Historical
+Commission’s Rules of Practice and Procedure
+for the Antiquities Code of Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+Summary of Results and Recommendations
+Intensive pedestrian survey augmented by
+the excavation of 41 shovel tests failed to identify
+any cultural material or evidence of intact cultural deposits within the limits of the proposed abandonments. However, two historic standing structures, HSS-TJL-0117A and HSS-TJL-0117B,
+were identified and recorded outside of but within
+50 m (164 ft) of two adjacent workspaces located
+within Harrison County, Texas. However, the use
+of these workspaces within the existing Line 1-N
+right-of-way will not alter permanently, directly
+or indirectly, any physical characteristics of with
+these two historic resources. Therefore, temporary use of these workspaces within the existing
+Line 1-N Abandonment Project has no potential
+to cause adverse effects to nearby historic properties as defined in 36 CFR Part 800.3. No further
+1
+
+Contains Privileged Information -- Do Not Release
+
+Chapter I: Introduction
+
+95°0'0"W
+
+94°30'0"W
+
+94°0'0"W
+
+Idabel
+
+Choctaw
+
+Foreman
+Detroit Bagwell
+
+Howard
+
+Prescott
+
+Hempstead
+
+Little River
+
+Red River
+
+Deport
+
+Nevada
+
+Hope
+
+Ashdown
+
+33°30'0"N
+
+Lamar
+
+Clark
+
+Sevier
+
+McCurtain
+
+33°30'0"N
+
+93°30'0"W
+
+De Kalb
+
+Bogata
+
+New Boston Hooks
+
+Bowie
+
+Delta
+
+Texarkana
+Lewisville Stamps
+
+Miller
+Lafayette
+
+Titus
+Mount Pleasant
+
+Queen City
+Atlanta
+
+Camp
+
+Winnsboro
+
+Lone Star
+
+Springhill
+Cullen
+
+Proposed
+Project Areas
+
+Avinger
+
+Jefferson
+Benton
+
+Proposed
+Project Areas
+Marshall
+Gladewater
+
+Waskom
+
+Gregg
+
+Owentown
+
+Proposed
+Project Areas
+
+Kilgore
+
+Smith
+
+Bossier
+
+Caddo North Highlands
+
+Harrison
+
+White Oak
+Longview
+
+Webster
+
+Plain Dealing
+
+Vivian
+
+Upshur
+
+Hawkins
+
+32°30'0"N
+
+Linden
+
+Marion
+
+Wood
+
+Tyler
+
+Cass
+
+Daingerfield
+Hughes Springs
+
+Pittsburg
+
+33°0'0"N
+
+33°0'0"N
+
+Morris
+
+Columbia
+
+North Shreveport
+Bossier City
+
+32°30'0"N
+
+Franklin
+
+Shreveport
+
+Bienville
+
+Panola
+
+Henderson
+
+Rusk
+32°0'0"N
+
+Cherokee
+
+Coushatta
+
+32°0'0"N
+
+Red River
+De Soto Mansfield
+
+Timpson
+
+Shelby
+Rusk
+
+Nacogdoches
+
+Anderson
+95°0'0"W
+
+Sabine
+
+Center
+
+94°30'0"W
+
+94°0'0"W
+
+Natchitoches
+93°30'0"W
+
+Phase I Cultural Resources Line 1-N Abandonment Project in Harrison and Marion Counties, Texas
+
+0
+
+5
+
+10
+
+20
+
+30
+
+40
+
+Miles
+Kilometers
+0
+
+Figure 1.1
+
+5 10
+
+20
+
+30
+
+40
+
+Proposed Project Areas
+
+Major Urban Area
+
+Harrison and Marion Counties, Texas
+
+Major Water Body
+
+Neighboring Texas Counties
+
+Major Highway
+
+Arkansas, Louisiana and Oklahoma
+
+Major Stream
+
+Map locator depicting locations of Line 1-N Abandonment Project Workspaces in Harrison and
+Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+2
+
+Contains Privileged Information -- Do Not Release
+
+Chapter I: List of Figures
+
+374000
+375000
+Service Layer
+Credits: Copyright:© 2013 National Geographic
+
+376000
+
+377000
+
+3633000
+
+3633000
+
+12" Line 1-N Dig Point #07
+12" Line 1-N Dig Point #06
+
+3632000
+
+3632000
+
+12" Line 1-N Dig Point #10/11
+(12" MP Exposure)
+
+12" Line 1-N Dig Point #05
+
+Jefferson
+
+3631000
+
+3631000
+
+12" Line 1-N Dig Point #04
+
+12" Line 1-N Dig Point #08/09
+(12" MP 29.29 Exposure)
+
+3630000
+
+3630000
+
+12" Line 1-N Dig Point #03
+12" Line 1-N Dig Point #02
+12" Line 1-N Dig Point #01
+10" Line 1-N Dig Point #14 and #15
+
+374000
+
+375000
+
+376000
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 1 of 6)
+0
+
+260
+
+0
+
+Figure 1.2
+Sheet 1
+
+520
+
+650
+
+1,040
+
+1,300
+
+2,600
+
+1,560
+
+3,900
+
+R. Christopher Goodwin & Associates, Inc.
+
+377000
+
+UTM Zone 15
+NAD 83
+
+Dig Point Area
+Launcher Valve Site
+
+2,080
+Meters
+
+Exposed Pipe Area
+Previously Recorded Sites
+
+Feet
+5,200
+
+USGS Quadrangle excerpt depicting locations
+Workspaces in Harrison and Marion Counties, Texas.
+
+3
+
+10" Line 1-N Dig Point #13
+
+Quad Sheet Boundary
+
+of
+
+Line
+
+1-N
+
+Abandonment
+
+Project
+
+Contains Privileged Information -- Do Not Release
+
+Chapter I: List of Figures
+
+379000
+
+380000
+
+3625000
+
+3625000
+
+378000
+Service Layer Credits: Copyright:©
+2013 National Geographic
+
+3624000
+
+3624000
+
+Jefferson
+
+10" Line 1-N Dig Point #12
+10" Line 1-N Dig Point #11
+
+41MR257
+
+3623000
+
+3623000
+
+41MR259
+
+10" Line 1-N Dig Point #10
+10" Line 1-N Dig Point #09
+Woodlawn
+
+3622000
+3621000
+
+3621000
+
+3622000
+
+41HS11
+
+378000
+
+379000
+
+380000
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 2 of 6)
+0
+
+260
+
+0
+
+Figure 1.2
+Sheet 2
+
+520
+
+650
+
+1,040
+
+1,300
+
+2,600
+
+1,560
+
+3,900
+
+UTM Zone 15
+NAD 83
+
+Launcher Valve Site
+
+2,080
+Meters
+
+Exposed Pipe Area
+Previously Recorded Sites
+
+Feet
+5,200
+
+USGS Quadrangle excerpt depicting locations
+Workspaces in Harrison and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+Dig Point Area
+
+4
+
+Quad Sheet Boundary
+
+of
+
+Line
+
+1-N
+
+Abandonment
+
+Project
+
+Contains Privileged Information -- Do Not Release
+
+Chapter I: List of Figures
+
+382000
+383000
+Service Layer Credits:
+Copyright:© 2013 National Geographic
+
+384000
+
+385000
+
+10" Line 1-N Dig Point #08
+10" Line 1-N Dig Point #07
+
+3618000
+3617000
+
+3617000
+
+3618000
+
+12" Line 1-N Dig Point #22/23
+(10" MP 18.85 Exposure)
+
+Woodlawn
+
+3616000
+3615000
+
+3615000
+
+3616000
+
+Karnack
+
+10" Line 1-N Dig Point #06
+(10" MP 15.13 Exposure)
+
+382000
+
+383000
+
+384000
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 3 of 6)
+0
+
+260
+
+0
+
+Figure 1.2
+Sheet 3
+
+520
+
+650
+
+1,040
+
+1,300
+
+2,600
+
+1,560
+
+3,900
+
+Dig Point Area
+Launcher Valve Site
+
+2,080
+Meters
+
+Exposed Pipe Area
+Previously Recorded Sites
+
+Feet
+5,200
+
+USGS Quadrangle excerpt depicting locations
+Workspaces in Harrison and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+385000
+
+UTM Zone 15
+NAD 83
+
+5
+
+Quad Sheet Boundary
+
+of
+
+Line
+
+1-N
+
+Abandonment
+
+Project
+
+Contains Privileged Information -- Do Not Release
+
+387000
+
+388000
+
+3613000
+
+10" Line 1-N Dig Point #20/21
+(10" MP 15.03 Exposure)
+
+3614000
+
+385000
+386000
+Service Layer Credits:
+Copyright:© 2013 National Geographic
+
+3613000
+
+3614000
+
+Chapter I: List of Figures
+
+41HS849
+3612000
+
+3612000
+
+Karnack
+
+3611000
+
+3611000
+
+10" Line 1-N 18' Exposed 10" Pipe
+
+3610000
+
+10" Line 1-N Dig Point #04
+(10"MP 13.87/13.88 Exposure)
+
+3610000
+
+10" Line 1-N Dig Point #05
+
+Scottsville
+
+385000
+
+386000
+
+387000
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 4 of 6)
+0
+
+260
+
+0
+
+Figure 1.2
+Sheet 4
+
+520
+
+650
+
+1,040
+
+1,300
+
+2,600
+
+1,560
+
+3,900
+
+Dig Point Area
+Launcher Valve Site
+
+2,080
+Meters
+
+Exposed Pipe Area
+Previously Recorded Sites
+
+Feet
+5,200
+
+USGS Quadrangle excerpt depicting locations
+Workspaces in Harrison and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+388000
+
+UTM Zone 15
+NAD 83
+
+6
+
+Quad Sheet Boundary
+
+of
+
+Line
+
+1-N
+
+Abandonment
+
+Project
+
+Contains Privileged Information -- Do Not Release
+
+Chapter I: List of Figures
+
+395000
+
+3602000
+
+394000
+
+3602000
+
+3930002013 National Geographic
+Service Layer Credits: Copyright:©
+
+10" Line 1-N Dig Point #03
+
+3601000
+
+3601000
+
+10" Line 1-N Dig Point #02
+
+10" Line 1-N Dig Point #01
+Scottsville
+
+3600000
+
+3600000
+
+Latex
+
+3599000
+3598000
+
+3598000
+
+3599000
+
+8" Line 1-N Dig Point #15/16
+(8" MP4.44 Exposure)
+
+393000
+
+394000
+
+395000
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 5 of 6)
+0
+
+260
+
+0
+
+Figure 1.2
+Sheet 5
+
+520
+
+650
+
+1,040
+
+1,300
+
+2,600
+
+1,560
+
+3,900
+
+UTM Zone 15
+NAD 83
+
+Launcher Valve Site
+
+2,080
+Meters
+
+Exposed Pipe Area
+Previously Recorded Sites
+
+Feet
+5,200
+
+USGS Quadrangle excerpt depicting locations
+Workspaces in Harrison and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+Dig Point Area
+
+7
+
+Quad Sheet Boundary
+
+of
+
+Line
+
+1-N
+
+Abandonment
+
+Project
+
+Contains Privileged Information -- Do Not Release
+
+Chapter I: List of Figures
+
+397000 Copyright:© 2013 National Geographic
+398000
+Service Layer Credits:
+
+399000
+
+400000
+
+3596000
+
+3596000
+
+Latex
+
+8" Line 1-N Dig Point #11
+
+3595000
+
+3595000
+
+8" Line 1-N Dig Point #10
+
+8" Line 1-N Dig Point #09
+8" Line 1-N Dig Point #08
+8" Line 1-N Dig Point #07
+
+8" Line 1-N Dig Point #13/14
+(8" MP 1.04 Exposure)
+
+8" Line 1-N Dig Point #05
+
+Waskom
+
+3594000
+
+3594000
+
+8" Line 1-N Dig Point #06
+
+8" Line 1-N Dig Point #04
+8" Line 1N - Dig Point #3
+
+8" Line 1-N Dig Point #02
+
+3593000
+3592000
+
+3592000
+
+3593000
+
+8" Line 1-N Dig Point #01
+
+397000
+
+398000
+
+399000
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 6 of 6)
+0
+
+260
+
+0
+
+Figure 1.2
+Sheet 6
+
+520
+
+650
+
+1,040
+
+1,300
+
+2,600
+
+1,560
+
+3,900
+
+Dig Point Area
+Launcher Valve Site
+
+2,080
+Meters
+
+Exposed Pipe Area
+Previously Recorded Sites
+
+Feet
+5,200
+
+USGS Quadrangle excerpt depicting locations
+Workspaces in Harrison and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+400000
+
+UTM Zone 15
+NAD 83
+
+8
+
+Quad Sheet Boundary
+
+of
+
+Line
+
+1-N
+
+Abandonment
+
+Project
+
+Contains Privileged Information -- Do Not Release
+
+Chapter I: List of Figures
+
+architectural investigations of these two properties or further examination of the workspaces is
+recommended for these locations. No additional
+cultural resources were identified as a result of
+this investigation, and no additional examination
+of the proposed workspaces associated with the
+Line 1-N Pipeline Abandonment Project is recommended.
+
+ed by Ms. Jill Adams Enerson, M.P.S. Fieldwork
+was supervised and conducted by Tyler Leben,
+B.A. and Joey O’Keefe M.A., R.P.A. Ms. Heidi
+Post, B.A., produced this report, while Mr. Craig
+Matthews, B.A. and Mr. David Stitcher, B.A.
+created the graphics found throughout this document.
+Organization of the Report
+A discussion of the previous investigations,
+soil descriptions, research design, and field methods utilized to complete this Phase I archeological inventory are presented in Chapter II. The results of fieldwork and project recommendations
+are contained in Chapter III.
+
+Project Personnel
+Nathanael Heller, M.A., R.P.A. served as
+Principal Investigator for this study. Peter Cropley M.A., R.P.A., Tyler Leben, B.A., and Joey
+O’Keefe M.A., R.P.A., compiled and edited this
+report. The architectural analysis and review of
+structures identified during survey was complet-
+
+R. Christopher Goodwin & Associates, Inc.
+
+9
+
+Contains Privileged Information -- Do Not Release
+
+Chapter II
+
+Previous Investigations, Research
+Design, Soils, and Field Methodology
+
+T
+
+he following section describes the research
+design, field methodologies, soil unit descriptions, and background research used
+to complete the Phase I cultural resources survey
+and archeological inventory of the proposed Line
+1-N Abandonment Project in Harrison and Marion Counties, Texas (Figures 1.1 and 1.2). In addition, the procedures utilized in the architectural
+recordation of historic standing structures identified during survey and perceived to be at least
+50 years of age or older and within 50 m (164
+ft) of the proposed Area of Potential Effect, are
+presented. Finally, this chapter provides the name
+and address of the curation facility where all project notes and materials will be curated.
+
+any of the proposed workspaces associated with
+the Line 1-N Abandonment.
+Previously Conducted Cultural Resources Investigations Conducted within 1.6 km (1 mi) of the
+Proposed Project Line 1-N Areas
+The 11 previously completed cultural resources investigations in Marion and Harrison
+Counties were conducted to provide Section 106
+compliance for projects regulated by the Federal
+Energy Regulatory Commission (n=4), the U.S.
+Army Corps of Engineers (n=2), the Texas Department of Transportation (n=1), the U.S. Department of Agriculture-Rural Utility Service
+(n=1), the City of Marshall, Texas (n=1), and the
+Federal Highway Administration (n=1). An additional project was conducted by the Smithsonian
+Institute at Site 41HS11 in 1951. The remainder
+of these projects were completed between 1981
+and 2009. None of these cultural resources investigations intersected or were located directly adjacent to the project items examined as a result of
+this cultural resources investigation.
+
+Previous Investigations
+To ensure that all potential impacts to known
+historic properties were addressed prior to investigating the project area, a review was undertaken
+of those previously completed cultural resources
+investigations, recorded archeological site locations, recorded historic standing structures, and
+properties listed on the National Register of Historic Places situated within 1.6 km (1 mi) of the
+currently proposed project workspaces. This review was conducted by R. Christopher Goodwin
+& Associates, Inc., of data currently on file with
+the Texas Historical Commission.
+In total, 11 previously completed cultural resources investigations, 3 cemeteries, 1 National
+Register-listed property, and 4 previously recorded archeological sites were identified within
+1.6 km (1 mi) of the proposed project area. No
+historic standing structures were identified during this review. None of the identified cultural resources are situated within or directly adjacent to
+
+R. Christopher Goodwin & Associates, Inc.
+
+Previously Identified Archeological Sites Situated within 1.6 km (1 mi) of the Proposed Project Area
+Four previously recorded sites were identified within 1.6 km (1 mi) within the examined
+Line 1-N Phase I pipeline workspaces. None of
+these previously identified cultural resources fall
+within or directly adjacent to the three project
+items. Each site is discussed in more detail below.
+The Pecan Retreat Site (41MR257) is
+situated 0.24 km (0.15 mi) east of the Cypress
+River Airport and north of FM 134 in Marion
+County, Texas. The site was identified during
+10
+
+Contains Privileged Information -- Do Not Release
+
+Chapter II: Previous Investigations, Research Design, Soils, and Field Methodology
+
+the survey of a waterline infrastructure project
+and described as a historic artifact scatter that
+produced of glass, stoneware, whiteware, and a
+single nail. The portion of the site within the waterline project right-of-way was recommended
+as not eligible for listing on the NRHP (Perttula
+and Nelson 2003).
+The Dolly Bell Key Site (41MR259) was
+characterized as a prehistoric lithic scatter that
+also was identified during the survey of a waterline infrastructure project in Marion County,
+Texas. Several pieces of lithic debitage were
+recovered from three artifact producing shovel
+tests excavated within the site area. The site was
+assessed as not eligible for listing on the NRHP
+(Perttula and Nelson 2003).
+Site 41HS11, the Jodi Bender Site, was
+situated approximately 0.45 km (0.28 mi) east
+of the border of Marion and Harrison Counties
+along the north and south sides of FM 134 (Weir
+1989). The site, described as a Caddo period artifact scatter, produced ceramics, lithic debitage,
+lithic tools, hematite, and a possible Native
+American pipe fragment. The Smithsonian Institute conducted an archeological investigation
+at the site in 1951, though that report currently
+is unavailable. To date, the site has not been
+evaluated applying National Register of Historic
+Places Criteria of Evaluation (36 CFR 60.4 [ad]); however, it previously was recommended
+that the site be avoided in the future. The development of a data recovery plan has been recommended, in the event that the site could not be
+avoided by future construction projects (Perttula
+and Nelson 2003).
+The Phoenix Plantation Site (41HS849),
+is situated along Peter’s Chapel Road approximately 1.7 km (1.1 mi) north of the intersection
+with Rayburn Road in Harrison County, Texas.
+The site, described as the former location of a
+plantation homestead, dates from approximately
+1843 to 1853. Artifacts recovered from the site
+included glass, brick fragments, square or cut
+nails, historic ceramics, and smoking pipe fragments. The significance of the site has not been
+evaluated, the National Register of Historic
+Places eligibility of the site is not known.
+
+R. Christopher Goodwin & Associates, Inc.
+
+National Register of Historic Places Listed
+Properties within 1.6 km (1 mi) of the Proposed
+Project Area
+A single NRHP listed resource, the Locust
+Grove plantation home, is situated within 1.6 km
+(1 mi) of project items associated with the Line
+1-N Phase I cultural resources survey. The Locust Grove plantation home is located along Bill
+Coleman Road and near the town of Jonesville
+in Harrison County, Texas. The Greek Revival
+residence is part of the former cotton plantation
+located on the property and one of several outbuildings still extant on site. The plantation was
+constructed between 1847 and 1849 and included
+several slave cabins, a barn, a log cabin, and extensive cotton fields. The Locust Grove Property
+was listed on the NRHP in 1978.
+Cemeteries situated within 1.6 km (1 mi) of the
+Proposed Project Area
+In addition to the above properties, three
+cemeteries were identified within 1.6 km (1 mi)
+of the Line 1-N Phase I project area. None of the
+cemeteries are located within or directly adjacent
+to currently proposed project items.
+The Andrews Cemetery is located approximately 0.6 km (0.4 mi) east of the intersection of
+FM 43 and CR 2116 and southeast of the town
+of Karnack, in Harrison County, Texas. Directly
+west of the Andrews Cemetery is the Andrews
+African-American Cemetery. The Andrews Cemetery contains approximately 460 interments,
+while the Andrews African-American Cemetery
+contains approximately 30 interments.
+The Waskom Cemetery is located approximately 0.25 km (0.16 mi) south of I-20 and on the
+southeastern side of Waskom in Harrison County,
+Texas. The cemetery contains approximately seven interments which likely date from ca. 1860.
+No further information was available about the
+Waskom Cemetery.
+Soils Mapped in the Vicinity of the Line 1-N
+Abandonment Project Workspaces
+Soil data for each of the individual workspaces examined for this project are included in
+Chapter III and Table 3.1. A detailed description
+
+11
+
+Contains Privileged Information -- Do Not Release
+
+Chapter II: Previous Investigations, Research Design, Soils, and Field Methodology
+
+of each soil unit mapped within the vicinity of
+each of the Line 1-N Abandonment project items
+is presented below.
+
+and interfluves. The soils are created from clayey
+marine deposits. The soil unit is situated on slight
+sloping (1 to 5 per cent) terrain, is well drained,
+and characterized by very high water runoff with
+no frequencies of flooding or ponding. Eastwood
+very fine sandy loam soils are suitable for farmland use (NRCS 2018).
+
+Mapped Soil Unit Descriptions for Line 1-N
+Workspaces in Harrison County, TX
+BerBn - Keatchie fine sandy loams (1 to 3 per
+cent slopes)
+Keatchie fine sandy loams consist of a mixture of Keatchie and similar soils (98 per cent)
+and minor component Meth soils (2 per cent).
+Keatchie soils occupy the intermediate and high
+positions of the Loamy Upland (elevation from
+200 to 550 feet); an ecological setting that includes summits and interfluves. The soils are
+created by loamy fluviomarine deposits. The soil
+unit is situated on slight sloping (1 to 3 per cent)
+terrain, well drained, and characterized by low
+water runoff and no frequencies of flooding or
+ponding. Keatchie fine sandy loam soils indicate
+areas with a high potential for facilitating farming
+(NRCS 2018).
+
+EasEn – Eastwood very fine sandy loam (5 to 20
+per cent slopes)
+Eastwood very fine sandy loams consist of a
+mixture of Eastwood and similar soils (88 per cent)
+and minor component Latex soils (12 per cent).
+Eastwood very fine sandy loams occupy the low to
+intermediate positions of the Loamy over Clayey
+Upland (elevation from 46 to 122 m); an ecological setting that includes hillsides, back slopes, side
+slopes, and interfluves. The soils are derived from
+clayey marine deposits. The soil unit is situated
+on moderately sloping (5 to 20 per cent) terrain,
+well drained, and characterized by very high water
+runoff with no frequencies of flooding or ponding.
+Eastwood very fine sandy loam soils (5 to 20 per
+cent slope) indicate areas with a low potential for
+farmland use (NRCS 2018).
+
+DbC – Darbonne fine sandy loams (3 to 5 per
+cent slopes)
+Darbonne fine sandy loams are a mixture
+of Darbonne and similar soils (90 per cent) and
+minor soils (10 per cent). Darbonne fine sandy
+loams occupy the intermediate and high positions
+of the Northern Sandy Loam Upland (elevation
+from 61 to 137 meters); an ecological setting that
+includes both summits and interfluves. The soils
+are created from loamy marine deposits. The soil
+unit is situated upon gently sloping (3 to 5 per
+cent) terrain, is well drained, and characterized
+by low water runoff and no frequencies of flooding or ponding. Darbonne fine sandy loam soils
+are suitable for farmland use (NRCS 2018).
+
+MthBn – Meth fine sandy loams (1 to 3 per cent
+slopes)
+Meth fine sandy loams can be described as
+a mixture of Meth and similar soils (78 per cent)
+and minor component Keatchie soils (11 per cent)
+and Latex soils (11 per cent). Meth fine sandy
+loams occupy the low to high positions of Loamy
+over Clayey Upland (elevation from 52 to 174
+meters); an ecological setting that includes summits and interfluves. The soils are created from
+clayey fluviomarine marine deposits. The soil
+unit generally is situated on slightly sloping (1 to
+3 per cent) terrain, well drained, and characterized by medium water runoff and no frequencies
+of flooding or ponding. Meth fine sandy loams
+represent areas with a high potential for use as
+farmland (NRCS 2018).
+
+EasCn – Eastwood very fine sandy loams (1 to 5
+per cent slopes)
+Eastwood very fine sandy loams consist of
+Eastwood and similar soils (86 per cent) and minor component Metcalf soils; a Seasonally Wet
+Upland soil (14 per cent). Eastwood very fine
+sandy loams occupy the low to high positions of
+Loamy over Clayey Upland (elevation 49 to 171
+m); an ecological setting that includes summits
+R. Christopher Goodwin & Associates, Inc.
+
+ScxBn – Scottsville-Latex complex (0 to 2 per
+cent slopes)
+Scottsville-Latex complex consists of a mixture of Scottsville and similar soils (66 per cent),
+Latex and similar soils (21 per cent), and minor
+12
+
+Contains Privileged Information -- Do Not Release
+
+Chapter II: Previous Investigations, Research Design, Soils, and Field Methodology
+
+component Eastwood soils (11 per cent) and Catuna soils (2 per cent). Scottsville-Latex complex
+soils occupy low to high positions of Loamy Upland (elevation from 46 to 137 m); an ecological setting that includes summits and interfluves.
+The soils are created from loamy fluviomarine
+and clayey fluviomarine deposits. The soil unit is
+situated upon almost flat (0 to 2 per cent slope)
+terrain, moderately well drained, and characterized by very high water runoff and no frequencies
+of flooding or ponding. Scottsville-Latex complex indicate areas with a high potential for use
+as farmland (NRCS 2018).
+
+cupy the low to high positions of the Loamy Upland (elevation from 46 to 183 m); an ecological
+setting that includes interfluves and summits. The
+soil is derived from deposits from loamy marine
+deposits. The soil unit generally is situated along
+slightly sloping (1 to 5 per cent) landforms and
+is well drained with no frequencies of flooding
+or ponding. Bowie fine sandy loam soils indicate
+areas with a high potential for use as farmland
+(NRCS 2018).
+DaB – Darco loamy fine sand (2 to 5 per cent
+slopes)
+Darco loamy fine sand consists of a mixture
+of Darco and similar soils (80 per cent) and minor component Kirvin and Lilbert soils (10 per
+cent). Darco loamy fine sand occupy the intermediate to high positions of the Northern Deep
+Sandy Upland (elevation from 122 to 213 m); an
+ecological setting that includes both interfluves
+and summits. The soil is derived from sandy and
+loamy marine deposits. The soil unit generally is
+situated on slightly sloping (2 to 5 per cent) terrain and is somewhat excessively drained with no
+frequencies of flooding or ponding. Darco loamy
+fine sand indicate areas with a low potential for
+use as farmland (NRCS 2018).
+
+Sm – Sardis-Mathiston complex, frequently
+flooded (0 to 1 per cent slopes)
+The Sardis-Mathiston complex consists
+of a mixture of Sardis and similar soils (45 per
+cent), Mathiston and similar soils (35 per cent),
+and unnamed minor component soils (2 per cent).
+Sardis-Mathiston complex soils occupy the low
+positions of the Loamy Bottomland (elevation
+from 15 to 46 m); an ecological setting that includes flood plains, toeslopes, and talf. The soils
+are created by deposits of loamy alluvium. The
+soil unit is situated on almost flat (0 to 1 per cent
+slope) terrain and somewhat poorly drained with
+high frequencies of flooding. Sardis-Mathiston
+complex indicate areas with a high potential for
+use as farmland (NRCS 2018).
+
+GaC – Gallime-Guyton complex (0 to 2 per cent
+slopes)
+Gallime-Guyton complex soil is a mixture
+of Gallime and similar soils (48 per cent), Guyton
+and similar soils (42 per cent), and Metcalf soils
+(10 per cent). Gallime-Guyton complex soils occupy the low to high positions of the Loamy Bottomland (elevation from 6 to 167 m); an ecological setting that includes depressions on stream
+terraces and toeslopes. The soils are created by
+loamy alluvium deposits. The soil unit generally
+is situated on almost flat (0 to 2 per cent slope)
+terrain and is well drained with no frequencies
+of flooding or ponding. When drained, GallimeGuyton complex soils have a high potential for
+use as farmland (NRCS 2018).
+
+Ur – Urban Land
+Urban land soils are highly disturbed from
+cultural impacts to subsurface and surface soils,
+creating a variety of horizons. The soils are found
+throughout all ecological and geographic regions
+where construction and other activities have heavily impacted soils. The soils have no potential for
+farmland or agricultural use (NRCS 2018).
+Mapped Soil Unit Descriptions for Line 1-N
+Workspaces in Marion County, Texas
+BoC – Bowie fine sandy loam (1 to 5 per cent
+slopes)
+Bowie fine sandy loam consists of a mixture
+of Bowie and similar soils (90 per cent) and minor component Lilbert, Sacul, Kullit, and Kirvin
+soils (10 per cent). Bowie fine sandy loams ocR. Christopher Goodwin & Associates, Inc.
+
+HaA – Hainesville fine sand (0 to 2 per cent
+slopes)
+Hainesville fine sand consists of a mixture
+of Hainesville and similar soils (90 per cent)
+13
+
+Contains Privileged Information -- Do Not Release
+
+Chapter II: Previous Investigations, Research Design, Soils, and Field Methodology
+
+and Mantachie (5per cent) and Mollville soils
+(5 per cent). Hainesville fine sands occupy the
+low to intermediate positions of the Deep Sandy
+Terrace, Loamy Bottomland, and Depression
+(elevations from 120 to 450 feet); an ecological
+setting that include stream terraces, toeslopes,
+floodplains, and open depressions. The soil is
+derived from sandy alluvium deposits. The soil
+unit is situated on generally flat (0-2 per cent
+slope) terrain and is somewhat excessively
+drained, characterized by negligible water runoff with no frequencies of flooding. Hainesville
+fine sand (0 to 2 per cent slope) indicates areas
+with a low potential for use as farmland (NRCS
+2018).
+
+TnD – Tenaha loamy fine sand (5 to 15 per cent
+slopes)
+Tenaha loamy fine sand consists of a mixture of Tenaha and similar soils (90 per cent)
+and Cuthbert soils (10 per cent). Tenaha loamy
+fine sand occupy the low to high positions of the
+Northern Sandy Loam Upland (elevation from
+40 to 180 m); an ecological setting that includes
+interfluves and backslopes. The soils are derived
+from loamy marine deposits. The soil unit is situated on strongly sloping (5 to 15 per cent) terrain
+and is well drained with no frequencies of flooding or ponding. Tenaha loamy fine sand indicates
+areas with a low potential for use as farmland
+(NRCS 2018).
+
+KrC – Kirvin very fine sandy loam (1 to 5 per
+cent slopes)
+Kirvin very fine sandy loam consists of a
+mixture of Kirvin and similar soils (80 per cent)
+and minor components including Briley, Bowie,
+and Lilbert soils (20 per cent). Kirvin very fine
+sandy loam occupy the low to high positions of
+the Loamy Over Clayey Upland, (elevation from
+58 to 189 m); an ecological setting that includes
+both interfluves and summits. The soils are derived from clayey fluviomarine deposits. The soil
+unit is situated on slightly sloping (1 to 5 per cent)
+terrain and is well drained with no frequencies of
+flooding or ponding. Kirvin very fine sandy loam
+indicates areas with a low potential for use as
+farmland (NRCS 2018).
+
+WrA – Wrightsville silt loam, ponded (0 to 1 per
+cent slopes)
+Wrightsville silt loam consists of a mixture
+of Wrightsville and similar soils (90 per cent) and
+Erno soils (10 per cent). Wrightsville silt loams
+occupy the low and intermediate positions of the
+Wet Terrace (elevation from 37 to 137 m); an ecological setting that includes stream terraces, toeslopes, and open depressions. The soil is derived
+from deposits derived from clayey alluvium. The
+soil unit is situated on almost flat (0 to 1 per cent
+slope) terrain, is poorly drained, and is characterized by negligible water runoff and frequent
+ponding. Wrightsville silt loams have been classified as farmland of statewide importance (NRCS
+2018).
+
+LuC – Lilbert loamy fine sand (2 to 5 per cent
+slopes)
+Lilbert loamy fine sand consists of a mixture
+of Lilbert and similar soils (90 per cent) with Darco and Bowie soils (10 per cent). Lilbert loamy
+fine sands occupy the intermediate and high positions of the Northern Sandy Loam Upland (elevation from 107 to 183 m); an ecological setting that includes both interfluves and summits.
+The soils are created from sandy marine and/or
+loamy marine deposits. The soil unit is situated
+upon slightly sloping (2 to 5 per cent) terrain and
+is well drained with no frequencies of flooding or
+ponding. Lilbert loamy fine sand indicates areas
+with a low potential for use as farmland (NRCS
+2018).
+
+Research Design
+The current Phase I cultural resources survey and archeological inventory was designed to
+obtain data pertaining to the nature and distribution of all cultural resources located within the
+proposed project items. Fieldwork for this investigation was comprehensive in nature; planning
+took into account the results of the archeological
+surveys previously completed within the general
+project vicinity, as well as an assessment of the
+probabilities for identifying cultural resources
+within each survey item. Survey included onground inspection of all portions of the project
+item; field methodology included both pedestrian
+survey and systematic shovel testing throughout
+the proposed project area.
+
+R. Christopher Goodwin & Associates, Inc.
+
+14
+
+Contains Privileged Information -- Do Not Release
+
+Chapter II: Previous Investigations, Research Design, Soils, and Field Methodology
+
+All fieldwork was conducted in accordance
+with the procedures outlined in the National Historic Preservation Act of 1966, as amended; the
+Archaeological and Historic Preservation Act of
+1974; and Title 36 of the Code of Federal Regulations, Parts 60-66 and 800, as appropriate. Additionally, this survey effort abided by the standards
+set forth in Archeology and Historic Preservation:
+The Secretary of the Interior’s Guidelines, and
+with guidelines contained within Preservation
+Connection: Texas’ Statewide Historic Preservation Plan. Information provided by the Council
+of Texas Archeologists, the Texas Archaeological Research Laboratory, the Antiquities Code
+of Texas, and the Texas Historical Commission’s
+Archeological Survey Standards for Texas and
+Rules of Practice and Procedure for the Antiquities Code of Texas also was utilized.
+
+sites. Shovel tests were excavated at 50 m (164 ft)
+intervals along a single survey transect where appropriate. Additionally, judgmental shovel tests
+were excavated within the limits of some of the
+workspaces to avoid buried utilities, roadways,
+and other obstructions. In some cases, these obstructions prevented the excavation of shovel
+tests within the workspaces; visual inspection
+and pedestrian survey of these locations also was
+utilized
+Each survey shovel test measured approximately 30 cm (11.8 in) in diameter, and each was
+excavated to a minimum depth of 50 cmbs (19.7
+inbs), to sterile or compact clays, or until the
+influx of ground water impeded the excavation
+process. All shovel test fill was screened through
+0.64 cm (0.25 in) hardware cloth; extremely wet
+soils and clays were hand-sifted, troweled, and
+examined visually for cultural material. Each
+shovel test was excavated in 10 cm (3.9 in) artificial levels within natural strata and the fill from
+each level was screened separately. Munsell Soil
+Color Charts were used to record soil color; soil
+texture and other identifiable characteristics also
+were recorded using standard soils nomenclature. All shovel tests were backfilled immediately
+upon completion of the archeological recordation
+process.
+As a result of this investigation, 41 shovel
+tests were excavated successfully throughout the
+40 workspaces associated with Line 1-N Abandonment project area (Appendix I). Two historic
+standing structures were identified as a result
+of the cultural resources survey of the proposed
+project area and these are discussed in further detail in Chapter III. Both structures were located
+outside of the project right-of-way.
+
+Field Methodology
+The field methods used to complete this investigation were designed to provide complete
+and thorough coverage of the Area of Potential
+Effect. This undertaking included pedestrian survey and systematic subsurface testing within the
+limits of 40 proposed workspaces; in all 2.83 (ha)
+(7.01 acres) were examined for cultural resources. In addition, this investigation also included
+an architectural evaluation of any historic standing structures older than 50 years in age located
+within or adjacent to the project area. These field
+methodologies are described in more detail below.
+Shovel Testing
+Stratification of the proposed project area
+was based on discussions held between the Project Manager and the Project Archeologist, as well
+as on previously recorded site distributions and
+settlement data gleaned from other archeological
+surveys completed within the broader region, environmental factors such as elevation above the
+surrounding terrain, slope, and proximity to, and
+elevation above, perennial water sources. Each of
+the workspaces proposed for the Line 1-N Abandonment project typically were less than 0.4 ha
+(1 ac) in extent. Due to the small size of these
+workspaces, these areas were considered to have
+a high probability for containing archeological
+R. Christopher Goodwin & Associates, Inc.
+
+Architectural Review and Standing Structures Recordation
+Survey crews were instructed to record
+any standing structures encountered during the
+Phase I cultural resources survey of the proposed
+project area that they perceived to be at least 50
+years or more of age. Since the project has the
+potential to impact or destroy historic properties,
+the purpose of this architectural recordation was
+to: (1) collect reconnaissance-level architectural
+survey data for each building 50 years in age or
+15
+
+Contains Privileged Information -- Do Not Release
+
+Chapter II: Previous Investigations, Research Design, Soils, and Field Methodology
+
+older located within or immediately adjacent to
+the proposed Areas of Potential Effect; (2) apply
+the National Register criteria to each recorded
+structure(s); and (3) apply the Advisory Council on Historic Preservation’s Criteria of Effect
+to each historic property. The architectural survey was conducted within the entire project area.
+In addition, the survey considered any historic
+standing structures that were situated within 50
+m (164 ft) of the proposed corridor boundaries.
+All architectural investigations were undertaken
+in accordance with guidelines established in National Register Bulletin 24: Guidelines for Local
+Surveys: A Basis for Preservation Planning (Na-
+
+R. Christopher Goodwin & Associates, Inc.
+
+tional Park Service 1995). Two structures were
+located during the cultural resources survey.
+Curation
+Following the completion of all analyses and
+the acceptance of the final survey and inventory
+report, all records, photographs, and field notes,
+will be curated with:
+Texas Archeological Research Laboratory
+J.J. Pickle Research Campus, Bldg. 5
+The University of Texas at Austin
+10100 Burnet Road
+Austin, Texas 78758.
+
+16
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III
+
+Results of the Field Investigations,
+Summary, and Recommendations
+
+T
+
+he Phase I Line 1-N Abandonment cultural
+resources survey in Harrison and Marion
+Counties, Texas resulted in the excavation
+of 41 shovel tests and the examination of 40 proposed work spaces (Figures 1.1, 1.2, 3.1: Sheets
+1-22, Table 3.1, and Appendix I). As a result of
+this investigation, two historic standing structures
+were identified and recorded outside of but within
+50 m (164 ft) of two of the proposed workspaces; both were located in Harrison County, Texas.
+No additional cultural resources were identified
+during the examination of the remaining project
+items and no further work is recommended. Each
+of the proposed workspaces and the two identified historic standing structures are discussed in
+further detail below.
+
+I). Visual inspection and photodocumentation of
+the area failed to identify any cultural resources.
+No additional examination of workspace 8”-Dig
+Point #01 is recommended.
+Workspace 8”-DIG POINT #02
+Workspace 8”-Dig Point #02 consisted a
+0.04 ha (0.11 ac) rectangular-shaped area that
+measured approximately 15 m (49.2 ft) in width
+and 30 m (98.4 ft) in length. This area was located approximately 160 m (525 ft) south of the
+South I-20 Service road in Wascom, TX (Figures
+3.1 Sheet 1; 3.3; Table 3.1). The area was situated
+completely within an extant pipeline corridor and
+included a fenced valve facility. Vegetation consisted mostly of grasses within the existing corridor. Soils mapped in the vicinity of the workspace consisted predominantly of Scottsville-Latex complex (ScxBn) soils (NRCS 2018). These
+clayey and loamy soils typically are situated at
+summits and interfluves on flat terrain (0 to 2 per
+cent slopes) and are described as moderately well
+drained.
+No shovel tests were excavated within 8”Dig Point #02 because it was completely situated
+within an extant pipeline corridor and valve facility (Appendix I). Visual inspection and photodocumentation of the area failed to identify any
+cultural resources. No additional investigation of
+workspace 8”-Dig Point #02 is recommended.
+
+Harrison County
+Workspace 8”-DIG POINT #01
+Workspace 8”- Dig Point- #01 was situated
+190 m (624 ft) south of the South Interstate 20
+Service Road and along a private road in Wascom, TX (Figures 3.1: Sheet 1; 3.2; Table 3.1).
+The area measured 39 m (128 ft) in length by 15
+m (49.2 ft) in width and encompassed an area that
+measured 0.06 ha (0.14 ac) in extent. The workspace was located along a paved road and partially within an existing gas facility. Soils mapped in
+the vicinity of the workspace consisted of Urban
+Land soils (Ur). This soil unit is comprised of
+heavily disturbed surface and subsurface subsoils
+(NRCS 2018).
+The northern portion of the workspace was
+located along a paved road while the southern
+portion was situated within an extant fenced gas
+facility. No shovel tests were excavated within
+workspace 8”-Dig Point #01 due to the presence of paved surfaces and utilities (Appendix
+R. Christopher Goodwin & Associates, Inc.
+
+Workspace 8”-DIG POINT #03
+Workspace 8”-Dig Point #03 is a 0.02 ha
+(0.06 ac) square area that measured approximately 15 m (49.2 ft) along each side; it too is positioned on the southern edge of South I-20 Service
+Road in Wascom, TX (Figures 3.1: Sheet 2; 3.4;
+Table 3.1). The proposed workspace was crossed
+17
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+399000
+399100
+Service Layer Credits: Esri, HERE, DeLorme, MapmyIndia,
+©
+
+3593500
+
+3593500
+
+399200
+
+3593400
+3593200
+
+3593200
+
+3593300
+
+8" Line 1-N Dig Point #01
+
+3593300
+
+3593400
+
+8" Line 1-N Dig Point #02
+
+399000
+
+399100
+
+399200
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 1 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 1
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+UTM Zone 15
+NAD 83
+160
+Meters
+
+Feet
+400
+
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+18
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+398400
+Service Layer Credits: Esri, HERE, DeLorme,
+MapmyIndia, ©
+
+3594100
+
+3594100
+
+398500
+
+3594000
+
+3594000
+
+8" Line 1-N Dig Point #05
+
+8" D.P. 05
+
+8" D.P.04
+8" Line 1-N Dig Point #04
+
+3593900
+
+3593900
+
+8" D.P.04
+
+3593800
+
+3593800
+
+8" Line 1N - Dig Point #3
+
+398400
+
+398500
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 2 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 2
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+UTM Zone 15
+NAD 83
+160
+Meters
+
+Feet
+400
+
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+19
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+397800 MapmyIndia, ©
+Service Layer Credits: Esri, HERE, DeLorme,
+
+3594600
+
+398000
+
+3594600
+
+397900
+
+8" Line 1-N Dig Point #07
+
+8" D.P. 07
+
+3594500
+
+3594500
+
+8" Line 1-N Dig Point #06
+
+8" D.P. 06
+
+8" Line 1-N Dig Point #13/14
+(8" MP 1.04 Exposure)
+
+3594400
+
+3594400
+
+8" D.P. 13,14
+
+397800
+
+397900
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 3 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 3
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+UTM Zone 15
+NAD 83
+160
+Meters
+
+Feet
+400
+
+398000
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+20
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+397500
+Service Layer
+Credits: Esri, HERE, DeLorme, MapmyIndia,397600
+©
+
+3594900
+
+3594900
+
+397700
+
+3594800
+
+3594800
+
+8" Line 1-N Dig Point #09
+
+3594700
+
+3594700
+
+8" Line 1-N Dig Point #08
+
+397500
+
+397600
+
+397700
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 4 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 4
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+UTM Zone 15
+NAD 83
+160
+Meters
+
+Feet
+400
+
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+21
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+397300
+Service Layer Credits: Esri,
+HERE, DeLorme, MapmyIndia, ©
+
+3595500
+
+397500
+
+3595500
+
+397400
+
+8" Line 1-N Dig Point #11
+
+3595400
+
+3595400
+
+8" D.P. 11
+
+8" Line 1-N Dig Point #10
+
+3595300
+
+3595300
+
+8" D.P. 10
+
+397300
+
+397400
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 5 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 5
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+160
+Meters
+Feet
+400
+
+397500
+
+UTM Zone 15
+NAD 83
+
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+22
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+394700Layer Credits: Esri, HERE, DeLorme, MapmyIndia,
+394800 ©
+Service
+
+3599100
+
+3599100
+
+394900
+
+8" Line 1-N Dig Point #15/16
+(8" MP4.44 Exposure)
+
+3599000
+3598900
+
+3598900
+
+3599000
+
+8" D.P. 15,16
+
+394700
+
+394800
+
+394900
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 6 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 6
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+UTM Zone 15
+NAD 83
+160
+Meters
+
+Feet
+400
+
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+23
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+394100
+
+3600300
+
+394000
+
+3600300
+
+393900 Esri, HERE, DeLorme, MapmyIndia, ©
+Service Layer Credits:
+
+3600200
+3600100
+
+3600100
+
+3600200
+
+10" Line 1-N Dig Point #01
+
+393900
+
+394000
+
+394100
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 7 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 7
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+UTM Zone 15
+NAD 83
+160
+Meters
+
+Feet
+400
+
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+24
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+392900
+Service Layer Credits: Esri, HERE, DeLorme,
+MapmyIndia, ©
+
+3601800
+
+393100
+
+3601800
+
+393000
+
+10" Line 1-N Dig Point #03
+3601700
+
+3601700
+
+10" D.P. 03
+
+10" Line 1-N Dig Point #02
+
+3601600
+
+3601600
+
+10" D.P. 02
+
+392900
+
+393000
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 8 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 8
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+UTM Zone 15
+NAD 83
+160
+Meters
+
+Feet
+400
+
+393100
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+25
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+386900 DeLorme, MapmyIndia, ©
+Service Layer Credits: Esri, HERE,
+
+3610300
+
+3610300
+
+3610400
+
+387100
+
+3610400
+
+387000
+
+10" D.P. 05
+10" Line 1-N Dig Point #05
+
+10" Line 1-N Dig Point #04
+(10"MP 13.87/13.88 Exposure)
+
+3610200
+3610100
+
+3610100
+
+3610200
+
+10" D.P. 04
+
+386900
+
+387000
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 9 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 9
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+160
+Meters
+Feet
+400
+
+387100
+
+UTM Zone 15
+NAD 83
+
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+26
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+386500
+
+3611300
+
+3611300
+
+3611400
+
+386400
+
+3611400
+
+386300 Esri, HERE, DeLorme, MapmyIndia, ©
+Service Layer Credits:
+
+10" D.P. 16-19
+
+10" Line 1-N 18' Exposed 10" Pipe
+
+3611200
+3611100
+
+3611100
+
+3611200
+
+10" D.P. 16-19
+
+386300
+
+386400
+
+386500
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 10 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 10
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+UTM Zone 15
+NAD 83
+160
+Meters
+
+Feet
+400
+
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+27
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+385400
+Service Layer Credits: Esri, HERE, DeLorme,
+MapmyIndia, ©
+
+3613100
+
+3613100
+
+3613200
+
+385600
+
+3613200
+
+385500
+
+10" Line 1-N Dig Point #20/21
+(10" MP 15.03 Exposure)
+
+3613000
+
+3613000
+
+10" D.P. 20,21
+
+10" D.P. 20,21 extension
+
+3612900
+
+3612900
+
+10" D.P. 20,21 extension
+
+385400
+
+385500
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 11 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 11
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+UTM Zone 15
+NAD 83
+160
+Meters
+
+Feet
+400
+
+385600
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+28
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+384400
+Service Layer
+Credits: Esri, HERE, DeLorme, MapmyIndia, © 384500
+
+3614800
+
+3614800
+
+384600
+
+10" Line 1-N Dig Point #06
+(10" MP 15.13 Exposure)
+
+10" D.P. 06
+
+3614700
+
+3614700
+
+10" D.P. 06
+
+3614600
+
+3614600
+
+10" D.P. 06
+
+384400
+
+384500
+
+384600
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 12 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 12
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+UTM Zone 15
+NAD 83
+160
+Meters
+
+Feet
+400
+
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+29
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+382200
+Service Layer Credits: Esri,
+HERE, DeLorme, MapmyIndia, ©
+
+3618200
+
+382400
+
+3618200
+
+382300
+
+12" Line 1-N Dig Point #22/23
+(10" MP 18.85 Exposure)
+3618100
+3618000
+
+3618000
+
+3618100
+
+12" D.P. 22,23
+
+382200
+
+382300
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 13 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 13
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+160
+Meters
+Feet
+400
+
+382400
+
+UTM Zone 15
+NAD 83
+
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+30
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+382100
+
+3618600
+
+3618600
+
+3618700
+
+382000
+
+3618700
+
+381900
+Service Layer Credits: Esri,
+HERE, DeLorme, MapmyIndia, ©
+
+10" D.P. 08
+
+10" Line 1-N Dig Point #08
+
+10" Line 1-N Dig Point #07
+
+3618500
+3618400
+
+3618400
+
+3618500
+
+10" D.P. 07
+
+381900
+
+382000
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 14 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 14
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+160
+Meters
+Feet
+400
+
+382100
+
+UTM Zone 15
+NAD 83
+
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+31
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+379100
+Service Layer
+Credits: Esri, HERE, DeLorme, MapmyIndia, 379200
+©
+
+3622900
+
+3622900
+
+379300
+
+10" D.P. 10
+10" Line 1-N Dig Point #10
+
+10" D.P. 10
+
+3622800
+
+3622800
+
+10" D.P. 10
+
+10" D.P. 09
+
+10" Line 1-N Dig Point #09
+3622700
+
+3622700
+
+10" D.P. 09
+10" D.P. 09
+
+10" D.P. 09
+
+379100
+
+379200
+
+379300
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 15 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 15
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+UTM Zone 15
+NAD 83
+160
+Meters
+
+Feet
+400
+
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+32
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+378800 MapmyIndia, ©
+Service Layer Credits: Esri, HERE, DeLorme,
+
+3623800
+
+3623800
+
+3623900
+
+379000
+
+3623900
+
+378900
+
+10" Line 1-N Dig Point #12
+
+10" D.P. 12
+
+10" Line 1-N Dig Point #11
+
+3623700
+3623600
+
+3623600
+
+3623700
+
+10" D.P. 11
+
+378800
+
+378900
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 16 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 16
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+UTM Zone 15
+NAD 83
+160
+Meters
+
+Feet
+400
+
+379000
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+33
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Service Layer376500
+Credits: Esri, HERE, DeLorme, MapmyIndia, © 376600
+
+3629900
+
+3629900
+
+376700
+
+3629800
+
+3629800
+
+12" Line 1-N Dig Point #01
+
+10" Line 1-N Dig Point #14 and #15
+
+10" D.P. 14
+
+10" Line 1-N Dig Point #13
+
+3629700
+3629600
+
+3629600
+
+3629700
+
+10" D.P. 13 & 13A
+
+376500
+
+376600
+
+376700
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 17 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 17
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+UTM Zone 15
+NAD 83
+160
+Meters
+
+Feet
+400
+
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+34
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+376300
+Service Layer Credits: Esri,
+HERE, DeLorme, MapmyIndia, ©
+
+3630100
+
+3630100
+
+3630200
+
+376500
+
+3630200
+
+376400
+
+12" D.P. 03
+
+12" Line 1-N Dig Point #03
+
+12" Line 1-N Dig Point #02
+
+3630000
+3629900
+
+3629900
+
+3630000
+
+12" D.P. 02
+
+376300
+
+376400
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 18 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 18
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+160
+Meters
+Feet
+400
+
+376500
+
+UTM Zone 15
+NAD 83
+
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+35
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+376000
+Service Layer Credits: Esri, HERE, DeLorme,
+MapmyIndia, ©
+
+3630600
+
+3630600
+
+3630700
+
+376200
+
+3630700
+
+376100
+
+12" Line 1-N Dig Point #08/09
+(12" MP 29.29 Exposure)
+
+3630500
+3630400
+
+3630400
+
+3630500
+
+12" D.P. 08, 09
+
+376000
+
+376100
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 19 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 19
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+UTM Zone 15
+NAD 83
+160
+Meters
+
+Feet
+400
+
+376200
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+36
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+375600
+
+3631500
+
+3631500
+
+3631600
+
+375500
+
+3631600
+
+375400
+Service Layer Credits:
+Esri, HERE, DeLorme, MapmyIndia, ©
+
+12" Line 1-N Dig Point #05
+
+12" Line 1-N Dig Point #04
+
+3631400
+3631300
+
+3631300
+
+3631400
+
+12" D.P. 04
+
+375400
+
+375500
+
+375600
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 20 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 20
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+UTM Zone 15
+NAD 83
+160
+Meters
+
+Feet
+400
+
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+37
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+374600
+Service Layer Credits: Esri,
+HERE, DeLorme, MapmyIndia, ©
+
+3632900
+
+3632900
+
+3633000
+
+374800
+
+3633000
+
+374700
+
+12" Line 1-N Dig Point #10/11
+(12" MP Exposure)
+
+3632800
+3632700
+
+3632700
+
+3632800
+
+12" D.P. 10, 11
+
+374600
+
+374700
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 21 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 21
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+160
+Meters
+Feet
+400
+
+374800
+
+UTM Zone 15
+NAD 83
+
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+38
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+374300
+Service Layer Credits: Esri,
+HERE, DeLorme, MapmyIndia, ©
+
+3633300
+
+374500
+
+3633300
+
+374400
+
+12" Line 1-N Dig Point #06
+
+3633100
+
+3633100
+
+12" D.P. 6 & 7
+
+3633200
+
+3633200
+
+12" Line 1-N Dig Point #07
+
+374300
+
+374400
+
+Phase I Cultural Resources Line 1-N Abandonment Project in
+Harrison and Marion Counties, Texas (Sheet 22 of 22)
+0
+
+20
+
+0
+
+Figure 3.1
+Sheet 22
+
+40
+
+50
+
+80
+
+100
+
+200
+
+120
+
+300
+
+160
+Meters
+Feet
+400
+
+374500
+
+UTM Zone 15
+NAD 83
+
+Historic Structure
+Negative Shovel Test
+Dig Point Area
+Launcher Valve Site
+Exposed Pipe Area
+
+Aerial Map excerpts depicting locations of Line 1-N Abandonment Project Workspaces in Harrison
+and Marion Counties, Texas.
+
+R. Christopher Goodwin & Associates, Inc.
+
+39
+
+Contains Privileged Information -- Do Not Release
+
+R. Christopher Goodwin & Associates, Inc.
+
+40
+
+Dig Point #16-19
+
+Dig Point #20 and 21
+Dig Point #20 and 21
+extension
+Dig Point #01
+
+10” Line
+
+10” Line
+
+12” Line
+
+10” Line
+
+Dig Point #13
+
+Dig Point #14 and 15
+
+Dig Point #12
+
+10” Line
+
+10” Line
+
+Dig Point #11
+
+10” Line
+
+10” Line
+
+Dig Point #10
+
+Dig Point #02
+
+10” Line
+
+10” Line
+
+Dig Point #01
+
+10” Line
+
+Dig Point #09
+
+Dig Point #15/16
+
+8” Line
+
+Dig Point #08
+
+Dig Point #13/14
+
+8” Line
+
+10” Line
+
+Dig Point #11
+
+8” Line
+
+10” Line
+
+Dig Point #10
+
+8” Line
+
+Dig Point #07
+
+Dig Point #09
+
+8” Line
+
+10” Line
+
+Dig Point #08
+
+8” Line
+
+Dig Point #06
+
+Dig Point #07
+
+8” Line
+
+Dig Point #05
+
+Dig Point #06
+
+8” Line
+
+10” Line
+
+Dig Point #05
+
+8” Line
+
+10” Line
+
+Dig Point #04
+
+8” Line
+
+Dig Point #04
+
+Dig Point #03
+
+8” Line
+
+10” Line
+
+Dig Point #02
+
+8” Line
+
+Dig Point #03
+
+Dig Point #01
+
+8” Line
+
+10” Line
+
+Dig Location
+
+none
+
+none
+
+10” MP 15.03 Exposure
+
+18’ Exposed 10” Pipe
+
+none
+
+none
+
+none
+
+none
+
+none
+
+none
+
+none
+
+none
+
+10” MP 15.13 Exposure
+
+none
+10” MP 13.87/13.88
+Exposure
+none
+
+none
+
+None
+
+8” MP 4.44 Exposure
+
+8” MP 1.04 Exposure
+
+none
+
+none
+
+none
+
+none
+
+none
+
+none
+
+none
+
+none
+
+none
+
+none
+
+none
+
+Alternative Name
+
+Line 1-N Abandonment Project Workspaces.
+
+Line
+
+Table 3.1
+
+Marion
+
+Harrison
+
+Harrison
+
+Harrison
+
+Marion
+
+Marion
+
+Marion
+
+Marion
+
+Marion
+
+Marion
+
+Harrison
+
+Harrison
+
+Harrison
+
+0.12
+
+0.20
+
+0.17
+
+0.21
+
+0.10
+
+0.10
+
+0.12
+
+0.12
+
+0.82
+
+0.85
+
+0.12
+
+0.12
+
+0.64
+
+0.12
+
+0.12
+
+Harrison
+Harrison
+
+0.12
+
+0.12
+
+0.14
+
+0.13
+
+0.12
+
+0.11
+
+0.11
+
+0.11
+
+0.11
+
+0.11
+
+0.11
+
+0.07
+
+0.44
+
+0.06
+
+0.11
+
+0.14
+
+Acres
+
+Harrison
+
+Harrison
+
+Harrison
+
+Harrison
+
+Harrison
+
+Harrison
+
+Harrison
+
+Harrison
+
+Harrison
+
+Harrison
+
+Harrison
+
+Harrison
+
+Harrison
+
+Harrison
+
+Harrison
+
+Harrison
+
+County
+
+0.05
+
+0.08
+
+0.07
+
+0.08
+
+0.04
+
+0.04
+
+0.05
+
+0.05
+
+0.33
+
+0.34
+
+0.05
+
+0.05
+
+0.26
+
+0.05
+
+0.05
+
+0.05
+
+0.05
+
+0.06
+
+0.05
+
+0.05
+
+0.04
+
+0.04
+
+0.04
+
+0.04
+
+0.04
+
+0.04
+
+0.03
+
+0.18
+
+0.02
+
+0.04
+
+0.06
+
+Hectares
+
+1/18/2018
+
+1/17/2018
+
+1/17/2018
+
+1/17/2018
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+1/17/2018
+
+1/17/2018
+
+1/17/2018
+
+1/17/2018
+
+1/17/2018
+
+1/17/2018
+
+1/17/2018
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+1/16/2018
+
+1/16/2018
+
+1/16/2018
+
+1/16/2018
+
+1/16/2018
+
+Survey Date
+
+0
+
+2
+
+1
+
+2
+
+1
+
+1
+
+1
+
+1
+
+3
+
+4
+
+1
+
+1
+
+3
+
+1
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+0
+
+0
+
+1
+
+1
+
+1
+
+2
+
+0
+
+0
+
+0
+
+STP Excavated
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+HSS-TJL-0117A
+
+HSS-TJL-0117B
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Loci Identified
+
+BoC
+
+Sm
+
+Sm
+
+Sm
+
+Boc, GaC, TnD
+
+GaC
+
+HaA
+
+HaA
+
+WrA, HaA
+
+WrA, HaA
+
+DbC, MthBn
+
+DbC, MthBn
+
+Sm
+
+BerBn
+
+BerBn
+
+ScxBn
+
+ScxBn
+
+ScxBn
+
+Sm
+
+ScxBn, EasEn
+
+EasCn, Sm
+
+EasCn, Sm
+
+EasCn
+
+EasCn
+
+ScxBn
+
+ScxBn, EasEn
+
+ScxBn
+
+ScxBn
+
+ScxBn
+
+ScxBn
+
+Ur
+
+Mapped Soil Units*
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Contains Privileged Information -- Do Not Release
+
+R. Christopher Goodwin & Associates, Inc.
+
+Dig Point #03
+
+Dig Point #04
+
+Dig Point #05
+
+Dig Point #06
+
+Dig Point #07
+
+MP 29.28 Expsoure
+
+Dig Point #10/11
+
+Dig Point 22/23
+
+40 areas
+
+12” Line
+
+12” Line
+
+12” Line
+
+12” Line
+
+12” Line
+
+12” Line
+
+12” Line
+
+12” Line
+
+Totals
+
+none
+15’ Exposed 12”
+Pipe/12D-07
+10” MP 18.85 Exposure
+
+none
+
+none
+
+none
+
+none
+
+none
+
+none
+
+Alternative Name
+
+*Soil Information retrieved from USDA Web Soil Survey (NRCS 2018)
+
+Dig Location
+
+Dig Point #02
+
+Line
+
+12” Line
+
+Table 3.1, continued
+County
+
+Harrison
+
+Marion
+
+Marion
+
+Marion
+
+Marion
+
+Marion
+
+Marion
+
+Marion
+
+Marion
+
+7.01
+
+0.16
+
+0.15
+
+0.12
+
+0.05
+
+0.09
+
+0.10
+
+0.10
+
+0.09
+
+0.09
+
+Acres
+
+2.83
+
+0.06
+
+0.06
+
+0.05
+
+0.02
+
+0.04
+
+0.04
+
+0.04
+
+0.04
+
+0.04
+
+Hectares
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+1/18/2018
+
+Survey Date
+
+41
+
+1
+
+1
+
+1
+
+0
+
+1
+
+0
+
+1
+
+1
+
+1
+
+STP Excavated
+
+N/A
+2 Historic Standing
+Structures
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Loci Identified
+
+BerBn
+
+TnD
+
+Dab, TnD
+
+LuC
+
+TnD
+
+KrC
+
+KrC
+
+BoC
+
+BoC
+
+Mapped Soil Units*
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+41
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.2
+
+Overview photograph of Workspace 8”-Dig Point #01, facing east.
+
+R. Christopher Goodwin & Associates, Inc.
+
+42
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.3
+
+Overview photograph of Workspace 8”-Dig Point #02, facing north.
+
+R. Christopher Goodwin & Associates, Inc.
+
+43
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.4
+
+Overview photograph Workspace 8”-Dig Point #03, facing southwest.
+
+R. Christopher Goodwin & Associates, Inc.
+
+44
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+by several utilities aligned parallel with the road
+and vegetation throughout the project item consisted of mowed grasses along the road shoulder
+and ditch (Figure 3.4). Soils mapped in the vicinity of the workspace consisted predominantly of
+Scottsville-Latex complex (ScxBn) soils (NRCS
+2018). These clayey and loamy soils typically are
+situated at summits and interfluves on flat terrain
+(0 to 2 per cent slopes) and can be described as
+moderately well drained.
+Due to the presence of buried utilities and
+the workspace location along the shoulder of
+South I-20 Service Road, no shovel tests were
+excavated within 8”-Dig Point #03 (Appendix
+I). Visual inspection and photodocumentation of
+the area failed to identify any cultural resources
+within or in close proximity to the workspace.
+No additional investigation of workspace 8”-Dig
+Point #03 is recommended.
+
+Figure 3.5
+
+Workspace 8”-DIG POINT #04
+Workspace 8”-Dig Point #04 measured 125
+m (410 ft) in length and 15 m in width (49.2 ft)
+and was situated between Interstate 20 and U.S.
+Highway 80 in Wascom, TX (Figure 3.1: Sheet 2;
+Table 3.1). The workspace encompassed an area
+that measured 0.18 ha (0.44 ac) in extent. Vegetation throughout the vicinity of the workspace
+consisted of primarily of grasses and weeds consistent with fallow agricultural fields; in addition,
+secondary regrowth species and pines were noted
+(Figure 3.5). The area of secondary growth coincided with an adjacent pipeline corridor. Soils
+mapped in the vicinity of the workspace consisted predominantly of Scottsville-Latex complex
+(ScxBn) soils (NRCS 2018). These clayey and
+loamy soils typically are situated at summits and
+interfluves on flat terrain (0 to 2 per cent slopes)
+and described as moderately well drained.
+
+Overview photograph of Workspace 8”-Dig Point #04, facing southwest.
+
+R. Christopher Goodwin & Associates, Inc.
+
+45
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+A total of two shovel tests spaced 50 m (164
+ft) apart were excavated within this workspace.
+A typical shovel test excavated within workspace
+8”-Dig Point-04 exhibited two strata in profile
+and extended to a maximum depth of 50 cmbs
+(19.7 inbs). Stratum I, a yellowish brown (10YR
+5/6) sandy loam extended from the surface to
+25 cmbs (9.8 inbs). Stratum II, a light yellowish
+brown (10YR 6/4) sandy loam, continued from
+the base of Stratum I to 50 cmbs (19.7 inbs) (Figure 7.6; Appendix I).
+No cultural resources were identified during
+the cultural resources survey of this project item.
+No additional examination of workspace 8”-Dig
+Point #04 is recommended.
+Workspace 8”-DIG POINT #05
+Workspace 8”-Dig Point #05 is a rectangular-shaped area that measured 15 m (49.2 ft) in
+width and 20 m (65.6 ft) in length. The workspace
+encompassed 0.03 ha (0.07 ac) and was situated
+along the north side of U.S. Highway 80 (Figure
+3.1: Sheet 2; Table 3.1). Vegetation in the vicinity
+of the workspace consisted of grasses, secondary growth species, and small stands of pine trees
+(Figure 3.7). Soils mapped throughout the vicinity of the workspace consisted predominantly of
+Scottsville-Latex complex (ScxBn) soils (NRCS
+2018). These clayey and loamy soils typically are
+situated at summits and interfluves on flat terrain
+(0 to 2 per cent slopes) and described as moderately well drained.
+A single shovel test excavated along the
+western edge of the project item. This shovel test
+extended to a maximum depth of 25 cmbs (9.8
+inbs) and exhibited a single stratum of dark yellowish brown (10YR 4/4) sandy loam in profile.
+Excavation was terminated due to the presence
+of dense tree roots (Figure 3.8). No cultural resources were identified within the workspace and
+no additional investigation of workspace 8”-Dig
+Point #05 is recommended.
+
+Vegetation in the area was described as grasses
+within the extant corridor and a small wooded
+area of mixed hardwoods located along the north
+edge of the workspace (Figure 3.9). Workspace
+8”-Dig Point #13/14 measured approximately 30
+m (98.4 ft) in length by 15 m (49.2 ft) in width
+and encompassed an area that measured 0.05 ha
+(0.12 ac) in extent. The area displayed evidence
+of relatively recent disturbance that included the
+construction of a maintained gravel road located
+along the north edge of the area, as well as levee construction associated with Clearview Lake
+located within the southeastern corner of the
+project item. Soils mapped in the vicinity of the
+workspace consisted predominantly of Scottsville-Latex complex (ScxBn) and Eastwood very
+fine sandy loam (EasEn) soils (NRCS 2018).
+Scottsville-Latex complex soils are clayey and
+loamy soils and typically situated at summits and
+interfluves on flat terrain (0 to 2 per cent slopes)
+and described as moderately well drained. Eastwood very fine sandy loams typically situated on
+hillsides, back slopes, side slops, and interfluves,
+and on moderately sloping terrain (5 to 20 per
+cent) and are well drained.
+A single shovel test was excavated along
+the north side of the extant pipeline corridor.
+The shovel test extended to a depth of 30 cmbs
+(11.8 inbs) and revealed two strata in profile (Figure 3.10). Stratum I consisted of grayish brown
+(10YR 5/2) sand that extended from the ground
+surface to 10 cmbs (3.9 inbs). Stratum II, a pale
+brown (10 YR 6/3) sand mottled with grayish
+brown (10YR 5/2) loamy sand, continued from
+10 cmbs (4.9 inbs) to 30 cmbs (11.8 inbs). Excavation was terminated due to the presence of
+compact subsoils. (Figure 3.1; Appendix I). Pedestrian survey and shovel testing failed to identify any cultural material or intact cultural deposits and no additional investigation of workspace
+8”-Dig Point #13/14 (8” MP 1.04 Exposure) is
+recommended.
+
+Workspace 8”-DIG POINT-13/14 (8” MP 1.04
+Exposure)
+Workspace 8”-Dig Point #13/14 (8” MP
+1.04 Exposure) was a rectangular-shaped area located approximately 125 m (410 ft) east of Texas
+Highway 134 (Figure 3.1: Sheet 3; Table 3.1).
+
+Workspace 8”-DIG POINT #06
+Workspace 8”-Dig Point #06 consisted of
+a rectangular-shaped survey area located along
+the east side of Texas Highway 134 (Figure 7.1:
+Sheet 3; Table 3.1). Vegetation in the area consisted of grasses within the existing corridor and a
+
+R. Christopher Goodwin & Associates, Inc.
+
+46
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.6
+
+Profile of typical shovel test excavated within Workspace 8”-Dig Point #04.
+
+R. Christopher Goodwin & Associates, Inc.
+
+47
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.7
+
+Overview photograph of Workspace 8”-Dig Point #05, facing north.
+
+R. Christopher Goodwin & Associates, Inc.
+
+48
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.8
+
+Profile of typical shovel test excavated within Workspace 8”-Dig Point #05.
+
+R. Christopher Goodwin & Associates, Inc.
+
+49
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.9
+
+Overview photograph of Workspace 8”-Dig Point #13/14 (8” MP 1.04 Exposure), facing west.
+
+R. Christopher Goodwin & Associates, Inc.
+
+50
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.10
+
+Profile of typical shovel test excavated within Workspace 8”-Dig Point #13/14 (8” MP 1.04 Exposure).
+
+R. Christopher Goodwin & Associates, Inc.
+
+51
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+line of pine trees, which extended along the north
+edge of the workspace (Figure 3.11). Workspace
+8”-Dig Point #06 measured approximately 35 m
+(114.8 ft) in length by 15 m (49.2 ft) in width and
+encompassed 0.04 ha (0.11 ac) in total extent.
+Soils mapped in the vicinity of the workspace
+consisted predominantly of Scottsville-Latex
+complex (ScxBn) and Eastwood very fine sandy
+loam (EasEn) soils (NRCS 2018). ScottsvilleLatex complex soils are clayey and loamy soils
+and typically situated at summits and interfluves
+on flat terrain (0 to 2 per cent slopes) and are described as moderately well drained. Eastwood
+very fine sandy loams typically situated on hillsides, back slopes, side slops, and interfluves, and
+on moderately sloping terrain (5-20 per cent) and
+well drained.
+A single shovel test was excavated along the
+north side of the extant pipeline corridor. The
+shovel test was excavated to a maximum depth of
+
+Figure 3.11
+
+50 cmbs (19.7 inbs) and revealed three strata in
+profile. Stratum I consisted of brown (10YR 5/3)
+sandy loam that extended from the ground surface to 20 cmbs (7.9 inbs). Stratum II, a grayish
+brown (10 YR 5/2) loamy sand, extended from
+the base of Stratum I to 40 cmbs (15.7 inbs). Stratum III, a strong brown (7.5YR 4/6) loamy sand,
+continued to the termination of excavation at 50
+cmbs (19.7 inbs) (Figure 3.12; Appendix I). No
+cultural material or evidence of intact cultural deposits was identified during the examination of
+this area. No additional investigation of 8”-Dig
+Point #06 is recommended.
+Workspace 8”-DIG POINT #07
+Workspace 8”-Dig Point #07 measured approximately 35 m (114.8 ft) in length by 15 m
+(49.2 ft) in width and measured 0.04 ha (0.11 ac)
+in total extent. The workspace was situated along
+the west side of Texas Highway 134 (Figure 3.1:
+
+Overview photograph of Workspace 8”-Dig Point #06.
+
+R. Christopher Goodwin & Associates, Inc.
+
+52
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.12
+
+Profile of typical shovel test excavated within Workspace 8”-Dig Point #06.
+
+R. Christopher Goodwin & Associates, Inc.
+
+53
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Sheet 3; Table 3.1). Vegetation identified within the vicinity of the existing corridor included
+grasses and a wooded area largely consisting of
+pines (Figure 3.13). A trailer home was located
+immediately south of the project item and approximately 10 m (32.8 ft) from the Line 1-N pipeline
+(Figure 3.14). Soils mapped throughout the vicinity of the workspace consisted predominantly of
+Scottsville-Latex complex (ScxBn) soils (NRCS
+2018). These clayey and loamy soils typically are
+situated at summits and interfluves on flat terrain
+(0 to 2 per cent slopes) and are described as moderately well drained.
+A single shovel test was excavated within the
+wooded area along the northeast edge of workspace 8”-Dig Point #07 (Figure 3.15; Appendix
+I). Stratum I consisted of grayish brown (10YR
+5/2) sandy loam that extended from the ground
+surface to 10 cmbs (3.9 inbs). Stratum II, a pale
+brown (10 YR 6/3) sandy loam mottled with red-
+
+Figure 3.13
+
+dish yellow (7.5YR 7/6) loamy sand, extended
+from 10 to 30 cmbs (3.9 to 11.8 inbs). Excavation
+was terminated due to the presence of compact
+soils. No cultural materials or evidence of intact
+cultural deposits was identified at workspace 8”Dig Point #07 and no additional investigation is
+recommended.
+Workspace 8”-DIG POINT #08
+Workspace 8”-Dig Point #08 was located approximately 170 m (557.7) west of Texas Highway 134 and situated along the south edge of a
+extant railroad grade (Figure 3.1: Sheet 4; Table
+3.1) The rectangular-shaped area measured approximately 30 m (98.4 ft) in length by 15 m (49
+ft) in width and encompassed an area that measured 0.04 ha (0.11 ac) in extent. Workspace 8”Dig Point #08 was located completely within an
+extant pipeline corridor with no fewer than three
+parallel pipelines present. Vegetation within the
+
+Overview photograph of Workspace 8”-Dig Point #07, facing west.
+
+R. Christopher Goodwin & Associates, Inc.
+
+54
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.14
+
+View of trailor house near Workspace 8”-Dig Point #07, facing southeast.
+
+R. Christopher Goodwin & Associates, Inc.
+
+55
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.15
+
+Profile of typical shovel test excavated within Workspace 8”-Dig Point #07.
+
+R. Christopher Goodwin & Associates, Inc.
+
+56
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+(98.4 ft) in length by 15 m (49 ft) in width and
+encompassed an area that measured 0.04 ha (0.11
+ac) in total extent. This area was located to the
+north side of an extant railroad grade and situated approximately 170 m (557.7) west of Texas
+Highway 134 (Figure 3.1: Sheet 4; Table 3.1) The
+workspace was situated completely within an extant pipeline corridor with three or more pipelines oriented in a north-to-south fashion, with
+an additional extant pipeline situated parallel to
+the railroad grade. In addition, an above ground
+valve was present within the workspace (Figure
+3.17). Vegetation within the workspace included
+grasses and secondary growth species. A wooded
+area of mixed hardwood trees bordered the workspace along the east and west boundaries. Soils
+mapped in the vicinity of the workspace primarily consisted of Eastwood very fine sandy loams
+(1 to 5 per cent). These soils typically are situated
+on summits and interfluves on slightly sloping (1
+
+area included grasses within the extant pipeline
+corridor and mixed woods located to either side
+of the examined workspace (Figure 3.16). Soils
+mapped in the vicinity of the workspace primarily consisted of Eastwood very fine sandy loams
+(1 to 5 per cent). These soils typically are situated
+on summits and interfluves on slightly sloping (1
+to 5 per cent) terrain and are well drained (NRCS
+2018).
+Due to the presence of marked buried pipelines and an extant railroad grade, no shovel tests
+were excavated within workspace 8”-Dig Point
+#08 (Appendix I). Visual inspection and photodocumentation of the area failed to identify any
+cultural resources. No additional investigation of
+workspace 8”-Dig Point #08 is recommended.
+Workspace 8”-DIG POINT #09
+Workspace 8”-Dig Point #09 consisted of
+a rectangular-shaped area that measured 30 m
+
+Figure 3.16
+
+Overview photograph of Workspace 8”-Dig Point #08, facing north.
+
+R. Christopher Goodwin & Associates, Inc.
+
+57
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.17
+
+Overview photograph of Workspace 8”-Dig Point #09, facing north.
+
+and a wooded area comprised of mixed hardwood
+trees to the west (Figure 7.18). Soils mapped in
+the vicinity of the workspace primarily consisted
+of Eastwood very fine sandy loams (1 to 5 per
+cent) and Sardis-Mathiston complex soils (NRCS
+2018). Eastwood very fine sandy loams (1 to 5
+per cent) soils typically are situated on summits
+and interfluves on slightly sloping (1 to 5 per
+cent) terrain and are well drained. Sardis-Mathiston complex soils (0 to 1 per cent slopes) are derived from loamy alluvial deposits and typically
+are situated on flat areas positioned within flood
+plains, toeslopes, and talfs.
+A single shovel test was excavated in the
+wooded area located west of the extant pipeline corridor and two soil strata were revealed
+in profile (Figure 3.19; Appendix I). Stratum I
+consisted of brown (10YR 5/3) loamy sand that
+extended from the surface to a depth of 10 cmbs
+(3.9 inbs). Stratum II, a yellowish brown (10YR
+
+to 5 per cent) terrain and are well drained (NRCS
+2018).
+Due to the presence of marked buried pipelines, a valve location, and the extant the railroad
+grade, no shovel tests were excavated at workspace 8”-Dig Point #09 (Appendix I). Visual examination and photodocumentation of the area
+failed to identify any cultural resources. No additional investigation of workspace 8”-Dig Point
+#09 is recommended.
+Workspace 8”-DIG POINT #10
+Workspace 8”-Dig Point #10 was situated
+along the south side of Texas Highway 134 and
+measured 0.04 ha (0.11 ac) in extent. This rectangular-shaped area measured approximately 15
+m (49.2 ft) in width by 30 m (98.4 ft) in length.
+(Figure 3.1: Sheet 5; Table 3.1). Vegetation in the
+vicinity of the workspace consisted of secondary
+growth species within the extant pipeline corridor
+R. Christopher Goodwin & Associates, Inc.
+
+58
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.18
+
+Overview photograph of Workspace 8”-Dig Point #10, facing north.
+
+R. Christopher Goodwin & Associates, Inc.
+
+59
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.19
+
+Profile of typical shovel test excavated within Workspace 8”-Dig Point #10.
+
+R. Christopher Goodwin & Associates, Inc.
+
+60
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+of Eastwood very fine sandy loams (1 to 5 per
+cent) and Sardis-Mathiston complex soils (NRCS
+2018). Eastwood very fine sandy loams (1 to 5
+per cent) soils typically are situated on summits
+and interfluves on slightly sloping (1 to 5 per
+cent) terrain and are well drained. Sardis-Mathiston complex soils (0 to 1 per cent slopes) are derived from loamy alluvial deposits and typically
+are situated on flat areas positioned within flood
+plains, toeslopes, and talfs.
+A single shovel test was excavated along the
+western edge workspace 8”-Dig Point #11. The
+shovel test was excavated to a maximum depth
+of 30 cmbs (11.8 inbs) and revealed two strata
+in profile (Figure 3.21; Appendix I). Stratum I,
+a brown (10YR 5/3) sandy loam, extended from
+the surface to 10 cmbs (4.9 inbs). Stratum II, a
+yellowish brown (10YR 5/4) sandy loam mottled
+with grayish brown (10YR 5/2) loamy sand, extended to 30 cmbs (11.8 inbs). Excavation was
+
+5/4) loamy sand mottled with 10YR 5/2 grayish
+brown loamy sand, was observed from 10 cmbs
+(3.9 inbs) to 30 cmbs (11.8 inbs). Excavation was
+terminated due to the presence of compact subsoil encountered at 30 cmbs (11.8 inbs). Pedestrian survey and shovel testing failed to identify any
+cultural resources and no additional examination
+of workspace 8”-Dig Point #03 is recommended.
+Workspace 8”-DIG POINT #11
+Workspace 8”-Dig Point #11 measured 15
+m (49.2 ft) in width by 30 m (98.4 ft) in length
+and was situated along the north side of Texas
+Highway 134 (Figure 3.1: Sheet 5; Table 3.1).
+The workspace encompassed an area that measured 0.04 ha (0.11 ac) in total extent. Vegetation
+throughout the workspace was characterized as
+grasses and weeds consistent within fallow agricultural fields (Figure 3.20). Soils mapped in
+the vicinity of the workspace consisted primarily
+
+Figure 3.20
+
+Overview photograph of Workspace 8”-Dig Point #11, facing north.
+
+R. Christopher Goodwin & Associates, Inc.
+
+61
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.21
+
+Profile of typical shovel test excavated within Workspace 8”-Dig Point #11, facing south.
+
+R. Christopher Goodwin & Associates, Inc.
+
+62
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+ed primarily consisted of Sardis-Mathiston complex soils (NRCS 2018). Sardis-Mathiston complex soils (0 to 1 per cent slopes) are derived from
+loamy alluvial deposits and typically are situated
+on flat areas positioned within flood plains, toeslopes, and talfs.
+A single shovel test was placed within the
+southwest corner of the workspace in an area that
+contained mixed hardwood trees (Figure 3.23;
+Appendix I). Excavation extended to a depth of
+30 cmbs (11.8 inbs) and revealed two strata in
+profile. Stratum I, a dark grayish brown (10YR
+4/2) sandy loam, extended from the ground surface to 10 cmbs (3.9 inbs). Stratum II, a light
+brownish gray (10 YR 6/2) loamy sand, continued from 10 cmbs (3.9 inbs) to 30 cmbs (11.8
+inbs). Excavation was terminated due to the presence of tree roots. Pedestrian survey and shovel
+testing of the workspace failed to identify any
+
+terminated at 30 cmbs (11.8 inbs) due to the presence of dense tree roots. No cultural resources
+were identified and no additional investigation of
+workspace 8”-Dig Point #04 is recommended.
+Workspace 8”-DIG POINT #15/16 (8” MP 4.44
+Exposure)
+Workspace 8”-Dig Point #15/16 (8” MP
+4.44 Exposure) measured approximately 35 m
+(114.8 ft) by 15 m (49.2 ft) and encompassed and
+area that measured 0.05 ha (0.13 ac) in extent.
+The workspace was located approximately 200
+m (656 ft) east of Texas Highway 134 and 540
+m (1772 ft) southeast of Lotta Road (Figure 3.1:
+Sheet 6; Table 3.1). Vegetation noted within this
+rectangular-shaped survey area included grasses in the existing corridor and a wooded area
+of mixed hardwood trees (Figure 3.22). Soils
+mapped in the vicinity of the workspace consist-
+
+Figure 3.22
+
+Overview photograph of Workspace 8”-Dig Point #15/16 (8” MP 4.44 Exposure), facing west.
+
+R. Christopher Goodwin & Associates, Inc.
+
+63
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.23
+
+Overview photograph of 10”-Dig Point #01.
+
+cultural resources. No additional investigation of
+this project item is recommended.
+
+young pine trees to the north and south. Soils
+mapped in the vicinity of the workspace consisted predominantly of Scottsville-Latex complex
+(ScxBn) soils (NRCS 2018). These clayey and
+loamy soils typically are situated at summits and
+interfluves on flat terrain (0 to 2 per cent slopes)
+and are described as moderately well drained.
+No shovel tests were excavated at workspace
+10”-Dig Point-01 because the entirety of the area
+was located within an extant pipeline corridor
+containing an above-ground gas valve (Appendix I). Visual inspection and photodocumentation
+conducted at this workspace failed to identify any
+cultural resources. No additional investigation of
+this workspace is recommended.
+
+Workspace 10”-DIG POINT #01
+Workspace 10”-Dig Point #01 were a single survey item located where the 10-inch pipe
+met the 12-inch pipe within the extant corridor.
+Workspace 10”-Dig Point #01 was a 0.6 ha (0.14
+ac) rectangular-shaped area that measured 15 m
+(49.2 ft) in width and 38 m (125 ft) in length. The
+workspace was located at the end of a private
+gravel road situated approximately 300 m (984.3
+ft) northeast of Texas Highway 134 (Figure 3.1:
+Sheet 7; Table 3.1). This project item fell completely within the extant pipeline corridor and
+consisted of a fenced-in valve facility (Figure
+3.24). Vegetation within the vicinity of the workspace consisted of grasses and secondary growth
+species within the extant corridor bordered with
+
+R. Christopher Goodwin & Associates, Inc.
+
+Workspace 10”-DIG POINT #02
+Workspace 10”-Dig Point #02 measured
+approximately 30 m (98.4 ft) in length by 15 m
+64
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.24
+
+Profile of typical shovel test excavated within Workspace 8”-Dig Point #15/16 (8” MP 4.44 Exposure).
+
+R. Christopher Goodwin & Associates, Inc.
+
+65
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+(49.2 ft) in width and measured 0.05 ha (0.12 ac)
+in extent. The workspace was positioned along the
+south side of Texas Highway 134 (Figure 3: Sheet
+8; Table 3.1). Vegetation within this rectangularshaped survey area consisted of grasses within the
+existing corridor and planted pine trees to the east
+and west of the workspace (Figure 3.25). Soils
+mapped in the vicinity of the workspace consisted
+predominantly of Scottsville-Latex complex (ScxBn) soils (NRCS 2018). These clayey and loamy
+soils typically are situated at summits and interfluves on flat terrain (0 to 2 per cent slopes) and
+described as moderately well drained.
+A single shovel test was placed approximately 25 m (82 ft) south of Texas Highway 134 and
+along the eastern edge of the workspace. Excavation extended to a depth of 30 cmbs (11.8 inbs) and
+revealed a single stratum in profile (Figure 3.26;
+Appendix I). Stratum I, a yellowish brown (10YR
+5/4) sandy loam, extended from the surface to 30
+
+Figure 3.25
+
+cmbs (11.8 inbs). Excavation of the shovel test was
+terminated due to the presence of dense roots. Pedestrian survey and shovel testing failed to identify
+any cultural resources and no additional investigation of this workspace is recommended.
+Workspace 10”-DIG POINT #03
+Workspace 10”-Dig Point #03 measured
+approximately 30 m (98.4 ft) in width by 15 m
+(49.2 ft) in length and encompassed 0.05 ha (0.12
+ac). The area was situated on the north side of
+Texas Highway 134 (Figure 3.1: Sheet 8; Table
+3.1). Vegetation within the rectangular-shaped
+area was described as grasses within the extant
+corridor and planted pine stands to the east and
+west sides of the workspace (Figure 3.27). Soils
+mapped in the vicinity of the workspace consisted predominantly of Scottsville-Latex complex
+(ScxBn) soils (NRCS 2018). These clayey and
+loamy soils typically are situated at summits and
+
+Overview photograph of Workspace 10”-Dig Point #02, facing south.
+
+R. Christopher Goodwin & Associates, Inc.
+
+66
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.26
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #02.
+
+R. Christopher Goodwin & Associates, Inc.
+
+67
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+in length; it encompassed an area of 0.05 ha (0.12
+ac). This rectangular-shaped workspace was located along the south side of Highway 43 (Figure
+3.1: Sheet 9; Table 3.1). Vegetation in the vicinity
+of the workspace consisted of mixed grasses and
+secondary growth species within the extant corridor and a mixture of hardwood and coniferous
+woods to either side (Figure 3.29). Soils mapped
+in the vicinity of the workspace consisted predominantly of Keatchie fine sandy loams (BerBn) soils (1 to 3 per cent slopes) (NRCS 2018).
+These loamy soils typically are situated at summits and interfluves on slightly sloping terrain (1
+to 3 per cent slopes) and described as moderately
+well drained. A single historic standing structure,
+(HSS-TJL0117B) was identified approximately
+10 m (32.8 ft) east of 10”-Dig Point-04; it will be
+described in detail below.
+A single shovel test was placed on the western edge of the workspace. Excavation reached
+
+interfluves on flat terrain (0 to 2 per cent slopes)
+and described as moderately well drained.
+A single shovel test was placed within the
+workspace along the eastern edge of the extant
+corridor (Figure 3.28; Appendix I). Excavation
+extended a depth of 30 cmbs (11.8 inbs) and a
+single stratum was observed in profile. Stratum
+I, a yellowish brown (10YR 5/4) sandy loam, extended from the surface to 30 cmbs (11.8 inbs).
+Excavation was terminated due to the presence
+of dense tree roots. Pedestrian survey and shovel
+testing failed to identify any cultural resources at
+workspace 10”-Dig Point #03 and no additional
+investigation of this workspace is recommended.
+Workspace 10”-DIG POINT #04 (10” MP Exposure 13.87/13.88 Exposure)
+Workspace 10”-Dig Point #04 (10” MP Exposure 13.87/13.88 Exposure) measured approximately 15 m (49.2 ft) in width and 30 m (98.4 ft)
+
+Figure 3.27
+
+Overview photograph of Workspace 10”-Dig Point #03, facing north.
+
+R. Christopher Goodwin & Associates, Inc.
+
+68
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.28
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #03.
+
+R. Christopher Goodwin & Associates, Inc.
+
+69
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.29
+
+Overview photograph of Workspace 10”-Dig Point #04 (10” MP 13.87/13.88 Exposure), facing north.
+
+a depth of 25 cmbs (9.8 inbs) and revealed two
+strata in profile (Figure 3.30; Appendix I). Stratum I was described as a yellowish brown (10YR
+5/6) sandy loam that extended from the surface
+to 10 cmbs (3.9 inbs). Stratum II, light yellowish
+brown (10YR 6/4) sandy loam, extended from 10
+cmbs (3.9 inbs) to 25 cmbs (9.8 inbs) where excavation was terminated due to the presence of tree
+roots. No cultural material or evidence of intact
+cultural deposits were identified during the examination of workspace 10”-Dig Point #04 (10” MP
+Exposure 13.87/13.88 Exposure). No additional
+investigation of this workspace is recommended.
+
+the doorway which features a single replacement
+panel door. Window sash units also appear to be
+replacements. A carport which is attached on the
+gable end on the northeast elevation is nearing
+collapse. The foundation is obscured at the main
+elevation.
+Temporary use of the workspace located at
+workspace 10” -Dig Point #04 (10” MP Exposure 13.87/13.88 Exposure) within the existing
+Line 1-N corridor will not effect this property.
+Following its use as a temporary workspace, the
+area will be restored, reseeded, and returned to its
+current condition. The use of this workspace will
+not permanently alter, directly or indirectly, any
+physical characteristic of any historic resource or
+its setting, assuming such historic properties were
+present. No further architectural investigations of
+Resource HSS-TJL-0117B is recommended for
+this location. No further testing of the workspace
+is recommended.
+
+Resource HSS-TJL-0117B
+Resource HSS-TJL-0117B (address unknown) is located directly east of Workspace 10”Dig Point #04 (10” MP Exposure 13.87/13.88
+Exposure) on State Highway 43 (Figures 3.1:
+Sheet 9, 3.31, and 3.32). The one-story, woodframe house faces State Highway 43 and likely
+was constructed ca. 1910. The building is clad in
+horizontal wood siding and features a rectangular
+footprint. The side-gable roof has exposed roof
+rafters and is sheathed with asphalt shingles. The
+dwelling has a symmetrical three-bay façade with
+a central doorway. A gable-roof porch shelters
+R. Christopher Goodwin & Associates, Inc.
+
+Workspace 10”-DIG POINT #05
+Workspace 10”-Dig Point #05 measured
+approximately 15 m (49.2 ft) in width and 30 m
+(98.4 ft) in length; it encompassed 0.05 ha (0.12
+ac). This rectangular-shaped workspace fell near
+the north side of Highway 43 (Figure 3.1: Sheet
+70
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.30
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #04 (10” MP 13.87/13.88 Exposure).
+
+R. Christopher Goodwin & Associates, Inc.
+
+71
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.31
+
+Overview photograph of Resource HSS-TJL-0117B, facing northeast.
+
+R. Christopher Goodwin & Associates, Inc.
+
+72
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.32
+
+Planview map of Resource HSS-TJL-0117B.
+
+R. Christopher Goodwin & Associates, Inc.
+
+73
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+No cultural material or evidence of intact
+cultural deposits were identified during the examination of workspace 10”-Dig Point #05. No
+additional investigation of this workspace is recommended.
+
+9; Table 3.1). Vegetation described within this area
+consisted of mixed grasses in the extant corridor
+and mixed hardwood trees and brush along either
+side of the workspace (Figure 3.33). Soils mapped
+in the vicinity of the workspace consisted predominantly of Keatchie fine sandy loams (BerBn)
+soils (1 to 3 per cent slopes) (NRCS 2018). These
+loamy soils typically are situated at summits and
+interfluves on slightly sloping terrain (1 to 3 per
+cent slopes) and are described as moderately well
+drained. A single historic standing structure, HSSTJL-0117A, was identified approximately 10 m
+(32.8 ft) east of workspace 10”-Dig Point-05 and
+will be described in detail below.
+A single shovel test excavated on the northeastern edge of workspace 10”-Dig Point #05.
+Excavation extended to a depth of 50 cmbs (19.7
+inbs) and revealed three strata in profile (Figure
+3.34; Appendix I). Stratum I, a yellowish brown
+(10YR 5/6) sandy loam, extended from the
+ground surface to 20 cmbs (7.9 inbs). Stratum II,
+a light yellowish brown (10YR 6/4) loamy sand,
+continued from the base of Stratum I to 40 cmbs
+(15.7 inbs). Stratum III, a strong brown (7.5YR
+4/6) clay loam, that extended from 40 cmbs (15.7
+inbs) to 50 cmbs (19.7 inbs).
+
+Figure 3.33
+
+Resource HSS-TJL-0117A
+Resource HSS-TJL0117A (address unknown) is located directly northeast of Workspace 10”-Dig Point #05 on State Highway 43
+(Figures 3.1: Sheet 9, 3.35, and 3.36). The onestory, wood-frame house, which faces State
+Highway 43, likely was constructed ca. 1910.
+The dwelling is clad in horizontal wood siding
+and features a rectangular footprint. The sidegable roof has exposed roof rafters. Roofing materials are unknown due to being covered with
+snow at the time of inspection. The building has a
+symmetrical three-bay façade with a central doorway. A shed roof extends from the main roofline
+and shelters the partial width wood porch that is
+supported with wood posts. The main entrance
+appears to be an original wood panel door. Windows also appear to be original one-over-onelight paired and single wood sash units. A likely
+ca. 1960 addition extends at the rear of the dwell-
+
+Overview photograph of Workspace 10” –Dig Point #05, facing north.
+
+R. Christopher Goodwin & Associates, Inc.
+
+74
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.34
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #05.
+
+R. Christopher Goodwin & Associates, Inc.
+
+75
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.35
+
+Overview photograph of Resource HSS-TJL-0117A, facing northeast.
+
+R. Christopher Goodwin & Associates, Inc.
+
+76
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.36
+
+Planview map of Resource HSS-TJL-0117A.
+
+R. Christopher Goodwin & Associates, Inc.
+
+77
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+secondary growth species within the pipeline
+right-of-way and mixed coniferous and hardwood trees were noted to either side of the corridor (Figure 3.37). Soils mapped in the vicinity
+of the workspace primarily consisted of SardisMathiston complex soils (NRCS 2018). SardisMathiston complex soils (0 to 1 per cent slopes)
+are derived from loamy alluvial deposits and they
+typically are situated on flat areas positioned
+within flood plains, toeslopes, and talfs.
+A total of two shovel tests were excavated
+within workspace 10”-Dig Point #16-19. A typical shovel test was excavated to a depth of 50
+cmbs (19.7 inbs) and it exhibited three strata in
+profile. Stratum I consisted of a yellowish brown
+(10YR 5/4) sandy loam that extended from the
+surface to 15 cmbs (5.9 inbs). Stratum II, a light
+yellowish brown (10 YR 6/4) sandy loam, continued from 15 cmbs (5.9 inbs) to 40 cmbs (15.7
+inbs). Stratum III extended from the base of Stratum II to 50 cmbs (19.7 inbs) (Figure 3.38, Appendix I). No cultural material or evidence of intact cultural deposits were identified. No further
+examination of workspace 10”Dig Point #16-19
+is recommended.
+
+ing and features two-over-two horizontal light
+aluminum sash units.
+Temporary use of the workspace located at
+workspace 10” -Dig Point #05 within the existing
+Line 1-N corridor will not effect the nearby property. Following its use as a temporary workspace,
+the area will be restored, reseeded, and returned
+to its current condition. The use of this workspace will not permanently alter, directly or indirectly, any physical characteristic of this historic
+resource or its setting, assuming such historic
+properties were present. No further architectural
+recordation of this structure is recommended.
+Workspace 10”-DIG POINT #16-19 (18’ Exposed 10” Pipe)
+Workspace 10”-Dig Point #16-19 (18’ Exposed 10” Pipe) measured approximately 55 m
+(180.5 ft) in length by 15 m (49.2 ft) in width and
+encompassed 0.08 ha (0.21 ac). The rectangularshaped workspace is situated approximately 960
+m (3151 ft) south of a private gravel road. The
+road was accessed through a gate located along
+Baldwin Road (Figure 3.1: Sheet 10; Table 3.1).
+Vegetation in the area consisted of grasses and
+
+Figure 3.37
+
+Overview photograph of Workspace 10” –Dig Point #16-19, facing north.
+
+R. Christopher Goodwin & Associates, Inc.
+
+78
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.38
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #16-19.
+
+R. Christopher Goodwin & Associates, Inc.
+
+79
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Workspace 10”-DIG POINT #20/21 (10” MP
+15.03 Exposure; also 10” Dig Point #20/21 extension)
+Workspace 10”-Dig Point #20/21 (10” MP
+15.03 Exposure) was situated 800 m northwest of
+a private gravel road which was accessed through
+a gate located along Baldwin Road (Figure 3.1:
+Sheet 11; Table 3.1). The original workspace area
+measured 45 m (174.6 ft) by 15 m (49.2 ft) in size
+and covered 0.07 ha (0.17 ac); additional survey
+was conducted throughout an area that measured
+15 m (49.2 ft) by 55 m (180.5 ft) and totaled 0.08
+ha (0.20 ac) in extent. The latter area was located
+40 m (131.2 ft) south of 10”-Dig Point #20/21 (10”
+MP 15.03 Exposure) to examine an additional exposed pipe location (Figure 3.39). Vegetation in
+this rectangular-shaped workspace consisted of
+grasses within the existing corridor and mixed
+hardwoods to either side of the right-of-way. Soils
+mapped in the vicinity of the workspace primarily consisted of Sardis-Mathiston complex soils
+(NRCS 2018). Sardis-Mathiston complex soils (0
+to 1 per cent slopes) are derived from loamy alluvial deposits and typically are situated on flat areas
+positioned within flood plains, toeslopes, and talfs.
+A total of three shovel tests were excavated
+within workspace 10”-Dig Point #20/21 (10” MP
+
+Figure 3.39
+
+15.03 Exposure). A single shovel test was placed
+east of the extant corridor within the original
+boundary of the workspace, while the remaining
+two were placed on either side of the additional
+area at the eroding drainage, (i.e., to the north and
+south) and along the west side of the extant corridor.
+A typical shovel test excavated within the
+workspace extended to a maximum depth of 50
+cmbs (19.7 inbs) and exhibited two strata in profile. Stratum I, a yellowish brown (10YR 5/4)
+sandy loam, extended from the ground surface to
+20 cmbs (7.9 inbs). Stratum II, a light yellowish
+brown (10 YR 6/4) sandy loam, continued from
+20 cmbs (7.9 inbs) to the base of excavation at
+50 cmbs (19.7 inbs) (Figure 3.40; Appendix I).
+No cultural resources were identified within the
+original 10”-Dig Point #20/21 (10” MP 15.03
+Exposure) location or the additional workspace
+located to the south. No additional examination
+of these two workspaces is recommended.
+Workspace 10”-DIG POINT #06 (10” MP 15.13
+Exposure)
+Workspace 10”-Dig Point #06 (10” MP
+15.13 Exposure) measured 50 m (164 ft) in length
+by 50 m (164 ft) in width and encompassed 0.26
+
+Overview photograph of Workspace 10” –Dig Point #20/21 (10” MP 15.03 Exposure), facing north.
+
+R. Christopher Goodwin & Associates, Inc.
+
+80
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.40
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #20/21 (10” MP 15.03 Exposure).
+
+R. Christopher Goodwin & Associates, Inc.
+
+81
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+ha (0.64 ac). The workspace was situated 220 m
+(442.9 ft) southeast of the intersection of Baldwin
+Road and Peters Chapel Road (Figure 3.1: Sheet
+12; Table 3.1). An above ground gas valve was located near the center of this survey area. Vegetation consisted of harvested planted pine trees and
+secondary growth species. (Figure 3.41). Soils
+mapped in the vicinity of the workspace primarily consisted of Sardis-Mathiston complex soils
+(NRCS 2018). Sardis-Mathiston complex soils (0
+to 1 per cent slopes) are derived from loamy alluvial deposits and typically are situated on flat
+areas positioned within flood plains, toeslopes,
+and talfs.
+A total of three shovel tests were placed
+within workspace 10”-Dig Point #06 (10” MP
+15.13 Exposure). Shovel tests were placed at 50
+m (164 ft) intervals and were positioned at least
+15 m (49.2 ft) from the extant valve location. A
+typical shovel test extended to a depth of 50 cmbs
+(19.7 inbs) and exhibited two strata in profile.
+Stratum I, a brown (10YR 5/3) sandy loam, originated at the surface and continued to a depth of
+20 cmbs (7.9 inbs). Stratum II, a yellowish brown
+(10YR 5/4) loamy sand, extended from the base
+of Stratum I to 50 cmbs (19.7 inbs) (Figure 3.42;
+
+Figure 3.41
+
+Appendix I). No cultural resources were identified within the limits of workspace 10”-Dig Point
+#06 (10” MP 15.13 Exposure). No additional examination of this workspace is recommended.
+Workspace 12”-DIG POINT #22/23 (10” MP
+18.85 Exposure)
+Workspace 12”-Dig Point #22/23 (10” MP
+18.85 Exposure) measured approximately 40 m
+(131.2 ft) in length by 15 m (49.2 ft) in width, and
+it encompassed 0.06 ha (0.16 ac). The area was
+situated 520 m (1706 ft) south of Texas Highway
+134 (Figure 3.1: Sheet 13; Table 3.1). Vegetation
+within this rectangular-shaped workspace consisted of grasses within the existing corridor and
+planted pine stands to the east and west of the
+right-of-way. Soils mapped in the vicinity of the
+workspace consisted predominantly of Keatchie
+fine sandy loams (BerBn) soils (1 to 3 per cent
+slopes) (NRCS 2018). These loamy soils typically are situated at summits and interfluves on
+slightly sloping terrain (1 to 3 per cent slopes)
+and are described as moderately well drained.
+An improved dirt road lie within the extant corridor and extends through this survey area (Figure
+3.43).
+
+Overview photograph of Workspace 10” –Dig Point #06 (10” MP 15.13 Exposure), facing east.
+
+R. Christopher Goodwin & Associates, Inc.
+
+82
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.42
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #06 (10” MP 15.13 Exposure).
+
+R. Christopher Goodwin & Associates, Inc.
+
+83
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.43
+
+Overview photograph of Workspace 12” –Dig Point #22/23 (10” MP 18.85 Expsoure), facing east.
+
+A single shovel test was excavated on the
+eastern edge of the extant corridor. It extended
+to a depth of 50 cmbs (19.7 inbs) and revealed
+two strata in profile. Stratum I, a yellowish brown
+(10YR 5/4) loamy sand, extended from the surface to 30 cmbs (11.8 inbs). Stratum II, light yellowish brown (10YR 6/4) loamy sand, extended
+from the base of Stratum I to 50 cmbs (19.7 inbs).
+(Figure 3.44; Appendix I). No cultural materials
+or evidence of intact cultural deposits resources
+was identified at workspace 12”-Dig Point #22/23
+(10” MP 18.85 Exposure). No additional examination of this workspace is recommended.
+
+and Meth fine sandy loams (1 to 3 per cent slopes)
+(NRCS 2018). Darbonne fine sandy loams generally are located at summits and interfluves on
+gently sloping terrain (3 to 5 per cent slopes) and
+described as well drained. Meth fine sandy loams
+are associated with slightly sloping (1 to 3 per cent
+slopes) terrain at summits and interfluves and also
+are characterized as well drained.
+A single shovel test placed within the workspace extended to a maximum depth of 50 cmbs
+(19.7 inbs) and revealed three strata in profile.
+Stratum I consisted of yellowish brown (10YR
+5/4) sandy loam that continued from the ground
+surface to 20 cmbs (7.9 inbs). Stratum II, a light
+yellowish brown (10 YR 6/4) loamy sand, was observed from 20 cmbs (7.9 inbs) to 40 cmbs (15.7
+inbs). Stratum III, a strong brown (7.5 YR 5/6)
+loamy sand, extended from the base of Stratum II
+to 50 cmbs (19.7 inbs) (Figure 3.46; Appendix I).
+No cultural resources were identified as a result
+of this survey and no additional investigation of
+workspace 10”-Dig Point #07 is recommended.
+
+Workspace 10”-DIG POINT-07
+Workspace 10”-Dig Point #07 measured 35
+m (114.8 ft) in length by 15 m (49.2 ft) in width
+and it encompassed 0.05 ha (0.12 ac). The rectangular-shaped workspace was located on the south
+side of Highway 1793 (Figure 3.1: Sheet 14; Table
+3.1). Vegetation throughout the area was described
+as grass and heavy brush, planted pine trees were
+located to either side of the workspace (Figure
+3.45). Soils mapped in the vicinity of the workspace consisted predominantly of Darbonne fine
+sandy loams (DbC) soils (3 to 5 per cent slopes)
+R. Christopher Goodwin & Associates, Inc.
+
+Workspace 10”-DIG POINT #08
+Workspace 10”-Dig Point #08 measured approximately 35 m (114.8 ft) in length by 15 m
+84
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.44
+
+Profile of typical shovel test excavated within Workspace 12”-Dig Point #22/23 (10” MP 18.85 Expsoure).
+
+R. Christopher Goodwin & Associates, Inc.
+
+85
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.45
+
+Overview photograph of Workspace 10” –Dig Point #07, facing north.
+
+R. Christopher Goodwin & Associates, Inc.
+
+86
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.46
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #07.
+
+R. Christopher Goodwin & Associates, Inc.
+
+87
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+(49.2 ft) in width and encompassed 0.05 ha (0.12
+ac) in total extent. The workspace was situated
+along the north side of Highway 1793 (Figure
+3.1: Sheet 14; Table 3.1). Vegetation within the
+vicinity of this rectangular-shaped workspace
+consisted of grasses within the existing corridor
+and planted pine stands throughout the surrounding area (Figure 3.47). Soils mapped in the vicinity of the workspace consisted predominantly of
+Darbonne fine sandy loams (DbC) soils (3 to 5
+per cent slopes) and Meth fine sandy loams (1 to
+3 per cent slopes) (NRCS 2018). Darbonne fine
+sandy loams typically are situated at summits and
+interfluves on gently sloping terrain (3 to 5 per
+cent slopes) and are described as well drained.
+Meth fine sandy loams are found on slightly sloping (1 to 3 per cent slopes) terrain at summits and
+interfluves and also are described as well drained.
+A single shovel test was excavated within
+the wooded area located along the eastern side
+of workspace 10”-Dig Point #08, and it exhibited three strata in profile. Stratum I, yellowish
+brown (10YR 5/4) sandy loam, extended from
+the surface to 20 cmbs (7.9 inbs). Stratum II, a
+layer of light yellowish brown (10 YR 6/4) sandy
+loam, continued from 20 cmbs (7.9 inbs) to 40
+cmbs (15.7 inbs). Stratum III, a strong brown (7.5
+
+Figure 3.47
+
+YR 5/6) loamy sand, extended from the base of
+Stratum II to a maximum depth of 50 cmbs (19.7
+inbs) (Figure 3.48; Appendix I). No cultural material or evidence of intact cultural deposits were
+identified at workspace 10”-Dig Point #08. No
+additional examination of this workspace is recommended.
+Marion County
+Workspace 10”-DIG POINT #09
+Workspace 10”-Dig Point #09 was rectangular in shape and measured approximately 76 m
+(249 m) long and 53 m (173 ft) wide; it encompassed an area that totaled 0.34 ha (0.85 ac) (Figure 7.1: Sheet 15). The project area was sloped
+gently (1 to 8 percent), and was located on the
+south side of Texas Highway 134 and within an
+extant pipeline corridor. Vegetation throughout
+the area consisted of grasses within the limits of
+the pipeline right-of-way and mixed hardwoods
+were located along the eastern and western
+boundaries of the pipeline corridor (Figure 3.49).
+Soils mapped in the vicinity of the workspace
+consisted predominantly of Hainesville fine sand
+(HaA) soils (0 to 2 per cent slopes) and Wrightsville silt loam (0 to 1 per cent slopes) (NRCS
+2018). Hainesville fine sand typically is situated
+
+Overview photograph of Workspace 10” –Dig Point #08, facing south.
+
+R. Christopher Goodwin & Associates, Inc.
+
+88
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.48
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #08.
+
+R. Christopher Goodwin & Associates, Inc.
+
+89
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.49
+
+Overview photograph of Workspace 10” –Dig Point #09, facing south.
+
+along stream terraces, toeslopes, and floodplains
+on relatively flat terrain (0 to 2 per cent slopes)
+and are described as well drained. Wrightsville
+silt loam is generally situated on flat (0 to 1 per
+cent slopes) terrain along stream terraces, toeslopes, and open depressions and also described as
+poorly drained.
+A total of four shovel tests were excavated
+along two transects placed at either side of the
+extant pipeline corridor and within the limits of
+the proposed workspace. A typical shovel test
+was excavated to a depth of 50 cmbs (19.7 inbs)
+and exhibited three strata in profile. Stratum I, a
+deposit of dark grayish, brown (10YR 4/2) sandy loam, extended from the surface to 10 cmbs
+(3.9 inbs). Stratum II continued from the base of
+Stratum I to 30 cm (7.9 in) and was described as
+yellowish brown (10YR 5/4) loamy sand. Stratum III, a grayish brown (10YR 5/1) loamy sand
+mottled with light yellowish brown (10YR 6/4)
+loamy sand, extended from 30 cmbs (7.9 in) to
+50 cmbs (19.7 inbs) (Figure 3.50; Appendix I).
+No cultural material or evidence of intact cultural
+deposits were identified within this workspace.
+No additional examination of workspace 10”-Dig
+Point #09 is recommended.
+R. Christopher Goodwin & Associates, Inc.
+
+Workspace 10”-DIG POINT #10
+Workspace 10”-Dig Point #10 consisted
+of a pentagonal-shaped area that measured approximately 73 m (239 ft) long and 69 m (226
+ft) wide; it encompassed an area of 0.33 ha (0.82
+ac) (Figure 7.1: Sheet 15). The project area was
+situated along the north side of Texas Highway
+134 and directly across from workspace 10”-Dig
+Point #09. Vegetation consisted of grasses within
+the current right-of-way and mixed hardwoods
+along the eastern and western boundaries of the
+extant corridor (Figure 3.51). Soils mapped in
+the vicinity of the workspace consisted predominantly of Hainesville fine sand (HaA) soils (0 to
+2 per cent slopes) and Wrightsville silt loam (0 to
+1 per cent slopes) (NRCS 2018). Hainesville fine
+sand typically occurs along stream terraces, toeslopes, and floodplains on relatively flat terrain
+(0 to 2 per cent slopes) and often is described as
+well drained. Wrightsville silt loam generally is
+associated with flat (0 to 1 per cent slopes) terrain
+along stream terraces, toeslopes, and open depressions and can be described as poorly drained.
+A total of three shovel tests were excavated
+along two transects placed on either side of the
+extant corridor and within the workspace. Two
+90
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.50
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #09.
+
+R. Christopher Goodwin & Associates, Inc.
+
+91
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.51
+
+Overview photograph of Workspace 10” –Dig Point #10, facing north.
+
+right-of-way and planted pines were observed
+primarily along the eastern and western boundaries of the extant corridor. Soils mapped in the
+vicinity of the workspace consisted predominantly of Hainesville fine sand (HaA) soils (0
+to 2 per cent slopes) (NRCS 2018). Wrightsville
+silt loam generally are found on flat (0 to 1 per
+cent slopes) terrain associated with stream terraces, toeslopes, and open depressions and are
+poorly drained.
+A single shovel test was excavated along the
+western boundary of the project area; it extended
+to 50 cmbs (19.7 inbs) and exhibited three strata
+in profile. Stratum I, a dark grayish brown (10YR
+4/2) sandy loam, continued from the surface to
+10 cmbs (3.9 inbs). Stratum II, a gray (10YR 5/1)
+sandy loam, extended from the base of Stratum I
+to 30 cmbs (11.8 inbs). Finally Stratum III, a yellowish brown (10YR 5/4) loamy sand, occurred
+from 30 to 50 cmbs (11.8 to 19.7 inbs) (Figure
+3.54; Appendix I). No cultural material or evidence of intact cultural deposits were identified
+within the examined workspace. No additional
+examination of workspace 10”-Dig Point #11 is
+recommended.
+
+shovel tests were excavated on the eastern transect, and one shovel test was excavated on the
+western transect.
+A typical shovel test exhibited two strata in
+profile and was excavated to a maximum depth of
+50 cmbs (19.7 inbs). Stratum I, described as a yellowish brown (10YR 5/4) loamy sand, extended
+from the surface to a depth of 20 cmbs (7.9 inbs).
+Stratum II, a light yellowish brown (10YR 5/6)
+loamy sand, extended from the base of Stratum I
+to 50 cmbs (19.7 inbs) (Figure 3.52; Appendix I).
+No cultural material or evidence of intact cultural
+deposits were identified within this workspace.
+No additional examination of workspace 10”-Dig
+Point #10 is recommended.
+Workspace 10”-DIG POINT #11
+Workspace 10”-Dig Point #11 was located
+approximately 605 m (1,984 ft) north of Texas
+Highway 134 and within an extant pipeline
+corridor (Figure 3.53). The rectangular-shaped
+workspace measured 33 m (108 ft) in length
+and 15 m (49 ft) in width and encompassed an
+area of 0.05 ha (0.12 ac) (Figure 3.1: Sheet 16).
+Vegetation in the vicinity of the examined workspace consisted of grasses within the current
+R. Christopher Goodwin & Associates, Inc.
+
+92
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.52
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #10.
+
+R. Christopher Goodwin & Associates, Inc.
+
+93
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.53
+
+Overview photograph of Workspace 10” –Dig Point #11, facing north.
+
+R. Christopher Goodwin & Associates, Inc.
+
+94
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.54
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #11.
+
+R. Christopher Goodwin & Associates, Inc.
+
+95
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Workspace 10”-DIG POINT #12
+Workspace 10”-Dig Point #12 was located
+approximately 605 m (1,984 ft) north of Texas
+Highway 134 and was situated within an extant
+pipeline corridor. The rectangular-shaped area
+measured approximately 31 m (102 ft) in length
+and 16 m (52 ft) in width and encompassed 0.05
+ha (0.12 ac) (Figure 7.1: Sheet 16). Grasses were
+noted throughout the current right-of-way and
+planted pines occurred primarily along the eastern and western boundaries of the extant pipeline
+corridor (Figure 3.55). Soils mapped in the vicinity of the examined workspace consisted predominantly of Hainesville fine sand (HaA) soils (0 to
+2 per cent slopes) (NRCS 2018). Wrightsville silt
+loam generally is situated on flat (0 to 1 per cent
+slopes) terrain along stream terraces, toeslopes,
+and open depressions and also described as poorly drained.
+
+Figure 3.55
+
+A single shovel test was excavated along the
+eastern boundary of the examined project area.
+The shovel test extended to a depth of 50 cmbs
+(19.7 inbs) and exhibited two strata in profile.
+Stratum I, a yellowish brown (10YR 5/4) sandy
+loam, extended from the surface to 20 cmbs (7.9
+inbs). Stratum II, a light yellowish brown (10YR
+6/4) loamy sand, continued from the base of Stratum I to 50 cmbs (19.7 inbs (Figure 3.56; Appendix I). No cultural resources were identified and
+no additional examination of workspace 10”-Dig
+Point #12 is recommended.
+Workspace 10”-DIG POINT #13
+Workspace 10”-Dig Point #13 measured 31
+m (102 ft) in length and 15 m (49 ft) in width and
+encompassed 0.04 ha (0.1 ac) (Figure 3.1: Sheet
+17). The workspace was located along the south
+side of Texas Highway 49 and situated along an
+
+Overview photograph of Workspace 10” –Dig Point #12, facing south.
+
+R. Christopher Goodwin & Associates, Inc.
+
+96
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.56
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #12.
+
+R. Christopher Goodwin & Associates, Inc.
+
+97
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.57
+
+Overview photograph of Workspace 10” –Dig Point #13, facing south.
+
+extant pipeline corridor. Grasses were noted within the current right-of-way and mixed hardwoods
+occurred along the eastern and western sides of
+the extant pipeline corridor (Figure 3.57). Soils
+mapped in the vicinity of the workspace consisted predominantly of Gallime-Guyton complex
+soils (GaC) soils (0 to 2 per cent slopes) (NRCS
+2018). Gallime-Guyton complex soils are generally situated on flat (0 to 1 per cent slopes) terrain
+along stream terraces, toeslopes, and depressions
+and also described as well drained.
+A single shovel test was excavated in this
+project item. The shovel test was excavated to a
+depth of 50 cmbs (19.7 inbs) and exhibited two
+strata in profile. Stratum I, a yellowish brown
+(10YR 5/4) sandy loam, extended from the surface to 20 cmbs (7.9 inbs). Stratum II, a light yellowish brown (10YR 6/4) loamy sand, extended
+from the base of Stratum I to 50 cmbs (19.7 inbs)
+(Figure 3.58; Appendix I). No cultural material or
+R. Christopher Goodwin & Associates, Inc.
+
+intact cultural deposits were identified within this
+workspace. No additional examination of workspace 10”-Dig Point #13 is recommended.
+Workspace 10”-DIG POINT #14 and 15
+Workspace 10”-Dig Point #14 and 15 was
+located along the north side of Texas Highway 49
+and directly south of a working valve launcher facility (Figures 3.1: Sheet 17 and 3.59). The workspace measured 30 m (98 ft) in length and 20 m
+(66 ft) in width and encompassed 0.04 ha (0.1
+ac). Vegetation within the vicinity of this workspace was included mowed grasses and second
+growth species. Portions of the area exhibited
+water pooling at the surface. Soils mapped in the
+vicinity of the workspace consisted predominantly of Gallime-Guyton complex soils (GaC) soils
+(0 to 2 per cent slopes), Bowie fine sandy loam
+(BoC) (1 to 5 per cent slopes), and Tenaha loamy
+fine sand (TnD) (5 to 15 per cent slopes) (NRCS
+98
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.58
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #13.
+
+R. Christopher Goodwin & Associates, Inc.
+
+99
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.59
+
+Overview photograph of Workspace 10” –Dig Point #14 and 15, facing north.
+
+2018). Gallime-Guyton complex soils generally
+are situated on flat (0 to 1 per cent slopes) terrain along stream terraces, toeslopes, and depressions and are described as well drained. Bowie
+fine sandy loams typically are situated at summits
+and interfluves on slightly sloping terrain (1 to 5
+per cent slopes) and described as well drained.
+Tenaha loamy fine sands are generally are situated on strongly sloping (5 to 15 per cent slopes)
+terrain at interfluves and backslopes and are characterized as well drained.
+A single shovel test was placed in the northeast corner of this project item between the
+southern fenceline of the working facility and the
+highway right-of-way. The shovel test was excavated to a depth of 20 cm (7.9 inbs) and exhibited
+two strata in profile. Stratum I, a brown (10YR
+4/3) sandy loam, extended from the surface to
+5 cmbs (1.9 inbs). Stratum II, characterized as a
+gray (10YR 6/1) loamy sand mottled with strong
+R. Christopher Goodwin & Associates, Inc.
+
+brown (7.5YR 5/6) loamy sand, continued from
+the base of Stratum I to 20 cmbs (7.9 inbs) (Figure 3.62; Appendix I). Excavation of this shovel
+test was terminated at 20 cmbs (7.9 inbs) due
+to groundwater intrusion. No cultural resources
+were identified and no additional examination of
+workspace 10”-Dig Point #14 and 15 is recommended.
+Workspace 12”-DIG POINT #01
+Workspace 12”-Dig Point #01 was located
+north of Texas Highway 49 and directly north of
+workspace 10”-Dig Point #14 (Figure 3.61). The
+workspace measured 31 m (102 ft) in length and
+15 m (49 ft) in width and encompassed 0.05 ha
+(0.12 ac) (Figure 3.1: Sheet page 17). Vegetation
+throughout the area included mowed grasses and
+weeds. Soils mapped in the vicinity of this workspace can be characterized as Bowie fine sandy
+loam (BoC), 1 to 5 per cent slopes (NRCS 2018).
+100
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.60
+
+Profile of typical shovel test excavated within Workspace 10”-Dig Point #14 and 15.
+
+R. Christopher Goodwin & Associates, Inc.
+
+101
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.61
+
+Overview photograph of Workspace 12” -Dig Point #01, facing north.
+
+situated within an extant pipeline corridor. Vegetation consisted of grasses within the current
+right-of-way and mixed hardwoods located along
+the eastern and western boundaries of the pipeline right-of-way (Figure 3.62). Soils mapped in
+the vicinity of the workspace consisted predominantly of Bowie fine sandy loam (BoC), 1 to 5
+per cent slopes (NRCS 2018). Bowie fine sandy
+loams typically are situated at summits and interfluves on slightly sloping terrain (1 to 5 per cent
+slopes) and often characterized as well drained.
+A single shovel test was excavated in the
+southeastern corner of this project item (Figure
+7.1: aerial). The shovel test was excavated to a
+maximum depth of 50 cmbs (19.7 inbs) and it exhibited three strata in profile. Stratum I, a dark
+grayish brown (10YR 4/2) sandy loam, extended
+from the surface to 20 cm (7.9 in). Stratum II,
+a light yellowish brown (10YR 6/4) loamy sand,
+continued from the base of Stratum I to 40 cmbs
+
+Bowie fine sandy loams typically are situated at
+summits and interfluves on slightly sloping terrain (1 to 5 per cent slopes) and are classified as
+well drained.
+No shovel tests were excavated within this
+workspace because the entire workspace was disturbed from the installation of a valve center and
+positioned within an inaccessible fenced-in area
+that contained the extant valve appurtenance.
+Visual inspection and photodocumentation of
+the workspace failed to identify any cultural resources. No additional examination of workspace
+12”-Dig Point #01 is recommended.
+Workspace 12”-DIG POINT #02
+Workspace 12”-Dig Point #02 measured 23
+m (75 ft) in length and 15 m (49 ft) in width and
+encompassed 0.04 ha (0.09 ac) (Figure 3.1: Sheet
+18). The workspace was located approximately
+310 m (1,018 ft) north of Texas Highway 49 and
+R. Christopher Goodwin & Associates, Inc.
+
+102
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.62
+
+Overview photograph of Workspace 12” –Dig Point #02, facing north.
+
+Soils mapped in the vicinity of the workspace
+consisted predominantly of Bowie fine sandy
+loam (BoC), 1 to 5 per cent slopes (NRCS 2018).
+Bowie fine sandy loams typically are situated at
+summits and interfluves on slightly sloping terrain (1 to 5 per cent slopes); they are classified as
+well drained.
+A single shovel was placed in the northeast
+corner of the project item. The shovel test was
+excavated to a depth of 50 cmbs (19.7 inbs) and
+it exhibited three strata in profile (Figure 3.65;
+Appendix I). Stratum I, a dark grayish brown
+(10YR 4/2) sandy loam, extended from the surface to 10 cmbs (3.9 inbs). Stratum II, a light yellowish brown (10YR 6/4) loamy sand, continued
+from the base of Stratum I to 30 cmbs (11.8 inbs).
+Finally Stratum III, a brown (10YR 5/3) loamy
+sand, was observed from 30 to 50 cmbs (11.8 to
+19.7 inbs). No cultural material or evidence of intact cultural deposits were identified within this
+
+(15.7 inbs). Stratum III, a brown (10YR 5/3)
+loamy sand, occurred from 40 to 50 cmbs (15.7 to
+19.7 inbs) (Figure 3.63; Appendix I). No cultural
+material or evidence of intact cultural deposits
+were identified within this workspace. No additional examination of workspace 12”-Dig Point
+#02 is recommended.
+Workspace 12”-DIG POINT #03
+Workspace 12”-Dig Point #03 was a rectangular shaped area that measured 23 m (75 ft) long
+and 15 m (49 ft) wide; it encompassed 0.04 ha
+(0.09 ac) (Figure 3.1: Sheet 18 ). The project area
+was nearly level (0 to 3 percent slope), and was
+located 11 m (36 ft) northwest of railroad tracks
+positioned approximately 310 m (1,018 ft) north
+of Texas Highway 49. Vegetation consisted of
+short grasses and mixed hardwoods, which primarily were located along the eastern and western
+boundaries of the extant corridor (Figure 3.64).
+R. Christopher Goodwin & Associates, Inc.
+
+103
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.63
+
+Profile of typical shovel test excavated within Workspace 12”-Dig Point #02.
+
+R. Christopher Goodwin & Associates, Inc.
+
+104
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.64
+
+Overview photograph of Workspace 12” –Dig Point #03, facing north.
+
+R. Christopher Goodwin & Associates, Inc.
+
+105
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.65
+
+Profile of typical shovel test excavated within Workspace 12”-Dig Point #03.
+
+R. Christopher Goodwin & Associates, Inc.
+
+106
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Darco loamy fine sand (2 to 5 per cent slopes) and
+Tenaha loamy fine sand (TnD) (5 to 15 per cent
+slopes) (NRCS 2018). Darco loamy fine sands
+generally are associated with slightly sloping (2
+to 5 per cent slopes) terrain interfluves and summits and are described as somewhat excessively
+drained. Tenaha loamy fine sands generally are
+situated on strongly sloping (5 to 15 per cent
+slopes) terrain at interfluves and backslopes and
+are described as well drained.
+A single shovel test was excavated along the
+eastern boundary of the project area. The shovel
+test extended to a depth of 50 cmbs (19.7 inbs)
+and exhibited three strata in profile (Figure 3.67;
+Appendix I). Stratum I, a yellowish brown (10YR
+5/4) sandy loam, extended from the surface to 20
+cmbs (7.8 inbs). Stratum II, a layer of light yellowish brown loamy sand, continued from the
+base of Stratum I to 40 cmbs (15.7 inbs). Stratum
+
+workspace. No additional examination of workspace 12”-Dig Point #03 is recommended.
+Workspace 12” MP 29.28 Exposure
+Workspace 12” MP 29.28 Exposure was
+located approximately 558 m (1,831 ft) east of
+Texas Highway 248. The workspace measured 35
+m (115 ft) in length and 15 m (49 ft) in width and
+encompassed 0.05 ha (0.12 ac) (Figure 7.1: Sheet
+19; 3.66). The workspace was situated within an
+extant pipeline corridor and adjacent to where
+two private roads crossed, which represent part
+of a series of private roads that provide access to
+the extant pipeline corridors and facilities. Vegetation throughout the area consisted of grasses
+within the current pipeline right-of-way and
+mixed hardwoods were located along the edges
+of the extant corridor. Soils mapped in the vicinity of the workspace consisted predominantly of
+
+Figure 3.66
+
+Overview photograph of Workspace 12” –MP 29.28 Exposure, facing north.
+
+R. Christopher Goodwin & Associates, Inc.
+
+107
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.67
+
+Profile of typical shovel test excavated within Workspace 12”-Dig Point MP 29.28 Exposure.
+
+R. Christopher Goodwin & Associates, Inc.
+
+108
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+nantly of Kirvin very fine sandy loam (KrC), 1
+to 5 per cent slopes (NRCS 2018). Kirvin very
+fine sandy loams typically are situated at summits
+and interfluves on slightly sloping terrain (1 to 5
+per cent slopes) and they are described as well
+drained.
+A single shovel test was excavated in the
+southern corner of the project area. The shovel
+test was excavated to a depth of 50 cmbs (19.7
+inbs) and exhibited two strata in profile (Figure
+3.69; Appendix I). Stratum I, a deposit of yellowish brown (10YR 5/4) sandy loam, extended from
+the surface to 20 cmbs (7.9 inbs). Stratum II, a
+light yellowish brown (10YR 6/4) loamy sand
+deposit, continued from the base of Stratum I to
+50 cmbs (19.7 inbs). No cultural material or evidence of intact cultural deposits were identified
+and no additional examination of workspace 12”Dig Point #04 is recommended.
+
+III, a strong brown (7.5YR 4/6) loamy sand, extended from 40 to 50 cmbs (15.7 to 19.7 inbs). No
+cultural resources material or evidence of intact
+cultural deposits were identified during the examination of workspace 12” MP 29.28 Exposure;
+no further work within these two project items is
+recommended.
+Workspace 12”-DIG POINT #04
+Workspace 12”-Dig Point #04 was located
+east of Texas Highway 248 and situated within an
+extant pipeline corridor. The workspace measured
+31 m (108 ft) in length and 15 (49 ft) in width and
+encompassed 0.4 ha (0.1 ac) (Figures 3.1: Sheet
+20; 3.68). Vegetation within the current rightof-way consisted mostly of grasses and planted
+pines were located along the eastern and western
+boundary of the extant corridor. Soils mapped in
+the vicinity of the workspace consisted predomi-
+
+Figure 3.68
+
+Overview photograph of Workspace 12” –Dig Point #04, facing southeast.
+
+R. Christopher Goodwin & Associates, Inc.
+
+109
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.69
+
+Profile of typical shovel test excavated within Workspace 12”-Dig Point #04.
+
+R. Christopher Goodwin & Associates, Inc.
+
+110
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Workspace 12”-DIG POINT #05
+Workspace 12”-Dig Point #05 was located
+east of Texas Highway 248 and situated within
+an extant pipeline corridor. The workspace measured 31 m (108 ft) in length and 15 (49 ft) in
+width and encompassed 0.4 ha (0.1 ac) (Figures
+3.1: Sheet 20; 3.70). Vegetation within the current right-of-way consisted primarily of grasses
+and planted pines were located along the eastern
+and western boundary of the extant Line 1-N corridor. Soils mapped in the vicinity of the workspace consisted predominantly of Kirvin very
+fine sandy loam (KrC), 1 to 5 per cent slopes
+(NRCS 2018). Kirvin very fine sandy loams typically are situated at summits and interfluves on
+slightly sloping terrain (1 to 5 per cent slopes);
+these soils are characterized as well drained.
+No shovel tests were excavated in the project item. The area contained multiple risers indicating crossing underground utilities; addition-
+
+Figure 3.70
+
+ally, a modern gravel and compact dirt driveway
+were situated parallel with the northern edge of
+the workspace (Figure 3.71). Visual inspection
+and photodocumentation of the workspace failed
+to identify any cultural resources. No further examination of workspace 12”-Dig Point #05 is recommended.
+Workspace 12”-DIG POINT #10 and 12”-DIG
+POINT #11 (15’ Exposed 12” Pipe/12D-07)
+Workspace 12”-Dig Point #10 and 12”-Dig
+Point #11 were located approximately 1.6 km (1
+mi) northeast of Texas Highway 248 (Figures 3.1:
+Sheet 21; 3.72). The workspace measured 41 m
+(135 ft) in length and 15 m (49 ft) in width and encompassed 0.06 ha (0.15 ac). Vegetation within the
+vicinity of these workspaces consisted of grasses
+and mixed hardwoods. Soils identified in the vicinity of these workspaces consisted predominantly
+of Tenaha loamy fine sand (TnD) (5 to 15 per cent
+
+Overview photograph of Workspace 12” –Dig Point #05, facing northwest.
+
+R. Christopher Goodwin & Associates, Inc.
+
+111
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.71
+
+Overview photograph of Workspace 12” –Dig Point #05, with nearby modern residence, facing northwest.
+
+R. Christopher Goodwin & Associates, Inc.
+
+112
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.72
+
+Overview photograph of Workspace 12” –Dig Point #10 and #11, facing south.
+
+slopes) (NRCS 2018). Tenaha loamy fine sands
+generally are situated on strongly sloping (5 to 15
+per cent slopes) terrain at interfluves and backslopes; these soils are described as well drained.
+A single shovel test was excavated within
+the workspace; it extended to a depth of 50 cmbs
+(19.7 inbs) and exhibited three strata in profile (Figure 3.73). Stratum I, a yellowish brown
+(10YR 5/6) loamy sand, extended from the surface to 20 cmbs (7.9 inbs). Stratum II, a light yellowish brown (10YR 6/4) loamy sand, continued
+from the base of Stratum I to 40 cmbs (15.7 inbs).
+Finally Stratum III, a strong brown (7.5YR 4/6)
+loamy sand, extended from 40 to 50 cmbs (15.7
+to 19.7 inbs). No cultural material or evidence of
+intact cultural deposits were identified at these
+workspaces. No additional examination of Workspaces 12”-Dig Point #10 and 12”-Dig Point #11
+is recommended.
+R. Christopher Goodwin & Associates, Inc.
+
+Workspace 12”-DIG POINT #06 and Workspace
+12”-Dig Point #07
+Workspaces 12”-Dig Point #06 and 12”Dig Point #07 were located along a private road
+situated approximately 1.4 km (0.87 mi) east of
+Hall Road (Figures 3.1: Sheet 22; 3.74). Workspace 12”-Dig Point #06 measured 15 m (49 ft)
+in length and 15 m (49 ft) in width and encompassed 0.04 ha (0.09 ac). Workspace 12”-Dig
+Point #07 measured 23 m (75 ft) in length and
+15 m (49 ft) in width and encompassed 0.02 ha
+(0.05 ac). The two workspaces were situated 5
+m (16 ft) apart. Workspace 12”-Dig Point #07
+consisted of a fenced-in valve facility and was
+not accessible for shovel testing. The two workspaces were combined and surveyed as a single
+survey item. Vegetation within the vicinity of the
+two workspaces consisted of grasses and mixed
+woods. Soils mapped in the vicinity of the two
+113
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.73
+
+Profile of typical shovel test excavated within Workspace 12”-Dig Point #10 and #11.
+
+R. Christopher Goodwin & Associates, Inc.
+
+114
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.74
+
+Overview photograph of Workspace 12” –Dig Point #06 and #07, facing north.
+
+workspaces consisted predominantly of Tenaha
+loamy fine sand (TnD), 5 to 15 per cent slopes,
+and Lilbert loamy fine sand (LuC) (NRCS 2018).
+Tenaha loamy fine sands generally are situated on
+strongly sloping (5 to 15 per cent slopes) terrain
+at interfluves and backslopes and also described
+as well drained. Lilbert fine loamy sands are situated within interfluves and along summits on
+slightly sloping (2 to 5 per cent) terrain and described as well drained.
+A single shovel test was excavated within
+the northeast corner of the workspace 12”-Dig
+Point #06 project item. Stratum I, a dark grayish brown (10YR 4/2) sandy loam mottled with
+strong brown (7.5YR 4/6) loamy sand, extended
+from the surface to 10 cmbs (3.9 inbs) (Figure
+3.75; Appendix I). Excavation was terminated at
+10 cmbs (3.9 inbs) due to an influx of groundwater. Workspace 12”-Dig Point #07 was examR. Christopher Goodwin & Associates, Inc.
+
+ined visually and photodocumented. No cultural
+resources were identified at either workspace. No
+additional examination of workspace 12”-Dig
+Point #06 or workspace Dig Point #07 is recommended.
+Summary and Recommendations
+In total, 40 workspaces encompassing 2.83
+ha (7.01 ac) were examined for cultural resources.
+Survey included utilizing pedestrian survey augmented by the excavation of 41 shovel tests. Two
+historic standing structures, HSS-TJL-0117A and
+HSS-TJL-0117B, were identified in Harrison
+County, Texas. Temporary use of the workspaces
+adjacent to Resources HSS-TJL-0117A and HSSTJL-0117B within the existing Line 1-N project
+area will not effect the nearby properties. Following the temporary use of these two workspaces,
+the areas will be restored, reseeded, and returned
+115
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+Figure 3.75
+
+Profile of typical shovel test excavated within Workspace 12” –Dig Point #06 and #07.
+
+R. Christopher Goodwin & Associates, Inc.
+
+116
+
+Contains Privileged Information -- Do Not Release
+
+Chapter III: Results of the Field Investigations, Summary, and Recommendations
+
+to their current condition. Therefore, the use of
+Workspaces 10” Line Dig Point #04 (10” MP
+13.87/13.88 Exposure) and 10” Line Dig Point
+#05 will not permanently alter, directly or indirectly, any physical characteristic of these two
+historic resources. No further architectural investigation or additional examination is recom-
+
+R. Christopher Goodwin & Associates, Inc.
+
+mended for these two structures. Additionally,
+no cultural material or evidence of intact cultural
+deposits was identified as a result of the visual
+inspection and subsurface examination of the 40
+Line 1-N Abandonment workspaces. No additional examination of the workspaces is recommended.
+
+117
+
+Contains Privileged Information -- Do Not Release
+
+References Cited
+National Resource Conservation Service (NRCS)
+2018
+http://websoilsurvey.nrcs.usda.gov/app/WebSoilSurvey.aspx. Accessed January
+21, 2018.
+Perttula, Timothy and Bo Nelson
+2003
+Archeological Survey of the Harleton Water Supply Corporation Water Distribution Project, Harrison and Marion Counties, Texas. Prepared by Archeological &
+Environmental Consultants, Inc.
+Weir, Frank A.
+1989
+Cultural Resources Assessment, Harrison and Marion Counties, F.M. 134 from 0.5
+Miles West of Little Cypress Creek to 1.4 Miles West of State Highway 43. Prepared
+for the Texas Department of Transportation.
+
+R. Christopher Goodwin & Associates, Inc.
+
+118
+
+Contains Privileged Information -- Do Not Release
+
+Appendix I
+Shovel Test Table
+
+Appendix I: Line 1-N Phase I Harrison and Marion Counties, Texas- Shovel Test Table
+Area
+
+Shovel Test
+No.
+
+8”-DP-01
+
+No shovel
+tests excavated
+
+Negative
+
+n/a
+
+8”-DP-02
+
+No shovel
+tests excavated
+
+Negative
+
+8”-DP-03
+
+No shovel
+tests excavated
+
+8”-DP-04
+
+Results
+
+Stratum I
+
+Stratum II
+
+Stratum III
+
+Comments
+
+n/a
+
+n/a
+
+No shovel tests excavated
+due to existing fenced
+and paved road
+
+n/a
+
+n/a
+
+n/a
+
+No shovel tests excavated
+due to proximity of existing valve facility center
+
+Negative
+
+n/a
+
+n/a
+
+n/a
+
+No shovel tests excavated
+due to existing pipeline
+corridor and fenced
+asphalt parking lot
+
+1
+
+Negative
+
+10YR 5/6 Yellowish
+Brown Sandy Loam
+(0-25 cmbs)
+
+10YR 6/4 Light Yellowish Brown Sandy
+Loam (25-50 cmbs)
+
+n/a
+
+n/a
+
+8”-DP-04
+
+2
+
+Negative
+
+10YR 5/6 Yellowish
+Brown Sandy Loam
+(0-25 cmbs)
+
+10YR 6/4 Light Yellowish Brown Sandy
+Loam (25-50 cmbs)
+
+n/a
+
+n/a
+
+8”-DP-05
+
+1
+
+Negative
+
+10YR 4/4 Dark Yellowish Brown Sandy Loam
+(0-25 cmbs)
+
+n/a
+
+n/a
+
+Terminated at 25cmbs
+due to roots
+
+8”-DP-06
+
+1
+
+Negative
+
+10YR 5/2 Grayish 7.5YR 4/6 Strong Brown
+10YR 5/3 Brown Sandy
+Brown Loamy Sand
+Loamy Sand (40-50
+Loam (0-20 cmbs)
+(20-40 cmbs)
+cmbs)
+
+n/a
+
+10YR 6/3 Pale Brown
+Sandy Loam mottled
+with 7.5YR 7/6 Reddish Yellow Loamy
+Sand (10-30 cmbs)
+
+n/a
+
+Terminated at 30cmbs
+due to compact soils
+
+n/a
+
+n/a
+
+No shovel tests excavated
+due to existing pipeline
+corridor and buried
+utilities.
+
+n/a
+
+No shovel tests excavated
+due to buried utilities
+and proximity to railroad
+grade.
+
+Negative
+
+10YR 5/4 Yellowish
+Brown Loamy Sand
+10YR 5/3 Brown Loamy mottled with 10YR
+Sand (0-10 cmbs)
+5/2 Grayish Brown
+Loamy Sand (10-30
+cmbs)
+
+n/a
+
+Terminated at 30cmbs
+due to compact soils
+
+10YR 5/4 Yellowish
+Brown Loamy Sand
+10YR 5/3 Brown Sandy mottled with 10YR
+Loam (0-10 cmbs)
+5/2 Grayish Brown
+Loamy Sand (10-30
+cmbs)
+
+n/a
+
+Terminated at 30cmbs
+due to roots
+
+Harrison County
+
+8”-DP-07
+
+1
+
+Negative
+
+10YR 5/2 Grayish
+Brown Sandy Loam
+(0-10 cmbs)
+
+8”-DP-08
+
+No shovel
+tests excavated
+
+Negative
+
+n/a
+
+8”-DP-09
+
+No shovel
+tests excavated
+
+8”-DP-10
+
+1
+
+Negative
+
+n/a
+
+n/a
+
+8”-DP-11
+
+1
+
+Negative
+
+10”-DP-01
+
+No shovel
+tests excavated
+
+Negative
+
+n/a
+
+n/a
+
+n/a
+
+No shovel tests excavated
+due to existing pipelines
+and pipeline facility
+
+Negative
+
+10YR 5/2 Grayish
+Brown Sand (0-10
+cmbs)
+
+10YR 6/3 Pale Brown
+Sand mottled with
+7.5YR 7/6 Reddish
+Yellow Loamy Sand
+(10-30 cmbs)
+
+n/a
+
+Terminated at 30cmbs
+due to compact soils
+
+8”-DP-13/14
+
+1
+
+10YR 4/2 Dark Grayish 10YR 6/2 Light Brown- 10YR 5/4 Yellowish
+Terminated at 30cmbs
+Brown Sandy Loam ish Gray Loamy Sand Brown Loamy Sand (20due to roots
+(0-10 cmbs)
+(10-20 cmbs)
+30 cmbs)
+
+8”-DP-15/16
+
+1
+
+Negative
+
+10”-DP-02
+
+1
+
+Negative
+
+10YR 5/4 Yellowish
+Brown Sandy Loam
+(0-30 cmbs)
+
+n/a
+
+n/a
+
+Terminated at 30cmbs
+due to roots
+
+10”-DP-03
+
+1
+
+Negative
+
+10YR 5/4 Yellowish
+Brown Sandy Loam
+(0-30 cmbs)
+
+n/a
+
+n/a
+
+Terminated at 30cmbs
+due to roots
+
+10”-DP-04
+
+1
+
+Negative
+
+10YR 5/6 Yellowish
+Brown Sandy Loam
+(0-10 cmbs)
+
+10YR 6/4 Light Yellowish Brown Sandy
+Loam (10-25 cmbs)
+
+n/a
+
+Terminated at 25cmbs
+due to roots
+
+10”-DP-05
+
+1
+
+Negative
+
+10YR 5/6 Yellowish
+Brown Sandy Loam
+(0-20 cmbs)
+
+10YR 6/4 Light Yel- 7.5YR 4/6 Strong Brown
+lowish Brown Loamy Clayey Loam (40-50
+Sand (20-40 cmbs)
+cmbs)
+
+10”-DP-06
+
+1
+
+Negative
+
+10YR 5/4 Yellowish
+10YR 5/3 Brown Sandy
+Brown Loamy Sand
+Loam (0-20 cmbs)
+(20-50 cmbs)
+
+n/a
+
+n/a
+
+10”-DP-06
+
+2
+
+Negative
+
+10YR 5/4 Yellowish
+10YR 5/3 Brown Sandy
+Brown Loamy Sand
+Loam (0-20 cmbs)
+(20-50 cmbs)
+
+n/a
+
+n/a
+
+10”-DP-06
+
+3
+
+Negative
+
+10YR 5/4 Yellowish
+10YR 5/3 Brown Sandy
+Brown Loamy Sand
+Loam (0-20 cmbs)
+(20-50 cmbs)
+
+n/a
+
+n/a
+
+10”-DP-07
+
+1
+
+Negative
+
+10YR 5/4 Yellowish
+Brown Sandy Loam
+(0-20 cmbs)
+
+10YR 6/4 Light Yel- 7.5YR 5/6 Strong Brown
+lowish Brown Loamy Loamy Sand (40-50
+Sand (20-40 cmbs)
+cmbs)
+
+n/a
+
+10”-DP-08
+
+1
+
+Negative
+
+10YR 5/4 Yellowish
+Brown Sandy Loam
+(0-20 cmbs)
+
+10YR 6/4 Light Yel- 7.5YR 5/6 Strong Brown
+lowish Brown Loamy Loamy Sand (40-50
+Sand (20-40 cmbs)
+cmbs)
+
+n/a
+
+10”-DP-16-19
+
+10”-DP-16-19
+
+1
+
+2
+
+n/a
+
+Negative
+
+7.5YR 5/6 Strong
+Brown Sandy Loam
+(0-15 cmbs)
+
+7.5YR 4/6 Strong
+Brown Sandy Loam
+mottled with 15%
+7.5YR 6/6 Reddish
+Yellow Sandy Loam
+(15-30 cmbs)
+
+Negative
+
+10YR 5/4 Yellowish
+Brown Sandy Loam
+(0-15 cmbs)
+
+10YR 6/4 Light Yellowish Brown Sandy
+Loam (15-40 cmbs)
+
+10YR 7/3 Very Pale
+Brown Sandy Loam
+mottled with 20% 7.5
+YR 5/6 Srong Brown
+Loamy Sand (40-50
+cmbs)
+
+n/a
+
+n/a
+
+Terminated at 25cmbs
+due to disturbance
+
+n/a
+
+Shovel test placement at
+request of landowner
+
+n/a
+
+Shovel test placement at
+request of landowner;
+terminated at 25cmbs
+due to disturbance
+
+n/a
+
+n/a
+
+10”-DP-20/21
+
+1
+
+Negative
+
+7.5YR 5/6 Strong
+Brown Sandy Loam
+(0-10 cmbs)
+
+7.5YR 4/6 Strong
+Brown Sandy Loam
+mottled with 7.5YR
+6/6 Reddish Yellow
+Sandy Loam (10-25
+cmbs)
+
+10”-DP-20/21
+
+2
+
+Negative
+
+10YR 5/4 Yellowish
+Brown Sandy Loam
+(0-20 cmbs)
+
+10YR 6/4 Light Yellowish Brown Sandy
+Loam (20-50 cmbs)
+
+7.5YR 5/6 Strong
+Brown Sandy Loam
+(0-10 cmbs)
+
+7.5YR 4/6 Strong
+Brown Sandy Loam
+mottled with 7.5YR
+6/6 Reddish Yellow
+Sandy Loam (10-25
+cmbs)
+
+10”-DP-20/21
+
+3
+
+Negative
+
+12”-DP-22/23
+
+1
+
+Negative
+
+10YR 5/4 Yellowish
+10YR 6/4 Light YelBrown Loamy Sand (0- lowish Brown Loamy
+30 cmbs)
+Sand (30-50 cmbs)
+
+n/a
+
+Terminated at 30cmbs
+due to disturbance
+
+Marion County
+10YR 5/1 Gray Loamy
+10YR 5/4 Yellowish Sand mottled with 15%
+Brown Loamy Sand 10YR 6/4 Light Yellow(10-30 cmbs)
+ish Brown Loamy Sand
+(30-50 cmbs)
+
+10”-DP-09
+
+1
+
+Negative
+
+10YR 4/2 Dark Grayish
+Brown Sandy Loam
+(0-10 cmbs)
+
+10”-DP-09
+
+2
+
+Negative
+
+10YR 4/2 Dark Grayish
+Brown Sandy Loam
+(0-30 cmbs)
+
+n/a
+
+n/a
+
+Terminated at 30cmbs
+due to roots
+
+10”-DP-09
+
+1
+
+Negative
+
+10YR 5/2 Grayish
+Brown Sandy Loam
+(0-40 cmbs)
+
+10YR 5/4 Yellowish
+Brown Sandy Loam
+(40-50 cmbs)
+
+n/a
+
+n/a
+
+10”-DP-09
+
+2
+
+Negative
+
+10YR 5/2 Grayish
+Brown Sandy Loam
+(0-15 cmbs)
+
+10YR 6/4 Light Yellowish Brown Loamy
+Sand (15-30 cmbs)
+
+n/a
+
+Terminated at 30cmbs
+due to roots
+
+10”-DP-10
+
+1
+
+Negative
+
+10YR 4/2 Dark Grayish
+Brown Sandy Loam
+(0-5 cmbs)
+
+10YR 5/4 Yellowish
+Brown Loamy Sand
+(5-35 cmbs)
+
+n/a
+
+Terminated at 35cmbs
+due to roots
+
+10”-DP-10
+
+2
+
+Negative
+
+10YR 5/4 Yellowish
+Brown Loamy Sand (020 cmbs)
+
+10YR 5/6 Yellowish
+Brown Loamy Sand
+(20-50 cmbs)
+
+n/a
+
+n/a
+
+10”-DP-10
+
+1
+
+Negative
+
+10YR 5/4 Yellowish
+Brown Loamy Sand (020 cmbs)
+
+10YR 5/6 Yellowish
+Brown Loamy Sand
+(20-50 cmbs)
+
+n/a
+
+n/a
+
+10”-DP-11
+
+1
+
+Negative
+
+10YR 4/2 Dark Grayish
+10YR 5/4 Yellowish
+10YR 5/1 Gray Sandy
+Brown Sandy Loam
+Brown Loamy Sand (30Loam (10-30 cmbs)
+(0-10 cmbs)
+50 cmbs)
+
+10”-DP-12
+
+1
+
+Negative
+
+10YR 5/4 Yellowish
+Brown Sandy Loam
+(0-20 cmbs)
+
+10YR 6/4 Light Yellowish Brown Loamy
+Sand (20-50 cmbs)
+
+n/a
+
+n/a
+
+10”-DP-13
+
+1
+
+Negative
+
+10YR 5/4 Yellowish
+Brown Sandy Loam
+(0-20 cmbs)
+
+10YR 6/4 Light Yellowish Brown Loamy
+Sand (20-50 cmbs)
+
+n/a
+
+n/a
+
+10YR 6/1 Gray Silty
+Sand mottled with
+7.5YR 5/6 Strong
+Brown (5-20 cmbs)
+
+n/a
+
+Terminated at 20cmbs
+due to water
+
+n/a
+
+n/a
+
+No shovel tests excavated
+due to functioning valve
+center and facility
+
+n/a
+
+n/a
+
+10”-DP-14 and 15
+
+1
+
+Negative
+
+10YR 4/3 Brown Sandy
+Loam (0-5 cmbs)
+
+12”-DP-01
+
+No shovel
+tests excavated
+
+Negative
+
+n/a
+
+12”-DP-02
+
+1
+
+Negative
+
+10YR 4/2 Dark Grayish 10YR 6/4 Light Yel10YR 5/3 Brown Loamy
+Brown Sandy Loam lowish Brown Loamy
+Sand (40-50 cmbs)
+(0-20 cmbs)
+Sand (20-40 cmbs)
+
+n/a
+
+12”-DP-03
+
+1
+
+Negative
+
+10YR 4/2 Dark Grayish 10YR 6/4 Light Yel10YR 5/3 Brown Loamy
+Brown Sandy Loam lowish Brown Loamy
+Sand (30-50 cmbs)
+(0-10 cmbs)
+Sand (10-30 cmbs)
+
+n/a
+
+12”-DP-04
+
+1
+
+Negative
+
+12”-DP-05
+
+No shovel
+tests excavated
+
+12”-DP-06/07
+
+1
+
+10YR 5/4 Yellowish
+Brown Sandy Loam
+(0-20 cmbs)
+
+10YR 6/4 Light Yellowish Brown Loamy
+Sand (20-50 cmbs)
+
+n/a
+
+n/a
+
+Negative
+
+n/a
+
+n/a
+
+n/a
+
+No shovel tests excavated
+due to existing pipeline
+corridor and modern
+gravel driveway
+
+Negative
+
+10YR 4/2 Dark Grayish
+Brown mottled with
+7.5YR 4/6 Strong
+Brown Sandy Loam
+(0-10 cmbs)
+
+n/a
+
+n/a
+
+Terminated at 10 cmbs
+due to water
+
+12”-DP -MP 29.28
+Exposure
+
+1
+
+Negative
+
+12”-DP-10/11
+
+1
+
+Negative
+
+Total Shovel Tests
+Excavated
+
+41
+
+10YR 5/4 Yellowish
+Brown Sandy Loam
+(0-20 cmbs)
+
+10YR 6/4 Light Yel- 7.5YR 4/6 Strong Brown
+lowish Brown Loamy Loamy Sand (40-50
+Sand (20-40 cmbs)
+cmbs)
+
+n/a
+
+10YR 5/6 Yellowish
+10YR 6/4 Light Yel- 7.5YR 4/6 Strong Brown
+Brown Loamy Sand (0- lowish Brown Loamy Loamy Sand (40-50
+20 cmbs)
+Sand (20-40 cmbs)
+cmbs)
+
+n/a
+
+

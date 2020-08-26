@@ -1,0 +1,1753 @@
+AR Consultants, Inc.
+
+Archaeological and Environmental Consulting
+
+11020 Audelia Road, Suite C105, Dallas, TX 75243
+Phone:
+(214) 368-0478
+Fax:
+(214) 221-1519
+E-mail: arcdigs@aol.com
+
+AN ARCHAEOLOGICAL SURVEY
+OF THE PROPOSED GRAND PRAIRIE
+
+LYNN CREEK PARK
+DEVELOPMENT PROJECT,
+TARRANT COUNTY, TEXAS
+
+Cody S. Davis, MA
+Becky Shelton, MA
+Cameron Turley, BS
+and
+Nick Coleman, BA
+
+submitted to:
+
+TEAGUE NALL AND PERKINS
+1100 Macon Street
+Fort Worth, Texas 76102
+AR CONSULTANTS, INC.
+11020 Audelia Road, Suite C105
+Dallas, Texas 75243-9085
+Cultural Resources Report 2010-14
+April 30, 2010
+
+HISTORICAL BUILDINGS ARCHAEOLOGY
+
+NATURAL SCIENCES
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+AN ARCHAEOLOGICAL SURVEY
+OF THE PROPOSED GRAND PRAIRIE
+
+LYNN CREEK PARK
+DEVELOPMENT PROJECT,
+TARRANT COUNTY, TEXAS
+
+Cody S. Davis, MA
+Becky Shelton, MA
+Cameron Turley, BS
+and
+Nick Coleman, BA
+
+submitted to:
+
+TEAGUE NALL AND PERKINS
+1100 Macon Street
+Fort Worth, Texas 76102
+AR CONSULTANTS, INC.
+11020 Audelia Road, Suite C105
+Dallas, Texas 75243-9085
+Cultural Resources Report 2010-14
+April 30, 2010
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+i
+
+ABSTRACT
+The City of Grand Prairie is proposing to develop a 180-acre tract along
+the shore of Joe Pool Lake in Tarrant County, Texas into a recreational
+park. The property is situated on the west side of Lake Ridge Parkway and
+2400 feet east of SH 360. All of the property proposed to be developed is
+owned by the US Army Corps of Engineers. The purpose of this
+investigation was to determine if the 180-acre study area contained
+significant historic or prehistoric cultural resources. The study area is
+located in an upland setting above Lynn Creek and Joe Pool Lake. Based
+on the previous investigations conducted for Joe Pool Lake, the study area
+had potential for containing historic and prehistoric sites in addition to two
+previously recorded historic sites. The first site 41TR57 is a historic
+cemetery that dates to the last half of the 19th century will be avoided. The
+second site, 41TR220, was recorded during the Lynn Creek Parkway study
+dates to the mid 20th century and was revisited during this study. The site
+boundaries were expanded and several additional features were recorded.
+Historic site 41TR237 was recorded on the south side of the abandoned
+Mansfield Road that bisects the study area. The site contained two
+foundations, a well, a concrete trough and trash scatters, all of which dated
+to the mid 20th century. Due to poor contextual integrity, sites 41TR220
+and 41TR237, are not recommended for listing on the National Register of
+Historic Places. Based upon the survey results, AR Consultants, Inc.
+recommends that further cultural resource investigations are unwarranted
+and that the City of Grand Prairie be allowed to proceed with the park
+development.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+ii
+
+ACKNOWLEDGEMENTS
+AR Consultants wishes to thank everyone involved in the Lynn Creek Park project and in
+the report preparation for his or her assistance. While we accept responsibility for the
+content of the report we were assisted by numerous people who demonstrated their
+interest in the history and prehistory of Grand Prairie, Tarrant County and Texas.
+First, we want to thank the City of Grand Prairie, Engineering Department employees for
+asking us to carry out this investigation and for helping gain access and information to
+complete the investigation. In particular, we want to thank Romin Khavari, for his help in
+understanding the past and future impacts of the park. Additionally, we would Teague
+Nall and Perkins, for assisting with the planning and preparation of the fieldwork and
+help with understanding the project. Specifically we would like to thank Sol Stigall and
+Scott Wilhelm for their input and help.
+In particular, we want to thank the various archivists who provided us with information
+about the history of the sites and properties and their knowledge of Grand Prairie and
+Tarrant County history. Susan Pritchett of the Tarrant County Archives shared with us
+her knowledge and experiences regarding the sites and the area. Finally, we would like to
+thank US Corps of Engineers for their help in expediting the right-of-entry for the survey
+and for all their input in the planning of the project and the survey. Specifically, we
+would like to thank, Brian Phelps and Dan McGregor.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+iii
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+TABLE OF CONTENTS
+Abstract ...â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦
+Acknowledgementsâ¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦.
+Table of Contents â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦
+List of Figures â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦.â¦â¦
+List of Tablesâ¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦.â¦â¦..
+Introduction â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..â¦..â¦â¦
+Natural Environmentâ¦â¦â¦â¦â¦â¦â¦â¦â¦.. â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦.â¦â¦
+Cultural Historical Backgroundâ¦.....â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..â¦.â¦..
+Research Design and Methodology..â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..
+Results.â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦
+Recommendations.â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..
+References Cited...â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..
+Appendix A
+Shovel Test Descriptionsâ¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦.
+Appendix B
+Map of Site Locationsâ¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦.â¦â¦.
+Appendix C
+Concurrence Letters..â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦.â¦â¦.
+
+i
+ii
+iii
+iii
+iii
+1
+4
+5
+8
+9
+23
+24
+26
+30
+32
+
+LIST OF FIGURES
+Figure 1.
+Figure 2.
+Figure 3.
+Figure 4.
+Figure 5.
+Figure 6.
+Figure 7.
+Figure 8.
+Figure 9.
+Figure 10.
+Figure 11.
+
+Study area shown on portions of the Arlington and Britton,
+TX 7.5â USGS topographic map.â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦....â¦.
+The study area shown on a portion of the Arlington,
+TX 7.5â USGS topographic map and on a modern aerialâ¦...
+Northwestern portion of the study area near Lynn Creek,
+showing the marshy wetlands. View is to the westâ¦..â¦â¦â¦â¦
+Plan map of 41TR220â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦.â¦.â¦.
+Plan map of the N. B. Anderson site (41TR237)â¦â¦â¦â¦..â¦â¦
+Southeast corner of the house foundations. View is to
+the northwestâ¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦â¦..â¦.â¦â¦.
+Plan map of the N. B. Anderson site house foundationâ¦â¦â¦...
+Plan map of the barn foundation at the N. B. Anderson site. ......
+Remains of the barn. View is to the southeastâ¦â¦â¦â¦â¦....
+Circular concrete tank. View is to the northeastâ¦â¦â¦.â¦â¦.
+Wilson Cemetery, site 41TR57, in present conditionâ¦â¦â¦.
+
+2
+9
+10
+13
+15
+16
+16
+17
+18
+18
+21
+
+LIST OF TABLES
+Table 1.
+Table 2.
+
+Site 41TR220 revisit shovel testsâ¦â¦â¦â¦â¦â¦â¦â¦.â¦â¦â¦....
+Shovel tests for site 41TR237â¦â¦â¦â¦â¦â¦â¦â¦â¦....â¦â¦.
+
+12
+19
+
+r-arc Lynn Creek Park Development 100301
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+1
+
+INTRODUCTION
+
+The City of Grand Prairie is proposing to develop a 180-acre tract along the shore of Joe
+Pool Lake in Tarrant County, Texas into a recreational park. The property is situated on
+the west side of Lake Ridge Parkway and 2400 feet east of SH 360 (Figure 1). The
+archaeological survey was contracted by Teague Nall and Perkins, who is handling the
+project planning and engineering for the City of Grand Prairie. The purpose of the
+archaeological survey was to determine if cultural materials were present, and, if so,
+make recommendations about their significance and how they might be impacted.
+The cultural resource investigation was required because all of the property proposed to
+be developed is owned by the US Army Corps of Engineers. Relevant federal legislation
+includes the National Historic Preservation Policy Act of 1966, as amended (PL-96-515),
+the National Environmental Act of 1969 (PL-90-190), the Archeological and Historical
+Preservation Act of 1974, as amended (PL-93-291), the Clean Water Act, as amended
+PL92500 and the Rivers and Harbors Act of 1899. The USCOE required that a cultural
+resource study be conducted as part of the Environmental Assessment, and the
+Archeology Division of the Texas Historical Commission will review this report as the
+Section 106 review agency.
+This report is written in accordance with the guidelines for reports adopted by the
+Archeology Division of the Texas Historical Commission, and developed by the Council
+of Texas Archeologists (n.d.). The following report presents a brief description of the
+natural setting of the project area, followed by a discussion of the cultural history of
+North Central Texas. A chapter on the research design and methodology employed in the
+investigation is then followed by the results of the field investigation. The report
+concludes with recommendations followed by the references cited.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+Figure 1.
+
+2
+
+Study area shown on portions of the Arlington and Britton, TX 7.5â USGS
+topographic map.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+3
+
+Administrative Information:
+Sponsor:
+Review Agency:
+Principal Investigator:
+Field Date(s):
+Field Crew:
+Acres Surveyed:
+Sites Investigated:
+Prehistoric:
+Historic:
+Curation:
+
+City of Grand Prairie with Teague Nall and Perkins
+handling the environmental permitting
+Archeology Division of the Texas Historical Commission
+and the Fort Worth District, U.S. Army, Corps of Engineers
+Cody S. Davis, MA
+March 16, 18 and 19, 2010
+Brett Lang, Nick Coleman, Cameron Turley, Rebecca
+Shelton and Cody S. Davis
+approximately 180
+None
+41TR237; revisited 41TR57 and 41TR220
+No artifacts collected
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+4
+
+NATURAL ENVIRONMENT
+The project area lies near the ecotone of the Eastern Cross Timbers and the Blackland
+Prairie of North Central Texas, just east of the Fort Worth Prairie (Dyksterhuis 1946:
+Figure 1). The Blackland Prairie, in which the study area is situated, is characterized as
+being grasslands with rolling topography and the Eastern Cross Timbers contain dense
+oak woodlands in the bottomlands and on the upland slopes (Prikryl 1990:12-13). The
+western half of the study area is underlain by Late Cretaceous Eagle Ford limestone,
+which is comprised of an approximately 200 to 300 foot thick layer of Cretaceous-era
+shale, sandstone and limestone (Bureau of Economic Geology: 1975). The eastern half is
+underlain by Pleistocene-aged Fluviatile terrace deposits comprised of gravel, sand, silt
+and clay.
+Soils within the study area are the Houston Black-Navo-Heiden Soils Association, which
+consists of gently sloping upland clays and loams (Ressel 1981:General Soils Map). A
+variety of soils are present with the major soil types being Navo clay loam with 1 to 3
+percent slopes and Silawa fine sandy loam, 3 to 8 percent slope. Along Lake Ridge
+Parkway on the eastern boundary, Heiden clay, Wilson clay loam and Bastsil fine sandy
+loam are mapped. Lynn Creekâs channel is mapped as containing frequently flooded Frio
+silty clay, but the channel is just outside the study area (Ressel 1981:Sheet 46). Lynn
+Creek is mapped as being perennial on the USGS map but as intermittent on the soils
+book for Tarrant County (Ressel 1981:Sheet 46). Lynn Creek is a first order tributary of
+Walnut Creek, which is a tributary of Mountain Creek that flows directly into the West
+Fork of the Trinity River.
+These soils permit efficient water infiltration, allowing tree roots to penetrate easily, and
+provide more moisture to plants (Diggs, Lipscomb, and OâKennon 1999:46). Due to the
+soil permeability, the Eastern Cross Timbers physiographic region area is biotically
+diverse. In addition to blackjack and post oaks, other woody species include cedar elm,
+hackberry, pecan, juniper and mesquite trees. Woody trees are not the only vegetation in
+this thin band of forest surrounded by prairies; there is also a diverse selection of plants
+that contribute to the dense brush and open savannahs and provided many resources to
+early inhabitants (Diggs et al. 1999:46). The Blackland Prairie has scattered trees found
+on high prairies and brushy prairies along the edge of the Cross Timbers. The climate of
+Tarrant County is typically mild and is characterized as warm and humid. The average
+high temperature is 96Ë in July and the average low temperature is 35Ë in January (Texas
+Almanac 1999:264). Tarrant County also averages around 32 inches of rain per year and
+has a growing season of 230 days (Texas Almanac 1999:264).
+Fields of Uvalde Gravel (Byrd 1971) have been recorded in upland settings between the
+valleys of the Elm Fork and West Fork on upland divides (Menzer and Slaughter
+1971:217). Mapped locations of previously recorded beds of Ogallala gravels are on
+upland divides to the north, south, east and west of the study area (McGregor 1995:Figure
+4). These gravels are likely to be an eastward extension of Ogallala gravels (Banks
+1990:56) and similar gravel fields may be present in the study area, although not shown
+by McGregor.
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+5
+
+CULTURE HISTORY
+Culture History
+Prehistoric occupation within North Central Texas dates before 8500 BP, and is identified
+in the archaeological record by distinctive spear points such as Clovis, Dalton and
+Plainview. These types of artifacts have been recovered from deeply buried floodplain
+deposits along the Upper Elm Fork of the Trinity River in North Central Texas (Crook
+and Harris 1957; Ferring 2001). Daniel Prikryl reported that in the Lower Elm Fork area
+most of the Paleoindian sites are located on the terraces above the floodplain (1990:19).
+The Early Archaic period 8500-6000 BP coincides with the onset of a drying period in
+North Central Texas that marks the termination of the Pleistocene period, and isolated
+Early Archaic components have been reported in the area. The Middle Archaic period
+6000-3500 BP saw stabilization in the environment that is reflected in current climate
+conditions of the oak-savannah and grasslands that are present as the Eastern Cross
+Timbers. Middle Archaic sites are typically located on terraces adjacent to the Elm Fork
+of the Trinity River rather than on tributary terraces (Prikryl 1990:73).
+The population in North Central Texas as shown by site numbers saw a significant
+increase during the Late Archaic 3500-1250 BP. A wetter environment contributed to
+expansion of the Eastern Cross Timbers woodlands, and sites from this period are
+typically found on perennial tributaries with a small density along the Elm Fork. During
+the Late Archaic, there was a significant increase in the use of quartzite for the
+manufacture of Gary, Ellis, Elam and Dallas projectile points, which indicates an increase
+in the use of local natural resources (Prikryl 1990:76).
+Sedentary life ways increased during the Late Prehistoric I period from 1250-750 BP.
+The appearance of ceramics, the bow and arrow and houses in the archaeological record
+coincided with a drier climate shift. Site density decreases overall during this period. The
+percentage of quartzite tools decreases from the Late Archaic, and diagnostics from this
+period include expanded stem arrow points such as Scallorn and Alba (Prikryl 1990:7983). By the Late Prehistoric II (750-250 BP), there is an increase in buffalo bones in site
+deposits and a change in the tool kit with the appearance of Harrell, Fresno and Washita
+arrow points, along with scrapers and flake drills. Sites from this time period are typically
+located on sandy terraces above the flood plains of major tributaries (Prikryl 1990:80).
+Very little archaeological evidence of historic Native American occupation has been
+found in North-Central Texas. This is a pattern seen throughout much of Texas and is
+possibly due to the Native Americans migrating out of the area because they were unable
+to adapt to the changing climate (Skinner 1988:103). Yet archival documents and historic
+accounts in North Central Texas demonstrate that Native Americans were still present in
+the area into the late 19th century.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+6
+
+The earliest Anglo settlements in Tarrant County were Bird's Fort, established around
+1840, Lonesome Dove and Johnson Station, which were both settled in 1845. Lonesome
+Dove, located near present-day Grapevine, was the first permanent settlement in Tarrant
+County (Garrett 1972:55). Settlers, however, had been steadily arriving in the county
+during those 20 years. Many came through the auspices of Peters Colony land grants,
+although only 160 families and single pioneers took advantage of the grants (Garrett
+1972:57).
+The Civil War took its toll on Tarrant County's population, as most of the able-bodied
+men left to fight for the Confederacy. The county's renaissance was motivated by growth
+of the cattle industry and the arrival of the railroad. By 1870, it is estimated that 300,000
+head of cattle had been driven through Fort Worth. The railroad reached Dallas in the
+early 1870s, and by 1876, it had reached Fort Worth. The community of Grand Prairie
+was organized in 1863. The original name of the community was Deckman but the name
+was changed to Grand Prairie to agree with the Texas Pacific Railwayâs name for the
+community in 1873. Historical accounts suggest a lady had stepped off the train and
+stated, âWhat a grand prairie!â The town continued to grow, especially with road
+improvements and bridges constructed between Dallas and Fort Worth. In addition, the
+construction of Hensley Field in 1928 added to the economic base and the field was used
+during for a flight school in World War II. The economic base shifted from agriculture
+and ranching to manufacturing which has allowed the city to continue to grow today
+(Maxwell 2007:1-3).
+Previous Investigations
+Archaeological survey and testing has been conducted east and southeast of the study
+area. Southern Methodist University (Skinner and Connors 1979) conducted an
+archaeological survey of the proposed Lakeview Lake, which is now known as Joe Pool
+Lake. Twenty-five historic and seventeen prehistoric sites were recorded along the
+perennial Mountain and Walnut creeks. Further research and testing was conducted
+during 1979 and 1980 by Southern Methodist University (Raab et al. 1982). Testing was
+followed by intensive excavation that was conducted by Southern Methodist University
+(Peter and McGregor 1988) at six prehistoric sites (41DL 148, 149, 184, 189, 199 and
+41TR37). As a result of this testing, the Cobb-Pool site (41DL148) was further
+investigated and revealed a prehistoric site that contained three house structures,
+Caddoan-looking pottery and a subsistence base that was dominated by maize. The
+Bagget Branch site (41DL149), also prehistoric, appeared to contain a more âPlains likeâ
+lithic assemblage.
+Further historical research was conducted by Jurney and others (1988) utilizing
+ethnoarchaeological investigations of the historic sites recorded in and around Joe Pool
+Lake. Historic sites at Joe Pool Lake range from the mid 19th through the mid 20th
+centuries and are typically farmsteads. Many of these sites are located near historic
+transportation routes and in an upland setting near creeks.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+7
+
+Two archaeological sites, 41TR220 and 41TR57, are within the study area (TASA 2010).
+Residences are shown on Sam Streetâs 1895 map of Tarrant County within and adjacent
+to the study area. Two residences are shown adjacent to Mansfield Road (a.k.a. Ragland
+Road) just west of the intersection of Mansfield Road and Lake Ridge Parkway on the
+Soil Conservation Serviceâs 1920 soils map for Tarrant County (USDA 1920). The
+residence on the north side of the abandoned Mansfield Road, was recorded as site
+41TR220 in 2008 during a survey for Lynn Creek Parkway as part of a previous project
+(Todd 2008). The site was described as containing a trash scatter, a concrete trough, a
+well house and a windmill pipe.
+During the survey for Joe Pool Lake a historic grave (site 41TR57), was recorded north
+of Lynn Creek in the southern section of the study area (Skinner and Connors 1979:35).
+When recorded as an archaeological site, the cemetery consisted of a granite grave
+marker encircled by a metal picket fence. The marker reads âOPHELIA E. WEST, wife
+of CHAS. N. WILSON 1853-1872.â The marker was erected in the 1900s by local
+residents and this is claimed to be the location where Ophelia West died.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+8
+
+RESEARCH DESIGN & METHODOLOGY
+Research Design
+The study area is located in the uplands along Lynn Creek near the headwaters of the
+watershed that eventually flows into the West Fork of the Trinity River. Despite this
+distance from larger permanent water resources, the area had potential for both
+prehistoric and historic cultural resources. Two research questions below were developed
+to examine the archaeological potential of the study area.
+Previous investigations show that the majority of prehistoric sites recorded in the area are
+concentrated along Mountain and Walnut creeks, which are perennial. Yet, prehistoric
+sites are known to exist in an environmental setting similar to that in which the study
+project is located. Studies conducted approximately 15 miles north of the study area on
+the west side of the DFW Airport along Bear Creek and its tributaries demonstrated that
+prehistoric sites could be found high up in the watershed along intermittent tributaries of
+perennial creeks (Shelton, Davis and Skiner 2008). Given that the study area is bordered
+on the south by intermittent Lynn Creek, there is potential to find evidence of prehistoric
+occupation. Due to the small size of the water drainages, such sites are more likely to be
+temporary hunting camps and would consist of artifact scatters.
+The study area is near a historic transportation route and residences are plotted along
+Mansfield Road, as shown on the 1920 Soil Conservation Serviceâs map and the 1895
+Sam Streetâs map of Tarrant County. Multiple structures are plotted on the north and
+south sides of Mansfield Road on the 1959 USGS topographic map. The northern cluster
+of structures has been recorded as site 41TR220, but the 1959 USGS map shows at least
+four structures on the south side of the Mansfield Road. These site locations would be
+consistent with historic sites recorded at Joe Pool Lake. Historic sites could consist of
+structures and trash scatters. Since the study area has been continuously occupied since
+the 19th century, historic structures are likely to be on the located in the uplands above the
+creek. Additionally, historic artifact scatters are likely to be dumped along any drainages.
+Methodology
+The field teams walked parallel transects spaced 30 meters apart and made thorough field
+notes about ground exposure, soil types, and disturbed areas. Shovel tests were excavated
+in relatively undisturbed areas, where ground visibility was less than 30 percent and slope
+was less than 20 percent. Each was excavated to the bottom of Holocene deposit
+according to THC standards (n.d). All of the area was defined by an initial pedestrian
+survey. Shovel tests averaged 30 cm in diameter, and were supplemented by an auger.
+The clay fill from the shovel tests was inspected visually and broken into smaller chunks
+in order to determine if cultural materials were present. Sandy soils from the shovel tests
+were screened through Â¼â hardware cloth. Shovel test matrices were described on the
+basis of texture and color. The Munsell Soil Color Chart was used to identify specific soil
+colors in each shovel test. Photographs were taken throughout the survey area using a
+Fuji FinePix J38 12.2 mega pixel digital camera. Shovel test locations were recorded with
+a handheld Garmin Colorado 400t GPS unit.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+9
+
+RESULTS
+This chapter is separated into three sections with the description of the study area
+followed by the survey results. Shovel tests are described briefly in the text and are
+detailed in Appendix A. Site discussions and conclusions end the chapter. Site locations
+are shown in Appendix B.
+Survey Area
+The study area is primarily an upland setting with the western portion along Lynn Creek
+being a slope setting along the creek channel (Figure 2). Vegetation in the study area was
+consistent and contained junipers, mesquites and greenbriar interspersed with oaks, bois
+dâarcs and hackberries. The northern boundary parallels an existing pipeline easement
+and the western portion is bisected by a large transmission line easement. The western
+boundary of the study area approaches Lynn Creek, but has a 5 to 8 meter drop to the
+creek and is outside the study area. The northwest and western portions along Lynn
+Creek contained a marshy wetland area with numerous pools of water (Figure 3). Ground
+visibility throughout the entire study was between 0 and 30 percent. In the southern
+section, an intermittent tributary of Lynn Creek runs north to southwest, but the
+confluence has been inundated by the lake water. This drainage channel was 1 to 3 meters
+wide and 50 cm to 2 meters high and was full of modern debris from past floods. The
+study area is bisected by the study done for Lynn Creek Parkway (Todd 2008), which is
+shown on Figure 2. Additionally; an abandoned asphalt road runs from east to west then
+turns south and continues into the lake. No Uvalde gravels were noted in the study area,
+and the gravels observed were limestone and sandstone.
+
+Figure 2.
+
+The study area shown on a portion of the Arlington, TX 7.5â USGS
+topographic map and on a modern aerial.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+Figure 3.
+
+10
+
+Northwestern portion of the study area near Lynn Creek, showing the
+marshy wetlands. View is to the west.
+
+Survey Results
+Prior to shovel testing, the field crew walked parallel transects in order to identify any
+cultural materials that might have been exposed on the surface. Shovel testing was
+conducted throughout the entire study area. The field teams surveyed from east to west in
+linear transects shovel testing on average of every 100 meters. A total of nine east-west
+transects were walked and 65 shovel tests were excavated (Appendix A), seventeen of
+these are associated with sites 41TR220 and 41TR237. The northernmost transect is T1
+and the southernmost transect is T9 and is closest to the lake edge.
+Seven shovel tests were excavated along T1. Topsoil along this transect was very dark
+brown sandy clays to black clays that ranged in depth between 25 and 80 cm below the
+surface (cmbs). The C-horizon along this transect varied from dark grayish brown to
+strong brown sandy clay or clay. Most of them were mottled between the two colors and
+some has as much as 50 percent calcium carbonate. T2 was to the south and contained 9
+shovel tests. Shovel tests results and soils in this transect were fairly consistent with T1.
+T3 and T4 included 8 shovel tests per line. Topsoils ranged from very dark grayish brown
+to black sandy loams and sandy clays to clay. The C-horizon was dark gray or mottled
+brown and strong brown clay. T4 crossed through site 41TR220 and two negative shovel
+tests on this transect were used to define the northern boundary of the site. These are
+discussed in the following section. Only 3 shovel tests were excavated along T5 as it
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+11
+
+paralleled the previously studied route for Lynn Creek Parkway. These shovel tests were
+similar in depth and soil color as recorded in T3 and T4.
+Eight shovel tests were excavated along T6, which ran through site 41TR237. On the
+eastern edge of the site along the intermittent drainage, two trash scatters were identified
+and are associated with site 41TR237. The site is discussed in the following section. The
+soils throughout this transect were consistent with the previous transects. Five shovel
+tests were excavated along T7, while T8 had 3 and T9 had 2 shovel tests. The soils
+became yellowish red to yellowish brown in T8 and T9. All of the shovel tests not
+associated with sites were negative for cultural materials. Additionally, all areas outside
+the site boundaries contained no cultural materials on the surface.
+Site Descriptions
+Site 41TR220
+Historic site 41TR220 was initially recorded during a survey for the Lynn Creek Parkway
+(Todd 2008). The portion of the site recorded included a trash scatter, a concrete trough, a
+well house, and a windmill pipe. At the time of the 2008 survey, it was noted that the
+Arlington, TX 7.5â USGS map showed several other mapped structures outside of the
+parkway right-of-way. Under the present study, a site revisit was warranted to determine
+the extent of the site boundaries, to determine if any standing structures were present, and
+to confirm date range of occupation for the site. In addition to the pedestrian survey,
+archival research was conducted at the Tarrant County Clerkâs Office, the Tax Assessor
+Office, and the Tarrant County Archives. A review of Samâs Street Map and the 1959
+USGS map was also conducted.
+Site 41TR220 is located in Abstract No. 973-6 in the William Lynn Survey. This tract of
+land is approximately 84 acres. No structures are mapped in the eastern half of the W.
+Lynn Survey tract on the 1893 Samâs Street map where the site is located, yet three
+structures are shown on the 1959 Arlington, Texas USGS map, and one of the boxes is
+hollow indicating an abandoned structure. Construction dates are listed in the Building
+Descriptions for the early part of the 20th century, two sheds in 1900, a residence, a barn
+and two additional sheds in 1905, and two more sheds, one in 1918 and the last in 1920.
+Approximately 71 acres were used for farming, while the remaining 13 were used for
+grazing. A deed search showed that the tract of land changed ownership multiple times
+from 1893 until 1979, when it was ultimately condemned for Joe Pool Lake.
+No record of deed transfers between the William Lynn and Henry Baker were located,
+but it appears that Henry Baker sold the land to C.B. Pool in 1893 (Deed Vol. 92, page
+382). The first two sheds dated 1900 in the Tax Assessorâs records were probably built by
+C.B. Pool who owned the land from 1893 until 1905 (Deed Vol. 230, page 176).
+Construction of four additional structures in 1905 was most likely carried out by M.F.
+Sharp, who owned the tract from 1905 until 1918 (Deed Vol. 578, page 237). It was then
+purchased by G.R. Clayton and he subsequently sold it to Obaria Thomas in 1946 (Vol
+1836, page 102). Obaria Thomas owned the land from 1946 to 1950 (Vol 2195, page
+498). It was sold to Willis H. Hedrick in 1950 (Vol 2195, page 498) and then purchased
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+12
+
+by Paul Massey et ux in 1952, sold to Norman Brinker et ux in 1971. The property was
+condemned for the construction of the lake in late 1979 (Vol. 6865, page 1572).
+Based on the previous investigations and the detail of the archival research, it was
+anticipated that evidence of other 20th structures would be found and would most likely
+date to the first half of the 20th century. In addition to the tank and shed previously
+recorded (Todd 2008), six features and a surface scatter of historic artifacts were recorded
+during the present survey (Figure 4).
+Site 41TR220 was originally described as a historic home site, and features such as
+foundation material, a well house, windmill foundation, as well as several trash scatters
+identified in 2010 confirmed that the property was used as a farmstead. Although the
+archival records mention up to eight structures were constructed on the property between
+1900 and 1920, and that the USGS map shows 3 structures in the vicinity of 41TR220,
+very little evidence remains of these. The area was surveyed and mapped, and a total of
+nine shovel tests was placed around the features to determine the site boundaries (Table
+1). The site covers approximately 2.5 acres, and the property was primarily used for
+grazing.
+Table 1.
+
+Site 41TR220 revisit shovel tests.
+
+ST#
+220-1
+
+Depth (cm)
+0-30
+30-42
+42-50+
+
+220-2
+
+0-50
+50-70+
+
+B1
+
+0-22
+22-28+
+0-28
+28-32+
+0-25
+25-28+
+0-10
+10-16
+16-30+
+0-10
+10-30
+
+B2
+B3
+B4
+B5
+
+Description *
+Black (10YR2/1) sandy clay
+Brown (7.5YR4/4) sandy clay
+Brown sandy clay mottled with 60% red
+(2.5YR4/8) clay
+Black clay with 50% golf ball sized gravels
+Dark brown (10YR3/3) clay mottled with 30%
+strong brown (7.5YR4/6) clay
+Very dark brown (10YR2/2) loamy clay
+Yellowish red (5YR4/6) clay
+Very dark brown loamy clay
+Yellowish red clay
+Very dark brown loamy clay
+Yellowish red clay
+Very dark brown loamy clay intermixed with ash
+Charcoal lens
+Very dark brown loamy clay
+Very dark brown loamy clay intermixed with ash
+Very dark brown loamy clay
+
+Comments/Artifacts
+Clear window glass.
+
+Negative.
+Clear glass and unmarked
+factory bricks.
+Negative.
+Negative.
+Green glass, ceramic,
+brick and charcoal.
+Charcoal.
+
+Barbed wire fences surround the features attributed to structural remains and subsurface
+artifacts (Figure 4). The artifacts include green glass and wire nails, which are both
+hallmarks of 20th century manufacture. The collapsed well house and a concrete trough
+near the north end of the site were originally mapped in 2008. Additional features
+mapped and associated with a probable house location were to the south of these features
+and included a set of upturned concrete stairs, three concrete piers, and a pile of red,
+unmarked manufactured bricks. These features were deemed to be the remains of a house
+as there were also several strips of metal trim used for on the edge of rooflines, rusted
+paint buckets, and two car tires. To the west and southwest of the stairs and concrete
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+13
+
+piers, a small bed of irises and a chinaberry bush were north and south of a low 10â x 15â
+mound near the site core. Shovel testing in the mound (shovel test B4 and B5) identified
+it as a burn pile. Green glass and ash were present, and sterile subsoil was encountered at
+30 cm.
+
+Figure 4.
+
+Plan map of 41TR220.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+14
+
+Three shovel tests were placed behind the remains of the house foundation and two (2201 and B1) contained flat window glass and brick in the first 10 cm, while the third (B3)
+was negative for cultural material. Four additional shovel tests (ST220-2, 4-2, 4, 3 and
+B2) were placed to the east, north and west of the mapped features; these were also
+negative for cultural material. Mansfield Road was determined to be the southern
+boundary of the site, and no cultural material was identified on the surface or in shovel
+testing conducted to the southwest during the 2008 or the present survey.
+It appears that the structures were leveled or removed based on the lack of building
+material left behind. The features identified are all that remain of the homestead, and due
+to poor contextual integrity, no further testing is recommended as the site is not
+recommend as being eligible for listing on the National Register of Historic Places.
+N. B. Anderson Site (41TR237)
+The N. B. Anderson site is located in the southern half of the project area, about 1,600
+feet southwest of Lake Ridge Parkway, then 250 feet south of the overgrown asphalt
+road. Despite the abundant undergrowth, several features were readily distinguished
+during the field crewâs initial visit to the site (Figure 5). The myriad of features include
+foundations, troughs, a small pen, drilled well, trash dump, and several intrasite fences.
+Large-aggregate concrete, wire nails, corrugated steel, glass, asphalt shingles, ceramic
+sherds, metal cans, plastic and rubber items like gaskets and tires, and miscellaneous
+household and automotive wares were represented in the artifact assemblage. In all, the
+site covers an area of approximately 5.74 acres.
+Archival research conducted at the Tarrant County Clerksâ Office, Tax Assessorâs Office,
+and Tarrant County Archives acquired information concerning the ownership history of
+this particular tract of land. As construction of the site occurred in the early 20th century
+(a conclusion discussed later), it was this time period that was the research focus. N.B
+(thought to be Napoleon Bonaparte) Anderson purchased this 93.73 acre tract (Abstract
+961-2) the 23rd day of October, 1889. Anderson is reputed to be one of the original white
+settlers in the Joe Pool Lake area, his family eventually acquired land in excess of 2,000
+acres (Raab et al. 1982:187). Anderson and his heirs were well known for their success in
+ranching, farming, and breeding of horses. The earliest grantee known after Anderson
+was Joe S. Bryant, who purchased the tract sometime before 1965. Given the lack of
+grantor and grantee information between 1889 and 1965, it is impossible to confidently
+state who was responsible for construction at the site. Archival records do suggest that
+the tract passed from grantor to grantee undivided until it was condemned for lake
+construction in September of 1979. The integrity of the tract (That is., because it was not
+sold into separate lots) gives a certain level of confidence to the ultimate conclusion that
+the 5.74 acre site contains the only significant features within the tract.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+Figure 5.
+
+15
+
+Plan map of the N. B. Anderson site (41TR237).
+
+Two concrete foundations were the most prominent features of the site. The larger of the
+two represents the remains of what must have been a residence (Figure 6 and 7). The
+house foundation was on a north-south orientation. The slab (Slab 1) is 24â x 8â, with two
+poured concrete steps to ground level. Threaded bolts set into the slab around the west,
+south, and east sides likely served as anchor points for wooden wall footings. In all
+likelihood, this was the front porch of the farmhouse. A smaller slab (Slab 2), 15â x 5â,
+was in the northeast corner of the feature; again, two concrete steps brought the
+occupants to ground level. This smaller slab was probably the back stoop of the house.
+Twenty-five concrete piers poured 5â to 6âapart fill the 30â gap between the two slabs.
+The bulk of the house once sat atop these piers. The overall dimensions are 28â x 44â, and
+supported a structure of about 1,200 square feet.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+Figure 6.
+
+Southeast corner of the house foundations. View is to the northwest.
+
+Figure 7.
+
+Plan map of the N. B. Anderson site house foundation.
+
+16
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+17
+
+Situated 175â east-southeast of the house remains was a second poured concrete
+foundation that probably once supported a barn (Figures 8 and 9). The âLâ shaped slab, as
+shown, was 31â long with maximum and minimum widths of 30â and 20â, respectively. A
+raised concrete footing separated the foundation into two halves. The northern half of the
+slab was enclosed by this footing, while the southern half âthe area giving the âLâ shapelacked the exterior footing. Much of the southern portion was cracked and was beginning
+to slump as sediments were eroding out from under it. Three wall anchor bolts set into the
+concrete were still intact along the southern edge of the foundation. Two fence lines were
+built roughly parallel to each other and extending southeast of the structure, probably
+serving as a small pen or run for livestock. A similar, though more narrow, row of fence
+posts extending north from the northwest corner suggest another pen or run on that side
+of the structure. This run could have linked the barn with the concrete tank described
+below.
+
+Figure 8.
+
+Plan map of the barn foundation at the N. B. Anderson site.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+Figure 9.
+
+18
+
+Remains of the barn. View is to the southeast.
+
+Two smaller features were recorded north of the barn and east of the house (Figure 5).
+The first was a small pen or garden, 8.5â x 15â, cordoned off by sheets of corrugated steel
+set upright and fastened to wooden posts. A 9â diameter, 2.5â tall concrete tank was off
+the northeast corner of the steel pen (Figure 10). The tank was filled with rusted bailing
+wire and barbed wire. Presumably, a pump or windmill once accompanied the tank, but
+no evidence of such was found.
+
+Figure 10.
+
+Circular concrete tank. View is to the northeast.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+19
+
+Approximately 100â southwest of the house foundation was a large scatter (~10 x 15 m)
+of tile printed with the label "Acme Partition Tile.â It was unclear if the tile had an
+association with the house foundation. The pile might represent a wall collapse under
+which another foundation could exist, yet was more likely dumped at this location.
+Between the tile scatter and the house foundations was a cluster of utility lines encased in
+an aboveground steel box. It is unknown if these utilities were associated with the scatter
+or the foundation. Central to the site was a drilled well with a steel pipe in a concrete
+footing. Depth was crudely measured with a rock tied to trench string. The field crew was
+unable to ascertain the ultimate depth of the well, but it was clearly greater than 40 feet.
+A trash dump was recorded near the head of an erosional gully in the southwest corner of
+the site. Items in the dump included clear and brown glass shards, metal objects, and
+automotive parts.
+Site boundaries and deposit depth were determined by excavation of eight shovel tests
+(Figure 7; Table 2). Four tests were placed at the cardinal directions, each with negative
+results. These negative tests confirmed the hypothesized boundaries of the N.B. Anderson
+site. Four intrasite shovel tests were excavated to explore for buried deposits. Only one,
+6, contained cultural materials. The positive test was placed immediately east of the well.
+Here the field crew found a metal strap with bolts and a metal hinge at 15 cmbs, then
+plastic gasket material at 25 cmbs. Subsoil at the site varied from 10 to 40 cmbs.
+Table 2.
+
+Shovel tests for site 41TR237.
+
+ST#
+1
+
+Depth (cm)
+0-30
+30-50
+
+2
+
+0-40
+40-55
+
+3
+
+0-10
+10-50
+
+4
+
+0-33
+33-50
+
+5
+
+0-25
+25-50
+
+6
+
+0-35
+35-50
+
+7
+
+0-35
+35-50
+
+8
+
+0-40
+40-55
+
+Description *
+Very dark grayish brown loamy clay
+Yellowish red (5YR4/6) clay, mottled with 50%
+light olive brown (2.5YR5/3) clay
+Very dark grayish brown loamy clay
+Yellowish red clay, mottled with 50% light olive
+brown clay
+Very dark grayish brown loamy clay
+Yellowish red clay, mottled with 50% light olive
+brown clay
+Very dark grayish brown loamy clay
+Yellowish red clay, mottled with 50% light olive
+brown clay
+Very dark grayish brown loamy clay
+Yellowish red clay, mottled with 50% light olive
+brown clay
+Very dark grayish brown loamy clay
+Yellowish red clay, mottled with 50% light olive
+brown clay
+Very dark grayish brown loamy clay
+Yellowish red clay, mottled with 50% light olive
+brown clay
+Very dark grayish brown loamy clay
+Yellowish red clay, mottled with 50% light olive
+brown clay
+
+Comments/Artifacts
+Northern site boundary.
+Negative.
+Negative.
+Western site boundary.
+Negative.
+Southern site boundary.
+Negative.
+Negative
+East of well. Metal strap with
+bolts and a metal hinge at
+15cmbs, a plastic gasket at
+25cmbs.
+Negative.
+Eastern site boundary.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+20
+
+Wire nails were present at the N. B. Anderson site, providing a solid terminus post quem
+of circa 1900 (Loveday 1983:138). Large-aggregate concrete was used in the makeup of
+all three foundations. This type of concrete was all but out of fashion in the 1940âs,
+indicating an approximate terminus ante quem of that decade (Bill Young, personal
+communication 2007). Asphalt roofing material appeared in several piles throughout the
+site. With their use in residential construction beginning circa 1920, they are consistent
+with the time frame outlined above. No other structural features were encountered outside
+the defined site boundaries, leading the researches to conclude this represents the only
+significant construction on the tract. Two small trash scatters were found near the
+drainage ditch to the east of the site. The majority of the material was tin cans, glass and
+tires, all dating to the mid 20th century. Additionally, two license plates were found, one
+with a 1957 date and the other a 1959 date. The features and artifact assemblages at the
+site suggest that the site dates between the early to mid 20th century; however, minor
+modifications that did not have a significant impact were likely made into the late 1970âs
+when the property was condemned for construction of Joe Pool Lake.
+The Wilson Cemetery (41TR57)
+The historic Wilson Cemetery was recorded as site 41TR57 in 1979 (Skinner and
+Connors 1979:35). As part of the present study, a revisit was warranted to determine the
+extent of the cemetery boundaries and to recommend continued maintenance and
+avoidance. In addition to the pedestrian survey of the site, archival research was
+conducted at the Tarrant County Archives in order to provide a more focused historical
+context to the site.
+Site 41TR57 is located in Abstract No. 961-2 within the James Lee Survey, and consists
+of three graves within a fenced enclosure. The three headstones mark the 1872 graves of
+Ophelia E. West Wilson and child, and the 1893 grave of a Bowlin child. Records
+revealed that in 1872, Charles and Ophelia Wilson were moving west through Tarrant
+County on a wagon train bound for California, when Ophelia Wilson entered labor. Both
+she and the child, a daughter, died during the birth. Charles Wilson then marked the
+location of the burials with oak saplings and continued on to California. At an unknown
+time, he returned to place markers on the graves (Cage n.d.). A second infant lost in
+childbirth was buried in the cemetery by James and Mattie Bowlin in 1893, due to the
+lack of a readily accessible public cemetery, though the infantâs grave was not marked.
+According to accounts by Webb (1952) the cemetery was fenced and well maintained
+into the 1930s (Cage n.d.). By the late 1970s and early 1980s, vandals had torn down the
+wrought iron cemetery fence and stolen the West family headstones. However, the US
+Army Corps of Engineers (USACE) purchased the land on which the cemetery sits prior
+to construction of Joe Poole Lake. USACE rangers recovered Ophelia Westâs gravestone,
+and eventually marked all three graves, re-erected the wrought iron fence and enclosed
+the entirety of the cemetery in a chain link fence (Mansfield Historical Society n.d.).
+The cemetery measures approximately 15 feet east to west and 20 feet north to south
+(Figure 11). The site form for 41TR57 mentioned eight graves, despite the apparent
+presence of only three. The ground surface surrounding the cemetery was visually
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+21
+
+inspected for any signs of additional unmarked burials or grave depressions. None were
+observed, so the existing cemetery boundary seems to contain all the burials. All three
+markers and both fences are still standing today, and appear to be in good condition.
+However, the location of the cemetery as listed on TASA was incorrect. A note has been
+made of this, and the THC has been notified. The site should be avoided by the project
+and a 100-foot buffer should be maintained around the outer chain link fence.
+
+Figure 11.
+
+Wilson Cemetery, (41TR57) in present condition, view is to the northwest.
+
+Conclusions
+The purpose of this investigation was to determine if the 180-acre study area contained
+significant historic or prehistoric cultural resources. A total of 65 shovel tests were
+excavated throughout the study area, with 17 of those associated with historic sites. The
+study area is situated in an upland setting above Lynn Creek and adjacent to Joe Pool
+Lake. Based on the previous investigations conducted for Joe Pool Lake, the study area
+contained potential for historic and prehistoric sites and already contained two previously
+recorded historic sites. The first site (41TR57) is the historic Wilson Cemetery.
+The second site (41TR220) was recorded during the Lynn Creek Parkway study (Todd
+2008) and was revisited during this study. The site boundaries were expanded and several
+previously unrecorded features were added to the site information. No superstructures or
+foundations to any buildings remained and the site had been previously bulldozed and all
+the debris must have been hauled off.
+A new historic site, 41TR237, was recorded on the south side of Mansfield Road. The
+site contained two foundations, a well, a concrete trough and trash scatters, all of which
+dated to the mid-20th century. No standing structures remained. Outside of these sites, no
+other historic cultural materials were observed on the surface or in any of the 48 shovel
+tests.
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+22
+
+The research design stated that study area could possibly contain ephemeral remains of
+temporary hunting or camping sites located near Lynn Creek. However, if the area was
+used for hunting or gathering activities, no evidence was found. No evidence of
+prehistoric occupation was found anywhere on the surface in the study area or buried in
+the slope sediments. The lack of buried prehistoric site deposits is attributed to sloping
+upland setting. The historic sites recorded during this survey were consistent with other
+20th century farmsteads recorded in the area and during the various Joe Pool Lake studies.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+23
+
+RECOMMENDATIONS
+Based upon the results of the survey, AR Consultants, Inc. recommends that further
+cultural resource investigations are unwarranted and that the City of Grand Prairie be
+allowed to proceed with the development of the park. For the archaeological sites,
+41TR220 and 41TR237 are two early to mid 20th century sites recorded during the
+survey. However, based upon their poor contextual integrity and lack of standing
+structures, neither site is recommended for listing on the NRHP. The Wilson Cemetery
+(41TR57) should be avoided by development and no construction should take place
+within 100 feet of the chain link fence boundary. If cultural resources are encountered
+during construction, work should immediately cease in that area and the Fort Worth
+District of the US Army Corps of Engineers should be notified. Work should not
+continue until discussions with the proper agency have been concluded.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+24
+
+REFERENCES CITED
+Banks, Larry D.
+1990
+From Mountain Peaks to Alligator Stomachs: A Review of Lithic Sources in the Trans-Mississippi
+South, the Southern Plains, and Adjacent Southwest. Memoir # 4, Oklahoma Anthropological
+Society, Norman.
+Bureau of Economic Geology
+1975
+Geologic Atlas of Texas, Dallas Sheet. The University of Texas at Austin.
+Byrd, Clifford Leon
+1971
+Origin and History of the Uvalde Gravel of Central Texas. Baylor Geological Studies Bulletin
+No. 20, Waco.
+Cage, Duane
+n.d.
+Wilson Cemetery. Tarrant County Historical Commission document. On file, Tarrant County
+Archives, Fort Worth.
+Council of Texas Archeologists
+n.d.
+Guidelines for the Content of Cultural Resource Management Reports. Distributed by the Texas
+Historical Commission, Archeology Division.
+Crook, Wilson W., Jr. and R. King Harris
+1957
+Hearths and Artifacts of Early Man near Lewisville, Texas and Associated Faunal Material.
+Bulletin of the Texas Archeological Society 28:7-79.
+Diggs, George M., Jr., Barney L. Lipscomb, and Robert J. OâKennon
+1999
+Shinners & Mahlerâs Illustrated Flora of North Central Texas. SIDA, Botanical Miscellany, No.
+16 by Botanical Research Institute of Texas and Austin College.
+Dyksterhuis, E. K.
+1946
+The Vegetation of the Fort Worth Prairie. Ecological Monographs 14(1):1-29.
+Ferring, C. Reid
+2001
+The Archaeology and Paleoecology of the Aubrey Clovis Site (41DN479), Denton County, Texas.
+University of North Texas, Department of Geography, Center for Environmental Archaeology.
+Garrett, Julia Kathryn
+1972
+Fort Worth: A Frontier Triumph. The Encino Press. Austin.
+The Mansfield Historical Society
+n.d.
+The History of Mansfield Texas: Mid 1800 â 1965. A Community Service Project by the
+Mansfield Historical Society. On file, Tarrant County Archives, Fort Worth.
+Jurney, David H., Susan A. Lebo and Melissa Green
+1988
+Historic Farming on the Hogwallow Prairies, Ethnoarchaeological Investigations of the Mountain
+Creek Area, North Central Texas. Southern Methodist University, Institute for the Study of Earth
+and Man, Archaeology Research Program, Joe Pool Lake Archeological Project, Volume II.
+Maxwell, Lisa C.
+2007
+Handbook of Texas Online, s.v. âGrand Prairie, Texas.â (accessed November 7, 2007)
+http:www.tsha.utexas.edu/handbook/online/articles/GG/hdg3.html.
+McGregor, Daniel E.
+1995
+Lithic Resources Available in the Upper Trinity River Region: The Evidence from Joe Pool Lake.
+In Advances in Texas Archeology, Cultural Resource Management Report 5, Texas Historical
+Commission, Austin.
+Menzer, Fred J., Jr. and B. H. Slaughter
+1971
+Upland Gravels in Dallas County, Texas and Their Bearing on the Former Extent of the High
+Plains Physiographic Province. The Texas Journal of Science XXII (2&3): 217-222.
+Peter, Duane E. and Daniel E. McGregor, Eds.
+1988
+Late Holocene Prehistory of the Mountain Creek Drainage. Southern Methodist University,
+Institute for the Study of Earth and Man, Archaeology Research Program, Joe Pool Lake
+Archaeological Project, Volume I.
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+25
+
+Prikryl, Daniel J.
+1990
+Lower Elm Fork Prehistory: A Redefinition of the Cultural Concepts and Chronologies along the
+Trinity River, North-Central Texas. Office of the State Archeologist, Report 37, Texas Historical
+Commission.
+.Raab, L., A. McIntyre, J. Bruseth and D. McGregor
+1982
+Archaeological Investigations at Lakeview Lake: 1979 and 1980. Southern Methodist University,
+Institute for the Study of the Earth and Man, Dallas.
+Ressel, Dennis D.
+1981
+Soil Survey of Tarrant County, Texas. USDA, Soil Conservation Service in cooperation with
+Texas Agricultural Experiment Station.
+Shelton, Rebecca, Cody S. Davis and S. Alan Skinner
+2008
+An Archaeological Survey for Chesapeake Energy Corporation at DFW International Airport,
+Dallas and Tarrant Counties, Texas. Cultural Resources Report 2008-25, AR Consultants, Inc.,
+Dallas.
+Skinner, S. Alan
+1988
+Where Did All the Indians Go? The Record 42(3):101-104.
+Skinner, S. A. and D. Connors
+1979
+Archaeological Investigations at Lakeview Lake. Southern Methodist University, Institute for the
+Study of Earth and Man, Dallas.
+Street, Sam
+1895
+Sam Street's Map of Tarrant County, Texas. Texas Map Publishing Co. Fort Worth.
+Texas Almanac
+1999
+Texas Almanac and State Industrial Guide, 2000-2001. Dallas.
+Texas Archeological Sites Atlas
+2010
+Search for recorded sites listed on the Arlington, Texas 7.5â USGS map. Texas Historical
+Commission internet site.
+Texas Historical Commission
+n.d.
+Archeological Survey Standards for Texas. www.thc.state.tx.us.
+Todd, Jesse
+2008
+An Archaeological Survey of the Proposed Lynn Creek Parkway Project, Grand Prairie, Texas.
+Cultural Resources Report 2008-4. AR Consultants, Inc. Dallas.
+Webb, Walter Prescott, editor
+1952
+The Handbook of Texas, Vol. II. Texas State Historical Association. Austin.
+USDA
+1920
+Soil Map of Tarrant County. USDA Bureau of Soils in cooperation with the Texas Agricultural
+Experiment Station.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+26
+
+APPENDIX A
+Shovel Test Descriptions
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+27
+
+Shovel tests outside of site boundaries for entire study area.
+ST#
+T1-1
+
+Depth (cm)
+0-80
+80-90+
+
+T1-2
+
+0-40
+40+
+
+T1-3
+
+0-75
+75-90+
+0-24
+24-40+
+
+T1-4
+T1-5
+
+0-33
+33-65
+65-85+
+
+T1-6
+
+0-60
+60-100+
+
+T1-7
+
+0-25
+25-65
+65-105
+105-165+
+
+T2-1
+
+0-40
+40-105
+
+T2-2
+
+0-40
+40-52
+52-73
+
+T2-3
+
+0-40
+40-70
+
+T2-4
+
+0-25
+25-35
+0-60
+60-80
+
+T2-5
+T2-6
+T2-7
+T2-8
+T2-9
+
+0-25
+25-40
+0-137+
+0-120+
+0-35
+35-62
+62-90
+90-105
+
+Description *
+Very dark brown (10YR2/2) sandy clay
+Very dark brown sandy clay mottled with 50%
+dark grayish brown (10YR4/2) sandy clay
+Very dark grayish brown (10YR3/2) sandy clay
+Dark grayish brown sandy clay with 10% calcium
+carbonate
+Very dark grayish brown sandy clay
+Dark grayish brown clay
+Dark brown (7.5YR3/3) sandy clay
+Strong brown (7.5YR5/8) clay mottled with 30%
+strong brown (7.5YR5/6)
+Dark brown (10YR3/3) sandy loam
+Dark brown (7.5YR3/4) sandy clay
+Strong brown clay mottled with 20% yellowish
+red (5YR5/8) clay and 10% brown (10YR4/3) clay
+Black (10YR2/1) sandy clay
+Dark grayish brown sandy clay mottled with 40%
+strong brown clay
+Very dark grayish brown sandy loam
+Yellowish red (5YR4/6) sandy clay
+Strong brown sandy clay
+Strong brown sandy clay mottled with 50%
+calcium carbonate
+Very dark gray (10YR3/1) sandy clay loam
+Dark grayish brown with red (2.5YR4/6) clay
+increasing with depth
+Very dark brown sandy loamy clay
+Dark yellowish brown (10YR4/4) sandy clay
+mottled with 30% dark grayish brown clay loam
+Dark yellowish brown sandy clay mottled with
+30% very dark grayish brown loamy clay and 10%
+pea-sized gravels
+Very dark gray sandy clay loam
+Dark grayish brown clay loam mottled with 40%
+red clay
+Very dark gray sandy clay loam
+Yellowish red (5YR5/6) loamy clay
+Very dark gray sandy clay loam
+Dark grayish brown clay mottled with 5% gravels
+and 5% calcium carbonate
+Very dark gray sandy clay loam
+Yellowish red loamy clay
+Dark grayish brown loamy clay (very moist)
+Dark grayish brown loamy clay
+Dark brown loamy sand
+Dark yellowish brown loamy sand
+Yellowish brown (10YR5/8) sandy clay with pea
+to palm-sized gravels and calcium carbonate
+increasing with depth
+Brownish yellow (10YR6/6) sandy clay with pea
+to palm-sized gravels and calcium carbonate
+increasing with depth
+
+Comments/Artifacts
+Negative.
+Negative.
+Negative.
+Negative.
+Negative.
+
+Negative.
+Negative.
+
+Negative.
+Negative.
+
+Negative.
+Negative.
+Negative.
+Negative.
+Negative.
+Negative.
+Negative.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+ST#
+T3-1
+T3-2
+T3-3
+T3-4
+T3-5
+T3-6
+
+Depth (cm)
+0-25
+25-40
+0-30
+30-50
+50-70
+0-35
+35-75
+0-65
+65-75
+0-120
+0-45
+45-112
+
+T3-7
+
+0-35
+35-75+
+
+T3-8
+
+0-45
+45-67
+0-40
+40-70
+0-55
+55-88
+0-75
+75-100
+0-30
+30-40+
+
+T4-1
+T4-2
+T4-3
+T4-4
+T4-5
+T4-6
+T4-7
+T4-8
+
+0-50
+50-74
+0-30
+30-40
+0-33
+30-50+
+0-50
+50+
+
+T5-1
+
+0-25
+25-30+
+
+T5-2
+
+0-30
+30-32+
+0-27
+27-48
+48-55
+55-59+
+0-5
+5-35
+
+T5-3
+
+T6-1
+
+T6-2
+
+35-50
+0-5
+5-50
+
+T6-3
+
+0-5
+
+Description *
+Very dark gray sandy clay loam
+Yellowish red loamy clay
+Dark brown clay loam
+Very dark grayish brown clay loam
+Yellowish red loamy clay
+Dark brown clay loam
+Yellowish brown (10YR5/4) sandy clay
+Dark brown clay loam
+Brown (7.5YR4/4) sandy clay
+Black clay
+Very dark grayish brown clay
+Dark grayish brown loamy clay mottled with
+calcium carbonate at 60 cm and grades into
+grayish brown (10YR5/2) clay
+Light gray (10YR7/1) clayey loam
+Grayish brown clay with gravel content increasing
+slightly at depth
+Very dark grayish brown loamy clay
+Yellowish red (5YR4/4) clay
+Very dark brown sandy clay
+Brown, mottled with 30% red (5YR5/8)clays
+Very dark brown sandy clay
+Brown, mottled with 30% red clays
+Very dark brown clay
+Very dark gray clay
+Very dark grayish brown sandy clay
+Brown (10YR4/3) clay, mottled with 30% strong
+brown (7.5YR5/8) clay
+Very dark grayish brown sandy clay
+Brown clay, mottled with 30% strong brown clay
+Very dark grayish brown sandy clay
+Brown clay, mottled with 30% strong brown clay
+Very dark grayish brown sandy clay
+Brown clay, mottled with 30% strong brown clay
+Very dark grayish brown clay
+Water
+Dark brown (7.5YR3/3) clayey sand
+Grayish brown (10YR5/3) and red (2.5YR4/8)
+sandy clay
+Very dark grayish brown loamy clay
+Grayish brown and red sandy clay
+Dark grayish brown sandy clay loam
+Brown (7.5YR4/3) compact clayey sand
+Brown sandy clay
+Strong brown (7.5YR5/6) compact sandy clay
+Very dark grayish brown loamy clay
+Yellowish red clay, mottled with 30% light olive
+brown (2.5Y5/3) clay
+Dark reddish brown (5YR3/4) loamy clay
+Very dark grayish brown loamy clay
+Yellowish red clay, mottled with 30% light olive
+brown clay
+Very dark grayish brown loamy clay
+
+28
+
+Comments/Artifacts
+Negative.
+Negative.
+Negative.
+Negative.
+Negative.
+Negative.
+
+Negative.
+Negative.
+Negative.
+Negative.
+Negative.
+Negative.
+Negative.
+Negative.
+Negative.
+Negative. ST was
+terminated due to test unit
+flooding.
+Negative.
+Negative.
+Negative.
+
+Negative
+
+Negative
+Negative
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+ST#
+
+Depth (cm)
+5-50
+
+T6-7
+
+0-25
+25-55
+
+T6-8
+
+0-10
+10-30
+30-34
+
+T7-1
+
+0-30+
+
+T7-2
+
+0-5
+5-20
+20-34+
+0-55
+
+T7-3
+T7-4
+T7-5
+T8-1
+T8-2
+
+T8-3
+
+0-2
+2-30
+0-55
+55+
+0-10
+10-30
+0-70
+70-85
+85-120
+0-60
+60-75
+75-90
+90+
+
+T9-1
+
+0-80
+80-100
+100-120
+
+T9-2
+
+0-20
+20-35
+
+Description *
+Yellowish red clay, mottled with 30% light olive
+brown clay
+Dark Brown loamy clay
+Strong brown sandy clay mottled with 10-50% red
+clay
+Very dark grayish brown clay loam
+Dark brown loamy clay
+Strong brown clay sandy clay mottled with 30%
+red sandy clay
+Dark yellowish brown (10YR4/4) sandy clay
+mottled with 30% yellowish brown sandy clay and
+10% light gray sandy clay and gravels
+Dark brown clay loam
+Dark brown (7.5YR3/4) sandy clay
+Strong brown sandy clay
+Dark brown clayey sand with clay increasing with
+depth
+Dark brown loamy clay
+Strong brown sandy clay
+Dark brown loamy clay
+Strong brown sandy clay
+Yellowish red (5YR4/6) clayey sand
+Yellowish red (5YR5/8) sandy clay
+Yellowish red clayey sand
+Yellowish red sandy clay
+Yellowish red sandy clay mottled with reddish
+brown (5YR4/4) sandy clay
+Dark brown clay loam
+Dark yellowish brown sandy clay
+Yellowish red sandy clay mottled with 40%
+reddish brown (2.5YR5/3) clay
+Yellowish red sandy clay mottled with 70-80%
+reddish brown clay
+Dark yellowish brown sandy loam
+Very dark grayish brown sandy loam
+Reddish brown (5YR4/4) sandy clay mottled with
+25% reddish brown (2.5YR4/3) sandy clay
+Yellowish red (5YR4/6) clayey sand
+Yellowish red (5YR5/8) sandy clay
+
+29
+
+Comments/Artifacts
+Negative
+Negative
+
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+Negative
+
+Negative
+
+Negative
+
+Negative
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+30
+
+APPENDIX B
+Map of Site Locations
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+31
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+32
+
+APPENDIX C
+Concurrence Letters
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+33
+
+LYNN CREEK PARK DEVELOPMENT PROJECT ARCHAEOLOGICAL SURVEY
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+34
+
+

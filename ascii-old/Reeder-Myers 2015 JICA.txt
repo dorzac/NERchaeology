@@ -1,0 +1,678 @@
+Journal of Island & Coastal Archaeology, 10:436–445, 2015
+Copyright © 2015 Taylor & Francis Group, LLC
+ISSN: 1556-4894 print / 1556-1828 online
+DOI: 10.1080/15564894.2015.1008074
+
+Cultural Heritage at Risk in the
+Twenty-First Century: A Vulnerability
+Assessment of Coastal Archaeological
+Sites in the United States
+Downloaded by [Smithsonian Institution Libraries] at 09:08 28 October 2015
+
+Leslie A. Reeder-Myers
+Program in Human Ecology and Archaeobiology, Department of
+Anthropology, National Museum of Natural History, Smithsonian Institution,
+Washington, DC, USA
+ABSTRACT
+Twenty-first-century global warming poses a significant threat to the
+cultural heritage of coastal regions, but the effects of sea-level rise
+and changing weather patterns will not be evenly distributed. In
+addition, continued urban, agricultural, and industrial development
+concentrated in coastal areas contributes to the destruction of cultural
+resources. Mitigation of these threats requires rapid action on the
+part of archaeologists and public land managers. This study presents
+a method for quickly evaluating relative resource vulnerability at
+national, regional, and local scales, using data that is available for all
+United States coastlines, as well as many other coastlines around the
+world. Three regional case studies—the mountainous coast of California’s Santa Barbara Channel, the wetlands and sandy shores of Texas,
+and the protected estuarine shores of Virginia’s Chesapeake Bay—are
+compared to shoreline vulnerability for the United States as a whole.
+In each of these regions, sites have already been submerged under
+rising tides, lost to storm erosion, or destroyed by human activities.
+Variability in coastal geomorphology, rates of relative sea-level rise,
+and the structure of prehistoric settlement and subsistence systems,
+however, produce different patterns of vulnerability.
+Keywords climate change, coastal vulnerability analysis, erosion, sea-level rise
+
+Received 14 October 2014; accepted 9 January 2015.
+Address correspondence to Leslie A. Reeder-Myers, Program in Human Ecology and Archaeobiology,
+Department of Anthropology, National Museum of Natural History, Smithsonian Institution, Washington,
+DC, 20013, USA. E-mail: reeder-myersL@si.edu
+Color versions of one or more of the figures in the article can be found online at
+http://www.tandfonline.com/uica.
+
+436
+
+A Vulnerability Assessment of U.S. Coastal Sites
+
+Downloaded by [Smithsonian Institution Libraries] at 09:08 28 October 2015
+
+INTRODUCTION AND BACKGROUND
+As the effects of global climate change are
+felt during the twenty-first century, cultural
+heritage all over the world will be at risk,
+including archaeological, historical, and religious sites, traditional knowledge, museums,
+and archives (Cassar et al. 2006). The coastal
+archaeological record is particularly vulnerable to changing land use and climate patterns today (Erlandson 2008; Erlandson and
+Fitzpatrick 2006), but it is also a valuable
+resource for understanding these changes
+in the past. Archaeological sites contain a
+record of past climate change, and they also
+tell the story of how people in the past responded to and influenced changes in marine
+ecosystems (Erlandson and Rick 2010; Jackson et al. 2001; Rick and Lockwood 2013).
+The complexity of the threats to these resources creates a challenge for archaeologists, historians, descendent communities,
+land managers, and other stakeholders who
+need to develop strategies to mitigate damage to coastal cultural heritage.
+Although archaeologists have long been
+concerned about the erosion of cultural
+heritage sites in coastal areas (e.g., Bird
+1992; Erlandson and Moss 1999; Lewis 2000;
+Mourtzas and Marinos 1994), formal modeling of risk and vulnerability has recently
+received considerable attention. Studies in
+New Zealand (Bickler et al 2013), France
+(Daire et al. 2012), Scotland (Dawson 2013),
+and England (Flatman 2009; Murphy et al.
+2009) have examined the impact of coastal
+erosion at national scales. Other studies have
+used targeted models to compare site vulnerability across hundreds or thousands of archaeological sites at regional scales (Reeder
+et al. 2012; Westley et al. 2011). Still others have measured erosion and other vulnerability factors for specific archaeological
+sites (Braje et al. 2011; Fitzpatrick et al. 2006;
+Robinson et al. 2010; Shi et al. 2012).
+Spatial modeling using geographic information systems can be used at national, regional, and local scales to identify the most
+highly threatened sites and generate a manageable plan for collecting data from sites
+that are likely to be lost. This study expands
+on the methodology of Reeder et al. (2012) to
+
+develop a technique that can rapidly evaluate
+archaeological site vulnerability using data
+available throughout the United States (Figure 1). Three areas are chosen as case studies:
+the rocky coasts of California’s Santa Barbara
+Channel, the wetlands and sandy beaches
+of the Texas coast, and the wooded estuarine coasts of Virginia’s Chesapeake Bay. The
+methods developed here are easily adapted
+to any part of the world and can be modified to address specific vulnerability issues at
+smaller scales. There is little certainty about
+the precise nature, timing, or intensity of
+the effects of climate change, which makes
+preparation, beginning with broad vulnerability assessments, only more important.
+DATA AND METHODS
+In each region, the study area is defined as
+the land within 5 km of the shoreline (Figure 1). In California, the study area along the
+Santa Barbara Channel includes the coasts
+of Santa Barbara County and the Northern
+Channel Islands, comprising 1016 km2 of
+land along 418 km of shoreline. Within this
+space, there are 2,357 known archaeological sites. In Texas, the study area from Galveston Bay to Matagorda Bay includes the coasts
+of Galveston, Brazoria, and Matagorda counties. There are only 259 known archaeological sites with 1632 km2 of land and 980 km of
+shoreline in this region. The Virginia study
+area includes the coastlines of five coastal
+counties between the York River and the
+Potomac River. There are 1007 known archaeological sites in this region, which encompasses 1695 km2 of land and 1500 km of
+shoreline.
+Cultural resource vulnerability (CRV )
+was calculated for each archaeological site
+according to its position on the landscape
+(distance to shoreline and elevation), the degree of vulnerability of the nearest shoreline, and modern land use at the site (i.e., urban, agricultural, or industrial development)
+using the following equation:
+CRV =
+
+2 (D + E ) + 3 (SV ) + 2 (LU) .
+(1)
+3
+
+JOURNAL OF ISLAND & COASTAL ARCHAEOLOGY
+
+437
+
+Downloaded by [Smithsonian Institution Libraries] at 09:08 28 October 2015
+
+Leslie A. Reeder-Myers
+
+Figure 1. Map showing the locations of the three study regions in southern California (A), Texas (B),
+and Virginia (C). The middle panel shows the specific study area delineated as the land
+within 5 km of the coast, as well as the areas that are less than 0.5 m above MSL (darker
+or red shading) and less than 1 m above MSL (lighter or orange shading). Note that these
+areas are only just visible in southern California, but that substantial flooding can be
+expected in both Texas and Virginia. The bottom panel shows typical shorelines from each
+region: a rocky coast in southern California, a long, open coastal plain in Texas, and a
+shallow but heavily wooded estuary in Virginia.
+
+This equation places the most emphasis
+on the position of the archaeological site on
+the landscape, including the distance from
+the shoreline to the archaeological site (D)
+and the site’s elevation (E), followed by the
+vulnerability of that shoreline (SV ), and finally the land use at the site (LU).
+
+438
+
+Thieler and Hammar-Klose (1999,
+2000a, 2000b) produced a coastal vulnerability index for the continental United States.
+Here, their equation is modified to calculate shoreline vulnerability variables according to their impact on coastal archaeological sites. Shoreline vulnerability was
+
+VOLUME 10 • ISSUE 3 • 2015
+
+A Vulnerability Assessment of U.S. Coastal Sites
+
+Table 1. Categorical variables used in this study were given integer values from 1 to 5, so that
+they are comparable to the continuous variables. Land use was determined from the
+National Land Cover Dataset for 2011. Geomorphology was determined from the
+USGS CVI datasets for each region, but modified based on smaller scale observations
+from high resolution orthoimagery.
+
+Downloaded by [Smithsonian Institution Libraries] at 09:08 28 October 2015
+
+Value
+1
+2
+3
+4
+5
+
+Geomorphology
+
+Land use
+
+Rocky, cliffed coasts
+Medium cliffs
+Low cliffs, alluvial plains
+Cobble beaches, estuary, lagoon
+Barrier/sand beaches, marsh, mud flats
+
+Protected public land
+Private, wildland
+Developed open space, agriculture
+Developed, low intensity
+Developed, medium to high intensity
+
+calculated using a weighted average of six
+variables: geomorphology (xgeo ), historic
+sea-level rise (xslr ), coastal slope (xcs ), historical erosion rates (xerr ), average wave height
+(xwh ), and tidal range (xtr ):
+SV =
+
+?
+?
+4 xgeo + xslr + xcs + 3 (xerr ) + 2 (xwh + xtr )
+6
+(2)
+
+Most of these variables are continuous
+and have a linear relationship to vulnerability, and they were transformed to a linear
+scale from 1 to 5 to make them comparable
+within a weighted average. In the case of distance to shoreline, the relationship between
+vulnerability and distance is not linear—a
+site that is 10 m from the shoreline is exponentially more threatened than a site that
+is 5000 m from the shoreline, and so an exponential transformation was applied to the
+data. The nominal variables, geomorphology
+and land use, were given integer values from
+1 to 5 (Table 1). These variables are applicable to site vulnerability across the US—for
+regional or smaller scale studies, the weights
+and variables should be modified to account
+for local vulnerability factors.
+Datasets were obtained from a variety of
+federal and state agencies (Table 2). Some
+of these datasets were intended for use at a
+larger scale than this study requires and were
+altered to accommodate small-scale measurements. For example, shorelines were traced
+from 1 m resolution orthoimagery at a scale
+
+of 1:4000, providing a minimum of 10 m accuracy. Similarly, the accuracy of geomorphological designations and land use designations were checked against orthoimagery
+and altered where necessary. Archaeological site locations are the least accurate of
+the datasets used for this study, since they
+are dependent on the mapping technology
+available to hundreds of different individual
+archaeologists.
+
+RESULTS AND DISCUSSION
+The shorelines of the three study areas have
+distinctive vulnerability profiles that can be
+compared to shoreline vulnerability for the
+continental United States as a whole, which
+was recalculated according to Equation 2
+(Figure 2). Shorelines in the California study
+area are generally more stable than the other
+study areas or the national average, due to
+long stretches of rocky cliffs and raised alluvial terraces. The Santa Barbara Channel
+also has highly variable shorelines, with geomorphology and coastal slopes that span
+the national distribution. Land use patterns
+are favorable to archaeological site protection, since 58.14% of the land is within the
+Channel Islands National Park or on land
+owned by the Nature Conservancy. As a result, it also has the lowest overall CRV values
+(Figure 3). The longest stretches of shallow sloping, sandy beaches in the SBC coincide with heavy urban and agricultural de-
+
+JOURNAL OF ISLAND & COASTAL ARCHAEOLOGY
+
+439
+
+Leslie A. Reeder-Myers
+
+Table 2. A list of variables used in the study, including the original sources from which they
+were derived and the GIS dataset provider.
+
+Downloaded by [Smithsonian Institution Libraries] at 09:08 28 October 2015
+
+Variable
+
+Definition
+
+Original source(s)
+
+GIS data source(s)
+USGS CVI study (Thieler
+and Hammar-Klose,
+1999, 2000a, 2000b),
+checked against NAIP
+orthoimagery (Jin et al.
+2013)
+USGS CVI study
+
+Geomorphology
+
+Landform type and
+erodability
+
+State geological maps,
+1:240,000 topological
+maps
+
+Coastal slope
+
+Elevation change across
+area 10 km landward
+and seaward
+
+Relative SLR
+
+Historic rates of SLR
+
+Historical erosion
+
+Shoreline change
+during twentieth
+century
+
+Wave height
+
+Mean wave height,
+1956–1975
+
+Land use
+
+Agricultural or
+Developed Land
+Federally Protected
+Land
+
+U.S. Navy ETOPO5,
+subsampled to 3
+minute (∼5 km)
+resolution
+Tide gauge data, National
+Oceanic Services
+Coastal Erosion
+Information System;
+aerial photographs and
+historic maps
+U.S. Army Corps of
+Engineers Wave
+Information Study;
+NOAA National Data
+Buoy Center
+Landsat satellite data
+Various agency surveys
+
+Distance to shore
+
+Shortest distance from
+site center to the
+shoreline
+
+Individual archaeologists
+
+Elevation
+
+Elevation at center of
+site
+
+National Elevation
+Dataset 1/3 arc second
+DEMs
+
+440
+
+VOLUME 10 • ISSUE 3 • 2015
+
+USGS CVI study
+USGS CVI study
+
+USGS CVI study
+
+National Land Cover
+Database
+National Park Service, US
+Fish and Wildlife
+Service, US Forest
+Service
+California’s Central
+Coast Information
+Center, Texas
+Archaeological
+Research Library,
+Virginia Cultural
+Resource Information
+System, NAIP
+orthoimagery
+NOAA, USGS
+
+Downloaded by [Smithsonian Institution Libraries] at 09:08 28 October 2015
+
+A Vulnerability Assessment of U.S. Coastal Sites
+
+Figure 2. These graphs compare the frequency distribution for shoreline variables and CVI in each
+of the three study areas against the national distribution (light gray shading). Frequency
+on the y-axis refers to the percent of shoreline by length in each region.
+
+velopment around the cities of Santa Barbara
+and Ventura. Although these would represent highly vulnerable areas in terms of both
+shoreline vulnerability and land use, there
+
+may be few archaeological sites left to be
+threatened (Figure 4).
+The study area along the Texas coast has
+extremely vulnerable shorelines, relative to
+
+JOURNAL OF ISLAND & COASTAL ARCHAEOLOGY
+
+441
+
+Downloaded by [Smithsonian Institution Libraries] at 09:08 28 October 2015
+
+Leslie A. Reeder-Myers
+
+Figure 3. Comparison of site variables, including land use and distance from site to shore, and the
+total CRV. Frequency on the y-axis refers to the percentage of archaeological sites in the
+study area. Note high vulnerability spikes in both CRV and distance values are caused by
+sites that are mapped as being already under water. This is considerably less pronounced
+in the California study area, due to lower rates of recent sea level rise and steeper coastal
+slopes. Distance from shore has undergone an exponential transformation to reflect the
+non-linear relationship between distance and vulnerability, and has been re-scaled from
+1-5.
+
+Figure 4. Distribution of sites by CRVI in each of the study areas, and the location of cities mentioned
+in the text.
+
+442
+
+VOLUME 10 • ISSUE 3 • 2015
+
+Downloaded by [Smithsonian Institution Libraries] at 09:08 28 October 2015
+
+A Vulnerability Assessment of U.S. Coastal Sites
+
+the national distribution and the other study
+areas (Figure 2). Low elevation and coastal
+slope will leave this area open to considerable inundation (Figure 1). High rates of
+historical relative sea-level rise suggest that
+large areas are likely to be drowned. Shorelines dominated by sandy beaches, barrier
+beaches, and marshes, along with microtidal conditions, will leave the Texas coastline highly vulnerable to twenty-first-century
+climate change. Land use patterns, however, are relatively favorable for archaeological site protection. There is little urban development in the Texas study area,
+except in the eastern part near the city
+of Galveston. Unfortunately, almost a third
+of archaeological sites in this study area
+(n = 77, 29.73%) are mapped as being already under water. Although some of these
+sites are shipwrecks, most are small prehistoric sites that are submerged close to the
+modern shoreline.
+The Chesapeake study area is characterized by shallow sloping coasts, but generally moderate vulnerability to all shoreline
+variables. In fact, average values for most
+shoreline variables in Virginia are very close
+to the national average, and overall SV values are also moderate (Figure 2). A smaller
+proportion of archaeological sites (n = 137,
+13.60%) are already submerged than in the
+Texas study area, but still a significant number. Although Texas coastlines are the most
+vulnerable, archaeological sites in Virginia
+have similar CRV values when all sites are
+considered and higher CRV values when
+submerged sites are excluded (Figure 3). This
+is due in part to land use patterns—nonsubmerged sites in Virginia are more often
+located in developed or agricultural areas
+(Figure 3). It is also due to differences in the
+distance to the shoreline (Figure 3 and Figure
+4). Non-submerged sites in Virginia are more
+likely to be located immediately adjacent to
+the coast. In fact, higher shoreline vulnerability in Texas may contribute to the lower
+overall CRV values, since sites located close
+to the shoreline are more likely to have been
+lost before they were identified. The Virginia
+study area has, by far, the highest absolute
+number of highly vulnerable sites with CRV
+values above 4 (144 sites, compared with 95
+in California and 82 in Texas).
+
+The impact of twenty-first-century sealevel rise on submerged sites is unclear—
+those that are deeply drowned may be relatively well preserved, but those in the intertidal zone may be heavily damaged or
+destroyed by normal erosional processes
+or stronger storms. Ocean acidification or
+the spread of destructive organisms (e.g..,
+Björdal et al. 2012) might be more damaging to submerged sites than inundation or
+erosion. Even when submerged sites are relatively well preserved, data recovery is difficult and expensive. The factors that affect
+underwater site preservation and destruction are highly localized, and models should
+be altered to accommodate for regional factors as they are identified (see also Evans
+et al. 2014 and papers therein; Gregory 2012;
+Gusick and Faught 2011; Oxley 1998).
+CONCLUSION
+These three case studies represent three
+different types of shorelines in the United
+States. They also represent areas with different modern, historic, and prehistoric land
+use patterns, all of which contribute to the
+distribution of known archaeological sites
+and their vulnerability to climate change and
+coastal development. Although the model
+presented here allows for a rapid assessment
+of vulnerability using data that are readily
+available within the United States, it is only a
+first step. Identifying vulnerable archaeological sites does not provide protection.
+The decentralized nature of coastal land
+management in the United States creates a
+particular challenge to archaeological site
+preservation. Programs designed to mitigate
+climate change damage to archaeological
+sites at the national scale, such as SCAPE in
+Scotland (Dawson 2013), ALERT in France
+(Daire et al. 2012), and RCZAS in England
+(Flatman 2009) are highly effective in their
+native settings but cannot be easily translated
+to the United States. According to the U.S.
+Census Bureau, the U.S. has approximately
+142,641 km of tidal shoreline in 24 states, presenting an enormous challenge for protecting cultural heritage. Using readily available
+data and software, archaeologists working
+in coastal areas in the United States can use
+
+JOURNAL OF ISLAND & COASTAL ARCHAEOLOGY
+
+443
+
+Downloaded by [Smithsonian Institution Libraries] at 09:08 28 October 2015
+
+Leslie A. Reeder-Myers
+
+this method to identify areas that are under
+particularly high threat from climate change
+and modern development, and can prioritize
+those areas for research.
+Archaeologists are uniquely placed to
+begin systematically evaluating and mitigating the threat to coastal archaeological sites
+across the United States and around the
+world. By advocating with land owners, land
+managers, and those with political or economic interests in coastal areas, we can
+ensure that cultural heritage resources are
+considered among the many resources that
+will need protection as the earth’s climate
+changes. We can use simple methods such
+as those presented here to identify highly
+threatened areas, and we can choose to direct resources for research toward those areas. We must also develop creative research
+strategies that collect meaningful data from
+these sites before they are lost, including
+coastal pedestrian, geophysical, and remote
+sensing surveys, strategic radiocarbon dating, and targeted site sampling (e.g., Cannon 2000; Erlandson and Moss 1999; Rick
+et al. 2013). We cannot fully prevent climate
+change, nor can we know precisely when
+or how it will damage cultural heritage. We
+can, however, mitigate its effects on cultural
+resources by focusing research on these fragile resources, which often provide clues to
+how coastal ecosystems and people have responded to climate change in the past.
+
+ACKNOWLEDGEMENTS
+Many people and agencies contributed to
+the datasets used in this study. Particular
+thanks are due to Amy Gusick and the Central Coast Information Center for archaeological data from California; to Michael
+Aiuvalasit, Jonathan Jarvis, and the Texas
+Archaeological Research Library for archaeological data from Texas; and to Jolene Smith, Dominic Bascone, and the Virginia Cultural Resource Information Center for archaeological data from Virginia.
+The manuscript has benefited from the comments of two anonymous reviewers and
+Scott Fitzpatrick, as well as discussions with
+Catherine Marzin.
+
+444
+
+REFERENCES
+Bickler, S., R. Clough, and S. Macready. 2013. The
+Impact of Climate Change on the Archaeology of New Zealand’s Coastline: A Case Study
+from the Whangarei District. Wellington: New
+Zealand Department of Conservation, Science
+for Conservation series 322.
+Bird, M. K. 1992. The impact of tropical cyclones on the archaeological record: An Australian example. Archaeology in Oceania 27:
+75–86.
+Björdal, C. G., D. Gregory, M. Manders, Z. AlHamdani, C. Appelqvist, J. Haverhand, and
+J. Dencker. 2012. Strategies for protection
+of wooden underwater cultural heritage in
+the Baltic Sea against marine borers: The EU
+project “WreckProtect”. Conservation and
+Management of Archaeological Sites 14:201–
+214.
+Braje, T. J., T. C. Rick, J. M. Erlandson, M. Anderson, and R. DeLong. 2011. Conflicts in natural
+and cultural resource management: Archaeological site disturbances by seals and sea lions
+on California’s Northern Channel Islands. Journal of Field Archaeology 36:312–321.
+Cannon, A. 2000. Settlement and sea-levels on
+the central coast of British Columbia: Evidence
+from shell midden cores. American Antiquity
+65:67–77.
+Cassar, M., C. Young, T. Weighell, D. Sheppard,
+B. Bomhard, and P. Rosabal. 2006. Predicting
+and Managing the Effects of Climate Change
+on World Heritage. A joint report from the
+World Heritage Centre, its Advisory Bodies, and
+a broad group of experts to the 30th session
+of the World Heritage Committee, UNESCO
+World Heritage Center, Paris, France.
+Daire, M. Y., E. Lopez-Romero, J. N. Proust, H. Regnauld, S. Pian, and B. Shi. 2012. Coastal changes
+and cultural heritage (1): Assessment of the vulnerability of the coastal heritage in Western
+France. Journal of Island & Coastal Archaeology 7(2):168–182.
+Dawson, T. 2013. Erosion and coastal archaeology: Evaluating the threat and prioritising action. In Ancient Maritime Communities and
+the Relationship between People and Environment along the European Atlantic Coasts
+(M. Y. Daire, C. Dupont, A. Baudry, C. Billard,
+J. M. Large, L. Lespez, E. Normand, C. Scarre,
+eds.):77–83. BAR International Series 2570. Oxford: Oxford University Archeopress.
+Erlandson, J. M. 2008. Racing a rising tide: Global
+warming, rising seas, and the erosion of human
+history. Journal of Island & Coastal Archaeology 3:167–169.
+
+VOLUME 10 • ISSUE 3 • 2015
+
+Downloaded by [Smithsonian Institution Libraries] at 09:08 28 October 2015
+
+A Vulnerability Assessment of U.S. Coastal Sites
+
+Erlandson, J. M. and S. M. Fitzpatrick. 2006.
+Oceans, islands, and coasts: Current perspectives on the role of the sea in human prehistory. Journal of Island & Coastal Archaeology
+1(1):5–32.
+Erlandson, J. M. and M. L. Moss. 1999. The systematic use of radiocarbon dating in archaeological
+surveys in coastal and other erosional environments. American Antiquity 64(3):431–443.
+Erlandson, J. M. and T. C. Rick. 2010. Archaeology meets marine ecology: The antiquity of
+maritime cultures and human impacts on marine fisheries and ecosystems. Annual Review
+of Marine Science 2:231–251.
+Evans, A., J. Flatman, and N. Flemming (eds.).
+2014. Prehistoric Archaeology on the Continental Shelf: A Global Review. New York:
+Springer.
+Fitzpatrick, S. M., M. Kappers, and Q. Kaye. 2006.
+Coastal erosion and site destruction on Carriacou, West Indies. Journal of Field Archaeology
+31(3):251–262.
+Flatman, J. 2009. A climate of fear: Recent British
+policy and management of coastal heritage.
+Public Archaeology 8:3–19.
+Gregory, D. J. 2012. Development of tools and
+techniques to survey, assess, stabilise, monitor
+and preserve underwater archaeological sites:
+SASMAP. International Journal of Heritage in
+the Digital Era 1:367–372.
+Gusick, A. E. and M. K. Faught. 2011. Prehistoric
+archaeology underwater: A nascent subdiscipline critical to understanding early coastal occupations and migration routes. In Trekking
+the Shore (N. F. Bicho, J. A. Haws, and L. G.
+Davis, eds.):27–50. New York: Springer.
+Jackson, J. B. C., M. X. Kirby, W. H. Berger, K.
+A. Bjorndal, L. W. Botsford, B. J. Bourque, R.
+H. Bradbury, et al. 2001. Historical overfishing
+and the recent collapse of coastal ecosystems.
+Science 293:629–638.
+Jin, S., L. Yang, P. Danielson, C. Homer, J, Fry,
+and G. Xian. 2013. A comprehensive change detection method for updating the National Land
+Cover Database to circa 2011. Remote Sensing
+of Environment 132:159–175.
+Lewis, R. B. 2000. Sea-level rise and subsidence
+effects on Gulf Coast archaeological site distributions. American Antiquity 65:525–541.
+Mourtzas, N. D. and P. G. Marinos. 1994. Upper
+Holocene sea-level changes: Paleogeographic
+evolution and its impact on coastal archaeological sites and monuments. Environmental
+Geology 23(1):1–13.
+Murphy, P., D. Thackray, and E. Wilson. 2009.
+Coastal heritage and climate change in England: Assessing threats and priorities. Conser-
+
+vation and Management of Archaeological
+Sites 11:9–15.
+Oxley, I. 1998. The investigation of the factors that
+affect the preservation of underwater archaeological sites. In Maritime Archaeology (L. E.
+Babits and H. van Tilburg, eds.):523–529. New
+York: Springer.
+Reeder, L. A., T. C. Rick, and J. M. Erlandson.
+2012. Our disappearing past: A GIS analysis of
+the vulnerability of coastal archaeological resources in California’s Santa Barbara Channel region. Journal of Coastal Conservation 16(2):
+187–197.
+Rick, T. C., J. M. Erlandson, N. P. Jew, and L.
+A. Reeder-Myers. 2013. Archaeological survey,
+paleogeography, and the search for Late Pleistocene Paleocoastal peoples of Santa Rosa Island, California. Journal of Field Archaeology
+38(4):324–331.
+Rick, T. C. and R. Lockwood. 2013. Integrating paleobiology, archaeology, and history to inform
+biological conservation. Conservation Biology
+27:45–54.
+Robinson, M. H., C. R. Alexander, C. W. Jackson,
+C. P. McCabe, and D. Crass. 2010. Threatened
+archaeological, historic, and cultural resources
+of the Georgia Coast: Identification, prioritization and management using GIS technology.
+Geoarchaeology 25(3):312–326.
+Shi, B., J. N. Proust, M. Y. Daire, E. Lopez-Romero,
+H. Regnauld, and S. Pian. 2012. Coastal changes
+and cultural heritage (2): An experiment in
+the Vilaine Estuary (Brittany, France). Journal of Island & Coastal Archaeology 7(2):
+183–199.
+Thieler, E. R. and E. S. Hammar-Klose. 1999. National Assessment of Coastal Vulnerability to
+Sea-Level Rise: Preliminary Results for the U.S.
+Atlantic Coast. U.S. Woods Hole, MA: Geological Survey Open-File Report 99–593.
+Thieler, E. R., and E. S. Hammar-Klose. 2000a. National Assessment of Coastal Vulnerability to
+Sea-Level Rise: Preliminary Results for the U.S.
+Pacific Coast. U.S. Woods Hole, MA: Geological
+Survey Open-File Report 00-178.
+Thieler, E. R. and E. S. Hammar-Klose. 2000b.
+National Assessment of Coastal Vulnerability to Sea-Level Rise: Preliminary Results for
+the U.S. Gulf of Mexico Coast. U.S. Woods
+Hole, MA: Geological Survey Open-File Report
+00-179.
+Westley, K., T. Bell, M. A. P. Renouf, and L.
+Tarasov. 2011. Impact assessment of current
+and future sea-level change on coastal archaeological resources—illustrated examples from
+northern Newfoundland. Journal of Island &
+Coastal Archaeology 6(3):351–374.
+
+JOURNAL OF ISLAND & COASTAL ARCHAEOLOGY
+
+445
+
+

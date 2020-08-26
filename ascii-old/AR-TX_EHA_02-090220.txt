@@ -1,0 +1,2558 @@
+Cultural Resources Survey of
+Two Segments of the
+Oncor Electric Delivery
+Iron Bridge to Duck Cove Rebuild
+Hunt and Van Zandt Counties, Texas
+Texas Antiquities Permit No. 5382
+
+Document No. 090220
+PBS&J Job No. 100006286
+
+CULTURAL RESOURCES SURVEY OF
+TWO SEGMENTS OF THE
+ONCOR ELECTRIC DELIVERY
+IRON BRIDGE TO DUCK COVE REBUILD
+HUNT AND VAN ZANDT COUNTIES, TEXAS
+TEXAS ANTIQUITIES PERMIT NO. 5382
+
+Prepared for:
+Oncor Electric Delivery
+Environment, Safety, and Industrial Health
+Energy Plaza
+1601 Bryan Street
+Dallas, Texas 75201
+Prepared by:
+PBS&J
+18383 Preston Road
+Suite 110
+Dallas, Texas 75252
+
+Principal Investigator:
+Maynard B. Cliff
+
+Report Authors:
+Abigail P. Beck
+Maynard B. Cliff
+
+July 2010
+
+Project Archeologist:
+Abigail P. Beck
+
+Contents
+Page
+List of Figures ......................................................................................................................... iii
+Management Summary ............................................................................................................ iv
+I. INTRODUCTION .......................................................................................................... 1
+II. ENVIRONMENTAL BACKGROUND............................................................................... 3
+PHYSIOGRAPHY AND GEOLOGY .................................................................................... 3
+SOILS ............................................................................................................................. 3
+CLIMATE ........................................................................................................................ 3
+HYDROLOGY .................................................................................................................. 4
+VEGETATION .................................................................................................................. 4
+FAUNA ............................................................................................................................ 5
+III. ARCHEOLOGICAL BACKGROUND.............................................................................. 6
+CULTURAL HISTORY ...................................................................................................... 6
+Paleoindian Period (ca. 9500−6500 B.C.) ................................................................. 6
+Archaic Period (ca. 6500 B.C. to A.D. 700) ............................................................... 6
+Late Prehistoric Period (ca. A.D. 700 to 1700) ......................................................... 7
+Historic Period (post-1700) ..................................................................................... 7
+PREVIOUS ARCHEOLOGICAL INVESTIGATIONS .......................................................... 10
+IV. RESEARCH DESIGN AND METHODOLOGY................................................................12
+BACKGROUND RESEARCH AND RECORDS CHECK .................................................... 12
+PEDESTRIAN SURVEY .................................................................................................. 12
+V. RESULTS ..................................................................................................................14
+BACKGROUND RESEARCH AND RECORDS CHECK .................................................... 14
+PEDESTRIAN SURVEY .................................................................................................. 15
+VI. RECOMMENDATIONS...............................................................................................20
+VII. REFERENCES .........................................................................................................21
+Appendices:
+A
+Project Area Map with Site Locations (Not for Public Disclosure)
+B
+Shovel Test Data
+
+10006286/090220
+
+ii
+
+Contents
+
+Figures
+Page
+1
+2
+3
+4
+5
+6
+7
+
+Project Location Map ............................................................................................... 2
+General View of the Tawakoni WMA Segment ........................................................ 16
+General View of the Lake Tawakoni state Park Segment ........................................ 16
+Tawakoni WMA Special Waterfowl Hunting Unit, Shovel Test Locations ................ 17
+Lake Tawakoni State Park Shovel Test Locations .................................................. 18
+Photograph of the isolated find, a single chert flake............................................... 19
+View from the area of the isolated find across the Tawakoni State Park
+segment ................................................................................................................ 19
+
+10006286/090220
+
+iii
+
+Management Summary
+PBS&J conducted a cultural resources survey of two segments of the proposed Iron Bridge to Duck Cove
+transmission line rebuild at the request of Oncor Electric Delivery, from August 31, 2009, to September 1,
+2009. The proposed rebuild involves the replacement of 8 kilometers (5 miles) of wood, H-frame 69 kV
+transmission line between the existing Iron Bridge Substation in Hunt County and the Duck Cove
+Substation in Van Zandt County. The rebuilt line will be supported by single-pole steel or concrete
+structures on concrete foundations and will be within the existing Oncor right of way that is
+approximately 31 meters (m) (100 feet [ft]) wide. Of the line’s total length, approximately 427 m
+(1,400 ft) will cross the Tawakoni Wildlife Management Area Special Waterfowl Hunting Unit, owned by
+the Sabine River Authority and leased to Texas Parks and Wildlife Department. A second segment of
+approximately 1,245 m (4,085 ft), minus 195 m (640 ft) that is submerged by Mustang Cove, will be
+located adjacent to Lake Tawakoni, also on land owned by the Sabine River Authority and leased to
+Texas Parks and Wildlife Department as part of Tawakoni State Park. The Tawakoni Wildlife
+Management Area segment is estimated to cover 3.2 acres (1.3 hectares), while the Tawakoni State Park
+segment is estimated to cover 7.9 acres (3.2 hectares). Texas Parks and Wildlife has agreed to allow the
+Sabine River Authority to be the lead State Agency for purposes of cultural resources coordination for
+both segments. Since the Sabine River Authority is a political subdivision of the State of Texas, it falls
+under the jurisdiction of the Texas Antiquities Code, and the survey of the two segments was conducted
+under Texas Antiquities Permit No. 5382.
+According to the archeological records of the Texas Archeological Sites Atlas Online and the files at the
+Texas Archeological Research Laboratory, three sites (41HU15, 41HU79, and 41VN8) had previously
+been recorded within 305 m (1,000 ft) of the Oncor right of way. Thus, the project area was considered to
+have a high probability of possessing cultural resources and was subjected to intensive archeological
+survey. Two transects spaced 30 m (98 ft) apart were walked along the entire length of the two segments
+and shovel tests were excavated at 30-m intervals. Ninety-three shovel tests were excavated, resulting in a
+density of 8.4 shovel test per acre, or 20.7 shovel tests per hectare. No cultural materials related to the
+previously recorded sites were recovered within the right of way. One isolated find (a single chert flake)
+was recovered in a shovel test on the edge of the right of way at the southern border of the Tawakoni
+State Park segment; however, despite additional shovel testing conducted to investigate the area, no
+further cultural materials could be located.
+Despite intensive shovel testing, no archeological sites and no significant cultural remains were located
+within the two segments of the rebuild that were surveyed. Based on these results, it is recommended that
+the proposed Iron Bridge to Duck Cove Rebuild be allowed to proceed across Sabine River Authority
+property without any further consultation with the Texas Historical Commission. However, if evidence of
+presently undiscovered cultural remains is encountered during construction on Sabine River Authority
+property, it is recommended that the discovery be evaluated by a qualified archeologist who can provide
+recommendations on how to proceed in accordance with federal and state regulations.
+
+10006286/090220
+
+iv
+
+Management Summary
+
+No artifacts were recovered during fieldwork. Final project records and photographs will be curated at the
+Texas Archeological Research Laboratory of The University of Texas at Austin.
+
+10006286/090220
+
+v
+
+I. INTRODUCTION
+PBS&J was contracted by Oncor Electric Delivery (Oncor) (formerly TXU Electric Delivery) to conduct
+a cultural resources survey of two segments of the proposed Oncor Iron Bridge to Duck Cove 69-kilovolt
+(kV) transmission line rebuild that cross property belonging to the Sabine River Authority. Oncor is
+rebuilding about 8 kilometers (km) (5 miles) of 69-kV transmission line between the existing Iron Bridge
+Substation in Hunt County, and the Duck Cove Substation in Van Zandt County (Figure 1). The present
+wood, H-frame structures will be replaced by single-pole steel or concrete structures on concrete
+foundations. The rebuilt line will be located entirely within the existing Oncor right of way (ROW) that is
+approximately 31 meters (m) (100 feet [ft]) wide. Of the line’s total length, approximately 427 m
+(1,400 ft) will cross the Tawakoni Wildlife Management Area (WMA) Special Waterfowl Hunting Unit;
+owned by the SRA and leased to Texas Parks and Wildlife Department (TPWD). A second segment of
+approximately 1,245 m (4,085 ft), minus 195 m (640 ft) that is submerged by Mustang Cove, will be
+located adjacent to Lake Tawakoni, also on land owned by the SRA and leased to TPWD as part of
+Tawakoni State Park. Texas Parks and Wildlife has agreed to allow SRA to be the lead State Agency for
+purposes of cultural resources coordination for both tracts. Since the SRA is a political subdivision of the
+State of Texas, it falls under the jurisdiction of the Texas Antiquities Code and the two tracts in question
+required a pedestrian survey, conducted under Texas Antiquities Permit No. 5382, including consultation
+with the Texas Historical Commission (THC). For the sake of convenience, these two areas will be
+referred to as the Tawakoni WMA segment and the Tawakoni State Park segment (see Figure 1). The
+Tawakoni WMA segment is estimated to cover 3.2 acres (1.3 hectares), while the Tawakoni State Park
+segment is estimated to cover 7.9 acres (3.2 hectares).
+These investigations were conducted in compliance with the Texas Antiquities Code of 1977, as revised
+through 1995 (Texas Natural Resource Code: Title 9, Chapter 191); the National Historic Preservation
+Act of 1966 (PL 89-665), as amended in 1974, 1976, 1980, and 1992; the National Environmental Policy
+Act of 1969 (PL 91-190, 83 Stat. 915 USC 4231, 1970); the Procedures for the Protection of Historic and
+Cultural Properties (36 CFR 800); the Archeological Resources Protection Act of 1979; as well as the
+guidelines set forth by the Council of Texas Archeologists and the Register of Professional
+Archaeologists.
+The following report presents a brief description of the natural setting of the project area followed by a
+discussion of the cultural history and previous archeological investigations conducted in the area. A
+description of the survey methodology followed by the results of the field investigation is presented next
+and the report concludes with a list of the references cited.
+
+10006286/090220
+
+1
+
+I. Introduction
+
+10006286/090220
+
+2
+
+II. ENVIRONMENTAL BACKGROUND
+PHYSIOGRAPHY AND GEOLOGY
+The Tawakoni WMA segment and the Tawakoni State Park segment are located in northwestern Van
+Zandt County and southeastern Hunt County, respectively (see Figure 1). Physiographically, both
+segments lie within the Blackland Prairies region of Texas, which is characterized by rolling to nearly
+level plains and black, calcareous, heavy clay soils (Bureau of Economic Geology [BEG] 1996). The
+segments are underlain by the Paleocene–aged Midway Group, composed of the Pisgah and Littig
+members of the Kincaid Formation. The sediments in this formation are dominated by sand and clay
+underlain by interbedded Cretaceous chalks, marls, limestones, and shales. Neither segment contains any
+mapped recent alluvium or fluviatile terrace deposits, although Quaternary deposits are present less than a
+kilometer to the east of the Tawakoni WMA segment (Bailey et al. 1994; BEG 1988).
+
+SOILS
+The soils of the Blackland Prairies are mostly fine-textured, dark, calcareous, and productive Vertisols.
+The Tawakoni WMA segment is situated on two different soil map units (United States Department of
+Agriculture, Natural Resources Conservation Service [USDA, NRCS] 1998). Lufkin-Rader series soils
+are mapped for the western portion of the segment. These soils consist of nearly level soils on high stream
+terraces that have flats, shallow depressions, and scattered natural rises on the surface. Typically LufkinRader soils possess an upper layer of sandy loam or loam between about 20 to 60 centimeters (cm) (8–
+24 inches) thick underlain by a clay loam or sandy clay loam subsoil (USDA, NRCS 1998:24). Edge fine
+sandy loam is mapped for the eastern portion of the segment. Edge fine sandy loam consists of strongly
+sloping soils on uplands above streams. This map unit typically has an upper layer of about 15 cm
+(6 inches) of fine sandy loam underlain by clay subsoil (USDA, NRCS 1998:19).
+The Tawakoni State Park segment is also situated on two soil map units (USDA, Soil Conservation
+Service [SCS] 1981). The units are Axtell loam, 2 to 5 percent slopes, and Axtell loam, 5 to 12 percent
+slopes. The former consists of gently sloping soils on upland ridgetops and sideslopes above drainages.
+This map unit typically has an upper layer of loam about 30 cm (12 inches) thick with clay subsoil
+(USDA, SCS 1981). The latter consists of sloping to strongly sloping soils on narrow, upland sideslopes
+above drainages. Typically, this map unit has an upper layer of loam about 35 cm (14 inches) thick with
+clay subsoil (USDA, SCS 1981).
+
+CLIMATE
+The climate of Hunt and Van Zandt counties is subtropical and humid with hot summers and cool winters,
+and fairly evenly distributed precipitation throughout the year. The prevailing wind is from the southeast.
+The Gulf of Mexico has a significant effect on the weather, ameliorating the effects of both summer heat
+and winter cold. It also serves as the source of the moisture that feeds the abundant rainfall in the region.
+
+10006286/090220
+
+3
+
+II. Environmental Background
+
+Monthly temperatures for Hunt County recorded at Greenville for the period from 1951 to 1975 ranged
+from an average of 5.7 degrees Celsius (°C) (42.2 degrees Fahrenheit [°F]) for January, to an average of
+28.2°C (82.7°F) for August. The average annual precipitation for Hunt County is about 104 cm
+(41 inches), about half of which usually falls between April and September (USDA, SCS 1981:Table 1).
+Monthly temperatures for Van Zandt County recorded at Wills Point for the period from 1961 to 1990
+ranged from an average of 5.7°C (42.4°F) for January, to an average of 28.6°C (83.5°F) for August. The
+average annual precipitation for Van Zandt County is about 109 cm (43 inches) (USDA, NRCS
+1998:Table 1).
+
+HYDROLOGY
+The project area lies entirely within the Sabine River basin. The Sabine River basin is relatively long and
+narrow, with a length of approximately 483 km (300 miles) and a maximum width of approximately
+77 km (48 miles). The crescent-shaped basin extends in a general southeasterly direction for about
+265 km (165 miles) from its source in Hunt County, Texas, to the Texas-Louisiana border near
+Logansport, Louisiana, then south to Sabine Lake and the Gulf of Mexico. The Sabine River basin is
+bounded on the north and northeast by the Red River basin, on the east by the Calcasieu River basin, on
+the west by the Neches River basin, and on the northwest by the Trinity River basin (Sabine River
+Authority 2008). The Neches River rises in eastern Van Zandt County, and the Sabine River forms part of
+the northeastern county line. Creeks in the eastern portion of the county are part of the Trinity River
+watershed (Kozlowski 2002). The northeastern part of Hunt County is drained by the Sulphur River, and
+the remainder is drained by the Sabine (Harper 2002).
+Lake Tawakoni is the largest lake that is located near the project area. The lake is on the Sabine River in
+Rains and Van Zandt counties, 9 miles northeast of Wills Point and extends into Hunt County. It is
+impounded by Iron Bridge Dam, an earth-fill dam with a concrete spillway. The project is owned and
+operated by the Sabine River Authority. The lake has a capacity of 1.15 billion cubic meters
+(936,200 acre-feet) and a surface area of 36,700 acres (14,852 hectares) at the spillway crest elevation of
+133 m (437.5 ft) above mean sea level. Lake Tawakoni’s shoreline is in Rains, Hunt, and Van Zandt
+counties and extends for 322 km (200 miles). The drainage area above the dam is almost 2,000 square
+kilometers (756 square miles) (Breeding 2002).
+
+VEGETATION
+The TPWD maps show the project area as consisting of the Post Oak Woods, Forest, and Grassland
+Mosaic vegetation type (1984). Historically, the prairie openings of this vegetation type were dominated
+by little bluestem (Schizachyrium scoparium), big bluestem (Andropogon gerardii), yellow Indiangrass
+(Sorghastrum nutans), and tall dropseed (Sporobolus asper). In lowlands and more-mesic locations,
+dominant grasses were eastern gamagrass (Tripsacum dactyloides) and switchgrass (Panicum virgatum).
+On loamy Alfisol soils, grass communities dominated by Silveanus dropseed (Sporobolus silveanus),
+Mead’s sedge (Carex meadii), bluestems (Andropogon spp.), and long-spike tridens (Tridens strictus)
+10006286/090220
+
+4
+
+II. Environmental Background
+
+were prevalent. Common forbs included asters (Aster spp.), prairie bluet (Hedyotis nigricans), prairie
+clovers (Dalea spp.), and black-eyed susan (Rudbeckia hirta). Wooded stream bottoms contained bur oak
+(Quercus macrocarpa), Shumard oak (Quercus shumardii), sugar hackberry (Celtis laevigata), elm
+(Ulmus spp.), ash (Fraxinus spp.), eastern cottonwood (Populus deltoides), and pecan (Carya
+illinoinensis). Upland wooded patches were dominated by post oak (Quercus stellata), blackjack oak
+(Quercus marilandica), eastern redcedar (Juniperus virginiana), and black hickory (Carya texana). Much
+of the area has been converted to cropland and non-native pasture (Diggs et al. 1999; Griffith et al. 2004).
+
+FAUNA
+The project area lies within the Texan Biotic Province as described by Blair (1950:101–102). This biotic
+province is a transitional area between the forested Austroriparian province to the east and the grasslands
+to the west, which results in a mixture of species typical of the two general habitats. Typical mammals of
+this province include the Virginia opossum (Didelphis virginiana), eastern mole (Scalopus aquaticus),
+fox squirrel (Sciurus niger), Louisiana pocket gopher (Geomys breviceps), fulvous harvest mouse
+(Reithrodontomys fulvescens), white-footed mouse (Peromyscus leucopus), hispid cotton rat (Sigmodon
+hispidus), eastern cottontail (Sylvilagus floridanus), and swamp rabbit (S. aquaticus). Animals typical of
+grasslands within this province include the thirteen-lined ground squirrel (Spermophilus
+tridecemlineatus), hispid pocket mouse (Chaetodipus hispidus), deer mouse (Peromyscus maniculatus),
+and black-tailed jackrabbit (Lepus californicus). Typical anuran species are the Hurter's spadefoot
+(Scaphiopus holbrookii hurteri), Gulf Coast toad (Bufo valliceps), Woodhouse's toad (Bufo woodhousii),
+gray treefrog (Hyla versicolor/chrysoscelis), green treefrog (Hyla cinerea), bullfrog (Rana catesbeiana),
+southern leopard frog (Rana sphenocephala), and eastern narrowmouth toad (Microhylla carolinensis). In
+addition, 39 types of snakes can be found along with both species of terrapene (Terrapene ornate and T.
+carolina).
+
+10006286/090220
+
+5
+
+III. ARCHEOLOGICAL BACKGROUND
+CULTURAL HISTORY
+The project area lies within the Prairie-Savanna Archeological Region, as defined by the THC (Kenmotsu
+and Perttula 1993:Figure 1.1.2; Prikryl 1993). The general cultural history of this area, based on previous
+research, can be divided into four primary chronological and developmental periods: Paleoindian,
+Archaic, Late Prehistoric, and Historic. The three prehistoric periods have been defined on the basis of
+economic adaptations and specific diagnostic artifactual materials. Each period generally reflects a
+change in subsistence patterns identified by changes in material remains and settlement patterns. The
+Historic period reflects both the effects of European exploration on the indigenous populations of the area
+and the actual settlement of the region by Euro-Americans. Historic sites reflect ranching, farming, and
+related activities, since these have been the primary means of subsistence during much of the Historic
+period in the region.
+
+Paleoindian Period (ca. 9500−6500 B.C.)
+The Paleoindian period is the earliest defined cultural period in North America. Chronologically, it
+extends from the terminal Pleistocene into the early Holocene. Subsistence may have been based, in part,
+upon hunting the now-extinct megafauna of the late Pleistocene, including mammoths and extinct species
+of bison (Bison antiquus), as well as on the collecting of plants and small animals. Social organization
+probably consisted of loosely structured, highly mobile social groups composed of several nuclear
+families. Such groups are generally referred to as “bands.” Archeological sites of this period often seem to
+be representative of transient camps along small streams occupied by band-sized or smaller groups.
+Larger occupation sites, often referred to as “base camps,” are relatively rare. Overall population density
+is thought to have been rather low during this period.
+Diagnostic artifacts of this period include a variety of finely chipped, sometimes fluted, lanceolate
+projectile points such as Clovis, Folsom, Plainview, Scottsbluff, and Angostura. The latter is a transitional
+point type, which has also been found in early Archaic sites in this region (Prikryl 1990:Figure 24).
+
+Archaic Period (ca. 6500 B.C. to A.D. 700)
+The Archaic period, beginning about 6500 B.C., is characterized by a diversification in subsistence
+patterns with an increased reliance upon the hunting of modern species of game, including deer and
+rabbit, as well as the collecting of edible plants. Changes in material culture during the Archaic period are
+believed to reflect somewhat larger and more-localized populations, as well as changes in the methods of
+food procurement and food processing. Although early Archaic populations made their living in much the
+same way as their Paleoindian predecessors, the Archaic period as a whole can be characterized as having
+more-specialized resource-procurement activities as well as more-specialized technology to conduct these
+activities.
+
+10006286/090220
+
+6
+
+III. Archeological Background
+
+Scatters of lithic debris (the residue of stone tool manufacture) are one of the most common archeological
+site types of the Archaic period in this region. Early Archaic sites (ca. 6500–4000 B.C.) are generally
+characterized by surface scatters consisting of burned rocks, hammerstones, heavy utilitarian bifaces (i.e.,
+choppers), gouges, and occasional dart points. Gouges, especially prevalent during the Early Archaic,
+declined in frequency during the Middle (ca. 4000–1500 B.C.) and Late (ca. 1500 B.C.–A.D. 700) Archaic
+periods. By the Late Archaic period, artifact assemblages were characterized by corner-notched dart
+points, ovate knives, thick end scrapers, and ground stone artifacts. Characteristic diagnostic artifacts of
+the Early Archaic include what are called Early Split Stemmed points; characteristic artifacts of the
+Middle Archaic include Basal Notched, Carrollton, and Wells points; and characteristic projectile points
+of the Late Archaic include Yarbrough, Trinity, Ellis, Edgewood, Elam, Godley, Dallas, and Gary types
+(Prikryl 1990:Figure 24).
+
+Late Prehistoric Period (ca. A.D. 700 to 1700)
+The Late Prehistoric period represents a significant change from earlier patterns in the region. It is marked
+first by the appearance of arrow points and subsequently by the introduction of ceramics. Several
+researchers (Ferring and Yates 1997; Lynott 1977; Prikryl 1990) have distinguished an early and a late
+phase for this period. The early phase (ca. A.D. 700–1200) is generally characterized by sand-and-grogtempered ceramics, Scallorn and Alba arrow points, and a continuation of the foraging subsistence pattern
+of the Late Archaic, although horticulture is present at some sites in the upper Trinity River drainage
+(Peter and McGregor 1988). The late phase (ca. A.D. 1200–1700) reflects a Southern Plains influence with
+the appearance of shell-tempered Nocona Plain ceramics, various unstemmed triangular arrow points
+(e.g., Fresno, Harrell, and Washita), and Perdiz points. Evidence for horticulture and bison hunting also
+appear in sites of this late phase.
+Contact began with the arrival of European and later American immigrants in this region. Native
+American groups either remaining or moving into this area during this time include the Tonkawa,
+Apache, Comanche, Wichita, Kitsai (Kichai), Yojuane, Caddo, Delaware, and Kickapoo (Prikryl 1993).
+Trade items from this period include glass beads, European-made ceramics, gun parts, and metal arrow
+points. Sites dating to this time in this region include the Stansbury site (41HI9) (Gregory 1973; Jelks
+1970), the Gas Plant site (41ML28) (Jensen 1967), the Walton site (41ML65) (Story 1985), and the
+Vinson site (41LT1) (Smith 1993).
+
+Historic Period (post-1700)
+The Historic period of the greater Texas area effectively began with the explorations of the Spanish,
+including Luis de Moscoso (with the remnants of the De Soto expedition), Francisco de Coronado, and
+Cabeza de Vaca, who first explored the region beginning about 1528 (Arbingast et al. 1976). Various
+Spanish missions were founded in east and central Texas throughout the eighteenth century. Following
+the founding of the French colony of Louisiana in the early 1700s, French explorers and traders were an
+important presence in this area of Texas, as well.
+10006286/090220
+
+7
+
+III. Archeological Background
+
+Following Mexico’s independence from Spain in 1821, the early period of Anglo-American immigration
+and settlement began. For the duration of Mexico’s control over Texas, there was very little AngloAmerican or other immigrant European settlement in the north Texas area. The few settlers that did arrive
+were usually small farmers or traders.
+During the Republican period, before Texas was annexed as a state by the United States in 1845,
+settlement spread primarily along major waterways, such as the Sabine River, and trading paths that ran
+overland. Since the proposed transmission line rebuild is in an area that was some distance from the major
+cotton-producing areas along the Red, Brazos, and lower Trinity rivers, the regional population at this
+time was largely white, with only a few African Americans. Nevertheless, the region’s population as a
+whole generally supported the South’s secession immediately prior to the Civil War. As a result of the
+Civil War, the arrival of rail transportation into the area was delayed until well into the postwar
+Reconstruction period.
+Hunt County was formed from Fannin and Nacogdoches counties in 1846. It was named for Memucan
+Hunt, the first Texas minister to Washington. Although large portions of the county were suitable for
+growing cotton, a slaveholding-cotton plantation society did not develop in Hunt County during the
+antebellum years due to the lack of transportation. No navigable watercourses or railroads served the area,
+and the nearest viable market was Jefferson, 193 km (120 miles) to the east. As a result, a self-sufficient,
+“yeoman-farmer” economy developed. Most of the 6,053 white residents in the county in 1860 were
+natives of southern states.
+Following the Civil War, railroad connections were established within 48 km (30 miles) of the county
+seat. In October 1880 the first train pulled into Greenville on tracks laid by the East Line and Red River
+Railroad, and the next year the Missouri, Kansas and Texas Railroad extended its line from Mineola to
+Greenville. By 1904 seven rail lines crossed some part of the county. Hunt County remained primarily
+rural, with an economy that depended heavily on agriculture, but it was no longer a small and isolated
+yeoman-farmer society. From a population of 6,630, with 412 farms and a cotton crop of 22 bales in
+1860, Hunt County had grown to a population of 47,295, with 5,946 farms and a cotton crop in excess of
+50,000 bales in 1900. Cotton provided the county with its principal cash crop through the first half of the
+twentieth century, as cotton production remained above 50,000 bales a year. Although agriculture
+continued to be a significant aspect of the county’s economy, by 1982 its role was a small one compared
+to that of industry. Between 1960 and 1980, efforts to attract industry to the county began to show
+success. By 1980 the population was largely urban (Harper 2002).
+In 1848, Van Zandt County was established from part of Henderson County. It was named for Republic
+of Texas leader Isaac Van Zandt. In 1850, Wood County was carved out of Van Zandt County, and the
+Van Zandt county seat was moved from Sabine Lake (Jordon’s Saline) to Canton. The 1850 census
+recorded 1,348 residents in the county, 92 percent of whom came from southern states, with the largest
+number from Tennessee and Alabama. A small number of European immigrants were also present,
+including a Norwegian colony settled by Johan Reierson at Four Mile Prairie in the southwestern portion
+10006286/090220
+
+8
+
+III. Archeological Background
+
+of the county. During its early years, the economy of Van Zandt County was largely based on subsistence
+farming, although some settlers also engaged in the salt trade. Native Americans had previously been
+extracting salt in the northeastern part of the county, near the site of present Grand Saline; and John
+Jordan had a salt extraction operation at Jordan’s Saline in 1845. Plantation farming did not prove
+profitable in Van Zandt County, and the slave population dropped to 322 in 1860, out of a total county
+population of 6,494.
+Subsistence farming continued to be dominant in Van Zandt County throughout the early postwar years,
+led by corn and hog production. One or two families typically worked a farm, and much of the county
+remained forested. As late as 1870, only 28 of the 590 farms in the county were larger than 100 acres,
+with only 22,195 improved acres in the county. The produce that was sold outside the county was hauled
+overland 201 km (125 miles) to Shreveport, Louisiana, because there was no local railroad connection.
+The situation began to change in 1873, when the Texas and Pacific Railway was completed. The railroad
+opened up the county for settlement and provided much better access to outside markets, resulting in a
+rapid expansion of the farming economy. Between 1870 and 1880, the population of the county nearly
+doubled, from 6,494 to 12,619, and by 1890 the number of residents reached 16,225. The number of
+farms also grew rapidly during the same period, increasing to 1,607 in 1880 and 2,345 a decade later, as
+did the amount of improved acreage, which rose nearly fivefold between 1870 and 1890.
+After 1900, cotton began to be grown on a commercial scale; and by 1910, it had emerged as the county’s
+leading crop, with more than 83,527 acres devoted to its production. Cotton production grew until the
+Great Depression when falling prices, soil depletion, and boll weevil infestations combined to drive down
+production and profits. Many tenant farmers suffered as a result, and a sizeable number were eventually
+forced off the land. The Depression was partially tempered in Van Zandt County by the expansion of the
+Morton Salt Works at Grand Saline and the discovery of oil near Van in the eastern portion of the county
+in 1929. New Deal relief programs, such as the Civil Works Administration, drained swamps for malaria
+control. The Public Works Administration provided funds for construction of the present courthouse,
+which was completed in 1937, and for local road improvements. The Rural Electrification Administration
+extended electric power to rural areas in cooperation with Texas Power and Light Company. After World
+War II, increased mechanization resulted in decreases in the numbers of both farms and workers, resulting
+in a pronounced population exodus. Between 1940 and 1950, the county population fell from 31,155 to
+22,593, and by 1960 it declined to 19,091, as numerous residents moved away to seek better opportunities
+in the cities. The construction of a petroleum refinery near Edgewood in 1963 and the continued presence
+of the Morton Salt Company at Grand Saline aided the economy, as did the recreational opportunities
+afforded by the completion of Lake Tawakoni and the development of Interstate Highway 20 through the
+county. The trend toward economic diversification has continued in recent years. In 1988, the average
+annual income from agricultural products was $51 million; 7 percent of this was from cattle, hogs, and
+dairy products. In the early 1990s, Van Zandt County was a leading producer of beef cows, hay, and
+sweet potatoes (Kozlowski 2002).
+
+10006286/090220
+
+9
+
+III. Archeological Background
+
+PREVIOUS ARCHEOLOGICAL INVESTIGATIONS
+J.E. Pearce of the University of Texas conducted the earliest professional work in the Prairie-Savanna
+Archeological Region. This research was conducted using funding from the Bureau of American
+Ethnology. During the 1920s and 1930s, A.T. Jackson conducted archeological reconnaissance in several
+counties in the region (Jackson 1938). The Works Progress Administration conducted survey work in
+Freestone County during the 1930s. Avocational archeologists have also made many contributions to the
+knowledge of aboriginal peoples in the Prairie-Savanna Archeological Region (Prikryl 1993).
+Some of the earliest work in the region was conducted in the 1930s and 1940s by members of the Dallas
+Archaeological Society (DAS). The work of the DAS founders, R.K. (King) Harris and Forrest Kirkland,
+focused largely on the location and investigation of sites in the upper Trinity River basin. The efforts of
+the DAS in Dallas, Denton, and other nearby counties greatly expanded the database of sites that were
+known at the time. However, it was not until 1946 that the information gathered by the DAS was
+incorporated into a cultural chronology by Alex Krieger (1946).
+Following World War II, Robert L. Stephenson of the Smithsonian Institution’s River Basin Survey
+program conducted several archeological surveys in connection with planned reservoir development
+projects in the upper Trinity River basin. While Stephenson made significant finds in Collin County, at
+the then-proposed Lavon Reservoir, little important archeological evidence was recovered from
+Grapevine Reservoir, located in Tarrant and Denton counties. Archeological data recovered from
+Lewisville Reservoir in Denton County and Lavon Reservoir in Collin County were integral to the
+development of the first major cultural chronology for the state (Suhm et al. 1954). Suhm, Krieger, and
+Jelks placed the area that today includes the project area on the southeastern edge of the north central
+Texas culture area, and incorporated four regional cultural foci — Carrollton, Elam, Wylie, and Henrietta.
+During the 1950s and 1960s, additional archeological research was conducted by a variety of institutions
+and individuals, primarily along the Elm and East forks of the Trinity River. Most of this work was
+directed toward validating and refining the cultural chronological concepts and patterns published in
+Suhm et al. (1954). In 1957 LeRoy Johnson and W. A. Davis conducted a reconnaissance of the Lake
+Tawakoni reservoir (then called Iron Bridge Reservoir). They found 22 sites, a number of which
+contained Archaic and Late Prehistoric occupations and one with evidence of historic Native American
+occupation. They recommended further investigation for this and 12 other sites (Guy 1990). With the
+passage of state and federal laws to protect cultural resources from the potential adverse effects of
+construction projects, the number of archeological investigations began to increase. The principal goal of
+such investigations was to identify archeological sites that might be impacted and to mitigate the adverse
+effects through avoidance or data recovery.
+The Richland Creek Archaeological Project made significant contributions to the archeological record of
+the Prairie-Savanna Archeological Region during the 1980s (Bruseth and Moir 1987). The fieldwork
+connected with the project recovered data relevant to prehistoric subsistence strategies and local and
+10006286/090220
+
+10
+
+III. Archeological Background
+
+regional human adaptive patterns from the Middle Archaic through the Late Prehistoric periods. In
+addition, investigation of historic archeological sites (ca. 1850–1940) contributed to the archeological,
+architectural, documentary, and ethnographic studies of rural lifeways in the area, including regional
+trends in material culture, architecture, and cultural geography.
+
+10006286/090220
+
+11
+
+IV. RESEARCH DESIGN AND METHODOLOGY
+BACKGROUND RESEARCH AND RECORDS CHECK
+Basic background research for this investigation included examining files at TARL for the locations of
+previously recorded archeological sites and reviewing the THC’s Texas Historic Sites Atlas Online and
+the Restricted Texas Archeological Sites Atlas Online database for State Archeological Landmarks,
+properties listed on the National Register of Historic Places (NRHP), historical markers, Texas Historic
+Cemeteries, and previous investigations (THC 2009).
+Prior to the initiation of the present fieldwork, PBS&J conducted a records check in search of sites
+recorded within or close to the rebuild project ROW. In addition, earlier maps of the project area were
+examined for the location of any early-twentieth-century structures within or close to the ROW. These
+maps included the 1933 and 1939 Soils Maps for Hunt and Van Zandt counties (United States Bureau of
+Chemistry and Soils 1933, 1939), the 1940 General Highway Map for Hunt County (Texas State
+Highway Department [TSHD] 1940), and the 1936 General Highway Map for Van Zandt County (TSHD
+1936).
+The literature and records review revealed three previously recorded archeological sites within 305 m
+(1,000 ft) of the project area. Site 41VN8 was identified north of the Tawakoni WMA segment; and sites
+41HU15 and 41HU79 were identified east of the Tawakoni State Park segment. All three sites are located
+on property owned by the Sabine River Authority and leased to TPWD. These three sites are discussed
+further in Chapter V.
+
+PEDESTRIAN SURVEY
+A crew of PBS&J archeologists conducted a 100 percent pedestrian survey with supplemental shovel
+testing of the Oncor ROW within the Tawakoni WMA segment and the Tawakoni State Park segment on
+August 31 and September 1, 2009. The field methodology, previously approved by the THC in the
+generic research design for Oncor transmission line projects in Texas (PBS&J 2008), called for the two
+segments to be stratified into High Probability Areas (HPAs), Moderate Probability Areas (MPAs), and
+Low Probability Areas (LPAs) on the basis of perceived likelihood for the occurrence of unidentified
+cultural resource properties. HPAs are defined as possessing the greatest cultural resource potential. Site
+integrity is also presumed to be highest in these areas. HPAs generally include areas of interfluve summits
+and shoulderslopes, which contain deep soils and lie within 305 m (1,000 ft) of natural water sources.
+They also include levee remnants and rises within floodplains, toeslopes, and lower alluvial terraces,
+although no such areas were present in either of the two segments of concern for this project. HPAs were
+initially defined on maps prior to the field effort and were adjusted during the actual survey based on
+microtopography, soil conditions, and the degree of surface erosion or disturbance. MPAs were defined in
+the field as areas of undisturbed uplands, undisturbed areas greater than 305 m (1,000 ft) from water, and
+nonbedrock or undisturbed slopes of greater than 20 percent but less than 45 percent. LPAs were also
+10006286/090220
+
+12
+
+IV. Research Design and Methodology
+
+defined in the field as areas of very steep slopes (i.e., greater than 45 percent), exposed bedrock, modern
+development, or extensive ground disturbance, such as mass wasting, sheet erosion, or cedar clearance. In
+this particular case, all of the Tawakoni State Park segment and most of the Tawakoni WMA segment
+were identified as HPAs.
+Shovel tests were approximately 30 cm (12 inches) in diameter and were excavated in arbitrary levels not
+exceeding 10 cm (4 inches). The shovel tests were excavated to clay subsoil (the Bt horizon) and all were
+backfilled upon completion. Information relating to each shovel test was recorded on a shovel test form,
+including a description of the sediments present, the general environmental setting of the shovel test, its
+Universal Transverse Mercator coordinates, any artifacts that were present, and any additional comments.
+
+10006286/090220
+
+13
+
+V. RESULTS
+BACKGROUND RESEARCH AND RECORDS CHECK
+The archeological records of the Texas Archeological Sites Atlas Online of the THC and the files at the
+Texas Archeological Research Laboratory (TARL) of The University of Texas at Austin, revealed three
+previously recorded archeological sites within 305 m (1,000 ft) of the Oncor rebuild project (see
+Appendix A). Site 41VN8 was identified north of the Tawakoni WMA segment, and sites 41HU15 and
+41HU79 were identified east of the Tawakoni State Park segment. All three sites are located on property
+owned by the Sabine River Authority and leased to TPWD.
+Site 41VN8 was initially recorded in 1957 as part of the Iron Bridge Reservoir study for the River Basin
+Survey (Johnson and Davis 1957a). This site was recorded as an open occupation, nonceramic site of
+unknown cultural affiliation. “Stone artifacts and various sundry chips and flakes” were observed in
+erosional cuts on the east side of the hill overlooking Duck Creek scattered over an estimated area of
+between 5 and 10 acres (2–4 hectares). No further work was recommended at the time. The site was
+revisited in 2007 during pipeline construction for the North Texas Municipal Water District (Todd 2007a,
+2007b). At that time, four flakes and one manuport were found lying on the surface of the cleared pipeline
+ROW, south of the Oncor ROW, but no subsurface material was reported from a series of trackhoe
+trenches. The investigators concluded that 41VN8 did not extend as far south as the pipeline ROW, and
+no further work was recommended at that time, either. Prior to the current investigations, it was unclear
+whether 41VN8 extended into the Oncor ROW. Even if the conclusion that the site did not extend south
+of the Oncor ROW was correct, it was potentially present within the Oncor ROW itself.
+Site 41HU15 was also initially recorded in 1957 as part of the Iron Bridge Reservoir Project (Johnson and
+Davis 1957b). It was also recorded as an open occupation, nonceramic site possibly affiliated with the
+“East Texas Aspect” (an early term for the Archaic in east Texas). It reportedly consisted of “stone
+material and artifacts eroding out of cuts in [the] south slope of a low hill.” One Gary dart point and one
+Edgewood dart point base were reported. The occupation area was estimated at 0.25 acre (0.1 hectare).
+Again, no further work was recommended. Prior to the current investigations, it was unclear whether
+41HU15 extended into the Oncor ROW. The site is shown east of the ROW on the TARL maps, but very
+close to it (see Appendix A).
+Finally, 41HU79 was recorded in 2006 by TPWD (McMakin 2006). At that time, it was reported to be a
+multicomponent site consisting of a historic period farmstead and a probable prehistoric game
+procurement site. A general surface collection was made, reportedly consisting of artifacts eroding out of
+a bank at the edge of Lake Tawakoni on the south side of Mustang Cove. Artifacts present reportedly
+included bricks, mortar, cut nails, historic ceramics (including stoneware, ironstone, and porcelain), lithic
+flakes, and a stemmed projectile point, probably an Archaic Gary point. The remains of a brick-lined well
+in the wash zone of the lake were also mentioned. The site area was estimated to measure 100 x 120 m
+(ca. 328 x 394 ft). The research potential of the site was unknown at the time of recording, but additional
+10006286/090220
+
+14
+
+V. Results
+
+testing was recommended. As mapped, site 41HU79 is approximately 213 m (700 ft) east of the Oncor
+ROW.
+
+PEDESTRIAN SURVEY
+Since the background records search had shown that three sites (41HU15, 41HU79, and 41VN8) had
+previously been recorded within 305 m (1,000 ft) of the Oncor rebuild project, the project area was thus
+considered to have a high probability to possess cultural resources and was subjected to intensive
+archeological survey. Both survey segments were covered with grasses, forbs, and low shrubs within the
+ROW (figures 2 and 3). The topography of both segments was generally flat to very gently rolling. The
+Tawakoni State Park segment appeared to have been mowed recently. Beyond the limits of the ROW, the
+area was densely wooded with oak, pecan, cedar, and other trees. Two transects, spaced 30-m (98-ft)
+apart, were walked across the entirety of the two segments, and shovel tests were excavated at 30-m
+(98-ft) intervals. A total of 27 shovel tests were excavated on the 3.2-acre (1.3-hectare) segment crossing
+the Tawakoni WMA Special Waterfowl Hunting Unit in an effort to locate cultural resource sites, for an
+overall density of about 8.4 shovel tests per acre, or 20.8 shovel tests per hectare (Figure 4). At the Lake
+Tawakoni State Park segment, 66 shovel tests were excavated within 7.9 acres (3.2 hectares) for a density
+of about 8.4 shovel tests per acre, or 20.6 shovel tests per hectare (Figure 5).
+No cultural materials related to any of the previously recorded sites were recovered within the ROW. One
+isolated find (a single chert flake) was recovered at 20–30 cm below the surface in a shovel test on the
+edge of the ROW at the southern border of the Tawakoni State Park segment (Figure 6) (see Appendix
+A). The isolated find appeared to be located on the edge of a small rise, about 40 m (131 ft) in diameter,
+the bulk of which was located beyond the edge of the ROW (Figure 7). Five additional shovel tests were
+excavated on the rise in an effort to identify more archeological remains, but no additional cultural
+materials were located.
+
+10006286/090220
+
+15
+
+V. Results
+
+Figure 2. General view of the Tawakoni WMA Segment, facing west.
+
+Figure 3. General view of the Lake Tawakoni State Park segment,
+facing southwest.
+
+10006286/090220
+
+16
+
+V. Results
+
+10006286/090220
+
+17
+
+V. Results
+
+10006286/090220
+
+18
+
+V. Results
+
+Figure 6. Photograph of the isolated find, a single chert flake.
+
+Figure 7. View from the area of the isolated find across the
+Tawakoni State Park segment, facing north.
+
+10006286/090220
+
+19
+
+VI. RECOMMENDATIONS
+As a result of the cultural resource investigations conducted in connection with the proposed Iron Bridge
+to Duck Cove transmission line rebuild project, no significant archeological resources were found within
+the two segments located on property belonging to the Sabine River Authority — the Tawakoni Wildlife
+Management Area Special Waterfowl Hunting Unit and the Tawakoni State Park. No portion of the three
+archeological sites previously identified on or near the segments could be located in the ROW (see
+Appendix A). A single chert flake was recovered in a shovel test on the Tawakoni State Park segment, but
+no additional artifacts were recovered at that location (see Appendix A and Shovel Test 46 in Appendix
+B). Due to a lack of research potential, this isolated find is not believed to be eligible for inclusion in the
+NRHP or for designation as an SAL at the present time. Therefore, no further work is recommended.
+Based on these results, it is recommended that the proposed Oncor Iron Bridge to Duck Cove
+transmission line rebuild project be allowed to proceed within the designated ROW without any further
+consultation with the THC. However, if the proposed new ROW is altered, the THC should be notified
+and consultation should resume. Furthermore, if evidence of presently undiscovered cultural remains is
+encountered during the construction of the proposed transmission line, it is recommended that the
+discovery be evaluated by a qualified archeologist who can provide recommendations on how to proceed
+in accordance with federal and state regulations.
+
+10006286/090220
+
+20
+
+VII. REFERENCES
+Arbingast, S.A., L.G. Kennamer, R.H. Ryan, J.R. Buchanan, W.L. Hezlep, L.T. Ellis, T.G. Jordan, C.T.
+Granger, and C.P. Zlatkovich
+1976
+The Atlas of Texas. Bureau of Business Research, The University of Texas at Austin.
+Bailey, R.G., P.E. Avers, T. King, and W. H. McNab (editors)
+1994
+Ecoregions and Subregions of the United States (map). Supplementary table of map unit
+descriptions compiled and edited by W.H. McNab, and R.G. Bailey. U.S. Department of
+Agriculture-Forest Service, Washington, D.C. Scale 1:7,500,000.
+Blair, W.F.
+1950
+
+The Biotic Provinces of Texas. Texas Journal of Science 2:93−117.
+
+Breeding, S. J.
+2002
+Handbook of Texas Online, s.v. “Lake Tawakoni” http://www.tshaonline.org/
+handbook/online/articles/HH/hch22.html (accessed September 2009).
+Bruseth, J.E., and R.W. Moir (editors)
+1987
+Introduction to the Richland Creek Archaeological Project. Richland Creek Technical
+Series, Vol. 1. Archaeology Research Program, Southern Methodist University, Dallas.
+Bureau of Economic Geology (BEG)
+1988
+Geologic Atlas of Texas, Dallas Sheet. Map revised 1987, booklet revised 1988. V.E.
+Barnes, Project Director. Bureau of Economic Geology, The University of Texas at
+Austin. Scale: 1:250,000.
+1996
+
+Physiographic Map of Texas. Bureau of Economic Geology, The University of Texas at
+Austin.
+
+Diggs, G.M., B.L. Lipscomb, and R.J. O’Kennon
+1999
+Illustrated Flora of North Central Texas. Center for Environmental Studies and
+Department of Biology, Austin College, in cooperation with the Botanical Research
+Institute of Texas.
+Ferring, C.R., and B.C. Yates
+1997
+Holocene Geoarcheology and Prehistory of the Ray Roberts Lake Area, North Central
+Texas. Institute of Applied Sciences, University of North Texas, Denton. Submitted to the
+Fort Worth District, U.S. Army Corps of Engineers.
+Gregory, H.F.
+1973
+Eighteenth-Century Caddoan Archaeology: A Study in Models and Interpretation.
+Unpublished Ph.D. dissertation, Department of Anthropology, Southern Methodist
+University, Dallas.
+
+10006286/090220
+
+21
+
+References
+
+Griffith, G.E., S.A. Bryce, J.M. Omernik, J.A. Comstock, A.C. Rogers, B. Harrison, S.L. Hatch, and
+D. Bezanson
+2004
+Ecoregions of Texas (color poster with map, descriptive text, and photographs). U.S.
+Geological Survey, Reston, Virginia. Scale: 1:2,500,000.
+Guy, J.A.
+1990
+
+Harper, C.J.
+2002
+
+Previous Investigations. In Archeology and Bioarcheology of the Gulf Coastal Plain, Vol.
+1, by D.A. Story, J.A. Guy, B.A. Burnett, M.D. Freeman, J.C. Rose, D.G. Steele, B.W.
+Olive, and K.J. Reinhard, pp. 163−366. Research Series No. 38. Arkansas Archeological
+Survey, Fayetteville.
+
+Handbook of Texas Online, s.v. “Hunt County” http://www.tshaonline.org/handbook/
+online/articles/HH/hch22.html (accessed September 2009).
+
+Jackson, A.T.
+1938
+Picture Writing of the Texas Indians. Study No. 17. Bureau of Research in the Social
+Sciences, The University of Texas at Austin.
+Jelks, E.B.
+1970
+
+Documentary Evidence of Indian Occupation at the Stansbury Site (41-39B1-1). Bulletin
+of the Texas Archeological Society 41:277−286.
+
+Jensen, H.P., Jr.
+1967
+The Gas Plant Site. In A Pilot Study of Wichita Indian Archaeology and Ethnohistory,
+assembled by R.E. Bell, E.B. Jelks, and W.W. Newcomb, pp. 45−50. Final report to the
+National Science Foundation.
+Johnson, L., and W.A. Davis
+1957a Site form for 41VN8. On file at the Texas Archeological Research Laboratory, The
+University of Texas at Austin.
+1957b
+
+Site form for 41HU15. On file at the Texas Archeological Research Laboratory, The
+University of Texas at Austin.
+
+Kenmotsu, N.A., and T.K. Perttula (editors)
+1993
+Archeology in the Eastern Planning Region, Texas: A Planning Document. Department
+of Antiquities Protection, Cultural Resource Management Report 3. Texas Historical
+Commission, Austin.
+Kozlowski, G.F.
+2002
+Handbook of Texas Online, s.v. “Van Zandt County” http://www.tshaonline.org/
+handbook/online/articles/HH/hch22.html (accessed September 2009).
+Krieger, A.D.
+1946
+Culture Complexes and Chronology in Northern Texas with Extension of Puebloan
+Dating to the Mississippi Valley. Publication 4640. The University of Texas at Austin.
+
+10006286/090220
+
+22
+
+References
+
+Lynott, M.J.
+1997
+McMakin, T.
+2006
+PBS&J
+2008
+
+A Regional Model for Archaeological Research in North Central Texas. Ph.D.
+dissertation, Department of Anthropology, Southern Methodist University.
+
+Site form for 41HU79. On file at the Texas Archeological Research Laboratory, The
+University of Texas at Austin.
+
+General Research Design for Archaeological Surveys for Oncor Electric Transmission
+Line Projects in Texas. Document No. 070050. PBS&J, Austin.
+
+Peter, D.E., and D.E. McGregor
+1988
+Late Holocene Prehistory of the Mountain Creek Drainage. Joe Pool Lake
+Archaeological Project, Volume I. Archaeology Research Program, Southern Methodist
+University, Dallas.
+Prikryl, D.J.
+1990
+
+1993
+
+Lower Elm Fork Prehistory: A Redefinition of Cultural Concepts and Chronologies
+along the Trinity River, North-Central Texas. Report 37. Office of the State Archeologist,
+Texas Historical Commission, Austin.
+Introduction to Section III: Regional Preservation Plan for Archeological Resources,
+Prairie-Savanna Archeological Region. In Archeology in the Eastern Planning Region,
+Texas: A Planning Document, edited by N.A. Kenmotsu and T.K. Perttula, pp. 191−204.
+Department of Antiquities Protection, Cultural Resource Management Report 3. Texas
+Historical Commission, Austin.
+
+Sabine River Authority
+2008
+Sabine River Basin 2008 Summary Report. Sabine River Authority, in cooperation with
+the Texas Commission on Environmental Quality.
+Smith, J.E., II
+1993
+The Vinson Site (41LT1), a Norteño Focus Indian Village in Limestone County, Texas
+(with contributions by J.C. Blaine, K. Gilmore, R.K. Harris, and I.M. Harris). Bulletin of
+the Texas Archeological Society 64:65−162.
+Story, D.A.
+1985
+
+The Walton Site: An Historic Burial in McLennan County, Texas. Central Texas
+Archeologist 10:66−96.
+
+Suhm, D.A., A.D. Krieger and E.B. Jelks.
+1954
+An Introductory Handbook of Texas Archaeology. Bulletin of the Texas Archeological
+Society 25.
+Texas Historical Commission (THC)
+2009
+“Texas Historic Sites Atlas.” Texas Historical Commission. http://atlas.thc.state.tx.us
+(accessed August 2009).
+
+10006286/090220
+
+23
+
+References
+
+Texas Parks and Wildlife Department
+1984
+The Vegetation Types of Texas. Map prepared by GIS Lab, Texas Parks and Wildlife
+Department, a reproduction of an earlier map compiled by R.G. Frye, K.L. Brown, and
+C.A. McMahan, Texas Parks and Wildlife Department (scale 1:950,400).
+Texas State Highway Department (TSHD)
+1936
+General Highway Map of Van Zandt County, Texas. In cooperation with the U.S.
+Department of Agriculture, Bureau of Public Roads.
+1940
+Todd, J.
+2007a
+2007b
+
+General Highway Map of Hunt County, Texas. In cooperation with U.S. Department of
+Agriculture, Bureau of Public Roads. Partially revised to February 1, 1940.
+
+Site revisit form for 41VN8. On file at the Texas Archeological Research Laboratory,
+The University of Texas at Austin.
+Archaeological Monitoring Across Site 41VN8, Van Zandt County, Texas. Texas
+Antiquities Permit Number 4502. AR Consultants, Inc., Dallas. Prepared for Freese and
+Nichols, Inc., Fort Worth.
+
+United States Bureau of Chemistry and Soils
+1933
+Soil Map, Van Zandt County, Texas. The Portal to Texas History. http://texashistory.unt.
+edu/ark:/67531/metapth19668/ (accessed August 2009).
+1939
+
+Soil Map, Hunt County, Texas. The Portal to Texas History. http://texashistory.unt.edu/
+ark:/67531/metapth19709/ (accessed August 2009).
+
+U.S. Department of Agriculture, Natural Resources Conservation Service (USDA, NRCS)
+1998
+Soil Survey of Van Zandt County, Texas. United States Department of Agriculture,
+Natural Resources Conservation Service, in cooperation with the Texas Agricultural
+Experiment Station and Texas State Soil and Water Conservation Board.
+U.S. Department of Agriculture, Soil Conservation Service (USDA, SCS)
+1981
+Soil Survey of Hunt County, Texas. United States Department of Agriculture, Soil
+Conservation Service, in cooperation with the Texas Agricultural Experiment Station.
+
+10006286/090220
+
+24
+
+Appendix A
+Project Area Map with Site Locations
+(Not for public disclosure)
+
+Appendix B
+Shovel Test Data
+
+1000066/090220
+
+Appendix B: Shovel Test Data
+
+Shovel
+Test #
+1
+
+Field #
+RN1
+
+Depth
+0–30
+
+2
+
+RN2
+
+0–30
+
+3
+
+RN3
+
+4
+
+Soil Texture
+Sandy clay loam
+
+0–30
+
+Soil Description
+Black, red, yellow, and
+white
+Black, red, yellow, and
+white
+Very dark brown
+
+RN4
+
+0–30
+
+Very dark brown
+
+Clay
+
+5
+
+RN5
+
+0–30
+
+Yellow, brown, and red
+
+Sandy clay loam
+
+6
+
+RN6
+
+0–30
+
+Yellow, brown, and red
+
+Sandy clay loam
+
+7
+
+RN7
+
+0–10
+
+Very pale brown
+
+Silt loam
+
+10–30
+
+Sandy clay
+
+Sandy clay loam
+Clay
+
+B-1
+
+8
+
+RN8
+
+0–30
+
+9
+
+RN9
+
+0–30
+
+10
+
+RN10
+
+0–30
+
+11
+
+RN11
+
+0–30
+
+12
+
+RN12
+
+0–30
+
+Dark brown with strong
+brown mottles
+Dark brown with strong
+brown mottles
+Dark brown with strong
+brown mottles
+Dark brown with strong
+brown mottles
+Dark brown with strong
+brown mottles
+Strong brown
+
+13
+
+RN13
+
+0–30
+
+Strong brown
+
+Sandy clay
+
+14
+
+RN14
+
+0–10
+
+Dark brown
+
+Sandy loam
+
+Sandy clay
+Sandy clay
+Sandy clay
+Sandy clay
+Sandy clay
+
+Description (Area, Vegetation, etc.)
+Lake Tawakoni State Park survey corridor; open
+field on peninsula near Iron Bridge pumping station
+Lake Tawakoni State Park survey corridor; open
+field on peninsula near Iron Bridge pumping station
+Lake Tawakoni State Park survey corridor; open
+field on peninsula near Iron Bridge pumping station
+Lake Tawakoni State Park survey corridor; open
+field on peninsula near Iron Bridge pumping station
+Lake Tawakoni State Park survey corridor; open
+field on peninsula near Iron Bridge pumping station
+Lake Tawakoni State Park survey corridor; open
+field on peninsula near Iron Bridge pumping station
+Lake Tawakoni State Park survey corridor; open
+field on peninsula near Iron Bridge pumping station
+
+Comments
+(Reason for
+Termination)
+Disturbed soils
+Disturbed soils
+Clay subsoil
+Clay subsoil
+Disturbed soils
+Disturbed soils
+
+Clay subsoil
+Lake Tawakoni State Park survey corridor; open
+field on peninsula near Iron Bridge pumping station
+Lake Tawakoni State Park survey corridor; open
+field on peninsula near Iron Bridge pumping station
+Lake Tawakoni State Park survey corridor; open
+field on peninsula near Iron Bridge pumping station
+Lake Tawakoni State Park survey corridor; open
+field on peninsula near Iron Bridge pumping station
+Lake Tawakoni State Park survey corridor;
+overgrown field by eroded 2-track road
+Lake Tawakoni State Park survey corridor;
+overgrown field by eroded 2-track road
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees; investigating isolated flake found in ST 46
+
+Clay subsoil
+Clay subsoil
+Clay subsoil
+Clay subsoil
+Clay subsoil
+Clay subsoil
+
+Appendix B (Cont’d)
+1000066/090220
+
+Shovel
+Test #
+
+Field #
+
+15
+
+RN15
+
+Depth
+10–30
+0–30
+
+Soil Description
+Reddish brown
+Brown
+
+Soil Texture
+Clay
+Silty loam
+
+RN16
+
+30–40
+0–30
+
+Strong brown
+Brown
+
+Sandy clay
+Silt loam
+
+17
+
+RN17
+
+30–40
+0–30
+
+Strong brown
+Strong brown
+
+Sandy clay
+Clay
+
+18
+
+RN18
+
+0–30
+
+Strong brown
+
+Clay
+
+19
+
+RN19
+
+0–30
+
+Strong brown
+
+Clay
+
+20
+
+RN20
+
+0–30
+
+Black, red, and yellow
+
+Disturbed soils
+
+21
+
+RN21
+
+0–30
+
+Strong brown
+
+Clay
+
+22
+
+RN22
+
+0–30
+
+Strong brown
+
+Clay
+
+23
+
+RN23
+
+0–30
+
+Strong brown
+
+Clay
+
+24
+
+RN24
+
+0–30
+
+Strong brown
+
+Clay
+
+16
+
+Description (Area, Vegetation, etc.)
+
+Comments
+(Reason for
+Termination)
+Clay subsoil
+
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees; investigating isolated flake found in ST 46
+Clay subsoil
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees; investigating isolated flake found in ST 46
+
+B-2
+
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees, underground utility line
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+
+Clay subsoil
+Clay
+
+Clay
+
+Clay
+
+Disturbed soils
+
+Clay
+
+Clay
+
+Clay
+
+Clay
+
+Appendix B (Cont’d)
+1000066/090220
+
+B-3
+
+Shovel
+Test #
+25
+
+Field #
+RN25
+
+Depth
+0–30
+
+Soil Description
+Strong brown
+
+Soil Texture
+Clay
+
+26
+
+RN26
+
+0–30
+
+Strong brown
+
+Clay
+
+27
+
+RN27
+
+0–30
+
+Strong brown
+
+Clay
+
+28
+
+RN28
+
+0–30
+
+Strong brown
+
+Clay
+
+29
+
+RN29
+
+0–30
+
+Strong brown
+
+Clay
+
+30
+
+RN30
+
+0–30
+
+Dark red
+
+Clay
+
+31
+
+RN31
+
+0–30
+
+Dark red
+
+Clay
+
+32
+
+RN32
+
+0–30
+
+Dark red
+
+Clay
+
+33
+
+RN33
+
+0–30
+
+Dark red
+
+Clay
+
+34
+
+RN34
+
+0–30
+
+Dark red
+
+Clay
+
+35
+
+RN35
+
+0–20
+
+Brown
+
+Sandy loam
+
+20–30
+
+Dark red
+
+Clay
+
+Description (Area, Vegetation, etc.)
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+
+Comments
+(Reason for
+Termination)
+Clay
+
+Clay
+
+Clay
+
+Clay
+
+Clay
+
+Clay
+
+Clay
+
+Clay
+
+Clay
+
+Clay
+
+Clay
+
+Appendix B (Cont’d)
+1000066/090220
+
+Field #
+RN36
+
+Depth
+0–30
+
+Soil Description
+Dark brown with strong
+brown mottles
+
+Soil Texture
+Clay
+
+37
+
+RN37
+
+0–30
+
+Dark brown with strong
+brown mottles
+
+Clay
+
+38
+
+RN38
+
+0–30
+
+Dark brown with strong
+brown mottles
+
+Clay
+
+39
+
+RN39
+
+0–30
+
+Dark brown with strong
+brown mottles
+
+Clay
+
+40
+
+RN40
+
+0–30
+
+Dark brown with strong
+brown mottles
+
+Clay
+
+41
+
+LO1
+
+0–10
+
+Dark brown
+
+Silt loam
+
+10–20
+
+Dark brown with brown
+and gray mottles
+Brown
+
+Clay
+
+20–30
+
+Brown, grayish brown,
+and strong brown
+
+Mixed clay,
+probably
+disturbed
+Mixed sandy clay
+loam, and road
+gravel
+Very compact
+mixed loam
+Mixed clay
+Loam
+
+B-4
+
+Shovel
+Test #
+36
+
+42
+
+LO2
+
+0–20
+
+43
+
+LO3
+
+0–10
+
+Mixed compact yellow,
+brown, and red
+
+44
+
+LO4
+
+0–5
+
+45
+
+LO5
+
+5–15
+0–10
+
+Yellowish brown and
+brown
+Strong brown and red
+Brown
+
+Loam
+
+Description (Area, Vegetation, etc.)
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor;
+overgrown area under powerline flanked by post oak
+trees
+Lake Tawakoni State Park survey corridor; grassy
+area near pumping station
+
+Comments
+(Reason for
+Termination)
+Clay
+
+Clay
+
+Clay
+
+Clay
+
+Clay
+
+Clay
+Lake Tawakoni State Park survey corridor; grassy
+area near pumping station, 30 m south of ST 42
+Clay
+
+Lake Tawakoni State Park survey corridor; grassy
+area, west of small fenced cemetery that is 30 m
+away from ROW
+Lake Tawakoni State Park survey corridor; grassy
+area sloping downward toward lake
+
+Disturbed soil
+
+Disturbed
+Lake Tawakoni State Park survey corridor; grassy
+area sloping downward toward lake, about 30 m
+from lake
+
+Appendix B (Cont’d)
+1000066/090220
+
+Shovel
+Test #
+
+46
+
+Field #
+
+LO6
+
+Depth
+10–15
+15–25
+0–5
+5–30
+
+Soil Description
+Pale brown with strong
+brown and red mottles
+Strong brown and gray
+Brown
+
+Soil Texture
+Silt loam
+Clay
+Silt loam
+Sandy loam
+
+47
+
+LO7
+
+0–30
+
+48
+
+LO8
+
+0–10
+
+49
+
+LO9
+
+0–10
+
+50
+
+LO10
+
+0–10
+
+51
+
+LO11
+
+0–10
+
+Brown with strong
+brown mottles
+Light gray with
+yellowish red mottles
+Dark reddish brown,
+mixed with brown,
+yellowish red, and light
+gray
+Disturbed brown,
+yellowish brown, and
+strong brown
+Brown, strong brown,
+and yellowish red
+Pale brown, brown, and
+yellowish red
+Pale brown, brown, and
+yellowish red
+Strong brown
+
+52
+
+LO12
+
+0–5
+
+Yellowish brown
+
+Silt loam
+
+53
+
+LO13
+
+5–15
+0–30
+
+Strong brown
+Yellowish brown
+
+Clay
+Sandy loam
+
+LO14
+
+30–50
+50–60
+0–10
+
+Brown
+Olive brown
+Brown
+
+Silt loam
+Clay loam
+Loam
+
+30–40
+40–45
+
+B-5
+
+54
+
+Description (Area, Vegetation, etc.)
+
+Comments
+(Reason for
+Termination)
+
+Clay subsoil
+Lake Tawakoni State Park survey corridor; first
+shovel test at south end of segment
+One flake recovered from 20–30 cmbs
+
+Silt loam
+Sandy clay
+
+Clay subsoil
+
+Sandy loam, silt
+loam, clay loam
+
+Lake Tawakoni State Park survey corridor; about 10
+m south of gravel road
+
+Disturbed
+
+Sandy clay
+
+Lake Tawakoni State Park survey corridor; segment
+turning north-northwest
+Lake Tawakoni State Park survey corridor; on
+powerline ROW
+Lake Tawakoni State Park survey corridor; on
+powerline ROW
+Lake Tawakoni State Park survey corridor; on
+powerline ROW
+Lake Tawakoni State Park survey corridor; on
+powerline ROW
+
+Clay subsoil
+
+Mixed sandy clay
+Mixed sandy clay
+Clay
+
+Clay
+Clay
+Clay
+
+Clay
+Lake Tawakoni State Park survey corridor; low area
+between rises tall grass, blackberry, brush
+Clay
+Lake Tawakoni State Park survey corridor; south
+side of gradual rise
+
+Appendix B (Cont’d)
+1000066/090220
+
+Shovel
+Test #
+
+Field #
+
+55
+
+LO15
+
+Depth
+10–20
+0–30
+
+Soil Description
+Dark brown
+Olive brown
+
+Soil Texture
+Silty clay
+Clay loam to clay
+
+56
+
+LO16
+
+0–10
+
+Strong brown and brown
+
+Mixed clay
+
+57
+
+LO17
+
+0–20
+
+Brown
+
+Clay loam
+
+58
+
+LO18
+
+0–10
+
+Brown
+
+Loam
+
+59
+
+LO19
+
+10–20
+0–5
+
+Strong brown
+Brown
+
+Sandy clay
+Loam
+
+60
+
+AB1
+
+5–15
+0–30
+
+61
+
+AB2
+
+0–10
+10–20
+
+Olive brown
+Mottled reddish brown
+and strong brown
+Mottled strong brown,
+brown, and yellow
+Mottled brown
+
+AB3
+
+0–15
+
+Grayish brown
+
+63
+
+AB4
+
+15–30
+0–15
+
+Mottled red and brown
+Grayish brown
+
+Sandy clay
+Clay loam
+
+64
+
+AB5
+
+15–30
+0–10
+
+Reddish brown
+Brown
+
+Sandy clay
+Sandy loam
+
+65
+
+RN41
+
+10–30
+0–30
+
+Sandy clay
+Sandy clay
+
+66
+
+RN42
+
+0–30
+
+Reddish brown
+Olive brown with strong
+brown mottles
+Olive brown with strong
+brown mottles
+
+B-6
+62
+
+Clay
+Disturbed sandy
+clay
+Sandy clay with
+gravel
+Sandy clay with
+cement chunks
+Clay loam
+
+Sandy clay
+
+Description (Area, Vegetation, etc.)
+Lake Tawakoni State Park survey corridor; south
+side of rise
+Lake Tawakoni State Park survey corridor; top of
+rise
+Lake Tawakoni State Park survey corridor; north
+side of rise, heading down toward lake
+Lake Tawakoni State Park survey corridor; north
+side of rise, heading down toward lake
+
+Comments
+(Reason for
+Termination)
+Clay
+Clay
+Clay
+Clay
+
+Clay
+Lake Tawakoni State Park survey corridor; north
+side of rise, heading down toward lake
+Lake Tawakoni State Park survey corridor; north end
+of segment at pumping station, 30 m east of ST 1
+Lake Tawakoni State Park survey corridor; west of
+small fenced cemetery, about 30 m from ROW
+
+Clay
+Disturbed soil
+
+Disturbed soil
+Lake Tawakoni State Park survey corridor; grassy
+ROW
+Clay
+Lake Tawakoni State Park survey corridor; grassy
+ROW, 30 m south of isolated flake in ST 46
+Clay
+Lake Tawakoni State Park survey corridor; grassy
+ROW, 10 m south of isolated flake in ST 46
+Tawakoni WMA survey corridor; 100 m from west
+end of segment, working east
+Tawakoni WMA survey corridor
+
+Clay
+Clay
+Clay
+
+Appendix B (Cont’d)
+1000066/090220
+
+Shovel
+Test #
+67
+
+Field #
+RN43
+
+Depth
+0–30
+
+68
+
+RN44
+
+0–30
+
+69
+
+RN45
+
+0–30
+
+70
+
+RN46
+
+0–30
+
+71
+
+RN47
+
+0–30
+
+72
+
+RN48
+
+0–50
+50–60
+
+B-7
+
+73
+
+RN49
+
+74
+75
+76
+
+RN50
+RN51
+RN52
+
+77
+
+RN53
+
+0–20
+20–30
+0–30
+0–30
+0–20
+20–30
+0–60
+
+78
+
+LO20
+
+60–70
+0–10
+
+79
+
+LO21
+
+0–25
+25–30
+30–40
+
+Soil Description
+Olive brown with strong
+brown mottles
+Olive brown with strong
+brown mottles
+Olive brown with strong
+brown mottles
+Mottled yellow, red,
+black, and gray
+Mottled yellow, red,
+black, and gray
+Light yellowish brown
+Strong brown with olive
+brown mottles
+Light yellowish brown
+Strong brown
+Strong brown
+Strong brown
+Light yellowish brown
+Strong brown
+Brown
+Strong brown
+Yellow with strong
+brown mottles
+Yellowish brown
+Yellowish brown with
+strong brown mottles
+Strong brown and
+yellowish brown
+
+Soil Texture
+Sandy clay
+
+Description (Area, Vegetation, etc.)
+Tawakoni WMA survey corridor
+
+Comments
+(Reason for
+Termination)
+Clay
+
+Sandy clay
+
+Tawakoni WMA survey corridor
+
+Clay
+
+Sandy clay
+
+Tawakoni WMA survey corridor
+
+Clay
+
+Sandy clay loam
+
+Tawakoni WMA survey corridor
+
+Disturbed soil
+
+Sandy clay loam
+
+Tawakoni WMA survey corridor
+
+Disturbed soil
+
+Compact clay
+loam
+Clay
+
+Tawakoni WMA survey corridor
+
+Clay loam
+Clay
+Clay
+Clay
+Clay loam
+Clay
+Silt loam
+
+Tawakoni WMA survey corridor
+
+Sandy clay
+Clay loam
+Silt loam
+Clay loam
+Sandy clay
+
+Clay
+
+Tawakoni WMA survey corridor
+Tawakoni WMA survey corridor
+Tawakoni WMA survey corridor
+
+Clay
+Clay
+Clay
+Clay
+
+Lake Tawakoni State Park survey corridor; 15 m east
+of ST 84, 30 m east of isolated flake in ST 46
+Tawakoni WMA survey corridor; 30 m east of ST 85
+working east
+Tawakoni WMA survey corridor
+
+Clay
+Clay
+
+Clay
+
+Appendix B (Cont’d)
+1000066/090220
+
+Shovel
+Test #
+80
+
+Field #
+LO22
+
+Depth
+0–15
+
+81
+
+LO23
+
+0–5
+5–15
+
+Soil Description
+Yellowish brown with
+strong brown and
+reddish brown lumps of
+clay
+Yellowish brown
+
+Soil Texture
+Disturbed silt
+loam
+
+Description (Area, Vegetation, etc.)
+Tawakoni WMA survey corridor
+
+Silt loam with
+gravel
+Clay
+
+Tawakoni WMA survey corridor
+
+84
+
+LO26
+
+1–80
+
+Strong brown, brown,
+and red
+Yellowish brown
+White
+Strong brown and dark
+reddish brown
+Yellowish brown with
+yellow and strong brown
+mottles
+Yellowish brown with
+yellow and strong brown
+mottles
+Yellowish brown
+
+85
+
+AB6
+
+80–90
+0–30
+
+Strong brown
+Grayish brown
+
+Sandy clay
+Clay loam
+
+30–33
+
+Light brownish gray to
+yellowish brown
+Grayish brown
+Yellowish brown
+Pale brown
+Light reddish brown
+Brown with red mottles
+Dark brown
+Dark brown
+
+Sandy clay
+
+82
+
+83
+
+LO24
+
+LO25
+
+0–50
+50–52
+52–62
+0–15
+
+>15
+
+B-8
+
+86
+
+AB7
+
+87
+
+AB8
+
+88
+
+AB10
+
+0–13
+13–20
+0–16
+16–41
+41–50
+0–10
+10–20
+
+Clay
+
+Sandy loam
+Silt
+Clay
+
+Tawakoni WMA survey corridor
+
+Silt loam
+
+Tawakoni WMA survey corridor
+
+Clay
+
+Disturbed soil
+
+Sandy clay and
+clay
+Silt loam
+
+Clay loam
+Sandy clay
+Sandy loam
+Clay loam
+Sandy clay
+Sandy clay
+Sandy clay
+
+Comments
+(Reason for
+Termination)
+Disturbed soil
+
+Lake Tawakoni State Park survey corridor; 15 m
+southeast of isolated flake in ST 46 and 15 m
+northwest of ST 77
+Clay subsoil
+Tawakoni WMA survey corridor; west end of
+segment working east
+Clay subsoil
+Tawakoni WMA survey corridor
+Clay subsoil
+Tawakoni WMA survey corridor
+Clay subsoil
+Tawakoni WMA survey corridor at west end fence
+
+Appendix B (Cont’d)
+1000066/090220
+
+Shovel
+Test #
+
+Field #
+
+89
+
+AB11
+
+Depth
+20—28
+0–9
+
+90
+
+AB12
+
+9–43
+43–45
+0–30
+
+91
+
+AB13
+
+92
+93
+
+Soil Texture
+Clay
+Sandy loam
+
+0–15
+
+Soil Description
+Reddish brown
+Light brown with gray
+lumps of clay
+Brown
+Light brown
+Grayish brown with light
+gray mottles
+Dark brown
+
+AB14
+
+15–40
+40–60
+60–65
+0–30
+
+Pale brown
+Light brownish gray
+Gray
+Dark brownish gray
+
+Sandy loam
+Sandy loam
+Clay
+Clay loam
+
+AB15
+
+0–35
+
+Dark brown with light
+gray clay mottles
+
+Disturbed loam
+
+Sandy loam
+Sandy clay
+Disturbed loam
+Sandy loam
+
+Description (Area, Vegetation, etc.)
+
+Comments
+(Reason for
+Termination)
+Clay subsoil
+
+Tawakoni WMA survey corridor at west end fence,
+about 20 m south of ST 88
+
+Tawakoni WMA survey corridor, 30 m east of ST 88
+
+Clay subsoil
+Disturbed soil
+
+Tawakoni WMA survey corridor, 25 m south of ST
+90
+
+Tawakoni WMA survey corridor, 30 m east of ST 90
+Tawakoni WMA survey corridor, 30 m south of ST
+92
+
+Clay subsoil
+Clay subsoil/
+water
+Disturbed soil
+
+B-9
+
+

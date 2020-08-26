@@ -1,0 +1,6827 @@
+THE HELL GAP SITE LOCALITY II AGATE BASIN FAUNAL
+ASSEMBLAGE:
+A STUDY OF PALEOINDIAN FAUNAL RESOURCE
+EXPLOITATION
+
+By
+David A. Byers
+
+A thesis submitted to the Department of Anthropology and The Graduate School of
+the University of Wyoming in partial fulfillment of the requirements for the degree of
+
+MASTER OF ARTS
+in
+ANTHROPOLOGY
+
+Laramie, Wyoming
+May 2001
+
+© 2001 David A. Byers
+
+ii
+
+ACKNOWLEDGEMENTS
+I would like to extend my gratitude and thanks to the members of my committee
+for their time, patients, consideration and comments: Marcel Kornfeld, David Rapson,
+George Frison and Richard Reider. Dr. Kornfeld’s encouragement to work with the
+Locality II faunal material has allowed me to gain a knowledge of faunal studies and
+Paleoindian behavior that I will be able to draw upon for many years. Dr. Rapson spent
+many hours both with me in the lab looking at bones and at home reviewing manuscripts
+of my thesis. His time and effort is greatly appreciated. I would like to thank Dr. Frison
+for his time and comments, who while retired, was willing to sit on my committee.
+Finally, I would like to thank Dr. Reider for his willingness to participate as my outside
+committee member. His thoughts on the formational history of the Hell Gap deposits are
+greatly appreciated.
+I would also like to thank my fellow students for their encouragement and support
+both while writing this thesis and during the three years spent at the University of
+Wyoming. In particular, I would like to thank Brian Andrews, Casey Dukeman, Jeff
+Lansing, Craig Lee and Ed Knell. Thanks also go to several members of faculty not on
+my committee who were instrumental in the education process while I have been at UW.
+These are Danny Walker, Bob Kelly, Mary Lou Larson and Mark Miller.
+Continued research into the Paleoindian occupations in the Hell Gap Valley
+would not be possible without the support of the National Endowment for the Humanities
+(RK-200187-95), National Geographic Society, and Wenner-Gren Foundation (GR6311).
+I also acknowledge the work of the original excavators, Harvard University, and Dr.
+Steven Williams for the loan of the Hell Gap collections.
+
+iii
+
+TABLE OF CONTENTS
+Page
+ACKNOWLEDGEMENTS …….…………………………………………………… iii
+LIST OF FIGURES ………………………………………………………………… vi
+LIST OF TABLES …………………………………………………………………… viii
+CHAPTER
+1.
+INTRODUCTION ……………………………………………………………
+The Agate Basin Complex ……………………………………………………
+Research Questions …...………………………………………………………
+Research Design ……….………………………………………………………
+Assemblage Level Analysis ….…………………………………………
+Specimen Level Attributes .……………...……………………………
+Thesis Organization ……………………………………………………………
+2.
+
+BACKGROUND …………...…………………………………………………
+Site Setting …….………………………………………………………………
+The Hell Gap Site …...…………………………………………………………
+Excavations at Locality II ………………………………………………………
+The Locality II Agate Basin Component ………………………………
+The Hell Gap Site Locality II Agate Basin Faunal Assemblage……...…………
+Seasonality ……………………………………………………………
+Age and Sex Composition ………………………………………………
+Duration of Occupation …………………………………………………
+Excavation and Curation Biases ………………………………………………
+Provenience Issues ……………………………………………………
+Selective Discard ………………………………………………………
+Summary ………………………………………………………………………
+
+3.
+
+SKELETAL PART FREQUENCIES: ANALYSIS AT THE
+ASSEMBLAGE LEVEL ………………………………………………………
+Skeletal Element Frequencies and Utility Indices: Models for Interpreting
+Archaeological Faunal Remains ………………………………………………
+Volume Bone Mineral Density …………………………….……………
+Carnivore Modification ………………………………...………………
+Skeletal Part Analysis of the Locality II Agate Basin Faunal Materials ………
+Density Mediated Attrition ……………………………..………………
+Carnivore Modification ……………………………….………………
+
+iv
+
+1
+1
+2
+4
+4
+7
+8
+10
+10
+12
+14
+16
+21
+25
+27
+28
+29
+29
+31
+36
+
+37
+37
+41
+41
+44
+47
+50
+
+TABLE OF CONTENTS (continued)
+CHAPTER
+Page
+3.
+SKELETAL PART FREQUENCIES: ANALYSIS AT THE
+ASSEMBLAGE LEVEL (continued)
+Skeletal Part Summaries and Utility Indices …………………………… 52
+Total Products Model ………………………………………..… 52
+Total Fat Model ………………………………………..……… 54
+Skeletal Fat Model ……...…………………………………...… 56
+Marrow Fat Model …………………………………...……..… 57
+White Grease Model ………………………………...………… 57
+Summary ………………………………...…………...……………………… 60
+4.
+
+BONE MODIFICATIONS: ANALYSIS AT THE SPECIMEN LEVEL
+Butchery and Processing: Evidence at the Specimen Level ……………………
+Assemblage Condition …………………………….…………..………………
+Carnivore and Rodent Modification …………………………………….……
+Carnivore Ravaging …………………………………………….………
+Cultural Bone Modifications ………………………………………………..…
+Bone Modifications within the Locality II Faunal Assemblage ………………
+Cutmarks …………………………………………….…………………
+Conchoidal Flake Scars and Marrow Processing ………………………
+Conchoidal Flake Scars: Placement and Patterning ……………………
+Summary ………………………………….…………………………………
+
+61
+61
+62
+63
+63
+68
+71
+71
+76
+80
+85
+
+5.
+
+DISCUSSION …………………………………………………………………
+Paleoindians, Protein and Fat in Seasonally Variable Environments …………
+Subsistence Organization ………………………………………………………
+Agate Basin Subsistence Practices in Eastern Wyoming ………………
+Summary ………………………………………………………………………
+
+86
+86
+93
+94
+99
+
+6.
+
+CONCLUSIONS ………………………………………………………………101
+A New Glimpse of Paleoindian Subsistence: A Fat-Seeking Feeding
+Strategy ……………………………………………………………………… 101
+Paleoindian Settlement Systems: The Other Side of the Spectrum…………… 103
+
+REFERENCES CITED ……………………………………………………………… 106
+APPENDIX 1: Descriptive Codes …………………………………………………… 120
+APPENDIX 2: Locality II Faunal Assemblage Database …………………………… 124
+
+v
+
+LIST OF FIGURES
+Figure
+Page
+1.1 Agate Basin projectile points associated with the Locality II Agate
+2
+Basin faunal assemblage………………………………………………………
+2.1 Hell Gap Site map showing Paleoindan localities……………………………… 11
+2.2 Planview map of the Locality II excavation block …………………………… 15
+2.3 Composite planview map of the Lower Agate Basin bonebed ………………… 17
+2.4 Composite planview map of a portion of the upper Agate Basin bonebed
+18
+2.5 Composite planview map of a portion of the lower Agate Basin bonebed
+19
+2.6 Composite planview map of a portion of the lower Agate Basin bonebed
+20
+2.7 Comparison of the number of items now present in the assemblage with
+the number recorded in the field notes as saved…..…………………………… 32
+2.8 Chart displaying the depths below datum for Agate Basin materials
+recovered from row 9 east …………………………………………………… 35
+3.1 Generic curves demonstrating the relationship between %MAU and
+utility for transport strategies discussed in the text …………………………… 39
+3.2 Chart displaying the relationship between %MAU and skeletal element
+for the Locality II Agate Basin bison remains ……………….………………… 46
+3.3 Relationship between %MAU and values for bison bone mineral density …… 49
+3.4 Comparison of the number of long bone end fragments with the number
+of shaft fragments …………………………………………………………… 51
+3.5 Scatterplot displaying the relationship between %MAU and the Total
+Products Model ……………………..………………………………………… 53
+3.6 Scatterplot displaying the relationship between %MAU and the Total
+Products Model (appendicular elements only)……………………………….. 53
+3.7 Scatterplot displaying the relationship between %MAU and the Total Fat
+Model ………………………………..……………………………………… 55
+3.8 Scatterplot displaying the relationship between %MAU and the Total Fat
+Model (appendicular elements only) ……………….……………...………… 55
+3.9 Scatterplot displaying the relationship between %MAU and the Skeletal
+Fat Model …………………………………………….……………………… 56
+3.10 Scatterplot displaying the relationship between %MAU and the Skeletal
+Fat Model (appendicular elements only)…………………………..…………… 57
+3.11 Scatterplot displaying the relationship between %MAU and the Marrow
+Fat Model ……………………...……………………………………………… 58
+3.12 Scatterplot displaying the relationship between %MAU and the White
+Grease Model ……………………………………….………………………… 58
+
+vi
+
+LIST OF FIGURES (continued)
+Figure
+Page
+3.13 Scatterplot displaying the relationship between the Marrow Fat and White
+Grease models ……………………………………………………………….… 59
+4.1 Long bone shaft fragment (UW8221) displaying both rodent gnawing
+and cutmarks ………………………………………………………………… 66
+4.2 Distal humerus fragment (UW8112) displaying carnivore modification ……… 66
+4.3 Possible carnivore modified specimen (UW 9094) from the Locality II
+Agate Basin assemblage, compared with a cow humerus ravaged by a
+domestic dog ………………………………………………………………… 67
+4.4 Tibia shaft fragment (UW8823, top) displaying a conchoidal flake
+scar consistent with impact damage …………………………………………… 70
+4.5 Locations of cultural bone modifications to the mandible …………………… 72
+4.6 Locations of cultural bone modifications to the ribs …………...……………… 73
+4.7 Locations of cultural bone modifications to the thoracic and lumbar
+vertebrae ……………………………………………………………………… 74
+4.8 Locations of cultural bone modifications to the scapula and innominate ……… 75
+4.9 Locations of cultural bone modifications to the humerus ……………………… 76
+4.10 Locations of cultural bone modifications to the femur ………………………… 77
+4.11 Locations of cultural bone modifications to the tibia ………………………… 77
+4.12 Locations of cultural bone modifications to the metacarpal and metatarsal
+78
+4.13 Scatterplot displaying the relationship between intensity of processing
+(impact/MNE) and the Marrow Fat Model for whole bones ………………… 81
+4.14 Locations of cultural bone modifications to the radius and ulna ……………… 83
+5.1 Chart displaying the relationship between %MAU for the Locality II
+Agate Basin bison remains and the Total Products and Skeletal Fat Models
+89
+5.2 Photographs showing the consisted fragmentation patterns for distal femur
+shaft fragments and distal tibia articular ends ………………………………… 92
+5.3 Population structure derived from the Locality II Agate Basin component
+bison dentition ……………………………………..………………………… 96
+
+vii
+
+LIST OF TABLES
+Table
+Page
+2.1 Terminology used for the quantification of the Hell Gap Site Locality II
+Agate Basin component faunal material ……………………………………… 22
+2.2 Summary of the Locality II Agate Basin component faunal remains in the
+UW collection (1318 total specimens) ……………………………………..… 24
+2.3 Summary of bison dentition from the Locality II Agate Basin component …… 26
+2.4 Table comparing the number of items now present in the Locality II
+Agate Basin faunal assemblage with the number recorded in the field
+notes as saved ………………………………………………………………… 33
+3.1 Quantification of bison size skeletal part frequencies observed in the Hell
+Gap Site Locality II Agate Basin faunal materials …………………………… 45
+3.2 %MAU, density scan site values, and utility indices employed in the
+skeletal element frequency analysis …………………………………………… 48
+3.3 Spearman's rank-order correlation coefficients describing the relationship
+between %MAU and the various models employed during analysis of the
+Hell Gap Site Locality II Agate Basin component bison remains ……………… 48
+3.4 Skeletal part summaries used to calculate the intensity of carnivore
+ravaging ……………………………………………………………………… 51
+4.1 Hell Gap Site Locality II Agate Basin component % NISP summary
+of modifications to bison (body size 4) specimens (NISP = 1300) …………… 64
+4.2 Data employed to derive the relative intensity of processing for long bone
+elements present in the Hell Gap Site Locality II Agate Basin faunal
+assemblage …………………………………………………………………… 81
+5.1 Fat and protein content of cranial and post-cranial tissues of adult
+domesticated cattle per 100 g unit …………………………………………… 90
+
+viii
+
+CHAPTER 1
+INTRODUCTION
+
+The identification of Paleoindian artifacts in association with large bonebeds has
+resulted in a number of investigations designed to enhance our understanding of Late
+Pleistocene animal resource exploitation (Bement 1999; Frison 1974, 1992; Frison and
+Todd 1986, 1987; Jodry and Stanford 1992; Johnson 1977, 1999; Todd 1987a, 1987b,
+1991; Wheat 1972, 1979). Although a number of Paleoindian-age bonebeds have been
+excavated, subsistence patterns from this period are still poorly understood. The goal of
+my research is to add to our knowledge of Paleoindian, specifically Agate Basin
+Complex, lifeways through the analysis of the faunal materials recovered from the Agate
+Basin levels at the Hell Gap Site Locality II in east-central Wyoming (Agogino and
+Irwin-Williams 1971; Irwin 1969, 1970, 1973; Irwin and Brew 1968; Irwin et al. 1965;
+Irwin-Williams et al. 1973).
+The Agate Basin Complex
+The Agate Basin Complex (Roberts 1943), named after the type-site in eastern
+Wyoming, is a Paleoindian manifestation known for slender, well-made, lanceolate
+projectile points (Figure 1.1). Based primarily on investigations at the type-site, a big
+game hunting economy approximately 9,500 to 10,500 years ago (Frison 1992:164 - 170)
+appears to characterize the Agate Basin Complex. While Agate Basin artifacts have been
+recovered throughout the Plains from Texas to Alberta and as far east as Illinois (Dixon
+1999:229; Stanford 1999:311-316), limited research has been conducted into Agate Basin
+adaptations (Frison 1984; Frison and Stanford 1982; Haynes 1955; Irwin 1967;
+Wormington 1988). Instead, the majority of the publications concerning the Agate Basin
+1
+
+Figure 1.1 Agate Basin projectile points associated with the Locality II Agate
+Basin faunal assemblage.
+
+complex consist of descriptions of privately collected projectile points published in
+regional and avocational journals (for example Pettipas 1970, 1977). In fact, only one
+publication (Frison and Stanford 1982) addresses Agate Basin outside the broad
+framework of Paleoindian chronology. Given the paucity of information specifically
+assessing Agate Basin Complex subsistence, the opportunity to evaluate the Locality II
+faunal materials should provide an important addition to the extant body of knowledge.
+Research Questions
+My thesis seeks to expand our understanding of Paleoindian subsistence through
+the analysis of the Agate Basin component faunal assemblage recovered at the Hell Gap
+Site (48GO305), Locality II (Agogino and Irwin-Williams 1971; Irwin 1969, 1970, 1973;
+
+2
+
+Irwin and Brew 1968; Irwin-Williams et al. 1973). The Hell Gap Site, located in eastern
+Wyoming, has produced extensive cultural assemblages representing almost the entire
+record of the region’s Paleoindian occupation (Irwin-Williams et al. 1973:40). In
+contrast to many Paleoindian kill sites, the Hell Gap localities appear to span a range of
+residential activities (Irwin-Williams et al. 1973; Knell 1999; Sellet 1999) and thus, offer
+the potential for a more complete understanding of Paleoindian behavior.
+Specifically, my research seeks to understand transport and utilization decisions
+related to the exploitation of large body size Late Pleistocene faunal resources. Questions
+of interest include transport decisions and how these decisions might relate to the utility
+of the meat packages represented in the assemblage (Bartram 1993; Binford 1978;
+Emerson 1990, 1993; Metcalf and Jones 1988; O’Connell et al. 1988). In addition, what
+taphonomic agents may have been involved in the formational history of the Locality II
+Agate Basin faunal assemblage (Binford 1978, 1981; Blumenschine and Marean 1993;
+Capaldo 1998; Enloe 1993; Marean and Spencer 1991)? Finally, what can the answers to
+the questions posed above tell us about Paleoindian subsistence patterns? In response, I
+will demonstrate that bison dominate the Locality II Agate Basin faunal assemblage.
+Further, I will argue that if the Locality II Agate Basin bison remains are accepted as a
+representative sample of the faunal materials introduced into the Locality II deposits
+10,000 years ago, then elements highest in within-bone fat utility are the best represented
+skeletal parts. Such a bias towards high fat utility skeletal parts suggests that the Agate
+Basin Paleoindians occupying the Hell Gap Valley were employing food-getting
+behaviors designed to maximize the amount of fat as well as protein in their diets.
+
+3
+
+Research Design
+Here, I outline the research strategy employed in the following chapters. Two
+complementary strategies are employed to analyze the Locality II Agate Basin faunal
+(bison) materials. The first part of my analysis will assess the Locality II Agate Basin
+bison remains at the assemblage level through an evaluation of the skeletal element
+frequencies present in the assemblage (Chapter 3). In the second part of my analysis, I
+will conduct a specimen level attribute analysis employing a visual inspection of each
+specimen (Chapter 4) in an effort to identify bone modifications supporting the inferences
+drawn from the relationship between skeletal part frequencies and nutritional utility.
+Assemblage Level Analysis: Skeletal Element Frequencies
+In the first part of my analysis I evaluate the faunal remains as an aggregate,
+assessing the attributes of the sample at the assemblage level. I investigate the
+implications that the differential representation of skeletal parts has for the deposit’s
+formational history. Investigators have acknowledged the potential for skeletal element
+frequencies to answer archaeological questions. White (1952a, 1952b, 1952c, 1953a,
+1953b, 1954, 1955) was one of the first to recognize the explanatory potential of
+archaeological faunal remains by suggesting that differences between the expected, or
+total element count in a given prey species, and observed frequencies of skeletal elements
+within an archaeological faunal assemblage may result from prehistoric subsistence
+strategies. White’s observation was an important intuitive leap, instructing
+archaeologists in the then untapped potential for faunal remains to inform researchers on
+prehistoric subsistence behaviors. Since the 1950’s, several investigators have pursued
+ethnoarchaeological studies related to faunal resources, resulting in a number of models
+
+4
+
+for the interpretation of zooarchaeological assemblages (Bartram 1993; Bartram et al.
+1991; Binford 1978, 1981, 1984; Bunn et al. 1988; Gifford-Gonzalez 1989b; Metcalf and
+Barlow 1992; Monahan 1998; O’Connell et al. 1988, 1990; Perkins and Daly 1968;
+Yellen 1977). Further, the awareness of the differing relationships between skeletal parts
+and their relative nutritional values has led to the definition of utility indices for several
+prey species, ranging from ungulates to pinipeds (Binford 1978; Blumenschine and Caro
+1986; Brink 1997; Emerson 1990; Jones and Metcalf 1988; Lyman et al. 1992; Metcalf
+and Jones 1988; O’Connell and Marshal 1990; Outram and Rowley-Conwy 1998).
+Through the ethnoarchaeological evaluation of utility indices, faunal analysts
+have come to recognize a number of transport strategies based on the patterned
+relationships between utility indices and differential skeletal part representation in
+archaeological assemblages (Binford 1978; Thomas and Mayer 1983). Transport
+strategies are offered as explanations for the differential representation of skeletal
+elements contained in archaeological deposits as functions of the field butchering (animal
+parts left at the mortality site) and transport decisions (items returned to the residential
+base) involved in hunter-gatherer subsistence behaviors. I will compare skeletal part
+frequencies with nutritional utility indices for bison (Emerson 1990) to identify any
+relationships indicative of behaviors designed to maximize certain food products in the
+diet of the Hell Gap Locality II Agate Basin Complex Paleoindians.
+While skeletal element summaries are potentially useful tools for evaluating
+prehistoric hunter-gatherer behavior, they can and often do reflect the actions of nonhuman taphonomic agents (Binford 1981; Blumenschine and Marean 1993; Capaldo
+1998; Gifford-Gonzalez 1989a, 1991; Grayson 1989; Hudson 1993; Lyman 1984, 1985,
+
+5
+
+1991, 1993; Marean and Spencer 1991). Non-human processes such as density-mediated
+attrition (resulting in the breakdown and loss of bone tissue) and carnivore ravaging can
+selectively delete or render unidentifiable skeletal parts from archaeological deposits,
+resulting in skeletal part profiles mimicking patterns created by certain transport
+strategies (Lyman 1985, 1993). I will assess the extent that the Locality II Agate Basin
+bison remains may have been conditioned through density-mediated attrition by
+comparing volume bone mineral density values for bison (Kreutzer 1992) with the
+survivorship of skeletal parts represented in the assemblage.
+In addition to density-mediated attrition, actualistic experimentation has shown
+carnivore modification (ravaging) to condition the survivorship of skeletal part
+frequencies (Bartram and Marean 1999; Binford 1981; Blumenschine and Marean 1993;
+Blumenschine and Selvaggio 1991; Brain 1967, 1969; Haynes 1980, 1983; Hudson 1993;
+Marean and Spencer 1991; Selvaggio 1998). Because low-density bones are often porous
+and tend to have high grease contents, they are often targets for predators and scavengers
+(Blumenschine and Marean 1993:283; Marean and Spencer 1991:653). Faunal analysts
+have offered several methods to monitor carnivore activity both in relation to densitymediated attrition and to long bone fragmentation. For example, because canids
+selectively delete long bone epiphyses, analyses of the ratios of mid-shaft specimens to
+distal and proximal shaft ends (excluding epiphyses) can be applied to monitor the level
+of carnivore modification within an assemblage (Marean and Spencer 1991). To assess
+potential carnivore modification of the Locality II Agate Basin faunal assemblage, I will
+employ Blumenschine and Marean’s (1993) model suggesting that ratios of long bone
+
+6
+
+epiphyses to long bone shaft fragments can successfully evaluate intensity of ravaging
+affecting a faunal assemblage.
+Specimen Level Attributes: Bone Surface Modifications and Impact Flake Scars
+While much can be learned about an archaeological faunal assemblage from an
+assessment of correlations between skeletal element frequencies and nutritional utility
+indices, such analyses should be viewed with caution. Because correlations do not
+always equal cause, and because most archaeological deposits have complex, multidimensional formational histories, a complementary analysis is required to evaluate
+relationships between survivorship and utility. In the case of faunal analysis, the
+researcher has at his or her disposal the specimens employed to derive the statistical
+relationships, and as such has the opportunity to observe individual specimen attributes as
+a method for evaluating assemblage level patterning.
+I employ a visual inspection of individual specimens in combination with the
+published descriptions of modifications produced by rodents, carnivores (Binford 1981;
+Fisher 1995; Haynes 1980) and recent hunter-gatherers (Binford 1978, 1981; Yellen
+1977) to assess the formational history of the Locality II Agate Basin faunal assemblage.
+Rodents and carnivores have been shown to condition a faunal assemblage and a number
+of publications describe the resulting modifications (Binford 1981; Blumenschine 1988;
+Blumenschine and Marean 1993; Capaldo 1998, Dixon 1988; Haynes 1980, 1983;
+Hudson 1993; Maguire et al. 1980). In addition to publications discussing rodent and
+carnivore modifications, a number of studies discuss the nature and placement of
+modifications resulting from butchery and marrow processing (Binford 1981; Bunn 1981;
+Eickhoff and Herrmann 1985; Fisher 1995; Lyman 1987; Potts and Shipman 1981;
+
+7
+
+Shipman and Rose 1983; Walker and Long 1977). If a relationship is identified between
+the Locality II Agate Basin skeletal part summaries and nutritional utility, and if such a
+relationship is a product of human subsistence, then observed bone modifications should
+reflect the patterned extraction of food products from the anatomical portions introduced
+into the Locality II deposits.
+Thesis Organization
+Evaluating the transport and utilization decisions reflected in the Hell Gap Site
+Locality II Agate Basin faunal assemblage requires a number of steps. I begin with a
+discussion of the Locality II field investigations (Chapter 2). I outline the site setting and
+discuss the history of excavations at the site with emphasis on the Agate Basin
+component, define my data collection methodology and describe the faunal assemblage.
+Finally, in Chapter 2, I address biases potentially introduced into the assemblage during
+excavation and curation. In Chapter 3, I offer an overview of the research into skeletal
+part frequencies and conduct an assemblage level analysis of the Locality II Agate Basin
+faunal remains. In Chapter 3, I argue that human agents are most likely responsible for
+the majority of the patterning observed in skeletal part summaries. In Chapter 4, a
+discussion of bone surface modifications and breakage patterns observed in the
+assemblage is presented to support the conclusions drawn in Chapter 3. I suggest that in
+general, the majority of the observed bone modifications result from butchering and
+processing. In Chapter 5, skeletal part summaries and butchering patterns are tied
+together with fat-mediated nutritional requirements and models of hunter-gatherer
+subsistence and settlement. In Chapter 6, I conclude by arguing that the Locality II Agate
+
+8
+
+Basin animal remains reflect a little known Paleoindian subsistence pattern, one requiring
+further investigation to be better understood.
+
+9
+
+CHAPTER 2
+BACKGROUND
+Archaeological assemblages must be understood within their depositional
+contexts, the ecological setting contributing to site formation, and excavation and
+curation methodologies (Rapson and Niven 2000a; Todd and Rapson 1999). The
+assemblage analyzed here is no exception. In Chapter 2, I introduce the Hell Gap Site
+(48GO305; Irwin Williams et al. 1973), outline the site setting, and discuss the history of
+excavations at the site with an emphasis on the Locality II Agate Basin component. I
+continue by describing the composition of the faunal assemblage and conclude by
+identifying biases potentially introduced into the assemblage during excavation and
+curation.
+Site Setting
+The Hell Gap Site is located approximately 40 km north of Guernsey, Wyoming
+at an elevation of 1,500 meters above sea level at 42° 24’ north latitude and 104° 38’
+west longitude (Irwin Williams et al. 1973:40). The site consists of five localities
+(Localities I – V, Figure 2.1) located between low hills at the ecotonal boundary between
+the eastern slope of the Hartville Uplift’s Haystack Range and the Great Plains (Irwin
+1969; Irwin-Williams et al. 1973). At present, the Hell Gap Valley is characterized by
+yellow pine and juniper forest on the uplands and hill slopes, with drainage bottoms
+containing willow, box elder, poplars and other deciduous species (Irwin Williams et al.
+1973:40). Grasses, yucca, and prickly pear cactus dominate the local understory (IrwinWilliams et al. 1973:40). In addition to sheltered campsite locations in a diverse
+
+10
+
+100 m
+
+Figure 2.1 Hell Gap site map showing Paleoindian localities. Locality IV is a
+Late Prehistoric deposit and is not shown. Modified from Irwin-Williams et al.
+(1973) and Knell (1999).
+
+environment, numerous seeps in the drainage bottom presently provide water sources
+(Irwin-Williams et al. 1973:40).
+Little paleoenvironmental information is presently available for the Hell Gap area
+during the period of Paleoindian occupation. However, one source, an assessment of soil
+development in the Hell Gap Valley (Reider 1999), offers some insight into the local
+environment during the Agate Basin occupation. Reider (1999:26) identifies the soil unit
+associated with the Folsom-Midland-Agate Basin occupation at Locality I as an Aquoll, a
+soil resulting from wet-meadow conditions. The presence of an Aquoll at both Localities
+I and III, suggests that during the Agate Basin occupation, the Hell Gap Valley was
+
+11
+
+dominated by a wet-meadow environment fed by active springs originating in the fault
+zone forming the drainage bottom (Reider 1999:26).
+One reason for the numerous Paleoindian occupations of the Hell Gap Valley may
+have been the abundant, high quality toolstones available in the surrounding area. Both
+cherts and quartzites commonly outcrop in the Hartville Uplift (Reher 1991, Saul 1969).
+A series of nearby aboriginal quarry sites are known collectively as the “Spanish
+Diggings” and projectile points made from Spanish Diggings toolstones have been
+recovered spanning the Early Paleoindian (Clovis) to Late Prehistoric periods (Saul
+1969:184-185).
+The Hell Gap Site
+In 1959, James Duguid and Malcolm McKnight, avocational archaeologists and
+University of Wyoming students, first recognized cultural deposits in the Hell Gap Valley
+(Agogino and Irwin-Williams 1971:11). In response to reports of a potentially stratified
+Paleoindian locality, Agogino and Haynes visited the site in 1959 and excavated a series
+of test trenches (Agogino and Irwin-Williams 1971:11; Irwin-Williams et al. 1973:43).
+In the summer of 1960, Agogino conducted a UW field school at the site (Agogino and
+Irwin-Williams 1971:11). From 1961 to 1966, Henry Irwin and Cynthia Irwin-Williams,
+under the supervision of J. O. Brew of Harvard University’s Peabody Museum,
+conducted excavations at five localities in the Hell Gap Valley (Figure 2.1). More
+recently, during the late 1990’s, the University of Wyoming has conducted limited
+investigations centering on Locality I, in an effort to verify the stratigraphic sequence
+described by Irwin (1967; Irwin et al. 1973) and to evaluate the site for continued
+research potential (Kornfeld 2001, personal communication).
+
+12
+
+The Harvard excavations focused on the four localities identified as containing
+Paleoindian materials and the results were used to define the Paleoindian chronology on
+the northwest Plains (Irwin 1967). The most complete record was identified at Locality I
+where Goshen, Folsom, Midland, Agate Basin, Hell Gap, Alberta, Cody, Frederick,
+Archaic Period and Late Prehistoric Period materials were recovered in a stratigraphic
+sequence (Irwin et al. 1973). Locality II, situated approximately 300 meters upstream
+from Locality I, consists of an elongated bench at the base of a granite cliff on the east
+side of the stream channel (Irwin Williams et al. 1973:43). Locality II produced a similar
+deposit containing Midland, Agate Basin, Hell Gap and Lusk diagnostics. Locality III is
+situated approximately 400 yards farther upstream from Locality II. Excavations at
+Locality III recovered Agate Basin and Hell Gap artifacts. Locality V, located less than
+100 yards to the southeast of Locality III, produced a dense concentration of Cody
+complex materials. Late Prehistoric deposits were identified at Locality IV (not shown in
+Figure 2.1), but not given the same intensive scrutiny received by the Paleoindian
+components.
+The original excavators recovered a rich artifact assemblage from the site. All of
+the Paleoindian localities produced cultural horizons characterized by extensive
+workshop debris resulting from repeated stone working episodes. In addition, diverse
+tool kits consistent with a wide range of domestic activities, large lithic and bone scatters
+in combination with possible structures suggest that a series of residential base camps
+characterize the Hell Gap deposits and indicate repeated Paleoindian occupations through
+the millennia (Irwin et al. 1973; Knell 1999; Sellet 1999).
+
+13
+
+Excavations at Locality II
+At the unit level, records exist for the excavations conducted at Locality II during
+the summers spanning 1961 to 1966 (Agogino and Irwin-Williams 1971; Field Notes
+1966; Irwin 1969, 1970, 1973; Irwin and Brew 1968; Irwin-Williams et al. 1973). The
+Locality II investigations exposed an area covering 205 three-foot square excavation
+units along a north-south axis (Figure 2.2), resulting in the identification of a stratified
+deposit containing materials from no less than four Paleoindian complexes, including
+Midland, Agate Basin, Hell Gap and Lusk cultural complexes (Irwin et al. 1973).
+Artifacts were collected at Locality II from a series of 6 x 6 ft. and 3 x 3 ft. units dug in 4
+inch levels. The excavators employed trowels and picks to remove the matrix. Matrix
+was screened through ¼ inch mesh hardware cloth. Provenience data for tools, bones and
+debitage were recorded on unit specific planview maps.
+Excavations began during the 1961 field season with eight test units, labeled AA
+through HH (Field Notes 1966). The test excavations suggested that Locality II
+contained an artifact-rich, stratified deposit. During the 1962 field season, a series of 6 x
+6 ft. units were dug in the northern part of the excavation area that revealed the presence
+of Hell Gap, Agate Basin and Midland components (Irwin 1970). The excavation of 6 x
+6 ft. units continued during 1963 with an emphasis on increasing the Agate Basin and
+Midland samples (Irwin and Brew 1968). During the 1964 field season, the excavators
+switched to 3 x 3 ft. units and focused on the Midland deposits and an unknown cultural
+horizon identified below the Midland material (Irwin 1969). The 1964 field season also
+saw a significant flooding event (Irwin 1969) and photographs taken at the time show the
+excavation block almost completely submerged.
+
+14
+
+During the 1965 season, the
+
+30E
+
+27E
+
+24E
+
+21E
+
+18E
+
+15E
+
+9E
+
+12E
+
+6E
+
+3E
+
+0
+
+3W
+
+6W
+
+9W
+
+12W
+
+15W
+
+18W
+18S
+21S
+24S
+
+The irregular line
+represents the extent of
+overburden removal by
+backhoe
+
+27S
+30S
+33S
+36S
+39S
+42S
+45S
+
+N
+
+48S
+51S
+54S
+57S
+60S
+
+each square = one 3 x 3 ft unit
+
+63S
+66S
+69S
+72S
+75S
+78S
+81S
+84S
+87S
+90S
+93S
+96S
+99S
+102S
+105S
+108S
+111S
+114S
+117S
+120S
+123S
+126S
+129S
+132S
+
+Figure 2.2 Planview map of the Locality II excavation block.
+
+15
+
+excavations continued to expose portions of the Lusk, Agate Basin and Midland levels.
+The deposit appears to have been excavated in 6 x 6 ft. units to the Midland component
+where a switch was made to 3 x 3 ft. units (Field Notes 1966). While numerous
+projectile points, and domestic tools were recovered from the lower levels, of particular
+interest was the identification of a series of postholes, indicating the use of a structure
+during at least one of the Agate Basin occupations (Agogino and Irwin-Williams 1971).
+The summer of 1966 concluded the excavations at Locality II (and the Hell Gap Valley in
+general) with investigations focusing on the Midland component (Irwin 1973)). In
+addition to the recovery of numerous lithic artifacts and faunal remains, two sets of
+postmolds were identified in the Midland level suggesting the presence of shelters.
+The Locality II Agate Basin Component
+The Agate Basin materials are contained within a depositional unit consisting of
+“a series of tan silts of aeolian origin partly reworked from older silts, and [containing] a
+discontinuous series of carbonaceous layers frequently associated with archaeological
+remains” (Irwin-Williams et al. 1973:43). Two Agate Basin layers were defined (Figures
+2.3, 2.4, 2.5 and 2.6), the “upper” and “lower” Agate Basin layers, and these were
+separated in places by one to seven inches of sterile deposit (Irwin-Williams et al.
+1973:43). However, the separation was not observed across the entire site and in many
+places the two components merge. In addition, while sterile deposits separate most of the
+Agate Basin component from the overlying Hell Gap deposits, in several units the
+excavators experienced difficulty identifying the end of the Agate Basin materials and the
+beginning of the underlying Midland deposit (e.g. map #s 174, 257, 260, 271, 302; Field
+Notes 1966). Due to the unclear relationship between the “upper” and “lower”
+
+16
+
+Figure 2.3 Composite planview map of the Lower Agate Basin bonebed.
+
+17
+
+Figure 2.4 Composite planview map of a portion of the upper Agate Basin bonebed.
+
+18
+
+Figure 2.5 Composite planview map of a portion of the lower Agate Basin bonebed.
+
+19
+
+Figure 2.6 Composite planview map of a portion of the lower Agate Basin bonebed.
+
+20
+
+Agate Basin layers, their contents have been combined and in this thesis are evaluated as
+a single assemblage.
+The Hell Gap Site Locality II Agate Basin Component Faunal Assemblage
+At Locality II, the Agate Basin component produced an extensive assemblage of
+animal remains. My analysis evaluated 1318 faunal specimens identified as Agate Basin
+material. Due to the highly fragmentary nature of the sample, specimens were classified
+in terms of body size classes after Brain (1981:9). Identification to species and element
+was made in reference to comparative specimens included in the University of
+Wyoming’s faunal collection. Analysis of the Locality II materials employed the faunal
+coding system developed by Todd (1983:325-326, 1987a: 121-122) to document all
+specimens identifiable to skeletal element (Appendix 1). Recorded attributes include
+element, side, portion, segment, rodent damage, carnivore gnawing, breakage, butchery
+and burning (Appendix 2). Evidence of butchery for all specimens identifiable to skeletal
+element was illustrated on a template of the corresponding element. Each specimen was
+numbered within the University of Wyoming Hell Gap Project cataloging system and all
+data generated from the analysis were entered into a Microsoft Excel© (version 9.0)
+database.
+For analytical purposes, the Locality II faunal remains were quantified in terms of
+NISP, MNI, MNE and MAU (Table 2.1). The number of identifiable specimens (NISP;
+Grayson 1979:201) records the number of specimens identifiable to a given body size
+class (Brain 1981:9). The minimum number of individuals (MNI; Grayson 1979:203)
+identifies the minimum number of a given species or body class based on the most
+frequently represented skeletal part. For example, the most common anatomical portion
+
+21
+
+Term
+NISP
+
+Definition
+The number of specimens identified to a given taxon.
+
+Reference
+Grayson 1979:201
+
+MNI
+
+The minimum number of individuals represented by a
+given skeletal part.
+
+Grayson 1979:203
+
+Max. Destinction
+MNI
+
+The minimum number of individuals represented by
+a given skeletal part when factors such as age, sex
+and size are taken into account
+
+Grayson 1973:31
+
+MNE
+
+The minimum number of a specific element
+represented in an assemblage. MNE values for the
+Locality II Agate Basin assemblage are based on the
+most common landmark observed for each element
+(Todd and Rapson 1988:321).
+
+Binford 1984:50
+
+MAU
+
+Minumum Animal Units, calculated by dividing the
+observed skeletal element/portion count by the
+number of that skeletal element/portion in a
+complete animal, regardless of age, sex or side.
+
+Binford 1984:51
+
+%MAU
+
+MAU value standardized on a scale from 0 to 100.
+%MAU is calculated by dividing the MAU for each
+skeletal part by the maximum MAU for the overall
+assemblage.
+
+Binford 1984:51
+
+Table 2.1 Terminology used for the quantification of the Hell Gap Site Locality II Agate Basin
+component faunal material
+
+observed in the Locality II Agate Basin assemblage was the anterior crest of the right
+proximal tibia. A minimum of seven right tibia can be accounted for given the identified
+specimens and as such a minimum of seven individuals are present. The minimum
+number of individuals can also be derived through a maximum differentiation MNI
+(Grayson 1973:31). Maximum differentiation MNI takes into account such factors as
+size, age, sex and side when calculating MNI. Unfortunately the Locality II post-cranial
+remains are too fragmentary for the maximum differentiation approach to yield
+meaningful results. Teeth are however ideally suited for the calculation of maximum
+differentiation MNI. In the case of the Locality II Agate Basin bison remains, based on
+side, age group, and location (mandibular or maxillary), maximum differentiation MNI
+22
+
+represents a minimum number of fourteen individuals. The minimum number of
+elements (MNE; Binford 1984:50) represents the minimum number of a specific element
+represented in an assemblage. I base MNE values on the most common landmark
+observed for each element, regardless of its location, proximal, distal or mid shaft. For
+example, eight femur shaft fragments contain overlapping portions of the proximal most
+supracondyloid fossa and distal-most linea aspera, five representing left femora and three
+representing right femora, for an MNE value of eight elements. Minimum animal units
+(MAU; Binford 1984:51) are derived by dividing the minimum element/portion count for
+a given element (MNE) by the total number of that element/portion in a complete animal.
+Dividing the MNE of eight for distal femora by the total number of distal femora in a
+complete bison (two) yields an MAU value of four. Finally, %MAU simply standardizes
+MAU values on a scale from 1 to 100, by dividing each element/portion’s MAU value by
+the maximum MAU value calculated for an assemblage. Proximal tibia are the most
+frequent anatomical portion present in the Locality II Agate Basin assemblage
+(MAU=4.5). Dividing the value for distal femora (MAU=4) by the maximum value for
+the assemblage (MAU=4.5) yields a %MAU for distal femora of 0.88.
+In total, 98.6% (NISP=1300, Table 2.2) of the Locality II specimens were
+identifiable to body size class 4 (Brain 1981:9), assumed here to be bison. Adult bison
+remains dominate the assemblage, with 87.2% (NISP=1133) of the total body size 4
+NISP representing non-juvenile and 0.8% (NISP=10) representing juvenile individuals,
+while the remainder, 12.1% (NISP=157), could not be identified to age group.
+Examination of the Locality II bison dentitions (Table 2.3) conducted by Rapson and
+
+23
+
+Element
+CRN
+MR
+HY
+AT
+AX
+CE
+TH
+RB
+CS
+LM
+SA
+CA
+SC
+HM PR
+HM FK/SH
+HM DS
+RD PR
+RD FK/SH
+RD DS
+UL PR
+UL FK/SH
+UL DS
+CP
+CPU
+CPI
+CPR
+CPS
+CPF
+CPA
+MP
+MC CO
+MC PR
+MC FK/SH
+MC DS
+IM
+FM PR
+FM FK/SH
+FM DS
+PT
+TA PR
+TA FK/SH
+TA DS
+LTM
+AS
+CL
+
+Body Size 3
+Unidentified
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+
+Body Size 4
+Bison
+5
+26
+0
+4
+2
+11
+12
+293
+0
+47
+1
+0
+50
+10
+15
+9
+10
+11
+4
+5
+7
+1
+3
+1
+4
+3
+4
+1
+0
+1
+1
+5
+1
+2
+10
+10
+9
+10
+1
+16
+34
+8
+4
+7
+8
+
+Body Size 4
+Juvenile Bison
+5
+3
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+Body Size 4
+Unidentified
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+Table 2.2 Summary of the Locality II Agate Basin component faunal
+remains in the UW collection (1318 total specimens).
+
+24
+
+Element
+TRC
+TRS
+TRF
+MT PR
+MT FK/SH
+MT DS
+PH
+PHF
+PHS
+PHT
+SEP
+SED
+LB FK/SH
+TFR
+FB
+CB
+VT
+US
+NISP
+
+Body Size 3
+Unidentified
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+13
+0
+0
+0
+0
+0
+18
+
+Body Size 4
+Bison
+4
+2
+0
+5
+10
+5
+4
+10
+21
+4
+8
+3
+306
+4
+52
+16
+13
+0
+1133
+
+Body Size 4
+Juvenile Bison
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+Body Size 4
+Unidentified
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+
+0
+0
+
+0
+0
+0
+0
+0
+10
+
+0
+0
+
+0
+157
+157
+
+Table 2.2 (continued)
+
+Niven (2000b) suggests a minimum of fourteen individuals (maximum differentiation
+MNI=14) for the Agate Basin assemblage, while non-dentition specimens represent an
+MNI of seven based on right, proximal tibia portions. Body size 3 artiodactyls are also
+present in the assemblage (1.4%, NISP=18) and these represent at least two individuals
+(MNI=2). One is most likely deer (Odocoileus sp.) based on a single innominate
+fragment and the other is most likely pronghorn (Antilocarpa americana), based on both
+a single, distal femur shaft fragment and a single, distal tibia. Because so few body size 3
+specimens are present, the analysis presented in the remainder of this thesis pertains only
+to the bison (body size 4) remains.
+Seasonality
+Season of death information for an archaeological faunal assemblage containing
+bison can be estimated through the presence of fetal remains (Quigg 1978), and through
+25
+
+Maxillary Dentition
+Specimen Number
+
+Side:Teeth
+
+Age Group
+
+Age Range
+
+Season of Death
+
+3
+
+1
+
+0.1-0.2 years
+
+Spring-Summer
+
+UWII-7483
+
+R:dP -dP
+
+UWII-7519
+
+1
+
+4
+
+1
+
+0.2-0.3 years
+
+Summer
+
+R:dP
+
+4
+
+1
+
+0.3-0.4 years
+
+Summer-Fall
+
+UWII-7438
+
+R:dP
+
+4
+
+1
+
+0.4-0.6 years
+
+Fall-Winter
+
+UWII-7510
+
+1
+
+2
+
+1.3-1.5 years
+
+Summer-Fall
+
+2
+
+4
+
+3.0-3.9 years
+
+Unknown
+
+2
+
+4
+
+3.0-3.9 years
+
+Unknown
+
+Age Group
+1
+1
+1
+6
+6
+7
+7
+7
+7
+8
+8
+
+Age Range
+0.1-0.3 years
+0.3-0.5 years
+0.3-0.5 years
+4.9-5.2 years
+4.9-5.2 years
+5.7-6.2 years
+5.7-6.2 years
+5.7-6.2 years
+5.7-6.2 years
+7.0-7.9 years
+7.0-7.9 years
+
+Season of Death
+Spring-Summer
+Summer-Fall
+Summer-Fall
+Winter-Spring
+Winter-Spring
+Winter-Spring
+Winter-Spring
+Winter-Spring
+Winter-Spring
+Unknown
+Unknown
+
+UWII-7492
+
+UWII-7511
+UWII-7513
+Mandibular Dentition
+Specimen Number
+UWII-7453
+UWII-7451
+UWII-7480
+UWII-7457
+UWII-7468
+UWII-7459
+UWII-7481
+UWII-7461
+UWII-7462
+UWII-7445
+UWII-7456
+
+L:M
+
+L:M
+L:M
+L:M
+
+Side:Teeth
+L:dP3-M1
+L:dP4
+R:M2
+L:M3
+R:P4-M3
+L:M3
+L:P3-M3
+L:M3
+L:M3
+L:M2-M3
+L:M3
+
+Table 2.3 . Summary of bison dentition from the Locality II Agate Basin component.
+Table adapted from Rapson and Niven (2000a).
+
+examinations of tooth eruption and wear patterns present in bison teeth (Reher 1970;
+Todd and Hofman 1987; Todd et al. 1996). Identification of two newborn/juvenile postcranial specimens (MNI=1) indicates the occupation of Locality II at least during or
+shortly after the spring calving season. In addition, due to a relatively large number of
+ageable tooth specimens, season of death information for the represented bison can be
+evaluated through analysis of mandibular and maxillary dentition. Examination of
+fourteen specimens (Table 2.3) complete enough to offer seasonality information
+
+26
+
+suggests occupation of Locality II throughout the year, with the most intensive use during
+the fall, winter and spring months (Rapson and Niven 2000b).
+Age and Sex Composition
+The extremely fragmentary nature of the Locality II Agate Basin bison postcranial remains (e.g. few areas of epiphysial fusion were intact enough to age), combined
+with the incomplete nature of the assemblage impedes the determination of an age
+profile. In addition to the two newborn/juvenile, post-cranial specimens, only three
+specimens display unfused epiphyses indicative of sub-adult individuals. The sub-adult,
+post-cranial specimens include two calcanii, one with a completely unfused, calcanial
+tuber (UWII-8963) and the other with a partially fused calcanial tuber (UWII-8448). One
+metacarpal (UWII-8239) also displays an unfused distal epiphysis. Although post-cranial
+elements offer little in determining the age composition of the faunal remains, the bison
+dentitions included in the assemblage (Table 2.3) present an incomplete, although
+intriguing picture (Rapson and Niven 2000b). Based on dental age groups, the age
+profile of the represented individuals is biased either towards newborns and yearlings
+(MNI=4), or older individuals, ages 4.9 to 7.9 years (MNI=7), with only a few
+individuals representing younger adults, ages 1.3 to 3.9 years (MNI=3). Although the
+sample size is admittedly small, there is an apparent correlation between age group and
+seasonality. The Locality II dentitions suggest a seasonally scheduled utilization
+strategy, with older, five to nine year olds procured during the winter and spring, while
+younger individuals were taken more often during the spring, summer and fall of the year
+of their birth.
+
+27
+
+The fragmentary nature of the assemblage also hinders the determination of sex
+composition. Because of the lack of measurable specimens for any one element
+remaining intact enough to offer a meaningful sex ratio, no attempt was made to
+determine a sex composition for the Locality II Agate Basin faunal materials. However,
+visual inspection suggests the presence of several large adult males within the collection.
+In addition, a number of decidedly smaller specimens are also present. Unfortunately,
+these observations are made across elements, not within a group of the same elements
+and as such, any quantification of this patterning is impractical.
+Duration of Occupation
+For the purpose of the following analysis, I interpret the Locality II Agate Basin
+faunal remains as representing a palimpsest of occupations. Several observations support
+this assumption. In many units, the original excavators were unable to separate the upper
+and lower Agate Basin layers. Further, in several units the upper-most Midland and
+lowest Agate Basin materials could not be differentiated. In addition, season of death
+information derived from bison dentitions identifies individuals with tooth eruption and
+wear indicative of mortalities during all seasons (Rapson and Niven 2000b), suggesting
+that either a long-term occupation or more likely, a series of multiple reoccupations are
+represented at the site. Finally, Rapson and Niven’s (2000b) examination of dentition
+from Locality II identified two specimens belonging to the same individual (specimen
+numbers UWII-7465 and UWII-7459), one noted in the field notes as Agate Basin and
+the other as part of the Hell Gap component. The assignment of two specimens from the
+same individual to different components indicates either intermingling of the cultural
+
+28
+
+deposits, errors in the assignment of component designations in the field or errors during
+Irwin’s (1967) dissertation analysis.
+Excavation and Curation Biases
+Methods employed during excavation and curation can impart significant biases
+into a sample that can influence any later analysis and subsequent interpretation (Rapson
+and Niven 2000a, Sellet 1999). In the case of the Hell Gap investigations, biases may
+have been introduced into the collection through two agents. The first concerns errors in
+provenience designation that may have later resulted in specimens being assigned to the
+wrong cultural components. The second potential source of bias is the selective discard
+of faunal specimens by the Harvard excavators. Because reconstructing the Locality II
+stratigraphy from field notes is an extensive problem in itself (e.g. Sellet 1999), I will not
+attempt to resolve any of the potential problems with provenience nor will I attempt to
+rectify any of the potential biases introduced through recovery and curation. Given the
+partial and inadequately documented nature of the assemblage, I will instead outline what
+is available for study and in the following chapters make conditional arguments
+concerning the potential Paleoindian behaviors suggested by the extant collection.
+Provenience Issues
+Analysis of the Locality I data revealed a number of problems with vertical
+provenience (Sellet 1999:112-115). Sellet found that within the Harvard field notes that a
+number of units were recorded as having been excavated twice in terms of elevation.
+Inspection of the Locality II field notes suggests that these excavations are likewise
+plagued with depth of excavation issues and reveals a number of agents that potentially
+introduce bias into the collection I analyze. For example, Bradley (1966), the project
+
+29
+
+excavation supervisor, identified a systemic error in vertical provenience from the 1965
+datum on the last day of excavations in 1966. This error includes both upward and
+downward errors in vertical measurements north and south respectively of the 26-south
+line. However, Bradley notes that all excavation depths were systematically in error and
+were consistent with the depths recorded for at least the previous year, suggesting that
+although absolute elevations may be in error, deposits identified as Agate Basin were
+done so consistently. While the provenience issues recorded in the Harvard field notes
+should not have impeded Irwin’s ability to assign specimens to the appropriate cultural
+components, knowledge of provenience problems indicates that the mixing of specimens
+from different cultural components during the multi-season Harvard excavations is not
+impossible.
+The renumbering of grid squares and the change from six foot to three foot
+excavation units during the 1964, 1965 and 1966 field seasons (Field Notes 1966)
+introduces an additional level of ambiguity, making deciphering the notes for units
+excavated over a period of years difficult. Further, during the 1962 field season a number
+of units were excavated with bulks between them that were removed during the 1963
+excavations (Field Notes 1966). Mistakes in vertical provenience at this point may have
+resulted in the mixing of materials from different components. In addition, Irwin (1966),
+in a note dated March 14, 1966, states that cultural levels
+were placed on maps in the laboratory during the winter of 1965-66.
+They are the best that could be determined from the profiles and the
+maps themselves. Lumping rather than splitting was done because it
+was almost impossible to separate out any other than the major cultural
+divisions. This was due to the fact that the stratigraphy, although not
+complicated, is by no means flat and level. As a result, the surfaces
+dug often cut across as many as three major cultural levels and many
+micro stratigraphic levels.
+30
+
+Irwin’s statement suggests that the faunal remains were not assigned field numbers, and
+instead, appear to have been collected by a unit-level provenience into level bags by unit,
+and later assigned a cultural complex.
+Finally, the Hell Gap collection contains a large sample of faunal material lacking
+any provenience (Locality X, n=430) and these items may belong to any one of the Hell
+Gap localities (Rapson and Niven 2000a). Sometime between the end of excavations in
+1966 and their acquisition by the University of Wyoming in 1995, the Locality X
+specimens became separated from their provenience information, if they ever were
+assigned provenience data. Bison upper forelimb and lower rear limb elements, in
+addition to a number of atlas and axis vertebrae, dominate the Locality X materials
+(Rapson and Niven 2000a).
+Selective Discard
+An additional factor potentially biasing my analysis is the selective discard during
+the 1960s excavations of bone specimens deemed unimportant because they were small,
+fragmentary, or non-diagnostic. The discard of faunal specimens by excavators is
+apparent. Numerous entries are present in the field notes stating that small, fragmentary
+specimens while point plotted on field maps, were “not saved” (Field Notes 1966), but
+instead thrown away. In order to evaluate the extent of the selective discard, the number
+of specimens now present in the UW Hell Gap assemblage from rows 6 east, 9 east and
+12 east were compared with the number of specimens recorded in the Harvard field notes
+as saved for analysis (Table 2.4, Figure 2.7). Comparison between the present sample and
+the sample represented in the field notes reveals that the number of specimens currently
+available from only one unit (2% of those sampled) is consistent with the field notes,
+31
+
+% difference between
+recorded saved and now
+present
+
+Units 6 East
+200.00
+
+51
+
+150.00
+72
+
+100.00
+
+96
+
+30
+36
+
+50.00
+
+90
+
+39
+
+0.00
+33
+
+-50.00
+
+102
+
+108
+
+60
+42
+
+-100.00
+
+48
+
+54
+
+66
+
+78
+
+84
+
+-150.00
+Unit South
+
+Units 9 East
+% difference between
+recorded saved and now
+present
+
+150
+21
+
+100
+39
+
+50
+36
+
+57
+
+0
+42
+
+33
+
+-50
+
+54
+
+45
+51
+
+-100
+
+81
+
+75
+
+48
+
+72
+
+78
+
+-150
+Unit South
+
+Units 12 East
+% difference between
+recorded saved and now
+present
+
+1000
+90
+
+800
+72
+
+600
+400
+200
+0
+39
+
+-200
+
+42
+
+45
+
+48
+
+51
+
+54
+
+57
+
+75
+
+78
+
+81
+
+96 102 108
+
+Unit South
+
+Figure 2.7 Comparison of the number of items now present in the Locality II Agate Basin
+faunal assemblage and the number recorded in the field notes as saved.
+
+32
+
+Row 6 East
+Row 9 East
+Row 12 East
+Unit South Notes Actual %Diff Unit South Notes Actual %Diff Unit South Notes Actual %Diff
+30
+5
+8
+60
+21
+1
+2
+100
+39
+11
+10
+-9
+33
+6
+5
+-17
+33
+11
+8
+-27
+42
+5
+4
+-20
+36
+5
+7
+40
+36
+23
+24
+4
+45
+26
+12
+-54
+39
+10
+12
+20
+39
+17
+22
+29
+48
+25
+15
+-40
+42
+57
+20
+-65
+42
+35
+30
+-14
+51
+22
+5
+-77
+48
+80
+14
+-83
+45
+26
+22
+-15
+54
+10
+3
+-70
+51
+4
+11
+175
+48
+96
+16
+-83
+57
+3
+0
+-100
+54
+80
+15
+-81
+51
+17
+7
+-59
+72
+3
+21
+600
+60
+15
+8
+-47
+54
+7
+6
+-14
+75
+11
+1
+-91
+66
+6
+0
+-100
+57
+2
+2
+0
+78
+78
+31
+-60
+72
+8
+16
+100
+72
+2
+0
+-100
+81
+1
+0
+-100
+78
+5
+0
+-100
+75
+45
+9
+-80
+90
+6
+54
+800
+84
+10
+0
+-100
+78
+2
+0
+-100
+96
+64
+32
+-50
+90
+6
+8
+33
+81
+11
+3
+-73
+102
+109
+32
+-71
+96
+3
+5
+67
+108
+3
+1
+-67
+102
+58
+46
+-21
+108
+18
+14
+-22
+Table 2.4 Table comparing the number of items now present in the Locality II Agate Basin faunal
+assembalge with the number recorded in the field notes as saved.
+
+while 72% (n=33) of the sampled units are missing specimens recorded as saved by the
+excavators. In addition, 26% (n=12) of the units contain more specimens than are
+identified in the field notes. I suggest that the documented overrepresentation of faunal
+materials may result from a number of factors including but not limited to, a failure to
+record faunal materials in the notes, damage to the assemblage that greatly increased the
+number of fragments between initial recovery and the present analysis, and finally and
+most likely, the lumping of multiple small specimens under one field number.
+Unfortunately, because of the vague and imprecise nature of the Harvard
+Expedition records, evaluating these models for the collection’s excavation and curation
+history is not possible. Given the obvious bias suggested by the comparison between
+numbers of recorded and curated specimens, in addition to the problems identified
+concerning provenience, the analysis and interpretations drawn from the Hell Gap
+33
+
+Locality II faunal materials must be viewed with caution. However, although a large
+number of specimens have been deleted from those originally present, inspection of the
+photographic record taken at the time of excavations suggests that in general, the larger,
+diagnostic specimens are all currently present in the collection. As a result, I suggest, but
+cannot demonstrate, that inclusion of the items deleted during recovery might not change
+the following analysis significantly.
+For the purposes of my thesis, I include specimens identified by Irwin in the
+original and amended field notes as belonging to the Agate Basin component. Because of
+the problems with provenience (vertical and horizontal) and the selective deletion of
+specimens in combination with a lack of comprehensive documentation for the
+assemblage, reassessing the provenience of each specimen is beyond the scope of this
+research. However, examination of unit profiles recorded at the time of excavation
+indicates that cultural levels were often identified as dense paleosoils containing large
+quantities of charcoal, bone and chipped stone debris separated by sterile deposits. In
+addition, the depths recorded for the Agate Basin component consistently follow a slope
+from north to south (Figure 2.8, Appendix 2). All things considered, I suggest that Irwin
+during the process of his dissertation research was probably best equipped to determine
+the cultural association of any specimens in the collection.
+Given the caveats presented in Chapter 2, I proceed with my analysis by reporting
+on what is today present in the assemblage. All inferences derived from the Locality II
+Agate Basin faunal remains must be recognized as conditional on the sample today
+available for analysis, one that may or may not be a biased sample of the faunal materials
+introduced into the Locality II deposit during the Agate Basin occupation.
+
+34
+
+Inches Below Datum
+
+Meters South
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+
+21
+6
+6
+6
+6
+6
+
+6
+6
+6
+6
+6
+
+24
+
+27
+
+30
+
+33
+
+6
+6
+6
+6
+6
+6
+6
+6
+6
+
+36
+
+39
+
+42
+
+45
+
+48
+
+6
+6
+6
+6
+6
+
+4,6
+4,6
+4,6
+4,6
+4,6
+6
+6
+6
+6
+6
+6
+6
+6
+
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+6
+
+6
+6
+6
+6
+6
+
+5
+5
+
+6M
+6M
+6M
+6M
+6M
+
+51
+
+54
+
+6
+6
+6
+6
+
+6
+6
+6
+6
+6
+
+60
+
+63
+
+66
+
+69
+
+72
+
+75
+
+6
+6
+
+6M
+6M
+6M
+6M
+6M
+
+78
+
+81
+
+84
+
+6
+6
+6
+
+4
+4
+4
+4
+
+87
+
+90
+
+93
+
+96
+
+99
+
+102
+
+105
+
+107
+
+108
+
+109
+
+129
+
+4
+4
+4
+4
+4
+4
+4
+
+4
+4
+
+4
+4
+4
+4
+4
+4
+
+Figure 2.8 Chart displaying the depths below datum for Agate Basin materials recovered from row 9
+east. A similar slope from north to south is identified for rows 0 east and west, 3 east and west, 6
+east and west, 9 west, and 12 east and west. Numbers indicate the year during the 1960s excavations
+that the portion of the deposit was excavated. For example "6" indicates the excavation of that level
+during 1966. Levels excavated during multiple years most likely represent wall cleaning and
+excavation of bulks left from earlier sessions during later years. The letter "M" indicates possible
+contaminating of the Agate Basin materials with the underlying Midland deposit.
+
+35
+
+Summary
+I begin Chapter 2 by describing the setting and immediate environment of the
+Hell Gap Site, suggesting that Locality II may have been an ideal camp site close to a
+number of important resources. The history of the Harvard excavations was briefly
+outlined. The locality was excavated from 1961 to 1966, resulting in the identification of
+Midland, Hell Gap, Agate Basin and Lusk artifacts. The Locality II Agate Basin
+component faunal assemblage is described as consisting almost entirely of bison remains,
+although a limited number of deer (Odocoideus sp.) and pronghorn (Antelocarpa
+americana) remains are also present. Seasonality and season of death information
+derived from bison dentitions suggests that Locality II was occupied during all seasons
+and that older, five to nine year olds were procured during the winter and spring, while
+younger individuals were taken more often during the spring, summer and fall of the year
+of their birth. I continued by identifying potential problems with the existing collection
+as including provenience issues and selective deletion of small, fragmentary or nondiagnostic specimens discarded during the Harvard excavations. Finally, I conclude that
+because of the uncertain nature of the Locality II Agate Basin assemblage, the results of
+the analysis presented in the following chapters must be accepted as conditional on what
+is today available for study.
+
+36
+
+CHAPTER 3
+SKELETAL PART FREQUENCIES: ANALYSIS AT THE ASSEMBLAGE LEVEL
+I begin evaluating the Hell Gap Site Locality II Agate Basin faunal materials by
+conducting an assemblage level analysis. In Chapter 3, I employ models explaining the
+differential survivorship of skeletal parts to investigate the formational history of the
+Locality II Agate Basin faunal assemblage. I do not appraise individual specimen
+attributes (bone modifications) in the present chapter. A specimen level attribute analysis
+is instead the focus of Chapter 4. In Chapter 3, I explore three taphonomic processes
+potentially conditioning the assemblage, density-mediated destruction, carnivore
+ravaging and human transport. For each taphonomic agent, I describe observed
+patterning between skeletal part frequencies and utility, bone volume density or
+actualistic studies focused on carnivores.
+Skeletal Element Frequencies and Utility Indices: Models for Interpreting
+Archaeological Faunal Remains
+Binford’s (1978) ethnoarchaeological study of the Nunamiut of northern Alaska
+resulted in a series of models quantifying transport and utilization decisions in relation to
+anatomical differences in skeletal part utility. In an effort to understand Nunamiut
+transport and processing decisions, Binford (1978) butchered and then measured the
+comparative meat, marrow and white grease utilities of two sheep and a caribou.
+Binford’s (1978) studies resulted in the construction of three indices, the meat index, the
+bone marrow index and the grease utility index and these he used as the foundation for
+modeling Nunamiut subsistence behaviors. However, because procurement sites for
+caribou were never the primary consumption locations for Nunamiut prey, Binford
+(1978:72) suggests decisions made at kill sites are,
+37
+
+generally made in terms of transport decisions rather than in terms of
+different potential uses for anatomical parts. The hunter having decided
+how to butcher the animal, is simultaneously deciding whether to abandon
+some parts and transport others. The more extended the logistical system
+is, the more multidimensional the decision making at the point of
+procurement will be. The butcher’s interest is in which parts of the animal
+are best for the greatest variety of uses.
+The idea that the Nunamiut based transport decisions on a generalized assessment of an
+element’s potential utility resulted in the construction of the modified general utility index
+(MGUI; Binford 1978:74). The MGUI describes the “relative economic importance by
+rank ordering of elements according to the by-weight proportion of attached meat,
+marrow, and grease” (Thomas and Mayer 1983:367). The MGUI acknowledges the
+transport of sets of elements as a single package. Thus, the MGUI takes into account the
+transport of low ranked items, termed “riders” such as carpals and tarsals that normally
+articulate with higher ranked elements, such as the radius or tibia, by boosting their utility
+values to compensate for their presence in an assemblage as a function of transport while
+attached to high ranked elements (Binford 1978:74).
+Binford (1978:81) defines several transport strategies based on curves describing
+the relationship between %MAU and MGUI. Bulk utility strategies (Binford 1978:81)
+describe transport decisions maximizing quantity and are characterized by the selection
+of large numbers of moderate to high utility skeletal parts while low utility parts are
+discarded at an accelerating rate relative to utility (Figure 3.1a). In contrast, gourmet
+utility strategies (Binford 1978:81) reflect transport decisions maximizing quality and
+represent choices selecting for high quantities of items with the highest utilities, while
+discarding those of moderate to low utility (Figure 3.1b). Finally, an unbiased utility
+strategy (Binford 1978:81) describes the transport of items in direct proportion to their
+
+38
+
+Figure 3.1b - Gourmet Utility Strategy
+
+%MAU
+
+%MAU
+
+Figure 3.1a - Bulk Utility
+Strategy
+
+MGUI
+
+MGUI
+
+Figure 3.1c - Unbiased Utility Strategy
+
+%MAU
+
+Figure 3.1 Generic curves demonstrating the
+relationship between %MAU and utility for
+the transport strategies discussed in the text.
+Figure modified from Binford (1978:81).
+
+MGUI
+
+relative economic utilities (Figure 3.1c). Conceptually then, all other things being equal,
+because different stages in the cultural system encompassing butchering and processing
+are expressed through different behaviors they should leave archaeological deposits with
+differing and often complementary utility curves (Thomas and Mayer 1983:368). Simply
+put, “at a kill site, one will find a proportionally large sample of low utility elements; at a
+meat cache or residential site, one finds a large sample of high utility elements” (Thomas
+and Mayer 1983:369).
+Although faunal researchers continue to develop utility indices as interpretive
+tools (for example Rodgers 2000a), these models must be employed with caution.
+
+39
+
+Ethnoarchaeological studies demonstrate that hunter-gatherers do not always transport
+food packages from kill to residential base locations in accordance with specific measures
+of nutritional utility (Bartram 1993; Bunn et al. 1988; O’Connell et al. 1988, 1990). Nonnutritional concerns can and often do condition the transport of skeletal elements and
+subsequently the selective deletion or introduction of skeletal parts into archaeological
+deposits. Under certain conditions, modern hunter-gatherers have been observed
+maximizing the amount of edible tissue relative to transport and processing costs
+(Bartram 1993; O’Connell et al. 1988, 1990). In addition, hunting or transport parties
+may take advantage of a lack of competition for the highest ranked parts while away from
+the residential base by eating the best items and returning lower ranked items to the
+residential base (O’Connell et al. 1988). Further, a range of presently unidentified
+cultural and/or environmental variables may result in a lack of correlation between
+skeletal parts and utility in an archaeological assemblage (Bartram 1993; O’Connell et al.
+1990). For example, present day participants in the world economy rarely make food
+choices exclusively based on utility. Because of the potential for a variety of factors
+including non-utility based decisions to influence transport, ethnographically derived
+utility indices should be recognized as models for decision making based on rational,
+quantifiable variables functioning to provide analytical frameworks for research.
+However, utility indices produce results that can be readily compared with data from
+other assemblages, and as such, I suggest that they offer the best (but imperfect) tools for
+evaluating the Locality II Agate Basin component bison remains.
+
+40
+
+Volume Bone Mineral Density
+Lyman and others (Grayson 1988, 1989; Lyman 1984, 1985, 1991, 1993, 1994)
+demonstrate that density-mediated destruction as a function of the volume bone mineral
+density of skeletal elements can obscure evidence of a given utility strategy within an
+assemblage and if not properly controlled, can lead an investigator to incorrect
+conclusions. For example, many elements demonstrating high structural densities have
+lower economic utility than those with lower structural densities (Grayson 1988).
+Therefore, an assemblage primarily conditioned by density-mediated attrition can look
+much like an accumulation of low utility skeletal parts discarded at a kill/processing area.
+The potential for similar patterns to result from one or more taphonomic agents
+introduces a measure of equifinality that requires resolution before the analyst can draw
+any meaningful conclusions (Lyman 1994:258). According to Lyman (1984) and
+Grayson (1988), lack of positive correlation between structural density and %MAU in an
+assemblage suggests that density related attritional processes are by themselves unlikely
+to account for any observed patterning. However, assemblages displaying positive
+relationships between density and %MAU are extremely ambiguous. Although several
+researchers propose statistical correlation-based solutions (Grayson 1988:70; Rogers
+2000a, 2000b), such approaches are best employed as one of several complementary
+analytical tools.
+Carnivore Modification
+In this section, I outline the research of Blumenschine and Marean (1993), who
+suggest that ratios of long bone epiphyses to long bone shaft fragments can successfully
+evaluate the intensity of carnivore activity affecting a faunal assemblage. Blumenschine
+
+41
+
+and Marean (1993), through a series of actualistic experiments augmented with
+previously available data, derive a model for differentiating faunal assemblages
+conditioned solely by carnivores from those resulting from human processing or from
+bone accumulations resulting from both human and carnivore actions. I employ the
+following model to assess the extent of carnivore modification to the Locality II Agate
+Basin component faunal materials. Blumenschine and Marean (1993:274) suggest that
+“the feeding activities of one agent will influence the range of choices available to the
+other and, hence, the extent and nature of damage and dispersal of remaining bones and
+bone portions.” Because carnivores, like humans, are expected to select skeletal parts in
+order of decreasing nutritional utility, if a carcass is first processed by humans and then
+utilized by carnivores, then the carnivores are faced with a different set of feeding options
+than those found at a carnivore kill. In effect, processing by humans re-ranks the
+nutritional utility of a set of skeletal parts.
+Blumenschine and Marean (1993) suggest that the re-ranking of skeletal parts can
+be seen in the ratio of limb epiphyses to shaft fragments. Human processing often aims
+to remove fat-rich marrow from within long bone shafts. The bone breakage involved in
+opening marrow cavities frequently results in a number of shaft fragments in addition to
+disassociated long bone epiphyses. Here the skeletal part’s nutritional value becomes reranked and carnivore feeding strategies change. Carnivores often chew through long
+bone epiphyses both to access grease contained within long bone cancellous tissues and
+to open marrow cavities for marrow extraction. Bones previously processed for marrow
+thus become nutritionally unattractive and though epiphyses may still contain some
+
+42
+
+nutrient value, their destruction by carnivores subsequent to human processing is
+expected to decrease.
+To test their model, Blumenschine and Marean (1993) assessed the data from a set
+of experimental assemblages (Blumenschine 1988; Blumenschine and Selvaggio 1991;
+Marean et al. 1992; Marean and Spencer 1991) to monitor the change in epiphysial
+destruction relative to shaft fragment survivorship between carnivore only, hammerstone
+only (bone destruction through marrow processing) and assemblages patterned by both
+carnivores and humans. Their experiments recorded skeletal part summaries resulting
+from the feeding behaviors of both captive and wild hyenas. Blumenschine and Marean
+(1993) found that the ratio of epiphyses to shaft fragments increases from carnivore only
+assemblages to dual patterned assemblages and finally is highest for hammerstone only
+assemblages (note that this model applies only if articular ends are not being
+preferentially destroyed through some cultural process such as bone grease processing).
+In addition, for the dual patterned, simulated assemblages, bones left in a fat-rich
+condition (marrow cavities intact) had lower epiphyses/shaft ratios than those left in fatdepleted conditions. Not only are fat-rich bones more likely to be deleted through
+ravaging at a kill site, but they are often also removed from areas of active feeding by
+carnivores attempting to avoid competition over choice items (Blumenschine and Marean
+1993:282). Blumenschine and Marean’s (1993) results suggest that the ratio of articular
+ends to shaft fragments can offer important insights into a faunal assemblage’s
+formational history.
+
+43
+
+Skeletal Part Analysis of the Locality II Agate Basin Component Faunal Materials
+In Chapter 2, I state that portions of at least fourteen individual bison were
+introduced into the Agate Basin deposits at Locality II based on dentition. The relative
+frequencies of skeletal elements as measured by %MAU (Table 3.1) suggests that
+skeletal elements were not introduced into the site in the same proportions found in a
+complete bison. Inspection of the relative skeletal part frequencies indicates the
+representation of appendicular elements at much higher proportions than axial elements
+(Figure 3.2).
+Within forelimb elements, proximal portions are in general, better represented
+than distal portions. Distal humeri are most common, distal ulnae are least common and
+with the exception of humeri, proximal portions of upper forelimb elements are better
+represented than distal portions (note that for the remainder of this discussion, proximal
+and distal refer to halves of elements).
+Elements of the hindlimb display a pattern similar to the one described for
+forelimb elements. Innominates (os coxae) are poorly represented, distal femora are
+more common then proximal femora, and both proximal and distal portions of the tibia
+are represented in approximately equal quantities. While astragali and calcanii are
+represented in similar quantities to distal tibiae, suggesting their introduction into the
+deposit as riders, tarsals are in comparison poorly represented. In contrast to
+appendicular elements, the assemblage contains low frequencies of axial parts. Only
+atlas and mandible portions approach the frequencies of the higher utility limb elements.
+
+44
+
+Element NISP Left Right Unisided MNE MAU %MAU
+Portions Coded
+CRN
+10
+3
+0
+0
+3
+1.5
+33
+DP4
+MR
+29
+6
+2
+0
+8
+4.0
+89
+M3
+HY
+0
+0
+0
+0
+0
+0.0
+0
+AT
+5
+0
+0
+3
+3
+3.0
+67
+CO+CNN
+AX
+2
+0
+0
+1
+1
+1.0
+22
+DSP+NAS
+CE 3-7
+11
+0
+0
+6
+6
+1.2
+27
+CO+CNS+NAS+CNN
+TH 1-14
+12
+0
+0
+5
+5
+0.4
+9
+CO+CNA+CNN+CNS
+RB
+294
+15
+20
+2
+37
+1.3
+29
+PR+PRS+PSH+DSS+DS
+CS
+0
+0
+0
+0
+0
+0.0
+0
+LM 1-5
+47
+0
+0
+10
+10
+2.0
+44
+CO+CN+CNN
+SA
+1
+0
+0
+1
+1
+0.2
+4
+CNW
+CA
+0
+0
+0
+0
+0
+0.0
+0
+SC
+50
+2
+3
+0
+5
+2.5
+56
+GN+GS+GNB
+HM PR
+10
+3
+2
+1
+6
+3.0
+67
+DT+FK/PR
+HM DS
+9
+5
+4
+0
+9
+4.5
+100 DS+DSS+DSH
+RD PR
+10
+4
+3
+0
+7
+3.5
+78
+PR +PRS+PSH
+RD DS
+4
+1
+3
+0
+4
+2.0
+44
+DS+DSS+DSH+DDS
+UL PR
+5
+3
+2
+0
+5
+2.5
+56
+ANC
+UL DS
+1
+0
+0
+1
+1
+0.5
+11
+DS
+CPU
+1
+0
+1
+0
+1
+0.5
+11
+CO
+CPI
+4
+0
+4
+0
+4
+2.0
+44
+CO
+CPR
+3
+2
+1
+0
+3
+1.5
+33
+CO
+CPS
+4
+2
+2
+0
+4
+2.0
+44
+CO
+CPF
+1
+1
+0
+0
+1
+0.5
+11
+CO
+CPA
+0
+0
+0
+0
+0
+0.0
+0
+MC PR
+6
+3
+2
+0
+5
+2.5
+56
+CO+PRS
+MC DS
+3
+1
+2
+0
+3
+1.5
+33
+CO+DDS+DS+DSS
+IM
+10
+1
+1
+0
+2
+1.0
+22
+AC
+FM PR
+10
+3
+2
+0
+5
+2.5
+56
+MO
+FM DS
+10
+5
+3
+0
+8
+4.0
+89
+CDL+DDS+SF
+PT
+1
+1
+0
+0
+1
+0.5
+11
+CO
+TA PR
+16
+2
+7
+0
+9
+4.5
+100 ACR
+TA DS
+8
+3
+5
+8
+8
+4.0
+89
+DS+DSS
+LTM
+4
+1
+3
+0
+4
+2.0
+44
+CO
+AS
+7
+2
+5
+0
+7
+3.5
+78
+CO+FR
+CL
+8
+4
+4
+0
+8
+4.0
+89
+CO+PR+SH
+TRC
+4
+2
+0
+0
+2
+1.0
+22
+CO
+TRS
+2
+2
+0
+0
+2
+1.0
+22
+CO
+TRF
+0
+0
+0
+0
+0
+0.0
+0
+MT PR
+5
+3
+2
+0
+5
+2.5
+56
+PRS+PSH
+MT DS
+5
+3
+2
+0
+5
+2.5
+56
+DS+DSH+DSS
+PHF
+10
+0
+0
+9
+9
+1.1
+25
+CO+AB+AX
+PHS
+21
+0
+0
+18
+18
+2.3
+50
+CO+AB+AX
+PHT
+4
+0
+0
+4
+4
+0.5
+11
+CO+AB+AX
+SEP
+8
+0
+0
+8
+8
+0.5
+11
+CO
+SED
+3
+0
+0
+3
+3
+0.4
+8
+CO
+Table 3.1 Quantification of bison size skeletal part frequencies observed in the Hell Gap
+Site Locality II Agate Basin faunal materials.
+
+45
+
+CRN
+MR
+AT
+AX
+CE
+TH
+LM
+RB
+SC
+HMPR
+HMDS
+RDPR
+RDDS
+ULPR
+ULDS
+CP
+MCPR
+MCDS
+IM
+FMPR
+FMDS
+TAPR
+TADS
+AS
+CL
+TR
+MTPR
+MTDS
+PHF
+PHS
+PHT
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+%MAU (Table 3.2)
+Figure 3.2 Chart displaying the relationship between %MAU and skeletal element
+for the Locality II Agate Basin component bison (body size 4) faunal remains.
+
+46
+
+The central question to be answered in the following analysis can be simply
+stated, why are bison skeletal elements differentially represented? Do the skeletal
+element frequencies identified in the Locality II Agate Basin assemblage result primarily
+from human decisions regarding the relationship between utility and transport or does this
+pattern represent a significant degree of selective deletion by non-human taphonomic
+agents? Further, if the impacts of non-cultural agents can be shown as insignificant, do
+the identified skeletal part summaries reflect aspects of nutritional decision making on the
+part of Late Pleistocene hunter-gatherers occupying the Hell Gap Site ca. 10,000 years
+ago? In the remainder of Chapter 3, I evaluate the questions presented here by comparing
+the skeletal elements frequencies present in the Locality II Agate Basin bison remains
+with volume bone mineral densities values (Kreutzer 1992), element portion based
+measures of carnivore ravaging (Blumenschine and Marean 1993), and finally with a
+series of bison nutritional utility indices (Emerson 1990, 1993).
+Density Mediated Attrition
+In the present section, I evaluate the influence of density-mediated attrition on the
+Locality II Agate Basin bison (body size 4) assemblage. Following Lyman’s (1984,
+1985) recognition that bone density can influence the survivorship of skeletal parts,
+volume bone mineral densities for bison skeletal parts (Kreutzer 1992) are employed to
+evaluate differential survivorship within the assemblage. Density values employed here
+represent the scan site closest to each portion or landmark used to establish MAU values,
+using separate values for proximal and distal halves where appropriate (Table 3.2).
+
+47
+
+ELEMENT
+CRN
+MR
+AT
+AX
+CE
+TH
+LM
+RB
+
+%MAU
+33
+89
+67
+22
+27
+9
+44
+29
+
+DENSITY
+/
+0.49
+0.91
+0.97
+0.62
+0.42
+0.39
+0.57
+
+SCAN SITE
+/
+DN5
+AT2
+AX3
+CE2
+TH1
+LU3
+RI3
+
+[S]MAVGTP
+14.2
+14.2
+6.4
+7.8
+56.6
+84.7
+82.9
+100
+
+[S]MAVGTF
+/
+/
+59
+7.1
+50.7
+100
+99.5
+93
+
+[S]MAVGSKF [S]MAVGWG [S]MAVGMAR
+/
+/
+/
+/
+/
+/
+1.6
+/
+/
+1.1
+/
+/
+3.3
+/
+/
+16.8
+/
+/
+18.3
+/
+/
+38.7
+/
+/
+
+SC
+HMPR
+HMDS
+RDPR
+RDDS
+ULPR
+ULDS
+CP
+MCPR
+MCDS
+
+56
+67
+100
+78
+44
+56
+11
+24
+56
+33
+
+0.5
+0.25
+0.48
+0.48
+0.35
+0.69
+0.35
+0.43
+0.59
+0.53
+
+SP1
+HU2
+HU4
+RA1
+RA5
+UL2
+RA5
+MEAN
+MC1
+MC6
+
+31.6
+31.6
+25.1
+16.5
+12.1
+20.8
+12.1
+6.6
+3.9
+2.6
+
+16.7
+17.1
+15.3
+11.2
+8.9
+11.2
+8.9
+5.6
+3.9
+3.1
+
+53.7
+95.6
+77.2
+67.4
+59.1
+72.3
+59.1
+39.2
+29.2
+24.2
+
+44.4
+73.5
+59.1
+51.8
+48.2
+55.45
+48.2
+37.6
+32.2
+29.6
+
+36.9
+71.5
+69.2
+68
+50.3
+68.6
+50.3
+36.2
+29.2
+18.2
+
+IM
+FMPR
+FMDS
+TAPR
+TADS
+AS
+CL
+TR
+MTPR
+MTDS
+
+22
+56
+89
+100
+89
+78
+89
+15
+56
+56
+
+0.53
+0.34
+0.26
+0.41
+0.41
+0.72
+0.8
+0.65
+0.52
+0.48
+
+AC1
+FE3
+FE5
+TI2
+TI5
+AS1
+CA2
+MEAN
+MR1
+MR6
+
+54.7
+69.4
+69.4
+40.8
+25.5
+13.6
+13.6
+13.6
+7.5
+4.5
+
+54
+38.7
+38.7
+25.4
+17
+0
+0
+10.1
+6.4
+4.6
+
+70.6
+100
+100
+97.1
+78
+51.6
+51.6
+51.6
+37.5
+30.5
+
+/
+100
+100
+71.8
+56.7
+49.1
+49.1
+49.1
+38.4
+33
+
+6.7
+97.2
+98.2
+100
+84.5
+55.2
+55.2
+55.2
+40.6
+25.2
+
+PHF
+PHS
+PHT
+
+25
+50
+11
+
+0.48
+0.41
+0.32
+
+P11
+P21
+P31
+
+2.4
+2.4
+2.4
+
+3.1
+3.1
+3.1
+
+23.5
+23.5
+23.5
+
+29.05
+29.05
+29.05
+
+12.85
+12.85
+12.85
+
+Table 3.2 %MAU, density scan site values, and utility indices employed in the skeletal element frequency
+analysis. Scan site values and utility indices taken from Kreutzer (1992) and Emerson (1990; see text, p. 52, for
+index definitions), respectively.
+
+Spearman's Significant
+2
+
+Spearman's Significant
+
+Model
+r
+at 0.05 level
+Model
+r2
+at 0.05 level
+3.3a Volume Density
+-0.013
+no
+3.3f Skeletal Fat Model
+0.534
+yes
+3.3b Total Products Model
+0.168
+no
+3.3g appendicular only
+0.546
+yes
+3.3c
+appendicular only
+0.523
+yes
+3.3h Marrow Fat Model
+0.710
+yes
+3.3d. Total Fat Model
+0.006
+no
+3.3i White Grease Model
+0.680
+yes
+3.3e
+appendicular only
+0.269
+no
+3.3j Marrow vs. Grease
+0.990
+yes
+Table 3.3 Spearman's rank-order correlation coefficients describing the relationship between %MAU and the
+various models employed during analysis of the Hell Gap Site Locality II Agate Basin component bison
+remains.
+
+48
+
+100
+
+TAPR HMDS
+TADS
+
+FMDS
+
+CL
+
+%MAU Bison (Table 3.2)
+
+80
+
+MR
+RDPR
+
+AS
+
+AT
+
+HMPR
+
+60
+
+SC MTPR MCPR
+MTDS
+
+FMPR
+
+ULPR
+
+PHS
+RDDS LM
+
+40
+MCDS
+RB
+CP
+
+PHF
+
+20
+
+CE
+AX
+
+IM
+TR
+
+PHT ULDS
+
+TH
+
+0
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+Volume Bone Mineral Density (Table 3.2)
+Figure 3.3 Relationship between %MAU and values for bison bone mineral density.
+Density values taken from Kreutzer (1992).
+
+Comparing %MAU values with volume bone mineral densities indicates that
+there is no correlation between skeletal part survivorship and density values (Table 3.3a;
+Figure 3.3). Throughout the assemblage, element portions with similar densities display
+widely variable %MAU values. For example, while both thoracic vertebrae and proximal
+tibiae have similar density values, .42 and .41 respectively, thoracic vertebrae are only
+36% as common as proximal tibia (%MAU=100). As a further example, the relative
+frequencies of carpals and tarsals demonstrate (mean density values of .43 and .65
+respectively) that several denser and therefore more likely to survive elements are
+underrepresented relative to less dense elements. The lack of a positive correlation
+between %MAU and survivorship suggests that volume bone mineral density does not,
+49
+
+by itself, account for the differential representation of skeletal parts within the Locality II
+Agate Basin assemblage.
+Carnivore Modification
+Following the model proposed by Blumenschine and Marean (1993), I now
+evaluate the intensity of carnivore ravaging potentially modifying the Locality II Agate
+Basin faunal remains. In order to eliminate the potential for the overrepresentation of
+shaft fragments relative to epiphyses, only specimens identifiable to element are included
+here. Calculation of the relationship between epiphyses and shaft fragments results in a
+ratio of 0.41 epiphysis fragments to each long bone shaft fragment, placing the Locality II
+Agate Basin assemblage closest to Blumenschine and Marean’s (1993) result for
+hammerstone only modified assemblages (Table 3.4, Figure 3.4).
+I do not suggest that carnivores did not selectively delete skeletal parts from the
+assemblage. Because only specimens identifiable to element are included, the result
+presented here may over-represent the number of epiphysis fragments relative to shaft
+fragments, at least to some extent. In fact, if unidentified long bone fragments are
+included in the calculation, then the ratio changes dramatically, dropping to 0.12, well
+within the expected range for carnivore only assemblages. However, as the specimen
+level attribute analysis conducted in Chapter 4 will show, long bone specimens display
+little evidence of carnivore modification, while at the same time indicating intensive,
+patterned human processing interpreted as marrow extraction. In sum, it is likely the
+Locality II Agate Basin faunal remains were conditioned primarily by humans, but also to
+some extent by carnivores.
+
+50
+
+Ratio of Articular Ends to Shaft Fragments
+
+0.5
+
+0.4
+
+Carnivore Only
+Dual Patterned - Fat Rich
+Dual Patterned - Fat Depleted
+Hammerstone Only
+Locality II Bison Remains
+
+0.3
+
+0.2
+
+0.1
+
+0.0
+Figure 3.4 Comparison of the number of long bone end fragments to shaft fragments. Blumenschine
+and Marean's (1993) carnivore only, dual patterned, and hammerstone only assemblages are
+compared with the value for the Locality II Agate Basin bison (body size 4) remains.
+
+ELEMENT NISP PR
+HM
+0
+RD
+8
+MC
+5
+FM
+4
+TA
+0
+MT
+4
+TOTAL
+21
+UN
+0
+TOTAL
+21
+
+NISP DS
+9
+3
+2
+2
+8
+4
+28
+0
+28
+
+NISP FK
+24
+14
+1
+21
+48
+12
+120
+304
+424
+
+NISP TOTAL
+33
+25
+8
+27
+56
+20
+169
+0
+169
+
+PR/DS
+0.00
+2.67
+2.50
+2.00
+0.00
+1.00
+0.75
+0.00
+0.75
+
+PR+DS/FK
+0.38
+0.79
+7.00
+0.29
+0.17
+0.67
+0.41
+0.00
+0.12
+
+Table 3.4 Skeletal part summaries used to calculate the intensity of carnivore ravaging.
+
+51
+
+Skeletal Part Summaries and Utility Indices
+In this section, %MAU values for skeletal parts (Table 3.1) are compared with
+five of Emerson’s (1990, 1993) measures of bison nutritional utility (Table 3.2).
+Emerson (1990) derived carcass composition data from four range-fed bison, a yearling
+male, a seven year old male, a seven year old female and a sixteen and one-half year old
+female. The Total Products Model ([S]MAVGTP, Table 3.2), measures the general
+utility of the combined caloric yield of skeletal fat, muscle protein, and intramuscular and
+other dissectible fat (Emerson 1990:624). The Total Fat Model ([S]MAVGTF, Table
+3.2) is derived from the caloric yields of skeletal, intramuscular and dissectible fat,
+excluding the stomach and intestinal depots (Emerson 1990:842). The Skeletal Fat Model
+([S]MAVGSKF, Table 3.2) measures the caloric yields of the combined marrow and
+grease, within-bone fat content (Emerson 1990:843). The Marrow Fat Model
+([S]MAVGMF, Table 3.2) assesses the relative caloric yields of skeletal elements based
+on marrow alone (Emerson 1990:839). Finally, the White Grease Model ([S]MAVGWG,
+Table 3.2) describes the caloric yields based solely on the white bone grease contained in
+bison long bones (Emerson 1990:840). All of the indices employed during this analysis
+are standardized on a scale from zero to one hundred and are modified to account for
+riders.
+Total Products Model. Comparison of skeletal part summaries with the Total
+Products Model (Figure 3.5) suggests that skeletal portions were not introduced into the
+Locality II Agate Basin deposit based on generalized nutritional utility. Elements
+representing most of the highest Total Product utilities, ribs, vertebrae, and innominates,
+are underrepresented. Correlation coefficients indicate no relationship between the Total
+
+52
+
+100
+
+HMDS
+CL MR
+
+%MAU Bison (Table 3.2)
+
+80
+
+TAPR
+
+TADS
+
+FMDS
+
+AS RDPR
+
+AT
+
+60
+
+HMPR
+
+MCPR MTPR
+MTDS
+
+ULPR
+
+SC
+
+FMPR
+
+PHS
+LM
+
+RDDS
+
+40
+MCDS
+
+CRN
+
+20
+
+RB
+
+CE
+
+PHF CP
+AX
+
+IM
+TR
+
+PHT
+
+ULDS
+
+TH
+
+0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Modified Bison Total Products (Table 3.2)
+Figure 3.5 Scatterplot displaying the relationship between %MAU and the Total Products Model.
+Total Product values taken from Emerson (1990).
+
+Products Model and the bison assemblage (Table 3.3b, Figure 3.5). Because of the
+under-representation of axial elements, whether through excavator bias or because axial
+elements were treated differently than appendicular elements, analysis was repeated for
+appendicular elements only (Marean and Frey 1997:709). Upon removal of axial
+elements from consideration, a visible pattern emerges and a statistical correlation is
+present (Table 3.3c; Figure 3.6). The appendicular skeletal parts conform to a bulk
+transport model as proposed by Binford (1978:81) that appears to maximize the
+combined total protein and total fat values found attached to bison limb bones. If
+generalized return rates did not dictate the transport of bison skeletal parts, both axial and
+appendicular, then what did influence the return of elements from kill sites to Locality II?
+
+53
+
+100
+CL
+
+80
+%MAU Bison (Table 3.2)
+
+TAPR
+
+HMDS
+
+TADS
+
+FMDS
+
+AS RDPR
+
+HMPR
+
+60
+
+MCPR MTPR
+MTDS
+
+ULPR
+
+SC
+
+FMPR
+
+PHS
+RDDS
+
+40
+MCDS
+PHF CP
+
+IM
+
+20
+TR
+PHT
+
+ULDS
+
+0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Modified Bison Total Products (Table 3.2) - Appendicular Elements Only
+Figure 3.6 Scatterplot displaying the relationship between %MAU for appendicular elements
+and the Total Products Model. Total Product values taken from Emerson (1990).
+
+Total Fat Model. Comparison of Locality II bison skeletal portion frequency data
+with the Total Fat Model (Figure 3.7) suggests that items were not introduced into the
+Locality II Agate Basin deposit based on overall fat utility. Much like the patterning
+identified between %MAU and the Total Products Model, elements representing most of
+the highest overall fat utilities, the ribs, vertebrae, and innominates, are underrepresented
+(Figure 3.7). Skeletal part summaries inclusive of both axial and appendicular elements
+show no correlation with the skeletal part fat utilities for bison (Table 3.3d, 33e). While
+removing appendicular elements from consideration does little to improve the level of
+statistical correlation, a visible pattern does emerge (Figure 3.8). The appendicular
+element frequencies suggest a bulk transport strategy (Binford 1978:81) that appears to
+maximize the combined overall values for the caloric yields of skeletal, intramuscular
+54
+
+100
+
+HMDS
+
+CL
+
+%MAU Bison (Table 3.2)
+
+80
+
+TAPR
+
+TADS
+
+FMDS
+
+RDPR
+
+AS
+
+HMPR
+
+60
+
+MCPR
+MTPR ULPR
+MTDS
+PHS
+
+AT
+
+SC
+
+FMPR
+
+LM
+
+RDDS
+
+40
+MCDS
+
+20
+
+RB
+
+CE
+
+PHF
+CP
+AX
+
+IM
+TR
+
+PHT
+
+ULDS
+
+TH
+
+0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Total Fat Model (Table 3.2)
+Figure 3.7 Scatterplot displaying the relationship between %MAU and the Total Fat Model.
+Total Fat values taken from Emerson (1990).
+
+100
+CL
+
+%MAU Bison (Table 3.2)
+
+80
+
+TAPR
+
+HMDS
+
+TADS
+
+AS
+
+FMDS
+
+RDPR
+
+HMPR
+
+60
+
+MCPR
+MTPR ULPR
+MTDS
+PHS
+
+FMPR
+
+SC
+
+RDDS
+
+40
+MCDS
+PHF
+CP
+
+IM
+
+20
+TR
+PHT
+
+ULDS
+
+0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Total Fat Model (Table 3.2) - Appendicular Elements Only
+Figure 3.8 Scatterplot displaying the relationship between %MAU for appendicular elements
+and the Total Fat Model. Total Fat values taken from Emerson (1990).
+
+55
+
+100
+
+HMDS
+
+CL
+
+%MAU Bison (Table 3.2)
+
+80
+
+TADS
+
+TAPR
+
+FMDS
+
+RDPR
+
+AS
+
+AT
+
+HMPR
+
+60
+
+MTDS
+MCPR
+
+ULPR
+
+SC
+
+MTPR
+
+FMPR
+
+PHS
+LM
+
+RDDS
+
+40
+MCDS
+RB
+
+CE
+
+20
+
+PHF
+
+AX
+
+CP
+
+IM
+TR
+ULDS
+
+PHT
+
+TH
+
+0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Skeletal Fat Model (Table 3.2)
+Figure 3.9 Scatterplot displaying the relationship between %MAU and the Skeletal Fat Model.
+Skeletal Fat values taken from Emerson (1990).
+
+and dissectible fat found attached to bison limb bones. Here again, the question arises;
+why or how might high utility axial elements have been deleted from the assemblage?
+Skeletal Fat Model. The positive correlation between the Locality II, bison
+element frequencies and the Skeletal Fat Model suggests the introduction of skeletal parts
+into the deposit may in some sense be related to within-bone fat utility (Table 3.3f, Figure
+3.9). The relationship between skeletal fat and element frequency describes a weakly
+defined unbiased utility strategy (Figure 3.9). Overall, skeletal part frequencies appear
+consistent with their introduction into the deposit in proportion to within-bone fat content
+values. Removal of axial elements has little effect on either the visible pattern or the
+statistical correlation, suggesting that skeletal fat values may be influencing the transport
+of food packages from kill sites to the inferred residential base (Table 3.3g, Figure 3.10).
+56
+
+100
+
+HMDS
+
+CL
+
+%MAU Bison (Table 3.2)
+
+80
+
+TADS
+
+AS
+
+TAPR
+
+FMDS
+
+RDPR
+
+HMPR
+
+60
+
+MTDS
+MCPR
+
+MTPR
+
+SC
+
+FMPR
+
+ULPR
+
+PHS
+RDDS
+
+40
+MCDS
+PHF
+
+CP
+
+IM
+
+20
+TR
+PHT
+
+ULDS
+
+0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Skeletal Fat Model (Table 3.2) - Appendicular Elements Only
+Figure 3.10 Scatterplot displaying the relationship between %MAU for appendicular elements and
+the Skeletal Fat Model. Skeletal Fat values taken from Emerson (1990).
+
+However, because of the vagueness of the pattern, another factor or some subset of
+skeletal fat, for example marrow or bone grease, may be conditioning this pattern.
+Marrow Fat Model. Comparison of the Locality II Agate Basin bison element
+frequencies with the Marrow Fat Model indicates a positive correlation, suggesting that
+skeletal portions were introduced into the Locality II Agate Basin deposit, at least in part,
+based on their marrow fat utility (Table 3.3h, Figure 3.11). Much like the patterning
+identified between %MAU and the Skeletal Fat Model, the relationship between bison
+element frequencies and marrow suggests an unbiased utility strategy (Binford 1978:81).
+White Grease Model. Comparison of Locality II Agate Basin bison element
+frequencies with the White Grease Model also indicates a correlation between grease
+
+57
+
+100
+
+TAPR
+
+HMDS
+
+CL
+
+%MAU Bison (Table 3.2)
+
+80
+
+TADS
+
+AS
+
+FMDS
+
+RDPR
+
+HMPR
+
+60
+
+MCPR
+MTDS
+
+SC MTPR
+
+ULPR
+
+FMPR
+
+PHS
+RDDS
+
+40
+MCDS
+PHF
+
+CP
+
+IM
+
+20
+
+TR
+ULDS
+
+PHT
+
+0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Marrow Fat Model (Table 3.2)
+Figure 3.11 Scatterplot displaying the relationship between %MAU and the Marrow Fat
+Model. Marrow Fat values taken from Emerson (1990).
+100
+
+HMDS
+
+CL
+
+%MAU Bison (Table 3.2)
+
+80
+
+TAPR
+
+TADS
+
+FMDS
+
+ASRDPR
+
+HMPR
+
+60
+
+MCPR MTPR
+MTDS
+
+ULPR
+
+SC
+
+FMPR
+
+PHS
+RDDS
+
+40
+MCDS
+PHF
+
+20
+
+IM
+
+CP
+
+TR
+ULDS
+
+PHT
+
+0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+White Grease Fat Model (Table 3.2)
+Figure 3.12 Scatterplot displaying the relationship between %MAU and the White Grease
+Fat Model. White Grease Fat values taken from Emerson (1990).
+
+58
+
+100
+
+FMDS
+FMPR
+
+TAPR
+
+TADS
+
+Marrow Fat Model (Table 3.2)
+
+80
+HMDS
+ULPR
+RDPR
+
+HMPR
+
+60
+AS CL
+TR
+RDDS
+ULDS
+MTPR
+
+40
+
+CP
+
+SC
+
+MCPR
+MTDS
+
+20
+
+MCDS
+PHF PHS
+PHT
+IM
+
+0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+White Grease Model (Table 3.2)
+Figure 3.12 Scatterplot displaying the relationship between the Marrow Fat and White Grease models.
+Marrow Fat and White Grease Fat values taken from Emerson (1990).
+
+utility and %MAU (Table 3.3i, Figure 3.12). In fact the relationship between bison
+skeletal parts and white grease utility appears most similar to a bulk utility strategy
+(Binford 1978:81), suggesting that elements/portions high in white bone grease were
+actively selected for transport. However, I do not suggest that Paleoindians were making
+transport decisions based solely on grease utility. Such a conclusion would be surprising
+indeed, as I am aware of no evidence indicating bone grease processing facilities
+associated with Paleoindian-age deposits. I offer a much simpler answer. Comparing the
+White Grease Model with the Marrow Fat Model reveals a pattern very similar to the one
+present when evaluating %MAU against the White Grease Model (Table 3.3j, Figure
+3.13). Thus, all other things being equal, if skeletal parts are introduced into a deposit in
+59
+
+direct proportion to marrow utility values, then at the same time, the relationship between
+%MAU and white grease will describe a bulk utility curve. Simply stated, there is a close
+correlation between marrow fat and white grease-rich portions of a bison skeleton.
+Summary
+The preceding discussion monitors the extent that three taphonomic processes,
+density-mediated attrition, carnivore ravaging and hunter-gatherer transport decisions
+may have conditioned the survivorship of skeletal part frequencies introduced into the
+Hell Gap Site Locality II Agate Basin deposits during a complex, multi-dimensional
+formational history. The lack of correlation between survivorship and volume bone
+mineral density suggests that density-mediated attrition, by itself, cannot account for the
+differential survivorship of skeletal parts. Likewise, carnivores appear to have had little
+impact on the extant assemblage, although deletion of elements through removal beyond
+the excavated margins of the site by scavengers may have been more significant. The
+Locality II, faunal remains do suggest a relationship between within-bone fat content and
+element representation, if taphonomic processes not addressed in this thesis have not
+acted on the assemblage to any significant degree. A number of alternative scenarios
+such as deletion through fluvial action (the site is located in a drainage bottom) or the
+extensive conditioning of the assemblage through selective discard during the Harvard
+excavations must be recognized as potentially effecting the skeletal element frequencies
+now present. In the next chapter, I will further explore the Locality II, faunal assemblage
+through a specimen level attribute analysis to support the conclusions derived from the
+skeletal part frequencies.
+
+60
+
+CHAPTER 4
+BONE MODIFICATIONS: ANALYSIS AT THE SPECIMEN LEVEL
+Modeling the survivorship of skeletal parts through density mediated attrition,
+ravaging and utility together suggests that the Locality II Agate Basin assemblage may
+have been conditioned, at least in part, by the decisions of hunter-gatherers transporting
+food items in relation to nutritional value. However, correlation between two sets of
+variables does not necessarily identify the cause of a pattern. Further, the Locality II
+deposit likely results from a complex, multi-dimensional formational history. I suggest a
+complementary analysis is needed to evaluate the patterning offered by the assemblage
+level analysis conducted in the previous chapter.
+Butchery and Processing: Evidence at the Specimen Level
+In Chapter 4, I will assess the bone modifications observed on individual
+specimens in an attempt to evaluate both ravaging and human processing as agents
+potentially conditioning the faunal remains. Up to this point, I have argued that the
+relationship between element representation and nutritional utility indicates that human
+action is the most likely agent responsible for the Locality II Agate Basin faunal
+assemblage. Specifically, my analysis indicates an emphasis on anatomical portions
+offering the greatest combined bulk protein/within-bone fat utilities, suggesting that
+Agate Basin Paleoindians may have been practicing a fat-seeking feeding strategy.
+I will pursue support for the interpretations drawn in Chapter 3 through
+investigations in three areas. First, individual specimen attributes should reflect butchery
+aimed at reducing whole bison into transportable and consumable food packages. If
+appendicular elements were being preferentially exploited, then butchery related
+
+61
+
+cutmarks should be present on limb elements. Second, inspection of individual
+specimens should reveal damage consistent with processing designed to recover bone
+marrow. Third, if Paleoindians are primarily responsible for the Locality II Agate Basin
+faunal materials then the assemblage should display little evidence of carnivore
+modification. Together, the expectations outlined here if supported, would greatly
+strengthen the conclusions drawn from the skeletal part frequency analysis.
+Assemblage Condition
+The condition of the Locality II Agate Basin bison remains is generally poor,
+most likely obscuring a number of bone surface modifications. Three factors may hide
+butchery and processing marks, carnivore damage and other subtle, humanly or nonhumanly generated modifications. First, many of the specimens exhibit extensive and
+significant surface damage, stemming from haphazard excavation techniques. The
+Harvard field notes make frequent reference to the use of picks and carpenter’s hammers
+during excavation (these tools are visible in photos taken at the time). In addition, many
+of the specimens appear to have been cleaned with a wire brush. Second, a thick varnishlike preservative, now yellowed with age, was frequently applied to bone specimens in
+the field. In this case, bone surfaces were not destroyed, but are instead now completely
+obscured. Third, subaerial weathering has significantly modified bone surfaces and in
+many cases, cortical surfaces are completely absent. The advanced weathering may
+reflect the Locality II Agate Basin deposit’s formational history. However, the
+destruction of bone surfaces may also result from 1960’s excavation practices dictating
+exposure of “bone levels” covering large areas of excavation grid. As a result, many
+specimens may have lay exposed to the elements for periods of up to a month before
+
+62
+
+recovery and curation. Because of the uncertainty as to when the specimens were
+weathered, I do not attempt weathering analysis for the Locality II assemblage. Lack of
+weathering data is unfortunate. Weathering information can greatly aid in determining
+the contextual association of assemblages (Byers 2000; Todd and Rapson 1999), a tactic
+that for Locality II might have allowed for the separation of the upper and lower Agate
+Basin components in the units where these deposits merged, allowing for a more finegrained interpretation of the deposit.
+Carnivore and Rodent Modification
+Rodents, especially porcupines, are known to gnaw on dry, degreased bone, often
+leaving a readily identifiable configuration of multiple grooves that are “relatively broad,
+flat-bottomed or slightly rounded in cross section, and parallel or nearly parallel to each
+other” (Fisher 1995:40). Twenty-three (1.8%; Table 4.1) of the bison (body size 4)
+specimens show rodent modification and several suggest extended or repeated episodes
+of gnawing. One specimen displays both cutmarks and rodent gnawing, indicating the
+modification of part of the assemblage by both humans and rodents (Figure 4.1).
+However, given the frequency of observed rodent modification, rodents had little impact
+on the survivorship of the skeletal parts present in the Locality II Agate Basin faunal
+assemblage.
+Carnivore Ravaging
+Only one specimen (less than .1% of the body size 4 specimens; Table 4.1, Figure
+4.2), the distal, medial portion of a humerus, exhibits unambiguous evidence of carnivore
+gnawing. In addition to the single, carnivore modified specimen, several others display a
+pattern of selective deletion highly suggestive of ravaging by large canids (Binford 1981;
+
+63
+
+Element/
+Portion
+CRN
+MR
+AT
+AX
+CE
+TH
+RB
+CS
+LM
+SA
+CA
+SC
+HM PR
+HM FK/SH
+HM DS
+RD PR
+RD FK/SH
+RD DS
+UL PR
+UL FK/SH
+UL DS
+CP
+MP
+MC CO
+MC PR
+MC FK/SH
+MC DS
+IM
+FM PR
+FM FK/SH
+FM DS
+PT
+TA PR
+TA FK/SH
+TA DS
+LTM
+AS
+CL
+TR
+MT PR
+MT FK/SH
+MT DS
+
+NISP
+10
+29
+5
+2
+11
+12
+294
+0
+47
+1
+0
+50
+10
+15
+9
+10
+11
+4
+5
+7
+1
+16
+1
+1
+5
+1
+2
+10
+10
+9
+10
+1
+16
+34
+8
+4
+7
+8
+6
+5
+10
+5
+
+NISP %NISP NISP %NISP NISP %NISP NISP
+%NISP NISP %NISP
+Cut
+Cut Impact Impact Anvil Anvil Carnivore Carnivore Rodent Rodent
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+3
+2
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+8
+0
+0
+0
+0
+0
+0
+0
+0
+4
+1
+0
+0
+0
+0
+0
+0
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+4
+40
+5
+50
+0
+0
+0
+0
+0
+0
+1
+7
+6
+40
+1
+7
+0
+0
+0
+0
+1
+11
+4
+44
+0
+0
+1
+11
+0
+0
+0
+0
+2
+20
+0
+0
+0
+0
+0
+0
+0
+0
+3
+27
+2
+18
+0
+0
+1
+9
+0
+0
+1
+25
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+20
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+100
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+50
+0
+0
+0
+0
+0
+0
+0
+0
+1
+11
+1
+11
+0
+0
+0
+0
+1
+10
+4
+40
+1
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+31
+0
+0
+0
+0
+0
+0
+3
+9
+5
+15
+1
+3
+0
+0
+2
+6
+1
+13
+1
+13
+1
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+10
+0
+0
+0
+0
+0
+0
+2
+40
+1
+20
+0
+0
+0
+0
+0
+0
+
+Table 4.1 Hell Gap Site Locality II Agate Basin component % NISP summary of modifications to
+bison (body size 4) specimens (NISP = 1300).
+
+64
+
+Element/
+Portion
+PH
+PHF
+PHS
+PHT
+SEP
+SED
+LB FK/SH
+TFR
+FB
+CB
+VT
+US
+Totals
+
+NISP %NISP NISP %NISP NISP %NISP NISP
+%NISP
+NISP %NISP
+NISP Cut
+Cut
+Impact Impact Anvil Anvil Carnivore Carnivore Rodent Rodent
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+1
+5
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+306
+4
+1
+25
+8
+0
+0
+0
+0
+13
+4
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+52
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+16
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+157
+1
+1
+0
+0
+0
+0
+0
+0
+1
+1
+1300 30
+2.3
+73
+5.6
+7
+0.5
+1
+0.1
+23
+1.8
+
+Table 4.1 (continued)
+
+Haynes 1980). Portions consistently missing from the Locality II assemblage include
+proximal ends of the humerus, femur and tibia (Figure 4.3a). Proximal articular ends of
+long bones are often targets for carnivores due to the bone grease within their cancellous
+tissues. The destruction of articular ends by scavengers also allows access to the marrow
+cavities (Binford 1981:51; Haynes 1980:345-347). Ravaging often results in long bone
+specimens whose proximal ends are missing (Figure 4.3b), appearing gouged or
+scalloped, while distal condyles may display some gnaw marks (Haynes 1980). As such,
+long bone ends will suffer the greatest relative attrition in a ravaged assemblage. In
+addition to patterned attrition inflicted through ravaging, carnivores can modify an
+assemblage while leaving few (if any), often subtle marks on bone surfaces, if they leave
+any modifications at all, (Blumenschine and Marean 1993:280). Further, because
+marrow extraction by humans often leaves only articular ends as attractive to carnivores
+and because ravaging often destroys cancellous portions, the lack of direct evidence for
+carnivores can be particularly acute in the case of a dual patterned assemblage
+
+65
+
+Rodent
+
+Cutmarks
+
+cm
+
+Figure 4.1 Long bone shaft fragment (UW8221) displaying both rodent gnawing and cutmarks.
+Cutmarks enhanced for clarity.
+
+Carnivore Damage
+
+Figure 4.2 Distal humerus fragment (UW8112) displaying carnivore modification.
+
+66
+
+a
+
+b
+
+Figure 4.3 Possible carnivore modified specimen (UW 9094, top) from the Locality II Agate Basin
+assemblage, compared with a cow humerus ravaged by a domestic dog (bottom).
+
+67
+
+(Blumenschine and Marean 1993:282). The Locality II specimens, while not consistent
+with the expectations for an extensively ravaged assemblage, suggest limited
+conditioning of the Locality II Agate Basin faunal remains through canid activity.
+Cultural Bone Modifications
+The Locality II Agate Basin faunal assemblage contains evidence for the
+butchering and processing of bison parts by Paleoindians. The Locality II Agate Basin
+bison remains were inspected for green bone breakage, cutmarks, and impact damage.
+Green bone fractures are one indicator that a specimen may have been processed for
+within-bone nutrients either by humans or carnivores (Haynes 1983, Johnson 1985).
+Green bone breakage results from dynamic loading on fresh bone and is often manifested
+as spiral fractures with fracture surfaces having “the same color as the outer cortical
+surface, exhibit a smooth texture, and form acute and obtuse angles with the outer cortical
+surface” (Johnson 1985:176). However, because non-human taphonomic processes can
+also produce spiral fractures (Agenbroad 1989; Behrensmeyer et al. 1989; Oliver 1989),
+green bone breakage should not, by itself, be viewed as evidence of marrow extraction.
+Cutmarks (bone surface modifications associated with butchery) are defined as
+fine, parallel to sub-parallel striations with v-shaped profiles resulting from the removal
+of muscle from associated skeletal elements (Shipman and Rose 1983:64). Chopmarks
+are another surface modification observed (on a single specimen) in the Locality II Agate
+Basin bison assemblage. A chopmarks is defined as “broad, relatively short, linear
+depression that generally has a V-shaped cross section” (Fisher 1995:19). In general,
+chopmarks are expected to be much more robust modifications resulting from a hacking
+as opposed to cutting motion with a butchering tool.
+
+68
+
+Conchoidal flake scars on long bone shaft fragments are important clues to the
+formational history of a faunal assemblage. Fisher (1995:21) reports that
+conchoidal flake scars and corresponding bone flakes are produced by
+applying strong force to a bone with a hard object. Ancient humans
+created conchoidal flake scars and flakes by striking the shaft of a
+bone with a hammerstone (or other suitable hammer) or by striking a
+bone on an anvil. The purpose of hitting bones in this fashion was, in
+many cases, to break bones open for marrow removal, to fashion an
+implement from bone, or to obtain a piece of bone as raw material for
+tool manufacture or other purposes.
+Fresh or green bone is somewhat elastic. Because of its inherent elasticity, green bone
+responds to the application of force in much the same way as toolstone, resulting in
+similar fracture patterns to those observed in the manufacture of stone tools (Binford
+1978:154). Conchoidal fractures and conchoidal flakes possessing platforms and
+negative bulbs of percussion (Figure 4.4), characterize impacts to bone specimens (Fisher
+1995:21). For the purposes of this thesis, two types of conchoidal flake scars are noted,
+inner conchoidal flake scars and outer conchoidal flake scars (White 1992:135). Flake
+scars on inner cortical surfaces are suggested to represent impacts by hammerstones or
+other similar tools, while flake scars on the outer cortical surface are suggested to
+represent anvil damage created as the force of impact travels through the bone from the
+opposite aspect, detaching a flake on the outer cortical surface resting against the anvil.
+While Late Pleistocene bison were obviously much larger than caribou and therefore may
+have required processing behaviors not employed by recent hunter-gatherers, I assume
+that bone modifications generated by the Nunamiut are consistent with strategies
+designed to process megafaunal bison for two reasons; 1) for the purpose of comparison
+and 2) because Binford’s (1978, 1981) study of Nunamiut subsistence offers the most
+complete documentation of hunter-gatherer butchery in a temperate environment.
+69
+
+Refit
+
+Figure 4.4 Tibia shaft fragment (UW8823, top) displaying a conchoidal flake scar consistent with
+impact damage. Bottom photo shows the same tibia fragment with the impact flake (UW8825) refit
+into the conchoidal flake scar.
+
+70
+
+Bone Modifications within the Locality II Faunal Assemblage
+The Locality II Agate Basin faunal materials were monitored for green bone
+breakage, cutmarks, and impact modification in the form of conchoidal flake scars and
+anvil damage. Green bone breakage is common within the assemblage. Of the bison
+sized specimens, 27.8% (NISP=362) of the total assemblage and 65.9% (NISP=326) of
+the long bone specimens display green bone fractures, and while these can result from
+ravaging (Haynes 1983), the lack of unambiguous carnivore modification suggests this
+pattern reflects primarily human processing for within-bone nutrients. None of the body
+size 3 specimens display characteristics of cultural modification. However, for bison
+(body size 4) remains 8.5% (NISP=110, Table 4.1) exhibit either cutmarks or impact
+flake scars. The low overall frequency of modifications may result, in part, from the poor
+surface condition of many of the specimens. Conversely, the lack of butchery related,
+bone modifications might indicate a lack of damage to cortical surfaces during
+dismemberment and defleshing. Although the overall frequency of modifications is low,
+sufficient evidence exists to make some statements about human butchering and
+processing behaviors. In the remainder of Chapter 4, I will argue that the placement of
+observed cutmarks and conchoidal flake scars on Locality II Agate Basin bison
+specimens is consistent with the processing of limb elements for within-bone nutrients.
+Cutmarks
+Examination of the Locality II Agate Basin bison assemblage reveals that 2.3%
+(NISP=30, Table 4.1) of the bison size specimens display cultural surface modifications.
+Cutmarked axial elements include mandibles, ribs, thoracic vertebrae and lumbar
+vertebrae. One mandible displays cutmarks on its lateral ascending ramus (Figure 4.5).
+
+71
+
+8462 – UW Specimen Number
+
+Impact Scar
+
+A
+
+Anvil Damage
+
+Cutmarks
+
+Figure 4.5 Locations of cultural bone modifications to the mandible.
+
+According to Binford’s observations of Nunamiut butchers (1981:109), such cutmarks
+represent the disarticulation of the mandible from the cranium.
+Two fragmentary rib specimens exhibit sets of multiple cutmarks on the lateral
+aspect of their proximal blades (Figure 4.6). Ethnoarchaeological observations associate
+similarly placed modifications with the removal of the longissimus (Binford 1981:113).
+A third rib specimen shows a single mark on the medial aspect of the neck, directly
+below the tubercle. This modification is similar to those associated with the
+disarticulation of the ribs from the vertebrae (Binford 1981:113).
+Three sets of cutmarks were noted on vertebrae. One thoracic vertebra displays a
+series of marks directly below the caudal articular process (Figure 4.7a). Observations of
+
+72
+
+8462 – UW Specimen Number
+
+Impact Scar
+
+A
+
+Anvil Damage
+
+Cutmarks
+
+Figure 4.6 Locations of cultural bone modifications to the ribs.
+
+Nunamiut butchers suggest that similar marks result from the disarticulation of the ribs
+from the vertebral column. Two lumbar vertebrae (Figure 4.7b) exhibit cutmarks related
+to the removal of the longissimus muscle (Binford 1981:113). One set of cutmarks is
+located on the dorsal/cranial border of the transverse process near the centrum and the
+other set of cutmarks is located on the right ventral surface of the centrum.
+Elements of both the forelimb and hindlimb display surface modifications
+consistent with butchering. One scapula exhibits a series of cutmarks on the lateral
+aspect of the supraglenoid tuber (Figure 4.8a). Binford (1981:121) suggests that
+cutmarks around the glenoid represent the disarticulation of the scapula from the humerus
+and associates such modifications with secondary butchery operations conducted at
+
+73
+
+a
+
+b
+
+8462 – UW Specimen Number
+
+Impact Scar
+
+A
+
+Anvil Damage
+
+Cutmarks
+
+Figure 4.7 Locations of cultural bone modifications to thoracic (top) and lumbar (bottom) vertebrae
+
+locations of consumption rather than at kill sites, suggesting the disarticulation of the
+humerus from the scapula at Locality II.
+Three cutmarked humeri document the defleshing of upper forelimbs (Figure 4.9).
+One specimen exhibits an extensive series of marks along the medial aspect of its
+proximal shaft, extending proximally from the teres major tubercle to the proximal end of
+the shaft fragment and the other displays two sets of cutmarks, one each above and below
+74
+
+b
+
+a
+
+8462 – UW Specimen Number
+
+Impact Scar
+
+A
+
+Anvil Damage
+
+Cutmarks
+
+Figure 4.8 Locations of cultural bone modifications to the scapula (left) and innominate (right).
+
+the deltoid tuberosity. The third consists of two sets of cutmarks present on a lateral midshaft fragment. Also present are cutmarks near the distal end, suggesting the
+disarticulation of the humerus from the radius. Three distal shaft fragments exhibit
+cutmarks, one on the lateral aspect of the shaft and two on the cranial surface. No
+cutmarks were observed on the radius, ulna or metacarpal.
+Several hindlimb specimens show evidence of surface modification. One ilium
+fragment exhibits cuts and chopmarks on the dorsal lateral aspect near the acetabulum
+(Figure 4.8b). Similar marks are suggested to represent the disarticulation of the femur
+from the acetabulum (Binford 1981:114). A single, caudal mid-shaft fragment of a femur
+is cutmarked directly above the supracondyloid fossa (Figure 4.10). Based on their
+75
+
+8462 – UW Specimen Number
+
+Impact Scar
+
+A
+
+Anvil Damage
+
+Cutmarks
+
+Figure 4.9 Locations of cultural bone modifications to the humerus.
+
+location mid-shaft, this set of marks suggests meat removal before marrow extraction
+(Binford 1981:116-119). Three tibia shaft fragments (Figure 4.11) display modifications
+consistent with filleting as described by Binford (1981:131-132). Two sets of cutmarks
+are present on distal, lateral shaft portions and a third is located on a caudal, medial midshaft fragment. One distal, lateral metatarsal shaft fragment displays cutmarks (Figure
+4.12). Finally, one second phalanx (not illustrated) exhibits cutmarks on its caudal, axial
+aspect, a pattern associated with the skinning of the foot (Binford 1981:126).
+Conchoidal Flake Scars and Marrow Processing
+Conchoidal flake scars are common modifications (6.1%, NISP=80; Table 4.1) to
+the Locality II bison (body size 4) long bone specimens (Figure 4.4). Although marrow
+
+76
+
+8462 – UW Specimen Number
+
+Impact Scar
+
+A
+
+Anvil Damage
+
+Cutmarks
+
+Figure 4.10 Locations of cultural bone modifications to the femur.
+
+8462 – UW Specimen Number
+
+Impact Scar
+
+A
+
+Anvil Damage
+
+Figure 4.11 Locations of cultural bone modifications to the tibia.
+
+77
+
+Cutmarks
+
+a
+
+8462 – UW Specimen Number
+
+b
+
+Impact Scar
+
+A
+
+Anvil Damage
+
+Cutmarks
+
+Figure 4.12 Locations of cultural bone modifications to the metacarpal (a) and metatarsal (b).
+
+processing produces conchoidal flake scars, carnivore ravaging and other non-human
+agents will at times, produce similar modifications to long bone fragments
+(Behrensmeyer et al. 1989; Oliver 1989). However, several observations suggest that
+conchoidal flake scars present on Locality II Agate Basin bison specimens result from
+human processing and not ravaging. First, as shown above, although the selective
+deletion of humerus, femur, and tibia proximal ends suggests some level of carnivore
+modification, little direct evidence of ravaging is available. Second, ethnographic
+observations suggest that regular patterns of breakage will result from the cultural
+modification of skeletal elements to obtain within-bone food products (Binford 1978:154;
+Yellen 1977:293). As I will show in the remainder of Chapter 4, conchoidal flake scars
+identified in the Locality II Agate Basin assemblage conform to a regular pattern of bone
+breakage in both location and frequency.
+
+78
+
+In addition to the lack of observed carnivore damage, three further sets of
+observations support the cultural origin of conchoidal flakes scars within the Locality II
+Agate Basin faunal assemblage. The first results from a comparison with data from two
+other investigations, the second from an intra-assemblage comparison of the relative
+intensity of processing at the element level, and the third from direct observations of
+impact damage. For the total Locality II Agate Basin bison (body size 4) faunal
+assemblage, 5.6% (NISP=73) of the specimens exhibit conchoidal flake scars (Table 4.1).
+The frequency of impact fractures becomes much more significant when compared only
+with long bone fragments. Binford (1981:164-165) found that overall for six long bone,
+marrow–cracking experiments, 16.3% (NISP=154) of the resulting epiphysial and shaft
+fragments over 29 mm in length exhibit at least one impact fracture. Employing this
+model, Jodry and Stanford (1992:120) found a similar percentage, 17.5% (n=28), of the
+long bone fragments from the Stewart’s Cattle Guard Folsom Site display impact related
+damage. A similar analysis of the Locality II Agate Basin bison assemblage reveals that
+17.2 % (NISP=71) of the long bone fragments over 29 mm show at least one conchoidal
+flake scar. As such, the frequency of impact marks in the Locality II Agate Basin
+assemblage is consistent with both the results of actualistic experiments and data from
+another Paleoindian-age residential camp suggested as the site of processing for withinbone nutrients (Jodry and Stanford 1992).
+Evaluating the relationship between intensity of processing and fat utility further
+supports the purposeful extraction of within-bone nutrients. Assuming conchoidal flake
+scars represent marrow processing-related impacts, I suggest that the effort invested in
+processing a bone should correlate with a particular element’s marrow content. Here,
+
+79
+
+intensity of processing is measured by the number of conchoidal flake scars divided by
+the MNE for each long bone. When compared with Emerson’s (1993:144) Marrow Fat
+Model for whole bones, this ratio indicates a correlation (Spearman’s rank-order r2 of
+0.714 at the .05 confidence level) between the intensity of processing and the value of
+within-bone fat content, suggesting that the effort invested in processing limb elements is
+related to their within-bone fat contents. (Table 4.2, Figure 4.13).
+Conchoidal Flake Scars: Placement and Patterning
+Although conchoidal flake scars are relatively common throughout the
+assemblage, the only axial element displaying impact damage is the mandible (Figure
+4.5). Two specimens display breakage consistent with marrow processing (Binford
+1978:149; Yellen 1977:29). Both conchoidal flake scars are located on the medial aspect,
+one on the ascending ramus directly caudal to the tooth row and the second directly
+above the distal border. The lack of axial elements with conchoidal flake scars is not unexpected given their under-representation in the Locality II Agate Basin bison
+assemblage combined with the fact that axial elements are not high in within-bone
+nutrients.
+All upper forelimb elements, with the exception of the scapula, show signs of
+marrow processing, with the majority of the evidence concentrated on upper limb
+elements. The humerus displays the greatest number of conchoidal flake scars and
+appears to be the most heavily processed of the forelimb elements (Figure 4.9). Binford
+(1981:162) observed that among the Nunamiut, caribou humeri were often placed medial
+face down on an anvil, and struck on the upward facing lateral aspect because this
+orientation placed the bone in a stable position. Experimentation with comparative
+
+80
+
+Ratio Impacts/Standardized MNE (Table 4.2)
+
+1.0
+
+HM
+
+0.8
+FM
+
+0.6
+
+TA
+
+0.4
+
+0.2
+
+MT
+RD
+MC
+
+0.0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Marrow Fat Model for Whole Bones (Table 4.2)
+Figure 4.13 Scatterplot displaying the relationship between intensity of processing (impact/MNE)
+and the Marrow Fat Model for whole bones. Marrow Fat values taken from Emerson (1993:144).
+
+Impacts/
+[S] Impacts/ [S]MAVGMAR for
+Element
+MNE
+# Impacts
+Element
+Element
+whole bones
+HM
+9
+19
+2.11
+1.00
+79.6
+RD
+7
+2
+0.29
+0.14
+69.4
+MC
+5
+1
+0.20
+0.09
+30.3
+FM
+8
+12
+1.50
+0.71
+93.5
+TA
+9
+11
+1.22
+0.58
+100
+MT
+5
+2
+0.40
+0.19
+40
+Table 4.2 Data employed to derive the relative intensity of processing for long bone elements
+present in the Hell Gap Site Locality II Agate Basin faunal assemblage. Modified Marrow Fat
+Model for whole bones taken from Emerson (1993:144).
+
+81
+
+specimens from the University of Wyoming faunal collection indicates that a medial face
+down position is also stable for bison humeri. The location of conchoidal flake scars on
+the Locality II bison humeri are for the most part consistent with the Nunamiut data on
+marrow extraction. Conchoidal flake scars cluster on mid-shaft fragments of both the
+medial (n=4) and lateral aspects (n=7). Specimens representing the proximal shaft of the
+humerus exhibit only two conchoidal flake scars, both located on the caudal aspect. Four
+conchoidal flake scars are present on distal portions, two on the caudal aspect directly
+above the oleceranon fossa and two on fragments representing the cranial and lateral
+aspects of the distal humerus. In addition to the impact-produced flake scars, one
+humerus lateral mid-shaft fragment exhibits probable anvil damage.
+In general, ethnoarchaeological data suggest that impacts to the radius target the
+proximal and distal shafts in an effort to expose the marrow cavity (Binford 1981:162;
+Yellen 1977:293). Specimens representing the radius-ulna show modifications consistent
+with marrow processing (Figure 4.14). All observed conchoidal flake scars lie either on
+cranial (n=2) or caudal (n=4) shaft fragments and tend to be located towards either
+proximal or distal ends of the shaft. In addition, two specimens display anvil damage.
+One of the anvil marks is located on a specimen representing the lateral, proximal aspect
+of the radius shaft (specimen #8470, Figure 4.14). The second is located on the cranial
+aspect of the shaft, and is paired with a conchoidal flake scar observed on the caudal
+aspect of the same shaft fragment (specimen # 8420, Figure 4.14). One distal ulna shaft
+fragment displays two conchoidal flake scars, one each to the lateral and medial aspects
+of the articulation with the radius.
+
+82
+
+8462 – UW Specimen Number
+
+Impact Scar
+
+A
+
+Anvil Damage
+
+Cutmarks
+
+Figure 4.14 Locations of cultural bone modifications to the radius and ulna.
+
+Only one specimen representative of the lower forelimb exhibits evidence of
+processing for marrow (Binford 1981:159). In general, carpals and phalanges are intact
+and display no evidence of processing, however a conchoidal flake scar is present on the
+caudal aspect of a single, mid-shaft, metacarpal specimen (Figure 4.12a). The lack of
+modifications to lower limb elements probably reflects both their low overall total
+products and within-bone nutritional utilities.
+The elements of the rearlimb also show signs of human processing. Observations
+by Binford (1981:159-162) of Nunamiut marrow processing reveal that impacts to
+rearlimb elements are often directed at proximal and distal shafts in an effort to open the
+83
+
+marrow cavity. Modifications to upper hindlimb specimens within the Locality II Agate
+Basin faunal assemblage are consistent with the ethnoarchaeological data and account for
+the majority of the observed conchoidal flake scars. Femur fragments display conchoidal
+flake scars on the medial (n=4), lateral (n=3), cranial (n=2) and caudal (n=1) aspects,
+clustering either towards the proximal (n=5) or distal (n=5) ends of the shaft (Figure
+4.10). Two anvil fractures are present, one on the distal, lateral aspect of the shaft and
+the other on the distal, caudal aspect of the shaft (specimen # 8478 and 9064, Figure
+4.10). Each is paired with an impact flake scar on the opposing aspect of the shaft.
+Tibia specimens also display both impact and anvil damage suggesting efforts to
+open the marrow cavity by detaching proximal and distal ends (Binford 1981:161-162).
+Damage to the tibia appears highly patterned (Figure 4.11). All impacts to the medial
+aspect (n=4) cluster near the proximal end of the shaft. Both of the impacts observed on
+the lateral aspect tend towards the proximal end of the shaft and are located in
+approximately the same place. One fragment of distal tibial crest exhibits impact damage
+(specimen # 8336, Figure 4.11). Fragments representing the caudal aspect evidence two
+impacts, one towards the proximal end of the shaft and the other towards the distal end.
+Finally, two examples of anvil damage were recorded, one to the distal-most anterior
+crest (specimen # 8834, Figure 4.11) and the other to the distal, lateral portion of the shaft
+(specimen # 8057, Figure 4.11).
+The final element indicating processing for within-bone nutrients is the
+metatarsal. Much like the lower forelimb, bones of the lower hindlimb show few
+indications of marrow removal, and calcanii and astragali display no signs of processing
+at all. Two conchoidal flake scars are present on metatarsal specimens and both of these
+
+84
+
+are found on the lateral aspect, one is mid-shaft and the other is near the distal end
+(Figure 4.12b).
+Summary
+In this chapter, I discussed the specimen level attributes of the individual Hell
+Gap Site Locality II Agate Basin bison specimens. An overview of assemblage condition
+was offered and I suggest that the overall degraded condition of bone surfaces may
+obscure evidence of modifications that were at one time present. The observations
+presented in this chapter suggest that, although poorly represented, ravaging may have
+had some small part in conditioning the survivorship of bison skeletal parts during the
+deposit’s formational history. Human modifications, both ancient and recent appear to be
+the major agents affecting the assemblage. Human bone surface modifications suggest
+that meat packages were stripped of meat, disarticulated and finally processed for marrow
+at some time during their trajectory from mortality site to inclusion in the Locality II
+deposit. The findings of the attribute based analysis support the conclusions drawn in
+Chapter 3, suggesting the importance of fat, as well as meat protein to the diet of the
+Agate Basin Paleoindians.
+
+85
+
+CHAPTER 5
+DISCUSSION
+In the preceding chapters, I argue that an assemblage of high fat and meat protein
+utility skeletal parts dominate the Hell Gap Site Locality II Agate Basin bison materials.
+Given my analysis, skeletal fat appears to have conditioned the accumulation of faunal
+remains at Locality II, a pattern requiring explanation. I begin Chapter 5 by discussing
+the importance of fat to the hunter-gatherer diet and continue by outlining models of
+hunter-gatherer subsistence for use as an inferential framework. I conclude by
+synthesizing the discussions of fat utility and hunter-gatherer subsistence behavior with
+dentition-based mortality profiles, skeletal element frequency data, and observed bone
+modifications, to reconstruct food procurement strategies potentially responsible for the
+Locality II Agate Basin bison assemblage.
+Paleoindians, Protein and Fat in Seasonally Variable Environments
+Given that the axial elements under-represented in the Locality II assemblage
+offer some of the highest generalized utilities, the apparent emphasis on items with lower
+overall utilities but higher skeletal fat utilities represents an interesting pattern. A number
+of publications have discussed the importance of fat to hunter-gatherers subsisting on
+protein intensive diets (Speth 1983, 1987, 1989, 1990; Speth and Spielmann 1983; Stiner
+1991, 1994, Todd 1991). While animal resources can provide extremely high return rates
+relative to pursuit and processing costs, reliance on protein can, under certain
+circumstances, lead to nutritional deficiencies in a forager’s diet (Speth and Spielmann
+1983:2). Ungulates suffer seasonal fluctuations in fat as measured by percent of body
+weight. Fat depots are depleted in a regular, seasonally scheduled sequence from late fall
+
+86
+
+into late spring, beginning with back fat, proceeding to fat depots within the body cavity,
+while within-bone fats are depleted last (Speth 1987:20). Males are in their worst
+condition in late fall and female nutrition is poorest in late spring. In a review of
+accounts of historic explorers and trappers, Speth and Spielmann (1983:3) conclude that
+a diet composed largely of lean meat (i.e., mainly protein with small
+amounts of fat), even in quantities that would appear to satisfy caloric
+requirements, can result in serious nutritional problems. Hunters
+apparently were keenly aware of the deleterious effects of a lean-meat
+diet, and, when possible, abandoned lean animals for fatter ones, even
+when they were short of food.
+The human body requires energy to digest and metabolize food products. In the
+context of lean meat, either animal fat or carbohydrates (plant foods) are required to
+metabolize protein without incurring a net caloric loss during digestion. Speth and
+Spielmann (1983:6) suggest, from an overview of the nutritional processes of protein
+metabolism, that “heavy or complete reliance on fat-depleted meat would have elevated
+the total energy needed to support a group of hunters at a time of year when total caloric
+intake was very likely to have been restricted.” As a result, hunter-gatherers can expend
+more calories during digestion than the meat they are eating provides, and as such can
+starve even while consuming large quantities of lean bulk protein.
+Speth (1987; Speth and Spielmann 1983) proposes two strategies to increase fat
+availability during periods of reliance on lean meat that are useful within the context of
+Paleoindian hunter-gatherers. First, hunter-gatherers may practice increasingly selective
+procurement and processing of animals with high fat content, concentrating on the
+consumption of fat-rich skeletal parts in winter and spring. Second, hunter-gatherers can
+accumulate excess body fat reserves by consuming all available fat during periods of
+nutritional plenty for prey species (Speth 1987:20; Speth and Spielmann 1983:18-19).
+87
+
+The first option is the most consistent with the evidence provided by the Locality II
+Agate Basin bison remains. Given the nutritional requirements of subsisting on bison
+during the lean months, it is not surprising that the Locality II Agate Basin Paleoindians
+appear to have returned to the residential base anatomical portions (limb elements)
+maximizing the amount of within-bone fat available to digest the attached bulk protein
+(Figure 5.1). However, a preference for exploiting high marrow utility elements does not
+explain the over-representation of head parts relative to axial elements observed in the
+Locality II Agate Basin faunal assemblage.
+I suggest that because Emerson (1990) did not fully evaluate the fat utility of head
+parts, and because I compare %MAU values with her data, that the information presented
+in Figure 5.2 may not fully reflect the relationship between fat utility and head part
+frequency in the Locality II Agate Basin faunal assemblage. Stiner (1994:228) suggests,
+“that the distribution of fat tissues in the ungulate anatomy is more complex than marrow
+fat indexes predict. A closer look at the nature and physiological distributions of fat
+bearing tissues in the prey anatomy reveals why this is so.” Two types of fat tissues are
+present in ungulates. Up to this point, I have discussed the distribution and seasonal
+variability of metabolizable fat, unstable fat that is stored and used in accordance with
+food availability (Stiner 1994:228). The second fat type is called structural fat (Stiner
+1994:228). Structural fats are stable, once structural fat depots develop within an
+individual they are never depleted and if they are this usually implies the demise of the
+animal.
+
+88
+
+CRN
+MR
+AT
+AX
+CE
+TH
+LM
+RB
+SC
+HMPR
+HMDS
+RDPR
+RDDS
+ULPR
+ULDS
+CP
+MCPR
+MCDS
+IM
+FMPR
+FMDS
+TAPR
+TADS
+AS
+CL
+TR
+MTPR
+MTDS
+PHF
+PHS
+PHT
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Relative Percent (Table 3.2)
+%MAU Locality II Agate Basin Component Bison Remains
+Total Products Model (Emerson 1990:624)
+Skeletal Fat Model (Emerson 1990:843)
+Figure 5.1 Chart displaying the relationship between the %MAU for the Locality II Agate Basin
+bison (body size 4) remains and the Total Products and Skeletal Fat Models. Total Product
+and Skeletal Fat values taken from Emerson (1990).
+
+89
+
+Soft Tissue Type
+
+Total Fat:Protein Ratio
+
+Head and upper neck organs
+brain
+thymus
+tounge
+
+0.95
+1.67
+1.08
+
+Muscle cuts, with and without fats
+lean plus fat
+lean
+
+1.34
+0.30
+
+Table 5.1 Fat and protein content of cranial and post-cranial tissues of
+adult domesticated cattle per 100 g unit. Table modified from Stiner
+(1994:229, Table 8.1).
+
+Head parts are the main repositories of structural fats in the ungulate anatomy.
+Neurological tissues, specifically myelinated nerve fibers, soft tissues concentrated in the
+brain, are sheathed in structural fats (Stiner 1994:228). In fact, the ratios for fat to protein
+in head organs of domestic cows (employed as a proxy measure for ungulates) are in
+general as high as prime-health muscle tissue fully stocked with muscular fat (Table 5.1).
+Because structural fats do not fluctuate with the overall nutritional fitness of an animal
+they are “more constantly available to foragers because, with the exception of the
+mandibular marrow cavity, the food value of the cranium and upper neck region is most
+similar in healthy and starved prey” (Stiner 1994:228). Nunamiut food preferences
+support the importance of head parts as fat sources. Binford (1978:149-151) reports that
+the Nunamiut displayed the greatest preference for cranial tissue during the spring, the
+season when metabolizable fat reserves would be in their worst condition. Finally, head
+parts require a high level of processing to extract fat relative to limb elements and as such
+I suggest that they can be expected to have been transported to a central processing area if
+they were being exploited for structural fat (Stiner 1994:228). Given the high fat utility
+of head parts, the apparent over-representation of crania and mandibles identified in the
+
+90
+
+Locality II Agate Basin faunal materials (Figure 5.1) is fully consistent with an emphasis
+on maximizing the amount of fat available for consumption.
+The suggestion that hunter-gatherers may accumulate excess body fat as an overwintering strategy offers additional insight into the formational history of the Locality II
+faunal materials. If the post-cranial faunal remains are accepted as representing the same
+range of seasonality as suggested by the dentition (an assumption made with caution due
+to the time-averaged nature of the deposit), then extensive processing for within-bone fat
+appears to have occurred regardless of the season or prey nutritional status (Figure 5.2).
+While the selection of fat-rich skeletal parts is not surprising for late winter and spring,
+the emphasis on within-bone fat is somewhat unexpected for the summer and fall months
+when prey should have been available with ample muscular fat to metabolize the
+associated protein without sufficient net caloric loss.
+The pattern of intensive processing may represent a Paleoindian fat-seeking
+feeding strategy in response to long-term environmental change. The Agate Basin
+Complex persisted on the Northwest Plains towards the end of the Pleistocene/Holocene
+transition (Frison 1999:268). Paleoenvironmental reconstructions of Late Pleistocene
+environments for both the Agate Basin Site (Walker 1982) and the Hell Gap Valley
+(Reider 1999) suggest a period of decreasing moisture occurred during or immediately
+after the Agate Basin occupations at both locations. During the Late Pleistocene,
+Paleoindian hunter-gatherers on the Northwestern Plains were most likely faced with not
+only seasonal fluctuations in both the availability of floral resources (carbohydrates) and
+the overall nutritional status of animal prey (fat-depletion), but also variations in the
+availability of these critical resources resulting from long-term climate change.
+
+91
+
+Figure 5.2 Photographs showing the consisted fragmentation patterns for distal femur shaft
+fragments (top) and distal tibia articular ends (bottom). The examples illustrated here are
+indicative of the Locality II Agate Basin bison remains that in general demonstrate, regardless of
+element, a consistent level of intensive processing for within-bone nutrients.
+
+92
+
+Environmental changes may have resulted in periods of year-round nutritional stress for
+bison populations, and as such Agate Basin Paleoindians can be expected to have adapted
+the exploitation of bison not only to seasonal variability but also to long-term changes in
+prey nutritional state. If true, then the archaeological record should reflect such
+adaptations. If Paleoindians are viewed primarily as mobile foragers adapted to large
+body size faunal resources (Kelly and Todd 1989), then the storage of food resources as a
+hedge against either seasonal or long-term shortfalls is unexpected. Although Frison and
+Stanford (1982:79) argue for the caching of meat at the Agate Basin Site, no evidence is
+present for the storage of food items at Locality II during the Agate Basin occupations.
+Given the lack of evidence for storage at Locality II, the consumption of fat whenever
+available with the goal of accumulating body fat reserves may have been an adaptation to
+a highly mobile lifeway in an environment characterized by seasonal or long-term
+episodes of reliance on fat-depleted meat.
+Subsistence Organization
+Understanding the importance of fat to hunter-gatherer diets in combination with
+the data derived from the Locality II Agate Basin faunal materials allows for some
+inferences to be drawn concerning Paleoindian behavior. Binford (1980) suggests that
+mobile hunter-gatherers organize their settlement systems around subsistence through
+strategies ranging from foraging to collecting. Here, I employ Binford’s forager-collector
+continuum as a framework for understanding the subsistence and settlement organization
+of the Paleoindians responsible for the creation of the Locality II Agate Basin faunal
+assemblage. Foraging is characterized by high residential mobility, encounter based
+food-getting behaviors (for the purposes of this discussion defined as the hunting of
+
+93
+
+dispersed animals “encountered” while foraging), and relatively immediate consumption
+(Binford 1980:9). In this case, foraging activities begin and end daily at a residential
+base, defied as the “hub of subsistence activities” (Binford 1980:9). In contrast,
+collecting represents a much different strategy. Logistically organized subsistence
+behaviors define collectors. For example, logistically organized hunter-gatherers can be
+expected to conduct planned hunts of multiple animals with an end goal of producing
+surpluses for storage. In addition, logistical hunting parties may extensively process
+animal resources before returning a readily consumable product to the base camp
+(Binford 1980:10). The forager and collector models are not suggested to represent polar
+extremes exclusively employed by hunting and gathering groups, but are instead offered
+as “organizational alternatives which may be employed in varying mixes in different
+settings” (Binford 1980:19).
+Agate Basin Complex Subsistence Practices in Eastern Wyoming
+If Agate Basin Paleoindians occupied the Hell Gap Valley for reasons other than
+subsistence (for example the ease of access to high quality toolstone in combination with
+favorable campsites with reliable water), than they would have needed to adapt their
+food-getting behaviors to the location. Given that the Locality II deposits represent a
+palimpsest of occupations, the recovered faunal materials most likely represent a longterm, time averaged picture of several different Paleoindian subsistence strategies. Here I
+combine the discussion of fat-based nutrition with Binford’s (1980) forager-collector
+continuum to outline two (but by no means all) food-getting patterns potentially
+responsible for the Locality II Agate Basin faunal assemblage in response to a settlement
+strategy emphasizing the location of residential camps in relation to non-food resources.
+
+94
+
+First, dentition-based mortality profiles and bone modifications provide evidence
+suggesting the creation of the Locality II Agate Basin faunal assemblage by groups of
+hunter-gatherers in part employing the encounter hunting of dispersed bison. Mortality
+profiles can provide important insight into a faunal assemblage’s formational history.
+Previous research defines several age based mortality profiles (Klein and Cruz-Uribe
+1983, 1984; Voorhies 1969). An attritional mortality profile is dominated by young
+individuals, often newborns, and old age individuals, while prime age individuals are
+under-represented (Voorhies 1969:23). Attritional profiles are generally associated with
+scavenging from natural mortality sites or a predation strategy concentrating on weak or
+inexperienced prey, most likely the very young or the old and sick (Klein and Cruz-Uribe
+1983:70). Catastrophic mortality profiles characterize assemblages representing all age
+groups as might be expected to exist in a living population (Voorhies 1969:23).
+Catastrophic mortality profiles are most consistent with mortality events killing entire
+populations or within a hunter-gatherer context, large multiple person hunting parties
+taking groups of prey individuals representative of the age makeup of a greater
+population in a single procurement event (Klein and Cruz-Uribe 1983:70).
+Population data based on dentitions should be viewed with caution. At present,
+the taphonomy of teeth is poorly known (Marean 1995:67). Both the differential
+survivorship of dentition and the differential transport of head parts can bias a mortality
+profile. Unfortunately, no actualistic data is presently available for the density-mediated
+attrition of teeth. Further, dental elements are subject to the uncertainties generated by
+the selective discard and lack of provenience of a significant portion of the assemblage
+
+95
+
+5
+
+4
+
+MNI
+
+3
+
+2
+
+1
+
+0
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+Dental Age Group (Reher 1970)
+Figure 5.3 Population structure derived from the Locality II Agate Basin
+component bison dentitions (Rapson and Niven 2000a).
+
+identified in Chapter 2. Given the extant assemblage, I interpret the Locality II Agate
+Basin component dentition conditionally on what is available for study.
+The Locality II Agate Basin component bison dentitions suggest that at least the
+crania and mandibles of primarily very young or older adult individuals were regularly
+returned to Locality II (Rapson and Niven 2000a). The population data outlined here
+most closely resembles an attritional mortality profile (Figure 5.3). Binford’s (1980)
+model for subsistence behavior, in combination with current knowledge of Paleoindian
+hunting technology, offers a potential explanation for the presence of an attritional
+mortality profile. Within a hunter-gatherer context, I suggest that an attritional mortality
+profile implies encounter-based behaviors representing a foraging-based subsistence
+organization.
+
+96
+
+Foragers often set out as single individuals or in small groups to procure dispersed
+game encountered while foraging (Binford 1980). If the immediate area of the Hell Gap
+Valley was not frequented by aggregated bison herds or if the Agate Basin Paleoindians
+favored the occupation of Locality II at times when Late Pleistocene bison were
+dispersed (if they did seasonally aggregate and disperse like modern bison), then in order
+to exploit the available population, Paleoindian hunters pursuing game on an encounter
+basis would have been forced to widen their prey selection breadth to include not only
+large adult bulls but also less desirable older adults and smaller juvenile individuals.
+Further, because Paleoindian hunting technologies, thrusting spears and atlatl (Frison
+1992:167), require the hunter to close within a short distance of the prey and then fully
+expose him or herself while throwing a projectile, animals unaccustomed to hunting
+pressure (young individuals) or in weakened states (older individuals) may have been
+easier to procure for single or small groups of hunters. Finally, seasonality data
+indicating occupation during the late spring, summer and early fall months suggests that
+because meat could not be frozen for consumption at a later date, that any bison procured
+during these seasons were most likely done for relatively immediate consumption.
+The assessment of bone modifications offers a second body of data supporting a
+foraging-oriented subsistence organization. Assuming the Hell Gap Site Locality II
+Agate Basin component represents a series of residential bases (Irwin et al. 1973) and the
+Locality II Agate Basin Paleoindians were organized as foragers, then the accumulation
+of faunal remains should represent the full range of animal resource processing
+behaviors. The placement of cutmarks on the Locality II Agate Basin faunal specimens
+suggests the return of limb elements to Locality II for defleshing and then preparation for
+
+97
+
+marrow processing, while impact-related breakage indicates intensive, assemblage-wide
+processing for within-bone nutrients. Taken as a whole, the patterned nature of bone
+modifications is fully consistent with the expectations for a residential camp.
+Given an apparent emphasis on the consumption of fat, the frequencies of bison
+skeletal parts introduced into the Locality II deposit can also be interpreted as suggesting
+a foraging strategy designed to maximize both bulk protein and skeletal fat. Confronted
+with the prospect of transporting the remains of large prey such as bison, portions
+returned to Locality II may have been predicated on the number of carriers available for
+transport (O’Connell et al 1988, 1990). Hunting parties consisting of a few, or possibly a
+single individual, would be faced with maximizing net caloric returns in relation to
+transport costs. One way to maximize return rates would be to transport only meat
+packages offering the greatest overall nutritional utilities. However, anatomical portions
+offering the highest Total Products (Emerson 1990) values are under-represented in the
+Locality II Agate Basin assemblage. Instead, the Hell Gap Agate Basin Paleoindians
+appear to have shifted their utility decisions to emphasize fat at the expense of
+generalized utility. As I have shown previously, skeletal parts maximizing within-bone
+fat values dominate the assemblage, and as such support a fat-seeking subsistence model
+suggesting that when faced with transport constraints, high fat utility items were most
+likely those returned to Locality II.
+Because the Locality II Agate Basin component skeletal part summaries
+characterize a palimpsest of occupations, they may also indicate periodic logistical
+hunting events. If Locality II represents one of a number of dispersed, contemporary
+activity/living areas in the Hell Gap Valley (Hofman 1994:352), then the sample
+
+98
+
+evaluated in the previous chapters may reflect only a small portion of a greater
+assemblage transported from a relatively distant, multiple animal kill event. Here again,
+the return of primarily high skeletal fat utility items to the Hell Gap Valley may be a
+function of the relationship between return rates and transport costs. In this case
+however, the selective transport of limb elements may have been based on the distance of
+the procurement location from the residential base. O’Connell et al. (1988, 1990) found
+that among the Hazda, the number of elements returned to the residential base was often
+inversely proportional to the distance from camp to kill. If the Locality II Paleoindians
+were faced with transporting multiple carcasses from a distant procurement event, they
+may have chosen to return only those skeletal parts highest in both meat and high fat
+utility. In this scenario, an accumulation of limb elements can be expected to result. I do
+not suggest that meat products associated with axial elements were not utilized, only that
+if exploited, axial meat packages may have been processed at the procurement site to
+remove associated skeletal elements in an effort to increase return rates relative to
+transport costs.
+Summary
+In Chapter 5, I synthesize dentition based mortality profiles with the analyses of
+skeletal part frequencies and bone surface modifications, in combination with research
+into seasonally scheduled changes in prey nutrition fitness to evaluate the subsistence
+organization of the Paleoindians responsible for the Locality II Agate Basin deposits.
+The subsistence behaviors inferred from the Locality II Agate Basin bison remains
+suggest a feeding strategy designed to maximize the amount of fat included in the diet,
+most likely in response to a diet dependant on lean meat. In addition, I argue that based
+
+99
+
+on the extant assemblage, several subsistence patterns may be represented. First, the
+analyses presented in my thesis suggest that the Agate Basin occupants of Locality II may
+have organized themselves as foragers who practiced an encounter-based hunting
+strategy, resulting most often in the procurement of yearling or old-age individuals.
+Second, the Locality II Agate Basin faunal remains may represent anatomical portions
+returned from a mass kill event, but because the excavation block represents one of a
+number of dispersed living areas only a small portion of a larger assemblage is available
+for study. Unfortunately, a third scenario must be recognized. Prime-age individuals are
+present in the Locality I faunal remains (Rapson and Niven 2000a) and as such the lack
+of prime-age adults from the Locality II remains is curious. The lack of prime-age
+animals may be a result of some combination of inadequate documentation, selective
+discard, and loss of specimens or specimen provenience during curation and handling
+(resulting in the Locality X assemblage).
+
+100
+
+CHAPTER 6
+CONCLUSIONS
+The goal of this thesis was to evaluate Agate Basin bison exploitation through the
+assessment of both skeletal part frequencies and bone modifications. Based on the
+available sample, I suggest that the Locality II Agate Basin bison remains result from
+hunter-gatherers practicing a feeding strategy designed to maximize the amount of fat
+included in their diet. Unfortunately, my analysis also indicates that the extant
+assemblage may have been significantly biased through mistakes in provenience and
+selective deletion of specimens during excavation. The potentially biased nature of the
+Locality II faunal assemblage (see also Rapson and Niven 2000a, 2000b), in combination
+with the suggestion of a little known Paleoindian subsistence pattern, together call for
+further research into the food-getting strategies practiced by Paleoindians inhabiting the
+Hell Gap Valley.
+A New Glimpse of Paleoindian Subsistence: A Fat-Seeking Feeding Strategy
+The results presented in my thesis contrast with the inferences drawn from the
+published data on the Agate Basin Complex, suggesting that Locality II represents a
+previously unidentified portion of a larger Paleoindian settlement pattern. The Locality II
+Agate Basin bison remains suggest a very different bison procurement strategy than the
+one proposed for the Agate Basin Site (Frison and Stanford 1992). Frison (1992: 164170; Frison and Stanford 1982:79) suggests that procurement activities at the Agate Basin
+Site centered on communal hunting designed to provide not only for immediate
+consumption but also to produce a food surplus as an over-wintering strategy. Further, a
+dramatically larger population of prey animals (MNI=75; Zeimans 1982:227), a mortality
+profile favoring prime-age adults in combination with limited, winter seasonality (Frison
+101
+
+1982:250, 252-253) all indicate a procurement strategy unlike the one proposed for the
+Locality II Agate Basin Paleoindians.
+In addition to the dissimilarity with the Agate Basin Site, my analysis also
+suggests a pattern markedly different from the presently available picture of Paleoindian
+subsistence. Specifically, the emphasis on the procurement of high fat utility skeletal
+elements and the subsequent extraction of bone marrow reflected by the Locality II Agate
+Basin bison remains does not follow the current expectations for Paleoindian subsistence
+behavior. Todd (1991:218) argues that Paleoindians practiced a “fat-indifferent” use of
+bison procured during the winter. Todd (1991:224) suggests Paleoindian did not place
+an emphasis on within-bone nutrients based on three lines of evidence:
+(1) skeletal element frequencies indicating either limited bone
+removal [from kill sites] or non-segmental removal of entire limb
+units (Todd 1987a), (2) a relatively low percentage of definitely
+cutmarked and humanly fractured bones, and (3) paucity of
+processing features or those associated with long-term use of
+stored of cached meat products.
+While no features consistent with processing or storage were recorded at Locality
+II, the results presented in my thesis do not fully conform to the other elements of Todd’s
+(1991) model. The assemblage I evaluated indicates that limb bones (and head parts)
+where commonly removed from carcasses and transported to the residential base.
+Unfortunately, the analyzed remains cannot be associated with any know kill sites and as
+such the frequency of element transport cannot be evaluated relative to the number of
+prey individuals present at a procurement event. The Locality II Agate Basin bison
+remains do show an unambiguous and relatively high degree of human modification.
+Although my visual inspection recognized few cutmarks, the assemblage displays a
+frequency of conchoidal flake scars that cannot be considered a “relatively low
+102
+
+percentage” (Todd 1991:224). I do not suggest that previous investigators have
+misinterpreted the available data, only that given the analysis presented in my thesis that
+the Locality II Agate Basin faunal remains indicate a poorly known aspect of Paleoindian
+adaptation.
+Paleoindian Settlement Systems: The Other Side of the Spectrum
+In addition to suggesting a little know pattern of bison exploitation, the analyzed
+Agate Basin sample suggests a previously unrecognized aspect of a larger Paleoindian
+settlement system. Many of the better known Northwestern Plains Paleoindian localities
+represent kill events involving multiple prey animals associated with butchery/processing
+locations in the immediate area (Frison 1974, 1996; Frison and Stanford 1982; Frison and
+Todd 1987). Such a pattern suggests that following the procurement of multiple bison,
+the residential base was moved to the kill site for the utilization of animal products (Kelly
+and Todd 1988).
+Locality II may represent a much different pattern, offering insight into the
+opposite end of the spectrum of Paleoindian settlement. Stanford (1999:315) suggests
+that the Agate Basin Complex may represent a migration from the west of “generalized
+foragers, adapted to ecotonal environments, who ventured out onto the Plains only during
+periods of high bison populations or for occasional communal hunts.” Paleoindians may
+have resided in the Hell Gap Valley as a strategy to maximize access to a number of
+resources, both food and nonfood. The subsistence behaviors outlined in my thesis may
+represent the adaptation of food-getting behaviors to the location as opposed to the betterrepresented strategy of adapting location to procurement (Frison 1974, 1996; Frison and
+
+103
+
+Stanford 1982; Frison and Todd 1987), and as such are consistent with Stanford’s (1999)
+model.
+The Locality II assemblage can also be interpreted as being consistent with the
+provisioning of a dispersed aggregation of Paleoindian family groups occupying the Hell
+Gap Valley and surrounding drainages. Hofman (1994:351) suggests that site locations
+with diverse, predictable resources (wood, lithics, diverse fauna, or protective settings)
+rather than mobile and sometimes unpredictable resources such as bison, may have
+dictated the placement of Paleoindian aggregation sites. Given Hofman’s (1994) model,
+the Hell Gap Valley offers an ideal location for the aggregation of Paleoindian groups. If
+Locality II is one of a number of dispersed contemporary camps occupied during an
+aggregation of Paleoindian bands, then both the encounter based and logistical bison
+procurement strategies outlined in Chapter 5 would be consistent with the provisioning of
+aggregated bands located with preference to location over availability of bison resources.
+My thesis demonstrates that new and important insights into Paleoindian
+subsistence and lifeways can be derived from extant collections that were often neither
+excavated nor curated to modern standards. Through careful evaluation of hypotheses
+using complementary analyses, in combination with models of hunter-gatherer behaviors,
+previously unavailable windows into past lifeways can become available. The results of
+this thesis offer one such set of conclusions. Further, the subsistence and settlement
+patterns suggested here are generally unlike those previously documented for
+Paleoindians. Much of this is most likely due to the nature of the Hell Gap Site deposits.
+While most Paleoindian faunal research has focused on highly visible kill sites, few
+Paleoindian residential camps have been investigated. Thus, careful research employing
+
+104
+
+the Hell Gap Site materials offers a unique opportunity to evaluate Paleoindian lifeways,
+while at the same time complementing the existing body of knowledge.
+
+105
+
+REFERENCES CITED
+Agenbroad, L. D.
+1989
+Spiral Fractured Mammoth Bone from Nonhuman Taphonomic Processes
+at Hot Springs Mammoth Site. In Bone Modification, edited by R.
+Bonnichsen and M. H. Sorg, pp. 139-148. Center for the Study of the First
+Americans, Orono.
+Agogino, G. A. and C. Irwin-Williams
+1971
+Archaeological Investigations at the Hell Gap Site near Guernsey,
+Wyoming, 1965. In National Geographic Society Research Reports, 1965
+Projects, edited by P. H. Oehser, pp. 11-13. National Geographic Society,
+Washington D.C.
+Bartram, L. E. Jr.
+1993
+Perspectives on Skeletal Part Profiles and Utility Curves from Eastern
+Kalahari Ethnoarchaeology. In From Bones to Behavior:
+Ethnoarchaeology and Experimental Contributions to the Interpretation of
+Faunal Remains, edited by J. Hudson, pp. 115-137. Southern Illinois
+University at Carbondale Center for Archaeological Investigations,
+Occasional Paper 2, Carbondale.
+Bartram, L. E. Jr., E. M. Kroll, and H. T. Bunn
+1991
+Variability in Camp Structure and Bone Food Refuse Patterning at Kua
+San Hunter-Gatherer Camps. In The Interpretation of Archaeological
+Spatial Patterning, edited by E. M. Kroll and T. D. Price, pp. 77-148.
+Plenum Press, New York.
+Bartram, L. E. Jr. and C. W. Marean
+1999
+Explaining the “Klasies Pattern”: Kua Ethnoarchaeology, the Die Kelders
+Middle Stone Age Archofauna, Long Bone Fragmentation and Carnivore
+Ravaging. Journal of Archaeological Science 26:9-29.
+Behrensmeyer, A. K., K. D. Gordon and G. T. Yanagi.
+1989
+Nonhuman Bone Modification in Miocene Fossils from Pakistan. In Bone
+Modification, edited by R. Bonnichsen and M. H. Sorg, pp. 99-120. Center
+for the Study of the First Americans, Orono.
+Bement, L.C.
+1999
+Bison Hunting at Cooper Site: Where Lightning Bolts Drew Thundering
+Herds. University of Oklahoma Press, Norman.
+Binford, L. R.
+1978
+Nunamiut Ethnoarchaeology. Academic Press, New York.
+
+106
+
+1980
+
+Willow Smoke and Dog’s Tails: Hunter-Gatherer Settlement Systems and
+Archaeological Site Formation. American Antiquity 45:5-20.
+
+1981
+
+Bones: Ancient Men and Modern Myths. Academic Press, Orlando.
+
+1984
+
+Faunal Remains from the Klaises River Mouth. Academic Press, Orlando.
+
+Blumenschine, R. J.
+1988
+An Experimental Model of the Timing of Hominid and Carnivore
+Influence on Archaeological Bone Assemblages. Journal of
+Archaeological Science 15:483-502.
+Blumenschine, R. J. and T. M. Caro
+1986
+Unit-Flesh Weights of Some East African Bovids. African Journal of
+Ecology 24:273-286.
+Blumenschine, R. J. and C. W. Marean
+1993
+A Carnivore’s View of Archaeological Assemblages. In From Bones to
+Behavior: Ethnoarchaeology and Experimental Contributions to the
+Interpretation of Faunal Remains, edited by J. Hudson, pp. 273-300.
+Southern Illinois University at Carbondale Center for Archaeological
+Investigations, Occasional Paper 2, Carbondale.
+Blumenschine, R. J. and M. M. Selvaggio
+1991
+On the Marks of Marrow Bone Processing by Hammerstones and Hyenas:
+Their Anatomical Patterning and Archaeological Implications. In Cultural
+Beginnings: Approaches to Understanding Early Hominid Life-Ways in
+the African Savanna, edited by J. D. Clark, pp. 17-32. Dr. Rudolf Habelt
+GMBH, Bonn.
+Bradley, R. L.
+1966
+Technical Report, Catalogue No. IF-4, General Field Notes of the
+Harvard Hell Gap Project. On File, University of Wyoming, Department
+of Anthropology, Laramie.
+Brain, C. K.
+1967
+
+Hottentot Food Remains and their Bearing on the Interpretation of Fossil
+Bone Assemblages. Scientific Papers of the Namib Desert Research
+Station 32:1-7.
+
+1969
+
+The Contribution of Namib Desert Hottentots to an Understanding of
+Australopithecine Bone Accumulations. Scientific Papers of the Namib
+Desert Research Station 39:13-22.
+
+1981
+
+The Hunters or the Hunted?: An Introduction to African Cave
+Taphonomy. University of Chicago Press, Chicago.
+107
+
+Brink, J. W.
+1997
+
+Bunn, H. T.
+1981
+
+Fat Content in Leg Bones of Bison bison, and Applications to
+Archaeology. Journal of Archaeological Science 24:259-274.
+
+Archaeological Evidence for Meat-Eating by Plio-Pleistocene Hominids
+from Koobi Fora and Olduvai Gorge. Nature 291:574-577.
+
+Bunn, H. T., L. E. Bartram and E. M. Kroll
+1988
+Variability in Bone Assemblage Formation from Hazda Hunting
+Scavenging and Carcass Processing. Journal of Anthropological
+Archaeology 7:412-457.
+Byers, D. A.
+2000
+Taphonomy of the Fetterman Mammoth. Manuscript in preparation.
+University of Wyoming, Department of Anthropology.
+Capaldo, S. D.
+1998
+Simulating the Formation of Dual-Patterned Archofaunal Assemblages
+with Experimental Control Samples. Journal of Archaeological Science
+25:311-330.
+Dixon, E. J.
+1988
+
+1999
+
+Context and Environment in Taphonomic Analysis: Examples from
+Alaska’s Porcupine River Caves. Quaternary Research 22:155-159.
+Bones, Boats and Bison: Archaeology and the First Colonization of North
+America. University of New Mexico Press, Albuquerque.
+
+Eickhoff, S. and B. Herrman
+1985
+Surface Marks on Bones from a Neolithic Collective Grave (Odagsen,
+Lower Saxony). A Study on Differential Diagnosis. Journal of Human
+Evolution 14:263-274.
+Emerson, A. M.
+1990
+Archaeological Implications of Variability in the Economic Anatomy of
+Bison bison. Unpublished Ph. D. Dissertation. Washington State
+University, Pullman.
+1993
+
+The Role of Body Part Utility in Small-Scale Hunting under Two
+Strategies of Carcass Recovery. In From Bones to Behavior:
+Ethnoarchaeology and Experimental Contributions to the Interpretation of
+Faunal Remains, edited by J. Hudson, pp. 138-155. Southern Illinois
+University at Carbondale Center for Archaeological Investigations,
+Occasional Paper 2, Carbondale.
+
+108
+
+Enloe, J. G.
+1993
+
+Field Notes
+1966
+
+Ethnoarchaeology of Marrow Cracking: Implications for the Recognition
+of Prehistoric Subsistence Organization. In From Bones to Behavior:
+Ethnoarchaeology and Experimental Contributions to the Interpretation of
+Faunal Remains, edited by J. Hudson, pp. 82-97. Southern Illinois
+University at Carbondale Center for Archaeological Investigations,
+Occasional Paper 2, Carbondale.
+
+General Field Notes of the Harvard Hell Gap Project. On file, University
+of Wyoming Department of Anthropology, Laramie.
+
+Fisher, J. W.
+1995
+Bone Surface Modifications in Zooarchaeology. Journal of
+Archaeological Method and Theory, 2:7-68.
+Frison, G. C.
+1974
+The Casper Site: A Hell Gap Bison Kill on the High Plains. Academic
+Press, New York.
+1982
+
+Bison Dentition Studies. In The Agate Basin Site, edited by G. C. Frison
+and D. J. Stanford, pp. 240-260. Academic Press, New York.
+
+1984
+
+The Carter/Kerr-McGee Paleoindian Site: Cultural Resource Management
+and Archaeological Research. American Antiquity 49:288-314.
+
+1992
+
+Prehistoric Hunters of the High Plains. Academic Press, San Diego.
+
+1996
+
+The Mill Iron Site. University of New Mexico Press, Albuquerque.
+
+1999
+
+The Late Pleistocene Prehistory of the Northwestern Plains. In Ice Age
+Peoples of North America, edited by R. Bonnichsen, pp. 264-280. Oregon
+University Press, Center for the Study of the First Americans, Corvallis.
+
+Frison, G. C. and D. J. Stanford
+1982
+Agate Basin Components. In The Agate Basin Site, edited by G. C. Frison
+and D. J. Stanford, pp. 80-134. Academic Press, New York.
+Frison, G. C. and L. C. Todd
+1986
+The Colby Site. University of New Mexico Press, Albuquerque.
+1987
+
+The Horner Site: The Type Site of the Cody Cultural Complex. Academic
+Press, Orlando.
+
+109
+
+Gifford-Gonzalez, D.
+1989a
+Modern Analogues: Developing an Interpretive Framework. In Bone
+Modification, edited by R. Bonnichsen and M. H. Sorg, pp. 43-52. Center
+for the Study of the First Americans, Orono.
+1989b
+
+Ethnographic Analogs for Interpreting Modified Bones: Some Cases from
+East Africa, In Bone Modification, edited by R. Bonnichsen and M. H.
+Sorg, pp. 179-246. Center for the Study of the First Americans, Orono.
+
+1991
+
+Bones are not Enough: Analogues, Knowledge and Interpretive Strategies
+in Zooarchaeology. Journal of Anthropological Archaeology 10:215-254.
+
+Grayson, D. K.
+1973
+On the Methodology of Faunal Analysis. American Antiquity 38:432-439.
+1979
+
+On the Quantification of Vertebrate Archaeofaunas. In Advances in
+Archaeological Method and Theory. Vol. 2, edited by M. B. Schiffer, pp.
+199-237. Academic Press, Orlando.
+
+1988
+
+Danger Cave, Last Supper Cave, and Hanging Rock Shelter: the Faunas.
+American Museum of Natural History Anthropological Papers 66:1-130.
+
+1989
+
+Bone Transport, Bone Destruction and Reverse Utility Curves. Journal of
+Archaeological Science 16:643-652.
+
+Haynes, C. V.
+1955
+Evidence of Early Man in Torrence County, New Mexico. Bulletin of the
+Texas Archaeological Society 26:144-165.
+Haynes, G.
+1980
+
+1983
+
+Evidence of Carnivore Gnawing on Pleistocene and Recent Mammalian
+Bones. Paleobiology 6:341-351.
+Frequencies of Spiral and Green-Bone Fractures on Ungulate Limb Bones
+in Modern Surface Assemblages. American Antiquity 48:102-114
+
+Hofman, J. L.
+1994
+Paleoindian Aggregations on the Great Plains. Journal of Anthropological
+Archaeology 13:341-370.
+
+110
+
+Hudson, J.
+1993
+
+Irwin, H. T.
+1966
+
+The Impact of Domestic Dogs on Bone in Forager Camps; or, The DogGone Bones. In From Bones to Behavior: Ethnoarchaeology and
+Experimental Contributions to the Interpretation of Faunal Remains,
+edited by J. Hudson, pp. 301-323. Southern Illinois University at
+Carbondale Center for Archaeological Investigations, Occasional Paper 2,
+Carbondale.
+
+Technical Note, Catalogue No. IF-4, General Field Notes of the Harvard
+Hell Gap Project. On File, University of Wyoming, Department of
+Anthropology, Laramie.
+
+1967
+
+The Itama: Late Pleistocene Inhabitants of the Plains of the United States
+and Canada and The American Southwest. Unpublished Ph. D.
+Dissertation, Department of Anthropology, Harvard University,
+Cambridge.
+
+1969
+
+Archaeological Investigations at the Hell Gap Site near Guernsey,
+Wyoming, 1964. In National Geographic Society Research Reports, 1964
+Projects, edited by P. H. Oehser, pp. 113-116. National Geographic
+Society, Washington D.C
+
+1970
+
+Archaeological Investigations at the Hell Gap Site near Guernsey,
+Wyoming, 1962. In National Geographic Society Research Reports, 19611962 Projects, edited by P. H. Oehser, pp. 127-130. National Geographic
+Society, Washington D.C
+
+1973
+
+Archaeological Investigations at the Hell Gap Site near Guernsey,
+Wyoming, 1966. In National Geographic Society Research Reports, 1966
+Projects, edited by P. H. Oehser, pp. 131-136. National Geographic
+Society, Washington D.C
+
+Irwin, H. T. and J. O. Brew
+1968
+Archaeological Investigations at the Hell Gap Site near Guernsey,
+Wyoming, 1963. In National Geographic Society Research Reports, 1963
+Projects, edited by P. H. Oehser, pp. 151-156. National Geographic
+Society, Washington D.C
+Irwin, H., C. Irwin-Williams, and G. Agogino
+1965
+The Hell Gap Site: Archaeological Sketch. The Wyoming Archaeologist
+8:35-39.
+Irwin-Williams, C., H. Irwin, G. Agogino and C. V. Haynes
+1973
+Hell Gap: Paleo-Indian Occupation on the High Plains. Plains
+Anthropologist 18:40-53.
+111
+
+Jodry, M. A. and D. J. Stanford
+1992
+Stewart’s Cattle Guard Site: An Analysis of Bison Remains in a Folsom
+Kill-Butchery Campsite. In Ice Age Hunters of the Rockies, edited by D.
+Stanford and J. S. Day, pp. 101-168. Denver Museum of Natural History
+and University of Colorado Press, Niwot.
+Johnson, E.
+1977
+
+Animal Food Resources of Paleoindians. In Paleoindian Lifeways, edited
+by E. Johnson, pp 65-77. The Museum Journal Vol. 27, West Texas
+Museum Association, Texas Tech University, Lubbock.
+
+1985
+
+New Developments in Bone Technology. In Advances in Archaeological
+Method and Theory, Vol. 8, edited by M. B. Schiffer, pp. 157-235.
+Academic Press, New York
+
+1999
+
+Human Modified Bones from Early Southern Plains Sites. In Bone
+Modification, edited by R. Bonnichsen and M. H. Sorg, pp. 431-472.
+Center for the Study of the First Americans, Orono, Maine.
+
+Jones, K. T. and D. Metcalfe
+1988
+Bare Bones Archaeology: Bone Marrow Indices and Efficiency. Journal
+of Archaeological Science 15:415-423.
+Kelly, R. L. and L. C. Todd
+1988
+Coming into the Country: Early Paleoindian Hunting and Mobility.
+American Antiquity 53:231-244.
+Klein, R. C. and K. Cruz-Uribe
+1983
+The Computation of Ungulate Age (Mortality) Profiles from Dental
+Crown Heights. Paleobiology 9:70-78.
+1984
+
+Knell, E. J.
+1999
+
+The Analysis of Animal Bones from Archeological Sites. University of
+Chicago Press, Chicago.
+
+Late Paleoindian Cody Period Mobility Patterns: An Example from the
+Locality V Cody Component at the Hell Gap Site, Wyoming.
+Unpublished Master’s Thesis, University of Wyoming, Laramie.
+
+Kreutzer, L. A.
+1992
+Bison and Deer Bone Mineral Densities: Comparisons and Implications
+for the Interpretation of Archaeological Faunas. Journal of
+Archaeological Science 19:271-294.
+
+112
+
+Lyman, R. L.
+1984
+Bone Density and Differential Survivorship of Fossil Classes. Journal of
+Anthropological Archaeology 3:259-299.
+1985
+
+Bone Frequencies: Differential Transport, In Situ Destruction, and the
+MGUI. Journal of Archaeological Science12:221-36.
+
+1987
+
+Archaeofaunas and Butchery Studies: a Taphonomic Perspective. In
+Advances in Archaeological Method and Theory, Vol. 10, edited by M. B.
+Schiffer, pp. 249-337. Academic Press, Sand Diego.
+
+1991
+
+Taphonomic Problems with Archaeological Analysis of Animal Carcass
+Utilization and Transport. In Beamers, Bobwhites and Blue-Points:
+Tributes to the Career of Paul W. Parmalee, pp. 125-138. Illinois State
+Museum Scientific Papers Vol. 33. Springfield.
+
+1992
+
+Anatomical Considerations of Utility Curves in Zooarchaeology. Journal
+of Archaeological Science 19:7-22.
+
+1993
+
+Density Mediated Attrition of Bone Assemblages: New Insights. In From
+Bones to Behavior: Ethnoarchaeology and Experimental Contributions to
+the Interpretation of Faunal Remains, edited by J. Hudson, pp. 324-341.
+Southern Illinois University at Carbondale Center for Archaeological
+Investigations, Occasional Paper 2, Carbondale.
+
+1994
+
+Relative Abundances of Skeletal Specimens and Taphonomic Analysis of
+Vertebrate Remains. Palaios 9:288-298.
+
+Maguire, J. M., D. Pemberton, and M. H. Collett
+1980
+The Makapansgat Limeworks Grey Breccia: Hominids, Hyaenids,
+Hystricids or Hillwash. Paleintologia Africana 23:75-98.
+Marean, C. W.
+1995
+Of Taphonomy and Zooarchaeology. Evolutionary Anthropology 4:64-72.
+Marean, C. W. and Frey
+1997
+Animal Bones from Caves to Cities: Reverse Utility Curves as
+Methodological Artifacts. American Antiquity 62:698-711.
+Marean, C. W. and L. M. Spencer
+1991
+Impact of Carnivore Ravaging on Zooarchaeological Measures of Element
+Abundance. American Antiquity 56:645-658.
+Marean, C. W., L. M. Spencer, R. J. Blumenschine and S. D. Capaldo
+1992
+Captive Hyena Bone Choice and Destruction, the Schlepp Effect, and
+Olduvai Archaeofaunas. Journal of Archaeological Science 18:677-694.
+113
+
+Metcalfe, D., and K. Barlow
+1992
+Model for Exploring the Optimal Tradeoff Between Field Processing and
+Transport. American Anthropologist 94:340-356.
+Metcalf, D. and K. T. Jones
+1988
+A Reconsideration of Animal Body-Part Utility Indices. American
+Antiquity 53:486-504.
+Monahan, C. M.
+1998
+The Hazda Carcass Transport Debate Revisited and Its Archaeological
+Implications. Journal of Archaeological Science 25:405-424.
+O’Connell, J. F., K. Hawkes, and N. Blurton-Jones
+1988
+Hadza Hunting, Butchering, and Bone Transport and Their Archaeological
+Implications. Journal of Anthropological Research 44:112-162.
+1990
+
+Reanalysis of Large Mammal Body Part Transport among the Hazda.
+Journal of Archaeological Science, 17:301-316.
+
+O’Connell, J. F. and B. Marshall
+1989
+Analysis of Kangaroo Body Part Transport among the Alyawara of
+Central Australia. Journal of Archaeological Science 16:393-405.
+Oliver, J. S.
+1989
+
+Bone Damages from Shield Trap Cave Montana. In Bone Modification,
+edited by R. Bonnichsen and M. H. Sorg, pp. 73-98 Center for the Study
+of the First Americans, Orono.
+
+Outram, A. and P. Rowley-Conwy
+1998
+Meat and Marrow Indices for Horse (Equus). Journal of Archaeological
+Science 25:839-849.
+Perkins, D. Jr. and P. Daly
+1968
+A Hunters Village in Neolithic Turkey. Scientific American 219:96-106.
+Pettipas, L.
+1970
+
+1977
+
+Fragmentary Surface Finds: Problems and Possibilities. Manitoba
+Archaeological Newsletter 8:3-18.
+The Agate Basin – Angostura Continuum. Saskatchewan Archaeology
+Newsletter 52:11-18
+
+Potts, R. and P. Shipman
+1981
+Cutmarks Made by Stone Tools on Bones from Olduvai George, Tanzania.
+Nature 291:577-580.
+
+114
+
+Quigg, J. M.
+1978
+Winter Bison Procurement in Southwestern Alberta. In Bison
+Procurement and Utilization: A Symposium, edited by L. B. Davis and M.
+Wilson, pp. 53-57. Plains Anthropologist Memoir No. 14.
+Rapson, D. J. and L. B. Niven
+2000a
+The Hell Gap Site Locality I Faunal Assemblage (1960-1966). Paper
+presented at 2000 Annual Meeting of the SAA, Philadelphia.
+2000b
+
+The Hell Gap Site Locality I Faunal Assemblage (1960-1966).
+Manuscript in preparation. University of Wyoming, Department of
+Anthropology.
+
+Reher, C. A.
+1970
+Age Determination of Buffalo by Teeth Eruption and Wear. In, The
+Glenrock Buffalo Jump, 48CO304: Late Prehistoric Period Buffalo
+Procurement and Butchering on the Northwestern Plains, edited by G. C.
+Frison, pp. 51-55. Plains Anthropologist Memoir No. 7, Appendix 1.
+1991
+
+Large Scale Lithic Quarries and Regional Transport Systems on the High
+Plains of Eastern Wyoming: Spanish Diggings Revisited. In Raw
+Material Economies among Prehistoric Hunter-Gatherers, edited by A.
+Montet-White and S. Holen, pp. 251-284. University of Kansas
+Publications in Anthropology 19. Lawrence Kansas.
+
+Reider, R. G.
+1999
+Preliminary Report: Soil Development at the Hell Gap Site, Wyoming,
+1995-1997. Manuscript in preparation. University of Wyoming,
+Department of Geography and Recreation.
+Roberts, F. H. H.
+1943
+A New Site. American Antiquity 8:300.
+Rogers, A. R.
+2000a
+On the Value of Soft Bones in Faunal Analysis. Journal of
+Archaeological Science 27:635-639.
+2000b
+Saul, J. M.
+1969
+
+On Equifinality in Faunal Analysis. American Antiquity 65:709-723.
+
+Study of the Spanish Diggings, Aboriginal Flint Quarries of Southeastern
+Wyoming. In National Geographic Society Research Reports, 1964
+Projects, edited by P. H. Oehser, pp. 183-189. National Geographic
+Society, Washington D.C.
+
+115
+
+Sellet, F.
+1999
+
+A Dynamic View of Paleoindian Assemblages at the Hell Gap Site,
+Wyoming: Reconstructing Lithic Technological Systems. Unpublished
+Ph. D. Dissertation, Southern Methodist University, Dallas.
+
+Selvaggio, M. M.
+1998
+Evidence for a Three-Stage Sequence of Hominid and Carnivore
+Involvement with Long Bones at FLK Zinjanthropus, Oldivai Gorge,
+Tanzania. Journal of Archaeological Science 25:191-202.
+Shipman, P. and J. Rose
+1983
+Early Hominid Hunting, Butchering, and Carcass-Processing Behaviors:
+Approaches to the Fossil Record. Journal of Anthropological
+Archaeology 2:57-98.
+Speth, J. D.
+1983
+
+Bison Kills and Bone Counts. University of Chicago Press, Chicago.
+
+1987
+
+Early Hominid Subsistence Strategies in Seasonal Habitats. Journal of
+Archaeological Science 14:13-29.
+
+1989
+
+Early Hominid Hunting and Scavenging: The Role of Meat as an Energy
+Source. Journal of Human Evolution 18:329-343.
+
+1990
+
+Seasonality, Resource Stress, and Food Sharing in So-Called “Egalitarian”
+Foraging Societies. Journal of Anthropological Archaeology 9:148-188.
+
+Speth, J. D. and K. A. Spielmann
+1983
+Energy Source, Protien Metabolism, and Hunter-Gatherer Subsistence
+Strategies. Journal of Anthropological Archaeology 2:1-31.
+Stanford, D. J.
+1999
+Paleoindian Archaeology and Late Pleistocene Environments in the Plains
+and Southwestern United States. In Ice Age Peoples of North America,
+edited by R. Bonnichsen, pp. 281-339. Oregon University Press, Center
+for the Study of the First Americans, Corvallis.
+Stiner, M. C.
+1991
+Food Procurement and Transport by Human and Non-Human Predators.
+Journal of Archaeological Science, 18:455-482.
+1994
+
+Honor Among Thieves: A Zooarchaeological Study of Neanderthal
+Ecology. Princeton University Press, Princeton.
+
+116
+
+Thomas, D. H. and D. Mayer
+1983
+Behavioral Faunal Analysis of Selected Horizons. In The Archaeology of
+Monitor Valley: 2 Gatecliff Shelter, edited by D. H. Thomas, pp. 353-390.
+The American Museum of New York, New York.
+Todd, L. C.
+1983
+
+The Horner Site: Taphonomy of an Early Holocene Bison Bonebed.
+Unpublished Ph.D. Dissertation, Department of Anthropology, University
+of New Mexico, Albuquerque.
+
+1987a
+
+Taphonomy of the Horner II Bone Bed. In The Horner Site: The Type Site
+of the Cody Cultural Complex, edited by Frison, G. C. and L. C. Todd,
+pp. 107-195. Academic Press, Orlando.
+
+1987b
+
+Analysis of Kill-Butchery Bonebeds and Interpretation of Paleoindian
+Hunting. In The Evolution of Human Hunting, edited by H. M. Nitecki
+and D. V. Nitecki, pp. 225-266. Plenum Pres, New York.
+
+1991
+
+Seasonality Studies and Paleoindian Subsistence Strategies. In Human
+Predators and Prey Mortality, edited by M. C. Stiner, pp. 149-186.
+Westview Press, Boulder.
+
+Todd, L. C. and J. L. Hofman
+1987
+Bison Mandibles from the Horner and Finley Sites. In The Horner Site:
+The Type Site of the Cody Cultural Complex, edited by Frison, G. C. and
+L. C. Todd, pp. 493-540. Academic Press, Orlando.
+Todd, L. C. and D. J. Rapson
+1999
+Formational Analysis of Bison Bonebeds and Interpretation of Paleoindian
+Subsistence. In Le Bison: Gibir et Moyen de Subsistance des Hommes du
+Paleolithique aux Paleoindiens des Grandes Plaines, edited by J. Ph.
+Brugal, F. David, J. G. Enloeand J. Jaubert, pp. 479-499. Editions
+APDCA, Antibes.
+Todd, L. C., D. J. Rapson and J. L. Hofman
+1996
+Dentition Studies at the Mill Iron and Other Early Paleoindian Bonebed
+Sites. In The Mill Iron Site, edited by G. C. Frison, pp. 145-176.
+University of New Mexico Press, Albuquerque
+Voorhies, M. R.
+1969
+Taphonomy and Population Dynamics of an Early Pliocene Vertebrate
+Fauna, Knox County, Nebraska. Contributions to Geology, Special Paper
+No. 1. University of Wyoming, Laramie.
+
+117
+
+Walker, D. N.
+1982
+Early Holocene Vertebrate Fauna. In The Agate Basin Site, edited by G.
+C. Frison and D. J. Stanford, pp. 274-308. Academic Press, New York.
+Walker, P. L and J. C. Long
+1977
+An Experimental Study of the Morphological Characteristics of Tool
+Marks. American Antiquity 42:605-616.
+Wheat, J. B.
+1972
+
+1979
+
+The Olsen-Chubbuck Site: A Paleo-Indian Bison Kill. Society for
+American Archaeology Memoir 26.
+The Jurgens Site. Plains Anthropologist Memoir 15.
+
+White, T. D.
+1992
+Prehistoric Cannibalism and Mancos 5MTUMR-2346. Princeton
+University Press, Princeton.
+White, T. E.
+1952a
+
+Animal Bone and Plains Prehistory. Plains Archaeological Conference
+Newsletter 4:46-48.
+
+1952b
+
+Observations on the Butchering Technique of Some Aboriginal Peoples:
+No 1. American Antiquity 17:337-338.
+
+1952c
+
+Suggestions on the Butchering Technique of the Inhabitants of the Dodd
+and Phillips Ranch Sites in Oahe Reservoir Area. Plains Archaeological
+Conference Newsletter 5:20-25
+
+1953a
+
+A Method for Calculating the Dietary Percentage of Various Food
+Animals Utilized by Aboriginal Peoples. American Antiquity 19:396-398.
+
+1953b
+
+Observations on the Butchering Technique of Some Aboriginal Peoples:
+No 2. American Antiquity 19:160-164.
+
+1954
+
+Observations on the Butchering Technique of Some Aboriginal Peoples:
+No 3, 4, 5, 6. American Antiquity 19:254-264.
+
+1955
+
+Observations on the Butchering Technique of Some Aboriginal Peoples:
+No 7, 8, and 9. American Antiquity 21:170-178.
+
+Wormington, H. M.
+1988
+The Frazier Site, Colorado. In Guidebook to the Archaeology and
+Geology of the Colorado Piedmont and High Plains of Southeastern
+Wyoming, edited by V. T. Holliday, pp. 82-84. Department of Geography,
+University of Wisconsin-Madison.
+118
+
+Yellen, J. E.
+1977
+
+Cultural Patterning in Faunal Remains: Evidence from the !Kung
+Bushmen. In Experimental Archaeology, edited by D. Ingersoll, J. Yellen,
+and W. MacDonald, pp. 271-331. Columbia, New York.
+
+Zeimens, G. M.
+1982
+Analysis of Postcranial Bison Remains. In The Agate Basin Site, edited by
+G. C. Frison and D. J. Stanford, pp. 213-239. Academic Press, New York.
+
+119
+
+

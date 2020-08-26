@@ -1,0 +1,7551 @@
+An Archaeological Examination
+of the T-269 Camp Wood to
+Leakey Transmission Line Upgrade
+Project, Real County, Texas
+by
+
+James J. Hill, Amy Goldstein,
+and Katherine Seikel
+
+Antiquities Permit No. 8396
+
+AUGUST 2018
+
+An Archaeological Examination of the T-269
+Camp Wood to Leakey Transmission Line
+Upgrade Project, Real County, Texas
+by
+
+James J. Hill, Amy Goldstein, and Katherine Seikel
+Timothy Griffith,
+Principal Investigator
+
+Prepared for
+
+Lower Colorado River Authority
+
+Antiquities Permit No. 8396
+
+by
+
+Austin, Texas
+
+AUGUST 2018
+
+© 2018 by AmaTerra Environmental, Inc.
+4009 Banister Lane, Suite 300
+Austin, Texas 78704
+Technical Report No. 239
+AmaTerra Project No. 239-008
+
+Abstract
+
+Abstract
+In April of 2018, AmaTerra Environmental, Inc. (AmaTerra) conducted a cultural resources
+investigation in support of the Lower Colorado River Authority Transmission Services
+Corporation’s (LCRA TSC) T-269 Camp Wood to Leakey transmission line upgrade project
+in Real County, Texas. The transmission line rebuild will replace all 150 existing support
+structures along the 17.3 mile long transmission line with new single pole supported structures.
+Of the 150 pole locations, 44 are located in areas where the slope exceeds 20 percent. These
+locations were excluded from the survey. However, 22 of the omitted structure locations were
+field verified as easily accessible and were pedestrian-surveyed as part of this study. A total
+of 3.7 miles (21 structures) located at the eastern end of the project area was omitted from the
+survey. These areas were assessed pre-field as well as during the survey as having extreme
+slope and thus, a minimal chance to contain cultural resources. Additionally, LCRA cultural
+resources staff stipulated each water crossing identified within the existing T-269 easement
+that could necessitate modification was required to be surveyed. Also, in areas where heavy
+vehicular traffic is expected when construction of the rebuild is undertaken, AmaTerra sampled
+additional portions of the LCRA easement where archaeological site potential was highest
+such as canyon heads or lookout locations. These areas were assessed through intensive
+pedestrian archaeological survey and subjective shovel testing. In summary, AmaTerra visited
+and assessed 129 pole locations (107 pedestrian-surveyed and shovel-tested and 22 pedestriansurveyed only), 13 water crossings, and three other areas considered to have a high potential
+of cultural resource occurrence, totaling 145 locations spread over 13.6 linear miles. This
+equates to approximately 266.5 acres surveyed within the existing T-269 easement. AmaTerra
+conducted the archaeological survey under Texas Antiquities Permit No. 8396.
+Investigations consisted of a systematic pedestrian walk-over survey of each defined locality
+along the existing LCRA easement supplemented with the manual excavation of 268 shovel
+tests throughout the proposed project area. Initially, 182 shovel tests were excavated within
+the areas of interest as a discovery tactic; an additional 86 tests were excavated during site
+delineation or as an assessment of isolated occurrences (IO). AmaTerra recorded 12 newly
+documented archaeological sites (41RE155-166) and 13 IOs. All of the newly documented
+archaeological resources are prehistoric. The lack of intact features, dateable materials, and/
+or stratified deposits, coupled with poor organic preservation, the horizontal displacement
+of artifacts across sites, and adverse effects from modern disturbances led investigators to
+conclude that 11 of the 12 sites (41RE156-41RE166) have negligible research potential within
+the existing LCRA easement. The portions of these sites that are contained within the existing
+easement are evaluated as ineligible for listing as a State Antiquities Landmarks (SAL) and
+no additional work is recommended. Site 41RE155 is the lone exception and was documented
+as a seasonal encampment site with dateable features as well as intact subsurface deposits.
+Investigators concluded that portions of 41RE155 within the existing easement have significant
+intact deposits that may make it eligible for listing as a SAL and, therefore, should be avoided.
+However, subsurface artifact density was sparse in direct proximity (within two meters) of the
+structure footprint where removal and/or replacement will take place. Therefore, AmaTerra
+
+AmaTerra Environmental, Inc.
+
+iii
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+recommends construction to proceed within the structure footprint as long as access is restricted
+to the existing two-track access road and the eastern edge of the site boundary.
+No artifacts were collected during the survey. All project-related records will be curated at the
+Texas Archaeological Research Laboratory, University of Texas-Austin.
+
+iv
+
+AmaTerra Environmental, Inc.
+
+Table of Contents
+
+Table of Contents
+Abstract.................................................................................................................... iii
+Chapter 1. Introduction........................................................................................... 1
+Chapter 2. Environmental Setting.......................................................................... 5
+2.1
+2.2
+2.3
+2.4
+2.5
+
+Climate.............................................................................................................................. 5
+Geology............................................................................................................................. 5
+Hydrology......................................................................................................................... 9
+Flora ................................................................................................................................. 9
+Fauna............................................................................................................................... 10
+
+Chapter 3. Regional Cultural Background and Previous Investigations....... 11
+3.1
+3.2
+3.3
+3.4
+3.5
+
+Paleoindian (Ca. 16,000–8800 BP)................................................................................. 11
+Archaic Period (Ca. 8800–1200/1300 BP)..................................................................... 13
+Late Prehistoric Period (Ca. 1200/1300–350 BP)........................................................... 14
+Historic Period (350 BP–Present)................................................................................... 15
+Previous Cultural Resource Investigations..................................................................... 16
+
+Chapter 4. Methods. ............................................................................................... 27
+Chapter 5. Results. ................................................................................................. 29
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+5.8
+5.9
+5.10
+5.11
+5.12
+5.13
+
+Site 41RE155 (The Phillips Site).................................................................................... 34
+Site 41RE156.................................................................................................................. 37
+Site 41RE157.................................................................................................................. 37
+Site 41RE158.................................................................................................................. 43
+Site 41RE159.................................................................................................................. 43
+Site 41RE160 ................................................................................................................. 47
+Site 41RE161.................................................................................................................. 49
+Site 41RE162.................................................................................................................. 51
+Site 41RE163.................................................................................................................. 53
+Site 41RE164.................................................................................................................. 55
+Site 41RE165.................................................................................................................. 57
+Site 41RE166 ................................................................................................................. 57
+Isolated Occurrences....................................................................................................... 59
+
+Chapter 6. Summary and Management Recommendations. ................................. 63
+References................................................................................................................ 65
+Appendix A. Shovel Test Log
+
+AmaTerra Environmental, Inc.
+
+v
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+vi
+
+AmaTerra Environmental, Inc.
+
+List of Figures and Tables
+
+List of Figures
+Figure 1.1.
+
+Project location map................................................................................................ 3
+
+Figure 2.1.
+
+Map depicting Texas ecoregions along the project area. ........................................ 6
+
+Figure 2.2.
+
+Map depicting subregions within the Edwards Plateau and Southern
+Texas Plains ecoregions........................................................................................... 7
+
+Figure 2.3.
+
+Map depicting underlying geology within the project area..................................... 8
+
+Figure 2.4.
+
+Example of typical vegetation located within the APE......................................... 10
+
+Figure 3.1.
+
+Map depicting Texas ecoregions along the project area........................................ 12
+
+Figure 3.2.
+
+Previously recorded sites and surveys around the project area plotted
+on a 2018 aerial map.............................................................................................. 18
+
+Figure 3.3.
+
+A 1927 USACE map showing conditions around the project area........................ 19
+
+Figure 3.4.
+
+Existing LCRA easement overlain on a 1954 USGS topographic map................. 20
+
+Figure 3.5a. A 1954 aerial photograph of the project area and surrounding region.................. 21
+Figure 3.5b. A 1954 aerial photograph of the project area and surrounding region.................. 22
+Figure 3.6a. Existing LCRA easement overlain on a 1971 USGS quadrangle map.................. 24
+Figure 3.6b. Existing LCRA easement overlain on a 1971 USGS quadrangle map.................. 25
+Figure 3.6c. Existing LCRA easement overlain on a 1971 USGS quadrangle map.................. 26
+Figure 5.1a. Water crossings along the existing T-269 easement.............................................. 30
+Figure 5.1b. Water crossings along the existing T-269 easement.............................................. 31
+Figure 5.2a. Structure location, off-ROW easements, and level of effort along the APE......... 32
+Figure 5.2b. Structure location, off-ROW easements, and level of effort along the APE......... 33
+Figure 5.3.
+
+Overview of 41RE155, looking east...................................................................... 34
+
+Figure 5.4.
+
+Site map of 41RE155............................................................................................. 35
+
+Figure 5.5.
+
+Example of Burned Rock Midden deposits at 41RE155....................................... 36
+
+Figure 5.6.
+
+Hearth Feature recorded during shovel testing at 41RE155.................................. 36
+
+Figure 5.7.
+
+Site map of 41RE156............................................................................................. 38
+
+Figure 5.8.
+
+Site overview of 41RE156, facing east.................................................................. 39
+
+AmaTerra Environmental, Inc.
+
+vii
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Figure 5.9.
+
+Possible Montell projectile point and biface recorded within 41RE156............... 39
+
+Figure 5.10. Site map of 41RE157............................................................................................. 40
+Figure 5.11. Site overview of 41RE157, facing east.................................................................. 41
+Figure 5.12. Representative photo of naturally occurring chert on 41RE157........................... 41
+Figure 5.13. Illustration of the knapping location recorded at 41RE157................................... 42
+Figure 5.14. Site map of 41RE158............................................................................................. 44
+Figure 5.15. Site overview of 41RE158, facing north............................................................... 45
+Figure 5.16. Site map of 41RE159............................................................................................. 46
+Figure 5.17. Site overview of 41RE159, facing east.................................................................. 47
+Figure 5.18. Uvalde projectile point recorded within 41RE159................................................ 47
+Figure 5.19. Site map of 41RE160............................................................................................. 48
+Figure 5.20. Site overview of 41RE160, facing north............................................................... 49
+Figure 5.21. Site map of 41RE161............................................................................................. 50
+Figure 5.22. Site overview of 41RE161, facing east.................................................................. 51
+Figure 5.23. Site map of 41RE162............................................................................................. 52
+Figure 5.24. Site overview of 41RE162, facing east.................................................................. 53
+Figure 5.25. Uvalde projectile point recorded within 41RE162................................................ 53
+Figure 5.26. Site map of 41RE163............................................................................................. 54
+Figure 5.27. Site overview of 41RE163, facing west................................................................ 55
+Figure 5.28. Site map of 41RE164............................................................................................. 56
+Figure 5.29. Site overview of 41RE164, facing east.................................................................. 57
+Figure 5.30. Site map of 41RE165............................................................................................. 58
+Figure 5.31. Site overview of 41RE165, facing east.................................................................. 59
+Figure 5.32. Site map of 41RE166............................................................................................. 60
+Figure 5.33. Site overview of 41RE166, facing east.................................................................. 61
+
+viii
+
+AmaTerra Environmental, Inc.
+
+List of Figures and Tables
+
+List of Tables
+Table 2.1.
+
+Soil Types Mapped within the Project Area............................................................ 9
+
+Table 5.1.
+
+Isolated Occurrences recorded within the APE..................................................... 61
+
+AmaTerra Environmental, Inc.
+
+ix
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+x
+
+AmaTerra Environmental, Inc.
+
+Chapter 1
+
+Chapter 1
+
+Introduction
+In April 2018, on behalf of the Lower Colorado River Authority Transmission Services
+Corporation (LCRA TSC), AmaTerra Environmental, Inc. (AmaTerra) conducted a cultural
+resources survey and assessment in advance of the LCRA TSC’s proposed T-269 Camp
+Wood to Leakey Transmission Line Upgrade Project in Real County, Texas (Figure 1.1). The
+transmission line rebuild will replace all 150 existing support structures along the 17.3-mile
+long transmission line with new single pole supported structures within the existing 100-footwide LCRA easement. A total of 3.7 miles (21 structures) located at the eastern end of the
+project area was omitted from the survey. These areas were assessed pre-field as well as during
+the survey as having extreme slope and thus a minimal chance to contain cultural resources.
+Additionally, LCRA cultural resources staff stipulated each water crossing identified within
+the existing T-269 easement that could necessitate modification was required to be surveyed.
+Also, in areas where heavy vehicular traffic is expected when construction of the rebuild is
+undertaken, AmaTerra sampled additional portions of the LCRA easement where archaeological
+site potential was highest such as canyon heads or lookout locations. These areas were assessed
+through intensive pedestrian archaeological survey and shovel testing.
+In order to encapsulate each area (pole locations, water crossings and high potential areas)
+adequately and assess the existing easement for cultural resources, a narrow buffer was placed
+around the existing LCRA easement, effectively creating the Area of Potential Effect (APE).
+For the purpose of this survey, all work was confined to the APE surrounding the existing
+LCRA right-of-way (ROW) or the off-ROW road easements primarily located along areas of
+steep slope. The off-ROW easements were visually assessed through a combination of windshield and pedestrian surveys. No cultural resources were observed at any of the off-ROW
+easements and additional construction along the existing off-ROW easements is expected to
+be minimal, if at all.
+Of the 150 pole locations within the APE, 44 are in areas where the slope exceeds 20 percent.
+These locations were excluded as part of the survey. However, 22 of the omitted structure
+locations were field verified as easily accessible and were pedestrian surveyed as part of this
+study. All told, AmaTerra visited and assessed a total of 129 pole locations (107 pedestriansurveyed and shovel-tested and 22 pedestrian surveyed only), in addition to 13 water crossings
+and three areas determined as having high potential for cultural resource occurrence along the
+APE, totaling 145 locations spread over 13.6 linear miles. This equates to approximately 266.5
+acres surveyed within the existing T-269 easement.
+As a governmental jurisdiction of the State of Texas, LCRA TSC is subject to the provisions
+of the Antiquities Code of Texas (ACT). LCRA TSC authorized this program of cultural
+resource investigations to ensure that significant cultural resources could be avoided during
+the modernization of the T-269 transmission line and its associated components. AmaTerra’s
+work conformed to the guidelines under 13 TAC Chapter 26, which outline the regulations for
+implementing the ACT.
+AmaTerra Environmental, Inc.
+
+1
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Field investigations took place in April of 2018, under Texas Antiquities Permit No. 8396. Tim
+Griffith served as the project’s Principal Investigator and James J. Hill acted as the project
+archaeologist, while Heath Bentley, Noel Steinle, Joshua Hamilton and Joshua Zatopek assisted
+with field investigations.
+The survey resulted in the identification of 12 new archaeological sites (41RE155–166), and
+documented 13 Isolated Occurrences (IO). All 12 of the newly recorded sites are prehistoric
+and consisted of nine lithic scatters and/or small campsites, two lithic procurement sites
+and a single seasonal encampment site. Due to a lack of intact features, diagnostic artifacts,
+dateable materials, organic remains, and stratified deposits, coupled with the adverse impacts
+from modern disturbances and the movement of artifacts across the surface, eleven of the
+twelve sites have little to no research potential and are assessed as ineligible for listing as
+State Antiquities Landmarks (SAL) with no additional work recommended within the existing
+LCRA TSC easement. Site 41RE155 is the lone exception and was documented with burned
+rock and hearth features as well as subsurface cultural deposits. Investigators concluded
+that 41RE155 has significant intact deposits that may make it eligible for listing as SAL and
+recommended avoidance. However, subsurface artifact density was dense in direct proximity
+(within two meters) of the structure footprint where pole removal and/or replacement will take
+place. Therefore, AmaTerra recommends construction to proceed within the structure footprint
+as long as access is restricted to the existing two-track access road and the eastern edge of the
+site boundary.
+No artifacts were collected, but all project related materials, such as field forms and photographs,
+will be curated at the Texas Archaeological Research Laboratory (TARL), University of
+Texas-Austin.
+This report is divided into six chapters. The environmental setting and cultural overview
+are discussed in Chapters 2 and 3 respectively. Chapter 4 includes the field methodology
+implemented during the project. The results of field investigations are presented in Chapter 5.
+Chapter 6 contains a summary and management recommendations.
+
+2
+
+AmaTerra Environmental, Inc.
+
+Chapter 1
+
+Figure 1.1. Project location map.
+
+AmaTerra Environmental, Inc.
+
+3
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+4
+
+AmaTerra Environmental, Inc.
+
+Chapter 2
+
+Chapter 2
+
+Environmental Setting
+The project area crosses the Balcones Canyonlands subregion of the Edwards Plateau
+ecoregion (Figures 2.1 and 2.2). Largely a dissected limestone plateau, the Edwards Plateau is
+characterized by rolling hills, intervening broad flat valleys and canyons, stairstep landforms,
+and a karst topography resulting in numerous springs, streams, and rivers. Shaped during the
+Miocene epoch, the southern portion of the Edwards Plateau separates central Texas from the
+Texas coastal plain (Spearing 1991 cited in Griffith et al. 2007).
+
+2.1	Climate
+The climate is described as subtropical with hot, typically humid and wet summers with mild
+to cool winters (Peel et al. 2007). Located between eastern mesic and western arid climates,
+the Edwards Plateau is subject to periodic drought and drying westerly winds, as well as moist
+humid weather originating in the Gulf of Mexico (Griffith et al. 2007). On average, the project
+area receives between 25 and 30 inches of precipitation annually and has a mean air temperature
+of 67 degrees Fahrenheit (USDA-NRCS 2018).
+
+2.2	Geology
+The bedrock geology underlying the Balcones Canyonlands subregion consists of Lower
+Cretaceous limestone and dolomite of the Edwards Formation, interbedded dolomite, chalk,
+marl, and mudstone of the Glen Rose Formation, Hensell Sand exposed in valleys and
+floodplains, and Upper Cretaceous Buda Formation limestone caps (Griffith et al. 2007).
+Specifically, the project area is underlain by a combination of Devils River Limestone (Kdv)
+and Glen Rose Limestone (Kgr) of the Lower Cretaceous Period (BEG 1986; Figure 2.3).
+Soils common across the Edwards Plateau ecoregion include Mollisols, Alfisols, Entisols, and
+Inceptisols. Mollisols, which are located on flat or convex surfaces like hills and plateaus,
+form in grassland environments and are characterized by a thick, dark surface horizon. These
+soils are the most common type found in the Edwards Plateau ecoregion. On the other hand,
+Alfisols, which are formed in semiarid to humid areas and are characterized by a clay-enriched
+subsoil, are found in the floodplains and valleys, while entisols, soils lacking any soil profile
+development aside from the A horizon, and Inceptisols, soils that form quickly through the
+alteration of parent material, are found on slopes. Soil depth also varies across the Edwards
+Plateau ecoregion with shallow and rocky soils on plateaus and hills, whereas deeper soils are
+found across the plains and valley floors (Griffith et al. 2007).
+According to the USDA Natural Resources Conservation Service (2018), soils within the
+project area are mostly shallow loams and clays, alluvially deposited and overlain over shallow
+limestone bedrock (Table 2.1).
+AmaTerra Environmental, Inc.
+
+5
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Figure 2.1. Map depicting Texas ecoregions along the project area.
+
+6
+
+AmaTerra Environmental, Inc.
+
+Chapter 2
+
+Figure 2.2. Map depicting subregions within the Edwards
+Plateau and Southern Texas Plains ecoregions.
+
+AmaTerra Environmental, Inc.
+
+7
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Figure 2.3. Map depicting underlying geology within the project area.
+
+8
+
+AmaTerra Environmental, Inc.
+
+Chapter 2
+
+2.3	Hydrology
+
+Table 2.1. Soil Types Mapped
+within the Project Area.
+
+Erosion of the limestone foundation of
+Map Unit Symbol
+Map Unit Name
+the Edwards Plateau through solution and
+CkB
+Campwood-Knippa Complex
+chemical weathering has created a karst
+DeB
+Dev-Riverwash Complex
+topography consisting of a network of
+DnD
+Dina-Eckrant Complex
+sinkholes, underground fissures, and caverns,
+EcF; EcG
+Eckrant-Rock Outcrop Complex
+which, when filled with groundwater, form
+KrD
+Kerrville-Real Complex
+the Edwards-Trinity Aquifer. Discharge
+LkB
+Leakey Silty Clay loam
+from the aquifer in the form of springs
+MmC
+Mailtrail-Mereta Complex
+has created a system of relatively clear
+NuB
+Nuvalde Clay Loam
+and cool perennial streams across the
+PtB
+Pratley Clay
+RaF
+Real-Oplin Complex
+Edwards Plateau (Griffith et al. 2007). In
+fact, the APE bisects numerous perennial,
+intermittent, and ephemeral streams, which
+feed into Ranch Creek and Flat Creek. The substation at which the T-269 line emanates outside
+of Camp Wood is located approximately 0.4 miles east of the Nueces River and terminates
+at a substation south of Leakey approximately 0.9 miles west of the Frio River. Both Rivers
+ultimately empty into the Gulf of Mexico.
+
+2.4	Flora
+Generally, the Edwards Plateau ecoregion is characterized by a juniper-oak and mesquiteoak savanna (Figure 2.4). The Balcones Canyonlands consists of an upland woodland
+composed of Texas oak (Quercus buckleyi), plateau live oak (Quercus fusiformis), Vasey oak
+(Quercus vaseyana), Lacey oak (Quercus laceyi), Texas persimmon (Diospyros texana), ashe
+juniper (Juniperus ashei), escarpment black cherry (Prunus serotina var. exima), and cedar
+elm (Ulmus crassifolia), while riparian areas are characterized by baldcypress (Taxodium
+distichum), American sycamore (Platanus americanus), black willow (Salix nigra), slippery
+elm (Ulmus rubra), Ohio buckeye (Aesculus glabra), boxelder (Acer negundo), bigtooth maple
+(Acer grandidentatum), and Carolina basswood (Tilia caroliniana). Disturbed grasslands and
+grazed areas are comprised of little bluestem (Schizachyrium scoparium), yellow Indiangrass
+(Sorghastrum nutans), sideoats grama (Bouteloua curtipendula), Texas wintergrass (Stipa
+leucotricha), and threeawns (Aristida spp.). Found near crevice seeps and springs are maidenhair
+fern (Adiantium capillus-veneris), tuber anemone (Anemone edwardsiana), and the southern
+shield fern (Thelypteris kunthii) (Bezanson 2000; Amos and Rowell 1988 cited in Griffith et
+al. 2007), while sumac (Rhus spp.), sotol (Dasylirion texanum), acacia (Acacia spp.), honey
+mesquite (Prosopis glandulosa), and ceniza (Leucophyllum frutescens) (Riskin and Diamond
+1988 cited in Griffith et al. 2007) are common across drier south and west-facing slopes. Rare
+species include the canyon mockorange (Philadelphus ernestii) and Texas snowbell (Styrax
+texana).
+
+AmaTerra Environmental, Inc.
+
+9
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Figure 2.4. Example of typical vegetation located within the APE.
+
+2.5	Fauna
+The proposed project area falls within the Balconian Biotic Province of Texas (Blair 1950),
+which was created through the “realization that the Balcones Fault Zone was a major physical
+factor in the distribution of animals in central Texas” (Neck 1986). Differences in xericity, or
+arid conditions, and changes in geological substrate differentiate the Balconian biotic province
+from neighboring provinces. Mammals well suited to the conditions characteristic of this
+subregion include the white tailed deer (Odocoileus virginianus), red wolf (Canis rufus), gray
+wolf (Canis lupus), black bear (Ursus americanus), mountain lion (Puma concolor), prairie dog,
+badger (Taxidea taxus), black-footed ferret (Mustela nigripes), ground squirrels (Marmotini
+spp.), woodrats (Neotoma floridana), porcupine (Erithizon dorsatum), coyote (Canis latrans),
+and Mexican free-tailed bats (Tadarida brasiliensis). Birds such as the Rio Grande wild turkey
+(Meleagris gallopavo intermedia), golden-cheeked warbler (Setophaga chrysoparia), blackcapped vireo (Vireo atricapilla), scissor-tailed flycatcher (Tyrannus forticatus), and the brownheaded cowbird (Molothrus ater) migrate through or live permanently within this province.
+Lastly, aquatic species supported by the spring-fed waterways include the widemouth blindcat
+(Satan eurystomus), sun fish (Lepomis spp.), channel catfish (Ictalurus punctatus), Guadalupe
+bass (Micropterus treculi), largemouth bass (Micropterus salmoides), Comal blind salamander
+(Eurycea tridentifera), and the Blanco blind salamander (Typhlomolge robusta) (Griffith et al.
+2007).
+
+10
+
+AmaTerra Environmental, Inc.
+
+Chapter 3
+
+Chapter 3
+
+Regional Cultural Background
+and Previous Investigations
+The project area is situated at the crossroads of two archaeological regions as defined by Perttula
+(2004) (Figure 3.1 6). The project straddles the central Texas and south Texas archaeological
+areas. A cultural chronology of these areas has been developed by Story (1985) and Johnson
+and Goode (1994) with refinements by Black (1989a, b), Collins (1995, 2004), and Hester
+(2004). Large-scale archaeological projects by McGraw and Hindes (1987) and Thoms and
+Mandel (2007) have documented a detailed record of occupation for the Medina River and Elm
+Creek areas in the Late Paleoindian through Historic periods.
+Typically, cultural chronology in Texas is divided into four major periods of time: Paleoindian
+(16,000–8800 years before the present [BP]), Archaic (8800–1200/1300 BP), Late Prehistoric
+(1200/1300–350 BP), and Historic (350 BP–present) (Prewitt 1981). While the Prehistoric
+Periods are principally defined by the presence of diagnostic projectile points and other
+technologies, they are intended to order cultural change and are thus somewhat arbitrary;
+cultural change proceeded at somewhat different rates over the vast area of Texas. A regional
+chronology of the Paleoindian, Archaic, Late Prehistoric and Historic periods are detailed in
+the following sections.
+
+3.1	Paleoindian (Ca. 16,000–8800 BP)
+The arrival of humans in the New World may have occurred as early as 16,000 years ago with
+people that pre-date Clovis groups (Jennings and Waters 2014). Evidence of a “Pre-Clovis”
+occupation of Texas has been theorized at the Debra L. Friedkin Site located along Buttermilk
+Creek in Bell County (Waters et al. 2011). Artifacts found at this site include bifaces, a discoidal
+core, edge-modified flake tools, blade fragments, bladelets, a polished piece of hematite, and
+macrodebitage. Other sites in Central Texas with potential Pre-Clovis components include the
+Gault Site, situated upstream from the Debra L. Friedkin Site.
+The Paleoindian period (ca. 11,500–8,800 years BP) is divided into early and late subperiods
+in central and portions of south Texas (Collins 1995, 2004). Each subperiod is characterized
+by distinct styles of lanceolate projectile points and other stone tool technologies. Early
+Paleoindian sites are characterized by Clovis or Folsom projectile points, with each associated
+with a subsistence pattern related to hunting extinct forms of megafauna, primarily mammoth
+for the earlier Clovis hunters and bison for later Folsom hunters. Each group also used a wide
+variety of other animal and plant resources. Late Paleoindian sites are also associated with a
+series of distinctive projectile point forms: Plainview, Golondrina, Scottsbluff, and Angostura.
+Evidence from central and south Texas indicates that these later Paleoindian groups were
+using a more generalized hunting and gathering subsistence pattern similar to that of later
+AmaTerra Environmental, Inc.
+
+11
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Figure 3.1. Map depicting Texas ecoregions along the project area.
+
+12
+
+AmaTerra Environmental, Inc.
+
+Chapter 3
+
+Archaic groups in the region. Early and late Paleoindian site types are similar and include open
+campsites, special-purpose sites for procuring specific resources, and kill sites for mammoth
+and bison.
+Notable Paleoindian sites occurring in central Texas within the general vicinity of the project
+area include the Wilson-Leonard, Gault, Pavo Real, and Berger Bluff sites. In addition to these
+excavated sites, numerous instances of Paleoindian projectile points have been documented in
+unstratified surface deposits throughout Central, South, and Southeast Texas. Environmental
+studies suggest that Late Pleistocene Epoch climates were wetter and cooler (Mauldin and
+Nickels 2001; Toomey et al. 1993) during most of the Paleoindian Period with a gradual shift
+to drier and warmer conditions at the onset of the Early Holocene Epoch (Bousman 1998). As
+megafauna gradually died off, inhabitants of Central and South Texas shifted their subsistence
+patterns towards smaller game and an increased reliance on plant foraging. This cultural change
+is visible in the archaeological record and marks the onset of the Archaic Period.
+
+3.2
+
+Archaic Period (Ca. 8800–1200/1300 BP)
+
+The Archaic period is subdivided into Early (ca. 8800–6000 BP), Middle (ca. 6000–4000
+BP), and Late subperiods (ca. 4000–1200/1300 BP) (Collins 1995, 2004; Hester 2004). The
+Archaic period represents a continuation of the generalized hunting and gathering lifeway that
+characterized the Late Paleoindian subperiod. Each subperiod is characterized by distinctive
+changes in lithic technology and projectile dart point styles and groundstone technology, some
+of which are regionally specific for central and south Texas. Changes in technology and broad
+changes in subsistence and site types are correlated with regional changes in climate and
+resource distribution through time. Some indication of increasing social complexity during the
+Middle and Late Archaic is evident by the appearance of regional cemeteries, distinctive burial
+practices, and the presence of various artifacts manufactured of non-local raw materials such
+as marine shell ornaments, bannerstones, and boat stones. Such artifacts imply participation in
+larger regional exchange networks, some of which have been traced to the greater southeastern
+United States. Presence of established mortuary areas during the period is indicative of specific
+group territories and the existence of maintained, and in some cases defended, social boundaries
+among groups. A wide variety of site types has been recorded for the Archaic period. Although
+site types are rather comparable through the period, frequencies of different types of sites
+fluctuate over time and may be related in large part to continuing changes in environmental
+conditions and available resources. Site types include rockshelters, open campsites, specialpurpose resource extraction locations (burned rock middens, ring middens, lithic procurement
+areas), and mortuary sites or cemeteries.
+
+3.2.1 Early Archaic
+The Early Archaic subperiod (ca. 8800–6000 BP) is characterized by “very low population
+density, small band sizes, highly mobile, and extremely large territorial ranges” (Black
+1989a:49). This behavior may be attributed to the arid environment (Hester 2004), as this
+climate required inhabitants to be near water. For the region, Thomas Hester (2004:136)
+AmaTerra Environmental, Inc.
+
+13
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+divides the Early Archaic into two horizons: early corner-notched and early basal notched.
+The early corner-notched horizon has corner-notched dart points with recurved or notched
+bases. These point types include Martindale, Uvalde, Baker, Bandy, and Gower dart points,
+and Guadalupe tools. The early basal-notched horizon is characterized by dart points with deep
+basal notches, large bulbs, and distinctive long stems. Point types include the Bell and Andice
+dart points. Additional tools associated with this horizon include early triangular bifaces and
+large unifacial Clear Fork tools.
+
+3.2.2 Middle Archaic
+Dating from about 6000–4000 BP, the Middle Archaic subperiod is marked by the onset of
+the Altithermal, a long episode of warming and drying (Meltzer 1999). This subperiod is also
+associated with a shift in subsistence to a greater reliance on plant resources (Black 1989b;
+Hester 2004). Regional tools associated with the Middle Archaic include Abasolo, Bulverde,
+Lange, Morhiss, Pedernales, and Tortugas projectile points, unifacial distally beveled tools like
+the Nueces tool, and marine shell ornaments and tools. Reliance on plant resources is evident
+through “an increase in formal hearths, earth ovens, and burned rock accumulations” (Hester
+2004:139), as well as the presence of ground stone tools, such as tubular stone pipes, grinding
+slabs, and manos.
+
+3.2.3 Late Archaic
+The Late Archaic subperiod dates from ca. 4000–1200/1300 BP. Kent and Gary make up the
+dominant dart point types associated with the Late Archaic in Texas. Regionally, sites show
+a shift to the utilization of more local lithic source material that is of poorer quality, which
+signifies a reduction in group mobility and more spatially restricted territories (Story 1990).
+Another line of evidence showing reduction in group mobility is the increase in cemeteries in
+South and Central Texas. One prominent example is the Ernest Witte site in Austin County
+that contained over 200 individuals spanning the Middle and Late Archaic. Burials that dated
+to the Late Archaic contained a wide variety of grave goods that includes Ensor and Fairland
+dart points, corner-tanged knives, groundstone “boatstones,” a gorget, bone pins, and conch
+shell beads and pendants. Large cemeteries with grave goods become increasingly common in
+the Late Archaic, and the fact that the same types of grave goods are found with both male and
+female burials suggests a somewhat egalitarian social organization (Ricklis 2004).
+
+3.3	Late Prehistoric Period (Ca. 1200/1300–350 BP)
+The Late Prehistoric period (ca. 1200/1300–350 BP) in Central and South Texas was marked
+by increased apparent social boundary differentiation and a continuation of the basic hunting
+and gathering subsistence strategy (Collins 1995, 2004; Hester 2004). Collins (2004) divides
+the period into an Austin and Toyah interval. Three significant traits—pottery, bow and arrow,
+and agriculture—also make their appearance during the Late Prehistoric. Austin and Toyah
+intervals have become hallmarks of the Late Prehistoric for Central and South Texas. The
+Austin interval is associated with a technological shift from Late Archaic style dart points to
+14
+
+AmaTerra Environmental, Inc.
+
+Chapter 3
+
+smaller arrow points associated with initial use of the bow and arrow technology; otherwise,
+there is actually little change in terms of subsistence patterns from the preceding Late Archaic
+period. The Toyah interval is distinguished by one primary arrow point style, the Perdiz point.
+Other technological aspects of Toyah assemblages include end scrapers, prismatic chert blades,
+and large thin bifacial knives—all of which are interpreted as signatures of a bison, deer, or
+antelope hunting tool kit. It is significant that the traits of Toyah assemblages appear at about
+the same time across Central and South Texas and beyond into East Texas. This distribution has
+led some researchers to question whether it represents the spread of an adopted technological
+system by multiple ethnic groups or the widespread presence of a single ethnic group (Black
+1989a, b; Johnson 1994; Ricklis 1994). Late Prehistoric cemeteries or mortuary areas indicate
+a continuation of the territorial boundary aspect developed during the Middle and Late Archaic,
+but perhaps for different social objectives. Site types reflect a continuation of those identified
+during previous periods: open occupation or camp sites, burned rock midden sites and hearth
+features, shell middens, lithic procurement sites and rockshelters, caves, and sinkholes. Isolated
+burials, cemeteries, rock art sites, and artifact caches reflect special-purpose sites. Some sites
+have also had small ephemeral structures associated with them.
+
+3.4	Historic Period (350 BP–Present)
+The Historic period (beginning ca. 350 BP) covers the time of initial contact between Europeans
+and Native Americans and the subsequent interactions of these populations following the
+establishment of European and later Anglo settlements. Collins (2004) has assigned early,
+middle, and late subperiods. Archaeological research and existing historic written accounts
+by Spanish, French, and Anglo writers provide the basis for virtually all of our knowledge of
+this period. Written records provide a much more detailed glimpse into the lifeways and social
+aspects of native populations than exist for previous periods. The Historic period subsumes
+initial Spanish and French exploration; military and religious expeditions into Central and
+South Texas; and the subsequent establishment of the Spanish mission system in the 1700s.
+During this period, Native American populations were subjected to a dramatic influx of
+innovative ideas, new technologies, and diseases. Subsistence patterns continued to emphasize
+mixed hunting and gathering, primarily of bison, deer, and antelope, with movement of native
+groups directed in response to game routes. Site types are similar to those documented for the
+Late Prehistoric and Protohistoric periods, but with the occasional use of European artifacts
+and materials as part of the technological system. Following the forced removal of the last
+mobile groups in the region, mainly the Comanche in Central Texas, Anglo-European and
+Hispanic settlers established farms and ranches and developed urbanized areas.
+
+3.4.1 Real County
+Throughout the historic period, long-term settlement in Real County has been concentrated
+in the Frio and Nueces Canyons. The first European settlement in Real County was the San
+Lorenzo de la Santa Cruz Mission, established in 1762 on the Nueces River near presentday Camp Wood. The mission was created by Spanish Franciscan friars with help from the
+Spanish military. The mission and nearby settlement of the same name served the purpose of
+AmaTerra Environmental, Inc.
+
+15
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+establishing a Spanish presence in the far northern reaches of their territory, an area threatened
+by the French. Two friars and 20 Spanish soldiers were stationed at the mission, which within
+a week had attracted 400 Lipan Apaches seeking protection from their Comanche enemies
+(Chipman 2018). Over the next few years the Spanish and Apaches constructed 14 adobe and
+limestone buildings, a bastion, and irrigation ditches in nearby fields (Texas Beyond History
+2018). By 1767, though, the Lipan bands had moved on and the Mission (which was never
+sanctioned by the Spanish Viceroy) was officially closed in 1771 (Chipman 2018).
+After the Spanish abandoned the mission there was little European or Euro-American presence
+in what would become Real County until 1856 when John and Nancy Leakey, along with a
+small group of other settlers, established a settlement in the Frio Canyon near the current town
+of Leakey. Around the same time the Rio Frio settlement was established about six miles to the
+south (Minton 2016). In 1857 the U.S. military set up the Camp Wood outpost on the Nueces
+River near the former site of Mission San Lorenzo de la Santa Cruz. Federal troops abandoned
+the post in 1861 with the outbreak of the Civil War, and Confederate troops occupied it for the
+duration of the war. After the war ended it was periodically used by Texas Rangers and the U.S.
+Army (Minton 2016). Despite this military presence, Indian attacks on settlers in the Frio and
+Nueces Canyons were common until 1881.
+Since the mid nineteenth century, ranching has dominated the local economy, though farming
+was also common until a boll weevil infestation in 1910 caused it to decline significantly.
+Until the early twentieth century, cotton, corn, oats, tobacco, and wheat were all grown in Frio
+Canyon. Lumber mills in Frio Canyon that processed local cypress trees were also important to
+the area’s economy in the late nineteenth century. By 1910, angora goat ranching had become
+particularly important as well (Minton 2016).
+Isolation and difficult travel to nearby county seats prompted the Texas Legislature to create
+Real County in 1913 from parts of Edwards, Bandera, and Kerr Counties. Leakey was selected
+as its county seat (Minton 2016). In 1920 the Uvalde and Northern Railway built north to
+Camp Wood to transport Cedar trees from this part of the county. The railroad created a link
+between Real County and national markets and encouraged immigration to the area. The
+county’s population increased from 1,461 in 1920 to 2,197 in 1930. Even after the railroad
+came, travel between the Frio and Nueces Canyons was long and difficult until Farm Road 337
+was completed in 1948. Therefore, despite living in the same county, residents tend to identify
+themselves based on their residence in either the Frio or Nueces Canyon (Minton 2016).
+Today, ranching continues to be an important part of the lifestyle and economy of Real County,
+although angora goat ranching has steadily declined since the 1950s. Over the last few decades
+tourism and hunting have become important to the local economy (Minton 2016). As of 2014
+the population of Real County was 3,371 (Minton 2016).
+
+3.5	Previous Cultural Resource Investigations
+The Texas Archaeological Sites Atlas (Atlas) was consulted to identify previous surveys and
+recorded cultural resources. Research focused on the identification of archaeological sites,
+16
+
+AmaTerra Environmental, Inc.
+
+Chapter 3
+
+Registered Texas Historic Landmarks (RTHLs), sites listed as SALs, sites listed on the
+National Register of Historic Places (NRHP), cemeteries, and archaeological surveys within
+one kilometer (0.62 mile) of the project area. According to the Atlas, four previous surveys
+fall within the one-kilometer (0.62-mile) buffer of the existing LCRA easement (Figure 3.2).
+Of the four surveys, one was completed thirty years ago, and had limited data available on the
+Atlas. The survey was undertaken in 1988 on behalf of the Environmental Protection Agency
+(EPA). Two additional surveys were undertaken consecutively by SWCA in 2009 on behalf
+of the Hill Country Telephone Corporation. The surveys were sponsored by the United States
+Department of Agriculture (USDA) and work was performed under Texas Antiquities Permit
+4952. Kevin Miller of SWCA served as the Principal Investigator for the project. A fourth
+survey was undertaken in 2011 by Geo-Marine, Inc. on behalf of the City of Leakey and the
+Nueces River Authority. The work was performed under Texas Antiquities Permit 5174 and
+Melissa Green of Geo-Marine served as the Principal Investigator (Atlas 2018).
+A total of six previously recorded archaeological sites (41RE64, 41RE65, 41RE71, 41RE72,
+41RE124 and 41RE154) are located within one kilometer of the project area. None of the sites
+are listed or recommended as eligible for listing as a NRHP or as a SAL. Only one of these
+sites, 41RE65, is located directly within the APE. Recorded in 1980 by Daniel E. Fox, little
+information about the site was available on the Atlas. However, it was determined ineligible
+for NRHP listing despite the large size of the site (on the Atlas, it is listed as 2000-meter[N-S]
+by 600-meter [E-W]; Atlas 2018). Six existing tower locations are located within the 41RE65
+boundary and were each shovel tested as part of the T-269 re-design survey. No cultural material
+was recorded within any of the twelve shovel tests dug at these locations and no artifacts were
+observed on the surface.
+Review of historic aerial photography and maps shows that historically the area has always been
+extremely rural. Due to the ruggedness of the terrain, little in the way of agriculture and urban
+development has occurred in the area surrounding the existing T-269 easement. Historically,
+Camp Wood, located approximately 0.25 mile north of the western terminus of the existing
+T-269 easement, was the site of Mission San Lorenzo de la Santa Cruz mentioned above. The
+remains of mission San Lorenzo have been excavated by Curtis D. Tunnell formerly of the
+Texas Memorial Museum and currently are the subject of ongoing excavations by the Texas
+Archaeological Society (TAS) and their summer field school under the direction of Dr. Tamra
+Walter of Texas Tech University.
+A 1927 United States Army Corps of Engineers (USACE) topographic map demonstrates the
+lack of development in the region as recent as the early part of the 20th century (Figure 3.3).
+The only built environment depicted in Figure 3.3 in proximity to the proposed T-269 re-design
+plan is what is presumed to be the “Friday” Ranch located within Bee Cave Hollow just east of
+where the transmission crosses the Dry Rio Frio. Subsequent maps and photographs analyzed
+from 1954 and after do not show any signs of the Friday Ranch (Figure 3.4 and Figure 3.5a–b).
+Figure 3.4 does, however, indicate a different ranch constructed towards the western terminus
+of the T-269 transmission line sometime between 1929 and 1954. A series of USGS topographic
+maps from 1971 to 1973 do not indicate the presence of either of the two historic ranches, and
+it is presumed the latter ranch on the 1954 USGS topographic map was abandoned at some
+AmaTerra Environmental, Inc.
+
+17
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Figure 3.2. Previously recorded sites and surveys around the
+project area plotted on a 2018 aerial map
+18
+
+AmaTerra Environmental, Inc.
+
+Figure 3.3. A 1927 USACE map showing conditions around the project area.
+
+Chapter 3
+
+AmaTerra Environmental, Inc.
+
+19
+
+Figure 3.4. Existing LCRA easement overlain on a 1954 USGS topographic map
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+20
+
+AmaTerra Environmental, Inc.
+
+Figure 3.5a. A 1954 aerial photograph of the project area and surrounding region.
+
+Chapter 3
+
+AmaTerra Environmental, Inc.
+
+21
+
+Figure 3.5b. A 1954 aerial photograph of the project area and surrounding region.
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+22
+
+AmaTerra Environmental, Inc.
+
+Chapter 3
+
+point between 1954 and 1973 (Figure 3.6a–c). The presence of the T-269 transmission line (the
+Camp Wood substation and at least portions of what is now known as the T-269 transmission
+line) on the historic maps and photographs indicate its construction is at least nearly fifty to
+seventy years old and thus likely never surveyed. Recent aerial photographs do not show a
+significant increase in development or housing construction in and around the project area,
+further demonstrating the rugged terrain T-269 traverses.
+
+AmaTerra Environmental, Inc.
+
+23
+
+Figure 3.6a. Existing LCRA easement overlain on a 1971 USGS quadrangle map.
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+24
+
+AmaTerra Environmental, Inc.
+
+Figure 3.6b. Existing LCRA easement overlain on a 1971 USGS quadrangle map.
+
+Chapter 3
+
+AmaTerra Environmental, Inc.
+
+25
+
+Figure 3.6c. Existing LCRA easement overlain on a 1971 USGS quadrangle map.
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+26
+
+AmaTerra Environmental, Inc.
+
+Chapter 4
+
+Chapter 4
+
+Methods
+Prior to field investigations, archaeologists conducted archival research to assess the potential
+for historic-period localities. This research involved examining historical maps and aerial
+photographs. In addition, archaeologists consulted the Atlas (2018) to assess previously
+recorded archaeological sites within or near the project area, as well as a review of literature
+on archaeological sites within the region (for example: Miller et al. 2008). This allowed
+investigators to identify previously recorded archaeological sites adjacent to or within the
+APE, and provided insight into site types, site settings, artifact assemblages, and average depth
+of cultural materials below the ground surface. Lastly, the APE was overlaid on aerial based
+gridded maps and loaded onto hand-held GPS units to aid in navigation.
+Field work was conducted from April 16–23, 2018. The archaeological survey conformed to
+survey standards set forth by the Council of Texas Archaeologists (CTA). The transmission line
+rebuild will replace all 150 existing support structures along the 17.3-mile long transmission
+line with new single pole supported structures within the existing 100-foot-wide existing
+easement. A total of 3.7 miles (21 structures) located at the eastern end of the project area was
+omitted from the survey. These areas were assessed pre-field as well as during the survey as
+having extreme slope and thus a minimal chance to contain cultural resources. Additionally,
+LCRA cultural resources staff stipulated each water crossing identified within the existing
+T-269 easement that might require modification was required to be surveyed. Also, in areas
+where heavy vehicular traffic is expected when construction of the rebuild is undertaken,
+AmaTerra sampled additional portions of the LCRA easement where archaeological site
+potential was highest such as canyon heads or lookout locations. These areas were assessed
+through intensive pedestrian archaeological survey and subjective shovel testing.
+In order to encapsulate each area (pole location, water crossing and high potential areas)
+adequately and assess the existing easement for cultural resources, a narrow buffer was placed
+around the existing LCRA easement effectively creating the APE. For the purpose of this
+survey, all work was confined to the APE surrounding the existing LCRA ROW or the offROW road easements primarily located along water crossings or areas of steep slope. The offROW easements were visually assessed through a combination of wind-shiled and pedestrian
+surveys. No cultural resources were observed aat any of the off-ROW easements and additional
+construction along the existing off-ROW easements is expected to be minimal, if at all.
+Of the 150 pole locations, 44 were in areas where the slope exceeded 20 percent. These
+locations were excluded as part of the survey. However, 22 of the omitted structure locations
+were field verified as easily accessible and were pedestrian-surveyed as part of this study. All
+told, AmaTerra visited and assessed a total of 129 pole locations (107 pedestrian-surveyed
+and shovel-tested and 22 pedestrian-surveyed only), in addition to 13 water crossings and
+three areas determined as having a high potential of cultural resource occurrence along the
+APE, totaling 145 locations spread over 13.6 linear miles. This equates to approximately 266.5
+AmaTerra Environmental, Inc.
+
+27
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+acres surveyed within the existing T-269 easement. Survey included visual inspection and
+shovel testing of each of the aforementioned areas identified within the APE. Additionally,
+archaeologists drove or walked the majority of the transmission line to visually inspect areas
+with limited potential for cultural resources.
+In general, each of the 129 previously identified pole locations was visually inspected and subject
+to two shovel tests. In some cases, fewer than two shovel tests were excavated if the location
+showed clear evidence of ground disturbance or where limestone bedrock was observed at the
+surface. Occasionally more than two shovel tests were excavated at or near a replacement pole
+location if the terrain looked particularly favorable for archaeological sites. At water crossings,
+the area was pedestrian-surveyed and/or shovel-tested if there was potential for buried cultural
+deposits. Shovel tests measured 30 cm in diameter and extend to a maximum depth of 60
+cm below surface (cmbs). The shovel tests were excavated in 10 cm increments and all soil
+was screened through ¼-inch hardware cloth. Shovel tests were backfilled upon completion.
+Relevant information for all shovel tests was be recorded on a standardized form and shovel
+test locations were marked with handheld GPS units.
+For the purposes of this survey, an archaeological site was defined as containing a certain
+number of cultural materials or features older than 50 years within a given area. The definition
+of a site was: (1) five or more surface artifacts within a 30-m radius, or (2) a single cultural
+feature, such as a hearth or burned rock midden, observed on the surface or exposed during
+shovel testing, or (3) a positive shovel test containing at least three total artifacts, or (4) two
+positive tests located within an individual structure’s footprint.
+In general, all archaeological sites identified within the APE were investigated by means of
+no fewer than six subsurface tests to define site boundaries within the APE. However, in areas
+where surficial bedrock was noted across the site, less than six shovel tests were excavated, and
+the site was delineated by surficial artifact distribution. Specific site information was recorded
+in the field through field notes, hand-drawn maps, digital photographs, and GPS points. This
+information was later recorded on standardized forms and presented to TARL for inclusion in
+their archives and assignment of new site trinomials. Any artifacts found either on the surface
+or in shovel tests were catalogued and photographed in the field and returned to their original
+locations. No artifacts were collected during the survey.
+
+28
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+Chapter 5
+
+Results
+The T-269 transmission line extends from an existing LCRA substation along River Road,
+just east of the Nueces River in Camp Wood, Texas east to the LCRA substation south of
+Leakey, Texas approximately 0.50 miles from the intersection of US 83 and Stanford Hollow
+Road. The T-269 transmission line traverses extremely rugged and rural terrain between the
+Nueces and Frio rivers, crossing the Dry Frio River as well as several other smaller first order
+streams and several mapped natural spring locations along southern Real County (Figures 5.1
+a–b). There is no evidence the T-269 transmission line had ever previously been assessed for
+cultural resources prior to the AmaTerra investigation as only a few archaeological sites had
+been recorded in the vicinity of the project area apart from Camp Wood located at the western
+terminus of the transmission line (Atlas 2018).
+A total of 13.6 miles (21.9-km) were surveyed as part of the survey (Figure 5.2a–b). A total
+of 3.7 miles (21 structures) located at the eastern end of the project area was omitted from the
+survey. These areas were assessed pre-field as well as during the survey as having extreme
+slope and thus a minimal chance to contain cultural resources. Of the 150 pole locations
+located within the APE, 44 are located in areas where the slope exceeds 20 percent. These
+locations were excluded as part of the survey. However, 22 of the omitted structure locations
+were field verified as easily accessible and were pedestrian-surveyed as part of this study. All
+told, AmaTerra visited and assessed a total of 129 pole locations (107 pedestrian-surveyed and
+shovel-tested and 22 pedestrian-surveyed only), in addition to 13 water crossings and three
+areas determined as having a high potential of cultural resource occurrence along the APE,
+totaling 145 locations spread over 13.6 linear miles. This equates to approximately 266.5 acres
+surveyed within the existing T-269 easement.
+A total of 268 shovel tests were excavated as part of the field efforts (Appendix A). A typical
+shovel test measured approximately 30 centimeters (cm) in diameter and extended no deeper
+than 60 cm below surface (cmbs). Shovel tests were typically shallow, extending between 20
+and 40 cmbs and comprised of a series of silty clay, silt loam and silty clay loams. Variability
+within shovel tests did exist and was depended largely on localized field conditions including
+areas of disturbance, water crossings, bedrock, etc. The shovel tests were excavated in 10-cm
+increments and all soil was screened through a ¼-inch hardware cloth. Relevant information
+for all shovel tests was recorded on a standardized form and will be curated at TARL along
+with all other documentation associated with the project after the final report is submitted to
+LCRA.
+Field efforts identified 12 previously undocumented archaeological sites and 13 IO’s. For the
+purposes of this survey, an archaeological site was defined as containing a specified number of
+cultural materials or features older than 50 years within a given area.
+
+AmaTerra Environmental, Inc.
+
+29
+
+Figure 5.1a. Water crossings along the existing T-269 easement.
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+30
+
+AmaTerra Environmental, Inc.
+
+Figure 5.1b. Water crossings along the existing T-269 easement.
+
+Chapter 5
+
+AmaTerra Environmental, Inc.
+
+31
+
+Figure 5.2a. Structure location, off-ROW easements, and level of effort along the APE.
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+32
+
+AmaTerra Environmental, Inc.
+
+Figure 5.2b. Structure location, off-ROW easements, and level of effort along the APE.
+
+Chapter 5
+
+AmaTerra Environmental, Inc.
+
+33
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+All artifacts were field catalogued and returned to their original locations as per LCRA
+requirement that no artifacts were to be collected during the survey. A discussion of each site
+is found below.
+
+5.1 	Site 41RE155 (The Phillips Site)
+Site 41RE155 is a prehistoric
+site situated on a flat alluvial
+terrace
+that
+overlooks
+Ranch Creek (Figure 5.3).
+The site encompasses 5.56
+acres and is defined by two
+burned rock features, one
+subsurface hearth, and a
+laterally extensive lithic
+scatter (Figure 5.4). The
+site was identified through
+extensive pedestrian survey
+and a series of shovel tests
+excavated within the APE.
+Ground surface visibility
+was excellent, averaging
+75–80 percent across the site.
+Figure 5.3. Overview of 41RE155, looking east
+Vegetation within the APE
+included live oak, ashe juniper
+and mesquite mixed with a multitude of grass and cactus species. According to the USDANRCS Web Soil Survey (2018), soils within the site are affiliated with three named soil groups
+that include the Mailtrail-Mereta complex with zero to five percent slopes, the Dev-Riverwash
+complex with zero to three percent slopes, and the Campwood-Knippa complex with zero to
+three percent slopes. Shovel tests placed throughout the site are typified by very dark grayish
+brown (10YR 3/2) silty loam overlaying a dark brown (10YR 3/3) silty clay loam or clay loam
+at depths ranging from 40–50 cmbs.
+Site 41RE155 was initially revealed to the archaeologists by the ranch manager, Mr. Ron
+Phillips, who noted that the site had been surface collected in the past. Pedestrian survey
+confirmed that temporal diagnostics (i.e. projectile points) were largely absent from the site.
+Fifteen shovel tests were placed within the site boundary, seven of which contained cultural
+material. Over 150 pieces of lithic debitage, fire-cracked rock, faunal material, and charcoal
+were recovered from depths that ranged from 0–40 cmbs in a silty loam.
+Additionally, a dense lithic scatter, including an untyped dart point, was observed on the site
+surface. Cultural material documented at 41RE155 consists of angular and flake debris, firecracked rock, biface fragments, cores, a hammerstone, unifacial and bifacial lithic tools, a dart
+point, faunal remains, and charcoal.
+
+34
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+Figure 5.4. Site map of 41RE155.
+
+AmaTerra Environmental, Inc.
+
+35
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Seven positive shovel tests
+located along both the east
+and west sides of the existing
+transmission
+structure
+contained cultural material
+and were delineated with
+shovel tests in both directions
+(see Figure 5.4; Appendix A).
+Positive tests occur alongside
+the north and south corridor
+boundaries as well, suggesting
+cultural deposits associated
+with 41RE155 extend outside
+of the APE.
+In addition to the extensive
+buried sub-subsurface deposits,
+shovel testing revealed the
+presence of three features
+within 41RE155 that included
+two burned rock middens and
+hearth feature. One of the two
+burned rock features contains
+both surface and sub-surface
+deposits. The hearth feature
+identified during shovel testing
+was buried approximately 25
+cmbs and extended to a depth
+of 45 cmbs (Figures 5.5–5.6).
+
+Figure 5.5. Example of Burned Rock
+Midden deposits at 41RE155.
+
+Additional excavation and
+research at this site may be
+able to address questions
+about
+lithic
+processing
+and procurement sources,
+Figure 5.6. Hearth Feature recorded
+campsite organization, and
+during shovel testing at 41RE155.
+regional
+hunter/gatherer
+mobility.
+Therefore,
+investigators conclude that 41RE155 has significant intact deposits that may make it eligible
+for listing as a SAL and recommend avoidance. However, subsurface artifact density was
+sparse in direct proximity (within two meters) of the structure footprint where pole removal
+and/or replacement will take place. Artifact density dropped dramatically east of the structure,
+suggesting disturbance from previous structure installation. Therefore, AmaTerra recommends
+construction to proceed within the structure footprint as long as access is restricted to the
+existing two-track access road and the eastern edge of the site boundary.
+36
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+5.2	Site 41RE156
+Site 41RE156 is a diffuse surficial lithic scatter situated on a terrace overlooking a shallow
+ephemeral drainage (Figure 5.7). The site was identified through pedestrian survey and six
+shovel tests placed along the APE. Ground surface visibility within the APE was excellent (75–
+100 percent). Site vegetation included live oak, ashe juniper, persimmon and a several different
+grass species (Figure 5.8). The site measures 0.32 acres and was defined by surficial artifacts
+dispersed across the site. According to the USDA-NRCS Web Soil Survey (2018), soils within
+the site area consist entirely of Pratley clay with zero to three percent slopes. Shovel tests
+placed within the site area encountered very dark grayish brown (10YR 3/2) gravelly sandy
+loam overlying a grayish brown (10YR 5/2) gravelly clay or bedrock at depths ranging from
+5–35 centimeters below surface (cmbs).
+Six shovel tests were placed in the site boundary as a means to probe for subsurface deposits.
+None of the shovel tests contained cultural material. Eleven pieces of lithic debitage, a core,
+and two bifaces were recorded on the surface of Site 41RE156. One of the bifaces had three
+notches and as a result was typed as a potential Montell projectile point (Figure 5.9). Lithic
+raw materials included gray and grayish brown Edwards chert.
+Site 41RE156 is a small, surficial lithic scatter located on deflated and eroded terrain. The
+portion of the site located within the existing easement has little to no additional research
+potential beyond the locational data gathered during survey. Therefor, additional work within
+the site boundary is suggested at this time and 41RE156 is not recommended eligible for listing
+as a SAL.
+
+5.3	Site 41RE157
+Site 41RE157 is a prehistoric lithic resource procurement site situated on an upland erosional
+hilltop (Figure 5.10). The site consists of a knapping station (Feature 1) and an extensive
+scatter of lithic debitage including cores, bifaces, tested cobbles and expedient flaked tools
+(Figure 5.11). The site was identified through extensive pedestrian survey and the excavation
+of six shovel tests placed within the APE. Ground surface visibility was excellent (90–100
+percent) and laterally extensive bedrock excposures were observed across much of the site.
+Vegetation within the site boundary includes ashe juniper, mountain laurel and salt bush.
+The site measures approximately 2.6 acres and is defined primarily through an abundance of
+surficial artifacts and natural occurring chert on-site (Figure 5.12). According to the USDANRCS Web Soil Survey (2018), soils within the site area consist entirely of Eckrant-Rock
+outcrop complex with one to twenty percent slopes. Shovel tests placed within the site area
+encountered gravelly organic soils overlying bedrock approximately 5 cmbs.
+A knapping station was the only feature documented at the site and consisted of an in-situ
+hammerstone and core along with several discarded crude biface fragments and a scatter of
+chipping debris located within a small, two-meter circular radius (Figure 5.13). The lithic
+assemblage is comprised entirely of cherts documented on site with the exception of the
+hammerstone.
+
+AmaTerra Environmental, Inc.
+
+37
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Figure 5.7. Site map of 41RE156..
+
+38
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+Figure 5.8. Site overview of 41RE156, facing east.
+
+Figure 5.9. Possible Montell projectile point and biface recorded within 41RE156.
+
+AmaTerra Environmental, Inc.
+
+39
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Figure 5.10. Site map of 41RE157.
+
+40
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+Site 41RE157 is a lithic procurement site with an associated lithic scatter. No observed subsurface component was identified. The site appears to be largely intact apart from the tower
+location and a two-track access road as well as past surface collection defined by the presence
+of several piles of non-diagnostic lithic artifacts. The lack of sub-surface deposits limits further
+research at the site, but questions about lithic processing and procurement sources may still
+be able to be addressed. However, it is recommended that planned construction may proceed
+as much of the site, including the knapping feature, is located well outside the footprint of the
+lone structure within the site boundary. Therefore, the portions of 41RE157 within the current
+LCRA easement have limited research potential beyond locational data collected as part of the
+survey and is recommended ineligible for listing as a SAL.
+
+Figure 5.11. Site overview
+of 41RE157, facing east.
+
+Figure 5.12. Representative
+photo of naturally occurring
+chert on 41RE157.
+
+AmaTerra Environmental, Inc.
+
+41
+
+42
+
+F L AK E S
+
+DISCAR DED
+BI FACE S
+
+H AM M ER STO NE
+
+WO R K ED CH ER T
+N O DU LE
+CO R E
+F R AG MEN T S
+
+Figure 5.13. Illustration of the knapping location recorded at 41RE157.
+
+L AR G E C O R E
+R ED U C T I O N
+F L AK E S
+
+L i th i c Mate ria l
+L o c ati o n
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+5.4	Site 41RE158
+Site 41RE158 is a diffuse prehistoric lithic scatter situated along a two-track road on a short
+terrace overlooking an ephemeral drainage (Figure 5.14). The site was assessed through
+extensive pedestrian survey and seven shovel tests placed along the APE where ground surface
+visibility was moderate (25–50 percent). Vegetation within the site boundary includes live
+oak, ashe juniper, persimmon and grasses (Figure 5.15). The site measures approximately
+1.08 acres and was defined primarily through surficial artifact distribution. According to the
+USDA-NRCS Web Soil Survey (2018), soils within the site area consist entirely of Pratley clay
+with zero to three percent slopes. Shovel tests placed within the site area encountered very dark
+grayish brown (10YR 3/2) sandy clay overlying a dark yellowish brown (10YR 4/4) clay loam
+or degraded bedrock at depths ranging from 10–40 cmbs.
+Seven shovel tests were placed within the site area, none of which contained cultural material.
+Sixteen pieces of lithic debitage and a biface were recorded on the surface of 41RE158. Lithic
+raw materials included blue-speckled white chert and gray and grayish brown Edwards chert.
+Site 41RE158 is a small, diffuse lithic scatter with no subsurface component and is situated
+on deflated and eroded terrain. Based on the above data, the site has little to no additional
+research potential beyond locational data gathered during survey. No additional work at the
+site is suggested at this time and 41RE158 is not recommended eligible for listing as a SAL.
+
+5.5	Site 41RE159
+Site 41RE159 is a lithic scatter situated in a fallow agricultural field that resides on an erosional
+terrace overlooking the Dry Frio River (Figure 5.16). The site was located through extensive
+pedestrian survey and a series of shovel tests placed along the APE next to the drainage where
+ground surface visibility was moderate (25–50 percent). Surrounding vegetation consisted of
+a series of hardwoods that accompanied the nearby drainage comprised of several oak species,
+cottonwood and maple as well as other smaller vegetation that includes ashe juniper, prickly
+pear, mesquite, and various grasses (Figure 5.17). The site measures approximately 4.53 acres
+and was defined primarily by a series of ten positive shovel tests as well as sparse surficial
+artifact distribution. According to the USDA-NRCS Web Soil Survey (2018), soils within the
+site area consist of the Campwood-Knippa complex with zero to three percent slopes and
+Pratley clay with zero to three percent slopes. Shovel tests placed within the site area revealed
+very dark brown (10YR 3/3) silty clay loam overlying a very dark gray (10YR 3/1) clay or silty
+clay between 20–40 cmbs, overlying bedrock at 40–60 cmbs.
+The 200 x 90-m lithic scatter was identified during pedestrian survey, and subsequent shovel
+testing. Ten shovel tests contained cultural material, typically between 10 and 40 cmbs (see
+Appendix A). Twenty lithic flakes were recovered within the shovel tests, and several other
+flakes as well as an Uvalde projectile point (Early Archaic) were documented on the surface of
+41RE159 (Figure 5.18).
+
+AmaTerra Environmental, Inc.
+
+43
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Figure 5.14. Site map of 41RE158.
+
+44
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+The site has been impacted by recent land clearance and agricultural plowing. Hence, the
+shallowly buried cultural deposits is most likely reflective of previous agricultural practices at
+the site. A total of twenty-four shovel tests were excavated within the site boundary. Of those,
+ten tests were positive with twenty pieces of lithic debitage. Overall, artifacts were sparse and
+spread out over a wide area.
+Taking this paucity of artifacts, as well as lack of features or other organic dateable material, and
+the artificial displacement of artifacts into account, 41RE159 has limited additional research
+potential beyond the locational data that has been collected during survey and the portion of
+the site located within the existing easement is recommended as ineligible as a SAL. Planned
+construction should be permitted with no additional work within the existing LCRA easement.
+
+Figure 5.15. Site overview of 41RE158, facing north.
+
+AmaTerra Environmental, Inc.
+
+45
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Figure 5.16. Site map of 41RE159.
+
+46
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+Figure 5.17. Site overview of 41RE159, facing east.
+
+Figure 5.18. Uvalde projectile point recorded within 41RE159.
+
+5.6	Site 41RE160
+Site 41RE160 is a diffuse lithic scatter situated on an erosional terrace on the west side of
+an ephemeral drainage (Figure 5.19). The site was identified through pedestrian survey and
+six shovel tests placed within the APE. Ground surface visibility within the site boundary
+was moderate (25–50 percent). Site vegetation within the site included live oak, ashe juniper,
+persimmon and several grass species (Figure 5.20). The site measures approximately 1.04
+acres and was defined by surficial artifact dispersed across the site.
+AmaTerra Environmental, Inc.
+
+47
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Figure 5.19. Site map of 41RE160.
+
+48
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+Figure 5.20. Site overview of 41RE160, facing north.
+
+According to the
+USDA-NRCS
+Web
+Soil Survey (2018),
+soils within the site
+area consist of the
+Campwood-Knippa
+complex with zero to
+three percent slopes
+and the Real-Oplin
+complex with one
+to twenty percent
+slopes. Shovel tests
+placed within the
+site revealed very
+dark grayish brown
+(10YR 3/2) gravelly
+clay loam overlying
+degraded bedrock at
+depths ranging from
+15–30 cmbs.
+
+Six shovel tests were placed within the site boundary as a means to probe for subsurface
+deposits. None of the shovel tests contained cultural material. Twenty-four pieces of lithic
+debitage and a core tool were recorded on the surface of Site 41RE160. Lithic raw materials
+included brown specked and grayish brown Edwards chert.
+Site 41RE160 is a diffuse, surficial lithic scatter with no subsurface component. Slope
+movement and road clearing have led to a lapse in contextual of integrity of the site within
+the existing LCRA easement. Therefore, portions of the site within the existing easement have
+little to no additional research potential beyond the locational data gathered during the survey.
+No additional work within 41RE160 is recommended at this time and it is not recommended
+eligible for listing as a SAL.
+
+5.7	Site 41RE161
+Site 41RE161 is a small, diffuse surficial lithic scatter situated on an eroded slope with laterally
+extensive bedrock exposures (Figure 5.21). The site was identified through pedestrian survey
+along the APE where ground surface visibility was excellent (90–100 percent). Site vegetation
+included live oak, ashe juniper, persimmon and several grass species (Figure 5.22). The site
+measures approximately 0.20 acres and was defined by surficial artifact dispersed across the
+site. According to the USDA-NRCS Web Soil Survey (2018), soils within the site area consist
+entirely of the Kerrville-Real complex, with one to eight percent slopes.
+
+AmaTerra Environmental, Inc.
+
+49
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Figure 5.21. Site map of 41RE161.
+
+50
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+Site 41RE161 resides
+on
+deflated
+and
+eroded terrain and was
+delineated
+entirely
+through
+surficial
+artifact distribution.
+Thirty
+pieces
+of
+lithic debitage, four
+bifaces and a heavily
+fractured,
+un-typed
+archaic dart point
+were recorded on the
+surface of 41RE161.
+Lithic raw materials
+included blueish gray
+and grayish brown
+Edwards chert.
+Figure 5.22. Site overview of 41RE161, facing east.
+
+Site 41RE161 is a
+small, diffuse lithic
+scatter with no subsurface component residing on a deflated and eroding landform. Based on
+the above data, the site has little to no additional research potential beyond locational data
+gathered during survey. No additional work at the site is suggested at this time and 41RE161 is
+not recommended eligible for listing as a SAL.
+
+5.8	Site 41RE162
+Site 41RE162 is a surficial lithic scatter residing on an eroding terrace (Figure 5.23). The
+site was identified through pedestrian survey and eight shovel tests located within the APE.
+The site is loosely attributed to the Late Archaic period based on the presence of a possible
+Castroville point. Ground surface visibility within the site boundary was moderate to good
+(50–75 percent). Site vegetation included Live Oak, ashe juniper, persimmon and several
+grass species (Figure 5.24). The site measures 1.07 acres and was defined by surficial artifacts
+dispersed across the site. According to the USDA-NRCS Web Soil Survey (2018), soils within
+the site area consist of the Real-Oplin complex with one to twenty percent slopes. Shovel
+tests placed within the site revealed grayish brown (10YR 5/2) gravelly clay loam overlying
+bedrock encountered between 10 and 30 cmbs.
+Eight shovel tests were placed within the site boundary as a means to probe for subsurface
+deposits. None of the shovel tests contained cultural material. Two dart point fragments (one
+cf. Castroville or Marcos), two biface fragments, a quartz crystal, one core, several expedient
+flake tools, and an estimated 800+ pieces of debitage were recorded on the surface of 41RE162
+(Figure 5.25). The lithic assemblage is comprised of brown, grayish brown, and blue-gray
+Edwards cherts.
+AmaTerra Environmental, Inc.
+
+51
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Figure 5.23. Site map of 41RE162.
+
+52
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+Site 41RE162 is a surficial
+lithic
+scatter
+containing
+two fragmented dart points
+attributed to the Late Archaic
+Period with no subsurface
+cultural deposits. Portions
+of the site have been
+mechanically disturbed and
+redistributed next to the twotrack road located along the
+southern and eastern edge of
+the boundary of 41RE162.
+Taking this information into
+account, the portions of the site
+within the existing easement
+have little to no additional
+research potential beyond
+the locational data gathered
+during the survey as erosional
+and man-made disturbances
+have displaced the majority
+of the artifact assemblage.
+No additional work within
+41RE162 is recommended
+at this time and the portions
+of the site located within the
+existing easement were not
+recommended eligible for
+listing as a SAL.
+
+Figure 5.24. Site overview of 41RE162, facing east.
+
+5.9	Site 41RE163
+Site 41RE163 is a small,
+Figure 5.25. Uvalde projectile point recorded within 41RE162.
+diffuse lithic scatter residing
+on an eroded slope with
+laterally extensive bedrock exposures (Figure 5.26). The site was identified through extensive
+pedestrian survey and two shovel tests located along the APE. Ground surface visibility within
+the site boundary was excellent (75–100 percent). Site vegetation included live oak, Huisache,
+juniper, and mountain laurel (Figure 5.27). The site measures 0.52 acres and was defined
+primarily by surficial artifacts dispersed across the site. According to the USDA-NRCS Web
+Soil Survey (2018), soils within the site area consist of the Kerrville-Real complex with one
+to eight percent slopes and the Eckrant-Rock outcrop complex with fifteen to sixty percent
+slopes. Shovel tests placed within the site revealed grayish brown (10YR 5/2) gravelly silty
+loam overlying bedrock at depths of five cmbs.
+AmaTerra Environmental, Inc.
+
+53
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Figure 5.26. Site map of 41RE163.
+
+54
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+Two shovel tests were placed
+within the site boundary as a
+means to probe for subsurface
+deposits. Neither shovel test
+contained cultural material.
+Thirty-five pieces of debitage,
+a core, a unifacial scraper,
+and two biface fragments
+were recorded on the surface
+of 41RE163. The lithic
+assemblage is comprised
+of brown, gray, and grayish
+brown Edwards chert.
+Site 41RE163 is a small,
+diffuse lithic scatter located
+Figure 5.27. Site overview of 41RE163, facing west.
+on a deflated and eroding
+landform with no subsurface
+deposits. The artifacts noted within the site boundary are out of context, presumably eroding
+from a site up slope. The portions of site within the existing easement have little to no additional
+research potential beyond the locational data gathered during the survey. No additional work
+within 41RE163 is recommended at this time and it is not recommended eligible for listing as
+a SAL.
+
+5.10	Site 41RE164
+Site 41RE164 is a diffuse lithic scatter residing on an eroded and deflated surface with laterally
+extensive bedrock exposures (Figure 5.28). The site was identified through extensive pedestrian
+survey and three shovel tests located along the APE. Ground surface visibility within the site
+boundary was excellent (75–100 percent). Site vegetation included ashe juniper, and mountain
+laurel (Figure 5.29). The site measures 0.20 acres and was defined primarily by surficial
+artifacts dispersed across the site. According to the USDA-NRCS Web Soil Survey (2018),
+soils within the site area consist of the Real-Oplin complex with one to twenty percent slopes
+Shovel tests placed within the site revealed grayish brown (10YR 5/2) gravelly sandy loam
+overlying degraded bedrock at depths ranging from 3–15 cmbs.
+Three shovel tests were placed within the boundary as a means to probe for subsurface
+deposits. None of the shovel tests contained cultural material. Twenty pieces of lithic debitage
+were recorded on the surface of 41RE164. The artifact assemblage consists of locally sourced
+Edwards chert.
+Site 41RE164 is a small, diffuse lithic scatter located on a deflated and eroding landform
+with no subsurface cultural deposits. The portions of site within the existing easement have
+little to no additional research potential beyond the locational data gathered during the survey.
+No additional work within 41RE164 is recommended at this time and it is not recommended
+eligible for listing as a SAL.
+AmaTerra Environmental, Inc.
+
+55
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Figure 5.28. Site map of 41RE164.
+
+56
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+Figure 5.29. Site overview
+of 41RE164, facing east.
+
+5.11	Site 41RE165
+Site 41RE165 is a small, diffuse lithic and burned rock scatter residing on an eroding terrace
+on the west side of a deep ephemeral drainage (Figure 5.30). The site was identified through
+pedestrian survey and four shovel tests excavated within the APE. Ground surface visibility
+within the site boundary was excellent (75–100 percent). Site vegetation included live oak,
+agarita, mountain laurel, prickly pear cactus, and scattered grasses (Figure 5.31). The site
+measures 1.75 acres and was defined primarily by surficial artifacts dispersed across the site.
+According to the USDA-NRCS Web Soil Survey (2018), soils within the site consist of the
+Real-Oplin complex with one to twenty percent slopes. Shovel tests revealed grayish brown
+(10YR 5/2) gravelly clay loam overlying bedrock encountered between two and five cmbs.
+Four shovel tests were placed within the site boundary as a means to probe for subsurface
+deposits. None of the shovel tests contained cultural material. One biface fragment and 15
+pieces of debitage were recorded on the surface of Site 41RE165. The artifact assemblage
+consists of locally sourced Edwards chert.
+Site 41RE165 is a diffuse, surficial lithic and burned rock scatter with no subsurface component.
+The portions of the site within the existing easement have little to no additional research
+potential beyond the locational data gathered during the survey. No additional work within
+41RE165 is recommended at this time and it is not recommended eligible for listing as a SAL.
+
+5.12	Site 41RE166
+Site 41RE166 is a prehistoric lithic procurement site situated on an erosional hilltop with laterally
+extensive bedrock exposures and naturally occurring chert and chalcedony (Figure 5.32). The
+site was identified through extensive pedestrian survey and the excavation of four shovel tests
+excavated placed within the APE. Ground surface visibility was excellent (75–100 percent).
+
+AmaTerra Environmental, Inc.
+
+57
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Figure 5.30. Site map of 41RE165.
+
+58
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+Figure 5.31. Site overview of 41RE165, facing east.
+
+Vegetation within the site boundary includes ashe juniper, mountain laurel, barrel cactus and
+prickly pear cactus (Figure 5.33). The site measures approximately 4.8 acres and is defined
+primarily through surficial artifacts and naturally occurring chert on-site According to the
+USDA-NRCS Web Soil Survey (2018), soils within the site area consists of Eckrant-Rock
+outcrop complex with zero to twenty percent slopes as well as fifteen to sixty percent slopes
+Shovel tests revealed brown (10YR 5/3) gravelly sandy loam overlying degraded bedrock at
+depths ranging from 2–5 cmbs.
+None of the shovel tests produced cultural material although an estimated thirty cores and 50
+pieces of lithic debitage were recorded on the surface of 41RE166. Lithic raw materials were
+primarily brown Edwards chert and chalcedony.
+Site 41RE166 is a diffuse procurement site with an associated lithic scatter No observed
+subsurface component was identified. The portions of the site within the existing easement have
+little to no additional research potential beyond the locational data gathered during the survey.
+No additional work within 41RE166 is recommended at this time and it is not recommended
+eligible for listing as a SAL.
+
+5.13 Isolated Occurrences
+Archaeologists documented 13 Isolated Occurrences (IO’s) during the archaeological survey.
+All the IO’s were prehistoric and were recorded on the surface. They are summarized in detail
+within the Table 5.1.
+AmaTerra Environmental, Inc.
+
+59
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Figure 5.32. Site map of 41RE166.
+
+60
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+Figure 5.33. Site overview of 41RE166, facing east.
+
+Table 5.1. Isolated Occurrences recorded within the APE.
+Isolated Occurrence No.
+
+Northing
+
+Easting
+
+Artifacts
+
+1
+
+401972
+
+3281373
+
+1 biface, 1 chert flake
+
+2
+
+402972
+
+3281373
+
+Chert biface
+
+3
+
+407136
+
+3281781
+
+Chert biface
+
+4
+
+408181
+
+3281685
+
+3 chert flakes
+
+5
+
+409039
+
+3282308
+
+Flaked tool
+
+6
+
+409116
+
+3282364
+
+Chert biface fragment
+
+7
+
+410103
+
+3282616
+
+2 chert flakes
+
+8
+
+410226
+
+3232603
+
+Small rock anomaly
+
+9
+
+410491
+
+3282683
+
+A single flake in a positive
+shovel test (HB 39)
+
+10
+
+411274
+
+3282781
+
+Single chert flake
+
+11
+
+416573
+
+3283253
+
+2 chert flakes
+
+12
+
+424072
+
+3284200
+
+Bifacial tool
+
+13
+
+426188
+
+3284298
+
+2 chert flakes
+
+AmaTerra Environmental, Inc.
+
+61
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+62
+
+AmaTerra Environmental, Inc.
+
+Chapter 6
+
+Chapter 6
+
+Summary and Management
+Recommendations
+AmaTerra surveyed and tested 145 locations within the APE totaling 13.6 miles as part of the
+T-269 Camp Wood to Leakey Transmission Line Upgrade Project in Real County, Texas. This
+equates to approximately 266.5 acres surveyed within the existing T-269 easement. The survey
+included 129 previously identified existing support structures (107 pedestrian-surveyed and
+shovel-tested and 22 pedstrian-surveyed only), 13 water crossings, and three high probability
+areas such as canyon heads or ridgetops identified by LCRA and AmaTerra cultural resource
+personnel. A total of 3.7 miles (21 structures) located at the western end of the project area
+was omitted from the survey. These areas were assessed pre-field as well as during the survey
+as having extreme slope and thus a minimal chance to contain cultural resources. With the
+exception of two parcels, access was available to the entire proposed project area as AmaTerra
+personnel did not encounter any conditions that inhibited the survey. AmaTerra conducted the
+archaeological survey under Texas Antiquities Permit No. 8396 and work conformed to the
+guidelines for implementation of these regulations under 13 TAC Chapter 26.
+During the survey, archaeologists excavated 268 shovel tests including 186 as a discovery
+tactic on survey and an additional 82 to delineate sites and IO’s. Within the APE, archaeologists
+recorded twelve previously unrecorded sites and thirteen IO’s.
+All 12 sites and all 13 IO’s are associated with the prehistoric period. Site 41RE155 represents
+a seasonal encampment site with two burned rock features observed on the surface and one
+hearth feature recorded within a shovel test. Sites 41RE157 and 41RE166 represent two lithic
+procurement sites. The nine remaining prehistoric sites (41RE156; 41RE158–165) are lithic
+scatters and/or small intermittent campsites consisting of low density surface scatters of lithic
+debitage and burned rock with occasional bifaces and lithic tools. Temporally diagnostic items
+observed included a Montell-like projectile point, Uvalde projectile point, and a possible
+Castroville projectile point.
+All sites were evaluated using criteria outlined under 13 TAC 26. Eleven of the 12 sites
+(41RE156–41RE166) have little to no research potential beyond locational data collected
+during the survey within the existing LCRA easement. With the exception of 41RE159, each
+of these sites have extremely shallow soils with negligible potential to contain intact buried
+deposits. Buried deposits were present at 41RE159; however, 24 shovel tests produced only
+20 pieces of lithic debitage within a secondary context. Although cultural material was present
+in a subsurface context, it was a result of long-term agricultural activity along an erosional
+terrace. The portions of these sites that are contained within the existing LCRA easement
+were evaluated as ineligible for listing as SAL’s and no additional work is recommended.
+Site 41RE155 is the lone exception and was documented as a seasonal encampment site with
+dateable features as well as intact subsurface deposits.
+
+AmaTerra Environmental, Inc.
+
+63
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Investigators concluded the portions of 41RE155 within the existing easement have significant
+intact deposits that may make it eligible for listing as a SAL, and, therefore, should be avoided.
+However, subsurface artifact density was sparse in direct proximity (within two meters) of
+the structure footprint where pole removal and/or replacement will take place. Therefore,
+AmaTerra recommends construction to proceed within the structure footprint as long as access
+is restricted to the existing two-track access road and the eastern edge of the site boundary.
+Archaeologists collected no artifacts during this survey. All field forms and site records will be
+curated at TARL.
+
+64
+
+AmaTerra Environmental, Inc.
+
+References
+
+References
+Amos, B. B., and C. M. Rowell
+1988
+
+Floristic Geography of Woody and Endemic Plants. In Edwards Plateau Vegetation: Plant
+Ecological Studies in Central Texas, Amos, B. B. and F. R. Gehlbach (eds.). Baylor University
+Press, Waco, Texas.
+
+Bezanson, D.
+2000
+
+Natural Vegetation Types of Texas and their Representation in Conservation Areas. University
+of Texas, Master’s Thesis, Austin, Texas.
+
+Black, S. L.
+1989a Central Texas Plateau Prairie. In From the Gulf Coast to the Rio Grande: Human Adaptations in
+Central, South and Lower Pecos Texas, by T. R. Hester, S. L. Black, D. G. Steele, B. W. Olive,
+A. A. Fox, K. J. Reinhard and L. C. Bement, pp. 17–38. Research Series No. 33. Arkansas
+Archaeological Survey, Fayetteville.
+1989b Environmental Setting. In From the Gulf Coast to the Rio Grande: Human Adaptations in
+Central, South and Lower Pecos Texas, by T. R. Hester, Steve L. Black, D. G. Steele, B. W.
+Olive, Anne A. Fox, K. J. Reinhard and L. C. Bement, pp. 17–38. Research Series No. 33.
+Arkansas Archaeological Survey, Fayetteville.
+Blair, W. F.
+1950
+
+The Biotic Provinces of Texas. Texas Journal of Science 2(1):93-117.
+
+Bousman, C. B.
+1998
+
+Paleoenvironmental Change in Central Texas: The Palynological Evidence. Plains
+Anthropologist 43 (164):201–219.
+
+Bureau of Economic Geology (BEG)
+1986
+
+Geologic Atlas of Texas, Llano Sheet. Reprint. The University of Texas at Austin.
+
+Chipman, D. E.
+2018
+
+“San Lorenzo De La Santa Cruz Mission” in The Handbook of Texas Online. Online at http://
+www.tshaonline.org/handbook/online/articles/uqs26. Accessed May 2018.
+
+Collins, M. B.
+1995
+
+Forty Years of Archaeology in Central Texas. Bulletin of the Texas Archaeological Society
+66:361–400.
+
+AmaTerra Environmental, Inc.
+
+65
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+2004
+
+Archaeology in Central Texas. In The Prehistoric of Texas, edited by Timothy K. Perttula, pp.
+35–40. Texas A&M University Press.
+
+Griffith, G., S. Bruce, J. Omernik, and A. Rogers
+2007
+
+Ecoregions of Texas. Project report to the Texas Commission on Environmental Quality.
+
+Hester, T. R.
+2004
+
+The Prehistory of South Texas. In The Prehistory of Texas, edited by Timothy K. Perttula, pp.
+127–151.Texas A&M University Press, College Station.
+
+Jennings, T., and M. Waters
+2014
+
+Pre-Clovis Lithic Technology at the Debra L. Friedkin Site, Texas: Comparisons to Clovis
+Through Site-Level Behavior, Technological Trait-List, and Cladistic Analyses. American
+Antiquity 79(1): 25–44.
+
+Johnson, L.
+1994
+
+The Life and Times of Toyah-Culture Folk: The Buckhollow Encampment, Site 41KM16, Kimble
+County, Texas. Office of the State Archaeologist Report 38. Texas Department of Transportation
+and Texas Historical Commission, Austin.
+
+Johnson, L., and G. T. Goode
+1994
+
+A New Try at Dating and Characterizing Holocene Climates, as Well as Archaeological Periods,
+on the Edwards Plateau. Bulletin of the Texas Archaeological Society 65:1–51.
+
+Mauldin, R. P., and D. L. Nickels
+2001
+
+An Archaeological Survey of Twin Buttes Reservoir, Tom Green County, Texas. Archaeological
+Survey Report No. 300. Center for Archaeological Research, The University of Texas at San
+Antonio.
+
+McGraw. A. J., K. Hindes
+1987
+
+Chipped Stone and Adobe: A Survey of Cultural Resources Within Portions of the Proposed
+Applewhite Reservoir, Southwestern Bexar County, Texas. Archaeological Survey Report, No.
+105. The Center or Archaeological Research, The University of Texas at San Antonio.
+
+Miller, M. D., J. A. Campbell, M. C. Stotts, and B. M. Jones
+2008
+
+An Archaeological Inventory of Garner State Park in Uvlade County, Texas. Archaeology
+Series No. 205. Hicks & Company, Austin, Texas.
+
+Meltzer, D. J.
+1999
+
+66
+
+Human Responses to Middle Holocene (Altithermal) Climates on the North American Great
+Plains. Quaternary Research 52:404–416.
+
+AmaTerra Environmental, Inc.
+
+References
+
+Minton, J.
+2016
+
+Real County. Handbook of Texas Online. Electronic Document, https://tshaonline.org/
+handbook/online/articles/hcr04, accessed May 1, 2018.
+
+Neck, R.W.
+1986
+
+The Balcones Fault Zone as a Major Zoogeographic Feature. In The Balcones Escarpment,
+Central Texas, edited by P. L. Abbot and C. M. Woodruff, Geological Society of America. pp.
+35–40.
+
+Peel, M. C., B. L. Finlayson, and T. A. McMahon
+2007
+
+Updated World Map of the Koppen-Geiger Climate Classification. Hydrology and Earth System
+Sciences 11:1633–1644.
+
+Perttula, T. K.
+2004
+
+An Introduction to Texas Prehistoric Archaeology. In The Prehistory of Texas, edited by
+Timothy K. Perttula, pp. 5–13. Texas A&M Press, College Station.
+
+Prewitt, E. R.
+1981
+
+Cultural Chronology in Central Texas. Bulletin of the Texas Archaeological Society 52:65–89.
+
+Ricklis, R. A.
+2004
+
+The Archaeology of the Native American Occupation of Southeast Texas. In The Prehistory
+of Texas, edited by Timothy K. Perttula, pp.181–202. Texas A&M University Press, College
+Station
+
+Riskind, D. H., and D. D. Diamond
+1988
+
+An introduction to environments and vegetation. In Edwards Plateau Vegetation: Plant
+Ecological Studies in Central Texas, Amos, B. B. and F. R. Gehlbach, eds. Baylor University
+Press, Waco, Texas.
+
+Spearing, S.
+1991
+
+Roadside Geology of Texas. Mountain Press Publishing Company. Missoula, Montana.
+
+Story, D. A.
+1985
+
+Adaptive Strategies of Archaic Cultures of the West Gulf Coastal Plain. In Prehistoric Food
+Production in North America, edited by R. I. Ford, pp. 19–56. Anthropological Papers No. 75.
+Museum of Anthropology, University of Michigan, Ann Arbor.
+
+1990
+
+Culture History of the Native Americans. In The Archaeology and Bioarchaeology of the Gulf
+Coastal Plain, by D. A. Story, J. A. Guy, B. A. Burnett, J. C. Rose, M. D. Freeman, D. G.
+Steele, B. W. Olive, and K. L. Reinhard, pp. 163-366. Research Series No. 38. 2 Vols. Arkansas
+Archaeological Survey, Fayetteville.
+
+AmaTerra Environmental, Inc.
+
+67
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Texas Beyond History
+2018
+
+Mission San Lorenzo de la Santa Cruz. Electronic Document, https://www.texasbeyondhistory.
+net/plateaus/images/he2.html, accessed May 1, 2018.
+
+Texas Historical Commission (Atlas)
+2018
+
+Texas Archaeological Sites Atlas online. Online at http://nueces.thc.state.tx.us/. Accessed May
+2018.
+
+Thoms, A., and R. Mandel (editors)
+2007
+
+Archaeological and Paleoecological Investigations at the Richard Beene Site, South-Central
+Texas: Volume I: Paleoecological Studies, Cultural Contexts, and Excavation Strategies.
+Reports of Investigations No. 8. Center for Ecological Archaeology, Texas A&M University,
+College Station.
+
+Toomey, R. S., III, M. D. Blum, and S. Valastro, Jr.
+1993
+
+Late Quaternary Climates and Environments of the Edwards Plateau, Texas. Global and
+Planetary Change 7: 299–320.
+
+United States Department of Agriculture, Natural Resources Conservation Service (USDA-NRCS)
+2018
+
+Web Soil Survey online. United States Department of Agriculture. Online at http://websoilsurvey.
+nrcs.usda.gov/app/HomePage.htm. Accessed May 2018.
+
+Waters, R. M., S. L. Forman, T. A. Jennings, L. C. Nordt, S. G. Driese, J. M. Feinberg, J. L Keene, J.
+Halligan, A. Lindquist, J. Pierson, C. T. Hallmark, M. B. Collins, and J. E. Wiederhold
+2011
+
+68
+
+The Buttermilk Creek Complex and the Origins of Clovis at the Debra L. Friedkin Site, Texas.
+Science, 331:1599–1603.
+
+AmaTerra Environmental, Inc.
+
+Appendix A
+
+Appendix A
+
+Shovel Test Log
+
+AmaTerra Environmental, Inc.
+
+A-1
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+A-2
+
+AmaTerra Environmental, Inc.
+
+Appendix A
+
+Shovel
+Test
+
+Positive/
+Negative
+
+Resource
+ID
+
+HB-1
+
+N
+
+-
+
+HB-2
+
+N
+
+-
+
+HB-3
+
+N
+
+-
+
+HB-4
+
+N
+
+Depth
+
+Color
+
+Texture
+
+Disturbances
+
+Cultural
+Material
+
+0-28
+
+10 YR 3/2
+
+Sa Lo Gr
+
+Level Terrain
+
+-
+
+28+
+
+10 YR 4/2
+
+Cl w CaCo3
+limestone and gr
+
+0-35
+
+10 YR 3/2
+
+Sa Lo Gr
+
+Level Terrain
+
+-
+
+35+
+
+10 YR 4/2
+
+Cl w CaCo3
+limestone and gr
+
+0-30
+
+10 YR 3/2
+
+Sa Lo Gr
+
+Level Terrain
+
+-
+
+30+
+
+10 YR 4/2
+
+Cl w CaCo3
+limestone and gr
+
+0-10
+
+10 YR 3/2
+
+Sa Lo Gr
+
+Level Terrain
+
+Biface Frag
+found on
+surface
+
+10-40
+
+10 YR 4/2
+
+Cl w CaCo3
+limestone and gr
+
+0-35
+
+10 YR 5/2
+
+Sa Lo w/ Gr
+
+Level Terrain
+
+-
+
+35+
+
+10 YR 3/2
+
+Cl w/ limestone Gr
+
+IO2
+
+HB-5
+
+N
+
+-
+
+HB-6
+
+N
+
+41RE156
+
+0-25
+
+10 YR 3/2
+
+Sa Cl w/ limstone Gr
+
+Level Terrain
+
+-
+
+HB-7
+
+N
+
+41RE156
+
+0-5
+
+10 YR 3/2
+
+Sa Cl w/ limstone Gr
+
+Level Terrain
+
+-
+
+HB-8
+
+N
+
+41RE158
+
+0-10
+
+10 YR 3/2
+
+Sa Cl w/ limstone Gr
+
+Level Terrain
+
+-
+
+HB-9
+
+N
+
+41RE158
+
+0-10
+
+10 YR 3/2
+
+Sa Cl w/ limstone Gr
+
+Level Terrain
+
+-
+
+HB-10
+
+N
+
+41RE158
+
+0-30
+
+10 YR 3/2
+
+Sa Cl w/ limstone Gr
+
+Edge of shallow
+ephemeral
+drainage
+
+HB-11
+
+N
+
+-
+
+0-10
+
+10 YR 3/2
+
+Sa Cl w/ limstone Gr
+
+Level Terrain
+
+-
+
+HB-12
+
+N
+
+41RE160
+
+0-10
+
+10 YR 3/2
+
+Sa Cl w/ limstone Gr
+
+Alluvial Terrace
+
+-
+
+HB-13
+
+N
+
+41RE160
+
+0-10
+
+10 YR 3/2
+
+Sa Cl w/ limstone Gr
+
+Alluvial Terrace
+
+-
+
+HB-14
+
+N
+
+41RE160
+
+0-40
+
+10 YR 3/2
+
+Cl Lo
+
+Flood Plain
+
+-
+
+-
+
+HB-15
+
+N
+
+-
+
+0-50
+
+10 YR 3/2
+
+Cl Lo W CaCo3
+Flecks
+
+Flood plain
+on east side
+of shallow
+ephemeral
+drainage
+
+HB-16
+
+N
+
+-
+
+0-10
+
+10 YR 4/1
+
+Cl Lo
+
+Terrace downhill
+from landform
+
+-
+
+HB-17
+
+N
+
+-
+
+0-40
+
+10 YR 3/2
+
+Cl Lo W CaCo3
+Flecks
+
+Terrace downhill
+from landform
+
+-
+
+HB-18
+
+N
+
+-
+
+0-10
+
+10 YR 4/1
+
+sa Lo w/ limestone Gr
+
+Terrace
+
+-
+
+HB-19
+
+N
+
+-
+
+0-5
+
+10 YR 5/1
+
+sa Lo w/ limestone Gr
+
+Terrace
+
+-
+
+HB-20
+
+N
+
+-
+
+0-30
+
+10 YR 5/3
+
+Sa Lo W/ some
+limestone gr
+
+high organic
+content, Terrace
+
+-
+
+HB-21
+
+N
+
+-
+
+0-10
+
+10 YR 6/1
+
+sa Lo w/ limestone Gr
+
+Terrace
+
+-
+
+HB-22
+
+N
+
+-
+
+0-10
+
+10 YR 6/1
+
+sa Lo w/ limestone Gr
+
+Terrace
+
+-
+
+HB-23
+
+N
+
+-
+
+0-60
+
+10 YR 5/3
+
+Cl Lo
+
+Flood Plain
+
+-
+
+HB-24
+
+N
+
+-
+
+0-25
+
+10 YR 6/2
+
+Sa Lo
+
+Flood Plain on
+bank of Shallow
+ephemeral
+drainage
+
+HB-25
+
+N
+
+-
+
+0-30
+
+10 YR 3/2
+
+sa Lo w/ limestone Gr
+
+terrace
+
+-
+
+HB-26
+
+N
+
+-
+
+0-35
+
+10 YR 3/2
+
+sa Lo w/ limestone Gr
+
+Terrace along
+ephemeral
+drainage
+
+-
+
+AmaTerra Environmental, Inc.
+
+A-3
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Shovel
+Test
+
+Positive/
+Negative
+
+Resource
+ID
+
+Depth
+
+Color
+
+Texture
+
+Disturbances
+
+Cultural
+Material
+
+HB-27
+
+N
+
+IO3
+
+0-5
+
+10 YR 6/1
+
+sa Lo w/ limestone Gr
+
+Semi sloped
+eroded surface
+
+-
+
+HB-28
+
+N
+
+-
+
+0-5
+
+10 YR 6/1
+
+sa Lo w/ limestone Gr
+
+Semi sloped
+eroded surface
+
+-
+
+HB-29
+
+N
+
+-
+
+0-5
+
+10 YR 6/1
+
+sa Lo w/ limestone Gr
+
+Exposed
+bedrock on
+Surface
+
+-
+
+HB-30
+
+N
+
+-
+
+0-10
+
+10 YR 4/2
+
+Sa Lo w/ high
+organic content
+
+Terrace Slope
+
+-
+
+HB-31
+
+N
+
+-
+
+0-35
+
+10 YR 3/2
+
+Cl Lo w/ high
+organic content
+
+Terrace
+
+-
+
+HB-32
+
+N
+
+-
+
+0-30
+
+10 YR 3/2
+
+Cl Lo w/ high
+organic content
+
+Terrace
+
+-
+
+HB-33
+
+N
+
+-
+
+0-3
+
+10 YR 6/1
+
+Sa Lo
+
+Terrace,
+Bedrock at
+surface
+
+-
+
+HB-34
+
+N
+
+41RE164
+
+0-2
+
+10 YR 6/1
+
+Sa Lo
+
+Terrace,
+Bedrock at
+surface
+
+-
+
+HB-35
+
+N
+
+41RE165
+
+0-3
+
+10 YR 6/1
+
+Sa Lo
+
+Terrace,
+Bedrock at
+surface
+
+-
+
+HB-36
+
+N
+
+-
+
+0-2
+
+10 YR 6/1
+
+Sa Lo
+
+Terrace,
+Bedrock at
+surface
+
+-
+
+HB-37
+
+N
+
+-
+
+0-4
+
+10 YR 6/1
+
+Sa Lo
+
+Interfluve;
+bedrock at
+surface
+
+-
+
+HB-38
+
+N
+
+-
+
+0-50
+
+10 YR 3/2
+
+Cl Lo
+
+floodplain
+
+-
+
+HB-39
+
+Pos
+
+IO5
+
+0-5
+
+10 YR 3/2
+
+Cl Lo w/ limestone gr
+
+floodplain
+
+1 interior
+gray brown
+lithic flake
+
+HB-40
+
+N
+
+-
+
+0-5
+
+10 YR 3/2
+
+Cl Lo w/ limestone gr
+
+floodplain
+
+-
+
+HB-41
+
+N
+
+-
+
+0-8
+
+10 YR 3/2
+
+Cl Lo w/ limestone gr
+
+Terrace
+
+-
+
+HB-42
+
+N
+
+-
+
+0-5
+
+10 YR 3/2
+
+Cl Lo w/ limestone gr
+
+Terrace
+
+-
+
+HB-43
+
+N
+
+-
+
+0-5
+
+10 YR 3/2
+
+sa Lo w/ limestone Gr
+
+Stream Terrace
+
+-
+
+Interfluve;
+bedrock at
+surface
+
+-
+
+HB-44
+
+N
+
+-
+
+0-10
+
+10 YR 3/2
+
+sa Lo w/ limestone Gr
+
+HB-45
+
+N
+
+-
+
+0-30
+
+10 YR 3/2
+
+Cl Lo w/ limestone gr
+
+Terrace
+
+-
+
+HB-46
+
+N
+
+-
+
+0-6
+
+10 YR 3/2
+
+Cl Lo w/ limestone gr
+
+Bank of Dry
+stream
+
+HB-47
+
+N
+
+-
+
+0-3
+
+10 YR 3/2
+
+Cl Lo w/ limestone gr
+
+High ridge
+
+-
+
+HB-48
+
+N
+
+-
+
+0-2
+
+10 YR 3/2
+
+Cl Lo w/ limestone gr
+
+High ridge
+
+-
+
+HB-49
+
+N
+
+-
+
+0-2
+
+10 YR 5/3
+
+Sa Lo
+
+High linear ridge
+
+-
+
+HB-50
+
+N
+
+-
+
+0-3
+
+10 YR 5/3
+
+Sa Lo
+
+High linear ridge
+
+-
+
+HB-51
+
+N
+
+-
+
+0-4
+
+10 YR 5/3
+
+Sa Lo
+
+High linear ridge
+
+-
+
+HB-52
+
+N
+
+-
+
+0-3
+
+7.5 YR 5/4
+
+Sa Lo
+
+High linear ridge
+
+-
+
+0-10
+
+10 YR 5/3
+
+Sa Lo
+
+Ca Co3
+Flecking;
+located 2nd
+terrace or river
+
+-
+
+10-40
+
+10 YR 5/3
+
+Compact Sa Lo
+
+40-90
+
+10 YR 5/3
+
+Si Sa
+
+HB-53
+
+A-4
+
+N
+
+-
+
+AmaTerra Environmental, Inc.
+
+Appendix A
+
+Shovel
+Test
+
+Positive/
+Negative
+
+Resource
+ID
+
+HB-54
+
+N
+
+-
+
+HB-55
+
+Pos
+
+41RE159
+
+Depth
+
+Color
+
+Texture
+
+Disturbances
+
+Cultural
+Material
+
+0-20
+
+10 YR 3/2
+
+Cl Lo
+
+Flood Plain
+
+-
+
+20-60
+
+10 YR 4/3
+
+Cl Lo
+Degraded
+bedrock at
+bottom
+
+4 Edwards
+Chert interior
+flakes
+0-20cm; 2
+interior flakes
+EC 20-30cm
+
+0-30
+
+10 YR 4/2
+
+Sa Cl w/ limstone Gr
+
+HB-56
+
+Pos
+
+41RE159
+
+0-30
+
+10 YR 4/2
+
+Sa Cl w/ limstone Gr
+
+Degraded
+bedrock at
+bottom
+
+7 interior
+lithic flakes,
+1LmStn FCR
+0-20cm, 4
+interior flakes
+20-30cm
+
+HB-57
+
+Pos
+
+41RE159
+
+0-40
+
+10 YR 4/2
+
+Sa Cl w/ limstone Gr
+
+Degraded
+bedrock at
+bottom
+
+2 Angluar
+debris
+0-20cm, 1AD
+20-40cm
+
+HB-58
+
+N
+
+41RE159
+
+0-40
+
+10 YR 4/2
+
+Si Cl
+
+Degraded
+bedrock at
+bottom
+
+-
+
+HB-59
+
+N
+
+41RE159
+
+0-10
+
+10 YR 3/2
+
+Sa Cl
+
+floodplain
+
+-
+
+41RE159
+
+10-40
+
+10 YR 4/3
+
+Sa Cl
+
+Cl Lo
+
+some limestone
+gravels,
+terminated
+on degraded
+bedrock
+
+-
+
+Cl Lo
+
+some limestone
+gravels,
+terminated
+on degraded
+bedrock
+
+-
+
+HB-60
+
+N
+
+41RE159
+
+0-50
+
+10 YR 5/2
+
+HB-61
+
+N
+
+41RE159
+
+0-55
+
+10 YR 5/2
+
+HB-62
+
+N
+
+41RE159
+
+0-60
+
+10 YR 5/2
+
+Sa Cl
+
+floodplain
+
+-
+
+0-20
+
+10YR 4/4
+
+Cl Lo w/gr
+
+Level Terrain
+
+-
+
+Level Terrain
+
+-
+
+Level Terrain
+
+-
+
+Level Terrain
+
+-
+
+Level Terrain
+
+surface
+biface
+
+Level Terrain
+
+-
+
+Level Terrain
+
+-
+
+NS-1
+
+NS-2
+
+NS-3
+
+NS-4
+
+NS-5
+
+NS-6
+
+NS-7
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+N
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+AmaTerra Environmental, Inc.
+
+20+
+
+Rock
+
+0-30
+
+10YR 4/4
+
+Cl Lo w/gr
+
+30-35
+
+10YR 4/4
+
+Cl Lo w rock
+
+35+
+
+Rock
+
+0-30
+
+10YR 4/4
+
+Cl Lo
+
+30-45
+
+10YR 4/4
+
+Cl Lo w/gr
+
+45+
+
+Rock
+
+0-20
+
+10YR5/2
+
+Cl Lo
+
+20-30
+
+10YR5/2
+
+Cl Lo w/gr
+
+30+
+
+Rock
+
+0-20
+
+10YR5/2
+
+Cl Lo
+
+20-30
+
+10YR5/2
+
+Cl Lo w/gr
+
+0-30
+
+10YR 4/4
+
+Cl Lo
+
+30-45
+
+10YR 4/4
+
+Cl Lo w/gr
+
+0-20
+
+10YR5/2
+
+Cl Lo
+
+20-35
+
+10YR5/2
+
+Cl Lo w/gr
+
+35+
+
+Rock
+
+A-5
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Shovel
+Test
+
+Positive/
+Negative
+
+Resource
+ID
+
+Depth
+
+Color
+
+Texture
+
+Disturbances
+
+Cultural
+Material
+
+NS-8
+
+N
+
+-
+
+0-10
+
+10YR 4/4
+
+Cl w/gr
+
+Level Terrain
+
+-
+
+NS-9
+
+N
+
+-
+
+0-10
+
+10YR5/2
+
+Cl w/gr
+
+Level Terrain
+
+-
+
+Cl w/gr
+
+Level Terrain
+
+near surface
+material
+
+-
+
+NS-10
+
+N
+
+41RE156
+
+0-5
+
+10YR5/2
+
+NS-11
+
+N
+
+41RE156
+
+0-5
+
+10YR5/2
+
+Cl w/gr
+
+gravel and
+bedrock at
+surface, near
+surface artifact
+scatter
+
+NS-12
+
+N
+
+41RE156
+
+0-5
+
+10YR5/2
+
+Cl w/gr
+
+bedrock at
+surface, near
+artifact scatter
+
+-
+
+NS-13
+
+N
+
+41RE156
+
+0-5
+
+10 YR 5/2
+
+Cl w/gr
+
+bedrock at
+surface, near
+artifact scatter
+
+-
+
+NS-14
+
+N
+
+41RE158
+
+0-5
+
+10 YR 5/2
+
+Cl w/gr
+
+near flake
+
+-
+
+near surface
+material
+
+-
+
+NS-15
+
+N
+
+41RE158
+
+0-30
+
+10 YR 5/2
+
+Cl Lo
+
+30-40
+
+10 YR 4/4
+
+Cl Lo w/gr
+
+40+
+
+Bedrock
+
+NS-16
+
+N
+
+41RE158
+
+0-10
+
+10 YR 5/2
+
+Cl w/gr
+
+near surface
+material
+
+-
+
+NS-17
+
+N
+
+41RE158
+
+0-5
+
+10 YR 5/2
+
+Cl w/gr
+
+near surface
+material
+
+-
+
+NS-18
+
+N
+
+-
+
+0-30
+
+10 YR 4/4
+
+Cl Lo w/gr
+
+Level Terrain
+
+-
+
+Cl Lo w/gr
+
+Level Terrain
+
+-
+
+Cl Lo w/gr
+
+Next to drainage
+
+-
+
+Cl Lo w/gr
+
+Past drainage
+
+-
+
+Cl Lo w/gr
+
+Level Terrain
+
+-
+
+Level Terrain
+
+-
+
+Cl Lo w/gr
+
+surface material
+
+-
+
+Cl Lo w/gr
+
+surface material
+
+-
+
+NS-19
+
+N
+
+41RE160
+
+NS-20
+
+N
+
+41RE160
+
+NS-21
+
+N
+
+41RE160
+
+NS-22
+
+N
+
+-
+
+NS-23
+
+N
+
+-
+
+30+
+
+Bedrock
+
+0-15
+
+10Y R5/2
+
+15+
+
+Bedrock
+
+0-30
+
+10 YR 4/4
+
+30+
+
+Bedrock
+
+0-15
+
+10 YR 5/2
+
+15+
+
+Bedrock
+
+0-30
+
+10 YR 4/4
+
+30+
+
+Bedrock
+
+0-40
+
+10 YR 4/4
+
+Cl Lo
+
+40-50
+
+10 YR 6/4
+
+Si Cl Lo very crumbly
+
+50+
+
+Bedrock
+
+0-30
+
+10 YR 5/2
+
+30+
+
+Bedrock
+
+0-10
+
+10 YR 5/2
+
+10+
+
+Bedrock
+
+NS-24
+
+N
+
+41RE162
+
+NS-25
+
+N
+
+41RE162
+
+NS-26
+
+N
+
+-
+
+0-10
+
+10 YR 5/2
+
+Cl Lo w/gr
+
+-
+
+-
+
+NS-27
+
+N
+
+-
+
+0-10
+
+10 YR 5/2
+
+Cl Lo w/gr
+
+-
+
+-
+
+NS-28
+
+N
+
+-
+
+0-5
+
+10 YR 5/2
+
+Cl Lo w/gr
+
+slight down
+slope
+
+-
+
+5+
+
+Bedrock
+
+0-5
+
+10 YR 5/2
+
+Cl Lo w/gr
+
+slight down
+slope
+
+-
+
+5+
+
+Bedrock
+
+NS-29
+
+A-6
+
+N
+
+-
+
+AmaTerra Environmental, Inc.
+
+Appendix A
+
+Shovel
+Test
+
+Positive/
+Negative
+
+Resource
+ID
+
+Depth
+
+Color
+
+Texture
+
+Disturbances
+
+Cultural
+Material
+
+NS-30
+
+N
+
+-
+
+0-10
+
+10 YR 5/2
+
+Cl Lo w/gr
+
+low area
+between hills
+
+-
+
+NS-31
+
+N
+
+-
+
+0-40
+
+10 YR 5/2
+
+Cl Lo w/gr
+
+-
+
+-
+
+40+
+
+10 YR 5/2
+
+Cl Lo w/gr to bdrk
+
+0-30
+
+10 YR 4/6
+
+Si Cl w Gr
+
+-
+
+-
+
+NS-32
+
+N
+
+-
+
+NS-33
+
+N
+
+-
+
+NS-34
+
+N
+
+-
+
+NS-35
+
+N
+
+-
+
+NS-36
+
+NS-37
+
+NS-38
+NS-39
+NS-40
+
+N
+
+N
+
+N
+N
+N
+
+41RE163
+
+41RE163
+
+-
+
+NS-41
+
+N
+
+-
+
+NS-42
+
+N
+
+-
+
+NS-43
+
+N
+
+-
+
+NS-44
+
+N
+
+41RE164
+
+NS-45
+
+N
+
+30+
+
+Bedrock
+
+0-10
+
+10 YR 4/4
+
+Si Cl w Gr
+
+-
+
+-
+
+0-30
+
+10 YR 4/4
+
+Cl Lo w/gr
+
+-
+
+-
+
+30+
+
+Bedrock
+
+0-5
+
+10 YR 5/2
+
+Si Cl
+
+hilly area
+
+-
+
+5+
+
+Bedrock
+
+Si Cl
+
+surface material
+on N side of rd,
+washing down
+from higher
+elevation
+
+-
+
+Si Cl
+
+surface material
+on N side of rd,
+washing down
+from higher
+elevation
+
+-
+
+Si Cl
+
+-
+
+-
+
+Si Cl
+
+-
+
+-
+
+Si Gr
+
+-
+
+-
+
+Si Cl Gr
+
+-
+
+-
+
+Si Cl Lo
+
+-
+
+-
+
+Si Cl Lo
+
+-
+
+-
+
+Bedrock at surface
+
+near surface
+material
+
+-
+
+Si Cl Gr
+
+near surface
+material
+
+-
+
+Si Gr
+
+-
+
+-
+
+Si Gr
+
+near creek
+drop off
+
+-
+
+0-5
+
+10 YR 5/2
+
+5+
+
+Bedrock
+
+0-5
+
+5+
+
+Bedrock
+
+0-5
+
+10 YR 5/2
+
+5+
+
+Bedrock
+
+0-5
+
+10 YR 5/2
+
+5+
+
+Bedrock
+
+0-5
+
+10 YR 5/4
+
+5+
+
+Bedrock
+
+0-15
+
+10 YR 4/4
+
+15+
+
+Clay to
+Bedrock
+
+0-30
+
+10 YR 5/2
+
+30+
+
+Clay to
+Bedrock
+
+0-25
+
+10 YR 5/2
+
+25+
+
+Clay to
+Bedrock
+
+0-3
+
+10 YR 5/2
+
+3+
+
+Bedrock
+
+0-15
+
+10 YR 4/4
+
+15+
+
+Clay to
+Bedrock
+
+0-5
+
+10 YR 5/2
+
+5+
+
+Bedrock
+
+0-5
+
+10 YR 5/2
+
+5+
+
+Bedrock
+
+41RE164
+
+NS-46
+
+N
+
+41RE165
+
+NS-47
+
+N
+
+41RE165
+
+AmaTerra Environmental, Inc.
+
+10 YR 5/2
+
+A-7
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Shovel
+Test
+
+Positive/
+Negative
+
+Resource
+ID
+
+Depth
+
+Color
+
+Texture
+
+Disturbances
+
+Cultural
+Material
+
+NS-48
+
+N
+
+-
+
+0-5
+
+10 YR 5/2
+
+Si Gr
+
+Between two
+creeks
+
+-
+
+NS-49
+
+N
+
+-
+
+0-50
+
+10 YR 4/2
+
+Cl Lo
+
+Flat pasture
+area
+
+-
+
+Flat pasture
+area
+
+-
+
+Flat pasture
+area
+
+-
+
+50+
+
+NS-50
+
+NS-51
+
+NS-52
+NS-53
+NS-54
+
+N
+
+N
+
+N
+N
+N
+
+-
+
+-
+
+-
+
+Cl
+
+0-20
+
+10 YR 4/4
+
+Cl Lo gr
+
+20-40
+
+10 YR 4/6
+
+Cl Gr
+
+40+
+
+10 YR 4/6
+
+Cl Gr
+
+0-15
+
+10 YR 4/4
+
+Cl Lo gr
+
+15-30
+
+10 YR 4/6
+
+Cl Gr
+
+0-10
+
+10 YR 4/4
+
+Cl Gr
+
+Near HP-39
+
+-
+
+Cl Gr
+
+Near HP-39
+
+-
+
+Cl Gr
+
+-
+
+-
+
+Si Cl w Gr
+
+-
+
+-
+
+degraded BdRk
+
+-
+
+-
+
+degraded BdRk
+
+-
+
+-
+
+Cl Gr
+
+On down slope
+
+-
+
+Cl Gr
+
+-
+
+-
+
+Cl Gr
+
+-
+
+-
+
+10+
+
+Bedrock
+
+0-5
+
+10 YR 4/4
+
+5+
+
+Bedrock
+
+0-5
+
+10 YR 4/4
+
+5+
+
+Bedrock
+
+0-5
+
+10 YR 5/2
+
+5+
+
+Bedrock
+
+0-5
+
+10 YR 5/2
+
+5+
+
+Bedrock
+
+0-5
+
+10 YR 5/2
+
+5+
+
+Bedrock
+
+0-5
+
+10 YR 5/2
+
+5+
+
+Bedrock
+
+0-5
+
+10 YR 5/2
+
+5+
+
+Bedrock
+
+0-15
+
+10 YR 4/6
+
+15+
+
+Bedrock
+
+NS-55
+
+N
+
+-
+
+NS-56
+
+N
+
+-
+
+NS-57
+
+N
+
+-
+
+NS-58
+
+N
+
+-
+
+NS-59
+
+N
+
+-
+
+NS-60
+
+N
+
+-
+
+NS-61
+
+N
+
+-
+
+0-2
+
+10 YR 4/6
+
+Bedrock
+
+lots of modern
+trash on slope
+in drainge
+
+-
+
+NS-62
+
+N
+
+-
+
+0-2
+
+10 YR 4/6
+
+Bedrock
+
+steep slopes
+
+-
+
+NS-63
+
+N
+
+-
+
+0-2
+
+10 YR 4/6
+
+Bedrock
+
+slope, lots
+of chert
+
+NS-64
+
+N
+
+41RE166
+
+0-2
+
+10 YR 4/6
+
+Bedrock
+
+lots of surface
+material,
+cores, flakes
+
+-
+
+NS-65
+
+N
+
+41RE166
+
+0-5
+
+10 YR 5/2
+
+Cl Gr
+
+On down slope
+to north
+
+-
+
+5+
+
+Bedrock
+slope
+
+-
+
+very compact
+near creek
+
+-
+
+NS-66
+
+N
+
+-
+
+0-2
+
+10 YR 5/2
+
+Bedrock
+
+NS-67
+
+N
+
+-
+
+0-2
+
+10 YR 5/2
+
+Bedrock
+
+NS-68
+
+N
+
+-
+
+0-45
+
+10 YR 5/2
+
+Si CL Lo
+
+NS-69
+
+N
+
+-
+
+0-50
+
+10 YR 4/4
+
+Cl Lo w/Gr
+
+50+
+
+10 YR 4/4
+
+Cl Gr
+
+A-8
+
+AmaTerra Environmental, Inc.
+
+Appendix A
+
+Shovel
+Test
+
+Positive/
+Negative
+
+Resource
+ID
+
+NS-70
+
+N
+
+-
+
+NS-71
+
+Pos
+
+41RE159
+
+NS-72
+
+Pos
+
+41RE159
+
+NS-73
+
+N
+
+41RE159
+
+NS-74
+
+Pos
+
+41RE159
+
+NS-75
+
+N
+
+-
+
+Depth
+
+Color
+
+Texture
+
+Disturbances
+
+Cultural
+Material
+
+0-50
+
+10 YR 4/4
+
+Si CL Lo
+
+open flat field
+
+-
+
+50+
+
+10 YR 4/4
+
+Cl
+
+0-25
+
+10 YR 4/4
+
+Si Cl Gr
+
+small ridgen
+in field
+
+2 flakes
+
+25+
+
+10 YR 4/4
+
+Cl Gr
+
+0-30
+
+10 YR 4/4
+
+Si Cl Gr
+
+30+
+
+10 YR 4/4
+
+Cl Gr
+
+0-40
+
+10 YR 4/4
+
+Si CL Lo
+
+40+
+
+10 YR 4/4
+
+Cl
+
+0-40
+
+10 YR 4/4
+
+Si CL Lo
+
+40+
+
+10 YR 4/4
+
+Cl
+
+0-30
+
+10 YR 4/2
+
+Cl Lo
+
+30-40
+
+10 YR 4/6
+
+Cl
+
+0-25
+
+10 YR 4/2
+
+Cl Lo w/Gr
+
+open flat field
+
+2 flakes
+-
+
+open flat field
+
+-
+
+open flat field
+
+1 flake
+-
+
+in transmission
+line along fence
+in pasture
+
+disturbed
+
+in transmission
+line along fence
+in pasture
+
+-
+
+-
+
+-
+
+NS-76
+
+N
+
+-
+
+25-35
+
+10 YR 4/6
+
+Cl Gr w/ rock
+
+NS-77
+
+N
+
+-
+
+0-60
+
+10 YR 5/2
+
+Cl Lo, compact
+
+NS-78
+
+N
+
+-
+
+0-60
+
+10 YR 5/2
+
+Cl Lo, compact
+
+-
+
+-
+
+Next to
+power pole
+
+-
+
+NS-79
+
+N
+
+-
+
+0-45
+
+10 YR 4/4
+
+Cl Lo
+
+NS-80
+
+N
+
+-
+
+0-30
+
+10 YR 4/4
+
+Cl w/ Gr
+
+-
+
+-
+
+Cl w/gr
+
+Next to
+power pole
+
+-
+
+open flat field
+
+-
+
+open flat field
+
+-
+
+NS-81
+
+NS-82
+NS-83
+NS-84
+
+NS-85
+
+NS-86
+
+N
+
+N
+N
+N
+
+N
+
+N
+
+-
+
+-
+
+-
+
+-
+
+0-30
+
+10 YR 4/4
+
+30-35
+
+10 YR 4/4
+
+Rocks
+
+0-30
+
+10 YR 4/4
+
+Cl w/gr
+
+30-35
+
+10 YR 4/4
+
+Rocks
+
+0-20
+
+10 YR 4/4
+
+Cl w/gr
+
+20+
+
+10 YR 4/4
+
+Rocks
+
+0-15
+
+10 YR 4/6
+
+Cl w/ rocks
+
+-
+
+-
+
+15+
+
+Bedrock
+
+0-5
+
+10 YR 5/2
+
+Si Cl
+
+on slight up
+hill slope, very
+rocky surface
+
+-
+
+5+
+
+Bedrock
+
+0-30
+
+10 YR 5/2
+
+Si Cl
+
+on slight up
+hill slope, very
+rocky surface
+
+-
+
+30+
+
+Bedrock
+
+JH-1
+
+N
+
+-
+
+0-40
+
+10 YR 3/1
+
+Cl Lo
+
+Dry Aoelean soil
+near Nueces
+
+-
+
+JH-2
+
+N
+
+-
+
+0-10
+
+10 YR 3/1
+
+Cl Lo
+
+rocky soil, flat
+terrain, old
+floodplain
+
+-
+
+JH-3
+
+N
+
+-
+
+0-15
+
+10 YR 3/1
+
+Cl Lo
+
+rocky soil, flat
+terrain, old
+floodplain
+
+-
+
+AmaTerra Environmental, Inc.
+
+A-9
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Shovel
+Test
+
+Positive/
+Negative
+
+Resource
+ID
+
+Depth
+
+Color
+
+Texture
+
+Disturbances
+
+Cultural
+Material
+
+JH-4
+
+N
+
+-
+
+0-25
+
+10 YR 4/2
+
+Cl Lo
+
+slight higher
+elevation
+
+-
+
+JH-5
+
+N
+
+-
+
+0-25
+
+10 YR 4/2
+
+Cl Lo
+
+slight higher
+elevation
+
+-
+
+JH-6
+
+N
+
+-
+
+0-40
+
+10 YR 3/1
+
+Cl Lo
+
+flat plain, higher
+elevation than
+surrounding
+terrain
+
+-
+
+Cl Lo
+
+flat plain, higher
+elevation than
+surrounding
+terrain
+
+-
+
+-
+
+JH-7
+
+N
+
+-
+
+0-45
+
+10 YR 3/1
+
+JH-8
+
+N
+
+-
+
+0-10
+
+10 YR 3/2
+
+Cl Lo
+
+Slight rise
+overlooking
+slopping
+land form
+
+JH-9
+
+N
+
+-
+
+0-45
+
+10 YR 4/2
+
+Cl Lo
+
+Slight rise
+overlooking
+slopping
+land form
+
+-
+
+JH-10
+
+N
+
+-
+
+0-15
+
+10 YR 5/2
+
+Cl Lo
+
+Slopping rise
+adjacent to
+Crown Mountain
+
+-
+
+JH-11
+
+N
+
+-
+
+0-10
+
+10 YR 5/2
+
+Cl Lo
+
+Slopping rise
+adjacent to
+Crown Mountain
+
+-
+
+JH-12
+
+N
+
+-
+
+0-25
+
+10 YR 5/2
+
+Cl Lo
+
+East Slopping
+rise adjacent to
+Crown Mountain
+
+-
+
+JH-13
+
+N
+
+-
+
+0-20
+
+10 YR 5/2
+
+Cl Lo
+
+East Slopping
+rise adjacent to
+Crown Mountain
+
+-
+
+JH-14
+
+N
+
+-
+
+0-30
+
+10 YR 5/2
+
+Cl Lo
+
+East slopping
+landform
+
+-
+
+JH-15
+
+N
+
+-
+
+0-30
+
+10 YR 5/2
+
+Cl Lo
+
+East slopping
+landform
+
+-
+
+JH-16
+
+N
+
+-
+
+0-10
+
+10 YR 4/2
+
+Cl Lo
+
+next to
+ephemeral
+drainage
+
+-
+
+JH-17
+
+N
+
+41RE162
+
+0-40
+
+10 YR 3/1
+
+Cl Lo
+
+Edge of shallow
+ephemeral
+drainage
+
+surface
+material
+
+JH-18
+
+N
+
+41RE162
+
+0-25
+
+10 YR 3/2
+
+Cl Lo
+
+Edge of shallow
+ephemeral
+drainage
+
+surface
+material
+
+JH-19
+
+N
+
+-
+
+0-10
+
+10 YR 5/2
+
+Cl Lo
+
+south slopping
+land form
+at base of
+mountain
+
+-
+
+JH-20
+
+N
+
+-
+
+0-10
+
+10 YR 5/2
+
+Cl Lo
+
+south slopping
+land form
+at base of
+mountain
+
+-
+
+JH-21
+
+N
+
+-
+
+0-10
+
+10 YR 5/2
+
+Cl Lo
+
+south slopping
+land form
+
+-
+
+JH-22
+
+N
+
+-
+
+0-15
+
+10 YR 5/2
+
+Cl Lo
+
+base of
+mountain range
+
+-
+
+A-10
+
+AmaTerra Environmental, Inc.
+
+Appendix A
+
+Shovel
+Test
+
+Positive/
+Negative
+
+Resource
+ID
+
+Depth
+
+Color
+
+Texture
+
+Disturbances
+
+Cultural
+Material
+
+JH-23
+
+N
+
+-
+
+0-10
+
+10 YR 5/2
+
+Cl Lo
+
+base of south
+slopping
+land form
+
+-
+
+JH-24
+
+N
+
+-
+
+0-15
+
+10 YR 5/2
+
+Cl Lo
+
+base of south
+slopping
+land form
+
+-
+
+JH-25
+
+N
+
+-
+
+0-10
+
+10 YR 5/2
+
+Cl Lo
+
+slope of
+mountains
+
+-
+
+JH-26
+
+N
+
+-
+
+0-10
+
+10 YR 5/2
+
+Cl Lo
+
+slope of
+mountains
+
+-
+
+JH-27
+
+N
+
+-
+
+0-40
+
+10 YR 4/2
+
+Cl Lo
+
+flat plain
+
+-
+
+Si Lo
+
+Pristine site
+setting of
+small creek
+
+37 flks, 1
+BiFace, 1
+Bone, C14m
+9 med FCR
+0-20cm; 42
+Flks,1 bone,
+12 med,8
+sm FCR
+20-40cm;
+11 flks,4
+sm FCR
+40-50 cm
+4 Flks, 3 sm
+FCR 0-20cm;
+1 Flk, 5
+med FCR
+20-40cm
+
+JH-28
+
+Pos
+
+41RE155
+
+0-50
+
+10 YR 3/2
+
+JH-29
+
+Pos
+
+41RE155
+
+0-50
+
+10 YR 4/1
+
+Si CL Lo
+
+in foot print
+of tower on
+2nd terrace
+
+JH-30
+
+N
+
+41RE155
+
+0-10
+
+10 YR 3/3
+
+Lo
+
+rise of bedrock
+in densly
+wooded area
+
+-
+
+slightly slopping
+rise extended
+back approx 50
+m from cliff face
+
+5 flakes 2
+FCR 0-20; 15
+flakes, hearth
+feature, C14
+20-40cm
+
+JH-31
+
+JH-32
+
+Pos
+
+N
+
+0-10
+
+10 YR 4/2
+
+Si Lo
+
+10-40
+
+10 YR 3/1
+
+Cl Lo
+
+40-50
+
+10 YR 3/3
+
+Cl Lo
+
+50+
+
+cobbles
+
+Bedrock
+
+0-10
+
+Bedrock
+
+top of mountain
+
+-
+
+41RE155
+
+-
+
+JH-33
+
+N
+
+-
+
+0-10
+
+Bedrock
+
+top of rock
+out croping
+
+JH-34
+
+N
+
+41RE157
+
+0-5
+
+Bedrock
+
+on hill top
+
+-
+
+JH-35
+
+N
+
+41RE157
+
+0-5
+
+Bedrock
+
+-
+
+-
+
+JH-36
+
+N
+
+41RE157
+
+0-5
+
+Bedrock
+
+-
+
+-
+
+JH-37
+
+N
+
+41RE157
+
+0-5
+
+Bedrock
+
+-
+
+-
+
+JH-38
+
+N
+
+41RE157
+
+0-5
+
+Bedrock
+
+-
+
+-
+
+JH-39
+
+N
+
+41RE157
+
+0-5
+
+Bedrock
+
+-
+
+-
+
+0-10
+
+10 YR 3/2
+
+Si CL Lo
+
+flood plain
+
+1 flake
+0-20cm
+
+10-60
+
+10 YR 3/3
+
+Si CL Lo
+
+1 flake
+20-40cm
+
+60+
+
+10 YR 3/3
+
+Si CL Lo w/ rock
+
+-
+
+0-60
+
+10 YR 3/3
+
+Si CL Lo
+
+JH-40
+
+JH-41
+
+Pos
+
+Pos
+
+41RE159
+
+41RE159
+
+AmaTerra Environmental, Inc.
+
+-
+
+1 flake
+0-20cm
+
+A-11
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Shovel
+Test
+JH-42
+JH-43
+
+Positive/
+Negative
+Pos
+N
+
+Resource
+ID
+
+Depth
+
+Color
+
+Texture
+
+Disturbances
+
+Cultural
+Material
+
+0-55
+
+10 YR 3/3
+
+Si CL Lo
+
+-
+
+2 flakes
+0-20 cm
+
+55+
+
+10 YR 3/3
+
+Si CL Lo w/cobbles
+
+0-15
+
+10 YR 3/3
+
+Si CL Lo
+
+-
+
+-
+
+0-40
+
+10 YR 3/3
+
+Si CL Lo
+
+-
+
+-
+
+41RE159
+41RE159
+
+1 flake
+20-50cm
+
+JH-44
+
+N
+
+41RE159
+
+40+
+
+10 YR 3/3
+
+Si CL Lo
+
+JH-45
+
+N
+
+-
+
+0-55
+
+10 YR 3/4
+
+Si Cl
+
+-
+
+-
+
+JH-46
+
+N
+
+-
+
+0-45
+
+10 YR 3/1
+
+Si Cl
+
+-
+
+-
+
+JH-47
+
+N
+
+-
+
+0-25
+
+10 YR 3/2
+
+Si Lo
+
+-
+
+-
+
+JH-48
+
+N
+
+-
+
+0-35
+
+10 YR 3/2
+
+Si Lo
+
+-
+
+-
+
+JH-49
+
+N
+
+IO7
+
+0-15
+
+10 YR 5/8
+
+Cl Lo
+
+-
+
+-
+
+JH-50
+
+N
+
+41RE159
+
+0-35
+
+10 YR 4/2
+
+Si Lo
+
+open field next
+to dry frio
+
+-
+
+JH-51
+
+N
+
+41RE159
+
+0-40
+
+10 YR 4/2
+
+Si Lo
+
+open field next
+to dry frio
+
+-
+
+JH-52
+
+N
+
+-
+
+0-20
+
+10 YR 4/1
+
+Si Lo
+
+open field
+
+-
+
+JH-53
+
+N
+
+-
+
+0-25
+
+10 YR 4/1
+
+Si Lo
+
+open field
+
+-
+
+0-15
+
+10 YR 3/2
+
+Si Lo
+
+-
+
+-
+
+15+
+
+10 YR 3/2
+
+Si Lo
+
+0-20
+
+10 YR 3/2
+
+Si Lo
+
+low rise
+
+-
+
+20+
+
+10 YR 3/2
+
+Si Lo
+
+0-10
+
+10 YR 4/1
+
+Si Lo
+
+sloping rise
+
+-
+
+10+
+
+10 YR 4/1
+
+Si Lo
+
+0-10
+
+10 YR 3/1
+
+Si Lo
+
+on small
+sloping rise
+
+-
+
+JH-54
+
+N
+
+-
+
+JH-55
+
+N
+
+-
+
+JH-56
+
+N
+
+-
+
+JH-57
+
+N
+
+-
+
+JZ-1
+
+N
+
+0-10
+
+10 YR 3/1
+
+Cl Lo
+
+flat area drops
+off towards river
+
+-
+
+JZ-2
+
+N
+
+0-15
+
+10 YR 3/1
+
+Cl Lo
+
+center of
+slight rise
+
+-
+
+JZ-3
+
+N
+
+0-20
+
+10 YR 3/1
+
+Cl Lo
+
+center of
+slight rise
+
+-
+
+JZ-4
+
+N
+
+0-35
+
+10 YR 3/1
+
+Cl Lo
+
+flat area with
+slight slope
+to east
+
+-
+
+JZ-5
+
+N
+
+0-30
+
+10 YR 3/1
+
+Cl Lo
+
+flat area with
+slight slope
+to east
+
+-
+
+JZ-6
+
+N
+
+0-40
+
+10 YR 3/2
+
+Cl Lo
+
+flat area with
+slight slope
+to east
+
+-
+
+JZ-7
+
+N
+
+0-25
+
+10 YR 3/1
+
+Cl Lo
+
+flat area with
+slight slope
+to east
+
+-
+
+JZ-8
+
+N
+
+0-40
+
+10 YR 3/1
+
+Cl Lo
+
+between two
+slopes near
+drainage
+
+-
+
+JZ-9
+
+N
+
+0-50
+
+10 YR 3/1
+
+Cl Lo
+
+between two
+slopes near
+drainage
+
+-
+
+JZ-10
+
+N
+
+0-10
+
+10 YR 3/1
+
+Cl Lo
+
+slight slope
+to west
+
+-
+
+A-12
+
+AmaTerra Environmental, Inc.
+
+Appendix A
+
+Shovel
+Test
+
+Positive/
+Negative
+
+JZ-11
+
+Resource
+ID
+
+Depth
+
+Color
+
+Texture
+
+Disturbances
+
+Cultural
+Material
+
+N
+
+0-10
+
+10 YR 3/1
+
+Cl Lo
+
+slight slope
+to west
+
+-
+
+JZ-12
+
+N
+
+0-10
+
+10 YR 3/1
+
+Cl Lo
+
+slight slope
+to west
+
+-
+
+JZ-13
+
+N
+
+0-30
+
+10 YR 3/1
+
+Cl Lo
+
+slight slope
+to west
+
+-
+
+JZ-14
+
+N
+
+0-10
+
+10 YR 3/1
+
+Cl Lo
+
+slight slope
+to west
+
+-
+
+JZ-15
+
+N
+
+0-30
+
+10 YR 3/1
+
+Cl Lo
+
+slight slope
+to west
+
+-
+
+JZ-16
+
+N
+
+0-15
+
+10 YR 3/1
+
+Cl Lo
+
+near gully to
+the north
+
+-
+
+JZ-17
+
+N
+
+0-10
+
+10 YR 3/1
+
+Cl Lo
+
+gully to north
+
+-
+
+JZ-18
+
+N
+
+0-10
+
+10 YR 3/2
+
+Cl Lo
+
+top of hill
+
+-
+
+JZ-19
+
+N
+
+0-10
+
+10 YR 3/2
+
+Cl Lo
+
+on south
+slope of hill
+
+-
+
+JZ-20
+
+N
+
+0-35
+
+10 YR 3/1
+
+Cl Lo
+
+slilght slope
+towards
+east,south east
+
+-
+
+JZ-21
+
+N
+
+41RE162
+
+0-30
+
+10 YR 3/2
+
+Cl Lo
+
+slight slope
+to south
+
+-
+
+JZ-22
+
+N
+
+41RE162
+
+0-35
+
+10 YR 3/2
+
+Cl Lo
+
+slight slope
+to south
+
+-
+
+JZ-23
+
+N
+
+0-10
+
+10 YR 3/1
+
+Cl Lo
+
+slight slope
+to south
+
+-
+
+JZ-24
+
+N
+
+0-15
+
+10 YR 3/1
+
+Cl Lo
+
+slight slope
+to south
+
+-
+
+JZ-25
+
+N
+
+0-30
+
+10 YR 3/1
+
+Cl Lo
+
+slight slope
+to south
+
+-
+
+JZ-26
+
+N
+
+0-35
+
+10 YR 3/1
+
+Cl Lo
+
+slight slope
+to south
+
+-
+
+JZ-27
+
+N
+
+0-10
+
+10 YR 3/1
+
+Cl Lo
+
+mainly flat
+
+-
+
+JZ-28
+
+N
+
+0-15
+
+10 YR 3/1
+
+Cl Lo
+
+mainly flat
+
+-
+
+JZ-29
+
+N
+
+0-15
+
+10 YR 3/1
+
+Cl Lo
+
+-
+
+-
+
+JZ-30
+
+N
+
+0-35
+
+10 YR 3/1
+
+Cl Lo
+
+-
+
+-
+
+JZ-31
+
+N
+
+0-25
+
+10 YR 3/2
+
+Cl Lo
+
+-
+
+-
+
+JZ-32
+
+N
+
+0-10
+
+10 YR 3/1
+
+Cl Lo
+
+-
+
+-
+
+JZ-33
+
+N
+
+41RE155
+
+0-15
+
+10 YR 3/1
+
+Cl Lo
+
+-
+
+-
+
+JZ-34
+
+N
+
+41RE155
+
+0-10
+
+10 YR 3/1
+
+Cl Lo
+
+flat part on
+side of slope
+towards west
+
+-
+
+JZ-35
+
+N
+
+41RE155
+
+0-10
+
+10 YR 3/1
+
+Cl Lo
+
+on top of
+small hill
+
+20 flakes
+0-20cm,10
+flakes
+20-40cm
+1 flake
+0-10cm
+
+JZ-36
+
+Pos
+
+41RE155
+
+JZ-37
+
+Pos
+
+41RE155
+
+JZ-38
+
+Pos
+
+41RE155
+
+AmaTerra Environmental, Inc.
+
+0-40
+
+10 YR 3/1
+
+Cl Lo
+
+flat spot near
+creek
+
+0-15
+
+10 YR 3/1
+
+Cl Lo
+
+flat spot near
+creek
+
+15-60
+
+10 YR 3/1
+
+Cl
+
+0-25
+
+10 YR 3/1
+
+Cl Lo
+
+25-50
+
+10 YR 3/2
+
+Cl
+
+flat spot near
+creek
+
+5 flakes
+0-20cm
+-
+
+A-13
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+Shovel
+Test
+
+Positive/
+Negative
+
+Resource
+ID
+
+Depth
+
+Color
+
+Texture
+
+Disturbances
+
+Cultural
+Material
+
+JZ-39
+
+N
+
+41RE155
+
+0-5
+
+10 YR 3/1
+
+Cl Lo
+
+near small bluff
+at creek edge
+
+-
+
+JZ-40
+
+Pos
+
+41RE155
+
+0-15
+
+10 YR 3/2
+
+Cl Lo
+
+flat spot near
+creek
+
+3 flakes
+0-20cm
+
+15-50
+
+10 YR 3/2
+
+Cl
+
+-
+
+JZ-41
+
+N
+
+41RE155
+
+0-60
+
+10 YR 2/1
+
+Cl
+
+Flat pasture
+area
+
+JZ-42
+
+N
+
+41RE155
+
+0-40
+
+10 YR 3/1
+
+Cl Lo
+
+Flat pasture
+area
+
+-
+
+JZ-43
+
+N
+
+-
+
+0-25
+
+10 YR 3/1
+
+Cl Lo
+
+on small slope
+withing fairly
+flat pasture
+
+-
+
+JZ-44
+
+N
+
+-
+
+0-20
+
+10 YR 3/1
+
+Cl Lo
+
+slight slope
+towards south
+
+-
+
+JZ-45
+
+N
+
+-
+
+0-15
+
+10 YR 3/1
+
+Cl Lo
+
+slight slope
+towards south
+
+-
+
+JZ-46
+
+N
+
+-
+
+0-5
+
+10 YR 3/1
+
+Cl Lo
+
+slight slope
+towards south
+
+-
+
+JZ-47
+
+N
+
+-
+
+0-5
+
+10 YR 3/1
+
+Cl Lo
+
+slight slope
+towards south
+
+-
+
+JZ-48
+
+N
+
+-
+
+0-5
+
+10 YR 3/1
+
+Cl Lo
+
+slight slope
+towards south
+
+-
+
+JZ-49
+
+N
+
+-
+
+0-5
+
+10 YR 3/1
+
+Cl Lo
+
+slight slope
+towards south
+
+-
+
+JZ-50
+
+N
+
+-
+
+0-5
+
+10 YR 3/1
+
+Cl Lo
+
+flat spot on side
+of large hill
+
+-
+
+JZ-51
+
+N
+
+-
+
+0-5
+
+10 YR 3/1
+
+Cl Lo
+
+flat spot on
+top of hill
+
+-
+
+0-20
+
+10 YR 3/2
+
+Si Cl
+
+flat pasture
+between hill
+and dry frio
+
+-
+
+20-55
+
+10 YR 3/1
+
+Cl
+
+0-20
+
+10 YR 3/2
+
+Si Cl
+
+flat pasture
+between hill
+and dry frio
+
+-
+
+20-55
+
+10 YR 3/1
+
+Si Cl
+
+0-20
+
+10 YR 3/2
+
+Si Cl
+
+flat pasture
+between hill
+and dry frio
+
+-
+
+20-50
+
+10 YR 3/1
+
+Si Cl
+
+0-25
+
+10 YR 3/2
+
+Si Cl
+
+flat pasture
+between hill
+and dry frio
+
+-
+
+25-55
+
+10 YR 3/1
+
+Si Cl
+
+0-15
+
+10 YR 3/1
+
+Si Cl
+
+near creek
+
+-
+
+0-15
+
+10 YR 3/2
+
+Si Cl
+
+flat pasture
+between hill
+and dry frio
+
+-
+
+15-50
+
+10 YR 3/1
+
+Si Cl
+
+0-15
+
+10 YR 3/2
+
+Si Cl
+
+flat pasture
+near creek
+
+1 flake
+0-20cm
+
+15-50
+
+10 YR 3/1
+
+Si Cl
+
+JZ-52
+
+JZ-53
+
+JZ-54
+
+N
+
+N
+
+N
+
+41RE159
+
+41RE159
+
+41RE159
+
+JZ-55
+
+N
+
+41RE159
+
+JZ-56
+
+N
+
+41RE159
+
+JZ-57
+
+JZ-58
+
+A-14
+
+N
+
+Pos
+
+41RE159
+
+41RE159
+
+-
+
+-
+
+AmaTerra Environmental, Inc.
+
+Appendix A
+
+Shovel
+Test
+JZ-59
+
+JZ-60
+
+Positive/
+Negative
+N
+
+N
+
+Resource
+ID
+41RE159
+
+41RE159
+
+Depth
+
+Color
+
+Texture
+
+Disturbances
+
+Cultural
+Material
+
+0-20
+
+10 YR 3/2
+
+Si Cl
+
+flat pasture
+between hill
+and dry frio
+
+-
+
+20-45
+
+10 YR 3/1
+
+Si Cl
+
+0-20
+
+10 YR 3/2
+
+Si Cl
+
+flat pasture
+between hill
+and dry frio
+
+-
+
+20-65
+
+10 YR 3/1
+
+Si Cl
+
+0-20
+
+10 YR 3/2
+
+Si Cl
+
+flat pasture
+
+-
+
+JZ-61
+
+N
+
+-
+
+20-45
+
+10 YR 3/2
+
+Cl
+
+JZ-62
+
+N
+
+-
+
+0-50
+
+10 YR 3/2
+
+Si Cl
+
+flat pasture
+
+-
+
+JZ-63
+
+N
+
+-
+
+0-10
+
+10 YR 3/2
+
+Si Cl
+
+flat pasture
+
+-
+
+AmaTerra Environmental, Inc.
+
+A-15
+
+An Archaeological Examination of the T-269 Camp Wood
+to Leakey Transmission Line Upgrade Project, Real County, Texas
+
+A-16
+
+AmaTerra Environmental, Inc.
+
+

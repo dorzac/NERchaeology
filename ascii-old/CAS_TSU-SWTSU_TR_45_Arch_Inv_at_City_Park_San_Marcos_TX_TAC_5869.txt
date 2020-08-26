@@ -1,0 +1,1540 @@
+Archaeological Investigations at
+City Park, San Marcos,
+Hays County, Texas
+
+by
+David M. Yelacic and Carole A. Leezer
+
+Principal Investigator: Carole A. Leezer
+Texas Antiquities Permit No. 5869
+
+Technical Report No. 45
+center for archaeological studies
+
+Texas State University-San Marcos
+2011
+
+The following information is provided in accordance with the General Rules of Practice and Procedures, Title 13, Chapter
+26, Texas Administrative Code:
+1. Type of investigation: Backhoe trench testing
+2. Project name: City Park Water Line
+3. County: Hays
+4. Principal Investigator: Carole A. Leezer
+5. Name and location of sponsoring agency: Capital Improvements,City of San Marcos
+6. Published by the Center for Archaeological Studies, Texas State University-San Marcos, 601 University Drive, San
+Marcos, Texas, 78666-4616 (2011)
+
+Texas State University-San Marcos is a member of the Texas State University System
+Copyright © 2011 by the Center for Archaeological Studies at Texas State University-San Marcos
+All rights reserved.
+
+No part of this book may be reproduced or utilized in any form or by any means,
+electronic or mechanical, including photocopying, recording,
+or by any information storage and retrieval system
+without permission in writing.
+For further information on this and other publications by
+the Center for Archaeological Studies, please contact:
+
+C enter
+
+for
+
+A rchaeological Studies
+
+Texas State University-San Marcos
+601 University Drive
+San Marcos, TX 78666-4616
+www.txstate.edu/anthropology/cas/
+Editor: Maggie McClain
+
+Cover photograph: CAS archaeologist Amy Benton screening soil from backhoe trench.
+Printed in the United States of America
+by
+Ginny’s Printing Inc., Austin
+
+Management Summary
+Project Title: City Park Water Line
+Project Description: Backhoe trench testing
+Local Sponsor: Capital Improvements, City of San Marcos
+Institution: Center for Archaeological Studies, Texas State University-San Marcos
+Principal Investigator: Carole Leezer
+Project Archaeologist: David Yelacic
+Crew Members: Amy Benton
+Texas Antiquities Permit: 5869
+Dates of Work: 1 February 2011
+Total Acreage Evaluated: approximately 0.27 acres
+Volume of Sediment Excavated: approximately 18 m3
+Purpose of Work: To identify, record, and evaluate the extent and integrity of cultural
+resources that would be impacted within the project area.
+Number of Sites: 1 (41HY319)
+Curation: Center for Archaeological Studies, Texas State University-San Marcos
+Comments: Backhoe trench excavations revealed archaeological deposits that were
+considered to be an extension of 41HY319. The excavations also revealed considerably
+disturbed sedimentary context of cultural resources.
+
+iii
+
+Abstract
+Archaeologists from the Center for Archaeological Studies (CAS) at Texas State University-San
+Marcos monitored and recorded the excavation of three backhoe trenches along the east bank of the
+San Marcos River in City Park, San Marcos, Texas. These backhoe trenches were excavated to assess
+the project area for potential impacts to cultural resources in advance of the installation of a new 8-inch
+water line by the City of San Marcos. Work was carried out by David M. Yelacic and Amy Benton on
+February 1, 2011, under Texas Antiquities Permit No. 5869, assigned to Principal Investigator Carole
+Leezer.
+The area of potential effect (APE) included both the eastern and western banks of the San Marcos
+River, just north of the Hopkins Street Bridge. Backhoe trench excavations focused on the east bank
+of the river within the project area, as the project area on the western bank having been considerably
+modified or disturbed in recent historic and modern times. No intact features or significant cultural
+strata were encountered. Accordingly, CAS recommends full regulatory clearance for the project to
+proceed with respect to requirements of the Texas Antiquities Code.
+
+iv
+
+Table of Contents
+Management Summary...........................................................................................................................iii
+Abstract................................................................................................................................................... iv
+List of Figures......................................................................................................................................... vi
+List of Tables..........................................................................................................................................vii
+Acknowledgments.................................................................................................................................viii
+Introduction.............................................................................................................................................. 1
+Project Area Setting................................................................................................................................. 3
+Geology and Soils............................................................................................................................ 3
+Climate and Weather....................................................................................................................... 3
+Flora and Fauna............................................................................................................................... 4
+Central Texas Cultural Chronology......................................................................................................... 4
+Prehistoric........................................................................................................................................ 4
+Paleoindian................................................................................................................................ 5
+Archaic...................................................................................................................................... 5
+Late Prehistoric......................................................................................................................... 6
+Protohistoric (Spanish Entrada Period)........................................................................................... 7
+Historic............................................................................................................................................ 8
+Previous Archaeological Investigations................................................................................................... 8
+Methods................................................................................................................................................... 9
+Results...................................................................................................................................................... 9
+Conclusions and Recommendations...................................................................................................... 14
+
+v
+
+List of Figures
+Figure 1. Project area location within San Marcos, Hays County, Texas...................................1
+Figure 2. City plans for water line installation...........................................................................2
+Figure 3. Project area, projected water line route, and backhoe trench locations.....................10
+Figure 4. Profile illustrations of BHT 1’s west and east walls..................................................11
+Figure 5. Profile illustrations of BHT 2 west wall and BHT 3 south wall................................13
+Figure 6. 1930 Sanborn map labeling structure as Municipal Sewage Disposal Plant.............15
+
+vi
+
+List of Tables
+Table 1. Artifacts recovered through ¼-inch screening of backhoe trench fill.........................12
+
+vii
+
+Acknowledgments
+The authors and the Center for Archaeological Studies greatly appreciate the support for this project
+that was provided by Rey Garcia of Capital Improvements, City of San Marcos. Amy Benton was
+tremendously helpful in the field and in editing the report. Maggie McClain assisted with the technical
+editing and formatted this report. Finally, CAS is gracious for the attention given to this project by the
+staff of the Texas Historical Commission.
+
+viii
+
+Introduction
+On February 1, 2011, archaeologists from
+the Center for Archaeological Studies (CAS) at
+Texas State University-San Marcos conducted
+subsurface archaeological investigations at
+City Park on behalf of the City of San Marcos
+(City), Hays County, Texas. City Park is located
+approximately 800 meters (m) downstream of the
+San Marcos Springs on the left (east) bank of the
+San Marcos River (Figure 1). The City plans to
+replace an abandoned 16-inch wastewater line
+with an 8-inch water line at this location.
+Replacement will begin on the western bank
+of the San Marcos River at San Marcos Plaza. The
+line will continue beneath the pedestrian bridge
+across the river, then it will make a 90° turn to the
+north. The line will then run parallel to the river
+for approximately 70 m and make a 90° turn to the
+east to end at the Lions Club building (Figure 2).
+The trench required for installing this line would
+be approximately 1.2 m deep and 0.6 m wide.
+Accordingly, CAS archaeologists monitored and
+recorded three backhoe trench excavations on the
+banks of the San Marcos River along the route of
+
+the water line. This report presents the results of
+these archaeological investigations.
+The City’s standing as a political entity
+within the State of Texas causes this proposed
+development to be subject to provisions of the
+Antiquities Code of Texas (ACT). The ACT
+requires that such an undertaking consider
+the potential impact on any cultural resources
+that might be present and that might contribute
+information that is meaningful or significant to
+understanding the history and/or prehistory of the
+State of Texas. Cultural resources located on land
+owned or controlled by the State of Texas, or its
+political subdivisions, are protected by the ACT
+(Texas Natural Resources Code, Title 9, Chapter
+191), which identifies significant sites as State
+Archaeological Landmarks (SALs). ACT Rules
+of Practice and Procedure, as defined by the Texas
+Historical Commission (THC), are explicit about
+perception and protection of cultural resources
+located on State-owned or controlled land:
+. . . archeological sites and historic structures
+on lands belonging to state agencies or
+political subdivisions of the State of Texas
+
+Figure 1. Project area location within San Marcos, Hays County, Texas.
+
+Figure 2. City plans for water line installation.
+
+are State Archeological Landmarks or may
+be eligible to be designated as landmarks
+. . . The State of Texas considers that all
+publicly owned archeological sites and
+historic structures have some intrinsic
+historic value, and the Antiquities Code
+provides some level of protection for those
+sites . . . regardless of their size, character,
+or ability to currently yield data that will
+contribute important information on the
+history or prehistory of Texas . . . (26.2).
+
+1. The site has the potential to contribute to a
+better understanding of the prehistory and/
+or history of Texas by the addition of new
+and important information;
+
+As all cultural resources located in, on,
+or under State-owned or controlled land are
+considered eligible for SAL status, and not all
+cultural resources are appropriately designated
+as such or directly threatened by development,
+the THC has criteria for practically assessing the
+significance and/or need for further investigations
+under the permit process (Rules and Practice,
+Chapter 26.8):
+
+4. The study of the site offers the opportunity
+to test theories and methods of preservation,
+thereby contributing to new scientific
+knowledge;
+
+2. The site’s archeological deposits and the
+artifacts within the site are preserved and
+intact, thereby supporting the research
+potential or preservation interests of the site;
+3. The site possesses unique or rare attributes
+concerning Texas prehistory and/or history;
+
+5. The high likelihood that vandalism and
+relic collecting has occurred or could
+occur, and official landmark designation is
+needed to insure maximum legal protection,
+or alternatively further investigation are
+2
+
+needed to mitigate the effects of vandalism
+and relic collecting when the site cannot be
+protected.
+
+Alluvium (Qal), as mapped by the Bureau of
+Economic Geology (Proctor et al. 1974). Qal
+consists of recent flood deposits. In proximity
+to the project area, Qal abuts middle Cretaceous
+limestones, Del Rio Clay and Georgetown
+Formation undivided (Kdg), and Eagle Ford
+Group and Buda Limestone undivided (Keb), as
+well as late Pleistocene Fluviatile terrace deposits
+(Qt).
+
+Under formatting standards set forth by the
+Council of Texas Archeologists and adopted by
+the THC, this report provides a brief overview
+of the regulatory requirements for this project
+(above), defines the project area setting, outlines
+regional and local trends in archaeology, describes
+the methods used in gathering data, and presents
+the results of the survey. The fieldwork for this
+project was performed by David Yelacic and Amy
+Benton. All archaeological work was performed
+under auspices of Texas Antiquities Permit No.
+5869, granted to Principal Investigator Carole
+Leezer.
+
+Soils of the project area are also the result
+of flood deposits. The project area is situated on
+Oakalla soils, frequently flooded (Ok). Oakalla
+series soils are typically deep, well-drained,
+calcareous loams that are situated on near-level
+floodplains. These soils have an A-(B)-C profile,
+with the A horizon being brown to grayishbrown, B horizon (where present) appearing
+grayish-brown to light yellowish-brown, and the
+C horizon being brown to light yellowish-brown.
+As these soils are formed in accumulations of
+alluvium, they do have the potential to contain
+stratified cultural deposits.
+
+Project Area Setting
+The project area is centrally located within
+the City of San Marcos, in south-central Hays
+County, Texas. The San Marcos River issues
+forth from the base of the Balcones Escarpment,
+approximately 800 m upstream from the APE.
+The Balcones Escarpment marks a transition
+between the Blackland Prairie environment to the
+east and the Edwards Plateau, or Hill Country,
+environment to the west. These environmental
+transitions are known as ecotones, and they
+are typically high-energy settings capable of
+supporting richly diverse plants and animals
+(Crumley 1994). Because of its abundance of
+water and stone for toolmaking, in addition to
+a wealth of plants and animals, this particular
+region was and is an attractive locale for human
+occupation.
+
+Climate and Weather
+The following weather statistics are based on
+a 30-year record (1951–1980). Mean maximum
+temperatures of summers approach 97°F, and
+winters have mean minimum temperatures of
+approximately 50°F in Hays County (Bomar
+1983). December and January are the only two
+months on record that have not had temperatures
+above 90°F, whereas freezing temperatures have
+been recorded from October through April.
+The mean annual precipitation recorded for
+Hays County is 33.75 inches. Precipitation in
+the county is bimodal, with most precipitation
+occurring in the late spring and in the early fall
+(Dixon 2000). Weather in this region is dynamic
+and often marked by severe events. Hazardous
+weather comes in the form of extraordinary
+downpours and droughts. With thin soils and
+
+Geology and Soils
+Bedrock geology of the region is complex
+because of the Balcones Fault Zone, but the project
+area is small and situated within Quaternary
+3
+
+high-relief bedrock topography, the Hill Country
+is notorious for flash flooding. As moisture-rich
+maritime air approaches the Balcones Escarpment
+(a prominent topographic feature), the air is lifted
+and the moisture condensed, and then quickly
+unloaded (Caran and Baker 1986; Slade 1986).
+As a result, the affected drainage basins rapidly
+fill their waterways. Drought can also be an
+expected feature of Central Texas weather; there
+is not a decade in the twentieth century that did
+not include drought (Bomar 1983:153).
+
+City Park is situated along the banks
+of the San Marcos River, where the natural
+vegetation has been modified considerably in
+order to accommodate various infrastructure
+constructions and general improvements through
+the years. Wildlife has changed accordingly
+and is now well-suited for picnickers’ curious
+contributions. Despite changes to the banks, the
+river remains home to a variety of fish as well
+as rare or endemic and endangered salamanders,
+prawn, and wildrice (Kutac and Caran 1994).
+
+Flora and Fauna
+
+Central Texas Cultural
+Chronology
+
+Floral and faunal characteristics of both
+adjoining environmental regions (Edwards
+Plateau and Blackland Prairie) mingle along
+the Balcones Escarpment. Blair (1950), calling
+this ecotone the Balconian Province, noted that
+it contained wildlife from every other region in
+the state, and it also contained endemic species.
+Typical modern fauna found in the region
+includes armadillo, badger, beaver, black rat,
+coyote, crayfish, domestic dog, eastern cottontail,
+eastern gray squirrel, eastern wood rat, horse,
+muskrat, common opossum, pig, raccoon, red
+fox, turkey, western diamondback rattlesnake,
+white-tailed deer, and white-tailed jackrabbit,
+in addition to bountiful other mammals, birds,
+reptiles, amphibians, and fish. In prehistory,
+many of the same animals were present, along
+with bison and antelope.
+
+The cultural chronologies for Central and
+South Texas are not well understood or agreed
+upon. However, archaeological deposits indicate
+rich cultural development spanning several
+millennia. Black (1995), Hester (1995, 2004), and
+Collins (1995, 2004) have recently synthesized
+available archaeological evidence from the
+region. All dates are in the radiocarbon time scale
+and given as years before present (BP, i.e., before
+1950). Human presence is divided into three
+periods: Prehistoric, Protohistoric and Historic.
+
+Prehistoric
+The Prehistoric period is divided into three
+major temporal stages: Paleoindian, Archaic, and
+Late Prehistoric. The Paleoindian stage begins
+with the earliest known human occupation of
+North America and extends to approximately
+8800 BP. The Archaic stage follows, extending
+from ca. 8800 BP to 1250 BP. The Late Prehistoric
+stage begins ca. 1250 BP and is characterized by
+the development of bow and arrow and ceramic
+technologies.
+
+The region’s natural vegetation is generally
+a grassland-woodland-shrubland mosaic, where
+grasslands separate patches of woody vegetation
+(Ellis et al. 1995). Along the escarpment,
+mesquite, post oak, and blackjack oaks interrupt
+patches of bluestems, gramas, and many other
+types of grass in the Blackland Prairie. These
+species are also found with the Edwards Plateau’s
+live oak, shinnery oak, junipers, and mesquite
+(Gould 1962).
+
+4
+
+Paleoindian
+
+Archaic
+
+Collins (1995:381–385, 2004) dated the
+Paleoindian period in Central Texas to 11,500–
+8800 BP; the Paleoindian is futher divided into
+Early (ca. 11,500–10,200 BP) and Late (ca.
+10,200–8800 BP) phases. Early Paleoindian
+artifacts are associated with the Clovis and Folsom
+cultures, and diagnostic items include fluted,
+lanceolate projectile points. The Clovis culture is
+also characterized by well-made prismatic blades
+(Collins 1995; Green 1964). The Early Paleoindian
+stage is generally characterized by nomadic
+cultures that relied heavily on hunting large game
+animals (Black 1989). However, recent research
+has suggested that Early Paleoindian subsistence
+patterns were considerably more diverse than
+previously thought and included reliance on local
+fauna, including turtles (Black 1989; Bousman et
+al. 2004; Collins and Brown 2000; Hester 1983;
+Lemke and Timperley 2008). Folsom cultures
+are considered to be specialized bison hunters,
+as inferred from the geographic location and
+artifactual composition of sites (Collins 1995).
+
+Collins (1995, 2004) has contended that
+the Archaic stage in Central Texas lasted
+approximately 7500 years, from 8800 to
+1200/1300 BP, and has divided the stage into
+Early, Middle, and Late Archaic based on Weir’s
+(1976) chronology. The Archaic stage marks
+several transitions: a shift in hunting focus from
+Pleistocene megafauna to smaller animals, the
+increased use of plant food resources and use
+of ground stones in food processing, increased
+implementation of stone cooking technology,
+increased use of organic materials for tool
+manufacturing and an increase in the number
+and variety of lithic tools for woodworking,
+the predominance of corner- and side-notched
+projectile points, greater population stability and
+less residential mobility, and systematic burial
+of the dead. What appears as a new emphasis on
+organic materials in tool technologies and diet is
+more likely a reflection of preservation bias.
+
+Early Archaic
+Although Collins (1995:383, 2004) argued
+that the Early Archaic spanned the period
+from 8800 to 6000 BP based on three divisions
+of projectile point types, the current project
+considers the Early Archaic to have extended
+from 8800 to 5800 BP, based on Collins
+(1995) and modified by Prewitt (1981, 1985).
+This cultural period is distinguished from
+previous periods by significant changes in lithic
+technology, such as notched projectile points,
+specialized tools (e.g., Clear Fork and Guadalupe
+bifaces), and dietary adjustment evidenced by the
+increased number of ground stone artifacts and
+burned rock midden cooking features (Collins
+1995; Turner and Hester 1993:246–256). Shifts in
+subsistence were the result of a variable climate
+and concomitant variation in game resources
+such as (Dillehay 1974). Collins (1995) suggested
+that Early Archaic peoples occupied the wetter
+
+The Late Paleoindian substage occurred
+from ca. 10,200 to 8800 BP. Reliable evidence
+for these dates was recovered from the WilsonLeonard site north of Austin (Bousman et
+al. 2004; Collins 1998). At Wilson-Leonard,
+archaeologists excavated an occupation known
+as Wilson, named for the unique cornernotched projectile point. The dense occupation
+also included a human burial (Bousman et al.
+2004; Collins 1998). In addition to the Wilson
+occupation, Golondrina-Barber and St. Mary’s
+Hall components, dating between 9500 and 8800
+BP, were excavated. Collins (1995) suggested
+the Wilson, Golondrina-Barber, and St. Mary’s
+Hall components represent a transitional period
+between the Paleoindian and Archaic periods due
+to the subtle presence of notched projectile points
+and burned rock cooking features.
+
+5
+
+portions of the Edwards Plateau. Early Archaic
+sites are thinly dispersed and are seen across a
+wide area of Texas and northern Mexico (Weir
+1976). However, Collins (1995:383) noted a
+concentration of Early Archaic components
+along the southeastern margins of the Edwards
+Plateau, close to major spring localities such as
+in San Marcos.
+
+more arid episodes, the aquifer-fed streams and
+resource-rich environments of Central Texas
+were extensively utilized (Story 1985:40; Weir
+1976:125, 128).
+
+Late Archaic
+The Central Texas Late Archaic spanned the
+period of ca. 4000–1250 BP (Collins 1995:384,
+2004). For finer resolution, the current project
+divides the Late Archaic period by Johnson
+and Goode’s (1994) subperiods: Late Archaic I,
+4000–2200 BP, and Late Archaic II, 2200–1250
+BP. Sites with ideal stratigraphic separation may
+reveal three discernable subperiods for the Late
+Archaic (e.g., Prewitt 1981, 1985). Late Archaic
+I, according to Johnson and Goode (1994), is
+marked by two significant cultural traits: 1) the
+billet thinning of bifacial knives and projectile
+points leapt forward in artistry and technology,
+and 2) the human population appeared to
+have increased. Although these patterns vary
+considerably through time and from one subregion
+to another, they strongly shape the archaeological
+record of the Late Archaic. Overall, evidence
+suggests an increasingly mesic climate through
+the Late Archaic (Collins 1995; Johnson and
+Goode 1994; Mauldin et al. 2010). Mauldin et al.
+(2010) suggested that climatic variation resulted
+in a general decrease in grassland bison range.
+Some archaeologists have noted the presence of
+cemeteries at sites such as Ernest Witte (Hall
+1981) and Olmos Dam (Lukowski 1988) as
+evidence that populations indeed increased in size
+and that groups were becoming territorial (Story
+1985:44–45). However, other archaeologists
+have challenged the interpretation of a growing
+population by citing a decrease in burned rock
+middens (Prewitt 1981:80–81).
+
+Middle Archaic
+The Middle Archaic, defined by Collins
+(1995, 2004) as 6000–4000 BP (5800–4000 BP
+for the current project), is approximately marked
+by the onset of the Altithermal. The climate
+fluctuated from arid to mesic, then back to arid in
+Central Texas during the Altithermal. Vegetation
+and wildlife regimes all fluctuated in response
+to these environmental oscillations, with human
+groups responding accordingly. Collins (1995)
+divided the Middle Archaic period by projectile
+point style intervals: Bell-Andice-Calf Creek,
+Taylor, and Nolan and Travis. The Bell-AndiceCalf Creek interval occurred during a mesic
+period when grasslands, attractive to bison
+herds, expanded southward into Central and
+South Texas. Bell-Andice-Calf Creek peoples,
+as evidenced by hunting-based lithic technology,
+were specialized bison hunters who followed the
+herds southward (Johnson and Goode 1994). As
+the period shifted from mesic to arid, both bison
+and bison hunters retreated northward. During
+this transitional period, Taylor bifaces were
+manufactured. Later in the Middle Archaic, Taylor
+bifaces were replaced by Nolan and Travis points
+(Collins 1995, 2004). The Nolan-Travis interval
+was a period when temperature and aridity were
+at their highest levels. Prehistoric inhabitants
+acclimated themselves to peak aridity as seen
+through increased utilization of xerophytes such
+as sotol (Johnson and Goode 1994). These plants,
+typically baked in earthen ovens, also reflect the
+development of burned rock middens. During
+
+Late Prehistoric
+Collins (1995, 2004) dated the Late
+Prehistoric in Central Texas at 1,300/1,200–260
+
+6
+
+BP, and followed Kelley (1947) in dividing it into
+Austin and Toyah phases. The current project
+delimits the Austin phase to 1250–750 BP and the
+Toyah phase to 750–300 BP. The most distinctive
+changes in relation to previous eras include
+a technological shift away from the dart and
+atlatl to the bow and arrow, and the more or less
+concurrent appearance of pottery (Black 1989:32;
+Story 1985:45–47).
+
+assemblages display Caddo, Texas Gulf Coast,
+and Jornada Mogollon influences (Arnn 2005).
+In addition to shifts in material technology,
+Mauldin et al. (2010) suggested that bison
+herds foraged across increasingly widespread
+ranges, at least partly in response to the climatic
+patterns described above. They (Mauldin et al.
+2010) concluded that this change in bison herd
+behavior is partly responsible for a change in
+Toyah hunting strategy, involving increasingly
+logistically organized hunting forays in pursuit
+of spatially dispersed herds. Based on the ratio
+of zooarchaeological to archaeobotanical data
+associated with types of sites (e.g., bulk plant
+processing, bulk meat processing, residential),
+Dering (2008) provided further evidence of
+Toyah phase logistically oriented subsistence
+strategies and broad diet breadths. Included with
+logistical subsistence strategies was what appears
+to be either trade for horticultural products not
+produced in Central Texas or of limited localized
+horticultural practices. Both scenarios involve
+maize, which is exceedingly uncommon in
+Toyah-phase archaeological contexts in Central
+Texas, but which has been reported from at least
+three locales, the Kyle Rockshelter (41HI1) in
+Hill County (Jelks 1962), Bear Branch (41CA13)
+in Callahan County (Adams 2002), and the
+Timmeron Rockshleter (41HY95) in Hays County
+(Harris 1985).
+
+Austin Phase
+The Austin phase is characterized primarily
+by the appearance of arrow points including
+Scallorn and Edwards types. Evidence for
+increased social strife, and perhaps overall
+population density, has been seen in numerous
+Central Texas burials dated to this period,
+which have revealed incidents of arrow-wound
+deaths, suggesting that population growth may
+have resulted in disputes over limited resource
+availability (Black 1989; Meissner 1991; Prewitt
+1974). Burned rock middens are occasionally
+found with these types of points (Houk and Lohse
+1993), and ground and pecked stone tools, used
+for plant food processing, become increasingly
+common in the Austin phase.
+
+Toyah Phase
+The beginning of the Toyah phase (750 BP)
+in Central Texas is characterized by contracting
+stem points with flaring, barbed shoulders (a style
+known as Perdiz); by the common occurrence of
+blade technology that is considered to be part of
+a specialized Toyah bison hunting and processing
+toolkit (Black and McGraw 1985; Huebner 1991;
+Ricklis 1994); and by the appearance of bonetempered pottery in Central Texas (Johnson
+1994:241–281). The wide variety of ceramic
+styles and influences seen throughout Toyah
+phase ceramic assemblages provides information
+about the social composition of these cultural
+groups (Arnn 2005). Toyah-phase ceramic
+
+Protohistoric (Spanish Entrada
+Period)
+In Texas, the Protohistoric period, also known
+as the Spanish Entrada period, was marked by
+Spanish entradas, the formal expeditions from
+established forts and missions in Northern Mexico
+into Central, Coastal, and East Texas in the late
+seventeenth and early eighteenth centuries.
+These encounters began with the venture into
+Texas by the Spanish explorer Cabeza de Vaca
+and the Narvaez expedition in AD 1528. The
+
+7
+
+period is generally dated between 1500 and 1700
+(or 1528, the date of the Cabeza de Vaca/Narvaez
+expedition, to the establishment of Mission San
+Antonio de Valero in 1718).
+
+in 1718, and the later founding of San Antonio
+de Béxar (Bolton 1970; de la Teja 1995; Habig
+1977). Some researchers have demarcated
+the transition in Texas between the Spanish
+Entrada (Protohistoric) and Historic periods by
+the construction of the first Spanish missions
+in Texas. Most knowledge of this period has
+been gained through the written records of the
+early Spanish missionaries. Besides the mission
+town of San Antonio, the only other Spanish
+settlement in the region was San Marcos de Neve,
+established in 1808, four miles south of present
+day San Marcos. San Marcos de Neve was
+abandoned in 1812 as a result of constant raids
+by local tribes (Dobie 1932). During this time,
+massive depopulation occurred among the Native
+Americans, mostly due to European diseases to
+which the indigenous people had little resistance.
+Those few indigenous people remaining were
+nearly all displaced to reservations by the mid1850s (Fisher 1998).
+
+With Alonso de León’s expedition of 1680, El
+Camino Real (the King’s Road) was established
+from Villa Santiago de la Monclova in Mexico
+to East Texas. This roadway followed established
+Native American trade routes and trails, and
+became a vital link between Mission San Juan
+Bautista in Northern Mexico and the Spanish
+settlement of Los Adaes in East Texas (McGraw
+et al. 1991). Spanish priests accompanying
+entradas provided the most complete information
+of indigenous cultures of early Texas. Those
+documented during the early entradas include the
+Cantona, Muruam, Payaya, Sana, and Yojuane,
+who were settled around the springs at San
+Marcos and described as semi-nomadic bands.
+Other tribes encountered at San Marcos included
+mobile hunting parties from villages in South and
+West Texas, including Catequeza, Cayanaaya,
+Chalome, Cibolo, and Jumano, who were heading
+toward bison hunting grounds in the Blackland
+Prairies (Foster 1995:265–289; Johnson and
+Campbell 1992; Newcomb 1993). Later groups
+who migrated into the region and displaced the
+earlier groups or tribes included the Tonkawa
+from Oklahoma and Lipan and Comanche from
+the Plains (Campbell and Campbell 1985; Dunn
+1911; Newcomb 1961, 1993).
+
+European presence in the region increased
+as settlers received land grants from the Mexican
+government until 1835. Settlement was difficult,
+however, due to continuation of hostilities with
+and raids by Native American tribes. The Texas
+Rangers provided protection from these conflicts
+after Texas secured independence from Mexico
+in 1836. Settlement in the region increased until
+1845, when Texas gained admission to the United
+States, resulting in the formation of Hays County
+three years later (Bousman and Nickels 2003).
+
+Archaeological sites dated to this period
+often contain a mix of both European imported
+goods such as metal objects and glass beads, and
+traditional Native American artifacts such as
+manufactured stone tools.
+
+Previous Archaeological
+Investigations
+Previous archaeological investigations in
+areas adjacent to the San Marcos River have
+demonstrated a high probability of the existence
+of stratified and buried historic and prehistoric
+resources. Several sites in the area are composed
+
+Historic
+Spanish settlement in Central Texas first
+occurred in San Antonio with the establishment
+of Mission San Antonio de Valero (the Alamo)
+8
+
+of intact archaeological deposits extending
+to approximately one meter in depth (King
+2007). CAS conducted archaeological testing
+investigations of the City Park playground in
+advance of renovation in October 2001 (Barrera
+2002). Investigations indicated that intact
+subsurface deposits are present below the upper
+50 centimeters (cm) of disturbed deposits. Site
+41HY319 was subsequently recorded in this
+location. As the area of potential effect would
+not impact deposits below 50 cm, the renovation
+project was granted clearance to proceed.
+
+Each trench measured approximately 4 m in
+length and 1.5 m wide, and each was excavated
+to a depth of at least 1.2 m below the surface, a
+greater depth than that of the line installation.
+Each trench was excavated in approximately
+30-cm levels, and five 5-gallon buckets full of
+sediment from each level was passed through
+¼-inch hardware mesh to recover any artifacts
+present. In addition to screening, excavation
+was monitored and unscreened sediment was
+inspected for any artifacts. Artifacts recovered
+were placed in bags corresponding to their
+provenience (trench and level).
+
+In March 2007, additional archaeological
+investigations were conducted to the south of
+City Park in advance of a pedestrian bridge
+constructed parallel to Hopkins Street (King
+2007). Undisturbed prehistoric cultural deposits
+were encountered between 30 and 70 cm below
+surface. As a result, the location was designated
+as site 41HY432. Investigations during this
+project were limited to the project area; however,
+there is a strong possibility that 41HY432 extends
+outside of the pedestrian bridge area of potential
+effect and into City Park (on the east side of
+the river). Recovered cultural material and the
+depth at which it was observed in place was
+similar to that of 41HY319, and the two sites may
+therefore be associated (King 2007). No further
+archaeological investigations of 41HY432 were
+recommended, and plans for development were
+granted clearance to proceed.
+
+Following excavation, each trench was
+recorded through photographs, illustrations, and
+profile descriptions. Illustrations and descriptions
+were intended to focus on depositional modes and
+postdepositional disturbances, either of which
+could potentially elucidate the integrity of the
+sediments and any cultural resources contained
+therein. Sediment and soil characteristics,
+including depth, texture, consistence, color,
+structure, inclusions, and lower boundary, were
+recorded for at least one profile in each trench.
+Each description corresponds with an illustration.
+After recording, each trench was in-filled with its
+excavated sediment.
+
+Results
+The portion of the area of potential effect (APE)
+on the west side of the river has been previously
+impacted by installation of multiple subterranean
+utility lines and sidewalk construction. In the
+field, it was deemed unnecessary and dangerous
+to excavate any backhoe trenches in that area.
+On the east side of the river, however, much of
+the APE was not known to have been previously
+impacted. Accordingly, investigations of
+subsurface cultural deposits focused on this area
+(Figure 3). In this area, the banks of the river are
+
+Methods
+An agreed-upon appropriate level of effort
+for investigating subsurface cultural resources,
+which could potentially be impacted by the
+installation of an 8-inch water line, consisted of
+three backhoe trench excavations. This effort
+met and exceeded standards set by the Council
+of Texas Archeologists and adopted by the THC.
+9
+
+Figure 3. Project area, projected water line route, and backhoe trench locations.
+
+slightly convex and rise at an approximately 10–
+15 percent slope. The natural landscape within
+the APE had clearly been modified in historic
+and recent times; a structure, playground,
+improved hiking trail, approximately 20-m-tall
+lighted tree frame, and many utility lines were
+all present in proximity, and natural vegetation
+was absent, except at the bank of the river. Three
+backhoe trench excavations exposed similarly
+compromised sediment and soil profiles, and
+yielded a mixture of artifacts.
+
+Backhoe Trench (BHT) 1 was excavated
+approximately 15 m north of the Hopkins Street
+pedestrian bridge, oriented parallel to the flow of
+the river (approximately north-south) about 5 m
+from the water’s edge. East and west wall profile
+exposures presented slightly different sediment
+columns (Figure 4). Inconsistencies between
+the walls pertained to Zones 3, 3a, and 4. In the
+west wall, Zone 3’s dark reddish-brown, mottled
+gravelly clay makes up nearly one-half of the
+profile and extends below the floor of the trench
+in places. In the east wall, Zone 3 is a mere sliver
+
+10
+
+Figure 4. Profile illustrations of BHT 1’s west and east walls.
+
+in the southeast corner, thus indicating that the
+zone pinches out to the northeast. Zone 3a, which
+is above Zone 3 in the west wall, and Zone 4,
+which is below Zone 3 in the east wall, are nearly
+identical; both are dark brown gravelly clay,
+and all three zones contain a modest amount of
+charcoal. In the west wall, where Zone 3 is more
+prominent, the lower boundary represents an
+
+unconformity, but it is not clear that the sediment
+below is intact.
+As mentioned, the sediment below Zone 3
+in the east wall is the clearly compromised Zone
+4. Historic to modern artifacts present (Table
+1) in gross levels that encompass these three
+zones indicate recent disturbance, and therefore
+
+11
+
+Table 1. Artifacts recovered through ¼-inch screening of backhoe trench fill.
+
+Provenience
+Lot
+
+BHT
+No.
+
+Depth
+(cmbs)
+
+Class
+
+Type
+
+1
+
+1
+
+30–60
+
+Metal
+
+Nail
+
+2
+
+1
+
+60–90
+
+Glass
+
+Vessel
+
+3
+
+1
+
+90–120
+
+Metal
+
+Nail
+
+3
+3
+4
+5
+5
+5
+5
+6
+6
+
+1
+1
+1
+2
+2
+2
+2
+2
+2
+
+90–120
+Bone
+90–120 Building material
+n/a
+Personal Item
+0–30
+Other
+0–30
+Metal
+0–30
+Bone
+0–30 Building material
+30–60
+Metal
+30–60
+Ceramic
+
+7
+
+2
+
+60–90
+
+Metal
+
+Nail
+
+8
+8
+9
+9
+10
+10
+10
+11
+11
+11
+11
+11
+12
+12
+12
+12
+
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+90–120
+90–120
+0–30
+0–30
+30–60
+30–60
+30–60
+60–90
+60–90
+60–90
+60–90
+60–90
+90–120
+90–120
+90–120
+90–120
+
+Metal
+Lithic
+Organic
+Other
+Ceramic
+Bone
+Lithic
+Bone
+Glass
+Ceramic
+Lithic
+Metal
+Bone
+Ceramic
+Lithic
+Metal
+
+Unknown
+Debitage
+Other
+Plastic
+Conduit
+Fauna
+Debitage
+Faunal
+Vessel
+Conduit
+Debitage
+Unknown
+Faunal
+Terra cotta
+Debitage
+Unknown
+
+Faunal
+Brick
+Button
+Plastic
+Container
+Faunal
+Other
+Unknown
+Stoneware
+
+indicate that the sediment and soil above these
+disturbed zones are also relatively young. At the
+top of the profile, Zones 1 and 2 are consistent
+in terms of depth and characteristics between the
+east and west wall of BHT 1; both are very dark
+in color, have a considerable amount of clay, and
+the lower boundary of Zone 2 (at contact with
+Zone 3 and 4) is abrupt and smooth.
+
+Description
+Wire (ca. 1850–present, Sutton and
+Arkush 2002)
+Red (ca. 1940s–1960s, Lindsey 2011)
+Wire, fragment (ca. 1850–present,
+Sutton and Arkush 2002)
+Turtle (n=1), mammal (n=1)
+Red, weathered fragment
+2-hole shell button, 8 mm dia.
+Pink and yellow
+Pull tab (ca. 1962+, Busch 1981)
+Mammal
+Burned rock with lamination
+Heavily oxidized fragments
+White/cream
+Wire (ca. 1850–present, Sutton and
+Arkush 2002)
+Heavily oxidized fragments
+Chert flake
+Burned plant material
+Clear
+Conduit fragment
+Bovid tooth
+Chert flake
+Turtle (n=6), mammal (n=1)
+Colorless
+Conduit fragment
+Chert flakes
+Heavily oxidized fragments
+Unknown
+Vessel sherd
+Chert flakes
+Heavily oxidized fragment
+
+Count
+1
+1
+1
+2
+1
+1
+2
+6
+1
+1
+8
+1
+1
+3
+1
+1
+1
+2
+1
+1
+7
+1
+1
+3
+8
+4
+1
+4
+1
+
+BHT 2 was also oriented parallel to the flow of
+the river, and it was excavated approximately 45
+m north of the bridge and 10 m from the channel
+(slightly higher ground than BHT 1). Compared
+to BHT 1, BHT 2 exposed slightly different,
+disturbed sediment and soil profiles (Figure 5).
+At the bottom of the profile, only a small amount
+
+12
+
+Figure 5. Profile illustrations of BHT 2 west wall and BHT 3 south wall.
+
+of sediment that was not clearly disturbed, and
+yet not necessarily intact, was exposed beneath
+an unconformity at approximately 115 cm below
+surface. Above this interface, sediments were
+clearly disturbed and recent historic to modern
+in age. Zones 6 and 7 were both mottled mixtures
+of overlying sediments and contained relatively
+larger gravels, and Zone 6 contained a cement
+
+slab or block, approximately 20 cm thick. Only
+the corner of this cement feature was exposed,
+but it was solidly in place within the wall.
+Additionally, Zones 6 and 7 yielded a number of
+recent historic/modern and prehistoric artifacts,
+including miscellaneous metal fragments, a
+round nail, and a chert flake. Zone 5 was present
+in only the southeast portion of east wall, and the
+
+13
+
+zone was composed of very dark brown gravelly
+clay. Zone 4, similarly, pinched out to the north
+but was composed of dark brown silty clay
+with considerably less (only 3 percent) gravels.
+Zone 4 contained approximately 15 percent
+mottles of yellowish-red clay. Zones 4 and 5
+composed level 2 of the BHT excavation, which
+yielded miscellaneous metal fragments and
+one stoneware sherd. Zone 3, dark brown silty
+clay, also contained about 15 percent mottles of
+yellowish-red clay. Above Zone 3, Zone 2 was a
+very thin bed of pale brown sand underneath very
+dark brown loamy clay (Zone 1). Between Zones
+1 and 3, plastic, pull tabs, machine-cut bone, and
+modern construction material was found.
+
+by varying amounts of gravel and lighter coloring
+with depth. Between 30 cm and 90 cm below
+surface, which consists of Zones 2–4, many
+ceramic conduit fragments were encountered
+(one from each level was collected, see Table 1).
+The presence of ceramic conduit fragments
+and a personal conversation with a utility worker
+prompted archival research. Sanborn maps,
+which were originally created for insurance
+purposes, were reviewed to investigate the history
+of the project area. On a 1930 Sanborn map, the
+structure nearby the project area is labeled as
+the Municipal Sewage Disposal Plant (Figure 6).
+Kimmel (2006:76) identifies that the San Marcos
+Sewer Company began the wastewater treatment/
+disposal in 1907, and he also notes that the bridge,
+under which the new water line will be installed,
+was originally called the Black Pipe Bridge due
+to the sewage pipe running across the river at that
+point.
+
+BHT 3 was the farthest north excavation,
+approximately 80 m north of the bridge, and this
+trench was excavated perpendicular to the flow
+of the river. BHT 3 extended from approximately
+10 to 13 m from the modern channel edge of the
+San Marcos River. This trench, like the first two,
+exposed relatively recently disturbed deposits
+(Figure 5). From 30 cm below surface to 136 cm,
+there was a mixture of stone artifacts (e.g., chert
+flakes) with recent historic/modern artifacts in
+each excavated level. The integrity of Zone 6,
+which was truncated by Zone 5, was unclear due
+to the very limited encounter with its sediment.
+Zone 6 may have been natural but truncated by
+human constructions and deposition of Zone 5,
+but only a very small portion of the zone was
+encountered. Given the orientation of BHT 3,
+Zone 6 is on the opposite side of the trench in
+which the water line will be laid, and so it will
+not likely be encountered. Zone 5 is very dark
+grayish-brown silty clay and contains a 10 percent
+mixture of Zones 3 and 4 mottles. Zone 5 also
+contains a small lens of very pale sand, Zone 5a.
+Zones 4 and 5 both appear to pinch out towards
+the west. Zones 1–3 have lower boundaries that
+are parallel to the surface and are distinguishable
+
+Despite the presence of historic San Marcos
+infrastructure and historic and prehistoric
+artifacts, no intact deposits or features were
+encountered. All of the sediment and soils
+excavated appear to have been compromised
+recently.
+
+Conclusions and
+Recommendations
+The City of San Marcos, Texas, intends to
+install an 8-inch water line that will span a portion
+of the east and west banks (bridging the river)
+of City Park, which is just less than a kilometer
+from the springs at the head of the San Marcos
+River. As a political subdivision of the State of
+Texas, work performed by the City using State
+funds and/or involving State-owned property
+requires compliance with the ACT. A level of
+
+14
+
+Figure 6. 1930 Sanborn map labeling structure as Municipal Sewage Disposal Plant.
+
+effort deemed appropriate by the City, State, and
+CAS included the excavation of three backhoe
+trenches along the route of the new water line.
+
+levels for control, and approximately 25 gallons
+of sediment were screened from each level.
+Much of the material recovered from screening
+was recent historic to modern in age, but there
+were some nondiagnostic stone tools that likely
+represent prehistoric use and or occupation.
+The artifacts recovered were not characteristic
+of any intact features or significant cultural
+strata. Nonetheless, prehistoric cultural remains
+encountered are considered to be an extension
+of 41HY319. An updated TexSite form with
+expanded site boundaries will be filed with the
+Texas Archeological Research Laboratory.
+
+The west side of the San Marcos River in the
+APE has been considerably modified in recent
+historic and modern times. Therefore, three
+backhoe trench excavations focused on the east
+bank of the river within the project area. These
+three backhoe trenches were all approximately
+1.5 m wide, 12 m long, and at least 1.2 m deep.
+All of the backhoe trenches exposed disturbed
+sediment profiles from the surface to near the
+floor of each trench. Each backhoe trench was
+excavated in approximately 30-cm arbitrary
+
+15
+
+Investigations of subsurface deposits in City
+Park on the east bank of the San Marcos River
+did not reveal cultural resources that could be
+considered significant to the City’s, State’s,
+
+or Country’s history. CAS recommends full
+regulatory clearance for the project to proceed
+with respect to requirements of the Antiquities
+Code of Texas.
+
+16
+
+R eferences Cited
+Adams, Karen R.
+2002 Appendix 4b: Archaeobotanical Remains from 41CA13 (the Bear Branch Site), a Prehistoric
+Rock Ring Midden in Callahan County, Central Texas. In Data Recovery at the Bear Branch
+Site (41CA13), Callahan County, Texas, by Paul Katz and Susana R. Katz, pp. 156–166.
+Report on file with the Natural Resource Conservation Service, Temple, Texas.
+Arnn, John
+2005 Chronology, Technology, and Subsistence: Is That All There Is? Council of Texas
+Archeologists Newsletter 2(2):17–28.
+Barrera, Jimmy
+2002 San Marcos City Park Archaeological Survey, Hays County, Texas. Technical Report No. 4.
+Center for Archaeological Studies, Southwest Texas State University, San Marcos.
+Black, Stephen L.
+1989 Central Texas Plateau Prairie. In From the Gulf Coast to the Rio Grande: Human Adaptation
+in the Central, South, and Lower Pecos, Texas, edited by Thomas R. Hester, Stephen L.
+Black, D. Gentry Steele, Ben W. Olive, Anne A. Fox, Karl J. Reinhard, and Leland C.
+Bement, pp.17–38. Research Series No. 33. Arkansas Archeological Survey, Fayetteville.
+1995 Archeological and Ethnohistorical Background. In Archeological Investigations at the Loma
+Sandia Site (41LK28): A Prehistoric Campsite in Live Oak County, Texas, Vol. 1, edited by
+Anna Jean Taylor and Cheryl Lynn Highley, pp. 31–45. Studies in Archeology No. 20. Texas
+Archeological Research Laboratory, The University of Texas at Austin.
+Black, Stephen L., and Al J. McGraw
+1985 The Panther Springs Creek Site: Cultural Change and Continuity in the Upper Salado
+Creek Drainage, South-Central Texas. Archaeological Survey Report No. 100. Center for
+Archaeological Research, The University of Texas at San Antonio.
+Blair, W. Frank
+1950 The Biotic Provinces of Texas. Texas Journal of Science 2(1):93–117.
+Bolton, Herbert E.
+1970 [1915]
+Texas in the Middle Eighteenth Century: Studies in Spanish Colonial History and
+Administration, Vol. 3. University of California Publications in History. University of
+California, Berkeley.
+Bomar, George W.
+1983 Texas Weather. University of Texas Press, Austin.
+
+17
+
+Bousman, C. Britt, Barry W. Baker, and Anne C. Kerr
+2004 Paleoindian Archeology in Texas. In The Prehistory of Texas, edited by Timothy K. Perttula,
+pp. 15–97. Texas A&M Press, College Station.
+Bousman, C. Britt, and David L. Nickels (assemblers)
+2003 Archaeological Testing of the Burleson Homestead at 41HY37, Hays County, Texas.
+Archaeological Studies Report No. 4. Center for Archaeological Studies, Texas State
+University-San Marcos.
+Busch, Jane
+1981 An Introduction to the Tin Can. Historical Archaeology 15(1):95–104.
+Campbell, T. N., and T. J. Campbell
+1985 Indian Groups Associated with Spanish Missions of the San Antonio Missions National
+Historical Park. Special Report No. 16. Center for Archaeological Research, The University
+of Texas at San Antonio.
+Caran, S. Christopher, and Victor R. Baker
+1986 Flooding along the Balcones Escarpment, Central Texas. In The Balcones Escarpment, edited
+by Patrick L. Abbott and C. M. Woodruff, Jr., pp. 1–14. Published for the Geological Society
+of America Annual Meeting, San Antonio, Texas.
+Collins, Michael B. (editor)
+1998 Wilson-Leonard: An 11,000-year Archeological Record of Hunter-Gatherers in Central
+Texas, Volume I: Introduction, Background, and Synthesis. Studies in Archeology 31, Texas
+Archeological Research Laboratory, The University of Texas at Austin; Archeological
+Studies Program, Report 10, Environmental Affairs Division, Texas Department of
+Transportation, Austin.
+Collins, Michael B.
+1995 Forty Years of Archaeology in Texas. Bulletin of the Texas Archeological Society 66:361–
+400.
+2004 Archeology in Central Texas. In The Prehistory of Texas, edited by Timothy K. Perttula, pp.
+101–126. Texas A&M University Press, College Station.
+Collins, Michael B., and Kenneth M. Brown
+2000 The Gault Gisement: Some Preliminary Observations. Current Archeology in Texas 2(1):163–
+166.
+Crumley, Carole L. (editor)
+1994 Historical Ecology: Cultural Knowledge and Changing Landscapes. School of American
+Research Press, Santa Fe, New Mexico.
+
+18
+
+de la Teja, Jesús F.
+1995 San Antonio de Bexár: A Community on New Spain’s Northern Frontier. University of New
+Mexico Press, Albuquerque.
+Dering, Phil
+2008 Late Prehistoric Subsistence Economy on the Edwards Plateau. Plains Anthropologist
+53(205):59–77.
+Dillehay, Thomas D.
+1974 Late Quaternary Bison Population Changes on the Southern Plains. Plains Anthropologist
+19(64):180–196.
+Dixon, Richard
+2000 Climatology of the Freeman Ranch, Hays County, Texas. Freeman Ranch Publication Series
+No. 3-2000. Texas State University-San Marcos, Texas.
+Dobie, Dudley R.
+1932 The History of Hays County, Texas. Unpublished Master’s thesis, Department of History,
+The University of Texas at Austin.
+Dunn, William E.
+1911 Apache Relations in Texas, 1718–1750. Southwestern Historical Quarterly 14:198–274.
+Ellis, Linda Wootan, G. Lain Ellis, and Charles D. Frederick
+1995 Implications of Environmental Diversity in the Central Texas Archeological Region. Bulletin
+of the Texas Archeological Society 66:401–426.
+Fisher, Lewis F.
+1998 The Spanish Missions of San Antonio. Maverick Publishing Company, San Antonio, Texas.
+Foster, William C.
+1995 Spanish Expeditions into Texas 1689–1768. The University of Texas Press, Austin.
+Gould, F. W.
+1962 Texas Plants—A Checklist and Ecological Summary. The Agricultural and Mechanical
+College of Texas, Texas Agricultural Experiment Station, College Station.
+Green, F. E.
+1964 The Clovis Blades: An Important Addition to the Llano Complex. American Antiquity
+29:145–165.
+Habig, Marion A.
+1977 The Alamo Mission: San Antonio de Valero, 1718–1793. Franciscan Herald Press, Chicago.
+
+19
+
+Hall, Grant D.
+1981 Allens Creek: A Study in the Cultural Prehistory of the Brazos River Valley, Texas. Texas
+Archaeological Survey Research Report No. 61. The University of Texas at Austin.
+Harris, Edwin S.
+1985 An Archaeological Study of the Timmeron Rockshelter (41HY95), Hays County, South Central
+Texas. Special Publication No. 4. South Texas Archeological Association, San Antonio.
+Hester, Thomas R.
+1983 Late Paleo-Indian Occupations at Baker Cave, Southwestern Texas. Bulletin of the Texas
+Archeological Society 53:101–119.
+1995 The Prehistory of South Texas. Bulletin of the Texas Archeological Society 66:427–459.
+2004 The Prehistory of South Texas. In The Prehistory of Texas, edited by Timothy Perttula, pp.
+127–151. Texas A&M University Press, College Station.
+Houk, Brett A., and Jon C. Lohse
+1993 Archeological Investigations at the Mingo Site, Bandera County, Texas. Bulletin of the Texas
+Archeological Society 61:193–247.
+Huebner, Jeffery A.
+1991 Late Prehistoric Bison Populations in Central and Southern Texas. Plains Anthropologist
+36(137):343–358.
+Jelks, Edward B.
+1962 The Kyle Site: A Stratified Central Texas Aspect Site in Hill Country, Texas. Archaeology
+Series, No. 5. Department of Anthropology, The University of Texas at Austin.
+Johnson, LeRoy, Jr.
+1994 The Life and Times of Toyah-Culture Folk: The Buckhollow Encampment Site 41KM16
+Kimble County, Texas. Office of the State Archeologist Report 38. Texas Department of
+Transportation and Texas Historical Commission, Austin.
+Johnson, LeRoy, Jr., and T. N. Campbell
+1992 Sanan: Traces of a Previously Unknown Aboriginal Language in Colonial Coahuila and
+Texas. Plains Anthropologist 37(140):185–212.
+Johnson, LeRoy, Jr., and Glenn T. Goode
+1994 A New Try at Dating and Characterizing Holocene Climates, as well as Archeological
+Periods, on the Eastern Edwards Plateau. Bulletin of the Texas Archeological Society 65:1–51.
+Kelley, J. Charles
+1947 The Lehmen Rock Shelter: A Stratified Site of the Toyah, Uvalde, and Round Rock Foci.
+Bulletin of Texas Archeological and Paleontological Society 18:115–128.
+
+20
+
+Kimmel, Jim
+2006 The San Marcos: A River’s Story. Texas A&M University Press, College Station.
+King, Brian
+2007 Archeological Survey of the Proposed City of San Marcos Pedestrian Bridge in Hays
+County, Texas. Archeology Series No. 183. Hicks & Company, Austin, Texas.
+Kutac, Edward A., and S. Christopher Caran
+1994 Birds and Other Wildlife of South Central Texas. University of Texas Press, Austin.
+Lemke, Ashley, and Cinda Timperley
+2008 Preliminary Analysis of Turtle Material from the Gault Site, Texas. Current Research in the
+Pleistocene 25:115–117.
+Lindsey, Bill
+2011 Historic Glass Bottle Identification and Information Website. Electronic document, http://
+www.sha.org/bottle/index.htm, accessed February 2011.
+Lukowski, Paul D., with contributions by Robert F. Scott, IV, and Richard F. Shoup
+1988 Archaeological Investigations at 41BX1, Bexar County, Texas. Archaeological Survey Report
+No. 135. Center for Archaeological Research, The University of Texas at San Antonio.
+Mauldin, Raymond P., Jennifer Thompson, and Leonard Kemp
+2010 Reconsidering the Role of Bison in the Terminal Late Prehistoric (Toyah) Period in Texas.
+Submitted for inclusion in Revisiting the Late Prehistoric in Central Texas: the Toyah Phase,
+edited by Nancy Kenmotsu and Doug Boyd. Plains Anthropologist Memoir, manuscript in
+press.
+McGraw, Al J., John W. Clarke, Jr., and Elizabeth A. Robbins (editors)
+1991 A Texas Legacy: The Old San Antonio Road and the Caminos Reales, A Tricentennial
+History, 1691–1991. Texas State Department of Highways and Public Transportation, Austin.
+
+Meissner, Barbara
+1991
+
+Notes on the Excavation of 41BX952. Manuscript on file, Center for Archaeological
+Research, The University of Texas at San Antonio.
+
+Newcomb, William W., Jr.
+1961 The Indians of Texas From Prehistoric to Modern Times. University of Texas Press, Austin.
+1993 Historic Indians of Central Texas. Bulletin of the Texas Archeological Society 64:1–63.
+Prewitt, Elton R.
+1974 Preliminary Archeological Investigations in the Rio Grande Delta Area of Texas. Bulletin of
+the Texas Archeological Society 45:55–65.
+1981 Culture Chronology in Central Texas. Bulletin of the Texas Archeological Society 52:65–89.
+21
+
+1985
+
+From Circleville to Toyah: Comments on Central Texas Chronology. Bulletin of the Texas
+Archeological Society 54:201–238.
+
+Proctor, C. V., Jr., T. E. Brown, N. B. Waechter, S. Aronow, and V. E. Barnes
+1974 Geologic Atlas of Texas, Seguin Sheet. Francis Luther Whitney Memorial Edition. Bureau of
+Economic Geology, The University of Texas, Austin.
+Ricklis, Robert A.
+1994 Toyah Components: Evidence for Occupation in the Project Area During the Latter Part of
+the Late Prehistoric Period. In Archaic and Late Prehistoric Human Ecology in the Middle
+Onion Creek Valley, Hays County, Texas, by Robert A. Ricklis and Michael B. Collins,
+pp. 207–316. Studies in Archeology 19. Texas Archeological Research Laboratory, The
+University of Texas at Austin.
+Slade, Raymond M., Jr.
+1986 Large Rainstorms along the Balcones Escarpment in Central Texas. In The Balcones
+Escarpment, edited by Patrick L. Abbott and C. M. Woodruff, Jr. pp. 15–20. Published for the
+Geological Society of America Annual Meeting, San Antonio, Texas.
+Story, Dee Ann
+1985 Adaptive Strategies of Archaic Cultures of the West Gulf Coastal Plain. In Prehistoric Food
+Production in North America, edited by Richard I. Ford, pp. 19–56. Anthropological Papers
+No. 75. Museum of Anthropology, University of Michigan, Ann Arbor.
+Sutton, Mark Q., and Brooke S. Arkush
+2002 Archaeological Laboratory Methods: An Introduction. Kendall/Hunt Publishing Company,
+Dubuqe, Iowa.
+Turner, Ellen S., and Thomas R. Hester
+1993 A Field Guide to Stone Artifacts of Texas Indians. 2nd ed. Texas Monthly Field Guide Series.
+Gulf Publishing Company, Houston.
+Weir, Frank A.
+1976 The Central Texas Archaic. Unpublished Ph.D. dissertation, Anthropology Department,
+Washington State University, Pullman.
+
+22
+
+

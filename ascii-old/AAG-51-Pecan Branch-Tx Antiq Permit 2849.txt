@@ -1,0 +1,3035 @@
+ARCHAEOLOGICAL TESTING OF THE PECAN BRANCH
+INFLOW AND OUTFLOW LINES
+FOR THE CITY OF GEORGETOWN, WILLIAMSON COUNTY, TEXAS
+Texas Antiquities Permit Number 2849
+
+By
+Michael R. Bradle
+John Griggs, Ph.D.
+and
+Gilbert T. Bernhardt
+American Archaeology Group LLC
+Report of Investigations Number 51
+2008
+
+ARCHAEOLOGICAL TESTING OF THE PECAN BRANCH
+INFLOW AND OUTFLOW LINES
+FOR THE CITY OF GEORGETOWN, WILLIAMSON COUNTY, TEXAS
+
+By
+Michael R. Bradle
+John Griggs, Ph.D.
+and
+Gilbert T. Bernhardt
+Principal Investigator: Michael R. Bradle
+American Archaeology Group LLC
+Report of Investigations Number 51
+Prepared for
+City of Georgetown
+P. O. Box 409
+Georgetown, Texas 78627
+Prepared by
+American Archaeology Group LLC
+P.O. Box 1017
+Lampasas, Texas 76550
+
+ABSTRACT
+American Archaeology Group LLC (AAG) conducted archaeological testing for the City
+of Georgetown along outflow and inflow lines of the Pecan Branch Wastewater Treatment Plant
+between April and July 2002. The objectives of testing were to identify the horizontal and
+vertical distribution of cultural deposits located during a previous investigation by another
+contractor and to obtain cultural-chronological data appropriate to evaluate further the
+significance of the deposits. Eight backhoe trenches and two test units were excavated in the
+outflow right-of-way, and one long backhoe trench (~ 30 meters) was excavated along the route
+of the inflow line. The testing documented six prehistoric hearth features on the outflow line and
+two prehistoric hearth features on the inflow line. The features on the inflow line are considered
+here to fall within the boundaries of previously registered site 41WM828. AAG recorded the
+features along the outflow line as 41WM1063. Both sites are considered worthy of designation
+as State Archaeological Landmarks. All materials recovered in the excavations will be curated at
+the Texas Archeological Research Laboratory.
+
+ii
+
+ACKNOWLEDGEMENTS
+American Archaeology Group LLC is grateful to those whose cooperation made the
+completion of this project possible. Joel Weaver and Michael Hallmark served as our primary
+contacts at the City of Georgetown and visited the project area to ensure the proper areas were
+examined and provided the survey crew with engineering maps. They are also thanked for their
+avid interest in protecting and preserving local cultural resources. William Cummings from the
+City of Georgetown conducted all backhoe trenching operations. He is thanked for his hard
+work with the crew and his diligence in working with sensitive archaeological deposits. Michael
+R. Bradle served as Principal Investigator for the project, and Gilbert T. Bernhardt was the
+Geoarchaeologist. The excavation crew consisted of Michael R. Bradle, James S. Belew, Steven
+J. Bradle, Gilbert T. Bernhardt, Ron Ralph, James Gibbs and David D. Bradle. John C. Griggs,
+Ph.D., assisted the project by preparing a review of previous investigations in the project area
+and finalizing the report. Henry B. Stoneham, former Assistant State Director of the United
+States Department of Agriculture, Soil Conservation Service, is thanked for sharing his
+knowledge of local soils and providing pedological interpretations. Ed Baker of the Archeology
+Division of the Texas Historical commission served as our reviewer. William Martin of the
+Texas Historical Commission also provided valuable input on the project area. AAG is grateful
+to both Ed Baker and William Martin for their visit to the project area during the field
+investigation. Carolyn Spock and Jean Hughes at the Texas Archeological Research Laboratory
+provided assistance with record searches and site information.
+
+iii
+
+CONTENTS
+ABSTRACT........................................................................................................................ ii
+ACKNOWLELDGEMENTS ............................................................................................ iii
+INTRODUCTION ...............................................................................................................1
+ENVIRONMENTAL SETTING .........................................................................................5
+ARCHAEOLOGICAL BACKGROUND ...........................................................................7
+PREVIOUS INVESTIGATIONS IN WILLIAMSON COUNTY ....................................10
+PREVIOUS INVESTIGATIONS IN THE PECAN BRANCH PROJECT AREA ..........12
+PROJECT METHODOLOGY...........................................................................................23
+GEOARCHAEOLOGY OF THE PECAN BRANCH INFLOW AND OUTFLOW
+LINES ................................................................................................................................24
+RESULTS AND CONCLUSIONS ...................................................................................33
+RECOMMENDATIONS...................................................................................................45
+REFERENCES CITED......................................................................................................46
+APPENDIX I: FEATURE LOG FOR INFLOW LINE TRENCH, SITE 41WM828.......52
+APPENDIX II: ARTIFACT COLLECTION LOG FOR INFLOW LINE TRENCH,
+SITE 41WM828 .......................................................................................53
+APPENDIX III: FEATURE LOG FOR OUTFLOW LINE TRENCHES, SITE
+41WM1063 .............................................................................................54
+APPENDIX II: ARTIFACT COLLECTION LOG FOR OUTLOW LINE TRENCH,
+SITE 41WM1063 .....................................................................................55
+FIGURES
+FIGURE 1: MAP SHOWING GENERAL LOCATION OF THE PROJECT AREA........2
+FIGURE 2: MAP SHOWING PROJECT AREA AND CENTROIDS OF SITE
+41WM828 AND 41WM1063...........................................................................3
+
+iv
+
+FIGURE 3: MAP SHOWING LOCATION OF PROJECT AREA AND THE MAXINE
+HARRIS SITE................................................................................................12
+FIGURE 4: AERIAL PHOTO OF PROJECT AREA SHOWING THE FIVE âZONESâ
+OF THE 2000 HICKS AND COMPANY SURVEY ....................................13
+FIGURE 5: PREHISTORIC FEATURES ENCOUNTERED IN ZONE 3 OF THE 2000
+SURVEY ........................................................................................................14
+FIGURE 6: PREHISTORIC FEATURES ENCOUNTERED IN ZONE 1 OF THE 2000
+SURVEY ........................................................................................................15
+FIGURE 7: AERIAL PHOTO OF PROJECT AREA SHOWING THE THREE
+âZONESâ OF THE SECOND HICKS AND COMPANY SURVEY ...........16
+FIGURE 8: PROFILE DRAWING OF THE STRATIGRAPHY IN ZONE 1 OF THE
+2001 SURVEY ...............................................................................................17
+FIGURE 9: PREHISTORIC FEATURES ENCOUNTERED IN ZONE 1 OF THE 2001
+SURVEY ........................................................................................................17
+FIGURE 10: DIAGNOSTIC PROJECTILE POINTS RECOVERED IN ZONE 1..........18
+FIGURE 11: PROFILE DRAWING OF THE STRATIGRAPHY IN ZONE 2 OF THE
+2001 SURVEY..............................................................................................18
+FIGURE 12: PREHISTORIC FEATURES ENCOUNTERED IN ZONE 2 OF THE
+2001 SURVEY..............................................................................................19
+FIGURE 13: DIAGNOSTIC PROJECTILE POINTS RECOVERED IN ZONE 2..........20
+FIGURE 14: RADIOCARBON DATES FROM THE 2001 SURVEY............................14
+FIGURE 15: KEY INFORMATION RELATING TO ANALYTICAL UNITS OF THE
+2001 SURVEY..............................................................................................15
+FIGURE 16: A TOPOGRAPHIC, SOILS AND GEOLOGY MAP OF THE STUDY
+AREA WITH INSETS SHOWING THE LOCATIONS OF BACKHOE
+TRENCHES AND ARCHAEOLOGICAL FEATURES .............................25
+FIGURE 17: PROFILE OF LINE A,B,C AS SHOWN ON FIGURE 16 .........................26
+FIGURE 18: DATA FROM GEOARCHAEOLOGICAL STUDY OF SG3A .................28
+FIGURE 19: INFLOW LINE FEATURE 1 ......................................................................34
+
+v
+
+FIGURE 20: INFLOW LINE FEATURE 2 ......................................................................35
+FIGURE 21: OUTFLOW LINE FEATURE 1 ..................................................................36
+FIGURE 22: OUTFLOW LINE FEATURE 2 ..................................................................37
+FIGURE 23: CHIPPED STONE ARTIFACTS FROM OUTFLOW LINE
+FEATURE 2..................................................................................................37
+FIGURE 24: HISTORIC ARTIFACTS FROM OUTFLOW LINE FEATURE 2............38
+FIGURE 25: OUTFLOW LINE FEATURE 3 ..................................................................39
+FIGURE 26: OUTFLOW LINE FEATURE 4 ..................................................................40
+FIGURE 27: OUTFLOW LINE FEATURE 5 ..................................................................41
+FIGURE 28: OUTFLOW LINE FEATURE 6 ..................................................................42
+
+vi
+
+INTRODUCTION
+Between April and July 2002, American Archaeology Group LLC (AAG) conducted
+archaeological test excavations along proposed inflow and outflow pipeline routes at the Pecan
+Branch Wastewater Treatment Plant in central Williamson County, Texas (Figure 1). The
+testing was conducted for the City of Georgetown under the auspices of Texas Antiquities Permit
+2849.
+AAGâs investigation followed three prior archaeological surveys conducted between
+1995 and 2001 in anticipation of the construction of the plant (Feit and Griffith 2000; Karbula et
+al. 2004). 1 The surveys identified prehistoric cultural remains throughout the 47-acre project
+area and recorded two prehistoric archaeological sites with intact, buried cultural deposits,
+primarily rock hearth features (Karbula et al. 2004). The two sites are 41WM828, also known as
+the Maxine Harris Site, and 41WM965 (Karbula et al. 2004, RCRI 2008).
+Site 41WM828 was identified during a 1995 survey by Lone Star Archaeological
+Services (Karbula et al. 2004:1, 19). The site was originally recorded based on remains
+recovered on a Late Pleistocene terrace overlain with shallow Holocene sediments in the central
+portion of the project area (RCRI 2008). A 2001 survey by Hicks and Company yielded
+evidence suggesting that the site extends into the Berry Creek floodplain, encompassing site
+41WM965, and beyond the boundaries of the project area (Karbula et al. 2004:1,19). Site
+41WM828 contains Archaic and Late Prehistoric components.
+Site 41WM965 was recorded on the basis of two buried hearth features on the west bank
+of Berry Creek in a 2000 Hicks and Company survey (Karbula et al. 2004; RCRI 2008). No
+temporally diagnostic remains were recovered during the 2000 investigation and no additional
+research was conducted at the site in the 2001 Hicks and Company survey.
+In a draft report on the 2001 Hicks and Company, Karbula et al. (2004:2) made the
+following recommendations to the Texas Historical Commission (THC) with regard to the
+planned wastewater plant project: 1) absolute avoidance of the Berry Creek floodplain, 2)
+additional testing of intact buried archaeological components under both the inflow and outflow
+lines, 3) regulatory clearance for the plant site, and 4) regulatory clearance for an historic
+farmstead in the northwest corner of the project area. Additionally, Karbula et al. (2004:2)
+proposed that archaeological components in the Berry Creek floodplain were eligible for State
+Archaeological Landmark (SAL) status and that archaeological components on the terrace were
+ineligible for SAL status.
+The THC granted clearance for construction of the wastewater plant, concurred that the
+Berry Creek floodplain was SAL eligible and should be avoided, and requested additional
+excavations along the outflow line and two alternative inflow line routes designated as Plan B
+and Plan C (Karbula et al. 2004:2-3). Hicks and Company proceeded with testing along the two
+
+1
+
+One additional survey not related to the construction of the wastewater plant was conducted in 1986 by the
+Environmental Protection Agency. That survey, which overlapped the current project area, yielded negative results
+(Karbula et al. 2004:18).
+1
+
+alternative inflow line routes and recommended regulatory clearance for Plan C in a draft report
+for the project (Karbula et al. 2004:4).
+
+Figure 1: Map showing general location of the project area.
+Upon review of Hicks and Companyâs draft report for the 2001 survey, the THC
+expressed concern over two key issues: 1) that archaeological components on the terrace might
+be worthy of SAL designation (in contrast to the recommendation by Hicks and Company) and
+2) that results of testing on the Plan C inflow line did not warrant regulatory clearance. The
+THC recommended additional sampling of cultural remains along the Plan C inflow line for
+radiocarbon dating and floatation analysis (Karbula et al. 2004:4).
+After the THC issued its findings, the City of Georgetown opted to discontinue the
+services of Hicks and Company. The City then contracted with AAG to conduct additional
+archaeological fieldwork to identify the horizontal and vertical distribution of cultural deposits
+located along the outflow and inflow lines and to obtain cultural-chronological data appropriate
+
+2
+
+to evaluate the significance of the deposits (Figure 2). The fieldwork included backhoe
+trenching, the excavation of test units and geoarchaeological analysis.
+On the inflow line, one long backhoe trench (BHT), approximately 30 meters in length,
+was excavated along a section of the proposed inflow line route where cultural remains had been
+documented in previous surveys. Two prehistoric hearth features (outflow features 1 and 2)
+were encountered during the excavation of the trench. These features were hand-excavated. No
+temporally-diagnostic artifacts were recovered. The features are considered here to fall within
+the boundaries of previously registered Site 41WM828.
+
+Figure 2: Map showing project area and centroids of sites 41WM828 and 41WM1063 (USGS
+1982.)
+Fieldwork on the outflow line involved the excavation of eight backhoe trenches. Six
+prehistoric hearth features (outflow features 1-6) were encountered during the excavation of the
+trenches. These features were subsequently hand-excavated. Additionally, three test units were
+excavated in trench walls to determine if certain features extended into the walls. One
+
+3
+
+temporally diagnostic artifact, a Late Prehistoric arrow point fragment, was recovered in Feature
+2 at BHT-109. The feature extended from 8-24 centimeters below ground surface. An
+accelerator mass spectrometry (AMS) radiocarbon assay run on a sample of bone from the
+feature yielded a conventional radiocarbon date of 440 Â± 40 B.P (Beta-245519). Based on the
+findings on the outflow line, AAG registered the outflow line as site 41WM1063.
+This report was submitted in partial completion of Texas Antiquities Permit 2849. It
+includes the results of archaeological testing by AAG at the Pecan Branch Wastewater Treatment
+Facility and recommendations pertaining to planned construction. Additionally, this report
+contains a geoarchaeological study of the project area which correlates AAGâs stratigraphic
+sequence with the sequence presented in the report for the 2001 Hicks and Company survey
+(Karbula et al. 2004).
+
+4
+
+ENVIROMENTAL SETTING
+Natural Setting
+The project area lies between Pecan Branch and Berry Creek in central Williamson
+County, Texas (see Figure 2). Both Pecan Branch and Berry Creek drain into the San Gabriel
+River approximately 560 feet (170 meters) south of the southeast corner of the project area. The
+topographic position of the project area fluctuates from 650 to 700 feet (198 to 213 meters) in
+elevation above mean sea level.
+The project area is located within the Texan biotic province as defined by Blair (1950:110102). This province includes the broad ecotone between the forests of the Austroriparian and
+Carolinian provinces of eastern Texas and Oklahoma and the grasslands of the western parts of
+these states (Dice 1943). According to Blair (1950:100), the southwestern boundary is arbitrarily
+defined by soil type at the line separating pedalfers from pedocals. The Balcones escarpment forms
+an abrupt western boundary for the central part of this province in Texas, and the western boundary
+in north Texas corresponds to the western boundary of the Western Cross Timbers. Rainfall in the
+Texan province barely exceeds water need, and the region is classified by Thornwaite (1948) as a
+moist subhumid climate with a moisture surplus index of from zero to 20 percent.
+Soils
+The project area is depicted on sheet number 37 in the soils book for Williamson County
+(Werchan and Coker 1983). The soil types are: Oakalla silty clay loam, occasionally flooded
+(Oa), Oakalla soils, frequently flooded (Of), and Krum silty clay, 1 to 3 percent slopes (KsB).
+Oakalla silty clay loam, occasionally flooded (Oa) are nearly level soils (slope 0 to 1
+percent) on smooth bottomlands in long and narrow areas lying parallel to streams. The upper
+layer typically is silty clay loam about 32 inches thick, dark grayish brown in the upper part and
+dark brown in the lower part. The subsoil generally is a light yellowish brown silty clay loam
+extending to about 60 inches. The soil throughout is calcareous (Werchan and Coker 1983:44).
+Oakalla soils, frequently flooded (Of) are nearly level soils on long and narrow
+bottomlands that can be flooded several times annually. The upper layer typically is 34 inches of
+silty clay loam. The subsoil generally is a grayish brown silty clay extending approximately 60
+inches below the surface. In general, soil removal is balanced by soil deposition, thus creating a
+constant cutting and filling of soil deposits (Werchan and Coker 1983:45).
+Krum silty clay, 1 to 3 percent slopes (KsB) is a gently sloping soil located on ancient
+high stream terraces. The surface layer generally is dark grayish brown silty clay loam
+approximately 22 inches thick. The upper part of the subsoil generally is a dark brown silty clay
+extending to a depth of approximately 48 inches below the surface. The lower part of the subsoil
+is generally a mottled, reddish yellow and dark brown silty clay with many fine and medium
+hard concretions and some soft masses of calcium carbonate, extending to a depth of
+approximately 60 inches (Werchan and Coker 1983:44).
+
+5
+
+Vegetation
+The vegetation of this area has been described in detail by Tharp (1926). The Texan
+province has been defined as being located near the borderline between moisture surplus and
+moisture deficiency. Sandy soils support an oak-hickory forest in which the principal dominants are
+post oak (Quercus stellata), blackjack oak (Quercus marilandica), and hickory (Carya buckleyi).
+Clay soils originally supported a tall-grass prairie, but much of this soil type has been put into
+cultivation. The reader is referred to Blair (1950) for an in-depth description of the Texan Biotic
+province.
+
+6
+
+ARCHAEOLOGICAL BACKGROUND
+Williamson County is located in the North Central Texas cultural-geographical region as
+defined by Biesaart et al. (1985:76). This area is referred to as Central Texas by most
+archaeologists and is rich archaeological sites.
+Summaries relevant to the prehistory of Williamson County and vicinity have prepared
+by various archaeologists, primarily as a result of work at the Fort Hood Military Installation
+(Guderjan et al. 1980; Skinner et al. 1981; Thomas 1978; Roemer et al. 1985; Carlson et al.
+1986), Belton Reservoir (Shafer et al. 1964), the Youngsport site (Shafer 1963), and Stillhouse
+Hollow Reservoir (Shafer et al. 1964; Sorrow et al. 1967). Weir (1976), and Prewitt (1981,
+1985) have published summaries of the region. Additional work by Prewitt (1974) at the LoeveFox site has also provided additional data on local inhabitants in Williamson County, Texas.
+Most recently, two thorough articles concerning Central Texas were published in Volume 66 of
+the Bulletin of the Texas Archaeological Society. These works, entitled âForty Years of
+Archaeology in Central Texas,â by Michael B. Collins (1995) and âImplications of
+Environmental Diversity in the central Texas Archaeological Regionâ by Linda Wootan Ellis, G.
+Lain Ellis, and Charles D. Frederick (1995), represent a major synthesis of the vast amount of
+collected data for the region. The following discussion is taken primarily from the works cited
+above.
+Paleoindian Period
+According to Willey and Phillips (1958:80), problems exist with the term âPaleoindian;â
+nevertheless, the term is used ubiquitously in the archaeological literature, often to refer to
+prehistoric cultures oriented toward big game procurement as a primary means of subsistence.
+Collins (1995:381) posited instead that during Clovis times, Paleoindians exploited a diverse
+range of fauna that not only included large herbivores such as mammoth, bison, and horse, but
+also included smaller animals such as turtles, land tortoises, alligators, mice, badgers, and
+raccoons. The results of excavation of a cultural pavement at Kincaid Rockshelter suggest that
+the Paleoindian inhabitants of the site returned there repeatedly as part of a regular hunting and
+gathering strategy, in contrast with the migratory subsistence pattern of nomadic hunters who
+only pursued big game. Thus, it is probable that the Clovis diet included a broad array of plants
+(Collins 1990; Collins et al. 1989).
+According to Skinner et al. (1981:13), the Paleoindian period is one of the least
+understood time periods in Central Texas prehistory, primarily because so few sites have been
+excavated. For example, as of 1985, only two Paleoindian sites had been reported for Bell
+County (Biesaart et al. 1985:125). Evidence of Paleoindian cultures consists primarily of surfacecollected materials found over much of Central Texas. At Fort Hood, distinctive Paleoindian
+projectile points were found in multi-component surface sites and as isolated finds (Carlson et al.
+1986:125). Generally, it is believed that this period lasted from about 10,000 B.C. until 6000
+B.C. Diagnostic artifacts of the period include dart points of the Angostura, Clovis, Folsom,
+Golondrina, and Plainview types as defined by Suhm and Jelks (1962) and Turner and Hester
+(1985).
+
+7
+
+These early sites are often found on old terraces of major river drainages and are typically
+more distant from major streams than more recent occupations (Bryan 1931). Some
+rockshelters, such as the Levi site, were intensively occupied even though they are located a
+considerable distance from major rivers. The only example of a Paleoindian occupation site in
+Central Texas adjacent to a major drainage is the Horn Shelter (41BQ46) in Bosque County
+(Redder 1985). Collins (1999) recently reported on archaeological work at the Gault Site, a
+major Clovis site in Bell County that was still being studied at this writing.
+Archaic Period
+The Archaic is a comparatively lengthy cultural period, which persisted in Central Texas
+from approximately 8500-1250 years Before Present (B.P.). According to Prewitt (1981:71),
+âThe Archaic Stage dominates all other remains in Central Texas.â Prewitt (1981) has
+subdivided the Archaic into eleven phases. Johnson (1987) has questioned the validity of the
+phase concept as used by Prewitt, especially the phases occurring before the Middle Archaic.
+Carlson et al. (1986:15) grouped these into Early, Middle, Late, and Terminal Periods.
+According to Prewitt (1981:77-78), during the Early Archaic there was a âstrong
+orientation toward the gathering aspect rather than the hunting, and a mobile population was of
+low density.â These characteristics apparently were predominant during the Circleville, San
+Geronimo, and Jarrell phases (8500-5000 B.P.). In the Middle Archaic, food gathering
+apparently became very specialized as evidenced by the presence of numerous burned rock
+middens/mounds (Prewitt 1981:78-80). Prewitt divides the Middle Archaic into the Oakalla,
+Clear Fork, Marshall Ford, and Round Rock phases (5000-2600 B.P.). It appears that
+considerably fewer burned rock middens were formed during the Late Archaic than in the earlier
+Archaic. The archaeological record indicates that bison were important in the diet of prehistoric
+peoples, but were not necessarily the principal food source during this time (Prewitt 1981:80-81).
+The Late Archaic occurred during the San Marcos and Uvalde phases (2600-1750 B.P.). The
+terminal Archaic, according to the classification by Carlson et al. (1986), includes the Twin
+Sisters and Driftwood phases (1750-1250 B.P.). An increase in the importance of gathering and
+an apparent peak in site density seem to have occurred during Prewittâs (1981:82) Driftwood
+phase. A majority of the sites in Williamson County are Archaic in age, which, according to
+Prewitt (1981:Figure 3), lasted from 8500-1250 B.P. This interpretation is reflected in Collinsâ
+(1995:383) assertion that âtwo-thirds of the prehistory of Central Texas is âArchaicâ in
+character.â
+Late Prehistoric Period
+This period has been characterized in the archaeological literature as the Neo-American
+Stage (Suhm et al. 1954), the Neo-archaic (Prewitt 1981), and the Post-Archaic (Johnson and
+Goode 1994). The Late Prehistoric is typically divided into the Austin (1250-650 B.P.) and
+Toyah (650-200 B.P.) phases. Technological changes are the primary distinguishing
+characteristic of this stage. The archaeological record indicates that during this period, the bow
+and arrow became the principal weapon for hunting and warfare, and that the use of ceramics
+and the practice of horticulture first appeared in Central Texas and the surrounding regions.
+
+8
+
+According to Collins (1995:385), during the Late Prehistoric of Central Texas, the bow
+and arrow was the first of these cultural innovations to be adopted, followed by pottery, and
+finally agriculture though it was of relatively minor importance. Until the onset of these Late
+Prehistoric adaptations, most cultural groups continued to practice hunting and gathering as their
+principal means of subsistence, as had their ancestors throughout the Archaic and Paleoindian
+periods. However, in about 800 B.P., evidence for a different subsistence adaptation appears in
+the archaeological record and this cultural time boundary marks the separation between the late
+Archaic and the Austin and Toyah phases of the Late Prehistoric period (Collins 1995:385).
+The most obvious of the changes that emerged at the beginning of the Late Prehistoric
+period was the introduction of the bow and arrow and decreased use of the atlatl or spear
+thrower. Otherwise, life ways in the Late Prehistoric were probably quite similar to those in the
+earlier Archaic period (Prewitt 1981:74; Weir 1976). A chronological model of bison presence
+and absence periods on the southern plains suggests that bison were present during the Toyah
+phase but not during the preceding Austin phase (Dillehay 1974).
+Historic Period
+Collins (1995:386) divides the historic period of Central Texas into three sub-periods:
+early, middle, and late. The archaeological record of the first two of these sub-periods contains
+vestiges of occupations by both indigenous and European peoples; however, evidence of
+indigenous culture is almost completely absent for the third sub-period. The early historic subperiod in Central Texas began in the late seventeenth century with the arrival of the first
+Europeans to that area. Williamson County is situated within the historic range of the indigenous
+Tonkawa Indians who inhabited the area in the sixteenth century (Newcomb 1986). By the
+nineteenth century, they had broken ties with the Comanche and Wichita and were associated
+with the Lipan Apache (Aten 1983:32). The Apache have been described as typical southern
+Plains Indians who were hunters and gathers and who lived along the streams and rivers of
+Central Texas. Remains of this group have not been found in an historic context in Williamson
+County.
+During this period, several aboriginal groups, including the Caddo, Jumano, Tonkawa,
+Comanche, and Lipan Apache occupied Texas (Newcomb 1986), and trade existed between the
+Jumanos and the Caddos. The Lipan Apaches, and subsequently the Comanches, entered the
+region from the Southern High Plains while following migrating game herds. Contact-period
+occupations are often identified by the presence at local archaeological sites of glass beads, gun
+parts, gunflints, metal projectile points, and European manufactured ceramics. Archival research
+by AAG did not discover the existence of any Historic Indian sites in Williamson County. In
+nearby Coryell County, a blue glass bead was found with one of the burials at 41CV1, a group
+burial along the Leon River (Jackson 1931), and a steel arrow point has been reported as an
+isolated find on Horse Creek in the extreme east corner of Coryell County (Campbell 1952).
+
+9
+
+PREVIOUS INVESTIGATIONS IN WILLIAMSON COUNTY
+Williamson County has been the scene of numerous archaeological investigations at various
+levels from small projects by private contractors, universities, and state agencies to large area
+surveys such as Granger and North Fork Reservoirs. Very little systematic work was carried out in
+Williamson County before the initial survey of the proposed North Fork, South Fork and Laneport
+(now referred to as Granger) reservoirs in 1963 (Shafer and Corbin 1965) as part of the Texas
+Archeological Salvage Project (TASP). Prior to this effort, two published articles documenting
+archaeological work in the county were published by T.N. Campbell (1948) and Mardith K. Schuetz
+(1957).
+In 1963, TASP surveyed the sites of the proposed reservoirs. At North Fork, 44 sites were
+recorded, over half of which are burned rock middens or sites buried in alluvial deposits (ceramics
+were only found at one site [41WM71]); at South Fork, 30 sites were identified, almost half of
+which were burned rock middens; and at Laneport 10 sites were recorded. At this reservoir, both
+burned rock middens and alluvial terrace sites were found, but it was concluded that only the latter
+type of site can be said to be typical of the Laneport area (Shafer and Corbin 1965:47). At
+approximately 10 miles north of Taylor, Laneport Reservoir is the site of the closest major
+archaeological survey to the project area except for Brushy Creek about five miles to the southeast.
+Additional work in the area was conducted by Frank W. Eddy (1973) at Laneport, William S.
+Sorrow (Jackson 1974) at North Fork and Prewitt (1974, 1981) at Granger.
+These early studies were not conducted using intensive or systematic sampling procedures.
+Therefore, in May 1976, the Anthropology Laboratory at Texas A&M University (TAMU) began
+an intensive archaeological site survey and assessment program of all government owned lands in
+the North Fork and Granger reservoir boundaries (Patterson and Moore 1976). Work by TAMU
+consisted of a preliminary assessment (Patterson and Moore 1976), an archeological survey of
+Granger (Moore et al. 1978) and North Fork (Patterson and Shafer 1980).
+Several sites were tested prior to the inundation of Granger Reservoir. Site 41WM21 was
+tested by TAMU. In 1976, Gary L. Moore (1976, 1977, 1978) tested sites 41WM21, 41WM124,
+and 41WM133. Clell L. Bond (1978) tested 41WM30, 41WM284, and 41WM294 in 1977. Site
+41WM21 was determined to represent an intermittent occupation during the Early, Middle, and Late
+Archaic periods of Texas prehistory.
+The work at sites 41WM30, 41WM284, and 41WM294 was designed to determine possible
+similarities in lithic procurement and reduction at the three sites and to explain behavior patterns
+manifested in the archaeological deposits at 41WM130. This study established that 41WM130 had
+been periodically occupied from the Twin Sisters through Toyah phases. It was determined that the
+subsistence pattern of the site's inhabitants remained nearly constant through time and included the
+wide ranging exploitation of resources found in the San Gabriel Valley. It was postulated that the
+availability of lithic resources was one of the principal reasons that this site was reused as during
+such a lengthy interval.
+The next large-scale survey near the project area was along Brushy Creek in 1974 by
+TAMU (Shafer 1974). Six sites (41WM273 - 41WM278) were recorded as a result of this project.
+
+10
+
+All are on the Taylor topographic quadrangle. The four prehistoric sites are thin lithic scatters.
+None of the sites were recommended for additional work.
+A single site (41WM283) is located about three miles northwest of the center of Taylor on
+the east bank of the north fork of Mustang Creek at the former Wilson Springs community. This
+site was recorded by Dan Prikryl and others in 1976 (TARL site files). It is described as an Archaic
+occupation and quarry site.
+Recent surveys by Espey, Huston & Associates (Foster 1994) revisited 41WM432,
+41WM546, and 41WM547. They also recorded one new site, 41WM808. Bradle et al. (1998)
+surveyed along the North Fork San Gabriel River in Georgetown, Texas and recorded
+41WM432, 41WM930, 41WM931, 41WM932, and 41WM933.
+
+11
+
+PREVIOUS INVESTIGATIONS IN THE PECAN BRANCH PROJECT AREA
+Four prior investigations were undertaken in the Pecan Branch Wastewater Treatment
+Plant project area. The first, a survey by the Environmental Protection Agency in 1986, covered
+only a portion of the present study area. The survey detected no cultural remains (Karbula et al.
+2004:18).
+In 1995 Lone Star Archaeological Services conducted a brief pedestrian survey with
+limited subsurface testing across the 47-acre project area (Figure 3). The survey recorded the
+Maxine Harris Site (41WM828) based on a scatter of burned rock and lithics â presumably
+prehistoric â on a terrace between the Berry and Pecan Branch creeks. Lone Star investigators
+recommended follow up research including additional subsurface testing (Karbula et al. 2004:18,
+23).
+
+Figure 3: Map showing location of project area and the Maxine Harris Site (41WM828; after
+Karbula et al. 2004:Figure 2-1).
+In May 2000, Hicks and Company undertook the third investigation in the project area
+under Texas Antiquities Code Permit 2373 (Feit and Griffith 2000; Karbula et al. 2004:18, 21).
+Prior to beginning fieldwork, Hicks and Company divided the project area into five âzonesâ
+delimited by topographical and man-made features (Figure 4). The Berry Creek floodplain,
+characterized by deep Holocene fluvial sediments overlying Pleistocene fill, comprised zones 1,
+2 and 4. The highest feature of the project area, a Late Pleistocene terrace overlain with
+relatively shallow Holocene sediments, was designated as Zone 3. The southwest corner of the
+project area, the Pecan Branch Creek floodplain, was assigned to Zone 5.
+
+12
+
+Figure 4: Aerial photo of project area showing the five âzonesâ of the 2000 Hicks and Company
+survey (after Karbula et al. 2004:Figure 4-1).
+As recommended by Lone Star Archaeological Services, the 2000 investigation focused
+on subsurface testing. Twenty-three shovel tests and 10 backhoe trenches were excavated across
+the project area. Surface finds were also collected and/or recorded.
+The test excavations provided varying degrees of coverage within each of the five zones.
+Testing was most intensive on the terrace (Zone 3), where the primary infrastructure of the
+wastewater plant now stands. Considerable testing was also undertaken across the Berry Creek
+floodplain (zones 1, 2 and 4), though the tests were more dispersed than those on the terrace due
+to the large size of the floodplain relative to the project area. Zone 5 was only shovel tested
+(Karbula et al. 2004:18, 23, Figure 4-1).
+The survey detected surficial and buried prehistoric cultural remains in zones 1 and 4 on
+the Berry Creek floodplain and in Zone 3, the terrace summit. An historic home in Zone 4â
+reportedly constructed between 1920 and 1935âwas also recorded (Karbula et al. 2004:21-26).
+In the following paragraphs, key survey findings are discussed by zone. 2
+
+2
+
+The key survey findings of the 2000 Hicks and Company Survey are extracted from a review of Feit and Griffith
+(2000) presented by Karbula et al. (2004:24) in a report on the 2001 Hicks and Company survey. Karbula et al.
+discuss only ââ¦archeological recovery from three of the zones that are most relevant to the testing data [from the
+2001 Hicks and Company survey].â Other findings from the 2000 survey, such as the results of testing in zones 2
+and 5, were not included.
+13
+
+In Zone 3 the investigators excavated four trenches and nine shovel tests. All of these
+excavations except one shovel test yielded prehistoric materials in Holocene sediments at depths
+of up to 100 centimeters below surface (hereafter b.s.). Pleistocene sediments were generally
+encountered from 120-140 centimeters b.s. but were found to be more deeply buried on the
+western edge of the zone where the terrace grades into the Pecan Branch floodplain.
+Three hearth features were detected in trenches 2 and 3 overlooking the Berry Creek
+floodplain (Figure 5). The stratigraphic separation of the features led Feit and Griffith (2000) to
+suggest the possibility of at least two periods of occupation on the terrace. They surmised that
+features 1 and 2 are probably âmore or less temporally equivalentâ and that Feature 3 likely
+represents âa rather poorly preserved older occupationâ (Karbula et al. 2004:28-29).
+Feature
+No.
+1
+
+Location
+Trench 2
+
+Depth
+(cm b.s.)
+15
+
+Soil
+Horizon
+A
+
+2
+
+Trench 2
+
+40
+
+B
+
+3
+
+Trench 3
+
+80
+
+B
+
+Associated Remains
+Chert flakes, two bone fragments, traces of carbon and a
+cluster of burned quartzite, chert and limestone cobbles
+Chert flakes, ten burned limestone rocks patterned in
+âhearth-like clusterâ
+Seven burned limestone rocks and (possibly) one chert
+flake
+
+Figure 5: Prehistoric features encountered in Zone 3 of the 2000 survey (data from Karbula et al.
+2004).
+Cultural remains encountered outside the features in Zone 3 frequently occurred as
+isolated finds or in small groups (see Karbula et al. 2004:25, Table 4-2). Feit and Griffith (2000)
+observed from shovel test results that these materials clustered in two broad stratigraphic
+contexts, 0-30 centimeters b.s. and 40-80 centimeters b.s.
+Among the materials from Zone 3 were two diagnostic artifacts, the sole diagnostics
+recovered during the survey. They are an unidentified Late Prehistoric arrow point found on the
+surface near Feature 1 and a Late Archaic Frio dart point recovered in the 40-50 centimeters
+level of Shovel Test 16, located in the central portion of the terrace (Karbula et al. 2004:25, 29).
+Feit and Griffith (2000) cross-dated the Frio point to 2400-1500 BP (Karbula et al. 2004:29).
+In Zone 1 on the Berry Creek floodplain, the investigators excavated two trenches and
+five shovel tests in the Holocene sediments. The deepest excavations (the trenches) were closed
+at approximately 300 centimeters b.s. before Pleistocene deposits were encountered. Four of the
+shovel tests produced cultural remains, but these were limited to one limestone cobble, one fire
+cracked rock, several pieces of charcoal and baked clay. Both trenches in Zone 1 exposed
+features (Figure 6). Feature 4 in Trench 9 was not identified in the survey report. Feature 5 in
+Trench 10 was described as a hearth. Trench 10 also yielded numerous unspecified artifacts
+from approximately 85-200 centimeters b.s. Feit and Griffith (2000) registered the area of
+trenches 9 and 10 as Site 41WM965 (see Figure 4).
+
+14
+
+Feature
+No.
+4
+
+Location
+Trench 9
+
+Depth
+(cm b.s.)
+180
+
+5
+
+Trench 10
+
+100
+
+Soil
+Horizon
+Not
+specified
+Not
+specified
+
+Associated Remains
+Four to five burned rocks in a patterned arrangement in
+apparent association with bone and charcoal
+Dense lens of prehistoric material (pieces of bone,
+charcoal and lithic debris) and a hearth feature consisting
+of seven to eight burned rounded cobbles
+
+Figure 6: Prehistoric features encountered in Zone 1 of the 2000 survey (data from Karbula et al.
+2004).
+Zone 4, which covers the Berry Creek floodplain as well as a portion of the terrace,
+yielded little evidence of prehistoric settlement in tested areas. Of two shovel tests and two
+trenches, only one trench (Trench 6) contained cultural remains. The remains recovered from
+Trench 6 comprise chert, one biface fragment, burned rocks and charcoal flakes from the A
+horizon, 60-100 centimeters b.s. (Karbula et al. 2004:28).
+Summarizing the survey data, Feit and Griffith (2000) observed that prehistoric cultural
+remains were ââ¦widespread across the entire project area, but concentrated in Zones 1 and 3â
+(Karbula et al. 2004:28). Additionally, they emphasized distinctions between the nature and
+distribution of remains on the terrace and Berry Creek floodplain. They stated that on the
+floodplain, where Holocene sediments extend to a depth of at least 300 centimeters b.s., features
+are well separated stratigraphically and organic cultural remains (particularly bone) exhibit
+relatively good preservation. In contrast, on the terrace where Holocene deposits average only
+140 centimeters, the investigators suggested that there is less stratigraphic separation of cultural
+deposits and that the preservation of organic remains is poor compared to the floodplain,
+especially at depths below 100 centimeters (Feit and Griffith 2000; Karbula et al. 2004:21).
+Feit and Griffith (2000) asserted that buried remains in the terrace sediments represented
+at least two archaeological components. They assigned features 1 and 2 in Trench 2 to the Late
+Archaic based on the find of a Frio point in a nearby shovel test at roughly the same depth as
+Feature 2. Since Feature 3 in Trench 3 was stratified below features 1 and 2, they assumed it
+represented an earlier component. No estimate of the age of cultural deposits on the floodplain
+was provided.
+Noting the wide distribution of cultural remains across the project area and the presence
+of intact and presumably multicomponent sites on the terrace and Berry Creek floodplain, the
+investigators concluded that the archaeological resources at Pecan Branch were significant and
+that additional testing would be warranted in impact areas to evaluate the eligibility of the
+resources for inclusion in the National Register of Historic Places and/or designation as State
+Archeological Landmarks (Feit and Griffith 2000).
+
+15
+
+In 2001 Hicks and Company returned to Pecan Branch and initiated a fourth investigation
+in the project area under Texas Antiquities Code Permit 2521. 3 The purpose of the investigation
+was twofold: 1) to determine the relative numbers, ages and importance of the archaeological
+components within the proposed impact areas of the Maxine Harris Site (41WM828) and 2) to
+establish whether any or all of the components are eligible for inclusion in the National Register
+of Historic Places and/or designation as State Archeological Landmarks (Karbula et al. 2004:1,
+30).
+Fieldwork was conducted in two phases. The first phase entailed the excavation of 85
+trenches and 12 test units across the impact area (Karbula et al. 2004:12). As this work
+progressed, substantial deposits of prehistoric cultural remains were discovered in and around the
+proposed track of an inflow pipeline in the north central sector of the project area (Figure 7).
+These remains were subsequently determined to be archaeologically significant, and a second
+phase of fieldwork was implemented to determine a suitable alternate location for the pipeline.
+Phase two operations involved the excavation of an 23 additional backhoe trenches and two test
+pits along two alternate alignments (designated as Plan B and Plan C) in the previously untested
+northwest corner of the project area (see Figure 7; Karbula et al. 2004:1-3, 13, 74). In the final
+project report, data from both phases are presented together.
+
+Figure 7: Aerial photo of project area showing the three âzonesâ of the second Hicks and
+Company survey (after Karbula et al. 2004:Figure 6-1).
+3
+
+During the second Hicks and Company survey, investigators made the decision to consider the entire project area
+part of one laterally extensive site whose boundaries were undetermined (Karbula et al. 2004:1). The designation
+selected by the investigators was the Maxine Harris Site (41WM828).
+16
+
+For the 2001 investigation, the proposed impact area was subdivided into three
+topographic zones: 1) the north central sector of the project area, largely in the Berry Creek
+floodplain; 2) the terrace and its southeastern flank; and 3) the terminal end of the outflow line
+(see Figure 7). Trenches were excavated in each zone and records were made of natural strata
+(âstratigraphic unitsâ or âStratsâ). Key findings from the three zones are summarized in the
+following paragraphs.
+In Zone 1, testing operations involved the excavation of nine trenches and five test pits
+(Karbula et al. 2004:40). The excavations were limited to the Holocene sediments overlying the
+floodplain. Four stratigraphic units (Strats 4-7) were identified (Figure 8). Cultural remains
+were reported in six of the trenches; data are missing for two trenches (Karbula et al. 2004:Table
+6-2). Two features were encountered in Trench 32, located at the southern end of Zone 1 on the
+north slope of the terrace (Figure 9). Test units 7 and 8 were opened to define the features
+(Karbula et al. 2004:tables 7-3, 7-4).
+
+Figure 8: Profile drawing of the stratigraphy in Zone 1 of the 2001 survey (Trench 73; adapted
+from Karbula et al. 2004:Figure 6-2).
+Feature
+No.
+7
+
+Trench
+
+Strat
+
+32
+
+Depth
+(cm b.s.)
+196-210
+
+8
+
+Type
+
+6
+
+Cooking
+feature
+
+32
+
+196-215
+
+6
+
+Cooking
+feature
+
+Associated Remains
+1 Ensor point, 1 burin/awl (not collected), 1 core, 19
+chert flakes, 42 small mammal teeth and bone
+fragments, 3 fragments of Rabdotus shell, 3
+fragments of polygyridae shell, 1 carbon sample,
+baked clay, fire cracked rock
+1 carbon sample, 1 20 bone fragments, fire cracked
+rock
+
+Figure 9: Prehistoric features encountered in Zone 1 of the 2001 survey (data from Karbula et al.
+2004:52, 56, Table 7-2).
+
+17
+
+The investigators described the prehistoric cultural remains from Zone 1 as abundant and
+well preserved. Types of remains recovered include stone tools, debitage, groundstone, bone,
+shell and charcoal. Cultural strata were found to extend at least 4 meters below surface, the
+maximum depth reached by the backhoe used in the project. Diagnostic artifacts included six
+Archaic projectile points and point fragments (Figure 10).
+Trench
+32
+32
+32
+32
+44
+73
+
+Test
+Unit
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+
+Depth
+(cm b.s.)
+200-205
+200-205
+200-205
+225-314
+150-155
+240-280
+
+Strat
+
+Feature
+
+6
+6
+6
+7
+5
+6/7
+
+7
+N/A
+N/A
+N/A
+N/A
+N/A
+
+Type
+Ensor-like
+Pedernales
+Marcos
+Marcos-like
+Marcos/Castroville
+Bulverde
+
+Lot
+74a
+74c
+82a
+74b
+117a
+110a
+
+Figure 10: Diagnostic projectile points recovered in Zone 1 (data from Karbula et al. 2004:97100, tables 7-2, 7-6).
+In Zone 2, 97 trenches and eight test units were excavated (Karbula et al. 2004:63).
+Three stratigraphic units (Strats 1-3) were defined (Figure 11). The upper two strata consist of
+Holocene fluvial deposits. The lowest stratum extends into the Pleistocene sediments of the
+terrace formation. Cultural remains were found in strats 1 and 2 in 49 of the trenches. Fourteen
+of the trenches exposed a total of 15 cultural features (Figure 12). In addition, a âsnail
+middenâ(Rabdotus shell) â presumably related to a prehistoric occupation â was observed in
+Trench 78 at a depth of 285 centimeters b.s. (Karbula et al. 2004:89, Table 6-3). As in Zone 1,
+the features were explored by the excavation of test units.
+
+Figure 11: Profile drawing of the stratigraphy in Zone 2 of the 2001 survey (Trench 11; adapted
+from Karbula et al. 2004:Figure 6-3).
+
+18
+
+Feature
+No.
+1
+
+Trench
+
+Strat
+
+1
+
+Depth
+(cm b.s.)
+45-55
+
+2
+
+3
+
+40-50
+
+Not
+provided
+
+3
+
+7
+
+33-55
+
+1/2
+
+4
+
+19
+
+40-58
+
+1
+
+Not specified
+
+5
+6
+
+19
+29
+
+40-58
+25-30
+
+2
+1
+
+Hearth
+Hearth
+
+9
+
+79
+
+40-65
+
+2
+
+Hearth
+
+10
+
+79
+
+110-130
+
+2
+
+11
+
+76
+
+50-60
+
+2
+
+Rectangular
+cluster of burned
+rock
+Not specified
+
+12
+
+86
+
+10-20
+
+1
+
+Laterally
+extensive
+accumulation of
+burned rock
+
+13
+
+88
+
+0-20
+
+1
+
+Hearth
+
+14
+
+89
+
+45-65
+
+1
+
+Hearth
+
+15
+16
+
+92
+93
+
+32-50
+66-76
+
+1/2
+2
+
+Hearth
+Hearth
+
+17
+
+97
+
+38-58
+
+1/2
+
+18
+
+98
+
+50-68
+
+1
+
+âExtremely dense
+concentration of
+>50 burned
+limestone rocksâ
+Hearth
+
+19
+
+108
+
+0-35
+
+1
+
+Possible hearth
+
+2
+
+Type
+Not specified
+Possible âcooking
+facilityâ
+Hearth
+
+Associated Remains
+Cluster of 3 burned rocks, 3 debitage
+(not collected)
+Small group of burned rocks (3 steam
+rolled cobbles and 3 tabular pieces of
+limestone), 1 modified flake, 1Rabdotus
+shell
+6 chert flakes, 1 piece of burned chert,
+few pieces of fire cracked rock (FCR)
+1 isolated FCR, 1 secondary chert flake,
+3 small, 4 large FCR
+1 chert flake, 1 modified core
+39 chert flakes, numerous FCR (cobble
+size)
+2 chert flakes, 14 Rabdotus fragments, 1
+mussel shell, 1 bone fragment, 2 C14
+samples
+1 core fragment, 1 uniface, 19 chert
+flakes, 19 mussel shell fragments, 1 C14
+sample, 1 bone fragment
+1 biface fragment, 44 chert flakes, small
+cluster of 7 FCR, charcoal
+5 Pedernales points/fragments, 1 chunk,
+4 cores, 5 biface fragments, 2 blade
+tools, 2 unifaces, 485 chert flakes, 1
+bone fragment, 43 Rabdotus shell
+fragments, dense FCR lens
+1 Pedernales point, 3 bifaces, 68 chert
+flakes, 12 mussel shell fragments, dense
+FCR cluster
+1 biface, 1 biface fragment, 1 uniface, 1
+core fragment, 3 blade tools, 44 chert
+flakes, 8 FCR arranged in basin shape
+4 FCR, carbon
+1 blade, 1 biface fragment, 2 blade-like
+flake tools, 26 chert flakes
+1 Pedernales point, 3 blade tools, 4
+blade-like flake tools, 92 chert flakes, 1
+glass fragment
+1 biface fragment, 1 blade flake tool, 82
+chert flakes, 10 Rabdotus shell
+fragments, numerous FCR, burned
+quartzite
+7 chert flakes, dense accumulation of
+burned rock
+
+Figure 12: Prehistoric features encountered in Zone 2 of the 2001 survey (data from Karbula et
+al. 2004:65-86, tables 6-3, 7-14, 7-18, 7-19).
+
+19
+
+Cultural remains were detected throughout Zone 2 and were particularly abundant on the
+highest portion of the terrace immediately to the south of Zone 1 and along alternate alignments
+of the inflow pipeline (plans B and C; see Figure 5). All remains detected during testing in Zone
+2 were recovered between 0 and 95 centimeters b.s. in strats 1 and 2. Remains in Strat 2 were
+ââ¦typically located in a consistent lens at approximately 40-50 cm below the ground surfaceâ
+(Karbula et al. 2004: 106). Scattered, low-density remains also occurred in Strat 2 from
+approximately 75-95 cm b.s. The types of remains found in Zone 2 were consistent those from
+Zone 1 with the exception of organic material, which was rarely preserved. 4 Diagnostic artifacts
+included one unidentified Late Prehistoric arrow point fragment and eight Archaic projectile
+points and point fragments (Figure 13).
+Trench
+
+Depth
+(cm b.s.)
+75-85
+0-25
+
+Strat
+
+Feature
+
+8
+29
+
+Test
+Unit
+2
+3
+
+2
+1
+
+N/A
+6
+
+86
+86
+86
+86
+86
+88
+97
+
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+11
+
+10-20
+10-20
+10-20
+10-20
+10-20
+0-20
+48-58
+
+1
+1
+1
+1
+1
+1
+2
+
+12
+12
+12
+12
+12
+13
+17
+
+Type
+Pedernales (basal fragment) 5
+Unidentified arrow point (medial
+fragment)
+Pedernales (broken preform)
+Pedernales (proximal fragment)
+Pedernales (stem fragment)
+Pedernales
+Pedernales
+Pedernales-like
+Pedernales
+
+Lot
+57a
+54a
+143g
+143d
+143c
+143e
+143f
+131b
+146a
+
+Figure 13: Diagnostic projectile points recovered in Zone 2 (data from Karbula et al. 2004:97100, tables 7-12, 7-18, 9-4).
+In Zone 3 two trenches were excavated (Karbula et al. 2004:41). Two stratigraphic units
+(strats 8 and 9) were identified. No cultural remains were detected.
+Data obtained in the 2001 testing operation were interpreted in the context of five
+âAnalytical Units.â Karbula et al. (2004) provide several contrasting definitions of an AU, the
+most comprehensive of which is ââ¦observed lenses of archaeological material based on density,
+distribution, depth below surface, degree of stratification, feature morphology, presence and type
+of diagnostic artifacts, geomorphological analysis and reconstruction of the sequence of
+deposition, and positioning/topography of the landscapeâ (Karbula et al. 2004:125). 6 The
+chronological sequence for the AUs is based on cross-dated projectile points (Figures 10 and 13)
+and five radiocarbon dates (Figure 14). Figure 15 summarizes information pertinent to the five
+AUs.
+
+4
+
+Karbula et al. (2004:131) note that: âA total of 99% of all bone finds at the site come from the floodplain, despite
+some 85 trenches on the ridge. The same percentage also holds roughly for the recovery of charcoal.â
+5
+Karbula et al. (2004) describe point 57a as a Pedernales point on pp. 99-100 and 115-116 but list it as
+âunidentifiableâ on p. 66 and in Table 9-4.
+6
+Other definitions for AU provided by Karbula et al. (2004) include: 1) a âcultural zoneâ characterized by
+ââ¦significant differences in organic preservation and in topographic setting (p. 12) and 2) an âoccupation zoneâ
+characterized by regular ââ¦depth below surface and consistent sets of cultural materials, especially diagnostic
+projectile point types, but also on observed types of archeological features and high densities of artifactsâ (p. 106).
+The term AU is also used interchangeably with âcomponentâ (e.g., Karbula et al. 2004:1).
+20
+
+Sample
+Beta-190213
+Beta-160701
+
+Beta-160704
+
+Beta-160702
+Beta-160703
+
+Provenience
+AU 1, Zone 2,
+Trench 92, Feature
+15
+AU 1, Zone 2,
+Trench 76,
+underlying Feature
+11
+AU 4, Zone 1,
+Trench 32, Feature
+7, 200 cm b.s.
+AU 5, Zone 1, 3.74 m b.s.
+AU 5, Zone 1, 3.74 m b.s.
+
+Sample
+Type
+Stained
+sediments
+
+Conventional
+C14 Age
+2420 Â± 40 B.P.
+
+Calibrated 2Sigma Range
+2710-2350 B.P.
+
+Associated
+Remains
+Feature 15
+
+Charcoal
+
+2520 Â± 50 B.P.
+
+2750-2360 B.P.
+
+Feature 11
+
+Charcoal
+
+1710 Â± 40 B.P.
+
+1720-1540 B.P.
+
+Charcoal
+
+2420 Â± 60 B.P.
+
+2730-2340 B.P
+
+Feature 7 - âintact
+occupation zoneâ
+with Ensor point,
+bone, snails,
+lithics
+Chert artifacts
+
+Charcoal
+
+2490 Â± 40 B.P.
+
+2740-2370 B.P.
+
+Chert artifacts
+
+Figure 14: Radiocarbon dates from the 2001 survey (Karbula et al. 2004:15, 112, 120, 124, 128).
+AU
+
+Depth
+(cm b.s.)
+
+Zone
+
+Assigned Age
+
+1
+
+1-60
+
+2
+
+Late Archaic
+
+2
+
+75-95
+
+2
+
+3
+
+0-100
+
+1
+
+4
+
+140-250
+
+1
+
+Possibly Middle or
+Late Archaic
+Late Archaic II or
+Transitional Archaic
+Late Archaic I-II,
+âca. 1800 B.P. or
+slightly beforeâ
+
+5
+
+375-405+
+
+1
+
+Late Archaic I
+
+Associated
+Radiocarbon
+Dates
+2420 Â± 40 B.P.
+2520 Â± 50 B.P.
+
+Associated Projectile Points
+and Cross-Dates Provided by Investigators
+1 arrow point (unidentified) â Late Prehistoric 7
+1 Frio (2000 survey) â 2400-1500 B.P.
+6 Pedernales points â 3800-2400 B.P. 8
+1 Pedernales-like â N/A
+1 Pedernales â 3800-2400 B.P.
+None recovered in 2001 operation
+
+1710 Â± 40 B.P.
+
+2420 Â± 60 B.P
+2490 Â± 40 B.P.
+
+1 Ensor-like â 1700 B.P.
+1 Marcos-like â 1700 B.P.
+1 Marcos/Castroville â 1700 B.P.
+1 Marcos â 2500 B.P. (see p. 124)
+1 Pedernales â 3800-2400 B.P.
+1 Bulverde â Not provided 9
+None recovered in 2001 operation
+
+Figure 15: Key information relating to Analytical Units of the 2001 survey (data from Karbula et
+al. 2004:106-124).
+
+7
+
+Karbula et al. (2004:131) state that âAU 1 [is] essentially intact and yet may represent occupational mixing that
+occurred over approximately 1000 years of periodic encampmentsâ Presumably, such mixing would explain the
+presence of the Late Prehistoric point in AU 1.
+8
+It should be noted that the cross-dates provided by Karbula et al. (2004: 108) for Pedernales points are inconsistent
+with other published dates. For example, Turner and Hester (1985:139) suggest a range of ca. 2000 B.C.â1200
+B.C.
+9
+Turner and Hester (1985:73) assign Bulverde point to the Early Archaic and provide a date range of ca. 3000 B.C.
+â 2500 B.C. Aware of the fact that the presence of Bulverde and Pedernales points is inconsistent with the date
+range assigned to in AU4, Karbula et al. (2004:12) suggest that the points may have been ârecycled.â
+21
+
+Based on the findings of the 2001 testing operation, Hicks and Company recommended
+the Berry Creek floodplain in Maxine Harris Site for State Archaeological Landmark status. The
+recommendation was approved by the Texas Historic Commission, and provisions were made by
+the City of Georgetown (COG) to relocate the inflow pipeline to the alignment referred to as
+Plan C. Additionally, the COG agreed to minimize impacts in other areas of the floodplain
+(Karbula et al. 2004:2).
+
+22
+
+PROJECT METHODOLOGY
+Background Research
+Before entering the field, site records at the Texas Archeological Research Laboratory
+(TARL) in Austin, Texas were checked for previously recorded sites in the project area and
+vicinity. In addition, site reports documenting work in the region were examined for information
+concerning archaeological surveys and other work relevant to the project area.
+Field Survey
+AAGâs field investigation at the Pecan Branch Wastewater Treatment Plant was
+conducted between April and July of 2002. Michael R. Bradle was the Principal Investigator,
+and Gilbert T. Bernhardt served as the Geoarchaeologist. 10 The field survey was conducted by
+the Principal Investigator and Project Archaeologist with assistance from James S. Belew and
+Ron Ralph. Prior to beginning fieldwork, the project was discussed with a representative of the
+City of Georgetown to ensure that the field crew was aware of the correct location of the project
+area.
+Fieldwork was conducted along the inflow and outflow lines to identify the horizontal
+and vertical distribution of cultural deposits located during a previous investigation by Hicks &
+Company (Karbula et al. 2004) and to obtain cultural-chronological data appropriate to evaluate
+the significance of the deposits. Geoarchaeological data was collected in both testing locales.
+Fieldwork on the inflow line was limited to the excavation of a single trench, 30 meters in
+length, along the route of the planned inflow pipeline. This route was selected based on previous
+archaeological testing by Hicks and Company in 2001 and falls within the testing area designated
+as âPlan Câ in the Hicks and Company report (Karbula et al. 2004). Fieldwork on the outflow
+line involved the excavation of eight backhoe trenches (BHTs) as well as the excavation of test
+units adjacent to some features encountered during trenching. 11,12 Samples of soil for floatation
+were collected from all features. All matrix excavated from the features was sifted through Â¼â
+screen.
+
+10
+
+James Belew served as the Principal Investigator during the field investigation. He was subsequently replaced by
+Michael R. Bradle.
+11
+Prior to the initiation of trenching operations, the centerline of the outflow line was surveyed and staked by a
+professional surveyor. This action was taken at the request of the THC after reconnaissance of the project area by
+AAG revealed that trenches excavated in 2001 by Hicks & Company were inadvertently placed outside of the
+outflow right-of-way.
+12
+The single trench excavated along the inflow line was designated BHT-1. Trenches on the outflow line were
+numbered relative to staked survey points (BHTs 106-109 and 111-114). There is no BHT-110.
+23
+
+GEOARCHAEOLOGY OF THE
+PECAN BRANCH INFLOW AND OUTFLOW LINES
+Introduction
+The study area is located in a Quaternary alluvial setting of the San Gabriel River about
+6.7 kilometers northeast of Georgetown, Texas and 2.4 kilometers west of Weir, Texas (see
+figures 1 and 2). The area is bounded on the east by Berry Creek, on the south by the MKT RR
+line, on the west by Pecan Branch and on the north by Highway 971 (Figure 16). Two geologic
+formations are found in the subsurface in the study area, the upper Cretaceous Del Rio Clay and
+the Buda Limestone. Both formations are exposed in the San Gabriel River and the Buda
+Limestone is exposed in Berry Creek. The 1:24000 geologic map of the area shows Qt,
+Quaternary terrace deposits, and Qal, Holocene alluvial deposits on the surface. However, a
+thin veneer of Qal deposits were found blanketing the study area (Figure 17).
+The younger alluvial sediments were derived mainly from the Berry Creek and Pecan
+Branch watersheds. Both of the creek basins drain mainly Cretaceous limestone, clays, and
+marls from the Fredericksburg Group and from the Del Rio Clay, the Georgetown formation, the
+Buda Limestone and Austin Chalk formation. The aforementioned geologic units have
+contributed mostly gravels, clays and silt to the alluvial valley of the study area since Late
+Pleistocene to present. The older alluvial sediments are confined to the subsurface and were
+derived chiefly from the San Gabriel River Basin. The San Gabriel River basin including the
+North and South San Gabriel Rivers drains mainly Cretaceous limestone, clays, and marls from
+the Fredericksburg Group, the Del Rio Clay, and from the Georgetown formation. The
+aforementioned geologic units have contributed mostly gravels, clays and silt to the alluvial
+valley of the study area since Late Pleistocene to present. Our study area is along Pecan Branch,
+a first order stream to the San Gabriel River.
+The objectives of the geoarchaeological investigation were twofold: 1) to spatially and
+chronologically delineate alluvial environments of deposition, and 2) to assess the influences of
+these environments on the spatial and temporal distribution of the archaeological record.
+Methods
+The late Quaternary alluvial record of Pecan Branch within the study area was
+constructed from backhoe trenches (BHT), the Weir 7.5 minute quadrangle topographic map
+(USGS 1982), the Georgetown 7.5 minute quadrangle topographic map (USGS 1981), the
+Geologic Atlas Of Texas, Austin Sheet (Barnes 1974), a previous archaeological survey by Hicks
+& Company (Karbula et al. 2004), radiocarbon dates, and the Soil Survey of Williamson County,
+Texas (Werchan and Coker 1983). Trenches on the outflow line were generally 1 to 2 meters
+deep and 3 meters long. BHT-1, the sole trench on the inflow line, was 30 meters long, 2.5
+meters wide, and 3.2 meters deep. The selected study localities are shown in Figure 16.
+The alluvial stratigraphic chronology was based on the degree of soil development,
+topographic location, radiocarbon dating and correlation to other central Texas alluvial stream
+histories.
+
+24
+
+Figure 16: A topographic, soils, and geology map of the study area with insets showing locations
+of backhoe trenches and archaeological features (USGS 1982). Profile of line A,B,C is shown is
+Figure 17.
+
+25
+
+Figure 17: Profile of line A,B,C as shown on Figure 16. This profile shows the stratigraphy of
+the study area and features found at select back hoe trenches along the profile line. Dates
+provided are either from radiocarbon dating or from modeling. The dashed U and ? lines are
+approximate locations of unconformable, stratigraphic, and soil phase boundaries.
+
+26
+
+Alluvial Stratigraphy
+Two late Quaternary landforms are mapped on the north side of the San Gabriel River in
+the project area: one high terrace (T1) and channel deposits with associated floodplain (T0)
+(Figure 17). The study area is situated on a large meander bend of the San Gabriel River.
+Associated with these landforms are alluvial lithologic facies that have been divided into three
+general phases: a fine-grained flood basin phase (fgf), a coarse-grained channel fill phase (cgc) ,
+and a fine grained channel fill phase (fgc).
+The nomenclature used here differs from that in the report of Hicks and Companyâs 2001
+survey of the project area (Karbula et al. 2004). Hicksâ Strat 1 is equivalent to T0 fgf of this
+report, Hicksâ Strat 2 is equivalent to T1 fgf of this report, and Hicksâ Strat 3 is equivalent to T1
+cgc of this report, as shown in figures 6-3 to 6-5 of the Hicks report (Karbula et al. 2004) and
+Figure 17 of this report.
+Terrace 1
+Lithology
+Terrace 1 (T1) is situated about 10.5 meters above the modern low-water channel of the
+San Gabriel River, 3.5 meters above Pecan Branch, and 10.0 meters above Berry Creek (Figure
+16). There are two distinctly defined facies and four phases found in Terrace 1 at BHT-1:
+T0(fgf) and T0(cgc) at the surface and down to 0.48 meters deposited from Pecan Branch,
+T1(fgf) deposited from the ancestral Berry Creek and or the ancestral San Gabriel River from
+0.48 meters to 2.69 meters, and T1(cgc) imbricated gravel bar deposits predominantly from the
+ancestral San Gabriel River from 2.69 to 3.20 meters (Figure 17). Also, Terrace 1 deposits were
+found about 1 meter below the surface at BHT-107, BHT-111, and Hicks BHT-15 (figures 16
+and 17). The T1 terrace is associated with Krum Series soils. The classification of the soil is a
+fine, montmorillinitic, thermic Vertic Haplustolls (Werchan and Coker 1983). At BHT-1, a
+disturbed, 0.15 meter thick, (Ap) surface horizon consists of a very dark grayish brown (10YR
+3/2), clay loam with moderate fine subangular blocky and moderate medium granular structure
+and an clear, smooth, lower boundary (Figure 17). The Ap horizon contains few CaCO 3
+concretions and filaments. The Ap horizon overlies a 0.33 meter thick, very dark brown (10YR
+2/2), silty clay, Ak, horizon with a moderate fine subangular blocky structure and an abrupt,
+wavy, unconformable, boundary. The Ak horizon contains about 1 to 2 % CaCO 3 concretions
+and filaments and a few scattered small rounded limestone gravels. The Ak horizon overlies
+0.35 meter thick, sand and gravel horizon (S&G1). The horizon contains poorly sorted sand and
+Â¼ inch to 2 Â½ inch subangular to subrounded limestone gravels in a brown (7.5YR 4/4) silty clay
+matrix. The Bk horizon is a 0.23 meter thick dark brown (7.5 4/4) silty clay with moderate,
+medium, subangular, blocky structure and a gradual wavy lower boundary. The horizon contains
+1 to 3% CaCO 3 concretions and filaments. The C1 horizon is a 0.46 meter thick, strong brown
+(7.5 YR 5/4) silty clay, with massive structure and diffuse, wavy , lower boundary. The horizon
+has about 5% CaCO 3 concretions and filaments. The Ck2 horizon is a 1.01 meter thick, strong
+brown, (7.5 YR 5/4) silty clay with massive structure and an abrupt, wavy, unconformable lower
+boundary. The horizon contains 3 to 5% CaCO 3 concretions and filaments. The Ck2 horizon
+overlies a 0.66 meter thick (to bottom of trench) sand and gravel horizon (S&G2). The horizon
+
+27
+
+contains moderately sorted sand and Â¼ inch to 2 Â½ inch, subangular to subrounded, moderately
+imbricated, moderately cemented, silicious and limestone gravels in a brown (7.5YR 4/4) silty
+clay matrix.
+Chronology
+Temperatures were slightly warmer and drier than present with grasslands prevailing in
+Texas from about 8,000 years B.P. to about 5,000 years B.P. (Adams 2003). The last major
+incision of the San Gabriel River began from 5,000 to 4,600 years BP with the gradient base
+change of Texas streams caused by another sea level regression to about 20 m below present sea
+level (Rice 1988). This was followed by another period of net channel aggradation and
+floodplain construction from middle Holocene to late Holocene, 5,000-2,500 years BP (Blum
+and Valastro 1994). Short grass steppe and warm temperatures existed in Texas during this time
+(Adams 2003).
+Although the exact age of the T1 terrace is not known, three conventional radiocarbon
+dates were obtained by AAG 2 to 4 kilometers upstream at SG3A from the subsurface of a
+similar terrace as this studyâs T1 terrace (Bradle and Bernhardt 2008). Data from that study are
+shown in Figure 18.
+AAGâs
+Terrace
+Name (SG3A
+report)
+T0
+T1
+
+Blum and
+Valastroâs
+Terrace
+Name
+CBA3
+CBA2
+
+Height (m)
+Above
+Thalweg
+
+AAGâs C14
+Date (Yrs
+B.P.)
+
+0 to 5
+5 to 10
+
+T2
+T3
+T4
+
+CBA1
+ELA
+
+10 to 15
+15 to 30
+>30
+
+No date
+5800
+6540
+11840
+No date
+No date
+
+Blum and
+Valastroâs
+C14 Date
+(Yrs B.P.)
+600
+3910
+12950
+18600
+No date
+
+AAGâs
+Modeled Age
+(Yrs B.P.)
+5776
+7566
+11791
+
+AAGâs Modeled
+Terminal Age
+(Yrs B.P.)
+4100
+8200
+12321
+24643
+>24643
+
+Figure 18: Data from geoarchaeological study of SG3A (Bradle and Bernhardt 2008).
+The surface of the T0 terrace at SG3A was located about 5 to 10 meters above the San
+Gabriel River. AAG obtained two radiocarbon dates for the terrace. One date, run on a sample
+obtained at a depth of 0.6 meters, is 5,800 Â± 40 years BP. The second date, run on a sample
+obtained at a depth of 1.74 meters, is 6,540 Â± 50 years BP. Taking into account the 1.0 meter of
+T0 deposits for this study, corollary depths for the two samples would be at depths of 1.6 and
+2.74 meters, which are at the bottom of sand and gravel 1 and top of sand and gravel 2,
+respectively. The SG3A modeling indicates the age of Terrace 1 ranges from 8,200 years BP to
+4,100 years BP at 5 to10 meters above the San Gabriel stream channel. This is equivalent to in
+age to the beginning age of Blum and Valastroâs (1994) Columbus Bend Alloformation 2 (CBA
+2) deposition that occurred at West Point on the Colorado River from latest Pleistocene through
+early Holocene (10,940 years BP to 3,330 years BP). In addition, Terrace 1 maybe correlative in
+age to the lower member of the West Range alluvium of Cow House Creek (Nordt 1992).
+
+28
+
+Terrace 0
+Lithology
+Terrace 0 (T0) is situated about 5 meters above the modern low-water channel of the San
+Gabriel River and Berry Creek (Figure 16). To characterize the T0 terrace, four sites were
+sampled for soil analysis and geology for this study (BHTs 1, 107, 109, and 111); data from two
+locations sampled in a previous study (Hicks BHT-15 and BHT-76) was also included (Karbula
+et al. 2004). The T0 alluvial soils at the aforementioned trenches developed in fine-grained
+overbank deposits (T0fgf) from either Pecan Branch, Berry Creek, or the San Gabriel River
+(Figure 16). At BHT-1 a 0.33 meter coarse-grained alluvial deposit (T0cgc) lay under T0fgf
+alluvial soils and over T1fgf alluvial soils (see Lithology Terrace 1 above). At all locations
+sampled for this report, about 1 meter of T0 deposits overlay the T1 deposits. Karbula et al.
+(2004) report a thinning of T0 alluvial deposits on the mid to upper T0 terrace. The T0 deposits
+are generally Oakalla Series soils overlaying T1 Krum Series soils.
+The classification of Oakalla Series is a fine-loamy, carbonatic, thermic Cumulic
+Haplustolls (Werchan and Coker 1983). At BHT-107 a disturbed 23 centimeter (Ap) horizon
+consists of a very dark brown (10YR 2/2), silty clay loam with moderate fine subangular blocky
+and medium granular structure and a clear smooth lower boundary. The Ap horizon contains
+less than 1% CaCO 3 concretions, filaments and masses. The Ap horizon overlies a 30
+centimeter, very dark grayish brown (10YR 3/2), silty clay, Ak horizon, with moderate fine to
+very fine subangular blocky structure and a gradual wavy lower boundary. The Ak horizon
+contains about 1 to 2% CaCO 3 filaments. The Ak horizon overlies a 64 centimeter thick brown
+(7.5YR 4/3), silty clay, Btk horizon, with moderate medium subangular blocky structure and a
+gradual wavy lower boundary. The horizon contains 2 to 3% CaCO 3 filaments, masses and
+nodules. The Btk horizon overlies a 58 centimeter thick C1 horizon, with small to medium
+rounded limestone gravels in a brown (7.5YR 4/3), silty clay loam matrix. The C1 horizon has
+an abrupt wavy lower boundary. The horizon contains about 5% CaCO 3 filaments, masses, and
+nodules. The C1 horizon overlays a 76 centimeter thick small to medium rounded limestone
+gravels coarsening downward to large flat imbricated gravels in a brown (7.5 YR 5/3) sandy clay
+loam matrix. The horizon contains about 2% CaCO 3 filaments, masses, and nodules.
+At BHT-109 a disturbed, 15 centimeter Ap horizon consists of a very dark brown, (10YR
+3/2) silty clay loam, with moderate fine subangular blocky and moderate medium granular
+structure and a clear smooth lower boundary. The horizon has less than 1% CaCO 3 masses,
+filaments, and nodules and a few scattered rounded pebbles. The Ap horizon is underlain by a
+30 centimeter, very dark grayish brown (10YR 3/2), silty clay loam, Ak horizon, with moderate
+fine blocky structure and a gradual wavy lower boundary. The Ak horizon contains about 1 to
+2% CaCO 3 filaments. The Ak horizon overlies a 51 centimeter thick dark brown (10YR 3/3),
+silty clay loam, Btk horizon, with moderate medium angular blocky structure and a gradual wavy
+lower boundary. The horizon has darker clays in cracks and few scattered CaCO 3 masses,
+filaments, and nodules.
+At BHT-111 a disturbed 23 centimeter (Ap) horizon consists of a very dark grayish
+brown (10YR 3/2), silty clay loam with strong fine granular structure and a clear abrupt lower
+
+29
+
+boundary. The Ap horizon contains less than 1% CaCO 3 concretions, filaments and masses and
+a few small rounded, limestone pebbles. The Ap horizon overlies a 53 centimeter, dark grayish
+brown (10YR 4/2), silty clay loam, Ak1 horizon, with weak, fine, granular, structure and a clear,
+smooth, lower boundary. The Ak horizon contains few CaCO 3 filaments, masses, and nodules.
+The Ak1 horizon overlies a 41 centimeter thick, dark brown (10YR 4/3), silty clay loam, Ak2
+horizon, with weak, fine, granular, structure and a clear, smooth, lower boundary. The horizon
+contains 2 to 3% CaCO 3 filaments, masses and nodules. The Ak2 horizon overlies a 36
+centimeter thick dark brown (10YR 3/3), silty clay loam, Bk1 horizon, with weak, fine granular
+structure and an abrupt, smooth, lower boundary. The horizon has 3 to 5% CaCO 3 masses,
+filaments, and nodules and abundant whole and disseminated snail shells. The Bk1 horizon
+overlies a 61 centimeter thick brown (10YR 4/3), sandy clay loam Bk2 horizon, with weak, fine
+granular structure. The horizon has 1 to 2% CaCO 3 masses, filaments, and nodules and few
+whole and disseminated snail shells.
+At Hicks BHT-15, the profile was described as stratigraphic zones (Karbula et al. 2004).
+Strat 1, was a dark brown sandy silty clay (AP horizon), Strat 2 was identified as a brown very
+silty sandy clay which changes to a silty sandy gravelly clay 10YR 4/3 to 10YR 4/4, and Strat 3
+was characterized as a CB horizon, very clayey, very silty sand with pebbles to a dense gravelly
+clay, 10YR 4/4.
+Chronology
+A burned rock hearth (outflow line Feature 2) was found between 8 and 24 centimeters
+below ground surface at BHT-109. The hearth was located beneath historic debris. A bone
+sample was obtained from the burned rock hearth. An AMS radiocarbon date was obtained from
+the sample by Beta Analytic. The conventional radiocarbon age provided by the lab for the
+sample was 440 +/- 40 years B.P. Modeled dating suggested that the age of the hearth ranged in
+age from 287 years B.P. at a depth of 8 centimeters to 863 years B.P. at a depth of 24 centimeters
+with a medium age of 575 years at a depth of 16 centimeters. Karbula et al. (2004) reported two
+radiocarbon dates from slightly greater depths on T0. One, taken from a sample at about 0.5
+meters below the surface in Trench 92, is 2520 Â± 50 B.P. The second, taken from a sample
+about 0.6 meters below the surface in Trench 76, is 2420 Â± 40 B.P. Although the numerical age
+of Terrace 0 is not known (beginning and ending dates), T0âs elevation, stratigraphic position,
+radiocarbon dating, and degree of soil development (very slight accumulation of pedogenic
+CaCO 3 filaments, nodules, and masses) suggest that the terrace is probably late Holocene to
+Modern in age. After 4,000 years BP and until about 2,600 years BP, Central Texas was covered
+in grasslands and temperatures were cooler and moister than conditions were during the
+formation of the T1 terrace (Adams 2003). Modeling indicates that the initiation of the T0
+Terrace began about 4,100 yr. BP. This is equivalent to in age to Blum and Valastroâs (1994)
+estimate for the lower portion of Columbus Bend Alloformation 2 and all of Columbus Bend
+Alloformation 3 on the Colorado River at West Point.
+
+30
+
+Geoarchaeology
+Terrace 1
+Terrace 1 contains two stratigraphic facies, a fine-grained overbank deposits and coarsegrained channel deposits. Terrace 1 dated by radiocarbon dating (Bradle and Bernhardt 2008),
+modeling, elevation, and soil development as middle Holocene to late Holocene. Terrace 1 may
+contain portions of the Early Archaic and Middle Archaic records in a primary context in the
+fine-grained alluvial flood deposits. The surface of T1 terrace has been disturbed by farming and
+construction. However, where undisturbed and not blanketed by T0 deposits, the surface of
+Terrace 1 may contain assemblages of sites spanning Early Archaic to present.
+Terrace 0
+Terrace 0 contains two stratigraphic facies, fine-grained overbank floodplain deposits and
+coarse-grained channel deposits. The fine-grained floodplain deposits and coarse-grained
+deposits were observed in both the channels of Pecan Branch and Berry Creek and along their
+banks.. Terrace 0 fine-grained floodplain sediments were observed overlaying Terrace 1
+sediments. Terrace 0 has been tentatively dated radiometrically (this report and Karbula et al.
+2004) and through modeling, elevation, and soil development to between late Holocene and
+Modern in age. Terrace 0 may contain portions of the Middle Archaic, Late Archaic, Late
+Prehistoric, and Historic records in a primary context in the fine-grained alluvial flood deposits.
+Where undisturbed, the surface of Terrace 0 may contain assemblages of sites spanning Middle
+Archaic to present. However, much of the surface of T0 terrace blanketing the T1 and T2
+terraces has been disturbed by farming, and construction.
+Conclusions
+Two alluvial terraces are located within the study locale: Early Holocene to Late Holocene
+T1 terrace, and Late Holocene to present T0 terrace. Associated with these landforms are two
+general lithologic phases: a fine-grained floodplain facies, and coarse-grained channel facies.
+Two soil series are also associated with the geomorphic locations: Krum silty clays are nearly
+level to gently sloping soils developed on alluvium of late Pleistocene stream terraces and,
+Oakalla silty clay loams (Of) are nearly level soils that formed on late Holocene to recent
+alluvium on bottom lands within stream channels and adjacent to streams on low floodplains.
+The stratigraphic record conditions the spatial and temporal distribution of the
+archaeological record, whereas environments of deposition influence site forming processes and
+preservation potentials. Accordingly, where not disturbed, Terrace 1 may contain portions of the
+Early Archaic and Middle Archaic records in a primary context in the fine-grained alluvial flood
+deposits and Terrace 0 may contain portions of the Middle Archaic, Late Archaic, Late
+Prehistoric, and Historic records in a primary context in the fine-grained alluvial flood deposits.
+The degree of surface disturbance from brush removal, construction and erosion in the
+study area and the absence of exposures limit geoarchaeological interpretations. However, in
+areas not disturbed and not overlain by T0 deposits, the surface of Terrace 1 may contain
+
+31
+
+assemblages of sites spanning Early Archaic to present. Where undisturbed, Terrace 0 may
+contain intact assemblages of sites spanning Middle Archaic to present.
+Dating soil stratigraphy based on the degree of soil development, topographic location,
+and correlation to other central Texas alluvial stream histories are problematic. Future studies
+should incorporate more computer modeling, additional radiocarbon dating, and more detailed
+soil-stratigraphic descriptions from soil borings within the geographical region to help elucidate
+and expand upon archaeological research and geoarchaeological theories.
+
+32
+
+RESULTS AND CONCLUSIONS
+Archival Research
+Previous investigations recorded two sites in the project area, 41WM828, known as the
+Maxine Harris Site, and 41WM965 (see Figure 4). The latter site was documented and tested in
+a 2000 survey by Hicks and Company (Feit and Griffith 2000). It is located on a terrace above
+the west bank of Berry Creek and is described as two hearth features detected at stratigraphically
+different levels (RCRI 2008). No temporally diagnostic remains were recovered at the site.
+Site 41WM828 was discovered and tested in a 1995 survey by Lone Star Archaeological
+Services (RCRI 2008). Additional testing was conducted at the site by Hicks and Company in
+2000 and 2001 (Karbula et al. 2004). These surveys documented isolated subsurface hearth
+features with associated charcoal, lithics and bone. An historic house, presumably built between
+1920 and 1935, was also documented at the site (Karbula et al. 2004:11). Reporting on the 2001
+survey, Karbula et al. (2004:18) described 41WM828 as ââ¦a stratified multi-component site
+representing at least the Late Prehistoric and Late Archaic II periods of central Texas
+prehistory.â Additionally, Karbula et al. (2004:1) proposed that 41WM828 and 41WM965
+ââ¦are in reality part of one laterally extensive larger site that is spread well beyond the project
+boundaries.â During the 2001 survey, Hicks and Company archaeologists recommended to the
+THC that the Berry Creek floodplain portions of 41WM828 were SAL eligible. The THC
+reportedly concurred with this recommendation (Karbula et al. 2004:2).
+Only one other site has been documented within a one-kilometer radius of the project
+area. This site, 41WM421, is located on a terrace overlooking the north bank of the San Gabriel
+River, approximately 550 meters southwest of the Pecan Branch wastewater inflow line. The
+site reportedly covers more than one acre and is manifest by scatters of burned rock, bifaces,
+expended cores, flakes and debitage (RCRI 2008).
+Fieldwork
+AAG conducted archaeological testing at two locations within the project area, the plant
+inflow line and the plant outflow line. A total of eight isolated prehistoric hearth features were
+encountered. The features were hand-excavated. All matrix from features was passed through
+Â¼â-mesh screen and samples of soil were taken from each feature for floatation analysis. No
+remains were recovered from any of the floatation samples. Numerous carbon samples collected
+from the features were sent to the Stafford radiocarbon lab for radiocarbon dating. These
+samples were lost by the lab. Subsequently, a sample of bone associated with outflow line
+Feature 2 was sent to Beta Analytic for analysis. This sample was successfully dated and is
+reported in the following discussion of the results of testing.
+Inflow Line
+Two prehistoric hearth features were encountered during the excavation of the inflow line
+trench (BHT-1). The inflow line is considered here to fall within the boundary of previously
+identified site 41WM828, which is characterized by the remains of isolated prehistoric burned
+
+33
+
+rock hearths with associated lithics, bone and shells. A log of the inflow line features and
+descriptions of all artifacts collected from the features are presented in Appendix I and Appendix
+II, respectively.
+Inflow Feature 1
+This feature was a small prehistoric hearth measuring 1 meter x 60 centimeters (Figure 19). It
+was encountered at 40 centimeters below ground surface (b.g.s.) in the Ak soil horizon (black
+clay) and rested on an underlying gravel stratum. The feature contained burned rock, 10 chert
+and quartzite flakes, one chert core and Rabdotus shells. One of the flakes, a large secondary
+chert flake, exhibited use wear on a lateral edge. The shells were submitted for radiocarbon
+dating but were lost by the radiocarbon lab.
+
+Figure 19: Inflow line Feature 1.
+Inflow Line Feature 2
+This feature, a prehistoric hearth, comprised a 1 x 1 meter scatter of approximately 20
+small burned rocks (approx. â¤ 10 centimeters in diameter), 24 chert and quartzite flakes, and
+Rabdotus and fresh water mussel shells (Figure 20). Two of the chert flakes, both tertiary flakes,
+exhibit use wear on a lateral edge. The feature was located 30-40 centimeters b.g.s in the Ak soil
+horizon (loamy clay). The Rabdotus shells in the feature were not collected. The mussel shells
+were submitted for radiocarbon dating but were lost by the radiocarbon lab.
+
+34
+
+Figure 20: Inflow line Feature 2.
+Outflow Line
+Six prehistoric hearth features were discovered during backhoe trenching along the route
+of the outflow line. Based on these findings, the area of investigation on the outflow line was
+designated as Site 41WM1063. The features which characterize the site are similar in
+composition, function, stratigraphic range and antiquity to those documented throughout the
+project area and may also be considered to fall within Site 41WM828. A log of the outflow line
+features and descriptions of all artifacts collected from the features are presented in Appendix III
+and Appendix IV, respectively.
+Outflow Line Feature 1
+This small, 20 x 20 centimeter prehistoric hearth consisted of three burned rocks, one
+flake and a fleck of carbon (Figure 21). The feature was located in the AK2 soil horizon of
+BHT-111 at a depth of 100-109 centimeters b.g.s. The flake observed in the feature was
+inadvertently not collected. The carbon fleck was submitted for radiocarbon dating but was lost
+by the radiocarbon lab.
+
+35
+
+Figure 21: Outflow line Feature 1.
+Outflow Line Feature 2
+This feature consisted of a shallow burned rock hearth in BHT-109 measuring
+approximately 1.1 x 1.5 meters (Figure 22). It was located at a depth of 8-24 centimeters b.g.s.
+in the AP and Ak soil horizons. Two test units were excavated in the north and east walls of the
+trench to expose the entire feature. A total of 66 limestone and sandstone cobbles and pebbles
+were recovered from the feature. The rocks were scattered but formed a concentric pattern in the
+middle section of the feature. Many of the rocks exhibited discoloration from exposure to fire.
+Artifacts recovered from the feature include a high density of lithic debris and flakes (n=30), as
+well as the tip of an arrow point, three unifacially-retouched flake tools, one core and a broken
+mano (Figure 23). The arrow point fragment could not be typed (Figure 23b). The unifacial
+tools include two spokeshaves, a small scraper with fine, steep retouch and a thin flake tool with
+retouch along the lateral edges of the ventral surface (Figure 23a). Potlids on two flakes suggest
+that these flakes were exposed to fire. Faunal remains from the feature include three long bone
+fragments (unidentified mammal), a freshwater mussel shell fragment and several Rabdotus and
+Helicina shells. One bone fragment appears to have been burned. Four small samples of
+charcoal were also recovered from the feature. These samples were submitted for radiocarbon
+dating but were lost by the radiocarbon lab. A sample of bone was subsequently sent to a
+different laboratory and was successfully dated.
+The arrow point tip recovered in the feature cross-dates to either the Late Prehistoric or
+Historic periods (see Figure 23b.; Turner and Hester 1985). However, an AMS radiocarbon date
+obtained from a sample of bone places the feature firmly in the Late Prehistoric period. The
+sample yielded a conventional radiocarbon date of 440 Â± 40 B.P (Beta-245519). The 2 sigma
+calibrated range of the date (with intercept) is cal A.D. 1420 [1440] 1490.
+
+36
+
+Figure 22: Outflow line Feature 2.
+
+Figure 23: Chipped stone artifacts from outflow line Feature 2; a. unifacial flake tool, possibly a
+drill base (showing ventral face of flake); b. arrow point tip.
+Several historic artifacts were dispersed throughout the feature. They comprise four
+fragments of glazed whiteware pottery, two small fragments of metal, and five glass shards
+(Figure 24). These artifacts are presumably unassociated with the feature culturally and
+chronologically. While they could not be precisely dated, certain characteristics of the artifacts
+relating to fabrication methods suggest a relatively recent origin, probably 19th or 20th century.
+The ceramic sherds, which are likely from a single vessel (a plate or saucer with a ring base and
+embossed curvilinear design), recall mass-produced dinnerware (see Figure 24a-d). The metal
+artifacts have been tentatively identified as fragments of containers made of tinplate steel. One
+metal artifact is a section of a folded rim (see Figure 24e), and the other is a piece of a ribbed
+
+37
+
+side wall (see Figure 24f.). Traces of what may be tin plate covering the sheet steel are visible
+on the rim. The glass shards appear to be molded rather than hand-blown (see Figure 24g-k).
+
+Figure 24: Historic artifacts from outflow line Feature 2; a-d., glazed whiteware pottery (a. is a
+rim, b. is a ring base and c. bears embossed decoration); e-f., metal fragments, probably tinplate
+steel; g-k., glass shards.
+Outflow Line Feature 3
+This prehistoric hearth feature was encountered in BHT-107 at 93-110 centimeters b.g.s.
+(Figure 25). It was situated near the base of the Bkt horizon. The feature measured
+approximately 160 x 50 centimeters and contained burned rock, three chert flakes, two mussel
+shell fragments and Rabdotus and Helicina snail shells. The shells were submitted for
+radiocarbon dating but were lost by the radiocarbon lab. No charcoal was recovered. A 1 x 1
+meter test unit excavated adjacent to the feature in the north trench wall north yielded no
+additional remains.
+
+38
+
+Figure 25: Outflow line Feature 3.
+Outflow Line Feature 4
+Feature 4, a prehistoric hearth, was encountered in the Bkt and C1 soil horizons in BHT107. The bulk of the feature was situated between 105 and 120 centimeters b.g.s., but a large
+mussel shell and a few cobbles were recovered at depths ranging from 120-140 centimeters b.g.s.
+The feature consisted of a scatter of burned rocks and 11 chert flakes surrounded a more dense
+concentration of rocks. Most of the rocks were limestone stream cobbles, possibly taken from
+nearby Berry Creek, and were fist-sized or smaller. Rabdotus and Helicina snail shells and
+fragments of freshwater mussel shells were also recovered from the feature. The shells were
+submitted for radiocarbon dating but were lost by the radiocarbon lab. No substantial deposits of
+charcoal were encountered, though flecks of charcoal were noted throughout the hearth and on
+the bottom of most stones.
+The feature was leveled off and cleaned at 110 centimeters b.g.s. (Figure 26). All burned
+rock, a chert flake, and a mussel shell were pedestaled and mapped in place. At this depth the
+feature spanned the entire width of the trench (approximately 1 meter) from north to south and
+from an unexcavated bulk on the west to the continued trench to the eastâa distance of about 2
+meters. Assuming the hearth was round to oval, the feature probably extends another meter into
+the trench walls.
+
+39
+
+Figure 26: Outflow line Feature 4.
+A 10-centimeter level was then removed using a shovel and trowel, again leaving
+hearthstones and artifacts on pedestals. At this level the western part of the hearth was evidently
+higher than the east and contained substantially less burned rock. A second drawing was made at
+a depth of 120 centimeters b.g.s. to show a concentration of hearthstones in the east and north
+sides of the feature. All artifacts were then removed, and matrix samples were taken in the
+northeast corner of the feature for floatation analysis. The subsurface was probed but no
+additional remains were observed. Trenching then continued, with careful monitoring, to a depth
+of 220 centimeters b.g.s. One large mussel shell and several cobbles were encountered from
+120-140 centimeters b.g.s. in the area under the heaviest concentration of remains in the
+northeast part of the feature.
+Outflow Line Feature 5
+This prehistoric hearth feature was found in the C1 soil horizon at the bottom of BHT108 and extended from 120-130 centimeters b.g.s. (Figure 27). The dimensions of the feature
+were approximately 2 meters east/west and 20-30 centimeters north/south. The feature contained
+several burned rocks, 22 chert flakes, a chert core and a small, unidentified bone fragment.
+Potlids were present on two of the flakes, suggesting that these flakes were exposed to fire. No
+charcoal was recovered. After the feature was recorded, the excavation of the trench continued.
+No further remains were encountered below the feature.
+
+40
+
+Figure 27: Outflow line Feature 5.
+Outflow Line Feature 6
+This small prehistoric hearth feature was located in the Bk1 soil horizon in BHT-111 at a
+depth of 145-153 centimeters b.g.s. (Figure 28). The feature measured 20 x 22 centimeters and
+consisted of three burned rocks. No artifacts or charcoal were recovered. The burned rocks were
+not collected.
+Discussion
+Three archaeological surveys associated with the Pecan Branch Wastewater Treatment
+Plant were conducted in the project area prior to AAGâs investigation (Feit and Griffith 2000;
+Karbula et al. 2004; RCRI 2008). These surveys recorded two archaeological sitesâ41WM828
+on the terrace between Berry Creek and Pecan Branch and 41WM965 on the Berry Creek
+floodplain. Based on the results of the surveys, the THC authorized construction of the treatment
+plant but requested additional testing along planned inflow and outflow lines. AAGâs
+investigation was designed to identify the horizontal and vertical distribution of cultural deposits
+located along the outflow and inflow lines and to obtain cultural-chronological data appropriate
+to evaluate the significance of the deposits. While AAGâs investigation was considerably
+smaller in scope than the preceding 2001 Hicks and Company survey, it provided substantial
+new information concerning the nature, distribution and antiquity of cultural remains in the
+project area. Backhoe trenching along the routes of the proposed lines exposed eight prehistoric
+hearth featuresâtwo on the inflow line and six on the outflow line. AAG recorded Site
+41WM1063 on the outflow line.
+
+41
+
+The inflow line is located near the top of the terrace between Berry Creek and Pecan
+Branch and is considered here to fall within the previously recorded Site 41WM828. The two
+features encountered by AAG on the inflow line (Features 1 and 2) were both located in the Ak
+soil horizon. This soil horizon falls within what Karbula et al. (2004:Figure 6-3) refer to as Strat
+2 in their report of the 2001 Hicks and Company survey of the project area. Inflow line Feature
+1 was recorded at 40 centimeters b.g.s. and was dated by geoarchaeological modeling to 2589
+B.P. (see Figure 17). Inflow line Feature 2 extended from 30-40 centimeters b.g.s. and was dated
+by geoarchaeological modeling to 2188 B.P (see Figure 17). Neither of the features yielded
+temporally-diagnostic artifacts, bone, charcoal or macrobotanical plant remains.
+
+Figure 28: Outflow line Feature 6.
+The results of AAGâs archaeological testing on the inflow line are generally consistent
+with the results of testing on the upper terrace by Hicks and Company in 2001 (Karbula et al.
+2004). Both investigations recorded:
+â¢ Isolated Middle and Late Archaic burned rock hearth features;
+â¢ A concentration of features at a depth of around 40 centimeters b.g.s.;
+â¢ Lithic assemblages reflecting the production and maintenance of unifacial and bifacial
+stone tools;
+â¢ Shells of land snails and freshwater mussels associated with hearth features;
+â¢ A near absence of preserved bone, charcoal and macrobotanical plant remains.
+Karbula et al. (2004:115, Table 9-4) observed scattered, low-density remains on the
+terrace at depths of 75-95 centimeters b.g.s. during the 2001 Hicks and Company survey.
+However, remains at these depths were only encountered in trenches located over 150 meters to
+the southeast of the inflow line. Trenches excavated by Hicks and Company in the area of the
+
+42
+
+inflow line (Hicks BHTs 97, 98, 105 and 106) did not expose any cultural remains below 68
+centimeters b.g.s. (Karbula et al. 2004:Table 7-19).
+The outflow line lies in the southeast corner of the project area approximately 200 meters
+north of the confluence Berry Creek, Pecan Branch and the San Gabriel River. AAG excavated
+six prehistoric hearth features on the outflow line and recorded them as Site 41WM1063. The
+features were generally situated at significantly greater depths than the features encountered on
+the inflow line. The one exception was outflow line Feature 2, which extended from 8-24
+centimeters b.g.s. in the AP/Ak soil horizons of BHT-109. This feature has been placed
+chronologically in the Late Prehistoric period based on a cross-dated arrow point fragment and a
+radiocarbon date run on bone whose 2 sigma calibrated range is cal A.D. 1420-1490 (Beta245519). The remaining five features were encountered at depths ranging from 93-153 cm b.g.s.
+in several different soil horizons in BHTs 107, 108 and 111 (see Appendix III). All of these
+features fall within what Karbula et al. (2004) refer to as Strat 2 in their report of the 2001 Hicks
+and Company survey of the project area. No radiocarbon dates were obtained from the deeply
+buried features on the outflow line, but two of the features were dated by geoarchaeological
+modeling. Outflow line Feature 1, located in BHT-111 at a depth of 100-109 centimeters below
+surface, was dated to 1683 B.P. (see Figure 17). Outflow line Feature 6, located in BHT-111 at a
+depth of 145-153 centimeters below surface, was dated to 4636 B.P. (see Figure 17). In contrast
+to the features on the inflow line, features on the outflow line yielded charcoal and bone
+fragments. No macrobotanical remains were recovered in floatation samples from the features.
+As was the case on the inflow line, the results of AAGâs archaeological testing on the
+outflow line are generally consistent with those reported by Karbula et al. (2004) in the report on
+the 2001 Hicks and Company survey. In the area of the outflow line, both investigations
+recorded:
+â¢ Isolated burned rock hearth features;
+â¢ Features located at depths greater than those located at higher elevations on the terrace;
+â¢ Lithic assemblages reflecting the production and maintenance of unifacial and bifacial
+stone tools;
+â¢ Shells of land snails and freshwater mussels associated with hearth features;
+â¢ Preserved bone and charcoal.
+No cultural features or other cultural remains were encountered in BHTs 112, 113 or 114
+at the eastern end of the outflow line near Berry Creek. Two backhoe trenches excavated by
+Hicks and Company in the same area (Hicks BHT 65 and 77) also yielded negative results
+(Karbula et al. 2004:41). There are several possible reasons for the apparent absence of cultural
+remains in this area. At the eastern end of the outflow line, approximately Â½ meter of fine
+alluvial deposits overlie gravel deposits. Between the gravel and fine-grained alluvium is an
+erosional surface. This unconformity represents a hiatus of unknown duration. The Â½ meter or
+so of fine-grained alluvium above the gravels was probably deposited within the last 4000 years
+and has been subject to processes of erosion and redeposition. Additionally, the impact of
+relatively recent activities such as clearing, plowing, and contouring would be deeper at the
+eastern end of the outflow line than in other parts of the project area because of the steeper slope.
+The construction of the elevated railroad embankment to the south of the outflow line may have
+further impacted the soil.
+
+43
+
+The chronological sequence of the deeply buried cultural deposits further to the west on
+the outflow line remains poorly understood due to a lack of temporally-diagnostic artifacts and
+radiocarbon dates. AAGâs geoarchaeological modeling suggests that the deeply buried outflow
+features 1 and 6 date to the Archaic period (see Figure 17). These two features have a combined
+depth range of 100-153 centimeters b.g.s. The other deeply buried outflow line features (features
+3-5) have a similar combined depth range (93-130 centimeters b.g.s.). This suggests that all of
+the deeply buried outflow features fall roughly within the chronological range defined by
+outflow features 1 and 6. Assuming that all the outflow line features except Feature 2 are
+Archaic, the fact that they are deeper than known Archaic features at higher elevations on the
+terrace is likely attributable to differential depositional rates in the two areas (more rapid
+deposition near Berry Creek).
+In sum, AAGâs investigation confirmed the presence of intact deposits of prehistoric
+cultural remains along both the inflow and outflow lines. Data from AAGâs investigation and
+previous surveys conducted in anticipation of the construction of the Pecan Branch Wastewater
+Treatment Plant suggest that small, isolated Archaic and Late Prehistoric features are present
+throughout most of the project area with the possible exception of the extreme eastern end of the
+outflow line. In areas not disturbed and not overlain by T0 deposits, the surface of Terrace 1
+may contain assemblages of sites spanning Early Archaic to present. Where undisturbed,
+Terrace 0 may contain assemblages of sites spanning Middle Archaic to present. Accordingly,
+the majority of the project areaâincluding sites 41WM828, 41WM965 and 41WM1063âis
+considered worthy of designation as a SAL. Sections of the project area along the Berry Creek
+floodplain appear to have the greatest archaeological potential due to both better preservation of
+carbon and organic material (primarily bone) and greater stratigraphic separation between
+features.
+
+44
+
+RECOMMENDATIONS
+Archaeological testing along the proposed Pecan Branch Wastewater inflow and outflow
+lines in Williamson County, Texas performed for the City of Georgetown identified two
+archaeological sites in the project area, 41WM828 and 41WM1063. Both sites are considered
+potentially eligible for inclusion to the National Register of Historic Places (NRHP) and worthy
+of designation as State Archeological Landmarks (SAL).
+American Archaeology Group LLC (AAG) excavated all features encountered along the
+routes of the proposed inflow and outflow lines. Based on the clearance of the features, the THC
+concurred that the City of Georgetown could proceed with construction. It is important to note,
+however, that the results of this and previous investigations suggest that intact deposits of
+cultural remains are located in adjacent areas. Additional testing and/or mitigation may be
+necessary in these areas to further evaluate these potential deposits. Should any sites be located
+during the planned construction, all work within the site should cease until the situation can be
+evaluated by the Archeology Division of the Texas Historical Commission, in consultation with
+AAG and the City of Georgetown.
+
+45
+
+REFERENCES CITED
+Adams, Jonathan
+2003
+Aten, Lawrence E.
+1983
+Barnes, V. E.
+1974
+
+North America During the Last 150,000 Years; Environmental Sciences
+Division, Oak Ridge National Laboratory, Oak Ridge, Tenn.
+Indians of the Upper Texas Coast. Academic Press.
+Geologic Atlas of Texas: Austin Sheet; Bureau of Economic Geology,
+The University of Texas at Austin.
+
+Biesaart, Lynne A., Wayne R. Roberson, and Lisa Clinton Spotts
+1985
+Prehistoric Archaeological Sites in Texas: A statistical Overview. Office
+of the State Archaeologist, Special Report 28.
+Blair, W. Frank
+1950
+The Biotic Provinces of Texas. Texas Journal of Science 11(1):93-116.
+Blum, M. D. and Valastro, S. Jr.
+1994
+Late Quaternary sedimentation, lower Colorado River, Gulf Coastal Plain
+of Texas. Geological Society of America Bulletin, v. 106, p. 1002-1016.
+Bond, Clell
+1978
+Three Sites at Hoxie Bridge, Williamson County, Texas. Texas A&M
+University Research Foundation.
+Bradle, Michael R. and Gilbert T. Bernhardt
+2008
+Archaeological Survey of the SG3-A Project Area, Georgetown
+Wastewater System for the City of Georgetown, Williamson County,
+Texas. American Archaeology Group LLC Report of Investigations
+Number 138.
+Bradle, Michael R., James S. Belew, and K. Lee Hilliard
+1998
+An Archaeological Survey of the 1998 Georgetown Park in Williamson
+County, Texas. American Archaeology Group, Inc. Report of
+Investigations Number 21.
+Bryan , F.
+1931
+
+Notes on the Archeology of Central Texas. American Anthropologist
+33(1):16-31.
+
+Campbell, T. N.
+1948
+
+The Merrill Site: Archeological Remains Associated with Alluvial Terrace
+Deposits in Central Texas. Bulletin of the Texas Archeological and
+Paleontological Society 19:7-35.
+
+46
+
+1952
+
+Note written by T.N. Campbell dated October 24, 1952. On file at the
+Texas Archeological Research Laboratory in Austin, Texas.
+
+Carlson, David L., Shawn B. Carlson, Fredrick L. Briuer, Erwin Roemer, Jr., and William E.
+Moore
+1986
+Archaeological Survey at Fort Hood, Texas Fiscal Year 1983, The Eastern
+Training Area. United States Army Fort Hood, Archaeological Resource
+Management Series, Research Report 11.
+Collins, Michael B.
+1990
+
+The Archaeological Sequence at Kincaid Rockshelter, Uvalde County,
+Texas. In Transaction of the 25th Regional Archeological Symposium for
+Southeastern New Mexico and Western Texas, pp. 25-33. Midland
+Archeological Society, Midland.
+
+1995
+
+Forty Years of Archeology in Central Texas. Bulletin of the Texas
+Archeological Society 66:361-400.
+
+1999
+
+Re-Thinking the Peopling of the Americas. Heritage 17 (4):6-11.
+
+Collins, Michael B., G.L. Evans, Thomas Nolan Campbell, M.C. Winans, and C.E. Mear
+1989
+Clovis Occupation at Kincaid Shelter, Texas. Current Research in the
+Pleistocene 6:3-4.
+Dice, L. R.
+1943
+Dillehay, Tom D.
+1974
+Eddy, Frank
+1973
+
+The Biotic Provinces of North America. University of Michigan Press,
+Ann Arbor.
+Late Quaternary Bison Population Changes on the Southern Plains. Plains
+Anthropologist 19(65):180-169.
+Salvage Archeology in the Laneport Reservoir District, Central Texas.
+Unpublished manuscript released to the National Park Service by the
+Texas Archeological Survey.
+
+Ellis, Linda Wootan, G. Lain Ellis, and Charles D. Frederick
+1995
+Implication of Environmental Diversity in the Central Texas
+Archeological Region. Bulletin of the Texas Archeological Society 66:401426.
+
+47
+
+Feit, Rachel and Timothy B. Griffith
+2000
+A Cultural Resources Survey of the San Gabriel River Terrace:
+Investigations at the Proposed Pecan Branch Wastewater Treatment
+Plant. Hicks and Company Archeology Series # 82. Austin.
+Foster, Eugene
+1994
+
+A Cultural Resources Survey of Proposed Phase I Recreational
+Improvements at San Gabriel River Park, Phase II, Georgetown,
+Williamson County, Texas. Espey, Huston & Associates, Document No.
+940301.
+
+Guderjan, Thomas H., George B. Thomas, and Howard R. Cramer
+1980
+Existing Data Inventory of Cultural Resource and Paleontological
+Information, Fort Hood, Texas. Soil Systems, Inc. Marietta, Georgia.
+Jackson, A. T.
+1931
+
+Jackson, Marsha
+1974
+
+Johnson, LeRoy, Jr.
+1987
+
+Excavation of a Burial Site on Fred Acree Farm, Coryell County, Texas,
+January 29 to February 3, 1931. Unpublished manuscript on file at he
+Texas Archeological Research Laboratory in Austin, Texas.
+Archeological Resources of the North Fork Reservoir Area: Results of
+Survey and Testing, 1970 Season. Report submitted to the National Park
+Service by the Texas Archeological Survey, Austin.
+A Plague of Phases: Recent Sociocultural Taxonomy in Texas
+Archeology. Bulletin of the Texas Archeological Society 57:1-26.
+
+Johnson, LeRoy, Jr. and Glenn T. Goode
+1994
+A New Try at Dating and Characterizing Holocene Climates, as well as
+Archeological Periods, on the Eastern Edwards Plateau. Bulletin of the
+Texas Archeological Society 65:1-51.
+Karbula, James W., Mason D. Miller, Jonathan H. Jarvis, S. Christopher Caran, and W. Boone
+Law
+2004
+The Pecan Branch Project: Intensive Testing of Site 41WM428 in
+Williamson County, Texas. Hicks & Company Archeology Series # 131.
+Austin.
+Moore, Gary L.
+1976 An Archeological Assessment of Sites 41WM21, 41WM24, and 41WM133 in
+Granger Reservoir, Williamson County, Texas. Texas A&M University,
+Anthropology Research Laboratory Report 32.
+
+48
+
+1977
+
+An Archeological Assessment of Sites 41WM21, 41WM24, and 41WM133 in
+Granger Reservoir, Williamson County, Texas. Texas A&M University,
+Anthropology Research Laboratory Report 32.
+
+1978
+
+Archeological Test Excavations at 41WM21 in Granger Reservoir, Williamson
+County, Texas. Texas A&M University, Anthropology Department Report 37
+(revised by Harry J. Shafer, Edward P. Baxter, John Ippolito, and Clell L. Bond
+with an appendix by Vaughn M. Bryant).
+
+Moore, G., H. Shafer, and C. Weed
+1978
+Archeological Surveys of Granger and North Fork Reservoirs. Volume 1:
+The Granger Report.
+Newcomb, William W., Jr.
+1986
+The Indians of Texas: From Prehistoric to Modern Times. The University
+of Texas Press (seventh paperback printing).
+Nordt, Lee C.
+1992
+
+Archaeological geology of the Fort Hood Military Reservation, Fort Hood,
+Texas; Research report Number 25, United States Army Fort Hood,
+Archaeological Resource Management Series.
+
+Patterson, P. E. and Gary Moore
+1976
+An Archeological Study of North Fork and Granger Reservoirs, A
+Preliminary Report. Anthropology Research Laboratory Report No. 34.
+Texas A&M University.
+Patterson, Patience and Harry J. Shafer
+1980
+Archeological Surveys of Granger and North Fork Reservoirs. Report No.
+34b, Anthropology Research Laboratory, Texas A&M University.
+Prewitt, Elton R.
+1974
+
+Archeological Investigations at the Loeve-Fox site, Williamson County,
+Texas. Texas Archeological Survey, Research Report
+49. Austin.
+
+1981
+
+Cultural Chronology in Central Texas. Bulletin of the Texas
+Archeological Society 52:65-89.
+
+1985
+
+From Circleville to Toyah: Comments on Central Texas Chronology.
+Bulletin of the Texas Archeological Society 54:201-238 (for 1983).
+
+RCRI (Restricted Cultural Resource Information)
+2008
+Texas Historical Commission Restricted Cultural Resource Information
+and Texas Archaeological Sites Atlas, http://nueces.thc.state.tx.us/
+(accessed January, 2008).
+
+49
+
+Redder, Albert J.
+1985
+Rice, R. J.
+1988
+
+Horn Shelter Number 2: The South End a Preliminary Report. Central
+Texas Archeologist 10:37-65.
+Fundamentals of Geomorphology, second edition. Longman Scientific
+and Technical.
+
+Roemer, Erwin, Jr., Shawn Bonath Carlson, David L. Carlson, and Frederick L Briuer
+1985
+Archaeological Surveys at Fort Hood, Texas, The Fiscal Year 1982 Range
+Construction Projects. United States Army, Fort Hood Archaeological
+Resource Management Series, Research Report Number 10.
+Schuetz, Mardith
+1957
+Shafer, Harry J.
+1963
+1974
+
+A Report on Williamson County Mound Material. Bulletin of the Texas
+Archeological Society 28:135-168.
+Test Excavations at the Youngsport Site: A Stratified Terrace Site in Bell
+County, Texas. Bulletin of the Texas Archeological Society 34:57-81.
+Brushy Creek Watershed, Williamson County, Texas: An Archeological
+Survey of Structure 31. Texas A&M University, Anthropology Research
+Laboratory Report Number 2.
+
+Shafer, Harry J. and James Corbin
+1965
+An Appraisal of the Archeological Resources of the North Fork, South
+Fork, and Laneport Reservoirs, Williamson County, Texas. Report
+submitted to the National Park Service by the Texas Archeological
+Salvage Project.
+Shafer, Harry J., Dee Ann Suhm, and J. D. Scurlock
+1964
+An Investigation and Appraisal of the Archeological Resources of Belton
+Reservoir, Bell and Coryell Counties, Texas: 1962. Texas Archaeological
+Salvage Project, Miscellaneous Papers, No. 1. The University of Texas at
+Austin.
+Skinner, S. Alan, Frederick L. Briuer, George B. Thomas, Ivan Show, and Eli Mishuck
+1981
+Initial Archaeological Survey at Fort Hood, Texas, Fiscal
+Year 1978. United States Army, Fort Hood Archaeological Resource
+Management Series, Research Report Number 1.
+Sorrow, William M., Harry J. Shafer, and Richard E. Ross
+1967
+Excavations at Stillhouse Reservoir. Papers of the Texas Archeological
+Salvage Project, Number 11 Austin.
+
+50
+
+Suhm, Dee Ann, and Edward B. Jelks
+1962
+Handbook of Texas Archeology: Type Descriptions. Texas Archeological
+Society, Special Publication Number 1 and Texas Memorial Museum,
+Bulletin Number 4.
+Suhm, Dee Ann, Alex D. Krieger, and Edward B. Jelks
+1954
+An Introductory Handbook of Texas Archeology. Bulletin of the Texas
+Archeological Society 25 (entire volume).
+Tharp, B. C.
+1926
+Thomas, George B.
+1978
+Thornwaite, C. W.
+1948
+
+Structure of Texas Vegetation East of the 98th Meridian. The University
+of Texas Bulletin 2606.
+A Survey and Assessment of the Archeological Resources of Fort Hood,
+Texas. Bulletin of the Texas Archeological Society 49:195-240.
+An Approach Toward a Rational Classification of Climate. Geography
+Review 38:55-94.
+
+Turner, Ellen Sue and Thomas R. Hester
+1985
+A Field Guide to Stone Artifacts of Texas Indians. Texas Monthly Press.
+USGS (United States Geological Survey)
+1981
+Georgetown 7.5 minute quadrangle topographic map.
+1982
+Weir, Frank A.
+1976
+
+Weir 7.5 minute topographic quadrangle map.
+The Central Texas Archaic. Unpublished Ph.D. Dissertation, Washington
+State University. Pullman. On file at the Texas Archeological Research
+Laboratory in Austin, Texas.
+
+Werchan, Leroy E. and John L. Coker
+1983
+Soil survey of Williamson County, Texas. Published by The United States
+Department of Agriculture, Soil Conservation Service.
+Willey, Gordon R. and Phillip Phillips
+1958
+Method and Theory in American Archeology. The University of Chicago
+Press, Chicago.
+
+51
+
+APPENDIX I: FEATURE LOG FOR INFLOW LINE TRENCH, SITE 41WM828
+Feature
+No.
+1
+
+BHT
+
+Size (cm)
+
+1
+
+Depth
+(cm b.g.s.)
+40
+
+2
+
+100 x 60
+
+Soil
+Horizon
+Ak
+
+1
+
+30-40
+
+Date
+2589 BP (modeled)
+
+100 x 100
+
+Ak
+
+2188 BP (modeled)
+
+52
+
+Description
+Small burned rock hearth with
+flakes, snail, and core; in
+upper black clay
+Burned rock hearth with
+associated flakes, snails, and
+fresh water mussels
+
+APPENDIX II: ARTIFACT COLLECTION LOG FOR INFLOW LINE TRENCH,
+SITE 41WM828
+________________________________________________________________________
+Feature
+Artifact
+Description
+________________________________________________________________________
+01
+01
+01
+01
+01
+01
+
+Rock 1
+Rock 2
+Rock 3
+Rock 4
+Rock 5
+Chert 6
+
+01
+01
+
+Chert 7
+Quartzite 8
+
+burned red Edwards limestone, wt. 439g
+burned gray limestone, wt. 600+g
+burned gray limestone, wt. 600+g
+burned gray limestone, wt. 349g
+core, multidirectional, burned, wt. 127g
+secondary flakes and flake fragments (one utilized), N=3, wt.
+38.6g
+tertiary flakes and flake fragments, N=6, wt. 9.5g
+tertiary flake, N=1, wt. 0.6g
+
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+
+Rock 1
+Rock 2
+Rock 3
+Rock 4
+Rock 5
+Rock 6
+Rock 7
+Rock 8
+Rock 9
+Rock 10
+Rock 11
+Chert 12
+Chert 13
+Chert 14
+Quartzite 15
+Chert 16
+
+burned Edwards limestone, wt. 313g
+burned Edwards limestone, wt. 259+g
+burned Edwards limestone, red, wt. 486g
+burned Edwards limestone, wt. 107g
+burned Edwards limestone, wt. 113g
+burned Edwards limestone, wt. 213g
+burned Edwards limestone, wt. 444g
+burned Edwards limestone, wt. 434g
+burned Edwards limestone, wt. 357g
+burned Edwards limestone, wt. 326g
+burned Edwards limestone, wt. 119g
+chunk, N=1, wt. 2.7g
+secondary flakes, N=3, wt. 8.8g
+tertiary flakes and flake fragments (2 utilized), N=19, wt. 32g
+tertiary flake, N=1, wt. 0.8g
+end scraper with lateral spur, secondary flake, N=1, wt. 5.2g
+
+53
+
+APPENDIX III: FEATURE LOG FOR OUTFLOW LINE TRENCHES, SITE 41WM1063
+Feature
+No.
+1
+
+BHT
+
+Size (cm)
+
+111
+
+Depth
+(cm b.g.s.)
+100-109
+
+Date
+
+Description
+
+20 x 20
+
+Soil
+Horizon
+AK2
+
+1683 BP (modeled)
+
+8-24
+
+150 x 110
+
+AP/Ak
+
+440 Â± 40 BP (C14)
+
+Small burned rock hearth and 1
+flake
+Large burned rock hearth
+consisting of rock scatter with
+concentric pattern in center
+
+2
+
+109
+
+3
+
+107
+
+93-110
+
+160 x 50
+
+Btk
+
+No date available
+
+Burned rock hearth with
+mussels, chert flakes, and snails
+
+4
+
+107
+
+105-120
+
+200 x 100
+
+Bkt/C1
+
+No date available
+
+5
+
+108
+
+120-130
+
+200 x 30
+
+C1
+
+No date available
+
+6
+
+111
+
+145-153
+
+22 x 20
+
+Bk1/Bk2
+
+4636 BP (modeled)
+
+Burned rock hearth with 11
+chert flakes, charcoal, mussels,
+and Rabdotus and Helicina
+shells
+Small burned rock hearth with
+flakes and bone fragments
+Small burned rock hearth with
+small amount of charcoal; no
+lithics or other artifacts
+
+54
+
+APPENDIX IV: ARTIFACT COLLECTION LOG FOR OUTFLOW LINE TRENCHES,
+SITE 41WM1063
+________________________________________________________________________
+Feature
+Artifact
+Description
+________________________________________________________________________
+01
+01
+01
+
+Rock 1
+Rock 2
+Charcoal 3
+
+red granitic, wt. 445g
+red granitic, wt. 208g
+small fleck of charcoal in clay matrix, not weighed.
+
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+
+Rock 1
+Rock 2
+Rock 3
+Rock 4
+Rock 5
+Rock 6
+Rock 7
+Rock 8
+Rock 9
+Rock 10
+Rock 12
+Rock 13
+Rock 14
+Rock 15
+Rock 16
+Rock 17
+Rock 18
+Rock 19
+Rock 20
+Rock 21
+Rock 22
+Rock 23
+Rock 24
+Rock 25
+Rock 26
+Rock 27
+Rock 28
+Rock 29
+Rock 30
+Rock 31
+Rock 32
+Rock 33
+
+Edwards limestone, probably burned, wt. 134g
+Edwards limestone, probably burned, wt. 97g
+gray sandstone, wt. 205g
+Edwards limestone, probably burned, wt. 30g
+Edwards limestone, probably burned, wt. 26g
+Edwards limestone, probably burned, wt. 62g
+Edwards limestone, probably burned, wt. 30g
+Edwards limestone, probably burned, wt. 110g
+Edwards limestone, probably burned, wt. 11g
+Edwards limestone, probably burned, wt. 56g
+Edwards limestone, probably burned, wt. 18g
+Edwards limestone, probably burned, wt. 63g
+Edwards limestone, probably burned, wt. 17g
+Edwards limestone, probably burned, wt. 16g
+Edwards limestone, probably burned, wt. 14g
+Edwards limestone, probably burned, wt. 61g
+Edwards limestone, probably burned, wt. 31g
+Edwards limestone, probably burned, wt. 74g
+Edwards limestone, probably burned, wt. 23g
+Edwards limestone, probably burned, wt. 125g
+Edwards limestone, probably burned, wt. 83g
+Edwards limestone, probably burned, wt. 288g
+Edwards limestone, probably burned, wt. 500g
+Edwards limestone, probably burned, wt. 110g
+Edwards limestone, probably burned, wt. 206g
+Edwards limestone, probably burned, wt. 28g
+Edwards limestone, probably burned, wt. 41g
+Edwards limestone, probably burned, wt. 406g
+Edwards limestone, probably burned, wt. 56g
+Edwards limestone, probably burned, wt. 52g
+Edwards limestone, probably burned, wt. 255g
+Edwards limestone, probably burned, wt. 50g
+
+55
+
+_______________________________________________________________________
+Feature
+Artifact
+Description
+________________________________________________________________________
+02
+02
+02
+02
+02
+02
+02
+02
+02
+
+Rock 34
+Rock 35
+Rock 36
+Rock 37
+Rock 38
+Rock 39
+Rock 40
+Rock 41
+Rock 42
+
+02
+
+Rock 43
+
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+
+Rock 44
+Rock 45
+Rock 46
+Rock 47
+Rock 48
+Rock 49
+Rock 50
+Rock 52
+Rock 53
+Rock 54
+Rock 55
+Rock 56
+Rock 57
+Rock 58
+Rock 59
+Rock 60
+Rock 61
+Rock 62
+Rock 63
+Rock 64
+Rock 65
+Rock 66
+Rock 67
+Charcoal 68
+Snail 69
+Snail 70
+Pottery 71
+
+Edwards limestone, probably burned, wt. 69g
+Edwards limestone, probably burned, wt. 95g
+Edwards limestone, probably burned, wt. 336g
+Edwards limestone, probably burned, wt. 214g
+Edwards limestone, probably burned, wt. 157g
+Edwards limestone, probably burned, wt. 57g
+Edwards limestone, probably burned, wt. 388g
+Edwards limestone, probably burned, wt. 172g
+Edwards limestone, probably burned, wt. 539g; mano
+fragment
+Edwards limestone, probably burned, wt. 98g; other portion of
+mano fragment, combined size 13.5cm x 9cm x 4.5cm
+gray, fine-grained sandstone, wt. 254g
+gray, fine-grained sandstone, wt. 410g
+gray, fine-grained sandstone, wt. 298g
+gray, fine-grained sandstone, wt. 230g
+gray, fine-grained sandstone, wt. 572g
+gray, fine-grained sandstone, wt. 572g
+gray, fine-grained sandstone, wt. 204g
+gray, fine-grained sandstone, wt. 152g
+gray, fine-grained sandstone, wt. 288g
+gray, fine-grained sandstone, wt. 317g
+gray, fine-grained sandstone, wt. 162g
+gray, fine-grained sandstone, wt. 186g
+gray, fine-grained sandstone, wt. 124g
+gray, fine-grained sandstone, wt. 234g
+gray, fine-grained sandstone, wt. 184g
+gray, fine-grained sandstone, wt. 147g
+gray, fine-grained sandstone, wt. 87g
+fine-grained gray limestone, wt. 90g
+fine-grained gray limestone, wt. 432g
+fine-grained gray limestone, wt. 552g
+fine-grained gray limestone, wt. 142g
+fine-grained gray limestone, wt. 127g
+unmodified brown chert cobble, wt. 181g
+un-weighed 4 tinfoil containers of clay with charcoal
+Helicina, N=1, wt. 0.3g
+Rabdotus sp., N=8, wt. 7.2g
+whiteware, N=4, wt. 5.7g
+
+56
+
+________________________________________________________________________
+Feature
+Artifact
+Description
+________________________________________________________________________
+02
+02
+02
+02
+02
+02
+02
+02
+02
+
+Shell 72
+Metal 73
+Glass 74
+Bone 75
+Chert 76
+Chert 77
+Chert 78
+Chert 79
+Rock 80
+
+fresh water mussel shell fragment, wt. 4.2g
+rusty metal fragments, N=2, wt. 2.1g
+green, clear, and lavender glass, N=5, wt. 5.1g
+three long bone fragments (one radiocarbon dated), wt. 7.1g
+secondary cortex flakes, N=12, wt. 109g
+tertiary or interior thinning flakes, N=18, wt. 16g
+chips, N=2, wt. 2.3g
+distal tip of an arrow point, wt. 0.4g
+core and thick core flake, wt. 36g
+
+03
+03
+03
+03
+03
+03
+03
+03
+03
+03
+03
+03
+03
+03
+
+Rock 1
+Rock 2
+Rock 3
+Rock 4
+Rock 5
+Rock 6
+Shell 7
+Snail 8
+Snail 9
+Rock 10
+Rock 11
+Rock 12
+Rock 13
+Shell 14
+
+03
+03
+
+Chert 15
+Chert 16
+
+fine-grained sandstone, wt. 62g
+fine-grained sandstone, wt. 44g
+fine-grained sandstone, wt. 311g
+fine-grained sandstone, wt. 131g
+fine-grained sandstone, wt. 210g
+fine-grained sandstone, wt. 79g
+fresh water mussel shell fragments, wt. 4.6g
+Rabdotus, N=1, wt. 2.2g
+Helicina, N=1, wt. 1.4g
+fine-grained limestone, wt. 301g
+fine-grained limestone, wt. 517g
+fine-grained limestone, wt. 497g
+fine-grained limestone, wt. 502g
+not weighed; tinfoil pouch of matrix with mussel shell
+fragments
+one secondary cortex flake, wt. 2g
+two tertiary flakes, wt. 1g
+
+04
+04
+04
+04
+04
+04
+04
+04
+04
+04
+04
+04
+
+Rock 1
+Rock 2
+Rock 3
+Rock 4
+Rock 5
+Rock 6
+Rock 7
+Rock 8
+Chert 9
+Chert 10
+Snail 11
+Snail 12
+
+yellow limestone, probably burned, wt. 181g
+Edwards limestone, burned, wt. 215g
+Edwards limestone, burned, wt. 443g
+Edwards limestone, burned, wt. 520g
+Edwards limestone, burned, wt. 379g
+Edwards limestone, burned, wt. 76g
+fine-grained sandstone, wt. 203g
+fine-grained sandstone, wt. 486g
+interior thinning flakes, N=7, wt. 5.6g
+secondary cortex flake, N=1, wt. 1.1g
+Rabdotus, N=3, wt. 6.0g
+Helicina, N=3, wt. 1.8g
+
+57
+
+________________________________________________________________________
+Feature
+Artifact
+Description
+________________________________________________________________________
+05
+05
+05
+05
+05
+
+Rock 1
+Bone 2
+Chert 3
+Chert 4
+Chert 5
+
+yellow limestone, 4 small pieces, wt. 36g
+small amount of bone scrap, wt. 0.2g
+core with cortex on one face, wt. 21g
+secondary cortex flakes, N=11, wt. 27g
+interior thinning flakes, N=12, wt. 16.1g
+
+06
+
+Rock 1
+
+burned rock, N=3, not collected
+
+58
+
+

@@ -1,0 +1,2330 @@
+AR Consultants, Inc.
+Archaeological and Environmental Consulting
+11020 Audelia Road, Suite C105, Dallas, TX 75243
+Phone:
+(214) 368-0478
+Fax:
+(214) 221-1519
+email:
+arcdigs@aol.com
+
+ARCHAEOLOGICAL SURVEY OF
+
+WATERLINE IMPROVEMENTS FOR THE
+MILLERSVIEW-DOOLE WSC
+TOM GREEN, CONCHO, RUNNELS AND
+MCCULLOCH COUNTIES, TEXAS
+Texas Antiquities Permit Number 5434
+by
+Rebecca Shelton, MA
+and
+Cameron Turley, BS
+Cody S. Davis, MA
+Principal Investigator
+Submitted to:
+
+JACOB & MARTIN, LTD
+3465 Curry Lane
+Abilene, Texas 79606
+Submitted by:
+
+AR CONSULTANTS, INC.
+11020 Audelia Road, Suite C105
+Dallas, TX 75243
+Cultural Resources Report 2009-63
+December 22, 2009
+HISTORIC BUILDINGS
+
+ARCHAEOLOGY
+
+NATURAL SCIENCES
+
+ARCHAEOLOGICAL SURVEY FOR MILLERSVIEW-DOOLE WSC
+
+ARCHAEOLOGICAL SURVEY OF
+
+WATERLINE IMPROVEMENTS FOR THE
+MILLERSVIEW-DOOLE WSC
+TOM GREEN, CONCHO, RUNNELS AND
+MCCULLOCH COUNTIES, TEXAS
+Texas Antiquities Permit Number 5434
+Rebecca Shelton, MA
+and
+Cameron Turley, BS
+Cody S. Davis, MA
+Principal Investigator
+Submitted to:
+
+JACOB & MARTIN, LTD
+3465 Curry Lane
+Abilene, Texas 79606
+Submitted by:
+
+AR CONSULTANTS, INC.
+11020 Audelia Road, Suite C105
+Dallas, TX 75243
+Cultural Resources Report 2009-63
+December 22, 2009
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR MILLERSVIEW-DOOLE WSC
+
+i
+
+ABSTRACT
+The Millersview-Doole Water Supply Corporation (Millersview-Doole
+WSC) intends to construct approximately 139 miles of 2” to 8” waterlines
+and a tank to upgrade their system in Tom Green, Conch, Runnels, and
+McCulloch counties, Texas. These routes are in a variety of settings,
+which include the bluffs and terraces overlooking the Colorado and
+Concho Rivers and the O.H. Ivie Reservoir, the level uplands between
+these two watersheds, and occasionally the creek and stream valleys of the
+intermittent drainages that flow into these rivers. AR Consultants, Inc.
+conducted the study in three phases, and after an initial survey of 23.5
+miles of waterline, recommended that the routes in the high potential areas
+near drainages be surveyed, while the routes in low potential areas in the
+uplands be investigated for standing structures or cemeteries, but not
+intensively surveyed.
+The investigations resulted in the recording three prehistoric (41CC329,
+41TG621 and 41TG622) sites and one historic (41RN243) site. The
+portions of 41TG621 and 41TG622 within the currently proposed 30’
+right-of-way and the Area of Potential Effect (APE) in Sections 47 and 55
+are not eligible for the National Register of Historic Places (NRHP) or
+State Archeological Landmark (SAL) designation. Their status outside the
+30’ area of proposed ROW is unknown. Site 41CC329 south of Section 30
+is outside of the APE and requires no further investigation. The majority
+of the historic site, 41RN243, is outside of the ROW, and should be
+avoided. The southern end of Section 30 must be rerouted onto the east
+side of the road for approximately 0.25 miles to avoid an unmarked grave
+on the west side of County Road 1445.
+Based on these results of this study, ARC recommends that no further
+investigations are warranted and that the Millersview-Doole WSC can
+proceed with their project. If buried cultural resources are discovered
+during the installation of the lines, ARC recommends that work stop in the
+immediate area and the THC be notified.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR MILLERSVIEW-DOOLE WSC
+
+ii
+
+ACKNOWLEDGEMENTS
+AR Consultants, Inc. wishes to thank everyone involved in the Millersview-Doole WSC
+project. While the authors accept responsibility for the content of the report, we were
+assisted by numerous people during the investigations and preparation of this report.
+First, we would like to thank Mike Templeton, Van Bedner and Quentin from the
+Millersview-Doole WSC for their assistance in conducting the field investigations. Van
+was particularly helpful in gaining us access for survey and testing, and was able to
+coordinate interviews with several landowners, both who were able to assist us in
+understanding the history of the region.
+We appreciate the opportunity to conduct the study, and thank Derek Turner at Jacob &
+Martin, LTD for contracting us to perform the investigations. Finally, we are grateful to
+our co-workers Brett Lang and Nick Coleman for their assistance in artifact analysis and
+map production.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR MILLERSVIEW-DOOLE WSC
+
+iii
+
+TABLE OF CONTENTS
+Abstract ...………………………………………………………..……………… i
+Acknowledgements……………………………………………………………… ii
+Table of Contents ………………………………………………….…………… iii
+List of Tables ……………………………………………………..…………….. iii
+List of Figures ………………………………………………………..………… iii
+Introduction ……………………………………………….……………………
+1
+Natural Environment……………………………………………………………
+3
+Culture History..…………………………………………..……………………
+5
+Research Design and Methodology..………………………..………………….. 11
+Results …………………………………………………….……………………
+13
+Recommendations …………………………………………..………………….. 50
+References Cited..……………….………………………….……….………….. 51
+Appendix A: Waterlines by USGS Quad………………………………………... 54
+Appendix B: Shovel Test Tables………………………………………………... 109
+Appendix C: Shovel Test Analysis from Site 41TG622………………………… 113
+
+LIST OF TABLES
+Table 1.
+Table 2.
+
+USGS Quads referenced for Millersview-Doole waterline
+alignments……………………………………………………….. 14
+Shovel tests results for 41TG622………………………………… 24
+
+LIST OF FIGURES
+Figure 1.
+Figure 2.
+Figure 3.
+Figure 4.
+
+Figure 5.
+Figure 6.
+
+Figure 7.
+Figure 8.
+
+Millersview-Doole WSC proposed waterline routes and
+tank shown on a county map…………………………….
+2
+Section 15 is in a field of recently harvested sorghum. This is a
+typical setting for the waterline routes. View is facing north…... 13
+West slope of hill overlooking the Bluff Creek valley, note
+gravel and limestone bedrock exposed on the surface…………… 15
+Road cut adjacent to waterline easement. The lack of topsoil
+and rocky terrain was typical for ground exposure in
+Section 19, view facing east……………………………………… 17
+Kickapoo Creek crossing in Section 30, view is to the northwest… 18
+Hearth eroding out of gully adjacent to CR 1640, view is to
+the south. Dashed line shows the bottom of the hearth, while
+the arrow points to FCR that has fallen into the gully……………. 19
+Location of hearth site (41CC329) on north side of CR 1640…… 19
+Section 68, typical ground exposure within the route,
+view is facing southeast………………………………………….. 21
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR MILLERSVIEW-DOOLE WSC
+
+Figure 9.
+Figure 10.
+
+Figure 11.
+Figure 12.
+Figure 13.
+Figure 14.
+
+Figure 15.
+Figure 16.
+Figure 17.
+Figure 18.
+
+Figure 19.
+Figure 20.
+Figure 21.
+Figure 22.
+Figure 23.
+Figure 24.
+Figure 25.
+Figure 26.
+Figure 27.
+Figure 28.
+
+Figure 29.
+
+Figure 30.
+
+View facing north in Section 11, note ground visibility is
+100 percent………………………………………………………..
+Plan map of site 41TG622 showing the areas of surface
+scatter and location where buried concentrations of
+artifacts were recorded……………………………………………
+Trench B profile at site 41TG622………………………………...
+Bluff edge where the site center is located south of the bend
+of Chandler Road, view is facing south…………………………..
+Plan map of site 41TG621………………………………………..
+Section 46 parallels Harriet Road and the Atchison Topeka
+and Santa Fe Railroad on the left side of the rail line, view
+is facing southwest………………………………………………..
+East bank of Snake Creek, view facing southeast. Section 59
+parallels the fence line in front of the cotton gin………………….
+Front entry to Wall Cemetery, view is facing north………………
+Fence line on northern boundary of Wall Cemetery, note the
+cotton field to the left. View is facing east………………………..
+Section 5 of the waterline improvements will run inside the
+fence line, view facing south. This is a typical setting for
+Sections 5-8……………………………………………………….
+View facing north along Section 1. The proposed route runs
+inside the fence lines of residential and commercial properties…..
+Abandoned house north of Section 44, view is facing north…......
+Sections 38-43 shown on an aerial map. The proposed routes
+cross along the edge of easements and residential properties…….
+Section 35 ROW follows the fenceline on the right side of
+photo, note bedrock on surface…………………………………...
+Northeast end of Section 33 bisects a field with cyanide
+poison devices…………………………………………………….
+Plan map of historic homestead (41RN243) at edge of
+Section 69…………………………………………………………
+South wall of the house (41RN243), view is facing northeast……
+Structure on the east side of Raley Road, Section 60. View
+is to the north……………………………………………………..
+The shallow portion of Lipan Creek in Section 23, view
+facing west………………………………………………………..
+House on the south side of Broadway in Mereta, the waterline
+is proposed to pass in front of it along the road edge, view is
+facing south……………………………………………………….
+East side of Grand Avenue in the town of Mereta, Section 26
+of the waterline will follow the fence lines of the residential
+properties………………………………………………………….
+Terraced field in Section 29, the proposed waterline route
+parallels the fenceline along CR 1354…………………………….
+
+iv
+
+22
+
+23
+25
+25
+26
+
+28
+30
+31
+31
+
+32
+34
+35
+36
+37
+38
+41
+42
+43
+44
+
+45
+
+45
+46
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR MILLERSVIEW-DOOLE WSC
+
+Figure 31.
+
+Figure 32.
+
+v
+
+View of Section 21 facing west; note that ground visibility
+was very good, and no cultural materials were identified on the
+surface or within the alignments………………………………….. 47
+Aerial photo of Sections 21 and 22 on the east side of San
+Angelo. Note the density of residences and roadways where
+the routes are proposed…………………………………………… 48
+
+r-arc: Millersview-Doole WSC 91003
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+1
+
+INTRODUCTION
+The Millersview-Doole Water Supply Corporation (Millersview-Doole WSC) intends to
+construct approximately 139 miles of 2” to 8” waterlines and a tank to upgrade their
+system in Tom Green, Conch, Runnels, and McCulloch counties, Texas (Figure 1).
+Although the study area spans four counties, this study was confined to the proposed
+waterlines routes that are located in various settings. These settings include the bluffs and
+terraces overlooking the Colorado and Concho Rivers and the O.H. Ivie Reservoir, the
+level uplands between these two watersheds, and the occasional creek crossing in stream
+valleys of intermittent drainages that flow into the aforementioned rivers.
+The temporary easement is 30’ wide and the permanent easement is 15’ wide with the
+maximum depth of installation of 36” below surface. Jacob & Martin, Ltd. of Abilene,
+Texas contracted with AR Consultants, Inc. (ARC) to conduct an archaeological survey
+of the waterline routes. ARC arbitrarily numbered these routes (Sections 1-24, 26-77 and
+79-85) for the purpose of this study. The high potential areas, as well as the initial 23.5
+miles of waterlines were surveyed, and the remaining waterlines were driven as they were
+considered to be in low potential areas. The high potential areas for prehistoric sites were
+waterline routes located near the Concho River where development has not obscured the
+landscape, along the terraces of the river, or the tributaries of the Concho or Colorado
+Rivers with floodplain soils. For historic sites, high potential areas were in alignments
+near rural communities adjacent to transportation routes. ARC recommended, and the
+Texas Historical Commission concurred in a letter dated November 25, 2009, that the
+routes in low potential areas be investigated for standing structures or cemeteries, but not
+intensively surveyed.
+The purpose of the investigation was to identify any cultural resources present within the
+study area and to make recommendations about their significance and how they may be
+impacted by the installation of the waterlines or tank. The cultural resources investigation
+was required because the Millersview-Doole WSC received funding for the system
+improvements from the Texas Water Development Board, which is a political entity of
+Texas. Texas Antiquities Permit Number 5435 was issued for the archaeological survey.
+This report was written in accordance with the report guidelines adopted by the
+Archeology Division of the Texas Historical Commission and developed by the Council
+of Texas Archeologists (n.d.). The following report presents a brief description of the
+natural setting of the project area. This is followed by the cultural history portion of the
+report. The research design and methodology follow, then the results of the field survey
+are presented in the major section of the report. Recommendations conclude the text, and
+lastly a list of references cited ends the report.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+Figure 1.
+
+2
+
+Millersview-Doole WSC proposed waterline routes and tank shown on a
+county map.
+
+Administrative Information
+Sponsor:
+Review Agency:
+Principal Investigator:
+Field Crew:
+Survey Dates:
+Sites Recorded:
+Historic:
+Prehistoric:
+Curation Facilities:
+
+Millersview-Doole WSC
+Texas Historical Commission
+Cody S. Davis, MA
+Cameron Turley, Brett Lang, Nick Coleman,
+Rebecca Shelton and Cody Davis
+October 27 and 28, November 10, 11, 12, 19 and
+20, December 14, 15 and 16, 2009
+41RN243
+41CC329, 41TG621 and 41TG622
+None
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+3
+
+NATURAL ENVIRONMENT
+The proposed waterline additions for the Millersview-Doole WSC are located in the
+Rolling Plains physiographic region of Tom Green, Concho, Runnels, and McCulloch
+counties in West Central Texas. From east to west, the terrain rises upwards from the
+relatively level prairies of the Cross Timbers towards the uplift of the Edwards Plateau.
+The majority of the study area falls in the uplands of the Colorado River Watershed.
+Four sections of the proposed waterlines are in McCulloch County where the bedrock
+consists of Quaternary surface deposits of gravel, caliche, sand and clay with pebbles,
+cobbles and boulders of Cretaceous and Paleozoic limestone and chert (Bureau of
+Economic Geology 1976a). Overlying topsoils are relatively shallow and include Karnes
+loam, Mearta clay loam, upland clays in the Reap series, and Owens and Tarrant upland
+clay (Bynum and Coker 1974:20-23, 27, 32, 38).
+Several routes are located in Runnels County, and in the southern half, bedrock consists
+of Quaternary caliche cemented gravel then towards the north end of the alignment,
+bedrock consists of limestone and shale in the Grape Creek Formation (Bureau of
+Economic Geology 1976a). Soils are in the Portales-Potter-Mereta and Rowena Tobesa
+associations and are loamy soils over caliche on outwash plains (Weidenfeld, Barnhill
+and Novosad 1970:2-3). The rest of the proposed waterlines traverse Concho and Tom
+Green Counties where the bedrock consists of caliche flats intermittently broken up by
+clay and silt playa deposits to the west and Quaternary deposits of boulders and cobbles
+of limestone and chert and shale in the Wichita-Albany Group (Bureau of Economic
+Geology 1976b).
+Soils overlying the upland caliche flats are Angelo and Mearta clay loams on outwash
+plains (Wiedenfeld and Flores 1976:3). The topsoils range from 6 to 18 inches
+respectively. Kimbrough gravelly loam soils are found along slopes of intermittent
+drainage valleys with topsoils being approximately 9 inches thick (Wiedenfeld and Flores
+1976:12). Soils overlying the limestone, chert and shale bedrock in Concho County are
+Angelo Mereta loamy upland soils and Cho-Mereta-Nuvalde loamy, gravelly soils in the
+uplands (Clower and Dowell 1988:6-7).
+Alluvial deposits of floodplain soils are found along the Concho and Colorado Rivers and
+are mapped in a few of the larger tributaries that drain into these rivers, such as Bluff
+Creek, Kickapoo Creek and Crows Nest Creek. The soils in these drainages are mapped
+as Rioconcho and Spur or Frio soils. Fluviate terrace deposits are located on the north
+side of the Concho River and terrace soils are mapped near portions of the Colorado
+River (Bureau of Economic Geology 1976b). Soils in the terrace deposits are mapped as
+calcareous and noncalcareous Angelo, Estacado and Kimbrough soils on outwash plains
+(Wiedenfeld and Flores 1976:5-7, 11, 12-13). Smaller tributaries in the region may have
+once been spring fed include Crows Nest Creek and the Middle Concho River, but
+intensive land use and the lowering of the water table has contributed to the drying of
+many of these springs.
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+4
+
+The climate of the Rolling Plains is considered subtropical with extreme seasonal
+temperature fluctuations and the average rainfall in the study area being less than 24”
+annually (Wiedenfeld and Flores 1976:55). The degraded environment and limited
+amount of surface water in the region is attributed to 19th and 20th century land use which
+has adversely impacted the topsoil, nearly eradicated the prairie grasses, and has fostered
+invasive species such as cedar, mesquite and prickly pear cactus which have depleted the
+sparse water sources available. Historically, large and small mammals would have
+included bison, antelope, wolves, coyotes and prairie dogs, yet more recently the
+predominant wildlife includes deer, beaver, fox, weasels, raccoon, skunks and a variety
+of birds, fish and reptiles.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+5
+
+CULTURE HISTORY
+A well-defined cultural chronology for Tom Green, Concho, Runnels, and McCulloch
+counties have not been developed as few archaeological investigations have been
+conducted in this area of the Rolling Plains. The intensive surveys in the region were
+centered around the O.H. Ivie Reservoir on the Colorado River (Trierweiler and Kuhl
+1993), and provide specific data for cultural resources in the Colorado River Watershed.
+The routes cover a broader area in the Rolling Plains of Texas which fall into the larger
+Southern Great Plains region in the southwest, a general cultural chronology developed
+of the Southern Great Plains is synthesized below. The major prehistoric cultural stages
+are the Paleoindian, the Archaic, the Late Prehistoric and the Historic which are defined
+by environmental, technological and social changes that had occurred.
+The earliest evidence of human occupation in Texas is in the Paleoindian period (11,500
+– 5500 BC) yet the cultural material is sparse (Hofman 1989:25). A survey of recorded
+Paleoindian points was conducted in the 1990s and in 2005 to identify the number of
+distinctive fluted Clovis points in Texas counties. Clovis points have been recorded in the
+study area and these include: Concho (1), Runnels (3), Tom Green (2) and none in
+McCulloch County (Bever and Meltzer 2007:67-70). The Paleoindian period falls within
+the Pleistocene epoch, in which climate and vegetation were markedly different than the
+later Holocene, with a cooler and wetter climate than the present day (Hughes 1991:8-9;
+Mallouf 1989:83). There are primarily three site types for this period: big-game kill sites,
+habitation areas referred to as campsites, which were used also for lithic production,
+butchering or processing station sites, and lithic procurement or quarry sites (Hughes and
+Willey 1978; Boyd 1989; Mallouf 1989:81).
+The Archaic is typically divided into the Early, Middle and Late periods (Hofman
+1989:45). Major climatic shifts occurred, eventually settling into a warmer and drier
+environment similar to the modern one, with an increase in grasslands and a reduction of
+forests. Site types that occur during this time period are similar to those in the Prehistoric
+such as bison kill sites and campsites. During the Early Archaic period (5500 – 3000
+BC), hunting for small game became the major form of subsistence which is evidenced
+by a shift in lithics styles (Hughes 1991:15). Although bison kill sites date to the Archaic
+(Hofman 1989:45), the large, stemless lance points of the Paleoindian period were
+replaced with lithics such as stemmed dart points, and grinding implements such as
+manos and hearth stones appear at this time. Evidence for long term occupation during
+this period is scarce due to a long drought that may have caused the uplands to be
+abandoned for more favorable settings near reliable water sources, and there are few
+cultural resources to accurately describe occupation patterns in this time period (Hofman
+1989). There are few sites that are clearly dated to the Middle Archaic (3000 – 1000 BC)
+(Boyd 1989:39). The Late Archaic period (1000 BC – AD 200) is characterized by the
+use of multiple types of dart points for hunting bison and other game (Hughes 1991:20).
+Thousands of sites from the Late Archaic are found in the Southern Plains indicating a
+dramatic population increase from the Middle Archaic, with the prominent site types
+being open campsites that were near playa basins and along streams (Hughes 1991:21).
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+6
+
+The Late Prehistoric period (AD 200 – 1700) is recognized as the period of transition
+between hunter gather societies of the Archaic to the more settled villages of the Late
+Prehistoric (Hughes and Willey 1978:28). In addition, there is an increase in occupation
+of the region (Boyd 1989). The climate appears to have been moister with an increase in
+reliance on deer and smaller mammals for subsistence (Hofman and Brooks 1989:61).
+The introduction of the bow and arrow in the Late Prehistoric coincides with the
+appearance of pottery and pit-houses on the Southern Plains (Hughes 1991:24).
+Agricultural practices appear during this period, yet probably post date the appearance of
+ceramics (Boyd 1989:44-45).
+Spanish Explorers were the first Europeans to enter the region in the 16th century, and
+were later followed by Euro American settlers in the mid 19th century. Until the late 19th
+century, conflict was common between the Apache, Comanche and settlers. Following
+the annexation of Texas, a series of forts were established, many were near the Concho
+River, to stave off the Indian attacks on settlers in the region (Frazer 1965). Eventually
+these conflicts ceased and the Native Americans were resettled into reservations in
+present day Oklahoma. Tom Green County, Concho, Runnels and McCulloch counties
+were established in the second half of the 19th century. The 1880s brought significant
+change to the region with the development of large communities such as San Angelo and
+Ballinger, and the advent of fencing with barbed wire. The loss of the “open range” due
+to fencing and the arrival of the Santa Fe Railroad during the late 19th century changed
+the way livestock were transported. The dominant industry in the region has remained
+agricultural into the 20th century, with cattle, sheep, and goats as well as cotton, pecans
+and poultry being significant to the economy (Texas History Online 2009).
+Small towns in the region east of San Angelo include Wall, Mereta, Vancourt, Veribest
+and Eola whose surrounding fields are dominated by cotton crops, and cotton co-op gins
+are present in Wall, Vancourt and Mereta. Other towns such as Waldrip and Pear Valley
+have all but vanished from the landscape. Several proposed waterline routes cross
+through the small community of Mereta, Texas, 18 miles east of San Angelo, which is
+between FM 1692 and Lipan Creek in the extreme east of Tom Green County. The town,
+said to be named for twin sisters Meta and Reta Burns, had a gin, two stores, and a school
+when the town plat was made in 1904 (Texas History Online 2009). The largest
+population reported for Mereta was 75, which happened on a couple of occasions, with a
+nadir of ten residents reported in 1934. Today the gin is still a central fixture in Mereta,
+with a few small businesses, homes, and a church making up the rest of the town.
+Previous Investigations
+The counties in the Millersview-Doole WSC service area have not had extensive
+archaeological work outside of the O.H. Ivie Reservoir studies in Concho, Coleman and
+Runnels counties. The earliest investigations in were in 1919 where J. E. Pearce of the
+University of Texas excavated burned rock middens. No other work was done until 1933
+when a historic contact burial was excavated by a high school biology class in the Brady
+Mountains. Two more burials were excavated near Salt Gap by A. M. Woolsey (1936).
+Investigations were conducted at the Twin Butts Reservoir beginning in 1946 and
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+7
+
+continuing for more than a decade (Stephenson 1949; Willis 1958; Green 1961). A small
+area along the South Concho River was surveyed to correlate archaeological remains with
+micro environmental zones (Creel 1978:241). These investigations determined that
+occupation and food procurement activities occurred in riparian zones, while the flatlands
+and outwash plains were used for used for procurement of food resources, and the
+uplands were used for procurement of lithic resources. In the 1970s and 1980s the Soil
+Conservation Service had surveys conducted prior to the construction of floodwater
+retarding structures along generally intermittent tributaries of the Colorado and Concho
+rivers (Bruseth 1975; Green 1974; Prewitt and Filson 1978; Skinner and Mahoney 1974;
+Warren 1977; and Skinner and Bousman 1985).
+The intensive studies conducted before the construction of O.H. Ivie Reservoir, which
+was originally named the Stacey Reservoir. The reservoir is located at the confluence of
+the Concho and Colorado rivers in Concho, Coleman and Runnels counties. These studies
+included large area surveys of the floodplain and terraces as well as testing and
+excavation of selected sites. The comprehensive studies have provided substantial data on
+occupational and burial patterns for the region. Site types ranged from burned rock
+middens, hearths, cairn burials, to possible tipi-rings and were concentrated on the
+fluviate terraces above the river floodplain (Trierweiler and Kuhl 1993:15-17). Historic
+sites recorded included homesteads, dugouts, a cairn, and multiple ranches (Earls, Lintz,
+Trierweiler, O’Neill and Scurlock 1993:56-59). Nineteenth and early 20th century historic
+homesteads, dugouts and ranch houses have been recorded on the bluffs and terraces less
+than a mile from the Concho and Colorado rivers, while historic farmsteads were
+recorded in the uplands away from the rivers but near larger drainages such as Grape and
+Elm creeks.
+Subsequent cultural resource investigations in this region have been limited to linear
+studies for pipeline, transmission line, and highways (Turpin, Bement and Robinson
+1992; Shortes, McMurtie, Sherman, Sills and Victor 2004) or studies concentrated on
+drainage valleys by the Texas Water Development Board. Results from these
+investigations have identified prehistoric sites such as lithic scatters, quarries, campsites,
+and burned rock middens, while historic sites types are typically homesteads, farmsteads,
+industrial architectural remains, artifact scatters or cemeteries. Prehistoric sites are
+concentrated along the drainages and site densities dropped dramatically in the uplands in
+this arid region.
+In the last decade, ARC has conducted several studies for the Millersview-Doole WSC in
+Tom Green, Concho, Runnels and McCulloch counties (Trask 2002; Trask 2003; Todd
+2005). In 2002, ARC conducted an evaluation of approximately 200 miles of waterlines
+and recommended that waterline routes that fell into high potential areas, specifically at
+drainage crossings and bluff tops be surveyed (Trask 2002). The THC concurred with the
+assessments of archaeological potential for the region, and in 2003 and 2005, ARC
+conducted surveys of the high potential areas. During the 2003 investigations, only one
+site, the N. Arrington Road site (41TG576) was recorded in the uplands south of the
+Concho River. The site consisted of a surface scatter of chert lithic debris. No diagnostic
+tools or ground stone tools were located, and it was classified as a lithic procurement site.
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+8
+
+Combined data from these studies demonstrated that there is lower potential for cultural
+resources, both prehistoric and historic, in upland settings away from drainages with
+higher densities along the Colorado and Concho rivers and their major drainages. Lithic
+procurement or production sites in the uplands are most likely disturbed in the deflated
+environment, especially in areas of plowed fields.
+The work at the reservoir demonstrates that prehistoric people utilized the resources
+within floodplains and along major waterways. Surveys in the uplands, or areas away
+from these larger drainages, found a lower density of sites in various settings. Burials
+have been found on the bluff tops and sites at lower elevations include burned rock
+middens and lithic procurement areas.
+Previously recorded cultural resources that are located within a 1/2 mile of the proposed
+waterline alignments are presented below by from east to west by USGS Quad.
+Information regarding site types is primarily drawn from the Texas Archeological Site
+Atlas (TASA 2009) and the O.H. Ivie Reservoir studies. Descriptions of the sites are
+presented along with site proximity to specific waterline sections.
+In the Doole Quad located in northwest McCulloch County Section 44 parallels FM 503
+on the east side. The Stacy Cemetery is on the west side of FM 503, approximately 180
+feet west of the proposed waterline route. Over 400 burials are within Stacey Cemetery,
+the oldest marked burial is dated 1814.
+Beginning at FM 765, Section 83 begins on the east, then south and terminates on the
+east side of Waldred Road in the Fife Quad. The majority of the route crosses through
+pastures adjacent to the roadway easement. North of the town of Waldrip, the route enters
+the Colorado River Watershed. The Chaffin Cemetery is approximately 3000’ to the east
+of the proposed alignment, while a single grave is recorded 1/2 mile to the north of the
+alignment near the Colorado River.
+Section 84 parallels the easement on the north side of FM 765 in the Whon Quad. The
+majority of the route overlaps a linear survey conducted by the Texas Department of
+Transportation for the construction of FM 765. Two prehistoric sites (41MK27 and
+41MK10) were recorded on the edge of Bluff Creek in the roadway alignment
+approximately 150 feet from the proposed alignment, and possibly were destroyed during
+construction.
+Historical Marker (5162) records the location of the Sweet Home School on the west side
+of Old Sweet Home School Road (CR 252) southwest of the town of Rowena in the
+Leaday Quad. The school was active at this location from 1922 to 1944, and all that
+remains is a cellar. Section 28 of the waterline is on the east side of the road, and
+installation of the line will not impact the cellar to the school. The TASA site forms notes
+that the marker was reported missing in April 2009.
+Sections 34-43, are located in Concho County near the O.H. Ivie Reservoir in the Leaday
+Quad. The majority of these routes overlap areas already surveyed for the reservoir
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+9
+
+studies (Trierweiler and Kuhl 1993; Earls, Lintz, Trierweiler, O’Neill and Scurlock
+1993). East of Sections 39-43, a series of six sites (41CC47, 41CC 55-56, 41CC78,
+41CC80 and 41CC 97) were recorded along Gattling Creek (as spelled on the USGS
+map). Section 41 is the closest to these sites, being .47 miles to the west. Site 41CC47
+burned rock surface scatter that had been disturbed mechanical excavation. Site 41CC55
+(The Gatlin House) was on a small knoll overlooking the spring fed creek, and contains
+both prehistoric and historic components. Site 41CC56 is an open occupation area
+overlooking the creeks with mano fragments, burned rock, lithic debris and one Montell
+projectile point. 41CC78 is the remains of a homestead contained foundation stones, a
+well, and a cellar. Another historic site recorded along Gattling Creek is 41CC80, which
+is a stone wall, possibly the remains of a corral. Finally, site 41CC97 is a multicomponent
+site with cut limestone blocks and lithic debris. Only one site, the historic component of
+site 41CC55, was tested for eligibility to the NRHP, and no further investigations were
+recommended. These sites ultimately were inundated by the construction of the reservoir.
+North of Sections 34-37, three prehistoric sites (41CC147, 41CC154, and 41CC157) are
+located near O.H. Ivie Reservoir. Site 41CC154 is a deflated lithic scatter, while the two
+others appear to be campsites of moderate intensity. Again, the reservoir survey overlaps
+the project area and no sites were recorded where the waterline alignments are located.
+In the Veribest and Wall Quads, Sections 2 through 4 are in the town of Wall on the
+north side of Old Highway 87, now Texas Loop 570. Wall Cemetery is located
+approximately 1/2 mile from these sections 2 and 4, and further from Section 3. Wall
+Cemetery was established in 1906 when Mr. and Mrs. M.F. Elliot sold 3.7 acres of land
+to the Lipan Cemetery Association (Tom Green County Historical Preservation League
+2003:181). A chain link fence encloses the marked graves, and gravestones are along the
+north and west fence lines. Over 250 burials are marked, with archival records noting
+there are at least 3 unmarked burials. The earliest recorded graves are dated 1901.
+Immediately to the west of Wall Cemetery is a second cemetery at the intersection of
+Hawk Road and Texas Loop 570, the St. Ambrose Cemetery. This cemetery was
+dedicated in 1952 and it is where the deceased parishioners of the St. Ambrose Catholic
+Church are buried. It is also over ½ mile away from the proposed waterlines.
+Eleven sites are recorded within a ½ mile east and northeast of Section 18 in the Leaday
+and Concho Quads. Section 18 overlaps areas previously surveyed during the 1980
+reservoir study and no previously recorded sites are within the proposed waterline
+alignment. Eight of these sites are prehistoric (41CC148-152, 41CC183, and 41CC185186), representing lithic procurement areas or small, temporary camps. Two historic sites
+were also recorded (41CC181 and 41CC184). Of these sites, one was tested for
+eligibility; the multi-component site (41CC187). 41CC187 was discovered on two knolls
+composed of alluvium typical of Quaternary terraces. The artifacts recorded included 311
+lithics, some of which were recognizable tools, but none were temporally diagnostic. The
+assemblage was consistent with lithic procurement and initial production.
+Section 30 parallels CR 1445 on the west side in the Eola and Millersview NW Quads.
+The route will cross to the east side for approximately .25 miles to avoid the unknown
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+10
+
+grave recorded on the west side of the road. The grave is shown on the Millersview NW,
+TX 7.5’ USGS map. The route then turns west to parallel the road and crosses Kickapoo
+Creek on the north side of the road. Prehistoric sites have been recorded along this
+drainage, yet their locations are over one mile to the north and south of the alignment.
+Sections 21 and 22 are located in residential neighborhoods on the south side of the
+Concho River in the Veribest Quad. Three recorded sites (41TG307, 41TG308,
+41TG309) are on the north side of the Concho River and are within a ½ mile from
+Section 21. Site 41TG307 is a large open occupation site on an alluvial terrace deposit of
+the Concho River. Burned rock, mussel shell and chert flakes are present at this Early
+Archaic site (Quigg, Peck, Lintz, Treece, Frederick, Clem and Ell 1998). The site was
+recommended as eligible as a State Archeological Landmark. Site 41TG307 was
+contiguous to and on the same alluvial terrace of site 41TG309, which is just to the north.
+Also recommended as an SAL, 41TG309 dates to the Early Archaic, Late Prehistoric and
+Protohistoric periods and continued rock lined hearths and mussel shell lenses. Lithic
+debris, mussel shell and burned rock were visible on the surface. Site 41TG308 is a lithic
+procurement site on a bluff above the Concho River. Prehistoric and historic artifacts
+were on the surface, as well as bedrock mortars were identified. Further testing was
+recommended to determine eligibility for the NRHP.
+Five other sites (41TG202, 41TG282, 41TG283, 41TG305, and 41TG306) recorded
+along the Concho are less than ½ mile from Section 22. Site 41TG202, on the south side,
+contained seven bedrock mortars near a spring that flowed into the Concho River, yet the
+Concho Valley Archeology Society who recorded the site in 1982 recommended no
+further testing. Additional testing was recommended after the initial survey for 41TG282,
+a river terrace camp, 41TG283 a lithic procurement site, and for 41TG305 a terrace
+campsite, all which are on the north or east side of the river near the bend. The final site
+is 41TG306 on the west side of the river, and was described as an open occupation
+campsite on a bluff.
+In addition to the recorded cultural resources within 1/2 mile of the alignments, there are
+structures mapped on the USGS maps within or adjacent to several of the waterline
+routes. The USGS maps date between 1967 and 1984, therefore it is unknown if these
+structures are more or less than fifty years old.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+11
+
+RESEARCH DESIGN & METHODOLOGY
+Research Design
+The combined data from the surveys performed in the region provide site distribution
+patterns. From these patterns, we have identified areas of high and low potential for
+cultural resources in the study area and these areas have been confirmed by the THC.
+Two sets of research questions were developed to address the prehistoric and historic
+archaeological potential.
+The first question addresses the archaeological potential for finding prehistoric sites. The
+majority of sites recorded in the region are close to rivers and their major tributaries on
+fluviate terraces or in alluvial deposits. There is a high potential for locating larger, more
+permanent campsites and lithic production sites near the Concho and Colorado rivers and
+their major tributaries. These sites contain buried, stratified deposits with chipped stone
+tools, hearths, ground stone tools, and possibly preserved faunal remains. Artifacts buried
+at depths below the plow zone may contain intact cultural deposits. There is a lower
+potential for finding ephemeral campsites near intermittent drainages that contained water
+seasonally. These are most likely surface sites that would include burned rock middens,
+lithic debris and chipped stone tools. Surface sites in the terrace gravel outcrops above
+the Concho and Colorado rivers could include cores, flakes, and other lithic debris
+associated with lithic procurement or production. In the uplands, there is potential for
+finding burials on bluff tops and lithic production sites near chert outcrops. Artifact
+manifestations in the lithic procurement sites would include cores, primary and secondary
+flakes, bifaces, yet very few tools which would be typical for lithic procurement sites. It
+is anticipated that areas where shallow topsoil is present has been heavily farmed since
+the beginning of the 20th century, and that surface sites are likely to be heavily disturbed,
+yet evidence of prehistoric occupation might appear as isolated artifacts within the
+plowed fields. These upland settings are considered to have low potential for significant
+prehistoric resources.
+The second research question addresses the potential for finding historic sites. It is
+anticipated that historic sites will be found along transportation routes throughout the area
+or on the bluffs and terraces overlooking the Concho or Colorado rivers. There are
+several mapped structures within or adjacent to the route on the USGS maps, with higher
+densities centered around towns such as Mereta and Wall. Sites types might include
+farmsteads, homesteads, cemeteries or artifact scatters. The proposed waterline routes
+that are located in plowed fields, rocky pastures, or in narrow easements in existing
+housing developments are considered to have low potential for containing significant
+historic sites.
+Therefore, high potential areas are those locations near the Concho River where
+development has not obscured the landscape, and along the terraces of the river, or the
+floodplain tributaries of the Concho or Colorado rivers. In addition, there is potential for
+historic sites near rural communities and adjacent to transportation routes. Low potential
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+12
+
+areas for both prehistoric and historic sites include the upland, level settings away from
+drainages that are currently used for agricultural purposes.
+Methodology
+The survey and investigations of the waterline alignments was contracted in three stages,
+and ARC conducted an intensive archaeological survey of the first 23.5 miles (Sections
+1-49). Following the results of these and previous surveys, ARC recommended to the
+THC that intensive survey be conducted in the high potential areas of the remaining
+alignments, while the low potential routes be driven to identify any standing structures or
+cemeteries that might be in the waterline ROW. Most of the proposed waterline routes
+are on the boundary lines of private property and road easements of county or farm to
+market roads. In these settings, the routes are within 30’ of the fence lines (where
+present) or on the inside of the road easement to avoid impacting existing utility lines.
+Shovel testing was conducted along the route as recommended by the Texas Historical
+Commission (n.d). Compact clays from the shovel tests were manually broken and
+inspected visually as were the pit walls. Loamy soils from the shovel tests were screened
+through ¼” hardware cloth. Shovel tests were concentrated on the upland edges above the
+creek crossings and where ground visibility was less than 30 percent. The drainages will
+be bored, and survey was concentrated at the drainage crossings to identify the presence,
+and extent, of floodplain deposits. No trenching was recommended at the drainage
+crossings during these investigations, as the floodplains, if present, were narrow and can
+be avoided during the boring process.
+Notes were made about the ground exposure, surface artifacts, soil types and disturbed
+areas where subsoil was exposed. Photographs were taken along the route using a Canon
+Elph 2.0 mega pixel digital camera. Shovel tests and trench locations were recorded with
+a handheld Garmin GPSmap 76 receiver. Non-diagnostic artifacts were recorded,
+sketched or photographed in the field but were not collected for curation.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+13
+
+RESULTS
+The results section begins with description of the waterline routes surveyed, which are
+presented by USGS Quad from east to west, beginning in McCulloch County, then
+Concho, Runnels, and finally the routes in Tom Green County (Table 1). For each
+waterline section surveyed, the terrain, ground visibility, and water sources present are
+discussed as well as are the cultural resources within ½ mile of the proposed routes.
+Overall, the routes are in upland settings. Following the survey results, the routes in the
+low potential areas or areas heavily impacted by development are briefly described.
+USGS maps showing the locations of each waterline route are referenced in the text and
+presented in Appendix A and the detailed shovel tests descriptions are presented in
+Appendix B. Conclusions end the chapter.
+Vegetation varied throughout the waterline routes, but the primary land use was for crops
+and pastures (Figure 2), with the occasional route following unimproved pastures
+containing mesquite, prickly pear, agarita and pencil cactus or prairie grass. Most of the
+proposed waterline routes are on the boundary lines of private property and road
+easements of county or farm to market roads. In these settings, the routes are within 15’
+of the fence lines (where present) on private property away from the road easement to
+avoid impacting existing utility lines.
+
+Figure 2.
+
+Section 15 is in a field of recently harvested sorghum. This is a
+typical setting for the waterline routes. View is facing north
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+14
+
+Table 1. USGS Quads referenced for Millersview-Doole waterline alignments.
+Miles NW
+
+Rowena
+
+Ballinger
+
+Harriet
+
+Miles
+
+Lowake
+
+Paint Rock
+
+Concho
+
+Leaday
+
+San
+Angelo
+South
+
+Veribest
+
+Mereta
+
+Eola
+
+Millersview
+NW
+
+Millersview
+
+Mustang
+Creek
+
+Doole
+
+Fife
+
+Pecan
+Station
+
+Wall
+
+Vancourt
+
+Vick
+
+Millersview
+SW
+
+Millersview
+SE
+
+Dooles
+SW
+
+Salt
+Gap
+
+Lohn
+
+Eden
+
+Pasche
+
+Melvin
+
+Whon
+
+Pedestrian Survey of Waterline Routes
+Whon Quad
+Section 84 parallels FM 765 and an existing utility cable route for approximately 6.25
+miles (Appendix A: Figure 52). Three intermittent drainages are crossed from west to
+east, Cow Creek, Bluff Creek and Cedar Creek. The terrain is hilly, with bedrock exposed
+on the surface of the hilltops and gravels on the slopes. Ground visibility was excellent,
+between 30 and 80 percent for the majority of the route, except for in the Bluff Creek
+drainage valley, which was overgrown with grasses, mesquites and cedars. Cow Creek
+and Cedar Creek had exposed bedrock and gravels in the channels.
+The route parallels a previous study conducted in the 1970s immediately to the south that
+was conducted by the State Department of Highway and Public Transportation (now
+TxDOT) for the construction of FM 765. Two sites (41MK10 and 41MK27) were
+recorded within the Bluff Creek valley approximately 150 feet from the proposed
+waterline route, yet no evidence of these sites being present within the route was
+identified during the survey and shovel testing. Approximately one km of each side of the
+Bluff Creek crossing was surveyed, and four shovel tests were placed in the Bluff Creek
+valley to determine the extent of the floodplain and if buried cultural deposits were
+present. Shovel test MD1 was placed 140 m southwest from the channel and the upper
+loamy clay encountered compact gravel bedrock at 58 cmbs. Two subsequent shovel tests
+(MD7 and B1) were placed closer to the drainage, 60 and 30 m respectively. Both shovel
+tests encountered laminated clay loams to depths of 95 and 72 cm respectively with the
+bottom 20 cm having 10-20 percent of CaCo3 filaments. Three mussel shells were
+located between 20 and 30 cmbs in B1 in the clay loam, but above the compact clay. No
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+15
+
+lithics, fire cracked rock (FCR) or charcoal were associated with the shell, and due to
+their shallow depth in the soil, we conclude that they were naturally occurring. Shovel
+test MD8 was placed on the northeast bank on a level area above the drainage slope,
+approximately 30 m from the bank. A compact gravel layer representing the upper layer
+of the bedrock was encountered at 75 cmbs.
+Bluff Creek is mapped as having Frio clay loam soil in well drained bottom lands. The
+drainage is nestled between two prominent hills of gravel and limestone bedrock (Figure
+3). The channel is approximately 15 meters wide with steep slopes. The west bank is
+higher than the east, approximately 3 m of soil overlies 60 cm of gravel which rests on
+blocky, limestone bedrock. The east bank has a gentler slope and is lower with
+approximately 2 m of soil overlying the gravel and limestone bedrock. Based on the
+results of the survey and the shovel testing, it appears that the floodplain is wider to the
+west (over 200 m) before the steep ascent of the hill, and narrower to the east
+(approximately 90 m). No cultural resources were encountered during the survey or in the
+shovel tests, nor identified in the creek banks.
+
+Figure 3.
+
+West slope of hill overlooking the Bluff Creek valley, note gravel and
+limestone bedrock exposed on the surface.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+16
+
+Fife Quad
+Section 83 is approximately 5.52 miles in length and starting at the northern end, it
+begins on the east side, then crosses to the south side to terminate on the east side of
+Waldred Road just north of FM 765 in cultivated cotton fields (Appendix A: Figure 51).
+The north half of the route crosses through pastures adjacent to the roadway easement.
+The waterline parallels the narrow roadway easement (between 2 and 5 m) that also
+contains telephone corridors. North of the abandoned town of Waldrip the route enters
+the the Owens Krum rolling uplands between high terraces. Ground visibility was
+excellent along the route, and between 30 and 50 percent in the pastures north of
+Waldrip. A modern ranch house is now present at the towns location. Terrace gravels
+interspersed with foot long limestone rock underlaid shallow loam soils. Chert gravels
+were present, yet only one flake and a tested cobble were identified on the northernmost
+section of the route. No other artifacts were identified, and these two were determined to
+be isolated artifacts.
+Lohn and Salt Gap Quad
+Section 19 parallels the east then the north side of CR 356 for approximately 1.32 miles
+and begins in the Lohn Quad (Appendix A: Figure 12). The route was driven and sections
+of the route were visually inspected every 100 m and near the drainage crossing. The
+terrain was rolling, with steep slopes on either side of the intermittent headwater to Little
+Saddle Creek in the northeast section of the route. Ground visibility was between 50 and
+80 percent along the route and a two-track route follows the fence line. The land is
+primarily used for pasture, and there were large push piles of limestone, chert cobbles and
+mesquite near the fence line. Northwest of the drainage, a large stock tank had been
+excavated. A structure mapped on the Lohn, TX 7.5’ USGS topographic map was present
+northeast of the water route, yet it is out of the ROW. No cultural material was identified
+on the surface, and this was not surprising, as the clay topsoil was very thin overlying
+cemented bedrock (Figure 4).
+Paint Rock Quad
+Section 17 is located near the southern boundary of Runnels County on the north side of
+CR 234 (Appendix A: Figure 10). From east to west, the .96 mile route crosses through
+relatively level upland pastures with a small stand of mesquite trees near the center of the
+route. Ground visibility was excellent, between 80 and 90 percent and exposed the clay
+loam topsoil, and although there was limestone on the surface, there were no chert
+nodules or cultural material on the surface.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+Figure 4.
+
+17
+
+Road cut adjacent to waterline easement. The lack of topsoil and rocky
+terrain was typical for ground exposure in Section 19, view facing east.
+
+Millersview NW Quad
+Section 30 begins at the intersection of CR 1445 and FM 765 on the west side (Appendix
+A: Figure 18). During archival research, references to an unknown grave on the west side
+of CR 1445 was located. The grave is shown on the Millersview NW, TX 7.5’ USGS
+map near an east-west property fence line approximately 225 feet from the road edge.
+Although the majority of this section crosses through pastures and fields, two areas were
+recommended for survey; where the route paralleled the grave location, and the Kickapoo
+Creek crossing. The route parallels CR 1445 within 30 feet inside the fenceline on the
+west side through pastures for approximately 5.55 miles. The route then parallels CR
+1640 on the north side to the east for .63 miles and to the west for 2.01 miles where it
+crosses Kickapoo Creek.
+According to the location shown on the USGS map and conversations with the
+landowner, Hansel Hoffman, the grave is located approximately one mile north of FM
+765 and 224 feet west of CR 1445 between a fence line and a two track ranch road
+(Hoffman, personal correspondence 2009). The boundary of the grave location once was
+outlined with a wire fence, but Hoffman noted that the fence was removed when the
+ranch road was established. The individual buried there had died of smallpox when
+Hoffman’s parents owned the land in the first half of the 20th century, therefore he was
+buried in this isolated location to prevent spread of the disease. No markers remain to
+show the exact location of the grave, yet the narrative provided by Hoffman suggests the
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+18
+
+location information shown on the USGS map is correct. The mapped location of the
+grave is over 150 feet from the fence line that parallels CR 1445.
+At the Kickapoo Creek crossing, portions of Section 30 were surveyed for approximately
+1 km on either side of the drainage. The vegetation consisted of short grass pasture with
+cedar and mesquite tree. Ground visibility was between 50 and 70 percent along the fence
+row, as the route had been recently cleared of vegetation. Kickapoo Creek is mapped as
+intermittent with Frio clay loam in the channel and silty clay loam terrace soils adjacent
+to the channel. Shovel tests were placed on the level terraces, and the banks as well as the
+erosional gullies were inspected for cultural materials. Shovel tests MD5 and MD6
+encountered a compact gravel zone at 57 and 32 cmbs respectively, and this was
+consistent with the bank profiles, which exhibited a 2 m thick gravel layer followed by
+thick limestone bedrock (Figure 5). The soil was very shallow on the slopes as well, and
+no floodplain soils are present at this crossing.
+
+Figure 5.
+
+Kickapoo Creek crossing in Section 30, view is to the northwest.
+
+A hearth consisting of a single layer of fire-cracked rock was identified in a eroded gully
+on the west side of the creek outside of the waterline ROW. The hearth was between 10
+and 20 cm below the surface and was approximately 105 cm long (Figure 6). Recorded as
+site 41CC329, the hearth is located on a small rise that once overlooked the creek, but
+which has been destroyed by the road cut leading to the creek crossing (Figure 7). No
+chipped stone artifacts or charcoal was found on the surface or in the eroded gully. The
+site outside of the waterline ROW, and will not be impacted by installation yet it was
+recorded since it is in the road easement between the ROW and road and is in danger of
+eroding out of the gully.
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+19
+
+Figure 6.
+
+Hearth eroding out of gully adjacent to CR 1640, view is to the south.
+Dashed line shows the bottom of the hearth, while the arrow points to FCR
+that has fallen into the gully.
+
+Figure 7.
+
+Location of hearth site (41CC329) on north side of CR 1640.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+20
+
+Section 77 is approximately 1.36 miles long and parallels the north side of FM 765
+(Appendix A: Figure 48). The route crosses the intermittent Duck Creek. The road
+easement is approximately 25 feet wide, and a deer fence defines the boundary between
+the private property and the easement. The ground visibility on either side of the upland
+drainage was 50 percent in the short grass pasture. A two track road is on the north side
+of the fence, and slabs of limestone bedrock are on the surface. The drainage was more of
+an upland draw and less than a meter deep. The remainder of the route crosses through
+pastures. No cultural material was noted on either side of the creek.
+Rowena Quad
+Section 63 begins at the intersection of CR 347 and FM 2872 (Appendix A: Figure 35).
+The line will be constructed along the west side of the north-running CR 347 for 1.64
+miles. The majority of the area is plowed fields with 90 percent ground visibility. A
+narrow area of improved pasture is maintained around the Indian Creek crossing, which
+traverses the route in an approximately west to east direction. Ground visibility in the
+pasture area was 30 to 100 percent in the bottom of a dry tank. Limestone gravel was
+visible on the surface and only a few pieces of pieces poor quality chert were noted. The
+drainage channel was approximately 1.5 meters wide and 30 cm deep. Shovel test 005
+was placed on 10 m north of the creek and encountered upland clay. No cultural
+materials or chert was found in the shovel test. No shovel test was placed on the south
+side of the crossing as it was heavily disturbed by the construction of a gravel pad for the
+tank.
+Section 67 is 1.33 miles long and begins at the intersection of FM 2133 and CR
+401(Appendix A: Figure 39). The line parallels the northeast and east sides of CR 401 to
+the southeast then turns south. The majority of the area is plowed, but a narrow strip of
+improved pasture flanks Rocky Creek. Surface visibility in the fields was 50 to 80
+percent and 30 to 60 percent in the improved pasture. Limestone gravel was visible on
+the surface and in shovel tests, but no chert was encountered. The channel of Rocky
+Creek is 2 meters wide and incised about 50 cm; no water was in the drainage at the time
+of the survey. Two shovel tests were excavated at the creek crossing, one on the
+northwest side (006), the other on the southeast side (007), both were 15 meters back
+from the drainage crossing. Both confirmed the expectation of upland clay loam
+presented by the soils map. No cultural materials were found in either shovel test.
+Lowake Quad
+Section 68 runs south southeast for 2.26 miles along a terrace between Deep Hollow and
+Dry Hollow just south of the Concho River and ends at FM 765 (Appendix A: Figure 41).
+The waterline route parallels a private road on the west side. The route was bisected by
+multiple utility lines, and a cable line was paralleled the west side of the road. Soils are
+mapped as shallow Cho gravelly loam, yet during the survey, it was noted that topsoil
+was heavily eroded and caliche and eroded limestone were on the surface (Figure 8).
+Ground visibility was between 50 and 70 percent, and no cultural resources were noted.
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+Figure 8.
+
+21
+
+Section 68, typical ground exposure within the route, view is facing
+southeast.
+
+Miles NW Quad
+Section 11 is 1.25 miles long from north to south and parallels the west side of CR 363 in
+southwestern Runnels County (Appendix A: Figure 7). The route is in a level, upland
+setting and passes through a cotton field. Ground visibility was 100 percent, and nodular
+chert was intermixed with the degraded bedrock in the loamy soils (Figure 9). Two
+isolated artifacts were recorded in the waterline route, a unifacial scraper and a cobble
+core approximately 30 meters apart. They were good quality chert. No other cultural
+material was noted within the route, and these artifacts could have been discarded in
+prehistory or brought in as part of the adjacent county road fill.
+Section 47 is subdivided into three sections (a, b and c) which are north of the Concho
+River near the town of Miles (Appendix A: Figure 25 for 47a, Figure 5 for 47b and c).
+Portions of the route are in high potential areas are near the terraces of the Concho River
+and at the crossing of an unnamed tributary to the river. The remainder of the route
+crossed through low potential areas in the uplands along the edge of road easements to
+South Douglas Loop, East Douglas Loop and Chandler Road.
+Section 47a follows the south side of US 67 for a short distance before turning north to
+parallel the west side of Northcross Road. The line runs almost entirely through cotton
+fields with 90 percent ground visibility; limestone gravel was exposed on the surface, but
+no chert was noted. A small section of line passed through improved pasture with 30 to
+60 percent ground visibility and nothing was found.
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+Figure 9.
+
+22
+
+View facing north in Section 11, note ground visibility is 100 percent.
+
+Miles Quad
+Section 48 is 2.83 miles long and traces Chandler Road to the east, with a fork to the east
+and a western fork which runs south of Twins Lane (Appendix A: Figure 26). Shovel
+tests were placed on each side of an unnamed drainage to the Concho River where the
+easternmost portion of the Section 48 alignment crosses. No cultural material was found
+in ST 12 on the west bank, and bedrock was on the surface of the surrounding slopes.
+During the survey of the eastern portion of the alignment, a prehistoric site (41TG622)
+was recorded on the southeast side of Chandler Road on a bluff edge overlooking the
+Concho River (Figure 10). Six shovel tests were placed within the original 30-foot ROW
+where ground visibility was less than 30 percent, all contained cultural material (Table 2).
+Based on the extent of the surface scatter, which was easily identified due to ground
+visibility being over 50 percent to the north, east and west of the area shovel tested, it
+appears that the site boundaries extended outside the waterline ROW and site boundaries
+are north of the bluff edge. The site is approximately 110 m north-to-south and 60 m eastto-west (1.6 acres). No artifacts were located downslope from the bluff to the south and
+west, and the buried cultural material appears to be contained in the soil deposit on the
+north side of the limestone bluff.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+Figure 10.
+
+23
+
+Plan map of site 41TG622 showing the areas of surface scatter and
+location where buried concentrations of artifacts were recorded.
+
+Artifacts on the surface and in the shovel tests included heat-treated chert cores, flakes,
+broken bifaces, lithic debris and mussel shell, but only two pieces of fire cracked rock.
+No charcoal was present (Appendix C). The site appears to be a campsite where lithic
+production occurred. Artifact densities were highest in ST 14-16 where the soil was
+deepest and much lower in ST 13, 17 and 18 where bedrock was encountered at 5 – 25
+cmbs.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+Table 2.
+ST#
+13
+14
+
+15
+
+16
+17
+18
+
+24
+
+Shovel tests results for 41TG622.
+Depth
+(cm)
+0-25
+25+
+0-30
+30-43
+43+
+0-30
+30-95+
+0-23
+23+
+0-13
+13+
+0-5
+5+
+
+Description *
+
+Comments
+
+Yellowish brown clayey loam with gravels
+Caliche bedrock
+Very dark brown clay loam
+Dark brown (7.5YR3/3) clayey loam
+Cemented caliche
+Very dark grayish brown clayey loam
+Dark grayish brown (10YR4/2) clayey loam with caliche and
+gravel throughout
+Yellowish brown (10YR5/4) clayey loam
+Cemented bedrock
+Yellowish brown clayey loam
+Bedrock
+Very dark brown (7.5YR2.5/2) clay loam
+Cemented caliche
+
+26 – (lithics and
+shell)
+85 (lithics and
+shell)
+188 (lithics,
+FCR, and shell)
+130 (lithics and
+shell)
+32 (lithics and
+shell)
+3 lithics
+
+* Munsell colors listed only the first time encountered
+Based on the results of the shovel tests, it appeared that the topsoil was relatively shallow
+on the bluff, except for the area between ST14 and ST16, where artifacts were buried up
+to 95 cm in depth in ST15. After the initial survey, the waterline alignment was moved to
+the west side of the road for several hundred feet to avoid impacting the front yard during
+trenching.
+Two trenches were placed within the water line ROW that continued on the south side of
+the fence to determine if there were discrete features and to determine extent of the
+topsoil on the limestone and caliche bluff. Trench A was placed near the western bluff
+edge and was oriented east-west. Caliche and limestone bedrock were encountered
+immediately below the surface and the trench was terminated. Trench B was placed 15 m
+east of Trench A and was placed in the waterline ROW and overlapped with the bore
+point location. The 6 m long trench was excavated to bedrock, which undulated and
+varied in depths (Figure 11). The maximum depth of the trench was 110 cm. Two 20 cm
+columns of trench wall were screened at 10 cm intervals at the 2 and 4 m marks from the
+north wall. Artifacts similar to those from the shovel tests were found, such as heattreated chert and mussel shell, yet no fire-cracked rock or diagnostic artifacts were
+located, nor were any features identified in the trench walls. Artifact density was
+consistent between the screened columns, with artifacts distributed throughout the depth
+of the deposit.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+Figure 11.
+
+25
+
+Trench B profile at site 41TG622.
+
+The lithic production site is located in a narrow stretch of field adjacent to a residence,
+and is bisected by the construction of Chandler Road (Figure 12). The artifact scatter
+continued into the front yard of the residence to the northeast, where ground visibility
+was excellent and there was little topsoil and caliche on the surface. The site contained no
+distinct cultural stratigraphic layers, features or diagnostic artifacts. Based on these
+factors, no further testing is recommended as the site does not appear to be eligible for
+listing on the National Register for Historic Places.
+
+Figure 12.
+
+Bluff edge where the site center is located south of the bend of Chandler
+Road, view is facing south.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+26
+
+Section 55 is .98 miles long and parallels the north side of the Concho River (Appendix
+A: Figure 26). It begins at Chandler Road and ends just before Mullins Crossing Road to
+the east. The route passes through three discrete areas, which are discussed from west to
+east. They are the bluff top, residential tracts, and fields. The western 250 meters of the
+line crosses through improved pasture on a bluff top with three small rises, much like the
+one on which the Chandler Road site (41TG621) was found. Ground visibility in this
+segment ranged from 10 to 90 percent. Lithics were found to be abundant on the surface
+and the area was designated 41TG621 (Figure 13).
+
+Figure 13.
+
+Plan map of site 41TG621.
+
+Lithic materials observed include two thin bifaces, several crude and thick bifaces, and
+numerous flakes. No diagnostic artifacts were found. Four shovel tests were excavated
+along the centerline with an effort to hit highpoints and the saddles between them where
+sediments may have accumulated. Despite the excellent ground visibility, the shovel tests
+were excavated to determine if there was any depth to the cultural deposits, while the site
+boundary was recorded on the basis of surrounding topography and ground visibility,
+which was well over 30 percent. Shovel test 25, on the western knoll of 41TG621, had
+barely five cm of dark gray sandy loam topsoil before giving way to caliche indicating an
+extremely deflated area. Several interior flakes were noted in the shovel test. Shovel test
+26 was placed in a shallow saddle between the first and second knolls and had dark gray
+sandy loam to 35 cm before hitting caliche. Artifacts were present on the surface at this
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+27
+
+shovel test location, but none were found below the surface. Shovel test 27 was excavated
+northeast of 26 as ground visibility here was less than superb. The shovel test revealed
+the same sandy loam as ST25 to 43 cm before hitting caliche. A couple of tested cobbles
+and a few interior flakes were noted, though the density was only a small fraction of what
+we saw at 41TG622.
+Shovel test 28 was placed east of ST27 near the divide between the bluff top and
+residential areas. Here the topsoil was reddish yellow sandy clay loam in which flakes
+were present to 42 cm, at which point caliche was encountered. A few pieces of worked
+chert were observed east of the fence line, but no shovel tests were conducted here as it
+was in residential property and ground visibility was over 30 percent. Given the high
+degree of deflation and the close proximity of the site to residential areas, the lack of
+diagnostic artifacts is attributed to the site type, which is most likely a lithic production
+site where early stages of manufacture occur.
+The residential tracts extend 440 meters east from 41TG621. Elevation decreases
+throughout this area. Ground visibility was between 20 and 80 percent through these front
+and backyard settings. Aside from 41TG621, no artifacts were observed on the surface in
+the remainder of the route. One shovel test was excavated on the west side of a small, dry
+draw (ST29) that separates the residential and field areas. The shovel test contained dark
+brown clay loam to a depth of 60 cm, but no artifacts were found.
+Finally, freshly plowed fields made up the remaining 800 meters of the waterline. The
+elevation here was analogous to that of the residential area and ground visibility was
+between 70 and 95 percent. No artifacts were observed on the surface. Four shovel tests
+(30 through 33) were excavated at 200 meter intervals approximately 5 meters north of
+the fence line to explore for cultural materials and the check sedimentation due to the
+close proximity of the route to the Concho River. All four shovel tests contained brown to
+dark brown sandy to loamy clays that became extremely compact with depth. The high
+degree of compaction is likely due to caliche cementation.
+Section 46 is approximately .50 miles long and south of US 67 where parallels South
+Socha Loop on the north side of the road (Appendix A: Figure 5). Survey determined that
+this route crosses through a low potential area of residential neighborhoods where ground
+visibility was between 50 and 70 percent. No cultural material was recorded in either
+section of the waterlines.
+Section 12 runs from the southwest to the northeast on the north side of Switzer Road for
+approximately .96 miles (Appendix A: Figure 8). It crosses through level terrain of
+plowed fields and unimproved pastures. Ground visibility was between 40 and 90
+percent, and one isolated flake and a tested core was identified along the fence line. The
+gravelly loamy soil included chert nodules and eroded limestone bedrock, yet no other
+cultural material was identified during the survey.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+28
+
+Harriet Quad
+Section 10 is approximately 1.77 miles long and parallels the southeast side of the
+Atchison Topeka and Santa Fe Railroad and the north side of Harriett Road before it
+crosses into a subdivision along Alma Jo Drive just north of US 67 (Appendix A: Figure
+5). Ground visibility ranged from 30 to 70 percent, and the terrain was level along the
+railroad and road easements (Figure 14).
+
+Figure 14.
+
+Section 46 parallels Harriet Road and the Atchison Topeka and Santa Fe
+Railroad on the left side of the rail line, view is facing southwest.
+
+Mereta Quad
+Section 13 parallels for 1.01 mile Bledsoe Road on the south side to the western edge of
+the town of Mereta (Appendix A: Figure 9). From east to west, the waterline route
+crosses through front yards of residential lots, with a total of 22 houses or sheds, yet all
+were out of the waterline ROW. The route then crosses through a recently mowed hay
+field. The terrain was level, and ground visibility was between 40 and 80 percent.
+Granular, poor quality chert was on the surface, yet no cultural material was recorded.
+Section 14 is one road south of Section 13, and crosses east-west for approximately 1.90
+miles on the south side of FM 388 (Appendix A: Figure 9). Three structures are set back
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+29
+
+from the road and are south of the waterline ROW by 100 to 150 feet. In front of the
+houses, fields of recently harvested cotton were walked, and the ground visibility was
+excellent. Chert cobbles were in the fields, but no cultural materials were recorded during
+the survey.
+Section 15 begins at the intersection of FM 388 and 4th Road just west of Section 14
+(Appendix A: Figure 9). The waterline route extends south for approximately 1.41 miles
+through level cotton fields. Constant plowing of the field has developed a low berm along
+the northern and western boundaries of the field. Ground visibility was 100 percent, and
+limestone rocks and chert nodules were on the surface, yet none appeared worked and
+could have been machine broken.
+Section 16 begins at the intersection of FM 765 and 3rd Road and extends south for 1.14
+miles, then splits to the west and east along Jarrett Road and Whitfield Road for .60 and
+.93 miles respectively (Appendix A: Figure 9). As in the other upland settings, the terrain
+was level, and the route primarily crossed through the loam and clay cotton fields and
+pastures where ground visibility ranged from 80 to 100 percent. Chert nodules were
+present within the route, and two isolated artifacts were recorded south of Jarrett Road, a
+Thick Biface with one side heavily patinated, and one secondary flake. Although an
+abundance of chert was present, these were the only worked pieces identified, and the
+artifacts are considered isolated finds. At the east end of Jarrett Road near the waterline
+ROW, an Aeromotor windmill stands adjacent to the fenceline. The house set back from
+the road on the same property is modern, and appears to have been constructed in the last
+10 years. No other cultural material was recorded within this section of the waterline.
+Vancourt Quad
+Section 59 begins at the intersection of Roberts Road and SH 87. The route parallels SH
+87 on the south side and terminates in the town of Vancourt for a distance of 2.41 miles
+(Appendix A: Figure 33). The northwest end crosses Lipan Creek and the southeast end
+crosses Snake Creek. Rioconcho clay loam is present in the channels of the creeks.
+Survey was conducted at the drainage crossings. Snake Creek is mapped as intermittent
+and crosses under SH 87. In the town of Vancourt, The route crosses Snake Creek in
+front of a gin complex and parallels a gravel entry road to the gin complex. The creek
+was dry at the time of survey. The drainage is shallow with gently sloping banks that are
+less then one meter deep at the property boundary where the route crosses. Limestone
+cobbles were exposed on the west bank and east bank appears to have been modified
+during the bridge construction and from the installation of a large gravel pad where a
+metal tank is located. One shovel test (MD2) was placed on the west side of the drainage,
+and caliche and limestone rocks were encountered at 60 cm below surface. The east bank
+contained gravel fill from the construction of the pad (Figure 15). Although the drainage
+widens where it is crossed by FM 765, it appears that the creek drains the uplands only
+seasonally after heavy rains.
+Lipan Creek is mapped as intermittent with clay loam in the channel bottoms. On the east
+bank, the route crossed through a pasture and ground visibility was between 30 and 50
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+30
+
+percent. Shovel test MD3 was placed approximately 20 m from the channel and compact
+gravel layer was encountered at 40 cmbs. A second shovel test (MD4) was placed on the
+east bank, and gravels were encountered at 62 cmbs. The route continued into a cotton
+field, then terminated on the north side of FM 765. The drainage was approximately 25 m
+wide with gently sloping banks that were 3 m deep. Limestone bedrock was exposed in
+the channel bottom. The banks of the creek were examined, and a thick gravel layer sits
+on top of the limestone bedrock beginning at approximately 40 cm from the surface on
+the east bank. The west end of the route crossed through pastures and cotton fields. No
+cultural resources were identified during the survey, on either bank or in the shovel tests.
+
+Figure 15.
+
+East bank of Snake Creek, view facing southeast. Section 59 parallels the
+fence line in front of the cotton gin.
+
+Veribest Quad
+Sections 2 through 4 are located in the town of Wall on the north side of Texas Loop 570
+(Appendix A: Figure 2). The routes are .09, .3.and .13 miles in length and parallel
+easements. Ground visibility was over 30 percent. These routes are over ½ mile away
+from two cemeteries which are located on Texas Loop 570, the Wall Cemetery (Figures
+16 and 17) and the St. Ambrose Cemetery.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+31
+
+Figure 16. Front entry to Wall Cemetery, view is facing north.
+
+Figure 17.
+
+Fence line on northern boundary of Wall Cemetery, note the cotton field
+to the left. View is facing east.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+32
+
+Sections 5 through 8 parallel roads in a residential neighborhood; Hawk Street,
+Commissioner Road, St. Anthony Street, and Lena Lane that are north and south of FM
+765 (Appendix A: Figure 3). The waterline routes .31, .20, .43 and .08 miles in length
+respectively run along the edge of narrow road easements where existing utilities are
+present and the closely cut yards of the residences (Figure 18). No cultural material was
+identified within the routes.
+
+Figure 18.
+
+Section 5 of the waterline improvements will run inside the fence line,
+view facing south. This is a typical setting for Sections 5-8.
+
+Section 9 is aligned north-south along an unmarked road north of FM 388 (Appendix A:
+Figure 4). It begins at the FM 388 intersection on the west side and crosses through a
+level, plowed field with 100 percent ground visibility. The route then passes to the east
+side of the road to the end of the route to cross through a cotton field for a total length of
+.50 mile. A few scatters of poor quality, granular chert were identified on the surface, but
+no cultural material was present.
+Section 45 is on the west side of Debbs Road and the south side of FM 765 on the
+southeast outskirts of San Angelo (Appendix A: Figure 24). The route is approximately
+.53 miles long and crosses through cotton fields and unimproved pastures where the
+ground visibility was between 70 and 80 percent. The roadway easements on Debbs Road
+were less than 10’, while the easements on the south side of FM 765 were approximately
+25’ wide. No cultural material were recorded during the survey.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+33
+
+Section 49 is on the eastern outskirts of San Angelo and parallels the south side of FM
+388 for .46 miles (Appendix A: Figure 15). Ground visibility was between 80 and 100
+percent in a cotton field. No chert or other cultural material was present and there was
+eroded bedrock intermixed with the loamy soils of the shallow topsoil.
+Wall Quad
+Section 53 begins at Milkulik Road on the west side, turns to the east and west to parallel
+Walling Pecan Road on the north side, then turns south and parallels the east side of
+Robby Jones Road for a total length of 7.12 miles (Appendix A: Figure 30). The route
+continues slightly to the west onto the Pecan Station Quad. The majority of the route
+crosses through pastures or plowed fields. Survey was conducted for the portion of the
+route which crossed the intermittent drainage of Ninemile Creek for approximately 1 km
+on either side of the drainage. The mapped soils in this branch of the creek are silty clays,
+which are formed in upland valleys. The fencerow had been cleared of vegetation and
+push piles of mesquite were east of the route. Ground visibility on either side of the
+drainage was between 50 and 60 percent, and the dry drainage was shallow, less then one
+meter deep from the road, and approximately 10 m wide. No cultural resources were
+located during the survey, and it appears that the creek flows very intermittently, most
+likely after heavy seasonal rains.
+Section 1 is on the east side of CR 306 on southeast side of San Angelo (Appendix A:
+Figure 1). The easements are approximately 50 m wide, and the waterline will run for
+approximately 1.29 miles inside the fence lines of residential and commercial properties
+(Figure 19). Ground visibility was between 30 and 50 percent the short grass yards. Thin
+loamy topsoils overlaid the gravel and caliche bedrock.
+San Angelo South Quad
+Section 20 is located at the entry of a residential neighborhood on the outskirts of San
+Angelo (Appendix A: Figure 13) The .20 mile route is on the east side of Broad Street,
+and passes through a recently plowed field where ground visibility was 100 percent. No
+cultural resources were located during the pedestrian survey.
+The 200’ x 200’ tank location is located on the northeast corner of Hawk Avenue and
+Holik Road south of the town of Wall (Appendix A: Figure 14). The proposed tank site is
+in a pasture where ground visibility is over 50 percent. Decayed bedrock was intermixed
+with the loamy soils on the surface, and although chert is present it was of poor quality
+and very granular. No cultural materials were located at the tank site.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+Figure 19.
+
+34
+
+View facing north along Section 1. The proposed route runs inside the
+fence lines of residential and commercial properties.
+
+Additional Waterline Routes
+Doole Quad
+Section 44 follows CR 368 on the north then east side (Appendix A: Figure 23). The
+route continues south and east on the west side of FM 503 and the south side of CR 4698
+for a total length of 1.18 miles. At the east end of the route, vegetation within the route
+consisted of short grass and push piles of mesquite were in the field. An abandoned house
+was over 100 feet from the road and out of the waterline alignment (Figure 20).
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+Figure 20.
+
+35
+
+Abandoned house north of Section 44, view is facing north.
+
+Ground visibility was between 30 and 50 percent at the southern end of the route and
+thin, loamy topsoil barely overlaid the gravel and caliche bedrock. An unnamed draw was
+crossed towards the northern end, and the line terminates in a plowed field where ground
+visibility was 100 percent. No water was present in the draw. As the route extends south
+along FM 503, it passes through upland pastures. The route is on the opposite side of FM
+503 from the Stacey Cemetery. The route was investigated on October 22, 2009, and the
+distance from the fence line of the cemetery to the proposed waterline alignment across
+the road was measured. The route will be approximately 180 feet from the cemetery
+boundaries if placed inside the private property fenceline. The route crosses through
+pasture, and no further survey is recommended.
+Section 82 is .97 miles long and parallels the east side of CR 330 (Appendix A: Figure
+50). The route crosses through level, upland pasture that was overgrown with mesquite
+and prickly pear. No survey was recommended.
+Leaday and Mustang Quad
+Section 80 follows the west side of Lake County Road north from its intersection with
+FM 1929, then turns sharply to the southwest to run along the south side of FM 2134
+(Appendix A: Figure 22). The route is 2.60 miles in length, and the terrain is primarily
+rolling pasture land with a small plowed field at the northern end of the line. Ground
+visibility was over 60 percent throughout. Eroded limestone bedrock was visible on the
+surface, but no chert was observed. The route was driven, yet since it was in a low
+potential area, no survey was recommended.
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+36
+
+Sections 34-43 are located near the O.H. Ivie Reservoir (Appendix A: Figure 22). Most
+of the routes (34-43) overlap areas previously surveyed before the development of the
+reservoir and no previously recorded sites are less than ½ mile of the waterline
+alignments. As demonstrated in the records review, although there are multiple
+prehistoric and historic sites recorded in the area they are concentrated in the drainage
+valleys and on the bluffs and terraces overlooking the Colorado River, not in the uplands
+where the routes are located. In addition, the routes are in residential areas that have been
+heavily impacted due to the construction of housing developments (Figure 21). Caliche
+and limestone bedrock was on the surface in the waterline alignment of Sections 34-43
+(Figure 22). The combined sections of these routes total approximately 6.5 miles.
+Section 18 follows Apache Hills Road north from its intersection with Ray Stoker Jr.
+Highway for 1.01 miles (Appendix A: Figure 11). The area is a mixture of pasture land
+and residential development in an upland setting. Ground visibility throughout the section
+ranges from 30 to 80 percent. Decaying bedrock is prevalent on the surface. Surveys for
+the O.H. Ivie Reservoir have covered much of the surrounding area, showing sites to
+exist in close proximity (within ¼ of a mile) to the drainage channels and the route does
+not overlap any of the previously recorded sites. No further investigations were
+recommended for this route.
+
+Figure 21.
+
+Sections 38-43 shown on an aerial map. The proposed routes crosses
+along the edge of easements and residential properties.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+Figure 22.
+
+37
+
+Section 35 ROW follows the fenceline on the right side of photo, note
+bedrock on surface.
+
+Section 81 is .67 miles long a Categorical Exclusion located on the east side of
+Millersview near the Athletic Field (Appendix A: Figure 49). The route crosses through
+an upland field and parallels county roads on the east side of town and is replacing an
+existing line. No further investigations are warranted.
+Concho Quad
+Section 33 parallels CR 4627 then turns east onto PR 1022 for a total distance of 5.33
+miles (Appendix A: Figure 21). This section was driven on November 19th. From north to
+south, the route crosses through plowed fields then pasture. Ground visibility was 100
+percent in the plowed fields, and large push piles of reddish bedrock lined the fence rows.
+In the pasture, ground visibility was between 50 and 70 percent with large limestone
+rocks on the surface. A narrow unnamed draw is in the northern section of the line, and a
+concrete culvert with the date “5 16 36” inscribed in it is spanned by the road. The culvert
+is in the road easement, and the ROW for the waterline is approximately 30 feet to the
+east in the plowed field and will not impact the culvert. Although recommended for
+survey, the locked gate leading to PR 1022 at the north end of CR4627 was not crossed.
+A sign on the gate cautioned would-be crossers of cyanide blocks in the fields and
+warned of health hazard (Figure 23). From the gate the survey team saw improved
+pasture land. Aerials show evidence of terracing.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+38
+
+Figure 23.
+Northeast end of
+Section 33 bisects a field with
+cyanide poison devices.
+
+Section 79 is west of Section 18 and east of Section 33 (Appendix A: Figure 11). It
+follows the east side of Letha Street to the north, then turns west down an unnamed road
+to meet up with Frank Road for a distance of .92 miles. The terrain is slightly rolling with
+a mixture of pasture and residential development. Ground visibility was 50 to 80 percent
+showing and extremely thin layer of topsoil, exposing decaying limestone bedrock.
+Millersview SE Quad
+Sections 31 and 32 are located in central Concho County (Appendix A: Figure 20). The
+routes are located in the uplands away from major drainages and are 2.6 miles and .94
+miles in length. The routes were driven to determine if there were any standing structures
+near the waterline routes. Section 31 had large limestone rocks (4 to 5 feet in length)
+were on the surface. Bedrock was on the surface and an examination of road cuts
+determined that there was only a few centimeters of loamy topsoil on the surface. This
+section of the waterline will be placed in an existing waterline easement to replace the
+current pipe. Section 32 crosses through upland pastures had ground visibility near 50
+percent with limestone and caliche on the surface. No survey is recommended for these
+routes.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+39
+
+Ballinger Quad
+Although no pedestrian survey was recommended for the following routes, they were
+driven to determine if any standing structures were in the waterline ROW. Section 70
+runs east-west on the north side of CR 240 for .69 miles; the intersection of CR 240 and
+CR 259 is at the approximate center of the alignment (Appendix A: Figure 42). The
+upland setting contains plowed fields as well as improved and unimproved pasture.
+Ground visibility was 30 to 60 percent throughout. Decaying limestone gravel was on the
+surface, but no chert was observed. A house foundation was noted on the north side of
+CR 240, west of the intersection with CR 259. The 30’ ROW began at the easement, and
+the foundations were an additional 20’ beyond the ROW.
+Section 72 is in an upland setting on the west side of FM 1874 and follows it north from
+its intersection with CR 236 for .83 miles (Appendix A: Figure 43). The entire line is
+plotted through plowed fields where ground visibility was 90 percent. Relatively little
+limestone gravel was observed on the surface at this location. No chert was observed
+along the route. A house sits west of the line but is outside of the 30 foot temporary
+easement. Section 85 is along the north side of FM 2406 for a short distance (Appendix
+A: Figure 54). The area is an improved upland pasture with 50 to 70 percent ground
+visibility. Limestone gravel was abundant on the surface. A few pieces of chert were
+observed, but none appeared to be worked.
+Paint Rock Quad
+Section 71 follows the north side of CR 236 from its intersection with FM 1678 to the
+west for .76 miles (Appendix A: Figure 43). The route crosses through plowed fields
+(western section of the alignment) and improved pasture (eastern section). Ground
+visibility in these two segments is 80 to 90 percent and 30 to 60 percent, respectively.
+Limestone gravel is on the surface; one piece of poor quality, machine broken chert was
+observed in the plowed field. Section 76 follows the north and east sides of CR 113 for
+.55 miles (Appendix A: Figure 47). The area is unimproved pasture with ground visibility
+between 50 and 90 percent. Decaying limestone gravel is evident on the surface, but no
+chert was observed. No further investigations are recommended for these routes.
+Section 28 is a continuation of Section 11 to the east then crosses north into the Miles
+Quad (Appendix A: Figure 16). The 1.01 mile route is on the north side of CR 391 and
+passed through a recently plowed field where ground visibility was 90-100 percent. To
+the south, the route continued on the east side of CR 357 which was also recently plowed,
+and terminated at US 67 in a terraced field. Ground visibility was 100 percent in the
+plowed field, and 50 percent in the terraced field. No cultural materials were located in
+this section.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+40
+
+Millersview NW Quad
+Section 73 is on the south side of CR 1644 and is .82 miles long (Appendix A: Figure
+44). The route crosses through terraced fields in the uplands, therefore no survey was
+recommended.
+Millersview SW Quad
+Section 74 is located on the west side of CR 1329 which runs through the North Speck
+Oil Field (Appendix A: Figure 45). The .64 mile route crosses through terraced fields and
+pasture. Section 75 begins on the east then the north side of RR 2402 through the Speck
+Oil Field for 4.47 miles (Appendix A: Figure 46). Bedrock was exposed in the road cuts,
+and lease roads and oil well are concentrated in the northern end of the route, while
+terraced fields are towards the southern end of the route. Due to the upland setting away
+from drainages, no survey was recommended for these sections.
+Rowena Quad
+Section 66 this short segment (.47 miles long) parallels CR 440 through improved
+pasture with 30 to 60 percent ground visibility (Appendix A: Figure 38). Limestone
+gravel and the occasional poor quality piece of chert are visible on the surface.
+Section 69 is south of Section 67 and begins on CR 244 (Appendix A: Figure 39). The
+route is 2.05 miles long and runs parallel with the south side of IH 67 for a over half of
+the alignment. Although no survey was recommended for this route, it was driven to
+determine if any standing structures were near the alignment. At this intersection of the
+two roads, it turns northeast to follow along the southeast side of US 67. The route along
+CR 244 is plowed and recently harvesting cotton fields with 90 percent ground visibility.
+Limestone gravel was abundant on the surface with poor quality machine crushed chert
+scattered about. The stretch along US 67 exhibited the same surface conditions.
+One historic site was recorded at the southeast corner of the intersection of CR 244 and
+US 67 (41RN243); the northwest corner of the house sits within the 30’ wide temporary
+construction easement, and it is approximately 26 feet from the edge of the road
+easement. The site consists of three structures (Figure 24). The primary structure is an LPlan, 1½ story house set atop a pier and beam foundation with board and batten exterior
+walls. The home was constructed with a gabled roof, out of which a dormer window
+faces south. Bricks stamped with the makers-mark “ABILENE” were used to build the
+chimney. A large metal water tank sits at the outside of the house, nearly abutting the
+south wall (Figure 25). Two full porches complete the exterior; one is on the front (north)
+side of the house, while the other is set within the “L” shape on the east side. Only wire
+nails were seen in the home, indicating 20th century construction. Four interior rooms
+were mapped on the first floor, but the second story could not be accessed. The second
+structure, called Shed 1, sits about 15 meters to the southeast of the main house. It is has
+a vertical wall finish with a concrete slab floor. There is one small interior room in the
+northeast corner of the structure that may have been added after the original construction.
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+41
+
+Again, wire nails were used exclusively. A brick fireplace/hearth and chimney is in the
+northwest corner, suggesting that the structure may have been used as a tenant house at
+some point. The bricks used for this hearth are stamped “ACME WICHITA FALLS
+LUMBERMAN’S SPECIAL.” The third structure, Shed 2, appears to be a small work
+shed set 7 meters east of Shed 1. This small structure is in the poorest condition of the
+three, but it is clear that it was constructed with wire nails and finished with board and
+batten on the exterior. All evidence points to 20th century construction for the entire site.
+No shovel tests were excavated around the site as all available land was plowed and had
+90 percent ground visibility.
+Sheds 1 and 2 are outside of the APE. Though the house does extend into the
+construction easement, work crews should have no difficulty in avoiding it during the
+installation of the 2” pipeline. Further investigations would be necessary to determine site
+eligibility for listing on the NRHP.
+
+Figure 24.
+
+Plan map of historic homestead (41RN243) at edge of Section 69.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+Figure 25.
+
+42
+
+South wall of the house (41RN243), view is facing northeast.
+
+Lowake Quad
+Section 27 is on the east side of CR 352 and crosses through a recently harvested cotton
+field for .99 miles (Appendix A: Figure 7). Chert and limestone were on the surface, and
+the chert appeared to be of poor quality. During the records review, it was noted that
+there is a historical marker for the Sweet Home School on the west side of the road, yet
+the marker was not visible during the survey. Nevertheless, the waterline route is on the
+opposite side of the county road, and will not impact the remains of the school.
+Eola Quad
+Section 64 runs east to west for 1.41 miles in a relatively level setting that terminates at
+SH 381 (Appendix A: Figure 36). Since the route crossed through upland pasture setting
+parallel to easements, no survey was recommended.
+Vick Quad
+Section 65 parallels the east side of CR 381, the south side of CR 1386, and the west side
+of CR 1391 through plowed fields for a distance of 2.53 miles (Appendix A: Figure 37).
+No road easements are present, and the field edge meets the road. Due to the upland
+setting in a low potential area, no survey was recommended.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+43
+
+Miles NW and Miles Quad
+Section 60 begins at Raley Road and US 67 in Miles, Texas. The waterline will follow
+the east side of Raley Road until it reaches FM 2872 (Appendix A: Figure 7). A portion
+of this stretch is residential, while the remainder is through plowed fields with 80 percent
+or greater ground visibility. The line passes an old house in Miles which sits 31 feet from
+the road, and is outside of the 30’ construction easement (Figure 26) In this area there is
+no road easement. The route then continues north along FM 2872 through plowed and
+terraced fields until the road curves off to the east. Here the terrain rises and is
+characterized by pasture lands. The route crosses a draw between two hills through which
+FM 2872 is cut. This area was walked and a few tested cobbles were observed; no flakes
+or other artifacts were noted on the deflated surface.
+
+Figure 26.
+
+Structure on the east side of Raley Road, Section 60. View to the north.
+
+Another spur of Section 60 is plotted north of Miles, running east from the previously
+described spur along the north side of Coke Co Road/FM 1692. This east-west segment
+goes through plowed fields before turning north at FM 2333. The route parallels the west
+side of FM 2333 to the intersection with CR 106, again through plowed and terraced
+fields. Ground visibility was 80 percent throughout. Limestone and some poor quality
+chert was evident. The total length of this section is 8.01 miles long. Section 61 is 1.21
+miles long and is southeast of Section 55 in the southeast corner of the quad and
+continues into the Mereta Quad (Appendix A: Figure 34). No survey was recommended
+since the area is primarily pasture.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+44
+
+Mereta Quad
+Sections 23 and 24 are between FM 388 and FM 765 (Appendix A: Figure 9). These
+routes interconnect with Sections 13 through 16 that were surveyed in October of 2009.
+Section 23 is 2.28 miles long and is on the west side of South 3rd Road. At the south end
+it begins in a recently cleared cotton field. A shallow drainage, Lipan Creek, is crossed,
+towards the north end of the line that is in a pasture but appears to be more of a erosional
+draw than a creek (Figure 27). Section 24 begins on the east side of 4th Road and crosses
+through cotton and plowed fields where ground visibility was 100 percent. The 2.9 mile
+route then turns east and parallels the south side of FM 388, and although chert was
+present, it was of poor quality.
+
+Figure 27.
+
+The shallow portion of Lipan Creek in Section 23, view facing west.
+
+Section 26 begins on the north side of Bledsoe Road and loops through the town of
+Mereta for a distance of 2.02 miles (Appendix A: Figure 9). The western half of the route
+on Bledsoe Road crossed through a plowed field, then the front yards of residential
+properties on the outskirts of town. In town, the route continues on the north side of the
+road then goes south on the east side of Grand Avenue and Delagarza Road. The route
+then turns to the west to parallel the south side of Broadway to terminate at FM 1692.
+Multiple structures that could be older than 50 years old were identified in the town of
+Mereta. One structure on the south side of Broadway is 50 feet from the road edge,
+therefore out of the ROW (Figure 28). Additional structures that may be older than 50
+years old are also outside of the waterline ROW on the east side of Grand Avenue and
+will not be impacted by installation of the lines (29).
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+45
+
+Figure 28.
+
+House on the south side of Broadway in Mereta, the waterline is proposed
+to pass in front of it along the road edge, view is facing south.
+
+Figure 29.
+
+East side of Grand Avenue in the town of Mereta, Section 26 of the
+waterline will follow the fence lines of the residential properties.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+46
+
+Section 56 is 1.23 miles long and south of SH 765, and crosses through a pasture.
+Section 62 is east of Section 24 and is routed in an east-west direction for .86 miles
+(Appendix A: Figures 31 and 9). No survey was recommended for these sections as they
+are in upland settings away from drainages and parallel county roads or highways.
+Vancourt Quad
+Section 29 is on the north side of CR 1354 and crossed through terraced fields for 1.38
+miles (Figure 30) and extends slightly into the Vick Quad (Appendix A: Figure 17). No
+survey was recommended for this route.
+
+Figure 30.
+
+Terraced field in Section 29, the proposed waterline route parallels the
+fenceline along CR 1354.
+
+Section 58 is 1.64 miles long and located within the Lipan Flat region west of Lipan
+Creek (Appendix A: Figure 32). No survey was recommended in the upland setting
+where the route parallels a county road and crosses through a pasture.
+Veribest Quad
+Sections 21 and 22 are in residential neighborhoods on the east side of San Angelo and
+parallel existing roadway easements for distances of 3.69 miles and .48 miles respectively
+(Appendix A: Figure 15). The routes follow fence rows where eroded caliche and
+limestone bedrock was exposed on the surface and ground visibility was between 50 and
+80 percent (Figure 31). Small acreage cotton fields and pastures were between the
+residences and the extent of development is shown in the aerial photo, Figure 32.
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+47
+
+Section 51 is north of the Concho River and east of San Angelo (Appendix A: Figure
+15). The route parallels Holiman Road on the west side through recently plowed fields
+for 1.07 miles. No survey was recommended since the route is in an upland setting used
+for agricultural purposes.
+Section 52 is located near the Lipan Flat region southwest of Section 21 and crossed
+through terraced cotton fields on the east side of Wilde Road for 1.11 miles (Appendix A:
+Figure 24). The route was driven, but no survey was recommended.
+Section 54 is east of Section 52 and crosses through plowed cotton fields in the uplands
+for 4.57 miles (Appendix A: Figure 3). This route was also driven, and no further
+investigations or survey was recommended.
+Wall Quad
+Section 57 crosses though the nearly level uplands of the Lipan Flat for 3.29 miles
+(Appendix A: Figure 32). The route parallels Ripple Road on the east side through
+plowed fields, therefore no survey was recommended.
+
+Figure 31. View of Section 21 facing west; note the ground visibility was very good, and
+no cultural materials were identified on the surface or within the alignments.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+Figure 32.
+
+48
+
+Aerial photo with Sections 21 and 22 on the east side of San Angelo.
+Note the density of residences and roadways where the routes are
+proposed.
+
+Pecan Station Quad
+Section 50 is on the west side of South Ratliff Road (Appendix A: Figure 29). The route
+crosses through upland pastures to the South Concho River for .25 miles. No survey was
+recommended for this section.
+Conclusions
+The results of the cultural resource investigations of the low potential areas and intensive
+archaeological survey of the high potential areas for the improvements to the Millersview
+–Doole WSC have contributed to our knowledge of the archaeological potential of the
+Rolling Plains. As anticipated, there is higher potential of finding sites in close proximity
+to the Concho and Colorado rivers and their major tributaries, while the site potential for
+20th c. historic sites is within 150 feet of historic transportation routes. Several patterns of
+site distribution emerged when the data from the present study was combined with that
+from previous investigations.
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+49
+
+Prehistoric sites are located within a ¼ mile or less of the Concho and Colorado rivers,
+and adjacent to the larger drainages such as Kickapoo and Crown Nest Creek. As Creel
+suggested for his micro environmental zones for the South Concho River, lithic
+production sites and campsites are in riparian zones. Two prehistoric sites, the Chandler
+Road site (41TG622) and the Barking Dog site (41TG621) were recorded in the riparian
+zone at the confluence of the Concho River and an unnamed tributary. The first was the
+Chandler Road site on a bluff edge immediately south of Chandler Road. The site was
+located in a field at the edge of a residential neighborhood. Despite the fact that the site
+was impacted by the construction of the road, evidence remained of lithic production
+activity. To the east was the Barking Dog site, which was similar in character to the
+Chandler Road site. Additionally, the hearth site (41CC329) recorded on a hill
+overlooking Kickapoo Creek offers tentative evidence of prehistoric occupation. Chert
+outcrops were identified throughout the survey area, and it appeared that the higher
+quality material was in the western half of the study area, specifically to the north and
+south of the Concho River.
+Although previous investigations for the O.H. Ivie Reservoir study recorded multiple
+historic sites on the bluffs and fluviate terraces overlooking the river, these sites were
+over ½ mile away from the proposed waterline alignments and no sites were in the
+waterlines near the rivers. Several previously recorded historic resources were
+encountered near sections of the proposed waterlines: these included 19th and 20th century
+cemeteries, an unmarked grave, and the multiple 20th century structures identified along
+various routes and within the town of Mereta. Conversely, the areas surveyed in low
+potential areas in the uplands demonstrated that limited cultural material, such as isolated
+artifacts in plowed fields, can be present throughout the region, but may have no
+contextual integrity. One historic homestead (41RN543) was recorded within the 30’
+ROW, and several other structures that were potentially over 50 years were noted outside
+of several of the waterline alignments, but within 150’ of the road edge. Investigations at
+for the O.H. Ivie Reservoir recorded nineteenth century sites predominantly along the
+Colorado and Concho rivers, while 20th century sites appear to be distributed across the
+landscape and throughout the uplands. Occupation patterns in the 20th century became
+more widespread with the mechanization of farming practices and the increase in
+transportation routes to move the crops, specifically cotton, to the gin complexes in the
+region. Tenant houses and farmsteads were placed in more centralized locations, and
+were not necessarily placed to the closest water source.
+The results of these investigations demonstrate the benefits and the limitations of linear
+surveys. The benefit was that the waterlines were distributed throughout the landscape
+and the investigations were able to examine a variety of topographic settings and to
+identify cultural resources. The limitations were that the majority of the routes crossed
+through low potential or heavily disturbed areas along road easements. These upland
+settings away from water sources were not ideal for long-term prehistoric occupation, but
+for resource procurement such as hunting and procurement of lithic resources. The nature
+of these settings is that they are heavily trafficked, and disturbed by construction,
+plowing, grading, and brush clearing. These activities do lend to excellent ground
+exposure, but the results are disturbed artifact distributions with poor contextual integrity.
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+50
+
+RECOMMENDATIONS
+The investigations for the Millersview-Doole WSC resulted in the recording of four
+archaeological sites, three prehistoric (41CC329, Chandler Road site and 41TG621) and
+one historic (41RN243). The portions of 41TG621 and 41TG622 within the currently
+proposed 30’ right-of-way and the Area of Potential Effect (APE) in Sections 47 and 55
+are not eligible for the National Register of Historic Places (NRHP) or State
+Archeological Landmark (SAL) designation. Their status outside the 30’ area of proposed
+ROW is unknown. Site 41CC329 south of Section 30 is outside of the APE and requires
+no further investigation. The majority of the historic site, 41RN243, is outside of the
+ROW, and should be avoided.
+In addition, the Wall, St. Ambrose, and Stacey cemeteries are over 100 feet from the
+proposed alignments, and should not be impacted. The southern end of Section 30 must
+be rerouted onto the east side of the road for approximately .25 miles to avoid the
+unmarked grave on the west side of CR 1445.
+The drainages will be bored, and in general the bore points will be over 50 feet from the
+banks, which is not problematic for the majority of the drainage crossings, as the survey
+results demonstrate that most of the drainages do not contain floodplain soils. The
+exception is Bluff Creek on the north side of FM 765 which is crossed by Section 84, and
+ARC recommends that the bore points be set back 300 feet on the west bank and 100 feet
+on the east bank to avoid the floodplain deposit.
+Based on these results of this study, ARC recommends that no further investigations are
+warranted and that the Millersview-Doole WSC can proceed with their project. If buried
+cultural resources are discovered during the installation of the lines, ARC recommends
+that work stop in the immediate area and the THC be notified.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+51
+
+REFERENCES CITED
+Bever, Michael R. and David J. Meltzer
+2007
+Paleoindians of Texas: A Third Revised Edition of the Texas Clovis Fluted Point Survey.
+Bulletin of the Texas Archeological Society 78:65-99.
+Boyd, Douglas K.
+1989
+Regional Archeological Background. In Phase I Cultural Resources Investigations at Justiceburg
+Reservoir on the Double Mountain Fork of the Brazos River, Garza and Kent Counties, Texas.
+Vol. 1. pp. 23-60. Prewitt and Associates, Austin, Texas, Reports of Investigations No. 66.
+Bruseth, James E.
+1975
+Assessment of the Archaeological Resources of the Southeast Laterals Sub-Watershed.
+Archaeology Research Program, Southern Methodist University.
+Bureau of Economic Geology
+1976a Geological Atlas of Texas, Brownwood Sheet. Bureau of Economic Geology, University of Texas
+at Austin.
+1976b Geological Atlas of Texas, San Angelo Sheet. Bureau of Economic Geology, University of Texas
+at Austin.
+Bynum, Otto W. and John L. Coker
+1974
+Soil Survey of McCulloch County, Texas. United States Department of Agriculture, Soil
+Conservation Service, in cooperation with the Texas Agricultural Experiment Station.
+Clower, Dennis F. and G.S. Dowell
+1988
+Soil Survey of Concho County, Texas. United States Department of Agriculture, Soil Conservation
+Service, in cooperation with the Texas Agricultural Experiment Station.
+Creel, Darrell
+1978
+An Archaeological Survey in the South Concho River Area, West Central Texas. Bulletin 49:241307.
+Earls, Amy, Christopher Lintz, W. Nicholas Trierweiler, Patrick O’Neill, and Dan Scurlock
+Historic Resources Research Design. In Cultural Resources Investigations in the O.H. Ivie
+Reservoir, Concho, Coleman, and Runnels Counties, Texas, Vol. V: Historic Resources. Technical
+Report No. 346-II. Pgs 9-72. Mariah Associates, Inc., Austin.
+Frazer, Robert W.
+1965
+Forts of the West: Military Forts and Presidios and Posts Commonly Called Forts West of the
+Mississippi River to 1898. University of Oklahoma Press, Norman.
+Green, F. E.
+1961
+Archaeological Salvage in the Twin Buttes Reservoir Area, West Central Texas. Bulletin of the
+Texas Archeological Society 30:183-197.
+Green, L.M.
+1974
+Archeological Survey of Flood Control Project: Salt Creek Sub-Watershed of Southwest Laterals,
+Concho and McCulloch Counties. Lower Plains Archeological Society Bulletin 44:69-88.
+Hofman, Jack L.
+1989
+Prehistoric Cultural History: Hunters and Gatherers in the Southern Great Plains. In From Clovis
+to Comanchero: Archeological Overview of the Southern Great Plain, pp. 71-90. Arkansas
+Archeological Research Series No. 35.
+Hofman, Jack L. and Robert L. Brooks
+1989
+Prehistoric Woodland History Woodland Complexes in the Southern Great Plains. In From Clovis
+to Comanchero: Archeological Overview of the Southern Great Plain, Research Series No. 35, pp.
+61-70. Arkansas Archeological Survey. Fayetteville.
+Hughes, Jack T.
+1991
+Prehistoric Cultural Developments on the Texas High Plains. Bulletin of the Texas Archeological
+Society 60:1-55.
+Hughes, Jack T. and Patrick S. Willey
+1978
+Archeology at MacKenzie Reservoir. Office of the State Archeologist Texas Historical
+Commission, Archeological Survey Report 24.
+
+1993
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+52
+
+Mallouf, Robert J.
+1989
+Clovis Quarry Workshop in the Callahan Divide: The Yellow Hawk Site. Plains Anthropologist
+34:81-103.
+Prewitt Elton R. and R. E. Filson
+1978
+An Assessment of the Archeological Resources to be Affected by Floodwater Retarding Structure
+6A, Southwest Laterals of the Colorado River, McCulloch County, Texas. Technical Bulletin No.
+23. Texas Archeological Survey. University of Texas at Austin.
+Quigg, J. Michael, Jeck Peck, Christopher Lintz, Abby Treece, Charles Frederick, Roman Clem, and Lain
+Ell
+1998
+Early Archaic Use of the Concho River Terraces; Cultural Resource Investigations at 41TG307
+and 41TG309, Tom Green County, San Angelo, Texas. TRC Mariah Associates Report, TRC
+Mariah Associates, Inc., Austin.
+Shortes, C. Russell, Chelsea McMurtie, David Sherman, Cory Sills, and Sally Victor
+2004
+Cultural Resources Survey of the Morgan Creek 345kV Transmission Line Project Segments A, B
+and C, Coke, Coleman, Concho, McCulloch, Sterling, and Tom Green counties, Texas. Document
+No. 030161, PBS&J, Austin.
+Skinner, S. Alan and C. Britt Bousman
+1985
+Prehistoric Archaeology at Salt Gap, Texas. Cultural Resources Report 85-3, AR Consultants,
+Dallas.
+Skinner, S. Alan and Sharron Mahoney
+1974
+Prehistoric Archeology in the Southwest Laterals Sub-Watershed. Research Report Number 36,
+Archaeology Research Program, Southern Methodist University, Dallas.
+Stephenson, R. L.
+1949
+Archeological Survey of San Angelo Reservoir, Tom Green County, Texas. River Basin Surveys,
+Smithsonian Institution.
+Texas Archeological Site Atlas
+2009
+http://nueces.thc.state.tx.us/ accessed in October and November of 2009 for site locations in Tom
+Green, Concho, Runnels and McCulloch counties, Texas.
+Texas History Online
+2009
+Information on Tom Green, Runnels, Concho and McCulloch counties electronic documents,
+http://www.tshaonline.org/, accessed November 12, 2009.
+Todd, Jesse
+2005
+Archaeological Survey of the 2005 Millersview-Doole Water Supply Cooperation Service Area
+Improvements. Cultural Resources Report 05-26, AR Consultants, Inc., Dallas.
+Tom Green County Historical Preservation League
+2003
+Chronicles of Our Heritage: History of Tom Green County. Tom Green County Historical
+Preservation League, Inc. San Angelo.
+Trask, Lance K.
+2003
+Archaeological Survey for Millersview-Doole WSC. Cultural Resources Report 03-36, AR
+Consultants, Inc., Dallas.
+Trierweiler, Nicholas, and John Kuhl
+1993
+Introduction. In Cultural Resources Investigations in the O.H. Ivie Reservoir, Concho, Coleman,
+and Runnels Counties, Texas, Vol. II: Test Excavations at Prehistoric Sites and Assessment of
+Rock Cairn Features. Technical Report No. 346-II. pgs. 1-10. Mariah Associates, Inc., Austin.
+Turpin, Solveig A., Leland C. Bement, and David G. Robinson
+1992
+All American Pipeline: Final Status Report. University of Texas at Austin.
+Warren, James E.
+1977
+A Preliminary Survey of Cultural Resources to be Affected by Floodwater Retarding Structure 6A,
+Southwest Latera’ s Subwatershed, McCulloch County, Texas. Soil Conservation Service. U.S.
+Department of Agriculture, Temple.
+1992
+Significance Testing of Five Archaeological Sites in the Proposed San Angelo Gravity Interceptor
+Wastewater Treatment Project, Tom Green County, Texas. Archeology Consultants, Inc., George
+West.
+Weidenfeld, C.C. L.J. Barnhill and Clifford J. Novosad
+1970
+Soil Survey of Runnels County, Texas. United States Department of Agriculture, Soil
+Conservation Service, in cooperation with the Texas Agricultural Experiment Station.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY FOR THE MILLERSVIEW-DOOLE WSC
+
+53
+
+Wiedenfeld, C.C. and P.H. Flores
+1976
+Soil Survey of Tom Green County, Texas. United States Department of Agriculture, Soil
+Conservation Service, in cooperation with the Texas Agricultural Experiment Station.
+Willis, L.E.
+1958
+Archaeological Survey of Twin Buttes Reservoir, Tom Green County, Texas. Ms on file at the
+Museum, Texas Tech University, Lubbock.
+Woolsey , A.M.
+1936
+Notes of Field Work, Jess A. Henton Ranch, 18 miles northeast of Brady in McCulloch County,
+Texas. Manuscript on file at TARL, University of Texas at Austin.
+
+_______________________________________________________________________
+AR CONSULTANTS, INC.
+
+

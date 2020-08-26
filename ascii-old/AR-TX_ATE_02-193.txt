@@ -1,0 +1,1990 @@
+Archeological Resource Survey
+Interstate Highway 35 from South of State Highway 80 to North of
+Ranch-to-Market 12, Hays County, Texas
+CSJ: 0016-03-114
+
+Prepared by: AmaTerra Environmental, Inc.
+Date: May 2017
+
+The environmental review, consultation, and other actions required by applicable Federal environmental laws for this project are being, or have been,
+carried-out by TxDOT pursuant to 23 U.S.C. 327 and a Memorandum of Understanding dated December 16, 2014, and executed by FHWA and TxDOT.
+
+THIS PAGE IS INTENTIONALLY LEFT BLANK.
+
+Archeological Resource Survey of Interstate
+Highway 35, South of State Highway 80
+to North of Ranch-to-Market 12,
+Hays County, Texas
+by
+
+Katherine Seikel and Rachel Feit
+
+CSJ: 0016-03-114
+Antiquities Permit No. 7880
+Prepared for
+Texas Department of Transportation
+Austin District
+
+Technical Report No. 193
+Prepared by
+
+Austin, Texas
+
+May 2017
+
+THIS PAGE IS INTENTIONALLY LEFT BLANK.
+
+Abstract
+
+Abstract
+In February 2017, AmaTerra Environmental, Inc. (AmaTerra) conducted an intensive
+archeological survey for proposed improvements to Interstate Highway (I) 35 from South
+of State Highway (SH) 80 to North of Ranch-to-Market (RM) 12 through the City of San
+Marcos in Hays County, Texas (CSJ No. 0016-03-114). The proposed project would realign
+entrance and exit ramps, reconstruct frontage roads, make intersection improvements
+at SH 123, replace frontage road bridges over the San Marcos River and Willow Springs
+Creek, replace bridges at SH 123/Guadalupe Streets, and construct a new shared-use
+path along the northbound frontage road to accommodate bicycle and pedestrian use.
+The total project length is 2.58 miles and the project area encompasses 116.7 acres.
+AmaTerra conducted the archeological survey under Texas Antiquities Permit No. 7880.
+The scope of the work for the survey focused on inspection of the area affected by bridge
+replacements at the San Marcos River and Willow Creek only. Archeological investigations
+consisted of a pedestrian survey, excavation of nine shovel tests, and six backhoe trenches
+within those portions of the Area of Potential Effects (APE) with potential for archeological
+deposits. Archeologists observed numerous landscape modifications resulting from
+transportation, commercial, and other earth-moving activities within the APE. However,
+cultural material associated with two archeological sites was still present at the San
+Marcos River. Lithic material documented during trenching along the east side of the river
+is associated with Site 41HY261, which was documented in 1994. One new prehistoric
+site, 41HY534, was recorded on a terrace west of the river. Site 41HY534 consists of
+lithic debris and faunal bone fragments. Artifacts associated with Site 41HY261 are not
+considered to contribute to the eligibility of the site, and Site 41HY534 is not considered
+eligible within the APE. This report recommends that no additional archeological work
+within any part of the APE is warranted at this time. No artifacts were collected during this
+survey. All documents and photographs generated during this survey will be permanently
+curated at the Texas Archeological Research Laboratory in Austin.
+
+AmaTerra Environmental, Inc.
+
+iii
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+THIS PAGE IS INTENTIONALLY LEFT BLANK.
+
+iv
+
+AmaTerra Environmental, Inc.
+
+Table of Contents
+
+Table of Contents
+Abstract. .............................................................................................................................................. iii
+Chapter 1. Introduction and Management Summary................................................................................1
+Chapter 2. Environmental Background and Setting................................................................................5
+2.1
+2.2
+2.3
+
+Environmental Setting................................................................................................................... 5
+Topography..................................................................................................................................... 5
+Geology and Soils.......................................................................................................................... 5
+
+Chapter 3. Cultural Background. .........................................................................................................9
+3.1
+3.2
+3.3
+3.4
+3.5
+
+Paleoindian (ca. 15,000â8500 BP)............................................................................................. 9
+Archaic in Central Texas (ca. 8500â1250 BP)............................................................................ 9
+Late Prehistoric (ca. 1250â250 BP)..........................................................................................11
+Historic (250 BPâPresent)..........................................................................................................11
+Land Modifications and Historical Land Use ............................................................................13
+
+Chapter 4. Previous Investigations. .....................................................................................................17
+Chapter 5. Methodology.....................................................................................................................21
+Chapter 6. Results............................................................................................................................ 23
+6.1
+6.2
+6.3
+
+Site 41HY534 . ............................................................................................................................26
+Trenching Results .......................................................................................................................29
+Site 41HY261 ..............................................................................................................................34
+
+Chapter 7. Conclusions and Recommendations..................................................................................... 35
+References. ........................................................................................................................................37
+Appendix A. Project Schematics
+Appendix B. Shovel Test Log
+
+AmaTerra Environmental, Inc.
+
+v
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+THIS PAGE IS INTENTIONALLY LEFT BLANK.
+
+vi
+
+AmaTerra Environmental, Inc.
+
+List of Figures and Tables
+
+List of Figures
+Figure 1.
+
+Project location on the 2016 San Marcos, Texas 7.5â USGS
+topographic map............................................................................................... 3
+
+Figure 2.
+
+Designated AmaTerra survey area................................................................... 4
+
+Figure 3.
+
+Project location depicted on the PALM............................................................ 7
+
+Figure 4.
+
+Project location depicted on a 1911 USGS Topographic Map..................... 14
+
+Figure 5.
+
+Project location depicted a 1958 aerial photograph....................................15
+
+Figure 6.
+
+View of development and utility lines along the northbound I-35
+Frontage Road (facing northeast).................................................................. 16
+
+Figure 7.
+
+View of development along southbound I-35 Frontage Road...................... 16
+
+Figure 8.
+
+Map showing Atlas search results for cultural resources and surveys
+around the APE................................................................................................20
+
+Figure 9.
+
+Overview of the APE along the northbound I-35 Frontage Road.................23
+
+Figure 10.
+
+Overview of the APE along the northbound I-35 Frontage Road
+depicting typical disturbances within the project area.................................23
+
+Figure 11.
+
+Overview of disturbances under the I-35 Bridge (facing east).................... 24
+
+Figure 12.
+
+Aerial of survey area with trench and shovel test locations marked...........25
+
+Figure 13.
+
+Photograph of a typical shovel test within the survey area..........................26
+
+Figure 14.
+
+Overview of Site 41HY534 within the APE (facing west)..............................26
+
+Figure 15.
+
+Site 41HY534 depicted on a recent aerial photograph................................ 27
+
+Figure 16.
+
+Lithic debris from shovel test JH-2.................................................................28
+
+Figure 17.
+
+Lithic Debris and glass from shovel test AG-6...............................................29
+
+Figure 18.
+
+Pump station located immediately adjacent to Site 41HY534....................29
+
+Figure 19.
+
+Profile drawing of BHT 1................................................................................. 31
+
+Figure 20.
+
+Profile drawing of BHT 3.................................................................................32
+
+Figure 21.
+
+Flake recorded in the wall of BHT 3...............................................................32
+
+Figure 22.
+
+Profile drawing of BHT 4.................................................................................33
+
+List of Tables
+Table 1.
+
+Artifacts documented within Site 41HY534..................................................28
+
+Table 2.
+
+Soil profiles for BHTs 1 through 6..................................................................30
+AmaTerra Environmental, Inc.
+
+vii
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+THIS PAGE IS INTENTIONALLY LEFT BLANK.
+
+viii
+
+AmaTerra Environmental, Inc.
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Chapter 1
+
+Introduction and Management Summary
+In February 2017, AmaTerra Environmental, Inc. (AmaTerra) conducted an archeological
+survey in advance of the proposed improvements to Interstate Highway (I) 35 from South
+of State Highway (SH) 80 to North of Ranch-to-Market (RM) 12 on behalf of the Texas
+Department of Transportation (TxDOT) in Hays County, Texas (CSJ No. 0016-03-114). The
+project is 2.58 miles in length and encompasses 116.7 acres of existing right-of-way (ROW)
+plus 0.298 acres of driveway licenses (Figure 1).
+Currently, I-35 is a six-lane divided highway with two-lane frontage roads running parallel
+to the highway. The proposed project would realign entrance and exit ramps, reconstruct
+frontage roads, make intersection improvements at SH 123, replace frontage road bridges
+over the San Marcos River and Willow Springs Creek, replace bridges at SH 123/Guadalupe
+Streets, and construct a new shared-use path along the northbound frontage road to
+accommodate bicycle and pedestrian use. The proposed improvements are designed to
+enhance mobility and accommodate increased traffic due to population growth and new
+development in the City of San Marcos.
+The project will require no new ROW, although 18 driveway licenses would be needed to
+accommodate access from adjacent properties. These driveway licenses would encompass
+0.298 acres in total.
+The Area of Potential Effects (APE) for archeological resources is defined as the footprint
+of the proposed project to the maximum depth of impact and project specific locations.
+Thus, the APE for archeological resources will cover a total distance of approximately 2.58
+miles and encompasses approximately 116.7 acres of existing ROW, plus 0.298 acres
+of driveway licenses. The maximum depth of impacts would be four feet or less except
+at Willow Springs Creek and the San Marcos River where impacts from new bridge piers
+would extend greater than 25 feet into the subsurface.
+The project is being funded with federal transportation dollars provided by FHWA and will
+take place on ROW owned by the State of Texas. Therefore, Section 106 of the National
+Historic Preservation Act (Section 106) and the Antiquities Code of Texas (ACT) apply.
+AmaTerraâs work conformed to the guidelines under 36 CFR Part 800 and 13 TAC Chapter
+26, which outline the regulations for implementing Section 106 and ACT, respectively.
+Currently, the majority of the APE is maintained as roadway, with commercial and
+residential development abutting it. These areas have almost no potential for archeological
+materials. However, the area around the San Marcos River has a very high number of
+previously recorded sites and background research suggests that the floodplain within
+the existing ROW could be relatively intact. Coordination with TxDOT resulted in a survey
+recommendation for the portion of the project around the San Marcos River and Willow
+Creek (Figure 2), where archeological materials could be present.
+AmaTerra Environmental, Inc.
+
+1
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+AmaTerraâs archeological investigations consisted of a pedestrian survey, shovel testing,
+and backhoe trenching within the designated survey area. Field investigations took place
+on February 8-10, 2017 under Texas Antiquities Permit No. 7880. Rachel Feit acted as
+Principal Investigator and Joshua Hill served as Project Archeologist. A total of 40 person
+hours were expended in the field in support of this project. Shovel testing and backhoe
+trenching around the San Marcos River did produce low density archeological materials
+consisting primarily of prehistoric flaking debris. Artifacts recorded in trenches east of
+the river are associated with site 41HY261, and were probably washed downslope. Site
+41HY534 was identified on the west side of the river on a terrace. However, no intact
+features were documented in either location, and in general investigators observed that
+soils within the survey were typically disturbed to a depth of approximately 30 centimeters.
+This report recommends that no further archeological work within the APE is warranted at
+this time. No artifacts were collected during this survey. All documents and photographs
+generated during fieldwork for this project will be curated at the Texas Archeological
+Research Laboratory (TARL).
+This report is divided into six chapters. The project background and cultural overview are
+discussed in Chapters 2 and 3. Chapter 4 includes the field methodology implemented
+during the project and the results of field investigations are discussed in Chapter 5. Chapter
+6 presents the summary and recommendations. Appendix A includes current schematics
+and profiles and Appendix B contains the shovel test results.
+
+2
+
+AmaTerra Environmental, Inc.
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Figure 1. Project location on the 2016 San Marcos, Texas 7.5â USGS topographic map.
+
+AmaTerra Environmental, Inc.
+
+3
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Figure 2. Designated AmaTerra survey area.
+
+4
+
+AmaTerra Environmental, Inc.
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Chapter 2
+
+Environmental Background and Setting
+The project area is located along I-35 in San Marcos, Texas in an area that is almost
+completely urbanized. Residential and commercial development around the project area
+has mostly occurred since the 1950s, and increased after the construction of I-35. Prior to
+the construction of the highway, most land around the APE was utilized for farming.
+
+2.1	Environmental Setting
+The project is located within the Blackland Prairie vegetative region (Stahl and McElvaney
+2012). More specifically, it is located within the San Marcos River Floodplain. In Texas, crop
+production (i.e., cotton, and grain sorghum) has thoroughly impacted the original Blackland
+Prairie (Omernik and Griffith 2009; Stahl and McElvaney 2012). Annually, the ecoregion
+receives approximately 33â34 inches of precipitation and has a mean air temperature of
+67 degrees Fahrenheit (USDA-NRCS 2016).
+The deep soil deposits of the Northern Blackland Prairie support numerous tall-mid
+grasses such as little bluestem (Schizachyrium scoparium), big bluestem (Andropogon
+gerardii), Indian grass (Sorghastrum nutans), tall dropseed (Sporobolus asper), eastern
+gamagrass (Tripsacum dactyloides), and switch grass (Panicum virgatum), which are the
+natural vegetative species for this environment (Omernik and Griffith 2009). In addition,
+mesquite (Prosopis glandulosa), pecan (Carya illinoinensis), hackberry (Celtis laevigata),
+juniper (Juniperus ashei), and live oak (Quercus virginiana) are often observed within
+the low flat woodlands along streams located within the Blackland Prairie (Omernik
+and Griffith 2013). Since the nineteenth century, human land modifications along with
+ranching/grazing activities have resulted in a dramatic increase in invader flora species
+(e.g., mesquite, buffalo grass).
+
+2.2	Topography
+Overall, the APE is flat plain, though the survey area is located within the terrace slopes
+flanking the San Marcos River and Willow Creek, which feeds into the San Marcos River
+east of the project area. Elevation within the survey area varies between 550 and 570 feet
+above mean sea level.
+
+2.3	Geology and Soils
+Geologically, the project area is characterized by alluvial sediments transported and
+deposited by the San Marcos River. The project crosses two natural waterways: the San
+Marcos River and Willow Springs Creek slightly to the south. According to the United States
+
+AmaTerra Environmental, Inc.
+
+5
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Department of Agriculture â Natural Resources Conservation Service (USDA-NRCS) Web
+Soil Survey (2016), soils within the APE consist of Krum Clay (1â3 percent slopes), Branyon
+clay (0â1 percent slopes), Houston black clay (1â3 percent slopes), Lewisville silty clay
+(1â3 percent slopes), and Tinn clay (0â1 percent slopes, frequently flooded). These soils
+are deep clays that develop atop Cretaceous limestone; however, surface sediments in
+the APE are primarily Holocene and Pleistocene alluvium associated with the San Marcos
+River drainage basin (Bureau of Economic Geology 1979). Holocene soils in undisturbed
+contexts tend to have high potential to contain buried intact archeological deposits and
+these deposits may extend beyond the maximum depth of manual shovel testing (80â100
+cm [31â39 inches]). According to the Potential Archeological Liability Map (PALM) for the
+Austin district (Abbott and Pletka 2015), the area around the San Marcos River is classified
+as having high potential (Map Units 6, and 9) for deep prehistoric archeological deposits,
+and moderate potential for shallow deposits. The remainder of the APE generally has low
+to moderate potential for prehistoric archeological remains (Figure 3).
+
+6
+
+AmaTerra Environmental, Inc.
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Figure 3. Project location depicted on the PALM.
+
+AmaTerra Environmental, Inc.
+
+7
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+THIS PAGE IS INTENTIONALLY LEFT BLANK.
+
+8
+
+AmaTerra Environmental, Inc.
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Chapter 3
+
+Cultural Background
+The project area is located within the Central Texas archeological region (Perttula 2004).
+The cultural chronology is typically divided into four major periods: Paleoindian (15,000â
+8500 years before present (BP)), Archaic (8500-1250 BP), Late Prehistoric (ca. 1250â
+250 BP), and Historic (250 BP to present) (Perttula 2004). The Prehistoric periods are
+principally defined by the presence of diagnostic projectile points and other technologies,
+but are intended to delineate change in socio-cultural patterns. However, cultural change
+proceeded at somewhat different rates across Texas. In some regions, hunting and
+gathering cultures persisted throughout prehistory; in others, cultures with farming and
+settled village life dominated. Prehistoric cultures in Central Texas appeared to maintain a
+hunter-gatherer lifestyle throughout the Archaic and into the Late Prehistoric Period, with
+moderate changes in technology.
+
+3.1	Paleoindian (ca. 15,000â8500 BP)
+The arrival of humans in the New World occurred between 16,000 and 14,500 BP
+(Gilbert et al. 2008, Pitblado 2011), and until recently, it was generally thought that
+the Paleoindian Period in Texas did not begin until around 12,000 BP (Perttula 2004).
+However, new evidence from the Debra Friedkin and Gault sites in Central Texas have
+begun to push the date of earliest occupation back to around 15,000 BP (Swaminathan
+2014; Gault School 2016). As the Pleistocene ended, diagnostic Paleoindian materials in
+the form of Clovis, Folsom, and Plainview projectile points began to enter the archeological
+record. These points were lanceolate-shaped and fluted for hafting to wooden spears.
+Using the launching momentum from atlatls (spear-throwers), large game such as
+mammoth, mastodons, bison, camel, and horse were hunted (Black 1989). In addition
+to megafauna, Paleoindian groups also subsisted on antelope, turtle, frogs, rabbit, fish,
+other small animals, and some flora (Bousman et al. 2004). Stylistic changes in projectile
+point technology occurred during this later portion of the period, eventually shifting to
+Dalton, Scottsbluff, and Golondrina traditions. While widespread in geographic range,
+these types occurred in high densities in the High Plains and Central Texas (Meltzer and
+Bever 1995). Environmental studies suggest that Late Pleistocene climates were wetter
+and cooler (Mauldin and Nickels 2001), gradually shifting to drier and warmer conditions
+during the Early Holocene (Bousman 1998). As megafauna gradually died off during the
+shift to warmer climates, subsistence patterns relied more upon smaller game and plant
+foraging.
+
+3.2
+
+Archaic in Central Texas (ca. 8500â1250 BP)
+
+The Archaic period, broadly divided into the Early, Middle, and Late Archaic sub-periods,
+signifies a more intensive exploitation of local floral and faunal resources with diversification
+AmaTerra Environmental, Inc.
+
+9
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+of lithic technologies (Collins 2004). The archeological record begins to indicate more
+widespread use of burned rock middens, a wider variety of site functions, and more
+localized geographic distributions of these materials.
+Hester places the Early Archaic between 7950 and 4450 BP based on Early Corner
+Notched and Early Basal Notched projectile points (1995:436â438). Collinsâ dating of the
+Early Archaic period to 8800â6000 BP is founded on unstemmed point types (1995:383).
+Around 8000 BP, styles transitioned to stemmed varieties such as the Martindale and
+Uvalde (Black 1989), but unstemmed Early Triangular points were also in use as well
+(Turner and Hester 1999). With the extinction of megafauna, changing subsistence
+patterns show an increased reliance on deer, fish, and plants. In the archeological record,
+this trend equates to greater densities of ground stone artifacts, fire-cracked rock midden
+features, and task specific tools such as Clear Fork gouges and Guadalupe and Nueces
+bifaces (Turner and Hester 1999). A great deal of Guadalupe Bifaces are recovered near
+river drainage systems like the San Antonio River, flowing toward the Gulf Coast off the
+Edwards Plateau, and are thought to function as primarily woodworking tools in a hafted
+capacity (Black and McGraw 1985). Most Early Archaic open-campsite concentrations
+were distributed along the eastern and southern margins of the Edwards Plateau in areas
+with reliable water sources. Population densities were relatively low and consisted of small
+bands with a fairly high degree of mobility (Story 1985:39). Loeve-Fox, Jetta Court, and
+Sleeper sites are representative sites of the Early Archaic (Collins 1995).
+Middle Archaic materials date from about 6000 to 4000 BP, with increased occurrence of
+multiuse bifacial knives and burned rock middens (Collins 1995). Diagnostic points from
+this period include Bell, Andice, Taylor, Nolan, and Travis. The Tortugas point also appears
+in Middle Archaic contexts and possibly earlier (Turner and Hester 1999). According to
+Collins (1995, 2004), large-game hunting of bison still occurred in the beginning of the
+Middle Archaic, and the climate became much drier toward the end of the Middle Archaic.
+This climatic change necessitated a heavier reliance on sotol and acorn harvesting (Collins
+2004; Weir 1976). An expansion of oak woodlands on the Edwards Plateau and Balcones
+Escarpment may have been conducive to the intensified exploitation of certain plants (Weir
+1976). This period also experienced population increases, and it is possible that previously
+scattered bands of hunter-gatherers began to combine harvesting and processing efforts
+(Weir 1976). Panthers Spring Site, Landslide, Wounded Eye, and Gibson sites demonstrate
+cultural trends of the Middle Archaic (Collins 1995).
+The last sub-period of the Archaic falls between 4000 and 800 BP (Collins 1995). Dart
+points of the Late Archaic are somewhat smaller, triangular points with corner notches
+such as the Ensor and Ellis (Turner and Hester 1999). Other Late Archaic points include
+Bulverde, Pedernales, Marshall, and Marcos (Collins 1995). It is not entirely clear whether
+this period experienced a rise (Collins 1995; Prewitt 1981) or decline (Black 1989) in
+population numbers, but large cemeteries, grave goods, and exotic trade items are known
+to occur at this time at sites such as Loma Sandia, Rudy Haiduk, Silo, Ernest Witte, and
+Morhiss Mound in Central and South Texas. Evidence from the Thunder Valley sinkhole
+cemetery has suggested that territoriality may have been a social feature of the Late
+10
+
+AmaTerra Environmental, Inc.
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Archaic, possibly as a result of population increase (Bement 1989). The frequency of
+burned rock middens and open campsites appears to increase. Characteristic Late Archaic
+sites include the Anthon and Loeve Fox sites (Collins 1995).
+
+3.3	Late Prehistoric (ca. 1250â250 BP)
+There exists some degree of overlap between diagnostic tools that are considered Late
+Archaic and Late Prehistoric, but the commonly held date for the beginning of this interval
+is 1250 BP. A hallmark transition for this period is the introduction of the bow and arrow,
+which enabled prehistoric hunters to harvest prey from greater distances with a lesser
+need for brushless, wide open spaces required for atlatl manoeuvrability. The use of arrows
+is indicated by smaller-sized projectile points such as Perdiz and Scallorn. Another turning
+point in the Late Prehistoric period is the first substantial presence of pottery in the northern
+South Texas Plain and Central Texas (Black 1989; Collins 2004; Story 1985). Incidences of
+burned rock middens and ground stone artifacts increased as Late Prehistoric populations
+relied more heavily on plant food consumption. Many Late Prehistoric sites rest along
+creeks during this period as opposed to dispersing along other landforms. Researchers
+generally agree that during the beginning of this period there was a drop in population
+(Black 1989). Although burned rock middens associated with Scallorn and Edwards points
+have been recorded (Goode 1991; Houk and Lohse 1993), most researchers argue that
+such cases are rare. However, the âheyday of middeneryâ eventually peaked during the
+Late Prehistoric (Black et al. 1997). Inter-group conflicts between various bands of huntergatherers may have also been an issue, based on evidence of arrow inflicted deaths
+seen in human remains from various Late Prehistoric cemeteries. Sites with distinct Late
+Prehistoric components include the Kyle, Smith, and Currie sites (Collins 1995). Interval
+divisions for this period are the Austin and Toyah phases. Johnson (1994) believes these
+phases may possibly be two distinct cultures (see Black et al. 1997).
+The Austin phase of the Late Prehistoric eventually demonstrated intensive use of burned
+rock middens (Black et al. 1997), and includes the appearance of diagnostic point types
+Scallorn and Edwards (Collins 1995; Turner and Hester 1999). During this phase, the use
+of burned rock middens is still quite widespread and may even be on the rise (Mauldin et
+al. 2003). The Toyah phase of the Late Prehistoric suggests interaction between Central
+Texas and ceramic-producing traditions in East and North Texas with the presence of bonetempered, plainware ceramics (Perttula et al. 1995). Ceramics were in common usage
+in East Texas by 2450 BP, but the first Central Texas plainwares did not appear until ca.
+650/700 BP. Other technological traits of this phase include the diagnostic Perdiz point,
+alternately beveled bifaces, and specialized processing kits as an adaption to flourishing
+bison populations (Ricklis 1992).
+
+3.4	Historic (250 BPâPresent)
+The effect that Europeans had on Indians in Texas prior to about 1700 is not wellunderstood. What is known is that the initial wave of Spanish and French missionaries
+AmaTerra Environmental, Inc.
+
+11
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+and explorers spread disease that killed, displaced, and fragmented a huge percentage
+of the population. Based on available information, the Historic Period in Central Texas is
+characterized by the displacement of indigenous groups by other Native American and
+Mexican groups (e.g. the Comanche and Coahuiltecan groups), and significant cultural
+and political change influenced by European contact (Collins 2004). Spanish Missions had
+little direct impact in Central Texas, but European influence had a significant impact on
+indigenous groups. Historians believe that pressures caused by European contact, directly
+or indirectly, led to intense territorial disputes, further destabilizing Native American
+populations. Archeological sites dating to this period contain a mix of both European
+(e.g., metal and glass arrow points, trade beads, and wheel-made or glazed ceramics) and
+traditional Native American artifacts (e.g., manufactured stone tools).
+European settlement in Hays County occurred in the mid-nineteenth century (Texas State
+Historical Association [TSHA] 2016). The early economy of the area was based on farming
+and ranching. The railroads began building lines through Hays County in the 1880s, which
+contributed to economic growth at the end of the nineteenth century (TSHA 2016).
+Several early Spanish colonization attempts occurred in San Marcos: In 1755 the Spanish
+established the San Xavier Missions and Presidio near the headwaters of the San Marcos
+River. These were moved after only eight months and the Spanish completely abandoned
+the area until 1808, when San Marcos de Neve was founded. Indian raids, however, caused
+settlers to flee by 1812, once again leaving San Marcos largely depopulated. It was not
+until 1846 that settlers of European descent returned to the San Marcos area. Thomas
+McGehee and William Moon are generally considered to be the first settlers in the area.
+McGehee settled near San Marcos Springs, while Moon settled on the site that became
+the town of San Marcos. Soon several members of Jack Haysâ Texas Rangers established
+homes and businesses near San Marcos. By 1848 two stagecoach lines ran from Austin
+to San Marcos. In 1851, Edward Burleson, William Lindsey and Eli Merriman laid out the
+town center. Lindsey operated a shingle production business, Burleson operated the first
+sawmill in San Marcos, and Merriman was the townâs first doctor. San Marcos became
+the regional center for ginning and milling agricultural products from around Hays and
+Comal Counties. Cattle and cotton were the leading products from surrounding farms and
+ranches (TSHA 2016).
+Growth of San Marcos was slow until 1881, when the International & Great Northern
+Railroad was built along the edge of town. Population doubled as a result of increased
+access to products, markets and other towns. In 1903 the Southwest Texas State Normal
+School (now Texas State) opened, along with the San Marcos Baptist Academy, and these
+universities drew additional population to the town. During the middle of the twentieth
+century, Aquarena Springs and Wonder Cave opened as visitor attractions and tourism also
+became an important industry in San Marcos. Today, the town relies heavily on the income
+and population generated from Texas State, and has become a bedroom community for
+neighbouring Austin (TSHA 2016).
+
+12
+
+AmaTerra Environmental, Inc.
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+3.5	Land Modifications and Historical Land Use
+Topographic maps from 1910â1911 show that the project APE was outside San Marcos
+town center. At that time, the APE contained a few farmhouses, mainly clustered around
+the San Marcos River and Willow Creek (Figure 4). A 1958 aerial photograph of the project
+area shows that I-35 was being built, and within the APE was mostly still a two-lane highway.
+Residential and commercial growth had spread from the town center to the APE (Figure 5).
+Currently, most of the property in and around the APE has been developed as roadway
+or for commercial use. The construction of I-35 and adjacent development has almost
+certainly destroyed the structures depicted in the APE on the 1910â1911 topographic
+maps.
+Residential or commercial land use abuts most of the APE. Common disturbances within
+the APE include artificially levelled and paved surfaces, soil berms, and buried utility lines
+and poles (Figures 6 and 7). Disturbances occur throughout the APE since residential and
+commercial development is prevalent in the area.
+
+AmaTerra Environmental, Inc.
+
+13
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Figure 4. Project location depicted on a 1911 USGS Topographic Map.
+
+14
+
+AmaTerra Environmental, Inc.
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Figure 5. Project location depicted on a 1958 aerial photograph.
+
+AmaTerra Environmental, Inc.
+
+15
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Figure 6. View of development and utility lines along the northbound I-35 Frontage Road (facing northeast).
+
+Figure 7. View of development along southbound I-35 Frontage Road facing southwest. Note the
+soil berm for the highway and paved areas associated with development along the APE.
+
+16
+
+AmaTerra Environmental, Inc.
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Chapter 4
+
+Previous Investigations
+A number of previous investigations have occurred within and around the APE and there
+are dozens of sites in and around San Marcos. Background research for this project
+consisted of an online records search through the Texas Historical Commissionâs (THC)
+Archeological Sites Atlas (Atlas; accessed April 2016) and a review of historical maps and
+aerial photographs. Research focused on the identification of archeological sites, sites
+listed as State Antiquities Landmarks (SALs), Recorded Texas Historic Landmarks (RTHLs),
+sites listed on the National Register of Historic Places (NRHP), Official Texas Historical
+Martkers (OTHMs), cemeteries, and previously conducted archeological surveys within
+0.62 miles (one kilometer) of the APE (Figure 8). The search identified 13 archeological
+sites, numerous previously conducted archeological surveys, five National Register sites
+and two National Register districts, one RTHL and two historical markers within a kilometer
+of the APE. Although none of these cultural resources are mapped in the APE, survey may
+reveal that one or more of the archeological sites extend into it. Further detail about the
+archeological sites is provided below:
+â¢ Site 41HY133 was recorded in 1977 as a multicomponent site observed on the surface
+and up to at least 80 centimeters below surface. It was listed as an SAL in 1987 and
+is considered eligible for listing in the NRHP. The site is located along the San Marcos
+River approximately 2,800 feet from the APE.
+â¢ Site 41HY134 was originally recorded in 1977 as a multicomponent site spanning
+the Paleoindian through historic periods. It was listed as an SAL in 2005 and is
+considered eligible for listing in the NRHP. The site is located along the San Marcos
+River approximately 300 feet from the APE.
+â¢ Site 41HY135 was recorded in 1977 as a prehistoric campsite on a prominent knoll
+overlooking the San Marcos River at its confluence with Purgatory Creek. It was listed
+as an SAL in 1987 and is considered eligible for listing in the NRHP. The site is located
+along the San Marcos River approximately 3,000 feet from the APE.
+â¢ Site 41HY141 was also originally recorded in 1977 as a multicomponent site spanning
+the Paleoindian through historic periods. It was listed as an SAL in 2005 and is
+considered eligible for listing in the NRHP. The site is located along the San Marcos
+River approximately 1,000 feet from the APE.
+â¢ Site 41HY164 was recorded in 1982 as the location of Thompsonâs Dam and Millrace.
+The site was part of an antebellum plantation during the mid-nineteenth century. Today
+the only structure features evident are the remains of a dam and millrace along the
+San Marcos River. Prehistoric features and artifacts have also been documented at
+
+AmaTerra Environmental, Inc.
+
+17
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+the site. The site is listed in the NRHP and as a SAL. The site is located approximately
+1,500 feet from the APE.
+â¢ Site 41HY166 is a prehistoric to historic period site, originally recorded in 1984. Site
+recorders noted Montell and Ensor dart points, along with a possible Castroville preform
+in shovel tests and backhoe trenches. Archeological deposits ranged in depth from
+10-150 centimeters below the surface. Other materials observed included burned rock,
+charcoal, bone and mussel shell and historic period materials. Further archeological
+testing to determine NRHP/SAL-eligibility was recommended. The site is located along
+the San Marcos River approximately 2,400 feet from the APE.
+â¢ Site 41HY167 was recorded in 1984 on the site of the former Fish Hatchery. It is a
+prehistoric site characterized by flakes, an arrow point preform, mussel shell, and bone
+buried up to depths of 55 centimeters below the surface. A basin-shaped charred
+lens of charcoal and burned rock was observed in one backhoe trench. Historic period
+debris was also noted in one corner of the site. Recorders indicated that the site has
+potential for NRHP/SAL-eligibility, but at present its eligibility is undetermined. The site
+is located approximately 3,300 feet from the APE.
+â¢ Site 41HY261 is a multicomponent Paleoindian through protohistoric period campsite,
+and historic period dam and millrace along the San Marcos River. The site was first
+recorded in 1994 and has been resurveyed and re-recorded several times since then. It
+is considered eligible for listing in the NRHP and was listed as a SAL in 2013. Although
+the site has been documented on multiple occasions no data recovery investigations
+have ever taken place. The site is located approximately 200 feet from the APE.
+â¢ Site 41HY393 was recorded in 2005 as a prehistoric site containing chert flakes, animal
+bone, charcoal and fire cracked rock in shovel tests to depths of 50 centimeters. No
+intact features were observed and the site was recommended as not eligible for listing
+in the NRHP. It is located 1,200 feet from the APE.
+â¢ Site 41HY425, also known as Rogerâs Ranch, represents the remains of a 1912â
+1950s river resort. The site was recorded in 2006 prior to City of San Marcos park
+improvements. Recorders observed house foundations and domestic debris in shovel
+tests and backhoe trenches. Further testing was recommended to determine NRHP/
+SAL-eligibility. The site is located approximately 1,500 feet from the APE in a city park.
+â¢ Site 41HY432 consists of a low density scatter of prehistoric lithic debitage and burned
+rock, located on the east bank of the San Marcos River. Artifacts were recovered
+between approximately 10 and 70 centimeters below the surface. It was recorded in
+2007 in advance of construction of a pedestrian bridge and recommended as not
+eligible for listing in the NRHP or as a SAL. The site is located approximately 3,300 feet
+from the APE.
+
+18
+
+AmaTerra Environmental, Inc.
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+â¢ Site 41HY489 was recorded in 2013 prior to construction of an apartment complex
+along the San Marcos River. It is a prehistoric lithic scatter with a historic period
+domestic debris component. Prehistoric materials consisted of secondary and tertiary
+flakes and one fire cracked rock. Historic period debris included whiteware, wire nails,
+a belt buckle, bottle glass shards, and various metal fragments. Material was observed
+on the surface and in shovel tests and was believed to extend deeper. Site recorders
+believed the site may be associated with Site 41HY164, Thompsonâs Dam and Millrace.
+The site was recommended for further testing along the river, but was determined to be
+not eligible where the apartments were constructed. The site is located approximately
+300 feet from the APE.
+â¢ Site 41HY517 is characterized by a historic period structure foundation and domestic
+debris scatter. It was recorded in 2015 during a survey of Veteranâs Park. Recorders
+documented eight building foundations still in place along with a window glass, nails,
+bottle glass, crown caps, and pop tops and other twentieth century debris. The site
+form notes that the area was formerly a neighborhood comprising about 30 houses.
+The site is located about 200 feet from the APE in Veteranâs Park. It is considered not
+eligible for NRHP/SAL-listing.
+To summarize, the search of previous investigations found many archeological sites within
+close proximity to the APE with the potential for four of them (Sites 41HY517, 41HY489,
+41HY134, and 41HY261) to extend into the APE. Of these four sites that may extend into
+the APE, three of them are listed in the NRHP or as SALs. Previous work in San Marcos has
+documented sites of both historic and prehistoric period significance and for this reason,
+an archeological survey was conducted in the APE around the San Marcos River.
+
+AmaTerra Environmental, Inc.
+
+19
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Figure 8. Map showing Atlas search results for cultural resources and surveys around the APE.
+
+20
+
+AmaTerra Environmental, Inc.
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Chapter 5
+
+Methodology
+Prior to the field investigations, archeologists conducted archival research to assess the
+potential for buried or near-surface historic archeological materials. This research involved
+examining historical maps (Perry-CastaÃ±eda Library 2016) and aerial photographs. As
+mentioned above, archeologists consulted soils and PALM data and the Atlas to assess the
+potential for prehistoric archeological sites within the APE. Consulting these resources not
+only allowed investigators to determine the presence of previously recorded archeological
+sites within the APE, but also to gain a sense of site types (e.g., historic or prehistoric),
+artifact types, and average depth of cultural material below the surface, among other
+things.
+Archeological investigations were carried out in accordance with the THC/Council of Texas
+Archeologists (CTA) survey standards (as referenced in 13 TAC 26.20 and THC policy).
+These standards recommend one test every 328 feet (100 m) for linear projects less than
+100 feet in width. AmaTerra physically inspected about 24.9 acres or about 0.5 miles
+of the total 116-acre APE which were determined to have potential to contain cultural
+resources. This inspection was conducted on foot through visual reconnaissance, through
+shovel tests and backhoe trenches. Archeologists observed multiple areas of disturbance,
+including bridges and bridge piers, drainage ditches, utility and gas lines, and paved
+areas. These areas were photographed, and archeologists made notes on the conditions
+they encountered during their investigations. Shovel tests were deemed unwarranted
+at a number of locations given the obvious disturbances. Archeologists shovel tested in
+some of these locations to confirm disturbance of soils. As a result, nine shovel tests
+were distributed throughout the APE in an effort to assess potential for any archeological
+remains.
+Shovel tests measured 30 cm in diameter and extended to a maximum depth of 80 cm
+below the surface or until restrictive features (e.g., water or basal clay) were encountered.
+The shovel tests were excavated in 10 cm increments and all soil was screened through
+a Â¼-inch hardware cloth. Relevant information for all shovel tests was recorded on a
+standardized form. Shovel tests were backfilled upon completion. This archeological
+investigation was a non-collection survey; therefore, any artifacts encountered during the
+course of the work were returned to their original location.
+Backhoe trenching along the San Marcos River and Willow Creek was conducted in
+accessible locations without obvious signs of disturbance to assess potential for deeply
+buried deposits. If buried archeological resources were present, backhoe trenches would
+help define the horizontal and vertical extent of those deposits. During this investigation, six
+trenches were excavated within the project area. Investigators screened a representative
+sample of each soil strata from the trenches. Profiles were recorded, and all trenches were
+photographed and documented on standardized forms.
+AmaTerra Environmental, Inc.
+
+21
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+An archeological site had to contain a certain number of cultural materials or features
+older than 50 years of age within a given area. The definition of a site is: (1) five or more
+surface artifacts within a 15-m (50-foot) radius; (2) a single cultural feature, such as a
+midden or cistern, observed on the surface or exposed during shovel testing; (3) a positive
+shovel test containing at least five total artifacts; or (4) two positive shovel tests located
+within 30 m (98 feet) of each other. Archeologists documented one area containing
+archeological material which met these criteria; it was designated Site 41HY534. Cultural
+material recorded in another location is probably associated with Site 41HY261.
+
+22
+
+AmaTerra Environmental, Inc.
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Chapter 6
+
+Results
+AmaTerra surveyed the APE through visual inspection, shovel testing, and backhoe
+trenching on February 8 through 10, 2017. Archeologists found the terrain to be largely flat,
+sloping towards the San Marcos River and Willow Creek, and the ROW was typically open
+with mowed grasses or interspersed with trees and shrubs along the drainages. Much of
+the project area has been disturbed by previous roadway construction and development
+along I-35, buried utilities, and modifications along drainages which cross the APE (Figures 9
+through 11).
+
+Figure 9. Overview of the APE
+along the northbound I-35
+Frontage Road (facing northeast).
+Note the marked utilities.
+
+Figure 10. Overview of the APE along
+the northbound I-35 Frontage Road
+depicting typical disturbances within
+the project area (facing northeast).
+
+AmaTerra Environmental, Inc.
+
+23
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Figure 11. Overview of disturbances
+under the I-35 Bridge (facing east).
+
+Investigators had access to the entire survey area, and surveyed all 24.9 acres within the
+identified high probability segment. The visual survey included a walkover inspection of
+the ground surface within the ROW. Surface visibility was typically low or poor in the survey
+area due to grass coverage and vegetation. No artifacts were observed on the surface
+during pedestrian survey.
+In addition to the visual inspection, nine shovel tests and six backhoe trenches were
+excavated within existing ROW in order to evaluate the APE for the presence of subsurface
+archeological deposits (Figure 12). Archeologists did not conduct subsurface excavation
+in obviously disturbed areas. These areas included the buried utility corridors along the
+frontage roads, soil berms, paved areas, and concrete-lined drainage facilities. Trenching
+was conducted along the San Marcos River and Willow Creek to investigate the potential for
+deeply buried archeological deposits. Trenches were placed in locations which appeared
+not to be previously disturbed where the backhoe could gain access. Two trenches were
+placed near Willow Creek and four were placed near the San Marcos River. Cultural
+materials associated with 41HY261 were documented in two of the trenches placed on the
+east bank of the San Marcos River. One new archeological site (41HY534) was documented
+within the survey area on the west side of the river, and five shovel tests excavated within
+the boundary contained cultural material.
+A typical soil profile in undisturbed areas of the APE consisted of a very dark grayish brown
+(10YR 3/2) or dark brown (10YR 3/3) silty clay which extended past 80 centimeters below
+surface (cmbs) or terminated between 40 and 80 cmbs when a yellowish brown (10YR
+5/6) or dark yellowish brown (10YR 4/4) clay was reached. In shovel tests disturbed soils
+did not typically extend deeper than 25 cmbs. Average shovel test depth was 70 cmbs,
+though shovel tests terminated between 40 and 80 cmbs (Figure 13). Cultural materials
+were observed in five shovel tests, which were all located on a terrace west of the river and
+south of the northbound I-35 frontage road in a location designated 41HY534.
+
+24
+
+AmaTerra Environmental, Inc.
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Figure 12. Aerial of survey area with trench and shovel test locations marked.
+
+AmaTerra Environmental, Inc.
+
+25
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Figure 13. Photograph of a typical
+shovel test within the survey area.
+
+6.1	Site 41HY534
+Site 41HY534 is located on a terrace bend of the San Marcos River of I-35 (Figures 14 and
+15). Within the APE, the site extends along approximately 60 meters of the northbound
+frontage road. The site was located via shovel testing within a three-meter strip of the
+ROW between a corridor of buried utilities and the edge of the APE. The site boundary
+within the APE was defined based on the presence of cultural material in that thin strip
+of intact landform. To the north of the site, steep slopes and extensive erosion make
+additional intact material unlikely. To the south, the ROW constricts and is wholly disturbed.
+Additionally, construction of a pump station and the roadway have disturbed archeological
+deposits within the existing ROW to varying degrees. The typical depth of disturbance was
+20 cmbs. Prehistoric components also likely extend southeast to the edge of the river,
+which probably defines the site boundary to the east and north. Investigators observed
+structural foundations outside the APE adjacent to the river, which may have impacted
+41HY534 if the site does extend to the edge of the terrace in that location.
+
+Figure 14. Overview of Site 41HY534 within the APE (facing west).
+26
+
+AmaTerra Environmental, Inc.
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Figure 15. Site 41HY534 depicted on a recent aerial photograph.
+
+AmaTerra Environmental, Inc.
+
+27
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Soil profiles within the site consisted of a mottled gravelly dark yellowish brown (10YR
+4/4) silty clay overlying a very dark grayish brown (10YR 3/2) silty clay. The upper zone
+is interpreted to be disturbed and mixed with fill material, while the lower zone was
+considered to be intact soil deposits. Shovel tests within the site typically extended to a
+depth of 70 cmbs until encountering highly compacted soils. One shovel test encountered
+brownish yellow (10YR 6/6) basal clay at approximately 40 cmbs.
+All five shovel tests excavated on the terrace within the APE contained cultural material
+(Table 1). Given the small sliver of testable land within the APE, this number of tests was
+judged sufficient to define the site limits with respect to the ROW. Artifacts recorded at the
+site include five flakes, seven pieces of lithic debris, three faunal bone fragments, and two
+shards of dark green glass (Figures 16 and 17). The glass shards were identified in disturbed
+soils, which also contained prehistoric materials, and are considered modern intrusions
+associated with the highway or the relocation of the pump station (Figure 18). The amount
+of prehistoric material recorded within the disturbed soil zone suggests that the site, as
+encountered within the APE, has limited integrity. No backhoe trenches were excavated at
+Site 41HY534 because impacts from the shared use path at this location will not extend
+below three feet. Site 41HY534 is a prehistoric site of unknown age, since no temporally
+diagnostic artifacts were recorded within the APE. The site probably extends outside of the
+APE and may contain eligible cultural deposits, but given the very narrow sliver of the site
+within the APE, no further work is recommended at this time.
+Table 1. Artifacts documented within Site 41HY534.
+ST #
+
+Cultural material
+
+AG-3
+
+2 lithic debris 35-40 cm & 1 lithic debris 40-50 cm
+
+AG-4
+
+2 lithic debris, 2 fauna 0-30cm; 1 flake, 1 fauna 60 cm; 1 flake 50cm & 1 flake 70 cm
+
+AG-5
+
+1 dk green glass, 1 flake 0-20 cm; 1 lithic debris 20-40cm
+
+AG-6
+
+1 dk green glass, 1 lithic debris 0-20 cm
+
+JH-2
+
+1 flake 25-80 cm
+
+Figure 16. Lithic debris from shovel test JH-2.
+
+28
+
+AmaTerra Environmental, Inc.
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Figure 17. Lithic Debris and
+glass from shovel test AG-6.
+
+Figure 18. Pump station located
+immediately adjacent to Site
+41HY534 (facing northeast).
+
+6.2	Trenching Results
+Six backhoe trenches (BHT) were excavated within the project area. Two were excavated
+around Willow Creek and four were placed around the San Marcos River (see Figure 12).
+Soil profiles typically consist of dark brown or dark yellowish brown silty clays overlying a
+brown or yellow brown basal clay deposit (Table 2). Neither trench placed near Willow Creek
+north of the highway (BHTs 1 and 2) recovered cultural material, but two (BHTs 3 and 4) of
+the four trenches placed on the east bank of the San Marcos River did uncover prehistoric
+cultural material.
+Trench 1 was placed near the southwest corner of the project area adjacent to a modified
+section of Willow Creek. Construction of the drainage did not impact the soil deposits, and
+trenching uncovered intact silty clay soils (Figure 19). The trench was terminated at 2.5
+meters in depth in a sterile clay deposit.
+
+AmaTerra Environmental, Inc.
+
+29
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Table 2. Soil profiles for BHTs 1 through 6.
+BHT 1
+
+BHT 2
+
+BHT 3
+
+BHT 4
+
+BHT 5
+
+BHT 6
+
+Zone
+
+Depth Range in cm
+
+Soil Color
+
+Soil Description
+
+1
+
+0â80
+
+Dark Yellowish
+Brown (10YR 3/4)
+
+Silty clay; abundance of roots
+in upper portion of zone
+
+2
+
+80â200
+
+Brown (10YR 5/3)
+
+Silty clay; 10% calcium carbonate
+and increase in gravel
+
+3
+
+200â250
+
+Yellowish Brown
+(10YR 5/6)
+
+Clay; 20% calcium carbonate
+and decrease in gravel
+
+Zone
+
+Depth Range in cm
+
+Soil Color
+
+Soil Description
+
+Observations
+
+1
+
+0â20
+
+Dark Brown (10YR 3/3)
+
+Organic A Horizon associated
+with grass/sod planting
+
+Disturbed
+
+2
+
+20â60
+
+N/A
+
+Crushed limestone construction fill
+
+Disturbed
+
+3
+
+60â250
+
+Dark Yellowish
+Brown (10YR 3/4)
+
+Base material mixed with
+10YR 3/4 soil; 80% rock
+
+Disturbed
+
+Zone
+
+Depth Range in cm
+
+Soil Color
+
+Soil Description
+
+Observations
+
+1
+
+0â40
+
+N/A
+
+Crushed limestone fill and asphalt
+
+Disturbed
+1 Flake
+Shell lens
+
+2
+
+40â80
+
+Dark Brown (10YR 3/3)
+
+Silty clay; 20% gravel, possible
+channel or alluvial eddy
+
+3
+
+80â120
+
+Dark Yellowish
+Brown (10YR 4/4)
+
+Silty clay; less gravel and
+more clay content
+
+4
+
+120+
+
+N/A
+
+Gley and Water Table
+
+Zone
+
+Depth Range in cm
+
+Soil Color
+
+Soil Description
+
+Observations
+
+1
+
+0â40
+
+Brown (10YR 5/3)
+
+Silty clay; high percentage
+of gravel, possibly old flood
+zone and/or disturbed
+
+Asphalt, modern trash
+
+2
+
+40â50
+
+Yellow (10YR 7/6)
+
+Sand; sandy lens may
+be an old sand bar
+
+3
+
+50â120
+
+Brown (10YR 4/3)
+
+Mottled clay
+
+4
+
+120â150
+
+N/A
+
+Gley and Water Table
+
+Zone
+
+Depth Range in cm
+
+Soil Color
+
+Soil Description
+
+1
+
+0â40
+
+Dark Yellowish
+Brown (10YR 3/4)
+
+Silty clay; crumbly clay,
+likely recently flooded
+
+2
+
+40â80
+
+Yellowish Brown
+(10YR 5/6)
+
+Clay; mottled and
+possibly disturbed
+
+3
+
+80â120
+
+Dark Yellowish
+Brown (10YR 4/4)
+
+Clay; may be partly disturbed
+
+4
+
+120â150
+
+N/A
+
+Gley and Water Table
+
+Zone
+
+Depth Range in cm
+
+Soil Color
+
+Soil Description
+
+Observations
+
+1
+
+0â60
+
+N/A
+
+Limestone construction fill
+
+Disturbed
+
+Dark Brown (10YR 3/3)
+
+Clay; mottled and
+possibly disturbed
+
+2
+
+30
+
+Observations
+
+60â150
+
+AmaTerra Environmental, Inc.
+
+1 flake
+
+Observations
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Figure 19. Profile drawing of BHT 1.
+
+Trench 2 was placed near Willow Creek, adjacent to the southbound I-35 Frontage Road.
+The trench profile confirmed the modification of this part of the APE by roadway construction
+and maintenance. A layer of topsoil overlays crushed limestone road grade and other fill
+material.
+Trench 3 was placed north of the southbound I-35 Frontage Road bridge near the frontage
+road connector east of the San Marcos River. The first 40 cmbs have been disturbed by
+roadway and bridge construction, but the rest of the deposit appears to be undisturbed
+alluvial deposits (Figure 20). The deposits in Zone 2 (40â80 cmbs) appear to be flood
+deposits, or an old drainage channel or alluvial eddy; one flake was recorded in these
+deposits (Figure 21). A 10-centimeter thick shell lens was recorded at 110 cmbs on the
+east side of BHT 3. It is probable that the flake recorded in Zone 2 was washed in from
+somewhere upslope or upriver based on the nature of the deposit.
+
+AmaTerra Environmental, Inc.
+
+31
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Figure 20. Profile drawing of BHT 3.
+
+Figure 21. Flake recorded in the wall of BHT 3.
+
+32
+
+AmaTerra Environmental, Inc.
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Trench 4 was placed southwest of BHT 3, adjacent to the river. Zone 1 (0â40 cmbs) is a
+flood deposit which has been at least partly disturbed based on the presence of asphalt
+and modern trash. Zone 1 is underlain by a 10-centimeter thick sand lens, which sits atop
+a clay deposit (Zone 3) (Figure 22). The water table was encountered at 1.5 meters below
+the surface. A small flake was recorded in the wall of Zone 3, and was the only artifact
+recorded within the trench.
+
+Figure 22. Profile drawing of BHT 4.
+
+Trench 5 was placed adjacent to the river between the highway bridge and the northbound
+frontage road. The deposits within the trench are mostly disturbed within the first 80 cm
+of the excavation. Zone 3 is a terrace deposit, which appears to have been excavated into
+previously. No cultural material was recorded in BHT 5 and the water table was encountered
+at 1.5 meters below the surface.
+Trench 6 was placed northeast of BHT 5 and south of the I-35 bridge. The deposits in BHT
+6 are significantly different than those recorded in BHTs 3, 4 and 5. Crushed limestone
+construction fill was recorded to a depth of 60 cmbs, and compacted mottled clay was
+encountered between 60 cmbs and 1.5 meters in depth. No cultural material was recorded
+in BHT 6.
+AmaTerra Environmental, Inc.
+
+33
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+6.2	Site 41HY261
+As previously described, two trenches (BHTs 3 and 4) contained a small amount of cultural
+material. BHT 3 documented a flake 40â80 cmbs and a thin shell lens at 100 cmbs. This
+shell lens was within a brown silty clay (10YR 4/4). BHT 4 contained one flake at a depth of
+50â120 cmbs within a brown mottled clay deposit (10YR 4/3). Both trenches were placed
+north of the southbound I-35 frontage road bridge between the San Marcos River and the
+frontage road connector. The water table within BHTs 3 and 4 was encountered at depths
+of 120â150 cmbs, preventing further exploration. Two additional trenches place nearby,
+BHTs 5 and 6, contained no cultural material. In the case of BHT 6, disturbances due to
+road construction were encountered to a depth of 60 cmbs.
+The flakes and shell material documented in the two trenches were attributed to existing
+Site 41HY261, which was recorded on the same side of the San Marcos River less
+than 200 feet north of the APE. Site boundaries for 41HY261 were therefore extended
+to include the area adjacent to the San Marcos River within the APE. According to the
+site form, Site 41HY261 consists of multiple prehistoric components ranging in age from
+Paleoindian through the Late Prehistoric periods. The main portion of the site, outside the
+APE, is considered eligible for listing in the NRHP and as a SAL. However, these multiple
+components were not documented within the APE. Given that the material encountered in
+BHTs 3 and 4 within the APE was sparse, it is recommended that what remains of the site
+within the APE is not eligible for NRHP/SAL listing and no further work is warranted.
+
+34
+
+AmaTerra Environmental, Inc.
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Chapter 7
+
+Conclusions and Recommendations
+On February 8 through 10, 2017, AmaTerra surveyed a segment of the I-35 corridor along
+which improvements have been proposed in San Marcos, Hays County, Texas. The project
+was conducted under the ACT and Section 106 of the NHPA and all work conformed to the
+guidelines for implementation of these regulations under 13 TAC Chapter 26 as well as 36
+CFR 800. Because work was conducted in conjunction with TxDOT, all work was subject to
+Section 106 review.
+AmaTerra archeologists conducted an intensive archeological survey of a segment along
+I-35 adjacent to the San Marcos River where improvements have been proposed for the
+highway and the Frontage Road. The surveyed area covered 24.9 acres of the total 116.7acre APE for the proposed project. One hundred percent of the segment was surveyed. The
+remainder of the APE did not warrant any archeological investigations, as it is completely
+disturbed from urban and roadway development and has no potential to contain intact
+resources. The survey included a visual inspection, nine shovel tests, and six backhoe
+trenches. The visual inspection revealed an APE heavily impacted by previous construction
+of the roadway, drainage modifications, and utility lines. Shovel testing revealed disturbed
+soils (very dark grayish brown or dark yellowish brown silty clays) on the surface throughout
+much of the APE. Shovel tests were distributed across the survey area of the APE to
+confirm disturbance and identify intact soils, which contained cultural deposits. Backhoe
+trenching was conducted along the San Marcos River and Willow Creek. Cultural material
+was encountered during shovel testing and trenching along the San Marcos River.
+Archeological deposits were only encountered on a terrace west of the river and the flood
+plain east of the river. One new prehistoric site, 41HY534 was documented on the west
+side of the San Marcos River within the APE. Five shovel tests were excavated where
+possible within the APE and all were positive for cultural material. The site likely extends
+well outside of the APE to occupy the entire terrace within a bend in the San Marcos River.
+These deposits have not been evaluated and therefore the overall eligibility of the site
+remains unknown. However, within the APE investigators noted extensive disturbance and
+very little of the site remains intact. No further work is recommended at 41HY534 within
+the APE.
+Cultural material found in two backhoe trenches was documented as an expansion of Site
+41HY261, previously recorded just north of the APE. Site 41HY261 is already considered
+eligible for NRHP/SAL-listing. However, like 41HY534, the material in these two trenches
+within the APE is sparse. It is recommended that the materials found within the ROW have
+no potential to contribute to the siteâs eligibility and therefore, no further investigations are
+warranted for Site 41HY261 within the APE.
+
+AmaTerra Environmental, Inc.
+
+35
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+This report recommends that no NRHP eligible archeological sites would be impacted
+within any of the APE for the I-35 project. In the unlikely event that construction activities
+should contact significant archeological deposits in areas already surveyed, all work in the
+vicinity should cease until such time as those materials can be evaluated by a professional
+archeologist and the results of that evaluation are reported to the THC.
+This report is submitted in fulfilment of Antiquities Permit No. 7880. No artifacts were
+collected during this survey. All documents and photographs generated during fieldwork
+for this project will be curated at TARL.
+
+36
+
+AmaTerra Environmental, Inc.
+
+References
+
+References
+Abbott, James T., and Scott Pletka
+2015 The Austin District HPALM Model. Texas Department of Transportation,
+Environmental Affairs Division, Austin.
+Bement, L. C.
+1989 Excavations at 41BP19: The Kennedy Bluffs Site, Bastrop County, Texas. Texas
+Archeological Research Laboratory, The University of Texas at Austin. Contract
+Reports in Archeology, Report No. 5, Highway Design Division, Texas State
+Department of Highways and Public Transportation, Austin.
+Black, S. L.
+1989 Central Texas Plateau Prairie. In From the Gulf to the Rio Grande: Human Adaptation
+in Central, South, and Lower Pecos Texas, by T. R. Hester, S. L. Black, D. G. Steele,
+B. W. Olive, A. A. Fox, K. J. Reinhard, and L. C. Bement, pp. 17â36. Research Series
+No. 33. Arkansas Archeological Survey, Fayetteville.
+Black, S. L., and A. J. McGraw
+1985 The Panther Springs Creek Site: Cultural Change and Continuity within the Upper
+Salado Creek Watershed, South-Central Texas. Archeological Survey Report No.
+100. Center for Archaeological Research, University of Texas at San Antonio.
+Black, S. L., L. W. Ellis, D. G. Creel, and G. T. Goode
+1997 Hot Rock Cooking on the Greater Edwards Plateau: Four Burned Rock Midden Sites
+in West Central Texas. Studies in Archeology 22. Texas Archeological Research
+Laboratory, The University of Texas at Austin. Archeology Studies Program, Report
+2, Environmental Affairs Division, Texas Department of Transportation.
+Bousman, C. B.
+1998 Paleoenvironmental Change in Central Texas: The Palynological Evidence. Plains
+Anthropologist 43 (164):201â219.
+Bousman, C.B., B. W. Baker, and A. C. Kerr
+2004 Paleoindian Archeology in Texas. In The Prehistory of Texas (T. Perttula, ed.). College
+Station: Texas A&M University Press. Pp. 15â100.
+Bureau of Economic Geology
+1979 Geologic Atlas of Texas, Seguin Sheet. Bureau of Economic Geology, Austin.
+AmaTerra Environmental, Inc.
+
+37
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Collins, M. B.
+1995 Forty Years of Archeology in Central Texas. Bulletin of the Texas Archeological
+Society 66:361â400.
+2004 Archeology in Central Texas. In The Prehistory of Texas (T. Perttula, ed.). College
+Station: Texas A&M University Press. Pp. 101â126.
+Gault School
+2016 âThe Gault Site.â http://www.gaultschool.org/, accessed online June 2016.
+Gilbert, M. T .P., D. L. Jenkins, A. Gotherstrom, N. Naveran, J. J. Sanchez, M. Hofreiter, P.
+F. Thomsen, J. Binladen, T. F. G. Higham, R. M. Yohe II, R. Parr, L. S. Cummings, and E.
+Willerslev
+2008 DNA from Pre-Clovis Human Coprolites in Oregon, North America. Science 320:
+786â789.
+Goode, G. T.
+1991 Late Prehistoric Burned Rock Middens in Central Texas. In The Burned Rock
+Middens of Texas: An Archeological Symposium, edited by T. R. Hester, pp. 71â93.
+Studies in Archeology 13. Texas Archeological Research Laboratory, The University
+of Texas Austin.
+Houk, B. A., and J. C. Lohse
+1993 Archeological Investigations at the Mingo Site, Bandera County, Texas. Bulletin of
+the Texas Archeological Society 61:193â247.
+Johnson, L.
+1994 The Life and Times of Toyah-Culture Folk: The Buckhollow Encampment, Site
+41KM16, Kimble County, Texas. Office of the State Archeologist Report 38. Texas
+Department of Transportation and Texas Historical Commission, Austin.
+Mauldin, R. P., and D. L. Nickels
+2001 An Archaeological Survey of Twin Buttes Reservoir, Tom Green County, Texas.
+Archaeological Survey Report No. 300. Center for Archaeological Research, the
+University of Texas at San Antonio.
+Meltzer D. J., and M. R. Bever
+1995 Paleoindians of Texas: An Update on the Texas Clovis Fluted Point Survey. Bulletin
+of the Texas Archeological Society 66:47â81.
+
+38
+
+AmaTerra Environmental, Inc.
+
+References
+
+Omernik, G. E., and J. M. Griffith
+2009 Ecoregions of Texas (EPA) â The Encyclopedia of Earth. Electronic document, http://
+www.eoearth.org/view/article/152207/, accessed March 2016.
+Perttula, T. K. (Editor)
+2004 The Prehistory of Texas. Texas A&M Press, College Station.
+Perttula, T. K., M. R. Miller, R. A. Ricklis, D. J. Prikryl, and C. Lintz
+1995 Prehistoric and Historic Aboriginal Ceramics in Texas. Bulletin of the Texas
+Archeological Society 66:175â235.
+Pitblado, B. L.
+2011 A Tale of Two Migrations: Reconciling Recent Biological and Archaeological Evidence
+for the Pleistocene Peopling of the Americas. Journal of Archaeological Research
+19(4): 327â375.
+Prewitt, E. R.
+1981 Cultural Chronology in Central Texas. Bulletin of the Texas Archeological 52: 65â89.
+Ricklis, R. A.
+1992 The Spread of the Late Prehistoric Bison Hunting Complex: Evidence from the
+South-Central Coastal Prairie of Texas. Plains Anthropologist 37(140):261â273.
+Stahl, C., and R. McElvaney
+2012 Trees of Texas: An Easy Guide to Leaf Identification. Texas A&M University Press,
+College Station.
+Story, D. A.
+1985 Adaptive Strategies of Archaic Cultures of the West Gulf Coastal Plain. In Prehistoric
+Food Production in North America, edited by R. I. Ford, pp. 19â56. Anthropological
+Papers No. 75. Museum of Anthropology, University of Michigan, Ann Arbor.
+Swaminathan, N.
+2014 Debra L. Friedkin Site. American Archaeology Magazine Online. http://www.
+archaeology.org/issues/145-1409/features/2371-peopling-the-americas-friedkinsite, accessed June 2016.
+Texas Historical Commission
+2016 Texas Archeological Sites Atlas Online. Electronic document, http://nueces.thc.
+state.tx.us/, accessed August 2016.
+AmaTerra Environmental, Inc.
+
+39
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+Texas State Historical Association (TSHA)
+2016 âHays Countyâ in The Handbook of Texas Online. Electronic document, https://
+tshaonline.org/handbook/online/articles/hch11, accessed August 2016.
+2016 âSan Marcosâ in The Handbook of Texas Online. Electronic document, https://
+tshaonline.org/handbook/online/articles/hes02, accessed August 2016.
+Turner, S. E., and T. R. Hester
+1999 Stone Artifacts of Texas Indians. 3rd ed. Texas Monthly and Gulf Publishing Co.,
+Houston, Texas.
+United States Department of Agriculture, Natural Resources Conservation Service
+(USDA-NRCS)
+2016 Hays County, Texas â Web Soil Survey. Electronic document, http://websoilsurvey.
+nrcs.usda.gov/app/WebSoilSurvey.asp, accessed on August 2016.
+University of Texas Perry-CastaÃ±eda Library Map Collection
+2016 University of Texas at Austin. Online at http://www.lib.utexas.edu/maps/, accessed
+August 2016.
+Weir, F. A.
+1976 The Central Texas Archaic. Unpublished PhD dissertation, Department of
+Anthropology, Washington State University, Pullman.
+
+40
+
+AmaTerra Environmental, Inc.
+
+Appendix A
+
+Appendix A.
+
+Project Schematics
+
+AmaTerra Environmental, Inc.
+
+A-1
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+THIS PAGE IS INTENTIONALLY LEFT BLANK.
+
+A-2
+
+AmaTerra Environmental, Inc.
+
+Exhibit 4
+
+Exhibit 4
+
+Exhibit 4
+
+Exhibit 4
+
+Exhibit 4
+
+Exhibit 4
+
+Exhibit 4
+
+Exhibit 5
+
+Appendix B
+
+Appendix B
+
+Shovel Test Log
+
+AmaTerra Environmental, Inc.
+
+B-1
+
+Archeological Resource Survey of I-35, South of SH 80 to North of RM 12, Hays County, Texas
+
+B-2
+
+AmaTerra Environmental, Inc.
+
+Hays
+
+Hays
+
+Hays
+
+Hays
+
+Hays
+
+AG-4
+
+AG-5
+
+AG-5
+
+AG-6
+
+AG-6
+
+Hays
+
+Hays
+
+AG-4
+
+Hays
+
+Hays
+
+AG-4
+
+JH-3
+
+Hays
+
+AG-3
+
+JH-2
+
+Hays
+
+AG-3
+
+Hays
+
+Hays
+
+AG-3
+
+JH-2
+
+Hays
+
+AG-2
+
+Hays
+
+Hays
+
+AG-1
+
+JH-1
+
+County
+
+ST #
+
+3305345
+
+3305303
+
+3305303
+
+3305167
+
+3305273
+
+3305273
+
+3305279
+
+3305279
+
+3305298
+
+3305298
+
+3305298
+
+3305289
+
+3305289
+
+3305289
+
+3305180
+
+3305182
+
+Northing
+
+603204
+
+603153
+
+603153
+
+602811
+
+603103
+
+603103
+
+603113
+
+603113
+
+603139
+
+603139
+
+603139
+
+603128
+
+603128
+
+603128
+
+602819
+
+602830
+
+Easting
+
+0-40
+
+25-80
+
+0-25
+
+0-80
+
+40-45
+
+0-40
+
+30-60
+
+0-30
+
+35-70
+
+15-35
+
+0-15
+
+35-70
+
+20-35
+
+0-20
+
+0-80
+
+0-60
+
+Depth
+
+10YR 4/3
+
+10YR 3/2
+
+10YR 4/4
+
+10YR 3/2
+
+10YR 6/6
+
+10YR 3/2
+
+7.5YR 3/4
+
+10YR 3/2
+
+7.5YR 3/4
+
+10YR 3/2
+
+10YR 4/4
+
+7.5YR 3/4
+
+10YR 3/3
+
+10YR 3/3
+
+10YR 3/3
+
+Color
+
+SiCl
+
+SiCl
+
+SiLo
+
+SiCl
+
+Cl
+
+SiCl
+
+SiCl
+
+SiCl
+
+SiCl
+
+SiCl
+
+SiCl
+
+SiCl
+
+SiCl
+
+Road fill
+
+SiCl, 3% CaCO3
+
+Cl, 5% CaCO3
+
+Texture
+
+Water table @ 35cm
+
+Disturbed 0-25cm,
+road gravel
+
+3% CaCO3
+
+less disturbed than
+AG-3 and AG-4
+
+10% gravel
+
+Crushed limestone
+fill from road
+
+Between I-35
+and drainage
+
+Between I-35 and
+drainage; root @ 60cm
+
+Disturbance
+
+1 flake 25-80 cm
+
+brown bottle glass 0-20 cm
+
+1 dk green glass, 1
+lithic debris 0-20 cm
+
+1 dk green glass, 1 flake 0-20
+cm; 1 lithic debris 20-40cm
+
+2 lithic debris, 2 fauna
+0-30cm; 1 flake, 1 fauna
+60 cm; 1 flake 50cm
+& 1 flake 70 cm
+
+2 lithic debris 35-40 cm &
+1 lithic debris 40-50 cm
+
+Cultural material
+
+2/8/2017
+
+2/8/2017
+
+2/8/2017
+
+2/8/2017
+
+2/9/2017
+
+2/9/2017
+
+2/9/2017
+
+2/9/2017
+
+2/9/2017
+
+2/9/2017
+
+2/9/2017
+
+2/9/2017
+
+2/9/2017
+
+2/9/2017
+
+2/8/2017
+
+2/8/2017
+
+Date
+
+J. Hill
+
+J. Hill
+
+J. Hill
+
+J. Hill
+
+A. Goldstein
+
+A. Goldstein
+
+A. Goldstein
+
+A. Goldstein
+
+A. Goldstein
+
+A. Goldstein
+
+A. Goldstein
+
+A. Goldstein
+
+A. Goldstein
+
+A. Goldstein
+
+A. Goldstein
+
+A. Goldstein
+
+Excavator
+
+Appendix B
+
+AmaTerra Environmental, Inc.
+
+B-3
+
+THIS PAGE IS INTENTIONALLY LEFT BLANK.
+
+This report was written on behalf of the Texas Department of Transportation by:
+
+Â© 2016 by AmaTerra Environmental, Inc.
+4009 Banister Lane, Suite 300
+Austin, Texas 78704
+Technical Report No. 193
+AmaTerra Project No. 130-011 TASK 3
+
+

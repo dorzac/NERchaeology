@@ -1,0 +1,1149 @@
+AR Consultants, Inc.
+Archaeological and Environmental Consulting
+P.O. Box 820727, Dallas, Texas 75382-0727
+Phone:
+(214) 368-0478
+Fax:
+(214) 361-6762
+E-mail: arcdigs@aol.com
+
+ARCHAEOLOGICAL MONITORING OF THE
+BUFFALO CREEK INTERCEPTOR PIPELINE ROUTE:
+
+SOUTH OF THE GILKEY HILL SITE,
+&
+ALONG SOUTH MESQUITE CREEK
+DALLAS COUNTY, TEXAS
+Texas Antiquities Permit Numbers 4697 & 4756
+
+Lance K. Trask, BS
+Johnny A Byers, MS
+and
+Jesse Todd, MS, MA
+
+Submitted to:
+
+FREESE AND NICHOLS, INC.
+4055 International Plaza, Suite 200
+Fort Worth, Texas 76102
+Prepared by:
+AR CONSULTANTS, INC.
+P. O. Box 820727
+Dallas, Texas 75382
+Cultural Resources Report 2008-52
+June 24, 2008
+
+HISTORIC BUILDINGS
+
+ARCHAEOLOGY
+
+NATURAL SCIENCES
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+ARCHAEOLOGICAL MONITORING OF THE
+BUFFALO CREEK INTERCEPTOR PIPELINE ROUTE:
+
+SOUTH OF THE GILKEY HILL SITE,
+&
+ALONG SOUTH MESQUITE CREEK
+DALLAS COUNTY, TEXAS
+
+Texas Antiquities Permit Numbers 4697 & 4756
+
+Lance K. Trask, BS
+Johnny A Byers, MS
+and
+Jesse Todd, MS, MA
+
+Submitted to:
+
+FREESE AND NICHOLS, INC.
+4055 International Plaza, Suite 200
+Fort Worth, Texas 76102
+Prepared by:
+AR CONSULTANTS, INC.
+P.O. Box 820727
+Dallas, Texas 75382
+Cultural Resources Report 2008-52
+June 24, 2008
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+i
+
+ABSTRACT
+During January through June 2008 the Buffalo Creek Interceptor pipeline excavation was
+monitored at two locations along the pipeline route. The first location was on the eastern
+edge of the floodplain of the East Fork of the Trinity River (the East Fork). The second
+location was on the western edge of the floodplain of the East Fork and included two
+crossings of South Mesquite Creek.
+The east location was monitored for a distance of approximately 225 meters along the
+south side of the Gilkey Hill site (41DL406). During the monitoring, two hand-dug pits
+associated with the prehistoric site were uncovered. Work was halted and measurements
+and samples were taken from both features and it was determined that they had been
+emptied or abandoned when the prehistoric site was last used. Subsequent erosion had
+filled each feature with 99% soil with the remaining percent of the matrix being
+composed of mussel shell, animal bone, fire-cracked rock, lithic debris, and charcoal.
+After the above was completed, excavation was allowed to continue and no other features
+were encountered. A sample of material from Feature 1 was sent to Beta Analytic, Inc for
+a radiocarbon date. That sample (Beta 241788) yielded a Measured Radiocarbon Age of
+790 +/- 40 BP. The 2 Sigma Calibration indicated a date of AD 1170 to 1280.
+Once the pipeline crossed the slough of the East Fork monitoring ceased as ARC
+determined that the chances for encountering any cultural materials in the recent
+floodplain sediments were close to zero.
+The west location was monitored for a distance of approximately 550 meters. The trench
+was excavated to a depth of 6.4-6.5 meters allowing good exposure of underlying
+sediments and soils. Analysis of the south wall profile revealed a remarkably stable land
+form with a recent Entisol covering two well developed buried soils. The first buried soil
+suggests a Late Holocene age, while the second buried soil indicates a Late Pleistocene
+age. There was a potential for archaeological residues at the surface of the first buried
+soil, but none were encountered.
+Based on the monitoring results it is determined that the potential for buried remains is
+high on the east side of the East Fork. The potential for buried remains in the west
+location is low.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+ii
+
+TABLE OF CONTENTS
+Abstract.............................................................................................………..
+Table of Contents……………………………………………………………
+List of Figures...................................................................................………..
+List of Tables………………………………………………………………..
+Introduction .......................................................................................……….
+Natural Environment…………………………………………………………
+Archaeological History of the Gilkey Hill Site Investigations………..……..
+Research Design and Methodology…...................................................……..
+Results...............................................................................................………..
+Conclusions………………………………………………………………….
+Recommendations.............................................................................………..
+References Cited...............................................................................………..
+
+i
+ii
+ii
+iii
+1
+3
+4
+5
+7
+17
+26
+27
+
+LIST OF FIGURES
+Figure 1.
+
+Figure 2.
+Figure 3
+Figure 4.
+Figure 5.
+Figure 6.
+Figure 7.
+
+Pipeline route, general location of the Gilkey Hill site,
+and pipeline installations monitored. Plotted on a map
+provided by Freese and Nichols, Inc.………………………..
+Picture showing high water mark on floodplain trees………
+Portion of the Seagoville, 7.5' USGS map showing
+monitoring area and features discovered during excavation…
+Feature 1 exposed in the north wall of the pipeline trench.
+View north…………………………………………………..
+Feature 2 exposed in north wall of the trench.………………
+Photo of numerous flood sequences exposed in trench
+wall after one of many collapses. View is to the NE………......
+Portion of the Seagoville, 7.5' USGS map showing
+monitoring area………………………………………………
+
+1
+4
+7
+8
+9
+10
+11
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+Figure 8.
+
+Figure 9.
+
+Note the recent inset deposits in Profile 1 that includes
+three buried soils. In contrast, Profile 2 contains two
+deeply buried soils below 2.3 meters of a fairly well
+developed Entisol. The two lower buried soils are the
+same despite differing nomenclature in profile description.
+See Table 1 for descriptions…………………………………....
+Geologic cross section of South Mesquite Creek
+floodplain. Note buried soils sample 1 is a bone
+concentration; sample 2 a burned feature and there
+is a large backfilled area in center of cross-section………….......
+
+iii
+
+13
+
+16
+
+LIST OF TABLES
+Table 1.
+
+Profile descriptions for soil profiles 1 and 2…..…………….
+
+14
+
+r-arc Gilkey Hill site
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+1
+
+INTRODUCTION
+After AR Consultants, Inc. (Todd and Skinner 2006) tested the Gilkey Hill site
+(41DL406), monitoring during construction was recommended where the proposed
+Buffalo Creek Interceptor pipeline route would cross the southern edge of the site, east of
+the slough and where the pipeline would cross South Mesquite Creek. The US Army
+Corps of Engineers and the Archeology Division of the Texas Historical Commission
+agreed with this recommendation. The pipeline will be installed near the northwest end of
+Wiser Rd in Kaufman County then proceed west, crossing the floodplain of the East
+Fork, cross South Mesquite Creek twice and will end at the City of Mesquite Waste
+Water Treatment Plant east of Lawson Rd (Figure 1). In early January of 2008, AR
+Consultants, Inc. began monitoring the excavation of the proposed pipeline route.
+
+Figure 1.
+
+Pipeline route, general location of the Gilkey Hill site, and pipeline
+installations monitored. Plotted on a map provided by Freese and Nichols,
+Inc.
+
+The monitoring was done under a subcontract agreement with Freese and Nichols, Inc.
+which is providing engineering and environmental permitting for NTMWD. The
+investigation was done because NTMWD is a political entity of the State of Texas as
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+2
+
+defined by the Texas Antiquities Code. In addition a nationwide permit authorization was
+issued by the Corps of Engineers because the pipeline corridor would temporarily impact
+waters of the United States. The Archeology Division of the Texas Historical
+Commission will review this report as part of the Antiquities Permit process and as the
+Section 106 review agency for the Corps of Engineers.
+This report has been written in accordance with the report guidelines prepared by the
+Council of Texas Archeologists (ND) and adopted by the Archeology Division of the
+Texas Historical Commission. The following report presents a brief description of the
+natural and cultural environment of the area. This is followed by the research design and
+methodology. The results of the investigation follow and constitute the body of the
+report. The last chapter presents recommendations that arise from the study. A list of
+references cited concludes the report.
+
+Administrative Information:
+Sponsor:
+Review Agencies:
+
+Principal Investigator:
+Field Crew:
+
+North Texas Municipal Water District
+Fort Worth District, Corps of Engineers and the
+Archeology Division of the Texas Historical
+Commission
+Jesse Todd, MS, MA
+Lance K. Trask, Johnny A. Byers and Todd
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+3
+
+NATURAL ENVIRONMENT
+The Upper Trinity River Basin, of which the East Fork is a part, lies within North Central
+Texas. The basin is located within the northern portion of the Gulf Coastal Plain, and has
+developed entirely over Pennsylvanian and Cretaceous sedimentary rocks. Hill (1901)
+was the first to record the youthful nature of the Trinity River noting that it was younger
+than the through flowing rivers of the Red, Brazos, Colorado, Cimarron, and Canadian.
+Most Quaternary research of the Trinity River Basin has concentrated mainly on the Elm
+Fork and portions of the West Fork. The most recent research of the geologic history of
+the Upper Trinity River comes from investigations conducted by Ferring during the
+construction of Lake Ray Roberts (Ferring, 2000, 1994). In contrast, little is known of the
+geologic history of the East Fork, except for the seminal work of Thurmond (1967). His
+was a balanced approach using topography, soil maps, subsurface data, and paleontologic
+evidence, and correlated his work with previous investigators. He noted three welldeveloped terraces along the East Fork of the Trinity. The majority of his research
+centered on the T-2 terrace with its rich Rancholabrean faunal record. Significantly, he
+used borehole data, detailed stratigraphic descriptions, and two molluscan local faunas to
+demonstrate that the T-1 terrace was aggraded from about 23 to 19 ka. Insightfully, he
+noted that there was a period of down cutting at 10 ka followed by rapid aggradation and
+a thick buried soil under the modern floodplain.
+The Upper Trinity River Basin is in the Texan biotic province where sandy alfisols
+support oak-hickory forests of the Cross Timbers and clayey mollisols and vertisols
+support tall and mixed grass prairies on the Blackland and Grand Praries.
+The site location is mapped as a Quaternary fluvatile terrace deposit and the adjacent East
+Fork floodplain is mapped as containing Quaternary alluvium (Bureau of Economic
+Geology 1988). The soil association is Trinity-Frio (Coffee, Hill and Ressel
+1980:General Soils Map). The soil within the East Fork floodplain is mapped as
+frequently flooded Frio and the site location is mapped as Lewisville silty clay with 1 to 3
+percent slopes (Coffee et al. 1980:Sheet 49). The B horizon for the Lewisville silty clay is
+described as being 15 inches below the ground surface (Coffee et al. 1980:63).
+Much of the floodplain has been farmed for the past hundred years but previously it was a
+bottomland hardwood floodplain forest that would have provided a variety of plant and
+animal resources from both the forest and the riparian settings in and adjacent to the East
+Fork. As with most floodplain settings in large river systems, and the East Fork falls into
+that category, there is annual flooding where large parts of the bottomland are under
+water. This inundation can be for only a few days or flooding can last for weeks. Indeed,
+inundation for longer than a few days occurred in 2007 when the area around the Gilkey
+Hill site was flooded.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+4
+
+The Gilkey Hill
+site (41DL406)
+has
+been
+mapped
+as
+occupying the
+western edge of
+a ride that juts
+into the east
+side
+of
+the
+floodplain of the
+East Fork. The
+ridge, although
+not indicated on
+topographic
+maps as a ridge
+per se due to the
+slight elevation
+change, is high
+enough above
+the floodplain
+that it stays dry
+Figure 2.
+High water level mark shown on trees in the East Fork
+during
+most
+Floodplain .
+floods. As an
+example, during the flooding of 2007, the water was in place long enough to leave
+distinct high water marks on all the tree trunks in the floodplain (Figure 2). This site was
+above that flooding episode. Immediately to the west of the site is an active slough that
+was likely flowing when the site was occupied.
+
+ARCHAEOLOGICAL HISTORY OF THE
+GILKEY HILL SITE INVESTIGATIONS
+AR Consultants, Inc. (Skinner 2001) conducted an archaeological survey of a proposed
+pipeline route across the floodplain of the East Fork. During the survey, a site initially
+designated the School Desk site and numbered 41DL406 was recorded. Subsequent
+archival research indicated that the site was actually the Gilkey Hill site which had been
+recorded by R. King Harris (Harris 1942) as being in Kaufman County.
+Harris (1942) referred to the site as the Gilkey Hill pottery site. He found several cooking
+pits and middens containing flint chips, burned projectile points, bone and shell. Some of
+the artifacts were noted on the surface. Lithic tools recovered included arrow and dart
+points, drills, knives and scrapers. Polished stone artifacts include a boatstone fragment,
+gorgets, a net sinker, and a grooved axe. Several deer flaking tools along with bone
+needles and a mussel shell hoe were also found. In addition, several East Texas pottery
+sherds were collected. Importantly, three burials or parts of burials were recovered. An
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+5
+
+adult male skeleton and the skeleton of an individual that was possibly between 12 and
+18 years old were recovered. A skull was also found.
+The site covered approximately 15 acres in two locations. The larger portion of the site
+consists of about 14 acres, was nearer the river and located on a small rise which extends
+to the bottoms. The smaller portion of the site is about 1 acre and is located on top of the
+high hill which overlooks the river and the larger portion of the site. The portion of the
+site on the high hill is probably Archaic and the rest of the site appears to be Late
+Prehistoric in age. Harris also mentions the presence of cooking pits and burials at the
+lower site. Harris collected 292 artifacts from the site including such items as pottery,
+dart points, arrow points, bone tools, metate, bifaces, a gorget, etc. from along the ridge.
+Dart points consist of Gary, Ellis and Yarborough and arrow points include Alba,
+Catahoula, Perdiz, Scallorn, Fresno and Washita. Also, 119 pottery sherds were
+recovered from the site.
+In 2006, AR Consultants, Inc. (Todd and Skinner 2006) conducted testing and backhoe
+trenching at that part of the Gilkey Hill site immediately adjacent to an active slough at
+the eastern edge of the East Fork floodplain. Five backhoe trenches were excavated
+within the Buffalo Creek Interceptor pipeline route and 3 north of it. No burials or
+cultural features were found in the trenches. In addition, 16 50x50 cm test units, 4 of
+which were in the Buffalo Creek Interceptor pipeline route, were excavated. A total of
+1,562 artifacts were recovered from the test units. Approximately 75 percent (1,172) of
+the artifacts were recovered from the upper 40 cm which, according to a radiocarbon
+date, was less than 500 years old.
+Only five diagnostic tools were recovered. Three dart points (a reworked Gary, a
+Yarborough that was broken during manufacture and a Keithville variety San Patrice or a
+Keithville), the base of an untyped triangular arrow point and a cobble hammerstone were
+found. A punctuated sherd was recovered that is similar to Caddoan sherds was the only
+other diagnostic artifact recovered. One result of the testing was the discovery of charcoal
+that was thought to be from a feature. Included with the charcoal were mussel shell and
+some lithic debris. Further excavation and analysis determined that the charcoal was from
+a burned tree and the cultural material, the mussel shell and lithic debris, had been
+washed into a natural depression, along with the charcoal. These materials were collected
+at approximately 35 cm below the ground surface. Testing yielded a radiocarbon date of
+290+40 BP (AD 1490-1660).
+
+RESEARCH DESIGN AND METHODOLOGY
+Research Design
+Little is known about not only the geology but the cultural history along the East Fork of
+the Trinity River. Since AR Consultants, Inc. already had trenched most of the proposed
+pipeline route across the Gilkey Hill site, attention was focused on the area around the
+slough, which may be a paleo-channel of the East Fork.
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+6
+
+No studies of areas adjacent to and across a drainage from a site have been done in the
+East Fork’s floodplain. Our contention was that work/midden areas possibly could exist
+on the west side of the slough although we had no evidence to draw this conclusion.
+Based upon previous experience along the East Fork (Skinner et al. 2002; Skinner and
+Todd 2006; Todd 2006), it was felt that work/midden areas would be buried at least a
+meter below the present ground surface of the floodplain and not on the terrace where the
+site is located.
+Since the proposed pipeline will come in close proximity to the part of the Gilkey Hill
+site immediately adjacent to an active slough, monitoring was done on that portion
+closest to the floodplain. Testing along the route east did not encounter the other part of
+the site where it is thought the Archaic component is located. That part of the site has yet
+to be relocated and tested and is not part of the monitoring.
+Methodology
+Due to the potential of encountering buried cultural deposits along those portions of the
+pipeline immediately adjacent to the Gilkey Hill site on the east side of the East Fork and
+along the sections of the pipeline that crosses South Mesquite Creek on the west side of
+the East Fork, the authors began monitoring the excavation for the proposed Buffalo
+Creek Interceptor on the east side, the 7th of January, 2008 and proceeded west for
+approximately 225 m or 740 ft until the 23rd of January, 2008. Monitoring for the west
+side began the 27th of February until the 6th of June and proceeded west and east for a
+approximately 550 m or 1805 ft.
+A perched water table caused numerous wall collapses, which slowed progress. Every
+morning the first job was to empty the trench of the water that had accumulated during
+the night. This involved using the trackhoe to bail the water out. In addition, at least one
+pump was running the entire day to keep the water within the trench at a minimum. The
+excavation of the trench, in preparation for installing the pipe, was 2.5-3 m wide. A steel
+trench box was placed inside the trench to prevent the collapsing walls from hindering
+installation of the pipeline. Approximate maximum depth along this section of the
+pipeline was 4.2 m (14'). The trenching for this pipeline is deeper than the trenches ARC
+excavated in 2005/2006 by approximately 1.5 to 2 m. This provided more data on the
+subsurface geology at and around the Gilkey Hill site and the section where it crosses
+South Mesquite Creek.
+The potential area-of-effect for the proposed pipeline routes is the 60 foot wide corridor,
+30 feet on either side of the centerline. The Buffalo Creek interceptor pipeline is to be 36
+inches in diameter and buried from 7 to 14 feet below the ground surface. The
+archaeologists monitored the trench excavation, took photographs and notes and
+examined spoil piles.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+7
+
+RESULTS
+Gilkey Hill Section:
+The monitoring for this
+section of the pipeline
+began on the seventh of
+January, 2008 at the
+location
+marked
+A
+(Figure 3) and continued
+west to the location
+marked B (Figure 3).
+The beginning of the
+monitoring
+was
+southeast
+of
+the
+recognized
+site
+boundary. Monitoring
+continued southwest of
+the site boundaries until
+just west of the present
+slough. Installation of
+the
+pipeline
+would
+proceed into the area
+ARC had previously
+tested (Skinner and
+Todd
+2006).
+The
+previous
+trench
+descriptions within the Figure 3. Portion of the Seagoville, 7.5' USGS map
+showing monitoring area and features
+right of way recorded a
+discovered during trenching.
+yellowish
+brown
+(10YR5/6)
+clay
+at
+various depths with the shallowest being 32 cm. These soils had massive amounts of
+calcium carbonate (CaCO3). The excavation for the pipeline penetrated below that
+yellowish brown horizon and found a layer of medium coarse sandy clay approximately
+3.6 m below the surface. The sandy clay extended to about 4.2 m (14') where a layer of
+shale was encountered. The shale caused water that was percolating down to become
+trapped and move laterally. This perched water table meant the trench walls were
+unstable and examining the trench from within was not possible. In the afternoon of the
+eighth of January, Feature 1 was exposed during excavation (Figure 4).
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+Figure 4.
+
+8
+
+Feature 1 exposed in the north wall of the pipeline trench. View north.
+
+This feature is a hand-dug pit that was exposed on the north side of the pipeline trench.
+Work was halted so measurements and samples could be taken. It is rectangular in profile
+and measured 133 cm deep by 93 cm wide. The feature had been dug into the yellowish
+brown, calcium carbonate rich soil zone and was very distinct. From the few artifacts that
+were noted within the soil matrix inside the feature, it appears that it was empty or
+emptied prior to or after the site was abandoned. It is estimated that less than ten percent
+of the contents of the feature were cultural and were washed in. Once the feature was
+measured, it was bisected with a trowel to determine its northern extent and to gather
+more samples. The feature extended 33 cm to the north and it appeared that excavation
+for the pipeline cut it almost in half. After measurements and samples were taken,
+trenching continued, only after the construction crew was instructed to do their best to
+preserve the feature in place when backfilling.
+A sample of material from Feature 1 was sent to Beta Analytic, Inc for a radiocarbon
+date. That sample (Beta 241788) yielded a Measured Radiocarbon Age of 790 +/- 40 BP.
+The 2 Sigma Calibration indicated a date of AD 1170 to 1280.
+After trenching only four meters west of Feature 1, another feature was encountered
+(Figure 5). This hand dug pit (Feature 2) was bell-shaped and was 100 cm deep by 83 cm
+wide. Its contents mirror those of Feature 1, i.e., less than ten percent is cultural material.
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+9
+
+Feature 2 did not have samples sent for dating due to proximity and equal depth to
+Feature 1.
+Thus the contents of both
+features had been removed
+when the site was abandoned.
+Feature 2 was bisected to
+determine its depth to the
+north. The bisecting revealed
+17 cm of the feature extended
+to the north. Further scraping
+by hand around the edges of
+both features failed to find
+any evidence of other
+features,
+artifact
+concentrations, or surfaces
+and
+pipeline
+trenching
+continued.
+As the pipeline trenching
+approached the slough, there
+was a distinct change in subsurface geology. The medium
+course sandy clay and shale
+stopped. In their place were
+floodplain
+deposits
+that
+consisted of sequential layers
+of fine clay sediment. These
+layers have been stable long
+enough that the entire
+sequence
+of
+individual
+Figure 5. Feature 2 exposed in north wall of the trench.
+deposits were not discernable
+as a whole, but sections were. Yet the deposit(s) have not been stable enough for CaCO3
+or slickensides to form. The lack of CaCO3 and slickenside formation implies sediments
+of recent origin (Frederick, Trask, and Skinner 2006:34). This type of soil continued until
+almost the present location of the slough. Based on the soil change it appears that the path
+of the slough was more sinuous than it is today and at one time it curved around the south
+side of the site.
+As the pipeline trench crossed the slough, their trenching revealed discernable sections of
+flood sequences (Figure 6). The deposits had no breaks, such as if another channel
+bisected it or the water flow was interrupted allowing soil formation. Again, the lack of
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+Figure 6.
+
+10
+
+Photo of numerous flood sequences exposed in trench wall
+after one of many collapses. View is to the NE.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+11
+
+CaCO3 or slickenside formation indicated that the deposits on the west side of the slough
+are of recent origin as well. Monitoring continued for another 50 m west of the slough
+then was halted due to lack of any cultural remains in the recent sediments.
+South Mesquite Creek Section
+The pipeline monitoring began on the 27th of February, 2008 and was completed on the
+6th of June, 2008. This section of the Buffalo Creek Interceptor, on the west side of the
+East Fork monitored the installation of the pipeline before it crosses South Mesquite
+Creek at two locations (Figure 7).
+
+Figure 7.
+
+Portion of the Seagoville, 7.5' USGS map showing monitoring area.
+
+Pipeline installation between the two creek crossings was also monitored. The monitoring
+is described below in two parts. The first part discusses that part of the pipeline on the
+east side of South Mesquite Creek as installation proceeded north northwest then west
+towards the creek. The second part discusses that part of the pipeline as it crosses a large
+meander of South Mesquite Creek proceeding east to west between the two creek
+crossings.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+12
+
+The pipeline proceeds west from its crossing of the East Fork and just before the
+channelized part of South Mesquite Creek, it turns to the north northwest (Figure 7). At
+that turn the pipeline was installed on the east side of an existing pipe. Thus, the soil was
+disturbed in many locations. In spite of the above disturbance(s) there were still
+opportunities to examine undisturbed parts of the trench along its west side.
+Observations of the soils revealed recent deposition of sediments that approached depths
+of two meters. From the surface to the two meter mark the soils showed little or no
+development. Below the two meter mark the soils exhibited CaCO3 development along
+with Stage I slickenside development. Both of these are indicative of soil development.
+Based on the above, the soil that is exhibiting development was at one time an exposed
+surface soil and was in an environment where flooding was infrequent and the sediments
+were in place long enough to begin development. The soil development was arrested
+some time in the past when the there was a change in the floodplain environment that
+facilitated frequent flooding and subsequent deposition of material to bury the soil under
+two meters of sediment. This buried soil, as noted above, was stable long enough to
+exhibit development, and the banks of the creek would have been a setting where
+prehistoric inhabitants of the area could have utilized the resources in and around the
+creek.
+The monitoring of the two pipeline crossings and the floodplain began just east of the
+waste water treatment plant. The pipeline was laid in a trench five meters wide and six
+meters below the surface for a distance of 200 meters. Each segment of the pipe was 6.6
+x .9 meters, and all but 30 meters of the pipeline were encased in cement. The south wall
+of the trench contained intact soils, but the north wall had been completely destroyed by
+previous pipeline construction. As the trench was excavated, the south wall was closely
+monitored for soil changes and archaeological remains. Each trackhoe bucket of
+sediments was visually inspected during dumping and spoil piles were inspected. Field
+notes, photographs and profile descriptions were made. The profiles revealed a
+remarkably stable landform with two deeply buried soils covered by a distinct Entisol
+[defined as a soil that does not show any profile development] or recent soil.
+Profile descriptions of the east cut bank of South Mesquite Creek and the south wall of
+the trench are shown in Figure 8. The cut bank contained three buried soils, while the
+south trench wall contained two buried soils. Table 1 provides descriptions of the
+profiles. The Entisol covering the buried soils has all primary structure obliterated, it is
+2.4 meters thick, and has been in place long enough to have an accumulation of calcium
+carbonate and is defined as having an Ak horizon, with “k” being nomenclature for
+calcium carbonate. While caution should always be used in assigning an age to soils with
+high clay content, a minimum age of two to three hundred years is a reasonable
+assumption but the soil could be older. Inspection of adjacent areas of the meander
+revealed fence remnants made from split bois de arc, hog wire, barbwire, and telegraph
+wire. Only the bottom three inches of the fence remnants were covered with recent
+sediments, indicating that there has not been a large magnitude flood during the last 50
+years. Thus, slow accumulation of sediments at this location could account for the deep
+burial of the buried soils and the well-developed Entisol.
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+13
+
+The first buried
+soil in the south
+wall of the trench,
+(Akcb1, Profile 1),
+compares
+favorably with the
+Trinity series of
+the Dallas County
+soil
+survey
+(Coffee, et al,
+1980:67-68). It is
+classified as a
+Typic
+Pelludert,
+meaning that it is a
+typical clay rich
+Vertisol found in
+the Gulf Coastal
+Plain of Texas
+especially
+along
+drainages. These
+are
+very
+fine
+montmorillonitic
+clays with high
+shrink-swell
+capacities and low
+permeability. By
+definition
+they
+have high clay
+content
+with
+surface cracks that
+open and close on a Figure 8. Note the recent inset deposits in Profile 1 that
+includes three buried soils. In contrast, Profile 2
+seasonal basis. In
+contains two deeply buried soils below 2.3 meters
+essence the soil
+of a fairly well developed Entisol. The two lower
+inverts itself (hence,
+buried soils are the same despite differing
+Vertisol), causing
+nomenclature in profile description. See Table 1 for
+complete
+descriptions.
+obliteration
+of
+diagnostic horizons
+and destroying spatial relationships of archaeological materials. The Trinity series A
+horizon is subdivided into four subunits based on color and structure with a depth of 1.7
+meters. In contrast, the buried soil at Profile I is between 2.5 and 2.7 meters in depth.
+This increase in soil depth indicates that this soil is more cumulic than typic meaning that
+sediments are accumulating at the same rate as pedogenesis. Due to safety issues, detailed
+subdivision of the buried soil could not be accomplished and it is discussed as a single
+unit. However, visual inspection of the trench wall indicated a distinct band of carbonate
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+14
+
+concretions 1.5 meters from the top of the buried soil and lighter colored materials below
+this band of concretions.
+The vertic quality of the Akcb1 is evidenced by large crack infilled by the overlying Ck
+materials. Additionally, all snail shells of Rabdotus and Polygyra have been completely
+crushed. The upper portion of this profile has been heavily bioturbated by crayfish
+burrows. As a result, if intact archaeological materials had been present at this location
+they would have been shallowly buried in the Akcb1 horizon or just at the surface, but
+turbated materials could have been found anywhere within the profile. As a result, the
+contact between the buried surface and the overlying Ck horizon was closely monitored
+and well as all dumped materials from this soil.
+Table 1.
+
+Profile descriptions for soil profiles 1 and 2.
+
+Profile
+
+Horizon
+
+Color
+
+Texture
+
+Structure
+
+Bndy
+
+Comments
+
+Ap
+
+Depth
+cm
+10-20
+
+P2
+
+10YR4/2
+
+clay
+
+granular,
+platy
+
+clear
+wavey
+
+Both
+
+Ak
+
+70
+
+10YR4/2
+
+clay,
+silty-clay
+
+mod med
+sub angular
+blocky
+
+gradual
+smooth
+
+Both
+
+Ck
+
+100
+
+2.5Y4/2
+
+clay
+
+weak fine
+sub angular
+blocky,
+massive
+
+gradual
+smooth
+
+P1
+
+C2k
+
+160
+
+2.5YR4/2
+
+clay
+
+weak
+massive
+
+gradual
+smooth
+
+P1
+
+Akcb1
+
+210
+
+10YR4/2
+
+clay
+
+weak med
+sub angular
+blocky
+
+gradual
+smooth
+
+P1
+
+Ckb1
+
+250
+
+2.5Y5/2
+
+clay, silty
+clay
+
+massive
+
+clear
+wavey
+
+Both
+
+Akcb1
+Akcb2
+
+510
+
+10YR3/1
+
+clay
+
+strong
+angular
+blocky,
+prismatic
+
+gradual
+diffuse
+
+Both
+
+Bkcb2
+Bkcb3
+
+620
+
+10YR6/1,
+10YR7/8
+mottled
+
+claysilty clay
+
+strong
+angular
+blocky,
+prismatic
+
+indeter
+
+found only in Profile
+2, mixed sediments
+and soils with
+occasional gravels
+few thin clay films,
+com fib roots, com
+sm pores, insect
+krotovina
+com fib roots, few
+thin clay films in
+pores, some primary
+structure 2.5Y4/2 and
+10YR7/2 clay
+com woody roots,
+insect krotovina, few
+pores
+com thin clay films
+on ped faces and pore
+interiors, few fine
+CaCO3 concretions,
+com snail frags
+insect burrows,
+crayfish krotovina
+with 10YR6/6 halos
+comm sm CaCO3 cc,
+comm crayfish
+krotovina, abundant
+slickensides, few fine
+siliceous gravels
+abundant large (1-2.5
+cm) CaCO3
+concretions, FeMn
+stains and
+concretions,
+slickensides
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+15
+
+Two samples were taken from the upper surface of this buried soil. The locations of these
+samples are shown in Figure 9, a cross-section of South Mesquite Creek floodplain.
+Sample 1 was a collection of bone located 35 meters east of the east cut bank of the
+creek. Excavation was briefly stopped, samples were taken, and work continued since no
+associated archaeological materials were recovered. After the trench box was moved a
+small amount of highly weathered rib fragments were found in situ 4 cm below the upper
+boundary of Akcb1. Sample 1 consisted of a moderately weathered humorous with
+longitudinal cracks that had removed a portion of the shaft and the distal end, and highly
+weathered vertebrae, innominate, and rib fragments that were not diagnostic to species.
+The bones are either bison or cow, if the overlying Entisol is at least three hundred years
+old then bison is most likely. Sample 2 was a burned feature 10 meters east of sample 1
+and 75 meters east of the cut bank, both samples were 35 meters south of South Mesquite
+Creek. The feature was noted in the south trench wall and excavation was stopped. Since
+the trench had been dug to depth, the excavation crew would not allow close inspection
+of the feature due to safety concerns. The track hoe operator cross-sectioned the feature
+and dumped the materials for close inspection. No fire-cracked rock, debitage, mussel
+shell, or bone was associated with the feature. The feature was 30-40 cm wide and length
+could not be determined since it extended into the trench wall. In the absence of
+archaeological residues, it was determined that the feature may have been a naturally
+burned log. Notes, samples, and photographs were taken and trenching was allowed to
+continue.
+Parent material for the Akcb1 soil is derived from two sources both of which are alluvial
+deposits of the East Fork. To the west, South Mesquite Creek and two of its tributaries
+have dissected T2 terrace formations (Thurmond, 1967) creating fairly well developed
+floodplains throughout the drainage. At the large meander location of the pipeline recent
+East Fork alluvial floodplain deposits have been reworked down to a deeply buried
+surface (Bkcb2, Profile 2). However, the deepest buried surface may represent basal
+deposits of the T-2 terrace formation.
+In the absence of radiometric dating of sediments or artifacts, caution is exercised in
+assigning an age to the buried Akcb1 horizon. However, using Ferring’s (1994) research
+of the Upper Trinity River Basin some comparisons can be made with the West Fork soil.
+Since this is a thick cumulic soil on the floodplain, sedimentation probably began in the
+Late Holocene, approximately 4,500 years ago, during a period of moderate to rapid
+alluviation of streams through out Texas as the result of increased precipitation. This
+period of alluviation was followed by a period of stability leading to soil formation
+approximately 2,000 years ago. Based on Ferring’s model and the characteristics of the
+buried soil itself a minimum age of 2,000 years is reasonable, but the soil could be much
+older based on the degree of development and deep burial.
+The deepest buried surface, the Bkcb2 horizon (Figure 8) most likely dates to the
+Terminal Pleistocene, 14-11 thousand years ago. This hypothesis is based on deep burial,
+soil development, and comparison with the Aubrey Clovis site (Ferring 2001). The
+Terminal Pleistocene was a dry period with extensive surface stability that allowed for
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+Figure 9. Geologic cross section of South Mesquite Creek floodplain. Note buried soils sample 1 is a bone
+concentration; sample 2 a burned feature and there is a large backfilled area in center of the cross-section.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+16
+
+________________________________________________________________________
+
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+17
+
+extensive soil development. The buried soil is a truncated Bkcb horizon based on
+structure, color, and presence of large CaCO3 and FeMn concretions. It is extremely well
+developed especially in terms of structure, peds range from 10-20 cm with thick
+slickensides and translocated clays in ped interiors. It is mottled 10YR6/1 and 10YR7/8
+indicating a fluctuating water table prior to deep burial. The Clovis surface at Aubrey is
+7-9 meters below the current floodplain, and Bkcb2 horizon is buried 6 meters below the
+current flood plain. Excavation of this soil horizon was closely monitored for faunal
+remains that would support a great age for these deposits, none were observed.
+CONCLUSIONS
+The lack of features, artifact concentrations, and diagnostics means the pipeline was
+installed at the far southern edge of the site. Although there is no data as to where other
+features or associated artifacts could be found, it is likely that the Gilkey Hill site does
+not extend further south than the two features found during this excavation. Considering
+that this site is fairly extensive, based on the work by Harris (1942), this site is potentially
+eligible for inclusion in the National Register of Historic Places. If other pipelines are to
+be installed within the easement they should be monitored by an archaeologist because of
+the potential for encountering more features and possibly burials.
+The South Mesquite Creek segment contained no archaeological remains and no further
+investigation is warranted. The effort did contribute to the understanding of the geologic
+history of a small tributary to the East Fork. The geologic history revealed a remarkably
+stable land form from the Terminal Pleistocene to the present.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+18
+
+RECOMMENDATIONS
+This project was to monitor the excavation of a pipeline as it crossed the southern edge of
+the Gilkey Hill site on the east side of the East Fork and where the pipeline crossed two
+sections of South Mesquite Creek on the west side of the East Fork. It is recommended
+that if any other pipelines be installed on the east side of the East Fork that they be placed
+south of the new line in the vicinity of the Gilkey Hill site if at all possible. Since
+construction is planned within the current easements of this pipeline, additional testing
+and monitoring will be required in this area north of the new pipeline in the vicinity of
+the Gilkey Hill site.
+Additionally, there should be no further impact of any kind in and around the site proper
+because of the potential for disturbing artifacts and features associated with the Gilkey
+this site. This site is also potentially eligible for inclusion into the National Register of
+Historic Places. Further archaeological work in the form of non-disturbing activities such
+as magnetometer or ground penetrating radar is recommended as their use could help
+define site boundaries and locate features. No additional investigation is warranted within
+existing NTMWD easements west of the East Fork.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL MONITORING OF THE BUFFALO CREEK INTERCEPTOR
+
+19
+
+REFERENCES CITED
+1988
+Geologic Atlas of Texas, Dallas Sheet. The University of Texas, Austin.
+Coffee, Ralph H. Hill, and Dennis D. Ressell
+1980
+Soil Survey of Dallas County, Texas. USDA, Soil Conservation Service in cooperation with Texas
+Agricultural Experiment Station.
+Council of Texas Archeologists
+ND
+Guidelines for the Content of Cultural Resource Management Reports. Manuscript on file with the
+membership.
+Ferring, C. R.
+2000
+The Archaeology and Paleoecology of the Aubrey Clovis Site (41DN479) Denton
+County, Texas. Center for Environmental Archaeology, University of North Texas, pp. 1-246.
+1994
+Late Quaternary Geology of the Upper Trinity River Basin, Texas, PhD dissertation,
+The University of Texas at Dallas, Texas, p. 236.
+Frederick, Charles D, Lance K. Trask, & S. Alan Skinner
+2006
+Archaeological Testing for the Trinity Parkway. Cultural Resources Report 2006-32, AR
+Consultants, Inc, Dallas, Texas
+Harris, R. K.
+1942
+The Gilkey Hill Pottery Site. The Record 3(9):48-53.
+Hill, R. T.
+1901
+Geography and geology of the Black and Grand Prairies, Texas, with detailed
+description of the Cretaceous formations and special reference to artesian waters: United
+States Geological Survey, 21st Annual Report, Part 7-Texas, 666 p.
+Skinner, S. Alan
+2001
+Archaeological Survey in the East Fork Floodplain, Dallas and Kaufman Counties, Texas.
+Cultural Resources Report 2001-42, AR Consultants, Inc., Dallas, Texas.
+Skinner, S. Alan, Floyd D. Kent, Sonny Wheeler, III, Lance K. Trask and Jesse Todd
+2002
+Archaeological Monitoring of the Oncor Pipeline Crossing of the East Fork Floodplain. Cultural
+Resources Report 2002-34, AR Consultants, Inc., Dallas, Texas.
+Thurmond, John Tydings
+1967
+Quaternary Deposits of the East Fork of the Trinity River, North Central Texas. Department of
+Geology, Southern Methodist University, Dallas.
+Todd, Jesse
+2006
+Archaeological Testing of the Gilkey Hill Site (41DL406), Dallas County, Texas. Cultural
+Resources Report 2006-04, AR Consultants, Inc., Dallas, Texas.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+

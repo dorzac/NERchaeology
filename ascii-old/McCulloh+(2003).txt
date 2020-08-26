@@ -1,0 +1,1293 @@
+Geology of the
+Ville Platte Quadrangle
+Louisiana
+To Accompany the Ville Platte
+30 x 60 Minute Geologic Quadrangle
+
+f
+
+.X (
+
+Richard P. McCulloh, Paul V. Heinrich, and John I. Snead
+
+Louisiana Geological Survey • Geological Pamphlet No. 14
+
+l!Q
+
+State of Louisiana
+M, J. "Mike" Foster, Jr" Governor
+Louisiana State University, Baton Rouge
+Mark A. Emmert, Chancellor
+Louisiana Geological Survey
+Chacko]' John, Director and State Geologist
+
+Originally prepared in 1996 for the U,S, Geological Survey, Department of the Interior,
+under cooperative agreement No, 1434-94-A-1233,
+
+Cover: Reduced image of Ville Platte 30x60 Minute Geologic Quadrangle,
+
+This public document was published at a total cost of $192,50, 50 copies of this document were published in this first printing
+at a cost of $192,50, This document was published by the Louisiana Geological Survey, 3079 Energy, Coast and Environment
+Building, Baton Rouge, Louisiana, 70803, to aid in public understanding of the geology of Louisiana, under the authority of R.S,
+30:206, This material was printed in accordance with standards for printing by state agencies established pursuant to R.S, 43:31,
+
+Geological Pamphlet No.14
+
+Geology of the
+Ville Platte Quadrangle
+Louisiana
+Richard P. McCulloh, Paul V. Heinrich, and John I. Snead
+
+I
+
+"
+
+LOUISIANA STATE UNIVERSITY
+
+LOUISIANA GEOLOGICAL SURVEY
+
+Baton Rouge
+
+2003
+
+-
+
+© 2003 by the Louisiana Geological Survey
+
+Contents
+Acknowledgments........................................................................................................................ ........
+Introduction, Location, And Geologic Setting .....................................................................................
+Previous Work................................................................................................................................ .....
+Methods ...............................................................................................................................................
+Allostratigraphic Approach To Unit Definitions ..................................................................................
+Results..................................................................................................................................................
+Conclusion ............................................................................... ,. ...... ........ ......... ..................... ..............
+Correlation Of Map Units ...................................................................................................................
+Description Of Map Units...................................................................................................................
+Bibliography ........................................... ,........ .... .... ..... ....... ................. ......... .................... .... ........ ......
+
+iii
+
+IV
+
+1
+2
+2
+2
+3
+5
+5
+6
+9
+
+q
+
+Acknowledgments
+The Ville Platte 30 x 60 Minute Geologic Quadrangle (Snead et al. 2002) was originally prepared
+in cooperation with the U.S. Geological Survey, Department of the Interior, as part of its
+STATEMAP program under Cooperative Agreement No. 1434-94-A-1233 (Snead et al. 1995b).
+The Louisiana Geological Survey (LGS) gratefully acknowledges the Louisiana Department of
+Natural Resources, Office of Mineral Resources, for support for the final production and printing
+of this published edition under DNR Contract No. 2400-99-01, "Provision of Technical Services
+to the Office of Mineral Resources-Task 4." Gus C. Rodemacher, Assistant Secretary, and William
+E. Marsalis, Geologist Administrator of the Office of Mineral Resources were instrumental in the
+formulation and acceptance of this contract.
+R. Hampton Peele and Robert Paulsell of the LGS Cartographic Section performed the Geographic Information System (GIS) tasks and the cartographic production and design tasks,
+respectively.
+This report was originally prepared to accompany the first release of the map as a plot-ondemand product in 1999. Margo Olinde, then the LGS editor, edited the manuscript for that
+release, though the report was not formally produced as a printed document at that time. Scott
+Smiley edited the report for production as an LGS publication for this release. Lisa Pond, LGS
+Cartographic Section, provided the graphic design.
+Whitney J. Autin of the State University of New York, College at Brockport, reviewed and
+provided valuable comments on the Quaternary correlation effort.
+
+iv
+
+drainage basins: the eastern portion of the middle
+Calcasieu River drainage basin, on the west, and the
+headward reaches of streams of the Mermentau Bayou
+drainage basin, on the south. The quadrangle also
+contains the transition in Pleistocene strata from the
+fluvial terrace-associated deposits of these rivers and
+streams to their coast-parallel terrace-associated
+deposits of the south Louisiana coastal plain.
+
+I ntroduction, Location, and
+Geologic Setting
+Louisiana's surface geology is dominated by units of
+Quaternary age whose noteworthy variety and complexity have presented chronic problems for previous
+attempts to correlate and classify them. A preliminary
+draft of a workable statewide classification of the
+Quaternary, recently formulated by Snead et al.
+(1998), forms the primary basis for this presentation of
+the correlation and classification of units mapped in
+the Ville Platte quadrangle.
+
+A pattern of relict channels on the older Prairie
+surface provides evidence that the Red River once
+flowed independently into the Gulf of Mexico west of
+its modern confluence with the Mississippi River. This
+transitional setting and the confluence of the two large
+river systems greatly increase the potential for
+complexity in the number and interrelations of the
+units recognized and mapped in the area. A distinct
+semicircular ridge associated with the outcrop of
+limestone caprock, mapped stream captures, and
+several distinct, low scarps offsetting the Pleistocene
+terrace surfaces indicate Late Quaternary neotectonic
+activity within the Ville Platte quadrangle.
+
+The Ville Platte1:100,000-scale quadrangle covers a
+region lying between 31 °00' and 30°30' north latitude,
+and between 93°00' and 92°00' west longitude (figure
+1). This is a region of moderate relief in which altitude
+ranges from less than 10m above sea level within the
+Red River and Mississippi River valleys to 80+ m on
+the Pleistocene uplands of the coastal plain in the
+northwestern corner of the quadrangle. The region
+includes Holocene and Pleistocene fluvial deposits of
+the Red, Calcasieu, and Mississippi rivers; Pleistocene
+coast-parallel terrace complexes,
+interpreted here as allogroups; loesscovered surfaces adjacent to the
+Mississippi River valley; a network of
+relict Pleistocene channels; and an
+active but aseismic fault system. A
+small outcrop of limestone caprock
+atop the Pine Prairie salt dome is
+also noted, one of only two exposures
+LOUISIANA
+of salt-dome caprock known in
+Louisiana.
+
+o
+
+50 miles
+
+1..'---....'
+
+The northeastern portion of the
+quadrangle encompasses the western
+valley wall of the MiSSissippi River
+flood plain where it is joined by that
+of the Red River from the northwest,
+not far below the present-day
+confluence of the channels of the two
+rivers. Most of the remainder of the
+quadrangle encompasses parts of two
+
+_...J--
+
+30
+
+X
+
+60 Minute Geologic Quadrangles
+
+o
+
+Published as of 2002
+In preparation
+
+Figure 1. Location of Ville Platte 1:1 00, ODD-scale quadrangle.
+1
+
+30°
+
+a
+
+Previous Work
+
+quadrangles. These were checked by comparison with
+and analysis of published and unpublished geologic
+mapping, aerial photographs, other types of imagery,
+and soils information. This included geotechnical data
+from the U.S. Army Corps of Engineers (USACE) and
+the Louisiana Department of Transportation and
+Development (DOTD) and soil surveys and data from
+the Natural Resources Conservation Service (NRCS)
+(formerly Soil Conservation Service [SCS]). These
+interpretations were then spot-checked in the field.
+
+Different portions of the Ville Platte quadrangle
+were geologically mapped at a scale of 1:62,500 in
+parish geological investigations in the 1940s and 1950s
+(Fisk 1940; Welch 1942; Holland et al. 1952; Varvaro
+1957). Until recently, reassessment of this mapping
+had been done only in conjunction with
+recompilations at much smaller scales, e.g., 1:500,000
+(Snead and McCulloh 1984) and 1: 1,100,000 (Saucier
+and Snead 1989).
+
+Published geologic mapping and aerial photography
+and imagery were consulted extensively. The published
+geologic mapping consulted in this study included Fisk
+(1938, 1940, 1944), Welch (1942), Jones et al. (1956),
+Doering (1956), Varvaro (1957), Saucier (1974),
+Smith and Russ (1974), Russ (1975), Snead and
+McCulloh (1984), and Saucier and Snead (1989).
+Aerial photography and imagery used in the mapping
+came from Edgar Tobin Aerial Surveysl (ETAS), the
+National Aeronautics and Space Administration
+(NASA), and the Agricultural Stabilization and
+Conservation Service (ASCS). The primary aerial
+photography consisted of 1:2,000 black and white
+ETAS aerial photography flown between 1939 and
+1942 and 1:20,000 black and white ASCS aerial
+photography flown at various times between 1939 and
+1962. NASA 1 :80,000 color-infrared aerial imagery
+flown in 1978 supplemented the ETAS and ASCS
+aerial photography. Fieldwork was used to verify
+the mapping.
+
+Since the late 1980s the Louisiana Geological
+Survey (LGS) has attempted to sustain an ongoing
+effort to remap the state's surface geology at intermediate scale and has done so almost entirely via cooperative agreements with the U.S. Geological Survey
+(USGS). These agreements were initially under its
+COGEOMAP program, which later became the
+STATEMAP program following authorization by
+Congress of the National Cooperative Geologic
+Mapping Program in 1992.
+These projects have permitted LGS to undertake
+the systematic and comprehensive new mapping of the
+geologically youngest river and delta deposits that
+underlie three-fourths of Louisiana and to complete
+initial compilation of new, intermediate-scale coverage
+of the state's upland landscapes and alluvial bottoms
+above the coastal zone. The STATEMAP project for
+fiscal year 1994-95 entailed the geologic mapping of
+the De Ridder and Ville Platte 1: 100,000 quadrangles
+(Snead et al. 1995a, b). The mapping of the Ville
+Platte geologic quadrangle for that project is here
+presented within the framework of the recent formulation of a preliminary statewide classification of
+Quaternary units by Snead et al. (1998).
+
+Once finished, the 1:24,000 overlays were
+recompiled onto an overlay of the USGS 1: 100,000
+quadrangle map. This draft map was then edited,
+reviewed, and redrawn to produce the preliminary
+final map, from which the digital cartographic product
+was prepared.
+
+Methods
+
+Allostratigraphic Approach to
+Unit Definitions
+
+For the preliminary mapping of the geology of the
+Ville Platte quadrangle (Snead et al. 1995b), draft
+geologic maps were prepared for each of the thirty-two
+7.5-minute USGS topographic quadrangle maps
+composing it. They were then recompiled at the
+1: 100,000 scale. The draft maps consisted of vellum
+overlays registered to 7.5-minute quadrangles, many of
+which are recently published provisional editions
+previously unavailable to geologic mappers. Alluvial
+and terrace-unit contacts, and escarpments associated
+with known and hypothesized surface faults of the
+coastal plain, were delineated on the overlays using
+these new, high-quality 7.5-minute topographic
+1
+
+Most previous approaches to the correlation and
+mapping of Pleistocene units in Louisiana regarded the
+sequences underlying terrace surfaces as mappable
+units of formation rank. In the intermediate-scale
+geologic compilations undertaken in previous LGSUSGS cooperative agreements, these formations were
+replaced by informal units called complexes. Problems
+with the traditional terrace concept had led Autin et al.
+(1991) to introduce complexes as groupings of temporally related surfaces, the associated sedimentary
+sequences of which were assumed to comprise related
+
+P.O. Box 839905, San Antonio, TX 78283-9905
+
+2
+
+rr
+
+!
+
+allostratigraphic units, or lithosomes distinguished by
+their bounding unconformities (Autin 1996).
+
+recognized in Louisiana: Sicily Island (possibly early to
+middle Wisconsinan) and Peoria (late Wisconsinan).
+Their distributions, from Miller (1983), have not been
+revised since the 1984 Geologic Map ofLouisiana.
+
+This approach was prompted by the general lack of
+diagnostic or distinct lithologic characteristics within
+Pleistocene sediments that are similar to a considerable
+degree because of their overall textural heterogeneity.
+The treatment given by Snead et al. (1998) was a
+provisional first attempt at an allostratigraphic approach to statewide classification and correlation
+within the Pleistocene of Louisiana, with subdivision
+into constituent informal allounits; in this schema, the
+complexes of earlier usage survived as the major unit
+groupings.
+
+Results
+The process of compiling the map revealed and
+substantiated significant geological features within the
+Holocene and Late Pleistocene alluvial valleys of the
+Mississippi and Red rivers, the Late Quaternary coastparallel terrace surfaces, and the small stream valleys·
+traversing this area.
+UPLAND ALLOGROUP
+
+The unit names in this map and report have been
+revised to fit that classification. It is hoped that this
+approach will evolve into formal allostratigraphic
+nomenclature as the units become better defined.
+
+The Upland Allogroup crops out only in the
+northwestern corner of the Ville Platte geologic
+quadrangle. It consists of the Willis Formation
+(Pliocene), which is correlative with the Willis of Texas
+and equivalent to the Citronelle Formation of eastern
+Louisiana and Mississippi. For this investigation the
+Willis was not differentiated.
+
+Although the nature and variety of the different
+sources of information and types of criteria employed
+in the classification of map units are not sufficient for
+formal definition of allounits, allostratigraphic criteria
+are incorporated wherever possible-in the manner
+recommended by Autin et al. (1991) and employed by
+Snead et al. (1998)-to formulate provisional or
+informal unit definitions, with the different criteria
+prioritized and hierarchically ordered as follows:
+
+INTERMEDIATE ALLOGROUP
+
+The Intermediate Allogroup mapped in the Ville
+Platte Geologic Quadrangle corresponds to the
+Intermediate Complex of Saucier and Snead (1989)
+and is differentiated into three constituent units. The
+principal units mapped are the Lissie Alloformation
+and the Oakdale alloformation. The Lissie, equivalent
+to the Lissie Formation of Texas, forms an extensive
+surface encompassing the area around De Ridder,
+Louisiana, and is approximately equivalent to the
+Bentley terrace of Fisk (1938, 1940) and Welch
+(1942). The surface associated with the Oakdale
+alloformation is approximately equivalent to the
+Oberlin terrace of Doering (1956). A younger unit,
+the Elizabeth alloformation, is marked by a lower
+surface discontinuously exposed over a much smaller
+area along the Calcasieu River and areas to the west.
+
+1. Characteristics of a unit's bounding unconformities,
+including associated paleosols
+
+2. Identification of geomorphological/depositional
+surfaces associated with the unit
+3. Summary of the depositional environment(s),
+including subunits reflective of depositional morphology, with associated constituent lithologies.
+The major groupings of units (Deweyville, Prairie,
+Intermediate, Upland) were treated as groups in a
+generic stratigraphic sense, with allostratigraphic
+thinking and precepts applied to whatever degree the
+data permit; they are here designated as allogroups.
+This treatment reflects the operational correlations that
+have remained broadly consensual among investigators
+as thinking has evolved in the years since the release of
+the first published Geologic Map ofLouisiana (Snead
+and McCulloh 1984) and in the last ten years of
+intermediate-scale map compilations under LGSUSGS cooperative agreements. Loesses-comprising
+eolian silt veneers over earlier Pleistocene and older
+deposits-are important markers useful for the
+correlation of underlying map units, somewhat
+analogous to the paleosols. Two distinct loesses are
+
+PRAIRIE AnOGROUP
+
+The Ville Platte geologic map shows Prairie
+Allogroup deposits associated with each of the major
+rivers (Calcasieu, Red, and Mississippi) as well as
+coast-parallel equivalents created by ancestral streams
+and coalescing alluvial fans. The principal expanse of
+Prairie deposits in the map area is equivalent to the
+Beaumont Formation of Texas and is here mapped as
+Prairie Allogroup, Beaumont Alloformation. This unit
+exhibits the clearly discernible relict channels of the
+Pleistocene Red and Calcasieu rivers. Two previously
+
+3
+
+ac
+
+loops of the lower meander belt are comparable in
+channel width and radius of curvature to those of the
+modern Mississippi River. As mapped, these lower
+meander belt loops are concave toward the upper
+meander belt. This pattern indicates that the abandoned river course with which they are associated lies
+buried beneath the upper meander belt (Heinrich
+1991; Saxton 1986).
+
+undifferentiated Prairie surfaces appear topographically
+below this unit along the valley wall of the Mississippi
+River. The most extensive of these surfaces exhibits
+the scrolls and channels of the Pleistocene Mississippi
+River and correlates with the Avoyelles prairie to the
+north and the Lafayette meander belt to the south.
+The unit underlying this surface is here mapped as
+Prairie Allogroup, Avoyelles alloformation. A still
+lower, discontinuous surface that exhibits meander
+bights, channels, and loops proportional in width and
+radii to the modern Red River is also recognized. The
+unit underlying this surface is here mapped as Prairie
+Allogroup, Big Cane alloformation. This surface,
+exposed over a relatively small area, is at approximately
+the same elevation as adjacent Holocene Red River
+meander belts, but it is covered by Peoria Loess, so the
+unit apparently represents remnants of Late
+Wisconsinan meander belts of the Red River, making
+it the lowermost surface of the Prairie.
+
+Within the upper meander belt, the Ville Platte
+geologic map also shows a small area of meander belt
+and natural levee deposits composed of reddish colored
+alluvium of the Red River. The distinctive red color of
+this alluvium is derived from the Permian red beds of
+Oldahoma and northeast Texas. This alluvium was
+deposited by the Red River while it was active in the
+Mississippi River meander belt 3 course, subsequent to
+the Mississippi River occupations. This map unit also
+includes the historically active, narrow, natural levee
+associated with the modern channel of Bayou Teche
+(Autin et al. 1991).
+
+DEWEYVILLE ALLOGROUP
+
+Small surfaces representative of the Deweyville
+Allogroup on the Calcasieu River are identified in two
+levels. The lower surface, developed on the Sandjack
+alloformation, is near the elevation of and in some
+places overlapped byHolocene alluvium. Terraces on
+upper tributaries of the Calcasieu previously mapped
+as Deweyville (Snead and McCulloh 1984) are here
+identified as undifferentiated Prairie Allogroup
+alluvial terraces.
+MISSISSIPPI RIVER MEANDER BElT
+
+EAST-WEST TRENDING SCARPS
+
+The Ville Platte geologic quadrangle shows a series of
+linear escarpments trending east to west that have a
+distinctive topographic expression. They consist of strikeoriented slope breaks with strike-parallel continuity on
+the order of several kilometers, and they are marked by
+elevation contours that may change spacing along strike
+but have uniform spacing in a given location. The scarps
+break individual terrace surfaces and, in a number of
+places, very nearly coincide with the bounding scarp
+separating different terraces. The escarpments are
+interpreted as the residual fault-line scarps associated with
+Tertiary growth faults that have been reactivated during
+the Pleistocene (Heinrich 1994).
+
+3
+
+The Ville Platte1:100,000-scale geologic map
+differentiates Mississippi River meander belt 3, as
+mapped by Saucier (1974) and Saucier and Snead
+(1989), into two meander belts as suggested by Saxton
+(1986), Heinrich (1991, 1993a), and Heinrich and
+Autin (2000). The oldest of these meander belts, the
+"Pre-Teche-Mississippi meander belt" of Saxton
+(1986), is mapped as meander belt 3 (lower). Overlying and incised into the lower meander belt is the
+younger unit, a later occupation of meander belt 3,
+here mapped as meander belt 3 (upper).
+
+The association of similar scarps with known
+Tertiary growth faults has been documented by
+Heinrich (1988) near DeQuincy, Louisiana, and is
+similar to that characteristic of fault-line scarps
+associated with faults of the Baton Rouge system in
+southeastern Louisiana (Durham and Peeples 1956;
+McCulloh 1991, 1992, 1996). The faults of the Baton
+Rouge system do not produce detectable earthquakes
+but are known to be active because of the cumulative
+damage done to structures located on and near certain
+fault segments over periods of years and decades.
+
+The lower meander belt differs in several ways from
+the upper meander belt. Its ridge and swale topography lies about 3 m (9 ft) below the level of the ridge
+and swale topography in the tipper meander belt. Also
+the channel loops of meander belt 3 (lower) are
+considerably more developed than the relatively simple
+meander loops of the later meander belt 3 (upper),
+although they occupy the same area. The channel
+
+The same geomorphic surface has been mapped on
+both the updip and down dip side of some of these
+escarpments. The presence of the same surface unit on
+either side of the escarpment indicates displacement by
+
+4
+
+a fault rather than the incision of the deposits of an
+older terrace before the deposition of the younger
+terrace. If present, the identification of constructional
+landforms, such as ridge and swale topography or
+fluvial channels, that are contiguous across the slope
+break would also identify certain escarpments as the
+surface expression of faulting. However, thus far such
+features have yet to be found within the Ville Platte
+quadrangle because of the age and dissected nature of
+the dominant surface units.
+
+hold the most promise for devising a meaningful
+correlation and classification of surface Quaternary
+strata that is workable statewide, although formal
+allounit definition within the Quaternary of Louisiana
+is generally not yet possible. The geologic map
+illustrates subdivisions within the Upland, Intermediate, and Deweyville allogroups and Mississippi River
+meander belt 3; lower surfaces representative of the
+Prairie Allogroup near the Mississippi River western
+valley wall; residual fault-line scarps in Pleistocene
+sediments; and fragments of a Late Wisconsinan Red·
+River meander belt that appear to form the lowermost
+Prairie surface.
+
+Some of the escarpments that are interpreted as
+residual fault-line scarps virtually coincident with
+contacts separating different terraces also form the
+southernmost contact of the adjacent Pleistocene units
+updip. An examination of the contact between the
+Prairie Allogroup and the Holocene chenier and
+deltaic plains south of the study area shows that it is
+extremely irregular and embayed, reflecting the uneven
+onlap of Holocene sediments over the eroded downdip
+edge of the Prairie because of slight but significant
+variations in the topography of the latter. In contrast,
+the only east-to-west-trending linear segments of
+Prairie and Intermediate contacts depicted on published maps occur in the Florida parishes east of the
+study area, where Holocene deposits have accumulated
+against residual fault-line scarps associated with faults
+of the Baton Rouge system (Snead and McCulloh
+1984; Mossa and Miller 1989). Using these linear
+contacts associated with known residual fault-line
+scarps as an analogy, some bounding escarpments of
+similar appearance in the Ville Platte quadrangle are
+tentatively interpreted here as residual fault-line scarps.
+This interpretation is further supported by the presence of major Tertiary growth faults that parallel these
+escarpments in the subsurface at an appropriate
+downdip depth and distance.
+
+Correlation of Map Units
+HOLOCENE
+
+Hua
+
+Undifferentiated deposits of small upland
+streams
+
+Hb
+
+Backswamp deposits
+
+Hrm
+
+Red River meander-belt deposits
+
+Hrl
+
+Red River natural levee deposits
+
+Hrs
+
+Red River crevasse splay deposits
+
+Hrd
+
+Red River distributary deposits
+
+Hrc
+
+Red River channel remnants
+
+Hmm3u Mississippi River meander belt 3-upper
+deposits
+Hmm31 Mississippi River meander belt 3-lower
+deposits
+Hm13u Mississippi River levee deposits (meander
+belt 3-upper)
+Hm131
+
+Mississippi River levee deposits (meander
+belt 3-lower)
+
+Hs
+
+Small river deposits, undifferentiated
+(Calcasieu River)
+
+Conclusion
+
+PLEISTOCENE
+
+The Ville Platte1:100,OOO-scale geologic quadrangle map and the draft 7.5-minute mapping conducted for this investigation provide a detailed overview of the surface geology within the project area.
+The Ville Platte quadrangle is underlain at the surface
+predominantly by units of Quaternary age. It is
+distinguished by the notable variety and complexity of
+these units, predisposed by its position at the
+confluence of the flood plains of the Red and Mississippi rivers, and spanning the transition between
+fluvial and coast.:.parallel terrace-associated units. The
+allostratigraphic approach to the interpretation of these
+Quaternary units has proven fruitful and appears to
+
+LOESS
+[pattern] Peoria Loess (shown where the total
+thickness is 1 meter or greater)
+
+[pattern] Sicily Island Loess (shown where the total
+thickness is 1 meter or greater)
+
+5
+
+Pd
+
+DEWEYVILLE ALLOGROUP
+Deweyville Allogroup, undifferentiated
+
+Pds
+
+Sandjack alloformation
+
+Pdm
+
+Merryville alloformation
+
+reddish yellow to reddish brown silt, silty clay, sandy
+clay, and some sand.
+
+PRAIRIE ALLOGROUP
+
+Pp
+
+Prairie Allogroup, undifferentiated
+
+Ppl
+
+Prairie Allogroup, Late Sangamon
+
+Ppbc
+
+Big Cane alloformation
+
+Ppav
+
+Avoyelles alloformation (includes
+Lafayette meander belt)
+
+Ppe
+
+Prairie Allogroup, Early Sangamon
+
+Ppbe
+
+Beaumont Alloformation
+
+Pi
+
+Intermediate Allogroup, undifferentiated
+
+Pio
+
+Oakdale alloformation
+
+Pie
+
+Elizabeth alloformation
+
+Pil
+
+Lissie Alloformation
+
+Hrd Red River distributary deposits-silty to
+clayey, reddish brown sediments that form the narrow
+natural levees of distributaries that extend from Red
+River meander belts into the adjacent backswamp.
+Hrc Red River channel remnants-sinuous tonal
+patterns interpreted to be abandoned Red River
+channels, buried beneath backswamp deposits.
+
+INTERMEDIATE ALLOGROUP
+
+Hmm3u Mississippi River meandet· belt 3,
+upper deposits-point bar deposits of the youngest
+level of Mississippi River meander belt 3, buried by a
+thin layer of overbank sediments. The surface is
+characterized by ridge and swale topography and
+minor natural levees. It consists of thick, sandy point
+bar deposits covered by a thin layer of silt and
+silty clay.
+
+UPLAND ALLOGROUP
+
+Pou
+
+Upland Allogroup, undifferentiated
+
+P o uw
+
+Willis Formation
+
+Hmm31 Mississippi River meander belt 3, lower
+deposits-point bar deposits of an older level of
+Mississippi river meander belt 3, buried by a layer of
+overbank sediments. The surface is characterized by
+ridge and swale topography and minor natural levees.
+It consists of thick, sandy point bar deposits covered
+by a variable thickness of silty clay and clay.
+
+Description of Map Units
+HOLOCENE
+
+Hua Undifferentiated deposits of small upland
+streams-alluvial deposits of minor streams and creeks
+filling valleys cut into older deposits. The modern
+flood plain within these valleys constitutes the
+surface of these deposits.
+
+Hm13u Mississippi River levee deposits (meander belt 3, upper)-Mississippi River deposits comprising prominent natural levees flanking the younger of two
+meander belts within Mississippi River meander belt 3.
+They consist of silt, silty clay, clayey silt, and some sand.
+
+Hb Backswamp deposits-Holocene backswamp
+deposits of the Red River and, in the eastern part of
+the quadrangle, mixed Red and Mississippi river
+deposits. They underlie flood basins between meander
+belts. These sediments consist of dark reddish brown
+to dark gray or black silty clay or clay.
+
+Hm131 Mississippi River levee deposits (meander belt 3, lower)-Mississippi River deposits comprising prominent natural levees flanking the older of two
+meander belts within Mississippi River meander belt 3.
+They consist of silt, silty clay, clayey silt, and some sand.
+
+Hrm Red River meander-belt deposits-point bar
+and associated overbank deposits underlying meander
+belts of the Red River. The surface of the meander belt
+is characterized by ridge and swale topography. These
+deposits typically consist of red to reddish brown
+sand, silt, silty clay, and sandy clay.
+
+Hs Small river deposits, undifferentiated
+(Calcasieu River)-undifferentiated alluvial deposits
+consisting of natural levee, overbank, and abandoned
+channels within the Calcasieu River valley.
+
+Hrl Red River natural levee deposits-natural levee
+deposits of the Red River that comprise low natural
+levees that flank the meander belts of the Red River.
+These sediments typically consist of yellowish red
+to reddish brown silt, silty clay, sandy clay, and some
+sand.
+.
+
+PLEISTOCENE
+LOESS
+
+[pattern] Peoria Loess-Eolian silt veneer of Late
+Wisconsin age, mantling Pleistocene strata. Loess is
+shown where the total thickness is 1 meter or greater.
+[pattern] Sicily Island Loess-Eolian silt veneer,
+possibly of early to middle Wisconsin age,mantling
+Pleistocene strata. Loess is shown where the total
+thickness is 1 meter or greater.
+
+Hrs Red River crevasse splay deposits-Red
+River sediments that form fan-like crevasse splays that
+originate from the Red River. Typically they consist of
+
+6
+
+F ---
+
+I
+I
+
+DEWEYVILLE ALLOGROUP
+
+tocene streams. Deposits associated with these valleys
+are commonly found within the upper portions of the
+drainage basins. The surface is blanketed by Peoria
+Loess near the loess source (the Mississippi River flood
+plain), and the sediments at the top of the unit range
+from sand to clay. Includes the Avoyelles Prairie of
+central Louisiana and the Lafayette meander
+belt of southwestern Louisiana.
+
+Pd Deweyville Allogroup, undifferentiatedalluvial deposits of ancestral late Pleistocene coastal
+plain streams and certain Mississippi River tributaries.
+In the Ville Platte quadrangle, the Deweyville is
+concentrated along the Calcasieu river valley. Multiple
+levels are locally recognized and delineated where
+applicable. Surface deposits are generally sandy and
+grade to sandy and gravelly channel and point-bar
+deposits. Surface morphology can be veneered by
+younger alluvium. The Deweyville geomorphic surface
+is topographically inset into the Prairie Allogroup or older
+deposits, and it is characterized by meander scars substantially larger than those of modern stream flood plains.
+
+Ppbc Big Cane alloformation-Peoria Loesscovered surface that lies below the level of the
+Avoyelles and Lafayette Prairies, and is partially buried
+by Holocene Red River alluvium. Possibly meanderbelt deposits of a late Pleistocene Red River.
+Ppav Avoyelles alloformation-meander-belt
+deposits of the late Pleistocene MiSSissippi River
+terraced above and parallel to its alluvial valley in
+central Louisiana. Remnants of constructional meander-belt morphology are preserved. The surface is
+blanketed by Peoria Loess, and the sediments at the
+top of the unit range from sand to clay.
+
+Pds Sandjack alloformation-alloformation of the
+Deweyville Allogroup along the Sabine River that is
+intermediate in age and topographic position between
+the Merryville and Fredonia alloformations.
+Deweyville, Texas lies on the surface of the Sandjack
+alloformation.
+Pdm Merryville alloformation-oldest
+alloformation underlying the topographically highest
+surface of the Deweyville Allogroup along the Sabine
+River. The terrace of the Merryville alloformation lies
+on the Louisiana side of the Sabine River valley
+directly across from
+Deweyville, Texas.
+
+Includes the Lafayette meander belt, which is made
+up of meander-belt deposits of the late Pleistocene
+Mississippi River terraced above and parallel to its
+western valley wall and cut into the Prairie Allogroup,
+Early Sangamon, Beaumont Alloformation in southwestern Louisiana. This subunit is characterized by
+preserved remnants of constructional meander-belt
+morphology. Two flood plain levels are locally recognized. The surface is blanketed by Peoria Loess near
+the Mississippi River flood plain, and the sediments at
+the top of the unit range from sand to clay.
+
+PRAIRIE ALLOGROUP
+Pp Prairie Allogroup, undifferentiated-a diverse
+depositional sequence of late to middle Pleistocene
+deposits of the Mississippi River, its tributaries, and
+coastal plain streams; includes terraces, fluvial (meander-belt, backswamp, and braided-stream), colluvial,
+estuarine, deltaic, and marine units deposited over a
+considerable part of the late Pleistocene (Wisconsin to
+Sangamon). Surfaces generally show little dissection
+and are topographically higher than the Deweyville.
+Multiple levels are recognized along alluvial valleys and
+coast-parallel trends. The Prairie is locally mapped as
+undifferentiated alluvial terraces, especially where
+discontinuous surfaces are incised into older complexes
+within valleys.
+
+Ppe Prairie Allogroup, Early Sangamon-older of
+the Prairie Allogroup temporal phases; an equivalent of
+the Beaumont of Texas and Eunice Terrace of southwestern Louisiana. A diverse depositional sequence of
+flood plain, meander-belt, and backswamp deposits of
+the middle Pleistocene ancestral Mississippi River, Red
+River, local fluvial equivalents of tributary streams, and
+coastal plain streams. Where this unit is mapped near
+the Mississippi River flood plain, it is blanketed by
+both Peoria and Sicily Island Loess or loess-derived
+colluvium. The unit dips into the subsurface beneath the
+Pleistocene Prairie Allogroup, Late Sangamon, in the
+coast-parallel region, but is commonly terraced above the
+Prairie Allogroup, Late Sangamon, in stream valleys. The
+sediments are generally clay, silty clay loam, or sandy clay
+loam, and in places include sand and gravel. Includes the
+Beaumont Alloformation in southwestern Louisiana.
+
+Ppl Prairie Allogroup, Late Sangamon-alluvial
+deposits of ancestral late Pleistocene streams. In the
+coast-parallel Prairie the unit consists of meander-belt
+deposits of the late Pleistocene Mississippi River, and
+west of the Mississippi River deposits the unit consists
+of the ancestral coastal plain deposits of late Pleis-
+
+7
+
+Ppbe Beaumont Alloformation--oldest and
+topographically highest of the Prairie surfaces of
+southwestern Louisiana. It exhibits the relict channels
+of the Red and Calcasieu rivers and includes deposits
+of the Ingleside barrier trend to the southwest of the
+Ville Platte quadrangle. It is composed of coastal plain
+deposits of late to middle Pleistocene streams.
+
+PH Lissie Alloformation-dissected alluvial
+deposits of early Pleistocene streams. Previously the
+Bentley Terrace in southwestern Louisiana. The
+regionally extensive Upland geosol occurs at the top of
+the unit. The unit is bounded updip by the Willis
+surface and down dip by younger subunits of the
+Intermediate Allogroup.
+
+INTERMEDIATE ALLOGROUP
+
+UPLAND ALLOGROUP
+
+Pi Intermediate Allogroup, undifferentiatedfluvial deposits of the Mississippi River, its tributaries,
+and coastal plain streams; includes terraces locally
+designated as Lissie, Elizabeth, and Oakdale. Topographically, the Intermediate is commonly higher than
+the Prairie Allogroup and lower than the Upland
+Allogroup and Tertiary formations. It is generally
+dissected and lacks distinct constructional topography.
+Where mapped near the Mississippi River flood plain, the
+unit is blanketed by Sicily Island Loess, which is overlain
+by less than 1 m of Peoria Loess in locations southwest of
+where the Red and Mississippi river flood plains meet.
+The sediments are generally silt loam or loam.
+
+Pou Upland Allogroup, undifferentiated-alluvial
+deposits of early Pleistocene and Plio-Pleistocene
+streams from both glacial and nonglacial sources.
+Includes higher fluvial terraces previously designated as
+Bentley and Williana as well as the Pliocene Lafayette
+and Willis formations. The regionally extensive
+Upland geosol occurs at the top of the allogroup.
+Where mapped near the Mississippi River flood plain,
+the unit is blanketed by Sicily Island Loess, which is
+overlain by less than 1 m of Peoria Loess in locations
+southwest of where the Red and Mississippi river flood
+plains meet. Sediments are generally tan to reddish clay
+loam or sandy loam that grades to sand and gravel.
+Local stringers and lenses of clay are present.
+
+Pio Oakdale alloformation-alluvial deposits of
+middle Pleistocene streams in southwestern Louisiana.
+It lies in elevation between the higher surfaces of the
+Intermediate and Upland allogroups and the Prairie
+Allogroup, Early Sangamon. The surface is highly
+dissected and lacks any constructional topography.
+Previously the Oberlin surface of southwestern Louisiana.
+
+Pouw Willis Formation-deeply dissected alluvial
+deposits of Pliocene streams originating from
+nonglacial sources. Previously designated as the
+Williana Terrace in southwestern Louisiana. The unit
+is unconformably underlain by Tertiary formations of
+Miocene to Eocene age updip of the Ville Platte
+quadrangle to the north, and it is bounded downdip
+by the Lissie surface. The regionally extensive Upland
+geosol occurs at the top of the unit.
+
+Pie Elizabeth alloformation-alluvial deposits of
+middle Pleistocene streams in southwestern Louisiana
+that are older than the Oakdale surface and lie above
+it. The Elizabeth surface is highly dissected and lacks
+any constructional topography.
+
+8
+
+r
+Bibliography
+
+-
+
+1991. Geomorphic regions. In Overview, Inventory, and Assessment of Cultural Resources in the
+Louisiana Coastal Zone. Published report prepared
+for Coastal Management Division, Department of
+Natural Resources, under contract SFP No. 2510190-09. New Orleans, La.: R. Christopher Goodwin
+and Associates. Pp. 42-65.
+
+-
+
+1993a. Geomorphology. In H. Vigander and B.
+Maygarden, eds., Cultural Resources Inventory of
+Public Access Lands in the Atchafalaya Basin,
+Vicinity of the Sherburne Wildlife Management
+Area, Pointe Coupee, St. Martin, and Iberville
+Parishes, Louisiana. Draft report for the U.S. Army
+Corps of Engineers, New Orleans district, under
+contract no. DACW29-92-D-0012, Delivery Order
+No.4. New Orleans, La.: Earth Search, Inc. Pp. 1150.
+
+-
+
+1993b. Geomorphology and geology. In T. KcKan,
+B. Maygarden, and P. V. Heinrich, Cultural Resources Survey of EABPL Off-Site Borrow Areas,
+Levee Items E-64, E-76, and E-64a, Iberville,
+Iberia, and Assumption Parishes. Report for the
+U.S. Army Corps of Engineers, New Orleans
+district, under contract no. DACW29-92-D-0012,
+Delivery Order No.5. New Orleans, La.: Earth
+Search, Inc. Pp. 5-20.
+
+-
+
+1994. Surface residual fault-line scarps of the Lake
+Charles quadrangle, southwestern Louisiana.
+Unpublished map. Baton Rouge: Louisiana Department of Natural Resources, Louisiana Geological
+Survey. Scale 1:250,000.
+
+Autin, W. J. 1996. Pleistocene stratigraphy in the
+southern Lower Mississippi Valley. Engineering
+Geology 45:87-112.
+Autin, W. J., A. T. Davison, B. J. Miller, W. J. Day,
+and B. A. Schumacher 1988. Exposure oflate
+Pleistocene meander-belt facies at Mt. Pleasant,
+Louisiana. Transactions of the Gulf Coast Association of Geological Societies 38:375-383.
+Autin, W. J., S. F. Burns, B. J. Miller, R. T. Saucier,
+and J. 1. Snead 1991. Quaternary geology of the
+Lower Mississippi Valley. In R. B. Morrison, ed.,
+Quaternary nonglacial geology: conterminous U.S.
+The Geology of North America, v. K-2. Boulder,
+Colo.: Geological Society of America. Pp. 547-582.
+Autin, W. J., and R. P. McCulloh, comps. 1992. New
+Roads geologic quadrangle map plus explanation
+and notes. Prepared in cooperation with the U.S.
+Geological Survey, COGEOMAP program, under
+cooperative agreement no. 14-08-0001-A0863.
+Baton Rouge: Louisiana State University, Louisiana
+Geological Survey. Scale 1: 100,000.
+Doering, J. A. 1956. Review of Quaternary surface
+formations of the Gulf Coast region. Bulletin of the
+American Association of Petroleum Geologists
+40:1816-1862.
+Durham, C. 0., Jr., and E. M. Peeples III 1956.
+Pleistocene fault zone in southeastern Louisiana.
+Abstract. Transactions of the Gulf Coast Association
+of Geological Societies 6:65-66.
+
+Heinrich, P. v., and R. P. McCulloh 1999. Pliocene
+Series. In R. P. McCulloh and P. V. Heinrich,
+Geology of the Fort Polk region, Sabine,
+Natchitoches, and Vernon Parishes, Louisiana. Final
+report prepared for the U.S. Army Corps of Engineers, Fort Worth district, under contract no.
+DACA63-95-D-0051, delivery order no. 0008.
+Baton Rouge: Louisiana State University, Louisiana
+Geological Survey. Pp. 43-69.
+
+Fisk, H. N. 1938. Geology of Grant and La Salle
+Parishes. Geological bulletin no. 10 (includes two
+1:62,500-scale geologic maps). Baton Rouge:
+Louisiana Department of Conservation, Louisiana
+Geological Survey. 246 pp. plus plates.
+-
+
+-
+
+1940. Geology of Avoyelles and Rapides Parishes.
+Geological bulletin no. 18 (includes one 1:62,500scale geologic map). Baton Rouge: Louisiana
+Department of Conservation, Louisiana Geological
+Survey. 240 pp. plus plates.
+
+Heinrich, P. v., and Autin, W. J., comps. 2000, Baton
+Rouge 30 x 60 Minute Geologic Quadrangle:
+Louisiana Geological Survey, Baton Rouge, Scale
+1:100,000.
+
+1944. Geological investigation of the alluvial valley
+of the lower Mississippi River. Vicksburg, Miss.:
+U.S. Army Corps of Engineers. 78 pp. plus
+plates. viii
+
+Heinrich, P., Snead, J., and McCulloh, R. P., 2002,
+Lake Charles 30 x 60 Minute Geologic Quadrangle:
+Louisiana Geological Survey, Baton Rouge,Scale
+1:100,000.
+
+Heinrich, P. V. 1988. Tectonic origin of Montgomery
+terrace scarp of southwestern Louisiana. Abstract.
+Transactions of the Gulf Coast Association of
+Geological Societies 38:582.
+
+9
+
+Heinrich, P., Snead, J., and McCulloh, R. P., 2003,
+Crowley 30 x 60 MinuteGeologic Quadrangle:
+Louisiana Geological Survey, Baton Rouge, Scale
+1:100,000
+
+agreement no. 14-08-0001-A0878. Baton Rouge:
+Louisiana Department of Natural Resources,
+Louisiana Geological Survey. Scale 1:250,000.
+Rogers, J. E., and A. J. Calandro 1965. Water Resources of Vernon Parish, Louisiana. Water resources bulletin no. 6 (includes one 1: 126,720-scale
+geologic map). Baton Rouge: Louisiana Department
+of Conservation, Louisiana Geological Survey. 104
+pp. plus plates.
+
+Hinds, D. J. 1997a. A report to accompany the
+geologic map, Fort Polk area, western Louisiana,
+scale 1:24,000. Unpublished report (includes one
+1:24,000-scale geologic map). Baton Rouge:
+Louisiana State University. 49 pp. plus plates.
+-
+
+1997b. A report to accompany the geologic map,
+Slagle area, western Louisiana, scale 1:24,000.
+Unpublished report (includes one 1:24,000-scale
+geologic map). Baton Rouge: Louisiana State
+University. 61 pp. plus plates.
+
+McCulloh, R. P. 1991. Surface faults in East Baton
+Rouge Parish. Open-file series no. 91-02. Baton
+Rouge: Louisiana Department of Natural Resources, Louisiana Geological Survey. 25 pp. plus
+plate (five sheets).
+
+-
+
+1998a. Neogene Stratigraphy and Depositional
+Environments of the Fort Polk and Slagle Area,
+Western Louisiana. M.S. thesis (includes two
+geologic maps at an approximate scale of 1:53,333).
+Baton Rouge: Louisiana State University. 100 pp.
+plus plates
+
+-
+
+1992. Geomorphic expression of Quaternary
+surface faults of the Baton Rouge fault system, East
+Baton Rouge Parish, southeastern Louisiana coastal
+plain, USA. Abstract. Kyoto, Japan: 29th International Geological Congress 2:395.
+
+-
+
+1996. Topographic criteria bearing on the interpreted placement of the traces of faults of the Baton
+Rouge system in relation to their fault-line scarps.
+Open-file series no. 96-01. Baton Rouge: Louisiana
+Department of Natural Resources, Louisiana
+Geological Survey. 13 pp.
+
+-
+
+-
+
+1998b. Geologic map of the Fort Polk area, Vernon
+Parish, Louisiana. Geologic quadrangle map no.
+GQ1. Produced in cooperation with U.S. Geological Survey, EDMAP program, under assistance
+award no. 1434-HQ96-AG-01535. Baton Rouge:
+Louisiana State University, Louisiana Geological
+Survey. Scale 1:24,000.
+
+Miller, B. J. 1983. Louisiana loess (Lake Charles
+quadrangle). Unpublished map. Baton Rouge:
+Louisiana Department of Natural Resources,
+Louisiana Geological Survey. Scale 1:250,000.
+
+1998c. Geologic map of the Slagle area, Vernon
+Parish, Louisiana. Geologic quadrangle map no.
+GQ2. Produced in cooperation with U.S. Geological Survey, EDMAP program, under assistance
+award no. 1434-HQ97-AG-01753. Baton Rouge:
+Louisiana State University, Louisiana Geological
+Survey. Scale 1:24,000.
+
+Mossa, J., and B. J. Miller 1989. Tickfaw trend sand
+hills. In Mossa, J., and W. J. Autin, eds., Quaternary Geomorphology and Stratigraphy of the
+Florida Parishes, Southeastern Louisiana: A Field
+Trip. Guidebook series no. 5. Baton Rouge: Louisiana Department of Natural Resources, Louisiana
+Geological Survey. Pp. 49-58.
+
+Holland, W. c., L. W. Hough, and G. E. Murray
+1952. Geology of Beauregard and Allen Parishes.
+Geological bulletin no. 27 (includes two 1:62,500scale geologic maps). Baton Rouge: Louisiana
+Department of Conservation, Louisiana Geological
+Survey. 224 pp. plus plates.
+
+Rogers, J. E., and A. J. Calandro 1965. Water Resources of Vernon Parish, Louisiana. Water resources bulletin no. 6 (includes one 1: 126,720-scale
+geologic map). Baton Rouge: Louisiana Department
+of Conservation, Louisiana Geological Survey. 104
+pp. plus plates.
+
+Jones, P. H., E. L. Hendricks, B. Irelan, A. N. Turcan,
+H. E. Skibitzke, and F. N. Hansen 1956. Water
+resources of southwestern Louisiana. Water Supply
+Paper no. 1364. Reston, Va.: U.S. Geological
+Survey. 460 pp.
+
+Russ, D. P. 1975. The Quaternary Geomorphology of
+the Lower Red River Valley, Louisiana. Ph.D.
+dissertation. University Parle: Pennsylvania State
+University. 208 pp. plus plates.
+
+Louisiana Geological Survey 1993. Alexandria geologic
+quadrangle map plus explanation and notes.
+Prepared in cooperation with U.S. Geological
+Survey, COGEOMAP program, under cooperative
+
+Saucier, R. T. 1974. Quaternary geology of the Lower
+Mississippi Valley. Research series no. 6. Fayetteville:
+Arkansas Archaeological Survey. 26 pp.
+
+10
+
+r
+-
+
+1994. Geomorphology and Quaternary geologic
+history of the Lower Mississippi Valley. Vicksburg,
+Miss.: U.S. Army Corps of Engineers, Waterways
+Experiment Station. Volumes I (364 pp. plus
+appendices) and II (28 oversized plates).
+
+the U.S. Geological Survey, STATEMAP program,
+under cooperative agreement no. 1434-HQ97-AG01812. Scale 1:500,000.
+Varvaro, G. G. 1957. Geology of Evangeline and St.
+Landry Parishes. Geological bulletin no. 31 (includes one 1:62,500-scale geologic map). Baton
+Rouge: Louisiana Department of Conservation,
+Louisiana Geological Survey. 295 pp. plus plates.
+
+Saucier, R. T., and]. 1. Snead, comps. 1989. Quaternary geology of the Lower Mississippi Valley. Plate 6
+in Morrison, R. B., ed., Quaternary nonglacial
+geology: conterminous U. S. The Geology of North
+America, v. K-2. Boulder, Colo.: Geological Society
+of America. Scale 1:1,100,000.
+
+Welch, R. N. 1942. Geology of Vernon Parish.
+Geological bulletin no. 22 (includes one 1:62,500scale geologic map). Baton Rouge: Louisiana
+Department of Conservation, Louisiana Geological
+Survey. 90 pp. plus plates.
+
+Saxton, D. C. 1986. Quaternary and Environmental
+Geology of North Lafayette Parish, Louisiana. M.S.
+thesis. Lafayette: University of Southwestern
+Louisiana. 121 pp.
+Smith, F. L., and D. P. Russ 1974. Geological investigation of the Lower Red River-Atchafalaya Basin
+area. Technical report S-74-5. Vicksburg, Mississippi: U.S. Army Corps of Engineers, Waterways
+Experiment Station.
+Snead,]. 1., and R. P. McCulloh, comps. 1984.
+Geologic map of Louisiana. Baton Rouge: Louisiana Department of Natural Resources, Louisiana
+Geological Survey. Scale 1:500,000.
+Snead,]. 1., P. V. Heinrich, and R. P. McCulloh,
+comps. 1995a. De Ridder [Louisiana portion] 30 x
+60 minute geologic quadrangle (preliminary) map
+plus explanation and notes. Prepared in cooperation
+with the U.S. Geological Survey, STATEMAP
+program, under cooperative agreement no. 143494-A-1233. Baton Rouge: Louisiana Department of
+Natural Resources, Louisiana Geological Survey.
+Scale 1:100,000.
+-
+
+1995b. Ville Platte 30 x 60 minute geologic
+quadrangle (preliminary) map plus explanation and
+notes. Prepared in cooperation with the U.S.
+Geological Survey, STATEMAP program, under
+cooperative agreement no. 1434-94-A-1233. Baton
+Rouge: Louisiana Department of Natural Resources, Louisiana Geological Survey. 1: 100,000scale.
+
+Snead, J., Heinrich, P., and McCulloh, R. P., 2002,
+Ville Platte 30 x 60 Minute Geologic Quadrangle:
+Louisiana Geological Survey, Baton Rouge, Scale
+1:100,000.
+Snead, J. 1., P. V. Heinrich, R. P. McCulloh, and W. J.
+Autin, comps. 1998. Quaternary geologic map of
+Louisiana. Unpublished map plus 12 pp. expanded
+explanation and notes. Prepared in cooperation with
+
+11
+
+I
+
+"
+
+louisiana Geological Survey
+louisiana State University
+3079 Energy, Coast and Environment Building
+Baton Rouge, louisiana 70803
+Tel: 225/578.5320
+Fax: 225/578.3662
+www.lgs.lsu.edu
+
+I
+
+.......I
+
+

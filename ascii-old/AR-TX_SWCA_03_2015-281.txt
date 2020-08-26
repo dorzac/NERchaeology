@@ -1,0 +1,6020 @@
+Intensive Cultural Resources Survey
+for the Easton Park Development Project,
+Travis County, Texas
+
+Prepared for
+
+Brookfield Residential
+
+Prepared by
+
+SWCA Environmental Consultants
+
+Texas Antiquities Permit 6810
+SWCA Cultural Resource Report No. 14-281
+October 2014
+
+INTENSIVE CULTURAL RESOURCES SURVEY FOR THE
+EASTON PARK DEVELOPMENT PROJECT
+TRAVIS COUNTY, TEXAS
+
+Prepared for
+BROOKFIELD RESIDENTIAL
+9737 Great Hills Trail, Suite 260
+Austin, Texas 78759
+
+Prepared by
+Matthew C. Stotts, Kristen Brown, and Ken Lawrence
+
+SWCA ENVIRONMENTAL CONSULTANTS
+4407 Monterey Oaks Boulevard
+Building 1, Suite 110
+Austin, Texas 78749
+www.swca.com
+
+Principal Investigator
+Ken Lawrence
+
+Texas Antiquities Permit No. 6810
+
+SWCA Project Number 28563-AUS
+SWCA Cultural Resources Report No. 14-218
+
+October 20, 2014
+
+ABSTRACT
+On behalf of Brookfield Residential, SWCA Environmental Consultants (SWCA) conducted an intensive
+cultural resources investigation of the proposed Easton Park Development Project in southeast Austin,
+Travis County, Texas. The project involves the construction of a roughly 2.0-mile-long extension of
+William Cannon Drive that ranges between 150 and 330 feet in width, and encompasses 71.3 acres. It would
+begin at McKinney Falls Parkway and end at U.S. Route 183. The project also proposes to develop 230.7
+acres adjacent to the roadway extension for residential use. The area of potential effects (APE) is defined
+as the 2.0-mile corridor and the adjoining parcels, totaling 302 acres.
+The proposed road right-of-way will eventually be controlled by Travis County, a political subdivision of
+the State of Texas; therefore, compliance with the Antiquities Code of Texas is necessary. Additionally, the
+project must comply with application requirements for a U.S. Army Corps of Engineers Ft. Worth District
+Section 404 permit in accordance with 33 CFR Part 325, Appendix C (Processing Department of Army
+Permits: Procedures for the Protection of Historic Properties; Final Rule 1990; with current Interim
+Guidance Document dated June 24, 2002) and with Section 106 of the National Historic Preservation Act
+(16 USC 470), and its implementing regulations (36 CFR 800). Portions of the project within the 100-year
+floodplain may also be subject to permitting by the Federal Emergency Management Agency and require
+Section 106 compliance, as well.
+The goal of the work was to locate all prehistoric and historic archaeological sites within the proposed APE,
+establish vertical and horizontal site boundaries as appropriate, and evaluate the significance and eligibility
+of any site recorded for inclusion to the National Register of Historic Places (NRHP) or designation as a
+State Antiquities Landmark (SAL). The investigations were initiated with a background review of previous
+work, historic map review, and an archival review of the APE parcels. Field work involved an intensive
+pedestrian survey with shovel testing of the APE. The background review determined that portions of the
+APE have been previously surveyed and that two archaeological sites consisting of a prehistoric lithic
+scatter (41TV2196) and a twentieth-century farmstead (41TV2366) are within the APE. Both sites were
+recommended as not eligible for inclusion to the NRHP or designation as an SAL. Historic maps revealed
+approximately 20 possible historic-age structures within or adjacent to the property, dating back to 1896.
+While the archival review determined that property ownership for some of the APE parcels extends back
+to the late-nineteenth century, no historically significant individuals or families owned the properties.
+All field work was conducted March 10–20, 2014, during which time a total of 168 shovel tests were
+systematically excavated across the APE. The intensive pedestrian field effort revealed that the proposed
+APE is within a semi-rural setting that is quickly becoming more urbanized. The APE exhibits prior
+modifications from residential and agricultural development and associated utility installations. The
+investigations revisited sites 41TV2196 and 41TV2366, documented four new archaeological sites
+(41TV2456–41TV2459), and encountered three isolated artifacts (IF01–IF03). The cultural resources that
+were encountered are primarily associated with historic homestead and farmstead structures and activities
+from the early- to mid-twentieth century. Based on a variety of factors, none of the archaeological sites
+recorded or revisited during this survey are recommended for listing in the NRHP or as an SAL.
+In accordance with 36 CFR 800.4, SWCA has made a reasonable and good faith effort to identify cultural
+resources within the APE. As no properties were identified that meet the criteria for listing in the NRHP,
+according to 36 CFR 60.4, or for designation as an SAL, according to 13 TAC 26.12, SWCA recommends
+no further cultural resources investigations are warranted within the project APE.
+
+i
+
+ACKNOWLEDGEMENTS
+Ken Lawrence served as Principal Investigator for the duration of the project, ably overseeing overall
+logistics and organization, and managing reporting and agency consultation. Matthew Stotts acted as Project
+Archaeologist, performing the investigations with the assistance of Field Technicians Mercedes Cody,
+Mary Noell, and Krista Flores. Carole Carpenter expertly produced all field and report maps for the project,
+while Lauri Logan and Mary Jo Galindo provided editorial and technical review.
+
+ii
+
+TABLE OF CONTENTS
+Introduction................................................................................................................................................... 1
+Project Area Description ............................................................................................................................... 1
+Environmental Setting .............................................................................................................................. 3
+Geology and Soils ................................................................................................................................. 3
+Vegetation ............................................................................................................................................. 3
+Faunal ................................................................................................................................................... 3
+Cultural Setting ......................................................................................................................................... 4
+Paleoindian Period ................................................................................................................................ 4
+Archaic Period ...................................................................................................................................... 4
+Early Archaic ........................................................................................................................................ 5
+Middle Archaic ..................................................................................................................................... 5
+Late Archaic.......................................................................................................................................... 5
+Transitional Archaic ............................................................................................................................. 5
+Late Prehistoric Period.......................................................................................................................... 6
+Spanish Colonial/Mexican Independence Period (1630–1820s) .............................................................. 6
+Republic of Texas/Pre-Civil War (1836–1860) ........................................................................................ 7
+The Post–Civil War to Twentieth Century (1865–1950) .......................................................................... 7
+Methods ........................................................................................................................................................ 7
+Background Review .................................................................................................................................. 7
+Field Methods ........................................................................................................................................... 8
+Site Evaluations ........................................................................................................................................ 8
+Results........................................................................................................................................................... 8
+Background Review .................................................................................................................................. 8
+Field Survey ............................................................................................................................................ 12
+Proposed Travis County ROW ........................................................................................................... 12
+100-year Floodplain ............................................................................................................................ 15
+Proposed Development- Areas 1A, 1B, and 1C.................................................................................. 16
+Site 41TV2196 .................................................................................................................................... 16
+Site 41TV2366 .................................................................................................................................... 19
+Site 41TV2456 .................................................................................................................................... 22
+Site 41TV2457 .................................................................................................................................... 26
+Site 41TV2458 .................................................................................................................................... 29
+Site 41TV2459 .................................................................................................................................... 32
+Isolated Finds ...................................................................................................................................... 34
+Summary and Recommendations ............................................................................................................... 35
+References Cited ......................................................................................................................................... 37
+
+iii
+
+FIGURES
+Figure 1. Project location map. ........................................................................................................... 2
+Figure 2. Project area map. ............................................................................................................... 13
+Figure 3. Survey results map. ........................................................................................................... 14
+Figure 4. Project overview, facing west. ........................................................................................... 15
+Figure 5. Basalt outcrop, facing south. ............................................................................................. 15
+Figure 6. Waterline disturbance, facing east. .................................................................................... 15
+Figure 7. Cottonmouth Creek, facing south. ..................................................................................... 16
+Figure 8. Fire hydrant, facing east. ................................................................................................... 16
+Figure 9. Site 41TV2196 map. .......................................................................................................... 17
+Figure 10. Site 41TV2456 map. ........................................................................................................ 18
+Figure 11. Site 41TV2196 perimeter beam, facing north. ................................................................ 19
+Figure 12. Site 41TV2196 levee, facing northeast............................................................................ 20
+Figure 13. Site 41TV2366 map. ........................................................................................................ 21
+Figure 14. Outhouse and house, facing northeast. ............................................................................ 22
+Figure 15. Prehistoric- and historic-age artifacts. ............................................................................. 23
+Figure 16. Resource 1, facing southwest. ......................................................................................... 23
+Figure 17. Resource 5, facing northeast. ........................................................................................... 24
+Figure 18. Resources 9, 13a, and 13b, facing north. ......................................................................... 25
+Figure 19. Site 41TV2457 map. ........................................................................................................ 27
+Figure 20. Site 41TV2457 overview, facing east. ............................................................................. 28
+Figure 21. Site 41TV2457 Resource 1, facing southwest. ................................................................ 28
+Figure 22. Site 41TV2458 map. ........................................................................................................ 30
+Figure 23. Site 41TV2458 Resource 2, facing west.......................................................................... 31
+Figure 24. Site 41TV2458 Resource 6, facing east. .......................................................................... 31
+Figure 25. Site 41TV2459 map. ........................................................................................................ 33
+Figure 26. Site 41TV2459 Resource 1, facing north. ....................................................................... 34
+Figure 27. Site 41TV2459 Resource 2, facing north. ....................................................................... 34
+Figure 28. Isolated Artifacts: IF01 and IF02..................................................................................... 34
+Figure 29. Isolated Artifact 3, facing northwest. .............................................................................. 35
+TABLES
+Table 1. Easton Park Archaeological Sites. ...................................................................................... 10
+APPENDICES
+Appendix A. Shovel Test Data
+
+iv
+
+(USACE) Ft. Worth District Section 404 permit in
+accordance with 33 CFR Part 325, Appendix C
+(Processing Department of Army Permits:
+Procedures for the Protection of Historic Properties;
+Final Rule 1990; with current Interim Guidance
+Document dated June 24, 2002).
+
+INTRODUCTION
+On behalf of Brookfield Residential, SWCA
+Environmental Consultants (SWCA) conducted an
+intensive cultural resources survey of the proposed
+Easton Park Development (EPD) Project in
+southeast Austin, Travis County, Texas (Figure 1).
+The EPD project would connect the existing portion
+of East William Cannon Drive with U.S. Route 183
+(US 183). The western terminus of the
+approximately 2.0-mile roadway extension begins
+at the intersection of East William Cannon Drive
+and McKinney Falls Parkway. The alignment then
+progresses in a southeastern direction for 2.0 miles
+to its eastern terminus near the intersection of Farmto-Market (FM) 1625 and US 183. The width of the
+right-of-way (ROW) varies throughout the project
+area. Roughly 0.4 mile of the proposed new ROW
+is 150 feet wide, while the remaining 1.6 miles is
+330 feet wide, encompassing a total of about 71.3
+acres.
+
+The purpose of the work was to locate and identify
+all prehistoric and historic archaeological sites in
+the APE, establish vertical and horizontal site
+boundaries as appropriate with regard to the APE,
+and evaluate the significance and eligibility of any
+site recorded within the APE for inclusion to the
+National Register of Historic Places (NRHP), or for
+designation as a State Antiquities Landmark (SAL).
+Matthew Stotts served as Project Archaeologist,
+conducting survey investigations with Field
+Technicians Mercedes Cody, Mary Noell, and
+Krista Flores in March 2014.
+
+PROJECT AREA DESCRIPTION
+The APE is situated in southern Travis County,
+specifically southeast Austin, and in a semi-rural
+setting surrounded by rolling, open pastures and
+intermittent residential housing. The overall APE
+slopes southeast dropping from 600 feet above
+mean sea level (amsl) on the west end to 535 feet
+amsl on the east end. The APE is bisected by
+Cottonmouth Creek, a northward-flowing drainage
+that empties into Onion Creek about 3.0 miles
+downstream from the APE (see Figure 1). The APE
+consists primarily of open pasture with scattered
+oaks and various hardwoods, particularly along the
+riparian corridor of Cottonmouth Creek. The
+southern slope of the prominent Pilot Knob runs
+through the center of the APE.
+
+The parcels adjacent to the roadway extension are
+also proposed for development, and encompass
+about 230.7 acres. The depth of impacts are not
+known at this time, but are expected not to exceed
+5 feet below ground surface. The area of potential
+effects (APE) is defined as the 2.0-mile-long
+corridor and adjoining parcels, totaling 302 acres.
+The intensive cultural resources survey conducted
+by SWCA included a background literature review
+and a 100 percent pedestrian inspection with shovel
+testing in accordance with the guidelines provided
+in Section 106 of the National Historic Preservation
+Act (NHPA) (16 USC 470), and its implementing
+regulations (36 CFR 800) and the Council of Texas
+Archeologists (CTA) Guidelines. All work
+conducted within the APE was done in compliance
+with the Antiquities Code of Texas under Permit
+No. 6810, with Ken Lawrence as Principal
+Investigator. The 46-acre 100-year floodplain was
+surveyed in accordance with Section 106 of the
+NHPA, in anticipation of possible permitting
+requirements by the Federal Emergency
+Management Agency (FEMA), and as part of the
+sponsor's
+compliance
+with
+application
+requirements for a U.S. Army Corps of Engineers
+
+Known disturbances within the APE include
+vegetation clearing, residential and agricultural
+activities, and the construction and maintenance of
+numerous two-track roadways. Other notable
+disturbances that are evident along the margins of
+the APE on adjacent properties include, grading and
+clearing activities, utility installations (overhead
+and subsurface), and residential construction.
+
+1
+
+Figure 1. Project location map.
+
+2
+
+ENVIRONMENTAL SETTING
+
+(NRCS 2014). Finally, Eddy gravelly loam (3–6
+percent slopes) comprises a small portion of the
+western end of the APE. It is characterized as
+shallow to very shallow, well-drained soils that
+originated from chalky limestone and typically
+occupies gently sloping to steep upland areas
+(NRCS 2014).
+
+Geology and Soils
+Geologically, the overwhelming majority of the
+APE is mapped as Upper Cretaceous-aged Igneous
+rocks (Ki) a formation localized to Pilot Knob
+(Barnes 1995). These deposits are described as
+nontronite and basalt intruded into the pyroclastics
+(i.e., volcanic materials) of extinct Pilot Knob
+volcano (Barnes 1995). Notably, portions of the
+APE are situated along the southern slopes of the
+prominent Pilot Knob, which is a complex of small,
+rounded hills derived from the core of the extinct
+volcano that was buried in shallow sea deposits of
+clay and marl (Spearing 1991:65). A small portion
+near the southeastern edge of the APE is mapped as
+Upper Cretaceous-aged clay of the Ozan Formation
+(Ko) that is characterized as light-gray-to-brown
+clay and marl with variable amounts of quartz and
+calcite fragments (Barnes 1995).
+
+Vegetation
+The APE is situated along the margin of the
+Edwards Plateau and the Blackland Prairie regions
+(Everitt et al. 2002; Kutac and Caran 1994). The
+Edwards Plateau forms a sharp boundary in floral
+distribution between the thin-soiled limestone
+uplands and the wide coastal plains. Upland areas
+are dominated by a mixed live oak (Quercus
+virginiana) and Ashe juniper (Juniperus ashei)
+woodland interspersed with occasional grassy
+openings. Other tree species present in low
+densities throughout these areas include cedar elm
+(Ulmus crassifolia) and Texas oak (Quercus
+fusiformis). Shrub density varies between low to
+dense in upland areas. Species occurring in low
+densities include Texas persimmon (Diospyros
+texana), agarita (Berberis trifoliolata), and prickly
+pear (Opuntia spp.) with thick, mixed grasses in
+areas (Van Auken 1988). Originally, the uplands of
+the Edwards Plateau sustained short grasses and the
+alluvial valleys had deciduous forests (Black
+1989:12). The lower elevation areas along the
+riparian zone often include a dense understory of
+acacia (Acacia spp.), prickly pear, and other brushy
+species (Petrides 1988; Simpson 1988).
+
+There are five soil units mapped within the APE
+that, in order of prevalence, include Behring clay,
+Houston black clay, Tinn clay, Heiden gravelly
+clay, and Eddy gravelly loam (NRCS 2014).
+Behring clay (1–5 percent slopes) is mapped in
+most of the open pasture areas east and west of
+Cottonmouth Creek and is characterized as deep
+permeable soils derived from shale, and situated on
+nearly level to sloping erosional uplands (NRCS
+2014).
+Houston black clay (0–5 percent slopes) is located
+at the southeastern end of the APE near US 183 and
+is described as very deep, permeable soil derived
+from Cretaceous-aged calcareous clays and marls
+that occupies nearly level to sloping uplands
+(NRCS 2014). The frequently flooded Tinn clay (0–
+1 percent slopes) soils correspond with
+Cottonmouth Creek and are characterized as very
+deep, well-drained, permeable soils formed in
+calcareous clayey alluvium. They are situated on
+floodplains of streams and drainages of the
+Blackland Prairie (NRCS 2014).
+
+Faunal
+Two biotic provinces divide Travis County (Blair
+1950). The western portions of Travis County lie
+within the Balconian biotic province that comprises
+the Edwards Plateau region (Blair 1950). The
+eastern portions of the county are within the Texan
+biotic province, which extends from central Texas
+to east-central Oklahoma (Blair 1950). The APE is
+situated within the eastern half of Travis County at
+the western edge of the Texan biotic province.
+
+Heiden gravelly clay (8–20 percent slopes) is
+mapped in the portion of the APE closest to Pilot
+Knob and is described as slowly permeable, welldrained, and deep soils derived from weathered
+shale and situated on moderately steep uplands
+
+The Balconian and Texan biotic provinces are
+transitional zones from the mesic forests of eastern
+North America to the xeric grasslands of the central
+United States. These provinces have a high faunal
+
+3
+
+diversity. Blair (1950) identified at least 49 species
+of mammals, 57 species of reptiles, and 23 species
+of amphibians native to the Texan biotic province.
+The Balconian contains 57 species of mammal,
+over 42 species of reptile, and 15 species of
+amphibians (Blair 1950). None of the fauna for the
+Balconian is restricted solely to this province (Blair
+1950).
+
+The following cultural-historic outline is based on
+the regional chronologies proposed by Collins
+(1995) and Johnson and Goode (1994), which build
+upon the seminal efforts of Suhm (1960) and
+Prewitt (1981, 1985). Using standard terminology,
+the cultural sequence is divided into four periods:
+Paleoindian, Archaic, Late Prehistoric, and
+Historic. The Archaic period is subdivided into four
+subperiods: Early, Middle, Late, and Transitional.
+
+Some native mammals common to the Texan biotic
+province include: opossum (Didelphis virginiana),
+eastern mole (Scalopus aquaticus), eastern fox
+squirrel (Sciurus niger), pocket gopher (Geomys
+breviceps),
+fulvous
+harvest
+mouse
+(Reithrodontomys fulvescens), white-footed mouse
+(Peromyscus leucopus), hispid cotton rat
+(Sigmodon hispidus), eastern cottontail rabbit
+(Sylvilagus floridanus), swamp rabbit (Sylvilagus
+aquaticus) (Burt and Grossenheider 1976).
+
+Paleoindian Period
+Paleoindian artifacts and sites date from about
+11,500 to 8800 years before present (B.P.) and are
+not uncommon in Central Texas (Collins 1995,
+2004), but are fairly rare in the APE (Bever and
+Meltzer 2007). The period begins at the close of the
+Pleistocene with the earliest evidence of humans in
+the Central Texas region. Diagnostic artifacts of the
+period include lanceolate-shaped, fluted projectile
+points such as Clovis, Folsom, and Plainview types.
+These projectile points were hafted onto wooden
+spears, launched from atlatls (spear throwers), and
+used to hunt a variety of game, including mammoth,
+mastodons, bison, camel, and horse (Black 1989).
+During the Paleoindian period, the prominent
+interpretation suggests a hunter-gatherer adaptation
+strategy with increased harvesting of flora and
+small game as the big game died off and the climate
+warmed following the end of the Pleistocene ice
+age. Representative Central Texas Paleoindian sites
+include Kincaid Rockshelter, Wilson-Leonard,
+Gault, and St. Mary’s Hall (Collins 1995).
+
+Mammals common to both of these provinces
+include coyote (Canis latrans), gray fox (Urocyon
+cinereoargenteus), mink (Mustela vison), muskrat
+(Ondata zibethica), raccoon (Procyon lotor),
+striped skunk (Mephitis mephitis), and white-tailed
+deer (Odocoileus virginianus). Historically, red
+wolf, bison and black bear ranged into or near these
+regions (Burt and Grossenheider 1976; Davis and
+Schmidly 1994; Schmidly 1983).
+The general reptilian assemblage for both provinces
+include the Great Plains rat snake (Elaphe guttata
+emoryi), Eastern yellowbelly racer (Coluber
+constrictor flaviventris), Yellow mud turtle
+(Kinosternon flavescan flavescan), bullfrog (Rana
+catesbiana), southern leopard frog (Rana
+utricularia), and the gulf coast toad (Bufo
+vallicepus) (Blair 1950; Conant and Collins 1998;
+Kutac and Caran 1994; Werler and Dixon 2004).
+
+Archaic Period
+As the Paleoindian period came to an end, humans
+began to harvest more intensively local floral and
+faunal resources (Collins 1995, 2004). Material
+culture became more diverse and the use of burned
+rock middens and ovens became widespread. This
+period is known as the Archaic period and dates
+from approximately 8800 to 1200 B.P. in Central
+Texas (Collins 1995; Johnson and Goode 1994).
+While Collins (1995) and Johnson and Goode
+(1994) subdivide the Archaic into Early, Middle,
+and Late subperiods, we have added the
+Transitional subperiod after the Late Archaic for
+reasons discussed below.
+
+CULTURAL SETTING
+Situated in southern Travis County, the APE lies
+within the Central Texas archaeological region, as
+defined by Collins (1995) and Prewitt (1981). This
+area is noted by its distinctive environmental
+conditions, as it is located at the boundary of the
+moist, humid forests to the east and drier, savannahlike grasslands to the west that greatly influenced
+cultural development.
+
+4
+
+Early Archaic
+
+include the Landslide, Wounded Eye, Gibson, and
+Panther Springs (Collins 1995).
+
+Early Archaic artifacts and sites date from about
+8800 to 6000 B.P. (Collins 1995). Once thought to
+be Paleoindian in age, some unstemmed point
+types, such as Angostura, have recently been
+recognized as the first Early Archaic diagnostic
+styles (Collins 1995). By about 8000 B.P., these
+points were replaced by stemmed varieties such as
+Early Split Stem, Martindale, and Uvalde (Black
+1989; Collins 1995). Most sites were open
+campsites although cave sites have been found
+(Collins 1995). Current site distribution data
+suggest that Early Archaic peoples were
+concentrated along the eastern and southern
+margins of the Edwards Plateau in areas with more
+stable water sources (Collins 1995; McKinney
+1981). Specialized tools, perhaps used in
+woodworking, known as Guadalupe and Nueces
+bifaces, were prevalent in this period (Collins
+1995). While subsistence data are sparse, it appears
+that people hunted deer and other small animals,
+fished, and cooked bulbs in earth ovens (Collins
+1995). This strategy evolved, in part, due to the
+changing climate at the beginning of the Holocene
+(McKinney 1981).
+
+Late Archaic
+Late Archaic artifacts and sites date from about
+4000 to 2250 B.P. The period began with very xeric
+conditions but gradually became more mesic
+(Collins 1995). Characteristic dart point types
+include Bulverde, Pedernales, Marshall, and
+Marcos (Collins 1995). Increasingly complex and
+sedentary cultural manifestations first appeared in
+the Late Archaic. Sites of the Late Archaic are very
+common and include burned rock middens, open
+campsites, and lithic procurement sites. Population
+increases are evidenced by large cemeteries and
+grave goods. Also, trade and exchange networks
+between cultures appear to have increased in
+complexity as evidenced by exotic goods in sites
+and cemeteries (Black 1989). Bement (1991)
+interprets the evidence for group investment in
+territory due to evidence in the Thunder Valley
+sinkhole cemetery, dated to 2900 B.P. based on
+stratigraphy, to indicate that groups were declaring
+control over a particular territorial range during the
+Late Archaic. Representative sites of the Central
+Texas Late Archaic include the Anthon and Loeve
+Fox sites (Collins 1995).
+
+Middle Archaic
+
+Transitional Archaic
+
+Middle Archaic artifacts and sites date from about
+6000 to 4000 B.P. with multi-use bifacial knives
+becoming more common. Characteristic Middle
+Archaic projectile points include Bell, Andice,
+Taylor, Nolan, and Travis, several of which are
+deeply notched (Black 1989). These artifacts could
+have served as knives and projectile points. Bison
+were hunted intensively at the start of the Middle
+Archaic but, as the climate became drier, a reliance
+on dry climate plants such as sotol probably became
+common. The end of the Middle Archaic may have
+been the most xeric conditions ever in Central
+Texas (Collins 1995). The climatic change was
+accompanied by a technological shift as Nolan and
+Travis points, which are thick and have narrow
+blades, first appeared in the archaeological record
+(Collins 1995). Burned rock middens and earth
+ovens first appeared ca. 5000 B.P. and became
+increasingly common, although their exact
+functions may have varied based on the culture and
+environment (Johnson and Goode 1994).
+Representative sites of the Texas Middle Archaic
+
+As Collins (1995:384–385) notes, diverse and
+comparatively
+complex
+archaeological
+manifestations toward the end of the Late Archaic
+attest to the emergence of kinds of human conduct
+without precedent in the area. This period (2250–
+1250 B.P.), referred to as the Transitional Archaic
+(Turner and Hester 1999) or Terminal Archaic
+(Black 1989), is not recognized by all researchers.
+Other chronologies extend the Late Archaic to
+1200–1250 B.P. (Collins 1995; Johnson and Goode
+1994) to encompass this later subperiod. Johnson et
+al. (1962) originally designated the Transitional
+Archaic as a subperiod of the Archaic because of
+the similarities between the latest dart point types
+and the earliest arrow point types. Since then,
+however, the designation has failed to be
+universally accepted by researchers. In two
+chronologies for Central Texas, Collins (1995) does
+not include the Transitional as a subperiod of the
+Archaic, and Johnson and Goode (1994) separate
+
+5
+
+the Late Archaic into two subperiods designated
+Late Archaic I and Late Archaic II. The
+Transitional Archaic, as it is used here, closely
+corresponds to Johnson and Goode’s (1994) Late
+Archaic II, but begins after the appearance of the
+Marcos point type—not with it. In this scheme, the
+Transitional Archaic coincides with the last two
+style intervals recognized by Collins (1995:Table 2)
+for the Late Archaic subperiod.
+
+During the earlier Austin interval, use of burned
+rock middens may have reached its maximum,
+based on conclusions by Black and Creel (1997).
+Characteristic arrow points of the Austin interval
+include Scallorn and Edwards (Collins 1995;
+Turner and Hester 1999). By the Toyah interval,
+plain-ware ceramics appeared, indicating possible
+influence in the Central Texas region from ceramic
+producing cultures to the east and north (Perttula et
+al. 1995). Contrary to bog pollen data (Collins et al.
+1993), data from Hall’s Cave in Kerr County
+indicate that the climate of Central Texas began to
+dry around 1000 B.P. (Toomey et al. 1993). This
+drying trend may have resulted in a change in
+vegetation that made Central and South Texas more
+conducive to bison migration into the area. Bison
+remains in archaeological sites in the region
+became common after 750 B.P. (Dillehay 1974;
+Huebner 1991).
+
+During the Transitional Archaic, smaller dart point
+forms such as Darl, Ensor, Fairland, and Frio were
+developed (Turner and Hester 1999). These points
+were probably ancestral to the first Late Prehistoric
+arrow point types and may have overlapped
+temporally with them (Hester 1995; Houk and
+Lohse 1993).
+Several researchers believe that the increased
+interaction between groups at the end of the Late
+Archaic was an important catalyst for cultural
+change (Collins 1995; Johnson and Goode 1994).
+This change may have included increased regional
+stress and conflict between groups as interaction
+became more frequent (Houk et al. 1997). In Bexar
+County, for instance, researchers noted a distinct
+shift in settlement patterns during this period (Houk
+et al. 1997). Groups apparently used hilltops as
+camps rather than just lithic procurement locations.
+These elevated locations would have provided
+points from which to observe game and other
+groups of humans as they moved through the
+surrounding creek valleys and upland prairies
+(Houk et al. 1997).
+
+Most Toyah sites have the distinctive Perdiz arrow
+point type, and some sites also have bison
+processing tool kits. This technological change has
+been interpreted by Johnson (1994) as a spread of
+an ethnic group and by Ricklis (1992) as the spread
+of technological ideas in response to opportunities
+provided by increased bison populations in the Late
+Prehistoric. It is thought that during the Late
+Prehistoric period subsistence strategies became
+increasing complex and that human populations
+were very high (Black 1989; Collins 1995).
+Representative sites of the Central Texas Late
+Prehistoric include the Kyle, Smith, and Currie
+Sites (Collins 1995).
+
+Late Prehistoric Period
+
+SPANISH COLONIAL/MEXICAN
+INDEPENDENCE PERIOD (1630–1820S)
+
+By the end of the Transitional Archaic, the bow and
+arrow was introduced, as indicated by the
+increasingly smaller size of projectile points. The
+Late Prehistoric period dates from 1250 to 260 B.P.
+(Collins 1995). Characteristic artifacts include
+small arrow points such as Perdiz and Scallorn, as
+well as a variety of specific-use tools. The Austin
+and Toyah intervals of the Late Prehistoric,
+originally recognized by Suhm (1960) and Jelks
+(1962), remain accepted divisions for the period.
+These style intervals may represent distinct cultural
+entities (Johnson 1994), although others challenge
+this view (Black and Creel 1997).
+
+In the early Historic period (A.D. 1630 to present),
+the period of European contact and settlement in
+Texas, the general Austin area was inhabited by
+several aboriginal groups including the Jumano,
+Tonkawa, Lipan Apache and Comanche
+(Newcomb 2002). The first Europeans into the area
+were probably Spanish missionaries who
+established three missions at nearby Barton Springs
+in 1730 (Webb 1952). The Spanish mission period
+in this area was of short duration and failed to
+colonize or even tame the area south of the
+Colorado River and north of Onion Creek. An
+
+6
+
+aboriginal presence thus continued in the Austin
+area into the 1860s.
+
+Lawlessness became a problem during the 1880s,
+and Travis and Central Texas counties experienced
+a period of “mob rule.” Citizens formed an antimob organization, but competing groups conducted
+essentially open warfare. After several people were
+killed, the Texas Rangers were dispatched to the
+area and order was eventually restored (Murphy
+2007).
+
+After Mexico gained independence from Spain, the
+newly formed country used a policy of land grants
+to attract Anglos from the United States to help
+inhabit the sparsely populated northern regions of
+Mexico. During the 1820s, Stephen F. Austin
+obtained grants from the Mexican government to
+settle hundreds of families along the lower Brazos
+and Colorado Rivers (Webb 1952). This colony,
+known as the “Old Three Hundred Colony”, was
+successful in pushing the European settlement
+frontier further west into the Central Texas region.
+Prior to the Texas Revolution, most of the “Old
+Three Hundred Colony” settlement was focused
+south of Bastrop and the old La Bahia Road (Webb
+1952).
+
+Recovery during this period was gradual, but was
+assisted by a diverse agricultural economy
+particularly cattle. In the 1870s, several major cattle
+trails heading to markets passed through Central
+Texas. One invention that had an effect on Texas
+and its economy during this time was barbed wire.
+Barbed wire, first demonstrated in 1871, enabled
+ranchers to alter land and control cattle in a lessintrusive, more profitable manner, and brought
+additional commerce and trade to central and South
+Texas (NRHP 1976). Though barbed wire was one
+of the largest influences on Texas in general, the
+most influential ‘invention’ on the region was the
+railroad. The railroads effectively served as a means
+of transportation and, to varying degrees, generally
+bolstered growth in the economies of the region.
+
+REPUBLIC OF TEXAS/PRE-CIVIL WAR
+(1836–1860)
+During the Texas Revolution with Mexico, the area
+continued to be inhabited only by aboriginal Native
+Americans. After the war, a growing Texan
+population led many settlers to move northwards in
+search of open, profitable land to plant crops and
+raise cattle. This wave of migration spurned new
+conflicts with the native groups living in the area,
+cumulating in the Battle of Brushy Creek, near what
+is today the town of Taylor, in February of 1839.
+This battle, between the Comanche and the Texas
+Raiders, resulted in numerous deaths and
+eventually resulted in the removal of the Native
+American presence in the area.
+
+Throughout the early twentieth century, trade,
+transportation, and tourism continued to bring
+economic prosperity to the region. The
+establishment of military facilities and the activity
+surrounding World War I and World War II kept
+the railway system active and commercial activity
+in the east prospered.
+Through the remainder of the twentieth century,
+population in Central Texas increased largely due
+to expansion and commercial opportunities in urban
+and rural areas. The construction of public
+highways and automobiles facilitated the
+commuting of Central Texas citizens to urban
+employment.
+
+THE POST–CIVIL WAR TO TWENTIETH
+CENTURY (1865–1950)
+Subsequent to the Civil War, Texas entered the
+Reconstruction period. To begin reconstruction
+federal troops, in part, had to spread the word of the
+Emancipation Proclamation (Campbell 2003:268).
+In Galveston on June 19, 1865, General Gordon
+Granger and the Union army spread the word of the
+slaves’ emancipation (Campbell 2003:268). Thus,
+this day became known as ‘Juneteenth’ and has
+been celebrated by Texas African Americans ever
+since (Campbell 2003:268).
+
+METHODS
+BACKGROUND REVIEW
+An SWCA archaeologist conducted a background
+review and environmental literature search of the
+APE to determine the locations and content of any
+previous archaeological surveys and recorded
+archaeological sites in or near the APE. The
+
+7
+
+investigation utilized the Texas Historical
+Commission’s (THC) Texas Historic Sites Atlas
+(Atlas). These sources provided information on the
+nature and location of previously conducted
+archaeological surveys, previously recorded
+cultural resource sites, locations of NRHP districts
+and properties, sites designated as SALs, Official
+Texas Historical Markers, Recorded Texas Historic
+Landmarks, cemeteries, and local neighborhood
+surveys. However, the Atlas does not necessarily
+list all previous work conducted within a specific
+area. Previous cultural resources investigations
+listed on the Atlas are limited to projects under
+purview of the Antiquities Code of Texas or the
+NHPA, as amended. In addition, projects under
+these regulations may not be posted on Atlas due to
+a delay between the completion of field work and
+the completion of reports. As a part of the review,
+an SWCA archaeologist reviewed the Texas
+Department of Transportation (TxDOT) Historic
+Overlay, a mapping/geographic information
+systems database with historic maps and resource
+information covering most portions of the state
+(Foster et al. 2006).
+
+Shovel tests were approximately 30 centimeters
+(cm) in diameter and excavated to culturally sterile
+deposits, bedrock, or impassible basal clay,
+whichever came first. The matrix from each shovel
+test was screened through ¼-inch mesh and the
+location of each excavation was plotted using a
+hand-held Global Positioning System (GPS)
+receiver. Each shovel test was recorded on a
+standardized form to document the excavations.
+SWCA performed a non-collection survey.
+Artifacts encountered were tabulated, analyzed, and
+photographed in the field, but not collected.
+
+SITE EVALUATIONS
+Each prehistoric and/or historic archaeological site
+discovered or reevaluated during the survey was
+assessed for eligibility for inclusion to the NRHP
+according to 36 CFR 60.4., or for designation as an
+SAL according to 13 TAC 26.8 of the Rules of
+Practice and Procedure. Assessments considered
+both the archaeological aspects of sites and any
+standing structures. NRHP eligibility assessed
+these four criteria:
+
+FIELD METHODS
+
+(a) associated with events that have made a
+significant contribution to the broad patterns of our
+history; or
+(b) associated with the lives of persons significant
+in our past; or
+(c) that embody the distinctive characteristics of a
+type, period, or method of construction, or that
+represent the work of a master, or that possess high
+artistic values, or that represent a significant and
+distinguishable entity whose components may lack
+individual distinction; or
+(d) that have yielded, or may be likely to yield,
+information important in prehistory or history.
+
+SWCA’s investigations consisted of an intensive
+pedestrian survey with subsurface investigations
+within the APE. Archaeologists examined the
+ground surface and erosion profiles and exposures
+for cultural resources. Subsurface investigations
+involved shovel testing in settings with the potential
+to contain buried cultural material, based upon
+proximity to waterways, soil types, prior
+disturbances, and landforms. For linear projects, the
+THC’s survey standards require 16 shovel tests per
+mile, per 100 feet of corridor width. Area surveys
+require a minimum of one shovel test per two acres
+for projects 10 to 100 acres in size and one shovel
+test per 3 acres for projects over 100 acres in size.
+Thus, the combination of 2 miles of roadway, the
+46-acre FEMA 100-year floodplain, and additional
+proposed development acreage requires a minimum
+of 172 shovel tests within the project APE. No
+shovel tests are warranted in areas that exhibit
+previous disturbance, have a slope greater than 20
+percent, or surface visibility greater than 30
+percent.
+
+For official SAL designation, four characteristics of
+each archaeological site were relevant and were
+considered: density, thickness, and time span of
+cultural deposit; integrity; research potential; and
+susceptibility to vandalism.
+
+RESULTS
+BACKGROUND REVIEW
+The background literature review determined that
+two cultural resources surveys are known to have
+
+8
+
+been conducted within and immediately adjacent to
+portions of the APE and that two archaeological
+sites (41TV2196 and 41TV2366) are recorded
+within it. Six cultural resources surveys and 21
+archaeological sites are located within a 1-mile
+radius of the APE (Table 1). The two
+archaeological sites within the APE are discussed
+below, along with previously conducted cultural
+resources surveys. Additionally, there is one
+cemetery within a 1-mile radius of the APE. The
+review of the TxDOT Historic Overlay maps
+revealed approximately 20 possible historic-age
+structures within or adjacent to the current APE
+(Foster et al. 2006).
+
+In 2006 and 2007, a cultural resources survey was
+performed by Halff Associates for the McKinney
+Falls Parkway Expansion Project along the western
+margin of the current APE between East William
+Cannon Drive and Thaxton Road in Travis County,
+Texas (Leezer 2007). Two archaeological sites
+(41TV2196 and 41TV2197) were identified during
+the survey, with site 41TV2196 located within the
+southwestern portion of the current APE, and site
+41TV2197 located south of it (see Table 1). Both
+sites are dispersed prehistoric lithic scatters
+primarily consisting of tested cobbles, cores, and
+primary stage debitage (Leezer 2007). Based on the
+natural and artificial impacts to the sites, as well as
+the lack of diagnostic artifacts, both were
+recommended not eligible for inclusion to the
+NRHP or designation as an SAL, and no further
+work was recommended (Leezer 2007).
+
+An archaeological survey was conducted by
+Ecological
+Communications
+Corporation
+(ECOMM) in 2010 within portions of the current
+APE for the City of Austin’s South IH-35
+Water/Wastewater Program Project in Travis
+County, Texas (Butler and Feit 2010). One cultural
+resource site (41TV2366) recorded during this
+investigation falls within the current APE, and
+another previously recorded cultural resource site
+(41TV1096) reassessed during this investigation is
+north of the current APE, but within a 1-mile radius
+(see Table 1).
+
+In addition to the above investigations, another five
+cultural resources surveys have been conducted
+within a 1-mile radius of the current APE. In 2003,
+SWCA conducted a cultural resources survey south
+of Colton Bluff Springs Road and near the
+southwestern portion of the current APE.
+Investigators identified a historic farmstead
+(41TV2033) with historic features (e.g., residence
+structure and well) and scattered artifacts (Houk et
+al. 2003). The historic farmstead (41TV2033) is
+interpreted as dating from late-nineteenth to midtwentieth centuries and was recommended not
+eligible for inclusion to the NRHP and no further
+investigations were recommended (Houk et al.
+2003). Site 41TV2033 is located 0.4 mile west of
+the APE and is depicted on the 1896, 1932, and
+1955 USGS topographic maps. In 2009, ECOMM
+performed an archaeological survey for the
+Slaughter Lane Eastward Extension Project in
+Travis County, Texas (Butler and Feit 2009). The
+project recorded two historic sites (41TV2333 and
+41TV2334) south of and within a 1-mile radius of
+the current APE (see Table 1).
+
+Site 41TV2366 is located north of Colton Bluff
+Springs Road, just east of Cottonmouth Creek, and
+southwest of Pilot Knob. The site is a historic 2.4acre early twentieth-century farm complex
+consisting of a wood-frame, single-story house, a
+garage, a barn, workshop, limestone well, storm
+cellar, and several additional outbuildings, at least
+one of which was likely used as a residence (Butler
+and Feit 2010). The portion of site 41TV2366
+within the IH-35 Waste/Wastewater Program
+project area was recommended not eligible for
+inclusion to the NRHP or designation as an SAL,
+and no further work was recommended (Butler and
+Feit 2010). However, ECOMM’s report
+specifically mentions that should the larger
+property be affected by the proposed William
+Cannon Road extension, then further research for
+site 41TV2366 may be warranted, particularly
+additional shovel testing at the farm complex itself,
+and possibly additional archival research (Butler
+and Feit 2010).
+
+9
+
+Table 1. Easton Park Archaeological Sites.
+Site
+Trinomial
+
+Location
+
+Site Type
+
+Time Period
+
+NRHP and SAL
+Eligibility
+Status
+
+NRHP and SAL
+Recommendations
+
+41TV2196
+
+Within project area
+of potential effects
+(APE)
+
+Prehistoric lithic scatter
+and procurement site
+
+Unknown
+
+Not Eligible
+
+No further work or
+research
+
+41TV2366
+
+Within Project APE
+
+Historic farmstead
+
+ca. 1930s–
+1940s
+
+Not Eligible
+within APE
+
+No further work or
+research within APE
+
+41TV1096
+
+North of Project
+APE
+
+Possible prehistoric
+signal fire, storage or
+burial site
+
+Unknown
+
+Not Eligible
+
+No further work or
+research
+
+41TV1095
+
+North of Project
+APE
+
+Prehistoric lithic scatter
+
+Unknown
+
+Not Eligible
+
+No further work or
+research
+
+Light lithic scatter lacks diagnostic artifacts.
+
+41TV2406
+
+North of Project
+APE
+
+Prehistoric lithic scatter
+
+Unknown
+
+Not Eligible
+
+No further work or
+research
+
+Low density lithic scatter lacks diagnostic artifacts or
+features. Site may extend further north and south
+outside of Longhorn Pipeline ROW.
+
+41TV2407
+
+North of Project
+APE
+
+Prehistoric lithic scatter
+
+Unknown
+
+Not Eligible
+
+No further work or
+research
+
+Low density lithic scatter lacks diagnostic artifacts or
+features. Site may extend further north and south
+outside of Longhorn Pipeline ROW.
+
+41TV401
+
+North of Project
+APE
+
+Prehistoric open camp
+and lithic procurement
+area
+
+Late Prehistoric
+
+Not Listed on
+Site Form
+
+Further work or
+research
+
+Edgewood/Martindale dart point, other lithic tools,
+groundstone, and fire cracked rock.
+
+41TV399
+
+North of Project
+APE
+
+Prehistoric occupation
+
+Unknown
+
+Not Listed on
+Site Form
+
+Further work or
+research
+
+41TV400
+
+North of Project
+APE
+
+Prehistoric occupation
+
+Unknown
+
+Not Listed on
+Site Form
+
+No further work or
+research
+
+41TV402
+
+North of Project
+APE
+
+Prehistoric occupation
+and lithic quarry
+
+Unknown
+
+Not Listed on
+Site Form
+
+Further work or
+research
+
+One possible eroded fire hearth with sparse lithic
+scatter.
+Small rock-lined hearth eroding out of terrace and one
+flint flake. Remaining portion of site has low research
+value.
+Quarry material, lithic debitage, and some burned rock
+present.
+
+41TV403
+
+North of Project
+APE
+
+Prehistoric burned rock
+midden complex
+
+Archaic
+
+Not Listed on
+Site Form
+
+Further work or
+research
+
+At least four well-preserved burned rock middens lying
+along the bluff.
+
+41TV315
+
+North of Project
+APE
+
+Prehistoric lithic scatter
+
+Unknown
+
+Eligible
+
+Further work or
+research
+
+Lithics and burned rock.
+
+41TV316
+
+North of Project
+APE
+
+Historic farmstead
+
+Depression era
+ca. 1920s–
+1930s
+
+Not Listed on
+Site Form
+
+None listed on
+site form
+
+Rotting lumber, wire, bottles, and license plates.
+
+41TV116
+
+North of Project
+APE
+
+Prehistoric midden and
+lithic scatter
+
+Unknown
+
+Not Listed on
+Site Form
+
+None listed on
+site form
+
+Burned and black midden dirt containing small
+choppers, flint chips, and burned rock.
+
+41TV311
+
+North of Project
+APE
+
+Prehistoric lithic scatter
+
+Late Prehistoric
+
+Eligible
+
+Further work or
+research
+
+One projectile point base, one core, and numerous
+flakes.
+
+10
+
+Comments
+
+Lacks diagnostic artifacts or features.
+Includes ten buildings (house, barns, storage shed,
+storm cellar, etc…) of various ages.
+Originally recorded by TAS in 1985 as a single ovalshaped topographic subsidence feature lacking
+artifactual material. ECOMM revisit in 2010
+encountered entire site destroyed.
+
+Site
+Trinomial
+
+Location
+
+Site Type
+
+Time Period
+
+NRHP and SAL
+Eligibility
+Status
+
+NRHP and SAL
+Recommendations
+
+41TV312
+
+North of Project
+APE
+
+Historic homestead
+
+Twentieth
+Century
+
+Not Eligible
+
+No further work or
+research
+
+House site, windmill, and other associated farmstead
+structures.
+
+41TV439
+
+North of Project
+APE
+
+Prehistoric open
+quarry/campsite
+
+Unknown
+
+Not Listed on
+Site Form
+
+No further work or
+research
+
+Hammerstone, cores, and flakes.
+
+41TV2033
+
+South of Project
+APE
+
+Historic farmstead
+
+ca. 1870s–
+1930s
+
+Not Eligible
+
+No further work or
+research
+
+Contains a well and several residential and
+agricultural structures.
+
+41TV2197
+
+South of Project
+APE
+
+Prehistoric lithic
+procurement site
+
+Unknown
+
+Not Eligible
+
+No further work or
+research
+
+Lacks diagnostic artifacts or features. Site may extend
+further south, southwest, and east outside of
+McKinney Falls Parkway project area.
+
+41TV2334
+
+South of Project
+APE
+
+Historic farmstead and
+artifact scatter
+
+Late
+Nineteenth–
+Early Twentieth
+Century
+
+Not Eligible
+
+No further work or
+research
+
+Remains of limestone-lined well and historic artifact
+scatter.
+
+41TV2333
+
+South of Project
+APE
+
+Historic farmstead and
+artifact scatter
+
+Early twentieth
+Century
+
+Not Eligible
+
+No further work or
+research
+
+Appears to be trash pit associated with destruction of
+one of several buildings on Austin 1910 topographic
+map.
+
+11
+
+Comments
+
+FIELD SURVEY
+
+cultural material. Shovel tests across the ridges
+typically encountered gravelly clay atop chalky,
+degrading limestone bedrock. Unique within the
+APE is the northern portion of area 1C, where
+igneous basalt resulting from eruptions at Pilot
+Knob is present across the surface (Figure 5). Little
+to no soil is present in this northern portion and no
+cultural material was observed. Surface visibility
+across the APE is generally 10 to 20 percent with
+scattered areas of sparse vegetation providing an
+excellent visibility of 50 to 75 percent.
+
+Between the dates of March 10 and March 20,
+2014, SWCA archaeologists conducted an
+intensive pedestrian and subsurface survey of the
+entire 302-acre APE. The proposed project involves
+three components that include 2 miles of proposed
+road ROW (71.3 acres), 46.4 acres of FEMA 100year floodplain, and 184.2 acres of additional land
+proposed for development (Figure 2). The results of
+the investigation for each of these areas are
+discussed separately below.
+
+Proposed Travis County ROW
+
+A pedestrian survey was conducted across the
+entire APE with varied frequency of subsurface
+investigations in accordance with the guidelines
+provided in Section 106 of the NHPA and the CTA
+Guidelines. The current condition of the APE,
+including previous disturbance and soils, was
+documented through detailed notes, shovel test
+records, and photographs. The THC minimum
+survey standards for project areas exceeding 100
+acres in size require one shovel test per 3 acres.
+Accordingly, a project area of this size (i.e., 302
+acres) is recommended to have 100 shovel tests.
+Overall, a total of 168 shovel tests were excavated
+within the APE in support of the current project,
+which exceeds the recommended amount (Figure
+3).
+
+The 2 miles of proposed road ROW will eventually
+be controlled by Travis County. Survey
+investigations within the ROW were performed in
+compliance with the Antiquities Code of Texas
+(Permit No. 6810). The width of the proposed
+William Cannon ROW varies from 150 to 330 feet
+from west to east culminating in 71.3 acres (see
+Figure 2). Due to the varying width, the ROW was
+surveyed by means of two and three transects for a
+distance of 0.4 and 1.6 miles, respectively. The
+western half of the proposed ROW parallels an
+existing waterline, resulting in extensive impacts to
+the APE in this area (Figure 6).
+THC minimum survey standards for linear surveys
+require 16 shovel tests per mile, per 100 feet of
+corridor width, or 88 shovel tests for the currently
+proposed APE. Based on the extent of prior
+disturbances and surface visibility that consistently
+exceeded 30 percent, a total of 67 shovel tests was
+excavated within the proposed 2-mile ROW.
+Within the overall 302 acres, however, the survey
+exceeded the THC minimum survey standards.
+
+Field investigations encountered two general
+settings within the upland Blackland Prairie
+environment: broad, gently sloping creek
+floodplains and rolling, gravelly ridges. An
+interfluve ridge, east of Cottonmouth Creek,
+roughly divides the APE. This ridgeline extends
+south from Pilot Knob, a Late-Cretaceous Period
+volcano, the peak of which is located 270 meters
+(m) north of the APE boundary. The vast majority
+of the APE traverses open, rolling prairie land
+characterized by tall grass and a lack of trees
+(Figure 4). Patchy grass, cacti, mesquite, and
+juniper is common across the gravelly upland
+ridges extending through the center of the APE,
+south of Pilot Knob, and along the southwestern
+APE boundary, north of Colton Bluff Springs Road.
+As expected, the soils within the APE vary
+depending on landform from deep, calcareous clays
+to shallow, gravelly clay. The excavations within
+the floodplain occasionally encountered dense
+gravels, at which point the tests were terminated;
+but excavations were more frequently terminated
+due to an absence of Holocene-age deposits and
+
+Eight shovel tests were positive for cultural
+material within the proposed ROW. Seven of these
+tests were located within the boundary of newly
+documented site 41TV2456, discussed in detail
+below. The eighth positive shovel test is located on
+site 41TV2457, located within the proposed ROW
+at the intersection of Highway 183 and FM 1625.
+Previously recorded historic site 41TV2366 is also
+located within the ROW, on the east side of
+Cottonmouth Creek. The boundary of site
+41TV2366 was expanded approximately 200 m to
+the north to include a tenant farmer house,
+outhouse, and associated mid- to late-twentiethcentury debris (see Figure 3).
+
+12
+
+Figure 2. Project area map.
+
+13
+
+Figure 3. Survey results map.
+
+14
+
+100-year Floodplain
+The second project component is the 46.4 acres of
+FEMA floodplain (see Figure 2). The 100-year
+floodplain flanks both sides of Cottonmouth Creek
+and was investigated for anticipated compliance
+with application requirements for a USACE Ft.
+Worth District Section 404 permit and FEMA
+permitting. The THC minimum survey standards
+for this area indicate 23 shovel tests within the
+floodplain. SWCA excavated a total of 34 shovel
+tests, exceeding the recommended coverage. None
+of the shovel tests in the floodplain were positive
+for cultural material (see Figure 3).
+Figure 4. Project overview, facing west.
+
+The Cottonmouth Creek cut banks were also
+examined, revealing very dark, grayish-brown clay
+through the extent of the APE (Figure 7). The cut
+bank profiles are only present in the northern half
+of the APE. From Colton Bluff Springs Road
+through roughly the mid-point of the APE, the
+creek has one main channel that is about 1 foot deep
+with rounded banks and several shallower channels
+winding through the floodplain, suggestive of a
+braided channel network (Knighton 1998). These
+channels merge as water flows downstream to
+create a single channel that is roughly 3 feet deep
+and 8 feet wide. This fluvial arrangement is
+typically associated with frequent lateral accretion
+and erosion (Knighton 1998). Accordingly, the
+lateral movement of the drainage may affect the
+integrity of any cultural deposits (if present) that
+may be buried.
+
+Figure 5. Basalt outcrop, facing south.
+
+Of note, a fire hydrant and four Austin Water
+Works meters are located on the right bank of
+Cottonmouth Creek, in the northern portion of the
+APE (Figure 8). The hydrant is a “5 ¼ American
+Darling Valve B-62 B-5” made in Beaumont, Texas
+with a date of 1987. Regardless of the specific date,
+this model was introduced in 1962 (American
+2014). As this is not historic in nature, a GPS point
+and photographs were taken as evidence of modern
+disturbance.
+
+Figure 6. Waterline disturbance, facing east.
+
+15
+
+Figure 7. Cottonmouth Creek, facing south.
+
+Figure 8. Fire hydrant, facing east.
+
+Site 41TV2196
+
+Proposed Development- Areas 1A, 1B, and
+1C
+
+Site 41TV2196 was initially recorded as a lithic
+procurement site by Halff Associates Inc. (Baletti
+and Valentine 2006). It is located on a hilltop at the
+intersection of McKinney Falls Parkway and
+Colton Bluff Springs Road (see Figure 3). The
+portion of the site that overlaps the current APE is
+on the east side of McKinney Falls Road
+overlooking the broad floodplain of Cottonmouth
+Creek to the east. During the current SWCA revisit
+of the site, investigators documented historic farm
+remnants consisting of a concrete perimeter beam,
+well pipe, and earthen levee/stock pond (Resources
+1–3).
+
+The third component of the APE involves the
+proposed development outside of the road ROW
+and 100-year floodplain (see Figure 2). The
+proposed development areas do not require
+compliance with either the Antiquities Code of
+Texas or Section 106 of the NHPA, but were
+investigated for due diligence. As such, the 184.2acre development areas (1A=54.7 acres, 1B=83.6
+acres, and 1C=45.9 acres) were surveyed in
+accordance with the THC minimum survey
+standards requiring 61 shovel tests. SWCA
+excavated 72 shovel tests across these areas
+exceeding the required amount, four of which were
+positive for cultural material and part of 41TV2459
+(Appendix A).
+
+The overall site boundary was expanded roughly 35
+m to the northeast to include the earthen levee and
+stock pond, while the newly documented historic
+artifact scatter occupies an 85 m by 65 m area
+within the previously recorded boundary (Figure 9).
+As such, the current boundary of 41TV2196
+measures 450 m northwest to southeast by 130 m
+northeast to southwest. Vegetation consists of
+patchy grass, mesquite trees and mixed hardwoods.
+A total of four shovel tests (MC15, MN11, MN12,
+and MS14) were excavated during the revisit to
+supplement the previous five excavated by Halff
+Associates Inc. (Baletti and Valentine 2006). All
+shovel tests excavated during the current project
+were negative for cultural material. Soils on the site
+consist of silty loam or clay over dense gravels at a
+depth of 30 to 40 cmbs (Appendix A).
+
+Portions of Area 1A adjacent to Colton Bluff
+Springs Road and Area 1C, along the northern APE
+boundary exhibited shallow, gravelly soil or
+bedrock at the surface. The remainder of the
+combined areas consisted of thick Blackland Prairie
+clay with no evidence of cultural activity. The four
+positive shovel tests recorded within the proposed
+development areas were located on newly
+documented site 41TV2459, in area 1B.
+Within area 1C, previously recorded historic site
+41TV2366 was expanded approximately 200 m to
+the north to include a wooden, 2-room tenant farm
+house, outhouse, and associated mid- to latetwentieth-century debris.
+
+16
+
+Figure 9. Site 41TV2196 map.
+
+17
+
+Figure 10. Site 41TV2456 map.
+
+18
+
+Very little historic material is present in the area of
+the concrete perimeter beam and well pipe and there
+is no evidence to suggest activity prior to the midtwentieth century. Historic debris consists of one
+clear and one brown bottle glass fragment, one
+metal paint bucket, and one window glass fragment.
+Based on proximity to the roadway, these items
+could be attributed to roadside debris. One chert
+core was noted on the surface of the hilltop;
+however, no other prehistoric material was noted.
+
+The resources present at the site (the foundation
+ruin, the well, and the earthen levee) were likely
+constructed during the 1930s or 1940, indicating
+that they were built by the Shans family. Thomas
+Buford Shans, born in 1892, worked as an oil well
+driller in Texas. Shelly Shans was born Shelly
+Shano in 1895. The Shans had five children.
+Research could not locate specific historical
+significance related to the Shans family.
+Site 41TV2196 was evaluated according to NRHP
+and SAL criteria. Based on the lack of historical
+significance and the overall lack of integrity, site
+41TV2196 is recommended as not eligible for
+inclusion to the NRHP or for designation as an
+SAL. Accordingly, no further work is
+recommended.
+
+The concrete perimeter beam (Resource 1) is
+located on a flat hilltop at the southwest corner of
+the APE (Figure 10). The perimeter and center
+beam are 10 inches wide and the foundation
+footprint measures 20 feet by 23 feet (Figure 11).
+Its age is unknown.
+
+Site 41TV2366
+
+Resource 2, the well, consists of a 9-inch-diameter
+steel well pipe. The top of the pipe is flush with the
+ground surface, and its steel collar extends 4 feet
+below ground. The overall depth of the well is
+estimated to be 10 feet. Its age is also unknown,
+although, as previously noted, none of the artifacts
+or features suggests activity prior to the midtwentieth century.
+
+Site 41TV2366 is located on the right bank of
+Cottonmouth Creek, 980 m east of McKinney Falls
+Parkway and 430 m north of Colton Bluff Springs
+Road (see Figure 3). The site lies at the base of a
+rising upland landform, southwest of Pilot Knob.
+The area is largely within open agricultural fields
+with short grass and hardwoods around the home
+and dense secondary growth surrounding the tenant
+house to the north.
+
+An earthen levee (Resource 3) is located 50 m north
+of the hilltop. The levee is approximately 10 feet
+wide and a maximum of 4 feet high. It extends 260
+m to the east into a stock pond which marks the
+northeastern extent of the site (Figure 12). Based on
+the lack of typical household debris in the area of
+the foundation and well, it is possible that this area
+was strictly agricultural in nature.
+The archival review indicates the parcel containing
+site 41TV2196 was owned by Thomas Buford
+Shans and Shelly Shans in the 1950s. Deed records
+show that Thomas Buford, the surviving husband of
+Shelly Sans, sold the parcel to Jimmie Lee Cowan
+in 1958. Deed research could not identify when the
+Shans family acquired the parcel; however, the
+1940 U.S. Census records show that they were
+living on Route 1 in Creedmoor in 1940. This is
+likely the parcel in question. The 1930 Census
+shows them living on West Mary Street in Austin,
+so they moved to the Creedmoor property some
+time during the 1930s.
+
+Figure 11. Site 41TV2196 perimeter beam, facing
+north.
+
+19
+
+Figure 12. Site 41TV2196 levee, facing northeast.
+
+The site consists of a 1920s to 1930s farmstead
+containing 11 extant resources (Figure 13). The site
+was investigated by Butler and Feit in 2010; their
+report provides a detailed description of the
+farmstead. In addition to the main farmstead, the
+current investigations encountered a 2-room,
+wooden tenant farmer house and wooden outhouse
+200 m to the north (Figure 14). As such, the site
+measures 310 m northeast to southwest by 130 m
+northwest to southeast.
+
+Research indicates that the parcel containing Site
+41TV2366 was owned by farmers Robert and
+Rachiel (also spelled Rachael and Rachel) Pierson
+(also spelled Peerson and Pearson), who also owned
+the adjacent parcel along Cottonmouth Creek. The
+Piersons sold their land in 1914 and 1915. The new
+owners of the parcels were a group of Robert
+Pierson’s nieces and nephews, who all had the
+surname Cowan. Nephew Robert C. was the eldest
+Cowan.
+
+The tenant house and outhouse (Resources 12 and
+13) are surrounded by bottles, tin cans, and
+children's toys dating to the late-twentieth century.
+No artifacts predating the mid-twentieth century
+were noted on the ground surface. A total of nine
+shovel tests (KF22, KF27–28, KF31, MC60–62,
+MC64, and MS48) were excavated within the
+expanded site boundary (six around the main
+farmstead, one in the open field, and two near the
+tenant house) and all were negative for cultural
+material. Soils encountered within the shovel tests
+consist of silty loam to clay (Appendix A).
+
+The 2010 investigations at 41TV2366 determined
+the site is not eligible for inclusion to the NRHP or
+for designation as an SAL. Nothing was observed
+in the current investigations to alter the previous
+recommendations; SWCA concurs with these
+findings and recommends no further work.
+
+20
+
+Figure 13. Site 41TV2366 map.
+
+21
+
+open field to the southeast. Prehistoric artifacts
+were identified on the surface and within shovel
+tests (KF10, KF16–17, MC37, and MC45–46) to a
+maximum depth of 40 cmbs (Appendix A). This
+component is relatively sparse, with no diagnostic
+artifacts or features encountered.
+In addition to prehistoric lithic debitage, historic
+artifacts recovered within the shovel tests include
+whiteware, brown bottle glass, clear bottle glass,
+square nails, round nails, miscellaneous metal,
+porcelain, metal wire, and one metal button (wire
+fastened) (Figure 15). One of the whiteware
+fragments exhibits part of the Order of the Garter
+with the phrase “Honi Soit Qui Mal y Pense.,”
+indicating production in Great Brittian by a
+manufacturer holding a Royal contract. No further
+identification could be made. Additionally, an
+enormous amount of modern items (1960s–present)
+are present in and around all structures on the site
+including automotive/mechanical equipment,
+office cubicles, classroom desks, home furniture, a
+motor boat, and typical household items. One older
+piece of mechanical equipment includes a “Century
+Electric Co.” 10-horse-power electric motor that is
+mounted atop a concrete block near the stone house.
+The company was in operation from 1910 until the
+1970s, at which time they were owned by Gould
+Inc. (Vintage Motors 2014). Patent dates on the
+motor are March 7, 1899 and January 13, 1903. The
+company obtained an additional patent in 1914,
+indicating that this piece of equipment was likely
+put to use at the site between 1903 and 1914.
+
+Figure 14. Outhouse and house, facing northeast.
+
+Site 41TV2456
+Site 41TV2456 consists of multiple historic
+components imprinted atop a prehistoric lithic
+scatter. The site is located on a hilltop within a
+rolling prairie environment, 630 m due west of the
+intersection of Hwy 183 and FM 1625 (see Figure
+3). Vegetation consists of short grass and
+hardwoods with longer, patchy grass in the field to
+the southeast. A tributary drainage of the North
+Fork Dry Creek curves around the site from
+northwest to southeast.
+The site’s historic component consists of a
+farmstead with stone structure and artifacts dating
+to the mid- to late-nineteenth century, as well as
+multiple structures that were built in the 1930s
+(Resources 1–13; see Figure 10). Resource 1 (the
+stone house) and artifacts in the northeast portion of
+the site represent the earliest occupation. The house
+that was occupied until the mid-2000s was likely
+built in the 1930s, and additional structures were
+added to the farmstead through the 1960s. A total
+of seven shovel tests were excavated (KF10, KF16–
+17, MC37, MC45–47), all of which were positive
+for cultural material to a maximum of 40 cmbs.
+Soils across the site consist of silty loam to clay
+(Appendix A). Overall, the site measures 145 m in
+diameter.
+
+Resource 1 is a mid- to late-nineteenth-century
+stone house located in the northeast portion of the
+site. The building is in a ruinous state, with portions
+of two walls standing. The house’s original
+footprint measured 15 feet by 30 feet (Figure 16).
+Currently, the northeast and northwest walls and the
+roof are gone. Although in poor condition, the
+southeast and southwest walls remain with missing
+stones and a partially collapsed section. The walls
+are constructed with limestone rubble with sandy
+mortar and yellowish sandstone used for chinking.
+The house was side-gabled, with its entry on the
+southeast wall. The structure’s door is missing, and
+a fallen tree has damaged the opening. One window
+opening in the southwest wall has wood framing
+and a wood lintel, but is missing the window sash.
+
+The prehistoric component consists of nondiagnostic lithic debitage diffusely scattered in the
+central portion of the site and extending into the
+
+22
+
+Resource 2 is a 1930s Hay Barn. It is a front-gabled
+building with a tall entrance on one gable end. The
+wood-framed barn is clad in corrugated metal and
+has a metal roof. Inside, the first floor is a single
+open space with a low ceiling and several wood
+supports. The second floor is a hayloft with small
+hayloft windows at each end. At one corner of the
+barn is an inset parking area supported by hewn tree
+trunks. Several sections of corrugated metal siding
+are missing.
+
+this central passage. To either side of the central
+passage are animal stalls, located within the
+building’s wide side wings.
+
+Resource 3 is a large Barn with a tall front-gabled
+central volume flanked by two wide attached wings.
+The barn dates from circa 1930 and is framed with
+a mixture of tree trunks and milled lumber. Sections
+of the roof framing appear to be recently replaced.
+The building is clad in corrugated metal. The barn
+was intended for use as an animal barn, and has a
+wide central passageway inside. Broad barn doors
+are located in each gable end to provide access to
+
+Figure 15. Prehistoric- and historic-age artifacts.
+
+Figure 16. Resource 1, facing southwest.
+
+23
+
+Figure 17. Resource 5, facing northeast.
+
+Resource 4, the Water Tower, is a circa 1930 metal
+structure consisting of four canted metal poles
+braced with metal crossbeams. Atop the supporting
+structure is a cylindrical metal water tank. The
+water tower is rusted but appears to be intact.
+
+Resource 6 is a small Tenant House located a short
+distance northeast of the main house, along a
+concrete walkway that connects several resources
+at the site. The front entrance opens into the fenced
+rear yard of the main house (Resource 5). The
+Tenant House is a circa 1940s building with
+horizontal board siding and a heavily damaged
+wood roof that was repaired with a covering of
+metal and fiberglass corrugated siding. The
+structure is missing its door and the windows have
+been covered with plywood.
+
+Resource 5 is the House, a circa 1930 bungalow
+with narrow wood siding. The building is frontgabled and has a partially inset, partial-width front
+porch (Figure 17). The porch has been altered by
+the addition of screening. The roof, which is clad in
+metal, has a prominent eave overhang. Several of
+the building’s wood elements are deteriorated,
+including siding, trim, window sash, and window
+screens.
+
+Resource 7, the Garage, is a partially collapsed
+structure with corrugated metal siding. It dates from
+circa 1930 and is framed with a mixture of town
+wood tree trunks and wood boards. It has a dirt
+
+24
+
+floor. The roof, which was once side-gabled, has
+collapsed.
+
+concrete block structures that shelter electric
+pumping equipment. They were likely constructed
+in the 1960s.
+
+Resource 8, a Storage Shed, is a barn-style shed
+with wood framing and corrugated metal siding.
+The shed is windowless and has one door in its front
+elevation gable end. A metal carport is attached to
+the rear elevation. The shed and its carport are
+rusted and several pieces of corrugated metal are
+missing. The shed was likely constructed in the
+1940s to 1950s. The interior space is currently
+occupied by several elementary school desks and
+dismantled office cubical walls.
+
+Additional small features that were not assigned
+resource numbers include a solid set of concrete
+steps and an outdoor fire pit. The steps are located
+at the northeast end of a concrete walkway, where
+they provide easy passage from the house to the
+barns, which are located beyond a barbed wire
+fence line (see Figure 10). The apparent fire pit is
+located near the well, and is constructed of
+limestone blocks with concrete mortar and an iron
+grate cooking surface.
+
+Resource 9, the Mechanic Garage, is a large frontgabled garage building with a wide front entry bay
+in its front elevation (Figure 18). The circa 1930
+building has a thick slab foundation and a concrete
+floor. The walls and overhanging roof are clad in
+corrugated metal. Inside, the garage has elaborate
+barrel-vaulted roof framing, which opens up more
+of the building’s interior height to allow taller
+vehicles inside. A trough-like concrete drainage
+sink runs along one side of the building at floor
+level. The garage has several window openings, all
+of which are wood framed. Some of the historic
+window sashes are in place, while other openings
+have been covered with corrugated metal. At the
+rear of the garage, several small interior walls have
+been formed with vertical planks.
+
+The archival review indicates that the parcel
+containing site 41TV2456 was owned by Marion E.
+and Sarah Elizabeth Houston in the late 1800s
+during the time the stone house was constructed.
+Marion E. Houston was born in Texas in about 1869
+and Sarah Elizabeth was born in Tennessee in 1875.
+Census records show the couple living in southeast
+Travis County in both 1910 and 1920. Earlier
+records could not be located, but since deed
+research indicates the Houstons owned the land
+prior to 1900, the stone building (Resource 1) was
+likely constructed by them. Marion and Sarah
+Houston had seven children. Research could not
+locate specific historical significance related to the
+Houston family.
+
+Resource 10 is a Brick-Lined Well that has been
+partially covered by brush and debris. The circular
+well is lined with rough bricks. The well is located
+along the concrete path behind the House (Resource
+5) and to the east of the Tenant House (Resource 6).
+It was likely constructed in the 1930s or 1940s to
+provide water to these resources.
+Resource 11 is a Collapsed Shed that was once a
+wood-framed structure with corrugated metal
+siding. Its construction date and original
+appearance is unknown.
+Resource 12 is a Concrete Foundation for a
+structure once located at the site. The original
+building here is gone and its past characteristics are
+not known. Its construction date is unknown.
+
+Figure 18. Resources 9, 13a, and 13b, facing north.
+
+Resources 13a and 13b are both small pump houses
+with adjacent wells. The pump houses are small
+
+25
+
+Deed records show that the Houstons sold the
+parcel to Fred Sassman in 1914. Sassman was a
+German immigrant who served in the Confederate
+Army and died in 1929. In 1932 Fred’s widow,
+Mary Ross Sassman, sold the parcel to her son
+William E. Sassman, who is listed in census records
+as a farmer. William owned it until 1976. It was
+likely William E. Sassman who built the circa
+1930s and 1940s buildings at the site. Research
+could not locate specific historical significance
+related to William E. Sassman. Specifically, the
+stone house (Resource 1) is in a ruinous state and
+lacks enough integrity to convey its historic
+characteristics. The 1930s to 1940s farmstead
+cluster does contain several buildings that are in
+good condition with good integrity, but others have
+had significant alterations.
+
+sections, hog wire, barbed wire, and tires are all
+located near the west end of the site (Figure 20).
+Positive shovel test MC39 was located in this area.
+MC39 included one clear glass fragment, four
+miscellaneous metal fragments, and one painted
+concrete fragment.
+The House (Resource 1) is a cross-gabled house
+that was likely built in the 1930s and modified
+sometime in the 1950s (Figure 21). The alterations
+involve enclosing the porch, replacing the windows
+with aluminum sash, and replacing the siding with
+asbestos. Corrugated metal skirting covers the
+house’s pier and beam foundation, preventing
+examination.
+Similarly, the other site structures largely date to
+the mid-twentieth century. There is a large concrete
+slab (Resource 2) behind the house, with a partiallyexposed fiberglass septic tank pipe running through
+it. Northwest of the house is a cinderblock garage
+(Resource 3), a limestone cistern (Resource 4),
+multiple industrial foundation pads (Resources 5
+and 6), and a well with wooden pump house
+(Resource 7).
+
+Site 41TV2456 was evaluated according to NRHP
+and SAL criteria. Based on the lack of historical
+associations, lack of distinctive architectural
+characteristics, and lack of integrity, the site is not
+likely to yield further information. Site 41TV2456
+is recommended as not eligible for inclusion to the
+NRHP or for designation as an SAL. Accordingly,
+no further work is recommended.
+
+Resource 2 (Foundation 1) is a concrete perimeterwall foundation located directly behind the
+residential structure. The foundation likely dates to
+mid-twentieth century. No data was available to
+identify what type of structure was originally
+located on the foundation.
+
+Site 41TV2457
+Site 41TV2457 is an historic mid-twentieth-century
+site containing several structures, ancillary features,
+and industrial foundation slabs surrounded by
+historic and recent debris (Figure 19). The site is
+situated in open, level prairie immediately
+southwest of the intersection of US183/FM 1625
+(Figure 3). Vegetation at the site consists of short
+grass and a few scattered hardwoods.
+
+Resource 3, the Garage, is a long, side-gabled
+concrete block building with a rolling metal door
+along half of its front elevation (see Figure 20). The
+garage has several small window openings with
+concrete sills. The building techniques suggest that
+it dates to the middle twentieth century.
+
+Overall, the site contains seven historic resources
+(Resources 1–7) and measures 105 m northwest to
+southeast by 85 m northeast to southwest. A total of
+seven shovel tests were excavated on the site
+(KF32–35, MC34, MC39 and MS51), one of which
+(MC39) was positive for cultural material at a depth
+of 30 to 45 cmbs (Appendix A). Soil on the site
+consists of dark gray clay with high gravel content.
+The artifact assemblage present around the yard is
+mid- to late-twentieth century, comprised mostly of
+industrial debris. Milled lumber, railroad timbers,
+50-gallon barrels, concrete and plastic conduit
+
+26
+
+Figure 19. Site 41TV2457 map.
+
+27
+
+Figure 20. Site 41TV2457 overview, facing east.
+
+Figure 21. Site 41TV2457 Resource 1, facing southwest.
+
+28
+
+Resource 4 (a cistern) has been infilled with brush
+and debris and is 15 feet in diameter and
+constructed from limestone. Several concrete
+patches are found along its rim. It appears to date to
+the 1930s, with repairs dating to the 1950s.
+
+only foundations, or simple structures with
+significant alterations. Based on the lack of
+historical associations, lack of distinctive
+architectural characteristics, and lack of integrity,
+the site is not likely to yield further information.
+Site 41TV2457 is recommended as not eligible for
+inclusion to the NRHP or for designation as an
+SAL. Accordingly, no further work is
+recommended.
+
+Resource 5 (Foundation 2) is a concrete slab located
+directly west of Resource 4. This small slab
+foundation is featureless and overgrown with
+vegetation. No data was available to identify what
+type of structure was originally located on the
+foundation or its date of construction.
+
+Site 41TV2458
+Site 41TV2458 consists of an historic early- to midtwentieth-century farmstead with structures and
+associated features within a scatter of latetwentieth-century debris. The site is located at the
+back edge of the Cottonmouth Creek floodplain,
+immediately north of Colton Bluff Springs Road
+and 615 m southeast of McKinney Falls Parkway
+(Figure 3). The site wraps around the east and north
+sides of a modern house and yard.
+
+Resource 6 consists of two industrial foundation
+slabs such as those built to support pump jacks or
+other oil and gas machinery (see Figure 20). These
+concrete slabs exhibited no inscription to indicate
+date of construction.
+Resource 7 is a Well and Pump House that date to
+the mid-twentieth century for construction. The
+well is manufactured from poured concrete and
+bears no temporal inscription. The pump house is a
+small wood-framed structure with a concrete floor
+and currently houses electric pumping equipment.
+
+Overall, the site includes seven historic resources
+(Resources 1–7) and measures 120 m northwest to
+southeast by 50 m northeast to southwest (Figure
+22). Vegetation consists of tall grass, hardwood
+trees, and dense secondary undergrowth around the
+abandoned structures. Items such as a gas can,
+wooden trunk, glass bottles, an historic icebox, and
+metal cans dating to the mid- to late- twentieth
+century were noted in and around the historic
+resources. Six shovel tests (KF23–24, MC17, and
+MC54–56) were excavated on the site, all of which
+were negative for cultural material. Soil
+encountered on the site consists of silty clay loam
+over thick clay (Appendix A).
+
+The archival review indicates that the parcel (No.
+298750) containing site 41TV2457 is located
+within a parcel that was historically owned by
+William E. Sassman. As with the nearby parcel,
+William’s parents Fred and Mary Ross Sassman
+acquired parcel 298750 in 1914 and transferred it to
+William in 1932. The first constructed resources at
+this site date to the period immediately following
+William’s acquisition. It is not known which of the
+William Sassman sites were used as his homestead
+and which were used by tenants or other family
+members. William Sassman sold the parcel with
+site 41TV2457 to J.E. Boyd and C.E. Boyd in 1951.
+Therefore, the mid-twentieth-century structures
+present at the site were likely constructed by the
+Boyd family. Research could not locate specific
+historical significance related to William E.
+Sassman, J.E. Boyd, or C.E. Boyd.
+
+Resource 1, the House Foundation, consists of a
+broken concrete foundation slab that measures
+roughly 10 feet by 18 feet. The foundation would
+have supported an early- to mid-twentieth century
+structure with a pier and beam foundation.
+
+Site 41TV2457 was evaluated according to NRHP
+and SAL criteria. The residential structure
+(Resource 1) at the site has been significantly
+altered and can no longer convey its historic
+characteristics. Further, the mid-twentieth-century
+site features are either dilapidated ruins containing
+
+29
+
+Figure 22. Site 41TV2458 map.
+
+30
+
+Resource 2 is an underground Storm Cellar located
+north of Resource 1 (Figure 23). The underground
+chamber is accessed by a short stone stairway
+flanked by limestone retaining walls. The interior
+of the cellar is lined with limestone blocks and
+measures 6 feet by 20 feet from the steps to the back
+of cellar. No inscriptions were observed, but the
+manufacturing techniques suggest an early- to midtwentieth-century construction.
+
+Resource 5, the Coop, is an 8 square foot, wooden
+chicken coop located just west of Resource 4. The
+structure has a corrugated metal roof and a small
+window covered with chicken wire. Manufacturing
+techniques suggest an early- to mid-twentiethcentury construction.
+Resource 6, the Barn and Corrals, is located in the
+western portion of the site and measures roughly 36
+feet by 24 feet (Figure 24). The barn is a frontgabled structure clad in wide, vertical wood planks
+and a corrugated metal roof. The interior has a
+raised wooden floor, a wide central aisle, and
+animal stalls or storage rooms. The adjoining corral
+contains animal stables with a mix of fencing types.
+The stables have wooden gates and are partially
+sheltered by an open shed-like wood and metal
+awning. No inscriptions were observed, but the
+manufacturing techniques suggest an early-to midtwentieth-century construction.
+
+Resource 3 is a Well and Pump House located north
+of Resource 1. The collar of the well feature is
+brick-lined and finished with concrete, while the
+small, square pump house is constructed of rock
+with a concrete coating. Only two of the pump
+house walls remain standing of the original 4 foot
+by 4 foot structure. No inscriptions were observed,
+but the manufacturing techniques suggest an earlyto mid-twentieth-century construction.
+Resource 4, the Shed, is a short, wood structure
+with a low-pitched, front-gabled roof. The small
+two-room building has a concrete slab floor in one
+room and a dirt floor in the other and measures 5
+feet high by 10 square feet in size. The building
+contains a low wooden bench along one interior
+wall, an historic icebox, and assorted debris. No
+inscriptions were observed, but the manufacturing
+techniques suggest an early- to mid-twentiethcentury construction.
+
+Resource 7, the Animal Pen, is a low, covered
+animal shelter at the northwest corner of the site.
+The small structure is constructed from corrugated
+metal siding and measures 12 square feet by 3 feet
+in height.
+
+Figure 23. Site 41TV2458 Resource 2, facing west.
+
+Figure 24. Site 41TV2458 Resource 6, facing east.
+
+31
+
+The archival review indicates that the parcel
+containing site 41TV2358 was transferred to
+several Cowan family members by their uncle
+Robert Pierson in 1914 or 1915. R.P. Cowan and
+Nettie Cowan established the farmstead in the
+1920s to 1930s and lived there until Nettie died in
+1971. One of the Cowan sons inhabited the parcel
+until 1975 and the house was subsequently razed
+leaving only the concrete foundation. Archival
+research could not located specific historical
+significance related to the Cowan family.
+
+fragments, eight square nails, one screw, and one
+hook. Metal cans and fragments were also noted on
+the surface.
+Resource 1, the Well or Cistern, is made of
+limestone with a 3-foot-diameter neck that extends
+2 feet above the ground surface (Figure 26). It has
+a bell shape that appears to begin curving a few feet
+below the surface. However, the interior of the
+feature is obscured by soil and leaf litter. No
+inscriptions were observed, but the manufacturing
+techniques suggest a late-nineteenth-century
+construction.
+
+Site 41TV2458 was evaluated according to NRHP
+and SAL criteria. The early- to mid-twentiethcentury farmstead cluster does contain buildings
+that are in good condition with good integrity, but
+also includes a house ruin and resources with
+significant alterations. Based on the lack of
+historical associations, lack of distinctive
+architectural characteristics, and lack of integrity,
+the site is not likely to yield further information.
+Site 41TV2458 is recommended as not eligible for
+inclusion to the NRHP or for designation as an
+SAL. Accordingly, no further work is
+recommended.
+
+Resource 2, the Well, is a 6-inch-diameter steel pipe
+vertically extending about 3 feet above the ground
+surface (Figure 27). Resource 2 is located on the
+hilltop near the likely site of the house. According
+to a former landowner (Donny Cowan), the well
+was drilled for oil/gas exploration in the 1960s and
+subsequently used for water (Donny Cowan,
+personal communication 2014).
+Similar to Resource 2, Resource 3 is a 10-inchdiameter steel pipe that vertically extends about 3
+feet above the ground surface. This well is located
+about 50 m north of Resource 2 and also appears to
+have been installed in the 1960s for oil/gas
+exploration.
+
+Site 41TV2459
+Site 41TV2459 consists of the remnants of a latenineteenth century homestead with structures and
+associated features (Resources 1–5) within a scatter
+of late twentieth century debris. The site is located
+on the northeast edge of a hilltop, 30 m northeast of
+Colton Bluff Springs Road and 400 m southeast of
+McKinney Falls Parkway (Figure 6).
+
+Resource 4 is a concentration of cut limestone
+blocks, each measuring 1 by 2 feet in size. The
+blocks occupy a roughly 20 foot by 24 foot area and
+appear to be the remnants of a late-nineteenthcentury chimney.
+Resource 5 is a pile of brick located near Resource
+4. The bricks are typical red brick manufacture,
+measuring 8 by 4 inches in size. The dense pile of
+bricks is 8 feet diameter and appears to be
+intentionally mounded for recycled use. The area
+surrounding Resources 4 and 5 contained dense
+historic materials.
+
+Overall, the site measures 80 m north to south by
+55 m east to west (Figure 25). Vegetation consists
+of tall grass, hardwoods, and dense secondary
+growth. A total of six shovel tests were excavated
+(KF25–26, MC57–59, and MS47), four of which
+(KF25, MC57–58, and MS47) were positive for
+cultural material to a maximum depth of 40 cmbs.
+Soil encountered on the site consists of silty loam
+over limestone bedrock.
+Artifacts recovered from the positive shovel tests
+include miscellaneous metal fragments, brown
+bottle glass, brown ceramic fragments, whiteware,
+clear bottle glass (several with heavy patina), olive
+glass fragment, mortar fragments, two coal
+
+32
+
+Figure 25. Site 41TV2459 map.
+
+33
+
+The archival review indicates that the parcel
+containing the site was owned by Robert and
+Rachiel Pierson prior to 1900. The late-nineteenthcentury resources at the site were likely constructed
+by Piersons who also owned the adjacent parcel to
+the east (see discussion of Site TV2366). The parcel
+containing the site was sold by Robert Pierson to a
+group of his nieces and nephews in 1914 or 1915.
+Robert Pierson (also spelled Peerson and Pearson)
+was a farmer who was born in Georgia. Research
+could not located specific historical significance
+related to the Pierson family.
+Site 41TV2459 was evaluated according to NRHP
+and SAL criteria. The late-nineteenth-century stone
+resources lack physical integrity and are no longer
+able to convey their historic associations. Based on
+the lack of historical associations, lack of
+distinctive architectural characteristics, and lack of
+integrity, the site is not likely to yield further
+information. Site 41TV2459 is recommended as not
+eligible for inclusion to the NRHP or for
+designation as an SAL. Accordingly, no further
+work is recommended.
+
+Figure 26. Site 41TV2459 Resource 1, facing
+north.
+
+Isolated Finds
+Several isolated occurrences of cultural materials
+were encountered during the survey of the APE.
+These surficial artifacts, when examined, were
+determined to not be associated with any other
+materials suggesting an archaeological site and
+were designated as isolated finds. The
+investigations encountered two prehistoric isolated
+artifacts (IF01 and IF02) on the west side of
+Cottonmouth Creek, and one isolated historic water
+tank (IF03) located just east of the City of Austin
+access road from Colton Bluff Springs Road to the
+Pilot Knob substation.
+
+Figure 27. Site 41TV2459 Resource 2, facing
+north.
+
+Artifact IF01 is a secondary chert flake that was
+found on the ground surface roughly 75 m west of
+Cottonmouth Creek (Figure 28, left). The flake was
+encountered near an existing water line where
+gravels are exposed on the surface as a result of
+construction-related disturbance.
+Figure 28. Isolated Artifacts: IF01 and IF02.
+
+Artifact IF02 is another secondary chert flake,
+encountered on the ground surface approximately
+350 m west of Cottonmouth Creek (see Figure 28,
+right). Again, the area is heavily disturbed as a
+
+34
+
+SUMMARY AND RECOMMENDATIONS
+
+result of modern waterline construction after
+decades of agricultural utilization.
+
+SWCA conducted an intensive cultural resources
+survey on behalf of Brookfield Residential for the
+proposed Easton Park Development Project APE in
+southeastern Travis County. The APE is defined as
+a 2.0-mile-long corridor that will connect East
+William Cannon Drive with US 183 and the
+development of the adjoining parcels that
+encompass about 230.7 acres. The depths of
+impacts for the project are not currently known, but
+are not expected to exceed 5 feet below ground
+surface. The overall APE for the proposed project
+is 302 acres, which includes the proposed road
+ROW and the development of adjoining parcels.
+
+IF03 consists of an historic water tank. The
+reservoir is a corrugated metal cylinder, measuring
+6 feet high by 8 feet diameter. It is currently resting
+on the ground surface near a pile of lumber that is
+mixed in with several fallen tree trunks (Figure 29).
+A wooden deer stand, metal ladder, and several
+segments of iron sucker rod are located against a
+nearby fence line, indicating that there may have
+been a well at the location. No well was
+encountered and it is likely that the water tank is
+related to historic agricultural practice. No artifacts
+or additional features were encountered in the area.
+
+The proposed road right-of-way will eventually be
+controlled by Travis County, a political subdivision
+of the State of Texas; therefore, compliance with
+the Antiquities Code of Texas was necessary.
+Additionally, the project must comply with
+application requirements for a U.S. Army Corps of
+Engineers Ft. Worth District Section 404 permit in
+accordance with 33 CFR Part 325, Appendix C
+(Processing Department of Army Permits:
+Procedures for the Protection of Historic Properties;
+Final Rule 1990; with current Interim Guidance
+Document dated June 24, 2002) and with Section
+106 of the National Historic Preservation Act (16
+USC 470), and its implementing regulations (36
+CFR 800). Portions of the project within the 100year floodplain may also be subject to permitting by
+the Federal Emergency Management Agency and
+required Section 106 compliance, as well.
+The purpose of the work was to locate and identify
+all prehistoric and historic archaeological sites in
+the APE, establish vertical and horizontal site
+boundaries as appropriate with regard to the APE,
+and evaluate the significance and eligibility of any
+site recorded within the property for inclusion to the
+NRHP or designation as an SAL. The investigations
+included a background review of previous work,
+historic map review, an archival review of the APE
+parcels, and an intensive pedestrian survey with
+shovel testing of the APE.
+
+Figure 29. Isolated Artifact 3, facing northwest.
+
+The background review determined that portions of
+the APE have been previously surveyed with two
+cultural resources sites documented in the APE
+(41TV2196 and 41TV2366). The historic map
+
+35
+
+review revealed approximately 20 possible historicage structures within or adjacent to the property
+dating back to 1896.
+During the cultural resources survey, SWCA
+archaeologists examined the entire 302 acre APE
+with intensive pedestrian inspection and a total of
+168 shovel tests. The THC’s survey standards for a
+project of this size require 172 shovel tests.
+Considering the amount of disturbance and surface
+visibility, the current investigations exceeded the
+THC standards. In general, the APE consists of an
+eroded and rocky upland setting with very shallow
+soil. As the APE is located along the edges of the
+road ROW, there was a significant amount of
+disturbance throughout. Disturbances consist of
+road construction and maintenance activity, buried
+and overhead utilities, private driveways, and sheet
+erosion.
+The SWCA investigations revisited sites
+41TV2196 and 41TV2366, documented four new
+archaeological sites (41TV2456–41TV2459), and
+encountered three isolated artifacts (IF01–IF03).
+The encountered cultural resources are primarily
+associated with historic homestead-farmstead
+structures and activities from the early to middle
+twentieth century. Based on a variety of factors,
+none of the archaeological sites are recommended
+for listing in the NRHP or as an SAL.
+In accordance with the Antiquities Code of Texas
+and 33 CFR 800.4, SWCA has made a reasonable
+and good faith effort to identify cultural resources
+within the APE. As no properties were identified
+that meet the criteria for listing on the NRHP,
+according to 36 CFR 60.4, or for designation as an
+SAL, according to 13 TAC 26.12, SWCA
+recommends no further cultural resources
+investigations are warranted within the project APE
+
+36
+
+REFERENCES CITED
+
+Black, Steve L., and Darrell G. Creel
+1997 The Central Texas Burned Rock Midden
+Reconsidered. In Hot Rock Cooking on
+the Greater Edwards Plateau: Four
+Burned Rock Midden Sites in West
+Central Texas, volume I, by S. L. Black,
+L.W. Ellis, D.G. Creel, and G.T. Goode,
+pp. 269–301. Studies in Archaeology 22.
+Texas
+Archaeological
+Research
+Laboratory, The University of Texas at
+Austin. Archaeological Studies Program,
+Report 2. Texas Department of
+Transportation, Environmental Affairs
+Division, Austin, Texas.
+
+American
+2014 Product description, “5 1/4" AmericanDarling B-62-B-5”. Available at:
+http://www.americanusa.com/products/valves-andhydrants/fire-hydrants/5-1-4-americandarling-b-62-b-5. Accessed April 4,
+2014.
+(Atlas) Texas Archaeological Sites Atlas
+2014 Texas Archaeological Site Atlas
+restricted database, Texas Historical
+Commission. http://pedernales.thc.
+state.tx.us/. Accessed February 18, 2014.
+
+Blair, W. Frank
+1950 The Biotic Provinces of Texas. The Texas
+Journal of Science 2(1):93–117.
+
+Barnes, Virgil E.
+1995 Geologic Atlas of Texas: Austin Sheet.
+Francis Luther Whitney Memorial Edition.
+Bureau of Economic Geology, University
+of Texas, Austin.
+
+Bolton, H. E.
+1970 Texas in the Middle Eighteenth Century:
+Studies in Spanish Colonial History and
+Administration. The Texas State Historical
+Association and the University of Texas
+Press, Austin.
+
+Bement, Leland C.
+1991 Hunter-Gatherer Mortuary Practices
+During the Archaic in Central Texas.
+Ph.D. dissertation, University of Texas,
+Austin.
+
+Burt, W. H., and R. P. Grossenheider
+1976 Peterson Field Guides: Mammals.
+Houghton Mifflin Company, Boston and
+New York.
+
+Bever, M. R. and D. J. Meltzer
+2007 Exploring Variation in Paleoindian Life
+Ways: The Third Revised Edition of the
+Texas Clovis Fluted Point Survey.
+Bulletin of the Texas Archeological
+Society 78:65–99.
+
+Campbell, R. B.
+2003 Gone to Texas: A History of the Lone Star
+State. Oxford University Press. New
+York.
+
+Black, Steve L.
+1989 South Texas Plains. In From the Gulf to
+the Rio Grande: Human Adaptation in
+Central, South, and Lower Pecos Texas,
+T.R. Hester et al. (Eds.), pp. 39–62.
+Research Series No. 33, Arkansas
+Archeological Survey, Fayetteville.
+
+Collins, Michael B.
+1995 Forty Years of Archeology in Central
+Texas.
+Bulletin
+of
+the
+Texas
+Archeological Society 66:361–400.
+2004
+
+37
+
+Archeology in Central Texas. In The
+Prehistory of Texas. Edited by Timothy
+K. Pertulla, pp. 101–126. Texas AandM
+University Press, College Station.
+
+Collins. Michael B., C. Britt Bousman, and
+Timothy K. Perttula
+1993 Historic
+Context:
+Quaternary
+Environments and Archeology in
+Northeastern Texas. In Archeology in the
+Eastern Planning Region, Texas: A
+Planning Document, edited by N. A.
+Kenmotsu and T. K. Perttula, pp. 49–67.
+Cultural Resource Report 3. Department
+of
+Antiquities
+Protection, Texas
+Historical Commission, Austin.
+
+Houk, Brett A., and John C. Lohse
+1993 Archeological Investigations at the
+Mingo Site, Bandera County, Texas.
+Bulletin of the Texas Archeological
+Society 61:193–247.
+Huebner, Jeffrey A.
+1991 Late Prehistoric Bison Populations in
+Central and Southern Texas. Plains
+Anthropologist 36(137):343–358.
+Jelks, Edward
+1962 The Kyle Site: A Stratified Central Texas
+Aspect in Hill County, Texas. Archeology
+Series 5. Department of Anthropology,
+University of Texas, Austin.
+
+Conant, Roger, and Joseph T. Collins
+1998 Peterson Field Guides: Reptiles and
+Amphibians. Eastern and Central North
+America. Houghton Mifflin Company,
+Boston and New York.
+
+Johnson, LeRoy, Jr.
+1994 The Life and Times of Toyah-Culture
+Folk: The Buckhollow Encampment, Site
+41KM16 of Kimble County, Texas. Office
+of the State Archeologist Report 40.
+Texas Department of Transportation and
+Texas Historical Commission, Austin.
+
+Dillehay, Thomas D.
+1974 Late Quaternary Bison Population
+Changes on the Southern Plains. Plains
+Anthropologist 19(65):180–196.
+Foster, T. R., T. Summerville, and T. Brown
+2006 The Texas Historic Overlay: A
+Geographic Information System of
+Historic Map Images for Planning
+Transportation Projects in Texas.
+Prepared for the Texas Department of
+Transportation by PBSandJ, Austin.
+
+Johnson, LeRoy, and Glenn T. Goode
+1994 A New Try at Dating and Characterizing
+Holocene Climates, as well as
+Archaeological Periods, on the Eastern
+Edwards Plateau. Bulletin of the Texas
+Archeological Society 65:1–15.
+
+Fox, D. E.
+1979 The Lithic Artifacts of Indians at the
+Spanish Colonial Missions, San Antonio,
+Texas. Special Report No. 8. Center for
+Archeological Research, The University of
+Texas at San Antonio.
+
+Johnson, LeRoy, Jr., Dee Ann Suhm, and Curtis D.
+Tunnell
+1962 Salvage Archaeology of Canyon
+Reservoir: The Wunderlich, Footbridge,
+and Oblate Sites. Bulletin 5. Texas
+Memorial Museum, The University of
+Texas, Austin.
+
+Hester, Thomas R.
+1995 The Prehistory of South Texas. Bulletin
+of the Texas Archaeological Society
+66:427–59.
+
+Knighton, David
+1998 Fluvial Forms and Processes: A New
+Perspective. Oxford University Press,
+New York.
+
+Houk, Brett A., C. Britt Bousman, Dave L. Nickels,
+and Steve A. Tomka
+1997 Analysis and Research Issues. In Phase II
+Archaeological
+Investigations
+at
+Lackland Air Force Base, San Antonio,
+Texas, by B.A. Houk and D.L. Nickels,
+pp. 103–146. Archaeological Survey
+Report
+No.
+264.
+Center
+for
+Archaeological Research, University of
+Texas, San Antonio.
+
+Kutac, Edward A., and S. Christopher Caran
+1994 Birds and Other Wildlife of South Central
+Texas. University of Texas Press, Austin.
+
+38
+
+McKinney, Wilson W.
+1981 Early Holocene Adaptations in Central
+and Southern Texas: The Problem of the
+Palo-Indian-Archaic Transition. Bulletin
+of the Texas Archaeological Society
+52:91–120.
+
+Ricklis, Robert A.
+1992 The Spread of a Late Prehistoric Bison
+Hunting Complex: Evidence from the
+South-Central Coastal Prairie of Texas.
+Plains Anthropologist 37(140):261–273.
+Simpson, B. J.
+1988 A Field Guide to Texas Trees. Texas
+Monthly Field Guide Series. Texas
+Monthly Press, Austin, Texas.
+
+Murphy, V. S.
+2007 Handbook of Texas Online, s.v. “San Saba
+County,” Available at: http://www.tsha.
+utexas.edu/handbook/online/articles/SS/hc
+s5.html. Accessed October 31, 2007.
+
+Suhm, Dee Ann
+1960 A Review of Central Texas Archeology.
+Bulletin of the Texas Archeological
+Society 29:63–107.
+
+Natural Resource Conservation Service (NRCS)
+2014 Soil Survey for Travis County. Web tool.
+Available
+at:
+http://websoilsurvey.nrcs.usda.gov/app/.
+Accessed February 26, 2014.
+
+Thompson, Nolan
+2011 “Kimble County”, Handbook of Texas
+Online. Published by the Texas State
+Historical Association. Available at:
+http://www.tshaonline.org/handbook/onl
+ine/articles/hck07. Accessed May 17,
+2011.
+
+National Register of Historic Places [NRHP]
+1976 National Register nomination form for
+the Alamo Plaza Historic District.
+Manuscript on file. Texas Historical
+Commission, Austin.
+
+Toomey, Rickard S., III, Michael D. Blum, and
+Salvatore Valastro, Jr.
+1993 Late
+Quaternary
+Climates
+and
+Environments of the Edwards Plateau,
+Texas. Global and Planetary Change
+7:299–320.
+
+Newcomb, William Willimon, Jr.
+2002 The Indians of Texas. University of Texas
+Press, Austin.
+Perttula, Timothy K., Miles R. Miller, Robert A.
+Ricklis, Daniel J. Prikryl, and Christopher Lintz
+1995 Prehistoric and Historic Aboriginal
+Ceramics in Texas. Bulletin of the Texas
+Archeological Society 66:175–235.
+
+Turner, Ellen Sue, and Thomas R. Hester
+1999 A Field Guide to Stone Artifacts of Texas
+Indians. Third Edition. Texas Monthly
+Field Guide Series. Gulf Publishing
+Company, Houston.
+
+Petrides, G. A.
+1988 Peterson Field Guides: A Guide to
+Eastern Trees. Houghton Mifflin
+Company, Boston and New York.
+Prewitt, E. R.
+1981 “Cultural Chronology in Central Texas.”
+Bulletin of the Texas Archaeological
+Society 52:65-90.
+
+Van Auken, O. W.
+1988 Woody Vegetation of the Southern
+Escarpment and Plateau. In Edwards
+Plateau Vegetation: Plant Ecological
+Studies in Central Texas, edited by B. B.
+Amos and F. R. Geilbach, pp. 43–55.
+Baylor University Press, Waco.
+
+1985 “From Circleville to Toyah: Comments on
+Central Texas Chronology.” Bulletin of the
+Texas Archeological Society 54:201-238.
+
+Webb, W.P. (Editor)
+1952 The Handbook of Texas. 2 Vols. Texas
+State Historical Association, Austin.
+
+39
+
+APPENDIX A
+SHOVEL TEST DATA
+
+Shovel
+Test
+
+Depth
+(cmbs)
+
+Munsell
+
+KF01
+
+0–50
+
+5YR3/2
+
+KF02
+KF03
+
+0–50
+0–50
+
+10YR3/1
+10YR3/1
+
+KF04
+
+0–30
+
+10YR3/2
+
+KF04
+
+30–40
+
+10YR3/2
+
+KF05
+
+0–50
+
+10YR3/2
+
+KF06
+KF07
+KF08
+KF09
+KF10
+KF11
+
+0–50
+0–60
+0–60
+0–60
+0–50
+0–40
+
+10YR3/3
+10YR3/3
+10YR2/2
+2.5YR3/1
+2.5YR3/1
+10YR4/1
+
+KF12
+
+0–50
+
+10YR3/2
+
+KF13
+KF14
+KF15
+
+0–40
+0–30
+0–30
+
+10YR3/1
+10YR3/1
+10YR3/1
+
+very dark grayish
+brown
+dark brown
+dark brown
+very dark brown
+dark reddish gray
+dark reddish gray
+dark gray
+very dark grayish
+brown
+very dark gray
+very dark gray
+very dark gray
+
+Site
+
+41TV2456
+
+Soil Color
+
+Soil Texture
+
+Inclusions
+
+Comments/Reason For Termination
+
+dark reddish
+brown
+very dark gray
+very dark gray
+very dark grayish
+brown
+
+clay
+
+5% cobbles
+
+Terminated due to thick clay.
+
+clay loam
+clay
+
+5% cobbles
+5% cobbles
+
+Terminated due to thick clay.
+Terminated due to thick clay.
+
+very dark grayish
+brown
+
+clay
+
+clay loam
+Terminated due to compact soil.
+
+clay
+
+5% cobbles
+
+clay loam
+clay
+clay
+clay
+clay
+clay
+
+5% cobbles
+15% cobbles
+
+Terminated due to compact soil.
+Terminated due to thick clay.
+Terminated due to thick clay.
+Terminated due to thick clay.
+Terminated due to thick clay.
+0–20 cmbs: 1 chert flake; Terminated due to thick clay.
+Terminated due to compact soil.
+
+clay
+
+10% large cobbles
+
+Terminated due to thick clay.
+
+clay
+clay
+clay
+
+30% cobbles
+5% cobbles
+50% cobbles
+
+Terminated due to compact soil.
+Terminated due to compact soil.
+Terminated due to compact soil.
+
+KF16
+
+41TV2456
+
+0–50
+
+10YR3/3
+
+dark brown
+
+loam
+
+50% cobbles
+
+20 cmbs: 1 square nail, 2 miscellaneous metal fragments;
+30 cmbs: 1 flake, 2 glass fragments, 2 whiteware;
+Terminated due to thick clay
+
+KF17
+
+41TV2456
+
+0–10
+
+10YR2/2
+
+very dark brown
+
+loam
+
+5% cobbles
+
+1 metal fragment, 2 chert flakes, 1 whiteware fragment, 1
+brown glass fragment.
+
+KF17
+
+41TV2456
+
+10–30
+
+10YR4/3
+
+brown
+
+loam
+
+KF17
+
+41TV2456
+
+30–40
+
+10YR7/8
+
+yellow
+
+loam
+
+CaCO3
+
+1 chert core, 2 chert tertiary flakes; Terminated due to
+dense CaCO3.
+
+KF18
+
+0–50
+
+10YR2/1
+
+clay
+
+20% cobbles
+
+Terminated due to thick clay.
+
+KF19
+
+0–20
+
+10YR4/4
+
+black
+dark yellowish
+brown
+
+clay loam
+
+40% cobbles
+
+Terminated due to compact soil.
+
+KF20
+
+0–30
+
+10YR4/4
+
+dark yellowish
+brown
+
+clay
+
+40% cobbles
+
+Terminated due to compact soil.
+
+KF21
+
+0–30
+
+10YR4/4
+
+dark yellowish
+brown
+
+clay
+
+40% cobbles
+
+Terminated due to impassable gravel.
+
+0–30
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+40% cobbles
+
+Terminated due to impassable gravel.
+
+KF22
+
+41TV2366
+
+1 round nail, 1 chert tertiary flake, 1 whiteware fragment,
+2 white glass fragments.
+
+A-1
+
+KF23
+KF24
+
+41TV2458
+41TV2458
+
+0–50
+0–50
+
+10YR2/1
+10YR2/1
+
+10YR2/1
+10YR2/1
+10YR2/1
+10YR2/1
+10YR4/3
+10YR4/3
+10YR2/2
+10YR4/3
+
+black
+black
+dark grayish
+brown
+dark yellowish
+brown
+yellowish brown
+light brownish
+gray
+black
+black
+black
+black
+brown
+brown
+very dark brown
+brown
+
+KF25
+
+41TV2459
+
+0–30
+
+10YR4/2
+
+KF25
+
+41TV2459
+
+30–40
+
+10YR4/4
+
+KF26
+
+41TV2459
+
+0–20
+
+10YR5/4
+
+KF27
+
+41TV2366
+
+0–10
+
+10YR6/2
+
+KF28
+KF29
+KF30
+KF31
+KF32
+KF33
+KF34
+KF35
+
+41TV2366
+
+0–50
+0–40
+0–40
+0–30
+0–10
+0–10
+0–30
+0–10
+
+clay
+clay
+clay
+clay
+gravel
+gravel
+clay
+gravel
+
+MC01
+
+0–55
+
+10YR4/3
+
+brown
+
+clay
+
+MC01
+
+55–65
+
+10YR4/3
+
+clay
+
+MC02
+
+0–30
+
+10YR4/2
+
+brown
+dark grayish
+brown
+
+MC02
+
+30–50
+
+10YR5/8
+
+yellowish brown
+
+MC03
+
+0–40
+
+10YR4/2
+
+MC03
+
+40–45
+
+MC04
+
+41TV2366
+41TV2457
+41TV2457
+41TV2457
+41TV2457
+
+clay
+clay
+
+20% cobbles
+20% cobbles
+
+loam
+
+Terminated due to thick clay.
+Terminated due to thick clay.
+1 tin rim, 1 brown historic ceramic, 2 brown glass.
+
+loam
+
+iron concretions, 70%
+cobbles
+98% limestone gravel
+
+Terminated due to impassable gravel.
+
+loam
+
+70% gravel
+
+Terminated due to impassable gravel.
+
+clay
+
+10% cobbles
+10% cobbles
+10% cobbles
+100% gravel
+100% gravel
+
+Terminated at basal clay.
+
+Terminated due to thick clay.
+Terminated due to thick clay.
+Terminated due to compact soil.
+Terminated due to compact soil.
+Terminated due to impassable gravel.
+Terminated due to impassable gravel.
+Terminated due to thick clay.
+Terminated at bedrock (caliche).
+
+10% roots/rootlets, 15%
+gravel
+85% gravel
+15% roots and rootlets,
+10% gravel
+
+Terminated due to impassable gravel.
+
+clay
+
+75% gravel and CaCO3,
+dark gray brown and
+strong brown mottles
+
+Terminated at basal clay.
+
+dark grayish
+brown
+
+clay
+
+15% roots and rootlets,
+10% gravel
+
+10YR5/8
+
+yellowish brown
+
+clay
+
+75% gravel and CaCO3,
+dark gray brown mottles
+
+0–30
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+15% roots and rootlets,
+5% gravel
+
+30–40
+
+10YR5/8
+
+yellowish brown
+
+clay
+
+75% gravel and CaCO3,
+dark gray brown mottles
+
+MC05
+
+0–40
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+15% roots and rootlets,
+5% gravel
+
+MC05
+
+40–45
+
+10YR5/8
+
+yellowish brown
+
+clay
+
+75% gravel and CaCO3,
+dark gray brown mottles
+
+MC06
+
+0–30
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+15% roots and rootlets,
+5% gravel
+
+MC06
+
+30–40
+
+10YR5/8
+
+yellowish brown
+
+clay
+
+75% gravel and CaCO3,
+dark gray brown mottles
+
+clay
+
+A-2
+
+Terminated due to compact soil.
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+
+15% roots and rootlets,
+20% gravel
+very dark gray mottles
+15% roots and rootlets,
+20% gravel
+very dark gray mottles
+15% roots and rootlets,
+5% gravel
+
+MC07
+
+0–55
+
+10YR4/3
+
+brown
+
+clay
+
+MC07
+
+55–60
+
+10YR4/3
+
+brown
+
+clay
+
+MC08
+
+0–55
+
+10YR4/3
+
+brown
+
+clay
+
+MC08
+
+55–60
+
+10YR4/3
+
+clay
+
+MC09
+
+0–45
+
+10YR4/2
+
+brown
+dark grayish
+brown
+
+MC10
+
+0–40
+
+10YR4/2
+
+dark grayish
+brown
+
+clay
+
+15% roots and rootlets,
+20% gravel
+
+MC10
+
+40–45
+
+10YR5/8
+
+yellowish brown
+
+clay
+
+90% gravel, 15% CaCO3
+
+clay
+
+15% roots and rootlets,
+10% gravel
+
+clay
+
+15% roots and rootlets,
+10% gravel
+
+MC11
+
+0–40
+
+10YR4/2
+
+dark grayish
+brown
+
+MC11
+
+40–45
+
+10YR5/8
+
+yellowish brown
+
+MC12
+
+0–40
+
+10YR4/2
+
+MC12
+
+40–45
+
+10YR5/8
+
+MC13
+
+0–40
+
+10YR4/2
+
+MC13
+
+40–45
+
+10YR5/8
+
+MC14
+
+0–45
+
+10YR4/2
+
+0–30
+30–35
+
+10YR3/1
+10YR3/1
+
+MC16
+
+0–30
+
+10YR3/2
+
+MC16
+
+30–40
+
+10YR4/4
+
+MC15
+MC15
+
+41TV2196
+41TV2196
+
+dark grayish
+brown
+yellowish brown
+dark grayish
+brown
+yellowish brown
+dark grayish
+brown
+very dark gray
+very dark gray
+very dark grayish
+brown
+dark yellowish
+brown
+
+clay
+
+clay
+clay
+clay
+clay
+clay
+silty clay loam
+silty clay loam
+silty clay loam
+clay
+
+15% roots and rootlets,
+5% gravel
+75% gravel
+15% roots and rootlets,
+10% gravel
+75% gravel
+15% roots and rootlets,
+10% gravel
+30% gravel
+85% gravel
+5% roots and rootlets,
+5% gravel
+60% gravel
+5% roots and rootlets,
+5% gravel
+70% gravel
+5% roots and rootlets,
+5% gravel
+30% gravel
+15% roots and rootlets,
+5% gravel
+
+Soil is Very damp; Terminated at the water table.
+
+Terminated at the water table.
+Terminated due to compact soil.
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+Terminated at basal clay.
+
+Terminated due to impassable gravel.
+
+Terminated at basal clay.
+
+MC17
+
+41TV2458
+
+0–40
+
+10YR3/2
+
+MC17
+
+41TV2458
+
+40–45
+
+10YR5/8
+
+MC18
+
+0–40
+
+10YR3/2
+
+MC18
+
+40–45
+
+7.5YR4/6
+
+very dark grayish
+brown
+yellowish brown
+very dark grayish
+brown
+strong brown
+
+MC19
+
+0–45
+
+10YR3/1
+
+very dark gray
+
+clay
+
+MC20
+
+0–45
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+15% roots and rootlets,
+5% gravel
+
+Terminated due to compact soil.
+
+MC21
+
+0–45
+
+10YR4/2
+
+dark grayish
+brown
+
+clay
+
+15% roots and rootlets,
+5% gravel
+
+Terminated due to compact soil.
+
+clay
+clay
+clay
+clay
+
+A-3
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+Terminated due to compact soil.
+
+dark grayish
+brown
+yellowish brown
+dark grayish
+brown
+yellowish brown
+very dark gray
+gray
+very dark grayish
+brown
+very dark gray
+gray
+dark grayish
+brown
+
+0–40
+
+10YR4/2
+
+MC22
+
+40–45
+
+10YR5/8
+
+MC23
+
+0–40
+
+10YR4/2
+
+MC23
+MC24
+MC24
+
+40–45
+0–40
+40–45
+
+10YR5/8
+10YR3/1
+10YR5/1
+
+MC25
+
+0–50
+
+10YR3/2
+
+MC26
+MC26
+
+0–40
+40–50
+
+10YR3/1
+10YR5/1
+
+MC27
+
+0–45
+
+10YR4/2
+
+MC28
+
+0–45
+
+10YR4/2
+
+dark grayish
+brown
+
+clay
+
+MC29
+
+0–40
+
+10YR3/1
+
+very dark gray
+
+clay
+
+MC30
+MC30
+
+0–40
+40–45
+
+10YR3/1
+10YR5/1
+
+clay loam
+clay
+
+MC31
+
+0–35
+
+10YR4/2
+
+clay loam
+
+20% roots
+
+MC31
+
+35–45
+
+10YR5/1
+
+clay
+
+MC32
+
+0–45
+
+10YR3/2
+
+MC33
+
+0–40
+
+10YR3/1
+
+very dark gray
+gray
+dark grayish
+brown
+gray
+very dark grayish
+brown
+very dark gray
+
+35% roots and rootlets,
+15% gravel
+25% roots and rootlets
+30% gravel
+
+MC33
+
+40–45
+
+10YR5/1
+
+gray
+
+clay
+
+20% gravel
+10% roots and rootlets,
+30% gravel
+10% roots and rootlets
+30% gravel, brown
+mottles
+
+0–40
+
+10YR4/1
+
+dark gray
+
+clay
+
+0–5
+
+10YR4/1
+
+dark gray
+
+clay
+
+MC34
+
+41TV2457
+
+MC35
+MC36
+
+clay
+
+15% roots and rootlets,
+20% gravel
+75% gravel
+15% roots and rootlets,
+15% gravel
+75% gravel
+5% roots and rootlets
+30% gravel
+15% roots and rootlets,
+5% gravel
+5% roots and rootlets
+30% gravel
+15% roots and rootlets,
+10% gravel
+
+MC22
+
+clay
+clay
+clay
+clay loam
+clay
+clay
+clay loam
+clay
+clay
+
+15% roots and rootlets,
+10% gravel
+
+clay
+clay loam
+
+10% roots and rootlets,
+5% gravel, 30% land
+snail shell fragments
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+Brown mottles; Terminated due to compact soil.
+Terminated due to compact soil.
+
+Brown mottles; Terminated due to compact soil.
+Terminated due to compact soil.
+Terminated due to compact soil.
+Terminated due to compact soil.
+
+Terminated due to compact soil.
+
+Terminated due to compact soil.
+Terminated due to compact soil.
+
+Terminated due to compact soil.
+Terminated due to compact soil.
+Terminated at the water table.
+
+0–40
+
+10YR4/2
+
+dark grayish
+brown
+
+clay
+
+10% roots and rootlets,
+30% gravel, 30% snail
+shell fragments
+
+MC37
+
+41TV2456
+
+0–20
+
+10YR4/3
+
+brown
+
+clay loam
+
+10% roots and rootlets,
+30% gravel, 30% snail
+shell fragments
+
+MC37
+MC38
+MC38
+
+41TV2456
+
+20–30
+0–25
+25–30
+
+10YR6/3
+10YR3/1
+10YR6/3
+
+pale brown
+very dark gray
+pale brown
+
+clay
+clay
+clay
+
+white mottles
+15% roots and rootlets
+white mottles
+
+A-4
+
+Terminated due to compact soil.
+
+1 square nail,1 secondary flake.
+Terminated at basal clay.
+Terminated due to compact soil.
+
+MC39
+
+41TV2457
+
+0–30
+
+10YR4/2
+
+dark grayish
+brown
+
+silty clay loam
+
+15% roots and rootlets,
+20% gravel
+
+MC39
+
+41TV2457
+
+30–45
+
+10YR3/1
+
+very dark gray
+
+clay
+
+20% gravel
+
+MC40
+
+0–20
+
+10YR4/3
+
+brown
+
+silty clay loam
+
+MC40
+
+20–40
+
+10YR5/2
+
+clay
+
+MC41
+
+0–40
+
+10YR4/2
+
+MC41
+
+40–45
+
+10YR5/4
+
+MC42
+
+0–20
+
+10YR4/2
+
+MC42
+
+20–30
+
+10YR5/4
+
+MC43
+
+0–35
+
+10YR4/2
+
+MC43
+
+35–45
+
+10YR5/6
+
+MC44
+
+0–40
+
+10YR4/2
+
+grayish brown
+dark grayish
+brown
+yellowish brown
+dark grayish
+brown
+yellowish brown
+dark grayish
+brown
+yellowish brown
+dark grayish
+brown
+dark grayish
+brown
+
+1 clear glass fragment, 4 miscellaneous metal fragments,
+1 painted concrete fragment; Terminated due to compact
+soil.
+
+clay
+
+10% roots and rootlets,
+10% gravel
+5% gravel
+5% roots and rootlets,
+5% gravel
+40% gravel
+5% roots and rootlets,
+30% gravel
+50% gravel
+10% roots and rootlets,
+15% gravel
+30% gravel
+
+clay
+
+5% roots and rootlets
+
+Terminated due to compact soil.
+
+silty clay loam
+
+5% roots and rootlets,
+35% gravel
+
+1 round nail, 1 square nail, 1 clear bottle glass fragment,
+1 porcelain fragment, 1 burned rock.
+
+clay
+
+5% gravel
+
+clay
+
+10% gravel
+5% roots and rootlets,
+30% gravel and artifacts
+
+clay
+clay
+silty clay loam
+clay
+clay
+
+Terminated due to compact soil.
+
+Terminated at basal clay.
+
+Terminated due to impassable gravel.
+
+Terminated at basal clay.
+
+MC45
+
+41TV2456
+
+0–30
+
+10YR4/2
+
+MC45
+
+41TV2456
+
+30–45
+
+10YR4/2
+
+MC45
+
+41TV2456
+
+45–50
+
+10YR5/8
+
+MC46
+
+41TV2456
+
+0–40
+
+10YR4/2
+
+MC46
+
+41TV2456
+
+40–45
+
+10YR7/8
+
+yellow
+
+clay loam
+
+60% gravel, strong
+brown mottles
+
+Terminated due to impassable gravel.
+
+MC47
+
+41TV2456
+
+0–40
+
+10YR4/2
+
+dark grayish
+brown
+
+silty clay loam
+
+20% roots and rootlets,
+30% gravel
+
+0–20 cmbs: 2 whiteware fragments, 1 clear glass
+fragment, 1 metal button, 1 miscellaneous metal
+fragment.
+
+MC47
+
+41TV2456
+
+40–45
+
+7.5YR5/8
+
+strong brown
+
+clay
+
+MC48
+
+0–40
+
+10YR4/1
+
+dark gray
+
+clay
+
+MC48
+
+0–40
+
+10YR4/2
+
+MC48
+
+40–45
+
+10YR5/6
+
+MC50
+
+0–40
+
+10YR4/2
+
+MC50
+
+40–45
+
+10YR5/6
+
+MC51
+
+0–40
+
+10YR4/2
+
+dark grayish
+brown
+yellowish brown
+dark grayish
+brown
+
+dark grayish
+brown
+yellowish brown
+dark grayish
+brown
+yellowish brown
+dark grayish
+brown
+
+silty loam
+
+5% gravel
+5% roots and rootlets,
+5% gravel
+15% roots and rootlets,
+15% gravel
+30% gravel
+15% roots and rootlets,
+15% gravel
+30% gravel
+15% roots and rootlets,
+15% gravel
+
+clay
+clay
+clay
+clay
+clay
+
+A-5
+
+1 round nail, 1 metal wire fragment, 5 burned wood
+fragments.
+Terminated at basal clay.
+0–20 cmbs: 1 primary flake, 1 indeterminate shatter; 20–
+40 cmbs: 2 primary flakes.
+
+Terminated at basal clay.
+Terminated due to compact soil.
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+
+MC51
+
+40–45
+
+10YR5/6
+
+MC52
+
+0–40
+
+10YR4/2
+
+MC52
+
+40–45
+
+10YR5/6
+
+MC53
+
+0–40
+
+10YR4/2
+
+MC53
+
+40–45
+
+10YR5/6
+
+MC54
+
+41TV2458
+
+0–40
+
+10YR4/2
+
+MC54
+
+41TV2458
+
+40–45
+
+10YR4/1
+
+MC55
+
+41TV2458
+
+0–40
+
+10YR4/2
+
+MC55
+
+41TV2458
+
+40–45
+
+10YR4/1
+
+yellowish brown
+dark grayish
+brown
+yellowish brown
+dark grayish
+brown
+yellowish brown
+dark grayish
+brown
+dark gray
+dark grayish
+brown
+dark gray
+
+clay
+clay
+clay
+clay
+clay
+silty clay loam
+clay
+silty clay loam
+clay
+
+30% gravel
+15% roots and rootlets,
+15% gravel
+30% gravel
+15% roots and rootlets,
+15% gravel
+30% gravel
+20% roots and rootlets,
+15% gravel
+5% gravel
+20% roots and rootlets,
+15% gravel
+5% gravel
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+
+5% roots and rootlets,
+15% snail shells, 10%
+gravel
+
+MC56
+
+41TV2458
+
+0–35
+
+10YR4/3
+
+brown
+
+silty clay loam
+
+MC56
+
+41TV2458
+
+35–40
+
+7.5YR5/8
+
+strong brown
+
+clay
+
+MC57
+
+41TV2459
+
+0–25
+
+10YR4/3
+
+brown
+
+silty loam
+
+5% roots and rootlets,
+80% gravel, 10% snail
+shells
+
+1 whiteware, 1 clear glass, 2 square nails, 1
+miscellaneous metal fragment; Terminated due to
+impassable gravel.
+
+silty loam
+
+5% roots and rootlets,
+80% gravel, 10% snail
+shells
+
+2 whiteware, 2 painted bottle glass, 6 clear bottle glass
+fragments, 6 square nails, 1 metal screw, 1 metal hook, 1
+metal pin, 1 tin washer; Terminated due to impassable
+gravel.
+
+silty loam
+
+25% roots and rootlets,
+15% gravel
+
+MC58
+
+41TV2459
+
+0–25
+
+10YR4/3
+
+MC59
+
+41TV2459
+
+0–50
+
+10YR4/2
+
+MC59
+
+41TV2459
+
+50–55
+
+10YR5/6
+
+brown
+
+dark grayish
+brown
+yellowish brown
+
+clay
+
+MC60
+
+41TV2366
+
+0–30
+
+10YR4/1
+
+dark gray
+
+clay
+
+MC60
+
+41TV2366
+
+30–35
+
+10YR5/6
+
+yellowish brown
+
+clay
+
+MC61
+
+0–15
+
+10YR4/1
+
+dark gray
+
+clay
+
+15+
+
+10YR6/3
+
+pale brown
+
+clay
+
+0–25
+
+10YR4/2
+
+MC63
+
+0–40
+
+10YR3/2
+
+MC63
+
+40–45
+
+10YR5/6
+
+0–30
+
+10YR3/2
+
+0–40
+
+10YR4/4
+
+MC62
+
+MC64
+MN01
+
+41TV2366
+
+41TV2366
+
+41TV2366
+
+dark grayish
+brown
+very dark grayish
+brown
+yellowish brown
+very dark grayish
+brown
+dark yellowish
+brown
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+5% roots and rootlets,
+5% gravel
+Terminated at basal clay.
+5% roots and rootlets,
+10% gravel
+90% gravel, white
+mottles
+
+clay
+
+20% gravel
+
+clay
+
+5% roots and rootlets,
+10% gravel
+
+clay
+
+Terminated due to impassable gravel.
+Terminated due to impassable gravel.
+
+Terminated at basal clay.
+
+clay
+
+20% gravel
+
+clay loam
+
+5% gravel
+
+A-6
+
+Terminated due to impassable gravel.
+
+MN01
+
+40–45
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay loam
+
+10% gravel
+
+MN01
+
+45+
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay loam
+
+15% gravel
+
+MN02
+
+0–42
+
+10YR4/4
+
+dark yellowish
+brown
+
+clay loam
+
+5% gravel
+
+MN02
+
+42+
+
+10YR3/2
+
+clay loam
+
+15% gravel
+
+MN03
+
+0–40
+
+10YR5/4
+
+very dark grayish
+brown
+yellowish brown
+
+clay loam
+
+MN03
+
+40+
+
+10YR5/4
+
+yellowish brown
+
+5% gravel
+15% gravel, very dark
+grayish brown mottles
+
+MN04
+
+0–45
+
+10YR4/2
+
+MN04
+
+45+
+
+10YR3/2
+
+MN05
+
+0–45
+
+10YR4/4
+
+MN05
+
+45+
+
+MN06
+
+dark grayish
+brown
+very dark grayish
+brown
+
+clay loam
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+
+clay loam
+
+5% gravel
+
+clay loam
+
+15% gravel
+
+dark yellowish
+brown
+
+clay loam
+
+5% gravel
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay loam
+
+15% gravel
+
+Terminated at basal clay.
+
+0–45
+
+10YR4/4
+
+dark yellowish
+brown
+
+clay loam
+
+5% gravel
+
+Terminated due to thick clay.
+
+MN07
+
+0–35
+
+10YR4/4
+
+dark yellowish
+brown
+
+clay loam
+
+5% gravel
+
+Terminated due to compact soil.
+
+MN08
+
+0–30
+
+10YR4/4
+
+dark yellowish
+brown
+
+clay loam
+
+5% gravel and rootlets
+
+Terminated due to compact soil.
+
+MN09
+
+0–45
+
+10YR4/4
+
+dark yellowish
+brown
+
+clay loam
+
+5% gravel
+
+MN09
+
+45+
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay loam
+
+15% gravel
+
+MN10
+
+0–45
+
+10YR4/4
+
+clay loam
+
+5% gravel
+
+MN10
+
+45+
+
+10YR5/4
+
+clay loam
+
+15% gravel
+
+silty loam
+
+5% roots
+
+silty loam
+
+5% gravel
+
+dark yellowish
+brown
+yellowish brown
+dark grayish
+brown
+dark yellowish
+brown
+
+MN11
+
+41TV2196
+
+0–25
+
+10YR4/2
+
+MN11
+
+41TV2196
+
+25–40
+
+10YR4/6
+
+MN11
+
+41TV2196
+
+40+
+
+10YR4/6
+
+dark yellowish
+brown
+
+silty loam
+
+15% gravel
+
+0–40
+
+10YR4/2
+
+dark grayish
+brown
+
+silty loam
+
+5% gravel and roots,
+strong brown mottles
+
+40+
+
+10YR4/6
+
+silty loam
+
+15% gravel
+
+0–25
+
+10YR4/3
+
+loam
+
+10% gravel
+
+MN12
+
+MN13
+
+41TV2196
+
+dark yellowish
+brown
+brown
+
+A-7
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+
+Terminated due to impassable gravel.
+
+Terminated due to impassable gravel.
+
+MN13
+MN14
+
+25+
+0–35
+
+10YR7/1
+10YR4/3
+
+MN14
+
+35+
+
+10YR4/6
+
+MN15
+
+0–50
+
+10YR4/3
+
+MN15
+
+50+
+
+10YR4/6
+
+MN16
+
+0–40
+
+10YR4/4
+
+MN17
+
+0–40
+
+MN18
+
+light gray
+brown
+dark yellowish
+brown
+brown
+dark yellowish
+brown
+
+loam
+clay loam
+
+CaCO3
+5% gravel and roots
+
+Terminated at bedrock.
+
+clay loam
+
+15% gravel
+
+Terminated at basal clay.
+
+clay loam
+
+5% gravel
+
+clay loam
+
+15% gravel
+
+Terminated at basal clay.
+
+dark yellowish
+brown
+
+clay loam
+
+5% gravel
+
+Terminated due to thick clay.
+
+10YR4/4
+
+dark yellowish
+brown
+
+clay loam
+
+5% roots and gravel
+
+Terminated due to thick clay.
+
+0–50
+
+10YR4/4
+
+dark yellowish
+brown
+
+clay loam
+
+5% gravel, increasing
+with depth
+
+Terminated due to compact soil.
+
+MS01
+
+0–55
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+MS02
+
+0–30
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+3% gravel
+
+MS02
+
+30–35
+
+10YR5/4
+
+yellowish brown
+
+clay
+
+15% gravel, 10% CaCO3
+
+clay
+
+3% gravel
+
+Terminated due to compact soil.
+
+MS03
+
+0–25
+
+10YR3/2
+
+very dark grayish
+brown
+
+MS03
+
+25–35
+
+10YR5/4
+
+yellowish brown
+
+clay
+
+30% gravel and CaCO3
+
+MS04
+
+0–40
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+3% gravel
+
+MS04
+
+40–50
+
+10YR5/4
+
+yellowish brown
+
+clay
+
+20% gravel and CaCO3
+
+clay
+
+3% gravel and black
+mottles
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+
+Terminated at basal clay.
+
+MS05
+
+0–45
+
+10YR3/2
+
+very dark grayish
+brown
+
+MS05
+
+45–50
+
+10YR3/4
+
+dark yellowish
+brown
+
+clay
+
+3% gravel
+
+Terminated at basal clay.
+
+MS06
+
+0–15
+
+10YR3/4
+
+dark yellowish
+brown
+
+clay
+
+15% gravel
+
+Terminated at basal clay.
+
+MS07
+
+0–45
+
+10YR4/6
+
+dark yellowish
+brown
+
+clay
+
+5% gravel
+
+Terminated due to compact soil.
+
+MS08
+
+0–50
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+Terminated due to compact soil.
+
+MS09
+
+0–40
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+Terminated due to compact soil.
+
+MS10
+
+0–50
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+Terminated at the water table.
+
+MS11
+
+0–50
+
+10YR3/2
+
+clay
+
+Terminated at the water table.
+
+MS12
+
+0–50
+
+10YR4/3
+
+very dark grayish
+brown
+brown
+
+clay
+
+1% gravel
+
+A-8
+
+Terminated due to compact soil.
+
+MS13
+MS13
+
+0–45
+45–50
+
+10YR3/3
+10YR4/3
+
+clay
+clay
+
+20% gravel and CaCO3
+
+Terminated at basal clay.
+
+0–30
+
+10YR3/2
+
+clay loam
+
+3% gravel
+
+Terminated at bedrock.
+
+MS15
+
+0–30
+
+10YR4/3
+
+clay loam
+
+2% gravel
+
+MS15
+
+30–35
+
+10YR4/4
+
+clay
+
+20% gravel
+
+Terminated at basal clay.
+
+MS16
+
+0–45
+
+10YR4/3
+
+MS16
+
+45–50
+
+10YR4/6
+
+clay
+
+15% gravel
+
+Terminated at basal clay.
+
+MS17
+
+0–10
+
+10YR2/1
+
+black
+
+clay
+
+30% gravel and snail
+shell
+
+Terminated at bedrock.
+
+MS18
+
+0–50
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay loam
+
+2% gravel
+
+Terminated due to compact soil.
+
+MS19
+
+0–50
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+Terminated due to compact soil.
+
+MS20
+
+0–45
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+Terminated due to compact soil.
+
+MS21
+
+0–40
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+Terminated due to compact soil.
+
+MS22
+
+0–40
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+Terminated due to compact soil.
+
+MS23
+
+0–40
+
+10YR3/2
+
+MS23
+MS24
+MS24
+
+40–45
+0–40
+40–50
+
+10YR4/3
+10YR3/1
+10YR3/1
+
+MS25
+
+0–60
+
+10YR3/2
+
+MS26
+
+0–60
+
+10YR3/2
+
+MS27
+
+0–30
+
+10YR3/2
+
+MS27
+
+30–35
+
+10YR5/4
+
+MS28
+
+0–50
+
+10YR4/2
+
+MS29
+
+0–65
+
+10YR3/2
+
+MS30
+
+0–30
+
+10YR4/2
+
+MS31
+
+0–40
+
+10YR3/1
+
+MS32
+
+0–30
+
+10YR4/2
+
+MS14
+
+41TV2196
+
+dark brown
+brown
+very dark grayish
+brown
+brown
+dark yellowish
+brown
+brown
+dark yellowish
+brown
+
+very dark grayish
+brown
+brown
+very dark gray
+very dark gray
+very dark grayish
+brown
+very dark grayish
+brown
+very dark grayish
+brown
+yellowish brown
+dark grayish
+brown
+very dark grayish
+brown
+dark grayish
+brown
+very dark gray
+dark grayish
+brown
+
+clay
+
+clay
+
+few gravels
+
+clay
+clay
+clay
+
+10% gravel
+roots
+pale brown mottles
+
+Terminated at basal clay.
+
+clay
+
+2% cobbles
+
+Terminated due to compact soil.
+
+clay
+
+Terminated at basal clay.
+
+Terminated due to compact soil.
+
+clay
+clay
+
+15% gravel
+
+clay
+
+Terminated at basal clay.
+Terminated due to compact soil.
+
+clay
+
+few gravels near base
+
+Terminated due to compact soil.
+
+clay
+
+5% cobbles
+
+Terminated due to compact soil.
+
+clay
+
+Terminated due to compact soil.
+
+clay
+
+20% cobbles
+
+A-9
+
+Terminated due to compact soil.
+
+MS34
+MS34
+
+0–30
+30–40
+0–35
+35–40
+
+10YR3/1
+10YR5/2
+10YR3/1
+10YR5/2
+
+MS35
+
+0–40
+
+10YR3/2
+
+MS35
+
+40–45
+
+10YR4/2
+
+MS36
+
+0–10
+
+10YR4/2
+
+MS37
+
+0–40
+
+10YR3/2
+
+MS38
+
+0–40
+
+10YR3/2
+
+MS39
+
+0–40
+
+MS40
+
+MS33
+
+very dark gray
+grayish brown
+very dark gray
+grayish brown
+very dark grayish
+brown
+dark grayish
+brown
+dark grayish
+brown
+very dark grayish
+brown
+
+clay
+clay
+clay
+clay
+clay
+
+light gray mottles
+
+Terminated at basal clay.
+
+light gray mottles
+
+Terminated at basal clay.
+
+few gravels
+
+clay
+
+Terminated at basal clay.
+
+clay
+
+50% gravel
+
+Terminated due to impassable gravel.
+
+clay
+
+2% gravel
+
+Terminated due to compact soil.
+
+very dark grayish
+brown
+
+clay
+
+few gravels
+
+Terminated due to compact soil.
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+0–10
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+50% gravel
+
+Terminated due to compact soil.
+
+MS41
+
+0–40
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+pale brown mottles
+
+Terminated at basal clay.
+
+MS42
+
+0–10
+
+10YR3/2
+
+very dark grayish
+brown
+
+gravelly clay
+
+75% gravel
+
+Terminated at bedrock.
+
+MS43
+
+0–40
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+MS44
+
+0–30
+
+10YR3/2
+
+very dark grayish
+brown
+
+gravelly clay
+
+20% gravel
+
+Terminated due to compact soil.
+
+MS45
+
+0–40
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay loam
+
+few gravels
+
+Terminated due to compact soil.
+
+MS46
+
+0–20
+
+10YR3/2
+
+very dark grayish
+brown
+
+clay
+
+Terminated at bedrock.
+
+silty loam
+
+15% limestone gravel
+
+0–20 cmbs: 2 large/2 small metal fragments, 7 clear
+glass, 1 brown glass, 1 olive glass, 2 mortar fragments, 2
+coal fragments; 20–40 cmbs: 1 brown glass; Terminated
+due to sterile and compact soil.
+
+gravelly loam
+
+75% gravel
+
+Terminated due to impassable gravel.
+
+clay
+clay
+
+50% gravel
+20% gravel
+
+Terminated due to impassable gravel.
+Terminated due to compact soil.
+
+clay
+
+5% gravel
+
+Terminated at basal clay.
+
+MS47
+
+41TV2459
+
+0–60
+
+10YR4/3
+
+MS48
+
+41TV2366
+
+0–3
+
+10YR4/2
+
+0–20
+0–30
+
+10YR3/1
+10YR3/1
+
+0–30
+
+10YR4/2
+
+MS49
+MS50
+MS51
+
+41TV2457
+
+brown
+dark grayish
+brown
+very dark gray
+very dark gray
+dark grayish
+brown
+
+Terminated due to compact soil.
+
+Terminated due to compact soil.
+
+A-10
+
+

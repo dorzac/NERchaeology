@@ -1,0 +1,963 @@
+AN ARCHAEOLOGICAL SURVEY OF HIGH
+PROBABILITY AREAS WITHIN
+GEOKINETICS USA, INC.’S
+PERRY RANCH 3-D SEISMIC SURVEY IN
+BRAZORIA AND MATAGORDA COUNTIES, TEXAS
+VOLUME II: NAUTICAL MAGNETOMETER SURVEY
+
+By
+Douglas Jones, Dan Hudson, and Robert Gearhart
+PBS&J
+Job Number 100003256
+2008
+
+An employee-owned company
+
+Document No. 080145
+PBS&J Job No. 100003256
+
+AN ARCHAEOLOGICAL SURVEY OF
+HIGH PROBABILITY AREAS WITHIN
+GEOKINETICS USA, INC.’S PERRY RANCH
+3-D SEISMIC SURVEY IN
+BRAZORIA AND MATAGORDA COUNTIES, TEXAS
+VOLUME II: NAUTICAL MAGNETOMETER SURVEY
+
+Prepared for:
+Dixie Environmental Services Co., LP
+26902 Nichols Sawmill
+Magnolia, Texas 77355
+Prepared by:
+PBS&J
+6504 Bridge Point Parkway
+Suite 200
+Austin, Texas 78730
+
+Principal Investigator:
+Robert Gearhart
+Project Archaeologist:
+Doug Jones
+
+Report Authors:
+Doug Jones
+Dan Hudson
+Robert Gearhart
+
+September 2008
+6504 Bridge Point Parkway, Suite 200 • Austin, Texas 78730 • Telephone: 512.327.6840 • Fax: 512.327.2453 • www.pbsj.com
+
+Contents
+Page
+List of Figures ......................................................................................................................... iii
+List of Tables .......................................................................................................................... iii
+INTRODUCTION ............................................................................................................. 1
+PHYSICAL ENVIRONMENT ............................................................................................. 3
+CULTURAL SETTING ...................................................................................................... 6
+Historic Background ....................................................................................................... 6
+Documented Vessel Losses ............................................................................................. 9
+RESEARCH DESIGN ......................................................................................................12
+Data Analysis................................................................................................................ 12
+Data Interpretation ....................................................................................................... 13
+RESULTS AND RECOMMENDATIONS .............................................................................16
+Results ......................................................................................................................... 16
+Recommendations......................................................................................................... 16
+REFERENCES ...............................................................................................................20
+
+100003256/080145
+
+ii
+
+Contents
+
+Figures
+Page
+1
+2
+3
+4
+5
+6
+
+Survey Area ............................................................................................................ 2
+San Bernard River Shoreline Changes 1896–2004 .................................................. 5
+Survey Methodology .............................................................................................. 12
+Source Points Surveyed......................................................................................... 17
+Magnetometer Results and Relocation of Source Point 50491103.......................... 18
+Magnetometer Results and Relocation of Source Points 50481100 and
+50491103 ............................................................................................................. 19
+
+Tables
+1
+
+Potential Shipwrecks within the Survey Area ........................................................ 10
+
+100003256/080145
+
+iii
+
+INTRODUCTION
+On behalf of Geokinetics USA, Inc., of Houston, PBS&J was contracted by Dixie Environmental
+Services Co., LP to conduct a magnetometer survey of an area encompassing the historic mouth of the
+San Bernard River in Brazoria County, Texas. Geokinetics USA is conducting a 3-D seismic survey of an
+88.6-square-mile area in Brazoria and Matagorda counties. Of this total, 3.8 square miles are within an
+area designated by the Texas Historical Commission (THC) as a High Probability Area (HPA) for
+submerged cultural resources (Figure 1).
+Historically, this area comprised open Gulf of Mexico waters and the approaches to the currently
+silted-in San Bernard River. Dating back to the late nineteenth century, this area of the coast became
+noted as one that was hazardous to navigation, and there have been numerous reported shipwrecks,
+caused primarily by a shifting sand bar present at the mouth of the river. In recent years, coastal sediment
+redistribution, resulting from construction of the Brazos River Diversion Channel in 1929 and a flood in
+1992, has led to high volumes of sediment deposition at the San Bernard River mouth. Resultantly, the
+historic features of this area have been buried under an accreted spit, and terrain within the HPA now
+consists of sandy beach, grassy plains, and very shallow-water marsh. As such, subsurface disturbances
+associated with Geokinetics’ 3-D seismic survey pose a potential risk to submerged cultural resources that
+may be located within the project area. The THC has mandated a 300-foot (91-meter) avoidance zone
+around any magnetic anomaly indicative of a potential shipwreck. PBS&J was tasked with conducting a
+magnetometer survey over each seismic source point within the HPA to determine the presence or
+absence of any such anomalies, so that any proximal source points can be relocated as necessary.
+
+100003256/080145
+
+1
+
+Figure 1
+Survey Area
+
+2
+
+PHYSICAL ENVIRONMENT
+The 120-mile-long San Bernard River rises in Austin County northwest of San Felipe, Texas, and
+flows southeastward through the lower alluvial valleys of the Colorado and Brazos rivers before cutting
+across southern Brazoria County. At its southern end, the river crosses the Gulf Intracoastal Waterway
+(GIWW) before emptying into the Gulf. The river is one of the few in Texas that empties directly into the
+Gulf without an intermediary bay. The major tributaries feeding the San Bernard River are East, West,
+and Middle Bernard creeks, the Little San Bernard River, Peach, Mound, Coushatta, and Bell creeks, as
+well as McNeal and Redfish bayous.
+The San Bernard crosses the Pleistocene Lissie and Beaumont terraces and enters the alluvial
+floodplain of the Colorado River, southeast of its Holocene division with Caney Creek (Voellinger and
+Nash 1989:5). The river then crosses the Beaumont terrace and enters the Lower Brazos alluvial plain
+about 19 miles (30 kilometers) from the Gulf. The Brazos River currently enters the Gulf approximately
+3.5 miles (5.6 kilometers) northeast of the San Bernard at an artificial diversion channel that was created
+in 1929. Prior to that, the Brazos emptied into the Gulf at a point approximately 6.5 miles (10.5 kilometers) farther to the northeast.
+The Brazos is the longest river wholly in Texas and also has a higher flow rate and carries more
+sediment than any other Texas stream that enters the Gulf. It is the sole significant source of beach
+sediment distribution for the central Texas coast. Historically, this high flow rate and sediment load was
+the source of periodic flooding and entrance shoaling at Freeport Harbor, leading the U.S. Army Corps of
+Engineers (USACE) to reroute the old Brazos around the harbor in 1929. A 5-mile diversion channel was
+created that now transports all of the river discharge into the Gulf. Since the rerouting of the natural
+Brazos and corresponding loss of sediment deposition, the prevailing offshore wave dynamics have
+eroded the subaerial and subaqueous delta at the old Brazos. Conversely, a combination of riverine
+discharge and updrift beach erosion have led to formation of a new delta at the mouth of the Brazos
+Diversion Channel.
+Aside from riverine discharge, longshore drift is the second major source of sediment distribution
+along the Texas coast. In recent years, longshore currents, which predominate in a southwesterly
+direction, have redistributed sediments from the delta at the Brazos Diversion Channel to the mouth of the
+San Bernard. The San Bernard has a much smaller drainage area than the Brazos — approximately 700
+square miles (2,000 square kilometers) compared to 45,500 square miles (118,000 square kilometers) for
+the Brazos — resulting in a relatively weak flow and sediment discharge that has left the San Bernard
+River mouth vulnerable to infiltration of updrift littoral sediments. Subsequently, this sediment
+accumulation has caused a westward migration of the river mouth. Within the past decade, the mouth of
+the San Bernard has been completely closed by the formation of a spit on the updrift side.
+The accretion of this spit has only been a recent phenomenon for several reasons. Prior to creation
+of the Brazos Diversion Channel in 1929, the San Bernard maintained a substantial flow and was located
+100003256/080145
+
+3
+
+far enough from the old Brazos delta so as not to be directly influenced by updrift sediments from that
+source. After 1929, a previously nonexistent delta began to form at the mouth of the Brazos Diversion
+Channel, claiming much of the sediment that would otherwise have been transported southwestward
+along the coast (Kraus and Lin 2002:28). In the late 1930s and early 1940s, the GIWW was extended
+through the San Bernard, further decreasing its flow; however, the mouth remained sheltered from
+sediment accretion by the Brazos Diversion Channel prodelta. By the 1960s, the new Brazos delta was
+approaching equilibrium, and wind and wave reworking of the sediments caused significant prograding of
+the downdrift shoreline in the form of accreted beach ridges (Kraus and Lin 2002:13–14). By 1983, there
+was evidence of several generations of beach ridges that had generated recurves into the San Bernard
+mouth, though the mouth had not yet migrated significantly westward (Kraus and Lin 2002:14).
+Beginning around 1984, the San Bernard mouth was forced to migrate westward (downdrift) due to the
+accumulation of recurves that had now formed a spit. Elongation of the spit proceeded slowly until the
+early 1990s when it accelerated rapidly. Kraus and Lin (2002) hypothesized that this sudden acceleration
+was due to a substantial flood in 1992 that deposited an estimated 8.4 million cubic meters of sediment at
+the new Brazos delta. This surge in sediment load was reworked into an elongated shoal downcoast of the
+Brazos mouth that eventually migrated westward and merged with the existing shoreline (Kraus and Lin
+2002:12). The weak discharge of the San Bernard has not been sufficient to maintain a stable channel
+cross section or location and continued littoral deposition since the 1992 flood has resulted in the
+constriction of the river mouth to the point that it is no longer navigable.
+Figure 2 illustrates the change in shoreline position at the mouth of the San Bernard since the late
+1800s. The historic shoreline positions were obtained from a collection of digitized and georeferenced
+maps and coastal charts that is housed at PBS&J (U.S. Coast and Geodetic Survey 1896, 1934, 1974).
+The underlying aerial imagery was taken in 2004 and is available on the Texas Natural Resources
+Information System website. As can be seen on Figure 2, the San Bernard River mouth has historically
+had a bell-shaped opening into the Gulf that ranged from approximately 1,300 to 2,600 feet (400 to 800
+meters) wide. Currently, the mouth has migrated over 2 miles (3.2 kilometers) southwest of its 1974
+location.
+
+100003256/080145
+
+4
+
+Figure 2
+San Bernard River Shoreline Changes 1896-2004
+
+5
+
+CULTURAL SETTING
+Historic Background
+Despite French and Spanish exploration dating back to the sixteenth century, it was not until the
+early nineteenth century that successful migration to the area around the Brazos and San Bernard rivers
+was achieved. For many years, beginning in the early part of the nineteenth century, the Port of San
+Bernard was the only legal port in Texas. A Royal decree established the Port of San Bernard on
+September 28, 1805, and was subsequently renewed by the Spanish courts in 1820. In this instance the
+designation “port” referred simply to a broad coastal region rather than an exact location; as such, there
+was no customhouse. Spain designated the captain of Nuestra Señora de Loreto Presidio to be their port
+official and plenipotentiary. This imprecise arrangement called for ships with business in Texas to use any
+convenient shore in the region for landing and taking on goods. Those with shipping interests along the
+Texas coast continued to call for the establishment of a fixed port. Spanish officials had surveyed the
+Matagorda Bay area in 1808 to determine the possibility of establishing a permanent port, yet such a
+venture never materialized. Despite the need for a more stable port of entry, the haphazard arrangement of
+the Port of San Bernard continued until Stephen F. Austin petitioned that the Port of Galveston be made a
+legal port of entry (Handbook of Texas Online, n.d.).
+During the first half of the nineteenth century, cotton and sugarcane farming became a highly
+profitable enterprise in the region of the upper Texas coast (Buenger 1984:11). The first sugar production
+around the San Bernard River can be traced back to the 1820s; however, the number of sugar mills
+increased rapidly after 1847 when Captain William Duncan of Caney Creek introduced steam power to
+the operation of his mill (Creighton 1975:196–197). By the 1850s, sugar had become the predominant
+crop in Brazoria County; between 1852 and 1856, plantations along the San Bernard helped to make the
+county the primary producer of sugar in the state (Freeman 2004:91). In fact, sugar plantations around
+Brazoria, Fort Bend, and Matagorda counties were so productive that the region earned the appellation
+“Sugar Bowl” of Texas (Brazoria County Historical Museum 1986:7).
+At this time, Brazoria County had not yet begun to build bridges across its rivers. Plantation
+owners, therefore, brought their crops to several ferry landings that were established along the San
+Bernard River. From these ferry landings, goods were loaded aboard steamships for transport to the Gulf
+and then on to other coastal ports. In the 1840s, Parker Williams was issued a license to operate a ferry at
+the mouth of the San Bernard. Williams had received a grant of ¼ league on the southwest side of the
+river mouth, and he made his living selling off small pieces of acreage and operating the ferry until he lost
+his grant to Leander H. McNeil in a tax sale (Freeman 2004:86).
+Along the San Bernard, as in the rest of the South, plantation owners were highly dependant on
+slave labor. In 1860, 18 of the state’s 44 slaveholders resided in Brazoria, Wharton, and Fort Bend
+counties (Buenger 1984:12). Many of the planters who lived in this region were very wealthy; one-fifth of
+all Texans with estates valued at over $100,000 lived in these three counties. These slaveholders
+100003256/080145
+
+6
+
+collectively owned more than 100 slaves (Buenger 1984:12). Many of these slaves first entered the United
+States through the mouth of the San Bernard. At the time, it was legal to own slaves but not to import
+them, and the San Bernard’s remote location proved an enticing port of entry for small boats transporting
+contraband slaves from Cuba. In 1840, the last shipment of slaves brought to North America was landed
+at the mouth of the San Bernard (Creighton 1975:171). Two decades later, after Civil War was declared,
+this dependence on slave labor created unyielding support for secession. On February 23, 1861, an
+overwhelming majority of Brazoria County residents voted in favor of withdrawal from the Union
+(Buenger 1984:164).
+At the outbreak of the war, Texas itself became important as a source of military supplies for the
+Trans-Mississippi region of the Confederacy (Barr 1961:1). Confederate military leadership feared an
+invasion through Texas due to the strategic value of several waterways along the coast, which were
+deemed to be critical to the defense of Texas and, ultimately, the Confederacy. Major General John
+Bankhead Magruder, commander of the District of Texas, considered the region between the San Bernard
+and Caney Creek to be crucial to the security of the Texas coast. With the ubiquitous Federal gunboats
+blockading the Texas coastline, the threat of an enemy assault weighed heavily on Confederate strategists.
+As a result, men and materiel were promptly allocated for the construction of a line of defense between
+Galveston and Pass Cavallo. As part of this defensive strategy, forts were erected at San Luis Pass, at the
+mouths of the San Bernard and Brazos rivers, at Caney Creek, Jones Creek, and around Cedar Lake
+(Gadus and Freeman 2005:85–88).
+Between circa 1861 and 1864, several Confederate fortifications and defensive emplacements
+were erected at the mouth of the San Bernard River to defend against Union troops advancing up the coast
+on foot towards Velasco (Marchand 1864). This Confederate construction activity attracted the attention
+of patrolling Federal gunboats, which responded by repeatedly shelling the fortifications. The USS Sciota
+began the offensive on December 29, 1863, by firing several shots from its rifled and XI-inch guns,
+dispersing the men on shore (Gadus and Freeman 2005:140). The Aroostook followed with a series of
+bombardments from its 20-pounder Parrott rifle and XI-inch smoothbore guns on January 7 through 9,
+1864. The intensity of fire was such that concussions could be felt as far away as Columbia (Gadus and
+Freeman 2005:140). Aroostook was replaced by Owasco and Monongahela, which combined to continue
+bombarding the fort from January 13 through 16, 1864. Aroostook returned on January 19 and kept up the
+shelling until January 21. Union gunboats resumed their harassment of the San Bernard fortifications in
+early February 1864. On the 8th of that month, the Sciota was fired upon by a battery of three
+12-pounders while passing the fort, and returned fire with its XI-inch gun (Perkins 1864). Sciota returned
+the following day with Aroostook, attacking the batteries at San Bernard and Velasco with a fusillade of
+XI-inch shells, 20-pound rifle shells, 24-pounder howitzer shrapnel, XI-inch 15-pound charges, and
+2-pound rifle charges (Gadus and Freeman 2005:142; Perkins 1864). Three Confederate soldiers were
+killed in the action, while Aroostook was hit twice – one shot carrying away the fore-topgallant mainstay
+and the other passing through the quarterdeck bulwarks (Hatfield 1864; Perkins 1864).
+
+100003256/080145
+
+7
+
+Improvements to the San Bernard fortifications continued through March 1864; however, the
+large-scale invasion feared by General Magruder never materialized. Despite continued patrol of the area
+by Union gunboats, there were no further hostile engagements at the San Bernard until September 19,
+when Sciota attacked the fort, and then followed with an attack on a schooner crossing the bar a week
+later (Gadus and Freeman 2005:143). These were the last confrontations with Union forces at the mouth
+of the San Bernard River. In all, between December 1861 and September 1864, the San Bernard River
+fortifications were attacked by Union vessels on 12 occasions, and were bombarded with over 200 pieces
+of artillery (Gadus and Freeman 2005:137–138).
+At the end of the Civil War, citizens in Brazoria County, like much of the South, were suffering
+through difficult conditions resulting from the conflict. The local economy had been strained since the
+later years of the war after the state had impressed cotton, sugar, and other crops, heavy taxes were levied;
+the blockade stopped the trade of agricultural goods; and Confederate money lost its value (Freeman
+2004:101). After the war, reconstruction and the freeing of slaves added insult to injury. The loss of
+slaves equated to the loss of property and wealth for plantation owners. Furthermore, land values
+decreased because much of it could no longer be worked, and this loss of real estate assets plunged many
+plantation owners deep into debt (Freeman 2004:102). A scarcity of consumer goods, the confiscation of
+cotton by the reconstruction government, and the psychological toll of an uncertain future sent Brazoria
+County into economic chaos (Creighton 1975:257).
+Brazoria County’s fortunes began to improve by the late 1870s–1880s, however. The per capita
+debt was less than half the U.S. average, and an influx of northerners, foreign immigrants, and displaced
+southerners dramatically increased the local population (Creighton 1975:271–272). The use of convict
+labor helped to revive crop production, with corn, grains, potatoes, fruits, wild grapes, sugar, and cotton
+being the chief exports (Kleiner n.d.). Distribution of these crops was problematic since the area lacked
+the necessary railroad infrastructure. As a result, the agricultural produce had to be transported over water
+by boats, which presented the same perils and dangers that come with all maritime traffic.
+In 1899, Congress began reexamining the possibility of making improvements to the San Bernard
+River. This region was fertile and occupied by numerous plantations, yet there was no rail service to the
+area, and no reliable means for commercial transport. The mouth of the San Bernard was an
+unsatisfactory means of entry as it was guarded by a shifting bar at a depth of between 2½ to 4 feet, and
+was prone to closing entirely in certain weather conditions, such as strong northeasterly winds. This bar
+was so treacherous that the mouth of the San Bernard was referred to as the “Coaster’s Graveyard” (Root
+1900:10). In 1899, six vessels were utilized on the San Bernard to trade goods produced in the region for
+groceries and supplies from Velasco and Galveston. These vessels were often delayed, waiting for
+favorable weather to allow them to cross the bar at the mouth of the river.
+Shipping in this part of Texas was especially vulnerable to severe weather events that occurred
+frequently and suddenly along the coast. The types of tropical storms that plagued the Texas coast usually
+develop between June and October, with the highest frequency of storms occurring in August, September,
+100003256/080145
+
+8
+
+and October (USACE 1958:16). Notable storms affecting the area include hurricanes in 1854, 1900, 1909,
+1915, 1932, 1941, 1961, and floods in 1899, 1913, 1915, 1929, and 1940 (Kleiner n.d.). The most intense
+of these storms was the hurricane of 1900 (USACE 1958:17). The Galveston Hurricane of 1900 is still
+considered the most deadly natural disaster in U.S. history (Francaviglia 1998:266). That hurricane killed
+more than 6,000 Galveston residents and virtually destroyed Velasco. Not more than half a dozen houses
+were left standing (USACE 1958:17). Other highly destructive storms were those of 1932 and 1961. The
+1932 storm hit Velasco with high-velocity winds that caused extensive structural damage and resulted in
+the loss of 40 lives (USACE 1958:17). Several historically documented shipwrecks occurring in the study
+area during the nineteenth and twentieth centuries are attributed to storms such as these.
+In the nineteenth century, besides weather events and geologic conditions, inaccurate mapping
+and unfamiliarity with the Texas coast was another factor contributing heavily to shipwrecks around the
+survey area. Improvements in mapping technology lessened the risk of entry, but did not eliminate the
+hazard altogether.
+Improvements to the San Bernard River, allowing for means of reliable water transport, were
+anticipated to increase commerce and development along the fertile land adjacent to the river. The
+construction of two jetties at the mouth to maintain a channel to the Gulf was considered but declined due
+to the cost associated with such an endeavor and the fact that it would only benefit the small number of
+the population living along the San Bernard. In addition, the light-draft vessels required for river trade
+would be forced to ply the often treacherous Gulf waters. Instead, a canal connecting Galveston and
+Corpus Christi was conceived. This intracoastal canal was completed in 1913 and initially entered the San
+Bernard River from the east 1/8 mile upriver from its mouth (utilizing part of the old Jones Creek
+channel), and exited the river to the west one mile upriver from its mouth (Baker 1919; Root 1900). In
+1938, after a more extensive intracoastal canal linking all the major waterways of the Gulf coast was in
+development (the modern-day GIWW), the San Bernard to Brazos leg of the canal was moved to its
+current location approximately one mile upriver from the mouth, forming a continuous intersection with
+the westward canal leading to Matagorda Bay (Alperin 1977:159). These improvements reduced the
+number of vessel losses in the area and greatly improved the safety of shipping on the San Bernard.
+
+Documented Vessel Losses
+PBS&J researched a variety of databases and historical records to identify potential shipwrecks in
+the project area. Sources consulted for this research include the shipwreck files of the THC, the National
+Oceanographic and Atmospheric Administration’s Automated Wreck and Obstruction Information
+System (AWOIS), PBS&J’s shipwreck database, newspaper archives, and the List of Merchant Vessels of
+the United States.
+Based on the collective data, there are potentially 15 reported wrecks in the general research area
+(Table 1). The primary source of the reported wrecks was the THC’s shipwreck database, which itself is
+compiled from a variety of sources, particularly historical records. The accuracy of these records is highly
+
+100003256/080145
+
+9
+
+100003256/080145
+
+10
+
+507
+
+1079
+
+1755
+
+1757
+
+1241
+
+1761
+
+1759
+
+1758
+
+1297
+
+1431
+
+1430
+
+1760
+
+1756
+
+1763
+
+1754
+
+Andrew Boden
+(Bowden)
+
+Fair Moon
+
+Gulf King XVIII
+
+Julia
+
+Libertad
+
+Louisa
+
+Mascot
+
+Mayflower
+
+Sea Bird
+
+Sea Bird
+
+Unknown
+
+Unknown
+
+Unknown
+
+Violet Gladys
+
+PBS&J
+No.
+
+Alice
+
+Name of Vessel
+
+266204
+
+93136
+
+93136
+
+75019
+
+524450
+
+105056
+
+284
+
+285
+
+Rig
+
+1073
+
+1069
+
+889
+
+fishing vessel
+
+schooner
+
+1187 yacht; cabin
+cruiser
+
+gas screw
+
+986 screw tug
+
+1916 schooner
+
+schooner
+
+sloop
+
+1074 trawler
+
+252 freighter
+
+1430 schooner
+
+641
+
+Official AWOIS THC
+No.
+No.
+No.
+
+54.3
+
+39.2
+
+67
+
+18.3
+
+13
+
+20
+
+6.4
+
+3.1
+
+10
+
+Length Breadth Draft
+(ft)
+(ft)
+(ft)
+
+1948
+
+1919
+
+1901
+
+Date
+Built
+
+1966
+
+prior to 1899
+
+1977
+
+1977
+
+1967
+
+1967
+
+7/12/1936
+
+1890
+
+6/20/1883
+
+09/15/1875
+
+5/10/1972
+
+9/20/1958
+
+11/22/1896
+
+11/3/1884
+
+Date Lost
+
+Table 1: Potential Shipwrecks within the Survey Area
+
+grounded
+
+foundered
+
+stranded
+
+grounded
+
+Nature
+
+46
+
+11
+
+14
+
+27
+
+burned
+
+stranded
+
+unknown
+
+grounded
+
+wrecked
+
+15.45 wrecked
+
+99
+
+64
+
+38.4
+
+Gross
+Tons
+
+Gulf of Mexico, near San Bernard
+River
+
+Obstructing the mouth of the San
+Bernard River
+
+Gulf of Mexico, near San Bernard
+River
+
+San Bernard River
+
+Gulf of Mexico, near San Bernard
+River
+
+San Bernard River
+
+On the bar at the mouth of the San
+Bernard River
+
+Gulf of Mexico, near San Bernard
+River
+
+Gulf of Mexico, near San Bernard
+River
+
+Gulf of Mexico, near San Bernard
+River
+
+San Bernard River, at mouth
+
+Gulf of Mexico, near San Bernard
+River
+
+Gulf of Mexico, near San Bernard
+River
+
+San Bernard River, 300 yards SW
+of mouth
+
+Gulf of Mexico, near San Bernard
+River
+
+Locality
+
+variable, and very rarely are exact locations recorded. The location of any individual shipwreck must
+therefore be considered approximate, unless it has been verified by divers or survey. These vessels are
+included in this study in the event that they are located within the survey area.
+The history and vessel characteristics for most of the wrecks are unknown at this time beyond
+what information is listed in Table 1. One exception is the Julia (PBS&J wreck no. 1241), the earliest
+known wreck on the list. Julia was a merchant sloop that traveled along the Gulf coast carrying cotton,
+sugar, molasses, and lumber between Galveston, Calcasieu, and San Bernard. On September 15, 1875, in
+the midst of a violent storm that destroyed the small settlement of San Bernard, Julia wrecked at the
+mouth of the San Bernard River (Galveston Daily News 1875:1).
+In June 1883 the large schooner Libertad (PBS&J wreck no. 1761) capsized and washed ashore
+near the mouth of the San Bernard (Galveston Daily News 1883). Heavy seas broke the vessel apart, and
+debris washed ashore on the beach for miles above and below the river entrance. The copper-bottomed
+hull came to rest keel-up in about 6 feet of water.
+
+100003256/080145
+
+11
+
+RESEARCH DESIGN
+The survey was conducted using a combination of terrestrial and underwater magnetometer
+survey techniques. Source points that were accessible on foot were surveyed with a Geometrics Model G858 cesium magnetometer mounting a single sensor. The sensor was mounted on an aluminum pole and
+carried approximately 3 feet (0.9 meter) in front of the operator and 2 feet (0.6 meter) above the ground.
+The magnetometer recorded readings every 0.1 second, which resulted in an average distance between
+readings of 0.3 feet (0.1 meter). Survey transects consisted of a 60-foot (18-meter)-square centered on
+each source point, plus an additional 60-foot (18-meter)-long transect across the point center (Figure 3).
+
+Figure 3. Survey Methodology
+
+Submerged source points were surveyed from an airboat towing a Geometrics Model G-882
+cesium magnetometer. Trimble’s HYDROpro software provided navigation guidance and position data
+logging. The magnetometer sensor was towed on the surface 50 feet (15 meters) aft of the airboat’s port
+stern corner, and HYDROpro calculated and recorded position estimates for the sensor in real time. For
+accurate positioning of the raw data, both the G-858 and G-882 magnetometers integrated differentially
+corrected Geographic Positioning System data based on the World Geodetic System 1984 datum,
+Universal Transverse Mercator coordinate system, Zone 15 North projection. The submerged source
+points were surveyed with a minimum of three parallel transects spaced no more than 30 feet (10 meters)
+apart, including one transect over the point center.
+
+Data Analysis
+Magnetometer data were contoured and analyzed daily in order to expedite anomaly avoidance by
+the seismic drilling crews. Upon completion of each survey day, the raw magnetometer data were
+100003256/080145
+
+12
+
+exported from the navigation software as text files and imported into a Microsoft EXCEL® spreadsheet
+containing a mathematical algorithm that removes diurnal fluctuations. Any total field value differing by
+greater than 0.5 gamma from the average of either the preceding three or following three recorded values
+was considered part of a magnetic anomaly. The difference between anomalous values and the ambient
+magnetic field was then substituted for the actual total-field value recorded by the magnetometer.
+Magnetic values not meeting this criterion were considered part of the magnetic background or ambient
+level. The difference between two adjacent readings (a number very close to zero) was substituted for the
+magnetic total field value in the latter case. This algorithm results in a data set in which abnormally high
+and low magnetic values (anomalies) center around a zero background level. The resulting data set
+represents the magnetic total-field amplitude relative to the ambient magnetic field. One result of the
+above process is that relatively long-term trends in the magnetic data amplitude, such as those caused by
+diurnal variation or geologic gradients, are filtered out of the data set, leaving only local magnetic
+anomalies. A side benefit of this process is that visual representations of the data can easily reflect the
+dipolar nature of the magnetic anomalies.
+A magnetic contour map was prepared following the application of the filter to remove lowfrequency diurnal variations. Bentley’s Geopak® digital terrain-modeling software was used to contour
+the data. The data set was contoured using a 5-gamma contour interval with 100-gamma index contours.
+The 0-gamma contour level was omitted to prevent a cluttered appearance in the contour maps resulting
+from the concentration of relative magnetic values near the ambient (zero) level.
+
+Data Interpretation
+Analysis of unidentified magnetic anomalies recorded in the survey area was based upon a
+resemblance to anomalies recorded over documented sources. PBS&J has assembled a database of
+magnetic anomalies (Gearhart 2004) for use in comparison with data from remote-sensing surveys such as
+the present study. This database is most useful for interpreting magnetic survey data recorded at a closeorder (maximum 33-foot [10-meter]) transect interval, but it also sets important limits on the parameters
+of a potential shipwreck anomaly from surveys conducted at wider transect intervals. This reference
+database contains high-resolution, contoured examples of over 20 shipwrecks, 11 capped petroleum wells,
+and 17 ground-truthed objects (or object clusters) of modern ferrous debris. All shipwrecks and debris
+items in the database have been surveyed using a maximum 33-foot (10-meter) line interval. All of the
+shipwrecks have been surveyed minimally in at least two crossing directions using a line interval ranging
+from 6.6 to 33 feet (2 to 10 meters).
+The shipwrecks incorporated in PBS&J’s anomaly database include a wide variety of types, ages,
+compositions, and depositional environments. Vessel types include wooden-hulled sailing vessels,
+wooden-hulled steamboats, iron-hulled steamboats, wooden-hulled steam screw (converted to a barge),
+and steel-hulled diesel screw. These vessels range in age from the late eighteenth century to the midtwentieth century. Wreck environments range from high-energy to low-energy conditions, including
+harbor entrances, barrier island surf zones, beaches, marsh, oyster reefs, open bay, and the Gulf. In
+100003256/080145
+
+13
+
+addition, a variety of wreck and postdepositional events are represented, including vessels that stranded,
+foundered, exploded, burned, were partially demolished, and/or were partially salvaged. Most of the
+vessels are presumed to have relatively intact lower hulls. Three beached vessels in the database were
+stripped of their most valuable fittings by salvers of the period.
+Several key generalizations concerning shipwreck anomalies have emerged from analysis of the
+database anomalies. For example, shipwreck anomalies superficially bear a strong resemblance to
+anomalies caused by plugged petroleum wells. Both anomaly types are dominated by prominent, northoriented (earth-induced) central dipoles, although well site anomalies generally are distinguishable from
+shipwreck anomalies based upon differences in magnetic gradient and in the ratio between the amplitudes
+of the positive and negative poles of the anomaly. Well anomalies tend to have lower gradients than
+shipwreck anomalies, due to the typically greater distance from sensor to source because well casings are
+often cut and removed 50 to 60 feet (15 to 18 meters) below the mud line.
+The most promising conclusion to be drawn from PBS&J’s research is that all of the shipwreck
+anomalies in the database are essentially simple dipoles whose polar axes (declination) are aligned nearly
+parallel with the earth’s magnetic axis. In northern magnetic latitudes, the negative portion of each
+shipwreck anomaly is located toward magnetic north, while the positive pole is located toward the
+magnetic South Pole. All of the shipwreck anomalies in Gearhart (2004) for which measurements are
+possible (n = 12) have declinations that vary less than 31 degrees from magnetic north. The average
+variation is 12.6 degrees. The range in variation is from 1 to 31 degrees, and the median value is 9.4
+degrees. On the other hand, the declinations of debris anomalies tend to follow the orientations of the
+debris; thus, debris anomalies might be aligned along any azimuth. Seventy-one percent of all the debris
+anomalies in PBS&J’s database (n = 12 of 17 total) have declinations that vary from magnetic north by
+greater than 36 degrees. The average variation of debris anomalies from magnetic north in the sample
+(n = 17) is 66.4 degrees. The range of variation is from 3 to 175 degrees, and the median value is 55
+degrees. The methodology for measuring anomaly declination is documented in Gearhart (2004).
+The reason for the difference in declination between shipwreck anomalies and most debris
+anomalies is that individual magnetic fields produced by each of the numerous ferromagnetic components
+in a typical vessel largely cancel one another, leaving primarily the earth-induced portion of the anomaly
+to be observed. On the other hand, the remnant portion of the magnetic field dominates anomalies
+associated with debris. This single significance criterion (orientation of the dipole axis, otherwise known
+as declination) is believed to offer the potential, given adequate survey resolution and sufficient empirical
+corroboration, for elimination of over 80 percent of debris anomalies from consideration as shipwrecks.
+Analysis of the magnetic data collected in the survey area entailed a careful examination of all
+isolated anomalies to determine whether any might be associated with a historic shipwreck. The primary
+means of assessing anomalies was by comparison with contoured examples of verified shipwreck
+anomalies as discussed above and described by Gearhart (2004). A direct visual comparison was
+conducted between each contoured anomaly from this survey and the smallest verified shipwreck
+100003256/080145
+
+14
+
+anomaly (site 41CL92) from PBS&J’s database. Any survey anomaly resembling this database wreck
+anomaly was considered a potential shipwreck. If any such anomalies were recorded in the vicinity of one
+or more seismic source points, the source point was then relocated due north or due south in increments of
+220 feet (67 meters) until it was outside of the THC-mandated 300-foot (91-meter) buffer zone around
+any potential shipwreck anomalies. Any relocated points were also resurveyed to ensure the absence of
+any potential wreck anomalies at the new location.
+
+100003256/080145
+
+15
+
+RESULTS AND RECOMMENDATIONS
+Results
+A total of 177 seismic source point locations were surveyed between June 30 and July 10, 2008
+(Figure 4). Of these, 163 were surveyed on foot with the G-858 terrestrial magnetometer and 14 were
+surveyed from the airboat with the G-882 underwater magnetometer. Only two source points, 50481100
+and 50491103, required relocation due to their proximity to potential shipwreck anomalies.
+The edge of a small anomaly ranging from –40 to +20 gammas was recorded in the northnorthwest quadrant of the 50491103 survey area (Figure 5). It cannot be determined from the available
+data whether the anomaly represents a single dipolar anomaly or two discrete monopolar anomalies;
+however, assuming the former, the magnetic signature retains characteristics indicative of a potential
+shipwreck, as described in the previous section. Accordingly, source point 50491103 was relocated 220
+feet (67 meters) to the south to place it outside of the THC-mandated avoidance boundary for potential
+wreck anomalies.
+No anomaly was recorded at source point 50481100; however, that point was originally located
+approximately 190 feet (58 meters) from a potential wreck anomaly that was recorded during a previous
+PBS&J survey (Figure 6; Jones et al. 2008). Accordingly, source point 50481100 was also relocated 220
+feet (67 meters) to the south to place it outside of the THC’s anomaly avoidance boundary.
+Two other source points, 50491109 and 50491110, are located between 187 and 233 feet (57 and
+71 meters), respectively, from the THC’s mapped location for Gulf King XVIII (see Table 1). However,
+this wreck location is not based on any documentary or archaeological evidence and was arbitrarily
+assigned by the THC. Furthermore, no magnetic anomalies were recorded at source points 50491109 and
+50491110. Based on these factors, State Marine Archeologist Steve Hoyt did not require that those source
+points be relocated (verbal communication between Mr. Hoyt and Project Archaeologist, Ed Baxter,
+July 9, 2008).
+
+Recommendations
+There is a high probability for the presence of historic vessel remains within the study area. This
+is due primarily to the shallow and shifting sand bar at the mouth of the San Bernard River, which has
+historically been a known hazard to navigation. Dating back to 1875, there are at least three known
+wrecks reported at the river mouth, and the area was dangerous enough to have been locally known in the
+1890s as “The Coaster’s Graveyard,” implying the occurrence of numerous vessel losses.
+Two of the surveyed source points within the HPA were originally located in proximity to
+potential shipwreck anomalies. Both of these source points have been relocated outside of the THCmandated 300-f00t (91-meter) avoidance boundary for potential wreck anomalies. The magnetometer data
+indicate that no other source points will require relocation. PBS&J recommends that no further
+investigations be required, and that the area be approved for the proposed seismic survey activities.
+
+100003256/080145
+
+16
+
+17
+
+Figure 4. Source Points Surveyed
+
+18
+
+Figure 5. Magnetometer Results and Relocation of Source Point 50491103.
+
+Example Shipwreck Anomaly
+
+19
+
+Figure 6. Magnetometer Results and Relocation of Source Points 50481100 and 50491103.
+
+REFERENCES
+Alperin, Lynn M.
+1977
+Custodians of the Coast: History of the United States Army Engineers at Galveston.
+Galveston District, U.S. Army Corps of Engineers, Galveston, Texas.
+Baker, Newton D,
+1919
+Letter from the Secretary of War, Transmitting, with a Letter from the Chief of
+Engineers, Report on Preliminary Examination of San Bernard River, Texas. 66th
+Congress, 1st Session, U.S. House of Representatives, Document No. 259. Perry
+Castañeda Library, The University of Texas at Austin.
+Barr, Alwyn
+1961
+
+Texas Coastal Defense, 1861–1865. Southwestern Historical Quarterly 65(1):1–31.
+
+Brazoria County Historical Museum
+1986
+A Window to the Past: A Pictorial History of Brazoria County, Texas. Taylor Publishing
+Company.
+Buenger, Walter L.
+1984
+Secession and the Union in Texas. University of Texas Press, Austin.
+Creighton, James A.
+1975
+A Narrative History of Brazoria County. Brazoria County Historical Commission, Waco,
+Texas.
+Francaviglia, Richard V.
+1998
+From Sail to Steam: Four Centuries of Texas Maritime History, 1500–1900. University
+of Texas Press, Austin.
+Freeman, Martha
+2004
+An Overview of the Development of an Historic Landscape on the San Bernard River,
+Brazoria County, Texas, and a History of the Levi Jordan Plantation. Report for TBG
+Partners, Inc., Austin.
+Gadus, Frances E., and Martha Doty Freeman
+2005
+Cultural Resources Survey of the Gulf Intracoastal Waterway from the Brazos River
+Floodgates to Port O’Connor, Brazoria, Calhoun, and Matagorda Counties, Texas.
+Report of Investigations, Number 141. Submitted to the U.S. Army Corps of Engineers,
+Galveston District. Prewitt and Associates, Inc., Austin.
+Galveston Daily News (Galveston, Texas)
+1875
+“The Late Flood: Steamship Australian Ashore,” September 21, 1875, 1.
+1883
+
+“A Wrecked Vessel – Her Name and Cargo – A Government Buoy Discovered Adrift.”
+June 21, 1883.
+
+100003256/080145
+
+20
+
+Gearhart, Robert L., II
+2004
+Marine Remote Sensing: The Next Generation. Symposium presented at the Society for
+Historical Archaeology, 37th Conference on Historical and Underwater Archaeology.
+St. Louis, Missouri. January.
+Handbook of Texas Online
+n.d.
+“Port of San Bernard” http://www.tshaonline.org/handbook/online/articles/PP/rrplk.html
+(accessed May 11, 2008).
+Hatfield, Chester
+1864
+“Abstract Log of the U.S.S. Aroostook, Lieutenant-Commander Chester Hatfield, U.S.
+Navy, Commanding.” In Official Records of the Union and Confederate Navies in the
+War of the Rebellion. Series I, Volume 21. Government Printing Office, Washington,
+D.C.
+Jones, Douglas, Sara Hoskins, Robert Gearhart, and Dan Hudson
+2008
+Remote-Sensing Survey of Proposed Channel Creation for Historic Properties
+Investigations, GIWW to Mouth of the San Bernard River, Brazoria County, Texas. Draft
+Report. Document No. 080092. PBS&J, Austin.
+Kleiner, Diana J.
+n.d.
+“Brazoria County.” Handbook of Texas Online. http://www.tshaonline.org/handbook/
+online/articles/BB/hcb12.html (accessed May 12, 2008).
+Kraus, Nicholas C., and Lihwa Lin
+2002
+Coastal Processes Study of San Bernard River Mouth, Texas: Stability and Maintenance
+of Mouth. Prepared for the U.S. Army Engineer District, Galveston. Coastal and
+Hydraulic Laboratory, U.S. Army Engineer Research and Development Center,
+Vicksburg, Mississippi.
+Marchand, J.B.
+1864
+“Report of Captain Marchand, U.S. Navy, regarding Confederate fortifications between
+Galveston and Matagorda Bay.” In Official Records of the Union and Confederate Navies
+in the War of the Rebellion. Series I, Volume 21. Government Printing Office,
+Washington, D.C.
+Perkins, G.H.
+1864
+
+Root, Elihu
+1900
+
+“Engagements with Batteries at Caney Bayou, San Bernard River, and Velasco, Texas,
+February 6-9, 1864.” In Official Records of the Union and Confederate Navies in the War
+of the Rebellion. Series I, Volume 21. Government Printing Office, Washington, D.C.
+
+Letter From the Secretary of War, Transmitting, With a Letter from the Chief of
+Engineers, Reports of Examination and survey of San Bernard River, Texas. 56th
+Congress, 1st Session, U.S. House of Representatives, Document No. 446. The Center for
+American History, the University of Texas at Austin.
+
+100003256/080145
+
+21
+
+U.S. Army Corps of Engineers (USACE)
+1958
+Interim Report on Hurricane Survey of Freeport and Vicinity. May 15, 1958. Galveston,
+Texas.
+U.S. Coast and Geodetic Survey
+1896
+Oyster Bay to Matagorda Bay. Map on file at the Texas Historical Commission, Austin.
+1934
+
+San Bernard River. Map No. 69993, on file at the Texas General Land Office, Austin.
+
+1974
+
+Cedar Lakes. Map on file at the U.S. Geological Survey, Earth Science Information
+Center, Reston, Virginia.
+
+Voellinger, Leonard R., and Michael A. Nash
+1989
+Mouth of the San Bernard River: National Register Testing, Four Sites, Brazoria County,
+Texas. Document No. 890361. Prepared for the U.S. Army Corps of Engineers,
+Galveston District. Espey, Huston & Associates, Inc., Austin, Texas.
+
+100003256/080145
+
+22
+
+

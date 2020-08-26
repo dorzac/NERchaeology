@@ -1,0 +1,933 @@
+AR Consultants,
+Inc.
+Archaeological and Environmental Consulting
+11020 Audelia Road, Suite C105
+Dallas, Texas 75243-9085
+Phone:
+(214) 368-0478
+Fax:
+(214) 221-1519
+E-mail:
+arcdigs@aol.com
+
+AN ARCHAEOLOGICAL
+SURVEY OF THE NORTHEAST LAKEVIEW SANITARY
+FORCE MAIN ROUTE
+CEDAR HILL STATE PARK, TEXAS
+
+S. Alan Skinner, PhD
+and
+Jesse Todd, MS, MA
+
+Prepared for:
+FREESE AND NICHOLS, INC.
+Fort Worth, Texas
+
+Prepared by:
+AR CONSULTANTS, INC.
+11020 Audelia Road, Suite C105
+Dallas, Texas 75243
+
+HISTORIC BUILDINGS
+
+ARCHAEOLOGY
+
+NATURAL SCIENCES
+
+Cultural Resources Report 2007-04
+January 10, 2007
+
+HISTORIC BUILDINGS
+
+ARCHAEOLOGY
+
+NATURAL SCIENCES
+
+AN ARCHAEOLOGICAL
+SURVEY OF THE NORTHEAST LAKEVIEW SANITARY
+FORCE MAIN ROUTE
+CEDAR HILL STATE PARK, TEXAS
+
+S. Alan Skinner, PhD
+and
+Jesse Todd, MS, MA
+
+Prepared for:
+FREESE AND NICHOLS, INC.
+Fort Worth, Texas
+
+Prepared by:
+AR CONSULTANTS, INC.
+11020 Audelia Road, Suite C105
+Dallas, Texas 75243
+Cultural Resources Report 2007-04
+January 10, 200
+
+HISTORIC BUILDINGS
+
+ARCHAEOLOGY
+
+NATURAL SCIENCES
+
+CEDAR HILL STATE PARK SURVEY
+
+i
+
+ABSTRACT
+
+The Trinity River Authority is upgrading the Northeast Lakeview Sanitary
+Sewer Force Main within Cedar Hill State Park in southwest Dallas
+County, TX. After review by the Corps of Engineers and the Texas
+Historical Commission, AR Consultants, Inc. was asked to conduct a
+pedestrian survey of the route crossing of Baggett Branch and John Penn
+Branch. A buried prehistoric ash lens had been located at the route
+crossing of Baggett Branch and the route was relocated to avoid the site
+(41DL448). Due to the depth of the floodplain sediments and the heavy
+leaf cover, shovel testing and backhoe trenching were done at each of the
+crossings in order to search for buried cultural resources. No buried
+artifact-bearing deposits were found on the surface or by testing. An ash
+sample and a broken large mammal long bone were collected from the ash
+layer and were respectively radiocarbon dated 390±40 BP (Beta 225640)
+and 320±40 (Beta 225641). It is concluded that the site represents a
+hunting and mast gathering site probably occupied in the fall during the
+very late Late Prehistoric period.
+AR Consultants recommends that further archaeological investigations are
+unwarranted at the creek crossings and site 41DL448 has been avoided by
+rerouting the force main alignment. The site will be affected in the future
+as the creek continues to erode through existing fluvial processes unrelated
+to the pipeline project. The US Army Corps of Engineers or the Texas
+Parks and Wildlife Department might want to consider bank stabilization
+measures to control the adverse effects of erosion on the site. If site
+41DL448 is endangered by further development or maintenance of the
+adjacent park road, the site limits should be further defined in order to
+determine site significance. The site may be eligible for nomination for
+inclusion in the National Register of Historic Places. No further
+investigation is recommended along the re-aligned pipeline routes.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+CEDAR HILL STATE PARK SURVEY
+
+ii
+
+ACKNOWLEDGEMENTS
+A project of this scope requires the participation of a variety of people from start to
+finish. First, we want to thank Dan McGregor of the Corps of Engineers and Diane
+Desmuks of the Texas Parks and Wildlife Department for doing the initial evaluation of
+site 41DL448. Even more importantly we want to thank Paul Baldon, Naturalist at Cedar
+Hill State Park for discovering the site. Without their interest and support, the study
+would not have been done.
+Secondly, we want to thank the staff at Freese and Nichols, Inc. for showing their
+concern for prehistoric cultural resources and calling upon us to help them. In particular,
+we want to thank the lead engineer, Robert Woodbury for working with the park and us
+to reroute around the site. Michael Votaw, Environmental Scientist, assisted us in many
+ways as did Steve Watters.
+In the field, we were assisted by Mark Trevino of McKrosky Excavating who delivered
+the backhoe and operated it for us in to field. His digging and backfilling were done with
+care and attention. We also want to thank the Cedar Hill State Park staff for their
+assistance.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+iii
+
+CEDAR HILL STATE PARK SURVEY
+
+TABLE OF CONTENTS
+Abstract.....................................................................................……………..
+Acknowledgements………………………………………………………….
+Table of Contents……………………………………………………………
+List of Figures...........................................................................……………..
+List of Tables………………………………………………………………..
+Introduction...............................................................................……………..
+Natural Environment.......................................................................................
+Archaeology of the Mountain Creek Watershed……………………………
+Research Design and Methodology................................................................
+Results.......................................................................................……………..
+Conclusions and Recommendations...............................................................
+References Cited.......................................................................……………..
+Appendix 1. Radiocarbon Dates from Site 41DL448……………………….
+
+i
+ii
+iii
+iii
+iii
+1
+3
+4
+8
+9
+14
+15
+17
+
+LIST OF FIGURES
+Figure 1.
+Figure 2.
+Figure 3.
+Figure 4.
+Figure 5.
+
+The surveyed creek crossings shown as stars on sections of the
+Britton and Cedar Hill, TX 7.5' USGS maps……..…………
+Shovel tests 1-5 and Trench 1 locations shown on sections
+of the Britton and Cedar Hill, TX 7.5' USGS maps………….
+East wall profile of Trench 1………………………………..
+Baggett Branch Creek bank with ash layer and burned soil below
+it. View is to the west. ……………………………………....
+Trenches 2-4 and STs 6-12 shown on sections of the Cedar Hill
+And Duncanville, TX 7.5' USGS maps…..…………………
+
+2
+9
+10
+11
+12
+
+LIST OF TABLES
+Table 1.
+
+Shovel test descriptions………………………………………
+
+13
+
+r-arc CedarHill SP-TRA
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+CEDAR HILLS STATE PARK SURVEY
+
+1
+
+INTRODUCTION
+In December and January of 2006/7, AR Consultants, Inc. conducted a pedestrian
+archaeological survey of two pipeline re-routes along the TRA Northeast Lakeview
+Sanitary Sewer Force Main in Cedar Hill State Park, TX. The present pipeline is being
+upgraded and these two sections cross major drainages with the potential of containing
+cultural materials. In fact, Paul Baldon, Cedar Hill State Park Naturalist, had noticed an
+apparently buried prehistoric hearth exposed in the bank of Baggett Branch adjacent to
+where the proposed pipeline was to have crossed the creek. It was decided to re-route the
+pipeline around the hearth which was buried a meter below the present ground surface.
+The park property belongs to the Fort Worth District of the US Army Corps of Engineers
+and is leased to Texas Parks and Wildlife Department so it was necessary for these
+organizations to agree to the proposed re-routing.
+The pipeline crosses the level foothills of the White Rock Escarpment and the narrow
+valleys that extend east into the Escarpment and ultimately cross the east side of the
+Mountain Creek valley. These creeks include John Penn Branch and Baggett Branch. The
+route extends north from Mansfield Road through the state park to the intersection of the
+entrance road to the USACE Joe Pool Lake Office and FM 1382. The replacement
+pipeline will be a 30” diameter pipe that will be placed in the bottom of a five foot wide
+trench that will range from 5-10’ deep depending upon its location.
+The purpose of this investigation was to locate any cultural resources present within the
+proposed re-route locations. If sites were located, recommendations were to be made
+about archaeological site significance and how the sites might be impacted by
+construction. This report has been prepared for review by the Archeology Division of the
+Texas Historical Commission as part of the Section 106 review process. Relevant federal
+legislation includes the National Historic Preservation Act of 1966, as amended (PL-96515), the National Environmental Policy Act of 1969 (PL-90-190), and the Archeological
+and Historical Preservation Act of 1974, as amended (PL-93-291).
+This report was written in accordance with report guidelines adopted by the Texas
+Historical Commission, Archeology Division, and developed by the Council of Texas
+Archeologists (ND). The following chapters present a brief description of the natural and
+cultural environmental resources of the area. The research design and methodology and
+then the results of the field investigation follow. A section which offers recommendations
+concludes the body of the report. A list of references cited follows.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+CEDAR HILLS STATE PARK SURVEY
+
+Figure 1.
+
+2
+
+The surveyed creek crossings, shown as stars, on sections of the Britton
+and Cedar Hill, TX 7.5' USGS maps.
+
+Administrative Information:
+Sponsor:
+Trinity River Authority
+Review Agency:
+Texas Historical Commission, Archeology Division
+Principal Investigator: S. Alan Skinner, PhD
+Field Crew:
+Lance K. Trask, Sonny A. Wheeler, Brett Lang, and Alan
+Skinner
+Fieldwork Dates:
+December 8, 2006 through January 3, 2007
+Acres Surveyed:
+Seven
+Sites Investigated:
+Prehistoric: Sites 41DL448
+Historic:
+None
+Curation:
+Records will be curated at the Texas Archeological
+Research Laboratory
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+CEDAR HILLS STATE PARK SURVEY
+
+3
+
+NATURAL ENVIRONMENT
+The Mountain Creek Watershed presents a unique setting in north central Texas where
+the exposed western edge of the White Rock Formation forms the steep rocky scarp east
+of the creek channel with the rolling Grand Prairie and Eastern Cross Timbers to the
+west. The White Rock Escarpment, as it is known, has been deeply incised by the upper
+end of Mountain Creek and by presently intermittent creeks on the east side of the valley.
+Of these, Mountain Creek, Baggett Branch, John Penn Branch, and Artesian Creek are
+apparently spring-fed and would have provided a reliable year-round water source that
+supported habitats where freshwater mussels including Potamilus, Tritogonio,
+Plectomerus, and others grew prehistorically along with fish, turtles, and other
+amphibians.
+Soils in the narrow valleys are mapped as frequently flooded Ovan clay which formed in
+recent alluvium on floodplains. Flooding usually occurs two or three times a year
+(Coffee, Hill, and Ressell 1980:Sheet 57).
+Historically, the Escarpment was covered with cedars, junipers actually, while the top of
+the Escarpment to the east was Blackland Prairie and the rolling prairie to the west was
+backed by the Eastern Cross Timbers. Mountain Creek was a major floodplain forest
+(Martin 1988). So within a distance of five km of the Cedar Hill State Park, a wide
+variety of plants and aquatic resources were present and they could have provided an
+equally wide variety of terrestrial, avian, and aquatic plant and animal food sources.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+4
+
+CEDAR HILLS STATE PARK SURVEY
+
+ARCHAEOLOGY IN THE MOUNTAIN CREEK WATERSHED
+Cultural historical investigations in the Mountain Creek Basin upstream from the junction
+of the West Fork of the Trinity River began more than fifty years ago with the survey and
+recording of numerous prehistoric archaeological sites by members of the Dallas
+Archeological Society (Harris 1936). More recent work was done in conjunction with
+construction of the Joe Pool Lake which was originally termed Lakeview Lake. The work
+was done under the direction of the Archaeology Research Program at Southern
+Methodist University, except for some Historic Architectural Buildings Survey (HABS)
+work at the Penn site that was done by Environment Consultants, Inc. and completed by
+AR Consultants in 1984. This work is briefly summarized below, but the reader is
+referred to the original reports for additional information.
+The initial lake site survey was done in 1977-78 and resulted in the locating and
+recording of 17 prehistoric archaeological sites and 25 historic archaeological/ standing
+structure sites (Skinner and Connors 1979). Many of these sites had previously been
+recorded by DAS members who surveyed the Mountain Creek area in the 1940s. Based
+on the survey findings, it was hypothesized that prehistoric settlement in the area was of a
+seasonal nature and was limited by water availability. Moreover, based on the apparent
+abundance of chert lithics, rather than quartzite lithics more commonly found at sites
+along the main stem of the Trinity River, it was concluded that the residents were from
+the Brazos River Basin rather than from the closer Trinity River area.
+In 1979 and 1980, SMU and a team from North Texas State University (now the
+University of North Texas) tested for buried sites at Joe Pool Lake. They also tested the
+already recorded sites in order to determine their eligibility for inclusion in the National
+Register of Historic Places, as well as to assess the impact that construction would have
+on the various sites, and to offer a series of resource management recommendations
+(Raab 1982:1).
+Prehistoric testing focused on the Cobb-Pool site which appeared to contain a possible
+pithouse and associated features and refuse deposits dating to the period A.D. 800-1200.
+Work at the site suggested that Cobb-Pool was part of a settlement pattern based on
+exploitation of a range of resources provided by greater effective moisture than in the
+project area today. This is in marked contrast to the model offered by the survey team
+(Raab and Woosley 1982).
+Mitigation activities at the Joe Pool Lake were carried out by SMU between 1984-1986
+and are reported in two monographs (Peter and McGregor editors 1988; Jurney, Lebo and
+Green 1988). Excavation was done at six prehistoric sites including the Late Prehistoric
+period Cobb-Pool and Baggett Branch sites, and three sites with primarily Late Archaic
+occupations. Cobb-Pool was shown to represent a horticultural community occupied in
+the first half of the 13th century. Baggett Branch had a late occupation characterized by
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+CEDAR HILLS STATE PARK SURVEY
+
+5
+
+the presence of bison, Plains-style artifacts, and shell-tempered pottery similar to the type
+Nocona Plain. The authors concluded that the Late Archaic and Early Late Prehistoric
+occupation of the area was on a seasonal basis, primarily during the summer (Peter and
+McGregor 1988b:363-364). The Cobb-Pool site is the only evidence of Middle Late
+Prehistoric occupation and may indicate year-round occupation. The Late Late
+Prehistoric period occupation was probably seasonal.
+During the 1980s, SMU personnel and the Dallas Archeological Society (DAS)
+conducted studies in the area. Survey of a sanitary sewer route along Baggett Branch was
+done for the Lake Ridge Development Company (Peter and McGregor 1987). One
+previously recorded prehistoric site (41DL135) was relocated and a separate prehistoric
+artifact locality was noted. Both deposits were shallow and small. It was recommended
+that the route avoid site 41DL135 as it was considered to be an example of a short-term
+foraging camp. The DAS and SMU personnel had previously tested two other sites
+(41DL137 and 41EL33) located along the upland drainages of the White Rock
+Escarpment (Peter and McGregor 1988b:367; Hartig 1988). The Lester Lorch site
+(41DL137) is situated adjacent to a known spring where an unnamed tributary issues
+forth from the White Rock Escarpment. Artifacts from the site included Middle and Late
+Archaic dart points, snub-nosed end scrapers, bone tools and beads, at least one incised
+sherd, drilled mussel shells, and arrow points. Many of the chipped stone tools,
+particularly the dart points and snub-nosed end scrapers, are made on fine grain quartzite
+which characterizes the Late Archaic assemblages from Joe Pool Lake and the Trinity
+River. The Hollings Branch site (41EL33) is situated approximately five meters above
+the creek channel on a level bench and covers an area estimated to be 85 m by 25-30 m.
+The deposit is confined to the upper 20-30 cm below the present ground surface. The site
+is different from Lester Lorch in that only a few arrow points were recovered along with
+a few pieces of mussel shell, fire-cracked rock, and lithic debris. Hundreds of pieces of
+animal bone are the most common artifact class. Peter (1998) suspected that these sites
+may have been occupied during the summer when the tree cover would have provided
+protection from the direct sun.
+More recently, AR Consultants conducted several surveys in the Mountain Creek basin
+but virtually no prehistoric sites were found from the Joe Pool Lake dam north. Survey of
+the Cedar Mountain Preserve for the City of Cedar Hill located no prehistoric sites in the
+valley or on the slopes and top of the Escarpment (Kent and Skinner 1998). Survey of the
+proposed Sunset Ranch development (Skinner 1998) located four prehistoric site deposits
+(41EL233-235) on the benches above Hollings Creek downstream from the Hollings
+Branch site. Broken large mammal bones were the most common artifacts found in the
+midden deposits which ranged from 15 to 30 m in diameter. Additional artifacts included
+chert lithic debris and fire-cracked rock. None of these sites were dated but the presence
+of charcoal and animal bone should allow for dating and environmental reconstruction.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+6
+
+CEDAR HILLS STATE PARK SURVEY
+
+Culture History
+The following prehistoric culture history is derived largely from the Joe Pool Lake
+monograph.
+Protohistoric
+Late
+Middle
+Early
+Late Prehistoric
+Archaic
+Paleo-Indian
+
+A.D. 1600-A.D. 1800 [ Historic Native American]
+A.D. 1400-A.D. 1600
+A.D. 1000-A.D. 1400
+A.D. 700-A.D. 1000
+A.D. 700-A.D. 1600
+6,000 B.C.-A.D. 700
+ca. 11,000 B.C.-6,000 B.C.
+
+Using the above temporal framework, the following paragraphs present a brief
+description of the culture history of the area.
+The Paleo-Indian period is distinguished by projectile point styles attributed to this
+period. Many of the points are made of cherts that are not native to North-Central Texas.
+The Lewisville site and the Aubrey Clovis site in Denton County are the only excavated
+Paleo-Indian sites in the region (Crook and Harris 1957; Ferring 2001), and both are on
+the Elm Fork to the north. Surface artifacts generally come from deposits on stream
+terraces above the level of the active floodplain. This is a period when large mammals
+became extinct, and their extinction is attributed in part to a general environmental
+drying.
+During the Early Archaic, the general drying continued, and sites are found on stream
+terraces. There is a hint of population increase, and Lynott (1981:103) suggests that there
+was increased emphasis on the use of bottomland food resources. Middle Archaic sites
+are predominantly found on the first terrace above stream floodplains. As earlier, sites
+tend to be along the Elm Fork rather than along the smaller tributaries. The population
+density continued to be low. Late Archaic sites increase in number over the previous
+period, and sites are located both along the Elm Fork and its tributaries. There appears to
+be a strong shift in site location to tributary streams, and a pronounced population
+explosion. Within the Elm Fork basin, local Ogallala quartzite was being used
+prominently at this time, and this observation is taken by some authors (Skinner 1981;
+Prewitt 1983) as evidence of increased territorial constriction. On Mountain Creek, it
+appears that the earliest occupation was during the Late Archaic, and that occupation was
+only on a seasonal, not year-round basis. Moreover, unlike the Elm Fork and most of
+Dallas County, lithics are predominantly cherts which may have been secured to the
+southwest near Alvarado (McGregor 1995).
+During the Late Prehistoric period, the bow and arrow and pottery appear in artifact
+assemblages (Shafer 1977). Houses and evidence of agriculture first appear during this
+period, as shown at the Cobb-Pool site. Early Late Prehistoric site locations mirror those
+of the Late Archaic, and chert continued as the common material for chipped stone
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+CEDAR HILLS STATE PARK SURVEY
+
+7
+
+projectiles and tools within the Mountain Creek basin. The West Fork Paleosol is
+tentatively dated to this period, although it has been dated earlier that A.D. 800 in some
+places (Ferring 1990). Drying continued into the subsequent period. Buffalo bones are
+common in Late Late Prehistoric sites (Dillehay 1974; Lynott 1979; Peter and McGregor
+1988a:241), along with tools normally expected to occur at sites on the High Plains.
+Protohistoric Native American occupation in the Dallas County is reported by numerous
+regional history authors. Very little archaeological evidence of historic Native American
+occupation has been found in the area (Peter, Cliff, and Green 1996:2). This pattern of
+finding virtually no physical evidence of historic Native American in the form of artifacts
+[beads, gun-flints, cooking utensils, etc.] is seen throughout much of North-Central Texas
+(Skinner 1988), and has been related to the abandonment of the region in the 1500/1600s
+caused by a major regional drought.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+8
+
+CEDAR HILLS STATE PARK SURVEY
+
+RESEARCH DESIGN AND METHODOLOGY
+Based on the information and demographic model contained in the previous chapter as
+well as the known presence of site 41DL448 in the bank of Baggett Branch, it was
+concluded that buried site deposits were likely to be discovered in the valleys of both
+Baggett Branch and John Penn Branch and that these deposits would be shallow, extend
+down from the present ground surface, and would be basically recognizable on the
+presence of animal bones, mussel shells, and fire-cracked rock. Furthermore, the model
+predicts that the location of both creek crossings is near the mouth of the creeks entry into
+the Mountain Creek valley sediments. Consequently, it was our prediction that
+occupation is more likely at the Baggett Branch crossing than at the John Penn Branch
+crossing. Furthermore, it was predicted that occupation is most likely to be found in the
+upper two meters due to the fact that pre-Holocene sediments are not likely to be present
+in either creek valley.
+In order to test these propositions, it was necessary to conduct a pedestrian survey of the
+new route in order to inspect the surface and also to explore for buried sediments. It was
+planned to excavate two backhoe trenches on either side of each creek but it was
+necessary to forego trenches in areas not easily accessible with the backhoe. Shovel
+testing was done in a systematic manner at tight intervals in the valleys and wider but
+meeting THC standards on the ridge south of John Penn Branch. Fill was screened where
+possible but the clay was too wet or blocky for screening and was broken manually and
+then carefully inspected.
+Backhoe trenching was done using a Case 405 tractor with a reach of 10-12’. The
+trenches were stepped in order to allow safe access and the walls were regularly inspected
+as the trench proceeded down. Profiles were drawn of each trench using Munsell color
+charts and metric rulers.
+Samples were collected from the buried hearth in order to secure snail and mussel shells
+along with charcoal and bone. The charcoal and ash were dried and sent to Beta Analytic,
+Inc. for dating along with the single unidentified large mammal long bone that was
+recovered from the ash layer.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+CEDAR HILLS STATE PARK SURVEY
+
+9
+
+RESULTS
+Survey began south of Baggett Branch and no evidence of prehistoric occupation was
+found on the surface on either side of the creek (Figure 2). The creek was flowing during
+the excavation but when first visited in November 2006, the creek bed was dry and
+covered with cedar elm leaves. The only water present was standing in a few deeper
+pools that were present between the small and rounded limestone gravel that fills the
+creek channel. Shovel tests 1-3 were placed in a previously farmed field situated behind
+the remnant of a low man-made terrace that was at the edge of the valley floodplain and
+served to slow water runoff. A barbed wire fence had been on top of the terrace and old
+posts and some wire were present nearby. No cultural materials were found on the
+surface or the three shovel tests in this setting which is roughly equivalent in elevation
+above the creek to that of the Baggett Branch site. Shovel tests 4 and 5 were placed on a
+lower surface that is in the creek bend but again no cultural materials were encountered
+despite our augering to a depth of 170 cm. The shallow modern sediments in STs 4 and 5
+in the floodplain are lower and younger than those where the Baggett Branch site is
+located and are also regularly flooded and reworked during major flood episodes. The
+deeper clay sediments, probably those below 60-90 cm, are part of the “bedrock”
+sediments that were exposed when the creek eroded into the underlying geology. The
+creek channel is just north of ST 5 and the gravel fill in the channel was too deep and
+saturated to allow the backhoe to cross.
+
+Figure 2.
+
+Shovel tests 1-5 and Trench 1 locations shown on sections of the Britton
+and Cedar Hill, TX 7.5' USGS maps.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+CEDAR HILLS STATE PARK SURVEY
+
+10
+
+The south end of Trench 1 (Figure 3) was begun six meters north of the creek at an
+elevation approximately a meter and a half higher than the creek. The trench was six
+meters long and five strata were uncovered.
+
+Figure 3.
+
+East wall profile of Trench 1.
+
+Stratum I was dark grayish brown (2.5Y4/2) damp clay that was a weak soft fine wedge.
+Clay films are common on ped faces and pore linings. The horizon boundary is clear and
+smooth. Stratum II is dark grayish brown/olive brown (2.5Y4/3) dry clay that is moderate
+to hard with fine subrectangular blocky peds. No clay films were observed. The lower
+boundary is clear and smooth. Stratum III is very dark grayish brown (10YR3/2) clay that
+is strong and has very fine columnar clay films that are few and very thin on ped faces
+only. The lower boundary is clear and smooth. Stratum IV is brown (10YR5/3) c lay with
+very hard fine subangular blocky structure and has very fine columnar clay films that are
+few and very thin on ped faces only. The lower boundary is clear and smooth. The fifth
+stratum is brown (10YR4/3) loamy clay that has hard and fine Subangular blocky
+structure. Rounded limestone gravel is at the bottom of the zone and is at least five
+centimeters thick.
+Site 41DL448 is located just downstream and around the bend from the pipeline route.
+The site consists of a buried ash layer that is shown in Figure 4 which is a photograph of
+the site profile in Baggett Branch. The upper layer is 106 cm thick and is a brown
+(10YR5/3) loam that has sufficient clay content to be dense and also cracked due to the
+present drought. No lamination was observable in the profile. No evidence of cultural
+material or organic staining was recorded in this upper zone and the occasional piece of
+limestone was generally less than 3 cm on a side and was angular. The ash layer was
+generally horizontal and extended a distance of 89 cm and was four centimeters thick in
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+11
+
+CEDAR HILLS STATE PARK SURVEY
+
+the center but no less than two centimeters thick at the ends. An ash sample was collected
+from the center of the lens was radiocarbon dated 320±40 BP [AD 1460 to 1660] (Beta
+225641). Likewise, a broken fragmentary large mammal long bone was collected from
+the south end of the ash layer and dated 390±40 BP [AD 1440 to 1540] (Beta 225640).
+No evidence was noted that an ash-stained occupation/work surface extended to either
+side of the ash layer. The loam below the ash layer is first a burned layer that is four
+centimeters thick and dark reddish brown (5YR3/3). Below this is a 17 cm thick layer of
+dark grayish brown (10YR4/2) loam containing snails and occasional flecks of charcoal.
+No cultural materials were noted in this layer nor were any found in a small sample of
+soil collected from the profile. The bottom zone is a brown (10YR4/3) clay that is 110 cm
+thick and extends to the water level. Limestone gravel is exposed in the creek bed and in
+the profile under the clear water but the thickness was not determined. Snail shells from
+the ash layer and underlying loam indicate permanent vegetation with a leaf/tree litter.
+
+Figure 4.
+
+Baggett Branch Creek bank with ash layer and burned soil below it.
+View is to the west.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+CEDAR HILLS STATE PARK SURVEY
+
+12
+
+The site is of unknown size but is exposed in the east bank of a narrow meander that
+extends to the south a distance of less than 30 m and then turns back to the north before
+turning west again. No other evidence of a buried deposit was observed in the in the
+creek bed or in the creek bank. The original pipeline and a dirt road bisect this meander
+from the north to the south and have not uncovered any artifacts in eroded areas. Based
+on the exposures and Trench 1, the site is no larger than 60-70 m north-south by 40 m.
+Unlike the Baggett Branch site, the occupation surface is buried under about a meter of
+fill but no evidence of an overlying deposit containing cultural materials was found.
+Nevertheless, the ash layer appears to be in an undisturbed stratigraphic position and
+based on the ash, charcoal, and bone should be datable and useful for environmental
+reconstruction. It is likely that few artifacts would be found if the occupation surface of
+the site is uncovered based on the apparent brief occupation that appears to be present.
+Survey continued just north of the Talala Trail parking lot and crossed the upland ridge
+(Figure 5). This area had formerly been farmed and then had been abandoned and
+allowed to revert to brush and treecovered
+upland.
+No
+cultural
+materials or evidence of occupation
+were found along the route and
+shovel testing showed that the
+topsoil was relatively thin over the
+subsoil and no cultural materials
+were encountered. The pipeline route
+descends to the John Penn Branch
+valley and crosses under the park
+road. At this point it will skirt the
+edge of the park entry until it
+approaches the four way stop
+northwest of the park entrance. It
+then turns northeast and parallels the
+North Spine Road across John Penn
+Branch. Trenches 2 and 3 were
+placed on the south side of John
+Penn Branch. Both trenches were
+five meters long and were dug into
+the valley subsoil to below 2.5
+meters. No cultural materials were
+found in either trench fill or in the
+scraped walls. The original ground
+surface of both trenches had
+apparently been removed during the
+course of road building or other
+previous landuse. The upper 30 cm
+of Trench 2 was disturbed yellowish Figure 5.
+Trenches 2-4 and STs 6-12 shown
+brown clay resting on the subsoil that
+on sections of the Cedar Hill and
+extended to the base of the trench.
+Duncanville, TX 7.5' USGS
+maps.
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+13
+
+CEDAR HILLS STATE PARK SURVEY
+
+This same upper clay was not present in the walls of Trench 3.
+Due to the flowing creek and the topography and dense tree cover in the valley, it was not
+possible to move a backhoe across the creek channel or to bring it in from the north so
+STs 10-12 were dug on the elevated surfaces in this area. All three revealed that topsoil
+was no longer present and that only the underlying clay subsoil remained. The topsoil had
+apparently eroded away. No cultural materials were found in the clay. Trench 4 was six
+meters long and was placed north of ST 12. It was excavated into the subsoil to a depth of
+2.7 m. The upper 70 cm was loose loamy clay which contained no cultural materials and
+which graded into dark brown clay that contained threads of calcium carbonate but no
+cultural materials and no distinct stratigraphy. This corresponds to the ST 12 sediment.
+In summary, no evidence of prehistoric occupation was found within the proposed
+pipeline route where it crosses Baggett Branch and John Penn Branch. Site 41DL448
+appears to be a thin, and probably small, site deposit that is buried deeper than the
+Baggett Branch site but may be younger in age. Based on what little we know about site
+41DL448 and its location adjacent to Baggett Branch, it would appear that the site
+represents a camp that was occupied in the fall of the year primarily for the hunting and
+processing of deer and the gathering of nuts from bur oak, hickory, and walnut trees
+(Skinner et al. 2007). Thus it is possible that similar unrecorded site deposits are closer to
+the mouth of the deeply incised tributaries that originate in the White Rock Escarpment
+than either the Baggett Branch or Ubil sites.
+Most of the topsoil appears to have been eroded away as the result of farming on the top
+of the ridge south of John Penn Branch and no artifacts were found on the surface or in
+the remaining topsoil. Trenching and shovel testing on both sides of John Penn Branch
+revealed that the topsoil had been removed due to clearing, flooding, and farming and no
+evidence of prehistoric or historic occupation was uncovered.
+Table 1.
+
+Shovel test descriptions.
+
+No. Depth in cm
+ST 1
+ST 2
+ST 3
+ST 4
+
+ST 5
+
+ST 6
+ST 7
+ST 8
+ST 9
+ST 10
+ST 11
+ST 12
+
+0-25
+25-130+
+0-102+
+0-85
+85-110+
+0-20
+20-90
+90-130
+130-171+
+0-40
+40-60
+60-170+
+0-35+
+0-25+
+0-40+
+0-16
+16-30+
+0-104+
+0-110+
+0-104+
+
+Description
+
+Notes
+
+Light olive brown (2.5Y5/4) clay
+Dark grayish brown (10YR4/2) sandy clay
+Dark brown (10YR3/3) clay
+Black (10YR2/1) clay
+Very dark grayish brown (10YR3/2) sandy clay
+Dark brown clay
+Very dark brown clay
+Brown (10YR4/3) clay
+Yellowish brown (10YR5/4) clay with dark gray (2.5YR4/1) clay
+Dark grayish brown sandy clay
+
+No cultural materials
+
+Dark yellowish brown (10YR4/4) clay
+Dark brown clay
+Limestone bedrock
+Very dark grayish brown (10YR3/1) clay
+Very dark grayish brown clay
+Dark yellowish brown
+Very dark grayish brown clay
+Very dark grayish brown clay
+Very dark brown (10YR2/2) clay
+
+Clearly subsoil
+
+No limestone or subsoil
+
+Small sand pockets
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+14
+
+CEDAR HILLS STATE PARK SURVEY
+
+CONCLUSIONS AND RECOMMENDATIONS
+
+The archaeological survey of select sections resulted in the recording of one new
+prehistoric archaeological site (41DL448) as well as the revisiting of the Baggett Branch
+site. No evidence of occupation was found in the John Penn Branch valley. Site 41DL448
+will be avoided by rerouting the pipeline. In addition, the construction drawings should
+include notes instructing the contractor to avoid site 41DL448 which will protect the site
+from incidental disturbance.
+Site 41DL448 will be affected in the future as the creek continues to erode through
+existing fluvial processes unrelated to the proposed pipeline project. The US Army Corps
+of Engineers or the Texas Parks and Wildlife Department might want to consider bank
+stabilization measures to control the adverse effects of erosion on the site. If the site is
+endangered by further development of maintenance of the adjacent park road by the
+USACE or TPWD, site 41DL448 should be further defined in order to determine site
+significance.
+It is our opinion that site 41DL448 is potentially eligible for inclusion in the National
+Register of Historic Places since it is an undisturbed deposit which contains organic
+materials including charcoal and bone which should allow for further dating and
+environmental reconstruction. The Baggett Branch site will not be impacted by rerouting
+the pipeline.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+CEDAR HILLS STATE PARK SURVEY
+
+15
+
+REFERENCES CITED
+
+Coffee, D.R., R.H. Hill, and D.D. Ressel
+1980
+Soil Survey of Dallas County, Texas. USDA, Soil Conservation Service in cooperation with Texas
+Agricultural Experiment Station.
+Council of Texas Archeologists
+ND
+Guidelines for the Content of Cultural Resource Management Reports. Manuscript on file
+with the membership.
+Crook, W. W. and R. K. Harris
+1957
+Hearths and Artifacts of Early Man near Lewisville and Associated Faunal Material. Bulletin of
+the Texas Archeological Society 28:7-97.
+Dillehay, Tom D.
+1974
+Late Quaternary Bison Changes on the Southern Plains. Plains Anthropologist 19(65):180-196.
+Ferring, C. Reid
+1990
+Late Quaternary Geology and Geoarchaeology of the Upper Trinity River Drainage Basin, Texas.
+Geological Society of America, Field Trip #11 Guidebook.
+2001
+The Archaeology and Paleoecology of the Aubrey Clovis Site (41DN479), Denton County, Texas.
+University of North Texas, Center for Environmental Archaeology prepared for the US Army
+Corps of Engineers, Fort Worth District.
+Harris, R.K.
+1936
+Indian Campsites of the Upper Trinity River Drainage. Bulletin of the Texas Archeological and
+Paleontological Society 8:113-133.
+Hartig, David
+1988
+More Finds at the Lester Lorch Site. The Record 42(2):7-13.
+Jurney, David H., Susan A. Lebo and Melissa M. Green, editors
+1988
+Historic Farming on the Hogwallow Prairie, Ethnological Investigations of the Mountain Creek
+Area, North Central Texas. Southern Methodist University, Archaeology Research Program, Joe
+Pool Lake Archaeological Project, Volume II.
+Kent, Floyd D. and S. Alan Skinner
+1998
+Cultural Resources Evaluation of the Cedar Mountain Preserve, Dallas County, Texas. AR
+Consultants, Cultural Resources Report 98-12.
+Lynott, Mark J.
+1979
+Prehistoric Bison Population of Northcentral Texas. Bulletin of the Texas Archeological Society
+50:89-101.
+1981
+A Model of Prehistoric Adaptations in Northern Texas. Plains Anthropologist 26(92):97-110.
+Martin, William A.
+1988
+Exploitation of Subsistence Resources within the Mountain Creek Drainage. In Late Holocene
+Prehistory of the Mountain Creek Drainage, edited by Duane E. Peter and Daniel E. McGregor,
+Southern Methodist University, Archaeology Research Program, Joe Pool Lake Archaeological
+Project, Vol. 1. pp. 325-349.
+McGregor, Daniel E.
+1995
+Lithic Resource Availability in the Upper Trinity River Region: The Evidence from Joe Pool
+Lake. In Advances in Texas Archeology, Contributions from Cultural Resource Management,
+Volume, 1, edited by J.E. Bruseth and T.K. Perttula, Texas Historical Commission, Department of
+Antiquities Protection, Cultural Resource Management Report 5, pp. 187-202.
+Peter, Duane E.
+1998
+personal communication regarding testing of site 41EL33.
+Peter, Duane E. Maynard B. Cliff, and Melissa Green
+1996
+Draft Archeological Survey Standards: Blackland Prairie (Region 3) and Cross Timbers (Region
+4) North-Central Texas. Paper prepared for the Council of Texas Archeologists, Spring Meeting,
+Austin.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+CEDAR HILLS STATE PARK SURVEY
+
+16
+
+Peter, Duane E. and Daniel E. McGregor
+1987
+Cultural Resources Survey of Proposed Sanitary Sewer Line “A”. Report submitted to Lake Ridge
+Development Company.
+1988a Site 41DL149: Baggett Branch. In Late Holocene Prehistory of the Mountain Creek Drainage.
+Southern Methodist University, Archaeology Research Program, Joe Pool Lake Archaeological
+Project, Vol. 1, pp. 199-244.
+1988b Understanding the Dynamics of Hunter/Gatherer Settlement-Subsistence Patterns: A Regional
+Perspective. In Late Holocene Prehistory of the Mountain Creek Drainage. Southern Methodist
+University, Archaeology Research Program, Joe Pool Lake Archaeological Project, Vol. 1, pp.
+351-367.
+Peter, Duane E. and Daniel E. McGregor, editors
+1988
+Late Holocene Prehistory of the Mountain Creek Drainage. Southern Methodist University,
+Archaeology Research Program, Joe Pool Lake Archaeological Project, Vol. 1.
+Prewitt, Elton R.
+1983
+From Circleville to Toyah: Comments on Central Texas Chronology. Bulletin of the Texas
+Archeological Society 54:201-238.
+Raab, L. Mark, editor
+1982
+Archaeological Investigations at Lakeview Lake: 1979 and 1980. Southern Methodist University,
+Archaeology Research Program, Archaeological Monographs No. 2.
+Raab, L. Mark and Anne I. Woosley
+1982
+A Terrace Habitat and Late Prehistoric Settlement in North-Central Texas: Pollen and Geological
+Evidence. Plains Anthropologist 27(97):185-193.
+Shafer, Harry J.
+1977
+Late Prehistory in Central Texas. Bulletin of the South Plains Archeological Society 3:18-24.
+Skinner, S. Alan
+1981
+Aboriginal Demographic Changes in Central Texas. Plains Anthropologist 26(92):111-118.
+1988
+Where Did All the Indians Go? The Record of the Dallas Archeological Society Fiftieth
+Anniversary Edition, 42(3):101-104.
+1998
+Archaeological Survey of Sunset Ranch, Texas. AR Consultants, Cultural Resources Report 98-21.
+Skinner, S. Alan and D. T. Connors
+1979
+Archaeological Investigations at Lakeview Lake. Southern Methodist University, Archaeology
+Research Program, Research Report 118.
+Skinner, S. Alan, Jesse Todd, and Antoinette Todd
+2007
+The Ubil Site and Archaeology of the White Rock Escarpment. Submitted to The Record of the
+Dallas Archeological Society.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+CEDAR HILLS STATE PARK SURVEY
+
+17
+
+APPENDIX 1
+
+Radiocarbon Dates from Site 41DL448
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+

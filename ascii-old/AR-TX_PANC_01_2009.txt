@@ -1,0 +1,1107 @@
+SUBMERGED CULTURAL RESOURCES
+REMOTE SENSING SURVEY
+OF THE PROPOSED SHIP DOCK # 4,
+HOUSTON SHIP CHANNEL, HARRIS COUNTY, TEXAS
+
+CONDUCTED UNDER:
+Texas Antiquities Permit No. 5400
+
+PREPARED FOR:
+
+PREPARED BY:
+
+Houston Fuel Oil Terminal Company
+Houston, Texas
+
+Panamerican Consultants, Inc.
+Memphis, Tennessee
+
+FINAL REPORT ? NOVEMBER 2009
+
+FINAL REPORT
+
+SUBMERGED CULTURAL RESOURCES
+REMOTE SENSING SURVEY
+OF THE PROPOSED SHIP DOCK # 4,
+HOUSTON SHIP CHANNEL, HARRIS COUNTY, TEXAS
+
+CONDUCTED UNDER:
+Texas Antiquities Permit No. 5400
+
+PREPARED FOR:
+Houston Fuel Oil Terminal Company
+16642 Jacinto Port Blvd.
+Houston, Texas 77015
+PREPARED BY:
+Panamerican Consultants, Inc.
+91 Tillman Street
+Memphis, Tennessee 38111
+
+STEPHEN R. JAMES, JR., MA, RPA
+PRINCIPAL INVESTIGATOR
+AUTHORED BY:
+Stephen R. James, Jr. and Michael C. Murray
+
+NOVEMBER 2009
+
+ABSTRACT
+In September 2009, Panamerican Consultants, Inc. (Panamerican) of Memphis, Tennessee,
+conducted an intensive remote sensing survey of the proposed Ship Dock #4, located in the
+Houston Ship Channel at the confluence of Buffalo and Carpenter Bayous in Harris County,
+Texas. Performed for the Houston Fuel Oil Terminal Company, under Texas Antiquities Permit
+No. 5400, the purpose of the survey was to determine the absence/presence of magnetic and
+sidescan sonar targets that may represent potentially significant submerged cultural resources
+eligible for listing on the National Register of Historic Places (NRHP) that might be impacted by
+the proposed undertaking.
+Results of the current remote sensing survey identified a total of thirteen (n=13) magnetic
+anomalies and twenty (n=20) sidescan sonar targets were recorded in the survey corridor,
+including cables and a partially exposed pipeline, which runs the length of the project area. The
+sources for all but two anomalies were visible on the surface (i.e., sheet pile, mooring buoys,
+etc.) and/or were readily visible on the sidescan record (i.e., pipelines, cables, etc.). Of the 13
+anomalies, 11 represent visible pipelines and/or cables, and it is thought that the source for the
+other two is also a pipeline. All anomalies are considered to represent non-historic manmade
+structures, and no further work is warranted. However, undetected submerged cultural resources
+may exist in the survey area, particularly small but potentially significant watercraft. If such
+resources are discovered during the project, work must stop at the location until the THC has
+been notified and a plan of investigation is undertaken.
+
+i
+
+TABLE OF CONTENTS
+ABSTRACT....................................................................................................................................................................i
+LIST OF FIGURES .....................................................................................................................................................iii
+LIST OF TABLES .......................................................................................................................................................iii
+1. INTRODUCTION ................................................................................................................................................... 1?
+2. HISTORICAL BACKGROUND ........................................................................................................................... 4?
+GALVESTON BAY ........................................................................................................................................................4?
+VESSEL TYPES ............................................................................................................................................................4?
+THE PORT OF HOUSTON ..............................................................................................................................................8?
+HISTORIC AND NAVIGATION MAP REVIEW .................................................................................................................9?
+3. METHODS ............................................................................................................................................................. 14?
+PROJECT AREA ENVIRONMENT .................................................................................................................................14?
+REMOTE SENSING SURVEY EQUIPMENT ...................................................................................................................14?
+Marine Magnetometer System.............................................................................................................................14?
+Sidescan Sonar System ........................................................................................................................................15?
+Horizontal Positioning System ............................................................................................................................15?
+DATA ACQUISITION SYSTEM ....................................................................................................................................15?
+Depth Measurement ............................................................................................................................................16?
+Survey Vessel.......................................................................................................................................................16?
+SURVEY PROCEDURES ..............................................................................................................................................17?
+4. RESULTS ................................................................................................................................................................ 20?
+SURVEY RESULTS .....................................................................................................................................................22?
+Magnetometer......................................................................................................................................................22?
+5. CONCLUSIONS .................................................................................................................................................... 26
+6. REFERENCES CITED......................................................................................................................................... 27
+
+ii
+
+LIST OF FIGURES
+Figure 1. General project location map..........................................................................................................................1
+Figure 2. Project location map .......................................................................................................................................2
+Figure 3. A sixteenth-century engraving of Native Americans building a dugout canoe..............................................5?
+Figure 4. Turn-of-the-century photograph of the Galveston waterfront........................................................................7?
+Figure 5. Allens landing-the birthplace of the Port of Houston in the early twentieth century.....................................8?
+Figure 6. 1933 chart of Houston ship channel and project area.....................................................................................9?
+Figure 7. 1976 chart of Houston ship channel showing the project area.....................................................................10?
+Figure 8. 1983 chart of Houston ship channel showing the project area.....................................................................11?
+Figure 9. 1989 chart of Houston ship channel showing the project area.....................................................................12?
+Figure 10. 1995 chart of Houston ship channel showing the project area...................................................................13?
+Figure 11. Project area looking west ...........................................................................................................................14
+Figure 12. Geometrics 882 marine magnetometer and Marine Sonics Sidescan sonar system...................................15?
+Figure 13. Data acquisition system utilizing Chesapeake Technology, Inc. software ................................................16?
+Figure 14. Twenty-six foot half-cuddy Carolina Skiff with 130 Hp outboard engine ................................................17?
+Figure 15. Pre-planned survey tracklines for the survey area......................................................................................18?
+Figure 16. Post-plot survey tracklines for the survey area showing the actual track of the survey vessel..................19?
+Figure 17. Magnetic contour map ................................................................................................................................23
+Figure 18. Sheet piling and electrical transmission tower on the northeastern end of the project area.......................24?
+Figure 19. Sidescan Sonar mosaic ...............................................................................................................................25?
+
+LIST OF TABLES
+Table 1. Compilation of magnetic data from various sources. ....................................................................................21?
+Table 2. Magnetic anomalies within the survey area...................................................................................................22?
+
+iii
+
+1. INTRODUCTION
+In September 2009, Panamerican Consultants, Inc. of Memphis, Tennessee, conducted an
+intensive remote sensing survey of the proposed Ship Dock #4, located in the Houston Ship
+Channel at the confluence of Buffalo and Carpenter Bayous in Harris County, Texas (Figure 1).
+Performed for Houston Fuel Oil Terminal Company, the total project area was approximately
+250-x-1,500 feet. The purpose of the survey was to identify the potential for any historically
+significant resources, which might be impacted by the construction of the proposed undertaking.
+The THC considers it highly probable for the area to contain historic shipwrecks and other
+anomalies significant enough to be eligible for inclusion into the NRHP. As indicated by an
+aerial map in Figure 2 six survey lines were required to fully cover entire project area (Figure 2).
+
+Figure 1. General project location (map source: 2000 NOAA Navigation Chart âHouston Ship Channelâ No.
+11329).
+
+1
+
+Introduction
+
+Figure 2. Project location map of proposed Ship Dock #4 survey at the confluence of Buffalo and Carpenters
+Bayous.
+
+2
+
+Introduction
+
+The survey was conducted for the Houston Fuel Oil Terminal Company of Houston, Texas,
+relative to their responsibilities under Section 106 of the National Historic Preservation Act; this
+investigation was performed in compliance with Section 106 of the National Historic
+Preservation Act of 1966 (NHPA), as amended (36 CFR 800, Protection of Historic Properties)
+and the Abandoned Shipwreck Act of 1987 (Abandoned Shipwreck Act Guidelines, National
+Park Service, Federal Register, Vol. 55, No. 3, December 4, 1990, pages 50116-50145).
+Completed under Texas Antiquities Permit Number 5400, the purpose of the survey was to
+determine the presence or absence of anomalies, representative of potentially significant
+submerged cultural resources eligible for listing on the NRHP, which subsequently, might
+require additional investigations. The remote sensing survey investigation consisted of a
+magnetometer, sidescan sonar, and Differential Global Positioning System (DGPS) to accurately
+map above and below-harbor bed features (i.e., modern debris, pipeline crossings, and
+shipwrecks).
+Results of the current remote sensing survey identified a total of thirteen (n=13) magnetic
+anomalies and twenty (n=20) sidescan sonar targets were recorded in the survey corridor,
+including cables and a partially exposed pipeline that runs the length of the project area. The
+sources for all but two anomalies were visible on the surface (i.e., sheet pile, mooring buoys,
+etc.) and/or were readily visible on the sidescan record (i.e., pipelines, cables, etc.). Of the 13
+anomalies, 11 represent visible pipelines and or cables, and it is thought that the source for the
+other two is also a pipeline. All anomalies are considered to represent non-historic manmade
+structures, and no further work is warranted. However, undetected submerged cultural resources
+may exist in the survey area, particularly small but potentially significant watercraft. If such
+resources are discovered during the project, work must stop at that location until the THC has
+been notified and a plan of investigation is undertaken.
+
+3
+
+2. HISTORICAL BACKGROUND
+Many people with different types of watercrafts have navigated the Galveston Bay, though few
+have left behind tangible evidence of their presence. Fortunately, archaeologists have written
+accounts and journals from the first Europeans to explore the coast, which are used in
+conjuncture with the archaeological evidence. The following is a brief history of Galveston Bay,
+its associated peoples, and the types of watercraft used in the bay.
+
+GALVESTON BAY
+Research indicates that Galveston Bay was carved out of the Texas coast approximately 100,000
+years ago. Storms that occurred as early as 4,000 years ago are expected to have had a far
+greater impact on the Galveston Bayâs shape than storms that had taken place in the last century.
+In addition, sediment cores that penetrate beyond or just beneath the bay fill suggest that rapid
+flooding may have occurred during the Holocene era (Proceedings of the Galveston Bay
+Characterization Workshop, 1991).
+Galveston Bay lies within Harris, Galveston, and Chambers counties. It is the largest estuary on
+the Texas coast and the seventh largest in the United States. It extends 30 mi., south to north,
+and 17 mi., east to west. The bay is generally 7 to 9 ft. deep, and it has a mud bottom and nearly
+600 square miles of surface. Fresh water from the Trinity and the San Jacinto rivers mixes with
+the salt water from the Gulf of Mexico through the channel between Galveston Island and the
+Bolivar Peninsula, otherwise known as Bolivar Roads.
+The Houston Ship Channel passes through Bolivar Roads, Galveston Bay, the San Jacinto River,
+and Buffalo Bayou to the Port of Houston, which, in terms of tonnage, was the third largest U.S.
+port during the 1980s. Between the island and neighboring Pelican Island runs the Galveston
+Ship Channel, which formed a natural harbor for nineteenth-century sailing vessels and small
+steamers. The gap between Galveston Island and Bolivar Peninsula offers the principal entrance
+into Galveston Bay, while the San Luis Pass affords a smaller entryway at the islandâs western
+end. Between 1817 and 1820, Galveston Bay provided the water connection for the illicit
+smuggling and privateering activities of the Lafitte brothers. A steam ferry began operation to
+the mainland in May of 1842. During the Civil War, the Battle of Galveston was fought on land,
+along the wharf area and on the waters of the bay in December 1862 and January 1863.
+Physical modifications associated with excavation and disposal of sediments are the single most
+obvious manifestation of human impacts on Galveston Bay. By 1900, the federal government
+had begun to dredge the Houston Ship Channel; it consisted of a 12-foot draft spanning
+Galveston Bay, from the Bolivar inlet between the jetties, across the Red Fish Bar, through the
+cut at Morganâs Point, and up Buffalo Bayou to the city of Houston. A new industry motivated
+the next channel expansion: the appearance of oil tankers in the world fleet after World War I.
+In close association with the development of the Houston Ship Channel was the creation of a
+channel to Texas City (Hudson 1979).
+
+VESSEL TYPES
+The first type of watercraft to traverse Galveston Bay would have been dugout canoes employed
+by the indigenous tribes such as the Karankawa Indians (Figure 3). They would take a large tree
+trunk and hollow it out using a crude tool called an adze. The Indians would take hot coals and
+place them on top of the tree trunk, then scraping and digging out the seared wood with the adze.
+
+4
+
+Historical Background
+
+Figure 3. A sixteenth-century engraving of Native Americans building a dugout canoe (as presented in Bass
+1988:18).
+
+Underscoring the need for surveys in the bays of Texas, the recent discovery and excavation of
+La Salleâs barque longue, La Belle, in the muddy waters of Matagorda Bay to the south of the
+project area has provided archeologists with several missing links in the history of shipbuilding.
+The ship is the oldest French colonial shipwreck found in the New World. The La Belleâs
+construction took place during a transitional period in naval architecture, as shipbuilders
+abandoned ancient methods for more modern ones. A study of the construction of the twomasted ship will be of great value to historians, since shipbuilders of La Salle's era rarely drew
+plans, and most of the ships of the period have long since disintegrated. In August 1684, La
+Salle departed with his fleet; La Belle, LâAimiable, Saint-Francois, and Le Joly with about 300
+people and all the supplies needed to start the colony. La Belle, a barque longue or light frigate,
+was a navy ship assigned to La Salle at Rochefort in 1683 for his exclusive use. She was
+relatively small, only 51-x-14 ft., with a crew of 27. Archeologists believe that La Belle was
+capable of carrying 45 tons of cargo. Loading the cargo was a science of its own, as faulty
+loading could cause the ship to list or roll dangerously. La Belle was accompanied by the 180ton storeship, L'Aimable; a 34-gun man-of-war, Le Joly, which was to transport the colonists to
+their new home, then return to France; and the ketch Saint-FranÃ§ois, carrying additional
+supplies. On January 1, La Salleâs party made landfall on the Texas coast, over one hundred
+miles from the mouth of the Mississippi. In addition to being lost, their supply ship, the
+LâAimable, ran aground in the narrow channel at the mouth of the bay. When it sank, the group
+lost nearly all of their food, medicine, Indian trades, and tools. Le Joly sailed back to France
+with many disenchanted colonists. The La Belle, however, safely entered Matagorda Bay.
+Roughly one year later, however, a storm ran the La Belle aground near the Matagorda Peninsula
+(Weddle 2001).
+The reliance of sailing ships on wind propulsion meant that boats were needed for many reasons:
+carrying men ashore, moving the ship by means of cables and anchors, communicating between
+5
+
+Historical Background
+
+ships (and between ship and shore), and bringing stores and water aboard. Several types of shipâs
+boats were required, and each had a separate function or use. The largest boat was the launch
+that was well adapted for carrying heavy weights. A barge was narrower, and often longer than a
+launch, and was intended mainly for rowing. Moreover, it was also the preferred vessel for
+carrying naval officers ashore and transferring official parties. A pinnace was slightly smaller
+than a barge, and had fewer oars. Cutters were good sea boats, clinker built, and an
+indispensable part of every shipâs equipment. Most shipâs boats were designed for both rowing
+and sailing, though, in general, some were more suitable at one than the other. Pinnaces and
+barges were used primarily for rowing, while cutters were better at sailing. Captains often added
+other types of boats according to size and availability, which could include a jollyboat (which
+was essentially a small cutter) and a gig. The larger boats were stored in the waist of the ship,
+while cutters and jollyboats were stowed near, or suspended from the stern on davits, where they
+could be released easily and quickly in the case of an emergency (Culver 1869).
+Privateers were privately owned men-of-war, sponsored by merchants and allowed to seize
+vessels and goods belonging to enemy nations. They were neither paid for, nor controlled by
+their respective governments, though, if they possessed a âletter of marquee,â privateers could
+operate within the protection of their nationâs legal system. Without a letter of marquee, a
+privateer was merely a pirate vessel, and its crew, if captured, were liable to be hanged as pirates
+rather than treated as prisoners of war.
+The privateer Jean Lafitte arrived on Galveston Island in 1817, making it his base of operations
+and naming it Campeche. Lafitteâs own mansion, the âMaison Rouge,â was half home, half fort.
+Around it sprang the warehouses of trade, a slave quarters, cattle pens, taverns, and frame
+cottages of his crew. His experience in setting up a smuggling operation engendered Lafitte to
+make lucrative contracts on the east coast of Texas, through which he could transport his
+contraband inland to growing towns that required provisioning. However, Lafitte slowly lost his
+territory. Campeche was always under scrutiny from both Mexican and U.S. officials for the
+behavior of the men. The Karankawa Indians were raiding Lafitteâs properties and killing his
+men. In late 1818 a hurricane struck the island, killing hundreds of men, flattening the
+settlement, sinking the fleet, and washing precious contraband to sea. During this time, the
+nation was trying for a new diplomacy of peace. The only thing that stood in its way of
+developing a friendship with Spain was the constant harassment of Spanish ships by buccaneers
+anchored off the American coast (Elliot 1963). President Madison issued an all-out war on
+piracy. In late 1820, the USS Enterprise docked in Campeche Bay. Following a subsequent
+attack by Lafitte on an American ship, he was forced by Lieutenant Larry Kearney, accompanied
+by a war fleet, to abandon his operations.
+In 1836, four ships of the Texas Navy made headquarters on the Island and protected the Texas
+coast from harassment by the Mexican Navy. These ships prevented supplies and men from
+reaching Santa Anna, insuring victory for Sam Houstonâs army at San Jacinto, 22-miles
+northwest of Galveston (McComb 1986).
+Galveston was also an important harbor during the American Civil War. Major General John B.
+Magruder, who became the Confederate commander of military forces in Texas on November
+29, 1862, gave the recapture of Galveston top priority. At 3:00 a.m., on New Yearâs Day, 1863,
+four Confederate gunboats appeared, coming down the bay toward Galveston. Soon afterward,
+the Confederates commenced a land attack. The Union forces in Galveston were comprised of
+companies in the 42nd Massachusetts Volunteer Infantry Regiment under the command of
+Colonel Isaac S. Burrell. The Confederates captured or killed all of them except for the
+regimentâs adjutant. They also took Harriet Lane, by boarding her, and two barks and a
+schooner. Cdr. W.B. Renshawâs flagship, USS Westfield, ran aground when trying to help the
+Harriet Lane, and, at 10:00 a.m., the ship was blown up to prevent its capture by the
+
+6
+
+Historical Background
+
+Confederates. Galveston was in Confederate hands again, although the Union blockading ships
+would limit commerce in and out of the harbor (Cumberland 1947).
+In 1900, a hurricane made landfall in the vicinity of Galveston, which completely devastated the
+area. Many fishing boats and barges, private yachts, and military vessels were broken upon the
+shore or actually run aground, hundreds of feet from the shore; still, others were completely lost
+(Cartwright 1991).
+One of the most prolific vessel types employed in the waters of Texas including the waters of
+Galveston Bay was the schooner. The majority of these vessels appear to have been small
+schooners carrying cargo and/or passengers from port to port. Surviving descriptions of most are
+meager (Figure 4). The early schooners carried settlers and their supplies to the towns and
+farmlands of Texas at a time when roads were nearly nonexistent. During the Civil War years,
+blockade runners (if they were successful) carried cotton out and everything from medicine to
+luxury items into the beleaguered Confederate ports.
+The schooners, and commercial sail in general, declined rapidly as the twentieth century
+progressed, replaced by steamers and then by oil burners. Some of the late, very large schooners
+lasted through the First World War and into the 1920s. One of these which ended her career in
+Texas was the Delaware Sun, a 316-foot six-masted schooner of 3,708 tons, built in 1903, which
+wrecked on the jetties at Sabine in 1917. As late as the beginning of the Second World War,
+some commercial sail continued, as seen in the Gloria Colita, a schooner of 202 tons wrecked at
+San Luis Pass in 1941 while carrying a cargo of sulfur (Berman 1972).
+
+Figure 4. Turn-of-the-century photograph of the Galveston waterfront (courtesy of the Rosenberg Library,
+Galveston). The smaller schooners plied the waters of the Bay and schooners of all sizes served the
+transshipment point of Galveston.
+
+7
+
+Historical Background
+
+THE PORT OF HOUSTON
+In 1837, the steamship Laura traveled from Galveston Bay up Buffalo Bayou to what is now
+Houston. The trip, in water no deeper than six feet, proved the bayou was navigable by sizable
+vessels and established a commercial link between Houston and the rest of the world. However,
+it was not until the Rivers and Harbors Act of 1899 did the two proposed projects with the aim of
+widening and deepening Galveston Bay and Buffalo Bayou, merge as the âGalveston Ship
+Channel and Buffalo Bayou, Texas Project.â Progress, however, stalled due to the SpanishAmerican War but soon afterward found legislative support. While some ocean-going vessels
+could deliver goods to Houston, adamant congressmen from 1896-1911 strongly advocated for
+the expansion and deepening of the Houston Ship Channel in an effort to increase the volume
+and safety of commercial traffic. Finally, funding was secured in 1911 and construction of the
+Houston Ship Channel, which would eventually reach a depth of 25 feet, was completed ahead of
+schedule in 1914. To memorialize this occasion, President Woodrow Wilson pressed a button in
+Washington, D.C. that fired a canon located at the Port of Houston Turning Basin.
+As a direct result, the city of Houston was born and her port has become one of the largest with
+more than 7,000 ships calling annually bringing goods ranging from iron to sugar for U.S.
+consumers. Ned Holmes, Chairman of the Port of Houston Authority described this simply when
+he said, "Houston...the town that built the port which built the city...".
+Since the initial completion of the Houston Ship Channel, the growth of the Port of Houston,
+otherwise known as Allenâs Landing (Figure 5), has been facilitated by local contributions and
+federal funds to gradually deepen and widen the channel even further. Currently, the U.S. Army
+Corps of Engineers, with the Port of Houston Authority as a non-federal sponsor, are working to
+deepen the channel to 45 ft. and widen it to 530 ft. (Houston Ship Channel 2004).
+
+Figure 5. Allens landing-the birthplace of the Port of Houston in the early twentieth century (courtesy of
+Houston Ship Channel 2004).
+
+8
+
+Historical Background
+
+HISTORIC AND NAVIGATION MAP REVIEW
+Navigation charts can be a valuable source of information, often-noting shipwrecks, obstructions,
+and other various hazards for the mariner. One of the more valuable research tools for reviewing
+historic maps online can be found at http://historicals.ncd.noaa.gov/historicals/histmap.asp. This
+web site allows the researcher to specify the area or region of interest and then review all
+available maps for that area. Another valuable utility provided by this site is the virtual
+magnification feature, which allows the researcher to zoom in and out of specific areas.
+The earliest historic map available for review (on the NOAA web site) of the current survey
+corridor dates to 1933 and was produced by the U.S. Coast Survey (Figure 6). This map is
+useful, since it provides detail of the changes to Carpenter Bayou. The project area, shown in
+red, has been placed on the map relative to its current location with the San Jacinto Battleground
+State Park (across the ship channel). While the project area is today at the mouth of Carpenter
+Bayou, the map clearly shows the mouth much further down stream indicating a radical
+morphology since 1933.
+
+Figure 6. 1933 chart of Houston ship channel and project area (map source: 1933 NOAA Navigation Chart
+âHouston Ship Channel,â No. 11329).
+
+9
+
+Historical Background
+
+As stated the project area is located across the shipping channel from the San Jacinto
+Battleground State Historic Site now the home of the Battleship Texas. The famous Battle of
+San Jacinto that brought Texas its independence was fought on this site. Because of the great
+importance of the Battle to the course of history, the Battleground is of state, national and
+international significance, a fact that is attested to by the site's National Historic Landmark
+status. The primary purpose of the 1,200 ac. site is to commemorate the Battle and to preserve
+the Battleground on which Texan troops under General Sam Houston achieved the independence
+of Texas by defeating a Mexican Army led by General Antonio Lopez de Santa Anna on April
+21, 1836 (San Jacinto Historic Site 2008).
+Illustrated in Figure 7, the 1976 navigation chart for the Houston Ship Channel shows Carpenter
+Bayou has been channelized and is now cutoff. The mouth is now slightly upriver from the San
+Jacinto Battleground State Historic Site. It appears that little industrial activity has occurred at
+the project area.
+
+Figure 7. 1976 chart of Houston ship channel showing the project area (from the Image Archives of the
+Historical Map and Chart Collection/Office of Coast Survey/National Ocean Service/NOAA). Note the power
+cables at the north end of the survey area. They are currently present and masked this portion of the area.
+
+Compared to the 1976, the 1983 navigation chart for the Houston Ship Channel shows industrial
+activity to the south of the survey area, with a fuel tank field in place (Figure 8).
+10
+
+Historical Background
+
+Figure 8. 1983 chart of Houston ship channel showing the project area (from the Image Archives of the
+Historical Map and Chart Collection/Office of Coast Survey/National Ocean Service/NOAA).
+
+Illustrated in Figure 9, the 1989 navigation chart for the Houston Ship Channel shows little
+change from the 1983 edition. Note no wreck symbols are noted in the vicinity (Figure 9). The
+1995 edition shows a similar lack of facilities along the shoreline. However, a âPipeline Areaâ
+has now appeared within the project area. Note that several exposed pipelines were recorded
+during the remote sensing survey of the area (Figure 10).
+
+11
+
+Historical Background
+
+Figure 9. 1989 chart of Houston ship channel showing the project area (from the Image Archives of the
+Historical Map and Chart Collection/Office of Coast Survey/National Ocean Service/NOAA).
+
+12
+
+Historical Background
+
+Figure 10. 1995 chart of Houston ship channel showing the project area (from the Image Archives of the
+Historical Map and Chart Collection/Office of Coast Survey/National Ocean Service/NOAA).
+
+13
+
+3. METHODS
+PROJECT AREA ENVIRONMENT
+The survey area is located at the confluence of Buffalo and Carpenters Bayous across from the
+Battleship Texas (Figure 11). Water depths throughout the survey area average 10.5 ft. to 0
+adjacent to shore.
+
+Figure 11. Project area looking west (upstream). This mooring buoy is on the east end opposite a sheet-piling
+wall. Note channel marker and white security area sign in background.
+
+REMOTE SENSING SURVEY EQUIPMENT
+The remote sensing survey was conducted with equipment and procedures intended to facilitate
+the effective and efficient search for magnetic and/or sidescan sonar anomalies and to determine
+their exact location. Belaire Environmental, Inc. of Rockport, Texas conducted the survey.
+Panamerican and Belaire have an ongoing relationship with cultural resources surveys in Texas.
+MARINE MAGNETOMETER SYSTEM
+The remote sensing instrument used to search for ferrous objects on or below the bay floor of the
+survey area was a Geometrics 882 marine magnetometer. The latest generation equipment with
+very low noise and high sensitivity, the towed magnetometer sensor was interfaced with a
+computer system via Chesapeake Technology, Inc. software that records the data digitally along
+with position information from the GPS receiver (Figure 12).
+
+14
+
+Methods
+
+SIDESCAN SONAR SYSTEM
+A Marine Sonics Sidescan sonar system operating at 600 kHz was employed in order to record
+an image of the sea floor and any items lying upon it. The sidescan sonar provides an aerial
+photograph-type image of the sea floor on which features and objects can be clearly seen and
+mapped. Similar to the magnetometer, the towed sidescan sonar is also interfaced with the
+computer system via Chesapeake Technology, Inc. software that employs positioning data from
+the DGPS system to locate the sidescan files and mosaics them in real time, on the fly. The final
+product is a bitmap image in the GeoTiff or Tiff World File format, suitable for input to any
+CAD or GIS system (see Figure 12).
+
+Figure 12. Geometrics 882 marine magnetometer (top), and Marine Sonics Sidescan sonar system (bottom).
+
+HORIZONTAL POSITIONING SYSTEM
+Horizontal positioning for this project was achieved using a real time differential GPS Satellite
+positioning system. GPS signals were received via a Trimble model ProXRT receiver and
+utilized differential corrections from the OmniSTAR national differential system, resulting in
+sub-meter horizontal position accuracy. Horizontal coordinates employed were in Texas State
+Plane, NAD 1983 datum in U.S. survey feet.
+
+DATA ACQUISITION SYSTEM
+Data from the horizontal positioning system, magnetometer, sidescan sonar, and fathometer were
+taken into a notebook PC utilizing Chesapeake Technology, Inc. software. This software is
+powerful, flexible, allows real time calculation of the vesselâs position and provides the
+helmsman guidance information with respect to pre-programmed survey lines. This system
+matches all recorded data with the correct horizontal position on the fly and records the data on
+electronic media (Figure 13).
+
+15
+
+Methods
+
+Although data is subject to extensive QC in the field in real time, it is usual practice to return
+data to the office for final editing and generation of x-y-z data. This final editing and generation
+of final x-y-z data was stored on IBM-PC compatible discs in an ASCII format suitable for
+import into Bentley Microstation CAD software.
+
+Figure 13. Data acquisition system utilizing Chesapeake Technology, Inc. software.
+
+DEPTH MEASUREMENT
+An Odom Hydrotrac Fathometer was employed for depth measurements. The Odom Hydrotrac
+is a single frequency unit operating at 200 kHz via a transducer mounted to the stern of the boat.
+The unit is capable of measuring down to approximately 2,000 ft. of water. In water less than 50
+ft. deep, the measurement accuracy is better than 3 cm at a rate of approximately 15
+measurements per second. The fathometer system was connected directly to the navigation
+computer.
+The fathometer was calibrated at the beginning and end of each survey day via a traditional barcheck in which a 3 in. diameter metal bar is lowered on chains beneath the boat and is marked at
+increments of 5 feet. The chains are each lowered so that each mark is level with the water
+surface, and held there while the controls on the fathometer are adjusted so that it reads exactly
+the correct depth. The procedure was repeated at the end of each survey day to confirm the
+calibration. All data was tied to a vertical datum via local benchmarks that could be referenced
+back to NAVD 88 or NGVD 29 mean sea level.
+SURVEY VESSEL
+A 26-foot half-cuddy Carolina Skiff with a 130 Hp outboard engine was employed for the
+duration of the survey (Figure 14). It was launched from the Rockport Beach boat launch.
+
+16
+
+Methods
+
+Figure 14. Twenty-six foot half-cuddy Carolina Skiff with 130 Hp outboard engine.
+
+SURVEY PROCEDURES
+As illustrated in (Figure 15), a total of six transects, approximately 1,500 ft. in length and at a
+maximum spacing of 65 ft. (20 m), were planned to adequately cover the proposed project area.
+As indicated by (Figure 16), each trackline was run until completed. Any navigation errors,
+problems with the remote sensing instruments or with the positioning system during the running
+of a line, resulted in the termination of that run. Significant off-line errors in navigation resulted
+in the immediate repetition of that line. Problems with remote sensing instruments were resolved
+before repeating the run of an aborted line.
+
+17
+
+Methods
+
+Figure 15. Pre-planned survey tracklines for the survey area.
+
+18
+
+Methods
+
+Figure 16. Post-plot survey tracklines for the survey area showing the actual track of the survey vessel.
+
+19
+
+4. RESULTS
+The survey of the proposed project area intended to locate and identify any potentially significant
+submerged cultural resources that might be impacted by the construction of the proposed
+undertaking. The survey was completed in an effort to locate those anomalies that may be
+eligible for inclusion on the NRHP.
+The interpretation of the remote sensing data obtained from both the magnetometer and sidescan
+sonar is an imperfect process at best, and as stated by Pearson et al. (1991), interpretation ârelies
+on a combination of sound scientific knowledge and practical experienceâ. The evaluation of
+remote sensing anomalies with regard to a determination that the anomaly does or does not
+represent shipwreck remains depends on a variety of factors, including detected characteristics of
+the individual anomalies (e.g., magnetic anomaly strength and duration, sidescan image
+configuration), associations with other sidescan or magnetic targets on the same or adjacent
+lines, and relationships to observable target sources, such as channel buoys or pipeline crossings.
+Interpretation of data collected by the magnetometer, the underwater archaeologistâs tool of
+choice for locating shipwrecks, is perhaps the most problematic. Anomalies are evaluated and
+prioritized based on magnetic amplitude or deflection of gamma intensity in concert with
+duration or spatial extent; they are also correlated with sidescan targets. Since the sonar record
+gives a visible indication of the target, identification or evaluation of potential significance is
+based on visible target shape, size, and presence of structure and association with magnetic
+anomalies. Targets such as isolated sections of pipe can normally be immediately discarded as
+nonsignificant, while large areas of above-sediment wreckage are generally easy to identify.
+The problems of differentiating between modern debris and shipwrecks based on remote sensing
+data have been discussed by a number of authors. This difficulty is particularly true in the case
+of magnetic data; therefore, it has received the most attention in the current body of literature
+dealing with the subject. Pearson and Saltus (1990:32) state, âeven though a considerable body
+of magnetic signature data for shipwrecks is now available, it is impossible to positively
+associate any specific signature with a shipwreck or any other featureâ. There is no doubt that
+the only positive way to verify a magnetic source object is via physical examination. However,
+the size and complexity of a magnetic signature does provide a usable key for distinguishing
+between modern debris and shipwreck remains (see also Garrison et al. 1989; Irion and Bond
+1984; Pearson et al. 1993). Specifically, the magnetic signatures of most shipwrecks tend to be
+large in area and tend to display multiple magnetic peaks of differing amplitude.
+In a study for the Minerals Management Service of magnetic anomalies in the north Gulf of
+Mexico, Garrison et al. (1989) indicate a shipwreck signature will cover an area between 10,00050,000 m2. Using Garrison et al.âs (1989) study and years of practical experience in an effort to
+assess the potential significance of remote sensing targets in a riverine setting, Pearson et al.
+(1991) developed general characteristics of magnetometer signatures most likely to represent
+shipwrecks. The report states, âthe amplitude of magnetic anomalies associated with shipwrecks
+vary considerably, but, in general, the signature of large watercraft, or portions of watercraft,
+range from moderate to high intensity (>50 gammas) when the sensor is at distances of 20 ft. or
+soâ (Pearson et al. 1991:70). Using a table of magnetic data from various sources as a baseline,
+they state âdata suggest that at a distance of 20 ft. or less watercraft of moderate size are likely to
+produce a magnetic anomaly (this would be a complex signature, i.e., a cluster of dipoles and/or
+monopoles) greater than 80 or 90 ft. across the smallest dimensionâ (Pearson et al. 1991:70).
+While establishing baseline amounts of amplitude and duration reflective of the magnetic
+characteristics for a shipwreck site, the Pearson et al. report ârecognizes that a considerable
+20
+
+Results
+
+amount of variability does occurâ (1991:70). Generated in an effort to test the 50-gamma/80foot criteria and determine amount of variability, Table 1 lists numerous shipwrecks as well as
+single-and multiple-source objects that have been located by magnetic survey and verified by
+divers. All of the shipwrecks meet and surpass the 50-gamma/80-foot criteria, while all singlesource object readings except the pipeline, fall below the criteria. However, the signature of the
+pipeline should show up as a linear feature on a magnetic contour map and not be confused with
+a single-source object. While the shipwrecks and single-source objects adhere to the 50gamma/80-foot criteria, the multiple-source objects do not. If all of the targets listed on the table
+had to be prioritized according to potential significance based on the 50-gamma/80-foot criteria,
+the two multiple-source object targets would have to be classified as potentially significant.
+Table 1. Compilation of magnetic data from various sources.
+Vessel
+(object)
+Shipwrecks
+J.D. Hinde
+Utina
+Mary Somers
+Gen C.B. Comstock
+Mary
+El Nuevo Constante
+James Stockton
+Homer
+modern shrimp boat
+Confederate
+obstructions
+Single-source objects
+pipeline
+anchor
+iron anvil
+engine block
+steel drum
+pipe
+railroad rail segment
+Multiple-source objects
+anchor/wire rope
+cable and chain
+scattered ferrous metal
+
+Magnetic Duration
+deviation (feet)
+
+Type & Size
+129 ft. wooden sternwheeler
+267 ft. wooden freighter
+
+573
+690
+
+iron-hulled sidewheeler
+177 ft. wooden hopper dredge
+234 ft. iron-hulled sidewheeler
+126 ft. wooden collier
+55 ft. wooden schooner
+148 ft. wooden sidewheeler
+segment 27 ? 5 ft.
+many vessels, machinery removed
+and filled with construction rubble
+
+5000
+200
+1180
+65
+80
+810
+350
+110
+
+18 in. diameter
+6 ft. shaft
+150 lbs.
+modern gasoline
+55 gallon
+8 ft. long ? 3 in. diameter
+4 ft. section
+
+1570
+30
+598
+357
+191
+121
+216
+
+8 ft. modern stockless/large coil
+5 ft.
+14 ? 3 ft.
+
+910
+30
+100
+
+Reference
+
+110 Gearhart and Hoyt 1990
+150 James and Pearson 1991;
+Pearson and Simmons 1995
+400 Pearson et al. 1993
+200 James et al. 1991
+200 Hoyt 1990
+250 Pearson et al. 1991
+130 Pearson et al. 1991
+200 Pearson and Saltus 1990
+90 Pearson et al. 1991
+long Irion and Bond 1984
+duration
+200
+270
+26
+60
+35
+40
+40
+
+Duff 1996
+Pearson et al. 1991
+Pearson et al. 1991
+Rogers et al. 1990
+Rogers et al. 1990
+Rogers et al. 1990
+Rogers et al. 1990
+
+140 Rogers et al. 1990
+50 Pearson et al. 1991
+110 Pearson et al. 1991
+
+While the data indicates the validity of employing the 50-gamma/80-foot criteria when assessing
+magnetic anomalies, other factors must also be taken into account. Pearson and Hudson (1990)
+have argued that the past and recent use of a water body must be an important consideration in
+the interpretation of remote sensing data, and in many cases, it should be the most important
+criterion. Unless the remote sensing data, the historical record, or the specific environment (i.e.,
+a harbor entrance channel) provides compelling and overriding evidence to the contrary, it is
+believed that the history of use should be a main consideration in data interpretation. What
+constitutes âcompelling evidenceâ is, to a certain degree, left to the discretion of the researcher.
+However, in settings where both modern commercial traffic and historic use have been intensive,
+the presence of a considerable quantity of modern debris must be anticipated. In harbor, bay, or
+riverine situations where traffic is heavy, this debris will be scattered along the channel right-of21
+
+Results
+
+way, although it may be concentrated at areas where traffic would slow or halt, and the debris
+will appear on the remote sensing survey records in the form of discrete, large or small objects.
+With respect to the current project area, sheet piling, a pipeline, a navigational aid, two mooring
+buoys and anchor, and electrical tower along with other structures are present in or adjacent to
+the project area.
+
+SURVEY RESULTS
+MAGNETOMETER
+With the above used as a basis for identifying those magnetic anomalies and acoustic sidescan
+targets with the greatest potential for representing submerged cultural resources, the data was
+reviewed following completion of the remote sensing survey. Listed in Table 2, a total of
+thirteen (n=13) magnetic anomalies and twenty sidescan sonar targets including cables, and a
+partially exposed pipeline running the length of the project area were recorded in the survey
+corridor. The table includes target description, location, and significance within the survey area.
+Relative to management considerations, all magnetic anomalies were analyzed for potential
+significance. The largest anomaly in the project area was not given a number. Covering the
+eastern end of the survey area, the overhead electric transmission lines, and the sheet piling along
+the shore produced this huge anomaly clearly seen in Figure 17, the magnetic contour map for
+the project area. The source for this anomaly, the sheet piling and transmission tower, are
+presented in Figure 18.
+The sources for all but two anomalies were visible on the surface (i.e., sheet pile, mooring buoys,
+etc.) and/or were readily visible on the sidescan record (i.e., pipelines, cables, etc.). The sidescan
+record is presented in Figure C and reveals that the bay bottom is somewhat featureless with a
+scattering of debris, likely left over from Hurricane Ike. A partially exposed pipeline runs the
+length of the survey area along with what appears to be a set of smaller lines or cables on the
+southwest end of the survey area. Magnetic signatures of Anomalies 1 through 9 are clearly
+visible in the sidescan record and are associated with the partially exposed pipeline running SW
+to NE along the centerline of the project area. Two others, 10 and 11, form a linear anomaly
+inshore and near the southern end of the long pipeline represented by Anomaly 1 through 9.
+Though to be a cable or a pipeline, the source for these two is visible as well in the sidescan
+record. Anomalies 12 and 13 also appear to form a linear feature running perpendicular to the
+southern end of the large central pipeline. While the source for these two are not visible in the
+sidescan record, they are thought to most likely be generated by a pipeline.
+Table 2. Magnetic anomalies within the survey area.
+Target
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+
+Description
+Pipeline
+Pipeline
+Pipeline
+Pipeline
+Pipeline & Steel Buoy
+Pipeline
+Pipeline
+Pipeline
+Pipeline
+Cable or Pipeline
+Cable or Pipeline
+Potential Pipeline
+Potential Pipeline
+
+Easting
+3207075.16
+3207023.28
+3206981.41
+3206918.28
+3206890.16
+3206842.66
+3206787.03
+3206710.78
+3206630.16
+3206597.03
+3206524.53
+3206737.03
+3206561.41
+
+22
+
+Northing
+13842215.90
+13842142.15
+13842065.28
+13842002.15
+13841931.22
+13841867.47
+13841781.22
+13841669.34
+13841532.47
+13841730.59
+13841651.84
+13841485.90
+13841543.40
+
+Potentially Significant
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+
+Results
+
+Figure 17. Magnetic contour map. Note high degree of interference from powerlines, sheet piling, and
+possible pipeline on the northern end of the survey area. Contour colors indicate the positive poles (in red)
+and/or negative poles (in blue) of each anomaly.
+
+23
+
+Figure 18. Sheet piling and electrical transmission tower on the northeastern end of the project area that
+produced a huge anomaly.
+
+Results
+
+24
+
+Results
+
+Figure 19. Sidescan Sonar mosaic depicting a somewhat featureless bottom but with channel markers,
+exposed pipeline, and other debris extant (courtesy of Belaire, Inc.).
+
+25
+
+5. CONCLUSIONS
+In September 2009, Panamerican Consultants, Inc. of Memphis, Tennessee, conducted an
+intensive remote sensing survey of the proposed Ship Dock #4, located in the Houston Ship
+Channel at the confluence of Buffalo and Carpenter Bayous in Harris County, Texas. Performed
+for the Houston Fuel Oil Terminal Company, the purpose of the survey was to determine the
+absence/presence of magnetic and sidescan sonar targets that may represent potentially
+significant submerged cultural resources eligible for listing on the NRHP, which might be
+impacted by the proposed undertaking.
+Results of the current remote sensing survey identified a total of thirteen (n=13) magnetic
+anomalies and twenty (n=20) sidescan sonar targets were recorded in the survey corridor,
+including cables and a partially exposed pipeline, which runs the length of the project area. The
+sources for all but two anomalies were visible on the surface (i.e., sheet pile, mooring buoys,
+etc.) and/or were readily visible on the sidescan record (i.e., pipelines, cables, etc.). Of the 13
+anomalies, 11 represent visible pipelines and/or cables, and it is thought that the source for the
+other two is also a pipeline. All anomalies are considered to represent non-historic manmade
+structures, and no further work is warranted. However, undetected submerged cultural resources
+may exist in the survey area, particularly small yet potentially significant watercraft. If such
+resources are discovered during the project, work must stop at the location until the THC has
+been notified and a plan of investigation is undertaken.
+
+26
+
+REFERENCES CITED
+Bass, G.F.
+1988
+
+Ships and Shipwrecks of the Americas: A History Based on Underwater
+Archaeology. Thames and Hudson Ltd., London.
+
+Berman, Bruce D.
+1972 Encyclopedia of American Shipwrecks.
+Massachusetts.
+
+Mariners Press, Inc., Boston,
+
+Cartwright, Gary
+1991 Galveston: A History of the Island. Ft. Worth: TCU Press.
+Culver, Henry B.
+1869 The Book of Old Ships. New York: Dover Publications.
+Cumberland, Charles C.
+1947 "The Confederate Loss and Recapture of Galveston, 1862-1863," Southwestern
+Historical Quarterly 51 (October).
+Duff, Jim
+1996
+
+Elliott, J.H.
+1963
+
+Underwater Archaeological Investigation and Documentation of Three Anomaly
+Clusters Within Three Segments of Proposed Preferred Corridor for Replacement
+of Bonner Bridge, Oregon Inlet, North Carolina. Submitted to the Federal
+Highway Administration and the North Carolina Department of Transportation by
+Panamerican Consultants, Inc. of Memphis, Tennessee under subcontract to
+Parsons, Brinkerhoff, Quade & Douglas, Inc., Morrisville, North Carolina.
+Imperial Spain 1469-1716. New York: St. Martin's Press.
+
+Garrison, Ervin P., C.P. Giammona, F.J. Kelly, A.R. Tripp, and G.A. Wolff
+1989 Historic Shipwrecks and Magnetic Anomalies of the Northern Gulf of Mexico:
+Reevaluation of Archaeological Resource Management Zone 1. Volume II:
+Technical Narrative. OCS Study 89-0024. U.S. Department of the Interior,
+Minerals Management Service, Gulf of Mexico OCS Regional Office, New
+Orleans, Louisiana.
+Gearhart II, Robert L. and Steven A. Hoyt
+1990 Channel to Liberty: Underwater Archaeological Investigations, Liberty County,
+Texas. Submitted to U.S. Army Corps of Engineers, Galveston District by Espey,
+Huston & Associates, Austin, Texas.
+
+27
+
+References Cited
+
+Gearhart II, Robert L., Jeffrey M. Enright, Eugene R. Foster, and James S. Schmidt
+2000 Historical Research and Marine Remote Sensing Survey of Proposed Oyster Reef
+Pads and Boatersâ Cuts, Galveston Bay, Chambers and Galveston Counties,
+Texas. Submitted to U.S. Army Corps of Engineers, Galveston District by
+PBS&J, Austin, Texas.
+Gearhart II, Robert L.
+2002 Remote-Sensing Survey of Five Proposed Well Pads, Galveston Bay, Galveston
+County, Texas. Submitted to Trans-Texas Gas Corporation, Houston, Texas by
+PBS&J, Austin, Texas.
+Houston Ship Channel
+2004 Houston
+Ship
+Channel
+History
+Online.
+http://www.betterbay.org/html/releases/HoustonShipChannelHistory.htm.
+Hoyt, Steven D.
+1990 National Register Assessment of the SS Mary, Port Aransa, Nueces County,
+Texas. Submitted to the U.S. Army Corps of Engineers, Galveston District, by
+Espey, Huston & Associates, Austin, Texas.
+1993
+
+Archival Research, Houston-Galveston Navigation Channels, Texas Project,
+Galveston, Harris, Liberty, and Chambers Counties, Texas. Submitted to U.S.
+Army Corps of Engineers, Galveston District by Espey, Huston & Associates,
+Austin Texas.
+
+Hoyt, Steven D. and James Schmidt
+1996 Inundated Site Investigations Houston-Galveston Navigation Channels, Texas
+Project Galveston, Harris, Liberty and Chambers Counties, Galveston Bay,
+Texas. . Submitted to U.S. Army Corps of Engineers, Galveston District by
+Espey, Huston & Associates, Austin Texas.
+Hudson, Jack C.
+1979 Proposed Multipurpose Deepwater Port and Crude Oil Description System.
+Galveston, Texas.
+Irion, Jack B. and C.L. Bond
+1984 Identification and Evaluation of Submerged Anomalies, Mobile Harbor, Alabama.
+Submitted to the U.S. Army Corps of Engineers, Mobile District by Espey,
+Huston & Associates, Austin, Texas.
+Irion, Jack B.
+1986 Underwater Archaeological Investigations Mobile Bay Ship Channel Mobile
+Harbor, Alabama. Submitted to U.S. Army Corps of Engineers, Mobile District
+by Espey, Huston & Associates, Inc. Austin, Texas.
+
+28
+
+References Cited
+
+James, Stephen R. and Charles E. Pearson
+1991 Magnetometer Survey and Ground Truthing Anomalies, Corpus Christi Ship
+Channel, Aransas and Nueces Counties, Texas. Submitted to U.S. Army Corps of
+Engineers, Galveston District by Coastal Environments., Baton Rouge, Louisiana.
+James, Stephen R., Jr., C. E. Pearson, K. Hudson and J. Hudson
+1991 Archaeological and Historical Investigations of the Wreck of the Gen. C.B.
+Comstock, Brazoria County, Texas. Submitted to the U.S. Army Corps of
+Engineers, Galveston District by Coastal Environments, Inc., of Baton Rouge,
+Louisiana.
+James, Jr. Stephen R. and Melissa Madrigal
+2001 Analysis of Remote Sensing Data Relative to the Presence of Submerged Cultural
+Resources for the Galveston Bay Pipeline Project. Submitted to Cowboy Pipeline
+Service Company, Houston, Texas by URS Corporation, Houston, Texas.
+James, Jr. Stephen R. and Michael Faught
+2006 Submerged Cultural Resources Remote Sensing Survey of Two Proposed
+Pipelines and a Wellhead Location, Lease Tract 307, Galveston Bay, Chambers
+County, Texas. Submitted to Tempest Energy Resources, Dallas, Texas by
+Panamerican Consultants, Inc., Memphis, Tennessee.
+2006a Submerged Cultural Resources Remote Sensing Survey of a Proposed Pipeline In
+State Lease Tract 307 & 308, Galveston Bay, Chambers County, Texas.
+Submitted to Tempest Energy Resources, Dallas, Texas by Panamerican
+Consultants, Inc., Memphis, Tennessee.
+Krivor, Michael C.
+2004a Submerged Cultural Resources Remote Sensing Survey Moss Bluff To Texas City
+Hydrogen Line, Galveston Bay, Texas. Submitted to Buckeye Gulf Coast Pipe
+Line, LLC., Houston, Texas under subcontract to SWCA Environmental
+Consultants, Inc., Austin, Texas by Panamerican Consultants, Inc., Memphis,
+Tennessee.
+2004b Submerged Cultural Resources Remote Sensing Survey, Port of Houston
+Authority Bayport Facility, Galveston Bay, Chambers County, Texas. Submitted
+to Port of Houston Authority, Houston, Texas under subcontract to Moore
+Archaeological Consulting, Inc. of Houston, Texas.
+2004c Submerged Cultural Resources Remote Sensing Survey Proposed Pipeline in ST246, Galveston Bay, Chambers County, Texas. Submitted to Palace Operating
+Company, Tulsa, Oklahoma.
+2005a Submerged Cultural Resource Remote Sensing Survey, Proposed Pipeline in ST287 Galveston Bay, Chambers County, Texas. Texas Antiquities Permit No. 3665.
+Submitted to Davis Petroleum Corporation, Houston, Texas.
+
+29
+
+References Cited
+
+2005b Submerged Cultural Resource Remote Sensing Survey, Proposed Pipeline in ST125 Galveston Bay, Chambers County, Texas. Texas Antiquities Permit No. 3683.
+Submitted to James A. Whitson, Jr., Houston, Texas.
+2006
+
+Submerged Cultural Resources Remote Sensing Survey, State Lease Tract 199
+Wellhead Survey, Galveston Bay, Chambers County, Texas. Submitted to Davis
+Petroleum Corporation, Houston, Texas Panamerican Consultants, Inc., Memphis,
+Tennessee.
+
+McComb, David G.
+1986
+Galveston: A History. Austin: University of Texas Press.
+Mistovich, T.S., and V.J. Knight, Jr.
+1983 Cultural Resources Survey of Mobile Harbor, Alabama. Submitted to the U.S.
+Army Corps of Engineers, Mobile District by OSM Archaeological Consultants,
+Inc., Moundville, Alabama.
+Nowak, T.A., Jr. and W. Riess
+1989 Archaeological Survey, East Bank and Lower Bay Areas, New York Harbor, New
+York. Submitted to the U.S. Army Corps of Engineers, New York District by
+Ocean Surveys, Inc., Old Saybrook, Connecticut.
+Pearson, C.E., and Kay G. Hudson
+1990 Magnetometer Survey of the Matagorda Ship Channel: Matagorda Peninsula to
+Point Comfort, Calhoun and Matagorda Counties, Texas. Submitted to the U.S.
+Army Corps of Engineers, Galveston District by Coastal Environments, Inc.,
+Baton Rouge, Louisiana.
+Pearson, C.E., and A.R. Saltus
+1990 Cultural Resources Investigation at Island 86, Mississippi River, ArkansasMississippi. Submitted to U.S. Army Corps of Engineers, Vicksburg District by
+Coastal Environments, Inc., Baton Rouge, Louisiana.
+Pearson, C.E., B.L. Guevin, and A.R. Saltus
+1991 Remote Sensing Survey of the Lower Pearl and West Pearl River, Louisiana and
+Mississippi. Submitted to U.S. Army Corps of Engineers, Vicksburg District by
+Coastal Environments, Inc., Baton Rouge, Louisiana.
+Pearson, C.E., S.R. James, Jr., K.G. Hudson, and J. Duff
+1993 Underwater Archaeology Along the Lower Navidad and Lavaca Rivers, Jackson
+County, Texas. Submitted to U.S. Army Corps of Engineers, Galveston District by
+Coastal Environments, Inc., Baton Rouge, Louisiana.
+Pearson, C.E., and J.J. Simmons III
+1995 Underwater Archaeology of the Wreck of the Steamship Mary (41NU252) and
+Assessment of Seven Anomalies, Corpus Christi Entrance Channel, Nueces
+
+30
+
+References Cited
+
+County, Texas. Submitted to U.S. Army Corps of Engineers, Galveston District by
+Coastal Environments, Inc., Baton Rouge, Louisiana.
+Proceedings of the Galveston Bay Characterization Workshop.
+1991 New Waves, Volume 4 Number 4 (December).
+Rogers, R., S.D. Hoyt, C.L. Bond, L. Voellinger, and S.R. James, Jr.
+1990 Cultural Resources Investigations, Virginia Point, Galveston County, Texas.
+Submitted to U.S. Army Corps of Engineers, Galveston District by Espey, Huston
+and Associates, Inc., Austin, Texas.
+Rogers, R., S.D. Hoyt, C.L. Bond, L. Voellinger, and S.R. James, Jr.
+1990 Cultural Resources Investigations, Virginia Point, Galveston County, Texas.
+Espey, Huston and Associates, Inc., Austin Texas. Submitted to the U.S. Army
+Corps of Engineers, Galveston District by Espey, Huston & Associates, Inc.,
+Austin, Texas.
+San Jacinto Historic Site
+2008 San
+Jacinto
+Battleground
+State
+Historic
+Site
+Online.
+http://www.tpwd.state.tx.us/spdest/findadest/parks/san_jacinto_battleground/
+Trimble Navigation Limited
+1998 Specification sheet available at:
+http://trl.trimble.com/dscgi/ds.py/Get/File6475/DSMFam.pdf
+Tuttle, M.C., and S.R. James, Jr.
+1996 Remote Sensing Survey, Atlantic Coast of Long Island, Jones Inlet to East
+Rockaway Inlet, Long Beach Island, Nassau County, New York, Storm Damage
+Reduction Project. Submitted to the U.S. Army Corps of Engineers, New York
+District by Panamerican Consultants, Inc., Memphis, Tennessee.
+Weddle, Robert S.
+2001 The Wreck of the Belle, the Ruin of La Salle. Texas A&M University Press,
+College Station, Texas.
+
+31
+
+

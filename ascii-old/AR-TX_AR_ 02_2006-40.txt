@@ -1,0 +1,2688 @@
+AR Consultants, Inc.
+Archaeological and Environmental Consulting
+P.O. Box 820727, Dallas, Texas 75382-0727
+Phone:
+(214) 368-0478
+Fax:
+(214) 361-6762
+E-mail:
+
+arcdigs@aol.com
+
+ARCHAEOLOGICAL TESTING
+OF
+SITE 41GM416
+Texas Antiquities Permit No. 4141
+S. Alan Skinner, PhD
+Jeff Craver, BA
+Thomas A. Jennings, MA
+Jesse Todd, MS, MA
+Leslie L. Bush, PhD
+Art Tawater
+Prepared for:
+
+HDR
+and the
+
+TEXAS MUNICIPAL POWER AGENCY
+
+Prepared by:
+AR CONSULTANTS, INC.
+11020 Audelia Road, Suite C105
+Dallas, Texas 75243
+Cultural Resources Report 2006-40
+July 20, 2006
+
+HISTORIC BUILDINGS
+
+ARCHAEOLOGY
+
+NATURAL SCIENCES
+
+ARCHAEOLOGICAL TESTING
+OF
+SITE 41GM416
+Texas Antiquities Permit No. 4141
+
+S. Alan Skinner, PhD
+Jeff Craver, BA
+Thomas A. Jennings, MA
+Jesse Todd, MS, MA
+Leslie L. Bush, PhD
+Art Tawater
+Prepared for:
+
+HDR
+and the
+
+TEXAS MUNICIPAL POWER AGENCY
+
+Prepared by:
+AR CONSULTANTS, INC.
+11020 Audelia Road, Suite C105
+Dallas, Texas 75243
+Cultural Resources Report 2006-40
+July 20, 2006
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+i
+
+ABSTRACT
+
+An archaeological survey of a proposed railroad route from the Union
+Pacific Railroad line south of College Station, Texas north to the Gibbons
+Creek Steam Generation Plant encountered a small but possibly vertically
+stratified prehistoric site (41GM416). The site deposit included lithic
+debris, fire-cracked rock, animal bone, and charcoal. A Bulverde dart
+point was recovered between 60-70 cm in a shovel test and was interpreted
+as evidence of an Early Archaic occupation. Based on these factors, it was
+recommended that site 41GM416 warranted further testing in order to
+determine its eligibility for inclusion on the National Register of Historic
+Properties or as a State Archeological Landmark.
+This report presents the results of additional testing that included nine test
+units and three backhoe trenches. Perdiz points and an untyped Middle or
+Late Archaic dart point were recovered along with sand-tempered pottery.
+Based on the presence of arrow points and ceramics found throughout the
+deposit and on the radiocarbon date of 910±60 BP (Beta-217534) the
+primary site occupation has been attributed to the Late Prehistoric period,
+however no hearths, pits, midden, or occupation surfaces were found.
+Although the site yielded two dart points, no discrete Archaic component
+was identified. An 18th century .54 caliber musket ball was found within
+one of the test units but no other historic Native American or European
+artifacts were found. AR Consultants, Inc. therefore recommends that the
+site does not have sufficient integrity to warrant nomination to the
+National Register of Historic Places and that further investigation is
+unwarranted. Artifacts will be curated at the Texas Archaeological
+Research Laboratory.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+ii
+
+ACKNOWLEDGMENTS
+
+AR Consultants wishes to thank everyone involved in the project and in the preparation
+of this report for their assistance. While we accept responsibility for the content of the
+report, we were assisted by several people who demonstrated their interest in the
+prehistory of the area.
+We found the Texas Municipal Power Agency (TMPA) personnel to be most helpful. In
+particular, Monte Nicholson, Project Manager provided access to the land and shared his
+experiences with the field crews. TMPA also provided us with a backhoe and operator for
+trenching the knoll.
+Likewise, the HDR staff assisted us in a variety of ways; first by providing great
+topographic and aerial maps. Secondly they were there to insure access and keep us
+advised of landowner issues. We want to thank James Thomas and Tom Trimble for their
+help in the field and in the office. We also want to thank Sean Nash and Angeliki
+Cavazos for spending three days digging with us.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+iii
+
+TABLE OF CONTENTS
+Abstract..............................................……………………………………….
+Acknowledgements………………………………………………………….
+Table of Contents……………………………………………………………
+List of Figures...............................................................……………………..
+List of Tables………………………………………………………………..
+Introduction...................................................................……………………..
+Natural Environment.................................................………………………..
+Cultural Historical Background......................………………………………
+Research Design & Methodology..................................................………….
+Results……………………………………………………………………….
+Recommendations.........................................................……………………..
+References Cited............................................................…………………….
+Appendix 1-Radiocarbon Dating…….………………………………………
+
+i
+ii
+iii
+iii
+iii
+1
+5
+6
+9
+10
+26
+27
+30
+
+LIST OF FIGURES
+Figure 1.
+
+Figure 2.
+
+Figure 3.
+Figure 4.
+Figure 5.
+Figure 6.
+Figure 7.
+Figure 8.
+Figure 9.
+Figure 10.
+
+View to the north of the knoll at site 41GM416. FM 3090
+and the former route of the Houston and Texas Central
+Railroad are to the right of the fence posts.……………………….
+The railroad route and site 41GM416 shown on sections
+of the Brenham and Bryan, TX 1:100 000 scale meter
+USGS maps….…………………………………………………..
+Plan map of 41GM416...…………………………………….…..
+Trench 1 profile………………………………………………….
+Profile for Test Unit 1……………………………………………
+Full-size pictures of projectile points from 41GM416..…………
+Bifacial chopper face (a) and profile (b) made of sandstone
+and illustrated half-size ……………………………..…………..
+Thin body sherd speculated to possibly be a trade sherd………...
+Two rim sherds (a, b ) and a horizontally broken sherd ( c)……..
+.54 caliber musket ball……………………………………………
+
+1
+
+2
+10
+12
+13
+18
+19
+19
+20
+21
+
+LIST OF TABLES
+Table 1.
+Table 2.
+Table 3.
+Table 4.
+Table 5.
+Table 6.
+
+Artifact distribution at 41GM416……………………………
+Average weights (g) of lithic debris by level………………..
+Projectile points recovered from site 41GM416…………….
+Description of sherds recovered from site 41GM416……….
+Bone elements by Unit and Level at site 41GM416…………
+Charcoal identifications for site 41GM416…………………
+
+14
+16
+17
+20
+22
+23
+
+r-arc TMPATestingRpt
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+1
+
+INTRODUCTION
+Prehistoric site 41GM416 (Figure 1) was discovered in the fall of 2005 during a
+pedestrian archaeological survey (Skinner and Craver 2005) of a proposed railroad route
+to be built from the existing Union Pacific Railroad route south of College Station north
+to the Texas Municipal Power Agency (TMPA) Gibbons Creek Steam Electric Plant in
+central Grimes County, Texas (Figure 2). This new route will generally follow the
+abandoned route of the former Houston and Texas Central Railroad that operated
+between Navasota and Mexia from 1906 to 1934. Environmental permitting for this route
+is being handled by the Dallas office of HDR, Inc. The route is fourteen miles long and
+the northern part of the route is included within the Gibbons Creek Lignite Mine.
+The site is located on a knoll just north of site 41GM11 on the west side of FM 3090. The
+knoll is at the edge of the uplands overlooking the Sand Creek floodplain. Eight shovel
+tests were placed on the knoll but within the corridor to explore the site boundaries. Six
+shovel tests were positive and two were negative.
+
+Figure 1.
+
+View to the north of the knoll at site 41GM416. FM 3090 and the former
+route of the Houston and Texas Central Railroad are to the right of the
+fence posts.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+Figure 2.
+
+2
+
+The railroad route and site 41GM416 shown on sections of the Brenham
+and Bryan, TX 1:100 000 scale meter USGS maps.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+3
+
+The first shovel test (ST 1) was placed in the center of the knoll and was excavated to 97
+cm. Thirteen flakes, two pieces of fire-cracked sandstone, and a piece of bone were
+encountered in this shovel test. Subsequently, four shovel tests [ST 2-4, 6] were placed
+15 m from ST 1 generally in the four cardinal directions. All four shovel tests were
+excavated to a depth of 70+ centimeters. Lithic debris and fire-cracked rock were
+encountered in all four shovel tests. A Bulverde dart point base was encountered in ST 6
+at a depth of 60-70 cm below the surface. Bulverde is an Early Archaic dart point type
+dating between 3000 to 2500 B.C (Turner and Hester 1999:82-83). Three more shovel
+tests were excavated at the limits of the corridor. One north of the knoll (ST 7) was
+positive and yielded lithic debris. Shovel test 5 was placed south of ST 4 but yielded no
+artifacts. Shovel test 7 was placed 15 meters northeast of ST 6 and was excavated to a
+depth of 40 cm and encountered one piece of lithic debris. One more (ST 8) was
+excavated to the north but was negative. The eastern edge of the site may have been
+removed when the railroad bed was constructed but virtually no artifacts were found on
+the slope of the highway corridor.
+Site 41GM416 is a relatively small, less than fifty meters square, deposit that appeared to
+have two occupation zones. The upper extends from 10-30 cm below the present ground
+surface and was found in three of the positive shovel tests. No datable artifacts were
+uncovered and this zone had probably been disturbed by land clearing and farming. The
+second zone was found between 50-80 cm in five shovel tests but primarily between 6070 cm. Fire-cracked rock and flakes were found in association with an Early Archaic
+Bulverde dart point. The presence of an eroded animal bone in this zone may indicate that
+faunal and possibly floral remains had been preserved in this deeper deposit.
+The purpose of this investigation was to determine the historic significance of the site
+which will be destroyed during railroad construction and if significant to make
+recommendations about how to mitigate its loss. The study is appropriate for state and
+federal permitting for application for the construction of a railroad line that crosses
+several drainages which are considered Waters of the US. This report has been prepared
+for review by the Archeology Division of the Texas Historical Commission as part of
+their Section 106 review process but also because this investigation required a Texas
+Antiquities Permit. The relevant federal legislation includes the National Historic
+Preservation Act of 1966, as amended (PL-96-515), the National Environmental Policy
+Act of 1969 (PL-90-190), and the Archeological and Historical Preservation Act of 1974,
+as amended (PL-93-291).
+This report was written in accordance with report guidelines adopted by the Texas
+Historical Commission, Archeology Division, and developed by the Council of Texas
+Archeologists (ND). The following report presents a brief description of the natural and
+cultural environmental resources of the area. The research design and methodology and
+then the results of the field investigation follow. A section which offers recommendations
+concludes the body of the report. A list of references cited follows.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+4
+
+Administrative Information:
+
+Sponsor:
+Texas Municipal Power Agency
+Review Agency:
+Texas Historical Commission, Archeology Division
+Principal Investigator: S. Alan Skinner, PhD
+Field Crew:
+Sonny Wheeler, Victoria Springer, Sean Nash, Angeliki
+Cavazos, Shanon Bowman, Eleanor Dahlin, Jeff Craver and
+Skinner
+Fieldwork Dates:
+May 17-25, 2006
+Project Field-days: 40
+Sites Investigated:
+Prehistoric: 41GM416
+Curation Facility:
+Artifacts and records will be curated at the Texas
+Archeological Research Laboratory
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+5
+
+NATURAL ENVIRONMENT
+The railroad route is located in the Post Oak Savannah of Coastal Texas (Diamond,
+Riskind, and Orzell 1987:Figure 1). The topography of the area is mostly rolling uplands
+dissected by numerous generally small and intermittent tributaries which ultimately flow
+into the Navasota River. The intermittent tributaries include Rocky and Sand creeks. The
+post oak savannah surrounds the entire route although the tree cover has been removed in
+various areas. Virtually all of the area is covered with a sandy mantle which ranges in
+thickness from a few centimeters to more than two meters. In most areas, the sandy
+mantle is less than a meter thick. A thick layer of clay is present in the floodplain of
+Rocky Creek and the Navasota River.
+The south end of the route coincides with a Quaternary terrace (Bureau of Economic
+Geology 1974). The route descends from the terrace to the Quaternary alluvium of the
+first terrace and the active floodplain of the Navasota River. A similar pattern is repeated
+east of the river. Most of the route to the north is situated on Quaternary terrace
+sediments until reaching a narrow band of the Whitsett Formation that is sandwiched
+between the Quaternary terrace and the Quaternary alluvium in the Rocky Creek
+floodplain.
+Soils associations along the route include the Gladewater-Nahatchie-Gowker loamy and
+clayey soils that occur in this poorly drained setting where the soils have formed on
+recent alluvium in the Navasota River floodplain and in the narrower floodplain of Rocky
+Creek (Greenwade 1996:18). The Falba-Shiro-Greenvine association is in the upland
+between the Navasota River and Rocky Creek and north of Rocky Creek to the edge of
+the mined area. This association includes sandy, loamy, and clayey soils that formed in
+tuffaceous clay and sandstone. These soils formed typically in prairie environments.
+Gomery-Shiro-Elmira sandy soils occur in the mined area. This soil association formed
+under timbered vegetation.
+The general soil association for the location of site 41GM416 is Falba-Shiro-Greenvine
+(Greenwade 1996: General Soils Map). The specific soils for the location of the site are
+Padina loamy fine sand with 1 to 8 percent slopes that is found on the western portion of
+the site and Burlewash fine sandy loam with 1 to 5 percent slopes which makes up the
+majority of the site (Greenwade 1996:31, 59-60). The Padina loamy fine sand consists of
+very deep gently or moderately sloping soil on the uplands. The Burlewash fine sandy
+loam is moderately deep, gently sloping soil on the uplands.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+6
+
+CULTURE HISTORICAL BACKGROUND
+Grimes and Brazos counties are included within the Southeastern Region of Texas
+(Moore 1989). The earliest occupation was probably during the Paleo-Indian period and
+is expected to have been by ancient Native Americans who made very distinctive Clovis
+points. However, very little evidence of Late Pleistocene occupation has been reported
+from anywhere in Grimes County or in the surrounding area.
+Subsequent occupation during the Archaic period is characterized as a hunting and
+gathering way of life practiced by mobile bands who occupied recognized group
+territories. Dart points, grinding stones, and accumulations of burned rock characterize
+Archaic site deposits. The fauna hunted and gathered by these early people was a truly
+modern animal population. Habitation sites have been reported from settings in the area
+that are along major drainages, while upland surveys have tended to find fewer and
+smaller sites which are described as lithic procurement sites or temporary camps. An
+abundance of Late Archaic sites is known from the Gibbons Creek area.
+The Early Ceramic follows the Late Archaic and is distinguished regionally by the
+appearance of pottery by about AD 100. The sandy paste pottery is found to be associated
+with Gary and Kent dart points and subsequently with Scallorn arrow points. At Gibbons
+Creek, numerous hearth features and stone tools were found with a small sample of sandy
+paste pottery at site 41GM224 (Rogers 1995). The site was concluded to be a seasonally
+occupied location and was dated AD 710±70 using charred nut shells.
+The Late Prehistoric period follows the Early Ceramic and is signaled by the presence of
+pottery and arrow points which first appeared about AD 700 and continued in use into the
+historic time period. Cemeteries are known to occur at some sites in the region, but none
+have been reported in Grimes County. There is no evidence of major change in life style
+that was brought about by the adoption of pottery and the bow and arrow, but the limited
+investigations restrict a summary of the Late Prehistoric way of life.
+Numerous historic Native American groups are known to have occupied this area, but the
+archaeology of these indigenous peoples is virtually unknown. The area was first settled
+by Europeans under the authority of Mexico in 1834 and was part of one of the original
+Republic of Texas counties. Farming was the major means of support in the nineteenth
+century. A more definitive description of the culture history of the area and of previous
+investigations in adjacent Brazos County is contained in “Prehistoric and Historic
+Occupation in Central Brazos County (Dering and Mason 2001)”. For Grimes County,
+the reader is referred to the numerous references by Robert Rogers (1992, 1993, 1995)
+and others involved with investigations at the Gibbons Steam Electric Station and Mine.
+These sources provide a comprehensive review of these subjects.
+Paleo-climatic research in the region has revealed a long, probably punctuated, warming
+and/or drying trend over the last 10,000 years. The overall results of this climatic trend
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+7
+
+was a decrease in trees, except for the oaks, and an increase in grasses and herbaceous
+plants. Palynological data from bogs in the Post Oak Savannah have been interpreted as
+showing that the present-day, oak-savannah vegetation regime was probably established
+about 3,000 years ago (Thoms 1997:13). Based on historic accounts and archaeological
+data, deer and wild root foods probably provided the bulk of the Native American diet
+throughout the years of occupation, although bison were probably a regular supplement
+to the diet when available.
+The earliest inhabitants of the area that were recorded historically were the Bedai Indians.
+They first appeared in the records of the Spanish explorers after 1691 and they also
+traded with the French in the late 18th century. Bedai is a Caddoan word for brushwood,
+and although the Bedai were not Caddoan-speakers, the groups were allied, as noted by
+the French traveler d’Bellisle who visited the Bedai on his way to the Hasanai villages in
+1721 (Folmer 1940). The Bedai considered themselves to be the oldest of the Texas
+Indians and may have been aligned with the Atakapan tribes (Rogers 1995:14). Disease
+reduced their population to less than 100 in the early 19th century and records of their
+existence eventually disappeared by the mid-19th century. The Tonkowa Indians were
+also in the area when Europeans settled here. The Tonkowa lived here peacefully and
+may have been helpful in reducing the number of raids by the Apache and Comanche
+Indians. The last, fatal Indian raid in Grimes County occurred in 1841. In 1854, the U. S.
+established forces to curtail Indian raids and oust the Indians from Texas. This ultimately
+resulted in only six Indians being recorded in the 1860 U.S. Census for Grimes County
+(Jackson 2001).
+Stephen F. Austin began the first Anglo settlement near the confluence of the Brazos and
+Colorado Rivers in 1821. Andrew Millican settled in the area now known as Grimes
+County along Holland Creek (Jackson 2001). On April 6, 1846, the first state legislature
+established Grimes County, named in honor of Jesse Grimes, a signer of the Texas
+Declaration of Independence. Agriculture became the preeminent economic activity in
+Grimes County. Today Grimes County is still predominantly agriculture based with
+increased manufacturing and oil industry (Jackson 2001).
+Previous Archaeological Investigations
+From 1993 to 1994 numerous sites were excavated at the Gibbons Creek Lignite Mine in
+Grimes County, Texas. Investigations conducted between May and December of 1993
+were done at sites 41GM166, 41GM281 and 41GM282. Between January and March of
+1994 investigations at sites 41GM370 and 41GM374 were conducted.
+Site 41GM166 is located on a toe-slope, back-slope and summit of a south-trending
+interfluve above Peach Creek (Rogers 1995: 20). The site has a Paleo-Indian component
+that was based upon several Dalton points that were recovered. Overlying the paleocomponent are prehistoric occupations of Archaic and Early Ceramic ages. The intention
+of the excavation was to isolate the Paleo-Indian occupation but this was not possible due
+to post-depositional events related to bioturbation (Rogers 1995: 56).
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+8
+
+Site 41GM281 is a Late Prehistoric site located on a toe-slope along the lower reaches of
+Peach Creek about 1.4km upstream from its confluence with Gibbons Creek (Rogers
+1995: 57). Occupation dates between A.D. 1150 and 1400. The arrow point assemblage is
+dominated by Perdiz points with approximately 100 complete or almost complete
+specimens recovered along with large amounts of pottery (Rogers 1995: 143).
+Site 41GM282 is located on a toe-slope about 100 m from the main channel of Peach
+Creek (Roger 1995: 144). The site was excavated to isolate the Early Ceramic component
+previously discovered in testing of the site but failed to do so. However, the site produced
+3,530 prehistoric artifacts including 13 Perdiz and an Ellis point. With the location of the
+site so close to 41GM281, the similar occurrence of similar-aged materials strengthens
+their argument for short term occupation at both sites (Rogers 1995: 164).
+Site 41GM370 is located on nearly level terrain on the lower back-slope of a south-facing
+interfluve about 100 m northwest of an unnamed tributary of Peach Creek. Excavated
+from the site were 589 prehistoric artifacts including one Perdiz and numerous prehistoric
+Goose Creek Plain ceramic sherds. Excavation at the site discovered that twentieth
+century activities severely affected the integrity of the deposits (Rogers and Foster 1994:
+29). All units displayed evidence of disturbance.
+Site 41GM374 contained prehistoric deposits attributed to Late Paleo-Indian and Late
+Prehistoric periods. The site is located on a slope of a south trending interfluve that
+terminates on a projection which is bound on east and west sides by an intermittent
+tributary of Peach Creek (Rogers and Foster 1994: 43). The site’s composition was
+altered due to post-depositional forces related to bioturbation. Artifact density at the site
+was relatively low to moderate with four complete dart points and several fragments
+recovered. The only identifiable points within the assemblage were Gary and San Patrice.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+9
+
+RESEARCH DESIGN & METHODOLOGY
+Site 41GM416 offered an opportunity to investigate a prehistoric site located in the
+upland adjacent to Rocky Creek Watershed. Specific topics that were addressed are site
+function, space utilization, site chronology, and environmental reconstruction. These
+same research topics have guided a number of the previous investigations in Grimes
+County but the findings have generally been compromised by mixing of the
+archaeological deposits and a lack of eco-factual preservation.
+Based on the results of shovel testing and taking into account the results of past
+investigations at Gibbons Creek,
+¾ It was postulated that the site contained a vertically stratified deposit with an
+Early Archaic component below 60 cm and a more recent occupation of unknown
+age between 60 cm and the surface. Dating required the recovery of charcoal as
+well as temporally diagnostic tools.
+¾ It was anticipated that occupation surfaces might be recognized on the top of or in
+developed soils horizons by the presence of hearths, pits, or living floors at the
+same or different levels within the site deposit.
+¾ It was expected that site function could be determined based on features
+uncovered during excavation as well as on the artifacts recovered.
+¾ Furthermore, it was expected that the recovery of charcoal and bone would allow
+for the reconstruction of the utilized environment.
+Answers to these questions were necessary in order to be able to make a recommendation
+about the integrity and significance of the site deposit and its consideration for
+nomination to the National Register of Historic Properties.
+In order to collect answers to these questions, the following methodology was developed.
+The site was first mapped and a 10 cm contour map prepared. As outlined in the Scope of
+Work, eight to ten test units and three backhoe trenches were to be placed throughout the
+site area and excavated into the underlying subsoil in order to explore the horizontal and
+vertical extent of the site deposit and to recover artifacts and deposition information with
+which to evaluate the site deposit integrity. Trench and test pit profiles were recorded.
+Test pit matrices were excavated in 10 cm levels and screened through ¼” hardware cloth
+screens. The test units were excavated to either 10 cm depth below a sterile level or to
+compact sandy clay where artifact density had a dramatic decrease.
+Subsequent to excavation, materials were washed and analyzed in ARC’s laboratory.
+Lithic debris was analyzed using the typology presented for the Central Brazos River
+Valley (Skinner 1971). Faunal materials were sent to Art Tawater for analysis and
+charcoal was analyzed by Leslie L. Bush, PhD. The projectile points were typed by Bill
+Young of Corsicana and the musket ball was analyzed by Jay C. Blaine of Allen. A single
+charcoal sample was submitted to Beta Analytic for radiocarbon dating once it became
+apparent that the deposit was extensively disturbed.
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+10
+
+RESULTS
+Introduction
+Testing at site 41GM416 consisted of nine test units and three backhoe trenches (Figure
+3) which supplemented the previously excavated shovel tests and were concentrated
+within the defined site limits. The trenches were concentrated on the top and edges of the
+knoll and test pits spread out from the top of the knoll and served to quantify deposit
+depth as well as gather information about artifact types present and their density.
+
+Figure 3.
+
+Plan map of 41GM416.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+11
+
+It needs to be noted at this point that testing was not allowed downslope to the west and it
+appeared that the site deposit may have been situated on a finger ridge that extended west
+from the upland that is east of FM 3090 and was truncated by excavation of the railroad
+and subsequently the highway. No doubt, the eastern upland is the source of the sand that
+buried the artifacts deposited on the ground surface and also attracted burrowing animals
+that mixed the site deposit. The knoll is all that is left of the ridge.
+Testing
+Excavation of 1x1 m units began after the site was gridded. Units 1-3 were excavated
+first with Unit 1 being placed at the high point on the knoll. Unit 2 was placed near the
+eastern edge of the site deposit and Unit 3 was downslope to the north. During the course
+of excavation it became apparent that the artifact-bearing layer was generally not more
+than a meter thick before reaching sterile clay subsoil. The deposit is deepest in Unit 3
+where artifacts were found at 140-160 cm below the surface although very little deposit
+was found to the north, east, or west in Units 6 and 9 or in shovel tests 6 and 8..
+Subsequent excavation demonstrated that the site deposit was deep in units 1, 4, and 5
+and moderately deep in units 2, 7, and 8. Although fire-cracked rock was found in seven
+of the nine test units, no rock accumulations were encountered or were living surfaces or
+other features recognized in the unit fill or in their profiles. Artifact densities were
+highest on the knoll crest and appeared to be oriented northwest-southeast based on test
+units 1, 4, and 5 or on the western end of the projected ridge if artifact densities from
+units 2, 3, and 7 are included.
+Trench 1 (Figure 4) was placed between Units 1 and 2 and was oriented roughly eastwest (Figure 3) and was six meters long. The upper 40 cm was a loose fine sandy loam
+that was dark gray (10YR4/1). This upper zone was probably plowed in the past. The
+underlying zone extends from 40 cm to 2.25-3.0 m and was a very fine loose very dark
+grayish brown (10YR3/2) sandy loam that contained scattered charcoal flecks. No firecracked rock, lithic debris, or features were observed in either zone and no artifacts were
+noted on the backdirt piles. At the base of the second zone, the matrix became a light
+brownish gray (10YR6/2) compact clay which extended to at least to 5.5 m below the
+present ground surface. No features were exposed during excavation or during profiling
+and no occupation zones were apparent in either wall. Trenches 2 and 3 are virtually
+identical to trench 1.
+Trench 2 was placed on the northwest side of the knoll and was oriented northwestsoutheast. The upper matrix was a loose sandy loam that was dark gray (7.5YR4/1). This
+upper plow zone graded into the dark brown (7.5YR3/2) loose sandy loam. The boundary
+was unclear. The boundary with the third zone also graded but the color of the compact
+sandy clay was light gray (10YR7/1).
+Trench 3 was placed in the southwest part of the site and was oriented northeastsouthwest. The upper zone was a 20-25 cm thick loose dark grayish brown (10YR4/2)
+very fine sandy loam that was the remains of the plow zone some of which had
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+12
+
+apparently eroded off. Below that the very dark grayish brown (10YR3/2) very fine sandy
+loam ranged from 50-60 cm thick. The lowest zone is a compact dark gray (10YR4/1)
+sandy clay that was at least 45 cm thick.
+
+Figure 4.
+
+Trench 1 profile.
+
+Based upon the depth of the artifact-bearing sediments and the higher artifact counts
+between 10 and 80 cmbs it is apparent that aeolian sediments were deposited on the end
+of the ridge over time, a common occurrence in the region (Rogers and Foster 1994:5).
+The sediments vary within each test unit, and the matrix colors are generally brown to
+dark brown. Across the site, a thick layer of very fine sandy loam (Zones 1 and 2) is
+above a layer of sandy clay subsoil (Zone 3) as shown in the Unit 1 profile (Figure 5).
+The sandy loam is an aeolian matrix that gradually covered the sandy clay subsoil. In
+Units 2, 6, and 9 the sandy clay is relatively shallow starting at 50 cmbs or less. Units 1,
+4, 5, 7 and 8 have a slightly deeper sandy clay zone. Unit 3 was the deepest deposit with
+sandy clay noted at 130 cmbs but with a low artifact count throughout when compared to
+units 1, 4, and 5. This deeper deposit appears to have been created by aeolian sediments
+filling a gully on the northern slope of the ridge. No features, occupation surfaces or,
+midden zones were found in any of the test units.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+Figure 5.
+
+13
+
+West wall profile of Unit 1.
+
+Artifact Analysis
+The test pits yielded lithic debris, fire-cracked rock, projectile points, ceramics, charcoal,
+bone, and other artifacts that totaled slightly more than 1200 items. Each of these was
+analyzed and is used below in the intra-site and regional discussions. Lithic debris
+dominates the assemblage and constitutes 84.4% of the items listed in Table 1 below.
+Fire-cracked rock is the second-most common artifact class and comprises 11.5% of the
+sample. Projectile points were the only chipped stone tools recovered and they represent
+less than half a percent of the recovered artifacts. Fire-cracked rock and lithic debris were
+found in every test unit but projectile points and pottery were confined to the western end
+of the ridge top in units 1-5.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+Table 1.
+
+Artifact distribution at 41GM416.
+
+Unit 1
+Depth
+
+14
+
+Fcr
+
+0-10
+
+LD
+
+PP
+
+C
+
+Unit 2
+B
+
+2
+
+Total
+
+Fcr
+
+LD
+
+2
+
+12
+
+PP
+
+C
+
+Unit 3
+B
+
+Total
+
+Fcr
+
+LD
+
+PP
+
+C
+
+B
+
+Total
+
+1
+
+13
+
+12
+
+10-20
+
+9
+
+9
+
+19
+
+20-30
+
+46
+
+46
+
+13
+
+39
+
+24
+
+1
+
+25
+
+26
+
+4
+
+1
+
+5
+
+2
+
+39
+
+1
+
+1
+
+3
+
+7
+
+3
+
+31
+
+1
+
+1
+
+4
+
+5
+
+31
+
+2
+
+4
+
+31
+
+3
+
+3
+
+14
+
+1
+
+6
+
+7
+
+7
+
+7
+
+9
+
+9
+
+30-40
+
+2
+
+29
+
+40-50
+
+1
+
+24
+
+50-60
+
+36
+
+60-70
+
+6
+
+22
+
+70-80
+
+10
+
+21
+
+80-90
+
+8
+
+21
+
+90-100
+100110
+110120
+120130
+130140
+140160
+
+5
+
+9
+
+Total
+
+32
+
+8
+1
+1
+
+2
+
+Fcr
+2
+
+30-40
+
+1
+
+3
+
+74
+
+268
+
+7
+
+8
+
+16
+
+16
+1
+
+9
+1
+
+7
+
+1
+
+7
+
+1
+1
+
+Fcr
+
+LD
+
+22
+
+3
+
+12
+
+14
+
+121
+
+11
+
+1
+
+8
+
+1
+
+23
+
+1
+
+2
+
+39
+
+3
+
+141
+
+B
+
+Total
+
+1
+
+10
+
+Unit 6
+
+9
+
+17
+
+1
+
+17
+
+12
+
+12
+
+9
+
+5
+
+5
+
+14
+
+15
+
+4
+
+4
+
+2
+
+13
+
+15
+
+22
+
+2
+
+31
+
+31
+
+11
+
+21
+
+32
+
+23
+
+5
+
+15
+
+20
+
+25
+
+25
+
+19
+
+18
+
+37
+
+23
+
+23
+
+44
+
+152
+
+20
+2
+
+4
+
+30
+
+3
+
+60-70
+
+2
+
+17
+
+3
+
+30
+
+1
+
+19
+
+1
+
+1
+
+C
+
+1
+
+18
+
+Total
+
+PP
+
+7
+2
+
+4
+
+B
+
+11
+
+50-60
+
+16
+
+79
+
+12
+
+15
+
+C
+
+18
+
+3
+
+3
+
+11
+
+Total
+
+PP
+
+9
+
+70-80
+
+2
+
+Unit 5
+
+11
+
+4
+
+Total
+
+1
+
+16
+
+B
+
+LD
+
+40-50
+
+90-100
+100110
+110120
+120130
+130140
+140160
+
+16
+
+7
+219
+
+20-30
+
+80-90
+
+12
+
+13
+
+11
+
+0-10
+10-20
+
+22
+
+11
+
+Unit 4
+Depth
+
+3
+
+1
+
+Fcr
+
+LD
+
+PP
+
+C
+
+34
+
+1
+
+202
+
+1
+
+9
+
+3
+
+231
+
+1
+
+5
+
+202
+
+30
+
+1
+
+31
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+Unit 7
+Depth
+
+Fcr
+
+LD
+
+PP
+
+C
+
+Unit 8
+B
+
+Total
+
+Fcr
+
+7
+
+11
+
+4
+
+14
+
+18
+
+23
+
+4
+
+3
+
+7
+
+25
+
+9
+
+9
+
+18
+
+2
+
+3
+
+5
+
+1
+
+1
+
+12
+
+12
+
+2
+
+22
+
+22
+
+33
+
+34
+
+22
+25
+
+1
+
+Total
+
+4
+
+20-30
+
+60-70
+
+Unit 9
+B
+
+7
+
+22
+
+50-60
+
+C
+
+5
+
+4
+
+22
+
+1
+
+PP
+
+3
+
+4
+
+10-20
+
+40-50
+
+LD
+3
+
+0-10
+
+30-40
+
+15
+
+70-80
+80-90
+
+Fcr
+
+LD
+
+PP
+
+C
+
+B
+
+Total
+
+3
+
+3
+
+3
+
+8
+
+11
+
+3
+
+11
+
+14
+
+90-100
+100110
+110120
+120130
+130140
+140160
+Total
+
+2
+
+140
+
+2
+
+45
+
+Fcr
+
+LD
+
+10-20
+
+5
+
+109
+
+20-30
+
+5
+
+129
+
+30-40
+
+8
+
+111
+
+40-50
+
+11
+
+127
+
+50-60
+
+14
+
+112
+
+1
+
+60-70
+
+23
+
+110
+
+1
+
+70-80
+
+25
+
+79
+
+80-90
+
+19
+
+59
+
+90-100
+
+25
+
+142
+
+2
+
+49
+
+Total Units
+Depth
+0-10
+
+B
+
+Total
+
+9
+
+123
+
+1
+
+135
+
+8
+
+130
+
+2
+
+1
+
+141
+
+3
+
+#
+
+140
+
+3
+
+3
+
+140
+
+1
+
+3
+
+2
+
+2
+
+106
+
+2
+
+82
+
+58
+
+83
+30
+
+9
+11
+
+130-140
+
+11
+
+140-160
+
+32
+
+30
+
+120-130
+
+Total
+
+C
+
+32
+
+100-110
+110-120
+
+PP
+
+10
+1
+1
+
+12
+
+7
+136
+
+994
+
+12
+7
+
+5
+
+15
+
+1183
+
+*Fcr=Fire Cracked Rock LD=Lithic Debris PP=Projectile Points C=Ceramics B=Bone
+
+Excavation recovered 994 pieces of lithic debitage. Lithic debris sources include 88.5 %
+chert, 9.6 % quartzite, and 1.9 % of other raw materials such as petrified palmwood and
+petrified wood. All of these sources appear to be from fist-sized cobbles that were
+apparently gathered from Uvalde lag gravels in the uplands. Flakes constitute 64.1 % of
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+16
+
+the lithic debris assemblage, while chips and shatter constitute the remaining 35.9 %.
+Primary pieces with cortex covering their dorsal surface make up 9.0 % of the sample,
+30.1 % are secondary and 60.9 % are interior debitage. Average flake weights differ
+between these categories with interior flakes averaging 0.3g, secondary flakes averaging
+1.02g, and primary flakes averaging 0.82g. The large number of interior flakes and their
+comparatively small size indicates that tool maintenance and resharpening were major
+activities at the site. This is also the case at the Gibbons Creek sites (41GM181, 190, 201,
+205, 224 and 282) in Grimes County (Rogers 1995:45, 66, 149). The significant number
+of cortex bearing flakes indicates early stage reduction also took place. Within the test
+units, artifact counts decreased within the sandy clay matrix typically found below 60+
+cm.
+For the majority of the test units, average flake weight increased with depth as shown by
+the numbers in Table 2, except that the samples in units 2, 6, and 9 are too small to
+provide definitive information. This is attributed to the vertical movement of artifacts
+within the unconsolidated sediments.
+Although a few debitage pieces exhibit edge breakage, no clearly retouched flakes were
+recovered. The random breakage patterns observed on some flakes likely resulted from
+forces such as trampling.
+
+Table 2.
+Level (cm)
+0-10
+10-20
+20-30
+30-40
+40-50
+50-60
+60-70
+70-80
+80-90
+90-100
+100-110
+110-120
+120-130
+130-140
+140-160
+
+Average weights (g) of lithic debris by level.
+Unit 1
+.5
+.23
+.25
+.19
+.36
+.35
+.8
+.38
+1.14
+.74
+
+Unit 2
+.32
+.27
+.24
+.4
+.3
+.1
+
+Unit 3
+.31
+.24
+.16
+.17
+.6
+.45
+.35
+.43
+.97
+.4
+.17
+.55
+.31
+1.53
+
+Unit 4
+.25
+.3
+.34
+.4
+.86
+2
+.75
+.35
+1.34
+2.1
+
+Unit 5
+
+Unit 6
+
+.25
+.3
+.28
+.43
+.41
+.31
+.40
+1.0
+1.29
+
+.24
+.21
+.23
+.28
+
+Unit 7
+.25
+.27
+.26
+.19
+.6
+1.27
+1.43
+
+Unit 8
+
+Unit 9
+
+.43
+.9
+.27
+.28
+.37
+.59
+1.2
+.4
+
+.1
+.19
+
+The six projectile points from the site are described in Table 3. One is a Bulverde dart
+point that was found in a shovel test (Figure 4e). Bulverde is an Early Archaic point that
+dates between 3000-2500 B.C. (Turner and Hester 1999:82). Two Perdiz arrow points
+and one probable Perdiz were excavated from Units 1, 3, and 5 (Figure 4 a, b, d). One of
+the Perdiz points (d) was made on a flake and was barely bifacially worked. Two are
+chert and the other of quartzite. These points date between 1200-1500 A.D. (Turner and
+Hester 1999:227). One point has been identified as a probable Fresno arrow point (Figure
+4c). The Fresno is made of chert and dates to the Late Prehistoric between 700-1500 A.D.
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+17
+
+(Turner and Hester 1999:213). The last point (Figure 4f) found at a depth of 130-140
+centimeters below the surface (cmbs) in Unit 3 is an unfinished dart point. This is based
+upon the projectile point’s thick wedge-shaped stem and wavy blade edge. The corner
+notched base is typical of Middle-Late Archaic projectile point styles.
+
+Table 3.
+Unit
+No.
+
+Projectile points recovered from site 41GM416.
+Level
+(cm)
+
+Materials
+(Q, Ch, PLM)
+
+Length
+(mm)
+
+Width
+(mm)
+
+Thickness
+(mm)
+
+Weight
+(g)
+
+Projectile Point
+Type/Description
+
+1
+
+50-60
+
+Ch
+
+32.5
+
+19.1 +
+
+2.4
+
+1.2 +
+
+Perdiz (d*) with
+right shoulder
+missing
+
+3
+
+80-90
+
+Q
+
+24 +
+
+15
+
+2.8
+
+0.8 +
+
+Perdiz (a) with tip
+missing
+
+130-140
+
+Ch
+
+35.1 +
+
+19.2
+
+6.5
+
+4.6 +
+
+Unfinished dart
+point (f)
+
+4
+
+80-90
+
+Ch
+
+25.4 +
+
+21.3
+
+3.5
+
+2.6 +
+
+5
+
+60-70
+
+Ch
+
+19.4 +
+
+20.6
+
+2.4
+
+0.8 +
+
+Probable Fresno (c)
+with tip missing
+Probable Perdiz (b)
+base and tip are
+missing
+
+ST6
+
+60-70
+
+PLM
+
+30.7 +
+
+22.2
+
+7.3
+
+5.5 +
+
+Bulverde point with
+tip missing (e)
+
+*- letter corresponds to Figure 6
+
+Testing produced 126 pieces of fire-cracked rock weighing 5755.4 grams. Of these, 82
+pieces (3114.5 g.) are visibly burned. The majority of the rock (95%) is coarse-grained
+sandstone. Within each unit, the fire-cracked rock spreads through multiple levels, and no
+clear features or living surfaces were identified. Units 1, 5, and 8 contained nearly 75% of
+all fire-cracked rock. Unlike the lithic debris, no clear pattern of the downward
+movement was recognized in the relatively small and widely scattered distribution of firecracked rock within the site area. Rogers (1995) uncovered sandstone hearths at nearby
+Grimes County sites dating to the Late Prehistoric period but no similar features were
+encountered in the test pits of backhoe trenches.
+The only other stone artifacts recovered were a quartzite hammerstone and a large
+bifacial chopper made of sandstone. The hammerstone measures 79.9 mm long, 64.2 mm
+wide, 57.8 mm thick and weighs 403.9 grams. The bifacial chopper measures 147 mm
+long, 116.1 mm wide, 56.3 mm thick, and weighs 1222 grams (Figures 5a and b).
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+Figure 6.
+
+18
+
+Full-size pictures of projectile points from 41GM416.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+Figure 7.
+
+19
+
+Bifacial chopper face (a) and profile (b) made of sandstone and illustrated
+half-size.
+
+Twelve sherds and nine sherdlets were recovered from the site. Only the sherds were
+examined because the sherdlets were smaller than a quarter coin in size. Of the twelve
+sherds, two were rims (Figure 9 a, b). As described in Table 4, the temper for the rim
+sherds consists of sand or grog and sand with minor amounts of bone. Some of the sand
+may be within the native clay material used for paste. The rims are standing and one is
+direct while two are thinned to one side.
+The temper for the body sherds is similar to that of the
+rim sherds. Rogers (1995:106) states in his study of site
+41GM281 that the presence of grog and bone temper may
+reflect cultural influences from outside the Gibbons
+Creek area. Thickness for the body sherds ranges from
+4.3 to 8.8 mm. However, the thin body sherd (4.3 mm)
+has grog temper with a minute amount of sand (Figure 8).
+One of the sherds from Unit 4, 60-70 cm (Figure 9 c),
+appears to have broken horizontally. Based upon the
+curve of the sherd, the outside diameter would have been
+at least 132 mm making it a small vessel.
+
+Figure 8.
+
+Thin body sherd
+from test unit 4.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+20
+
+Although Rogers (1995:115) argues that these ceramics do not clearly fall into existing
+types, the grog tempered plainware sherds with a sandy or silty clay paste may be
+Baytown Plain (Roberts and Foster 1994:71; Aten 1979: 330) while the sand tempered
+plainware sherds may be Goose Creek Plain (Suhm and Jelks 1962: 57). The Goose
+Creek Plain dates from AD 600-1000 and was later replaced by Baytown Plain (Story
+1990:247).
+Table 4.
+Test
+Unit
+1
+
+Description of sherds recovered from site 41GM416.
+Level
+
+Type
+
+40-50
+
+Body
+
+Thickness
+(mm)
+7.9
+
+80-90
+
+Body
+Body
+
+8.5
+8.6
+
+Grog, sand, some sand
+may be in clay
+Grog, sand
+Grog, sand may be in clay
+
+2
+
+30-40
+40-50
+
+Body
+Body
+
+7.3
+7.7
+
+3
+4
+
+70-80
+30-40
+50-60
+60-70
+
+Body
+Body
+Rim
+Body
+Rim
+
+6.6
+4.8, 4.6
+8.4, 7.4
+4.3
+8.8, 5.3
+
+70-80
+
+Body
+Body
+
+7.3
+7.7
+
+Figure 9.
+
+Temper
+
+Decoration/
+Plain
+Plain
+
+Slip
+
+Plain
+Plain
+
+Exterior
+
+Grog, sand
+Sand, few specks of bone
+
+Punctated
+Plain
+
+Interior/exterior
+
+Sand, grog
+Sand
+Sand, grog
+Grog with some sand
+Grog, sand, some sand
+may be in clay, few
+specks of bone
+Sand, some grog
+Grog, sand, bone
+
+Plain
+Plain
+Plain
+Plain
+Plain
+
+Exterior
+
+Plain
+Plain
+
+Two rim sherds (a, b ) and a horizontally broken sherd ( c).
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+21
+
+One historic artifact was recovered from the site. A .54 caliber musket
+ball (Figure 8) was recovered from Unit 4 at a depth of 10-20 cmbs. The
+musket ball was analyzed by Jay C. Blaine of Allen, Texas who noted
+that it weighed 14.5 grams which converts to 223 grains and represents a
+.54 caliber ball. The ball measures 13.2 mm in diameter. The musket
+ball was for a smooth bore eighteenth century trade gun such as the
+“Lancaster rifle,” or full-stock Pennsylvania long rifle both of which
+used .54 caliber musket balls. The ball has what appears to have rodent
+bite marks and had never been fired. Blaine indicated that there Figure 10. .54
+was no way to know how the ball came to be at the site but that if a caliber musket
+historic component had been present an artifact assemblage such as ball.
+that from the Gilbert site (Jelks 1967) or the Wichita Project (Bell
+et al. 1967) would have been expected and like the musket ball would most certainly have
+been recognized during screening.
+Faunal Analysis by Art Tawater
+Site 41GM416 yielded twenty-seven animal bone elements. The assemblage varied from
+badly eroded to good condition with all of the elements being in a fragmented state. None
+of the elements had any cultural modification or carnivore damage. Rodent gnawing was
+noted on the bos/bison humerus shaft from Unit 2 20-30 cm and on the deer tibia shaft
+from Unit 5 20-30 cm.
+The assemblage was analyzed using the comparative collection of the author and the
+comparative publications by Blackwell and Cumbaa (1992), Brown and Gustafson (1979)
+and Lawrence (1951). Data recorded included provenience, taphonomic identification,
+element, and portion of element, cultural modification and natural modification. The
+species identified, the total number of elements for each species, provenience and the
+percentage of the total assemblage represented by each species are presented in Table 5.
+Identified elements in the bos/bison category totaled one humerus shaft with only a small
+portion of the proximal end left intact and all of the distal end missing. There was not
+enough of the proximal end remaining to identify this element to a specific species. The
+unidentified large mammal long bone shaft fragment and the one cranial fragment both
+probably represent bos/bison but could not be identified to either species.
+Deer elements identified to this species total eight and are represented by a right proximal
+end of a metatarsal, left mandible, infraorbital foramen, astragalus, epiphysis from the
+distal end of a metacarpal, left tibia and a single premolar. The astragalus was badly
+eroded, the mandible with p3, m1, m2 and m3 remaining, judging from the wear on the
+teeth came from an approximately two and one half to three and one half year old adult
+animal. The left tibia had rodent gnawing on the shaft. The seventeen medium mammal
+elements consisting of one small partial head of a long bone and sixteen long bone shaft
+fragments probably represent deer but could not be identified to this species.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+22
+
+Only one unidentified element could not be assigned to a taxa level.
+The elements in this assemblage were all fragmentary. The condition of the elements
+ranged from good to badly eroded. No human or carnivore modification was noted on
+any of the elements but two elements did show rodent gnawing. Deer and medium
+mammal dominated the assemblage with a combined percentage of just over eighty five
+percent. Bos/bison and the unidentified large mammal elements combined totaled just
+over seven percent. There were no small mammal, bird, turtle or fish elements in this
+assemblage but the small size of the faunal sample does not preclude that the inhabitants
+of this site did not hunt them and only harvested large and medium size mammals.
+Table 5.
+
+Bone elements by Unit and Level at site 41GM416.
+
+Unit
+1
+1
+1
+2
+
+Depth (cm)
+30-40
+50-60
+60-70
+10-20
+
+3
+3
+3
+4
+4
+5
+
+10-20
+50-60
+120-130
+40-50
+50-60
+10-20
+
+5
+6
+
+20-30
+10-20
+
+Material
+Medium Mammal: long bone shaft fragments (8)
+Deer: right metatarsal, proximal end (2 fragments)
+Medium Mammal: long bone shaft fragments (3)
+Bos/Bison: humerus, proximal end and shaft (1), with rodent gnawing
+Deer: intraorbital foramen (1)
+Unidentified Large Mammal: cranial fragment (1) from a large mammal
+Medium Mammal: long bone shaft fragment (1)
+Medium Mammal: long bone shaft fragment (1)
+Unidentified: fragment (1)
+Medium Mammal: head of long bone fragment (1)
+Deer: astragalus (1) badly eroded, epiphysis of metacarpal (1)
+Deer: partial left mandible with p3, m1, m2, and m3 (1)
+Medium Mammal: long bone shaft fragments (3)
+Unidentified Large Mammal: long bone shaft fragment (1)
+Deer: premolar (1)
+
+Floral Analysis by Leslie L. Bush
+Thirty four charcoal fragments were analyzed and eight different plants were identified
+(six wood charcoal and two nutshells). Identifications were made using my comparative
+collection and standard reference works (Hadley 1990; Pan shin and de Zeus 1980;
+Schumpeter 1974). After identification, plant remains were weighted on an electronic
+balance with a sensitivity of 0.01 gram. Fragments were counted prior to snapping for
+wood identification so that an estimate of average fragment size could be made from the
+ratio of counts and weights reported.
+Table 6 shows identifications of the material by unit and level. Because at least some of
+the material is designated for radiometric analysis, extra care was taken to ensure that
+samples were not contaminated in the laboratory. The analyst wore latex gloves
+whenever working with the samples and, as always, clean glassware was used. The
+sample from Unit 8 was screened through 2 mm geological mesh to remove sediment and
+charcoal flecks.
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+Table 6.
+Unit
+1
+3
+
+Level
+(cm)
+50-60
+20-30
+
+4
+4
+
+50-60
+50-60
+
+6
+
+20-30
+
+8
+
+30-40
+
+9
+
+10-20
+
+9
+
+10-20
+
+9
+
+10-20
+
+9
+
+20-30
+
+9
+
+20-30
+
+9
+
+20-30
+
+23
+
+Charcoal identifications for site 41GM416.
+Type
+Nutshell
+Wood
+charcoal
+Nutshell
+Wood
+charcoal
+Wood
+charcoal
+Wood
+charcoal/
+Dated
+sample
+Wood
+charcoal
+Wood
+charcoal
+Wood
+charcoal
+Wood
+charcoal
+Wood
+charcoal
+Wood
+charcoal
+
+Identification
+
+Common name
+
+Count
+
+Carya sp.
+Ilex sp.
+
+Hickory
+Holly/Dahoon/Yaupon
+
+2
+2
+
+Weight
+(g)
+0.21
+1.08
+
+Carya sp.
+Acer sp.
+
+Hickory
+Box elder
+
+1
+2
+
+0.33
+1.10
+
+Quercus
+subgenus
+Quercus
+Quercus
+subgenus
+Quercus
+
+White Oak
+
+1
+
+0.39
+
+White Oak
+
+18
+
+85.00
+
+Ulmus sp.
+
+Elm
+
+1
+
+0.10
+
+Ilex sp.
+
+Holly/Dahoon/Yaupon
+
+2
+
+0.10
+
+Callicarpa
+americana
+Ilex sp.
+
+American beautyberry
+
+1
+
+0.19
+
+Holly/Dahoon/Yaupon
+
+1
+
+0.36
+
+Celtis sp.
+
+Hackberry
+
+1
+
+0.24
+
+Sideroxylon
+lanuginosum
+
+Bumelia
+
+2
+
+0.47
+
+Comment
+Thick shell
+
+Thick shell
+Probably A.
+negundo
+
+Rootlets;
+glassy,
+brittle
+charcoal
+Probably U.
+crassifolia
+
+Rootlets;
+touched in
+laboratory
+
+Wood charcoal fragments were snapped to reveal a fresh transverse section for the initial
+step in wood identification. All samples were thoroughly dry, which usually made for
+clean, flat sections in cases where wood preservation was sufficiently good. The
+interlocked grain of hackberry made it very difficult to achieve a transverse section while
+wearing gloves, so this specimen was broken with bare hands in the laboratory. Such
+casual contact should not affect its suitability for radiocarbon dating. One other sample
+presented identification difficulties. The sample from Unit 8 exhibited a brittle texture
+and glassy surfaces, and cell wall fusion associated with carbonization at high
+temperature (Scott 2001:278). Despite these difficulties, the large tyloses-filled vessels,
+ring porous distribution, and large rays of white oak are discernable in the wood charcoal.
+Transverse sections were examined under a stereoscopic microscope at 28-180x
+magnification. When necessary, fragments were further broken to reveal fresh tangential
+and radial sections for examination. The carbonized nutshell fragments were identified at
+generally lower magnifications (10-45x), and no specimens were broken for
+identification.
+Wood tissue alone is rarely sufficient to identify a plant to the species level. For the most
+part, genus level identifications are given here. American beautyberry is identified to
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+24
+
+species because no other members of Callicarpa occur in Texas; bumelia similarly is
+identified to species because no other members of Sideroxylon occur outside South
+Texas. Two other specimens are identified to genus but a more specific identification is
+likely: box elder is the common Acer in the area, but red maple (A. rubrum) also occurs.
+Similarly, cedar elm is the most common elm in this part of the state, but winged elm (U.
+alata) is also a possibility.
+Radiocarbon Dating
+By the completion of testing, it appeared that the site matrix was mixed based on the
+widely dispersed vertical distribution of Perdiz arrow points. The presence of charcoal
+throughout the deposit presented an opportunity to date the deposit but the only large
+charcoal sample was recovered from the bottom of the 30-40 cm level in unit 8. As
+indicated above, this is a concentration of white oak charcoal that appeared to be in place
+and was unlikely to have been dispersed en mass from a feature or discard location by
+burrowing animals or by other forms of bioturbation. Consequently, a 100 gram sample
+of the unit 8 charcoal was submitted to Beta Analytic, Inc. for standard radiocarbon
+dating.
+The Beta report (Appendix 1) indicates that the charcoal yielded a measured and a
+conventional radiocarbon date of 910±60 BP (Beta 217534) with a 13/12C ratio of -27.8
+o/oo. At a two sigma calibration, this converts to a range from AD 1010 to 1260. This
+dating fits well within the date range of the Late Prehistoric artifacts recovered between
+30-90 cm below the surface of the site.
+
+Conclusions
+It had been postulated that a vertically stratified deposit would be uncovered with a
+Middle Archaic occupation below 60 cm. Unfortunately, the results of testing
+demonstrated that the major occupation at the site was during the Late Prehistoric period
+as indicated by the presence of Perdiz and Fresno arrow points and Baytown Plain and
+Goose Creek Incised sherds. The arrow points and pottery were recovered from between
+30 and 90 cm below the surface in the central part of the site and more than half of them
+were found below 60 cm. Consequently, the 60 cm deep discovery of the Bulverde dart
+point is not indicative of a recognizable Middle Archaic occupation and may represent
+the curation of a previously discarded dart point. This is particularly true when taking
+into account the deeply buried Late Archaic dart point found in an apparently gully on the
+edge of the ridge between 130-140 cm. The radiocarbon date fits within the period of the
+Late Prehistoric occupation but it is not associated with any recognized features or
+artifacts. The additional charcoal samples were likewise not associated with any features
+or distinct artifact zones and did not warrant further dating. The only historic artifact
+recovered was an unfired .54 caliber musket ball that was recovered from the plow zone.
+It is unknown how the ball got to the site but no other evidence of historic occupation
+was encountered.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+25
+
+The presence of a plow zone below the surface of the site may have destroyed features if
+the were present in Zone 1 but no evidence of features or of occupation surfaces or soil
+horizons was found in Zone 2 which was below the plow zone. Charcoal was found
+primarily in the plow zone and most was so small that it was likely to have been
+displaced by bioturbation and certainly was not associated with features or distinct
+geologic zones. No charcoal or animal bones were found in a meaningful association with
+artifact sets.
+Site function can only be inferred from the artifact assemblage as a whole since
+occupation surfaces are not present. The presence of fire-cracked rock provides the only
+evidence that the site was a camp where fires were built. The abundance of lithic debris
+shows that chert gravels were decorticated at the site and that final bifacial tools were
+manufactured and resharpened at the site. The total absence of cores and
+discarded/broken bifaces precludes the conclusion that a complete sequence of bifacial
+tool manufacturing was done at the site. Likewise, the complete absence of chipped stone
+tools, other than projectile points, indicates that many commonly represented camp
+activities such as scraping, cutting, boring, and others were not carried out at site
+41GM416. Based on the artifact assemblage, it is apparent that the site functioned as a
+temporary hunting camp where deer and possibly bison were acquired and prepared for
+transport to a larger and more permanent base camp. It appears that chert cobbles were
+collected during forays away from the site and were then preliminarily roughed out by
+removing the cortex.
+Reconstruction of the natural environment based on charcoal and bones leads to the
+conclusion that the environment during the Late Prehistoric period was similar to the
+present conditions. The plants and animals available in the surrounding area today are
+essentially the same as those recovered from excavation, except that bison may be
+represented by a bone from the plow zone of unit 2.
+Site 41GM416 becomes particularly interesting when compared to contemporaneous sites
+in the area. Site 41GM281 (Rogers 1995) yielded over 100 Perdiz points. In addition,
+recovery of cores, bifaces, and performs indicates tool manufacture occurred on site. The
+presence of a number of other tools including drills, edge-modified debitage, and pitted
+stones shows that a variety of subsistence related processing tasks were also performed.
+The site is large, approximately 2400 m2, and the density and variety of artifacts indicates
+the locality served as a relatively intensely occupied or frequently reoccupied base camp
+at which inhabitants conducted a variety of activities.
+Sites such as 41GM416 (current study), 41GM282 (Rogers 1995), and 41GM370 (Rogers
+and Foster 1994) present a complementary picture of Late Prehistoric settlement patterns.
+These sites are smaller and with lower artifact densities. Moreover, none possess the
+diversity of artifact classes recovered from 41GM281. Minimal tool production and plant
+and animal processing occurred at all three sites. These sites thus appear to represent
+short-term campsites visited for the procurement of seasonally available resources and
+the incidental collection of potentially knappable chert gravels.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+26
+
+RECOMMENDATIONS
+The purpose of this investigation was to determine if site 41GM416 contains an intact
+deposit with features and artifacts useful for dating site occupation and reconstructing the
+natural environment. The site deposit is small in area and generally less than a meter
+deep. No features or occupation zones were found and the matrix appears to have been
+mixed and bioturbated. The primary site occupation appears to be Late Prehistoric in age.
+Although two older dart points were recovered, no distinct Archaic component was
+identified. Floral and faunal remains yielded some information regarding Late Prehistoric
+plant and animal resources but their contexts were not sufficient to expand our
+understanding of the Late Prehistoric environment or to define subsistence strategies.
+Site 41GM416 contributes to a better understanding of Late Prehistoric settlement, the
+site differs little from those investigated at nearby Gibbons Creek. Due to the absence of
+distinct features, occupation surfaces, or geologic zones, further investigation would
+result in gathering artifacts without distinct contexts. Therefore, 41GM416 does not have
+the potential to be eligible for listing in the National Register of Historic Places or as a
+State Archeological Landmark.
+AR Consultants recommends that clearance be provided to the Texas Municipal Power
+Agency to continue development of the proposed railroad route.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+27
+
+REFERENCES CITED
+Aten, Lawrence Edward
+1979
+Indians of the Upper Texas Coast: Ethnohistoric and Archaeological Frameworks. unpublished
+works, University of Texas at Arlington.
+Bell, Robert E., Edward B. Jelks, and W.W. Newman
+1967
+A Pilot Study of Wichita Indian Archeology and Ethnohistory. Final Report for Grant GS-964
+submitted to the National Science Foundation.
+Blackwell, Darlene McCuaig and Cumbaa, Stephen L.
+1992
+A Guide to the Identification of Postcranial Bones of Bos tauras and Bison bison. Canadian
+Museum of Nature, Syllogeus No. 71, Ottawa, Canada.
+Bond, Clell
+1977
+An Archeological Assessment of the Gibbons Creek Steam Electric Station. Texas A&M
+University, Anthropology Laboratory, Report No. 36.
+Brown, Christopher L. and Carl E. Gustafson
+1979
+A Key to Postcranial Skeletal remains of Cattle/Bison, Elk and Horse. Reports of Investigations,
+No. 57. Department of Anthropology. Washington State University, Pullman.
+Bureau of Economic Geology
+1974
+Geologic Atlas of Texas, Austin Sheet. The University of Texas at Austin.
+Council of Texas Archeologists
+ND
+Guidelines for the Content of Cultural Resource Management Reports. Distributed by the Texas
+Historical Commission, Archeology Division.
+Dering, J. Phil and J. Bryan Mason, editors
+2001
+Prehistoric Occupation in Central Brazos County, Archaeological Investigations of Two City
+Parks: Veterans Park and Athletic Complex and Lick Creek Park, College Station, Texas. Texas
+A&M University, Center for Ecological Archaeology, Technical Report No. 4.
+Diamond, David D., David H. Riskind, and Steve L. Orzell
+1987
+A Framework for Plant Community Classification and Conservation in Texas. The Texas
+Journal of Science 39 (3):203-221.
+Fletcher, Charles S.
+1979
+Gibbons Creek Lignite Project: Survey and Appraisal of Cultural Resources in the First Five Year
+Mining Area. Texas A&M University, Cultural Resources Laboratory, Report No. 3.
+Folmer, Henri
+1940
+De Bellisle on the Texas Coast. Southwestern Historical Quarterly 44:204-231.
+Glander, Wayne, Clell L. Bond, S. Victor, David Brown, D. Jurney, and K. White
+1986
+Cultural Resources Survey 1986-1991 Mine Permit Area, Texas Municipal Power Agency, Grimes
+County, Texas. Espey, Huston & Associates, Inc., Document Number 85772.
+Greenwade, James M.
+1996
+Soil Survey of Grimes County, Texas. USDA, Natural Resources Conservation Service in
+cooperation with the Texas Agricultural Experiment Station.
+Grimes County Historical Commission (GCHC)
+1982
+History of Grimes County, Land of Heritage and Progress. Taylor Publishing, Dallas.
+Hoadley, R. Bruce
+1990
+Identifying Wood: Accurate Results with Simple Tools. The Tauton Press, Newtown, Connecticut.
+Ippolito, John E.
+1979
+The Gibbons Creek Steam Electric Station Project: An Archeological Test and Survey Supplement.
+Texas A&M University, Anthropology Laboratory, Report No. 47.
+Jackson, Charles Christopher
+2001
+Grimes County, The Handbook of Texas Online. The General Libraries at the University of Texas
+at Austin and the Texas State Historical Association.
+Jelks, Edward B.
+1967
+The Gilbert Site, A Norteño Focus Site in Northeast Texas. Bulletin of the Texas Archeological
+Society Volume 37.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+28
+
+Kotter, Steven M.
+1982
+A Preliminary Assessment of the Cultural Resources within the Millican Project, Navasota River
+Basin, Brazos, Grimes, Leon, Madison and Robertson Counties, Texas. Reports of Investigations,
+Number 19, Prewitt & Associates, Inc., Austin.
+Lawrence, Barbara
+1951
+Post Cranial Skeletal Characters of Deer, Pronghorn, and Sheep-Goat with notes on Bos and
+Bison. Papers of the Peabody Museum of Archaeology and Ethnology 35 (3).
+Moore, William
+1989
+Archeological Bibliography for the Southeastern Region of Texas. Texas Historical Commission,
+Office of the State Archeologist, Special Report 31.
+Panshin, A.J. and Carol de Zeeuw
+1980
+Textbook of Wood Technology: Structure, Identification, Properties, and Uses of the Commercial
+Woods of the United States and Canada. Fourth edition. McGraw-Hill Book Company, NY.
+Rogers, Robert
+1990
+Cultural Resources Survey of the Third Five-Year Mine Permit Area, Texas Municipal Power
+Agency, Grimes County, Texas. Espey, Huston & Associates, Inc., Document 880815.
+1992
+Archaeological Testing and Architectural Evaluation of Three Sites within the Gibbons Creek
+Third Five-Year Mine Permit Area, Grimes County, Texas. Espey, Huston & Associates, Inc.,
+Document 920056.
+1993
+A Cultural Resources Survey of the Gibbons Creek Lignite Mine East Area (GCLM-V) – Grimes
+County, Texas. Espey, Huston & Associates, Inc., Document No. 920305.
+1995
+Archaeological Excavations at Prehistoric Sites 41GM166, 41GM281, and 41GM282 at the
+Gibbons Creek Lignite Mine, Grimes County, Texas. Espey, Huston & Associates, Inc., Document
+No. 940611.
+Rogers, Robert and Eugene Foster
+1994
+National Register Assessment of Three Archaeological Sites at the Gibbons Creek Lignite Mine,
+Grimes County, Texas. Espey, Huston & Associates, Inc., Document No. 940325.
+Schopmeyer, C.S.
+1974
+Seeds of Woody Plants in the United States Agricultural Handbook No. 450. Forest Service,
+United States Department of Agriculture, Washington, DC.
+Scott, A.C.
+2001
+Preservation by Fire, pp. 277-280. In Palaeobiology II, edited by Derek E. G. Briggs and Peter R.
+Crowther. Blackwell Science.
+Skinner, S. Alan
+1971
+Prehistoric Settlement of the DeCordova Bend Reservoir. Bulletin of the Texas Archeological
+Society 42:149-269
+Skinner, S. Alan and Jeffrey A. Craver
+2005
+An Archaeological Survey of the Proposed Texas Municipal Power Agency Railroad Route. AR
+Consultants, Inc., Cultural Resources Report 2005-33.
+Skinner, S. Alan and W. Neely Plumb
+2002
+An Archaeological Survey of the SH 30 Landfill Site, Grimes County, Texas. AR Consultants, Inc.,
+Cultural Resources Report 2002-11.
+Sorrow, William M. and Wayne N. Cox
+1973
+Archeological and Historical Resources of the Navasota River Basin, Texas. Texas Archeological
+Survey, The University of Texas at Austin, Research Report Number 26.
+Story, Dee Ann
+1990
+Cultural History of the Native Americans. In The Archeology and Bioarcheology of the Coastal
+Plain: Volume 1. edited by Dee Ann Story, Janice A. Guy, Barabara A. Burnett, Martha Doty
+Freeman, Jerome C. Rose, D. Gentry Steele, Ben W. Olive, and Karl J. Reinhard, Arkansas
+Archeological Survey series No. 38, pp 163-366.
+Suhm, Dee Ann and Edward B. Jelks editors.
+1962
+Handbook of Texas Archaeology: Type Descriptions. The texas Archaeological Society and The
+Texas Memorial Museum. Austin, Texas.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+29
+
+Thoms, Alston V., editor
+1993a The White Creek Archaeological Project: Cultural Resources Assessments for the Proposed Texas
+A&M University Wastewater Treatment Plant, Brazos County, Texas. Texas A&M University,
+Archaeological Research Laboratory, Reports of Investigations No. 13.
+1993b The Brazos Valley Slopes Archaeological Project: Cultural Resources Assessments for the Texas
+A&M University Animal Science Teaching and Research Complex, Brazos County, Texas. Texas
+A&M University, Archaeological Research Laboratory, Reports of Investigations No. 14.
+1997
+The Upper Keechi Creek Archaeological Project: Survey and Test Excavations at the Keechi
+Creek Wildlife Management Area, Leon County, Texas. Texas A&M University, Center for
+Environmental Archaeology, Technical Report No. 3.
+Thoms, Alston and Bryan Mason
+2001
+Cultural Setting. In Prehistoric Occupation in Central Brazos County, Archaeological
+Investigations of Two City Parks: Veterans Park and Athletic Complex and Lick Creek Park,
+College Station, Texas. edited by J. Phil Dering and J. Bryan Mason, Texas A&M University,
+Center for Ecological Archaeology, Technical Report No. 4, pp. 23-39.
+Turner, Ellen Sue and Thomas R. Hester
+1999
+A Field Guide to Stone Artifacts of Texas Indians. Gulf Publishing Company, Houston.
+Young, William
+2006
+Personal communication with the senior author.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+30
+
+Appendix 1.
+Radiocarbon Dating
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+31
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41GM416
+
+32
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+

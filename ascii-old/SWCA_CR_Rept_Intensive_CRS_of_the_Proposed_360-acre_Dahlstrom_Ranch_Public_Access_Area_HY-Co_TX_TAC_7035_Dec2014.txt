@@ -1,0 +1,5523 @@
+Intensive Cultural Resources Survey of
+the Proposed 360-Acre Dahlstrom Ranch
+Public Access Area, Hays County, Texas
+Prepared for
+
+Hays County
+
+Prepared by
+
+SWCA Environmental Consultants
+
+Texas Antiquities Permit 7035
+SWCA Cultural Resources Report No. 14-577
+December 2014
+
+INTENSIVE CULTURAL RESOURCES SURVEY OF THE 360-ACRE DAHLSTROM RANCH
+PUBLIC ACCESS AREA, HAYS COUNTY, TEXAS
+
+Prepared for
+HAYS COUNTY
+712 S. Stagecoach Trail, Suite 1204
+San Marcos, Texas 78666
+
+Prepared by
+Matthew R. Carter
+SWCA ENVIRONMENTAL CONSULTANTS
+4407 Monterey Oaks Boulevard
+Building 1, Suite 110
+Austin, Texas 78749
+www.swca.com
+
+Principal Investigator
+Steve Carpenter
+
+SWCA Project Number 30889-AUS
+SWCA Cultural Resources Report No. 14-577
+December 4, 2014
+
+This page intentionally left blank.
+
+ABSTRACT
+This report addresses the results of intensive cultural resources investigations conducted by SWCA
+Environmental Consultants (SWCA) on behalf of Hays County, using funds administered by Texas Parks
+and Wildlife Department (TPWD), in support of the proposed Dahlstrom Ranch Public Access Area
+(DRPAA), located in northeastern Hays County, Texas. Hays County proposes to construct a 360-acre
+public access area, including a visitor entry and parking area, approximately 3.15 miles of hard and natural
+service trails, benches, interpretive and directional signage, and trail drainage crossings. Environmental
+impacts from project construction are considered minimal and disturbances are generally surficial.
+The project area is located approximately 4 miles west of Buda in northeastern Hays County, along the
+southern side of Farm-to-Market Road (FM) 967, an area that is quickly filling with residential and
+commercial development. Although the land is privately owned, compliance with the Antiquities Code of
+Texas is a requisite attached to TPWD funding (Texas Recreation Trails Fund grant) and Hays County’s
+status as a political subdivision of the state.
+SWCA performed a background review of the project area and surrounding 1-mile radius and an intensive
+pedestrian inventory with shovel testing of the entire project area. The goal of the work was to locate
+cultural resources within the project area, establish vertical and horizontal site boundaries as appropriate
+with regard to the project area, and evaluate any site recorded for eligibility as a State Antiquities Landmark
+(SAL). All work was conducted in accordance with the standards and guidelines of the Council of Texas
+Archeologists (CTA) and Texas Historical Commission’s (THC) minimum survey standards under Texas
+Antiquities Permit No. 7035. The background review identified no previous surveys nor recorded
+archaeological sites within the DRPAA (Atlas 2014).
+Intensive cultural resources survey of the entire 360-acre tract revealed shallow, rocky upland soils across
+the majority of the project area, which gradually slopes downward toward Onion Creek to the south. No
+alluvial soils or terraces were identified. Naturally occurring outcrops of siliceous materials, mainly cherts,
+cover significant portions of the project area. A total of 122 shovel tests were excavated where the thin soils
+held a potential for buried deposits. With few exceptions bedrock was encountered 10 to 15 cm below
+surface. The investigations documented five sites, including four prehistoric sites (41HY495, 41HY496,
+41HY497, and 41HY498) and one historic archaeological site (41HY499). All four prehistoric sites are
+diffuse and sparse lithic procurement sites consisting of early stage reduction debris. No formal tools,
+temporally diagnostic artifacts, discernible features, or substantial accumulations of debitage were
+identified. The prehistoric sites have poor integrity as a result of long-term surface exposure, slopewash,
+colluvial downslope movement, and various modern and historic activities.
+A primary concern in the investigations was the possibility of historic components that could contribute to
+the larger historic Dahlstrom Ranch. One historic site (41HY499) was recorded near the northeastern corner
+of the project area. The site is a sparse scatter of twentieth century historic artifacts that appear to be a
+component of a larger site that extends beyond the survey area. No structural elements such as buildings
+or features were identified. The site’s SAL eligibility is recommended as undetermined pending a further
+assessment of the larger context and associations. Avoidance is recommended.
+Although the prehistoric sites are not recommended as eligible as SALs, they have a potential to contribute
+to the overall educational, scientific, and recreational purposes of the park. Accordingly, select portions of
+the lithic procurement sites are recommended for preservation and incorporation into the park design. These
+areas include parts of sites where lithic reduction activities and natural outcrops are most evident and dense,
+allowing opportunities for observation and education.
+
+i
+
+ACKNOWLEDGEMENTS
+SWCA appreciates the assistance of Jeff Hauff and Jeremy Gonzales with Hays County, both of whom
+facilitated all phases of the project. Matthew Carter served as Crew Chief, while Alamea Young and Jessica
+Ulmer offered their professional Field Technician services and performed the field work on this beautiful
+property. Carole Carpenter and Christian Hartnett processed the GIS data and expertly produced all field
+and report graphics. Lauri Logan expertly performed the technical editing for this report.
+
+ii
+
+TABLE OF CONTENTS
+
+Introduction ................................................................................................................................................... 1
+Project Area Description ............................................................................................................................... 1
+Environmental Description ........................................................................................................................... 1
+Fauna ......................................................................................................................................................... 4
+Flora .......................................................................................................................................................... 5
+Soils and Geology ..................................................................................................................................... 5
+Cultural Background and Setting .................................................................................................................. 6
+The Dahlstroms and Rubys ....................................................................................................................... 9
+Methods ...................................................................................................................................................... 11
+Background Review ................................................................................................................................ 11
+Field Methods ......................................................................................................................................... 11
+Results ......................................................................................................................................................... 11
+Background Review ................................................................................................................................ 11
+Field Survey ............................................................................................................................................ 12
+41HY495 ............................................................................................................................................. 14
+41HY498 ............................................................................................................................................. 18
+41HY499 ............................................................................................................................................. 19
+Isolated find ........................................................................................................................................ 21
+Summary and Recommendations................................................................................................................ 21
+References ................................................................................................................................................... 23
+
+Figures
+Figure 1. Project location map. ..................................................................................................................... 2
+Figure 2. Project area. ................................................................................................................................... 3
+Figure 3. Typical landscape of project area. ................................................................................................. 4
+Figure 4. A karst feature on Dahlstrom Ranch. ............................................................................................ 4
+Figure 5. Typical upland Cretaceous limestone formations outcropping on the surface. ............................. 4
+Figure 6. In the 1920s and 1930s, Cecil Ruby (left) used teams of mules to build roads in Central Texas.
+His son Jim and son-in-law Jack Dahlstrom joined the road construction business in 1951. .... 10
+Figure 7. Jack Dahlstrom. ........................................................................................................................... 10
+Figure 8. Stock pond. .................................................................................................................................. 14
+Figure 9. Machine-cleared area with pushpile showing representative surface disturbances. .................... 14
+Figure 10. Survey results. ........................................................................................................................... 15
+Figure 11. Surficial early stage reduction debris on 41HY495. .................................................................. 16
+Figure 12. Early stage reduction debris occurring along a natural outcrop on 41HY497. .......................... 17
+Figure 13. Example of early stage debitage found on site surface.............................................................. 18
+Figure 14. 41HY499 site map. .................................................................................................................... 20
+Figure 15. Metal artifacts on 41HY499 ...................................................................................................... 21
+Figure 16. Glass and ceramic artifacts on 41HY499 .................................................................................. 21
+
+Tables
+
+Table 1. Archaeological Sites and IF01 ...................................................................................................... 13
+Appendix A Shovel Test Results
+
+Appendices
+
+iii
+
+This page intentionally left blank.
+
+iv
+
+INTRODUCTION
+
+PROJECT AREA DESCRIPTION
+
+On behalf of Hays County, using funds
+administered by Texas Parks and Wildlife
+Department (TPWD), SWCA conducted an
+intensive cultural resources survey of the proposed
+360-acre Dahlstrom Ranch Public Access Area
+(DRPAA), located in northeastern Hays County,
+Texas (Figure 1). Although the land is privately
+owned, compliance with the Antiquities Code of
+Texas is a requisite attached to TPWD funding
+(Texas Recreation Trails Fund grant) and Hays
+County’s status as a political subdivision of the
+state. All work was conducted in accordance with
+the standards and guidelines of the Council of
+Texas Archeologists (CTA) and Texas Historical
+Commission’s (THC’s) minimum survey standards
+under Texas Antiquities Permit No. 7035.
+
+The roughly 360-acre project area is located
+approximately 4 miles west of Buda in northeastern
+Hays County, along the south side of Farm-toMarket Road (FM) 967, and appears on portions of
+the Mountain City U.S. Geological Survey (USGS)
+7.5-minute topographic quadrangle map (3097222). Based on current aerial photography, the
+project area is mainly surrounded by pasture, as
+well as residential subdivisions and is in a semirural setting (Figure 2). Within the project’s
+boundaries, there has been very little development;
+however, the property owners have managed the
+land well. The landscape is mostly covered in
+native prairie grasses and cactus, and dotted with
+healthy oaks, elms, juniper, and mesquite (Figure
+3). The project area is oriented generally north to
+south and extends across uplands that gently slope
+down toward a central ephemeral tributary that
+meanders generally north to south through the
+project area and drains into Onion Creek
+approximately 800 meters south of the southern
+project boundary.
+
+The proposed construction within the 360-acre
+public access area will include a visitor entry and
+parking area, approximately 3.15 miles of hard and
+natural service trails, benches, interpretive and
+directional signage, and trail drainage crossings.
+Environmental impacts are considered minimal and
+disturbances are generally surficial.
+
+ENVIRONMENTAL DESCRIPTION
+
+SWCA archaeologists Matthew Carter, Alamea
+Young, and Jessica Ulmer conducted the field work
+on October 8–10, 2014. The purpose of the work
+was to locate and identify all prehistoric and
+historic archaeological sites within the project area,
+establish vertical and horizontal site boundaries as
+appropriate with regard to the project area, and
+evaluate the significance and eligibility of any site
+recorded for listing as a State Antiquities Landmark
+(SAL). All investigations were conducted in
+accordance with the CTA and THC’s minimum
+survey standards, with any exceptions thoroughly
+documented.
+
+The DRPAA consists of 360 acres of land that
+includes numerous karst features, providing
+recharge to the Edwards Aquifer (Figure 4). The
+area is on the eroded margins of the Central Texas
+Edwards Plateau, bordering the Blackland Prairie to
+the south and east. The southern and eastern
+margins of the plateau are well defined by the
+Balcones Escarpment, a steep scarp formed by the
+Balcones fault zone. Subsequent to the uplift along
+the fault, the edges of the plateau have slowly
+eroded away, creating much more of a textured,
+osmotic boundary between the plateau and prairies.
+Waterways, which drain the plateau into the
+adjacent prairies to the east and coastal plain to the
+south, become more deeply incised heading
+westward.
+
+1
+
+Figure 1. Project location map.
+
+2
+
+Figure 2. Project area.
+
+3
+
+The plateau is distinguishable from surrounding
+physiographic regions by its prominent Cretaceousage limestone, dolomite, sandstone, and shale
+deposits (Figure 5). The Edwards Plateau
+physiographic region is broad and diverse with the
+western plateau margins blending slowly into the
+mountain and basin physiographic regions
+westward and abruptly transitioning into the plains
+regions to the east. The elevation of the western
+Edwards Plateau is approximately 2,000 feet above
+mean sea level (amsl) and gradually decreases
+eastward to about 600 feet amsl along its eastern
+margins. Despite the higher elevation, the western
+and northern margins of the plateau are relatively
+flat in comparison to the diverse topographic relief
+of its eastern and southern margins. This abrupt
+separation of the eastern and southern extent of the
+Edwards Plateau from the plains to the east is
+clearly demarcated by flat-topped hills with eroded
+tiers that early Spanish explorers likened to
+balconies (balcones) from which the feature gets
+the name Balcones Escarpment (Swanson
+2004:28). For roughly 300 miles, the uplifted and
+elevated Balcones Escarpment divides the Edwards
+Plateau from the physiographic regions of the
+Blackland Prairie to the east and South Texas Plain
+to the south (Spearing 1991; Swanson 2004). Thus,
+the liminal zone of the eastern Edwards Plateau and
+adjacent prairies, periodically intersected by
+waterways draining the plateau, offered a broad
+spectrum of resources for prehistoric and historic
+inhabitants.
+
+Figure 3. Typical landscape of project area.
+
+Figure 4. A karst feature on Dahlstrom Ranch.
+
+FAUNA
+The use of natural or ecoregions is also applied to
+the distribution of fauna, although reference is also
+made to the biotic provinces. The use of biotic
+provinces as proposed by Blair (1950) has been
+updated and further refined through the years. For
+mammals, Davis and Schmidly (1997) reduced the
+number of regions in Texas to four: the TransPecos, Plains Country, East Texas, and the Rio
+Grande Plains. The Blackland Prairie is included in
+the East Texas region, and the Edwards Plateau is
+within the Plains Country.
+
+Figure 5. Typical upland Cretaceous limestone
+formations outcropping on the surface.
+
+Davis and Schmidly (1994) list 25 species that are
+or were found in most of the regions. Larger species
+include bison (Bos bison), black bear (Ursus
+
+4
+
+americanus), white-tailed deer (Odocoileus
+virginianus), mountain lion (Felis concolor),
+bobcat (Lynx rufus), coyote (Canis latrans),
+common gray fox (Urocyon cinereoargenteus),
+American beaver (Castor canadensis), common
+raccoon (Procyon lotor), and Virginia opossum
+(Didelphis virginiana). Smaller mammals include
+ringtail (Bassariscus astutus), long-tailed weasel
+(Mustela frenata), striped skunk (Mephitis
+mephitis),
+eastern
+cottontail
+(Sylvilagus
+floridanus), black-tailed jackrabbit (Lepus
+californicus), hispid cotton rat (Sigmodon
+hispidus), five species of bats, and four species of
+mice. Rodents are the most numerous and account
+for the majority of regionally specific species.
+
+communities into physiognomic regions (Frye et al.
+1984).
+The natural regions are further divided into
+subregions (Diamond et al. 1987; Diggs et al. 1999;
+Lyndon B. Johnson School of Public Affairs 1978).
+The Balcones Canyonlands is one such subdivision
+within the Edwards Plateau, and the prairies to the
+east comprise a series of other subdivisions. Of
+significance, the project area is at the ecotonal
+boundary of distinctive vegetation regimes along
+the eastern edge of the Edwards Plateau and
+eastward to the Blackland Prairies. Although
+modern and historic impacts to the Edwards Plateau
+and to the Blackland Prairies have substantially
+altered the vegetation composition of both regions,
+remnant populations of these regions still exist,
+providing an insight into the prehistoric plant
+communities (Riskind and Diamond 1986;
+Diamond and Smeins 1985; Fowler and Dunlap
+1986; Smeins and Diamond 1983).
+
+The intersection of the Blackland Prairie and the
+Edwards Plateau is an ecotonal zone with a diverse
+faunal assemblage. Kutac and Caran (1994) list 349
+species of birds regularly associated with the
+region; Toomey and Caran (1994) list 82 species of
+mammals; and Hampton (1994) lists 41 amphibians
+and 94 reptiles. Caran and Hubbs (1994) note 130
+species of fishes, including both historic and extinct
+taxa. Overall, the majority of mammals are small,
+from the orders of rodentia and chiroptera (bats).
+The overwhelming majority of the fish species are
+small as well with Cypriniformes (minnows and
+carps) as the most numerous family.
+
+SOILS AND GEOLOGY
+The surface geology mapped for the project area is
+predominantly Edwards Limestone (Ked) (Barnes
+1981). The Edwards Limestone, dating to the
+Lower Cretaceous, is light gray in color and made
+of alternating layers of hard and soft strata (Barnes
+1981). Significantly, the Cretaceous formation is
+chert bearing, providing an abundance of highquality lithic materials used by prehistoric
+inhabitants. A small portion of the DRPAA along
+the northeastern/eastern margin of the project area
+is mapped as Del Rio Clay and Georgetown
+Limestone, undivided (Kdg) (Barnes 1981). Also
+dating to the Lower Cretaceous, this comprises
+medium gray, blocky, calcareous and gypsiferous
+Del Rio clay, and light gray layers of the mostly
+limestone Georgetown Formation (Barnes 1981).
+
+FLORA
+Texas has been subdivided into natural regions
+based upon variations in topography, geology, soil,
+flora, fauna, and climate. Blair (1950) divided the
+state into seven biotic provinces that corresponded
+to animal habitat and vegetation regions, and
+generalized physiography. The project area is at the
+intersection of the Balconian and Texan biotic
+provinces. Blair’s division of seven provinces was
+later refined into the present system of 10 or 11
+“ecoregions,” or natural vegetation regions. The
+two principle physiographic regions within the
+project area, the Edwards Plateau and the Blackland
+Prairie, are also separate ecoregions as defined by
+Omernik (1987). Omernik’s boundaries were
+subsequently further refined (Griffith et al. 2004).
+Within the ecoregions, additional, specific
+divisions can be made by dominant vegetation
+
+The majority of the project area soils are mapped as
+the Rumple-Comfort association, 1–8 percent
+slopes (RUD). The Rumple series soils consists of
+moderately deep, well-drained, moderately slowly
+permeable soils formed in residuum and colluvium
+over indurated limestone on gently to moderately
+sloping uplands (NRCS 2014). The Comfort series
+consists of well-drained soils that are shallow to
+indurated limestone bedrock formed in clayey
+residuum derived from dolomitic limestone of the
+5
+
+(Early, Middle, and Late), although, as this report
+addresses, various labels have been applied to the
+last few centuries of the Archaic. To avoid straying
+too far down a tautological maze, we generically
+call the period from approximately 600 B.C. to A.D.
+700 “the end of the Archaic.”
+
+Lower Cretaceous period on plateaus and ridges
+(NRCS 2014).
+A small portion of the DRPAA soils along the
+northeastern/eastern margin of the project area are
+mapped as Tarpley clay, 1–3 percent slopes (TaB).
+The Tarpley series consists of shallow, welldrained, slowly permeable soils that formed in
+calcareous clayey residuum over limestone bedrock
+of the Cretaceous period on nearly level to
+moderately sloping upland plateaus and ridges
+(NRCS 2014).
+
+PALEOINDIAN PERIOD
+Paleoindian artifacts and sites date from about
+11,500-8800 radiocarbon years B.P. and are
+relatively common in Central Texas (Collins 2004),
+although few have been intensively studied in the
+Hays County area. The period begins during the
+close of the Pleistocene with the earliest evidence
+of humans in the Central Texas region. Diagnostic
+artifacts of the period include lanceolate-shaped,
+fluted projectile points such as Clovis, Folsom, and
+Plainview. These projectile points were hafted onto
+wooden
+spears,
+launched
+from
+atlatls
+(spearthrowers), and often used to hunt big game
+such as mammoth, mastodons, bison, camel, and
+horse (Black 1989). During the Paleoindian period,
+a hunter-gatherer adaptation strategy was employed
+with increased harvesting of flora and small game
+as the big game died off and the climate warmed
+following the end of the Pleistocene ice age.
+Representative Central Texas Paleoindian sites
+include Kincaid Rock shelter, Wilson-Leonard,
+Gault, and St. Mary’s Hall (Collins 2004).
+
+CULTURAL BACKGROUND AND
+SETTING
+Hays County is on the eastern edge of the Edwards
+Plateau and near the eastern margins of the Central
+Texas archaeological region, as defined by Suhm
+(1960), Prewitt (1981, 1985), Collins (2004), and
+other researchers. Of course, the Central Texas
+archaeological region is an artificial construct, and
+its boundaries are somewhat arbitrary (Collins
+2004:102). As Collins (2004:103) points out, it is
+unlikely that any group in the past 11,000 years had
+their key resources, geographic range, or political
+sphere conform to these boundaries. It is worth
+noting that Perttula (2004:Fig 1.1) extends the
+boundaries of Central Texas much farther east than
+many researchers. Nevertheless, situated as it is, on
+the Edwards Plateau’s margins, the sites identified
+within the project area share many traits in common
+with “classic” Central Texas sites (i.e., those above
+the Balcones Escarpment).
+
+ARCHAIC PERIOD
+As the Paleoindian period came to an end, humans
+began to harvest more intensively local floral and
+faunal resources (Collins 2004). Material culture
+became more diverse, and the use of burned rock
+middens and ovens became widespread. This
+period is known as the Archaic period and dates
+from approximately 8800 to 1200 B.P. in Central
+Texas (Collins 2004; Johnson and Goode 1994).
+While Collins (2004) and Johnson and Goode
+(1994) subdivide the Archaic into Early, Middle,
+and Late subperiods, we have added the
+Transitional subperiod after the Late Archaic for
+reasons discussed below.
+
+As noted above, the project area is near the eastern
+edge of the Central Texas archaeological region. Its
+occupants likely ranged west, deeper into the
+Edwards Plateau, and east, onto the rolling
+Blackland Prairie. Inhabitants of the area, therefore,
+were influenced by cultural developments taking
+place in Central Texas, as well as, to the east.
+Regardless of the intensity or nature of influences
+from off the plateau, we rely on more developed
+chronologies from Central Texas to summarize the
+culture history of the area. Following standard
+chronological divisions, we divide the prehistoric
+cultural sequence into three periods: Paleoindian,
+Archaic, and Late Prehistoric. The Archaic period
+is commonly subdivided into three subperiods
+
+Early Archaic
+Early Archaic artifacts and sites date from about
+8800 to 6000 B.P. (Collins 2004). Once thought to
+6
+
+be Paleoindian in age, some unstemmed point types
+such as Angostura have recently been recognized as
+the first Early Archaic diagnostic styles (Collins
+2004). By about 8000 B.P., these points were
+replaced by stemmed varieties such as Early Split
+Stem, Martindale, and Uvalde (Black 1989; Collins
+2004). Most sites were open campsites although
+cave sites have been found (Collins 2004). Current
+site distribution data suggest that Early Archaic
+peoples were concentrated along the eastern and
+southern margins of Edwards Plateau in areas with
+more stable water sources (Collins 2004;
+McKinney 1981). Specialized tools, perhaps used
+in woodworking, known as Guadalupe and Nueces
+bifaces, were prevalent in this period (Collins
+2004). While subsistence data are sparse, it appears
+that people were hunting deer and other small
+animals, fishing, and cooking bulbs in earth ovens
+(Collins 2004). This strategy evolved, in part, due
+to the extinction of megafauna and the changing
+climate at the beginning of the Holocene
+(McKinney 1981).
+
+Late Archaic
+Late Archaic artifacts and sites date from about
+4000 to 2250 B.P. The period began with very xeric
+conditions but gradually became more mesic
+(Collins 2004). Characteristic dart point types
+include Bulverde, Pedernales, Marshall, and
+Marcos (Collins 2004). Increasingly complex and
+sedentary cultural manifestations first appeared in
+the Late Archaic. Sites of the Late Archaic are very
+common and include burned rock middens, open
+campsites, and lithic procurement sites. Population
+increases are evidenced by large cemeteries and
+grave goods. Also, trade and exchange networks
+between cultures appear to have increased in
+complexity as evidenced by exotic goods in sites
+and cemeteries (Black 1989). Bement (1991)
+interprets the evidence for group investment in the
+Thunder Valley sinkhole cemetery, dated to 2900
+B.P. based on stratigraphy, to indicate that groups
+were declaring control over a particular territorial
+range during the Late Archaic. Representative sites
+of the Central Texas Late Archaic include the
+Anthon and Loeve Fox sites (Collins 2004).
+
+Middle Archaic
+Middle Archaic artifacts and sites date from about
+6000 to 4000 B.P. with multi-use bifacial knives
+becoming more common. Characteristic Middle
+Archaic projectile points include Bell, Andice,
+Taylor, Nolan, and Travis (Black 1989; Collins
+2004). These artifacts could have served as knives
+and projectile points. Bison were hunted
+intermittently during the Middle Archaic, but as the
+climate became drier, a reliance on dry climate
+plants such as sotol probably became common. The
+end of the Middle Archaic may have been the peak
+of the mid-Holocene xeric conditions in Central
+Texas (Collins 2004). The climatic change was
+accompanied by a technological change as Nolan
+and Travis points, which are thick, narrow-bladed
+forms, first appeared in the archaeological record
+(Collins 2004). Burned rock middens and earth
+ovens became more prevalent circa 5000 B.P. and
+became increasingly common, although their exact
+functions may have varied based on the culture and
+environment (Johnson and Goode 1994).
+Representative sites of the Texas Middle Archaic
+include the Landslide, Wounded Eye, Gibson, and
+Panther Springs sites (Collins 2004).
+
+Transitional Archaic
+As Collins (2004:384-385) notes, diverse and
+comparatively
+complex
+archaeological
+manifestations toward the end of the Late Archaic
+attest to the emergence of kinds of human conduct
+without precedent in the area. This period (22501250 B.P.), referred to as the Transitional Archaic
+(Turner and Hester 1999) or Terminal Archaic
+(Black 1989), is not recognized by all researchers.
+Other chronologies extend the Late Archaic to
+1200-1250 B.P. (Collins 2004; Johnson and Goode
+1994) to encompass this later subperiod. Johnson et
+al. (1962) originally designated the Transitional
+Archaic as a subperiod of the Archaic because of
+the similarities between the latest dart point types
+and the earliest arrow point types. Since then,
+however, the designation has failed to be
+universally accepted by researchers. In two recent
+chronologies for Central Texas, Collins (2004) does
+not include the Transitional as a subperiod of the
+Archaic, and Johnson and Goode (1994) separate
+the Late Archaic into two subperiods designated
+Late Archaic I and Late Archaic II. The
+Transitional Archaic, as it is used here, closely
+corresponds to Johnson and Goode’s (1994) Late
+7
+
+drying trend may have resulted in a change in
+vegetation that made central and South Texas more
+conducive to bison migration into the area. Bison
+remains in archaeological sites in the region
+became common after 750 B.P. (Dillehay 1974;
+Huebner 1991).
+
+Archaic II, but begins after the appearance of
+Marcos points, not with it. In this scheme, the
+Transitional Archaic coincides with the last two
+style intervals recognized by Collins (2004:Table 2)
+for the Late Archaic subperiod.
+During the Transitional Archaic, smaller dart point
+forms such as Darl, Ensor, Fairland, and Frio were
+developed (Turner and Hester 1999). These points
+were probably ancestral to the first Late Prehistoric
+arrow point types and may have overlapped
+temporally with them (Hester 2004; Houk and
+Lohse 1993).
+
+Most Toyah sites have the distinctive Perdiz arrow
+point type, and some sites also have bison
+processing tool kits. This technological change has
+been interpreted as a spread of an ethnic group by
+Johnson (1994) and as the spread of technological
+ideas in response to opportunities provided by an
+increased bison population in the Late Prehistoric
+by Ricklis (1992). Increasing complexity in
+subsistence patterns and very high prehistoric
+populations are postulated for the Late Prehistoric
+period (Black 1989; Collins 2004). Although no
+faunal remains were reported from the Slab Site,
+archaeologists recovered numerous Perdiz arrow
+points and Leon Plain ceramics indicating a Toyah
+occupation (Patterson 1987). Representative sites
+of the Central Texas Late Prehistoric include the
+Kyle, Smith, and Currie sites (Collins 2004).
+
+Several researchers believe that the increased
+interaction between groups at the end of the Late
+Archaic was an important catalyst for cultural
+change (Collins 2004; Johnson and Goode 1994).
+This change may have included increased regional
+stress and conflict between groups as interaction
+became more frequent.
+LATE PREHISTORIC PERIOD
+By the end of the Transitional Archaic, the bow and
+arrow technologies were introduced and are
+indicated in the archaeological record by the small
+arrow points. The Late Prehistoric period dates
+from 1250 to 260 B.P. (Collins 2004). Characteristic
+artifacts include small arrowpoints like Perdiz and
+Scallorn as well as a variety of specific use tools.
+The Austin and Toyah intervals of the Late
+Prehistoric, originally recognized by Suhm (1960)
+and Jelks (1962), remain accepted divisions for the
+period. These style intervals may represent distinct
+cultural entities (Johnson 1994), although others
+challenge this view (Black and Creel 1997).
+
+EUROPEAN CONTACT
+In the early Historic period (1630 A.D. to Present),
+the period of European contact and settlement in
+Texas, the general Hays County area was inhabited
+by several aboriginal groups including the
+Tonkawa, Lipan Apache, Comanche, Jumano,
+Catqueza, and Karankawa (Cecil and Greene 2014;
+Foster 1995; Newcomb 2002). The first Europeans
+into the region were probably Spanish explorers
+and missionaries (Cecil and Greene 2014; Foster
+1995). Governor Domingo Terán de los Ríos’
+expedition crossed through the southern part of
+Hays County in 1691–1692 (Cecil and Greene
+2014; Foster 1995). In 1709, the expedition of
+Espinosa-Olivares-Aguirre passed through and
+explored parts of the San Marcos River (Cecil and
+Greene 2014; Foster 1995). Captain Domingo
+Ramón’s expedition crossed through the southern
+portion of Hays County in 1716 destined for
+northeastern Texas to establish missions (Foster
+2004). In 1721–1722 an expedition by Governor
+Marqués de San Miguel de Aquayo’s passed near
+San Marcos to establish a presidio and fortify
+previously established missions in northeast Texas
+(Foster 1995). In 1755–1756, the San Xavier
+
+During the earlier Austin interval, burned rock
+midden use may have reached its maximum based
+on recent conclusions by Black and Creel (1997).
+Characteristic arrow points of the Austin interval
+include Scallorn and Edwards (Collins 2004;
+Turner and Hester 1999). By the Toyah interval,
+plainware ceramics appeared, indicating possible
+influence in the Central Texas region from ceramic
+producing cultures to the east and north (Perttula et
+al. 1995). Contrary to bog pollen data (Collins et al.
+1993), data from Hall’s Cave in Kerr County
+indicate that the climate of Central Texas began to
+dry around 1000 B.P. (Toomey et al. 1993). This
+8
+
+By the 1880–1900s the area began to recover
+because of improved transportation, growth in the
+cattle industry, and migration of people from other
+states and countries (Cecil and Greene 2014). The
+construction of the Hays County rail line that
+connected San Marcos to Austin in 1880 and
+subsequently connected San Marcos with San
+Antonio assisted in this population growth, which
+grew from 7,555 in 1880 to 14,142 in 1900 (Cecil
+and Greene 2014).
+
+Mission and San Francisco Xavier Presidio were
+temporarily established in San Marcos (Cecil and
+Greene 2014; Chipman 1992). A permanent
+Spanish settlement was attempted in 1807 along the
+San Marcos River, but was abandoned in 1811 due
+to flooding and frequent attacks from Comanche
+and Tonkawa Indians (Cecil and Greene 2014).
+After Mexico gained independence from Spain, the
+newly formed country used a policy of land grants
+to encourage settlement in the sparsely populated
+northern regions of Mexico. During the 1830s,
+grants were issued in Hays County to Juan Martín
+Veramendi (1831), Juan Vicente Campos (1832),
+Thomas Jefferson Chambers (1834), and Thomas
+G. McGehee (1835) (Cecil and Greene 2014).
+
+The county’s economy and population went
+relatively unchanged over the next half-century
+(Cecil and Greene 2014). Notwithstanding the
+effects of World War I, the 1930s depression, and
+World War II, the county only suffered temporary
+impediments (Cecil and Greene 2014). The county
+remained predominantly agricultural (about 90
+percent) in economic focus until the mid-1960s
+(Cecil and Greene 2014). From the 1960s until the
+present, educational and recently established
+training facilities (e.g. Gary Job Training Center)
+became more prominent and economically
+productive (Cecil and Greene 2014).
+
+REPUBLIC OF TEXAS ERA
+In 1848, the state legislature established Hays
+County from portions of the Travis County territory
+with San Marcos as the county seat (Cecil and
+Greene 2014). The county derived its name from
+John Coffee Hays who led a company of Texas
+Rangers (Cecil and Greene 2014; Richardson
+1981). The establishment of the county along with
+the construction of a stage line and sawmill (1848),
+several cotton gins, grist mills, a shingle mill, and a
+beef packery (1850–1885) assisted in encouraging
+settlement into the area (Cecil and Greene 2014).
+The population of Hays County rapidly grew from
+387 in 1850 to 2,162 in 1860 primarily consisting
+of settlers from Georgia, Arkansas, and old Texans
+(Cecil and Greene 2014). To accommodate the
+growing population a church (1847), several
+schools (1849–1860), and the Johnson Institute
+(1852) were formed (Cecil and Greene 2014).
+
+THE DAHLSTROMS AND RUBYS
+The DRPAA is part of the larger 2,254-acre
+Dahlstrom Ranch, which was previously part of the
+historic Ruby Ranch which had long been in Jack
+Dahlstrom wife’s (Gay Ruby) family. The
+following brief description of Jack Dahlstrom
+draws from a recent article (Ferguson 2013) and his
+2012 obituary.
+Jack rose from poverty in Buda to ride the booms
+and busts of Texas business in the twentieth
+century. Dahlstrom built a highway construction
+operation that employed as many as 2,300 workers
+in nine states and two nations at its peak. He owned
+21 airplanes, hobnobbed with President Lyndon B.
+Johnson and constructed projects ranging from the
+Houston Ship Channel to three triple-deck
+interchanges on I-635 in Dallas.
+
+POST-CIVIL WAR ERA
+Subsequent to the Civil War, Texas entered the
+Reconstruction period. Recovery during this period
+was slow, but was assisted by an economy
+supported by cattle. In 1867, George Neill drove the
+first herd of cattle to Kansas, which was
+subsequently followed by more drives (Cecil and
+Greene 2014). In the eastern portions of the county,
+farming became more profitable and also served as
+impetus to further settlement (Cecil and Greene
+2014).
+
+Jack was born in Austin on September 27, 1928,
+moving to Buda at an early age. His father, Eric
+Carl Dahlstrom, was a local rancher, and his
+mother, Dora Henrietta Saenger, grew up in the
+German community of Cave Creek near
+Fredericksburg. He attended Buda Schools and the
+9
+
+University of Texas. He married Gay Ruby, his
+childhood sweetheart, on April 18, 1948.
+Dahlstrom began his career in 1951 when he and
+his brother-in-law, Jim Ruby, used equipment
+owned by Jim’s father, Cecil, for brush clearing and
+other ranch work. In 1951, Jim and Jack joined
+forces with Cecil and started in the road-building
+business (Figures 6 and 7); FM 150 from Kyle to
+near Driftwood was the first road the company built
+(Ferguson 2013).
+Cecil also brought along an important political
+connection—commercial ties with future President
+Lyndon B. Johnson. In part as a result of this
+connection, in two decades, Dahlstrom built a large
+corporation founded upon large infrastructural
+projects such as roads and dams. In 1968,
+Dahlstrom bought out his father-in-law and in the
+subsequent year bought his brother-in-law’s share
+of the company (Ferguson 2013).
+
+Figure 7. Jack Dahlstrom.
+
+By 1971, Jack was the sole owner of Dahlstrom
+Corporation. He worked in the Dallas area from
+1961 to 1989. During this period, he performed
+work in nine states and two countries, while
+pursuing construction projects around the world.
+According to his obituary, some of his many
+achievements included construction of the DallasFort Worth Turnpike, the tunnel and roadways in
+Big Bend Park, and the highway work through the
+El Capitan mountain range in the 1950s and 1960s.
+Projects during the 1970s and 1980s included Loop
+635 around Dallas where he built three triple-deck
+interchanges, Dallas/Fort Worth airport, four
+sections of the North Dallas Tollway, the MoPac
+Highway in Austin from Lady Bird Lake to
+Highway 183, and the Port of Houston's ship
+channel and turning basin in La Porte. Dahlstrom
+Corporation worked for the U.S. Army Corps of
+Engineers constructing the Waurika Dam in
+Oklahoma. He built his company into the third
+largest general contractor on fixed-cost, federally
+
+Figure 6. In the 1920s and 1930s, Cecil Ruby (left)
+used teams of mules to build roads in Central Texas.
+His son Jim and son-in-law Jack Dahlstrom joined
+the road construction business in 1951.
+
+10
+
+were also reviewed to assist in identifying any
+disturbances.
+
+funded projects in the United States. Other
+achievements
+included collaboration with
+Consolidated Coal Company in a visionary plan to
+develop coal mining and extraction of oil in the tar
+sands outside Eagle Pass, Texas.
+
+FIELD METHODS
+ARCHAEOLOGICAL FIELD SURVEY
+
+But the economic crises in 1973 and the crash of the
+mid-1980s forced an end to the business. His wife
+later said he “wasn’t the kind to declare bankruptcy,
+but he did go broke” (Ferguson 2013).
+
+The field survey consisted of a team of three SWCA
+archaeologists surveying the project area.
+Subsurface investigations involved shovel tests that
+were approximately 30 centimeters (cm) in
+diameter and excavated in arbitrary 20-cm levels to
+100 cm below surface unless soil characteristics or
+bedrock precluded reaching that depth. The matrix
+from each shovel test was screened through ¼-inch
+mesh, and the location of each excavation was
+plotted using a hand-held Global Positioning
+System (GPS) receiver. Each shovel test was
+recorded on a standardized form to document the
+excavations. Backhoe trenching was not proposed
+or conducted for this phase of investigations.
+
+Jack’s father, Carl, lost the family cotton farm
+during the Great Depression, but Jack and Gay
+settled on the portion of the Ruby Ranch she had
+inherited from her father. That property is now the
+Dahlstrom Ranch. In 1989, the couple returned to
+Buda, where Jack lived until he died on Feb. 2,
+2012.
+
+METHODS
+BACKGROUND REVIEW
+
+Appropriate State of Texas Archaeological Site
+Data Forms were filled out for each site discovered
+during the investigations. A detailed plan map of
+each site was produced and locations were plotted
+on USGS 7.5-minute topographic maps and
+relevant project maps. Artifacts were tabulated,
+analyzed, and documented in the field, but not
+collected. Accordingly, no artifacts were curated.
+
+SWCA conducted a thorough background cultural
+resources and environmental literature search of the
+project area and surrounding 1-mile radius. An
+SWCA archaeologist examined the Leander, Texas
+USGS 7.5-minute topographic quadrangle map on
+the THC Texas Archeological Sites Atlas (Atlas).
+This source provided information on the nature and
+location of previously conducted archaeological
+surveys and the location of previously recorded
+cultural resources, including NRHP properties,
+sites designated as SALs, Official Texas Historical
+Markers, Recorded Texas Historic Landmarks
+(RTHLs), cemeteries, and local neighborhood
+surveys. However, the Atlas does not necessarily
+list all previous work conducted within a specific
+area. Previous cultural resources investigations
+listed on the Atlas are limited to projects under the
+purview of the Antiquities Code of Texas or the
+NHPA. In addition, projects under these regulations
+may not be posted on Atlas due to a delay between
+fieldwork and report completion. As a part of the
+review, an SWCA archaeologist reviewed the
+TxDOT Historic Overlay, a mapping/Geographic
+Information System database with historic maps
+and resource information covering most portions of
+the state (Foster et al. 2006). Aerial photographs
+
+RESULTS
+BACKGROUND REVIEW
+A background review determined that the project
+area is not known to have been previously
+surveyed,
+and
+no
+previously
+recorded
+archaeological sites are within the DRPAA (Atlas
+2014). One archaeological site and SAL
+(41HY448) and one RTHL (Carpenter Log Home)
+are recorded within a 1-mile radius of the project
+area (Atlas 2014).
+The North Flatrock site (41HY448) is a lithic
+procurement camp situated on an unnamed
+tributary of Onion Creek northwest/upstream of
+Flatrock Ford approximately 0.17 mile south of the
+project area. The large quarry/camp contains
+burned rock and distinct lithic reduction areas
+11
+
+FIELD SURVEY
+
+including chert cores, unifacial tools, the distal
+portion of a “mescal knife,” and a Nolan dart point
+(Atlas 2014). A 2009 THC eligibility determination
+recommends the site as eligible for inclusion in the
+NRHP and it is listed as an SAL (Atlas 2014).
+
+From October 8–10, 2014, SWCA archaeologists
+examined the entire 360-acre DRPAA project area
+in support of the proposed Hays County public
+access area development. Investigators covered the
+project area by utilizing pedestrian inspection along
+parallel transects, supplemented with shovel testing
+and visual inspection of available exposures (e.g.,
+vertical cut banks and erosional channels). Within
+the 360-acre project area, a total of 122 shovel tests
+were excavated. This excavation interval exceeds
+CTA/THC, Minimum Survey Standards, which
+recommends one shovel test per 3 acres for project
+areas larger than 100 acres. Eleven of the 122
+shovel tests excavated were positive for cultural
+material, all but one of which are associated with
+archaeological sites (Appendix A). The other
+shovel test (MC12) is an Isolated Find (IF). IFs are
+defined as discrete locations of cultural material,
+typically containing three artifacts or less, that do
+not warrant designation as archaeological sites. In
+total, five new archaeological sites, one scatter of
+historic detritus, and one IF were documented
+during the course of the DRPAA project
+investigations (Table 1).
+
+Beyond a 1-mile radius of the project area, two sites
+(41HY201 and 41HY209) are worth mentioning.
+Site 41HY201, situated on a high terrace south of
+Onion Creek and west of Mustang Creek, is located
+approximately 1.66 miles southeast of the DRPAA
+and consists of a prehistoric open campsite
+including debitage, as well as bifacial and unifacial
+fragments (Atlas 2014). The Texas Archeological
+Research Laboratory (TARL) conducted extensive
+data recovery investigations at the site, revealing
+substantial Archaic and Late Prehistoric
+components with well-preserved faunal and floral
+remains (Ricklis and Collins 1994). Site 41HY209,
+situated on the south bank of Mustang Branch
+Creek, is located approximately 2.17 miles
+southeast of the DRPAA. The site consists of a
+prehistoric open campsite and burned rock midden
+including flakes, cores, bifaces, and three early
+side-notched dart points (Atlas 2014). According to
+the site form, the site is eligible for inclusion in the
+NRHP and for listing as an SAL (Atlas 2014).
+
+The general setting can be characterized as a semirural ranching environment with expanding
+residential and commercial development at the
+western margin of Buda, Texas. More specifically,
+the project area captures an environment with
+gently sloped uplands, dissected by a single, nearly
+central ephemeral drainage that runs generally
+north to south, but scarcely shows signs of recent
+flowing water. A single stock pond located
+northwest of the center of the project area holds
+water from the drainage (Figure 8).
+
+The RTHL with a 1-mile radius of the project area
+is for the Carpenter Log Home, a one-and-a half
+story house of hewn cedar logs, built in 1865 by
+Cyrus Milton Carpenter (1841-1922) (Atlas 2014).
+The Methodist minister migrated to Hays County in
+1854 and resided in the home with his wife
+Charlotte Clayton (1850-1939) and their nine
+children (Atlas 2014).
+
+HISTORIC MAP REVIEW
+The TxDOT historic overlay review of maps dating
+to 1845, 1850, 1896, 1923 and 1958 did not identify
+any historic-age resources documented within or
+immediately adjacent to the project area (Foster et
+al. 2006). The 1896 Austin USGS map depicts two
+trails/roads in the southern portion of the project
+area, which likely correlate with two-track roads
+depicted further south on the current topo map
+(Foster et al. 2006).
+
+12
+
+Table 1. Archaeological Sites and IF01
+Resource
+Name
+
+7.5 Topographic
+Quad
+
+Location within
+Project Area
+
+41HY495
+
+Mountain City
+(3097-222)
+
+Northwestern
+corner
+
+Mountain City
+(3097-222)
+
+North central;
+along eastern
+project boundary
+fence
+
+41HY496
+
+41HY497
+
+41HY498
+
+41HY499
+
+IF01
+
+Mountain City
+(3097-222)
+
+Mountain City
+(3097-222)
+
+Central
+
+Encompasses the
+southern half of
+the project area.
+
+Mountain City
+(3097-222)
+
+Northeastern
+corner
+
+Mountain City
+(3097-222)
+
+Near western
+boundary in
+northern half of
+project area
+
+Date
+Recorded
+
+Resource
+Type; Time
+Period
+
+Comments and Recommendations
+
+10/8/2014
+
+Lithic
+procurement
+site; Unknown
+prehistoric
+
+SWCA recommends that the site is not
+eligible for listing as an SAL and,
+accordingly, no further archaeological
+work is warranted.
+
+10/8/2014
+
+Lithic scatter;
+Unknown
+prehistoric
+
+SWCA recommends that the site is not
+eligible for listing as an SAL and,
+accordingly, no further archaeological
+work or avoidance measures are
+warranted.
+
+Lithic scatter;
+Unknown
+prehistoric
+
+SWCA recommends that the site is not
+eligible for listing as an SAL and,
+accordingly, no further archaeological
+work is warranted. However, due to the
+nature of public access proposed for
+the project area, SWCA does
+recommend that the whole of this site
+be preserved through some form of
+inclusion or education within the plans
+for park infrastructure.
+
+Lithic
+procurement
+site; Unknown
+prehistoric
+
+SWCA recommends that the site is not
+eligible for listing as an SAL and,
+accordingly, no further archaeological
+work is warranted. However, due to the
+nature of public access proposed for
+the project area, SWCA does
+recommend that the lithic concentration
+areas and the in situ chert nodules
+within this site be preserved through
+some form of inclusion or education
+within the plans for park infrastructure.
+
+Historic scatter
+
+No further work is recommended within
+the confines of the current project,
+however if any work is to be conducted
+east of the project boundary fence,
+further archaeological investigations
+will need to be conducted to determine
+significance of portions of the site that
+may have not yet been recorded.
+
+Prehistoric
+isolated find
+
+One chert secondary flake was
+documented within a shovel test. No
+other cultural material was documented
+in association with IF01, thus not
+warranting recording the find as an
+archaeological site.
+
+10/9/2014
+
+10/9/2014 10/10/2014
+
+10/8/2014
+
+10/9/2014
+
+13
+
+Figure 8. Stock pond.
+
+Figure 9. Machine-cleared area with pushpile
+showing representative surface disturbances.
+
+The property is largely unmodified, though
+evidence of ranching and vegetation clearing can be
+seen in certain areas. The most pervasive impact
+observed within the project area is related to
+selective clearing. Areas northeast of the stock pond
+and at the extreme southern end of the project area
+are void of large live oak and cedar elm trees, as are
+common throughout most of the property, and are
+dotted with young mesquite trees and show signs of
+disturbance on the ground surface (Figure 9). The
+impact of vegetation clearing, however, is likely
+fairly shallow. Additional forms of disturbance
+include construction of two-track roads, fence
+construction around the boundary, and wild animal
+and livestock activity.
+
+As a general characterization of site expression and
+integrity, the upland, lithic procurement sites cover
+expansive areas where abundant chert cobbles are
+present at the surface. Artifacts are found scattered
+across almost the entire southern two-thirds of the
+project area, with smaller, discrete artifact
+concentrations where more intensive lithic
+reduction occurred. These sites have relatively
+shallow cultural deposition, to a maximum depth of
+approximately 25 cm below surface.
+41HY495
+Site 41HY495 is a prehistoric lithic procurement
+site that extends from the northwestern edge of the
+property boundary across an upland hilltop, then
+down the gradually sloping hillside, southeast
+toward an ephemeral drainage where chert cobbles
+are abundant. A two-track road meanders east to
+west through the site. Most of the site area has been
+selectively cleared and well cared for in its native
+state, so vegetation consists primarily of native
+grasses, mesquite, and scattered large oaks and
+elms. Overall, roughly 20 to 50 percent of the
+surface was visible at the time of survey.
+
+Two of the five archaeological sites identified
+within the project area have cultural material in
+both surficial and buried contexts. Site types
+include two prehistoric lithic procurement sites
+(41HY495 and 41HY498,), two prehistoric lithic
+scatters (41HY496 and 41HY497), and one historic
+trash scatter (41HY499) (Figure 10).
+
+14
+
+Figure 10. Survey results.
+
+15
+
+The site boundary measures 290 m north-south by
+310 m east-west, although investigation was limited
+to the project area and the site likely extends to the
+west and north. A total of 11 shovel tests were
+excavated across the site, all of which were
+negative for cultural material. Soils typically
+consist of gravelly and cobbly brown to very dark
+brown clay loam over thick reddish brown clay or
+bedrock between 15–30 cm below surface. Shovel
+tests were terminated due to either bedrock or preHolocene age (basal) clay.
+Artifacts noted within the site area include large
+primary flakes, tested cobbles, cores, secondary and
+tertiary debitage, and crude bifacial tools (Figure
+11). All of the artifacts encountered are made of
+local parent material—brown to gray, very finegrained chert, known as Georgetown or Edwards
+chert. No cultural features or temporally diagnostic
+artifacts were encountered.
+
+Figure 11. Surficial early stage reduction debris on
+41HY495.
+41HY496
+Site 41HY496 is a prehistoric lithic scatter located
+in the northeastern portion of the project area. The
+site is located on a low, flat upland terrace adjacent
+to an ephemeral drainage where chert cobbles are
+abundant. Most of the site area has been selectively
+cleared and well cared for in its native state, so
+vegetation consists primarily of native grasses,
+mesquite, and scattered (large) oaks and elms.
+Overall, roughly 5 to 15 percent of the surface was
+visible at the time of survey.
+
+SUMMARY
+Site 41HY495 is a prehistoric lithic procurement
+site of unknown temporal affiliation. No cultural
+features or temporally diagnostic artifacts were
+encountered. This site was evaluated with regard to
+SAL criteria and based on the relatively ubiquitous
+nature of the site, a lack of subsurface integrity, and
+the absence of cultural features or temporally
+diagnostic artifacts, 41HY495 appears to have
+limited integrity. SWCA recommends that the site
+is not eligible for listing as an SAL and,
+accordingly, no further archaeological work is
+warranted. Should future work impact the areas to
+the west of the current site boundary, pedestrian
+inspection with shovel testing is recommended to
+document the site extent beyond the limits of the
+current project area.
+
+The site boundary measures 170 m southwestnortheast by 75 m northwest-southeast, although
+investigation was limited to the project area, and the
+site likely extends to the south and east. A total of
+seven shovel tests were excavated across the site,
+one of which (AY12) was positive for cultural
+material. As was the case on site 41HY495, soils
+typically consist of gravelly and cobbly brown to
+very dark brown clay loam over thick reddish
+brown clay or bedrock between 15–30 cm below
+surface. Shovel tests were terminated due to either
+bedrock or pre-Holocene age (basal) clay.
+Artifacts noted within the site area include large
+primary flakes, tested cobbles, some secondary and
+tertiary debitage, and one crude bifacial tool. In
+general, artifact distribution is sparse across the
+site. Due to limited surface visibility and general
+lack of subsurface cultural deposits, most cultural
+material accounted for was observed within a very
+
+16
+
+The site boundary measures 80 m north-south by 50
+m east-west. The northern, eastern, and southern
+boundaries were determined solely by the
+distribution of artifacts across the bedrock surface.
+Due to this exposure, no shovel tests were
+excavated in those directions to delineate the site. A
+total of three shovel tests were excavated on the
+western side of the site, all of which were negative
+for cultural material. Soils within the shovel tests
+are typical of those found elsewhere within the
+upland portion of the project area, consisting of
+gravelly and cobbly reddish brown to reddish gray
+clay loam over thick reddish brown clay or bedrock
+between 15–30 cm below surface. Shovel tests were
+terminated due to either pre-Holocene age (basal)
+clay or limestone bedrock.
+
+few exposed areas of eroded soil or bedrock. All of
+the artifacts encountered are made of local parent
+material—brown to gray, very fine-grained chert,
+known as Edwards chert. No cultural features or
+temporally diagnostic artifacts were encountered.
+SUMMARY
+Site 41HY496 is a prehistoric lithic scatter of
+unknown temporal affiliation. Most cultural
+material was observed within eroded areas, and no
+cultural features or temporally diagnostic artifacts
+were encountered. This site was evaluated with
+regard to SAL criteria and based on the relatively
+ubiquitous nature of the site, a lack of integrity, and
+the absence cultural features or temporally
+diagnostic artifacts, 41HY496 is not recommended
+as eligible for designation as an SAL. No further
+archaeological work or avoidance measures are
+warranted. Should future work impact the areas to
+the south or east of the current site boundary,
+pedestrian inspection with shovel testing is
+recommended to document the site extent beyond
+the limits of the current project area.
+
+Artifacts noted within the site area include large
+primary flakes, tested cobbles, cores, some
+secondary and tertiary debitage, and crude bifacial
+tools. Cultural material was observed largely within
+a concentric area within the site where wild hogs
+had exposed much of the ground surface through
+rooting (See Figure 12), however artifacts were
+found more sparsely dispersed outside the area of
+concentration. All of the artifacts encountered are
+made of local parent material—brown to gray, very
+fine-grained chert, known as Edwards chert. No
+cultural features or temporally diagnostic artifacts
+were encountered.
+
+41HY497
+Site 41HY497 is a prehistoric lithic scatter located
+in the north-central portion of the project area. The
+site sits within an area wooded with mature oaks,
+elms, and juniper trees. There is a vast disturbed
+area just west of the site that, combined with
+negative shovel test data, forms the western
+boundary of the site. Overall, roughly 5 to 20
+percent of the surface was visible at the time of
+survey, much of which consists of exposed
+bedrock. Some of the surface visibility is due to
+extensive hog rooting in areas of very shallow soils
+above bedrock.
+
+Figure 12. Early stage reduction debris occurring
+along a natural outcrop on 41HY497.
+
+17
+
+the artifacts encountered are made of local parent
+material—brown to gray, very fine-grained chert,
+known as Georgetown or Edwards chert. No
+cultural features or temporally diagnostic artifacts
+were encountered within the site. Investigators
+recorded three areas of much greater artifact density
+within the site. These areas indicate more intensive
+lithic reduction activity than was observed across
+the majority of the site. Additionally, archaeologists
+recorded an isolated location where two large chert
+nodules, still embedded in limestone bedrock, have
+been flaked or partially reduced in situ. Adjacent to
+the nodules sat an early-stage biface of identically
+colored chert, and a lithic core of a different colored
+chert.
+
+SUMMARY
+Site 41HY497 is a prehistoric lithic scatter site of
+unknown temporal affiliation. An occasional
+concentration of cultural material was identified,
+but no clearly discernible intact activity areas could
+be defined. No cultural features or temporally
+diagnostic artifacts were encountered. This site was
+evaluated with regard to SAL criteria, and based on
+the relatively ubiquitous nature of the site, a lack of
+subsurface integrity, and the absence cultural
+features or temporally diagnostic artifacts,
+41HY497 appears to have limited integrity. SWCA
+recommends that the site is not eligible for listing
+as an SAL and, accordingly, no further
+archaeological work is warranted. However, due to
+the nature of public access proposed for the project
+area, SWCA does recommend that the whole of this
+site be preserved through some form of inclusion or
+education within the plans for park infrastructure.
+41HY498
+Site 41HY498 is a prehistoric lithic procurement
+site that encompasses the entire southern half of the
+project area. The site spans north to south across the
+base of two gradual slopes and an ephemeral
+drainage that meanders generally north to south
+across the project area. The drainage channel floor
+is covered in chert cobbles of various sizes. Surface
+visibility across the site ranges from approximately
+5 to 20 percent.
+
+Figure 13. Example of early stage debitage found
+on site surface.
+
+The site boundary measures approximately 930 m
+north-south by 1,100 m east-west as defined by the
+extent of surface artifacts, project boundary to the
+west, south, and east. A total of 60 shovel tests were
+excavated within the site, 11 of which were positive
+for cultural material to a maximum depth of 25
+cmbs. Soils consist of dark yellowish brown sandy
+clay loam and clay loam that overlies shallow
+compact clay and clay loam or bedrock. Shovel
+tests were terminated due to either pre-Holocene
+age (basal) clay or limestone bedrock.
+
+SUMMARY
+Site 41HY498 is a prehistoric lithic procurement
+site of unknown temporal affiliation. No cultural
+features or temporally diagnostic artifacts were
+encountered. This site was evaluated with regard to
+SAL criteria and based on the relatively ubiquitous
+nature of the site, a lack of subsurface integrity, and
+the absence of cultural features or temporally
+diagnostic artifacts, 41HY498 appears to have
+limited integrity. SWCA recommends that the site
+is not eligible for listing as an SAL and,
+accordingly, no further archaeological work is
+warranted. However, due to the nature of public
+access proposed for the project area, SWCA does
+recommend that the lithic concentration areas and
+the in situ chert nodules within this site be
+preserved through some form of inclusion or
+
+Artifacts noted within the site area include large
+primary flakes, tested cobbles, cores, secondary and
+tertiary debitage, and crude bifacial tools (Figure
+13). Cultural material was observed dispersed
+randomly across the site, with a majority of artifacts
+appearing within eroded or exposed surfaces. All of
+18
+
+surface visibility and disturbed nature of the ground
+surface. Surface soils consist of cobbly, mixed, dark
+reddish brown sandy loam to very dark grayish
+brown loam.
+
+education within the plans for park infrastructure
+(See Figure 10). Should future work impact the
+areas to the west, east, or south of the current site
+boundary, pedestrian inspection with shovel testing
+is recommended to document the site extent beyond
+the limits of the current project area.
+
+Artifacts noted within the site area include a saddle
+cinch buckle, gate hinge plate, pulley wheel, and
+other miscellaneous metal (Figure 15), as well as
+cobalt and amethyst glass shards, a clear glass jar
+base, and historic ceramic whiteware sherds (Figure
+16). Diagnostic aspects of the artifacts indicate an
+early to mid-twentieth century occupation.
+Artifacts appear to be washed from denser
+concentration located outside the project area. The
+artifacts are in a secondary context, moving
+downslope in the minor drainage. No historic
+structures or other historic features were observed
+within the site boundaries.
+
+41HY499
+Site 41HY499 is a sparse surface scatter of historic
+twentieth century artifacts randomly distributed
+within a shallow headwater wash that flows
+westward towards an upland tributary of Onion
+Creek (Figure 14). In addition to the effects of the
+wash, there is heavy disturbance from recent
+vegetation clearing to make a wide path for cattle to
+frequent a modern metal watering tank on the
+southern edge of the site. The cattle activity
+contributes greatly to the disturbance of the site.
+41HY499 is located near the base of a gradual slope
+leading up to Carpenter Hills approximately 930 m
+to the west. The surface is cobbly and heavily
+disturbed by vegetation clearing and cattle. Sparse,
+patchy grasses and scrubby mesquite grow across
+the area, and a single, large oak tree stands on the
+western end of the site. Surface visibility across the
+site ranges from approximately 75 to 100 percent.
+
+SUMMARY
+Site 41HY499 is a sparse surface scatter of historic
+twentieth century artifacts randomly distributed
+within a shallow wash. No historic structures or
+other historic features were observed. The recorded
+site is part of a larger site that extends beyond the
+survey area. Pending an evaluation of the larger
+context with which the artifacts are associated, the
+eligibility for SAL designation is undetermined.
+While the recorded materials lack integrity and are
+relatively sparse, they may contribute to a larger
+assemblage that provides insights into the historic
+Dahlstrom Ranch. Avoidance is recommended.
+
+The site boundary measures approximately 10 m
+north-south by 20 m east-west as defined by the
+extent of surface artifacts and project boundary to
+the east, and the drainage to the west. No shovel
+tests were excavated within the site due to the high
+
+19
+
+Figure 14. 41HY499 site map.
+
+20
+
+Figure 16. Glass and ceramic artifacts on 41HY499
+
+Figure 15. Metal artifacts on 41HY499
+
+A background review determined that the project
+area is not known to have been previously
+surveyed,
+and
+no
+previously
+recorded
+archaeological sites are within the DRPAA (Atlas
+2014). One archaeological site and SAL
+(41HY448) and one RTHL (Carpenter Log Home)
+are recorded within a 1-mile radius of the project
+area (Atlas 2014). Neither have components within
+or immediately adjacent to the project area.
+
+ISOLATED FIND
+In addition to the five archaeological sites
+documented during survey, SWCA archaeologists
+encountered one Isolated Find (IF01).
+IF01 consisted of one secondary chert flake
+fragment within shovel test MC12, at a depth of 0–
+25 cm below surface. Eight shovel tests were
+excavated to the north, south, east, and west to
+delineate the isolated find, however all eight of
+those tests were negative for cultural material, thus
+not warranting recording the find as an
+archaeological site.
+
+The TxDOT historic overlay review of maps dating
+to 1845, 1850, 1896, 1923 and 1958 did not identify
+any historic-age resources documented within or
+immediately adjacent to the project area (Foster et
+al. 2006). The 1896 Austin USGS map depicts two
+trails/roads in the southern portion of the project
+area, which likely correlate with two-track roads
+depicted further south on the current topographic
+map (Foster et al. 2006).
+
+SUMMARY AND RECOMMENDATIONS
+On behalf of Hays County, using funds
+administered by TPWD, SWCA conducted
+intensive cultural resources survey of the proposed
+360-acre Dahlstrom Ranch Public Access Area,
+located approximately 4 miles west of Buda in
+northeastern Hays County, Texas. Although the
+land is privately owned, compliance with the
+Antiquities Code of Texas is a requisite attached to
+Texas Parks and Wildlife funding (Texas
+Recreation Trails Fund grant) and Hays County’s
+status as a political subdivision of the state. All
+work was conducted in accordance with the
+standards and guidelines of the CTA and THC’s
+minimum survey standards under Texas Antiquities
+Permit No. 7035.
+
+Field identification efforts relied on common
+surface exposures and shovel testing. The survey
+revealed five archaeological sites situated in
+shallow rocky upland soils. Cultural material was
+largely limited to surficial and shallow contexts,
+and disturbance due to natural processes (e.g.,
+bioturbation, slopewash, colluvial creep).
+As a result of these investigations, a total of five
+archaeological sites were documented—four of
+which are prehistoric lithic procurement sites and
+one is a twentieth century historic site. The
+prehistoric sites (41HY495, 41HY498, 41HY496,
+
+21
+
+and 41HY497) are all surficial lithic scatters and
+lithic procurement sites, exhibiting little to no
+integrity or subsurface cultural deposits and no
+evidence of prehistoric habitation (e.g., features
+such as hearths of middens). As a result of poor
+integrity, lack of deposition, unsubstantial
+assemblages, and the lack of dateable materials, the
+prehistoric sites are not recommended as eligible as
+SALs. The prehistoric sites are nevertheless
+informative and can be incorporated into the
+scientific, educational, and recreational purposes of
+the park. Accordingly, Figure 10 shows several
+areas where lithic reduction activities and natural
+outcrops are most evident and dense, allowing
+opportunities for observation and education.
+The historic site (41HY499) is a random surface
+scatter of twentieth century artifacts in a disturbed
+and secondary context within a shallow, washedout area. The artifacts appear to be related to a
+possible historic dump located beyond the survey
+area. Accordingly, the artifacts within the survey
+area recorded as 41HY499 represent a component
+to a larger site. While the recorded component lacks
+integrity, the site’s SAL eligibility is recommended
+as undetermined pending a further assessment of
+the larger context and associations. Avoidance is
+recommended.
+One prehistoric isolated find was recorded in the
+project area. Investigations around the isolated find
+indicated no association with other cultural
+materials or an archaeological site.
+
+22
+
+REFERENCES
+
+Cecil, P. F. and D. P. Greene
+2014 Hays County. The Handbook of Texas
+Online.
+<http:tsha.utexas.edu/handbook/online/a
+rticles/view/HH/hccl.html> [Accessed
+Wed Oct 15 1:11:23 US/Central 2014].
+
+(Atlas) Texas Archaeological Sites Atlas.
+2014. Texas Archaeological Site Atlas
+restricted database, Texas Historical
+Commission.
+http://pedernales.thc.state.tx.us/.
+Accessed September 19, 2014.
+
+Chipman, D. E.
+1992 Spanish Texas, 1519–1821. University of
+Texas Press. Austin, Texas.
+
+Barnes, V. E.
+1981 Geologic Atlas of Texas, Austin Sheet.
+The University of Texas at Austin,
+Bureau of Economic Geology.
+
+Collins, M. B.
+2004 Archeology in Central Texas. In
+Prehistory of Texas, edited by Timothy
+K. Perttula, pp.101–126. Texas A&M
+University Press. College Station, Texas.
+
+Bement, L. C.
+1991 Hunter-Gatherer Mortuary Practices
+During the Archaic in Central Texas.
+Ph.D. dissertation, The University of
+Texas at Austin.
+
+Collins. M. B., C. B. Bousman, and T. K. Perttula
+1993 Historic
+Context:
+Quaternary
+Environments and Archeology in
+Northeastern Texas. In Archeology in the
+Eastern Planning Region, Texas: A
+Planning Document, edited by N. A.
+Kenmotsu and T. K. Perttula, pp. 49–67.
+Cultural Resource Report 3. Department
+of
+Antiquities
+Protection, Texas
+Historical Commission, Austin.
+
+Black, S. L.
+1989 Central Texas Plateau Prairie. In From
+the Gulf to the Rio Grande: Human
+Adaptation in Central, South, and Lower
+Pecos Texas, by T. R. Hester, S. L. Black,
+D. G. Steele, B. W. Olive, A. A. Fox, K.
+J. Reinhard, and L. C. Bement, pp. 17–36.
+Research Series No. 33. Arkansas
+Archeological Survey, Fayetteville.
+
+Davis, W. B., and D. J. Schmidly
+1994 The Mammals of Texas. Texas Parks and
+Wildlife Press, Austin.
+
+Black, S. L., and D. C. Creel
+1997 The Central Texas Burned Rock Midden
+Reconsidered. In Hot Rock Cooking on
+the Greater Edwards Plateau: Four
+Burned Rock Middens in West Central
+Texas. Volume 1, by S. L. Black, L. W.
+Ellis, D. G. Creel, and G. T. Goode, pp.
+269–306. Studies in Archeology 22.
+Texas
+Archeological
+Research
+Laboratory, The University of Texas at
+Austin. Archeology Studies Program,
+Report 2. Texas Department of
+Transportation, Austin.
+
+Davis, W. B. and D. J. Schmidly
+1997 The Mammals of Texas - Online Edition.
+Texas Tech University.
+Diamond, D. D., D. H. Riskind and S. L. Orzell
+1987 A Framework for Plant Community
+Classification and Conservation in Texas.
+The Texas Journal of Science 39(3):206221.
+Diamond, D. D. and F. E. Smeins
+1985 Composition, Classification and Species
+Response Patterns of Remnant Tallgrass
+Prairies in Texas. American Midland
+Naturalist 113(2):294-308.
+
+Blair, W. F.
+1950 The Biotic Provinces of Texas. The Texas
+Journal of Science 2(1):93–117.
+
+Diggs Jr., G. M., B. L. Lipscomb and R. J.
+O'Kennon
+1999 Shinners and Mahler's Illustrated Flora
+of North Central Texas. SIDA, Botanical
+Miscellany No. 16. Botanical Research
+Institute of Texas (BRIT), Fort Worth.
+
+Caran, S. C. and C. Hubbs
+1994 Chapter 6: Fishes. In Birds and Other
+Wildlife of South Central Texas, edited
+by E. A. Kutac and S. C. Caran, pp. 131146. University of Texas Press, Austin.
+
+23
+
+Houk, B. A., and J. C. Lohse
+1993 Archeological Investigations at the
+Mingo Site, Bandera County, Texas.
+Bulletin of the Texas Archeological
+Society 61:193–247.
+
+Dillehay, T. D.
+1974 Late Quaternary Bison Population
+Changes on the Southern Plains. Plains
+Anthropologist 19(65):180–196.
+Ferguson, W.
+2013 Dahlstrom Ranch. Community Impact
+Newspaper, May 16, 2013.
+
+Huebner, J. A.
+1991 Late Prehistoric Bison Populations in
+Central and Southern Texas. Plains
+Anthropologist 36(137):343–358.
+
+Foster, W. C.
+1995 Spanish Expeditions Into Texas, 1689–
+1768. The University of Texas Press.
+Austin, Texas.
+
+Jelks, E.
+1962 The Kyle Site: A Stratified Central Texas
+Aspect in Hill County, Texas. Archeology
+Series 5. Department of Anthropology,
+The University of Texas, Austin.
+
+Foster, W. C.
+2004 Spanish Expeditions Into Texas, 1689–
+1768. The University of Texas Press.
+Austin, Texas.
+
+Johnson, L., Jr.
+1994 The Life and Times of Toyah-Culture
+Folk: The Buckhollow Encampment, Site
+41KM16 of Kimble County, Texas. Office
+of the State Archeologist Report 40.
+Texas Department of Transportation and
+Texas Historical Commission, Austin.
+
+Foster, T. R., T. Summerville, and T. Brown
+2006 The Texas Historic Overlay: A
+Geographic Information System of
+Historic Map Images for Planning
+Transportation Projects in Texas.
+Prepared for the Texas Department of
+Transportation by PBS&J, Austin.
+
+Johnson, L. and G. Goode
+1994 A New Try at Dating and Characterizing
+Holocene Climates, as well as
+Archaeological Periods, on the Eastern
+Edwards Plateau. Bulletin of the Texas
+Archeological Society 65:1–15.
+
+Fowler, N. L. and D. W. Dunlap
+1986 Grassland Vegetation of the Eastern
+Edwards Plateau. American Midland
+Naturalist 115(1):146-155.
+Frye, R. G., K. L. Brown and C. A. McMahan
+1984 The Vegetation Types of Texas. Texas
+Parks and Wildlife, Austin.
+
+Johnson, L. Jr., D. A. Suhm, and C. D. Tunnell
+1962 Salvage Archaeology of Canyon
+Reservoir: The Wunderlich, Footbridge,
+and Oblate Sites. Bulletin 5. Texas
+Memorial Museum, The University of
+Texas, Austin.
+
+Griffith, G. E., S. A. Bryce, J. M. Omernik, J. A.
+Comstock, A. C. Rogers, B. Harrison, S. L. Hatch
+and D. Bezanson
+2004 Ecoregions of Texas. U.S. Geological
+Survey.
+
+Kutac, E. A., and S. C. Caran
+1994 Birds and Other Wildlife of South Central
+Texas. University of Texas, Austin.
+
+Hampton, N.
+1994 Chapter 5: Amphibians and Reptiles. In
+Birds and Other Wildlife of South Central
+Texas, edited by E. A. Kutac and S. C.
+Caran, pp. 113-130.
+
+Lyndon B. Johnson School of Public Affairs
+1978 Preserving Texas' Natural Heritage: A
+Report by The Natural Heritage Policy
+Research Project. Lyndon B. Johnson
+School of Public Affairs at the University
+of Texas at Austin.
+
+Hester, T. R.
+2004 The Prehistory of South Texas. Bulletin
+of the Texas Archeological Society
+66:427–459.
+
+24
+
+Ricklis, R. A.
+1992 The Spread of a Late Prehistoric Bison
+Hunting Complex: Evidence from the
+South-Central Coastal Prairie of Texas.
+Plains Anthropologist 37(140):261–273.
+
+McKinney, W. W.
+1981 Early Holocene Adaptations in Central
+and Southern Texas: The Problem of the
+Paleo-Indian-Archaic Transition. Bulletin
+of the Texas Archeological Society
+52:91–120.
+
+Ricklis, Robert A. and Michael B. Collins
+1994 Archaic and Late Prehistoric Human
+Ecology in the Middle Onion Creek
+valley, Hays County, Texas. Studies in
+Archeology 19. Texas Archeological
+Research Laboratory, The University of
+Texas at Austin.
+
+Natural Resource Conservation Service (NRCS)
+2014 Web Soil Survey. Available at
+http://websoilsurvey.nrcs.usda.gov.
+Accessed September 22, 2014. U.S.
+Department of Agriculture (USDA).
+Newcomb, W. W., Jr.
+2002 The Indians of Texas.
+Texas Press, Austin.
+
+Riskind, D. H. and D. D. Diamond
+1986 Communities of the Edwards Plateau of
+Texas: An Overview Emphasizing the
+Balcones Escarpment Zone between San
+Antonio and Austin with Special
+Attention to Landscape Contrasts and
+Natural Diversity. In The Balcones
+Escarpment:
+Geology,
+Hydrology,
+Ecology and Social Development in
+Central Texas, edited by P. L. Abbot and
+C. M. Woodruff, pp. 21-32. Geological
+Society of America, San Diego.
+
+University of
+
+Omernik, J. M.
+1987 Map Supplement: Ecoregions of the
+Conterminous United States. Annals of
+the
+Association
+of
+American
+Geographers 77(1):118-125.
+Patterson, P. E.
+1987 Archaeological Excavations at 41LL78,
+the Slab Site, Llano County, Texas.
+Publications in Archaeology, Report No.
+34. Texas State Department of Highways
+and Public Transportation, Austin, Texas.
+
+Smeins, F. E. and D. D. Diamond
+1983 Remnant Grasslands of the Fayette
+Prairie, Texas. American Midland
+Naturalist 110(1):1-13.
+
+Perttula, Timothy K. (ed.)
+2004 The Prehistory of Texas. Texas A&M
+University Anthropology Series No. 9.
+Texas A&M University Press, College
+Station, Texas.
+
+Spearing, Darwin
+1991 Roadside Geology Series: Roadside
+Geology of Texas. Mountain Press
+Publishing Company. Missoula, MT.
+
+Pertulla, T. K., M. R. Miller, R. A. Ricklis, D. J.
+Prikryl, and C. Lintz
+1995 Prehistoric and Historic Aboriginal
+Ceramics in Texas. Bulletin of the Texas
+Archeological Society 66:175–235.
+
+Suhm, D. A.
+1960 A Review of Central Texas Archeology.
+Bulletin of the Texas Archeological
+Society 29:63–107.
+
+Prewitt, E. R.
+1981 Cultural Chronology in Central Texas.
+Bulletin of the Texas Archeological
+Society 52:65–89.
+1985
+
+Swanson, Eric R.
+2004 Geo-Texas: A Guide to the Earth
+Sciences. Texas A&M Press, College
+Station.
+
+From Circleville to Toyah: Comments on
+the Central Texas Chronology. Bulletin of
+the Texas Archeological Society 54:201–
+238.
+
+Toomey, R. S., III, M. D. Blum, and S. Valastro, Jr.
+1993 Late
+Quaternary
+Climates
+and
+Environments of the Edwards Plateau,
+Texas. Global and Planetary Change
+7:299–320.
+
+Richardson, R. N.
+1981 Texas, The Lone Star State. Prentice-Hall,
+Inc. Englewood Cliffs, N.J.
+25
+
+Toomey III, R. S. and S. C. Caran
+1994 Chapter 4: Mammals. In Birds and Other
+Wildlife of South Central Texas, edited
+by E. A. Kutac and S. C. Caran, pp. 103112. University of Texas Press, Austin.
+Turner, E. S., and T. R. Hester
+1999 A Field Guide to Stone Artifacts of Texas
+Indians. Third Edition. Texas Monthly
+Field Guide Series. Gulf Publishing
+Company, Houston, Texas.
+
+26
+
+APPENDIX A
+SHOVEL TEST RESULTS
+
+This page intentionally left blank.
+
+Site
+Trinomial
+
+Isolated
+Find
+
+ST ID
+
+Depth
+(cmbs)
+
+Pos/Neg
+
+Munsell
+
+MC01
+
+0–15
+
+N
+
+5YR3/4
+
+41HY495
+
+MC02
+
+0–3
+
+N
+
+10YR3/2
+
+41HY495
+
+MC03
+
+0–15
+
+N
+
+7.5YR3/3
+
+MC04
+
+0–10
+
+N
+
+7.5YR3/3
+
+MC05
+
+0–15
+
+N
+
+10YR3/4
+
+41HY495
+
+MC06
+
+0–15
+
+N
+
+7.5YR4/4
+
+41HY495
+
+MC06
+
+15+
+
+N
+
+7.5YR3/3
+
+Soil Color
+dark
+reddish
+brown
+very dark
+grayish
+brown
+dark
+brown
+dark
+brown
+dark
+yellowish
+brown
+brown
+dark
+brown
+
+Soil
+Texture
+
+Inclusions
+
+Comments/Reason For
+Termination
+
+sandy clay
+loam
+
+30% large
+cobbles
+
+No cultural material encountered.
+Terminated at bedrock.
+
+clay loam
+
+50%
+fragmented
+bedrock
+
+No cultural material encountered.
+Terminated at bedrock.
+
+sandy clay
+loam
+sandy clay
+loam
+sandy clay
+loam
+sandy loam
+
+10% gravels
+
+50% chert and
+limestone
+cobbles
+
+No cultural material encountered.
+Terminated due to dense cobbles.
+
+No cultural material encountered.
+Terminated at bedrock.
+
+silty clay
+
+MC07
+
+0–30
+
+N
+
+10YR3/3
+
+dark
+brown
+
+sandy loam
+
+41HY496
+
+MC08
+
+0–30
+
+N
+
+10YR3/3
+
+dark
+brown
+
+30% gravels
+and cobbles;
+80%
+degrading
+bedrock at
+base
+
+clay loam
+
+20% gravels
+
+41HY496
+
+MC09
+
+0–35
+
+N
+
+10YR3/3
+
+dark
+brown
+
+clay loam
+
+MC10
+
+0–5
+
+N
+
+10YR3/3
+
+dark
+brown
+
+sandy loam
+
+MC11
+
+0–15
+
+N
+
+7.5YR4/4
+
+brown
+
+sandy loam
+
+15–20
+
+N
+
+5YR3/3
+
+dark
+reddish
+brown
+
+clay loam
+
+0–25
+
+P
+
+7.5YR4/4
+
+brown
+
+IF01
+
+MC12
+
+A-1
+
+sandy clay
+loam
+
+No cultural material encountered.
+Terminated at basal clay.
+No cultural material encountered.
+Terminated at bedrock.
+
+10% chert and
+limestone
+cobbles
+80%
+fragmented
+bedrock
+30% limestone
+cobbles
+
+No cultural material encountered.
+No cultural material encountered.
+Terminated at basal clay.
+
+No cultural material encountered.
+Terminated due to compact soils.
+No cultural material encountered.
+Terminated due to compact soils.
+No cultural material encountered.
+Terminated at bedrock.
+No cultural material encountered.
+No cultural material encountered.
+Terminated at basal clay.
+
+30% limestone
+cobbles
+
+0–25cmbs: one gray chert
+secondary flake.
+
+Site
+Trinomial
+
+Isolated
+Find
+
+ST ID
+
+Depth
+(cmbs)
+
+Pos/Neg
+
+Munsell
+
+Soil Color
+
+IF01
+
+MC12
+
+25–30
+
+N
+
+5YR3/3
+
+dark
+reddish
+brown
+
+MC13
+
+0–25
+
+N
+
+7.5YR4/4
+
+brown
+
+MC13
+
+25–30
+
+N
+
+5YR3/3
+
+dark
+reddish
+brown
+
+MC14
+
+0–25
+
+N
+
+7.5YR4/4
+
+brown
+
+MC14
+
+25–30
+
+N
+
+5YR3/3
+
+dark
+reddish
+brown
+
+MC15
+
+0–30
+
+N
+
+7.5YR4/4
+
+brown
+
+MC15
+
+30–35
+
+N
+
+5YR3/3
+
+dark
+reddish
+brown
+
+MC16
+
+0–3
+
+N
+
+7.5YR4/4
+
+brown
+
+sandy loam
+
+MC17
+
+0–3
+
+N
+
+7.5YR4/4
+
+brown
+
+sandy loam
+
+MC18
+
+0–10
+
+N
+
+10YR3/3
+
+dark
+brown
+
+sandy loam
+
+41HY498
+
+MC19
+
+0–3
+
+N
+
+7.5YR6/6
+
+reddish
+yellow
+
+sand
+
+41HY498
+
+MC20
+
+0–5
+
+N
+
+7.5YR4/4
+
+brown
+
+sandy loam
+
+41HY498
+
+MC21
+
+0–25
+
+N
+
+7.5YR4/4
+
+brown
+
+sandy loam
+
+41HY498
+
+MC21
+
+25–30
+
+N
+
+5YR3/3
+
+41HY498
+
+MC22
+
+0–20
+
+P
+
+10YR3/4
+
+41HY498
+
+MC23
+
+0–10
+
+N
+
+10YR3/4
+
+41HY498
+
+dark
+reddish
+brown
+dark
+yellowish
+brown
+dark
+yellowish
+brown
+
+A-2
+
+Soil
+Texture
+
+Inclusions
+
+No cultural material encountered.
+Terminated at basal clay.
+
+clay
+sandy clay
+loam
+
+30% limestone
+cobbles
+
+30% limestone
+cobbles
+
+No cultural material encountered.
+No cultural material encountered.
+Terminated at basal clay.
+
+clay
+sandy clay
+loam
+
+No cultural material encountered.
+No cultural material encountered.
+Terminated at basal clay.
+
+clay
+sandy clay
+loam
+
+Comments/Reason For
+Termination
+
+30% limestone
+cobbles
+
+No cultural material encountered.
+No cultural material encountered.
+Terminated at basal clay.
+
+clay
+
+50%
+fragmented
+bedrock
+50%
+fragmented
+bedrock
+rare chert and
+limestone
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+No cultural material encountered.
+Terminated at bedrock.
+No cultural material encountered.
+Terminated at bedrock.
+No cultural material encountered.
+Terminated at bedrock.
+No cultural material encountered.
+Terminated at bedrock.
+No cultural material encountered.
+
+clay
+
+No cultural material encountered.
+Terminated at basal clay.
+
+sandy loam
+
+0–20cmbs: 6 gray chert secondary
+flakes; one chert edge–modified
+flake. Terminated at bedrock.
+
+sandy loam
+
+50% gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+
+Site
+Trinomial
+
+Isolated
+Find
+
+ST ID
+
+Depth
+(cmbs)
+
+Pos/Neg
+
+Munsell
+
+Soil Color
+
+41HY498
+
+MC24
+
+0–5
+
+N
+
+7.5YR6/6
+
+reddish
+yellow
+
+41HY498
+
+MC25
+
+0–10
+
+N
+
+7.5YR4/4
+
+brown
+
+41HY498
+
+MC26
+
+0–35
+
+N
+
+10YR3/3
+
+dark
+brown
+
+sandy loam
+
+41HY498
+
+MC27
+
+0–5
+
+N
+
+7.5YR4/4
+
+brown
+
+sandy loam
+
+41HY498
+
+MC28
+
+0–10
+
+P
+
+7.5YR3/3
+
+dark
+brown
+
+sandy clay
+loam
+
+41HY498
+
+MC29
+
+0–30
+
+N
+
+10YR3/3
+
+41HY498
+
+MC29
+
+30–35
+
+N
+
+7.5YR3/3
+
+dark
+brown
+dark
+brown
+
+Soil
+Texture
+
+Inclusions
+
+sandy clay
+sandy clay
+loam
+
+sandy loam
+
+few limestone
+gravels
+30% tumbled
+chert cobbles
+90% cobbles
+
+20% rounded
+cobbles
+
+clay loam
+rootlets; roots;
+onion bulbs;
+limestone
+cobbles at
+base
+rootlets; few
+angular
+limestone
+gravels
+rootlets;
+limestone and
+chert gravels
+
+Comments/Reason For
+Termination
+No cultural material encountered.
+Terminated at basal clay.
+No cultural material encountered.
+Terminated at basal clay.
+No cultural material encountered.
+Terminated due to dense cobbles.
+No cultural material encountered.
+Terminated due to dense cobbles.
+0–10cmbs: 1 chert secondary flake
+fragment. Terminated at basal
+clay.
+No cultural material encountered.
+No cultural material encountered.
+Terminated at basal clay.
+No cultural material encountered.
+Terminated at bedrock.
+
+AY01
+
+0–30
+
+N
+
+7.5YR2.5/3
+
+very dark
+brown
+
+clay loam
+
+41HY495
+
+AY02
+
+0–25
+
+N
+
+7.5YR2.5/3
+
+very dark
+brown
+
+clay loam
+
+41HY495
+
+AY03
+
+0–20
+
+N
+
+7.5YR2.5/3
+
+very dark
+brown
+
+clay loam
+
+41HY495
+
+AY03
+
+20–30
+
+N
+
+2.5YR2.5/4
+
+dark
+reddish
+brown
+
+clay
+
+rootlets;
+slickensides
+
+No cultural material encountered.
+Terminated at basal clay.
+
+41HY495
+
+AY04
+
+0–25
+
+N
+
+7.5YR2.5/3
+
+very dark
+brown
+
+clay loam
+
+No cultural material encountered.
+
+41HY495
+
+AY04
+
+25–30
+
+N
+
+2.5YR2.5/4
+
+dark
+reddish
+brown
+
+rootlets;
+limestone and
+chert gravels
+
+clay
+
+rootlets;
+slickensides
+
+No cultural material encountered.
+Terminated at basal clay.
+
+7.5YR2.5/3
+
+very dark
+brown
+
+clay loam
+
+rootlets;
+limestone
+gravels and
+cobbles
+
+No cultural material encountered.
+Terminated at bedrock.
+
+41HY495
+
+AY05
+
+0–30
+
+N
+
+A-3
+
+No cultural material encountered.
+Terminated at bedrock.
+No cultural material encountered.
+
+Site
+Trinomial
+
+Isolated
+Find
+
+ST ID
+
+Depth
+(cmbs)
+
+Pos/Neg
+
+Soil
+Texture
+
+Munsell
+
+Soil Color
+
+clay
+
+Inclusions
+rootlets;
+limestone
+cobbles; chert
+gravels
+rootlets;
+micro-gravels
+at base
+rootlets; insect
+burrows; few
+limestone
+pebbles
+chert cobbles;
+limestone
+gravels
+
+Comments/Reason For
+Termination
+
+AY06
+
+0–25
+
+N
+
+5YR2.5/2
+
+dark
+reddish
+brown
+
+AY07
+
+0–50
+
+N
+
+7.5YR2.5/3
+
+very dark
+brown
+
+clay loam
+
+AY08
+
+0–20
+
+N
+
+10YR4/2
+
+dark
+grayish
+brown
+
+clay loam
+
+AY09
+
+0–15
+
+N
+
+7.5YR2.5/3
+
+very dark
+brown
+
+clay loam
+
+AY09
+
+15–25
+
+N
+
+2.5YR2.5/4
+
+41HY495
+
+AY10
+
+0–25
+
+N
+
+10YR3/3
+
+41HY496
+
+AY11
+
+0–20
+
+N
+
+10YR3/3
+
+41HY496
+
+AY12
+
+0–20
+
+P
+
+7.5YR2.5/3
+
+very dark
+brown
+
+clay loam
+
+41HY496
+
+AY12
+
+20–25
+
+N
+
+2.5YR2.5/4
+
+dark
+reddish
+brown
+
+clay
+
+41HY496
+
+AY13
+
+0–20
+
+N
+
+7.5YR2.5/3
+
+very dark
+brown
+
+clay loam
+
+AY14
+
+0–20
+
+N
+
+7.5YR2.5/3
+
+very dark
+brown
+
+clay loam
+
+AY14
+
+20–30
+
+N
+
+2.5YR2.5/4
+
+dark
+reddish
+brown
+
+clay
+
+rootlets;
+slickensides
+
+No cultural material encountered.
+Terminated at basal clay.
+
+7.5YR2.5/3
+
+very dark
+brown
+
+clay loam
+
+rootlets; many
+large angular
+limestone
+cobbles
+
+No cultural material encountered.
+Terminated at bedrock.
+
+AY15
+
+0–20
+
+N
+
+dark
+reddish
+brown
+dark
+brown
+dark
+brown
+
+A-4
+
+clay
+clay loam
+clay loam
+
+No cultural material encountered.
+Terminated at bedrock.
+No cultural material encountered.
+Terminated at basal clay.
+No cultural material encountered.
+Terminated at bedrock.
+No cultural material encountered.
+
+limestone
+pebbles
+
+No cultural material encountered.
+Terminated at basal clay.
+
+limestone
+cobbles
+limestone
+cobbles
+rootlets; chert
+and limestone
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+No cultural material encountered.
+Terminated at bedrock.
+0–10cmbs: 1 tertiary chert flake; 1
+chert shatter. 10–20cmbs: 2 large
+chert tertiary flakes.
+
+rootlets;
+slickensides
+
+No cultural material encountered.
+Terminated at basal clay.
+
+rootlets; chert
+and limestone
+gravels
+rootlets;
+angular
+limestone
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+No cultural material encountered.
+
+Site
+Trinomial
+
+Isolated
+Find
+
+ST ID
+
+Depth
+(cmbs)
+
+Pos/Neg
+
+Munsell
+
+Soil Color
+very dark
+brown
+
+Soil
+Texture
+clay loam
+
+No cultural material encountered.
+Terminated at bedrock.
+
+clay loam
+
+rootlets; chert
+gravels
+
+No cultural material encountered.
+
+clay
+
+rootlets
+
+No cultural material encountered.
+Terminated at basal clay.
+
+clay loam
+
+rootlets; chert
+gravels
+
+No cultural material encountered.
+
+clay
+
+rootlets
+
+No cultural material encountered.
+Terminated at basal clay.
+
+clay loam
+
+rootlets; rare
+rounded chert
+gravel
+
+No cultural material encountered.
+
+clay
+
+rootlets
+
+No cultural material encountered.
+Terminated at basal clay.
+
+clay loam
+
+rootlets; rare
+rounded chert
+gravel
+
+No cultural material encountered.
+
+clay
+
+rootlets
+
+No cultural material encountered.
+Terminated at basal clay.
+
+0–15
+
+N
+
+10YR2/2
+
+AY17
+
+0–30
+
+N
+
+5YR4/2
+
+AY17
+
+30–35
+
+N
+
+2.5YR2.5/4
+
+AY18
+
+0–25
+
+N
+
+5YR4/2
+
+AY18
+
+25–30
+
+N
+
+2.5YR2.5/4
+
+AY19
+
+0–30
+
+N
+
+5YR4/2
+
+AY19
+
+30–35
+
+N
+
+2.5YR2.5/4
+
+AY20
+
+0–30
+
+N
+
+5YR4/2
+
+AY20
+
+30–35
+
+N
+
+2.5YR2.5/4
+
+AY21
+
+0–20
+
+N
+
+10YR4/1
+
+dark gray
+
+clay loam
+
+AY22
+
+0–10
+
+N
+
+10YR4/2
+
+dark
+grayish
+brown
+
+clay loam
+
+AY23
+
+0–20
+
+N
+
+10YR4/2
+
+dark
+grayish
+brown
+
+clay loam
+
+AY24
+
+0–15
+
+N
+
+10YR4/2
+
+dark
+grayish
+brown
+
+clay loam
+
+A-5
+
+Comments/Reason For
+Termination
+
+roots; rootlets;
+limestone
+gravels and
+cobbles
+
+AY16
+
+dark
+reddish
+gray
+dark
+reddish
+brown
+dark
+reddish
+gray
+dark
+reddish
+brown
+dark
+reddish
+gray
+dark
+reddish
+brown
+dark
+reddish
+gray
+dark
+reddish
+brown
+
+Inclusions
+
+rootlets; chert
+and limestone
+gravels
+rootlets;
+organics;
+limestone
+gravels
+rootlets;
+organics;
+limestone
+gravels
+roots; organics
+
+No cultural material encountered.
+Terminated due to dense cobbles.
+No cultural material encountered.
+Terminated at bedrock.
+No cultural material encountered.
+Terminated at bedrock.
+No cultural material encountered.
+Terminated at bedrock.
+
+Site
+Trinomial
+
+Isolated
+Find
+
+ST ID
+
+Depth
+(cmbs)
+
+Pos/Neg
+
+Munsell
+
+Soil Color
+
+Soil
+Texture
+clay loam
+
+No cultural material encountered.
+
+rootlets
+
+No cultural material encountered.
+Terminated at basal clay.
+
+41HY497
+
+AY25
+
+0–25
+
+N
+
+5YR4/2
+
+41HY497
+
+AY25
+
+25–30
+
+N
+
+5YR4/2
+
+dark
+reddish
+gray
+
+clay
+
+clay loam
+
+clay
+
+AY26
+
+0–10
+
+N
+
+5YR4/2
+
+AY27
+
+0–25
+
+N
+
+10YR3/2
+
+very dark
+grayish
+brown
+
+41HY498
+
+AY28
+
+0–5
+
+N
+
+5YR4/2
+
+41HY498
+
+AY29
+
+0–10
+
+N
+
+5YR4/2
+
+AY30
+
+0–25
+
+N
+
+5YR4/2
+
+AY30
+
+25–30
+
+N
+
+2.5YR2.5/4
+
+AY31
+
+0–20
+
+N
+
+5YR4/2
+
+AY31
+
+20–25
+
+N
+
+2.5YR2.5/4
+
+41HY498
+
+AY32
+
+0–15
+
+N
+
+5YR4/2
+
+41HY498
+
+AY33
+
+0–30
+
+N
+
+10YR4/2
+
+41HY497
+
+dark
+reddish
+gray
+dark
+reddish
+gray
+dark
+reddish
+gray
+dark
+reddish
+brown
+dark
+reddish
+gray
+dark
+reddish
+brown
+dark
+reddish
+gray
+dark
+grayish
+brown
+
+A-6
+
+Comments/Reason For
+Termination
+
+roots; one
+large
+limestone
+cobble
+
+dark
+reddish
+gray
+
+dark
+reddish
+gray
+
+Inclusions
+
+rootlets;
+organics;
+limestone
+gravels
+rootlets;
+rounded
+gravels and
+cobbles;
+slickensides
+
+No cultural material encountered.
+Terminated at bedrock.
+
+No cultural material encountered.
+Terminated at bedrock.
+
+loam
+
+gravels
+
+No cultural material encountered.
+Terminated due to disturbance.
+
+loam
+
+rootlets;
+angular chert
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+
+clay loam
+
+roots; rootlets;
+rare gravels
+
+No cultural material encountered.
+
+clay
+
+rootlets
+
+No cultural material encountered.
+Terminated at basal clay.
+
+clay loam
+
+roots; rootlets;
+rare gravels
+
+No cultural material encountered.
+
+clay
+
+rootlets
+
+No cultural material encountered.
+Terminated at basal clay.
+
+clay loam
+
+clay loam
+
+rootlets;
+abundant
+chert shatter
+roots; rootlets;
+limestone
+gravels and
+cobbles
+
+No cultural material encountered.
+Terminated at bedrock.
+No cultural material encountered.
+Terminated at bedrock.
+
+Site
+Trinomial
+
+Isolated
+Find
+
+ST ID
+
+Depth
+(cmbs)
+
+Pos/Neg
+
+Munsell
+
+Soil Color
+
+Soil
+Texture
+
+41HY498
+
+AY34
+
+0–15
+
+N
+
+5YR4/2
+
+dark
+reddish
+gray
+
+clay loam
+
+rootlets; 1%
+angular
+gravels
+
+41HY498
+
+AY35
+
+0–20
+
+P
+
+7.5YR4/4
+
+brown
+
+silty loam
+
+roots; rootlets
+
+41HY498
+
+AY35
+
+20+
+
+N
+
+2.5YR2.5/4
+
+dark
+reddish
+brown
+
+0–20cmbs: 4 secondary chert
+flakes; 7 chert shatter.
+
+clay
+
+rootlets
+
+No cultural material encountered.
+Terminated at basal clay.
+
+41HY498
+
+AY36
+
+0–10
+
+N
+
+7.5YR4/4
+
+brown
+
+silty loam
+
+No cultural material encountered.
+
+41HY498
+
+AY36
+
+10+
+
+N
+
+2.5YR2.5/4
+
+dark
+reddish
+brown
+
+rootlets; chert
+gravels
+
+clay
+
+rootlets
+
+No cultural material encountered.
+Terminated at basal clay.
+
+brown
+
+silty loam
+
+41HY498
+
+AY37
+
+0–25
+
+P
+
+7.5YR4/4
+
+41HY498
+
+AY38
+
+0–10
+
+N
+
+10YR4/2
+
+AY39
+
+0–40
+
+N
+
+10YR2/2
+
+AY39
+
+40–50
+
+N
+
+10YR4/3
+
+brown
+
+clay loam
+
+41HY498
+
+AY40
+
+0–20
+
+P
+
+5YR4/2
+
+dark
+reddish
+gray
+
+clay loam
+
+41HY498
+
+AY41
+
+0–20
+
+P
+
+5YR4/2
+
+dark
+reddish
+gray
+
+clay loam
+
+41HY498
+
+AY42
+
+0–15
+
+P
+
+5YR4/2
+
+dark
+reddish
+gray
+
+clay loam
+
+AY43
+
+0–20
+
+N
+
+7.5YR4/4
+
+brown
+
+silty clay
+
+AY43
+
+20–25
+
+N
+
+2.5YR2.5/4
+
+dark
+reddish
+brown
+
+clay
+
+dark
+grayish
+brown
+very dark
+brown
+
+A-7
+
+Inclusions
+
+Comments/Reason For
+Termination
+No cultural material encountered.
+Terminated at basal clay.
+
+0–10cmbs: 1 secondary chert
+flake; 1 lithic core; 13 lithic shatter.
+10–20cmbs: 3 flakes; 1 core with
+heavy patina. Terminated due to
+dense cobbles.
+
+clay loam
+
+rootlets; 80%
+limestone
+gravels
+
+clay loam
+
+roots; rootlets
+
+No cultural material encountered.
+
+rootlets;
+micro-gravels
+roots;
+limestone
+gravels and
+cobbles
+roots;
+limestone
+gravels and
+cobbles
+roots; rootlets;
+large
+limestone
+boulder
+rootlets; chert
+gravels
+
+No cultural material encountered.
+Terminated due to compact soils.
+
+0–10cmbs: 5 tertiary flakes; 4 lithic
+shatter. Terminated at bedrock.
+
+rootlets
+
+No cultural material encountered.
+Terminated at basal clay.
+
+No cultural material encountered.
+Terminated due to dense gravels.
+
+0–20cmbs: 1 tertiary flake.
+Terminated at bedrock.
+
+0–15cmbs: 4 tertiary flakes; 4 lithic
+shatter. Terminated at bedrock.
+No cultural material encountered.
+
+Site
+Trinomial
+
+Isolated
+Find
+
+ST ID
+
+Depth
+(cmbs)
+
+Pos/Neg
+
+Munsell
+
+Soil Color
+
+Soil
+Texture
+
+AY44
+
+0–20
+
+N
+
+5YR4/2
+
+dark
+reddish
+gray
+
+clay loam
+
+AY45
+
+0–25
+
+N
+
+10YR2/2
+
+very dark
+brown
+
+clay loam
+
+AY45
+
+25–30
+
+N
+
+2.5YR2.5/4
+
+dark
+reddish
+brown
+
+clay
+
+clay loam
+
+AY46
+
+0–15
+
+N
+
+10YR2/2
+
+very dark
+brown
+
+41HY498
+
+AY47
+
+0–10
+
+N
+
+5YR4/2
+
+dark
+reddish
+gray
+
+clay loam
+
+41HY498
+
+AY48
+
+0–30
+
+N
+
+10YR3/4
+
+dark
+yellowish
+brown
+
+clay loam
+
+JU01
+
+0–30
+
+N
+
+10YR4/2
+
+dark
+grayish
+brown
+
+silty loam
+
+41HY495
+
+JU02
+
+0–30
+
+N
+
+2.5YR3/6
+
+dark red
+
+clay loam
+
+41HY495
+
+JU03
+
+0–15
+
+N
+
+10YR3/2
+
+41HY495
+
+JU04
+
+0–30
+
+N
+
+10YR4/4
+
+41HY495
+
+JU05
+
+0–15
+
+N
+
+10YR4/6
+
+JU06
+
+0–35
+
+N
+
+10YR4/6
+
+very dark
+grayish
+brown
+dark
+yellowish
+brown
+dark
+yellowish
+brown
+dark
+yellowish
+brown
+
+A-8
+
+Inclusions
+rootlets;
+limestone
+cobbles
+roots; rootlets;
+semi-rounded
+gravels
+rootlets
+roots; rootlets;
+gravels;
+limestone
+cobbles
+rootlets;
+gravels;
+limestone
+cobbles
+gravels; chert
+pebbles
+few gravels;
+degrading
+bedrock at
+base
+few chert
+gravels
+
+Comments/Reason For
+Termination
+No cultural material encountered.
+Terminated at bedrock.
+No cultural material encountered.
+No cultural material encountered.
+Terminated at basal clay.
+No cultural material encountered.
+Terminated due to dense cobbles.
+No cultural material encountered.
+Terminated at bedrock.
+No cultural material encountered.
+Terminated due to disturbance.
+No cultural material encountered.
+Terminated at bedrock.
+No cultural material encountered.
+Terminated at bedrock.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+
+Site
+Trinomial
+
+ST ID
+
+Depth
+(cmbs)
+
+Pos/Neg
+
+Munsell
+
+Soil Color
+
+JU07
+
+0–30
+
+N
+
+10YR4/6
+
+JU07
+
+30–40
+
+N
+
+2.5YR3/6
+
+JU08
+
+0–15
+
+N
+
+10YR3/2
+
+JU09
+
+0–25
+
+N
+
+10YR3/2
+
+JU09
+
+25–30
+
+N
+
+2.5YR3/6
+
+JU10
+
+0–35
+
+N
+
+10YR3/2
+
+41HY496
+
+JU11
+
+0–35
+
+N
+
+10YR3/2
+
+41HY496
+
+JU11
+
+35–45
+
+N
+
+10YR2/2
+
+41HY496
+
+JU12
+
+0–20
+
+N
+
+10YR4/4
+
+JU13
+
+0–30
+
+N
+
+7.5YR3/2
+
+JU14
+
+0–35
+
+N
+
+10YR3/2
+
+JU15
+
+0–20
+
+N
+
+10YR4/4
+
+JU15
+
+20+
+
+N
+
+2.5YR3/6
+
+JU16
+
+0–10
+
+N
+
+10YR4/6
+
+JU16
+
+10–20
+
+N
+
+10YR3/2
+
+41HY495
+
+Isolated
+Find
+
+Inclusions
+
+dark
+yellowish
+brown
+
+Soil
+Texture
+
+Comments/Reason For
+Termination
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+
+dark red
+
+clay
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at basal clay.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+
+clay
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at basal clay.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at basal clay.
+
+very dark
+grayish
+brown
+very dark
+grayish
+brown
+dark red
+very dark
+grayish
+brown
+very dark
+grayish
+brown
+very dark
+grayish
+brown
+dark
+yellowish
+brown
+dark
+brown
+very dark
+grayish
+brown
+dark
+yellowish
+brown
+dark red
+dark
+yellowish
+brown
+very dark
+grayish
+brown
+
+A-9
+
+clay loam
+
+No cultural material encountered.
+Terminated at basal clay.
+
+silty clay
+loam
+
+No cultural material encountered.
+Terminated due to compact soils.
+
+silty loam
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+
+clay
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at basal clay.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+
+clay
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at basal clay.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+
+clay
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at basal clay.
+
+Site
+Trinomial
+
+Isolated
+Find
+
+ST ID
+
+Depth
+(cmbs)
+
+Pos/Neg
+
+Munsell
+
+Soil
+Texture
+
+Inclusions
+
+Comments/Reason For
+Termination
+
+JU17
+
+0–15
+
+N
+
+10YR4/6
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+
+JU17
+
+15–25
+
+N
+
+10YR3/2
+
+clay
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at basal clay.
+
+JU18
+
+0–30
+
+N
+
+10YR3/2
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+
+JU18
+
+30–35
+
+N
+
+2.5YR3/6
+
+dark red
+
+clay
+
+No cultural material encountered.
+Terminated at basal clay.
+
+10YR3/2
+
+very dark
+grayish
+brown
+
+few chert
+gravels
+
+JU19
+
+0–25
+
+N
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+
+JU19
+
+25–30
+
+N
+
+2.5YR3/6
+
+dark red
+
+clay
+
+No cultural material encountered.
+Terminated at basal clay.
+
+0–30
+
+N
+
+10YR3/2
+
+very dark
+grayish
+brown
+
+few chert
+gravels
+
+JU20
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+
+JU20
+
+30–35
+
+N
+
+2.5YR3/6
+
+dark red
+
+clay
+
+JU21
+
+0–35
+
+N
+
+2.5YR3/6
+
+dark red
+
+clay loam
+
+few chert
+gravels
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at basal clay.
+No cultural material encountered.
+Terminated due to disturbance.
+
+JU22
+
+0–20
+
+N
+
+10YR3/2
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+
+JU23
+
+0–30
+
+N
+
+2.5YR3/4
+
+41HY497
+
+JU24
+
+0–25
+
+N
+
+10YR4/4
+
+41HY497
+
+JU24
+
+25–30
+
+N
+
+2.5YR3/4
+
+JU25
+
+0–10
+
+N
+
+10YR4/4
+
+JU25
+
+10–15
+
+N
+
+2.5YR3/4
+
+Soil Color
+dark
+yellowish
+brown
+very dark
+grayish
+brown
+very dark
+grayish
+brown
+
+very dark
+grayish
+brown
+dark
+reddish
+brown
+dark
+yellowish
+brown
+dark
+reddish
+brown
+dark
+yellowish
+brown
+dark
+reddish
+brown
+
+A-10
+
+clay loam
+
+No cultural material encountered.
+Terminated at basal clay.
+
+clay
+clay loam
+
+roots; rootlets
+
+No cultural material encountered.
+No cultural material encountered.
+Terminated at basal clay.
+
+clay
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+
+clay
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at basal clay.
+
+Site
+Trinomial
+
+ST ID
+
+Depth
+(cmbs)
+
+Pos/Neg
+
+Munsell
+
+Soil Color
+
+Soil
+Texture
+
+JU26
+
+0–15
+
+N
+
+2.5YR3/6
+
+dark red
+
+clay
+
+JU27
+
+0–25
+
+N
+
+2.5YR3/6
+
+dark red
+
+clay loam
+
+JU27
+
+25–30
+
+N
+
+10YR3/2
+
+JU28
+
+0–30
+
+N
+
+2.5YR3/4
+
+JU27\8
+
+30–35
+
+N
+
+10YR3/2
+
+41HY498
+
+JU29
+
+0–25
+
+P
+
+2.5YR3/4
+
+41HY498
+
+JU29
+
+25–30
+
+N
+
+10YR3/2
+
+41HY498
+
+JU30
+
+0–15
+
+N
+
+2.5YR3/4
+
+41HY498
+
+JU31
+
+0–20
+
+N
+
+10YR4/4
+
+41HY498
+
+JU32
+
+0–25
+
+N
+
+10YR3/2
+
+41HY498
+
+JU33
+
+0–20
+
+N
+
+2.5YR3/4
+
+41HY498
+
+JU34
+
+0–15
+
+N
+
+10YR3/2
+
+41HY498
+
+JU34
+
+15–20
+
+N
+
+2.5YR3/4
+
+41HY498
+
+JU35
+
+0–10
+
+P
+
+2.5YR3/6
+
+dark red
+
+clay loam
+
+few chert
+gravels
+
+41HY498
+
+JU36
+
+0–30
+
+N
+
+2.5YR3/6
+
+dark red
+
+clay loam
+
+few chert
+gravels
+
+41HY498
+
+Isolated
+Find
+
+very dark
+grayish
+brown
+dark
+reddish
+brown
+very dark
+grayish
+brown
+dark
+reddish
+brown
+very dark
+grayish
+brown
+dark
+reddish
+brown
+dark
+yellowish
+brown
+very dark
+grayish
+brown
+dark
+reddish
+brown
+very dark
+grayish
+brown
+dark
+reddish
+brown
+
+A-11
+
+Inclusions
+few chert
+gravels
+few chert
+gravels
+
+Comments/Reason For
+Termination
+No cultural material encountered.
+Terminated at basal clay.
+No cultural material encountered.
+
+clay
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at basal clay.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+
+clay
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at basal clay.
+
+clay loam
+
+large chert
+gravels
+
+0–20cmbs: 22 tertiary flakes; 7
+secondary flakes.
+No cultural material encountered.
+Terminated at basal clay.
+
+clay
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+
+clay
+
+roots; rootlets
+
+No cultural material encountered.
+Terminated at basal clay.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+No cultural material encountered.
+Terminated at basal clay.
+
+clay
+
+0–10cmbs: 6 tertiary flakes; 2
+secondary flakes. Terminated at
+bedrock.
+No cultural material encountered.
+Terminated at bedrock.
+
+Site
+Trinomial
+
+Isolated
+Find
+
+ST ID
+
+Depth
+(cmbs)
+
+Pos/Neg
+
+Munsell
+
+41HY498
+
+JU37
+
+0–25
+
+N
+
+10YR3/2
+
+41HY498
+
+JU37
+
+25–30
+
+N
+
+2.5YR3/4
+
+41HY498
+
+JU38
+
+0–30
+
+P
+
+10YR4/4
+
+41HY498
+
+JU38
+
+30–35
+
+N
+
+2.5YR3/4
+
+41HY498
+
+JU39
+
+0–25
+
+P
+
+2.5YR3/6
+
+41HY498
+
+JU39
+
+25–30
+
+N
+
+2.5YR3/4
+
+41HY498
+
+JU40
+
+0–20
+
+N
+
+10YR3/2
+
+41HY498
+
+JU41
+
+0–10
+
+N
+
+2.5YR3/6
+
+41HY498
+
+JU42
+
+0–20
+
+N
+
+10YR3/2
+
+41HY498
+
+JU42
+
+20–25
+
+N
+
+2.5YR3/4
+
+41HY498
+
+JU43
+
+0–20
+
+N
+
+10YR3/2
+
+41HY498
+
+JU44
+
+0–10
+
+N
+
+7.5YR4/6
+
+41HY498
+
+JU45
+
+0–30
+
+N
+
+10YR4/4
+
+41HY498
+
+JU45
+
+30–35
+
+N
+
+2.5YR3/4
+
+Soil Color
+very dark
+grayish
+brown
+dark
+reddish
+brown
+dark
+yellowish
+brown
+dark
+reddish
+brown
+dark red
+dark
+reddish
+brown
+very dark
+grayish
+brown
+dark red
+very dark
+grayish
+brown
+dark
+reddish
+brown
+very dark
+grayish
+brown
+strong
+brown
+dark
+yellowish
+brown
+dark
+reddish
+brown
+
+A-12
+
+Soil
+Texture
+
+Inclusions
+
+Comments/Reason For
+Termination
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+No cultural material encountered.
+Terminated at basal clay.
+
+clay
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at basal clay.
+
+clay
+clay loam
+
+0–10cmbs: 2 tertiary flakes; 5
+chert shatter.
+
+few chert
+gravels
+
+0–10cmbs: 1 secondary chert
+flake.
+No cultural material encountered.
+Terminated at basal clay.
+
+clay
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+No cultural material encountered.
+Terminated at basal clay.
+
+clay
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+Terminated at bedrock.
+
+clay loam
+
+few chert
+gravels
+
+No cultural material encountered.
+
+clay
+
+No cultural material encountered.
+Terminated at basal clay.
+
+

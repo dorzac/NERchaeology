@@ -1,0 +1,4604 @@
+Cultural Resources Survey on Texas
+State Land for the Orla Gas Gathering
+System – Culberson Lateral Project in
+Reeves County, Texas
+
+Texas Antiquities Permit 7745
+SWCA Cultural Resources Report No. 16-469
+January 2017
+
+SUBMITTED TO:
+
+Enterprise Texas Pipeline, LLC
+1100 Louisiana Street
+Houston, Texas 77002
+
+SUBMITTED BY:
+
+SWCA Environmental Consultants
+5647 Jefferson Street NE
+Albuquerque, New Mexico 87109
+
+CONTAINS PRIVILEDGED INFORMATION – DO NOT RELEASE
+
+Cultural Resources Survey on Texas State Land
+for the Orla Gas Gathering System – Culberson
+Lateral Project in
+Reeves County, Texas
+
+Contains Privileged Information—Do Not Release
+
+Prepared for
+Enterprise Texas Pipeline LLC
+1100 Louisiana Street
+Houston, Texas 77002
+
+Prepared by
+Courtney Blair
+SWCA Environmental Consultants
+5647 Jefferson Street NE
+Albuquerque, New Mexico 87109
+(505) 254-1115
+www.swca.com
+
+SWCA Project No. 38761
+SWCA Cultural Resources Report No. 16-469
+
+January 6, 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Contents
+ABSTRACT ................................................................................................................................................ V
+MANAGEMENT SUMMARY ................................................................................................................ VI
+1 INTRODUCTION ................................................................................................................................ 1
+2 NATURAL AND CULTURAL SETTING ........................................................................................ 4
+2.1 Natural Setting ................................................................................................................................. 4
+2.2 Cultural Setting ................................................................................................................................ 5
+Paleoindian Tradition (11,500–7000 B.C.) ...................................................................................... 5
+Archaic Tradition (7000 B.C.–A.D. 500) ........................................................................................ 6
+Formative Tradition (A.D. 500–1450) ............................................................................................. 9
+Post-Formative (A.D. 1450–1500) ................................................................................................ 12
+2.3 Pre-field Investigations .................................................................................................................. 13
+2.4 Methods ......................................................................................................................................... 13
+2.5 Pedestrian Survey and Field Recording ......................................................................................... 13
+2.6 Shovel Tests ................................................................................................................................... 14
+2.7 Eligibility ....................................................................................................................................... 14
+3 FIELD SURVEY AND RESULTS.................................................................................................... 15
+3.1 Site Descriptions ............................................................................................................................ 15
+41RV104 ........................................................................................................................................ 15
+41RV105 ........................................................................................................................................ 23
+41RV106 ........................................................................................................................................ 30
+3.2 Isolated Finds ................................................................................................................................. 38
+4 DISCUSSION AND MANAGEMENT SUMMARY....................................................................... 41
+5 REFERENCES ................................................................................................................................... 43
+APPENDIX A. CULTURAL RESOURCE LOCATION INFORMATION ....................................... 59
+APPENDIX B. SHOVEL TESTS ............................................................................................................ 65
+
+SWCA Environmental Consultants
+
+i
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figures
+Figure 1.1.
+Figure 1.2.
+Figure 3.1.
+Figure 3.2.
+Figure 3.3.
+Figure 3.4.
+Figure 3.5.
+
+Figure 3.6.
+Figure 3.7.
+Figure 3.8.
+Figure 3.9.
+Figure 3.10.
+Figure 3.11.
+Figure 3.12.
+Figure 3.13.
+Figure 3.14.
+Figure 3.15.
+Figure 3.16.
+
+Figure 3.17.
+
+Figure 3.18.
+
+Project vicinity map for the Orla Gas Gathering System on Texas State land. .................... 2
+Project location map. ............................................................................................................ 3
+41RV104 site overview, facing north (Frame T25-5289)................................................... 16
+41RV104 site overview, facing east, showing transmission line to the left of frame . ....... 17
+Site map of 41RV104.......................................................................................................... 18
+A representative sample of debitage identified at 41RV104, detail (Frame T25-6153). .... 20
+Top row, left to right: PL 1, white chert modified flake, obverse and reverse (Frames T258221 and T25-3897). Bottom row, left to right: PL 2, white chert edge-modified flake,
+obverse (Frame T25-1488), and PL 3, tan limestone edge-modified flake, obverse . ........ 21
+41RV105 site overview, facing south, showing access road in front of frame . ................ 24
+41RV105 site overview, facing east, showing ephemeral two-track road left of frame. .... 24
+41RV105 site map............................................................................................................... 25
+A representative sample of debitage identified at 41RV105, detail (Frame T25-5452). .... 27
+PL 1, pink chert modified flake, obverse (Frame T25-2754). ............................................ 28
+41RV106 site overview, facing west, showing transmission line right of frame................ 31
+41RV106 site overview, facing southeast (Frame T25-8672). ........................................... 31
+41RV106 site overview, facing northeast, showing transmission corridor and disturbance
+in background (Frame T25-0791). ...................................................................................... 32
+41RV106 site map............................................................................................................... 33
+Representative sample of debitage identified at 41RV106, detail (Frame T25-0045)........ 35
+Top row: PL 1, gray, red, and tan chert uniface (Frame T25-2737), and PL 2, pink and
+black chert modified flake (Frame 25-0074). Bottom row: PL 3, tan chert early-stage
+biface, obverse and reverse (Frames T25-3149 and T25-6297). ........................................ 36
+Top row, left to right: IF 1, one white chert exhausted core and one brown chert flake,
+detail (Frame T25-0324); IF 2, five flaked debitage, four white chert and one green limy
+chert, detail (Frame T25-9701). Middle row, left to right: IF 3, six flaked debitage and one
+cortical shatter, four white chalcedony and three tan chert, detail (Frame T25-8827); IF 4,
+one tan chert tested cobble, detail (Frame T25-9022). Bottom row, left to right: IF 5, one
+gray chert tested cobble, one tan chert exhausted core, and one gray chert flake debitage,
+detail (Frame T25-1497); IM 6, six debitage—four white chert, one gray chert, and one
+gray petrified wood, detail (Frame T25-3279).................................................................... 39
+Top row, left to right: IF 7, one white chert tested cobble and one white chalcedony core,
+detail (Frame T25-6806); IF 8, two cortical shatter, one white chalcedony and one pink
+chert, and a gray chert tested cobble (Frame T25-6676). Middle row, left to right: IF 9, one
+gray and brown mottle chert multidirectional core, one white chalcedony tested cobble,
+and one brown chert tested cobble, detail (Frame T25-4408); IF 10, one white chalcedony
+tested cobble and two white chert flaked debitage, detail (Frame T25-5197). Bottom row,
+left to right: IF 11, one gray and white mottled chert utilized flake, detail, (Frames T257730 and T25-7519). ........................................................................................................... 40
+
+SWCA Environmental Consultants
+
+ii
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Tables
+Table 2.1.
+Table 3.1.
+Table 3.2.
+Table 3.3.
+Table 3.4.
+Table 3.5.
+Table 3.6.
+Table 3.7.
+Table 3.8.
+Table 3.9.
+Table 4.1.
+
+Soil Types for the Project Area ............................................................................................. 4
+Flaked Stone Debitage at 41RV104 .................................................................................... 19
+Point-located Artifacts at 41RV104 .................................................................................... 20
+Cores and Hammerstone at 41RV104................................................................................. 21
+Flaked Stone Debitage at 41RV105 .................................................................................... 26
+Cores and Hammerstone at 41RV105................................................................................. 28
+Flaked Stone Debitage at 41RV106 .................................................................................... 34
+Point-located Artifacts at 41RV106 .................................................................................... 35
+Cores and Hammerstone at 41RV106................................................................................. 36
+Texas Isolated Finds ........................................................................................................... 38
+Site Summary, Eligibility, and Mitigation Recommendations ........................................... 41
+
+SWCA Environmental Consultants
+
+iii
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+This page intentionally left blank
+
+SWCA Environmental Consultants
+
+iv
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+ABSTRACT
+On behalf of Enterprise Texas Pipeline LLC (Enterprise), SWCA Environmental Consultants (SWCA)
+conducted an intensive cultural resources survey of Texas State land for the proposed Orla Gas Gathering
+System – Culberson Lateral Project, 1.6 km (1 mile) of natural gas buried pipeline in west Texas. The proposed
+pipeline begins in Culberson County and terminates at the proposed gas plant site in Reeves County.
+Approximately 1.6 km (1 mile) of the pipeline crosses lands managed by Texas General Land Office (TX
+GLO) in Reeves County. This report discusses the undertaking on the TX GLO land portion, which requires
+project review by the Texas Historical Commission under the Antiquities Code of Texas (Texas Antiquities
+Permit Application #7745).
+The proposed area of potential effects for the project is the construction workspace, which includes
+Enterprise’s proposed right-of-way (ROW). The proposed pipeline corridor on state land in Texas consists of
+a 15.24-m (50-foot) permanent ROW, plus an additional 15.24 m (50 feet) of temporary workspace. The
+cultural resources investigation surveyed a total corridor width of 45.7 m (150 feet) to allow for flexibility in
+the location of the temporary workspace. The survey area totals 17.73 acres on TX GLO.
+SWCA performed a cultural resources file records review on July 14, 2016, to determine whether the project
+area had been previously surveyed for cultural resources and whether any archaeological sites have been
+recorded in or near the project area. To conduct this review, SWCA project manager Amanda Cohen searched
+the THC Texas Archeological Sites Atlas database and site files at the Texas Archeological Research
+Laboratory. One previously recorded site, 41RV15, was identified approximately 125.25 m (411 feet) north
+of the project area.
+From August 15 to 17, 2016, SWCA archaeologists Kevin Pintz and Courtney Blair conducted an
+archaeological survey of the staked centerline for the survey on Texas State land. Enterprise proposes to
+construct approximately 40 km (25 miles) of pipeline, two central delivery points, and a cryogenic gas
+processing plant, one mile of which falls on Texas GLO lands. Eleven isolated finds (IFs) and three prehistoric
+archaeological sites were documented within the project area in Texas. The IFs consist of prehistoric flaked
+stone debitage, lithic tools, and lithic manufacturing items. The prehistoric sites are artifact scatters with no
+associated features. The sites identified during the survey are recommended not eligible for the National
+Register of Historic Places within the surveyed corridor, and the portion outside the proposed corridor was
+not recorded or assessed for NRHP eligibility.
+Survey and site recordings were performed in accordance with the standards and guidelines of the Antiquities
+Code of Texas (13 Texas Administrative Code 26.20), THC policy, and the Section 106 of the National
+Historic Preservation Act of 1966 (36 Code of Federal Regulations 800). A 100 percent (intensive) cultural
+resources pedestrian inventory was conducted by SWCA archaeologists by walking parallel transects spaced
+no more than 15 m (49 feet) apart. Conditions for the survey were fair. The survey area had been heavily
+disturbed by road and transmission infrastructure construction associated with oil and gas activities to the
+north of the centerline, while south of the centerline had little to no disturbance by roads and construction
+disturbance. Vegetation was low to high in density, and ground visibility ranged from 40 to 80 percent.
+In total, 29 shovel tests were excavated in support of the project. Prior to conducting fieldwork, Natural
+Resources Conservation Service (2016) soil surveys within the project area and geologic maps were consulted
+in order to assess the potential for deeply buried cultural deposits. THC archaeological standards specify that
+a minimum of 16 shovel tests are required per mile within a survey corridor of 30.5 m (100 feet) unless surface
+visibility is greater than 30 percent. Areas with the potential for buried deposits were identified and
+subsequently assessed in the field. The SWCA survey placed an additional 18 shovel tests across the three
+newly identified sites.
+
+SWCA Environmental Consultants
+
+v
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+MANAGEMENT SUMMARY
+Project Title. Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System Project
+in Reeves County, Texas
+SWCA Project Number. 38761
+Project Description. SWCA Environmental Consultants (SWCA) conducted an archaeological
+background review and intensive pedestrian survey for the Enterprise Texas Pipeline LLC (Enterprise) Orla
+Gas Gathering System Project on state land in Reeves County, Texas, to determine whether the undertaking
+would impact any significant archaeological resources.
+Location. The project area is located on state land in Reeves County, Texas. The westernmost point of the
+project is located approximately 8.26 km (5.13 miles) west-southwest of Orla and the easternmost point is
+approximately 6.65 km (4.13 miles) west-southwest of Orla. The project is on the Orla, Texas 7.5-minute
+U.S. Geological Survey quadrangle.
+Number of Acres Surveyed. 17.73 acres in Texas
+Principal Investigator. Cherie Walth
+Date of Work. August 15–17, 2016
+Purpose of Work. Enterprise is seeking authorization to construct and operate the Orla Gas Gathering
+System, 40 km (25 miles) of natural gas buried pipeline, two central delivery point areas, and a future
+cryogenic gas plant, in southeast New Mexico and west Texas. The proposed pipeline begins in Culberson
+County and terminates at the proposed gas plant site in Reeves County. Approximately 1.6 km (1 mile) of
+the pipeline crosses Texas State land in Reeves County. This report discusses the undertaking on the Texas
+State land portion, which requires project review by the Texas Historical Commission under the Antiquities
+Code of Texas (Texas Antiquities Permit Application #7745).
+Enterprise is proposing to build the Orla Gas Gathering System to safely and efficiently transport natural
+gas from a central delivery point in southeast New Mexico and west Texas to a future cryogenic gas
+processing plant in Texas and eventually to market.
+The proposed APE for the project is the construction workspace, which includes Enterprise’s proposed
+right-of-way (ROW). The proposed pipeline corridor on TX GLO land consists of a 15.24-m (50-foot)
+permanent ROW, plus an additional 15.24-m (50-foot) of temporary workspace. The cultural resources
+investigation surveyed a total corridor width of 45.7 m (150 feet) to allow for flexibility in the location of
+the temporary workspace. The survey area totals 17.73 acres in Texas.
+Properties Identified. Eleven isolated finds (IFs) and three prehistoric archaeological sites were
+documented within the survey project area. The IFs consist of prehistoric flaked stone debitage, lithic tools,
+and lithic manufacturing items. The prehistoric sites are artifact scatter with no associated features.
+Eligibility of Properties. The three sites identified during the additional survey are recommended not
+eligible for the National Register of Historic Places (NRHP) within the proposed corridor.
+Curation. No artifacts were collected. All documents associated with the project are curated at the Texas
+Archaeological Research Laboratory (TARL).
+
+SWCA Environmental Consultants
+
+vi
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Comments. This report focuses on the section of the proposed pipeline survey area within lands managed
+by TX GLO in Reeves County, Texas. The three identified sites are recommended not eligible for the NRHP
+and no further management for these sites is recommended. The 11 IFs, by definition, are not eligible for
+the NRHP. SWCA recommends that the proposed project will have No Adverse Effect on historic
+properties and that it be allowed to proceed as planned. Site summaries, eligibility, and mitigation
+recommendations are provided below in Table 4.1.
+
+SWCA Environmental Consultants
+
+vii
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+This page left intentionally blank
+
+SWCA Environmental Consultants
+
+viii
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+1 INTRODUCTION
+Enterprise Texas Pipeline LLC (Enterprise) is seeking authorization to construct and operate the Orla Gas
+Gathering System – Culberson Lateral, 40 km (25 miles) of natural gas buried pipeline, two central delivery
+points, and a future cryogenic plant, in southeast New Mexico and west Texas. Enterprise is proposing to
+build the Orla Gas Gathering System to safely and efficiently transport natural gas from central delivery
+points to a future cryogenic processing plant in Texas and eventually to market. Enterprise’s objectives for
+the proposed project is to provide growth opportunities for producers in the Permian Basin by providing an
+additional outlet for natural gas. The pipeline would cross over 1.6 km (1 mile) of Texas State lands in
+Reeves County. This report discusses the undertaking on the Texas State land portion managed by the Texas
+General Land Office (TX GLO).
+The equipment required for construction of the pipeline and aboveground facilities would include trenchers,
+trackhoes, sidebooms, and other tractors. In addition, personal trucks, welding trucks, cranes, and flatbed
+trailers would be required. The majority of heavy equipment that would be necessary would remain in the
+construction right-of-way (ROW), minimizing activity on public roads. Enterprise is requesting a 22.86-mwide (100-foot-wide) construction ROW during the installation of the proposed pipeline. The ROW would
+consist of 15.24 m (50 feet) of temporary ROW to be used only during construction and 15.24 m (50 feet)
+of permanent ROW.
+Enterprise selected SWCA Environmental Consultants (SWCA) to conduct an intensive pedestrian
+archaeological survey of the area of potential effects (APE) to aid in complying with Section 106 of the
+National Historic Preservation Act. The survey for the Texas portion of the project is located in northwest
+Reeves County, Texas. The westernmost point of the project is located approximately 8.26 km (5.13 miles)
+west-southwest of Orla and the easternmost point is approximately 6.65 km (4.13 miles) west-southwest of
+Orla. It is located on the Orla (31103-G8), Texas 7.5-minute U.S. Geological Survey quadrangle (Figure
+1.1 and Figure 1.2, see Appendix A).
+This report details the results of a Class III intensive archaeological survey by SWCA for the segment of
+the proposed Orla Gas Gathering System – Culberson Lateral Project survey located on state land in Texas.
+This report discusses the undertaking on the Texas State land portion, which requires project review by the
+Texas Historical Commission under the Antiquities Code of Texas (Texas Antiquities Permit Application
+#7745). SWCA conducted the cultural resources survey from August 15 to 17, 2016. Three newly recorded
+sites and 11 isolated finds (IFs) were documented in Texas. Locations of the cultural resources are included
+in Appendix A.
+SWCA’s Cherie Walth acted as Principal Investigator for the investigation and Amanda Cohen acted as
+Project Manager. Fieldwork investigations were conducted by Kevin Pintz and Courtney Blair.
+
+SWCA Environmental Consultants
+
+1
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure 1.1.
+
+Project vicinity map for the Orla Gas Gathering System on Texas State land.
+
+SWCA Environmental Consultants
+
+2
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure 1.2.
+
+SWCA Environmental Consultants
+
+Project location map.
+
+3
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+2 NATURAL AND CULTURAL SETTING
+The project area lies within the northeastern portion of the Chihuahuan Desert in the Permian Basin in
+mesquite shrub dune habitat approximately 6.65 km (4.13 miles) west-southwest of the town of Orla, 1.82
+km (1.13 miles) south of Farm Road 652, and 8 km (4.97 miles) west of U.S. Highway 285. The project
+area and surrounding region have been impacted by oil drilling and pipeline activities, and the survey
+corridor is within the greater Permian Basin Oil Field.
+
+2.1
+
+Natural Setting
+
+The project area lies within an area of parabolic/coppice dunes in the Permian Basin region of west Texas.
+The project area is combination of Chihuahuan Desertscrub and Semidesert Grasslands (Brown 1994). The
+Chihuahuan Desertscrub biotic community is a succulent-shrub dominated high desert that transitions into
+semidesert grasslands to the east. Playas, once pluvial lakes, and now intermittently flooded wetlands
+devoid of vegetation, are located within this biome. Dominant shrub species include creosote bush,
+whitethorn acacia, and allthorn, with some invading mesquite, woody shrubs, and cacti. Yuccas are
+increasingly present in the upslopes of this biome and agaves grow in the project area west of the Pecos
+River (Brown 1994:169–175).
+Chihuahuan Desertscrub transitions into Semidesert Grasslands, which are warm-temperate grasslands
+characterized by seasonal droughts, drying winds, and moderate winter temperatures (Brown 1994:122).
+Modifications to this landscape from extended grazing activities include the replacement of the native grass
+cover with woody plants, shrubs, cacti, and forbs. In the project area, this biome is represented by mixed
+bunch grasses with taller scrub species like mesquite. Common species include grama and muhly grasses,
+bluestem grass, several species of threeawn, mallows, devil’s claw, yuccas, cacti, catclaw acacia, and
+javelina bush. Tarbush, whitethorn acacia, creosote bush, and mesquite are Chihuahuan Desertscrub species
+invading semidesert grassland biotic communities (Brown 1994:123–131). Mesquite, yuccas, and agaves
+were important prehistoric resources. Many of the other typical grasses and plants were also collected for
+subsistence and to provide material for non-subsistence use.
+Soils in the project area are mostly expressed on the surface by sandy loams, silty loams, dense gravels, and
+exposed gypsum bedrock in the form of undulating slopes to relatively flat, grassy areas. High percentages
+of calcuium carbonate nodules are common in areas containing these soils. Soils in the project area are
+identified by three soil types (Table 2.1).
+Table 2.1.
+
+Soil Types for the Project Area
+
+Map Unit
+Symbol
+12
+17
+
+Map Unit Name
+
+13.42
+3.92
+
+Percent of
+Project Area
+75.69
+22.11
+
+0.39
+
+2.2
+
+Acres
+
+Delnorte-Chilicotal association, 5 to 12 percent slopes, rolling
+Hoban-Reeves-Holloman, 0 to 2 percent slopes, nearly level
+Holloman-Reeves association, 1 to 5 percent slopes, gently
+20
+undulating
+Source: Natural Resources Conservation Service 2016.
+
+The most common animals found in the region are mule deer, prairie dog, ground squirrel, gopher, fox,
+kangaroo rat, desert shrew, coyote, black-tailed jackrabbit, and desert cottontail. Also typical to the area are
+scaled quail, burrowing owl, and Chihuahuan raven (Brown 1994), as well as mourning doves, wrens, and
+hawks. Representative snakes in the area include bullsnake, prairie rattlesnake, plains hognose snake, and
+western hooknose snake. Numerous lizards are also in the project area (Biota Information System of New
+Mexico 2016; Brown 1994).
+
+SWCA Environmental Consultants
+
+4
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Annual temperature extremes are (or can be) significant, with summer temperatures regularly exceeding
+100 degrees Fahrenheit and winter temperatures dropping well below freezing. The majority of
+precipitation occurs during the summer months and is associated with thunderstorms. Precipitation ranges
+from around 20.3 to 30.5 cm (8–12 inches) a year. The combination of rainfall and temperature makes for
+marked seasonality and a long growing season (Western Regional Climate Center [WRCC] 2016).
+The Pecos River is 10.85 km (6.74 miles) northeast of the eastern extent of the project area. Rustler Hills
+is 23.09 km (14.35 miles) to the southwest, and Owl Hills is approximately 26.89 km (16.71 miles)
+northwest of the survey corridor. Nearby drainages include Salt Creek, which is 1.27 km (0.79 mile) west
+of the western extent of the project area and undulates in a north and south direction. Screw Bean Draw is
+3.36 km (2.09 miles) west of the project area. Numerous small intermittent playas are 10.14 km (6.30 miles)
+to the east of the survey corridor.
+Vegetation in the project area is low to high in occurrence. Dominant species include mesquite shrub,
+acacia, and creosote bush. It is generally thought that there has been little change in the vegetation and
+climate of the area since middle Holocene times (8000 B.P.); thus, current environmental conditions provide
+a context for interpreting the prehistoric occupation of the area. Animals that would have been commonly
+found in the area prior to development of the oil fields include jackrabbit and cottontail rabbit, deer,
+pronghorn, various rats and mice, coyote, snakes, turtles, quail, and badger. Many of these species were
+also of economic importance to the prehistoric peoples of the area.
+
+2.2
+
+Cultural Setting
+
+The project area is located in Reeves County, Texas, extending approximately 21.23 km (13.19 mile) south
+of the Texas-New Mexico border. The following archaeological background describes prehistoric lifeways
+in southeast New Mexico and west Texas. Humans have inhabited southeast New Mexico and west Texas
+for at least the last 13,000 years. This occupation reflects a sequence of cultural development stretching
+from hunting and gathering, through the development of agriculture, to historic and modern life. The culture
+history of the region is commonly divided into four broad periods—Paleoindian, Archaic, Formative, and
+historic—each of which is typified by different cultural adaptations. As part of the effort to revise the
+Bureau of Land Management (BLM) Carlsbad Field Office (CFO) Resource Management Plan, Jim Railey
+from SWCA authored a Class I analysis of all known archaeological resources in the CFO region (Railey
+2013) and west Texas. The following discussion is adapted from Railey (2013) based on the proximity of
+the project area to southeast New Mexico and supported by the similarity of the cultural resource findings.
+Because only prehistoric sites were encountered in the field, a discussion of historic settlement in Texas is
+excluded from this discussion.
+
+Paleoindian Tradition (11,500–7000 B.C.)
+The earliest, well-established presence of humans in the region dates from Paleoindian tradition (ca.
+11,500–7000 B.C.), which is customarily divided into three periods: Clovis (11,500–10,800 B.C.), Folsom
+(10,800–9800 B.C.), and Late Paleoindian, or Plano (9800–7000 B.C.). Paleoindian sites and components
+in the Jornada Mogollon region are recognized almost exclusively by diagnostic artifacts associated with
+each of these periods (Miller and Kenmotsu 2004:213), and chronometrically dated at camp or kill sites,
+including ones in eastern New Mexico and west Texas (e.g., Haynes 1992; Holliday 1997; Johnson and
+Holliday 1981). There are few identified Paleoindian components in the region, although their components
+suggest concentrations along the Pecos River, the Mescalero Escarpment Base, and in far southeastern Lea
+County, New Mexico, near what were probably pluvial lakes (Condon and Smith 2012).
+
+SWCA Environmental Consultants
+
+5
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+The Paleoindian tradition is best known from assemblages of flaked stone artifacts, and the emphasis on
+formal, retouched tools during this time reflects a reliable and maintainable tool kit that kept highly mobile
+hunter-foragers prepared for a variety of circumstances and encounter situations (Bleed 1986; Kelly and
+Todd 1988; Jennings et al. 2010). Ground stone tools were rarely, if ever, used during Paleoindian times,
+and this (along with the absence of baking pits and hot-rock cooking) reflects an emphasis on meat in the
+diet, and a lack of exploitation of seeds and other low-ranking food resources that required extending
+processing prior to consumption (see Bettinger 2001).
+Three Paleoindian complexes have been identified in the region, based on morphologically distinct
+projectile point styles. The Clovis period corresponds to the Younger Dryas, a climatic interval toward the
+end of the Pleistocene that was cool and dry (Cordell 1997:89; Haynes 2008; Holliday and Meltzer 2010;
+Polyak et al. 2004). Clovis people hunted mammoths and other Pleistocene megafauna, along with smaller
+animals (Cannon and Meltzer 2008; Cordell and McBrinn 2012:110). Tool assemblages include not only
+the distinctive Clovis fluted point, but also large flake blades, biface and blade cores, knives, scrapers, core
+choppers, and burins (see Collins 2007).
+During the Folsom period (10,800–9800 B.C.), the climate in the eastern Southwest and Southern Plains
+became both warmer and wetter (Cordell and McBrinn 2012:115; Polyak et al. 2004). The mobile hunterforager lifeway continued. Mammoths were extinct by this time, and the focus of big-game hunting shifted
+to Bison antiquus, a larger ancestor of the present-day bison (MacDonald 1981; Meltzer 2009; Surovell
+2009). Smaller animals were also hunted by Folsom and later Paleoindian groups as well (Amick 1996;
+Bamforth 2002; Cannon and Meltzer 2004). Tool kits were somewhat more diverse than those of the Clovis
+period and include the diagnostic Folsom fluted points and their unfluted counterparts (called Midland
+points), along with knives, gravers, spokeshaves, pointed scrapers, cores (bifacial, discoidal, and informal),
+drills, burins, choppers, abrading stones, awls, and needles (Frison and Bradley 1980; Huckell and Judge
+2006; Meltzer 2006).
+The warming trend during Folsom times continued during the subsequent Late Paleoindian or Plano period
+(9800–7000 B.C.), but precipitation trends reverse as drier conditions once again set in (Mallouf 1981;
+Monger and Buck 1995; Van Devender 1990). The fluted points of the Clovis and Folsom periods were
+replaced by various unfluted lanceolate styles, classified within various complexes such as Plainview,
+Firstview, and Cody (Cordell and McBrinn 2012:106–107). Otherwise, tool assemblages were, overall,
+similar to those of the previous periods. People continued to rely on hunting and foraging for their
+subsistence (Cannon and Meltzer 2004). Bison continued to be the main big-game prey, although Bison
+antiquus was extinct by this time, with smaller bison similar to the present-day species having taken their
+place (MacDonald 1981).
+
+Archaic Tradition (7000 B.C.–A.D. 500)
+The Archaic tradition covers a vast swath of time between the end of the Paleoindian tradition and the
+appearance of ceramics around A.D. 500. Archaic cultural history, classification, and chronology in the
+region rely to a large extent on frameworks developed in neighboring regions (e.g., Irwin-Williams 1973,
+1979; Johnson and Holliday 2004:290–292; MacNeish 1993; MacNeish and Beckett 1987; Mallouf 1985,
+2005; Sayles 1983; Sayles and Antevs 1941; see also Huckell 1996:319–323; Miller and Kenmotsu
+2004:218). Three Archaic periods are widely recognized in the region: Early Archaic (6000–3200 B.C.),
+Middle Archaic (3200–1800 B.C.), and Late Archaic (1800 B.C.–A.D. 500). However, these periods and
+their bracketing dates do not correspond very closely to some important changes in climate, subsistence
+economics, and other developments over the course of the Archaic tradition. Also, depending on which
+chronology is used there is a hiatus lasting anywhere from 500 to 1,000 years between the dates bracketing
+the end of the Paleoindian and beginning of the Archaic tradition. There is debate as to the significance of
+this apparent hiatus; Irwin-Williams (1979:35) argued that the hiatus reflects migration of Paleoindian
+
+SWCA Environmental Consultants
+
+6
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+hunters out of the desert Southwest to the north, with desert-adapted hunter-gatherers from the Great Basin
+filling in behind them. As with the Paleoindian tradition, identification of Archaic periods at sites in the
+region relies primarily on diagnostic projectile points, although the advent of pit baking led to the creation
+and enhancement chronometrically datable archaeological contexts. The result is that we have many
+radiocarbon dates for the Archaic tradition, and the identification of components does not rely as much on
+projectile points as it does for those dating from Paleoindian times.
+The most diagnostic artifacts on Archaic sites are atlatl dart points. These points can vary greatly in shape
+and usually appear less well made than Paleoindian points. If the different morphological types reflect
+different ethnic or kinship groups, the great variety of point forms from Archaic sites in west Texas and
+southeastern New Mexico may indicate that several different Archaic groups used the area (Phippen et al.
+2000:468–470; Sebastian and Larralde 1989:42). Another possibility is that the different point types reflect
+reworking and repair of broken points (Flenniken and Wilke 1989). After Paleoindian times there was a
+transition from lanceolate to mostly stemmed projectile points, including the Jay and Bajada types of IrwinWilliams’ (1973, 1979) Oshara tradition, and Uvalde and other types identified in central and west Texas
+(Prewitt 1981; Turpin 1994:70; Weir 1976; see also Miller and Kenmotsu 2004:220). Scrapers, knives, and
+chopping tools are common, although Irwin-Williams (1973, 1979) reports that ground stone was lacking
+in the Jay phase (5500–4800 B.C.) and does not mention its occurrence in the subsequent Bajada phase
+(4800–3200 B.C.). Ground stone milling tools are reported from Early Archaic contexts in the western
+Jornada Mogollon region (MacNeish 1993). Irwin-Williams (1973:6–7) notes the appearance of cooking
+pits with burned rock in the Bajada phase, and in west Texas and the western Jornada area hot-rock cooking
+and a broad-spectrum subsistence pattern were established during the Early Archaic period (Dering 1999;
+Mallouf 1985; Miller and Kenmotsu 2004:220–221; Turpin 1994:70).
+The Early Archaic period falls mostly or entirely within the Altithermal, an exceptionally dry interval that
+apparently led to a drastic reduction of available surface water (Antevs 1948, 1953, 1955; Haynes 1975;
+Hester 1972; Holliday 1989; Johnson and Holliday 1986, 2004:290–291; Meltzer 1991). Whether this
+involved an increase in average temperatures or reduced precipitation remains somewhat of an open
+question, but in all likelihood both factors were at play (Meltzer and Collins 1987). These conditions
+prevailed for a long interval beginning around 6000 B.C. and lasted until sometime between 3000 and 2000
+B.C. (i.e., into the Middle Archaic period). East of the Pecos River many springs, marshes, and playa lakes
+probably dried up during the Altithermal, leaving available water sources localized and dispersed. This may
+have led to intensified competition, starvation, and out-migration on an appreciable scale. At least some of
+those who stayed on the Llano Estacado and around its margins resorted to digging water wells at springs
+and playas that had dried up, but where water could still be found just below the surface.
+During the Middle Archaic period projectile point styles diversify somewhat, both within and between
+regions, although in general points have either contracted stems with flat, rounded, or pointed bases or
+expanded stems with concave bases (Miller and Kenmotsu 2004:225). A broad-spectrum subsistence
+economy was well established by Middle Archaic times, including the use of low-ranking seeds and roots
+that require extensive processing prior to consumption. This is evidenced not only by biotic remains, but
+also by the common occurrence of ground stone milling tools, cooking pits, and burned rock in Middle
+Archaic contexts (Huckell 1996:336–342; Mallouf 1985; Miller and Kenmotsu 2004:224–225). The earliest
+maize in the Southwest dates from the near the end of the Middle Archaic time frame (Mabry 2005),
+although no maize or other cultigens are known for this period in or near the region.
+The arid climate of the Altithermal continued into at least the early portion of the Middle Archaic period
+(Antevs 1948, 1953, 1955; Haynes 1975; Hester 1972; Johnson and Holliday 1986, 2004:290–291; Meltzer
+1991), but conditions improved beginning sometime during the interval 3000–2000 B.C., when the climate
+became wetter or cooler across the region (Berry and Berry 1986:312–314; Cordell and McBrinn 2012:125;
+Hogan 1983, 1994; Johnson and Holliday 2004:291; Mehringer 1967; Mehringer et al. 1966; Oldfield and
+
+SWCA Environmental Consultants
+
+7
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Schoenwetter 1975; Petersen 1981; Smith 2002; Smith and McFaul 1997; Wendlund and Bryson 1974).
+This led to a proliferation and resurgence of reliable sources of surface water and a widespread expansion
+and enrichment of the available biomass (Johnson and Holliday 2004:291). The improved climatic
+conditions are probably largely responsible for a dramatic increase and ubiquity of archaeological sites and
+radiocarbon dates, and a much more extensive and ubiquitous distribution of sites across the landscape that
+begins in the Middle Archaic period (Berry and Berry 1986; Carmichael 1986; Mallouf 1985, 2005:219;
+Miller and Kenmotsu 2004:223; Railey et al. 2011; Walth and Railey 2011:352–366). Sites become
+common in many upland areas, and desert basin floors and plains away from river corridors, which had
+been largely unoccupied during the mid-Holocene. At present, the data suggest some increase in population
+levels from the Early to Middle Archaic periods, but the evidence is weak and population levels apparently
+remained low throughout Middle Archaic times.
+The Late Archaic period (1800 B.C.–A.D. 500) witnessed a continuation and intensification of trends set
+in motion following the end of Pleistocene, and in many respects marks a major turning point in the
+prehistory of the Southwest and Southern Plains. Diagnostic projectile points are mostly expanded stem
+forms with varying blade shapes that may or may not have strong shoulders (e.g., Miller and Kenmotsu
+2004:Figure 7-11), although other styles are found as well, including bifurcated base and straight-stem
+forms (Mallouf 2005:226). Maize-based farming becomes widespread throughout the Southwest as an
+addition to the broad-spectrum hunting-gathering subsistence economy (Cordell and McBrinn 2012:136–
+149; Huckell 1996:343–349). There was pre-ceramic maize in portions of the Jornada Mogollon region
+(e.g., Campbell and Railey 2008; Tagg 1996; Upham et al. 1987; Wills and Huckell 1994:42), but thus far
+there is no clear evidence of Late Archaic farming in this portion of west Texas. A proliferation of pit
+houses, bell-shaped pits, and sites with middens and abundant artifacts, suggests reduced mobility under
+increasing population densities (Huckell 1996:343–349), but again these trends are not evident at present
+in the region. In fact, at present there are no discernible structure remains or storage pits known for the Late
+Archaic period in the region, rich midden deposits are rare or absent, and the vast majority of features
+consist of hearths, roasting pits, and burned-rock middens, the latter mostly west of the Pecos River. In
+other words, the archaeological evidence strongly suggests a continuation of highly mobile, hunter-gatherer
+lifeways across at least most of the local region during Late Archaic times.
+Despite the continuation of a highly mobile, hunter-gatherer lifeway, there were some important changes
+and developments in the Late Archaic period of the region. The favorable climatic trend that began during
+Middle Archaic times continued into the Late Archaic period, with the cooler and wetter conditions
+resulting in an increased biomass and proliferation of new water sources across the landscape (cf., Berry
+and Berry 1986:312–314; Cordell and McBrinn 2012:125; Hogan 1983, 1994; Johnson and Holliday
+2004:291; Mehringer 1967; Mehringer et al. 1966; Oldfield and Schoenwetter 1975; Petersen 1981; Polyak
+and Asmerom 2001; Smith 2002; Smith and McFaul 1997; Wendlund and Bryson 1974). The vast plains
+east of the Pecos River were probably too dry for intensive and efficient foraging during the Early Archaic
+and most of the Middle Archaic period, but by Late Archaic times hunter-gatherers in the region were
+beginning to fully realize the potential of the landscape’s enriched resource abundance. The widespread
+occurrence of freshwater mussel shell at many sites across the landscape suggests the possibility that aquatic
+habitats occurred along many now-dry drainages in the region, most of which were probably also dry during
+the Altithermal. Among other things the favorable climate and enhanced biomass that continued into Late
+Archaic times included an enrichment of grassland habitats, which apparently resulted in increased numbers
+of bison and a new round of bison hunting over a broad region.
+Archaeological evidence suggests the improved climatic conditions of Late Archaic times had two
+important effects within the region: 1) a sharp population increase, and 2) new foraging opportunities for
+hunter-gatherers that allowed for more ubiquitous use of the landscape through residential mobility. The
+dramatic increase in Late Archaic components and radiocarbon dates indicates intensified and more
+ubiquitous exploitation of the landscape. This is part of a broad pattern across the Southwest and Southern
+
+SWCA Environmental Consultants
+
+8
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Plains, in which people expanded into all ecological zones, including once-marginal ones such as uplands
+and intermountain desert basins (Berry and Berry 1986; Carmichael 1986; Mallouf 1985, 2005:219; Miller
+and Kenmotsu 2004:226; Railey et al. 2011; Walth and Railey 2011:352–366). Similarly, in the region not
+only do site components, dates, and diagnostic artifacts increase sharply at this time, but they are also
+distributed widely across the landscape. In terms of hunter-gatherer mobility and subsistence, these patterns
+are probably the result of the improved climatic conditions, population growth, and changes in mobility.
+The more common availability of surface water, and increased resource abundance across the landscape,
+meant that hunter-gatherers could now forage more efficiently, moving their camps more frequently around
+the landscape. This strategy would have decreased the distance and time involved in daily foraging trips,
+translating into a greater return of caloric intake per unit of energy expended (cf. Kelly 1995:111–148).
+Archaeologically this would all result in higher numbers, and a more ubiquitous distribution of, preserved
+camp remains (such as artifact scatters and cooking pits), relative to previous time periods. This is precisely
+what we see for the Late Archaic period in the region.
+
+Formative Tradition (A.D. 500–1450)
+“Formative” is a term commonly applied by archaeologists to the ceramic periods of the Jornada Mogollon
+region (Miller and Kenmotsu 2004:236–237). The well-dated sequence of sites in the Hondo Valley,
+northwest of the region, suggests that ceramics appeared there around A.D. 500 (Campbell and Railey
+2008), and this date is used here for the beginning of the Formative tradition. The addition of ceramics to
+the inventory of artifacts provides a tremendous advantage in recognizing Formative period site components
+as compared to pre-ceramic ones. Ceramics also enhance temporal resolution and age estimates of site
+components, especially for the more distinctive, painted wares that can cross-date between different
+regions. For this discussion, the Formative tradition is simply divided into two periods: Early (ca. A.D.
+500–1100) and Late Formative (ca. A.D. 1100–1450), with the appearance of Chupadero Black-on-white
+being the most prominent marker separating the two. Phase divisions within these periods can certainly be
+suggested based in part on the appearance of certain key marker traits, such as early black-on-white
+ceramics toward the end of the Early Formative, and a variety of distinctive glaze ware and polychromes
+after ca. A.D. 1300. But the development of well-established phase sequences will depend on excavation
+data from more sites with securely dated, single-component contexts. The early centuries of the Formative
+time frame witnessed little change in subsistence and mobility from the Late Archaic. But significant
+changes did occur in the Late Formative period, although for the general region some of the more important
+Late Formative developments are inferred from surrounding regions, and further research will hopefully
+clarify the specifics of these in the project region.
+Two prominent changes in artifact assemblages mark the beginning of the Early Formative period. One is
+the appearance of ceramics, which in the beginning consist of undecorated brown wares. These are
+variously classified according to paste characteristics as Jornada Brown, McKenzie Brown, Middle Pecos
+Micaceous Brown, South Pecos Brown, and Alma Plain (Hill 1996, 2000, 2001; Hogan 2006; Jelinek 1967;
+Katz and Katz 1985, 1993, 2001; Kelley 1984; Leslie 1979; Mera 1943; Reed et al. 2002:550–551; Runyan
+and Hedrick 1987; Whalen 1981; Wilson 2000a, 2000b, 2003; Wiseman 1996, 2002), and which persist
+well into Late Formative time frame. Early black-on-white ceramics (e.g., Cebolleta, Red Mesa, Mimbres)
+appear in the region after ca. A.D. 750 (Katz and Katz 1993), but do not occur at all sites in the later
+centuries of the Early Formative, and undecorated brown wares continue to dominate ceramic assemblages
+throughout the period.
+The introduction of the bow and arrow is inferred from a sharp reduction in the size of projectile points,
+which occurs across most of sub-boreal North American around A.D. 500–600 (Bettinger and Eerkens
+1999; Bettinger and Taylor 1974; Blitz 1988:130–132; Cordell 1979:134, 1997; Guernsey 1931:71–72, 99,
+107; Huckell 1998; Justice 2002:44; Lipe 1978:369; Nassaney and Pyle 1999; Railey 2010; Seeman 1992;
+Shott 1993; Torres 2000:227; VanPool 2006:433; Yerkes and Pecora 1991). In the Southwest and Southern
+
+SWCA Environmental Consultants
+
+9
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Plains, the earliest arrow points are strongly shouldered, corner-notched or stemmed forms. At the welldated series of sites in the Hondo Valley of the Sierra Blanca highlands (Campbell and Railey 2008; Railey
+2010), the earliest arrow points have shouldered, recurved blades similar to the Bonham and Homan types
+in northeast Texas (Turner and Hester 1993:202, 219), and these are quickly followed by straight-bladed
+points with tanged shoulders and corner notching. The latter forms, similar to the Scallorn type of the Plains
+(Turner and Hester 1993:230) and the Trujillo and Dolores types in northern New Mexico (Justice 2002;
+Turnbow 1997:202–205), persist throughout the remainder of the Early Formative period and continue into
+the early portion of the Late Formative.
+Except for the addition of ceramics and arrow points, Early Formative artifact assemblages remain similar
+to those of the Late Archaic, with a variety of flaked stone tools and ground stone milling implements.
+Other aspects of the Early Formative archaeological record also persist from Late Archaic times. There is
+still a notable dearth of preserved house remains; the few dating from the Early Formative period in the
+region come from just four sites (Jones et al. 2010; Railey 2011; Zamora 2000), and their characteristics
+suggest rather expedient, wickiup-like brush huts set in shallow basins. The lack of evidence for
+substantially constructed houses prior to the Late Formative suggests people across at least most of the
+region did not invest heavily in residential architecture, and this is typical of highly mobile hunter-gatherers
+(Binford 1990; Kelly 1995:139–140).
+Botanical remains of various wild plants, including cheno-ams, wild barley, and others are common
+occurrences (e.g., Acklen and Railey 2001; Brown 2011; Condon et al. 2008; Lord and Reynolds 1985;
+Railey 2011), along with succulents processed in burned-rock middens in the western portion of the region
+(Jones et al. 2010). Unlike the Late Archaic, in the region there is one instance of charred maize associated
+with a radiocarbon date for the Early Formative, at a site in the Guadalupe Mountains (Kemrer 1998).
+Otherwise, at present there is a complete lack of domesticates in macrobotanical assemblages in securely
+dated, pre-Late Formative contexts, and this indicates that farming was not an important part of the
+subsistence economy (or was not practiced at all) across most of the region during Early Formative times.
+The onset of the Medieval Climatic Anomaly (A.D. 800/900–1350) reportedly ushered in a dry period that
+heavily impacted people across much of western North America (Jones et al. 1999). The data suggest that
+people responded to this drastic climatic change by withdrawing to areas where reliable sources of surface
+water could still be found, which includes the Pecos River and, apparently, playas, areas below escarpment
+edges (most notably along the base of the Mescalero Escarpment, where freshwater springs probably
+continued to issue forth), and in the Mountain Slope area. In the latter area, most of the dates are from
+burned-rock middens, so the numbers may also indicate an upswing in the use of these sites and exploitation
+of low-rank, high-cost food resources processed at them (see Dering 1999). Although precipitation levels
+apparently increased again toward the end of the Early Formative, the damage apparently was already done,
+and the response to the period of severe drought may have helped prompt some fundamental changes in
+cultural adaptations that took hold during the subsequent Late Formative period.
+The Late Formative period indeed witnessed some of the most profound changes in the prehistory of the
+region. In terms of artifacts, the most prominent temporal indices of this period are a variety of distinct and
+relatively well-dated decorated ceramic types. Chupadero Black-on-white and El Paso painted (bichrome
+and early polychromes, and later just El Paso polychrome) are present by the beginning of this period, or
+soon after, eventually edge out undecorated brown wares, and persist as common types throughout the Late
+Formative time frame (Miller and Kenmotsu 2004:252–253; Speth and Newlander 2012; Wilson 2000b).
+Three Rivers Red-on-terracotta is another distinctive type that appears in the region around the beginning
+of the Late Formative period, but is less common than the Chupadero and El Paso painted wares (Runyan
+and Hedrick 1987). Chupadero wares were manufactured in the Sierra Blanca highlands (Clark 2006; Creel
+et al. 2002; Reed et al. 2002). Also from this region is Corona Corrugated, a utilitarian ware that appears
+around or soon after A.D. 1200 (Kelley 1984; Wiseman 2002). St. Johns Polychrome appears at about this
+
+SWCA Environmental Consultants
+
+10
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+same time (Miller 1995; Runyan and Hedrick 1987). After A.D. 1300, exotic ceramic types from a variety
+of areas in the Southwest appear in west Texas and southeastern New Mexico, including Rio Grande glaze
+wares, Lincoln Black-on-red from the Sierra Blanca highlands in New Mexico, Ramos Polychrome from
+the Casas Grandes area, and Gila Polychrome from the Salado region (Katz and Katz 1993; Miller 1995).
+Another post-A.D. 1300 ceramic type is Ochoa Indented, a Southern Plains type that appears to be restricted
+to areas east of the Pecos River (Katz and Katz 1993).
+Also occurring in the Late Formative period is a widely documented shift in arrow point morphology during
+the thirteenth century. The earlier, corner-notched arrow point styles with strong shoulders are replaced by
+side-notched arrow points with wide, squared, or concave bases. These late forms are usually referred to as
+Harrell, Desert Side-notched, Washita, or Pueblo Side-notched (Justice 2002; Speth 2004; Turnbow 1997;
+Turner and Hester 1993). Unnotched triangular points are rare in the Southwest, but do occur in the Plains
+(and are especially common in eastern North America) and spill over in small numbers into the project
+vicinity. In Texas these are usually referred to as Fresno points, and their reported time span (ca. A.D. 800–
+1700) is not as restricted as those for the other arrow point types discussed above. There is evidence to
+suggest that these unnotched triangular points are actually preforms that were intended to be finished and
+notched, and they were widely transported as they were less fragile and susceptible to breakage than
+finished points (cf. Chesier and Kelly 2006; Dawe 1987; Newlander and Speth 2009).
+By A.D. 1300, if not earlier, substantially occupied “villages” were established across much of the larger
+region. This was part of widespread pattern of greater sedentism and village formation across the southern
+Great Plains and Jornada Mogollon region in the early to mid-second millennium A.D. (Brooks 2004;
+Campbell 1976; Drass 1998; Drass and Flynn 1990; Jelinek 1967; Kalasz et al. 1999:195–198; Kelley 1984;
+Lintz 1984, 1986, 1991; Lutes 1959; Miller and Kenmotsu 2004; Speth 2004, 2005; Speth and Newlander
+2012; Wendorf 1960; Wiseman 1981, 1985, 2002; Zamora and Oakes 2000). Most of what we know about
+Late Formative “village” sites in the region comes from excavations carried out decades ago, using premodern methods. A cluster of villages were occupied in the project vicinity at the Andrews Lake site,
+several of which have been excavated (Collins 1966, 1968). Jennings (1940) excavations at Rio Peñasco
+and two neighboring sites provide a glimpse of Late Formative village life in the Mountain Slope area.
+Decades ago the Lea County Archaeological Society (LCAS) excavated several village sites, including
+Boot Hill (Corley and Leslie 1960) and Laguna Plata (LCAS 1971). Eastern New Mexico University’s
+subsequent excavations at Laguna Plata (Haskell 1977) and TRC’s recent investigations at Laguna Plata
+(Brown 2010) and Boot Hill (Brown 2011) added additional information about these two important sites.
+In addition, as part of the BLM CFO Permian Basin Mitigation Program in New Mexico, recent
+investigations were carried out at the Maroon Cliffs, a sprawling site complex west of the project area that
+includes substantial remains of Late Formation occupations (Stowe and Condon 2012). Survey-level
+investigations have also documented sites with intensive Late Formative occupations in the Mescalero Plain
+and Escarpment Base areas. These include Indian Hill (LA 32228, also known as Taylor Peak), where a
+burial, a pit house, and charred maize were found (Hunt 1989), and a sprawling site complex in the vicinity
+of the Merchant site (Lone Mountain Archaeological Services [LMAS] 2001). Late Formative village sites
+tend to occur in areas where springs, precipitation runoff, or playa lakes offered reliable sources of surface
+water, and at least limited riparian environments and associated resources. The base of the Mescalero
+Escarpment was an especially favored zone for these sites.
+As far as detailed information pertaining to the role of maize in Late Formative subsistence economies of
+west Texas and southeastern New Mexico, the closest comparative evidence we have to date comes from
+two settlements west of Roswell, New Mexico: Henderson and Bloom Mound (Kelley 1984; Powell 2001;
+Speth 2004, 2005). For these sites, the evidence
+points to farming as a modest contributor to the diet throughout, with little or no indication
+of significant intensification in the later part of the sequence (e.g., small numbers of
+
+SWCA Environmental Consultants
+
+11
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+recovered maize remains; ubiquity and abundance of wild seeds; carbon isotope values
+indicating modest overall intake of C4 plants; low incidence of [dental] caries; small
+numbers of metates, mostly basin-shaped; and wholly unstandardized one- and twohanded manos). (Speth and LeDuc 2007:46)
+Another important subsistence trend that inhabitants of these Late Formative villages were caught up in
+was an increased emphasis on bison hunting across the region and elsewhere in the southern Plains after
+ca. A.D. 1250, following a regional hiatus in bison hunting that began in A.D. 500 (Baugh 1986; Bozell
+1995; Brooks 2004; Collins 1968, 1971; Creel 1991; Dillehay 1974; Drass and Flynn 1990; Greer 1976;
+Hughes 1989; Jelinek 1967; Speth 1979, 1983, 1984, 2004; Speth and Parry 1978, 1980; Spielmann 1991;
+Staley 1996). At some point during the Formative time frame, people on the Plains began killing bison
+beyond what was required for their own subsistence and other resource needs, and traded hides, dried meat,
+and perhaps other products to the more settled farmers to the west (Creel 1991; Speth 2004, 2005; Speth
+and Newlander 2012; Spielmann 1991). Creel (1991) argues that this regional exchange system was
+underway around or soon after A.D. 1300, with the key archaeological indicators being the appearance in
+the southern Plains of numerous beveled knives and endscrapers that were used to process bison hides.
+As for far west Texas and southeastern New Mexico, at present we have mostly indirect evidence as to the
+role of Late Formative peoples in the Pueblo-Plains interaction sphere. Creel (1991:41) reports that this
+exchange system extended all the way down to present-day Chihuahua. Occasional bison remains also
+appear in Late Formative sites in the western Jornada Mogollon (Miller and Kenmotsu 2004:250), and it
+seems likely that bison hides (which would not show up in the faunal record) were probably traded to the
+people of the El Paso phase (A.D. 1250/1300–1450). Late Formative villagers in west Texas and far
+southeastern New Mexico would have been well positioned as the most likely suppliers of bison products
+to the western Jornada Mogollon and settled groups further to the south. But it still remains an open question
+whether, and if so to what extent, Late Formative villagers developed an export economy fueled by bison
+products. Further research is needed to elucidate the details pertaining to this question.
+
+Post-Formative (A.D. 1450–1500)
+The Post-Formative begins with the widespread abandonment of late prehistoric villages in the southern
+Plains around A.D. 1450, as groups throughout the region shifted to a more nomadic lifeway centered more
+squarely on bison hunting (Baugh 1986; Bozell 1995; Brooks 2004; Collins 1968, 1971; Creel 1991;
+Dillehay 1974; Drass and Flynn 1990; Greer 1976; Hughes 1989; Jelinek 1967; Speth 1979, 1983, 1984,
+2004; Speth and Parry 1978, 1980; Spielmann 1991). Archaeologically, this period is somewhat of a
+phantom, as many of the diagnostic ceramic types largely disappeared along with village sites. Ceramics
+are either absent in the region at this time or, to the extent they were still in use, consist of types that are
+largely unknown (Katz and Katz 1993). Side-notched arrow points, similar to those that appeared after A.D.
+1200 (see above), continued into this period until an unknown date and were eventually replaced by metal
+arrow points and firearms.
+As part of the shift to nomadism during post-Formative times, it is reasonable to expect that tipis became a
+more common dwelling form. Seymour (2002, 2004; LMAS 2001) has identified tipi rings in both the
+western Jornada Mogollon and far southeastern New Mexico. She argues that tipi rings in the region are
+very late in time, postdating other types of structures, and even concludes that at least some are late
+nineteenth century Apache or Comanche dwellings. Such conclusions lack supporting evidence, however
+(see Kenmotsu et al. 2009:96–97). Tipi rings date back several thousand years on the Plains, and it is
+entirely possible that at least some tipi rings in the project vicinity predate the post-Formative time frame.
+By A.D. 1500, if not earlier, people on the southern Plains had given up their attempts at village life, with
+its mixed focus on farming and bison hunting, and had become nomadic, tipi-dwelling bison hunters. This
+
+SWCA Environmental Consultants
+
+12
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+probably occurred at least in part due to increased demand from the pueblos for bison products and other
+resources from the southern Plains (such as Alibates and Edwards chert). One intriguing trend that may
+characterize post-Formative occupations in the region of project area is the increased use of obsidian, most
+of which appears to derive from sources in northern Chihuahua and southwestern New Mexico (Kenmotsu
+et al. 2009:92). This apparent trend was also noted in the Middle Pecos River valley (northwest of the
+region) by Jelinek (1967). Within the project region, however, Jemez Mountain obsidians are also found in
+apparent protohistoric contexts, although the source of these could actually be Rio Grande gravels in the
+western Jornada Mogollon region (Stein 2011).
+
+2.3
+
+Pre-field Investigations
+
+SWCA performed a cultural resources file records review on July 14, 2016, to determine whether the project
+area had been previously surveyed for cultural resources and whether any archaeological sites have been
+recorded within 500 m (1,640 feet) to 1 km (0.6 mile) of the project area. To conduct this review, SWCA
+project manager Amanda Cohen reviewed the following 7.5-minute quadrangles at the Texas Archeological
+Research Laboratory (TARL): Orla and Screw Bean Draw East. In addition, the Texas Historical
+Commission (THC) Texas Archeological Sites Atlas (Atlas) database and site files at TARL were also
+searched. These sources provide information on the nature and location of previously conducted
+archaeological surveys, previously recorded cultural resource sites, locations of National Register of
+Historic Places (NRHP) properties, sites designated as State Antiquities Landmarks (SALs), Official Texas
+Historical Markers, Registered Texas Historic Landmarks, cemeteries, and local neighborhood surveys.
+One previously recorded site, 41RV15, was identified approximately 411 feet (125.25 m) north of the
+project area. No previous surveys were identified.
+
+2.4
+
+Methods
+
+Since all land surveyed is on lands managed by TX GLO, official state permitting under the Antiquities
+Code of Texas was required before initiation of work.
+
+2.5
+
+Pedestrian Survey and Field Recording
+
+Survey and site recording were performed in accordance with the standards and guidelines of the Antiquities
+Code of Texas (13 Texas Administrative Code [TAC] 26.20), THC policy, and the Section 106 of the
+National Historic Preservation Act of 1966 (36 Code of Federal Regulations 800). A 100 percent (intensive)
+cultural resources pedestrian inventory was conducted by SWCA archaeologists by walking parallel
+transects spaced no more than 15 m (49 feet) apart. The survey and recording were conducted during one
+session occurring in August 2016. Kevin Pintz served as the Field Supervisor, with Courtney Blair
+providing field support.
+Recording of newly discovered cultural locations was initiated with the pin-flagging of artifacts and other
+cultural manifestations. IFs were defined by five or fewer artifacts, an isolated feature with no potential for
+dating, or finds that were not related to other nearby IFs or sites. Archaeological sites are defined as
+locations dating to an age or likely age of 50 years (pre-1966) or more that contained six or more artifacts
+or as a feature or features in association with any artifacts meeting the 50-year age criterion.
+For each cultural resource encountered, all surface artifacts and features were individually flagged and
+recorded using a global positioning system (GPS) unit with sub-meter capabilities. For debitage, maximum
+flake size in 1-cm increments (e.g., 0–1 cm, 1–2 cm, 2–3 cm, 3–4 cm, 4–5 cm, and 5+ cm), percent cortex,
+and material type were recorded. For ground stone, cores, and lithic tools, type (e.g., mano, projectile point,
+core, metate, biface, etc.); maximum length, width, and thickness (in cm); completeness (broken or
+
+SWCA Environmental Consultants
+
+13
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+complete); material; and percent cortex were recorded. Recorded ceramic attributes included ware, type,
+form (e.g., bowl, jar, plate, etc.), and portion (e.g., rim, body, etc.). All projectile points and other formal
+tools were photographed with a centimeter scale. Other objects, including ceramics, bifaces, and ground
+stone, were representatively photographed sufficient to illustrate assemblage diversity. No artifacts were
+collected during the investigation.
+When 100 or fewer artifacts were observed at a site, all surface artifacts were recorded. At sites with more
+than 100 artifacts, concentrations were defined and detailed information as described above was recorded
+on at least 100 artifacts. Lithic tools and ground stone artifacts, as well as features, were fully recorded. All
+field records from the survey are on file at SWCA’s Albuquerque office.
+Eleven IFs and three prehistoric archaeological sites were documented within the project area in Texas. The
+IFs consist of prehistoric flaked stone debitage, lithic tools, and lithic manufacturing items. The prehistoric
+sites are artifact scatters with no associated features. The sites identified during the survey are recommended
+not eligible for the NRHP within the surveyed corridor, and were not recorded or assessed for eligibility
+outside the proposed corridor.
+
+2.6
+
+Shovel Tests
+
+In total, 29 shovel tests were excavated in support of the project. Prior to conducting fieldwork, Natural
+Resources Conservation Service (2016) soil surveys within the project area and geologic maps were
+consulted in order to assess the potential for deeply buried cultural deposits. THC archaeological standards
+specify that a minimum of 16 shovel tests are required per mile within a survey corridor of 30.5 m (100
+feet) unless surface visibility is greater than 30 percent. Shovel tests are implemented in order to determine
+the presence or absence of buried cultural deposits deeper than 10 cm, or deeper than depths normally
+accessible through trowel testing, and therefore, to support or negate recommendations of eligibility. Areas
+with the potential for buried deposits were identified and subsequently assessed in the field. The SWCA
+survey placed an additional 18 shovel tests across three newly documented sites. Shovel tests were
+excavated 10 to 46 cm below the ground surface and were terminated when subsurface artifacts, features,
+or pre-Holocene sub-soils (caliche layers) were encountered. Matrix fill was sifted through ⅛-inch mesh
+screen. Shovel tests were typically not performed when the surface visibility was greater than 30 percent.
+Locations and results of the shovel tests excavated within archaeological sites are included in Appendix B.
+Cultural locations were described and recorded according to current archaeological standards and were
+mapped with a Trimble GeoXH GPS receiver. Resource recording included preparing a plan map (postfield, using GPS data); taking site overview, feature, and artifact photographs; completing a TARL database
+form; recording artifacts and features; and GPS recording resource boundaries to sub-meter level.
+
+2.7
+
+Eligibility
+
+All cultural resources were assessed for eligibility to the NRHP in part following the requirements of 13
+TAC 26.20 and defined in 13 TAC 26.5. These standards establish that a site is eligible when:
+•
+•
+•
+
+A radiocarbon (C14) dateable feature is present.
+A dateable assemblage with proven depositional potential (buried artifacts or features) is
+present.
+Proven depositional potential is present (buried artifacts or features).
+
+Recommendations for eligibility and management were made by the Principal Investigator and her staff in
+consultation with the performing archaeology field crew and the field data.
+
+SWCA Environmental Consultants
+
+14
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+3 FIELD SURVEY AND RESULTS
+From August 15 to 17, 2016, SWCA archaeologists Kevin Pintz and Courtney Blair conducted an
+archaeological survey following the staked centerline. Enterprise’s Orla Gas Gathering System would have
+4 km (25 miles) of natural gas buried pipelines, two central delivery points, and a future cryogenic
+processing plant, starting in southern Eddy County, New Mexico, traveling southerly to an east-west lateral
+through Culberson County, Texas, to a future cryogenic processing plant in Reeves County, Texas. This
+report documents the 1.6-km (1-mile) survey on the TX GLO land. Conditions for the survey were fair. The
+survey area had been heavily disturbed by road and transmission infrastructure construction associated with
+oil and gas activities to the north of the centerline, while south of the centerline had little to no disturbance
+by roads and construction disturbance. Vegetation was low to high in occurrence, and ground visibility
+ranged from 40 to 80 percent.
+Eleven IFs and three prehistoric archaeological sites were documented within the project area. The IFs
+consist of prehistoric flaked stone debitage, lithic tools, and lithic manufacturing items. All three of the
+prehistoric sites are artifact scatters with no associated features. Three sites—41RV104, 41RV105, and
+41RV106—are recommended not eligible for the NRHP within the surveyed corridor, and were not
+recorded or assessed outside the proposed corridor.
+
+3.1
+
+Site Descriptions
+
+41RV104
+Additional Site Numbers: 41RV104 (SWCA Temporary Site No.)
+USGS: Orla (31103-G8)
+County: Reeves
+Elevation: 918 m (3,012 feet)
+Landowner: Texas State Land
+Cultural Affiliation and Age: Unknown aboriginal (9500 B.C.–A.D. 1550)
+Site Type: Artifact scatter
+Size: 2,136.55 m2 (22,997.63 square feet, or 0.53 acre)
+NRHP Eligibility Recommendation: Not eligible
+Management Recommendations: Most of Site 41RV104 is within the APE and will be impacted by the
+proposed project. Site 41RV104 is recommended not eligible for the NRHP and no further work is
+recommended.
+Site Description
+Site 41RV104 is a light lithic artifact scatter of indeterminate affiliation in a nearly level to gently sloping
+desert scrubland (Figure 3.1–Figure 3.3). Slope is approximately 1 degree with a western aspect. Views in
+excess of 8 km (5 miles) are available in all directions; the Salt Creek is approximately 1.87 km (1.16 miles)
+to the west, and the Pecos River (Red Bluff Reservoir) is approximately 11.06 km (6.87 miles) to the
+northeast. Prehistorically, the Pecos River was likely a reliable water source for both people and game. The
+location of the site likely relates to its proximity to the river. The site measures 51.41 × 45.72 m (168.67 ×
+150 feet) in size. Site 41RV105 is located about 525 m (2,329 feet) to the west. Overall surface visibility is
+good, approximately 70 to 90 percent, with some areas obscured by sparse desert scrubland vegetation,
+including creosote bush, mesquite, prickly pear cactus, and bunch grasses. The soil on the site’s surface is
+highly degraded from eolian and alluvial activities. Most of the vegetation surrounds the site boundary. The
+surface has a light to moderate surface gravels across the site of chert, quartzite, chalcedony, and limestone.
+The natural gravels are a good source of raw material for lithic procurement.
+
+SWCA Environmental Consultants
+
+15
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+SWCA archaeologists visited this site on August 15, 2016. In total, 33 lithic artifacts were recorded at the
+site including 24 pieces of lithic debitage, six cores and tested cobbles, and three modified flakes. No
+features were observed. Six shovel tests were excavated to a maximum depth of 43 cm to determine the
+subsurface potential of the site. Shovel tests were concentrated in the center and southern side of the site
+within the survey corridor only; three were placed along the center within the permanent ROW, two on the
+southern portion of the corridor, and one in the northern portion of the corridor. All contained high amounts
+of alluvial and caliche gravels, confirming the deflated nature of the landform. All shovel tests terminated
+at compact caliche and were negative. The site was documented only within the survey corridor; however,
+the site potentially extends to the north and south.
+Site 41RV104 appears to be in fair condition, estimated to be 50 percent intact, with impacts from
+construction/land development, erosion, and rodent borrows. An existing transmission line and associated
+access roads are located in the site boundary within the survey corridor, approximately 14 m (46 feet) north
+of the centerline. The entire northern survey corridor follows along the transmission line. Tracks from heavy
+machinery, likely associated with nearby oil and gas infrastructure activities, crisscross the site. This
+activity has likely dispersed, destroyed, and reburied artifacts through the northern portion of the site. Minor
+alluvial and eolian erosion has directly impacted the site’s surface. The soil is highly degraded with multiple
+washes running down the west-trending slope, which has negatively impacted the site condition and has
+likely resulted in artifact dispersion during heavy rains. Site 41RV104 is within the APE and will be
+impacted by the proposed project.
+
+Figure 3.1.
+
+SWCA Environmental Consultants
+
+41RV104 site overview, facing north (Frame T25-5289).
+
+16
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure 3.2.
+
+41RV104 site overview, facing east, showing transmission line to the left of frame
+(Frame T25-2565).
+
+SWCA Environmental Consultants
+
+17
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure 3.3.
+
+SWCA Environmental Consultants
+
+Site map of 41RV104.
+
+18
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Features
+No features were identified at 41RV104.
+Materials Identified
+All 33 lithic artifacts were recorded at the site including 24 pieces of lithic debitage, six cores and tested
+cobbles, and three modified flake tools. The artifacts at the site indicate a lithic procurement and early-stage
+reduction site. The point-located artifacts were identified within the survey corridor and spread throughout
+the site. Lithic materials consisted of limestone, quartzite, chert and chalcedony with maximum lengths
+ranging from 2 to over 5 cm (Table 3.1, Figure 3.4). Analysis of the debitage indicates that flakes with 50+
+percent cortex constitute the majority (~42 percent, n = 10) of the assemblage. Approximately 33 percent
+are flakes with ≤ 50 percent cortex (n = 8), approximately 17 percent are flakes with no cortex (n = 4), and
+about 8 percent is cortical shatter (n = 2) (see Table 3.1). Lithic tools consisted of three edge-modified
+flakes (Table 3.2, Figure 3.5). Lithic reduction tools at the site consist of three tested cobbles, two
+multidirectional cores, and one bidirectional core (Table 3.3). All artifacts were identified within the APE.
+No ceramics or ground stone artifacts were observed during this investigation.
+Table 3.1.
+
+Flaked Stone Debitage at 41RV104
+
+Material Color/Type
+Tan limestone
+
+White chert
+
+Purple quartzite
+Gray chert
+
+Red quartzite
+Orange/Black banded
+chert
+White chalcedony
+
+Tan chert
+Pink chert
+
+Type
+≥ 50% cortex
+≤ 50% cortex
+No cortex
+Cortical shatter
+Non-cortical shatter
+≥ 50% cortex
+≤ 50% cortex
+No cortex
+≥ 50% cortex
+≤ 50% cortex
+≥ 50% cortex
+≤ 50% cortex
+Cortical shatter
+≤ 50% cortex
+
+Maximum Length of Flake (cm)
+1
+2
+3
+4
+
+5
+
+3
+1
+1
+1
+1
+4
+1
+1
+2
+
+5
+
+1
+
+1
+
+1
+1
+1
+1
+1
+1
+
+3
+
+1
+1
+
+1
+
+SWCA Environmental Consultants
+
+2
+
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+4
+
+19
+
+2
+
+3
+1
+
+1
+
+1
+
+Material Total
+
+1
+
+1
+
+0
+
+Type
+Total
+1
+
+1
+
+≤ 50% cortex
+≤ 50% cortex
+No cortex
+Cortical shatter
+≥ 50% cortex
+≤ 50% cortex
+No cortex
+Totals
+
+5+
+1
+
+8
+
+6
+
+5
+
+2
+6
+
+2
+
+2
+1
+24
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure 3.4.
+
+A representative sample of debitage identified at 41RV104, detail (Frame T25-6153).
+
+Table 3.2.
+
+Point-located Artifacts at 41RV104
+
+PL No.
+
+Material Type
+
+Length
+(cm)
+
+Width
+(cm)
+
+Thickness
+(cm)
+
+1
+
+White chert
+
+5.6
+
+4.5
+
+4.2
+
+2
+
+White chert
+
+3.8
+
+3.5
+
+0.9
+
+3
+
+Tan limestone
+
+5.0
+
+4.5
+
+2.1
+
+SWCA Environmental Consultants
+
+20
+
+Description
+Edge-modified flake with fine retouching on one lateral
+edge. May have originally been a core reworked into a
+tool with 1-50 percent cortex.
+Edge-modified flake on distal end. Steep, unilateral
+worked end with no cortex.
+Edge-modified flake on one lateral edge. Unidirectional
+flaking. Four flakes off proximal end. Greater than 50
+percent cortex.
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure 3.5.
+
+Top row, left to right: PL 1, white chert modified flake, obverse and reverse
+(Frames T25-8221 and T25-3897). Bottom row, left to right: PL 2, white chert edgemodified flake, obverse (Frame T25-1488), and PL 3, tan limestone edge-modified
+flake, obverse (Frame T25-3219).
+
+Table 3.3.
+
+Cores and Hammerstone at 41RV104
+
+Tan chert
+
+Length
+(cm)
+3.6
+
+Width
+(cm)
+3.1
+
+Thickness
+(cm)
+2.7
+
+Gray chert
+
+6.4
+
+4.6
+
+3.6
+
+Tan limestone
+Tan limestone
+Gray chert
+
+12.3
+6.9
+4.5
+
+8
+6.4
+3
+
+3
+4.4
+1.8
+
+6
+
+4.3
+
+3.8
+
+Material Type
+
+Gray chert
+
+Description
+Small tested cobble with three flakes removed.
+Multidirectional core with six flakes removed in a
+random pattern.
+Large tested cobble with three flakes removed.
+Bidirectional core with four flakes removed.
+Small tested cobble with three flakes removed.
+Multidirectional core with six flakes removed in a
+random pattern.
+
+Site Chronology
+The lack of temporal or diagnostic materials at this site precludes determination of cultural affiliation further
+than unspecified aboriginal, specifically unknown prehistoric (9500 B.C.–A.D. 1550). The site likely dates
+to the prehistoric or protohistoric period.
+
+SWCA Environmental Consultants
+
+21
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Site Interpretation and Summary
+Site 41RV104 is a lithic scatter of indeterminate cultural and temporal origin, estimated 50 percent intact
+with primary impacts to site integrity from alluvial erosion, land development, and the activities of heavy
+machinery. Lithic procurement and early-stage reduction activities likely occurred at the site. Site 41RV104
+is interpreted as a limited activity area for a small group of people during their travels throughout the area.
+The site is located within proximity to other lithic procurement sites, such as 41RV15 located approximately
+123 m (404 feet) to the north and 41RV105 located approximately 525 m (2,329 feet) to the west. The
+proximity to Salt Creek and the Pecos River, as well as the availability of natural gravels of chert, quartzite,
+and limestone, may have made this a desirable location for limited use. No structural features, thermal
+staining, or burned caliche concentrations were observed that would indicate a more intensive use of the
+site.
+Eligibility Recommendations
+Site 41RV104 is an unspecified aboriginal lithic scatter located on a relatively flat plain with a 1 degree
+west-trending slope. The site is located approximately 1.87 km (1.16 miles) east of Salt Creek, 11.06 km
+(6.87 miles) southwest of the Pecos River (Red Bluff Reservoir), and 21.19 km (13.17 miles) south of the
+New Mexico-Texas state line. Site 41RV104 is in fair condition with disturbances from modern
+developments like nearby transmission line installation and continued vehicle activity along the associated
+access road. Six shovel tests were excavated to a maximum depth of 43 centimeters below surface (cmbs).
+Shovel tests were placed only within the survey corridor; three were placed along the centerline, two on the
+southern edge of the survey corridor, and one just north of the centerline. All contained high amounts of
+alluvial and caliche gravels confirming the deflated nature of the landform. No cultural materials were
+found in the shovel tests.
+Site 41RV104 is not associated with any significant event or person and is therefore not eligible under
+Criteria A or B. Its construction does not embody the work of a master and is therefore not eligible under
+Criterion C. The site was thoroughly investigated within the survey corridor and is believed not to harbor
+additional information potential to suggest it would be eligible under Criterion D; however, portions of the
+site outside of the proposed corridor are considered undetermined. The site retains integrity of location, but
+lacks integrity of setting and feeling because it is located within a landscape marred by modern development
+and has changed from the time the site was likely occupied. Site 41RV104 has diminished integrity of
+design and materials because construction activities and alluvial erosion through the site have displaced
+artifacts from their original locations, obscuring in situ intra-site activity areas. Finally, the site lacks
+integrity of association and workmanship because the artifact assemblage cannot be linked to a specific
+cultural group or time period. Based on this assessment, it is SWCA’s recommendation that the site will
+not yield information that would further our understanding of the prehistory of the area. Therefore, site
+41RV104 is recommended not eligible to the NRHP under any criteria.
+Management Recommendations
+The site is within the APE and will be impacted by the proposed project. The artifacts recorded are typical
+for this area and are in low numbers. All artifacts were completely documented. The shovel tests indicate
+that there are no subsurface cultural deposits. The site is recommended not eligible for the NRHP and no
+further work is recommended.
+
+SWCA Environmental Consultants
+
+22
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+41RV105
+Additional Site Numbers: 41RV105
+USGS: Orla (31103-G8)
+County: Reeves
+Elevation: 917–918 m (3,009–3,012 feet)
+Landowner: Texas State Land
+Cultural Affiliation and Age: Unknown aboriginal (9500 B.C.–A.D. 1550)
+Site Type: Artifact scatter
+Size: 3,897.75 m2 (41,955.03 square feet, or 0.96 acre)
+NRHP Eligibility Recommendation: Not eligible
+Management Recommendations: The site 41RV105 is within the APE and will be impacted by the
+proposed project. Site 41RV105 is recommended not eligible for the NRHP and no further work is
+recommended.
+Site Description
+Site 41RV105 is a moderate lithic artifact scatter of indeterminate affiliation measuring 91.25 × 45.72 m
+(27.81 × 13.93 feet) in nearly level to gently sloping desert scrubland (Figure 3.6. –Figure 3.8). Slope is
+approximately 1 degree with a west-southwest aspect. Views in excess of 8 km (5 miles) are available in
+all directions; Salt Creek is approximately 1.28 km (0.80 mile) to the west, and the Pecos River (Red Bluff
+Reservoir) is approximately 11 km (6.83 miles) to the northeast. The Pecos River was a reliable water
+source for prehistoric people and game and the site’s location is likely related to the river. Site 41RV104 is
+located about 525 m (2,329 feet) to the east and Site 41RV106 is located about 174 m (571 feet) to the west.
+Overall surface visibility is good, approximately 70 to 90 percent, with some areas obscured by ground
+vegetation, including an understory of creosote bush, mesquite, and various other mixed grasses and forbs.
+The surface has a moderate to dense surface gravels present across the site of chert, quartzite, chalcedony,
+and limestone. The natural gravels are a good source of raw material for lithic procurement.
+SWCA archaeologists visited this site on August 15, 2016. Fifty-two lithic artifacts were recorded at the
+site including 42 pieces of lithic debitage, nine cores and tested cobbles, and one modified flake. No features
+were observed. Seven shovel tests were excavated to a maximum depth of 34 cm. All contained high
+amounts of alluvial and caliche gravels. All shovel tests terminated at compact sterile sediment with mass
+calcium carbonates and were negative. Intact subsurface cultural deposits are not anticipated; if present, the
+nature of deposition suggests that subsurface deposits would not exceed 10 cm in depth and would lack
+integrity due to the impacts from modern development. Shovel tests were concentrated in the center of the
+site within the survey corridor only; five were placed near the centerline, two on the northern and southern
+edges of the corridor. The site was documented only within the survey corridor; however, the site potentially
+extends to the north and south.
+The site appears to be in fair condition, estimated to be 50 percent intact with construction/land
+development, erosion, and rodent burrows impacting site condition. Activities associated with land
+development are the most prominent source of disturbance to the site. A development corridor with an
+access road and a transmission line is located within the survey corridor approximately 39 to 46 m (128–
+151 feet) to the north of centerline. This construction activity falls within the site boundary. Push piles and
+vehicle tracks associated with the transmission line and access roads are within the site boundary. The
+construction activity through this area has likely dispersed, destroyed, and reburied artifacts. Minor to
+moderate alluvial and eolian activity has directly impacted the site. Winds have exposed caliche bedrock
+and multiple alluvial washes run downslope, possibly resulting in secondary deposition and dispersion
+during heavy rains. The site is within the APE and will be impacted by the proposed project.
+
+SWCA Environmental Consultants
+
+23
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure 3.6.
+
+41RV105 site overview, facing south, showing access road in front of frame
+(Frame T25-9449).
+
+Figure 3.7.
+
+41RV105 site overview, facing east, showing ephemeral two-track road left of frame
+(Frame T25-5864).
+
+SWCA Environmental Consultants
+
+24
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure 3.8.
+
+SWCA Environmental Consultants
+
+41RV105 site map.
+
+25
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Features
+No features were identified at 41RV105.
+Materials Identified
+All 52 lithic artifacts were recorded at the site including 42 pieces of lithic debitage, nine cores and tested
+cobbles, and one modified flake. The artifacts at the site represent a lithic procurement and early-stage
+reduction site. The single point-located artifact was identified near the edge of the transmission corridor on
+the northeast corner of the site. Lithic materials consisted of chert, chalcedony, and quartzite with maximum
+lengths ranging from 2 to over 5 cm. Analysis of the debitage indicates that flakes with 50+ percent cortex
+constitute the majority (~45 percent, n = 19) of the assemblage. Approximately 31 percent are flakes with
+≤ 50 percent cortex (n = 13), approximately 14 percent is cortical shatter (n = 6), approximately 5 percent
+are flakes with no cortex (n = 2), and about 2 percent are non-cortical shatter (n = 2) (Table 3.4, Figure 3.9).
+Lithic tools consisted of a single point-located artifact, a modified flake (PL 1), measuring 4 × 2.2 × 0.9 cm
+with 1 to 50 percent cortex. The modified flake has fine retouching on two edges and utilized on one edge.
+One of the modified edges is steep while the other is acute (Figure 3.10). Lithic reduction tools at the site
+consist of six tested cobbles and three cores—one multidirectional, one bidirectional, and one unidirectional
+(Table 3.5). The cores and tested cobbles are mainly located on the eastern and southern extents of the site.
+All artifacts were identified within the APE. No ceramics or ground stone artifacts were identified during
+this investigation.
+Table 3.4.
+
+Flaked Stone Debitage at 41RV105
+
+Material Color/Type
+Black chert
+White chert
+
+White chalcedony
+
+Brown chert
+White/Pink mottled
+chert
+Gray quartzite
+Tan chert
+Gray chert
+
+Type
+≤ 50% cortex
+≥ 50% cortex
+≤ 50% cortex
+Cortical shatter
+≥ 50% cortex
+≤ 50% cortex
+No cortex
+Cortical shatter
+Non-cortical shatter
+≥ 50% cortex
+≤ 50% cortex
+
+Maximum Length of Flake (cm)
+1
+2
+3
+4
+1
+1
+1
+3
+1
+1
+1
+2
+2
+2
+1
+1
+2
+1
+
+SWCA Environmental Consultants
+
+5+
+
+2
+1
+
+2
+1
+
+3
+3
+
+2
+
+2
+
+1
+
+1
+
+≥ 50% cortex
+≥ 50% cortex
+≥ 50% cortex
+≤ 50% cortex
+Totals
+
+5
+
+1
+1
+1
+0
+
+1
+
+9
+
+26
+
+1
+13
+
+12
+
+7
+
+Type
+Total
+1
+6
+5
+1
+9
+5
+2
+5
+2
+1
+1
+
+Material Total
+1
+12
+
+23
+
+2
+
+1
+
+1
+
+1
+1
+1
+
+1
+1
+1
+42
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure 3.9.
+
+A representative sample of debitage identified at 41RV105, detail (Frame T25-5452).
+
+SWCA Environmental Consultants
+
+27
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure 3.10.
+Table 3.5.
+
+PL 1, pink chert modified flake, obverse (Frame T25-2754).
+
+Cores and Hammerstone at 41RV105
+
+Material Type
+
+Length
+(cm)
+
+Width
+(cm)
+
+Thickness
+(cm)
+
+Gray chalcedony
+
+6.4
+
+4.7
+
+2.2
+
+Bifacially reduced tested cobble with four flakes
+removed.
+
+Black/Gray
+mottled chert
+Gray chert
+Tan chert
+White chert
+Gray quartzite
+Gray chert
+Gray chalcedony
+Yellow/Gray
+mottled chert
+
+Description
+
+7.1
+
+5.2
+
+4.3
+
+Tested cobble with two flakes removed.
+
+6.9
+5.1
+
+4.5
+4.2
+
+3.3
+1.4
+
+8
+
+5.4
+
+2.2
+
+6.5
+4.1
+7
+
+4.8
+4
+4.2
+
+2.1
+2.1
+3.4
+
+Tested cobble with three flakes removed.
+Unidirectional core with 8 flakes removed.
+Multidirectional core on bilateral edges with 8 flakes
+removed.
+Tested cobble with one flake removed.
+Tested cobble with two flakes removed.
+Tested cobble with three flakes removed.
+
+5
+
+4.2
+
+4
+
+Tested cobble with a two flakes removed.
+
+Site Chronology
+The lack of temporal or diagnostic materials at this site precludes determination of cultural affiliation further
+than unspecified aboriginal, specifically unknown prehistoric (9500 B.C.–A.D. 1800). The site likely dates
+to the prehistoric or protohistoric period.
+Site Interpretation and Summary
+Site 41RV105 is a lithic scatter of indeterminate cultural and temporal origin, estimated 50 percent intact
+with primary impacts to site integrity from land development, heavy machinery, and alluvial and eolian
+erosional activity. Lithic procurement and early-stage reduction activities likely occurred at the site. Site
+41RV105 is interpreted as a limited activity area for a small group of people during their travels throughout
+the area. The site is located within proximity to other lithic procurement sites, such as 41RV15 located
+approximately 154 m (507 feet) to the north, 41RV104 located approximately 525 m (2,329 feet) to the
+
+SWCA Environmental Consultants
+
+28
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+east, and 41RV106 located 174 m (571 feet) to the west. The proximity to Salt Creek and the Pecos River,
+as well as the availability of natural gravels of chert, quartzite, and limestone, may have made this a
+desirable location for limited use. No structural features, thermal staining, or burned caliche concentrations
+were observed that would indicate a more intensive use of the site.
+Eligibility Recommendations
+Site 41RV105 is an unspecified aboriginal lithic scatter located on a relatively flat plain approximately 1.28
+km (0.80 mile) east of Salt Creek, 11 km (6.83 miles) southwest of the Pecos River (Red Bluff Reservoir),
+and 21.27 km (13.22 miles) south of the New Mexico-Texas state line. Site 41RV105 is in fair condition
+with disturbances from modern developments like the nearby transmission line installation and continued
+vehicle activity along the associated access road. Seven shovel tests were excavated to a maximum depth
+of 34 cmbs. All contained high amounts of alluvial and caliche gravels confirming the deflated nature of
+the landform. Shovel tests were placed throughout the site within the survey corridor; no cultural materials
+were found.
+Site 41RV105 is not associated with any significant event or person and is therefore not eligible under
+Criteria A or B. Its construction does not embody the work of a master and is therefore not eligible under
+Criterion C. The site was thoroughly investigated within the survey corridor and is believed not to harbor
+additional information potential to suggest it would be eligible under Criterion D; however, portions of the
+site outside the proposed corridor are considered undetermined. The site retains integrity of location, but
+lacks integrity of setting and feeling because it is located within a landscape marred by modern development
+and has changed from the time the site was likely occupied. Site 41RV105 has diminished integrity of
+design and materials because construction activities and alluvial and eolian erosion through the site have
+displaced artifacts from their original locations, obscuring in situ intra-site activity areas. Finally, the site
+lacks integrity of association and workmanship because the artifact assemblage cannot be linked to a
+specific cultural group or time period. Based on this assessment, it is SWCA’s recommendation that the
+site will not yield information that would further our understanding of the prehistory of the area. Therefore,
+41RV105 is recommended not eligible to the NRHP under any criteria.
+Management Recommendations
+The site is within the APE and will be impacted by the proposed project. The artifacts recorded are typical
+for this area and are in low numbers. All artifacts were completely documented. The shovel tests indicate
+that there are no subsurface cultural deposits. The site is recommended not eligible for the NRHP and no
+further work is recommended.
+
+SWCA Environmental Consultants
+
+29
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+41RV106
+Additional Site Numbers: 41RV106
+USGS: Orla (31103-G8)
+County: Reeves
+Elevation: 913–915 m (2,995–3,002 feet)
+Landowner: Texas State Land
+Cultural Affiliation and Age: Unknown aboriginal (9500 B.C.–A.D. 1800)
+Site Type: Artifact scatter
+Size: 4,086.51 m2 (43,986.83 square feet, or 1.01 acres)
+NRHP Eligibility Recommendation: Not eligible
+Management Recommendations: The site is within the APE and will be impacted by the proposed
+project. The site is recommended not eligible for the NRHP and no further work is recommended.
+Site Description
+Site 41RV106 is a moderate lithic artifact scatter of indeterminate affiliation measuring 105.46 × 45.72 m
+(346 × 13.93 feet) in nearly level to gently sloping desert scrubland (Figure 3.11–Figure 3.14). Slope is
+approximately 1 to 5 degrees with a western aspect. The eastern edge of the site has a slight flat ridge that
+proceeds to drop and slope to the west. Views in excess of 8 km (5 miles) are available in all directions;
+Salt Creek is approximately 1.02 km (0.64 mile) to the west, and the Pecos River (Red Bluff Reservoir) is
+approximately 11.03 km (6.85 miles) to the northeast. The Pecos River was a reliable water source for
+prehistoric people and game and the site’s location is likely related to the river. Site 41RV105 is located
+about 174 m (571 feet) to the east. Overall surface visibility is good, approximately 75 to 85 percent, with
+some areas obscured by bunch grasses. Other than bunch grasses, vegetation is sparse and includes an
+understory of creosote bush, mesquite, and soaptree yucca. The surface has dense surface gravels present
+across the site of chert, quartzite, quartz, chalcedony, limestone, and sandstone. The natural gravels are a
+good source of raw material for lithic procurement.
+SWCA archaeologists visited this site on August 16, 2016. No features were observed, but 69 lithic artifacts
+were recorded at the site including 58 pieces of lithic debitage, nine cores and tested cobbles, one modified
+flake, one uniface, and one biface tool. Six shovel tests were excavated to a maximum depth of 40 cm. All
+shovel tests contained moderate amounts of calcium carbonate nodules and terminated at compact sterile
+sediments with mass calcium carbonates. No cultural materials were found in any of the shovel tests. Intact
+subsurface cultural deposits are not anticipated; if present, the nature of deposition suggests that subsurface
+deposits would not exceed 10 cm in depth and would lack integrity due to the impacts from modern
+development. Shovel tests were concentrated in the center and southern side of the site within the survey
+corridor only; five were placed along the centerline, one on the southern edge of the corridor. The site was
+documented only within the survey corridor; however, the site potentially extends to the north and south.
+The site appears to be in fair condition, estimated to be 50 to 60 percent intact with alluvial erosion, rodent
+burrows, and heavy construction activities and infrastructure negatively impacting site condition. Activities
+associated with the construction of a transmission line are the most prominent source of disturbance to the
+site. A development corridor with an access road and a transmission line is located about 10 m (33 feet) to
+the north of centerline. Tire tracks and push piles are located all along edge of the corridor with the tracks
+crossing the site even south of the centerline. The activity through this area has likely dispersed, destroyed,
+and reburied artifacts. Soil at the site has been affected moderately by eolian and alluvial activity. Wind
+and water has left little to no soil deposition and has potentially dispersed artifacts downslope during heavy
+rains. The site is within the APE and will be impacted by the proposed project.
+
+SWCA Environmental Consultants
+
+30
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure 3.11.
+
+41RV106 site overview, facing west, showing transmission line right of frame
+(Frame T25-6900).
+
+Figure 3.12.
+
+41RV106 site overview, facing southeast (Frame T25-8672).
+
+SWCA Environmental Consultants
+
+31
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure 3.13.
+
+41RV106 site overview, facing northeast, showing transmission corridor and
+disturbance in background (Frame T25-0791).
+
+SWCA Environmental Consultants
+
+32
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure 3.14.
+
+SWCA Environmental Consultants
+
+41RV106 site map.
+
+33
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Features
+No features were identified at 41RV106.
+Materials Identified
+All 69 lithic artifacts were recorded at the site including 58 pieces of lithic debitage, nine cores and tested
+cobbles, and three lithic tools. The artifacts at the site represent a lithic procurement and early-stage
+reduction site. Two point-located artifacts were identified in the southeastern portion of the site, and a single
+point-located artifact was located downslope in the southwest corner of the site. Lithic materials consisted
+of chert, chalcedony, sandstone, and quartz flakes with maximum lengths ranging from 2 to over 5 cm.
+Analysis of the debitage indicates that flakes with 50+ percent cortex constitute the majority (~35 percent,
+n = 20) of the assemblage. Approximately 31 percent are cortical shatter (n = 18), approximately 24 percent
+are flakes with ≤ 50 percent cortex (n = 14), and approximately 10 percent are flakes with no cortex (n = 6)
+(see Table 3.6, Figure 3.15). Lithic tools consisted of a one modified flake, one uniface, and a single biface
+(Table 3.7, Figure 3.16). Lithic reduction tools at the site consist of eight tested cobbles and one
+unidirectional core (Table 3.8). The majority of the cores and tested cobbles are located in the eastern edge
+of the site. The eastern extent of the site is located on a small ridge covered in natural gravels that were
+used during the procurement process. All artifacts were identified within the APE. No ceramics or ground
+stone artifacts were identified during this investigation.
+Table 3.6.
+
+Flaked Stone Debitage at 41RV106
+
+Material Color/Type
+
+White chalcedony
+
+Tan chert
+Orange/Gray band
+chert
+White chert
+
+Gray/White mottled
+chert
+
+Gray chert
+Quartz
+Gray chalcedony
+Gray/Orange/Red
+chalcedony
+Brown/Gray mottled
+chert
+Black chert
+
+Type
+≥ 50% cortex
+≤ 50% cortex
+No cortex
+Cortical shatter
+≥ 50% cortex
+≤ 50% cortex
+
+Maximum Length of Flake (cm)
+1
+2
+3
+4
+1
+2
+1
+3
+1
+3
+2
+2
+1
+
+≤ 50% cortex
+3
+
+1
+1
+1
+1
+
+5
+
+2
+
+1
+1
+
+1
+
+1
+
+6
+2
+1
+1
+2
+1
+1
+3
+2
+1
+3
+2
+1
+1
+
+1
+
+1
+
+1
+
+1
+1
+1
+
+1
+1
+3
+2
+1
+2
+1
+
+1
+
+1
+1
+
+1
+0
+
+1
+
+13
+
+34
+
+24
+
+Type
+Total
+4
+6
+1
+12
+2
+1
+1
+
+2
+
+≥ 50% cortex
+
+SWCA Environmental Consultants
+
+5+
+
+1
+
+≥ 50% cortex
+≤ 50% cortex
+No cortex
+Cortical shatter
+≥ 50% cortex
+≤ 50% cortex
+No cortex
+≥ 50% cortex
+≤ 50% cortex
+No cortex
+Cortical shatter
+No cortex
+≥ 50% cortex
+Cortical shatter
+≥ 50% cortex
+Cortical shatter
+≤ 50% cortex
+Totals
+
+5
+1
+2
+
+1
+16
+
+4
+
+Material Total
+
+23
+
+3
+1
+
+10
+
+4
+
+9
+2
+2
+1
+2
+1
+58
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure 3.15.
+Table 3.7.
+
+Representative sample of debitage identified at 41RV106, detail (Frame T25-0045).
+Point-located Artifacts at 41RV106
+
+PL No.
+
+Material Type
+
+Length
+(cm)
+
+Width
+(cm)
+
+Thickness
+(cm)
+
+1
+
+Gray/Red/Tan
+mottled chert
+
+4.5
+
+3.8
+
+1.9
+
+2
+
+Pink/Black
+mottled chert
+
+4.2
+
+3.1
+
+0.9
+
+3
+
+Tan chert
+
+7.3
+
+4.6
+
+3.6
+
+SWCA Environmental Consultants
+
+35
+
+Description
+Uniface with fine retouching on one lateral steep edge.
+Less than 50 percent cortex. Possible thermally altered
+with red color and waxy texture.
+Edge modified flake with fine retouching on one lateral
+steep edge; 50+ percent cortex.
+Early stage biface with random flaking pattern. Quartz
+veins in material causing halting of completion of tool;
+1–50 percent cortex.
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure 3.16.
+
+Top row: PL 1, gray, red, and tan chert uniface (Frame T25-2737), and PL 2, pink
+and black chert modified flake (Frame 25-0074). Bottom row: PL 3, tan chert earlystage biface, obverse and reverse (Frames T25-3149 and T25-6297).
+
+Table 3.8.
+
+Cores and Hammerstone at 41RV106
+
+Material Type
+White chert
+Red silicified
+Sandstone
+Black chert
+Gray chert
+Gray/Black mottled
+chert
+Gray chalcedony
+Gray chert
+Tan chert
+Gray/White chert
+
+Length
+(cm)
+5.2
+
+Width
+(cm)
+4.3
+
+7.1
+
+4.8
+
+1.6
+
+Tested cobble, 2 flakes removed.
+
+4.1
+6.4
+
+3
+6.3
+
+2.2
+3
+
+Tested cobble, 3 flakes removed.
+Unidirectional core with 4 flakes scars and 50+% cortex.
+
+4.7
+
+4.3
+
+2.1
+
+Tested cobble, 3 flakes removed.
+
+6.3
+6.3
+4.9
+6.4
+
+4
+6.3
+3.6
+5.2
+
+3.2
+3
+2.4
+3.2
+
+Bifacially reduced tested cobble, broken.
+Tested cobble, 3 flakes, and random flaking pattern.
+Tested cobble, 4 flakes, and random flaking pattern.
+Tested cobble, 3 flakes, and random flaking pattern.
+
+SWCA Environmental Consultants
+
+Thickness
+(cm)
+2.4
+
+Description
+Tested cobble, broken, at least 3 flakes removed.
+
+36
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Site Chronology
+The lack of temporal or diagnostic materials at this site precludes determination of cultural affiliation further
+than unspecified aboriginal, specifically unknown prehistoric (9500 B.C.–A.D. 1800). The site likely dates
+to the prehistoric or protohistoric period.
+Site Interpretation and Summary
+Site 41RV106 is a lithic scatter of indeterminate cultural and temporal origin, estimated 50 to 60 percent
+intact with primary impacts to site integrity from land development, heavy machinery, and alluvial and
+eolian erosional activity. Lithic procurement and early-stage reduction activities likely occurred at the site.
+Site 41RV106 is interpreted as a limited activity area for a small group of people during their travels
+throughout the area. The site is located within proximity to other lithic procurement sites, such as 41RV15
+located approximately 182 m (597 feet) to the north, 41RV105 located approximately 174 m (571 feet) to
+the east. The proximity to Salt Creek and the Pecos River, as well as the availability of natural gravels of
+chert, quartz, and chalcedony, may have made this a desirable location for limited use. No structural
+features, thermal staining, or burned caliche concentrations were observed that would indicate a more
+intensive use of the site.
+Eligibility Recommendations
+Site 41RV106 is an unspecified aboriginal lithic scatter located on a gentle slope and ridge approximately
+1.02 km (0.64 mile) east of Salt Creek, 11.03 km (6.85 miles) southwest of the Pecos River (Red Bluff
+Reservoir), and 21.26 km (13.21 miles) south of the New Mexico-Texas state line. Site 41RV106 is in fair
+condition with disturbances from modern developments, including a transmission line installation and
+continued vehicle activity along the associated access road. Six shovel tests were excavated to a maximum
+depth of 40 cmbs. Shovel tests were located in the center and southern portion of the site only within the
+survey corridor; no cultural materials were found.
+Site 41RV106 is not associated with any significant event or person and is therefore not eligible under
+Criteria A or B. Its construction does not embody the work of a master and is therefore not eligible under
+Criterion C. The site retains integrity of location, but lacks integrity of setting and feeling because it is
+located within a landscape marred by modern development and has changed from the time the site was
+likely occupied. Site 41RV106 has diminished integrity of workmanship, design, and materials because
+alluvial and eolian erosion through the site has displaced artifacts from their original locations, obscuring
+in situ intra-site activity areas. Finally, the site lacks integrity of association because the artifact assemblage
+cannot be linked to a specific cultural group or time period. The site was thoroughly investigated within the
+survey corridor, does not to have any information potential, and would not be eligible under Criterion D.
+The portions of the site outside the survey corridor are considered undetermined. Based on this assessment,
+SWCA’s recommendation is that the site will not yield information that will further our understanding of
+the prehistory of the area. Therefore, site 41RV106 is recommended not eligible to the NRHP under any
+criteria.
+Management Recommendations
+The site is within the APE and will be impacted by the proposed project. The artifacts recorded are typical
+for this area and are in low numbers. All artifacts were completely documented. The shovel tests indicate
+that there are no subsurface cultural deposits. The site is recommended not eligible for the NRHP and no
+further work is recommended.
+
+SWCA Environmental Consultants
+
+37
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+3.2
+
+Isolated Finds
+
+Eleven IFs were documented within the project area. The IFs consist of prehistoric artifacts (Table 3.9,
+Figure 3.17 and Figure 3.18). By definition, IFs are not eligible for the NRHP and they do not constrain
+management decisions where they are found.
+Table 3.9.
+Final IM
+No.
+
+Texas Isolated Finds
+Field IM
+No.
+
+IF 1
+
+IF-KJP-01
+
+IF 2
+
+IF-KJP-02
+
+IF 3
+
+IF-KJP-03
+
+IF 4
+
+IF-KJP-04
+
+IF 5
+
+IF-KJP-05
+
+IF 6
+
+IF-KJP-06
+
+IF 7
+
+IF-KJP-07
+
+IF 8
+
+IF-KJP-08
+
+IF 9
+
+IF-KJP-09
+
+IF 10
+
+IF-KJP-10
+
+IF 11
+
+IF-KJP-11
+
+IM Description
+IF 1 is one exhausted white chert core with six flakes taken off. The core measures 4.4 × 2.9 × 2.4
+cm and is 1–50 percent cortex. One primary reduction flake with more than 50 percent cortex. The
+flake measures 5+ cm and is brown chert with a pink band.
+IF 2 is five pieces of flaked debitage, four white chert and one green chert. One white chert is
+complete measuring 3–4 cm and 1–50 percent cortex. The three other white chert are broken, two
+measuring 2–3 cm with 1–50 percent cortex and one 1–2 cm with 50+ percent cortex. The green
+chert flake is complete with 1–50 percent cortex. The flake has a pronounced plain platform and is
+a secondary reduction flake measuring 5+ cm.
+IF 3 is four pieces of white chalcedony flaked debitage, two tan chert flakes, and one tan chert
+cortical shatter. Two broken and two complete white chert flakes. The two complete flakes are 1–50
+percent cortex; one measures 4–5 cm and the other measures 5+ cm. The two broken flakes are
+both 1–50 percent cortex, measuring 2–3 cm and 1–2 cm. Two tan chert broken flakes, both 50+
+percent cortex; one measures 5+ cm and the other measures 3–4 cm. The cortical shatter is tan
+chert measuring 5+ cm and 50+ percent cortex.
+IF 4 is one tan chert tested cobble with 4 flakes removed. The cobble has 1–50 percent cortex and
+measures 6.3 × 3 × 1.5 cm.
+IF 5 is one tan chert exhausted core, multidirectional, 50+ percent cortex and measures 5 × 3 × 1.9
+cm. One gray chert tested cobble with four flakes scars in a unidirectional pattern, 50+ percent
+cortex measuring 3.4 × 3.1 × 1.1 cm. One gray chert, complete primary flake, 50+ percent cortex,
+and 4–5 cm.
+IF 6 is six pieces of debitage: four white chert, one gray chert, and one gray petrified wood. The
+white chert include three that are 1–50 percent cortex and one is 50+ percent cortex. The size
+ranges from 2–3 cm to 5+ cm. The gray chert has 50+ percent cortex and 2–3 cm. The petrified
+wood is 3–4 cm with 50+ percent cortex. The isolates are spread out over a 15-m area and does
+not constitute a site.
+IF 7 is one chert tested cobble and one chalcedony core. The core has nine flakes taken off and is
+multidirectional with 1–50 percent cortex. The core measures 5.8 × 4.5 × 1.7 cm. The tested cobble
+has two flakes taken off with 50+ percent cortex and measures 6.5 × 5.2 × 1.8 cm.
+IF 8 is two pieces of cortical shatter and one tested cobble. The tested cobble has two flake scars
+and is a gray chert with 50+ percent cortex measuring 5 × 4.5 × .5 cm. The cortical shatter includes
+one white chalcedony with 1–50 percent cortex measuring 4–5 cm and the other is pink chert with
+50+ percent cortex measuring 2–3 cm.
+IF 9 is two tested cobbles and one core. The multidirectional core is a gray and brown mottled chert
+with five flake scars, 1–50 percent cortex, and measures 6.6 × 5.9 × 2.5 cm. One tested cobble is
+white chalcedony with three flake scars, 50+ percent cortex, and measures 5.4 × 3.8 × 2.4 cm. The
+other tested cobble is a brown chert with four flake scars and 50+ percent, measuring 6.4 × 4 × 3
+cm.
+IF 10 is two flakes and a tested cobble. The flakes are 3–4 cm, 1–50 percent cortex, and white
+chert. One is mottled with pink and orange. The tested cobble is white chalcedony with 50+ percent
+cortex, one flake scar, measuring 5.6 × 5.4 × 4.4 cm.
+IF 11 is one utilized flake, mottled gray and white chert with 50+ percent cortex. Evidence of
+utilization from very small flake scars on two lateral edges. Measures 4.9 × 4.6 × 1.7 cm.
+
+SWCA Environmental Consultants
+
+38
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure 3.17.
+
+Top row, left to right: IF 1, one white chert exhausted core and one brown chert
+flake, detail (Frame T25-0324); IF 2, five flaked debitage, four white chert and one
+green chert, detail (Frame T25-9701). Middle row, left to right: IF 3, six flaked
+debitage and one cortical shatter, four white chalcedony and three tan chert, detail
+(Frame T25-8827); IF 4, one tan chert tested cobble, detail (Frame T25-9022).
+Bottom row, left to right: IF 5, one gray chert tested cobble, one tan chert exhausted
+core, and one gray chert flake debitage, detail (Frame T25-1497); IM 6, six
+debitage—four white chert, one gray chert, and one gray petrified wood, detail
+(Frame T25-3279).
+
+SWCA Environmental Consultants
+
+39
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure 3.18.
+
+Top row, left to right: IF 7, one white chert tested cobble and one white chalcedony
+core, detail (Frame T25-6806); IF 8, two cortical shatter, one white chalcedony and
+one pink chert, and a gray chert tested cobble (Frame T25-6676). Middle row, left to
+right: IF 9, one gray and brown mottle chert multidirectional core, one white
+chalcedony tested cobble, and one brown chert tested cobble, detail (Frame T254408); IF 10, one white chalcedony tested cobble and two white chert flaked
+debitage, detail (Frame T25-5197). Bottom row, left to right: IF 11, one gray and
+white mottled chert utilized flake, detail, (Frames T25-7730 and T25-7519).
+
+SWCA Environmental Consultants
+
+40
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+4 DISCUSSION AND MANAGEMENT SUMMARY
+An archaeological survey of 17.73 acres for the Enterprise Orla Gas Gathering System – Culberson Lateral
+Project on state land in Texas resulted in the discovery of three sites (41RV104, 41RV105, and 41RV106)
+and 11 IFs. The three sites and the IFs are considered not eligible for the NRHP.
+Sites 41RV104, 41RV105, and 41RV106 were recorded only within the survey area and not outside the
+survey corridor. The sites are considered not eligible for the NRHP under any criterion within the survey
+corridor. All three sites may extend outside the survey corridor, but that portion of the site was not recorded
+or assessed for eligibility. The sites do not likely contain buried deposits that would have research potential
+to address research domains for this area in Texas. Specifically, these sites do not have the potential to yield
+information that would aid in understanding prehistoric mobility and subsistence strategies in the area. No
+further management of sites 41RV104, 41RV105, and 41RV106 is recommended. The 11 Ifs, by definition,
+are not eligible for the NRHP. No further management of these resources is recommended. SWCA
+recommends that the proposed project will have no adverse effect on prehistoric properties and that it be
+allowed to proceed as planned. Site summaries, eligibility, and mitigation recommendations are provided
+below in Table 4.1.
+Table 4.1.
+Field/Agency
+No.
+41RV104
+41RV105
+41RV106
+
+Site Summary, Eligibility, and Mitigation Recommendations
+Site Type/Cultural Affiliation and Dates
+Artifact scatter with feature/unspecified aboriginal
+(9500 B.C.–A.D. 1800)
+Artifact scatter/unspecified aboriginal (9500 B.C.–
+A.D. 1800)
+Artifact scatter/unspecified aboriginal (9500 B.C.–
+A.D. 1800)
+
+SWCA Environmental Consultants
+
+41
+
+Eligibility
+Recommendation
+
+Land
+Ownership
+
+Recommended
+Mitigation
+
+Not eligible
+
+State
+
+None
+
+Not eligible
+
+State
+
+None
+
+Not eligible
+
+State
+
+None
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+This page left intentionally blank
+
+SWCA Environmental Consultants
+
+42
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+5 REFERENCES
+Acklen, John C., and Jim A. Railey (eds.)
+2001 Final Report for Testing and Data Recovery at Five Sites Near Carlsbad, New Mexico. TRC
+Mariah Associates Inc., Albuquerque.
+Amick, Daniel S.
+1996 Regional Patterns of Folsom Mobility and Land Use in the American Southwest. World
+Archaeology 27(3):411–426.
+Antevs, Ernst
+1948 Climatic Changes and Pre-White Man. University of Utah Bulletin 38:168–191.
+1953
+
+Climatic History and the Antiquity of Man in California. University of California Archaeological
+Survey Reports 16:23–31.
+
+1955
+
+Geologic-Climatic Dating in the West. American Antiquity 20(4):317–335.
+
+Bamforth, Douglas B.
+2002 High-tech Foragers? Folsom and Later Paleoindian Technology on the Great Plains. Journal of
+World Prehistory 16:55–98.
+Baugh, Susan T.
+1986 Late Prehistoric Bison Distributions in Oklahoma. In Current Trends in Southern Plains
+Archaeology, edited by Timothy G. Baugh, pp. 83–96. Plains Anthropological Society, Memoir
+21. Lincoln, Nebraska.
+Berry, Claudia F., and Michael S. Berry
+1986 Chronological and Conceptual Models of the Southwestern Archaic. In Anthropology of the
+Desert West, edited by Carol Condie and Don Fowler, pp. 254–327. University of Utah Press,
+Salt Lake City, Utah.
+Bettinger, Robert L.
+2001 Holocene Hunter-Gatherers. In Archaeology at the Millennium: A Sourcebook, edited by Gary M.
+Feinman and T. Douglas Price, pp. 137–195. Kluwer Academic/Plenum, New York, New York.
+Bettinger, Robert L., and Jelmer W. Eerkens
+1999 Point Typologies, Cultural Transmission, and the Spread of Bow-and-arrow Technology in the
+Prehistoric Great Basin. American Antiquity 64:231–242.
+Bettinger, Robert L., and R.E. Taylor
+1974 Suggested Revisions in Archaeological Sequences of the Great Basin in Interior Southern
+California. Nevada Archaeological Survey Research Paper No. 5:1–26.
+Binford, Lewis R.
+1990 Mobility, Housing, and Environment: A Comparative Study. Journal of Anthropological
+Research 46:119–152.
+
+SWCA Environmental Consultants
+
+43
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Biota Information System of New Mexico
+2015 Database Query for Eddy and Lea County. Available at: http://www.bison-m.org/. Accessed
+December 2015.
+Bleed, Peter
+1986 The Optimal Design of Hunting Weapons: Maintainability or Reliability. American Antiquity
+51:737–747.
+Blitz, John H.
+1988 Adoption of the Bow in Prehistoric North America. North American Archaeologist 9(2):123–145.
+Bozell, John R.
+1995 Culture, Environment, and Bison Populations on the Late Prehistoric and Early Historic Central
+Plains. Plains Anthropologist 40(152):145–163.
+Brooks, Robert L.
+2004 From Stone Slab Architecture to Abandonment: A Revisionist View of the Antelope Creek Phase.
+In Prehistory of Texas, edited by Timothy K. Perttula, pp. 331–344. Texas A and M University
+Press, College Station, Texas.
+Brown, David E.
+1994 Biotic Communities, Southwestern United States and Northwestern Mexico. University of Utah
+Press, Salt Lake City.
+Brown, Kenneth L., editor
+2010 The Laguna Plata Site Revisited: Current Testing and Analysis of New and Existing Assemblages
+at LA 5148, Lea County, New Mexico. TRC, Albuquerque, New Mexico.
+Brown, Marie E. (ed.)
+2011 The Boot Hill Site (LA 32229): An Oasis in the Desert, Eddy County, New Mexico. TRC,
+Albuquerque, New Mexico.
+Campbell, Kirsten, and Jim A. Railey (eds.)
+2008 Archaeology of the Hondo Valley, Lincoln County, New Mexico: Archaeological Investigations
+Along US 70 from Ruidoso Downs to Riverside. New Mexico Department of Transportation,
+Cultural Resource Technical Series 2006-1. SWCA Environmental Consultants and Parsons
+Brinckerhoff, Albuquerque, New Mexico.
+Campbell, Robert G.
+1976 The Panhandle Aspect of the Chaquaqua Plateau. Graduate Studies, Texas Tech University No.
+11. Lubbock, Texas.
+Cannon, Michael. D., and David J. Meltzer
+2004 Early Paleoindian Foraging: Examining the Faunal Evidence for Large Mammal Specialization
+and Regional Variability in Prey Choice. Quaternary Science Review 23:1955–1987.
+2008
+
+Explaining Variability in Early Paleoindian Foraging. Quaternary International 191:5–17
+
+SWCA Environmental Consultants
+
+44
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Carmichael, David L.
+1986 Archaeological Survey in the Southern Tularosa Basin of New Mexico. Historic and Natural
+Resources Report No. 3. Environmental Management Office, Directorate of Engineering and
+Housing, United States Army Air Defense Artillery Center, Fort Bliss, Texas. In Publications in
+Anthropology No. 10, El Paso Centennial Museum, University of Texas, El Paso, Texas.
+Chesier, J., and Robert L. Kelly
+2006 Projectile Point Shape and Durability: The Effect of Thickness:Length. American Antiquity
+71(2):353–363.
+Clark, Tiffany C.
+2006 Production, Exchange, and Social Identity: A Study of Chupadero Black-on-white
+Pottery, Unpublished Ph.D. dissertation, School of Human Evolution and Social Change, Arizona
+State University, Tempe, Arizona.
+Collins, Michael B.
+1966 The Andrews Lake Sites: Evidence of Semi-sedentary Prehistoric Occupation in Andrews
+County, Texas. Transactions of the Second Regional Archaeological Symposium for Southeastern
+New Mexico and Western Texas.
+1968
+
+The Andrews Lake Locality: New Archaeological Data From the Southwestern Llano Estacado,
+Texas. Unpublished M.A. thesis, University of Texas, Austin.
+
+1971
+
+A Review of Llano Estacado Archaeology and Ethnohistory. Plains Anthropologist 16:85–104.
+
+2007
+
+Discerning Clovis Subsistence from Stone Artifacts and Site Distributions on the Southern Plains
+Periphery. In Foragers of the Terminal Pleistocene, edited by Renee B. Walker and Boyce N.
+Driskell, pp. 59–87. University of Nebraska Press, Lincoln.
+
+Condon, Peter C., and Calvin Smith
+2012 Examining Paleoindian Settlement Patterns in Far West Texas and Southeastern New Mexico: A
+Discussion on Current Evidence and Interpretation. Poster presented at the Seventy-seventh
+Annual Meeting of the Society for American Archaeology, Memphis, Tennessee.
+Condon, Peter C., David D. Kuehn, Linda Scott Cummings, Maria Hroncich, Lillian M. Ponce, Nancy
+Komulaine, and Willi Hermann
+2008 Archaeological Testing and Data Recovery Recommendations for 16 Prehistoric Sites, Bear
+Grass Draw, Eddy County, New Mexico. TRC, El Paso, Texas.
+Cordell, Linda S.
+1979 A Cultural Resources Overview of the Middle Rio Grande Valley, New Mexico. U.S. Department
+of Agriculture Forest Service, Southwestern Region, Albuquerque, and U.S. Department of the
+Interior Bureau of Land Management, New Mexico State Office, Santa Fe, New Mexico.
+1997
+
+Archaeology of the Southwest. 2nd ed. Academic Press, San Diego, California.
+
+Cordell, Linda S., and Maxine E. McBrinn
+2012 Archaeology of the Southwest. 3rd ed. Left Coast Press, Walnut Creek, California.
+
+SWCA Environmental Consultants
+
+45
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Corley, John A., and Robert H. Leslie
+1960 The Boot Hill Site L.C.A.S B-5: A Preliminary Report. Lea County Archeological Society.
+Creel, Darrell G.
+1991 Bison Hides in Late Prehistoric Exchange in the Southern Plains. American Antiquity 56(1):40–
+49.
+Creel, Darrell G., Tiffany C. Clark and Hector Neff
+2002 Production and Long Distance Movement of Chupadero Black-on-white Pottery in New Mexico
+and Texas. In Geochemical Evidence for Long Distance Exchange, edited by M. Glascock, pp.
+109–132. Bergin and Garvey Publishers, Westport, Connecticut.
+Dawe, R.J.
+1987 The Triangular Projectile Point in Plains Prehistory: A Preform Trade Hypothesis. In
+Archaeology in Alberta 1986, edited by M. Magne, pp. 150–162, 289–302. Occasional Paper 31.
+Alberta Culture and Multiculturalism, Archaeological Survey of Alberta, Edmonton.
+Dering, J. Phil
+1999 Earth Oven Plant Processing in Archaic Period Economies: An Example from a Semi-arid
+Savannah in South-Central North America. American Antiquity 64(4):659–674.
+Dillehay, Tom D.
+1974 Late Quaternary Bison Population Changes on the Southern Plains. In Plains Anthropologist:
+Journal of the Plains Conference 19(65):180–196.
+Drass, Richard R.
+1998 The Southern Plains Villagers. In Archaeology on the Great Plains, edited by W. Raymond
+Wood, pp. 415–455.
+Drass, Richard R., and Peggy Flynn
+1990 Temporal and Geographic Variation in Subsistence Practices for Plains Villagers in the Southern
+Plains. Plains Anthropologist 35(128):175–190.
+Flenniken, J. J., and P. J. Wilke
+1989 Typology, Technology, and Chronology of Great Basin Dart Points. American Anthropologist
+91:149–158.
+Frison, George C., and Bruce A. Bradley
+1980 Folsom Tools and Technology at the Hanson Site. Academic Press, New York, New York.
+Greer, John W.
+1976 Notes on Bison in Val Verde County, Texas: Additions to Dillehay. Plains Anthropologist
+21:237–239.
+Guernsey, Samuel James
+1931 Explorations in Northeastern Arizona: Report on the Archaeological Fieldwork of 1920-23.
+Peabody Museum of American Archaeology and Ethnology, Harvard University 12(1):1–123,
+Cambridge, Massachusetts.
+
+SWCA Environmental Consultants
+
+46
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Haskell, J. Loring
+1977 Caprock Water System Archaeological Project, Lea County, New Mexico. Agency of
+Conservation Archaeology, Eastern New Mexico University, Portales, New Mexico.
+Haynes, C. Vance Jr.
+1975 Pleistocene and Recent Stratigraphy. In Late Pleistocene Environments of the Southern High
+Plains, edited by Fred Wendorf and James J. Hester, pp. 57–96. Fort Burgwin Research Center,
+Southern Methodist University, Dallas, Texas.
+1992
+
+Contributions of Radiocarbon Dating to the Geochronology of the Peopling of the New World. In
+Radiocarbon After Four Decades, edited by R.E. Taylor, A. Long, and R.S. Dra, pp. 355–374.
+Springer-Verlag, New York, New York.
+
+2008
+
+Younger Dryas “Black Mats and the Rancholabrean Termination in North America. Proceedings
+of the National Academy of Sciences 105(18):6520–6525.
+
+Hester, James J.
+1972 Blackwater Draw Locality No. 1. Fort Burgwin Research Center Publications No. 8. Southern
+Methodist University, Dallas, Texas.
+Hill, David V.
+1996 Ceramics. In Archaeological Investigations along the Potash Junction to Cunningham Station
+Transmission Line, Eddy and Lea Counties, New Mexico. Mescalero Plain Archaeology, Vol. 2,
+edited by David P. Staley, pp. 151–160. TRC Mariah Technical Report No. 11034-0030.
+Albuquerque, New Mexico.
+2000
+
+Petrographic Analysis of Jornada Brown Ware Ceramics from the Carlsbad Relief Route: LA
+29363. In Prehistoric Burned Brush Structures and A Quarry Site along the Carlsbad Relief
+Route, Eddy County, New Mexico, by Dorothy A. Zamora, pp. 73–75. Archaeology Notes 203.
+Office of Archaeological Studies, Museum of New Mexico, Santa Fe, New Mexico.
+
+2001
+
+Comments on Ceramic Types from the Jornada Mogollon Area and Elsewhere in Southern New
+Mexico, West Texas, and Northern Chihuahua. In Archaeological Investigations of the Meyer
+Pithouse Village. Submitted to U.S. Army Air Defense Artillery Center and Fort Bliss Directorate
+of Environment, Conservation Division, Fort Bliss, El Paso, Texas.
+
+Hogan, Patrick
+1983 Paleo-Environmental Reconstruction. In Economy and Interaction along the Lower Chaco River,
+edited by Patrick Hogan and Joseph C. Winter, pp. 49–62. Office of Contract Archaeology and
+the Maxwell Museum of Anthropology, University of New Mexico, Albuquerque, New Mexico.
+1994
+
+Foragers to Farmers: The Adoption of Agriculture in the Northern Southwest. In Archaic HunterGatherer Archaeology in the American Southwest, edited by B. Vierra, pp. 155–184.
+Contributions in Anthropology No. 13, Eastern New Mexico University, Portales, New Mexico.
+
+2006
+
+Southeastern New Mexico Regional Research Design and Resource Management Strategy. Office
+of Contract Archeology, University of New Mexico, Albuquerque, New Mexico.
+
+Holliday, Vance T.
+1989 Middle Holocene Drought on the Southern High Plains. Quaternary Research 31:74–82.
+
+SWCA Environmental Consultants
+
+47
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+1997
+
+Paleoindian Geoarchaeology of the Southern High Plains. University of Texas Press, Austin,
+Texas.
+
+Holliday, Vance T., and David J. Meltzer
+2010 The 12.9-ka ET Impact Hypothesis and North American Paleoindians. Current Anthropology
+51:575–607.
+Huckell, Bruce B.
+1996 The Archaic Prehistory of the North American Southwest. Journal of World Prehistory 10:305–
+374.
+1998
+
+An Analysis of the Flaked Stone Artifacts. In Early Farmers of the Sonoran Desert:
+Archaeological Investigations at the Houghton Road Site, Tucson, Arizona, edited by Richard
+Ciolek-Torrello, pp. 89–117. Statistical Research, Inc., Technical Series 72, Tucson, Arizona.
+
+Huckell, Bruce B., and W. James Judge
+2006 Paleo-Indian: Plains and Southwest. In Environment, Origins, and Population, Handbook of
+North American Indians, Vol. 3, edited by Douglas Ubelacker, pp. 148–170. Smithsonian
+Institution, Washington, D.C.
+Hughes, Jack T.
+1989 Prehistoric Cultural Developments on the Texas High Plains. Bulletin of the Texas
+Archaeological Society 60:1–55.
+Hunt, James E.
+1989 Laboratory of Anthropology Form for LA 32228. On file, U.S. Bureau of Land Management,
+Carlsbad Field Office, Carlsbad, New Mexico.
+Irwin-Williams, Cynthia
+1973 The Oshara Tradition: Origins of Anasazi Culture. Eastern New Mexico University Contributions
+in Anthropology No. 5, Vol. 1. Portales, New Mexico.
+1979
+
+Post-Pleistocene Archaeology, 7000–2000 B.C. In Southwest, edited by Alfonso Ortiz, pp. 31–42.
+Handbook of North American Indians, Vol. 9, George C. Sturtevant, general editor. Smithsonian
+Institution Press, Washington, D.C.
+
+Jelinek, A. J.
+1967 A Prehistoric Sequence in the Middle Pecos Valley, New Mexico. Anthropological Papers No. 31.
+Museum of Anthropology, University of Michigan, Ann Arbor, New Mexico.
+Jennings, Jesse D.
+1940 A Variation of Southwestern Pueblo Culture. Laboratory of Anthropology, Technical Series,
+Bulletin No. 10:1-12. Santa Fe, New Mexico.
+Jennings, Thomas A., Charlotte D. Pevny, and William A. Dickens
+2010 A Biface and Blade Core Efficiency Experiment: Implication for Early Paleoindian
+Technological Organization. Journal of Archaeological Science 37:2155–2164.
+Johnson, Eileen, and Vance T. Holliday
+1981 Late Paleoindian Activity at the Lubbock Lake Site. Plains Anthropologist 26:173–193.
+
+SWCA Environmental Consultants
+
+48
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+1986
+
+The Archaic Record at Lubbock Lake. Plains Anthropologist 31:7–54.
+
+2004
+
+Archeology and Late Quaternary Environments of the Southern High Plains. In The Prehistory of
+Texas, edited by Timothy K. Perttula, pp. 283–295. Texas A and M University Press, College
+Station, Texas.
+
+Jones, Joshua G., Timothy M. Kearns, and Janet L. McVickar
+2010 Archaeological Investigations for the AT&T Nexgen/Core Project: New Mexico Segment.
+Western Cultural Resource Management. Farmington, New Mexico.
+Jones, Terry L., Gary M. Brown, L. Mark Raab, Janet L. McVickar, W. Geoffrey Spaulding, Douglas J.
+Kennett, Andrew York, and Phillip L. Walker
+1999 Demographic Crises in Western North America During the Medieval Climatic Anomaly. Current
+Anthropology 40(2):137–170.
+Justice, N. D.
+2002 Stone Age Spear and Arrow Points of the Southwestern United States. Indiana University Press,
+Bloomington, Indiana.
+Kalasz, Stephen M. Christian J. Zier, and Mark Mitchell
+1999 Late Prehistoric Stage. In Colorado Prehistory: A Context for the Arkansas Basin, edited by
+Christian M. Zier and Stephen M. Kalasz, pp. 141–263. Centennial Archaeology, Fort Collins,
+Colorado.
+Katz, S., and P. Katz
+1985a Pecos Past: The Prehistory and History of the Brantley Project Locality. Report to the Bureau of
+Reclamation, Southwest Regional Office, Incarnate Word College, San Antonio, Texas.
+1993
+
+Archaeological Overview of Southeastern New Mexico. Prepared for the New Mexico Historic
+Preservation Division. Submitted by Susana Katz, Panhandle, Texas.
+
+2001
+
+Prehistory of the Pecos Country, Southeastern New Mexico. Part III of The Archaeological
+Record of Southern New Mexico: Sites and Sequences of Prehistory, edited by Susana R. Katz
+and Paul Katz. Manuscript on file, New Mexico Historic Preservation Division. Santa Fe, New
+Mexico.
+
+Kelley, Jane Holden
+1984 The Archaeology of the Sierra Blanca Region of Southeastern New Mexico. Museum of
+Anthropology Papers No. 74. University of Michigan, Ann Arbor, Michigan.
+Kelly, Robert L.
+1995 The Foraging Spectrum: Diversity in Hunter-Gatherer Lifeways. Smithsonian Institution Press,
+Washington, D.C.
+Kelly, Robert L., and Lawrence C. Todd
+1988 Coming Into the Country: Early Paleoindian Hunting and Mobility. American Antiquity 53:231–
+244.
+
+SWCA Environmental Consultants
+
+49
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Kemrer, Meade F.
+1998 Data Recovery at Site LA 103523: A Complex Domestic Area in Eddy County, New Mexico.
+Human Systems Research, Inc., Tularosa, New Mexico.
+Kenmotsu, Nancy A., Tim Graves, and Myles R. Miller
+2009 Misconceptions About Hut Signatures and Dating: Protohistoric and Historic Periods in Western
+Trans-Pecos and Southeastern New Mexico. In Quince: Papers from the 15th Biennial Jornada
+Mogollon Conference, edited by Marc Thompson, pp. 89–106. El Paso Museum of Archaeology,
+El Paso, Texas.
+Lea County Archaeological Society (LCAS)
+1971 The Laguna Plata Site L.C.A.S. C-10-C LA-5148 A Preliminary Report. Prepared by Lea County
+Archaeological Society, Inc.
+Leslie, Robert H.
+1979 The Eastern Jornada Mogollon: Extreme Southeastern New Mexico (A Summary). In Jornada
+Mogollon Archaeology: Proceedings of the First Jornada Conference, edited by P. H. Beckett
+and R. N. Wiseman, pp. 179–199. N.M. Historic Preservation Division, Santa Fe, New Mexico.
+Lintz, Christopher
+1984 The Plains Villagers: Antelope Creek. In Prehistory of Oklahoma, edited by Robert E. Bell, pp.
+325–346. Academic Press, New York, New York.
+1986
+
+Architecture and Community Variability within the Antelope Creek Phase of the Texas
+Panhandle. Studies in Oklahoma’s Past No. 14. Oklahoma Archaeological Survey, Norman,
+Oklahoma.
+
+1991
+
+Texas Panhandle-Pueblo Interactions from the Thirteenth through the Sixteenth Century. In
+Farmers, Hunters, and Colonists: Interaction between the Southwest and the Southern Plains,
+edited by K. A. Spielmann, pp. 89–106. University of Arizona Press, Tucson, Arizona.
+
+Lipe, William D.
+1978 The Southwest. In Ancient Native Americans, edited by Jesse D. Jennings, pp. 327–401. W.H.
+Freeman and Company, San Francisco, California.
+Lone Mountain Archaeological Services (LMAS)
+2001 Southwest Lea County 3-D Seismic Survey, Lea County, New Mexico, Tier 1. Lone Mountain
+Archaeological Services, Albuquerque, New Mexico.
+Lord, K.J., and W.E. Reynolds
+1985 Archaeological Investigations of Three Sites within the WIPP Core Area, Eddy County, New
+Mexico. Chambers Consultants and Planners, Albuquerque, New Mexico.
+Lutes, Eugene
+1959 A Marginal Prehistoric Culture of Northeastern New Mexico. El Palacio 66(2):59–68.
+Mabry, Jonathan B.
+2005 Changing Knowledge and Ideas about the First Farmers in Southeastern Arizona. In The Late
+Archaic across the Borderlands: From Foraging to Framing, edited by Bradley J. Vierra, pp. 41–
+83. University of Texas Press, Austin, Texas.
+
+SWCA Environmental Consultants
+
+50
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+MacDonald, J.N.
+1981 North American Bison: Their Evolution and Classification. University of California Press,
+Berkeley, California.
+MacNeish, Richard S.
+1993 Preliminary Investigations of the Archaic in the Region of Las Cruces, New Mexico. Historic and
+Natural Resources Report 9, Cultural Resources Management Program, Directorate of the
+Environment, United States Army Air Defense Artillery Center, Fort Bliss, Texas.
+MacNeish, Richard S., and Patrick Beckett
+1987 The Archaic Chihuahua Tradition. Monograph 7, COAS Bookstore, Las Cruces, New Mexico.
+Mallouf, Robert J.
+1981 Observations Concerning Environmental and Cultural Interactions during the Terminal
+Pleistocene and Early Holocene in the Big Bend of Texas and Adjoining Regions. Bulletin of the
+Texas Archaeological Society 52:121–146.
+1985
+
+A Synthesis of Eastern Trans-Pecos Prehistory. Master’s thesis, Department of Anthropology,
+University of Texas at Austin.
+
+2005
+
+Late Archaic Foragers of Eastern Trans-Pecos Texas and the Big Bend. In The Late Archaic
+Across the Borderlands, edited by Bradley J. Vierra, pp. 219–246. University of Texas Press,
+Austin, Texas.
+
+Mehringer, Peter
+1967 Pollen Analysis of the Tule Springs Area, Nevada. In Pleistocene Studies in Southern Nevada,
+edited by H.M. Wormington and D. Ellis, pp. 130–200. Anthropological Papers No. 13. Nevada
+State Museum, Carson City.
+Mehringer, Peter J., Jr., Paul S. Martin, and C. Vance Haynes
+1966 Murray Springs, A Mid-Postglacial Pollen Profile from Southern Arizona. University of Arizona
+Geochronology Laboratories Interim Research Report 13, Tucson, Arizona.
+Meltzer, David J.
+1991 Altithermal Archaeology and Paleoecology at Mustang Springs on the Southern High Plains of
+Texas. American Antiquity 52:236–67.
+2006
+
+Folsom: New Archaeological Investigations of a Classic Paleoindian Bison Kill. University of
+California Press, Berkeley, California.
+
+2009
+
+First Peoples in a New World: Colonizing Ice Age America. University of California Press,
+Berkeley, California.
+
+Meltzer, David J., and Michael B. Collins
+1987 Prehistoric Water Wells on the Southern High Plains: Clues to Altithermal Climate. Journal of
+Field Archaeology 14(1):9–28.
+
+SWCA Environmental Consultants
+
+51
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Mera, H.P.
+1943 An Outline of Ceramic Developments in Southern and Southeastern New Mexico. Laboratory of
+Anthropology, Technical Series 11, Santa Fe, New Mexico.
+Miller, Myles R.
+1995 Paradigms and Probabilities: Chronometric Evidence for Occupational Histories at Complex Pit
+House Settlements. Paper presented at the 9th Jornada Mogollon Conference, El Paso, Texas.
+Miller, Myles R., and Nancy A. Kenmotsu
+2004 Prehistory of the Jornada Mogollon and Eastern Trans-Pecos Regions of Texas. In The Prehistory
+of Texas, edited by Timothy K. Perttula, pp. 205–265. Texas A and M University Press, College
+Station, Texas.
+Monger, H. Curtis, and Brenda J. Buck
+1995 Eolian Evolution and Paleoenvironmental Changes During the Late Quaternary in the Fort Bliss
+Maneuver Areas and Vicinity. Directorate of Environment, U.S. Army Air Defense Artillery
+Center, Fort Bliss, Texas, and New Mexico State University, Las Cruces, New Mexico.
+Nassaney, M.S., and K. Pyle
+1999 The Adoption of the Bow and Arrow in Eastern North America: A View from Central Arkansas.
+American Antiquity 64(2):243–263.
+National Resources Conservation Service
+2016 Web Soil Survey. Available at: http://websoilsurvey.sc.egov.usda.gov/App/HomePage.htm.
+Accessed August 2016.
+Newlander, Khori, and John D. Speth
+2009 Interaction Patterns in the Southern Plains as Seen Through Ultraviolet Fluorescence (UVF):
+Study of Cherts from Late Prehistoric Villages in the Pecos Valley, New Mexico. In Quince:
+Papers from the 15th Biennial Jornada Mogollon Conference, edited by Marc Thompson, pp. 43–
+60. El Paso Museum of Archaeology, El Paso.
+Oldfield, F., and James Schoenwetter
+1975 Pollen-Analytical Results, Part II. In Late Pleistocene Environments of the Southern High Plains,
+edited by Fred Wendorf and James J. Hester, pp. 149–177. Fort Burgwin Research Center,
+Southern Methodist University, Dallas, Texas.
+Petersen, Kenneth Lee
+1981 10,000 Years of Climate Change Reconstructed from Fossil Pollen, La Plata Mountains,
+Southwestern Colorado. Ph.D. dissertation, Department of Anthropology, Washington State
+University, Pullman, Washington.
+Phippen, G.R., A.B. Silverberg, C.J. Zier, K.B. Menke, C.L. Wase, G.D. Smith, M. McFaul, G.W.
+Crawford, T.J. Kludt, D.V. Hill, and P. McBride
+2000 Excavation of Thirteen Archaeological Sites along the D.S.E. El Paso Pipeline, Otero and
+Chavez Counties, Southeastern New Mexico. Centennial Archaeology, Inc., Fort Collins,
+Colorado.
+
+SWCA Environmental Consultants
+
+52
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Polyak, Victor J., and Yemane Asmerom
+2001 Late Holocene Climate and Cultural Changes in the Southwestern United States. Science
+294:148–151.
+Polyak, Victor J., Jessica B. T. Rasmussen, and Yemane Asmerom
+2004 Prolonged Wet Period in the Southwestern United States Through the Younger Dryas. Geology
+32(1):5–8.
+Powell, Gina S.
+2001 Hunting and Farming Between the Plains and the Southwest: Analysis of Archaeobotanical
+Remains from the Henderson Site, Roswell, New Mexico. Ph.D. dissertation, Washington
+University, St. Louis, Missouri.
+Prewitt, Elton R.
+1981 Cultural Chronology in Central Texas. Bulletin of the Texas Archeological Society 52:65–89.
+Railey, Jim A.
+2010 Reduced Mobility or the Bow and Arrow? Another Look at “Expedient” Technologies and
+Sedentism. American Antiquity 75(2):259–286.
+2011
+
+(editor) Archaeology in Far Southeastern New Mexico: Data Recovery at LA 143755, LA 143758,
+LA 143759, LA 155888, and LA 155893, Along New Mexico Highway 128, Eddy and Lea
+Counties, New Mexico. SWCA Environmental Consultants, Albuquerque, New Mexico.
+
+2013
+
+The Human Landscape in Southeastern New Mexico: A Class I Overview of Cultural Resources
+Within the Bureau of Land Management’s Carlsbad Field Office Region. Bureau of Land
+Management, Carlsbad Field Office. SWCA Environmental Consultants, Albuquerque, New
+Mexico.
+
+Railey, Jim A., Matthew S. Bandy, and Lance Lundquist
+2011 Radiocarbon Dates, Climate Change, and Settlement-Subsistence Trends in the Permian Basin
+Study Area, Southeastern New Mexico. In Patterns in Transition: Papers from the 16th Biennial
+Jornada Mogollon Conference, edited by Melinda R. Landreth, pp. 191–232. El Paso Museum of
+Archaeology, El Paso, Texas.
+Reed, Lori S., Kathy N. Hensler, Andrea J. Carpenter, and Hector Neff
+2002 From Clay to Pots: Synthesis of the Ceramic Assemblage. In Across the Desert Floor: Cultural
+Resource Investigations Along US 54, Otero County, New Mexico (Vol. II), edited by Jim A.
+Railey, pp. 545–576. New Mexico State Highway and Transportation Department, Technical
+Report 2002-1. TRC and Taschek Environmental Consulting, Albuquerque, New Mexico.
+Runyan, John W., and John A. Hedrick
+1987 Pottery Types of the Southwest Federation of Archaeological Societies (SWFAS) Area. The
+Artifact 25(4):23–59.
+Sayles, Edwin B.
+1983 The Cochise Cultural Sequence in Southeastern Arizona. Anthropological Papers of the
+University of Arizona 42. University of Arizona, Tucson, Arizona.
+
+SWCA Environmental Consultants
+
+53
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Sayles, Edwin B., and Ernst Antevs
+1941 The Cochise Culture. Medallion Papers 29, Gila Pueblo, Globe, Arizona.
+Sebastian, Lynne, and Signa Larralde
+1989 Living on the Land: 11,000 Years of Human Adaptation in Southeast New Mexico. Cultural
+Resource Series No. 6. USDI Bureau of Land Management, New Mexico State Office, Santa Fe,
+New Mexico.
+Seeman, Mark F.
+1992 The Bow and Arrow, the Intrusive Mound Complex, and a Late Woodland Jack's Reef Horizon in
+the Mid-Ohio Valley. In Cultural Variability in Context: Woodland Settlements of the Mid-Ohio
+Valley, edited by Mark F. Seeman, pp. 41–51. MCJA Special Paper 7. Kent State University
+Press, Kent, Ohio.
+Seymour, Deni J.
+2002 Conquest and Concealment: After the El Paso Phase on Fort Bliss. Lone Mountain
+Archaeological Services, El Paso, Texas.
+2004
+
+A Rancheria in the Gran Apacheria: Evidence of Intercultural Interaction at the Cerro Rojo Site.
+Plains Anthropologist 49:153–191.
+
+Shott, Michael J.
+1993 Spears, Darts and Arrows: Late Woodland Hunting Techniques in the Upper Ohio Valley.
+American Antiquity 58(3):425–443.
+Smith, Grant D.
+2002 Geomorphological Investigations. In Cultural Resource Monitoring for Proposed West Mesa to
+Person Station Gas Line Project, Bernalillo County, New Mexico, by D.A. Jones-Bartholomew,
+John C. Acklen, Grant D. Smith, Stephen W. Yost, Jim A. Railey, and Joan M. Yost, pp. 91–107.
+Prepared for Public Service Company of New Mexico. TRC Report No. 32166. Albuquerque,
+New Mexico.
+Smith, Grant D., and M. McFaul
+1997 Paleoenvironmental and Geoarchaeological Implications of Late Quaternary Sediments and
+Paleosols: North-central to Southwestern San Juan Basin, New Mexico. Geomorphology 21:107–
+138.
+Speth, John D.
+1979 The Garnsey Bison Kill Site, Chaves County, New Mexico. In Jornada Mogollon Archaeology:
+Proceedings of the First Jornada Conference, edited by P.H. Beckett and R.N. Wiseman, pp.
+143–158. New Mexico Historic Preservation Division, Santa Fe, New Mexico.
+1983
+
+Bison Kills and Bone Counts: Decision Making By Ancient Hunters. University of Chicago Press,
+Chicago, Illinois.
+
+1984
+
+Application for a Federal Permit under the Archaeological Resources Protection Act (to conduct
+excavations at the Maroon Cliffs site complex and the Merchant site). University of Michigan,
+Ann Arbor, Michigan.
+
+SWCA Environmental Consultants
+
+54
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+2004
+
+(editor) Life on the Periphery: Economic Change in Late Prehistoric Southeastern New Mexico.
+Museum of Anthropology, University of Michigan Memoirs No. 37, Ann Arbor, Michigan.
+
+2005
+
+The Beginnings of Plains-Pueblo Interaction: An Archaeological Perspective from Southeastern
+New Mexico. In Engaged Anthropology: Research Essays on North American Archaeology,
+Ethnobotany, and Museology (Papers in Honor of Richard I. Ford), edited by M. Hegmon and
+B.S. Eiselt, pp. 129–147. University of Michigan, Museum of Anthropology, Anthropological
+Paper 94, Ann Arbor, Michigan.
+
+Speth, John D., and Matthew LeDuc
+2007 El Paso Polychrome Jars: New Insights from Complete Vessels. In Viva la Jornada!: Papers from
+the 14th Biennial Jornada Mogollon Conference, edited by Jason Jurgena, Lora Jackson, and
+Marc Thompson, pp. 33–52. El Paso Museum of Archaeology, El Paso, Texas.
+Speth, John D., and Khori Newlander
+2012 Plains-Pueblo Interaction: A View from the “Middle.” In The Toyah Phase of Central Texas:
+Late Prehistoric Economic and Social Processes, edited by Nancy A. Kenmotsu and Douglas K.
+Boyd (in press). Texas A and M Press, College Station, Texas.
+Speth, John D., and William J. Parry
+1978 Late Prehistoric Bison Procurement in Southeastern New Mexico: The 1977 Season at the
+Garnsey Site. University of Michigan, Museum of Anthropology Technical Report 8, Ann Arbor,
+Michigan.
+1980
+
+Late Prehistoric Bison Procurement in Southeastern New Mexico: The 1987 Season at the
+Garnsey Site (LA-18399). University of Michigan, Museum of Anthropology Technical Report
+12, Ann Arbor, Michigan.
+
+Spielmann, Katherine (editor)
+1991 Farmers, Hunters, and Colonists: Interaction Between the Southwest and Southern Plains.
+University of Arizona Press, Tucson, Arizona.
+Staley, David P. (editor)
+1996 Archaeological Investigations along the Potash Junction to Cunningham Station Transmission
+Line, Eddy and Lea Counties, New Mexico. Mescalero Plain Archaeology, Vol. 2. TRC Mariah
+Technical Report No. 11034-0030. Albuquerque, New Mexico.
+Stein, C. Martin
+2011 Obsidian Artifacts in Southeastern New Mexico: Sources and Distribution. In Patterns in
+Transition: Papers from the 16th Biennial Jornada Mogollon Conference, edited by Melinda R.
+Landreth, pp. 271–287. El Paso Museum of Archaeology, El Paso, Texas.
+Stowe, Michael A., and Peter C. Condon
+2012 Archaeological Investigations at LA 33085 and LA 165710 in the Maroon Cliffs Special
+Management Area, Eddy County, New Mexico. Geo-Marine, El Paso.
+Surovell, Todd A.
+2009 Extraterrestrial Impact in North America 12,900 Years Ago? Archaeology Southwest 23(3):18.
+
+SWCA Environmental Consultants
+
+55
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Tagg, Martyn D.
+1996 Early Cultigens from Fresnal Shelter, Southeastern New Mexico. American Antiquity 61(2):311–
+324.
+Torres, John A.
+2000 Changing Lithic Technology during the Basketmaker–Pueblo Transition: Evidence from the
+Anasazi Heartland. In Foundations of Anasazi: The Basketmaker–Pueblo Transition, edited by
+Paul F. Reed, pp. 221–229. University of Utah Press, Salt Lake City, Utah.
+Turnbow, Christopher A.
+1997 Projectile Points as Chronological Indicators. In OLE Volume II: Artifacts, edited by John C.
+Acklen, pp. 161–230. Public Service Company of New Mexico, Albuquerque, New Mexico.
+Turner, Ellen Sue, and Thomas R. Hester
+1993 A Field Guide to Stone Artifacts of Texas Indians. Texas Monthly Field Guide Series. 2nd ed.
+Gulf Publishing Company, Houston, Texas.
+Turpin, Solveig A.
+1994 Lower Pecos Prehistory: The View from the Caves. In The Caves and Karst of Texas, edited by
+W. R. Elliott and G. Veni, pp. 69–84. National Speleological Society, Huntsville, Alabama.
+Upham, Steadman, Richard S. MacNeish, Walton C. Galinat, and Christopher M. Stevenson
+1987 Evidence Concerning the Origin of Maize de Ocho. American Anthropologist 89(2):410–419.
+Van Devender, Thomas R.
+1990 Late Quaternary Vegetation and Climate of the Chihuahuan Desert, United States and Mexico. In
+Packrat Middens: The Last 40,000 Years of Biotic Change, edited by Julio L. Betancourt,
+Thomas R. Van Devender, and Paul S. Martin, pp. 104–133. University of Arizona Press, Tucson,
+Arizona.
+VanPool, Todd L.
+2006 The Survival of Archaic Technology in an Agricultural World: How the Atlatl and Dart Endured
+in the North American Southwest. Kiva 71 (4):429–452.
+Walth, Cherie K., and Jim A. Railey (editors)
+2011 Data Recovery Excavations at Seven Sites Along Interstate 25, Sandoval County, New Mexico.
+New Mexico Department of Transportation, Cultural Resource Technical Series 2011-1. SWCA
+Environmental Consultants, Albuquerque, New Mexico.
+Weir, Frank A.
+1976 The Central Texas Archaic. Ph.D. dissertation, Department of Anthropology, Washington State
+University, Pullman, Washington.
+Wendlund, Wayne M., and Reid A. Bryson
+1974 Dating Climatic Episodes of the Holocene. Quaternary Research 4(1):9–24.
+Wendorf, Fred
+1960 The Archaeology of Northeastern New Mexico. El Palacio 67(2):2–12.
+
+SWCA Environmental Consultants
+
+56
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Western Regional Climate Center
+2016 Climate Summary for Carlsbad Caverns, New Mexico (291475). Available at:
+http://www.wrcc.dri.edu/cgibin/cliMAIN.pl?nm1475. Accessed August 2016.
+Whalen, Michael E.
+1981 The Origin and Evolution of Ceramics in Western Texas. Bulletin of the Texas Archaeological
+Society 52:215–229.
+Wills, W.H., and Bruce B. Huckell
+1994 Economic Implications of Changing Land-use Patterns in the Late Archaic. In Themes in
+Southwestern Prehistory, edited by George J. Gummerman, pp. 33–52. School of American
+Research, Santa Fe, New Mexico.
+Wilson, C. Dean
+2000a Ceramic Artifact Assemblage. In Prehistoric Burned Brush Structures and a Quarry Site Along
+the Carlsbad Relief Route, Eddy County, New Mexico, edited by Dorothy A. Zamora, pp. 63–75.
+Museum of New Mexico, Office of Archaeological Studies, Archaeology Notes 203. Santa Fe,
+New Mexico.
+2000b Angus Ceramic Analysis. In The Angus Site: A Late Prehistoric Settlement Along the Rio Bonito,
+Lincoln County, New Mexico, edited by Dorothy A. Zamora and Yvonne R. Oakes, pp. 101–133.
+Museum of New Mexico, Office of Archaeological Studies, Archaeology Notes 276. Santa Fe,
+New Mexico.
+2003
+
+Ceramics. In Salt Creek, Data Recovery at Seven Prehistoric Sites along U.S. 285 in Chaves and
+De Baca Counties, New Mexico, by Nancy J. Akins, pp. 157–172. Archaeology Notes 298. Office
+of Archaeological Studies, Museum of New Mexico, Santa Fe, New Mexico.
+
+Wiseman, Regge N.
+1981 Further Investigations at the King Ranch Site, Chaves County, New Mexico. In Archaeological
+Essays in Honor of Mark Wimberly, edited by Michael S. Foster. The Artifact 19(3–4):169–198.
+1985
+
+Bison, Fish and Sedentary Occupations: Startling Data from Rocky Arroyo (LA 25277), Chaves
+County, New Mexico. In Views of the Jornada Mogollon: Proceedings of the Second Jornada
+Mogollon Archaeology Conference, edited by Colleen M. Beck, pp. 30–32. Eastern New Mexico
+Contributions in Anthropology 12. Eastern New Mexico University Press, Portales, New Mexico.
+
+1996
+
+The Land In Between: Archaic and Formative Occupations along the Upper Rio Hondo of
+Southeastern New Mexico. Archaeological Notes No. 125. Museum of New Mexico, Office of
+Archaeological Studies, Santa Fe, New Mexico.
+
+2002
+
+(editor) The Fox Place: A Late Prehistoric Hunter-Gatherer Pithouse Village Near Roswell, New
+Mexico. Museum of New Mexico, Office of Archaeological Studies, Archaeology Notes 234.
+Santa Fe.
+
+Yerkes, Richard W., and Albert M. Pecora
+1991 The Introduction of the Bow and Arrow. In Late Woodland Archaeology at the Parkline Site
+(46PU99), Putnam County, West Virginia, edited by Charles M. Niquette and Myra A. Hughes,
+pp. 95–106. Cultural Resource Analysts, Inc., Lexington, Kentucky.
+
+SWCA Environmental Consultants
+
+57
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Zamora, Dorothy
+2000 Prehistoric Burned Brush Structures and a Quarry Site Along the Carlsbad Relief Route, Eddy
+County, New Mexico. Museum of New Mexico, Office of Archaeological Studies, Archaeology
+Notes 203. Santa Fe, New Mexico.
+Zamora, Dorothy, and Yvonne R. Oakes (editors)
+2000 The Angus Site: A Late Prehistoric Settlement Along the Rio Bonito, Lincoln County, New
+Mexico. Museum of New Mexico, Office of Archaeological Studies, Archaeology Notes 276.
+Santa Fe, New Mexico.
+
+SWCA Environmental Consultants
+
+58
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+APPENDIX A.
+CULTURAL RESOURCE LOCATION INFORMATION
+This appendix provides the locations of cultural properties and is
+marked as confidential.
+
+SWCA Environmental Consultants
+
+59
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+This page left intentionally blank
+
+SWCA Environmental Consultants
+
+60
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure A.1.
+
+SWCA Environmental Consultants
+
+Project location map with previous sites and surveys.
+
+61
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Figure A.2.
+SWCA Environmental Consultants
+
+Project location map with cultural resources.
+62
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+Table A.1.
+
+Universal Transverse Mercator Coordinates for Site Center Points, Features and
+Point Plotted Artifacts
+UTM Coordinates
+(NAD83 Zone 13)
+
+Resource
+Number
+
+AR
+
+41RV104
+
+41RV105
+
+41RV106
+
+Center Point
+Datum Point
+PL 1
+PL 2
+PL 3
+Center Point
+Datum Point
+PL 1
+Center Point
+Datum Point
+PL 1
+PL 2
+PL 3
+
+Table A.2.
+
+Easting
+
+Northing
+
+596801.65
+596801.43
+596791
+596805
+596814
+596049.87
+596048.36
+596022
+595827.40
+595835.53
+595856
+595852
+595799
+
+3519629.13
+3519629.46
+3519631
+3519638
+3519610
+3519626.16
+3519627.27
+3519637
+3519625.32
+3519620.59
+3519618
+3519616
+3519607
+
+Universal Transverse Mercator Coordinates for Isolated Finds
+
+Isolated Find Number
+
+Original (Field) Number
+
+IF 1
+IF 2
+IF 3
+IF 4
+IF-5
+IF 6
+IF 7
+IF 8
+IF 9
+IF 10
+IF 11
+
+IF-KJP-01
+IF-KJP-02
+IF-KJP-03
+IF-KJP-04
+IF-KJP-05
+IF-KJP-06
+IF-KJP-07
+IF-KJP-08
+IF-KJP-09
+IF-KJP-10
+IF-KJP-11
+
+SWCA Environmental Consultants
+
+UTM Center Coordinates (Zone 13, NAD 83)
+Easting
+Northing
+596723.08
+3519628.32
+596518.064
+3519618.47
+596324.79
+3519616.47
+596153.88
+3519622.48
+596191.66
+3519633.71
+595959.74
+3519619.09
+595916.72
+3519613.00
+595687.22
+3519612.15
+595661.68
+3519619.91
+595624.44
+3519611.94
+595312.54
+3519606.87
+
+63
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+This page left intentionally blank
+
+SWCA Environmental Consultants
+
+64
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+APPENDIX B.
+SHOVEL TESTS
+
+SWCA Environmental Consultants
+
+65
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in
+Reeves County, Texas
+
+This page left intentionally blank
+
+SWCA Environmental Consultants
+
+66
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in Reeves County, Texas
+
+Table B.1.
+ST
+#
+
+ST
+1
+
+ST
+2
+
+ST
+3
+
+ST
+4
+
+ST
+5
+
+ST
+6
+
+Shovel Tests Conducted at 41RV104
+
+UTMS NAD83, ZONE 13
+Easting
+Northing
+
+596821.06
+
+596804.76
+
+596785.75
+
+596802.97
+
+596804.27
+
+596802.32
+
+3519632.98
+
+3519632.14
+
+3519631.34
+
+3519621.54
+
+3519608.80
+
+3519643.60
+
+SWCA Environmental Consultants
+
+Pos/Ne
+g
+
+Vegetation
+
+Neg
+
+Creosote bush,
+mesquite, cacti,
+bunch grasses,
+and forbs
+
+Neg
+
+Creosote bush,
+mesquite, cacti,
+and bunch
+grasses
+
+Neg
+
+Creosote bush,
+mesquite, cacti,
+and bunch
+grasses
+
+Neg
+
+Creosote bush,
+mesquite, cacti,
+and bunch
+grasses
+
+Neg
+
+Neg
+
+Creosote bush,
+mesquite, cacti,
+and bunch
+grasses
+
+Creosote bush,
+mesquite, cacti,
+and bunch
+grasses
+
+Disturbances
+
+Depth (cm)
+
+0%–5% small gravel,
+blocky
+5%–10% gravel and
+calcium carbonate,
+blocky, very compact
+0%–5% small gravel,
+blocky
+5%–10% gravel and
+calcium carbonate
+nodules, blocky, very
+compact
+
+0–25 cm
+
+25–40 cm
+0–15 cm
+
+Munsell
+7.5 YR 5/3
+brown
+(dry)
+7.5 YR 5/6
+strong
+brown (dry)
+7.5YR 4/2
+brown (dry)
+
+15–30 cm
+
+7.5YR 5/6
+strong
+brown (dry)
+
+0%–5% gravel and
+calcium carbonate
+nodules and cobbles;
+compaction increases
+with depth
+
+0–25 cm
+
+7.5 YR 5/3
+brown
+(dry)
+
+0%–5% small gravel,
+blocky
+
+0–20 cm
+
+0%–5% gravel and
+calcium carbonate,
+blocky, very compact
+
+20–43 cm
+
+0%–5% small gravel,
+blocky
+
+0–17 cm
+
+5%–10% gravel and
+calcium carbonate,
+blocky, extremely
+compact
+
+17–40 cm
+
+0%–5% small gravel,
+blocky, calcium
+carbonate nodules at
+base
+
+67
+
+0–30 cm
+
+7.5 YR 5/3
+brown
+(dry)
+7.5YR 5/6
+strong
+brown (dry)
+7.5 YR 5/3
+brown
+(dry)
+7.5YR 6/6
+reddish
+yellow (dry)
+
+7.5YR 6/4
+light brown
+(dry)
+
+Soil
+
+Comments
+
+Silty
+loam
+
+ST 1 is located on flat plain with slight
+alluvial wash activity. Visibility is
+approximately 90%; there is light
+surface gravel. Terminated at compact
+gravelly soil with calcium carbonate.
+
+Silty
+clay
+loam
+Silty
+loam
+Silty
+clay
+loam
+
+Silty
+loam
+
+Silty
+loam
+Silty
+clay
+loam
+Silty
+loam
+Silty
+clay
+loam
+
+Silty
+loam
+
+ST 2 is located on flat plain with slight
+alluvial wash activity. Visibility is
+approximately 90%; there is light
+surface gravel. Terminated at compact
+soil with calcium carbonate nodules.
+ST 3 is located on flat plain with slight
+alluvial wash activity. Visibility is
+approximately 90%; there is light
+surface gravel. Terminated at calcium
+carbonate nodules and cobbles.
+ST 4 is located on flat plain with slight
+alluvial wash activity. Visibility is
+approximately 90%; there is light
+surface gravel. Terminated at compact
+gravely soil with calcium carbonate.
+ST 5 is located on flat plain with slight
+alluvial wash activity. Visibility is
+approximately 90%; there is light
+surface gravel. Terminated at compact
+gravely soil with calcium carbonate.
+NCM
+ST 6 is located on flat plain with slight
+alluvial wash activity. Collocated with
+existing transmission line. Visibility is
+approximately 90%; there is light
+surface gravel. Terminated at large
+calcium carbonate nodules.
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in Reeves County, Texas
+
+Table B.2.
+ST#
+
+Shovel Tests Conducted at 41RV105
+
+UTMS NAD83, ZONE 13
+Easting
+Northing
+
+Pos/Neg
+
+Vegetation
+
+ST
+1
+
+596087.35
+
+3519628.50
+
+Neg
+
+Creosote bush,
+mesquite,
+bunch grasses,
+and cacti
+
+ST
+2
+
+596074.19
+
+3519629.13
+
+Neg
+
+Creosote bush,
+mesquite,
+bunch grasses,
+and cacti
+
+ST
+3
+
+596054.36
+
+3519628.55
+
+Neg
+
+5%–10% gravel with
+mass calcium
+carbonate appearing
+at base
+
+Depth (cm)
+
+Munsell
+
+Soil
+
+0–25 cm
+
+7.5YR 5/4
+brown (dry)
+
+Fine
+sandy
+loam
+
+5%–10% gravel with
+mass calcium
+carbonate appearing
+at base
+
+0–12 cm
+
+7.5YR 5/4
+brown (dry)
+
+Fine
+sandy
+loam
+
+Creosote bush,
+mesquite,
+bunch grasses,
+and cacti
+
+5% gravel with mass
+calcium carbonate
+appearing at base
+
+0–15 cm
+
+7.5YR 5/3
+brown (dry)
+
+Fine
+sandy
+loam
+
+10% gravel with mass
+calcium carbonate
+appearing at base
+
+0–26 cm
+
+7.5YR 5/4
+brown (dry)
+
+Fine
+sandy
+loam
+
+0%–5% gravel with
+mass calcium
+carbonate appearing
+at base
+
+0–34 cm
+
+7.5YR 5/4
+brown (dry)
+
+Silty
+loam
+
+ST
+4
+
+596033.09
+
+3519628.34
+
+Neg
+
+Creosote bush,
+mesquite,
+bunch grasses,
+and cacti
+
+ST
+5
+
+596010.38
+
+3519629.76
+
+Neg
+
+Creosote bush,
+mesquite,
+bunch grasses,
+and cacti
+
+SWCA Environmental Consultants
+
+Disturbances
+
+68
+
+Comments
+ST 1 is located on centerline on flat plain
+on slight west southwest trending slope.
+There is evidence of alluvial wash
+heading downslope. An existing
+transmission corridor is to the north.
+Surface visibility is 70%–90% with
+moderate to dense surface gravel.
+Terminated at mass calcium carbonate.
+ST 2 is located on centerline on flat plain
+on slight west southwest trending slope.
+There is evidence of alluvial wash
+heading downslope. An existing
+transmission corridor is to the north.
+Surface visibility is 70%–90% with
+moderate to dense surface gravel.
+Terminated at mass calcium carbonate.
+ST 3 is located on centerline on flat plain
+on slight west southwest trending slope.
+There is evidence of alluvial wash
+heading downslope. An existing
+transmission corridor is to the north.
+Surface visibility is 70%–90% with
+moderate to dense surface gravel. Areas
+of exposed calcium carbonate.
+Terminated at mass calcium carbonate.
+ST 4 is located on centerline on flat plain
+on slight west southwest trending slope.
+There is evidence of alluvial wash
+heading downslope. An existing
+transmission corridor is to the north.
+Surface visibility is 70%–90% with
+moderate to dense surface gravel.
+Terminated at mass calcium carbonate.
+ST 5 is located on centerline on flat plain
+on slight west southwest trending slope.
+There is evidence of alluvial wash
+heading downslope. An existing
+transmission corridor is to the north.
+Surface visibility is 70%–90% with
+moderate to dense surface gravel. One
+strata. Terminated at mass calcium
+carbonate.
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in Reeves County, Texas
+
+ST#
+
+ST
+6
+
+ST
+7
+
+UTMS NAD83, ZONE 13
+Easting
+Northing
+
+596055.85
+
+3519611.74
+
+596055.71
+
+3519640.14
+
+Table B.3.
+ST#
+
+ST
+1
+
+Pos/Neg
+
+Vegetation
+
+Disturbances
+
+Depth (cm)
+
+Neg
+
+Creosote bush,
+mesquite,
+bunch grasses,
+and cacti
+
+5% gravel with mass
+calcium carbonate
+appearing at base
+
+0–20 cm
+
+Neg
+
+Creosote bush,
+mesquite,
+bunch grasses,
+and cacti
+
+10% calcium
+carbonate nodules
+
+0–25 cm
+
+Munsell
+
+7.5YR 5/4
+brown (dry)
+
+7.5YR 5/4
+brown (dry)
+
+Soil
+
+Fine
+sandy
+loam
+
+Fine
+sandy
+loam
+
+Comments
+ST 6 is located south of centerline on flat
+plain on slight west southwest trending
+slope. There is evidence of alluvial wash
+heading downslope. Surface visibility is
+70%–90% with moderate to dense
+surface gravel. Terminated at mass
+calcium carbonate.
+ST 7 is located north of centerline on flat
+plain on slight west southwest trending
+slope. There is evidence of alluvial wash
+heading downslope. Adjacent to an
+existing transmission corridor. Surface
+visibility is 70%–90% with moderate to
+dense surface gravel. One strata.
+Terminated at mass calcium carbonate.
+
+Shovel Tests Conducted at 41RV106
+
+UTMS NAD83, ZONE 13
+Easting
+Northing
+
+595868.83
+
+3519628.68
+
+Pos/Neg
+
+Vegetation
+
+Disturbances
+
+Depth
+(cm)
+
+Munsell
+
+Soil
+
+Neg
+
+Creosote bush,
+mesquite,
+yucca, and
+bunch grasses
+
+Predominantly eroded
+calcium carbonate with
+few nodules
+
+0–10 cm
+
+10YR 8/2
+very pale
+brown (dry)
+
+Silty
+loam
+
+Predominantly eroded
+calcium carbonate with
+few nodules
+
+0–10 cm
+
+10YR8/2
+very pale
+brown (dry)
+
+Silty
+loam
+
+ST
+2
+
+595845.75
+
+3519628.29
+
+Neg
+
+Creosote bush,
+mesquite,
+yucca and
+bunch grasses
+
+ST
+3
+
+595822.91
+
+3519627.49
+
+Neg
+
+Creosote bush
+and bunch
+grasses
+
+5% gravel with few
+calcium carbonate
+nodules
+
+0–15 cm
+
+10YR 6/2
+light
+brownish
+gray (dry)
+
+Sandy
+loam
+
+ST
+4
+
+595801.16
+
+3519628.40
+
+Neg
+
+Creosote bush,
+mesquite, and
+bunch grasses
+
+0%–5% gravel
+
+0–24 cm
+
+10YR4/3
+brown (dry)
+
+Silty
+loam
+
+SWCA Environmental Consultants
+
+69
+
+Comments
+ST 1 is located on centerline on small
+hilltop. Slight west-northwest-trending
+slope. Collocated with existing
+transmission corridor to the north.
+Exposed calcium carbonate on surface
+and very dense surface gravel.
+Terminated at mass calcium carbonate
+ST 2 is located on centerline on small
+hilltop. Slight west-northwest-trending
+slope. Collocated with existing
+transmission corridor to the north.
+Exposed calcium carbonate on surface
+and very dense surface gravel.
+Terminated at mass calcium carbonate
+ST 3 is located on centerline on slight
+west-northwest-trending slope.
+Collocated with existing transmission
+corridor to the north. Exposed calcium
+carbonate on surface and very dense
+surface gravel. Terminated at mass
+calcium carbonate
+ST 4 is located on centerline on slight
+west-northwest-trending slope.
+Collocated with existing transmission
+corridor to the north. Dense surface
+
+January 2017
+
+Cultural Resources Survey on Texas State Land for the Orla Gas Gathering System – Culberson Lateral Project in Reeves County, Texas
+
+ST#
+
+ST
+5
+
+ST
+6
+
+UTMS NAD83, ZONE 13
+Easting
+Northing
+
+595781.40
+
+595823.47
+
+3519628.01
+
+3519610.49
+
+SWCA Environmental Consultants
+
+Pos/Neg
+
+Neg
+
+Neg
+
+Vegetation
+
+Creosote bush,
+mesquite, and
+bunch grasses
+
+Creosote bush,
+mesquite, and
+bunch grasses
+
+Depth
+(cm)
+
+Munsell
+
+Soil
+
+Compact, few small
+calcium carbonate
+nodules;
+compaction increases
+with depth
+
+24–40 cm
+
+7.5YR5/4
+yellowish
+brown (dry)
+
+Silty
+clay
+loam
+
+0%–5% gravel
+
+0–27 cm
+
+10YR 4/3
+brown (dry)
+
+Silty
+loam
+
+27–-37 cm
+
+7.5YR5/6
+strong
+brown (dry)
+
+Silty
+clay
+loam
+
+Disturbances
+
+Compact, 0%–5%
+gravel, few small
+calcium carbonate
+nodules;
+compaction increases
+with depth
+Predominantly eroded
+calcium carbonate with
+few nodules
+
+70
+
+0–12 cm
+
+10YR 8/2
+very pale
+brown (dry)
+
+Silty
+loam
+
+Comments
+gravel. Vegetation is. Two strata.
+Terminated at compact soil.
+
+ST 5 is located on centerline on slight
+west-northwest-trending slope.
+Collocated with existing transmission
+corridor to the north. Light to moderate
+surface gravel. Terminated at compact
+soil
+ST 6 is located on slight west-trending
+slope near base of hilltop. Existing
+transmission corridor to the north.
+Exposed calcium carbonate on surface
+and very dense surface gravel.
+Terminated at mass calcium carbonate
+
+January 2017
+
+

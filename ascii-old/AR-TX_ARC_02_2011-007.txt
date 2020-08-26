@@ -1,0 +1,1447 @@
+AR Consultants, Inc.
+
+Archaeological and Environmental Consulting
+
+11020 Audelia Road, Suite C105, Dallas, Texas 75243-9085
+Phone:
+(214) 368-0478
+Fax:
+(214) 221-1519
+E-mail: arcdigs@aol.com
+
+ARCHAEOLOGICAL SURVEY
+OF THE PROPOSED
+
+HENRIETTA PIPELINE
+CLAY COUNTY, TEXAS
+Texas Antiquities Permit Number 5872
+
+Cameron Turley, BA
+Nick Coleman, BA
+and
+Rebecca Shelton, MA,
+Principal Investigator
+
+Submitted to:
+CORLETT, PROBST, & BOYD, PLLC
+4605 Jacksboro Highway
+Wichita Falls, Texas 76302
+Prepared by:
+AR CONSULTANTS, INC.
+11020 Audelia Road, Suite C105
+Dallas, Texas 75243-9085
+Cultural Resources Report 2011-7
+March 07, 2011
+
+HISTORIC BUILDINGS
+
+ARCHAEOLOGY
+
+NATURAL SCIENCES
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+ARCHAEOLOGICAL SURVEY
+OF THE PROPOSED
+
+HENRIETTA PIPELINE
+CLAY COUNTY, TEXAS
+Texas Antiquities Permit Number 5872
+
+Cameron Turley, BA
+Nick Coleman, BA
+and
+Rebecca Shelton, MA,
+Principal Investigator
+
+Submitted to:
+CORLETT, PROBST, & BOYD, PLLC
+4605 Jacksboro Highway
+Wichita Falls, Texas 76302
+Prepared by:
+AR CONSULTANTS, INC.
+11020 Audelia Road, Suite C105
+Dallas, Texas 75243-9085
+Cultural Resources Report 2011-7
+March 07, 2011
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+i
+
+ABSTRACT
+The City of Henrietta proposes to install a 16” diameter pipeline
+from a pump station on the south side of the Little Wichita River to
+the processing plant at Henrietta Lake in Clay County, Texas. The
+length of the pipeline route is 4,400‟ feet and the pipe will be
+buried in an open cut trench between three and eight feet below the
+present ground surface depending upon the topographic relief and
+the underlying geology. Corlett, Probst, & Boyd, PLLC of Wichita
+Falls, which is handling the environmental permitting for the City,
+contracted with AR Consultants, Inc. to perform an intensive
+cultural resources survey of the proposed pipeline right of way.
+The survey was conducted on February 8, 22 and 23, 2011, with
+six trenches and nine shovel tests excavated along the route. No
+cultural resources were located during the pedestrian survey or
+uncovered in the trenches or shovel tests. A portion of a bison
+ilium was recovered in one trench, but given the extensive
+alluviation observed in the floodplain, the absence of any cut
+marks on the bone, and the absence of additional artifacts, the bone
+was determined not to have resulted from any cultural activities,
+and was not recorded as a site. Given the negative results of the
+survey, ARC recommends that further cultural resource
+investigations are unwarranted and that the Texas Historical
+Commission concur. If buried cultural deposits are discovered
+during pipeline installation, work in the area should cease
+immediately and the Texas Historical Commission should be
+notified.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+ii
+
+ACKNOWLEDGEMENTS
+The staff of AR Consultants, Inc. would like to express our gratitude to a number of
+individuals whose assistance contributed to the ease and success of field coordination,
+survey execution and report production. T. Dean Hinton at Corlett, Probst and Boyd,
+PLLC, Monte Young and Jeff Jenkins at the City of Henrietta, and Jack Ray and Todd
+Choate, the City‟s skilled backhoe operators, were all instrumental in the completion of
+the Henrietta Pipeline survey.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+iii
+
+TABLE OF CONTENTS
+Abstract.....................................................................................……………..
+Acknowledgements…………………………………………………………
+Table of Contents……………………………………………………………
+List of Figures...........................................................................……………..
+List of Tables………………………………………………………………..
+Introduction...............................................................................……………..
+Natural Environment.................................................................……………..
+Cultural History.......................................................................………………
+Research Design & Methodology................................………………………
+Results.......................................................................................……………..
+Recommendations.....................................................................……………..
+References Cited.......................................................................……………..
+
+i
+ii
+iii
+iii
+iii
+1
+4
+6
+10
+12
+25
+26
+
+LIST OF FIGURES
+Figure 1.
+Figure 2.
+
+Figure 3.
+Figure 4.
+Figure 5.
+Figure 6.
+Figure 7.
+Figure 8.
+
+Figure 9.
+Figure 10.
+Figure 11.
+
+The Henrietta Pipeline plotted on an ESRI highway
+relief map of Clay County……………………………………
+The Henrietta Pipeline plotted on a portion of the
+Henrietta, TX 7.5‟ USGS map. Note that the only mapped
+major channel crossed by the pipeline is that at the foot of
+the bluff on the south side of the floodplain…………………
+A south-facing view of the vegetation and ground
+visibility in the area immediately south of the river…………
+Drainages A and C shown on a portion of the 1936
+General Highway Map of Clay County. …..…… 14
+Typical vegetation among the drainages, seen here in
+drainage C. View is to the west……………………………..
+The profile of an erosional gully forming on the south side
+of drainage C. View is to the south………………………….
+South facing view of the southern section of the line. Note
+the color-coded stakes marking the pipeline easements…….
+Shovel test locations on the southern portion of the
+route shown on a recent aerial photograph of part of
+the study area………………………………………….…….
+Back hoe trench locations overlain on a current aerial
+photograph….……………………………………………….
+Detail of the portion of bison ilium in situ at the bottom
+of Zone 2…………………………………………………….
+Photograph showing the relation of the Trench 6 to the
+north bank of Drainage C. View is to the northeast……..…..
+
+2
+
+12
+13
+
+14
+15
+15
+
+16
+18
+20
+21
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+iv
+
+LIST OF TABLES
+Table 1.
+Table 2.
+
+Shovel test information………………………………………
+Backhoe trench descriptions…………………………………
+
+17
+21
+
+r-arc Henrietta Pipeline (110107)
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+1
+
+INTRODUCTION
+The City of Henrietta proposes to install a 16” diameter pipeline from a pump station on
+the south side of the Little Wichita River to the processing plant at Henrietta Lake in Clay
+County, Texas (Figure 1). The pipeline will be installed across the relatively level Little
+Wichita River floodplain before crossing under a mapped older river channel and then
+ascending the shale-based slope and across the upland edge before reaching the lake. The
+length of the pipeline route is 4,400 feet and the pipe will be buried in an open cut trench
+between three and eight feet below the present ground surface depending upon the
+topographic relief and the underlying geology. The pipeline will parallel the east side of
+an existing waterline which has a permanent easement of 20 feet. The new pipeline route
+will have a temporary construction easement of 30 feet. Pipeline construction is being
+underwritten by a grant from the Texas Water Development Board. Corlett, Probst, &
+Boyd, PLLC of Wichita Falls contracted with AR Consultants, Inc. (ARC) to conduct an
+intensive pedestrian survey of the route. The survey was conducted to determine if
+cultural materials were present, and, if found, to make recommendations about their
+significance and how they might be impacted by construction.
+Because the City of Henrietta is a political subdivision of the State of Texas, and because
+public funding for the project is being provided by the Texas Water Development Board,
+a Texas Antiquities Permit was required for this project and permit number 5872 was
+issued for this project. Section 106 of the National Historic Preservation Act of 1966 also
+applies to the environmental permitting. Other relevant federal legislation includes the
+Clean Water Act, as amended (PL92500), the National Environmental Act of 1969 (PL90-190), and the Archeological and Historical Preservation Act of 1974, as amended (PL93-291).
+This report was written in accordance with report guidelines adopted by the Texas
+Historical Commission, Archeology Division, and developed by the Council of Texas
+Archeologists (n.d.). The following report contains a brief description of the natural
+environment and then a summary of the area‟s cultural history and previous
+archaeological investigations in the area as known from published sources. This is
+followed by the research design and methodology. The results of the field investigation
+constitute the majority of the report. The last chapter presents recommendations that
+arise from the study. A list of references cited concludes the report.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+Figure 1.
+
+2
+
+The Henrietta Pipeline plotted on an ESRI highway relief map on a
+portion of Clay County.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+3
+
+Administrative Information:
+Sponsor:
+Review Agency:
+Principal Investigator:
+Field Crew:
+Field Work Dates:
+Area Surveyed:
+Sites Recorded
+Prehistoric:
+Historic:
+
+City of Henrietta, with Corlett, Probst & Boyd,
+PLLC conducting the environmental permitting
+Archeology Division of the Texas Historical
+Commission
+Rebecca Shelton, MA
+Rebecca Shelton, S. Alan Skinner, Cameron Turley,
+and Nick Coleman
+February 8, 22 and 23, 2011
+Approximately 2.1 acres
+None
+None
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+4
+
+NATURAL SETTING
+Clay County is located within the Mesquite Plains vegetative zone, which is one of the
+three subdivisions of the larger Rolling Plains region (Diamond, Riskind, and Orzell
+1987:204). This is west of the Western Cross Timbers as mapped by Dyksterhuis (1948:
+Figure 1). The Mesquite Plains zone consists primarily of climax grassland dominated by
+various species of grama and three-awn, which is interspersed with drainages lined by a
+variety of trees, including oaks, elms and hackberries, and with limited tree growth on
+escarpments and mesas (Blair 1950: 111). Blair states that this zone is home to
+approximately 59 species of mammals, including five which are native only to this
+region. The climate in Clay County is generally mild, featuring hot summers and cool
+winters punctuated by occasional surges of cold air and plummeting temperature.
+Average rainfall is approximately 31 inches while the average temperature ranges from
+26 degrees in January to 96 degrees in July (Wheeler 2011).
+The study area is situated primarily within the level floodplain south of the Little Wichita
+River. This floodplain features a relatively minute elevation range of 849‟ asl on a high
+point on the southern river bank to 850‟ asl south of a mapped perennial drainage which
+parallels the Little Wichita River the Henrietta, TX 7.5‟ USGS map. The elevation
+change is more discernable in the field, where the flooplain gently slopes towards the
+Little Wichita River. Two dry drainage channels roughly parallel the perennial drainage
+to the north, though neither of these channels is mapped on the USGS map. All three of
+the drainages south of the Little Wichita River trend southwest to northeast, and feature
+relatively similar dimensions, averaging 35 meters across and 2.5 meters in depth. South
+of the three drainages, the route encounters a bluff which marks the upland edge.
+Elevations rise precipitously in this area, reaching a maximum height of 866‟ asl on the
+north shore of Lake Henrietta.
+The geology within the study area consists primarily of Quaternary-aged Alluvium,
+which consists of floodplain and channel deposits that include sand, silt, clay, and gravel
+(Bureau of Economic Geology 1987). The three dry channels south of the Little Wichita
+River cut across these alluvial floodplain sediments. South of the river channels, the
+southern terminus of the route is underlain by the Permian-aged Nocona Formation. This
+formation consists predominately of reddish-brown mudstone, but also contains
+sandstone, siltstone, and conglomerate. Vertebrate and plant fossils are common in this
+formation.
+The soils encountered in the study area are part of the nearly level, moderately well
+drained clayey floodplain soils of the Ships-Magnum soil association (Goerdel 1980:
+General Soil Map). Specific soils encountered by the pipeline route include the
+occasionally flooded Ships clay, occasionally flooded Weswood silt loam, and Vernon
+clay with 1 to 5 percent slopes (Goerdel 1980: Sheets 24 and 29). The Ships clay
+comprises the floodplain of the main channel of the Little Wichita River, while the
+floodplain of the southern channel is mapped as Weswood silt loam. The Vernon clay is
+an upland soil, and is situated on the rising upland edge south of the floodplain. Ships
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+5
+
+clay features an A horizon of reddish brown (5YR5/3) clay to a depth of 50” and a C
+horizon of red (2.5YR4/6) clay that is at least 10” thick (Goerdel 1980: 66). Weswood
+silt loam features an 8” A horizon of reddish brown (5YR4/4) silty loam, a B horizon of
+reddish brown silty clay loam with calcium carbonate to a depth of 36”, and a C horizon
+of reddish brown (5YR5/4) silty clay loam to at least the depth of 60” (Goerdel 1980:
+70). Vernon clay features a 6” thick A horizon of reddish brown (5YR4/4) clay with
+traces of calcium carbonate, a B horizon of reddish brown to red (5YR5/4 to 2.5YR5/6)
+clay with increasing calcium carbonate to a depth of 32”, and a C horizon of red clayey
+shale with spots of gray to at least a depth of 60” (Goerdel 1980: 69).
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+6
+
+CULTURAL HISTORY
+Prehistoric
+Clay County lies within the High Plains of Northwest Texas (Pace 1998). The High
+Plains are the southernmost extension of the Southern Great Plains, which encompasses
+portions of Kansas, Oklahoma, Texas, New Mexico and Colorado (Brooks and Hofman
+1989:2). Three major time periods are generally attributed to prehistoric human
+occupation: Paleoindian, Archaic, and Late Prehistoric. The earliest occupation is the
+Paleoindian period that dates from approximately 10,000 to 6000 years B.C. (Hofman,
+Brooks, Hays, Owsley, Jantz, Marks, and Manheim 1989). Projectile point styles are the
+definitive horizon markers for Paleoindian period and include the fluted Clovis (between
+10,000 and 9,000 B.C.) and Folsom (9000-7000 B.C.) points along with a variety of
+unfluted points such as Plainview and Angostura (Peter, Proctor, and Green 1997:26-27).
+There is a lack of information on Paleoindian occupation for Clay County, but A.H. Witte
+describes „Folsomoid‟ points and megafauna teeth from the Little Wichita River near
+Henrietta, Texas (Witte 1937:222). Bever and Meltzer‟s (2007:Table 1) most recent
+analysis reports no Clovis points from Clay County. Sites associated with this time
+period are campsites and kill sites. Campsites can contain diverse artifact assemblages,
+including fluted projectile points, scrapers, gravers, knives and other stone tools. Kill
+sites provide data about hunting and butchering activities of bison and mammoth. At the
+Domebo site, a Mammoth kill site in southwestern Oklahoma, Plainview and Clovis
+points have been found in association with the remains of Mammuthus imperator
+(Leonhardy and Anderson 1966:23).
+The Archaic period is subdivided into the Early, Middle and Late, and dates from
+approximately 6000 B.C. to A.D. 750. Subsistence patterns shift from nomadic to more
+sedentary, and stone tools from this period are typically made from local resources
+(Bourdeau, Fifield, Geister, and LaVadera 1980:10). Diagnostic tools from this period
+include notched and stemmed dart points (Hofman 1989:45) with variation occurring
+through time in the styles of the stems and placement of notches (Bourdeau et al.
+1980:11). Dart point types attributed to the Archaic include Calf Creek, Williams, Ellis,
+Yarbrough, and Edgewood (Hofman 1989:49). Site types of this period are primarily
+base camps and temporary, or limited use activity, sites. Base camps are located near
+relatively permanent water sources, cover more than two acres, and contain diverse
+artifact assemblages. Temporary limited use sites are smaller, less than an acre, and have
+smaller tool assemblages which reflect more limited or fewer tasks.
+The Late Prehistoric period begins approximately A.D. 750 and ends in A.D. 1550 with
+the arrival of European explorers. Along with increased sedentary lifeways during this
+period, there were significant technological changes. The introduction of the bow and
+arrow and ceramics occurred throughout the region during this period. The appearance of
+ceramics preceded the development of horticultural villages to the north (Hofman and
+Brooks 1989:61). Archaeological site types include artifact assemblages that are
+associated with long term or temporary/seasonally occupied campsites (Bourdeau et al.
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+7
+
+1980:15). Temporally diagnostic lithic artifacts in these assemblages include Harrell,
+Washita, and Fresno arrow points (Brooks 1989:73).
+The European entrada into the Clay County area began with various expeditions as early
+as the mid-18th century (Wheeler 2011). Diego Ortiz Parrilla traversed the area in 1759,
+followed by Pedro Vial and José Mares in 1786-87. The Texan Santa Fe and the Snively
+expeditions then moved through the area in the 1840‟s. The California Trail crossed the
+region by 1849. W.T. and Wess Waybourne are counted as the earliest European settlers
+in the county and they constructed their homes on the Wichita River in 1850, about two
+miles from what is now Henrietta, Texas. The population was very sparse until after
+1870, it‟s maximum being just over a hundred with a minimum of but a few individuals.
+The railroad drastically changed the economic potential of Clay County and the
+population grew accordingly to over 17,000 by 1910. The Great Depression began a long
+decline in population that only ended in the 1970‟s when the population was just over
+9,000 individuals. The 2000 census counted the population at 11,006.
+Previous Investigations
+In 1936, Bennett excavated at a prehistoric campsite one mile northwest of Henrietta,
+Texas. The location is described as being „on a low sand dune situated barely above the
+high-water line, on the north bank of the Little Wichita River‟—a setting potentially
+analogous to those which might be encountered along the proposed pipeline route. The
+122 cm-thick deposit, which was encountered at a depth of roughly 55cm, contained
+mussel shell, burned bone, bone tools, burned sandstone, sandstone manos and metates,
+beads, ceramics with varied decorations and tempers, and a ceramic figurine. Lithic
+points, scrapers, and knives were also found in the area surrounding the deposit. Bennett
+estimated the site size to be 30 acres, but concluded that only two acres were undisturbed
+by cultivation (1936: 93).
+Witte (1937: 222-226) describes four „stratified sites‟ and one burial exposed in the banks
+of the Little Wichita River. The area considered was 20 miles from the Little Wichita‟s
+confluence with the Red River, placing them in the vicinity of Henrietta, Texas. The first
+of the stratified sites was observed in the bottom of the channel and contained the teeth of
+extinct megafauna and a „Folsomoid‟ artifact. Site No. 2 contained several lithic artifacts
+described as flakes, an axe, manos, a knife or spear point fragment, and broken hearth
+stones. The assemblage was exposed about 8 feet below the ground surface. Number 3
+was 12 feet below the surface and contained ash, charcoal, shell, bone, hearth stones, and
+a mano, as well as a knife from the adjacent channel. Number 4, 15 feet below the
+surface, contained a large number of stone tools, including „barbed and tanged weapons‟
+along with bison bone. The burial was discovered below a midden similar in nature to
+those already described, though this particular midden was a comparatively shallow four
+feet below the surface. The individual was buried on his/her side in a flexed position
+with the head oriented west. A second, poorly preserved burial was discovered 200 feet
+downstream. Witte goes on to mention the discovery of similar sites, some as deep as 20
+feet, but gives no more detail or reference.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+8
+
+The Archaeology Research Program at Southern Methodist University published an
+assessment of archaeological resources around Lake Wichita, 19 miles west of the
+proposed Henrietta Pipeline (Rohrt, Garber, and Woolley 1975). The assessment‟s
+conclusions were largely derived from an archaeological survey that focused on sections
+of Holliday, Lake and Sloop Creeks, all of which had been proposed for improvements
+ranging from clearing to channelization. Holliday Creek is an intermittent tributary of the
+Wichita River, their confluence being on the north side of Wichita Falls. Lake and Sloop
+creeks drain into the Little Wichita River just north of the Lake Arrowhead dam.
+The survey recorded no archaeological sites on either Holliday or Sloop creeks, but one
+was recorded on Lake Creek. Site 41AR1 was on a bluff overlooking Lake Creek with
+artifactual material ranging from points and knives to flakes. Informants told the authors
+of a Native American burial from nearby Spy Mound that had been removed from a bluff
+crevice some three decades prior to the survey. Jack Loftin gave an account that the
+„skeleton was buried wearing a breastplate of bird bone beads and a jacket with Spanish
+buttons.‟ A landowner informed the author of a site on a bluff edge south of Beaver
+Creek (41WC1) that had unusual sandstone slabs, possibly naturally occurring, and a
+scattering of retouched chert implements. Isolated artifacts were noted in the beds of
+Holliday and Lake creeks—one flake in each creek bed. The authors also noted a brass
+arrow point found on Holliday Creek in 1922 by John A. Kay.
+Lynott (1976) conducted an archaeological survey of sections of the Big Sandy Creek
+watershed in Clay, Montague, and Wise counties for 44 flood control structures. The
+survey resulted in the recording of one prehistoric site in Clay County, 41CY2. The site
+was located on an upland edge upstream from the confluence of the Little Wichita River
+and Little Post Oak Creek, 1100‟ south of the Little Wichita River channel. The site was
+a low-density lithic scatter covering about 706 square meters with artifacts visible on the
+ground surface. Numerous intermittent drainages were also surveyed during the study
+but with negative results.
+Texas Parks and Wildlife performed a pedestrian survey and monitoring for a pasture
+clearing and fence repair project in Lake Arrowhead State Park, about 5.25 miles
+northeast of site 41CY2 (Ralph 1997). The project covered an area between Sloop Lake
+Creek, an intermittent tributary of the Little Wichita River and an unnamed, intermittent
+tributary of the Little Wichita River to the south. The pedestrian survey and monitoring
+did not find any prehistoric or historic resources. A wildfire burned about 100 acres
+adjacent to the project and maintainers were used to excavate a firebreak. Investigation
+of the firebreak did not reveal any cultural materials.
+Review of the Texas Archeological Sites Atlas (TASA 2011) shows few recent
+archaeological surveys in Clay County. An approximately 2000‟ long linear survey was
+conducted parallel to Bridge Road/FM 1197 in 2000, less than ½ mile west of the
+proposed pipeline route. No archaeological resources were encountered. The survey
+crossed the Little Wichita River floodplain, a setting analogous to most of the proposed
+route. In 1978, a three mile long survey was performed parallel to FM 3392. The study
+crossed numerous uplands, upland edges, and minor tributaries of the Little Wichita
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+9
+
+River 2.5 miles north of the proposed pipeline route but no archaeological resources were
+found. A small block survey was conducted on an upland edge east of a tributary to the
+Dry Fork of the Little Wichita River in 2003, approximately 4 miles southwest of the
+project area; no archaeological sites were recorded.
+In all, 13 archaeological sites and one State Archeological Landmark (The Clay County
+Courthouse and Jail) are plotted on TASA (2011) in Clay County. Excluding the
+courthouse, the sites break down into 7 prehistoric, 5 historic, and 1 multi-component.
+Several of the prehistoric sites are described as open campsites or lithic scatters (41CY1,
+41CY2, 41CY3, 41CY4, and 41CY8) and two are described as being more significant
+(41CY6 and 41CY12) with possible deposits up to a meter in thickness. The majority of
+these prehistoric sites, with the exception of 41CY8, are on upland edges or bluffs within
+several hundred meters of larger drainages and their larger tributaries like the Little
+Wichita River and West Belknap Creek. Early researchers like Bennett and Witte made
+liberal use of the creek banks when discovering sites, but 41CY4 is the sole prehistoric
+site plotted on TASA and described as being exposed in the Little Wichita River channel.
+Four of the historic sites recorded in Clay County are single burials on upland mesas or
+upland edges/bluffs (41CY7, 41CY9, 41CY10, and 41CY11). The burials were generally
+shallow, some becoming exposed as stone grave caps became loose and fell away. The
+remains of an historic earthen dam were also recorded on a tributary to the Little Wichita
+River (41CY5). The multi-component 41CY13 is situated on an upland edge south of
+West Belknap Creek nears its headwaters. The sites is described as being composed of a
+prehistoric workshop and camp, a 19th to 20th century farmstead, as well as having a
+1950‟s oil exploration component. The recorders estimated the site deposit at one meter
+thick.
+Historic maps of Clay County were also reviewed prior to fieldwork. The 1936 Clay
+County highway map shows relatively sparse development outside of Henrietta, Texas
+with the vast majority of structures being adjacent to roads (Texas State Highway
+Department 1936). The 1961 highway map scarcely contrasts the previous, though more
+structures are plotted next to tributaries away from the county roads (Texas State
+Highway Department 1961). The Henrietta, Texas 7.5‟ USGS map, drawn in 1984,
+shows a slight increase in structure density since the 1961 highway map. The
+“Aqueduct” label on the 1984 USGS map would be recent, and most likely marks the
+existing 20” line.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+10
+
+RESEARCH DESIGN & METHODOLOGY
+Research Design
+Archaeological research in Clay County over the past century has been relatively sparse.
+However, early scholarship, recorded sites, and the few recent surveys provide the
+beginnings of an understanding of settlement in the county. Numerous prehistoric sites,
+from small camp middens with burials to “village” size occupations, have been described
+eroding from the banks of the Little Wichita River 4 to 20 feet below the floodplain
+surface. These differences in depth offer two possibilities: that the river has changed its
+course over thousands of years and that there were various elevations in the floodplain
+which were selected for occupation, or that the river has been downcut with the
+floodplain slowly aggrading over buried site deposits. Although occupation was probably
+seasonal due to the regular flooding of the river valley, it was relatively intense based on
+the artifacts and the burial which are described as being present. Additionally, other
+temporarily occupied prehistoric campsites are known to occur on the upland edges and
+slopes or bluffs overlooking drainages like the Little Wichita River and its earlier
+channels, as well as on elevations within the floodplain such as the low dune on which
+Bennett recorded an extensive campsite (1936: 93). Due to the erosional nature of these
+latter settings, site deposits are often shallow in comparison to floodplain sites, or
+manifest as surface scatters. The southern end of the proposed route crosses just this sort
+of upland slope before continuing across the level bluff south of the river. Given these
+criteria, the entirety of the route in the floodplain and on the upland edge is considered to
+have high potential for prehistoric archaeological resources.
+Clay County was sparsely populated through the 1930s and no structures are plotted
+along the aqueduct between the Little Wichita River and Lake Henrietta. This is to be
+expected since there are no roads shown in the floodplain on the historic maps and
+because this area flooded regularly; therefore the pipeline route would not have been
+conducive to residential placement. Trash might have been discarded in low spots along
+abandoned river channels. Even to the present, no structures are mapped in the area and
+it is unlikely that historic houses will be encountered.
+Methodology
+The entire pipeline route ROW was surveyed in parallel transects, and field personnel
+made notes about ground exposure, soil types, and disturbed areas. The ROW, which
+includes a 20 foot permanent easement and an additional 30-foot construction easement,
+thus featured a total APE of 50 feet. Shovel tests were placed selectively within the
+floodplain, particularly on overbank levees adjacent to the present and abandoned river
+channels. They were also excavated at regular intervals on the upland valley slope and
+bluff tops where the topsoil is shallow and rests on Permian shale. Shovel tests averaged
+30 cm in diameter. The clay fill from the shovel tests was inspected visually and broken
+into smaller chunks in order to determine if cultural materials were present. Shovel test
+matrices were described on the basis of texture and color. The Munsell Soil Color Chart
+was used to identify the specific soil colors in each test. As recommended by the Texas
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+11
+
+Water Development Board, trenching was conducted within the Little Wichita River
+floodplain and adjacent to the abandoned channels where access was viable. Pipeline
+installation depth varies from three to eight feet, and trench depth was limited to mirror
+these installation depths. Trench profiles were observed for artifacts and cultural features
+and were described in terms of criteria put forth by Vogel (2002). Backdirt from trench
+excavation was also inspected for cultural materials. Shovel test and trench locations
+were recorded using a Garmin GPS Map 76 handheld GPS receiver. Photographs of the
+route were taken with a Canon PowerShot SD1100 IS digital camera.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+12
+
+RESULTS
+This chapter is divided into three sections; the first describes the terrain of the study area.
+The results of the survey follow, and conclusions derived from the investigation end the
+chapter. Although shovel tests are described generally within the text, more detailed
+descriptions are in Table 1.
+Survey Area
+The proposed pipeline route parallels an existing water line labeled „aqueduct‟ on the
+1984 Henrietta, TX 7.5‟ USGS map (Figure 2) that was installed in the 1970s. The new
+route was clearly staked in the field, with blue stakes marking the existing line, orange
+stakes marking the permanent easement, and pink stakes marking the construction
+easement. The northern end of the line begins at the Little Wichita River‟s southern bank.
+From this northern point it is plotted south through the river‟s floodplain, which is kept as
+semi-improved and unimproved pasture for cattle grazing. Vegetation here is primarily
+mesquite and low grasses, with ground visibility ranging from 30 percent to 70 percent
+(Figure 3). Despite the mapped increase in elevation of only one foot, the floodplain
+elevation appears to increases slightly south of the river until reaching a thick tree line
+which marks the location of three unmapped, dry drainage channels south of the Little
+Wichita River.
+
+Figure 2.
+
+The Henrietta Pipeline plotted on a portion of the Henrietta, TX 7.5‟
+USGS map. Note that the only mapped major channel crossed by the
+pipeline is that at the foot of the bluff on the south side of the floodplain.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+Figure 3.
+
+13
+
+A south-facing view of the vegetation and ground visibility in the area
+immediately south of the river.
+
+South of the tree line, the route crosses a series of three intermittent tributaries that are
+incised into the floodplain and drain northeast into the Little Wichita River. The
+Henrietta, TX 7.5‟ USGS map shows only a single drainage in this area, but the 1936
+General Highway Map with the approximate route georeferenced using ArcGIS has three
+drainages plotted, two of which correspond to the location of the drainages encountered
+in the field (Figure 4). The third drainage, which the route appears to run within, is most
+likely an outflow from Lake Henrietta, and not one of the drainages identified in the field.
+Drainage B, which is not mapped here, runs between and parallels Drainages A and C.
+Vegetation in the area is relatively dense, and features tree cover of hackberry, post oak,
+and cedar elm, and an understory of green briar (Figure 5). Ground visibility in this area
+was between 30 percent and 50 percent. The drainages were relatively similar in terms of
+width and depth, averaging 35 meters wide and 2.5 meters deep. Each channel was dry at
+the time of survey. Drainage A had a small, overbank levee on its south side, a feature not
+manifested on the others. Drainage C varied in that its southern bank was significantly
+higher than the other tributary banks, approximately 3.5 meters above the bottom of the
+channel. New erosional gullies are forming on the southern, upland slope side of
+Drainage C as a result of recent precipitation (Figure 6).
+The terrain begins to rise more rapidly after the line passes these drainages and proceeds
+onto the upland slopes—total elevation change from Drainage C to the lake is 22 feet.
+The slope is at first gentle, but then the route crosses a very distinct bluff edge before
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+14
+
+terminating at the lake. This third section features fairly thick vegetation of mesquites and
+low grasses, with ground visibility ranging from 30 percent to 90 percent (Figure 7).
+
+Figure 4.
+
+Drainages A and C shown on a portion of the 1936 General Highway Map
+of Clay County.
+
+Figure 5.
+
+Typical vegetation among the drainages, seen here in Drainage C. View is
+to the west.
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+15
+
+Figure 6.
+
+The profile of an erosional gully forming on the south side of Drainage C.
+View is to the south.
+
+Figure 7.
+
+South facing view of the southern section of the route. Note the colorcoded stakes marking the pipeline easements.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+16
+
+The Survey
+The route was surveyed from north to south, and is described in this order. Due to the
+excellent ground visibility on the northern approximately 700 meters of the route, this
+section was walked, but not shovel tested. No cultural resources were observed on the
+surface. The bank was visually inspected for any cultural material that may have been
+eroding from the banks, although none was observed. The banks were gently sloping,
+with an average height of two to three meters. The lack of any discernable elevations
+south of the channel margin suggests the absence of a pronounced overbank levee.
+Shovel testing was conducted starting in the wooded portion of the route through which
+the three drainage channels ran (Figure 8). The first shovel test was conducted on the
+overbank levee south of Drainage A, and encountered mottled dark reddish gray silty clay
+and yellowish red clayey silt to a depth of 47cm (Table 1). This overlaid very compact
+yellowish red silt which was excavated to a depth of 60cm. Two subsequent shovel tests
+were excavated between Drainages B and C, and encountered roughly similar soil
+profiles of dark reddish brown to reddish brown clays over silt, although sand and clay
+were present in the silt encountered in these shovel tests. These profiles suggest frequent
+flood events and alluvial deposition of sediment throughout the floodplain.
+
+Figure 8.
+
+Shovel test locations on the southern portion of the route shown on a
+recent aerial photograph of part of the study area.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+17
+
+Shovel test 04 was excavated less than five meters south of Drainage C, and encountered
+three layers of silt, first sandy, then loamy and then clayey. This indicates that the shovel
+test was placed in or near the boundary marking the beginning of the Weswood silt loam,
+which is the upland soil encountered in the upland south of the floodplain. As such, the
+remainder of shovel tests along the route was dug to approximately 50cm in depth, given
+the shallow topsoil in this area, and that the only sites predicted to be present in this area
+were surface scatters or very shallowly buried deposits. The first shovel test (05)
+excavated in this area encountered 57cm of reddish brown loamy very sandy clay.
+However, the three subsequent shovel tests encountered a soil profile more in keeping
+with the Weswood soil, although with more sand than expected. This consisted of sandy
+silt to clayey sand topsoil which varied in color from red to dark reddish gray and was
+encountered to depths between 22 and 30cm. Subsoil varied between sandy clay and
+clayey silt with hues that ranged between red to very dark gray. Shovel test 09, which
+was excavated atop the bluff surrounding Lake Henrietta, encountered a heavily mottled
+soil profile which likely results from construction of the lake. No cultural materials were
+encountered in any of the nine shovel tests excavated along the southern half of the
+pipeline route. In addition to shovel testing, any exposures in the banks of the various
+drainages and the cut banks of the erosional gullies were visually inspected for eroding
+artifacts, though none were observed.
+Table 1.
+ST#
+01
+
+02
+
+Shovel test information.
+Depth (cm)
+0-47
+47-60
+0-20
+20-40
+40-100
+
+03
+
+0-15
+15-40
+40-65
+65-120
+
+04
+
+0-62
+62-90
+90-150
+0-57
+0-22
+22-50
+
+05
+06
+
+07
+08
+
+0-30
+30-50
+0-25
+25-50
+
+09
+
+0-12
+12-25
+25-50
+
+Description *
+Dark reddish gray (5YR4/2) silty clay, mottled with
+yellowish red (5YR4/6) clayey silt
+Yellowish red (5YR5/6) very compact silt
+Dark reddish brown (5YR3/2) clay
+Reddish brown (5YR4/4) sandy silt
+Dark reddish brown (5YR3/4) dry compact sandy silt,
+with 30% nodules of dark reddish gray clayey silt
+Dark reddish brown (5YR3/2) loamy clay
+Reddish brown clay
+Dark reddish brown (5YR3/3) clay
+Yellowish red (5YR4/6) silty sand, with some slightly
+clayey content
+Dark reddish brown (5YR3/2) sandy silt
+Reddish brown (5YR4/3) very dry loamy silt
+Yellowish red clayey silt
+Reddish brown (2.5YR4/4) loamy very sandy clay
+Red (2.5YR4/6) sandy silt
+Reddish brown sandy clay, mottled with 40% red
+(2.5YR4/8) sandy clay
+Reddish brown (5YR4/4) sandy silt
+Dark reddish brown (5YR3/3) clayey silt
+Dark reddish gray clayey sand, mottled with 30%
+yellowish red clayey sand
+Very dark gray (5YR3/1) sandy clay, mottled with 50%
+reddish brown sandy clay
+Reddish brown (5YR4/3) clay, with small sandstone
+chunks
+Reddish gray (5YR5/2) clay, mottled with 50% reddish
+brown clay
+Reddish brown (5YR5/4) sandy silt, mottled with 25%
+reddish brown (5YR4/4) silty clay, and with 20%
+reddish brown (5YR4/3) clay
+
+Comments/Artifacts
+Negative
+
+Negative
+
+Negative
+
+Negative
+
+Negative
+Negative
+
+Negative
+Negative
+
+Negative
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+18
+
+Trenching
+Backhoe trenching was started in the Little Wichita River floodplain, on the north side of
+Drainage A, and continued south to the north bank for Drainage C (Figure 9). All
+trenches were placed on the east side of the existing pipeline. Trenches are described
+below with complete data appearing at the end of this section in Table 2.
+
+Figure 9.
+
+Backhoe trench locations overlain on a recent aerial photograph.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+19
+
+Trenches T1-T3 were excavated along the northern portion of the proposed pipeline route
+where is traverses the level floodplain. These three trenches contained matrices indicative
+of the slowly aggrading floodplain environment. Generally, clays or loamy clays were
+found atop sandy clays and silty clays. Trench T3 contained the first departure from the
+clay profiles between 105 and 162 cmbs where the field crew noted layers of very fine
+sandy silt. An exceptionally energetic flood event would be capable of depositing these
+larger particles such a distance from the river. Calcium carbonate was present beginning
+at 129 to 162 cmbs in the trenches, marking the stable soils. No cultural materials or
+features were observed in either of these trenches.
+A major departure in the more-or-less clay floodplain profile was first encountered in
+trench T4, further south and nearer to the three old channels. Zones 1-4, to a depth of 158
+cmbs, were consistent with the clayey matrices recorded in trenches T1-T3. Below 158
+cmbs the matrix took on a lamellar structure with 1-10 mm thick bands of silty sands.
+These lamellae may represent old channels of the Little Wichita River, which has since
+migrated north. Calcium carbonate nodules up to 7 mm in diameter were noted within the
+lamellae, evincing very old deposition. No cultural materials or features were found in
+the trench.
+Trench T5 was excavated approximately 5 meters north of Drainage A and exhibited a
+profile akin to trench T4. A zone of silt and loamy clay was recorded from 52-119 cmbs,
+which likely represents particle deposition from Drainage A flooding and moving
+material down from higher ground. A degraded portion of an ilium from a bison was
+uncovered at the bottom of this zone between 105 and 119 cmbs (Figure 10). The bone
+was seen in the profile of a step opposite the main western wall profile—the backhoe
+bucket had removed only a very small amount of the bone while excavating. The bone
+was exposed by field personnel with trowels and brushes, then mapped and photographed
+in situ before it was removed. After lifting the specimen from the step in which it was
+found, the backhoe operator excavated the overlaying matrix in approximately 5 cm
+levels. The field crew cleaned and inspected the area after removal of each level, but no
+cultural materials, charcoal, or additional bone fragments were found. Analysis
+performed by Art Tawater (Personal Communication 2011) concluded that the bone was
+that of a Bison bison, and not a cow. According to Mr. Tawater, the long and narrow
+obturator foramen is consistent with bison morphology. A sample of matrix from around
+the bone was collected and washed, but no artifacts, charcoal, or additional bone
+fragments were discovered. No explanation was reached about why the isolated bone was
+in the culturally sterile matrix. Calcium carbonate nodules up to 3 mm in diameter were
+noted beginning in Zone 2, where the bison bone was found, and suggesting prehistoric
+deposition of the bone. No cultural materials or features were noted in trench T5.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+Figure 10.
+
+20
+
+Detail of the portion of bison ilium in situ at the bottom of Zone 2.
+
+A final trench, T6, was excavated into the north bank of Drainage C (Figure 11). The first
+zone, 0-32 cmbs, was consistent with the very clayey upper zones of the other trenches.
+Sand and silt increased relative to the clay content through the next five zones until
+reaching slightly clayey silt at 168 to 246 cmbs. Drainage C is physically the most
+pronounced of the three minor tributaries and likely carries the majority of runoff. Its
+proximity to the uplands, where the sandstone bedrock is often exposed and eroding,
+combined with the possibility of its carrying more water, would result in the relative
+increase in larger particle size. Filaments of calcium carbonate were noted in Zone 3, 6791 cmbs, marking the boundary of the stable soil. No cultural materials or features were
+found in trench T6.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+21
+
+Figure 11.
+
+Photograph showing the relation of the Trench 6 to the north bank of
+Drainage C. View is to the northeast.
+
+Table 2.
+
+Backhoe trench descriptions.
+
+Trench
+
+Zone
+
+1
+
+1
+
+Depth
+(cmbs)
+0-43
+
+2
+
+43-129
+
+3
+
+129-156
+
+4
+
+156-170
+
+1
+
+0-88
+
+2
+
+88-129
+
+2
+
+Description
+
+Comments
+
+7.5YR3/3-Dark brown loamy clay. Small (1-2mm) rounded
+peds, gloss linings, moderate structure. Frequent coarse to very
+fine roots. Occasional fine to medium (<7mm) biopores.
+Gradual, smooth boundary.
+7.5YR4/3-Brown clay (60%) mottled with 5YR5/6-yellowish
+red clay (40%). Subrounded peds (1-3mm), gloss linings,
+strong structure. Occasional very fine roots. No biopores. Very
+small (1mm) flecks of eroding sandstone, 5%. Gradual, smooth
+boundary.
+5YR5/4-Reddish brown clay. Platy with small slickensides,
+moderate to strong structure. 2-3mm nodules of CaCO3, 5%.
+Few eroding flecks of sandstone, <5%. No roots or biopores.
+Clear, slightly wavy boundary.
+5YR3/3-Dark reddish brown sandy clay. 1-2mm subrounded
+peds, no linings, strong structure. CaCO3 nodules of up to
+10mm, 10%. Few flecks of eroding sandstone, 5-10%. No roots
+or biopores.
+5YR4/4 Reddish brown clay (70%) mottled with 5YR3/2 dark
+reddish brown clay (30%). Small, sub-rounded peds with matte
+to gloss linings, moderate to strong structure. Frequent coarse
+to very fine roots. Eroded yellowish sandstone pebbles <5%.
+Smooth, diffuse boundary.
+2.5YR4/6 Red (30%) and 5YR3/2 dark reddish brown (70%)
+very compact silty clay. Small, sub-angular peds, no linings,
+moderate to strong structure. Occasional very fine roots. Small
+sandstone pebbles (<1mm), 5-10%. Smooth, gradual boundary.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+Trench
+
+3
+
+4
+
+5
+
+3
+
+Depth
+(cmbs)
+129-180
+
+1
+
+0-53
+
+2
+
+53-105
+
+3
+
+105-162
+
+4
+
+162-192
+
+1
+
+0-67
+
+2
+
+67-97
+
+3
+
+97-140
+
+4
+
+150-158
+
+5
+
+158-195
+
+1
+
+0-52
+
+2
+
+52-119
+
+3
+
+119-150
+
+4
+
+150-180
+
+Zone
+
+Description
+
+22
+
+Comments
+
+2.5YR4/6 Red (10%) and 5YR3/2 dark reddish brown (90%)
+very compact silty clay. Small, sub-angular peds, gloss linings,
+moderate to strong structure. CaCO3 flecks and nodules up to
+2mm, <5%. Small, dark pebbles (<1mm). Occasional very fine
+roots.
+10YR3/2-Dark grayish brown clay, very moist. 1-2mm
+rounded peds, gloss linings, moderate structure. Frequent
+coarse to very fine roots. Common 2-3mm biopores. Few
+flecks of eroding sandstone, 5%. Smooth, gradual boundary.
+7.5YR4/2-Brown clay. 1-2mm rounded peds, gloss linings,
+moderate structure. Occasional medium to very fine roots. Very
+few biopores. Few flecks of eroding sandstone, 5%. Smooth,
+gradual boundary.
+5YR5/6-Yellowish red very fine sandy silt (65%) and 5YR4/4Reddish brown clayey silt (35%). No discernable peds or
+structure. Occasional very fine roots. Few flecks of eroding
+sandstone, <5%. Smooth, clear boundary.
+5YR4/4-Reddish brown clay (70%) mottled with 5YR4/2-Dark
+reddish gray clay (30%). Reddish brown clay has 1mm
+subrounded peds, matte linings, weak to moderate structure.
+Dark reddish gray clay is platy, with small, glossy slickensides.
+No roots. No biopore. 2-3mm CaCO3 nodules, 5%. Few
+sandstone flecks, <5%.
+7.5YR3/3 Dark brown silty clay. Small, sub-angular peds, no
+linings, weak structure. Frequent coarse to very fine roots.
+Frequent red sandstone pebbles and cobbles. Smooth, gradual
+boundary.
+5YR4/4 Reddish brown silty clay. Sub-angular peds, faint
+matte linings, moderate structure. Frequent very fine roots.
+Occasional very fine biopores. Occasional degrading sandstone
+gravel (<1mm). Wavy, gradual boundary.
+5YR5/6 Yellowish red very silt clay. Sub-rounded peds, faint
+gloss linings, weak structure. Degrading sandstone pebbles up
+to 4mm. Frequent very fine roots. Wavy, gradual boundary.
+2.5YR4/4 Reddish brown clayey silt (80%) and 2.5YR3/3 dark
+reddish brown silty clay (20%). No discernable peds. CaCO3
+nodules up to 7mm, 5%. Small degrading sandstone gravel.
+Wavy, clear boundary.
+7.5YR6/6 Reddish yellow and 5YR5/6 yellowish red silty sand
+lamellae, 5-10mm thick alternating bands—on top of—
+7.5YR5/6 Strong brown and 7.5YR4/3 brown silty sand
+lamellae, <1mm thick alternating bands.
+5YR5/4-Reddish brown loamy clay. Subrounded peds, no
+linings, moderate structure. Frequent coarse to fine roots. No
+discernable biopores. Clear, wavy boundary.
+7.5YR6/4-Light brown silt (65%) and 5YR5/4-Reddish brown
+loamy clay (35%). Compact, but very crumbly, with no
+discernable peds or structure. Frequent 1-4mm biopores.
+Frequent coarse to fine roots. 3mm CaCO3 nodules, 5-10%
+(near bottom of zone). Clear, smooth boundary.
+5YR4/6-Yellowish red clayey silt. Subrounded peds, no
+linings, moderate structure. Occasional very fine roots and
+biopores. CaCO3 filaments, 5-10%. Clear, slightly wavy
+boundary.
+5YR3/2-Dark reddish brown silty clay. Subangular peds,
+glossy linings, strong structure. Occasional very fine roots and
+biopores. CaCO3 filaments, <5%. Clear, slightly wavy
+boundary.
+
+Possible flood event.
+
+Possible old channel
+remnant.
+
+Two bison bones
+recovered at a depth
+of 105cmbs.
+
+Bottom depth of
+bison bones was
+119cmbs.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+Trench
+
+6
+
+5
+
+Depth
+(cmbs)
+180-190
+
+1
+
+0-32
+
+2
+
+32-67
+
+3
+
+67-91
+
+4
+
+91-122
+
+5
+
+122-168
+
+6
+
+168-246
+
+Zone
+
+Description
+
+23
+
+Comments
+
+5YR4/4-Reddish brown silty clay. Subangular peds, no linings,
+strong structure. Occasional very fine roots. CaCO3 filaments,
+<5%.
+7.5YR3/2-Dark brown clay (45%), mottled with 7.5YR4/3Brown slightly loamy clay (55%). 1-2mm subrounded peds,
+matte linings, moderate structure. Frequent very coarse to very
+fine roots. Frequent 1-3mm biopores. Clear, wavy boundar.
+7.5YR4/2-Brown clay (60%) mottled with 7.5YR4/4-Brown
+slightly clayey silt. Brown clay has 1-2mm subrounded peds,
+mate linings, moderate structure. Brown slightly clayey silt is
+crumbly and has no discernable peds or structure. Frequent
+very coarse to very fine roots. Occasional <1mm biopores.
+Diffuse, smooth boundary.
+5YR5/6-Yellowish red silt (60%) with nodules of 5YR4/3Reddish brown clay (40%). Clay has 1mm rounded peds, no
+linings, weak structure. Frequent coarse to very fine roots.
+Occasional fine biopores. CaCO3 filaments, <3%. Diffuse,
+smooth boundary.
+5YR5/6-Yellowish red silty sand, with 7.5YR5/4-Brown
+slightly clayey silt lamellae, 1mm thick. 5YR4/2-Dark reddish
+gray clay nodules (10%). Coarse to very fine roots. Fine to very
+fine biopores. Diffuse, smooth boundary.
+5YR5/6-Yellowish red very fine slightly silty sand (50%),
+5YR4/2-Dark reddish brown clay (30%), and 7.5YR4/3-Brown
+clayey silt (20%) lamellae, alternating bands 1-2mm thick.
+Coarse to very fine roots. Very fine to fine biopores. Diffuse,
+smooth boundary.
+7.5YR5/4-Brown slightly clayey silt. No discernable structure.
+Medium to very fine roots. Few very fine biopores.
+
+Trench excavated on
+north
+bank
+of
+drainage C.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+24
+
+Conclusions
+Based on the previous investigations in the area, and as stated in the Research Design, the
+entirety of the Henrietta Pipeline route was considered to have fairly high potential for
+containing prehistoric archaeological sites. However, this was not found to be the case,
+and several factors exist which may explain this lack of cultural material.
+Though prehistoric potential within the upland setting south of the floodplain was
+considered to be quite high, given that the majority of prehistoric sites in Clay County
+were recorded in similar settings, no cultural materials were located in this setting during
+survey. This is most likely due to the fact that the narrow ROW and relatively short
+length (roughly 200 meters) of the pipeline in this setting did not afford field personnel
+adequate sampling area in which to locate archaeological resources. Additionally, as the
+upland was most likely farmed extensively during the past, whatever prehistoric cultural
+resources that might have been present here may have been disturbed or destroyed by
+previous agricultural activity.
+As for the portion of the route located in the floodplain, one possible explanation for the
+lack of archaeological material is the relatively shallow depth of the trenches, which were
+dug only to the depth of pipeline installation, the deepest being 246cm, or a little over
+eight feet. Though previous investigations demonstrate that prehistoric sites have been
+encountered at depths of between four and 20 feet, the majority of sites, particularly the
+four described by Witte, were encountered toward the bottom of the river banks with top
+depths between eight and 15 feet. A second explanation for the absence of prehistoric
+archaeological material in this setting is the absence of discernable elevations within the
+floodplain. This would explain the absence of occupational sites situated above the
+extent of seasonal flooding, such as the extensive campsite recorded by Bennett in 1936,
+which was located on a low sand dune north of Little Wichita Creek. No elevations of
+this type were found to be present within the current study area, though knolls are present
+within the floodplain both up and downstream from the pipeline route. As such, these
+elevations to the east and west have somewhat higher potential for containing prehistoric
+archaeology than the study area.
+No historic resources were located during the survey, though this is in keeping with the
+low historic potential within the study area. As stated in the Research Design, the location
+of the study area largely within a frequently inundated floodplain, the sparsely populated
+nature of this portion of the study area, and the absence of structures plotted on historic
+maps suggested that it was highly unlikely that historic structures would be encountered
+in the study area. The only types of sites though to be somewhat likely in this setting
+were ephemeral trash scatters along the drainage channels, and even these were found to
+be absent.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+25
+
+RECOMMENDATIONS
+
+The purpose of this investigation was to determine if cultural resources were present
+within the ROW of the proposed Henrietta Pipeline, and, if so, to make recommendations
+on their significance and assess how they might be impacted by construction. No
+archaeological resources were found during pedestrian survey or shovel testing of the
+pipeline route, though a bison ilium was uncovered during excavation of Trench 5.
+However, given the possibility that it may have washed into this location during alluvial
+flood events, the absence of associated artifacts, and the absence of any signs of
+butchering on the bone, it was impossible to confirm that it constituted cultural material.
+As such, it was not recorded as a site, and presents no need for additional study.
+Based upon the negative results of this archaeological survey, ARC recommends that
+further cultural resource investigations are unwarranted in the study area and asks the
+Texas Historical Commission to agree with our findings. If buried cultural materials are
+discovered during the construction of the pipeline, work should stop in that area
+immediately and the Archeology Division of the Texas Historical Commission should be
+notified immediately. Work should not continue until the necessary investigations have
+been carried out after consultations have been completed.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+26
+
+REFERENCES CITED
+Bennett, Leonard D.
+1936
+Interesting Artifacts of Clay County, Texas. Bulletin of the Texas Archeological and
+Paleontological Society 8:87-93.
+Bever, Michael R. and David J. Meltzer
+2007
+Exploring Variation in Paleoindian Life Ways: The Third Revised Edition of the Texas Clovis
+Fluted Point Survey. Bulletin of the Texas Archeological Society 78:65-99.
+Blair, W. Frank
+1950
+The Biotic Provinces of Texas. The Texas Journal of Science II91):93-117.
+Bourdeau, Alex, Terence Fifield, J. Scott Geister, and Leonard LaVardera
+1980
+A Cultural Resource Investigation of the Oklaunion Power Plant. Investigative Report 80-16,
+Environment Consultants, Inc., Dallas.
+Brooks, Robert L.
+1989
+Village Farming Societies. In From Clovis to Comanchero: Archaeological Overview of the
+Southern Great Plain, pp. 71-90. Arkansas Archeological Research Series No. 35. Arkansas
+Archeological Survey, Fayetteville.
+Bureau of Economic Geology
+1987
+Geologic Atlas of Texas, Wichita Falls-Lawton Sheet. The University of Texas at Austin.
+Diamond, David D., David H. Riskind, and Steve L. Orzell
+1987
+A Framework for Plant Community Classification and Conservation in Texas. The Texas Journal
+of Science 39(3):203-221.
+Dyksterhuis, E.J.
+1948
+The Vegetation of the Western Cross Timbers. Ecological Monographs 18:325-376.
+Hofman, Jack L.
+1989
+Protohistoric Culture History on the Southern Great Plains In From Clovis to Comanchero:
+Archeological Overview of the Southern Great Plain, pp. 91-100. Arkansas Archeological
+Research Series No. 35. Arkansas Archeological Survey, Fayetteville.
+Hofman, Jack L. Robert L. Brooks, Joe S. Hays, Douglas W. Owsley, Richard L. Jantz, Murray K. Marks,
+and Mary H. Manheim
+1989
+From Clovis to Comanchero: Archeological Overview of the Southern Great Plains. Research
+Series No. 35, Arkansas Archeological Survey, Fayetteville.
+Leonhardy, Frank G. and Adrian D. Anderson
+1966
+The Archaeology of the Domebo Site. In Domebo: A Paleo Indian Mammoth Kill in the PrairiePlains, edited by Frank G. Leonhardy, pp. 14-26, Contributions of the Museum of the Great Plains
+No. 1, Lawton.
+Lynott, Mark J.
+1976
+An Archaeological Survey of Parts of the Big Sandy Creek Watershed: Clay, Montague, and Wise
+Counties, Texas. Research Report 92, Archaeology Research Program, Southern Methodist
+University, Dallas.
+Pace, Lynn
+1998
+Region 6. In 1997 Annual Report to the Texas Historical Commission. Pp. 197-257. Texas Parks
+and Wildlife Department, Cultural Resources Program, Austin.
+Peter, Duane E., Rebecca S. Proctor, Melissa M. Green (editors)
+1997
+Adaptations Within the Lower Rolling Plains of Northcentral Texas, Crowell Reservoir, Foard
+County, Texas. Miscellaneous Report of Investigations, Number 122. Geo-Marine, Inc. Plano.
+Rohrt, Margaret, James Garber, and Nancy Woolley
+1975
+Assessment of Archaeological and Historical Resources in the Lake Wichita Area, North Central
+Texas. Research Report 62, Archaeologyl Research Program, Southern Methodist University,
+Dallas.
+Ralph, Ronald W.
+1997
+Lake Arrowhead State Park. 1996 Annual Report. Texas Parks and Wildlife, Cultural Resources
+Program, Austin.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+HENRIETTA PIPELINE ARCHAEOLOGICAL SURVEY
+
+27
+
+Texas State Highway Department
+1936
+General Highway Map: Clay County, Texas. Texas State Highway Department in cooperation
+with the U.S. Department of Agriculture Bureau of Public Roads.
+1961
+General Highway Map: Clay County, Texas. Texas State Highway Department in cooperation
+with the U.S. Department of Commerce Bureau of Public Roads.
+Vogel, Gregory
+2002
+A Handbook of Soil Description for Archeologists. Arkansas Archeological Survey Technical
+Paper 11. Arkansas Archeological Survey, Fayetteville.
+Wheeler, Clark
+2011
+"CLAY COUNTY," Handbook of Texas Online, Texas State Historical Association website.
+(http://www.tshaonline.org/handbook/online/articles/hcc12), accessed February 09, 2011.
+Witte, A.H.
+1937
+Buried Middens in the Floodplain of the Little Wichita River. Bulletin of the Texas Archeological
+and Paleontological Society 9:222-226.
+1942
+Channeled Points from Clear Fork Sites in North Texas Area. Bulletin of the Texas Archeological
+and Paleontological Society 14:27-31.
+
+________________________________________________________________________
+AR CONSULTANTS, INC.
+
+

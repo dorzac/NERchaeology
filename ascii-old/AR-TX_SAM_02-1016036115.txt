@@ -1,0 +1,2803 @@
+Marine Archaeology Survey of
+Proposed West Ranch to Point Comfort Pipeline,
+Calhoun County, Texas
+For
+
+December, 2016
+
+SAM Job No. 1016036115
+
+MARINE ARCHAEOLOGY SURVEY OF
+PROPOSED WEST RANCH TO POINT COMFORT PIPELINE,
+CALHOUN COUNTY, TEXAS
+Texas Antiquities Permit No. 7431
+
+Prepared for:
+Blanton & Associates, Inc.
+5 Lakeway Centre Court, Suite 200
+Austin, TX 78734
+
+Prepared by:
+Surveying And Mapping, LLC
+4801 Southwest Parkway
+Building Two, Suite 100
+Austin, Texas 78735
+
+Archaeologist and Principal Investigator: Robert Gearhart
+
+December 2016
+
+i|Page
+
+Table of Contents
+Page
+
+List of Figures ............................................................................................................................................... iii
+List of Tables ................................................................................................................................................ iii
+Abstract ........................................................................................................................................................ iv
+I.
+
+Introduction .......................................................................................................................................... 1
+
+II.
+
+Physical Environment ............................................................................................................................ 3
+
+III.
+
+Archaeological Background............................................................................................................... 6
+
+Prehistory .................................................................................................................................................. 6
+Potential for Submerged Prehistoric Sites ................................................................................................ 7
+Maritime History ....................................................................................................................................... 8
+Potential for Historic Shipwrecks ............................................................................................................ 10
+Factors Affecting Vessel Loss .............................................................................................................. 13
+Factors Affecting Vessel Preservation................................................................................................. 13
+Previous Investigations ........................................................................................................................... 14
+IV.
+
+Research Design .............................................................................................................................. 15
+
+Survey Methods ...................................................................................................................................... 15
+Interpretation of Magnetometer Data ................................................................................................... 16
+Complexity .......................................................................................................................................... 16
+Horizontal Dimensions ........................................................................................................................ 16
+Amplitude............................................................................................................................................ 17
+Orientation .......................................................................................................................................... 17
+V.
+
+Results ................................................................................................................................................. 19
+Side-Scan Sonar....................................................................................................................................... 19
+Magnetometer ........................................................................................................................................ 21
+Archaeological Assessment..................................................................................................................... 31
+Recommendations .................................................................................................................................. 31
+
+VI.
+
+References Cited ............................................................................................................................. 33
+
+Appendix A: Sonar and Magnetometer Results (not for public disclosure) ...................................................
+Appendix B: Geophysical Target Locations (not for public disclosure)...........................................................
+Appendix C: Texas Antiquities Permit 7431 and THC Concurrence Letter (final only) ...................................
+
+ii | P a g e
+
+List of Figures
+Page
+Figure 1: Project Location and Area of Potential Effect .............................................................................................2
+Figure 2: Holocene Sea Level Curves by Various Authors ..........................................................................................4
+Figure 3: Bathymetry....................................................................................................................................................5
+Figure 4: APE in 1888....................................................................................................................................................6
+Figure 5: Example of a Verified Shipwreck Anomaly, Site 41CL92 ..........................................................................19
+Figure 6: Side-Scan Sonar Mosaic ..............................................................................................................................20
+Figure 7: Sonar 1 Target .............................................................................................................................................21
+Figure 8: Sonar 2 Target .............................................................................................................................................21
+Figure 9: Mag 1 Anomaly ...........................................................................................................................................22
+Figure 10: Mag 2 Anomaly .........................................................................................................................................22
+Figure 11: Mag 3 Anomaly .........................................................................................................................................23
+Figure 12: Mag 4 Anomaly .........................................................................................................................................23
+Figure 13: Mag 5 Anomaly .........................................................................................................................................24
+Figure 14: Mag 6 Anomaly .........................................................................................................................................24
+Figure 15: Mag 7 Anomaly .........................................................................................................................................25
+Figure 16: Mag 8 and 9 Anomalies ............................................................................................................................25
+Figure 17: Mag 10 Anomaly .......................................................................................................................................26
+Figure 18: Mag 11 Anomaly .......................................................................................................................................26
+Figure 19: Mag 12 Anomaly .......................................................................................................................................27
+Figure 20: Mag 13 Anomaly .......................................................................................................................................27
+Figure 21: Mag 14 Anomaly .......................................................................................................................................28
+Figure 22: Mag 15 Anomaly .......................................................................................................................................28
+Figure 23: Mag 16 Anomaly .......................................................................................................................................29
+Figure 24: Mag 17 Anomaly .......................................................................................................................................29
+Figure 25: Mag 18 Anomaly .......................................................................................................................................30
+Figure 26: Mag 19 Anomaly .......................................................................................................................................30
+Figure 27: Mag 20, 21 and 22 Anomalies..................................................................................................................31
+
+List of Tables
+Page
+Table 1: Wrecks and Obstruction Reported Within Three Miles of APE.................................................................12
+Table 2: Side-Scan Sonar Targets...............................................................................................................................20
+Table B-1: Side-Scan Sonar Targets (not for public disclosure).............................................................................. B-1
+Table B-2: Magnetic Anomalies Recommended for Avoidance (not for public disclosure) ................................ B-2
+
+iii | P a g e
+
+Abstract
+Surveying And Mapping, LLC (SAM) conducted a marine archaeological survey of the proposed West
+Ranch to Point Comfort Pipeline Project located in the upper portion of Lavaca Bay, north of the Lavaca
+Bay Causeway, in Calhoun County, Texas. The survey corridor is located in Texas state waters and spans
+portions of State Mineral Lease Tracts 4A, 5A, 6A, 11A, 12A, 14A, 15A, 22A and 23A. A route for the
+proposed pipeline will be selected through the corridor based on locations of environmental constraints,
+including oyster reefs and potential shipwrecks. This survey was funded by Harvest Pipeline Company
+through a subcontract with Blanton & Associates, Inc. of Lakeway, Texas. SAMâs field investigations
+consisted of a marine geophysical survey performed under Texas Antiquities Permit 7431 from October
+9 to 18, 2015 and January 27 to February 6, 2016. An archaeological assessment was conducted of all
+data acquired from the survey. The area of potential effect (APE) measures 4.4 miles long; 2,000 feet
+wide at the north end; 5,000 feet wide at the south end; and encompasses 1,628 acres. Water depths
+range from 0 to 6 feet below Mean Lower Low Water. Trenching for pipe laying will be limited to within
+5 feet of the existing seafloor. The purpose of SAMâs survey was to locate potential archaeological sites
+so they can be avoided by bottom disturbing activities associated with pipeline construction. A desktop
+review of the cultural background determined that 4 marine archaeological investigations have been
+reported within 3 miles of the APE. No marine archaeological sites have been confirmed within 3 miles
+of the APE. At least 19 shipwrecks have been reported from historic and/or cartographic sources to
+potentially lie within 3 miles, including as many as 5 within the APE. This study was completed in
+compliance with Section 106 of the National Historic Preservation Act (Public Law 89-665; 16 U.S.C. 470)
+and the Antiquities Code of Texas (Texas Natural Resource Code, Title 9, Chapter 191). The minimum
+reporting and survey requirements for marine archaeological studies conducted under a Texas
+Antiquities Permit are mandated by The Texas Administrative Code, Title 13, Part 2, Chapters 26 and 28,
+respectively. SAM recommends avoidance of 22 magnetic anomalies (Mag 1 to Mag 22) and a charted
+area of periodically exposed wreckage. All 22 anomalies and the charted wreckage are potentially
+associated with historic shipwrecks thus could meet criteria for State Antiquities Landmark status or for
+the National Register of Historic Places and are recommended for avoidance by bottom-disturbing
+activities associated with this project.
+
+iv | P a g e
+
+I.
+
+Introduction
+
+Surveying and Mapping, LLC (SAM) conducted a marine archaeological survey of the proposed West
+Ranch to Point Comfort Pipeline Project located in the upper portion of Lavaca Bay, north of the Lavaca
+Bay Causeway, in Calhoun County, Texas (Figure 1). This survey was funded by Harvest Pipeline
+Company through a subcontract with Blanton & Associates, Inc. of Lakeway, Texas. The area of potential
+effect (APE) measures 4.4 miles long; 2,000 feet (ft) wide at the north end; 5,000 ft wide at the south
+end; and encompasses 1,628 acres. The APE is located in Texas state waters and spans portions of State
+Mineral Lease Tracts 4A, 5A, 6A, 11A, 12A, 14A, 15A, 22A and 23A. Water depths range from 0 to 6 ft
+below Mean Lower Low Water (MLLW). Cultural resources investigations were required by the Texas
+Historical Commission (THC) because pipe laying activities might affect historic cultural resources resting
+on or embedded in the seafloor. Trenching for pipe laying will be limited to within 5 ft of the existing
+seafloor.
+Fieldwork was conducted from October 9 to 18, 2015 and from January 27 to February 6, 2016. The
+purpose of SAMâs survey was to locate potential archaeological sites so they can be avoided by bottom
+disturbing activities associated with pipeline construction. An archaeological assessment was conducted
+of all data acquired from the APE. Construction access will follow an existing dredged channel;
+therefore, no archaeological assessment was required along the access route. No artifacts were
+collected during this survey.
+Archaeological sites, should they be present, might be eligible for nomination to the National Register of
+Historic Places (NRHP) or as State Antiquities Landmarks. Archaeological sites in this context typically
+would be shipwrecks or abandoned watercraft. The potential for shipwrecks in a given area is expected
+to correlate with the amount of ship traffic utilizing the area. Upper Lavaca Bay was navigated by
+historic watercraft as early as 1685 when LaSalle established a short-lived colony on nearby Garcitas
+Creek. Earlier explorers visited Matagorda Bay by 1542 but may not have ventured as far inland as the
+APE.
+A desktop review of the cultural background determined that 4 marine archaeological investigations
+have been reported within 3 miles of the APE. No marine archaeological sites have been confirmed
+within 3 miles of the APE. At least 19 shipwrecks have been reported from historic and/or cartographic
+sources to potentially lie within 3 miles, including as many as 5 within the APE.
+Analysis of the survey data revealed 22 magnetic anomalies (Mag 1 to Mag 22) consistent with those
+produced by complex anomaly sources such as shipwrecks. No wrecks were confirmed by sonar
+imagery; however, an area of charted wreckage, which was too shallow to survey, was visually
+confirmed in the southeastern corner of the APE. SAM recommends avoidance of all 22 targets, as well
+as the visually-confirmed area of wreckage, by bottom-disturbing activities associated with this project.
+All 22 anomalies and the visible wreckage are potentially associated with historic shipwrecks thus could
+meet criteria for State Antiquities Landmark status or for the NRHP.
+
+1|Page
+
+Figure 1: Project Location and Area of Potential Effect
+(Base map: National Oceanic and Atmospheric Administration [NOAA] Chart 11317, 2013 edition)
+The results reported in this document will support Harvest Pipelineâs application for a United States
+Army Corps of Engineers Permit, requesting permission to trench sediment within the APE. This study
+was completed in compliance with Section 106 of the National Historic Preservation Act (Public Law 89665; 16 U.S.C. 470), which requires that federally funded or permitted projects give due consideration to
+cultural resources, and with the Antiquities Code of Texas (Texas Natural Resource Code, Title 9, Chapter
+191), which provides for the protection of cultural resources on state lands. The APE is publicly owned
+2|Page
+
+and administered by the Texas GLO; therefore, a Texas Antiquities Permit was required prior to
+beginning fieldwork. Work was completed under Texas Antiquities Permit 7431. The minimum reporting
+and survey requirements for marine archaeological studies conducted under a Texas Antiquities Permit
+are mandated by The Texas Administrative Code, Title 13, Part 2, Chapters 26 and 28, respectively.
+The report is organized into five sections that provide the necessary context for interpreting the results
+of the survey. Section II summarizes the physical environment of the APE based on a combination of
+published literature and data collected by this survey. Section III describes the archaeological
+background of the area within a 3-mile radius of the APE, including relevant and maritime history of the
+area, previous archaeological investigations nearby, and the potential for occurrence and preservation
+of prehistoric and historic sites in the APE. Section IV describes the survey design and the methods used
+for acquisition, processing and analysis of geophysical data. Section V presents the geophysical survey
+results and archaeological assessment. Finally, a list of all bibliographic references cited in the text is
+provided as Section VI. Appendix A (not for public disclosure) contains maps of the survey results.
+Appendix B (not for public disclosure) contains geophysical target descriptions and locations including a
+table of magnetic anomaly locations recommended for avoidance due to their potential archaeological
+nature. Appendix C contains a copy of Texas Antiquities Permit 7431 and the THC concurrence letter (in
+the final draft only).
+
+II.
+
+Physical Environment
+
+The APE is located in the upper portion of Lavaca Bay. The near seafloor geology of this area was
+influenced by sea level changes occurring during and since the Late Wisconsin Glaciation. At that time
+significant amounts of water were locked up in continental glaciers. Sea level has risen more than 300 ft
+since the last glacial low stand, about 20,000 to 22,000 years ago. Many sea level curves have been
+published showing minor variations in the timing and degree of change (e.g. Figure 2). Nevertheless
+there is broad consensus in the magnitude and approximate timing of this event. The former
+Pleistocene/Holocene landscape, now submerged on the continental shelf, is of particular interest to
+archaeologists, because the timing of its most recent exposure overlaps the period of human habitation
+in North America.
+The Pleistocene-age Lavaca River crosses beneath the southern end of the APE at a depth of about 27
+meters (89 ft) below sea level (Patch 2004:47; Bryne 1975). Patch (2004: 29-30) interpreted two
+Pleistocene horizons (designated B and C) at depths typically greater than 25 meters (82 ft) beneath the
+surface of the APE based on intermittent sub-bottom acoustic reflections. A pervasive and fairly level
+Holocene horizon, designated by Patch as Reflector A, was interpreted at depths ranging from 16 to 20
+meters (52-66 ft) below sea level underlying northern portions of the APE. Reflector A approximately
+correlates with the top of Holocene sands and gravels interpreted by Bryne (1975). Sediments above
+Reflector A are interpreted by Patch as recent mud and would have been deposited in a subaqueous
+environment.
+
+3|Page
+
+Figure 2: Holocene Sea Level Curves by Various Authors
+Reproduced from Weise, et al. (1980, Figure 16)
+As sea level rose during the Holocene, the Lavaca River and Garcitas Creek valleys became a single tidal
+estuary. The presence of fresh surface water and the ecological diversity of an estuary would have been
+particular attractions to both prehistoric human and animal populations. By about 9,500 years before
+present (BP), the APE was inundated by the sea. During the process, the upper Pleistocene-age
+sediments in the APE would have been reworked by wave action and covered by fluvial sediments
+originating in the Lavaca River and Garcitas Creek basins.
+Sub-bottom profiles from the present survey indicate that at least the upper 60 ft of sediment in the APE
+(the maximum depth of SAMâs sub-bottom data) was deposited under subaqueous conditions. No
+horizons were observed in the data from SAMâs survey that could be interpreted as an unconformity
+between the Pleistocene land surface and Holocene-age fluvial/marine sediments. The Pleistocene
+subaerial surface beneath the APE is minimally 75 ft below MLLW and slightly deeper within the
+inundated Lavaca River. Holocene sea level curves for the Gulf of Mexico (Figure 2) suggest that the
+former land surface in the APE was inundated most recently by about 9,500 years BP. Prior to that
+event, the area might have been continually exposed to subaerial conditions for the full extent of human
+habitation in the New World; however, the Pleistocene-age surface and ancestral Lavaca River delta are
+located well below the depth of proposed seafloor disturbance for this project.
+
+4|Page
+
+The seafloor in the present-day APE consists mostly of estuarine mud. An area of fluvial sand, deposited
+by the Lavaca River, extends across the central portion of the APE (Bronikowski 2004: 28). Extensive
+areas of active oyster reefs and shell hash occur near the southern end of the APE. Water depth in the
+modern APE ranges from 1 to 6 ft MLLW (Figure 3). This is not substantially different than depths
+charted during the late 19th century (Figure 4).
+
+Figure 3: Bathymetry, MLLW (Base map: NOAA Chart 11317, 2013 edition)
+
+5|Page
+
+Figure 4: APE in 1888. Depths are Mean Low Water (United States Coast and Geodetic Survey 1888)
+
+III.
+
+Archaeological Background
+
+Prehistory
+Evidence from many archaeological sites in North and South America suggest that the New World was
+colonized by humans as early as 15,000 BP, predating the Clovis Culture by at least 2,000 years. The
+Paleo-Indian Period, sometimes referred to as the Big Game Hunting Tradition, continued until about
+10,000 BP. Waters and Stafford (2014) suggest that the earliest projectile points diagnostic of the PaleoIndian Period, the Clovis complex of fluted-blade technology, likely evolved in the New World long after
+migrants had already spread throughout both North and South America. The idea of a pre-Clovis
+migration from central Asia, possibly as early as 16,000 BP, is supported by genetic evidence and
+correlates with an apparent decline in megafauna populations beginning shortly after that time.
+Stright (1990) summarized inundated sites discovered along the Gulf of Mexico coast at depths up to 59
+ft below Mean Sea Level. For example, artifacts from all Paleo-Indian traditions with the exception of
+Folsom have been found along a 22-mile stretch of McFaddin Beach near Sabine Pass, Texas (Long 1977;
+cited in Stright 1990). The collection includes 14 Clovis Points. Faunal material recovered there includes
+a wide variety of Pleistocene species, such as mammoth, mastodon, saber-toothed cat, bear, giant
+armadillo, bison, tapir and horse. An elephant tusk from the site yielded a radiocarbon date of 11,100
++/- 750 BP. The former Pleistocene land surface at McFaddin Beach, known regionally as the Beaumont
+Clay Formation, is about 5 ft below sea level.
+
+6|Page
+
+Many known inundated sites have been discovered as a result of dredging. For example, human remains
+and artifacts were recovered from the Texas City Channel in Galveston Bay near the ancestral Trinity
+River Valley (Aten and Good 1985). The site contained 4,000 bone specimens from Pleistocene species,
+such as horse and tapir, including 42 bones that appeared to have been modified, and a variety of lithics
+interpreted as stone tools.
+Few attempts have been made to actively seek intact buried site deposits on the continental shelf.
+Nevertheless, one such effort by Coastal Environments, Inc. (1986) located two possible prehistoric shell
+midden sites in vibracore samples collected near Sabine Pass at depths of 54 and 59 ft below Mean Sea
+Level. Pollen analyses demonstrated that both deposits had formed under subaerial conditions;
+however, the core sample sizes were too small to allow a definitive determination of cultural origin for
+the shell deposits.
+
+Potential for Submerged Prehistoric Sites
+There is no question that humans once lived along Gulf of Mexico coastlines long-since submerged by
+rising seas. Many such sites are presumed to have been destroyed by wave energy during the process of
+inundation. The search for intact sites has focused on landforms that both are recognizable on acoustic
+sub-bottom profiles and are known to have attracted prehistoric populations. The most likely locations
+for such sites to have been preserved are along streams where burial in alluvial deposits might have
+afforded protection from wave energy. As river valleys flooded to become estuaries, deltaic sediments
+may have accumulated on top of already sealed deposits, providing further protection by the time those
+sites were exposed to high wave energy. Remnants of flooded and buried stream channels that were
+above sea level during the period of human habitation in North America are considered the most
+probable locations for prehistoric sites to occur on the submerged continental shelf. The presence of
+fresh surface water and the ecological diversity of an ancestral delta would have been attractive to
+prehistoric human populations while affording the potential for protection of sites from the destructive
+force of sea level rise.
+The former Pleistocene-age land surface lies at a depth of at least 75 ft below MLLW in Lavaca Bay
+(Bronikowki 2004; Byrne 1975). Acoustic sub-bottom profiles were acquired by SAM throughout the
+APE. The data are consistent with fluvial deltaic sediments of Holocene age deposited by the Lavaca
+River in a marine environment. No layers were observed to indicate the presence of either the
+Pleistocene subaerial land surface or the strong Holocene-age Reflector A reported by Patch (2004: 2930) within the limits of reliable data (about 60 ft), a result that is consistent with earlier studies. Sea
+level curves for the Gulf of Mexico (Figure 2) indicate that the former Pleistocene dry-land surface
+underlying the APE likely was inundated by about 9,500 BP. Depending on which curve one follows, it is
+possible that the area was briefly re-exposed between about 7,000 and 9,000 BP. Prior to inundation at
+around 9,500 BP the APE might have been exposed for most or all of the period since about 24,000 BP.
+The timing of the APE exposure overlaps the entire Paleo-Indian Period and also would encompass any
+pre-Clovis human habitation postulated in North America. It is possible that prehistoric sites pre-dating
+7,000 years exist beneath the APE; however, if present, such sites would be buried at least 52 ft below
+sea level (the minimal depth of Reflector A in Patch 2004: 29-30) and would not be affected by proposed
+pipeline construction activities.
+7|Page
+
+Maritime History
+European ships first entered the Gulf of Mexico in 1508, sixteen years after Columbusâ first voyage,
+when Sebastian de Ocampo sailed around the island of Cuba (Weddle 1985:21). In 1519, the same year
+that Hernando Cortez arrived in Vera Cruz on his way to conquering the Aztec empire, another Spaniard,
+Alonso Alvarez de Pineda, became the first to explore the Gulf Coast of Texas. Pineda led an expedition,
+under orders from the governor of Jamaica, to explore and map lands bordering upon the Gulf of
+Mexico in hopes of discovering a passage to India. A map produced by Pineda indicates a number of
+inlets on the Texas Coast including one that might correspond to Pass Cavallo; although, there is no solid
+evidence that he ventured into Matagorda Bay (Weddle 1985).
+Pinedaâs voyage eliminated any idea of a natural route to Asia through the Gulf of Mexico but also
+produced detailed knowledge of wind and current patterns that would help determine the best sailing
+route between Vera Cruz and Havana (Chipman 1992:24-26). The Spanish silver fleet built upon this
+knowledge to conduct steady trade between Vera Cruz and Europe via Havana from the mid-16th century
+through 1790. Wind and currents generally dictated one of two routes from Vera Cruz to Havana, either
+crossing the central Gulf of Mexico or following a northern route closer to the coast (Lugo-Fernandez et al.
+2007). The northern route would have occasionally brought Spanish flotillas near Matagorda Bay during
+storms, as witnessed by the wrecks of silver fleet ships near Port Mansfield, Texas and on the Louisiana
+Coast.
+Cabeza de Vaca was the first European credited with landing on the Texas Coast. De Vaca was one of only
+four survivors to reach Mexico City from an ill-fated expedition led by PÃ¡nfilo de NarvÃ¡ez in 1527. Cabeza
+de Vaca and about 80 other Spaniards from the expedition landed on or near Galveston Island on rafts.
+Those men who managed to survive the first winter were enslaved by Native American tribes including the
+Karankawa and Coahuiltecan. Cabeza de Vaca and three other survivors escaped and wandered from tribe
+to tribe through Texas, northern Mexico, and down the Pacific Coast of Mexico, eventually reaching
+Mexico City after about 8 years. Cabeza de Vaca published a narrative of his experiences among the native
+peoples of the new world in 1542 after returning to Spain (e.g., Cabeza de Vaca 2013).
+Matagorda Bay was first explored by Europeans in 1542 by Hernando De Sotoâs expedition, led by Luis de
+Moscoso Alvarado who had assumed leadership upon De Sotoâs death (Chipman 1992:39-40; Weddle
+1991:100). The bay is believed to have been visited again by Guido de Lavazares in 1558 (Chipman
+1991:48-49 and Weddle 1991:100-103). Following those early visits by Pineda, Alvarado and Lavazares,
+little attention was paid the Matagorda Bay area for about two centuries. The Spanish continued to claim
+the region throughout the ensuing period but focused their efforts south of the Rio Grande except when
+other European powers infringed upon their territory.
+RenÃ© Robert Cavelier, Sieur de La Salle arrived in Matagorda Bay in 1685 with three ships and 300
+colonists. La Salle had intended to settle on the Mississippi River; however, he misjudged the riverâs
+position and arrived instead on what is now the Texas Coast. There he attempted to establish a
+permanent colony, which he christened Fort St. Louis. Unfortunately one of his three ships, LâAimable,
+was lost on arrival while trying to enter the bay through Pass Cavallo. Soon thereafter, a group of
+colonists returned to France in one of the remaining ships. La Salle then led a series of overland
+8|Page
+
+expeditions in an attempt to locate the Mississippi River but was murdered by disgruntled members of
+his crew. During their absence from Fort St. Louis the only remaining ship, La Belle, drifted aground and
+was lost inside Matagorda Bay. Cut off from Europe, most of the remaining inhabitants of Fort St. Louis,
+already greatly diminished in numbers, eventually perished (Weddle 1991).
+La Salleâs expedition was unsuccessful; however, his engineer, Minet, returned to France with the first
+map of Matagorda Bay. More importantly, the mere presence of the French invigorated Spanish interest
+in the region north of the Rio Grande. Several expeditions were mounted to search for the French
+settlement, which was eventually discovered, abandoned, on Garcitas Creek above Lavaca Bay by Alonso
+de LeÃ³n in 1689. Subsequent expeditions investigated the feasibility of a Spanish settlement, which was
+finally accomplished in 1721 when La BahÃ­a del EspÃ­ritu Santo was established at the site of Fort St. Louis
+(Weddle 1991), although it was moved four years later to a location on the Guadalupe River.
+Texas lacked permanent European settlements until 1746 (Zavaleta 1986:131). Concerned that French
+colonists in Louisiana would move into the area, the King of Spain appointed Jose de Escandon in 1746 to
+colonize Nuevo Santander (Pierce 1917:17). He successfully established several towns and missions along
+the Rio Grande, although none of his settlements were located near the modern Texas coast.
+Early settlement was spurred by the conflict over land rights in Texas between the United States, Spain
+and New Spain, which was fueled by the Louisiana Purchase in 1803. Galveston Island and Point Bolivar
+became a base of operations for privateers, backed by French, Mexican and Anglo-American interests
+seeking to overturn Spanish control of the region. In 1816, JosÃ© Manuel Herrera declared that Galveston
+Island was part of the Mexican Republic and chose Louis Aury as his governor and naval commander
+(Chipman 1992:238; Davis 2005:306). Auryâs control of Galveston was usurped by Jean Lafitte in the
+spring of 1817 (Davis 2005:324) while Aury was escorting the military expedition of Xavier Mina and
+Henry Perry to Mexico. Unable to regain his role as governor in Galveston, Aury departed again in May
+to establish a base of operations and a short-lived settlement at Matagorda Bay (Davis 2005:337). He is
+rumored to have destroyed his fleet there following the defeat of Mina at Soto de la Marina in June
+1817 (Taylor 1957:30â31). There are conflicting reports of the number and location of vessels destroyed
+by Aury. A detailed summary by Borgens, et al. (2007: 27) suggests that no more than five vessels might
+have been lost despite claims by Antonio Martinez (the Spanish governor of Texas) that Aury had arrived
+in Matagorda Bay with a fleet of 13 vessels.
+Continuous Anglo-American settlement of the area began in 1822 when Stephen F. Austin founded the
+town of Matagorda at the mouth of the Colorado River. Colonists were recruited, largely from New York,
+to build the community. In 1824 Austin requested that the newly independent Mexican government
+settle Galveston in order to aid in the shipment of cotton to England. The Congress of Mexico
+established a port of customs at Galveston in 1825 (Cotham 1998:1; Francaviglia 1998:91, 95). A
+customhouse in Matagorda soon followed in 1831 and trade steadily increased (Guthrie 1988).
+Increasing trade with the interior of Texas quickly led to other settlements along the shore of Matagorda
+Bay, including the communities of Linnville and Port Lavaca on Lavaca Bay. The small port town of
+Linnville grew up around John Linnâs Landing at the entrance to upper Lavaca Bay in about 1830. When
+9|Page
+
+the Texas War for Independence started in 1835, the Texas Army was supplied partially by goods coming
+through Linnville (Guthrie 1988: 130, 148 and 155). When the Lavaca Customs District was founded in
+1839, Linnville became its official port of entry. Linnville was destroyed in 1840 by a Comanche raid but
+was quickly supplanted by the town of Lavaca, which soon became the busiest port on the bay during
+the Texas Republic Period (Maywald 1996:281). Today the town of Linnville is commemorated by a
+Texas Centennial Historical Marker. The marker reads: âSite of the Town of Linnville. An early Texas port
+named for John Joseph Linn, 1798-1885, pioneer merchant of Victoria who located his warehouse here
+in 1831. Around this a settlement grew up which was destroyed by Comanche Indians on August 8,
+1840. Erected by the State of Texas, 1936.â
+In 1844 German immigrants began landing at Indian Point on the west side of Matagorda Bay. Within
+two years the deep-water port of Indianola had been established on the site. During the United Statesâ
+war with Mexico a military supply depot was established at Indianola, quickly elevating the portâs
+importance to the Texas Coastâs economy. The town grew rapidly to become the second busiest port in
+Texas, a position it maintained, except during the Civil War, until it was devastated by two severe
+hurricanes in close succession in 1875 and 1886. Business moved to Port Lavaca following the storms,
+and Indianola ceased to exist.
+The volume of shipping to and from Matagorda Bay declined drastically with the expansion of railroad
+service to Port Lavaca in the 1880s. Port Lavaca refocused its maritime industry toward oyster
+harvesting (Guthrie 1988:166â170, 187â189; Kleiner 1996:902; Maywald 1996:282) and grew to about
+2,000 people by 1908. A channel was dredged to Port Lavaca in 1910 and enlarged in 1939, providing
+access to deep-water fishing schooners. The discovery of oil inland from Lavaca Bay let to authorization
+in 1945 of the 20-mile Channel to Red Bluff, completed in 1960, across Lavaca Bay and up the Lavaca
+and Navidad rivers. Commercial traffic with destinations outside of Matagorda Bay, other than fishing,
+did not make a significant rebound until the petroleum and aluminum industries served as impetus for a
+deep-draft channel, which was authorized by Congress in 1958. The Matagorda Ship Channel was
+completed through Matagorda Peninsula in 1965 and opened to traffic in 1966 (Alperin 1977).
+
+Potential for Historic Shipwrecks
+The earliest likely navigation of the APE was in 1689 when Alonso de LeÃ³n led a search for the French
+settlement, Fort St. Louis, which he discovered on Garcitas Creek north of Lavaca Bay. In the process of
+searching, it seems likely that other streams would have been entered, including perhaps the Lavaca
+River, which would have entailed crossing the APE. Subsequent expeditions investigated the feasibility
+of a Spanish settlement, which was established in 1721 at the site of Fort St. Louis (Weddle 1991). Those
+expeditions also might have crossed the APE; however, there is no record of vessels lost in Lavaca Bay
+during this early period of exploration.
+SAM researched potential shipwrecks reported within 3 miles of the APE (Table 1). Sources consulted for
+this research included the Texas Archaeological Sites Atlas, maintained by the THC, NOAAâs Automated
+Wreck and Obstruction Information System (AWOIS) database, a shipwreck database compiled by
+PBS&J, and historic maps from the Texas Historical Overlay (Foster et al. 2006).
+
+10 | P a g e
+
+The Sites Atlas contains shipwrecks reported from historic records. The AWOIS list focuses on
+shipwrecks and other navigational hazards along the coastal United States. The PBS&J database was
+assembled by a group of archaeologists, including this author, and is based in part on information
+gathered from charts, historical reports, THC files, and the AWOIS database. The PBS&J database
+focuses primarily on well-documented commercial wrecks postdating 1850.
+The THC Sites Atlas was searched out for a distance of 3 miles in each direction from the survey
+boundary. It is important to note that the final disposition of most wrecks has not been ascertained.
+Historical accounts of wreck site locations are often inexact and can contain errors based on the original
+source. Precise locations of most wrecks are unknown. Shipwrecks for which no position estimate is
+available, but which, based on their descriptions, might have been lost in the vicinity, are included in
+Table 1.
+Wrecks reported as specifically associated with geographic features located outside of the APE, such as
+Cox Point, Matagorda Bay or the Gulf of Mexico, have been excluded from Table 1 unless represented as
+nearby in THC records. Wrecks charted inside or on the margin of the APE by at least one source are
+indicated by use of an asterisk (*) in Table 1. None of the ships reported in Table 1 have been located by
+archaeologists, rather these are potential identifications that might be associated with geophysical
+targets discovered by this survey.
+At least 19 shipwrecks have been reported within a 3-mile radius of the survey area by one or more of
+the sources listed above. The positioning for most of these reports is generally accurate only at the scale
+of large landmarks. For example, any wreck reported as occurring in âLavaca Bayâ might be in the APE
+unless more specific information is available to suggest otherwise. Of this number, as many as 5 wrecks
+have been reported within or on the margins of the APE (indicated by an asterisk [*] in Table 1).
+The THC reports two wrecks (THC Numbers 1235 and 1238) near the southern end of the APE. Both of
+these were reported as dating prior to 1976, which indicates the source of the information was a 1976
+NOAA navigation chart. The 2013 edition of NOAA Chart 11317 shows at least 4 wrecks charted along
+the southern shoreline of the APE and another 2 wrecks located slightly east of the APE near the Point
+Comfort Shoreline.
+THC 1235 corresponds with an area charted as âFoul Wksâ on the 2013 edition of NOAA Chart 11317.
+THC 1238 is located reasonably near AWOIS 5273, which was confirmed as wreckage by a NOAA survey
+in 1992. The 2013 edition of NOAA Chart 11317 shows a âWreck-Visibleâ symbol at this same location,
+which is presumed to represent the same vessel. Two other wrecks are charted inside the APE on the
+2013 edition of NOAA Chart 11317. One is shown as a Wreck Awash symbol and the other is charted as
+âWks.â
+AWOIS 5271, on the margin of the APE, represents two groups of sunken derelict barges confirmed by a
+NOAA survey in 1992. They have been charted since at least 1975. These barges appear to have been
+intentionally scuttled to provide shelter for an uncharted channel connecting the Point Comfort
+Shoreline with the Lavaca River Channel. AWOIS reports that âat the beach end of the channelâ¦the first
+700 feet of channel is lined with sunken barges.â
+11 | P a g e
+
+Table 1: Wrecks and Obstruction Reported Within Three Miles of APE
+Name of
+Vessel
+
+PBS&J
+No.
+
+THC
+No.
+
+AWOIS
+No.
+
+Rig
+
+Hull
+
+Date
+Built
+
+Date Lost
+
+Nature
+
+1908
+
+1917
+
+stranded
+
+Locality
+
+Ben Hur
+
+1096
+
+gas screw
+
+Edgar
+General
+Bustamente
+Ilda
+
+1590
+
+schooner
+
+wood
+
+1886?
+
+Matagorda/Lavaca area
+
+1588
+
+sloop
+
+wood
+
+1830
+
+Sand bar or beach in Lavaca or Matagorda Bay
+
+1725
+
+Jan R.
+
+314
+
+Nettie
+
+1310
+
+Obstruction
+
+1605
+
+schooner
+
+1876
+
+Obstruction
+
+1592
+
+5301
+
+Obstruction
+
+1614
+
+5320
+
+Obstruction
+
+1619
+
+5321
+
+Obstruction
+
+Lavaca Bay
+
+9/11/1961
+
+grounded
+
+Lavaca Bay
+
+8/15/1916
+
+stranded
+
+Port Lavaca, Matagorda Bay Area
+
+pre-1980
+
+ruins
+
+1616
+
+5364
+
+Lavaca Bay
+pre-1980
+schooner
+
+Thistle
+
+1380
+
+gas screw
+
+U&I
+
+1591
+
+Unknown*
+1618
+
+unrigged
+
+5317
+
+Unknown*
+
+1909
+
+lugger
+5271
+
+5273
+
+Lavaca Bay
+
+pre-1970
+
+733
+1947
+
+Lavaca Bay
+Lavaca area
+
+Swan
+
+unknown
+
+multiple
+barges
+barge
+
+Lavaca Bay
+
+Dec. 1846
+
+unknown
+
+Port Lavaca
+
+6/19/1929
+
+foundered
+
+Port Lavaca, Matagorda Bay Area
+
+1920s
+
+burned
+
+1966
+
+Lavaca Bay
+Two groups of sunken derelict barges confirmed by
+NOAA survey in 1992
+Lavaca Bay
+
+Pre-1979
+
+Confirmed in survey area by NOAA survey in 1992
+
+Pre-1976
+
+Lavaca Bay (âFoul Wksâ; 2013 NOAA Chart 11317)
+
+Pre-1975
+
+metal
+
+1235
+
+Unknown*
+
+Storm
+
+Point Comfort; Lavaca Bay
+
+5295
+
+Unknown*
+
+9/11/1961
+
+5275
+
+Obstruction
+
+Unknown
+
+steel
+
+Port Lavaca, Matagorda Bay Area
+
+Pre-1976
+
+Lavaca Bay (possible duplicate with AWOIS 5273)
+
+Unknown*
+
+-
+
+1238
+-
+
+-
+
+unkown
+
+Pre-2013
+
+Wreck Awash symbol; 2013 NOAA Chart 11317
+
+Unknown*
+
+-
+
+-
+
+-
+
+unkown
+
+Pre-2013
+
+âWksâ charted; 2013 NOAA Chart 11317
+
+Unknown
+Volunteer
+William &
+Mary
+
+unkown
+1397
+
+gas screw
+1001
+
+schooner
+
+Pre-2013
+wood
+
+1893
+
+stranded
+
+6/25/1851
+
+fire
+
+* Indicates shipwrecks reported within or on the margins of the APE.
+12 | P a g e
+
+Wreck Awash symbol; 2013 NOAA Chart 11317
+
+4/14/1919
+
+Port Lavaca, Matagorda Bay Area
+Lavaca Bay
+
+Factors Affecting Vessel Loss
+The main factors influencing the loss of vessels in the APE are shallow water, including oyster reefs and
+the shoreline combined with seasonal and tropical weather extremes. The concentration of vessel traffic
+through the northern half of Lavaca Bay was relatively light; however, historic navigation occurred in the
+vicinity by the late 17th century and possible as early as the 16th century. Stranding is the most common
+mechanism by which ships are wrecked, accounting for about 64 percent of total losses reported by the
+U.S. Lifesaving Service for the period 1876 through 1914 (Gearhart, et al. 1990: Volume IV, 59-61). Two
+thirds of stranding events were caused by weather. Most stranding events occur along a shoreline.
+Stranding is the most likely source of shipping losses, other than perhaps intentional abandonment, in
+the APE. The shoreline and water depth have not changed significantly in historic times (compare figures
+3 and 4).
+Severe weather was, and remains, the most significant environmental factor contributing to shipwrecks,
+accounting for 55 percent of total losses reported by the U.S. Lifesaving Service for the period 1876
+through 1914. Prior to modern weather forecasting, mariners were hampered by relatively short
+warnings of approaching storms. Hazardous weather conditions can occur along the central Texas Coast
+throughout much of the year. Strong northern winds are generated through the area each winter by the
+passage of 15 to 20 northers, or rapidly moving polar fronts, each generally lasting 24â36 hours. Such
+storms may contain 50-mile-per-hour winds and generate intense wave activity and longshore currents
+(McGowen 1976:19â23, 94). Hurricane season lasts from late June through October. Hurricanes have
+winds in excess of 74 miles per hour and can have devastating effects on any ships caught in their paths.
+Factors Affecting Vessel Preservation
+Preservation of vessels wrecked within the APE would depend largely upon the composition of their hull
+and the degree to which they become and remain buried. The lower portions of vessels wrecked in this
+region can become buried soon after sinking due in part to scour and liquefaction of sediments during
+storms. Metal vessels remain exposed much longer than wooden ones, although their lower hulls are
+equally susceptible to burial.
+Any wooden components that are not buried tend to disintegrate quickly. Wood-boring organisms
+rapidly consume exposed wood. In shallow water, wood weakened by biological organisms and water
+saturation is then disarticulated and laid flat or removed by hurricanes and/or fishing trawlers. In areas
+such as this having copious quantities of weakly consolidated sediment, significant portions of a wooden
+hull can become buried, protecting it from biological degradation. Burial produces an oxygen-deprived
+environment, which promotes long-term preservation of wood.
+Iron artifacts, on the other hand, corrode five times faster in seawater than when buried on land.
+Calcium carbonate forms a concretion around iron artifacts that incorporates surrounding materials
+such as rock and sand or even other artifacts. Oxidation can eventually leach out most or all of the iron,
+leaving only a carbonate mold of the original artifact (Hamilton 1998). Nevertheless, iron and steel hulls
+can survive exposure to seawater in various states of preservation for well over a century.
+
+13 | P a g e
+
+Previous Investigations
+SAM reviewed the findings of published cultural resource studies having relevancy to the present
+project. Four marine archaeological surveys and one desktop study have been completed previously
+within 3 miles of the APE. None of those surveys overlaps the APE, and no shipwrecks have been
+assigned Texas archaeological site designations within 3 miles of the APE.
+A study was conducted from 1991-1992 under Texas Antiquities Permit 1027 on behalf of the U.S. Army
+Corps of Engineers along the lower reaches of the Lavaca and Navidad Rivers in Jackson and Calhoun
+counties (Pearson and James 1991; Pearson et al. 1993). That study included a magnetometer survey
+and subsequent diver investigations in the river. Remains of a steamboat (Site 41JK9), scuttled in 1864,
+and a wooden fishing trawler (Site 41JK188) were recorded downstream of Palmetto Bend Reservoir in
+Jackson County. The steamboat was first reported by George Hutchens in 1965. Both of these sites are
+located greater than 3 miles from the APE.
+HRA Gray & Pape, LLC was contracted by URS Corporation in 2005 to conduct a cultural resource
+background study of areas within a half mile of the Matagorda Ship Channel. This work was performed
+in anticipation of future archaeology surveys of the ship channel margins and proposed placement
+areas. They compiled a list of 19 historic markers, 36 archaeological sites, and 9 shipwrecks based on an
+examination of the AWOIS database and the THC Atlas (Hughey 2005).
+In 2005 and 2006, a preliminary study was conducted under Texas Antiquities Permit 4079 on behalf of
+URS Corporation and their client, the Calhoun County Navigation District, in connection with proposed
+modifications of the Matagorda Ship Channel. A survey was conducted by NCS Subsea, Inc. in December,
+2005, which included the turning basin at Point Comfort and three associated dredge placement areas.
+PBS&J reviewed that data and found no evidence for potential shipwreck sites in the study area
+(Borgens and Gearhart 2006).
+Further extensive investigation associated with proposed expansion of the ship channel was performed
+in 2006 under Texas Antiquities Permit 4080 (Borgens et al. 2007). The Calhoun County Navigation
+District proposed to double the existing width of the Matagorda Ship Channel and deepen the channel
+by 8 ft. The study included a marine geophysical survey along both sides of the Matagorda Ship Channel
+and including areas proposed for placement of dredged materials. The remote-sensing survey included
+the collection of magnetometer, side-scan sonar, and bathymetric data. A total of 39 potentially
+significant magnetometer anomalies, and 4 sonar targets were discovered by the survey.
+In 2013 a study was conducted under Texas Antiquities Permit Number 6335 (Tuttle 2013) in support of
+a Liquid Natural Gas project in Lavaca Bay proposed by Excelerate Energy. The study included a remote
+sensing data analysis, but as of this writing, only an interim report has been submitted.
+
+14 | P a g e
+
+IV.
+
+Research Design
+
+Survey Methods
+SAMâs survey methodology followed the requirements stipulated by the THC. The survey was conducted
+from a 25-foot hydrographic survey vessel. Positioning was provided by a Hemisphere VS131 Differential
+Global Positioning System (GPS). Hypack software was used for navigation and for logging of GPS-sensor
+offset positions, as well as magnetometer and bathymetry data. Horizontal positions were based on the
+Texas State Plane Coordinate System (North American Datum 1983 [NAD83], South Central Zone, U.S.
+ft). Primary transects were surveyed parallel to one another and spaced an average of 20 m (66 ft) apart.
+Bathymetry data were collected using an Odom CVM recording fathometer (200 kiloHertz). The CVM
+was calibrated using an Odom Digibar-Pro sound velocity meter. Bathymetry is intended as a planning
+tool in the event of future archaeological activities and is a requirement of the Texas Antiquities Permit.
+Bathymetry from this survey was tidally corrected to meet engineering needs of the sponsor.
+Magnetic data were acquired using a Geometrics 882 magnetometer equipped with a depth sensor. The
+magnetometer sensor was towed on the sea surface 72 ft aft of the survey boat and within 20 ft of the
+seafloor. Magnetometer data illustrated in Appendix A has been thinned to a 1-second interval between
+data points.
+An Edgetech 4125 side-scan sonar (600 kiloHertz) was towed from the survey vesselâs starboard side.
+GPS positions were integrated into sonar imagery using Edgetechâs Discover Sonar Acquisition Software,
+which was also used for recording the acoustic data. The sonar was set to image the seafloor for a
+distance of 50 m (164 ft) to either side of the survey path. A mosaic image of the sonar data (Section V
+and Appendix A) was created using Chesapeake SonarWiz software. The data were analyzed to locate
+and map objects projecting above the seafloor.
+The magnetometer was the primary instrument relied upon for locating and recognizing potential
+shipwreck sites. Side-scan sonar imagery provided verification of magnetic anomaly sources exposed
+above the mud line. Shipwrecks are visible on the side-scan sonar record if exposed and are located
+solely based on magnetometer readings if buried. Vessels predating World War II tend to be constructed
+of wood thus generally are not preserved above the seafloor. Nevertheless buried portions of such sites
+can retain a high level of artifact preservation and historic integrity. No artifacts were collected during
+this survey.
+A Microsoft EXCEL spreadsheet was used to process the magnetometer data prior to contouring. The
+spreadsheet uses an algorithm to remove diurnal fluctuations. The difference between anomalous
+values and the local background field results in a dataset where abnormally high and low magnetic
+values (anomalies) are centered around zero (the ambient level). This process removes low frequency
+trends from the dataset, such as those caused by diurnal variation, geologic gradients, or gradual
+changes in water depth while leaving high-frequency variations (anomalies) intact. Diurnal processing
+allows visual representation of the data that reflects the polarity of magnetic anomalies.
+
+15 | P a g e
+
+A contour map of the diurnally-corrected magnetometer data was prepared using Bentleyâs GeopakÂ®
+digital terrain modeling software at a 5-nanoTesla (nT) contour interval (Appendix A). Magnetometer
+data illustrated in Appendix A and text figures below has been thinned to a 1-second interval between
+data points. Magnetic amplitudes between +5 nT and ï­5 nT are considered insignificant for purposes of
+marine archaeological interpretations. The 0-nT contour level is omitted from the contour maps to
+prevent a cluttered appearance. Positive amplitude in all magnetic contour illustrations is indicated by
+red contours. Negative amplitude is indicated by blue contours.
+
+Interpretation of Magnetometer Data
+The probable sources for most magnetic anomalies are relatively small items of modern ferrous debris.
+Such anomalies tend to be more concentrated in proximity to modern navigation channels and in other
+areas of heavy use. Ferromagnetic debris is common in such settings due to the frequency of
+commercial and recreational boat traffic. Concentrations of magnetic anomalies also tend to occur in
+the vicinity of industrial developments, petroleum wells, and pipelines.
+The method used here to interpret unidentified magnetic anomalies is based upon a comparison of
+verified shipwreck and debris anomalies as detailed in Gearhart (2011) and summarized below. The
+author has assembled, over the past several years, a diverse collection of magnetic anomalies recorded
+over 29 verified shipwrecks and many debris sources in an effort to characterize differences between
+these two categories of magnetic sources. Shipwrecks included in this dataset encompass a wide variety
+of hull compositions (wood, iron, steel, and concrete), propulsion systems (sail, steam-driven
+paddlewheels and propellers, oil and diesel screws, and towed or pushed barges), ages (mid-16th to the
+mid-20th century), and depositional environments (harbor entrances, surf zones, beaches, marsh, oyster
+reefs, open bay, and the Gulf of Mexico). These vessels also wrecked in various ways including by
+stranding, foundering (sinking), boiler explosions, and burning. Some were even partially demolished
+and/or salvaged after wrecking. Based on Gearhartâs (2011) sample, it is possible to characterize
+shipwreck and debris anomalies in an empirical fashion.
+Complexity
+Many archaeologists have attempted to characterize the differences between shipwreck anomalies and
+those associated with ferromagnetic debris. Shipwreck anomalies frequently have been described as
+appearing âmulticomponentâ or âcomplexâ, emphasizing the fact that shipwreck anomalies, in certain
+contexts, may exhibit multiple dipoles in addition to having unpaired monopolar amplitudes. Garrison et
+al. (1989: II, 223) summarized the more common methods used at the time for prioritizing anomalies.
+Historic shipwreck anomalies were said to share the following characteristics: multiple amplitude peaks
+of differing magnitudes spread over an area greater than 10,000 square meters (2.5 acres), gentle
+gradients, and a linear association with anomalies on adjacent transects. Debris anomalies were
+characterized as typically having single amplitude peaks covering an area of less than 10,000 square
+meters, steep gradients, and no alignment of anomalies on adjacent lines.
+Horizontal Dimensions
+The horizontal size of an anomaly is referred to by many archaeologists as âdurationâ in reference to
+how many seconds a magnetometer registers anomalous readings as it passes overhead in the water
+16 | P a g e
+
+column. Duration obviously depends upon the velocity of the survey boat; therefore this author instead
+refers to duration as anomaly width exceeding the +/ï­ 5-nT amplitude level. Duration is often used by
+archaeologists as a tool for discriminating potentially significant anomalies from those more likely to be
+caused by debris. For example, Linden and Pearson (2014) would consider an anomaly significant if it
+has amplitude of at least 50 nT and a duration equivalent to 65 ft or more.
+The widths of historic wood-hulled shipwrecks and debris anomalies overlap significantly, thus width (or
+duration) is not a very useful tool for discriminating between the two categories of anomaly. Most
+debris anomalies tend to be no wider than anomalies observed over wood-hulled sailing ships or woodhulled steamboats; however, within the category of shipwreck anomalies, there is a 15-fold difference in
+width between the smallest wood-hulled sailing vessel and the largest steel tanker. In other words,
+when it comes to width alone, anomalies of small wooden ships, which tend to be the most historic,
+look more like debris anomalies and bear less resemblance to larger, especially ferrous, shipwrecks.
+The most difficult shipwrecks to detect are the small, wooden, generally historic sites, precisely because
+their anomalies are in the size range of many debris anomalies. The smallest verified shipwreck anomaly
+known to this author (Figure 5) was recorded over the wreck of an early 19th-century sailing vessel, Site
+41CL92. The site was shown by divers to measure at least 23 x 52 ft (7 x 15.9 m) and is characterized by
+a large collection of concreted artifacts, iron bar stock, and pig iron ballast (Borgens 2004).
+Distinguishing the anomalies of small shipwrecks from debris anomalies in the same size range is
+complicated and cannot be done on the basis of size alone. Garrison et al. (1989: II, 223) characterized
+shipwreck anomalies as typically being larger than 10,000 square meters; however, if that were the only
+criterion used for selecting significant anomalies, all of the wood-hulled sailing ships and all but one of
+the wood-hulled steamboat anomalies known to this author would be excluded. For example, Site
+41CL92, believed to be either the 67-ft New Orleans schooner Hannah Elizabeth that sank in 1835 or the
+Mexican naval sloop General Bustamante that sank in 1830 (Borgens 2004), covers an area of only 1,580
+square meters (0.4 acres) out to the 5-nT contour.
+Amplitude
+Amplitude is even less useful as a tool for differentiating shipwrecks from debris due to the substantial
+overlap between shipwreck and debris anomaly amplitudes. The peak-to-peak amplitude of shipwreck
+anomalies from Gearhart (2011) averages 270 nT for wood-hulled sailing vessels (n=6); 5,020 nT for
+wood-hulled machine-powered vessels (n=7); and 10,386 nT for iron- and steel-hulled vessels (n=12).
+Debris anomalies can have amplitude virtually anywhere within the range of shipwreck anomalies.
+Anomaly amplitude correlates poorly with vessel size because amplitude depends greatly upon the
+distance between the magnetometer and the magnetic source. Anomalies with large amplitude can
+result from a wooden shipwreck containing a relatively small iron mass when measured at close range.
+Orientation
+Despite the diversity of shipwrecks, their anomalies consistently have one characteristic in common with
+one another. They are aligned closely with earthâs magnetic field (e.g., Figure 5). In mid-latitudes of the
+northern hemisphere, where all of the wrecks discussed by Gearhart (2011) occur, the primary negative
+17 | P a g e
+
+pole of each shipwreck anomaly is located to the north of its positive pole. By contrast, the alignments
+of debris anomalies are not limited to one particular orientation.
+A simple debris source produces an anomaly dominated by its permanent magnetic field, thus the
+anomaly alignment associated with a solitary item of debris is determined by the orientation of the
+object on the seabed, and the polar axis of debris anomalies can be oriented along any point of the
+compass. On the other hand, shipwrecks are complex anomaly sources comprised of many
+ferromagnetic objects. The randomly-oriented permanent magnetic field of each ferromagnetic
+component in a shipwreck tends to be cancelled by the overlapping fields of other nearby sources. The
+weaker, earth-induced field of each source is reinforced by the induced fields of all other nearby
+components, since all of the induced fields are oriented parallel to earthâs local field lines. As a result,
+shipwrecks and other complex sources have anomalies closely aligned to the direction of magnetic
+north.
+The characteristic of anomaly orientation is used to differentiate magnetic anomalies caused by most
+ferrous debris from anomalies caused by shipwrecks. Consideration of magnetic anomaly orientation
+has potential to eliminate up to about 80 percent of debris anomalies from further archaeological
+concern. By chance, about 20 percent of simple debris sources have anomaly orientations overlapping
+those of complex sources, including shipwrecks. At present there is no consistent method for eliminating
+that 20 percent of debris from consideration as a potential buried shipwreck.
+Many anomalies, however, can be eliminated from consideration as potential shipwrecks simply by
+demonstrating that their orientations differ substantially from the direction of magnetic north. The only
+cases in which anomalies of simple debris sources should align with earthâs magnetic field is when, by
+chance, their magnetic moments, as determined by their orientation on the seafloor, closely align with
+magnetic north. The opposite case, a wood-hulled shipwreck having a magnetic anomaly not aligned
+with magnetic north, is virtually impossible, as it would require a large percentage of a wreckâs many
+ferromagnetic components, by chance, to have the same magnetic moment.
+Interpretation of magnetic anomalies, in practice, was done by comparing the magnetometer data,
+contoured at a 5-nT interval, to the anomaly of the small wood-hulled historic shipwreck, 41CL92, shown
+in Figure 5. The verified 41CL92 shipwreck anomaly was contoured using the same parameters as the
+survey data from this project and was properly oriented and scaled to match the data to which it was
+compared. Any anomalies lacking a polar orientation similar to 41CL92, given a sufficient data density,
+were excluded from further consideration. Anomalies remaining as shipwreck candidates were then
+researched with the Railroad Commission of Texas to determine which ones could be attributed to
+abandoned petroleum wells, which also happen to closely resemble shipwreck anomalies.
+
+18 | P a g e
+
+Figure 5: Example of a Verified Shipwreck Anomaly, Site 41CL92
+
+V.
+
+Results
+
+Twenty two magnetic anomalies have been recommended for avoidance due to their potential
+association with historic shipwrecks. None of those targets are confirmed as wrecks by sonar imagery;
+however, an area of submerged wreckage, which was too shallow to survey, was visually confirmed in
+the southeastern corner of the APE.
+
+Side-Scan Sonar
+Side-scan sonar data is illustrated as a mosaic in Figure 6. A more detailed view of the sonar mosaic is
+provided in Appendix A. A total of 2 unique targets, Sonar-1 and Sonar-2, were observed in the sonar
+data. Dimensions and interpretations of sonar targets are provided in Table 2. Positions for both targets
+are included in Appendix B. Both targets are closely associated with a 900-foot-long linear magnetic
+
+19 | P a g e
+
+Figure 6: Side-Scan Sonar Mosaic (Base map: NOAA Chart 11317, 2013 edition)
+anomaly, which is interpreted as abandoned dredge pipe, based on its position adjacent and parallel to
+the Channel to Red Bluff. Sonar Targets 1 and 2 (Figures 7 and 8) are interpreted as disarticulated
+segments of abandoned dredge pipe. Neither target is believed to be associated with historic cultural
+materials.
+Table 2: Side-Scan Sonar Targets
+Target ID
+Sonar 1
+Sonar 2
+20 | P a g e
+
+Mag
+Anomaly
+-
+
+Length
+38
+17
+
+Width
+3
+3
+
+Height
+1
+1
+
+Interpretation
+Possible dredge pipe
+Possible dredge pipe
+
+Recommendation
+none
+none
+
+Figure 7: Sonar 1 Target
+
+Figure 8: Sonar 2 Target
+
+Magnetometer
+Magnetometer data is illustrated as contours in Appendix A. Additional data were gathered over
+selected anomalies along transects spaced 10 m (33 ft) apart in order to better evaluate their historic
+potential. Information regarding petroleum infrastructure was obtained from the Railroad Commission
+21 | P a g e
+
+of Texasâ Public GIS Viewer. Two wells and one pipeline are reported in the APE all of which were
+confirmed close to their reported positions by magnetic anomalies.
+Twenty two magnetic anomalies are interpreted as potential historic shipwrecks based on their
+resemblance to verified wreck anomalies (e.g., Figure 5), as described in Section IV. None of those
+anomalies are associated with side-scan sonar targets. Magnetic anomalies interpreted as potential
+wrecks are illustrated in Figures 9 to 27. The possible association of those 22 anomalies with historic
+shipwrecks cannot be ruled out based on the geophysical data at hand. Their sources might, therefore,
+meet criteria for inclusion on the NRHP.
+
+Figure 9: Mag 1 Anomaly
+
+Figure 10: Mag 2 Anomaly
+22 | P a g e
+
+Figure 11: Mag 3 Anomaly
+
+Figure 12: Mag 4 Anomaly
+
+23 | P a g e
+
+Figure 13: Mag 5 Anomaly
+
+Figure 14: Mag 6 Anomaly
+
+24 | P a g e
+
+Figure 15: Mag 7 Anomaly
+
+Figure 16: Mag 8 and 9 Anomalies
+
+25 | P a g e
+
+Figure 17: Mag 10 Anomaly
+
+Figure 18: Mag 11 Anomaly
+
+26 | P a g e
+
+Figure 19: Mag 12 Anomaly
+
+Figure 20: Mag 13 Anomaly
+
+27 | P a g e
+
+Figure 21: Mag 14 Anomaly
+
+Figure 22: Mag 15 Anomaly
+
+28 | P a g e
+
+Figure 23: Mag 16 Anomaly
+
+Figure 24: Mag 17 Anomaly
+
+29 | P a g e
+
+Figure 25: Mag 18 Anomaly
+
+Figure 26: Mag 19 Anomaly
+
+30 | P a g e
+
+Figure 27: Mag 20, 21 and 22 Anomalies
+
+Archaeological Assessment
+Analysis of survey data revealed 22 magnetic anomalies consistent with those produced by complex
+anomaly sources such as shipwrecks. No wrecks were confirmed by sonar imagery. As many as 5 wrecks
+have been reported within or on the margins of the APE (indicated by an asterisk [*] in Table 1). None of
+these wrecks can be positively correlated with specific geophysical targets from this survey; however,
+they may be represented in the data.
+An area of wreckage was visually confirmed in the southeastern corner of the APE, although the area
+was too shallow to survey. This area is charted as âFoul Wksâ on the 2013 edition of NOAA Chart 11317.
+Nearby AWOIS 5271, described as âtwo groups of sunken derelict bargesâ confirmed by a NOAA survey
+in 1992, is believed to be associated with the charted area of âFoul Wksâ observed during this survey.
+They appear to have been intentionally scuttled by 1975 to provide protection for the shoreward end of
+an uncharted channel connecting the Point Comfort Shoreline with the Lavaca River Channel. AWOIS
+reports that âat the beach end of the channelâ¦the first 700 feet of channel is lined with sunken barges.â
+
+Recommendations
+The 22 magnetic anomalies described above (Mag 1 to Mag 22) and the area of visually-confirmed
+wreckage observed in the southeastern corner of the APE are potentially associated with historic
+shipwrecks thus could meet criteria for State Antiquities Landmark or for the NRHP. SAM recommends
+avoidance of all 22 targets, as well as the visually-confirmed area of wreckage, by bottom-disturbing
+activities associated with this project. Details regarding the age, construction and function of these
+abandoned vessels is unavailable and cannot be discerned from this survey. They should be considered
+31 | P a g e
+
+potentially eligible for the NRHP until such time as they may be demonstrated otherwise by a hands-on
+archaeological assessment. Avoidance distance is mandated by The Texas Administrative Code, Title 13,
+Part 2, Chapter 26, as 50 m (164 ft) beyond the target boundaries. In the case of the exposed wreckage,
+the exact target boundary is unknown, since the survey vessel could not safely approach close enough to
+record a sonar image, thus the entire area lacking sonar data is recommended for avoidance.
+In the event that shipwreck remains, or other potentially historic materials, are discovered anywhere in
+the APE during the course of construction, work should be halted within 50 m (164 ft) of the find until
+the THC can provide direction concerning the discovery. SAM recommends cultural resource clearance
+for all portions of the APE outside of avoidance polygons as illustrated in Appendix A.
+
+32 | P a g e
+
+VI.
+
+References Cited
+
+Alperin, Lynn. 1977. Custodians of the Coast: History of the United States Army Engineers at Galveston.
+Galveston District, United States Army Corps of Engineers.
+Aten, L.E. and C. Good. 1985. Initial Geoarchaeological Evaluation of the Texas City Channel Site
+(41GV81), Galveston County, Texas. In Proceedings of the Fifth Annual Gulf of Mexico Information
+Transfer Meeting. Prepared for the U.S. Minerals Management Service by Science Applications, Inc.
+Metairie, Louisiana.
+Borgens, Amy. 2004. Analysis of the Pass Cavallo Wreck Assemblage, Matagorda Bay, Texas. Masterâs
+thesis, Texas A&M University, College Station.
+Borgens, Amy and Robert Gearhart. 2006. Marine Archaeological Investigations Related to Calhoun
+County Navigation District's Proposed Turning Basin & Marine Improvements & Associated Placement
+Areas, Lavaca Bay, Calhoun County. PBS&J Document 060135.
+Borgens, Amy, Sara Laurence and Robert Gearhart. 2007. Marine Geophysical Survey for Historic
+Properties, Matagorda Ship Channel and Potential Placement Areas, Matagorda Ship Channel
+Improvement Project, Matagorda and Lavaca Bays, Calhoun County, Texas. PBS&J (now Atkins)
+Document 060268, Austin. Antiquities Permit 4080.
+Bronikowski, Jason Lee. 2004. Sedimentary environments and processes in a shallow, Gulf Coast estuaryLavaca Bay, Texas. Master of Science Thesis. Texas A&M University, Oceanography.
+Byrne, J. R., 1975. Holocene depositional history of Lavaca Bay, Central Texas Gulf Coast. Dissertation,
+The University of Texas, Austin.
+Cabeza de Vaca, Ãlvar NÃºÃ±ez. 2013. Chronicle of the NarvÃ¡ez Expedition, Translation of 'La
+Relacion', translated by David Frye, edited by Ilan Stavans. Norton Critical Edition.
+Chipman, Donald E. 1992. Spanish Texas 1519-1821. University of Texas Press, Austin.
+Coastal Environments, Inc. 1986. Archaeological Investigations on the Outer Continental Shelf: A Study
+within the Sabine River Valley, Offshore Louisiana and Texas. Prepared for the Minerals Management
+Service, U.S. Department of the Interior. Baton Rouge, Louisiana.
+Cotham, Edward T. Jr. 1998. Battle on the Bay: The Civil War Struggle for Galveston. University of Texas
+Press, Austin.
+Davis, William C. 2005. The Pirates Lafitte: The Treacherous World of the Corsairs of the Gulf. Harcourt, Inc.
+Austin, Texas.
+Foster, Eugene, Ty Summerville, and Thomas Brown. 2006. The Texas Historic Overlay: A Geographic
+Information System of Historic Map Images for Planning Transportation Projects in Texas. PBS&J
+Document 060206. Texas Department of Transportation, Environmental Affairs Division, Austin.
+Francaviglia, Richard V. 1998. From Sail to Steam: Four Centuries of Texas Maritime History, 1500-1900.
+University of Texas Press, Austin.
+33 | P a g e
+
+Garrison, E. G., C. P. Giammona, F. J. Kelly, A. R. Tripp and G. A. Wolff. 1989. Historic shipwrecks and
+magnetic anomalies of the northern Gulf of Mexico: Reevaluation of archaeological resource
+management zone 1. Volume II: technical narrative. OCS Study, MMS 89-0024. U.S. Department of the
+Interior, Minerals Management Service, Gulf of Mexico OCS Region.
+Gearhart, Robert. 2011. Archaeological Interpretation of Marine Magnetic Data, Chapter 4 in The Oxford
+Handbook of Maritime Archaeology, Alexis Catsambis, Ben Ford, and Donny L. Hamilton, editors, pp. 90113. Oxford University Press, New York, New York.
+Gearhart, Robert, John Neville, and Steven Hoyt. 1990. California, Oregon, and Washington
+Archaeological Resource Study, Volume IV: History. Prepared for Minerals Management Services, Pacific
+Region. OCS Study MMS 90-0090. Espey, Huston & Associates, Inc., Austin, Texas.
+Guthrie, Keith. 1988. Texas Forgotten Ports: Mid-Gulf Coast Ports from Corpus Christi to Matagorda Bay.
+Eakin Press, Austin, Texas.
+Hamilton, Donny. 1998. Methods of Conserving Underwater Archaeological Material Culture.
+Conservation Files: ANTH 605, Conservation of Cultural Resources I. Nautical Archaeology Program,
+Texas A&M University, World Wide Web, http://nautarch.tamu.edu/class/ANTH605.
+Hughey, James. 2005. A Cultural Resources Assessment Study: The Potential Impact to Cultural
+Resources Within Property Proposed for Improvements to the Matagorda Ship Channel and Associated
+Dredge Locations in Matagorda and Calhoun Counties. Prepared for URS Corporation. HRA Gray & Pape,
+LLC, Houston, Texas.
+Kleiner, Diana J. 1996. Calhoun County. In The New Handbook of Texas, vol. 1. Texas State Historical
+Association, Austin.
+Linden, Sarah and Charles Pearson. 2014. Phase I Marine Cultural Resources Remote-Sensing Survey in
+Buffalo Bayou for the Proposed Kinder Morgan Export Terminal, Pasadena, Harris County, Texas. Coastal
+Environments, Inc. Corpus Christi, Texas.
+Long, R.J. 1977. McFaddin Beach. The Patillo Higgins Series of Natural History and Anthropology, No. 1.
+Spindletop Museum, Lamar University. Beaumont, Texas.
+Lugo-Fernandez, A., D.A. Ball, M. Gravois, C. Horrell, and J.B. Irion. 2007. Analysis of the Gulf of Mexicoâs
+Veracruz-Havanna Route of La Flota de la Nueva EspaÃ±a. Journal of Maritime Archeology (2007) 2:24-47.
+Maywald, Lonnie Ficklen. 1996. Port Lavaca, Texas. In The New Handbook of Texas, vol. 5. Texas State
+Historical Association, Austin.
+McGowen, J.H., L.F. Brown, Jr., T.J. Evans, W.L. Fisher, and C.G. Groat. 1976. Environmental Geologic
+Atlas of the Texas Coastal Zone â Bay City-Freeport Area. Bureau of Economic Geology, The University of
+Texas at Austin.
+Patch, Mary Catherine. 2004. Acoustic characteristics of bay bottom sediments in Lavaca Bay, Texas.
+Master of Science Thesis. Texas A&M University, Oceanography.
+
+34 | P a g e
+
+Pearson, Charles and Steve R. James. 1991. Field Notes and Dive Logs, September 8-23, 1991:
+Underwater Investigations, Channel to Red Bluff, Lavaca and Navidad Rivers, Jackson County, Texas.
+Prepared by Coastal Environments, Inc. and Panamerican Consultants, Inc. for the U.S. Army Corps of
+Engineers, Galveston District. Antiquities Permit 1027.
+Pearson, Charles, Stephen James Jr., Kay Hudson and James Duff. 1993. Underwater Archaeology Along
+the Lower Navidad and Lavaca Rivers, Jackson County, Texas. Prepared by Coastal Environments, Inc. for
+the U.S. Army Corps of Engineers, Galveston District. Antiquities Permit 1027.
+Pierce, Frank C. 1917. A Brief History of the Lower Rio Grande Valley. The Collegiate Press, Menasha,
+Wisconsin.
+Stright, Melanie J. 1990. Archeological Sites on the North American Continental Shelf, in Archaeological
+Geology of North America, Centennial Special Volume 4, Norman P. Lasca and Jack Donahue, editors.
+The Geological Society of America. Boulder, Colorado.
+Taylor, Virginia. 1957. The Letters of Antonio Martinez: Last Spanish Governor of Texas 1817â1822.
+Texas State Library, Austin.
+Tuttle, Michael. 2013. Interim report: Lavaca Bay LNG Project, Texas Antiquities Permit Number 6335,
+Update on Remote Sensing Data Analysis and Recommendation for In-Water Investigation, and Request
+for Comments under Section 106 of NHPA. Prepared by HRA Gray & Pape for Excelerate Liquefaction
+and Lavaca Bay Pipeline.
+United States Coast and Geodetic Survey. 1888. Matagorda Bay, Texas. Coast Chart No. 207.
+Topography from 1856 to 1859. Hydrography from 1856 to 1873. U.S. Coast and Geodetic Survey,
+Washington, D.C. Printed January 4, 1893. Image courtesy of The Center for American History, The
+University of Texas at Austin. Geo-referenced by Foster, Eugene, Ty Summerville and Thomas Brown.
+2006. The Texas Historic Overlay. Prepared for Texas Department of Transportation by PBS&J, Austin.
+Waters, Michael R. and Thomas Wier Stafford, Jr. 2014. The First Americans: A Review of the Evidence
+for the Late-Pleistocene Peopling of the Americans, Chapter 31 in Paleoamerican Odyssey, Kelly E. Graf,
+Caroline V. Ketron, and Michael R. Waters, editors. Texas A&M University Press.
+Weddle, Robert S. 1985. Spanish Sea: The Gulf of Mexico in North American Discovery, 1500-1685. Texas
+A&M University Press, College Station, Texas.
+Weddle, Robert S. 1991. The French Thorn: Rival Explorers in the Spanish Sea, 1682-1762. Texas A&M
+University Press, College Station, Texas.
+Weise, Bonnie R., William A. White, L.F. Brown, and Walter K. Ferguson. 1980. Padre Island National
+Seashore: A Guide to the Geology, Natural Environments, and History of a Texas Barrier Island. Texas
+Bureau of Economic Ecology, Guidebook 17. Bureau of Economic Geology, The University of Texas,
+Austin.
+Zavaleta, Antonio N. 1986. The Twin Cities: the Socio-Economic Interdependence of the BrownsvilleMatamoros Border Community. In: Studies in Brownsville's History. Pan American University, Brownsville,
+Texas.
+
+35 | P a g e
+
+Appendix A: Sonar and Magnetometer Results (not for public disclosure)
+
+A-1 | P a g e
+
+Proposed and Actual
+Survey Lines
+Legend
+Actual Survey Lines
+
+Proposed Survey Lines
+Survey Boundary
+
+Overview
+
+Page 1 of 11
+
+Marine Archaeology Survey
+SAM Project: 36115
+Prepared for:
+Blanton and Associates, inc.
+Date: 6/22/2016
+
+Projection: NAD 83 TX South Central
+
+q
+
+1 inch = 2,000 feet
+0
+
+A-2 | Page
+
+1,000
+
+2,000
+
+4,000
+Feet
+
+GLO LEASE
+TRACT NONE
+
+Page 4
+
+GLO LEASE
+TRACT 7
+
+GLO LEASE
+TRACT 17
+
+Side-Scan Sonar
+Overview
+
+GLO LEASE
+TRACT 5A
+
+GLO LEASE
+TRACT 4A
+
+Legend
+
+GLO LEASE
+TRACT 13A
+
+GLO
+LEASE
+TRACT 3A
+
+Page 5
+
+Page 6
+
+GLO LEASE
+TRACT 6A
+
+Page 7
+GLO LEASE
+TRACT 7A
+
+Survey Boundary
+
+Overview
+
+GLO LEASE
+TRACT 12A
+
+GLO LEASE
+TRACT 11A
+
+GLO LEASE
+TRACT 7A
+
+GLO Lease Tracts
+
+GLO LEASE
+TRACT 18
+
+GLO LEASE
+TRACT 12A
+
+GLO LEASE
+TRACT 6A
+
+GLO LEASE
+TRACT 3A
+
+PAGES
+
+GLO LEASE
+TRACT 19
+GLO LEASE
+TRACT 14A
+
+GLO LEASE
+TRACT 11A
+
+Page 2 of 11
+
+Marine Archaeology Survey
+
+Page 8
+
+GLO LEASE
+TRACT 10A
+
+SAM Project: 36115
+Prepared for:
+Blanton and Associates, Inc.
+
+GLO LEASE
+TRACT 23A
+GLO LEASE
+TRACT 15A
+
+GLO LEASE
+TRACT 8A
+
+Page 9
+
+GLO LEASE
+TRACT 10A
+
+Date: 6/24/2016
+
+Projection: NAD 83 TX South Central
+
+q
+
+GLO LEASE
+TRACT 15A
+
+Page 10
+
+GLO LEASE
+TRACT 16A
+GLO LEASE
+TRACT 9A
+GLO LEASE
+TRACT 22A
+
+GLO LEASE
+TRACT 16A
+
+Page 11
+GLO LEASE
+TRACT 21A
+
+GLO LEASE
+TRACT 17A
+GLO LEASE
+TRACT 17A
+
+A-3 | Page
+
+GLO LEASE
+TRACT 18A
+
+GLO LEASE
+TRACT 21A
+GLO LEASE
+TRACT 20A
+
+1 inch = 2,000 feet
+
+GLO LEASE
+TRACT 22A
+
+GLO LEASE
+TRACT 13
+
+0
+
+1,000
+
+2,000
+
+4,000
+Feet
+
+GLO LEASE
+TRACT NONE
+
+Page 4
+
+GLO LEASE
+TRACT 7
+
+MAG 1
+
+Magnetometer
+Overview
+
+GLO LEASE
+TRACT 17
+
+Legend
+
+PAGES
+
+GLO LEASE
+TRACT 5A
+
+GLO LEASE
+TRACT 4A
+
+MAG 2
+
+GLO
+LEASE
+TRACT 3A
+
+GLO Lease Tracts
+
+GLO LEASE
+TRACT 13A
+
+Page 5
+
+WELL
+
+Survey Boundary
+
+GLO LEASE
+TRACT 12A
+
+GLO LEASE
+TRACT 6A
+
+PIPELINE
+Avoidance Area
+
+GLO LEASE
+TRACT 18
+
+Survey Transects
+
+5-nT neg contours
+
+WELL
+
+GLO LEASE
+TRACT 3A
+
+MAG 3
+
+MAG 6
+
+Page 6
+
+MAG 5
+
+GLO LEASE
+TRACT 6A
+
+GLO LEASE
+TRACT 11A
+
+GLO LEASE
+TRACT 7A
+
+5-nT pos contours
+WELLS
+
+WELL
+
+MAG 4
+
+Overview
+
+GLO LEASE
+TRACT 12A
+
+WELL
+
+WELL
+
+GLO LEASE
+TRACT 19
+
+Page 7
+
+GLO LEASE
+TRACT 14A
+
+PIPELINE ( APPROX. POSITION)
+GLO LEASE
+TRACT 7A
+
+GLO LEASE
+TRACT 11A
+
+MAG 9
+
+MAG 7
+
+MAG 8
+
+MAG 10
+
+GLO LEASE
+TRACT 10A
+
+Page 3 of 11
+
+MAG 11
+
+WELL
+
+Page 8
+
+GLO LEASE
+TRACT 15A
+
+GLO LEASE
+TRACT 15A
+
+MAG 12
+
+GLO LEASE
+TRACT 16A
+
+Page 10
+GLO LEASE
+TRACT 22A
+
+GLO LEASE
+TRACT 22A
+
+GLO LEASE
+TRACT 16A
+
+MAG 15
+MAG 17
+
+GLO LEASE
+TRACT 21A
+
+GLO LEASE
+TRACT 17A
+GLO LEASE
+TRACT 17A
+
+GLO LEASE
+TRACT 21A
+GLO LEASE
+TRACT 20A
+
+q
+
+WELL
+
+MAG 14
+
+GLO LEASE
+TRACT 9A
+
+Date: 6/24/2016
+
+Projection: NAD 83 TX South Central
+
+Page 9
+
+MAG 13
+
+GLO LEASE
+TRACT 10A
+
+A-4 | Page
+
+SAM Project: 36115
+Prepared for:
+Blanton and Associates, Inc.
+
+GLO LEASE
+TRACT 23A
+
+GLO LEASE
+TRACT 8A
+
+GLO LEASE
+TRACT 18A
+
+Marine Archaeology Survey
+
+MAG 19
+MAG 18
+
+MAG 16
+
+MAG 21
+
+EXPOSED
+WRECKAGE
+
+Page 11
+
+MAG 22
+MAG 20
+GLO LEASE
+TRACT 13
+
+1 inch = 2,000 feet
+0
+
+1,000
+
+2,000
+
+4,000
+Feet
+
+Detail View
+Legend
+Survey Boundary
+
+GLO Lease Tracts
+
+GLO LEASE TRACT 5A
+
+Avoidance Area
+
+Survey Transects
+
+5-nT neg contours
+5-nT pos contours
+
+Overview
+
+GLO LEASE TRACT 4A
+
+GLO LEASE
+TRACT 6A
+
+Side Scan Sonar
+
+Page 4 of 11
+
+Magnetometer
+
+Marine Archaeology Survey
+SAM Project: 36115
+Prepared for:
+Blanton and Associates, Inc.
+Date: 6/24/2016
+
+Projection: NAD 83 TX South Central
+
+q
+
+MAG 1
+
+1 inch = 500 feet
+0
+
+MAG 2
+A-5 | Page
+
+250
+
+500
+
+1,000
+Feet
+
+Detail View
+Legend
+
+GLO LEASE TRACT 5A
+
+Survey Boundary
+
+GLO Lease Tracts
+Avoidance Area
+
+Survey Transects
+
+5-nT neg contours
+5-nT pos contours
+WELLS
+
+GLO LEASE
+TRACT 6A
+
+Overview
+GLO LEASE TRACT 12A
+
+GLO LEASE TRACT 6A
+GLO LEASE TRACT 11A
+
+Side Scan Sonar
+
+Page 5 of 11
+
+Magnetometer
+
+Marine Archaeology Survey
+SAM Project: 36115
+Prepared for:
+Blanton and Associates, Inc.
+Date: 6/24/2016
+
+Projection: NAD 83 TX South Central
+
+WELL
+
+q
+
+1 inch = 500 feet
+
+WELL
+
+0
+WELL
+
+A-6 | Page
+
+MAG 3
+
+MAG 6
+
+250
+
+500
+
+1,000
+Feet
+
+Detail View
+Legend
+
+GLO LEASE TRACT 12A
+
+Survey Boundary
+
+GLO Lease Tracts
+Avoidance Area
+
+Survey Transects
+
+GLO LEASE TRACT 6A
+
+5-nT neg contours
+5-nT pos contours
+WELLS
+
+GLO LEASE TRACT 12A
+
+Overview
+
+GLO LEASE TRACT 11A
+GLO LEASE TRACT 11A
+
+MAG 6
+MAG 3
+
+MAG 4
+
+Side Scan Sonar
+
+Page 6 of 11
+
+Magnetometer
+
+Marine Archaeology Survey
+SAM Project: 36115
+Prepared for:
+Blanton and Associates, Inc.
+Date: 6/24/2016
+
+Projection: NAD 83 TX South Central
+
+MAG 5
+
+q
+
+1 inch = 500 feet
+0
+
+WELL
+
+A-7 | Page
+
+WELL
+
+250
+
+500
+
+1,000
+Feet
+
+Detail View
+
+GLO LEASE TRACT 12A
+
+GLO LEASE TRACT 11A
+
+Legend
+Survey Boundary
+
+GLO Lease Tracts
+Avoidance Area
+
+GLO LEASE TRACT 14A
+
+Survey Transects
+
+5-nT neg contours
+5-nT pos contours
+WELLS
+
+PIPELINE
+
+GLO LEASE TRACT 11A
+
+Overview
+
+GLO LEASE TRACT 15A
+
+Side Scan Sonar
+
+Page 7 of 11
+
+Magnetometer
+
+Marine Archaeology Survey
+SAM Project: 36115
+Prepared for:
+Blanton and Associates, Inc.
+Date: 6/24/2016
+
+Projection: NAD 83 TX South Central
+
+q
+
+PIPELINE ( APPROX. POSITION)
+MAG 9
+MAG 7
+
+A-8 | Page
+
+MAG 8
+
+1 inch = 500 feet
+0
+
+MAG 11
+
+250
+
+500
+
+1,000
+Feet
+
+Detail View
+GLO LEASE TRACT 14A
+
+Legend
+
+Survey
+
+GLO Lease
+Avoidance Area
+
+Survey Transects
+
+5-nT neg contours
+5-nT pos contours
+WELLS
+
+PIPELINE
+
+GLO LEASE
+TRACT 23A
+
+GLO LEASE TRACT 15A
+
+Overview
+
+GLO LEASE TRACT 15A
+GLO LEASE TRACT 22A
+Side Scan Sonar
+
+PIPELINE ( APPROX. POSITION)
+
+Page 8 of 11
+
+Magnetometer
+
+Marine Archaeology Survey
+SAM Project: 36115
+Prepared for:
+Blanton and Associates, Inc.
+Date: 6/24/2016
+
+Projection: NAD 83 TX South Central
+
+WELL
+
+MAG 10
+
+q
+
+1 inch = 500 feet
+0
+
+A-9 | Page
+
+MAG 13
+
+250
+
+500
+
+1,000
+Feet
+
+Detail View
+GLO LEASE TRACT 22A
+
+Legend
+
+GLO LEASE
+TRACT 23A
+
+Survey Boundary
+
+GLO Lease Tracts
+Avoidance Area
+
+Survey Transects
+
+5-nT neg contours
+5-nT pos contours
+WELLS
+
+Overview
+
+GLO LEASE TRACT 22A
+GLO LEASE TRACT 15A
+
+Side Scan Sonar
+
+Page 9 of 11
+
+Magnetometer
+
+Marine Archaeology Survey
+SAM Project: 36115
+Prepared for:
+Blanton and Associates, Inc.
+
+MAG 13
+
+Date: 6/24/2016
+
+Projection: NAD 83 TX South Central
+
+q
+
+MAG 12
+
+WELL
+
+A-10 | Page
+
+1 inch = 500 feet
+0
+
+250
+
+500
+
+1,000
+Feet
+
+Detail View
+
+GLO LEASE TRACT 22A
+
+Legend
+
+GLO LEASE
+TRACT 23A
+
+Survey Boundary
+
+GLO Lease Tracts
+Avoidance Area
+
+Survey Transects
+
+5-nT neg contours
+5-nT pos contours
+
+Overview
+
+GLO LEASE TRACT 22A
+Side Scan Sonar
+
+Page 10 of 11
+
+Magnetometer
+
+Marine Archaeology Survey
+SAM Project: 36115
+Prepared for:
+Blanton and Associates, Inc.
+Date: 6/24/2016
+
+Projection: NAD 83 TX South Central
+
+MAG 14
+
+q
+
+MAG 16
+
+1 inch = 500 feet
+0
+EXPOSED
+WRECKAGE
+
+A-11 | Page
+
+250
+
+500
+
+1,000
+Feet
+
+GLO LEASE
+TRACT 22A
+
+Detail View
+
+GLO LEASE TRACT 22A
+
+Legend
+Survey Boundary
+
+GLO Lease Tracts
+Avoidance Area
+
+Survey Transects
+
+5-nT neg contours
+5-nT pos contours
+WELLS
+
+Overview
+
+GLO LEASE
+TRACT 13
+
+GLO LEASE TRACT 21A
+
+Side Scan Sonar
+
+Page 11 of 11
+
+Magnetometer
+
+SAM Project: 36115
+Prepared for:
+Blanton and Associates, Inc.
+
+MAG 15
+
+Date: 6/24/2016
+
+Projection: NAD 83 TX South Central
+
+MAG 21
+MAG 19
+MAG 17
+
+A-12 | Page
+
+Marine Archaeology Survey
+
+MAG 18
+
+q
+
+MAG 22
+
+MAG 20
+
+1 inch = 500 feet
+0
+
+250
+
+500
+
+1,000
+Feet
+
+Appendix B: Geophysical Target Locations (not for public disclosure)
+Table B-1: Side-Scan Sonar Targets (not for public disclosure)
+Target ID
+
+Mag
+Anomaly
+
+Sonar 1
+Sonar 2
+Area of
+Exposed
+Wreckage
+(not recorded
+on sonar)
+
+-
+
+B-1 | P a g e
+
+-
+
+East,
+UTM 15N,
+WGS84 (m)
+736234
+736378
+
+737236
+
+North,
+East,
+UTM 15N, NAD83,
+WGS84 (m) TxSC (ft)
+3175063
+2743619
+3175212
+2744090
+
+3174150
+
+2746905
+
+North,
+NAD83,
+TxSC (ft)
+13439653
+13440140
+
+13436658
+
+Length
+(ft)
+
+Width
+(ft)
+
+Height
+(ft)
+
+Interpretation
+
+Recommendation
+
+38
+17
+
+3
+3
+
+1
+1
+
+Dredge pipe
+Dredge pipe
+
+none
+none
+
+-
+
+Barges
+reported by
+NOAA
+
+avoid
+
+-
+
+-
+
+Table B-2: Magnetic Anomalies Recommended for Avoidance (not for public disclosure)
+Target
+ID
+
+Sonar
+Contact
+
+East, UTM 15N,
+WGS84 (m)
+
+North, UTM 15N,
+WGS84 (m)
+
+East, NAD83,
+TxSC (ft)
+
+North, NAD83,
+TxSC (ft)
+
+z (nT)
+
+Diameter
+(ft)
+
+Depth
+(ft MLLW)
+
+GLO
+Tract
+
+Mag 1
+Mag 2
+Mag 3
+
+-
+
+732487
+733018
+733157
+
+3178742
+3178525
+3177524
+
+2731326
+2733065
+2733525
+
+13451714
+13451001
+13447718
+
++117/-24
++213/-17
++145/-227
+
+109
+102
+284
+
+-4.3
+-4.6
+-5.4
+
+6A
+5A
+6A
+
+Mag 4
+Mag 5
+Mag 6
+Mag 7
+Mag 8
+Mag 9
+Mag 10
+Mag 11
+
+-
+
+733445
+733625
+733823
+734307
+735171
+735201
+734751
+735405
+
+3177484
+3177412
+3177633
+3176188
+3176308
+3176315
+3175692
+3176109
+
+2734469
+2735060
+2735707
+2737298
+2740132
+2740229
+2738755
+2740898
+
+13447590
+13447353
+13448078
+13443338
+13443733
+13443758
+13441713
+13443083
+
++466/-891
++192/-14
++165/-15
++171/-15
++115/-22
++1278/-71
++155/-14
++44/-13
+
+122
+92
+134
+99
+97
+100
+87
+116
+
+-5.5
+-5.7
+-5.6
+-5.7
+-4.9
+-4.9
+-5.5
+-3.3
+
+6A/11A
+11A
+12A
+11A
+15A
+14A
+15A
+14A
+
+Mag 12
+Mag 13
+Mag 14
+Mag 15
+Mag 16
+Mag 17
+Mag 18
+Mag 19
+Mag 20
+Mag 21
+Mag 22
+
+-
+
+735473
+736017
+735557
+736350
+737019
+736228
+736420
+736438
+736848
+736863
+736929
+
+3175037
+3175268
+3174485
+3173890
+3174216
+3173447
+3173530
+3173638
+3173653
+3173695
+3173701
+
+2741123
+2742908
+2741400
+2743999
+2746194
+2743601
+2744229
+2744290
+2745635
+2745683
+2745898
+
+13439565
+13440324
+13437757
+13435805
+13436875
+13434353
+13434626
+13434980
+13435028
+13435166
+13435186
+
++337/-37
++1328/-55
++92/-8
++1281/-1324
++378/-53
++53/-53
++2228/-3632
++187/-18
++766/-34
++2046/-901
++798/-1192
+
+101
+96
+94
+85
+153
+86
+190
+97
+96
+113x216
+153
+
+-4.9
+-2.8
+-4.7
+-5.4
+-1.8
+-4.8
+-4.7
+-4.7
+-3.1
+-2.5
+-1.9
+
+15A
+22A
+22A
+22A
+22A
+22A
+22A
+22A
+22A
+22A
+22A
+
+B-2 | P a g e
+
+Appendix C: Texas Antiquities Permit 7431 and THC Concurrence Letter
+
+C-1 | P a g e
+
+TEXAS HISTORICAL COMMISSION
+real places telling real stories
+Octobet 5,2015
+
+Robert Gearhan
+Surveying and Mappin g, LLC
+4801 Southwest Parkway, Building
+Two, Suite 100
+.A.ustin,
+
+TX
+
+Re:
+
+Project review under the Antiquities Code of Texas
+West Ranch to Point Comfot Pipeline, Calhoun County, Texas
+Texas Antiquities Permit Application #7431
+
+78735
+
+Dear Colleague:
+Thank you fot your Antiquities Permit Application for the above referenced project. This letter
+Presents the final copy of the permit from the Executive Dilector of the Texas Historical
+Commission [IHC), the state agency tesponsible fot administedng the Ãntiquities Code of 'Iexas.
+
+fot your records. The Antiquities Perrnit investigations requires the production
+and submittal of one pdnted copy of the final report, a completed abstract form submitted via our
+online system, trvo copies of the tagged PDF final report on CD (one with site location information &
+one without), and verificadon that any artifacts recovered and records produced during the
+investigations are cutated at the repository listed in the permit. The abstract form maybe submitted
+via the THC rvebsite (lvww.thc.state.tx.us) or use utl: http://xapps.thc.state.tx.us/Abstract/login.aspx
+Additionally, you must send the THC shapefiles showing the boundaries of the project arca and the
+areas actually surveyed via email to archeological projects@thc.state.tx.us.
+Please keep this copy
+
+If you have Ã¢ny questions concerning this permit or if we can be of further
+
+assistance, please contÃ¢ct
+Lillie Thompson at 512/463-1858. The reviewer for this project is Amy Borgens, 512/463-6096.
+
+Sincerell',
+
+-/ZÂ¿.?4
+for
+Mark \X/olfe
+Executive Director
+
+l
+
+M$Ã¼/lft
+Enclosurcs
+
+Cc: Annc Idsal, GLO
+lvfauricc lÃ¬arnes, Jr., I{an'est Pipeline Co.
+
+-|
+GREG ABBOTT, GOVERNOR
+
+.JOHN L. NAU, III, CHAIR
+
+.
+
+MARK WOLFE, EXECUTIVE DIRECTOR
+
+P.0. BOX 12276. AUSTIN, TEXAS.78711-2276.P 512.463.6100.F 512.475.4872 owww.thc.state.tx.us
+
+State of Texas
+
+TEXAS ANTIQUITIES COMMITTEE
+ARCHEOLOGY PERMTT
+
+#
+
+743
+
+I
+
+This permitis issued by the lexas Historical Commission, hereafter referred to as the Commission,
+represented herein by and through its duly authorized and empowered representatives. The
+Commission, under authority of the Ãexas NaturalResources Code, Title g, Chapter 191, and subject to
+the conditions hereinafter set forth, grants this permit for:
+Underwater Suruey
+To be performed on a potentialor designated landmark or other public land known as:
+
+Title:
+
+West Ranch to Point ComfoÂ¡t Pipeline
+County: Calhoun
+Location: Lavaca Bay
+
+Owned or Controlled bv: (hereafter known as fhe Permittee)
+
+Iexas General Land Office
+1700 North Congress Avenue, SuÃ­Ãºe 935
+Austin, TX 78701
+Sponsored by (hereafter known as the Sponsor
+Harvest Pipeline Company
+1201 LouisÃ®ana Street, Suite 1400
+
+Houston,TX 77002
+Th
+
+e
+
+P ri n c ip
+
+al I nv e sti g ato r/ I nve sti g ati o n F i rm
+
+re p re se
+
+nting the Owner or Sponsorls;
+
+RobeÂ¡t Gearhart
+
+Surueying and Mapping, Inc.
+4801 Southwest Parkway, Building Two, Suite 100
+Austin, TX 78735
+This permit rs fo be in effect for a period of:
+
+1
+
+Years and
+
+0
+
+Months
+
+and Will Expire on
+09/22/2016
+
+During the preservation, analysis, and preparation of a final report or until fufther notice by the
+Commission, arlifacts, field notes, and other data gathered during the investigation will be kept
+temoorarilv at:
+S urveying and MappÃ­ng, lnc.
+Upon completion of the final permit report, the same aÃ±ifacts, field notes, and other data will be placed
+in a permanent curatorial repository at:
+
+Iexas Archeological Research Lab.
+Scope of Work under this permit shall consist of:
+Underwater survey (May include remote sensing survey and diver ground-truthing).
+
+ARCHEOLOGY PERMTT# 7431
+
+This permÃ­t is granted on the following terms and conditions
+1) This project must be carried out in such a manner that the maximum amount of historic, scientific, archeological, and educational
+information will be recovered and preseÂ¡ved and must include the scientific, techniques for recovery, recording, preservation and analysis
+commonly used in archeological investigations. All survey level investigations must follow the state survey standards and the THC survey
+requirements established with the projects sponsor(s).
+2) The Principal lnvestigator/lnvestigation Firm, seruing for the Owner/Permiftee and/or the Project Sponso4 rs responsib/e for insuring that
+specimens, samp/es, aÃ±ifacts, materials and records that are collected as a result of this permit are appropriately cleaned, and cataloged
+for curation. Ã¯hese fasks will be accomplished at no charge to the Commission, and all specimens, aÂ¡lifacts, materials, samples, and
+original field notes, maps, drawings, and photographs resulting from the investigations remain the property of the State of Texas, or its
+political subdivision, and must be curated at a ceÂ¡fified repository. Verification of curation by the repository is also required, and duplicate
+coples of any requested records shall be fumished to the Commrsslon before any permit will be considered complete.
+3) The Principal lnvestigator/lnvestigation Firm seruing for the Owner/Permiftee, and/or the Project Sponsor ls responsible for the
+publication of resu/fs of the investigations in a thorough technical repoÃ± containing relevant descrÃ­ptions, maps, documents, drawings, and
+photographs. A draft copy of the report must be submitted to the Commission for review and approval. Any changes to the draft reporf
+requested by the Commlsslon musf be made or addressed in the repoft, or under separate wriften response to the Commission. Once a
+draft has been approved by the Commission, one (1) printed, unbound copy of the fÃ®nal report containing at least one map with the plofted
+location of any and a// slfes recorded and two copies of the report in tagged PDF format on an archival quality CD or DVD shall be fumished
+to the commission. One copy must include the plotted location of any and a// slfes recorded and the other should not include the site
+location data. A paper copy and an electronic copy of the completed Absfracfs in Texas Contract Archeology Summary Form must also be
+submitted with the final repoÃ± to the Commission. (Printed copies of forms are available from the Commission or also online at
+www.th c. st ate.tx. u s.)
+
+4) If the Owner/Permittee, Project Sponsor or Principal lnvestigator/lnvestigation Firm fails to comply with any of the Commisslon's Rules of
+Practice and Procedure or with any of the specific terms of this permit, or fails to properly conduct or complete this project within the allotted
+time, the permit will fall into default sfafus. A notification of Default stafus sha// be sent to the Principal lnvestigator/lnvestigation Firm, and
+the Principal lnvestigator will not be eligible to be rssued any new permits until such time that the conditions of this permit are complete or; if
+applicable, extended.
+5) The Owner/Permittee, Project Sponsori and Principal Investigator/lnvestigation Firm, in the conduct of the activities hereby authorizes,
+must comply with all laws, ordinances and regulations of the State of Texas and of its political subdlvrsions including, but not limited to, the
+Antiquities Code of lexas; they must conduct the investigation in such a manner as to afford protection to the rights of any and a// /essees
+or easement holders or other persons having an interest in the property and they must return the property to its original condition insofar as
+possible, to leave it in a state which will not create hazard to life nor contribute to the deterioration of the site or adjacent lands by natural
+forces.
+6) Any duly authorized and empowered representative of the Commission may, at any time, visit the sife fo rnspecf the fieldwork as wel/ as
+the field records, materials, and specimens being recovered.
+7) For reasons of sife security associafed with historical resources, the Project Sponsor (if not the Owner/Permittee), Principal lnvestigator,
+Owner, and lnvestigation Firm shall not issue any press releases, or divulge to the news media, either directly or indirectly, information
+regarding the specific location of, or other information that might endanger those resources, or their associated aftifacts without first
+consulting with the Commission, and the State agency or political subdivision of the State that owns or controls the land where the resource
+has been discovered.
+8) This permit may not be assigned by the Principal lnvestigator/lnvestigation Firm, Owner/Permittee, or Projecf Sponsorrn whole, or in part
+to any other individual, organization, or corporation not specifically mentioned in this permit without the written consent of the Commission.
+9) Hold Harmless: The Owner/Permittee hereby expressly releases the State and agrees that Owner/Permittee will hold harmless,
+indemnify, and defend (including reasonable attomey's fees and cost of litigation) the State, its officers, agents, and employees in their
+official and/or individual capacities irom evety liability, loss, or claiÂ¡n for damages to persons or property, direct or indirect of whatsoever
+nature arising out of, or in any way connected with, any of the activities covered under this permit.The provisions of this paragraph are
+solely for the benefit of the State and the Texas Historical Commission and are not intended to create or grant any rights, contractual or
+otherwise, to any other person or entity.
+10) Addendum: The Owner/Permittee, Project Sponsor and Principal Investigator/lnvestigation Firm must abide by any addenda hereto
+attached.
+
+Upon a finding that it is in the best interest of the State, this permit ls issued on 09/22/2015
+
+PnÃ M ercado-Al I Ã­ nger,
+
+for
+
+th e
+
+Texos IJ islorical Commissiott
+
+

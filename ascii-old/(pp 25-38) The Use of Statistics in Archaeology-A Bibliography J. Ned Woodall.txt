@@ -1,0 +1,808 @@
+The Use of Statistics In Archaeology -- A Bibliography
+compiled by
+J. NED WOODALL
+
+INTRODUCTION
+Statistics as used in the following bibliography refers mainly to
+inductive, as opposed to descriptive, statistics. By descriptive statistics
+is meant the use of certain summarizing measures to reduce an unwieldy mass of data in order that it can be more easily understood.
+These measures may be percentages, means, standard deviations, histograms, or other devices; all share the common characteristic of functioning to condense a collection of facts. Examples can be found in
+ahnost any archaeological monograph. Inductive statistics differs in that
+the properties of a population (or "universe") are inferred by examining a sample drawn from that population. Involved is probability
+theory and sampling techniques, and for this reason articles dealing
+with statistical sampling of archaeological deposits are included in the
+bibliography.
+In compiling references the use of a statistical test of significance
+usually determined the inclusion of any particular essay. Inductive
+statistics makes use of an ever-increasing number of such tests, but the
+one most widely favored by arehaeo!ogists is the chi-square test of
+independence. The Brainerd-l~obinson technique and related tests
+such as that of Meighan (1959) and M. Ascher (1959) are measures
+of association between two variables. These can be understood as
+inductive in that the non-randomness of the distribution of the two
+variables (the correlation )-as demonstrated by the sample-points to
+a similar non-random distribution in the universe.
+In the bibliography below, those references with no annotation following were not examined first-hand. A few were included only on the
+basis of a suggestive title, while others were obtained from the bibliographies of sources available to me.
+THE BIBLIOGRAPHY
+Anderson, A. D.
+1961 The Clenwood Sequence, a Local Sequence for a Series of Archeo!ogieal Manifestations in Mills County, Iowa. Journal of the Iowa Archaeological Society Vol. 10, p. 3.
+An application of the Bralnerd-!Koblnson technique.
+
+TEXAS AIRCHEOLOGICAL
+
+SOCIETY
+
+Anderson, Keith M.
+1963 Ceramic Clues to Pueblo-Puebloid Relationships. American Antiquity
+Vol. 28, No. 3, pp. 303-307.
+The median test (a variation of chi-square for rank order data) and Yule’s coeflacient of association are used to compare ceramic types.
+Ascher, Marcia
+1959 A Mathematical Rationale for Graphical Seriation. American Antiquity
+Vol. 25, No. 2, pp. 212-214.
+An explanation of the xlgebraic foundations of Meighan’s three-pole seriation
+technique, and a demonstration of a simpler method using only two percentages.
+Ascher, Robert
+1959 A Prehistoric Population Estimate Using Midden Analysis and Two
+Population Models. Southwestern Journal of Anthropology Vol. 15, No.
+2, pp. 168-178.
+A use of column sampling, combined with the known mass of the site, to make
+a population estimate.
+Ascher, Marcia, and Robert Ascher
+1963 Chronological Ordering by Computer. American Anthropologist Vol. 65,
+No. 5, pp. 1045-1052.
+A method which makes the Brainerd-Robinson technique susceptible to ordering
+by computer.
+Beals, Ralph L., George W. Brainerd, and Watson Smith
+1945 Archaeological Studies in Northeast Arizona. University of California
+Publications in American Archaeology and Ethnology Vol. 44, No. 1,
+esp. pp. 164-168.
+A discussion of possible sources of error in archaeological sampling.
+Belous, Russel E.
+1953 The Cenh-al California Chronological Sequence Re-examined. American
+Antiquity Vol. 18, No. 4, pp. 341-353.
+A test of the accuracy of the Brainerd-Robinson technique.
+Bennyhoff, James A.
+1952 The Vim Valley Sequence: A Critical Review. American Antiquity Vol.
+17, No. 3, pp. 231-249, esp. p. 233.
+A discussion of what constitutes a reliable surface sample.
+Binford, Lewis R.
+1963 "Red Ocher" Caches from the Michigan Area: A Possible Case of Cultural Drift. Southwestern Journal of Anthropology Vol. 19, No. 1, pp.
+89-108, esp. pp. 96-108.
+A use of chi-square and analysis of variance.
+1964
+
+A Consideration of Archaeological Research Design. American Antiquity
+Vol. 29, No. 4, pp. 425-441.
+A valuable discussion of archaeological sampling.
+
+Binford, Lewis R. and Sally R. Binford
+1966 A Preliminary Analysis of Functional Variability in the Mousterian of
+Levallois Facies. In Recent Studies in Paleoanthropology, J. Desmond
+Clark and F. Clark Howell (editors), pp. 238-295. American Anthropologist Vol. 68, No. 2, Part 2.
+The use of factor analysis to relate different assemblages to several cultural
+activities.
+
+STATISTICS IN ARCHAEOLOGY
+
+27
+
+Binford, Lewis R. and Ceorge I. Quimby
+1963 Indian Sites and Chipped Stone Materials in the Northern Lake Michigan Area. FieIdiana: Anthropology Vol. 36, No. 19,, pp. 299-303. Chicago Natural I-Iistol~r Museum.
+The use of cbi-square in comparing assemblages.
+Brainerd, George W.
+1951 The Place of Chronological Ordering in Archaeological Analysis. American Antiquity Vol. 16, No. 4, pp. 301-313.
+An explanation of the application of matrix ordering for dating (the RobinsonBrainerd technique).
+1951
+
+The Use of Mathematieal Fornmlations in Archaeological Analysis. In
+Essays on Archaeological Methods, Anthropological Papers, Museum of
+Anthropology, University of Michigan.
+A general critique of statistical techniques in archaeology.
+
+Brown, James A.
+1966 Spiro Studies. Volume 1: Description of the Mound Croup. The University of Oklahoma Research Institute. See esp. p. 52.
+A cbi-square contingency table is used to show the association between kinds of
+burials and other features.
+Brown, James A. and Robert E. Bell
+1964 The First Annual Report of Caddoan Archaeology, Spiro Focus Research. The University of Oklahoma Research Institute. See esp. p. 42.
+Cbi-square is used to dernonstrate the association of burial type and area of
+internment.
+Brown, James A. and L. C. Freeman, Jr.
+1964 A Univac Analysis of Sherd Frequencies from the Carter Ranch Pueblo,
+Eastern Arizona. Americar~ Antiquity Vol. 30, No. 2, pp. 162-167.
+A consideration of the bias caused by sampling error; an appended comment by
+Paul S. Martin stresses the conceptual importance of proper sampling.
+Brown, M. A. and A. E. Blin-Stoyle
+1959 A Sample Analysis of British Middle and Late Bronze Age Material,
+Using Optical Speeh’ometry. Proceedings of the Prehistoric Society for
+1959. N.S. Vo!. 25, pp. 190-193.
+A positive correlation is demonstrated between trace elements in bronze.
+Chenhal!, Robert G. (editor)
+Newsletter of Computer Archaeology.
+Arizona State University.
+
+Department of Anthropology,
+
+References to current applications of computers to archaeological data, including
+the use of statistical tests.
+Clarke, D. L.
+1962 Matrix Analysis and Archaeology with Particular Reference to British
+Beaker Pottery. Proceedings of the Prehistoric Society for 1962, N.S.
+Vol. 28, pp. 371-382.
+Thirty-nine traits of British beakers were sorted by matrix analysis to reveal
+attribute clusters.
+
+TEXAS ARCHEOLOGICAL SOCIETY
+
+Cole, G. H.
+1967 The Later Acheulian and Sangoan of Southern Uganda. In Background
+to Evohttion in Africa, Walter W. Bishop and J. Desmond Clark (editors) pp. 481-528. The University of Chicago Press.
+The use of cbi-square to test the significance of differences between artifact
+assemblages.
+
+Cook, S. F. and R. F. Heizer
+1951 The Physical Analysis of Nine Indian Mounds of the Lower Sacramento
+Valley. University of California Publications in American Archaeology
+and Ethnology Vol. 40, pp. 981-312.
+A discussion of various sampling methods, the problems of each, and possible
+sources of error.
+
+Cook, S. F. and A. E. Treganza
+1947 The Quantitative Investigation of Aboriginal Sites: Comparative Physical and Chemical Analysis of Two California Indian Mounds. American
+Antiquity Vol. 13, No. 2, pp. 135-141.
+The use of Fischer’s t value to test the significance of differences between two
+mounds.
+
+1956
+
+The Quantitative Investigation of Indian Mounds. University of California Publications in American Archaeology and Ethnology Vol. 40,
+pp. 223-261.
+Least-squares method used to predict population size of archaeological sites.
+
+Cowgill, George L.
+1964 The Selection of Samples from Large Sherd Collections. American Antiquity VoL 29, No. 4, pp. 467-473.
+The value of using only a portion of recovered specimens for statistical manipulation is discussed.
+Cronin, Constance
+1962 An Analysis of Pottel7 Design Elements, Indicating Possible Relationships Between Three Decorated Types. In Chapters in the Prehistory of
+Eastern Arizona I. Fieldiana: Anthropology, Vol. 53, pp. I05-114. Chicago Natural History Museum.
+Coefficient of similarity between pottery types is calculated for testing a hypothesis concerning type relationships.
+Davis, Leslie B.
+1966 Avonlea Point Occurrence in Northern Montana and Canada. Plains
+Anthropologist Vol. 11, No. 39,, pp. 100-116, esp. pp. 109-113.
+The Spearman rank order difference correlational procedure applied to artifact
+attribute distribution.
+Deetz, James
+1965 The Dynamics of Stylistic Change in Arikara Ceramics. Illinois Studies
+in Anfllropology No. 4. The University of Illinois Press.
+The use of computers
+
+to
+
+demonstrate nonrandom
+
+distribution of stylistic
+
+attri-
+
+butes among rim sherds.
+
+Deetz, James, and Edwin Dethlefsen
+1965 The Doppler Effect and Archaeology: A Consideration of the Spatial
+Aspects of Seriation. Southwestern Journal of Anthropology Vol. 21,
+No. 3, pp. 196-9.06.
+A recognition of a source of distortion in seriation, contingent on the direction
+of trait diffusion.
+
+STATISTICS IN ARCHAEOLOGY
+
+29
+
+Dempsey, Paul, and Martin Baumhoff
+1963 The Statistical Use of Artifact Distributions to Establish Chronological
+Sequence. American Antiquity Vol. 28, No. 4, pp. 496-509.
+A variation of the Bralnerd-Robinson technique, including an example of weighting of certain types.
+Dixon, K.
+1956 Archeological Objectives and Artifact Sorting Techniques: A Re-examination of the Snaketown Sequence. Western Anthropology, Vol. 3.
+A use of the Robinson coefficient technique.
+Fairbanks, Charles H.
+1942 The Taxonomic Position of Stalling’s Island, Georgia. American Antiquity Vol. 7, No. 3, 223-231.
+An application of the four-cell method described by Kroeber (1940) for demonstrating intersite similarities.
+Fitting, James E.
+1963 Thickness and Fluting of Paleo-Indian Projectile Points. American Antiquity Vol. 29, No. 1, pp. 105-106.
+The calculation of cbi-square to test the relationship between the two attributes.
+1965
+
+Late Woodland Cultures of Southeastern Michigan. Anthropological
+Papers, Museum of Anthropology, University of Michigan, No. 24. See
+esp. pp. 12-33.
+Cbi-square tests are used to demonstrate the non-random grouping within a site
+of certain design elements, temper and vessel shape.
+
+1965
+
+A Quantitative Examination of Virginia Fluted Points. American Antiquity Vol. 30, No. 4, pp. 484-491.
+The cbi-square test is used to define "clines" of projectile point attributes.
+
+Flanders, Richard E.
+1960 A Re-Examination of Mill Creek Ceramics: the Robinson Technique.
+Journal of the Iowa Archaeological Society Vol. 10, pp. 1-35.
+An application of the Robinson technique.
+Ford, James A.
+1936 Analysis of Indian Village Site Collections from Louisiana and Mississippi. Anthropological Study No. 2, Department of Conservation, Louisiana Geological Survey, pp. 11-15.
+An ear.ly concern with sampling methods in archaeology.
+1938
+
+A Chronological Method Applicable to file Southeast. American Antiquity Vol. 3, No. 3, pp. 260-264.
+A discussion of the theory of seriation by sampling.
+
+1954
+
+Connnent on A. C. Spaulding, "Statistical Techniques for the Discovery
+of Artifact Types." American Antiquity Vol. 19, No. 4, pp. 390-391.
+Ford points out that culture change revealed by statistics may be due either to
+a lack of conformity to norms or to change through time. Statistics does not
+indicate the cause of differences.
+
+Fowler, Melvin L.
+1959 Summary Report of Modoe Rock Shelter. Illinois State Museum, Report
+of Investigations No. 8. Appendix III, Projectile Point Typology and
+Analysis.
+A use of the t-test to determine the significance of projectile point attribute
+ratios.
+
+30
+
+TEXAS ARCIIEOLOGICAL
+
+SOCIETY
+
+Freeman, Leslie C~, Jr.
+1962 Statistical Analysis of Painted Pottery Types from Upper Little Colorado Drainage. Chapters in the Prehistory of Eastern Arizona I. Fieldiana: Anthropology, Vol. 53, pp. 87-104. Chicago Natural History Museum.
+The use of the Robinson-Brainerd technique of seriation.
+
+1966
+
+The Nature of Mousterian Facies in Cantabrian Spain. In Recent Studies in Paleoanthropology, J. Desmond Clark and F. Clark Howell (editors), pp. 230-237. American Anthropologist Vol. 68, No. 2, Part 2.
+Correlation analysis and factor analysis used to test the variability of tool types.
+
+Freeman, Leslie G. Jr., and James A. Brown
+1964 Statistical Analysis of Carter Ranch Pottery. Chapters in the Prehistory
+of Eastern Arizona H, Paul S. Martin et al (editors). Fieldiana: Anthropology, Vol. 55, pp. 126-154. Chicago Natural History Museum.
+The use of cbi-square and a consideration of possible sampling error.
+1965
+
+A Univac Analysis of Sherd Frequencies from a Southwestern Site. The
+Use of Computers in Anthropology, Dell Hymes (editor), p. 513. Mouton and Co., The Hague.
+Statistical methods used to discover room types and functional constellations of
+pottery. Bias caused by functional differences and sampling error (in addition to
+temporal differences) is also considered.
+
+Gibson, Cordon D.
+1950 A Rapid Method for Ascertaining Serial Lag Correlation. Biometrika
+Vol. 37, pp. 288-307.
+First-moment correlation to objectify the best fit when using the dendrochronology scale.
+Giddings, J. L.
+1964 The Archeology of Cape Denbigh. Statistical Validation of Types, pp.
+277-280. Brown University Press.
+Difference-of-means tests used to show nonrandom distribution of ceramic attributes leading to type definitions.
+Gifford, E. W.
+1951 Archaeological Excavations in Fiji. Anthropological Records Vol. 13, pp.
+189-288. University of California Press.
+Coodwin, A. J. H. and C. wm Riet Lowe
+1929 Stone Age Cultures of Africa. Annals’ of the South African Museum
+Vol. 27, pp. 147-243.
+Greenwood, Roberta S.
+1961 Quantitative AnMysis of Shells from a Site in Coleta, California. American Antiquity Vol. 26, No. 3, pp. 416-420.
+A consideration of field sampling problems, and an application of the analysis
+of variance.
+Haag, William G.
+1948 An Osteometric Analysis of Some Aboriginal Dogs. The University of
+Kentucky Reports in Anthropology, Vol. 7, No. 3, pp. 206-225.
+Although the methods (t-test and analysis of variance)
+material, both are adaptable to artifact analysis as well.
+
+are used on skeletal
+
+STATISTICS IN ARCHAEOLOGY
+
+31
+
+Hawley, Florence
+
+1984
+
+The Significance of the Dated Prehistory of Chetro KetI. The University
+of New Mexico Bulletin. See esp. pp. 47-51.
+A test of a hypothesis about a universe mean, with an explanation of the procedure followed.
+
+Heizer, Robert F. and Sherburne F. Cook
+1956 Some Aspects of the Quantitative Approach in Archaeology. Southwestern Journal of Anthropology, Vol. 12, No. 3, pp. 229-248, esp. pp. 240242.
+A gener,ll discussion of the value and problems of quantifying archaeological
+data.
+
+Hill, James N.
+1966 A Prehistoric Conmmnity in Eastern Arizona. Southwestern Journal of
+Anthropology, Vol. 22, No. 1, pp. 9-30.
+Multivariate analysis performed to define non-random clusters of pottery types
+and design elements. Also chi-square is used to demonstrate modes of roorn size.
+Hole, Frank, and Mary Shaw
+1967 Computer Analysis of Chronological Seriation. Rice University Studies
+Vol. 53, No. 3.
+The use of computers for matrix ordering is described in detail.
+Jelinek, Arthur J.
+1962 Use of file Cunmlative Graph in Temporal Ordering. American Antiquity Vol. 28, No. 2, pp. 241-243.
+A rapid method of seriation which can be used if the relative ages of artifact
+types are known.
+
+Jennings, Jesse D.
+1965 Computers and Culture History: A Glen Canyon Study. In The Use of
+Computers in Anthropology, Dell Hymes (editor), pp. 516-517. Mouton and Co., The Hague.
+Plans for a statistical analysis of the large Glen Canyon collection are revealed.
+The need for statistical methods appropriate to such analysis is cited.
+
+Johnson, Leroy Jr.
+1967 Toward a Statistical Overview of the Archaic Cultures of Central and
+Southwestern Texas. Texas Memorial Musemn Bulletin 12.
+An example of the application of the Robinson technique of matrix ordering.
+Included is a discussion of the various statisticxl tests used by archaeologists.
+Kamenetskij, I. S.
+1965 Datation of Layers frona Percentages of Pottery Types. In Archaeology
+and the Natural Sciences (in Russian), pp. 302-307. Nauka, Moscow.
+Kerrich, J. E.
+1962 Statistical Notes. Appendix 5 in Prehistory of the Transvaal by R. J.
+Mason, pp. 458-461. Witwatersrand University Press, Johannesburg.
+An explanation of the chi-square test as applied to archaeological samples.
+Kluckhohn, Clyde, and Paul Reiter
+1939
+Preliminary Report on the 1937 Excavations, Bc 50-51, Chaco Canyon,
+New Mexico. The University of New Mexico Bulletin, Anthropological
+Series Vol. 3, No. 2, p. 42.
+The use of cbi-square to test vertical sherd distributions.
+
+TEXAS
+
+ARCHEOLOGICAL SOCIETY
+
+Knudson, Ruth Ann
+1967 Cambria Village Ceramics. Plains Anthropologist Vol. 12, No. 37, pp.
+247-299, esp. pp. 251-252.
+The use of the cbi-square test in pottery analysiL
+
+Kavalevskajo, V. B.
+1965 The Use of Statistical Methods for the Study of Large Arehaeo!ogieal
+Collections. In Archaeology and the Natural Sciences (in Russian),
+pp. 286-300. Nauka, Moscow.
+Kozelka, Robert M.
+1956 Mathenaaties and the Anthropologist. Plains Anthropologist No. 6, pp.
+13-16.
+A brief outline of the potential value of statistics to anthropologists.
+
+Krige, K.
+In
+Statistical Test on the Validity of Grouping or Patterning Within
+Press South and East African Later Aeheulian Industries. Cave of Hearths in
+Prehistory, R. J. Mason (editor). Witwatersrand University Press,
+Johannesburg.
+Application of c/)i-square tests to artifact assemblages.
+Kroeber, A. g.
+1940 Statistical Classification. American Antiquity Vol. 6, No. 1, pp. 29-44.
+A demonstration of the use of correlation coefficients for quantifying intersite
+similarities.
+1942
+
+Tapajo Pottery. American Antiquity Vol. 7, No. 4, pp. 403-405.
+An
+
+"interareal
+
+attributes
+
+and
+
+Z coefficient" is calculated
+then is used
+
+to find
+
+to measure
+
+significant
+
+the frequency of potter),
+
+trait groupings.
+
+Krug, C. K., and O. Ju
+1965 Mathematical Methods for the Classification of Ancient Pottery. In
+Archaeology and the Natural Sciences (in Russian), pp. 318-325.
+Nauka, Moscow.
+Kuzara, R. S., G. R. Mead and K. A. Dixon
+1966 Seriation of Anthropological Data: a Computer Program for Matxix
+Ordering. American Anthropologist Vol. 68, No. 6, pp. 1442-1455.
+The Brainerd-Robinson method of analysis by matrix ordering.
+Laughlin, William S. and Cordon H. Marsh
+1954 The Lamellar Flake Manufacturing Site on Anangula Island in the
+Aleutians. American Antiquity Vol. 20, No. 1, pp. 27-39.
+Ana!ysis of variance applied to a tool manufacturing site; a favoring of certain
+modes is demonstrated.
+Lehmer, Donald J.
+1950 Review of "Excavations at Snaketown IV, Reviews and Conclusions" by
+Harold Stirling Gladwin. American Anthropologist Vol. 52, No. 3, pp.
+415-418.
+Observed and expected frequencies of sherd types are compared to show that
+certain of the types were not contemporary.
+
+1951
+
+Robinson’s Coefficient of Agreement-A Critique. American Antiquity
+Vol. 17, No. 2, p. 151.
+A protest against the lack of consideration given to sample size in computing
+the coefficient of agreement.
+
+STATISTICS IN ARCHAEOLOGY
+1954
+
+33
+
+Archeological Investigations in the Oahe Dam Area, South Dakota, 1950-
+
+195I. Bureau of American Ethnology Bulletin 158. See esp. pp. 73-83.
+A statistical demonstration of non-random distribution of artifact types in a site
+using a difference-of-means test. Also included is a footnote concerning the choice
+of a level of significance.
+Lewis, T. M. N., and Madeline Kneberg
+1959 The Archaic Culture in the Middle South. American Antiquity Vol. 25,
+No. 2, pp. 161-183.
+The use of Kroeber’s coefficient of proximity to arrange components in a rectangular matrix and then group them into two traditions.
+Lipe, William D.
+1964 Connnents on Dempsey and Baumhoff’s "The Statistical Use of Artifact
+Distributions to Establish Chronological Sequence." American Antiquity
+Vol. 30, No. 1, pp. 103-104.
+A comparison of the Demsey-Baumhoff method to the Robinson technique.
+Litvak King, Jaime
+1964 Estratigrafia cultural y natural en un tlatel en el lago de Texcoco.
+Departamento de Prehistoria del Instituto Nacional de Antropologia y
+Historia, Publicacion No. 13. Mexico, D.F.
+An example of the cumulative graph used to order a series of ceramic strata.
+Longacre, William A.
+1964 Archaeology as Anthropology: A Case Study. Science Vol. 144, pp.
+1454-1455.
+The use of multiple regression analysis to find significant horizontal groupings of
+artifacts.
+
+1965
+
+Computer Analysis of a Prehistoric Pueblo. In The Use of Computers
+in Anthropology, Dell Hymes (editor), p. 521. Mouton and Co., The
+Hague.
+Multiple regression analysis revealed non-randoln distribution of ceramic design
+elements in the site.
+
+MeMichael, Edward V.
+1959 Statistical Analysis in Archaeology. Proceedings of the Indiana Academy
+of Science Vol. 68, pp. 65-69.
+A survey of the use of statistical methods in archaeo.!ogy between 1940 and 1959.
+McPherron, Alan
+1967 The ]untunen Site and the Late Woodland Prehistory of the Upper
+Great Lakes Area. Anthropological Papers No. 30, Museum of Anflaropology, University of Michigan.
+The application of chi-square, t, and analysis of variance tests.
+Martin, Paul S.
+1962 Archeological Investigations in East Central Arizona. Science, Vol. 138,
+pp. 826-827.
+The application of unspecified statistical tests, using a computer, to find constellations of pottery types.
+Mason, R. J.
+1957 The Transvaal Middle Stone Age and Statistical Analysis.
+African Archaeological Bulletin Vol. 12, No. 48, pp. 119-148.
+
+South
+
+34
+1959
+
+TEXAS AIqCHEOLOGICAL SOCIETY
+
+Some South African Stone Age Cultures. Nature, Vol. 183, No. 4658,
+pp. 377-379.
+The value of statistical analysis £or defining industries is cited.
+
+1962
+
+Prehistory of the Transvaal. Chapter 5, "Statistics and Prehistory," pp.
+87-93. Witwatersrand University Press, Johannesburg.
+
+1967
+
+Analytical Procedures in the Earlier and Middle Stone Age Cultures in
+Southern Africa. In Background to Evolution in Africa, Walter W.
+Bishop and J. Desmond Clark (editors), pp. 437-464, esp. pp. 756, 760.
+The University of Chicago Press.
+
+A general discussion of both descriptive and inductive statistics in archaeology.
+
+Examples of the use and misuse of cbi-square in comparing artifact assemblages.
+Matthews, J.
+1963 Application of Matrix Analysis to Archaeological Problems. Nature, Vol.
+198, No. 4884, pp. 930-934.
+A critique of the use of matrix analysis by several archaeologists.
+¯
+Maxwell, Moreau S. and Lewis H. Binford
+1961 Excavation at Fort Michilimackinac, Mackinac City, Michigan, 1959
+Season. Publications of the Museum, Michigan State Uiaiversity Cultural Series Vol. 1, No. 1, pp. 108-109.
+The age of pipe stems is estimated by calculating a straight line regression for
+hale diameter.
+Meighan, Clement W.
+1959 A New Method for the Seriation of Archaeological Collections. American Antiquity Vol. 25, No. 2, pp. 203-211.
+The three-pole seriation technique using only three artifact types is described
+with comments concerning sample size.
+Milke, Wilhelm P.
+1965 Statistical Processing. In The Use of Computers in Anthropology, Del!
+Hymes (editor), pp. 189-204. Mouton and Co., The Hague.
+A survey of the use of various statistical programs in all phases of anthropology
+and the problems now apparent.
+Moberg, C-A.
+1961 M~ingder av Fornfynd (with English summary: Trends in the Present
+Development of Quantitative Methods in Archaeology). Acta Universitatis Ggthoburgensis, G6teborg Universitets Arsskrift, Vol. 47, No.
+1. GSteborg.
+Mukherjee, R., C. R. Rao and J. C. Trevor
+1955 The Ancient Inhabitants of Jebel Moya. Cambridge University Press.
+An extensive use of the cbi-square test.
+Myers, O. H.
+1950 Some Applications of Statistics to Archaeology. Government Printing
+Press for the Service des Antiquites de l’Egypte. Cairo.
+Orr, Kenneth C.
+1952 Change at Kincaid: a Study of Cultural Dynamics. In Kincaid, a Prehistoric Illinois Metropolis, by Fay-Cooper Cole, pp. 293-359. University of Chicago Press.
+Use of the t-test to determine if artifact distribution varied significantly between
+two deposits.
+
+STATISTICS IN ARCHAEOLOGY
+
+35
+
+Prade!, L.
+1954
+
+De la Nature des Statistiques et de Leur role en Prehistoire. Bulletin
+Societe Prehistorique Francais, Vol. 51, n. 11-i2, pp. 560-563. Paris.
+A general discussion of the usefulness and sources of error in archaeological
+statistics.
+
+Robinson, W. S.
+1951 A Method for Chronologically Ordering Archaeological Deposits. American Antiquity Vol. 16, No. 3, pp. 293-301.
+A demonstration of the Robinson-Brainerd technique of quantifying sample differences, with the objective of chronological arrangement.
+Robinson, W. S., and George W. Brainerd
+1952 Robinson’s Coefficient of Agreement-A Rejoinder. American Antiquity
+Vol. 18, No. 1, pp. 60-61.
+A defense of the method.
+Rootenberg, Sheldon
+1964 Archaelogical Field Sampling. American Antiquity Vol. 30, No. 2, pp.
+
+181-188.
+A sampling design for use in stratified cluster sampling.
+
+Sackett, James R.
+1966 Quantitative Analysis of Upper Paleolithic Stone Tools. In Recent
+Studies in Paleoanthropology, J. Desmond Clark and F. Clark Howell
+(editors), pp. 356-394. American Anthropologist Vol. 68, No. 2, Part 2.
+The use of cluster analysis for refining artifact typologies.
+
+Schenck, W. Egbert
+1926 The EmeryviUe SheUmound Final Report. University of California Publications in American Archaeology and Ethnology, Vol. 23, pp. 147-282,
+esp. pp. 205-212.
+An
+
+estimate
+
+thickness
+
+of prehistoric
+
+and
+
+population
+
+other non-artifactual
+
+is calculated
+
+evidence;
+
+an
+
+from
+
+example
+
+food
+of
+
+remains,
+the
+
+midden
+
+problems
+
+en-
+
+countered in archaeological field sampling.
+
+Shepard, Anna O.
+1942 Rio Grande Glaze Paint Ware. Appendix I, Statistical Methods. Contributions to American Anthropology and History, No. 39. Carnegie
+Institution of Washington Publication 528.
+A critique of archaeological sampling methods and probability theory.
+1956
+
+Ceramics for the Archaeologist.
+Publication 609, pp. 332-333.
+
+Carnegie Institution of Washington
+
+A brief mention of statistics in pottery analysis.
+Spaulding, Albert C.
+1953 Statistical Techniques for the Discovery of Artifact Types. American
+Antiquity Vol. 18, No. 4, pp. 305-313.
+The use of chi-square to demonstrate attribute clustering.
+
+1953
+
+Review of James A. Ford’s Measurement of Some Prehistoric Design
+Developments in the Southeastern States. American Anthropologist Vol.
+55, No. 4, pp. 588-591.
+The use of Student’s t distribution to test the significance of correlation coefficients.
+
+36
+
+TEXAS AIqCHEOLOCICAL SOCIETY
+
+1954
+
+Reply to Ford. American Antiquity Vol. 19, No. 4, pp. 391-393.
+A defense of the use o£ statistics in defining artifact types.
+
+1956
+
+The Aryberger Site, Hughes County, South Dakota. Occasional Contributions No. 16, Musemn of Anthropology, University of Michigan,
+pp. 111-121, 131-132.
+A test for homogeneity of deposit using logarithmic graphs; problems of using
+cbi-square.
+
+1958
+
+The Significance of Difference between Radiocarbon Dates. American
+Antiquity Vol. 23, No. 3, pp. 309-311.
+An application of the t-test and analysis of variance to determine the significance
+of different G-14 dates.
+
+1960
+
+The Dimensions of Archaeology. In Essays in the Science of Culture
+in Honor of Leslie A. White, Gerh’ude E. Dole and Robert L. Carneiro,
+(editors), pp. 437-456. Thomas Y. Crowell Co.
+A general discussion of the use of cluster analysis, a method of testing for independence in attribute occurrence among artifacts.
+
+1960
+
+Statistical Description and Comparison of Artifact Assemblages. In
+The Application of Quantitative Methods in. Archaeology, Robert F.
+Heizer and Sherburne F. Cook (editors), Viking Fund Publications in
+Anthropology 28, pp. 60-83. Quadrangle Book.
+Examples of the use of chi-square and analysis of variance, their usefulness and
+limitations.
+
+1962
+
+Archaeological Inoestigations on Agattu, Aleutian Islands. Anthropological Papers, Museum of Anthropo!ogy, The University of Michigan, No. 18.
+Chi-square is computed to test for randomness in tool distribution at two sites.
+
+Spier, Leslie
+1916 New Data on the Trenton Argillite Culture. American Anthropologist
+Vol. 18, p. 181.
+An early recognition of the usefulness of statistical tests for demonstrating and
+quantifying correlations between artifact types.
+1918
+
+The Trenton ArgiUite Culture. American Museum of Natural History,
+Anflaropological Papers, Vol. 22, Part 4.
+An early example of using the normal curve and the standard deviation for
+measuring significance of variation in archaeological deposits.
+
+1919
+
+An Outline for a Chronology of Zuni Ruins. American Museum of Natural History, Anflaropologieal Papers, Vol. 18, Part 3, pp. 252-255,
+281-287.
+An application of the theory of random sampling for seriation study.
+
+Strong, William D.
+1925 The Uhle Pottery Collections from Ancon. University of California Publications in American Archaeology and Ethnology Vol. 21, pp. 135190, esp. pp. 159-169.
+Pearson’s rho is used to demonstrate significant variation in the frequency of 40
+traits in four time periods.
+
+37
+
+STATISTICS IN ARCHAEOLOGY
+
+Suhm, Dee Ann
+
+1959
+
+The Williams Site and Central Texas Arehae01ogy. The Texas Journal
+of Science Vol. 11, No. 2, pp. 218-250, esp. p. 226.
+The use of cbi-square to test the distribution o£ projectile point types.
+
+Treganza, A. E. and S. F. Cook
+1948 The Quantitative Investigation of Aboriginal Sites: Complete Excavation with Physical and Archaeological Analysis of a Single Mound.
+American Antiquity Vol. 13, No. 4, pp. 287-297.
+An experiment to determine what constitutes an adequate sample for statistical
+purposes.
+Trigger, Bruce G,
+1965 History and Settlement in Lower Nubia. Yale University Publications
+in Anthropology 69, pp. 156-166. Department of Anthropology, Yale
+University.
+Estimation of prehistoric population as based on cemetery samples.
+Troike, Rudolph C.
+1957 Time and Types in Archeological Analysis: the Brainerd-Robinson
+Technique. Bulletin of the Texas Archeological Society Vol. 28, pp.
+269-284.
+An example of matrix ordering by coefficient of similarity.
+
+Tugby, Donald J.
+1958 A Typological Analysis of Axes and Choppers from Southeast Australia.
+American Antiquity Vol. 24, No. 1, pp. 24-33.
+An example of matrix ordering of a tool sample to test the validity of current
+typology.
+1965
+
+Archaeological Objectives
+
+and Statistical Methods:
+
+A Frontier in Ar-
+
+chaeology. American Antiquity Vol. 31, No. 1, pp. 1-16.
+The statistical methods applicable to each of four levels o£ archaeological interpretation are described including cluster analysis, matrix analysis, factor
+analysis, cbi-square, Pearson product-moment and several others.
+
+Vescelius, C. S.
+1960 Archeological Sampling: A Problem of Statistical Inference. In Essays
+in the Science of Culture in Honor of Leslie A. White, C. E. Dole and
+R. L. Carneiro (editors), pp. 457-570. Thomas Y. Crowell Co.
+A description and critique of archaeological sampling methods.
+Weyer, Edward M. Jr.
+1964 New World Lithie Typology Project: Part I. American Antiquity Vol.
+29, No. 4, pp. 487-489.
+A summary of the results of a conference concerning the use o£ computers
+
+in
+
+performing statistical tests, especially analysis of variance.
+
+Willey, Cordon R.
+1961 Volume in Pottery and the Selection of Samples. American Antiquity
+Vo!. 27, No. 2, pp. 230-231.
+To obtain a wieldy amount of pottery for classification a sample was drawn
+from the total of recovered specimens.
+
+38
+
+TEXAS
+
+ARCHEOLOCICAL
+
+SOCIETY
+
+Witherspoon, Y. T.
+1961 A Statistical Device for Comparing Trait Lists. American Antiquity Vol.
+26, No. 3, pp. 433-436.
+A descriptive statistic calculated as an index to the similarity between archaeological cultures.
+Wissler, Clark
+1918 The Application of Statistical Methods to the Data on the Trenton Argfllite Culture. American Anthropologist Vol. 18, pp. 190-198.
+An early demonstration of significant variation from the expected random distribution of artifacts vs. pebbles suggesting a positive correlation.
+Wyekoff, Sort G.
+1967 The E. Johnson Site and Prehistory in Southeast Oklahoma. Archaeological Site Report No. 6, Oklahoma River Basin Survey, University of
+Oklahoma Research Institute.
+The use of chi-square in determining the significance of certain artifact distributions.
+Southern Methodist University
+Dallas, Texas
+
+

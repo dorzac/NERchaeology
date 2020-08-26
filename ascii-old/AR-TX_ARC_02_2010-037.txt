@@ -1,0 +1,1462 @@
+AR Consultants, Inc.
+
+Archaeological and Environmental Consulting
+
+11020 Audelia Road, Suite C105, Dallas, Texas 75243-9085
+Phone:
+(214) 368-0478
+Fax:
+(214) 221-1519
+E-mail: arcdigs@aol.com
+
+ARCHAEOLOGICAL SURVEY OF SITE 41BL308
+IN PHASE I OF THE BIRD CREEK INTERCEPTOR,
+BELL COUNTY, TEXAS
+
+Texas Antiquities Permit Number 5721
+Cody S. Davis, MA
+and
+Nick Coleman, BA
+
+Submitted to:
+
+JACOBS ENGINEERING GROUP, INC
+2705 Bee Caves Road
+Austin, TX 78746-5688
+Prepared by:
+AR CONSULTANTS, INC.
+11020 Audelia Road, Suite C105
+Dallas, Texas 75243-9085
+Cultural Resources Report 2010-37
+August 17, 2010
+
+HISTORICAL BUILDINGS ARCHAEOLOGY
+
+NATURAL SCIENCES
+
+ARCHAEOLOGICAL SURVEY OF SITE 41BL308
+
+ARCHAEOLOGICAL SURVEY OF SITE 41BL308
+IN PHASE I OF THE BIRD CREEK INTERCEPTOR,
+BELL COUNTY, TEXAS
+
+Texas Antiquities Permit Number 5721
+Cody S. Davis, MA
+and
+Nick Coleman, BA
+
+Submitted to:
+
+JACOBS ENGINEERING GROUP, INC
+2705 Bee Caves Road
+Austin, TX 78746-5688
+Prepared by:
+AR CONSULTANTS, INC.
+11020 Audelia Road, Suite C105
+Dallas, Texas 75243-9085
+Cultural Resources Report 2010-37
+August 17, 2010
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY OF SITE 41BL308
+
+i
+
+ABSTRACT
+The City of Temple is replacing and abandoning the existing 15” Bird
+Creek Sewer Line with a new 21” line on the west side of Temple in Bell
+County, Texas. This project will be done in phases, and the portion of the line
+for this study is Phase I. A desktop evaluation and literature review of
+Phase I was conducted, reviewed and concurred with by the Texas
+Historical Commission on July 15, 2010. The evaluation recommended
+that only the portion of the pipeline that crosses through the Early to
+Middle Archaic site 41BL308 needed to be surveyed, given the lack of
+information available on the site at the time of the evaluation. Site
+41BL308 is crossed by approximately 800 linear feet of Phase I. The route
+runs along the north side of Bird Creek through the Sammons Golf
+Course. This is an active golf course and has been in existence since the
+1920s. The purpose of the investigation was to determine if there was an
+intact buried archaeological deposit in the alluvium and to make
+recommendations on how it will be impacted by construction. Three
+backhoe trenches and four shovel tests demonstrated that the route through
+the site had been significantly impacted by the golf course. Only six
+prehistoric artifacts were recovered, and all came from a layer determined
+to be fill. Of the artifacts recovered, one Godley point was found in
+Trench 1. This point pushes the occupation of the site back to the Late
+Archaic. The testing did demonstrate that there were no buried
+archaeological deposits within the ROW and that the area has been
+modified repeatedly over the years. The low density of artifacts and the
+fact that all were recovered from fill demonstrate intrusive artifacts in a
+secondary context. Given the low density of artifacts recovered, lack of
+dateable features and disturbed nature of the area, we recommend that the
+portion of 41BL308 within the ROW is not eligible for listing on the
+NRHP or as a SAL. Based upon the results of the archaeological survey,
+AR Consultants, Inc. recommends that the City of Temple be allowed to
+construct Phase I of the Bird Creek Interceptor.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY OF SITE 41BL308
+
+ii
+
+ACKNOWLEDGEMENTS
+AR Consultants wishes to thank everyone involved in the Bird Creek Interceptor Phase I
+project and in the report preparation for his or her assistance. While we accept
+responsibility for the content of the report, numerous people who demonstrated their
+interest in the history and prehistory of the area assisted us in our investigation.
+First, we want to thank Jacobs Engineering, Inc. for asking us to carry out this
+investigation and for helping gain access and information to complete the investigation.
+Specifically we would like to thank Kathy Fretwell, Leonard Voellinger and Justin Bush
+for their input and help. Additionally, we would like to thank the City of Temple,
+Engineering Department for assisting with the planning and preparation of the fieldwork
+and help with understanding the project impact. In particular, we want to thank Salvador
+Rodriguez. Thanks also to Frei Enterprises, Inc., for their quick response and making
+trenching possible in the narrow timeframe allotted for the survey. We would like to
+thank their staff, and particularly Randy Frei, for his excellent backhoe work.
+We would also like to thank Art Tawater for the identification of the bone and Lance K.
+Trask for his expedited illustration of the Godley point. Special thanks go to Tim Perttula,
+for his help identifying the Godley point and the chert of which it was manufactured.
+Finally, we would like to thank Jason Roberts and Jeremy Lewis, with Sammons Golf
+Course for their help with right-of-entry and for all their input in the planning the survey
+and the history of disturbances that have occurred at the course.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+iii
+
+ARCHAEOLOGICAL SURVEY OF SITE 41BL308
+
+TABLE OF CONTENTS
+Abstract.....................................................................................……………..
+Acknowledgements…………………………………………………………….….
+Table of Contents..............................................................................………..
+List of Figures...................................................................................………..
+List of Tables……………………………………………………………………...
+Introduction ......................................................................................………..
+Natural Environment.........................................................................………..
+Culture History.................................................................................……..….
+Research Design and Methodology.....................................................…..……
+Results............................................................................................………….
+Recommendations.........................................................................…………..
+References Cited.............................................................................…….……
+Appendix A
+Bird Creek Interceptor Phase I Letter Evaluation…………………………
+Appendix B
+THC Concurrence Letter for Phase I Letter Evaluation……….………….
+Appendix C
+THC Concurrence Letter for Phase I Survey………………………..……..
+
+i
+ii
+iii
+ii
+iv
+1
+5
+6
+13
+15
+23
+24
+26
+35
+37
+
+LIST OF FIGURES
+Figure 1.
+Figure 2.
+Figure 3.
+Figure 4.
+Figure 5.
+Figure 6.
+Figure 7.
+
+Study area located on portions of the Belton and Temple,
+Texas 7.5’ USGS topographic maps…………………………….… 2
+Engineering drawing of proposed route, along with 41BL308
+site boundaries and existing pipelines in area, showing the
+proposed testing methods and location………………………….… 3
+41BL308 site map from Briuer and Kehl 1987. Note north
+arrow is pointing towards bottom of page. Existing sewer
+line has been highlighted …………………….……….…………... 10
+TASA boundaries for 41BL308. (Accessed August 11, 2010)…... 11
+TASA site boundaries shown on a Jacobs Engineering
+drawing of Sammons Golf Course showing project
+area, existing waterlines and ARC proposed sampling areas……... 12
+Methods used for the portion of the route where testing
+was possible, shown on an engineering drawing of golf
+course along with existing 15” line……………………………….. 14
+Birdseye view of the study area showing the testing conducted
+at the site………………………………………………………….... 15
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+iv
+
+ARCHAEOLOGICAL SURVEY OF SITE 41BL308
+
+Figure 8.
+Figure 9.
+Figure 10.
+Figure 11.
+Figure 12.
+Figure 13.
+Figure 14.
+
+View of pipeline route looking west from Fairway #6…………
+View of Bird Creek channel and exposed bedrock……………..
+T1 at the western end of the study area…………………………
+Godley point recovered from T1. Illustration
+by Lance K. Trask………………………..……………………..
+Location of Briuer and Kehl’s Trench 5, which was
+intersected by T2 of this study. Note that the North arrow is
+point to bottom of page…………………………………………
+Juvenile pig vertebra recovered from T2. Note saw marks on
+the edge……………………………………………………………
+Cut limestone brick recovered from T2. Note the even tool mark
+striations from the saw cut……………………………………..
+
+16
+16
+18
+19
+20
+21
+21
+
+LIST OF TABLES
+Table 1.
+Table 2.
+Table 3.
+
+Shovel Test Descriptions…………………………………………. 17
+Trench Descriptions……………………………………………… 19
+Artifacts Recovered from 41BL308 testing……………………… 22
+
+r-arc Testing of BL308-Bird Creek Survey 100807
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+1
+
+INTRODUCTION
+The City of Temple is replacing and abandoning the existing 15” Bird Creek Sewer Line
+with a new 21” line on the west side of Temple in Bell County, Texas (Figure 1). This
+project will be done in phases, and the portion of the line for this study is Phase I. A desktop
+evaluation and literature review of Phase I was conducted, reviewed and concurred with
+by the Texas Historical Commission on July 15, 2010 (Appendix A and B). The
+evaluation recommended that only the portion of the pipeline that crosses through Site
+41BL308 needed to be surveyed, given the lack of information available on the site at the
+time of the evaluation. Site 41BL308 is situated in approximately 800 linear feet of the
+Temple Bird Creek Interceptor Phase I (Figure 2). The route runs along the north side of
+Bird Creek through the Sammons Golf Course. This is an active golf course and
+according to the original survey report by Frederick Briuer and Carol Kehl (1987:21), it
+has been in existence since the 1920s. The project will utilize an 80’ wide right-of-way
+(ROW) as the limits of construction, but only a 30” wide trench through the golf course
+will be opened during installation. The installation process will try to disturb as little as
+possible of the golf course, so that less has to be restored after installation. The City has
+contracted with Jacobs Engineering Group Inc. to for the engineering design and
+environmental permitting and Jacobs has contracted with AR Consultants, Inc. (ARC) to
+conduct the archaeological survey.
+The purpose of this survey was to revisit the site 41BL308 and assess its integrity and to
+make recommendations about how this resource might be impacted by construction. The
+cultural resource investigation was conducted during August of 2010 and was required
+because the City of Temple is a political entity of the State of Texas. Texas Antiquities
+Permit Number 5721 was issued for the survey. Since Bird Creek contains Waters of the
+United States, it falls within the jurisdiction of the Fort Worth District of the US Army
+Corps of Engineers. Relevant federal legislation includes the National Historic
+Preservation Policy Act of 1966, as amended (PL-96-515), the National Environmental
+Act of 1969 (PL-90-190), the Archeological and Historical Preservation Act of 1974, as
+amended (PL-93-291), the Clean Water Act, as amended (PL-92-500) and the Rivers and
+Harbors Act of 1899. The Archeology Division of the Texas Historical Commission not
+only will review this report as the State Agency, but also as the Section 106 review
+agency.
+This report is written in accordance with the guidelines for reports adopted by the
+Archeology Division of the Texas Historical Commission, and developed by the Council
+of Texas Archeologists (n.d.). The following report presents a brief description of the
+natural setting of the project area, followed by a discussion of the cultural history of the
+area. A chapter on the research design and methodology employed in the investigation is
+then followed by the results of the field investigation. The report concludes with
+recommendations followed by the references cited.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+Figure 1.
+
+2
+
+Study area located on portions of the Belton and Temple, Texas 7.5’
+USGS topographic maps.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+Figure 2.
+
+Engineering drawing of proposed route, along with 41BL308 site boundaries and existing pipelines in area,
+showing the proposed testing methods and location.
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+3
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+4
+
+Administrative Information:
+
+Sponsor:
+Principal Investigator:
+Field Crew:
+Fieldwork Date:
+Acres Surveyed:
+Sites Recorded:
+Prehistoric:
+Historic:
+Curation:
+
+City of Temple with Jacobs Engineering Group,
+Inc. doing the environmental permitting
+Cody S. Davis, MA
+Cody S. Davis, S. Alan Skinner and Nick Coleman
+August 9, 2010
+0.6
+Revisit 41BL308
+none
+TARL
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+5
+
+NATURAL ENVIRONMENT
+Bell County is situated on the ecotone between the Edwards Plateau in the western
+portion of the county and the Blackland Prairie in the east, in which the study area lies
+(Diamond, Riskind and Orzell 1987). The eastern part of the county consists of rolling
+uplands that are heavily dissected by stream valleys or their remnants (Huckabee,
+Thompson, Wyrick and Pavlat 1977). The county is drained predominately by the Little
+River and its tributaries which include the Leon, Lampasas and Salado rivers which come
+together to form the Three Forks of the Little River. Bird Creek is mapped on both the
+USGS map and Soil Conservation Service Soil Map for Bell County as an intermittent
+tributary of the Leon River.
+The Austin Chalk formation underlies the entire golf course (Bureau of Economic
+Geology 1970). As the name suggests, this formation consists of chalk and marls, which
+degrade over time to form the Blackland Prairie’s deep clay soils. The study area contains
+many of these soils, including the Austin-, Houston Black- and Stephen-Urban land
+complexes with 1 to 5 percent slopes (AuC, HuC and SuC). These are shallow to deep
+sloping clayey soils on upland ridge tops and along drainage ways (Huckabee,
+Thompson, Wyrick and Pavlat 1977: Sheet 29). The remainder of the study area is
+situated in frequently flooded Frio silty clay (Fs), which is a deep soil situated in the
+floodplain of Bird Creek.
+Although situated in the Blackland Prairie, the study area also lies within the larger
+Texan biotic province (Blair 1950), which is rich in flora, yet features relatively low
+biotic diversity. Forty-nine species of mammals occur in the Texan province, including
+deer, raccoon, rabbits and opossum. Vegetation in the eastern part includes tall grasses,
+primarily Bluestem and Gramma (Diamond, Riskind and Orzell 1987). Narrow bands of
+bottomland forest are confined to the drainages throughout the region. The climate in Bell
+County is humid subtropical, and is characterized by hot summers and mild winters.
+Paleoenvironmental change is not well documented in the area, but it is summarized by
+Prikryl and Jackson (1985:13-14) and is discussed by Henry (1995). Prior to 12,000 B.C.,
+the climate of north central Texas was cooler and moister than at present. Between
+12,000 and 8,000 B.C., the climate became warmer and this continued to the present, but
+with brief mesic periods. It is suggested that the presence of high grass pollen and low
+arboreal pollen between 5550 and 1050 B.C. show a drying with a return of arboreal
+pollen after 1050 B.C. The later change is similar to today’s environment. High grass
+pollen also occurs at approximately A.D. 450 and from A.D. 1550 to 1650, and this also
+indicates a drier period. The presence of paleosols between A.D. 1 and 1000 suggest an
+increase in moisture during this period with a return to drier conditions after A.D. 1000.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+6
+
+CULTURE HISTORY
+Over the past several decades, cultural resources investigations in Central Texas have
+varied due to the locations and types of projects being carried out. The following culture
+history is derived from the reports Archaeological Testing at Fort Hood edited by Nick
+Trierweiler (1996) as well as various other reports from Fort Hood. The temporal
+framework includes the five prehistoric periods, to which the historic Native American
+and European periods have been added.
+Historic European
+Historic Native American
+Late Prehistoric
+Late Archaic
+Middle Archaic
+Early Archaic
+Paleoindian
+
+A.D. 1800 to Present
+A.D. 1600 to A.D. 1870
+A.D. 800 to A.D. 1600
+1,000 B.C. to A.D. 800
+3,000 B.C. to 1,000 B.C.
+6,000 B.C. to 3,000 B.C.
+ca. 9,200 B.C. to 6,000 B.C.
+
+The Paleoindian period ranges from approximately 9200 to 6000 B.C. Numerous Clovis,
+Folsom and Plainview points have been found in Bell County and other nearby counties.
+The Wilson-Leonard site (Collins 1998) and the Gault site in nearby Williamson County
+provide a look into the life ways of the Paleoindians in Central Texas. Additionally,
+excavations at the Gault site reveal extensive deeply buried and well stratified
+Paleoindian deposits. It is believed that Paleoindians were big game hunters, but recent
+research has questioned if that was completely accurate and it is more probably that they
+were generalized hunters and gathers.
+The Archaic is divided into three periods, the Early, Middle and Late. This period ranges
+from about 6000 B.C. to A.D. 800. The separation between the Paleoindian and Archaic
+periods is mainly one based upon subsistence change from big game to smaller game and
+more intensified use of plants. Recorded Early Archaic sites tend to be single event
+occupations. An emphasis during the Middle Archaic is the presence of burned rock
+middens for plant processing although hunting continued as the major subsistence
+practice. It is believed that the aboriginal population of Central Texas peaked during the
+Late Archaic based upon the number of recorded sites. In addition, site type is quite
+varied. Bison kill sites, cemeteries, trade for marine shells from the coast and the use of
+corner tang knives. Toward the end of the Late Archaic, rock shelters appear to be more
+utilized than open campsites.
+The Late Prehistoric period ranges from circa A.D. 800 to 1600 and is marked by the use
+of the bow and arrow and ceramics. The Late Prehistoric is dominated by the Austin and
+Toyah phases. During the Austin phase, ceramics were not common and subsistence was
+balanced between hunting and plant gathering. Cemeteries and exotic shell goods
+continue to be present. Intergroup warfare was occurring and suggests population
+movements and increased pressures in the region. North-south population movements
+appear to occur through Texas during the Toyah phase and a major shift to bison
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+7
+
+subsistence occurs although, in places, deer and antelope appear to be a major subsistence
+source. The use of burned rock middens becomes diminished due to the use of ceramics.
+The early years of the Historic Native American Period saw tentative exploration of
+central Texas by numerous Europeans (Stabler 1999). The exploits of early explorers
+such as Cabeza de Vaca, Coronado, Joutel and de Leon are well known, and most likely
+resulted in the first contact between Europeans and Native Americans in Texas, likely the
+Tonkawa. However, it was not until the establishment of Spanish missions between 1680
+and 1820 that European settlers had any lasting impact on native groups. Spanish
+missions were established on the frontiers of European settlement, and were aimed at
+Christianizing native inhabitants and forging viable sources of economic enterprise far
+from settled areas. The major impact of the Mission Period was the widespread
+introduction of the horse to native groups in Central Texas, which allowed them to
+expand their hunting territory. Unfortunately, it also allowed such groups as the Apache
+and Comanche to raid wide territories and eventually push the native inhabitants out of
+Central Texas.
+After Mexico gained independence from Spain in 1821, the Mexican government
+established the Empresario system in Texas to attract settlers to the region. Realizing that
+Spanish citizens were wary of the area due to encroachment by the aforementioned
+Comanche and Apache tribes, the Mexican government allotted numerous land grants to
+Anglo-American settlers, Stephen F. Austin’s being the first and most notable. Settlement
+increased steadily into the 1830s. By 1836, when Texas gained independence from
+Mexico, there were 40,000 Anglo-American settlers. These numbers would continue to
+steadily grow as Texas gained statehood in 1846, and more and more Americans came to
+the state to seek a livelihood, mostly through agriculture.
+Although corn, wheat and cotton were the main staple crops in Central Texas, ranching
+was the major economic pursuit due to the occurrence of droughts. After the Civil War,
+cotton boomed although corn, wheat and other crops remained a fixture of local
+agriculture. A population boom to Bell County was created when the Gulf, Colorado and
+Santa Fe railroad entered the county in 1881, and established Temple as its headquarters
+(Stabler 1999). The Missouri, Kansas and Texas railroad followed in 1882. Between
+1880 and the 1920s, a significant number of Germans, Austrians and Czechs immigrated,
+adding cultural diversity to the county. An increase not only in the population but the
+economy was evident during World Wars I and II. This can be attributed largely to the
+creation of Fort Hood (then known as Camp Hood) in 1942, which provided a substantial
+boost to the economy. Today, Bell County continues to grow on an economy based upon
+agribusinesses, ranching, factories, recreation, tourist attractions and other businesses.
+Previous Investigations
+As mentioned above, several archaeological surveys have been conducted at Fort Hood
+(Skinner, Briuer, Meiszner and Show 1981, 1984; Carlson, Ensor, Miller and Young.
+1987; Carlson, Carlson, Ensor, Miller and Young 1988 and others). The result of the
+archaeological surveys of approximately 189,000 acres was that approximately 247
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+8
+
+prehistoric sites were recorded as were 311 historic sites. The prehistoric sites range in
+age from Paleoindian to the Toyah phase and site types include lithic scatters, burned
+rock middens, rock shelters and camp sites. Cemeteries, trash dumps, 18th and 19th
+century residences, wells and other historic site types constitute the historic sites
+recorded.
+Archaeological testing of 65 prehistoric sites (Trierweiler 1996) resulted in the
+recommendation that 36 of the sites were eligible for nomination to the National Register
+of Historic Places. Further testing was done at 19 prehistoric sites (Mehalchick
+Kleinbach, Boyd, Tomka and Kibler 1999) and resulted in the recommendation that 11 of
+the sites were eligible for nomination to the National Register of Historic Places.
+Ethnoarchaeological studies (Carlson 1984) were conducted at the W. Jarvis Henderson
+site (41BL273) on the fort as well. Based upon the excavation, it was felt that an archaic
+lifestyle continued in Bell County as late as 1943, probably due to the absence of
+electricity, plumbing and other amenities.
+Two other major archaeological surveys have been done for reservoirs. The Belton
+Reservoir, which was constructed on the Leon River, Bland Creek and Cowhouse Creek
+approximately four miles northwest of the study area, was investigated by Stephenson
+(1949). Nineteen prehistoric archaeological sites were recorded in the study area, and 5
+outside the study area. Previously, 24 sites had been recorded in the study area, making a
+total of 43 sites within or adjacent to the proposed reservoir. Rock shelters, petroglyphs,
+burials, lithic scatters, burned rock middens and campsites were discovered. Small
+potsherds of East Texas types, a “Spiro type” shell gorget and an obsidian arrow point
+were found. Stephenson (1949:4) mentions that A. T. Jackson and students from the
+University of Texas excavated a rock shelter at the confluence of Owl Creek and the
+Leon River and recovered 24 burials and 100 artifacts. He further mentions that members
+of the Central Texas Archaeological Society excavated 33 burials and collected 98
+artifacts from a rock shelter on Kell Branch, which is a tributary to the Leon River.
+Southwest of Belton, the archaeological survey for the Stillhouse Hollow Reservoir
+(Johnson 1962) recorded 11 archaeological sites, many of which contained stratified
+cultural deposits. Two sites, the Landslide site (41BL85) and the Evoe Terrace site
+(41BL104) were chosen for further testing (Sorrow, Shafer and Ross 1967). The
+Landslide site appears to have been occupied during the Archaic; mainly the Early
+Archaic but with a short Late Archaic occupation present while the Evoe Terrace sites
+appears to have been occupied from the Paleoindian to the Austin focus times. Both sites
+contained abundant projectile points, knives, hammerstones, manos, grinding stones,
+hearths and lithic debris, all of which indicated a probable short term reoccupation
+through time.
+Site 41BL264 was recorded by C.J. Jurgens and W.H. Whitsett (Fox and Whitsett 1984)
+for the Texas Development of Water Resources during a survey of a waterline linking
+Temple and Belton. The site consists of an open terrace occupation recorded near the
+confluence of Bird Creek and one of its tributaries. Artifacts include a broad surface
+scatter of fire cracked rock (FCR) and lithic debitage. The site was presumed to be a
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+9
+
+series of hearths that had been plowed up, indicating that artifacts were present only to
+the depth of the plow zone (approximately 30 to 40 cm). The site is within the Austin
+Series (AsB) soil association, the A horizon thickness of which is approximately 40 cm
+thick before reaching B-horizon subsoil (Huckabee, Thompson, Wyrick, and Pavlet
+1997:6-7). This A horizon depth corresponds to the thickness of plow zone impact,
+resulting in the destruction of contextual integrity of buried archaeological deposits. No
+further work was recommended for this site.
+In addition to the aforementioned large-scale investigations, a review of the Texas
+Archaeological Site Atlas (TASA) showed numerous pipeline surveys, park studies and
+other smaller archaeological investigations have added to the archaeological record of
+Bell County (TASA 2010). Many of these have been conducted relatively close to the
+study area. The most significant of these surveys is a 1987 survey of the Temple Central
+Park conducted by Frederick Briuer and Carol Kehl (1987) of the Archaeological
+Laboratory at Fort Hood and the Bell County Archeological Society. Sites 41BL308,
+41BL307 and 41BL309 were recorded during the survey of the park, of which the golf
+course was already in existence since the 1920s. Site 41BL307 consists of a historic
+home site and site 41BL309 is an early dam on Bird Creek that created Lake Polk on the
+northern side of the golf course.
+Site 41BL308 is described as an open campsite on the north of Bird Creek. According to
+Briuer and Kehl (1987), the site may have been a seasonally or infrequently occupied
+hunting camp. This assumption was made by judging the varying ages of projectile points
+and biface fragments recovered from the surface and from exposures from golf course
+construction, as well as from a collection from a local collector who had worked the site.
+Briuer and Kehl (1987:18, 20 & 21) do state that no artifacts were recovered in any
+shovel tests or backhoe trenches, but that the alluvial terrace on which the site is situated
+is up to 1.5m deep. According to the site map in the report, the site boundaries are much
+different than what is shown on TASA (2010) (Figure 3, Figure 4 and Figure 5). The site
+as mapped by Briuer and Kehl, shows that the site is situated entirely on the north side of
+the existing 15” Bird Creek Sewer Line. The site boundaries on TASA show that
+41BL308 would extend south of the existing line into the Frio silty clay frequently
+flooded (Fs) soil association along Bird Creek. However, the report does not mention this
+as a soil type being encountered at the site, but only Stephen-Urban land complex (SuC),
+the Austin-Urban land complex (AuC) and Houston Black clay-Urban land complex
+(HuC) (Briuer and Kehl 1987:18). The site is described as a surface scatter that measures
+130 by 320 meters and consisting primarily of lithic debitage and FCR, along with
+Bulverde and Gower points. Briuer and Kehl state that the site dated from the Early to
+Middle Archaic period, based on the diagnostic projectile points recovered from the
+surface. The site was acknowledged as a significant site at the time of survey because of
+the alluvial terrace and possibility of buried deposit, even though none was found in their
+testing. Further work on the site, including excavation, was not recommended because
+the site was to be preserved in the park, where it would not be disturbed by earthmoving
+activities. Yet, Briuer and Kehl did recommend that 41BL308 and 41BL309 be
+designated as State Archaeological Landmarks, but no further work has been done at the
+site since.
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+Figure 3.
+
+41BL308 site map from Briuer and Kehl 1987. Note north arrow is pointing towards
+bottom of page. Existing sewer line has been highlighted.
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+10
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+Figure 4.
+
+11
+
+TASA boundaries for 41BL308. (Accessed August 11, 2010).
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+Figure 5.
+
+12
+
+TASA site boundaries shown on a Jacobs Engineering drawing of
+Sammons Golf Course showing project area, existing waterlines and ARC
+proposed sampling areas.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+13
+
+RESEARCH DESIGN AND METHODOLOGY
+Research Design
+Settlement patterns brought to light by the numerous aforementioned surveys would seem
+to suggest that potential for prehistoric and historic archaeology is relatively high.
+However, given the heavy disturbance and development of the area, the orientation of the
+proposed pipeline largely within the ROW of the previously surveyed existing pipeline,
+and the numerous surveys that have been conducted in the general vicinity, the potential
+for finding new archaeology is greatly diminished. Additionally, the majority of sites
+recorded in proximity to the study area are located outside of the proposed pipeline’s
+ROW. As such, further cultural resource studies on the majority of the line would seem to
+be superfluous. The exception to this though, is the portion of the proposed pipeline
+route, which diverges from the previously surveyed existing route, and runs through site
+41BL308. As the site will be disturbed by the open cut for the pipeline, further testing
+will be needed to define the vertical and horizontal extent of the site, which was not fully
+ascertained during the 1987 survey.
+Methodology
+The route crosses through approximately 800’ along the southern boundary of the site
+and will have an 80’ wide construction easement. Once the survey team arrived at the
+golf course and was shown the testing area, it became clear that only a small area was
+available for testing, approximately 300’. The field team walked the entirety of the route
+in parallel transects spaced 15 meters apart and made notes about the ground exposure,
+surface artifacts, soil types and disturbed areas where subsoil was exposed. The eastern
+end of the site near contained a large amount of fill and slopes between 10 and 20% for
+the fairway construction. Testing was confined to the rough between Fairway #6 and Tee
+Box #5 (Figure 6). All testing was done within the no-mow area (rough) of the hole. The
+team was also informed that the mowed areas near Tee Box #5 on the west end and
+Fairway #6 on the east end contained various underground sprinkler systems.
+Photographs were taken throughout the area using a Fuji FinePix JV100 12.0 mega pixel
+digital camera. Shovel tests were excavated where possible, in areas with slope of less
+than 20 degrees, and were placed an average of 15 meters apart. Shovel tests averaged 30
+cm in diameter and the clay soils were inspected visually and broken into smaller chunks
+in order to determine if cultural materials were present, while sandier soils were screened
+through ¼” mesh. Backhoe trenches were excavated on the western end closer to the
+mapped floodplain soils, and were stepped according to OSHA standards. Soil profiles
+were described following the procedures developed by Vogel (2002) and photographs
+were taken. Soil from the trench walls, floors and backdirt was screened in order to
+explore for any artifacts. Shovel test and trench matrices were described on the basis of
+texture and color. The Munsell Soil Color Chart was used to identify the specific soil
+colors in each test. The shovel test and trench locations were determined with a handheld
+Garmin Colorado 400t GPS unit.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+Figure 6.
+
+14
+
+Methods used for the portion of the route where testing was possible,
+shown on an engineering drawing of golf course along with existing 15”
+line.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+15
+
+RESULTS
+This chapter is separated into two sections with the description of the study area followed
+by the survey results. Shovel tests and trenches will be described briefly within the text
+and are detailed in Tables 1 and 2. The conclusions end the chapter.
+Study Area
+Since mechanical trenching and shovel testing was confined to the rough along the
+fairway for hole #6 of the golf course, there was very little variation of the terrain within
+in this 300’ area (Figure 7). A large pecan tree on the north and several large pecans trees
+on the south along Bird Creek border the route (Figure 8). The study area consisted of
+ankle-high grass. Ground visibility on the eastern end near the fairway was 30 to 75%
+and sloped to the west. Bird Creek was slowly flowing at the time, and the channel had
+been eroded down to the bedrock (Figure 9). The channel was approximately 3 to 5 m
+wide. The south bank was contained approximately 1 to 1.5 m of sediment above the
+bedrock, while the north bank was between 2 and 2.5 m high. Ground visibility in the
+area west of the large lone pecan on the north was between 0 and 20%.
+
+Figure 7.
+
+Birdseye view of the study area showing the testing conducted at the site.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+Figure 8.
+
+View of pipeline route looking west from Fairway #6.
+
+Figure 9.
+
+View of Bird Creek channel and exposed bedrock.
+
+16
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+17
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+Survey Results
+Shovel testing was conducted at the base of the slope from Fairway #6 west to the large
+pecan on the northern side (Figure 7). The first layer of all four shovel tests contained a
+very dark gray or brown silty clay or clay (Table 1). This level also contained pea to golf
+ball sized limestone gravels and numerous snail shells (rabdotus), which appeared to be a
+fill layer. The second layer in all four-shovel tests was very dark grayish brown silty clay
+or clay. Calcium carbonate made up 3-5% of the samples and gravels disappeared.
+Shovel test 1 (ST1) was excavated to 150 cm below the surface (cmbs) to explore for
+bedrock, but it was not reached. Level 3 of ST1 was brown silty clay with increased
+calcium carbonate. ST2 was excavated below 100 cmbs into dark gray silty clay with
+increased calcium carbonate. Shovel tests 1 through 3 were all positive for cultural
+materials, however ST2 and ST3 demonstrate that the area has been modified heavily
+over the years it has been a golf course. In Level 4 of ST2, a single interior flake was
+recovered, and then in Level 5 a small piece of brown plastic was recovered. In ST3, a
+small interior flake was recovered from Level 3, above a piece of clear glass recovered
+from Level 4.
+Table 1.
+ST#
+1
+
+*
+
+Shovel Test Descriptions.
+Depth (cm)
+0-30
+
+Description *
+Very dark gray (10YR3/1) silty clay, with 30%
+pea to golf ball-sized limestone gravel
+30-105
+Very dark grayish brown (10YR3/2) silty clay,
+with 3-5% calcium carbonate
+105-150+
+Brown (10YR5/3) silty clay, with 5-10% calcium
+carbonate
+2
+0-15
+Very dark brown (10YR2/2) clay, with numerous
+pea-sized limestone gravels and snail shell
+fragments (rabdotus)
+15-75
+Very dark brown clay with calcium carbonate
+stains, widely scattered limestone flecks and snail
+shell fragments
+75-100+
+Dark gray (10YR4/1) silty clay, with calcium
+carbonate flecks
+3
+0-20
+Very dark gray dense clay, with pea-sized
+limestone gravels and snail shell fragments
+20-50+
+Very dark grayish brown dense clay, with calcium
+carbonate, snail shell fragments, and fewer
+limestone gravels
+4
+0-22
+Very dark gray silty clay, with 20-30% pea-sized
+limestone gravels
+22-55+
+Very dark gray silty clay, with no gravels and
+many roots.
+Munsell colors listed only the first time encountered
+
+Comments/Artifacts
+One small, white chert
+flake recovered from 1020cm. One green chert
+flake recovered from 2030cm. snail shells present
+in first two layers.
+Flake recovered from 3040cm. Plastic recovered
+from 40-50cm.
+
+Flake recovered from 2030cm. Glass recovered
+from 30-40cm.
+Bungee cord hook
+observed in top 5 cm.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+18
+
+Trenching was conducted between the large pecan and the mowed area next to Tee Box
+#5 in the rough (Figure 7). Three trenches were excavated to bedrock. Trench 1 (T1) was
+excavated 12 m north and parallel to Birds Creek and was located on the far west end of
+the study area (Figure 10). The trench was 10 m long and reached bedrock at 60 cmbs.
+The top horizon was brown silty clay with limestone gravels. Given the large amount of
+gravels in this layer, it was identified as a fill layer used to modify the layout of the golf
+course over the years. The B-horizon was pale brown silty clay with calcium carbonate
+and approximately 50% limestone gravels, probably trickling down from the top horizon.
+In the southern wall of the eastern end of the trench, a Godley point was recovered on the
+first step approximately 30 cmbs (Figure 10). The point is side notched with a flat base
+and dates to the Late Archaic. This point extends the occupation age of the site from the
+Early Archaic to the Late Archaic. The point is 5.3 cm long by 2.9 cm wide and is
+probably manufactured of local Edwards Chert (Tim Perttula, Personal Communication
+2010).
+
+Figure 10.
+
+T1 at the western end of the study area.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+19
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+Figure 11.
+
+Godley point recovered from T1. Illustration by Lance K. Trask.
+
+Table 2.
+
+Trench Descriptions.
+
+Trench
+No.
+1
+
+2
+
+*
+
+Depths
+(cm)
+0-36
+
+Zone
+
+Descriptions
+
+Comments
+
+Fill
+
+Brown (10YR5/3) silty clay, with limestone
+gravels. Structure-subangular blocky, moderate to
+weak, 3-5cm peds.
+
+36-60
+
+B
+
+Abundant roots and
+rootlets, some snail
+shell. Gradual, wavy
+boundary.
+Few roots and
+rootlets. No
+organics. Clear to
+gradual and smooth
+boundary.
+
+60-110
+0-34
+
+R
+Fill
+
+34-83
+
+B
+
+83-160
+0-50
+
+R
+Fill
+
+50-140
+
+B
+
+Pale brown (10YR6/3) silty clay (with more
+clayey center), with 10-15% calcium carbonate.
+Layer is 50% limestone gravels. Structuresubangular blocky, moderate.
+Friable bedrock.
+Very dark gray (10YR3/1) clay, with pea to
+quarter-sized limestone gravels. Structuresubangular blocky, moderate, with 5cm peds.
+Grayish brown (10YR5/2) slightly silty clay, with
+5-10% calcium carbonate. Layer is more than
+50% pea to paperback-sized limestone gravels.
+Structure- subangular blocky, moderate.
+Friable bedrock.
+Very dark gray clay. Far fewer gravels than
+previous trenches. Structure-subangular blocky,
+moderate, with 5-6cm peds.
+
+Gray (10YR5/1) slightly silty clay, with 20%
+calcium carbonate nodules (smaller than peasized). More gravels than previous layer.
+Structure-subangular blocky, moderate to weak,
+with 5-8cm peds.
+140-230
+R
+Friable bedrock.
+Munsell colors listed only the first time encountered.
+
+Abundant roots and
+rootlets. Some snail
+shell. Smooth and
+gradual boundary.
+Few roots and
+rootlets. Clear to
+gradual and smooth
+boundary.
+Abundant roots and
+rootlets. Many
+rabdotus snail
+shells. Gradual and
+slightly wavy
+boundary.
+Few rootlets. Clear
+and smooth
+boundary.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+20
+
+T2 was excavated east of T1 in roughly the same orientation approximately 10 m north of
+Bird Creek. The trench was 9 m long and reached bedrock at 83 cmbs. The top horizon
+was a similar fill level of very dark gray clay with limestone gravels. The B-horizon was
+brown silty clay with limestone gravels and calcium carbonate. Towards the center of the
+trench it became apparent that the trench intersected a previous trench. The disturbance
+was a mixture of the surrounding sediment horizons in a rectangular shape. Upon
+reviewing Briuer and Kehl’s map, it was determined, that T2 has probably intersected
+their Trench 5 (Figure 11). They reached bedrock at 185 cmbs and had water seepage.
+Their description for Trench 5 was similar to the profile taken in T2, except that they note
+three slightly different light gray horizons. However, their descriptions of limestone
+gravels and calcium carbonate is consistent with what was found during this survey. Two
+modern artifacts were recovered from this trench. The first was a bone fragment,
+recovered from screening the backdirt of the trench. The bone was identified as a juvenile
+pig vertebra. The bone has a straight flat edge one side that has been cut by a saw. The
+saw marks are apparent in Figure 12. The second artifact was a fragment of a cut
+limestone brick. The fragment represents a corner piece and only three sides represent the
+original surface. Saw marks are apparent on one side (Figure 13). These evenly spaced
+saw marks were probably purposefully left to act as extra grip for the mortar or cement
+that would have been use in the construction. No prehistoric artifacts were recovered in
+this trench.
+
+Figure 12.
+
+Location of Briuer and Kehl’s Trench 5, which was intersected by T2 of
+this study. Note that the North arrow is point to bottom of page.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+21
+
+Figure 13.
+
+Juvenile pig vertebra recovered from T2. Note saw marks on the edge.
+
+Figure 14.
+
+Cut limestone brick recovered from T2. Note the even tool mark striations
+from the saw cut.
+
+T3 was excavated farther east of the first two, towards the top of a small rise in elevation
+above Bird Creek. The trench was excavated perpendicular to the creek channel and was
+5.5 m long by 2 m wide. The friable bedrock was reached at 140 cmbs. The top horizon
+contained fewer gravels than the previous, but was similar to T2 with very dark gray clay.
+The B-horizon was gray silty clay with larger calcium carbonate nodules, as well as
+limestone gravels. A heat-treated chert flake was recovered from 50 cmbs. The secondary
+flake contained some cortex and numerous heat spalls. No other artifact was recovered
+from the trench.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+22
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+Conclusions
+Mechanical and manual subsurface testing revealed only ephemeral evidence of
+prehistoric occupation and nothing was found in primary context (Table 3). From four
+shovel tests and three trenches, only six prehistoric artifacts were recovered. The single
+datable artifact recovered was a Late Archaic Godley point. This is later than the points
+previously recovered, which date the site from the Early to Middle Archaic. This point
+certainly extends the occupation, yet still fits with Briuer and Kehl’s original conclusion
+that the site was a seasonally occupied open campsite. According to the site map in
+Briuer and Kehl’s report, 41BL308 was situated on the northern side of the existing 15”
+sewer line and mostly out of the ROW of the current project. This is a more probable
+location for the site, since it would be well out of the floodplain.
+The subsurface testing did demonstrate that there are no buried cultural deposits within
+the ROW and that the area has been modified repeatedly over the years. Additionally, all
+of the original subsurface testing was negative and all artifacts recovered by Briuer and
+Kehl or the collector came from the surface. Trenching and shovel testing demonstrate
+that the area has been churned up significantly as to put modern artifacts below the
+prehistoric artifacts. The first level of all trenches and shovel tests was determined to be
+fill, given the large amount of limestone gravels in the layer, which taper off with depth
+before increasing just above bedrock. Testing also demonstrated that in the area where
+the pipeline will be installed contained no archaeological features or concentrations of
+artifacts. The low density of artifacts and the fact that all were recovered from fill
+demonstrate intrusive artifacts in a secondary context. Given the low density of artifacts
+recovered, lack of identifiable archaeological features and disturbed nature of the area,
+we recommend that the portion of 41BL308 within the ROW is not eligible for listing on
+the NRHP or as a SAL.
+Table 3.
+Provenience
+ST1
+ST1
+ST2
+ST2
+ST3
+ST3
+T1
+T2
+T2
+T3
+
+Artifacts Recovered from 41BL308 testing.
+Depth (cm)
+10-20
+20-30
+30-40
+40-50
+20-30
+30-40
+0-30
+0-30
+backdirt
+0-50
+
+Artifact
+Interior Flake
+Interior Flake
+Interior Flake
+Brown Plastic
+Interior Flake
+Clear Glass
+Godley Point
+Mechanically cut Limestone brick
+Juvenile pig vertebra
+Heat Treated Secondary Flake
+
+N=
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Comment
+Fill Layer
+Fill Layer
+Disturbed Context
+Disturbed Context
+Fill Layer
+Fill Layer
+Fill Layer
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+23
+
+RECOMMENDATIONS
+Given the low density of artifacts recovered, lack of identifiable archaeological features
+and disturbed nature of the area, we recommend that the portion of 41BL308 within the
+ROW is not eligible for listing on the NRHP or as a SAL. Based upon the results of the
+archaeological survey, AR Consultants, Inc. recommends that the City of Temple be
+allowed to construct Phase I of the Bird Creek Interceptor through 41BL308. We further
+recommend that if buried cultural materials are encountered during construction, works
+should stop in that area and the Texas Historical Commission should be notified
+immediately.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+24
+
+REFERENCES CITED
+Blair, W. F.
+1950
+The Biotic Provinces of Texas. Texas Journal of Science 2(1):93-117.
+Briuer, Frederick and Carol Kehl
+1987
+Archaeological Survey, Limited Subsurface Excavation, and Archival Research at Temple Central
+Park, City of Temple, Texas. Texas Antiquities Permit #651. Prepared for the City of Temple.
+Bureau of Economic Geology
+1970
+Geologic Atlas of Texas, Waco Sheet. The University of Texas, Austin.
+Carlson, Shawn Bonath
+1984
+Ethnoarchaeological Studies at a 20th Century Farmstead in Central Texas: The W. Jarvis
+Henderson Site (41BL273). Research Report No. 12, Fort Hood Archaeological Resource
+Management Series, Texas A&M University, College Station.
+Carlson, Shawn Bontah, H. Blaine Ensor, David L. Carlson, Elizabeth A. Miller and Diane E. Young
+1987
+Archaeological Survey at Fort Hood, Texas Fiscal Year 1984. Research Report Number 14,
+Archaeological Resource Management Series, United States Army Fort Hood,
+Archaeological Research Laboratory, Texas A&M University, College Station, Texas.
+Carlson, Shawn Bonath, David L. Carlson, H. Blaine Ensor, Elizabeth A. Miller and Diane E. Young
+1988
+Archaeological Survey at Fort Hood, Texas Fiscal Year 1985 The Northwestern Training Area.
+Research Report Number 5, Archaeological Resource Management Series, United States Army
+Fort Hood, Archaeological Research Laboratory, Texas A&M University, College Station, Texas.
+Collins, Michael B., Assembler and Editor
+1998
+Wilson-Leonard, An 11,000-year Archeological Record of Hunter-Gatherers in Central Texas. 5
+Volumes. Studies in Archeology 31, Texas Archeological Research Laboratory, the Unverisity of
+Texas at Austin and Report 10, Archeology Studies Program, Environmental Affairs Division,
+Texas Department of Transportation, Dallas.
+Council of Texas Archeologists
+n.d.
+Guidelines for the Content of Cultural Resource Management Reports. Manuscript on file with the
+membership.
+Diamond, David D., David H. Riskind and Steve L. Orzell
+1987
+A Framework for Plant Community Classification and Conservation in Texas. The Texas Journal
+of Science 39(3):203-221.
+Fox, Daniel E. and W. Hayden Whinsett
+1984
+An Archeological Reconnaissance of Proposed Wastewater Collection and Treatment
+Improvements, Cites of Temple and Belton, Bell County, Texas. C-48-1535. Texas Development of
+Water Resources, Austin.
+Henry, Donald O.
+1995
+Cultural and Paleoenvironmental Successions Revealed by the Hog Creek Archeological
+Investigation, Central Texas. In Advances in Texas Archeology, Contributions from Cultural
+Resource Management, edited by James E. Bruseth and Timothy K. Perttula, Texas Historical
+Commission, Department of Antiquities Protection, Cultural Resource Management Report 5, pp.
+51-79.
+Huckabee, John W., Jr., David R. Thompson, Jim C. Wyrick and E. G. Pavlet
+1977
+Soil Survey of Bell County, Texas. USDA, Soil Conservation Service in cooperation with the
+Texas Agricultural Experiment Station.
+Johnson, LeRoy, Jr.
+1962
+Survey and Appraisal of the Archeological Resources of Stillhouse Hollow Reservoir on the
+Lampasas River, Bell County, Texas. Report submitted to the National Park Service by the Texas
+Archeological Salvage Project.
+Mehalchick, Gemma, Karl Kleinbach, Douglas K. Boyd, Steve A. Tomka and Karl W. Kibler
+1999
+National Register Testing of 19 Prehistoric Archeological Sites at Fort Hood, Texas: The 1995
+Season. Research Report No. 37, Archaeological Resource Management Series, Unite States
+Army Fort Hood, Prewitt and Associates, Inc., Austin, Texas.
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+25
+
+Prikryl, Daniel J. and Jack M. Jackson
+1985
+Waco Lake, McLennan Count, Texas: An Inventory and Assessment of Cultural Resources.
+Reports of Investigations Number 31, Prewiit and Associates, Inc., Austin.
+Skinner, S. Alan, Frederick L. Briuer, W. C. Meiszner and Ivan Show
+1981
+Initial Archaeological Survey Fort Hood, Texas Fiscal Year 1978. Research Report Number 1,
+Archaeological Resource Management Series, United States Army Fort Hood, Science
+Applications, Inc., La Jolla, California.
+1984
+Archaeological Survey at Fort Hood, Texas Fiscal Year 1979. Research Report Number 2,
+Archaeological Resource Management Series, United States Army Fort Hood, Science
+Applications, Inc., La Jolla, California.
+Sorrow, William M., Harry J. Shafer and Richard E. Ross
+1967
+Excavations at Stillhouse Hollow Reservoir. Papers of the Texas Archeological Salvage Project,
+No. 11, The University of Texas, Austin.
+Stabler, Jennifer A.
+1999
+Historical Research Preliminary to National Register Assessments of 719 Historic Sites at Fort
+Hood, Bell and Coryell Counties, Texas. Research Report No. 36, Archaeological Resource
+Management Series, Unites States Army, Fort Hood.
+Stephenson, Robert L.
+1949
+Archeological Survey of Belton Reservoir on the Leon River Bell and Coryell Counties, Texas.
+River Basin Surveys, Smithsonian Institution, Washington, D.C.
+Texas Archeological Sites Atlas
+2010
+Search for recorded sites listed on the Belton, Texas 7.5’ USGS maps. Texas Historical
+Commission internet site, http://nueces.thc.state.tx.us, accessed April 12, 2010.
+Texas Historical Commission
+n.d.
+Archeological Survey Standards for Texas. www.thc.state.tx.us.
+Trierweiler, W. Nicholas, editor
+1996
+Archeological Testing at Fort Hood: 1994-1995. Two Volumes, Research Report No. 35,
+Archeological Resource Management Series, United States Army Fort Hood, TRC Mariah
+Associates, Inc., Austin, Texas.
+Vogel, Gregory
+2002
+A Handbook of Soil Description for Archeologists. Arkansas Archeological Survey Technical
+Paper 11, Fayetteville.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+26
+
+Appendix A
+Bird Creek Interceptor Phase I Letter Evaluation
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+27
+
+AR Consultants, Inc.
+
+Archaeological and Environmental Consulting
+
+11020 Audelia Road, Suite C105, Dallas, TX 75243
+Phone:
+(214) 368-0478
+Fax:
+(214) 221-1519
+Email:
+arcdigs@aol.com
+
+Mr. Ed Baker
+Texas Historical Commission
+PO Box 12276
+Austin, TX 78711
+Dear Mr. Baker,
+The City of Temple, Texas, which is a political subdivision of the State of Texas, is
+proposing to replace the existing Bird Creek Sewer Line with approximately two miles of
+new line on the west side of Temple in Bell County, Texas(Attachment 1). Though the
+area is mapped as on the 1965 7.5’ USGS map (which was photo-revised in 1993) as
+relatively undeveloped an undisturbed, a number of developments have taken place in the
+area (Attachment 2). These include the construction of a public golf course, and
+numerous business and residential structures. The project will be located north of IH 35
+entirely within the City of Temple, and the majority of the route runs through the public
+golf course. The route will start on the north side of Hwy 53 and run southwest, crossing
+FM 2305, and then enter the golf course. The route will then continue southwest, crossing
+the Burlington Northern and Santa Fe Railroad line, before terminating at IH 35. The
+project includes a waterline that ranges from 15 to 24 inches in diameter, which will be
+placed at depths of between 6 and 20 feet. The project will be conducted within a 100foot new and existing right-of-way (ROW), which overlaps or closely parallels the
+existing sewer line. This will be done as part of the Temple Bird Creek Interceptor Phase
+I project (Attachment 3). Funding for the project is from the City of Temple.
+AR Consultants, Inc. was contracted by Jacobs Engineering Group, Inc. to perform an
+evaluation of archaeological potential within the above referenced project area.
+The proposed sewer line location is situated in an upland Blackland Prairie setting and
+roughly parallels Bird Creek near its headwaters. Bird Creek is a first-order, intermittent
+tributary of the Leon River. Soils present on the route include the Austin-Urban land
+complex with 1 to 5 percent slopes (AuC), a gently sloping soil group found on broad
+ridgetops and slopes; frequently flooded Frio silty clay (Fs), a floodplain soil found in
+lower elevations; the Houston Black-Urban land complex with 1 to 5 percent slopes
+(HuC), a gently sloping soil group found on divides an along draingeways; and the
+Stephen-Urban land complex with 1 to 6 percent slopes (SuC), a gently sloping to sloping
+soil group found primarily in Temple. The underlying geology along the route is Austin
+Chalk, which consists of chalk and marl, and has a thickness between 150 and 300 feet.
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+28
+
+The soils are fairly shallow over the bedrock, ranging in depth from 12 to 80 inches (0.3
+to 2 meters). The deepest soils are confined to the Bird Creek floodplain.
+A query of the Texas Archeological Sites Atlas for the Temple and Belton, TX 7.5’
+USGS maps located five sites within one mile of the proposed pipeline route (Attachment
+4). The first is site 41BL180 which is located approximately 0.7 miles north of the study
+area above Adams Avenue, is an open prehistoric campsite recorded by Bill Moore of
+Texas A & M University in 1977. The site features an extensive artifact assemblage
+recovered in a shallow midden deposit, which includes flakes, pottery, bifaces, an arrow
+point, dart points, bone, a hammerstone, possible cores, limestone spalls and fire cracked
+rock (FCR). Site 41BL264 was recorded by C.J. Jurgens and W.H. Whitsett for the Texas
+Development of Water Resources in 1982 during a survey of the existing sewer line that
+will be replaced. The site consists of an open terrace occupation site recorded near the
+confluence of Bird Creek and one of its tributaries. Artifacts include a broad surface
+scatter of FCR and lithic debitage. The site was presumed to be a series of hearths that
+had been plowed up, indicating that artifacts were present only to the depth of the plow
+zone (approximately 30 to 40 cm). No further work was recommended for either of these
+sites.
+Sites 41BL307 through 41BL309 were recorded by Frederick Briuer and Carol Kehl of
+the Archaeological Laboratory at Fort Hood and the Bell County Archeological Society
+during a 1987 survey of the Temple Central Park, through which the proposed pipeline
+route runs. 41BL308 is an open campsite situated on the north bank of Bird Creek, which
+the recorders suggested may have been a seasonally or infrequently occupied hunting
+camp. This assumption is made judging by the varying age of numerous projectile points
+and biface fragments recovered from the occupation zone, which is possibly as deep as
+1.5 meters, as ascertained by backhoe trenches excavated at the time of survey. A very
+large surface lithic scatter, measuring 130 by 320 meters and consisting primarily of lithic
+debitage and FCR, accompanied the stratified occupation zone. Briuer and Kehl
+suspected that the site dated to the Early to Middle Archaic period, judging by diagnostic
+projectile points recovered in the midden. The two remaining sites are historic, and
+consist of a home site (41BL307) and early dam implements on Bird Creek (41BL309).
+Though Briuer and Kehl recommended no further work be done on the three sites, site
+41BL308 was acknowledged as a significant site at the time of survey. Further work on
+the site, including excavation, was not recommended due to the fact that the site would be
+preserved in the park, where it would not be disturbed by earthmoving activities.
+In addition to archaeological sites, the Hodge Cemetery (BL-C050) and two National
+Register properties (The Ralph, Sr. and Sunny Wilson House-Atlas No. 98001374 and
+the Barclay-Bryan House-Atlas No. 84001572) are located within one mile of the
+pipeline route. However, all three are located south of IH 35, and will not be disturbed
+during construction. A review of the 1916 Bell County Soils map (georeferenced using
+ArcGIS 10) showed structures near, but not in, the pipeline ROW (Attachment 5).
+Settlement patterns brought to light by the numerous aforementioned surveys would seem
+to suggest that potential for prehistoric and historic archaeology is relatively high.
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+29
+
+However, given the heavy disturbance and development of the area, the orientation of the
+proposed pipeline largely within the ROW of the previously surveyed existing pipeline,
+and the numerous surveys that have been conducted in the general vicinity, the potential
+for finding new archaeology is greatly diminished. Additionally, the majority of sites
+recorded in proximity to the study area are located outside of the proposed pipeline’s
+ROW. As such, further cultural resource studies on the majority of the line would seem to
+be superfluous. The exception to this though, is the portion of the proposed pipeline route
+which diverges from the previously surveyed existing route, and runs through site
+41BL308. As the site will be disturbed by the open cut for the pipeline, further testing
+will be needed to define the vertical and horizontal extent of the site, which was not fully
+ascertained during the 1987 survey. This will be achieved by the excavation of backhoe
+trenches along the proposed pipeline’s route through the site. AR Consultants, Inc. seeks
+the Texas Historical Commission’s concurrence with this assessment.
+Sincerely,
+
+Nick Coleman
+Archaeologist
+AR Consultants, Inc.
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+30
+
+Attachment 1
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+31
+
+Attachment 2
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+32
+
+Attachment 3
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+33
+
+Attachment 4
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+34
+
+Attachment 5
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+35
+
+Appendix B
+THC Concurrence Letter for Phase I Letter Evaluation
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+36
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+37
+
+Appendix C
+THC Concurrence Letter for Phase I Survey
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+ARCHAEOLOGICAL TESTING OF SITE 41BL308
+
+38
+
+______________________________________________________________________________________
+AR CONSULTANTS, INC
+
+

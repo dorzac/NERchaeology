@@ -1,0 +1,2663 @@
+Final
+
+Phase I Cultural Resources
+Investigation of the Proposed Energy
+Transfer Partners Brazos River
+Horizontal Directional Drill Location
+Associated with the Proposed J.C.
+Nolan Pipeline Project in Bosque and
+Hill Counties, Texas
+Prepared for:
+
+Energy Transfer Partners
+1300 Main Street
+Houston, TX 77002
+AECOM Job No. 60600999
+June 2019
+
+Phase I Cultural Resources Investigation of the
+Proposed Energy Transfer Partners Brazos River
+Horizontal Directional Drill Location Associated with the
+Proposed J.C. Nolan Pipeline Project in Bosque and Hill
+Counties, Texas
+
+Prepared for:
+
+Energy Transfer Partners
+1300 Main Street
+Houston, TX 77002
+
+Prepared by:
+
+James Eberwine and Patricia Hutchins
+
+James Eberwine, M.S., R.P.A.
+Principal Investigator
+
+June 2019
+
+7389 Florida Boulevard, Suite 300
+Baton Rouge, LA 70806
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+ii
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Abstract
+
+Abstract
+This document describes the results of the Phase I cultural resources survey of the proposed Energy
+Transfer (ET) Brazos River Horizontal Directional Drill (HDD) location associated with the proposed
+J.C. Nolan Pipeline Project in Bosque and Hill counties, Texas. ET has conducted bathymetric surveys
+of the existing pipeline crossing of the Brazos River (Lake Whitney) and it is considering proactive
+measures to lower the pipeline. If it is determined to lower the pipeline beneath the Brazos River, the
+Project will consist of using HDD technology to drill a 30.5-centimeter (cm; 12-inch [in]) pipeline
+approximately 9.2 meters (30.2 feet) below the river. AECOM Technical Services, Inc. (AECOM), on
+behalf of ET, conducted the Phase I investigation between April 23 and 25, 2019. In total, an area
+measuring 2.9 hectares (7.2 acres [ac]) was examined for cultural resources.
+This investigation was designed to identify and evaluate any cultural resources, such as historic and
+prehistoric archaeological sites, historic standing structures, and cemeteries, which may be located
+within the area of disturbance associated with the Project. This investigation followed the guidelines
+and procedures outlined in the National Historic Preservation Act (NHPA) of 1966, as amended; the
+Archaeological and Historic Preservation Act of 1974; 33 CFR 325 Appendix C - Procedures for the
+Protection of Historic Properties; and, Title 36 of the Code of Federal Regulations, Parts 60-66 and
+800, as appropriate. Additionally, this survey effort abided by the standards set forth in Archeology and
+Historic Preservation: The Secretary of the Interior’s Guidelines and with guidelines contained within
+Preservation Connection: Texas’ Statewide Historic Preservation Plan 2011–2020 (THS 2011a).
+Information provided by the Council of Texas Archeologists, the Texas Archaeological Research
+Laboratory, the Antiquities Code of Texas, and the Texas Historical Commission’s (THC) Archeological
+Survey Standards For Texas and Rules of Practice and Procedure for the Antiquities Code of Texas
+(THC 2011b) also was utilized. Any impacts the Project may have on wetlands and water bodies will
+be permitted by the United States Army Corps of Engineers related to actions under Section 404 of
+the Clean Water Act of 1972 (33 U.S.C. §1251 et seq.) and Section 10 of the Rivers and Harbors Act
+of 1899 (33 U.S.C. 403). Thus, the Project is subject to review under Section 106 of the NHPA (16
+USC 470) and its implementing regulations (36 CFR 800).
+Pedestrian survey, augmented by the excavation of 22 shovel tests, failed to reveal the presence of
+any surface or subsurface cultural materials. Likewise, no potentially intact cultural soils were
+observed. Finally, no historic built resources were identified as a result of this survey. Consequently,
+AECOM recommends a finding of no historic properties affected and further recommends no further
+investigations be conducted.
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+iii
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Table of Contents
+
+Table of Contents
+Abstract ......................................................................................................................................iii
+
+1.
+2.
+
+3.
+
+4.
+
+5.
+6.
+
+Introduction ....................................................................................................................................... 1
+Natural and Cultural Setting ............................................................................................................ 4
+2.1 Natural Setting .......................................................................................................................... 4
+2.2 Cultural Setting ......................................................................................................................... 4
+Results of Background Research and Field Methodologies........................................................ 9
+3.1 Previous Investigations and Background Research................................................................. 9
+3.1.1
+Previously Completed Cultural Resources Surveys ................................................... 9
+3.1.2
+Previously Identified Archeological Sites .................................................................. 11
+3.1.3
+Previously Recorded Cemeteries ............................................................................. 12
+3.1.4
+Standing Structures Greater than 50 Years in Age................................................... 12
+3.1.5
+Properties Listed In the National Register of Historic Places ................................... 12
+3.2 Phase I Cultural Resources Survey Field Methodology......................................................... 12
+3.3 Site Recordation and Delineation ........................................................................................... 13
+3.4 Architectural Field Methods .................................................................................................... 13
+3.5 Laboratory Analysis ................................................................................................................ 13
+3.6 Curation .................................................................................................................................. 13
+Results ............................................................................................................................................. 14
+4.1 Survey Segment SS-PEH04232019a .................................................................................... 14
+4.2 Survey Segment SA-PEH042519a......................................................................................... 14
+Summary and Recommendations................................................................................................. 20
+References Cited............................................................................................................................. 21
+
+Figures
+Figure 1.1 Map Excerpt Depicting the Location of the Proposed Project Area............................................. 2
+Figure 1.2 USGS Quadrangle Map Depicting the Location of the Proposed Project Area........................... 3
+Figure 2.1 Soil Present in the Proposed Project Area .................................................................................. 8
+Figure 4.1 Aerial Photograph Depicting the Proposed Project Area ........................................................... 15
+Figure 4.2 Aerial Photograph Depicting Shovel Test Locations on the West Side of the Brazos River...... 16
+Figure 4.3 Overview Photograph of Survey Segment SS-PEH04232019a Facing North .......................... 17
+Figure 4.4 Aerial Photograph Depicting Shovel Test Locations on the East Side of the Brazos River...... 18
+Figure 4.5 Overview Photograph of Survey Segment SA-PEH042519a Facing Northwest....................... 19
+
+Tables
+Table 2.1 Chronological Periods for the Project Area ................................................................................... 5
+Table 3.1 Previously Completed Cultural Resources Surveys Within 1.6 km (1.0 mi) of the Proposed
+Project Areas ............................................................................................................................... 10
+Table 3.2 Previously Recorded Archeological Sites Within 1.6 km (1.0 mi) of the Proposed Project
+Areas ........................................................................................................................................... 11
+
+Appendices
+Appendix I Shovel Test Data ....................................................................................................................... 24
+Appendix II AECOM Brazos River Scope of Work...................................................................................... 27
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+iv
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+1.
+
+Chapter 1. Introduction
+
+Introduction
+
+This document describes the results of the Phase I cultural resources survey of the proposed Energy
+Transfer (ET) Brazos River Horizontal Directional Drill (HDD) location associated with the proposed
+J.C. Nolan Pipeline Project (Project) in Bosque and Hill counties, Texas (Figure 1.1). ET has conducted
+bathymetric surveys of the existing pipeline crossing of the Brazos River (Lake Whitney) and is
+considering proactive measures to lower the pipeline. If it is determined to lower the pipeline beneath
+the Brazos River, the Project will consist of using HDD technology to drill a 30.5-centimeter (cm; 12inch [in]) pipeline approximately 9.2 meters (m; 30.2 feet [ft]) below the river. AECOM Technical
+Services, Inc. (AECOM), on behalf of ET, conducted the Phase I investigation between April 23 and
+25, 2019. In total, an area measuring 2.9 hectares (ha; 7.2 acres [ac]) was examined for cultural
+resources.
+This investigation was designed to identify and evaluate any cultural resources, such as historic and
+prehistoric archaeological sites, historic standing structures, and cemeteries, which may be located
+within the area of disturbance associated with the Project. This investigation followed the guidelines
+and procedures outlined in the National Historic Preservation Act (NHPA) of 1966, as amended; the
+Archaeological and Historic Preservation Act of 1974; 33 CFR 325 Appendix C - Procedures for the
+Protection of Historic Properties; and, Title 36 of the Code of Federal Regulations, Parts 60-66 and
+800, as appropriate. Additionally, this survey effort abided by the standards set forth in Archeology and
+Historic Preservation: The Secretary of the Interior’s Guidelines and with guidelines contained within
+Preservation Connection: Texas’ Statewide Historic Preservation Plan 2011–2020 (THC 2011a).
+Information provided by the Council of Texas Archeologists, the Texas Archaeological Research
+Laboratory, the Antiquities Code of Texas, and the Texas Historical Commission’s (THC) Archeological
+Survey Standards For Texas and Rules of Practice and Procedure for the Antiquities Code of Texas
+(THC 2011b) also was utilized.
+As currently proposed, the crossing spans approximately 1,681.3 m (5,516 ft) of the Brazos River. Any
+impacts the Project may have on wetlands and water bodies will be permitted by the United States
+Army Corps of Engineers (USACE) related to actions under Section 404 of the Clean Water Act of
+1972 (33 U.S.C. §1251 et seq.) and Section 10 of the Rivers and Harbors Act of 1899 (33 U.S.C. 403).
+Therefore, because this is a federal undertaking, this Project is subject to review under Section 106 of
+the NHPA (16 USC 470) and its implementing regulations (36 CFR 800).
+The Project area is depicted on the United States Geological Survey (USGS) 7.5-minute topographic
+quadrangle maps of Morgan, TX and Lakeside Village, TX. The pipeline replacement itself will occur
+in ET’s existing, disturbed pipeline corridor. However, additional temporary workspace will be required
+for pipe stringing, contractor parking, and laydown (Figure 1.2). Such workspace will be located outside
+the existing, disturbed corridor, and its potential to contain intact cultural resources is unknown. Thus,
+this cultural resources inventory was limited to those proposed additional temporary workspace
+locations.
+Mr. James Eberwine, M.S., R.P.A. served as Principal Investigator and directed the fieldwork for the
+Project. Mr. Eberwine was assisted in the field by Mr. Gary Hawkins, B.A., and Ms. Patricia Hutchins,
+B.A. The graphics contained within this report were created by Ms. Helen Potter, B.S., while Ms.
+Wanda Shelton produced the document.
+Chapter 2 of this report provides a brief background on the natural and cultural settings of the Project
+area. Chapter 3 describes the results of background research and the field methodologies utilized to
+complete the investigation. Chapter 4 summarizes the results of the investigations. In addition, two
+appendices are included in the document. Appendix I depicts the soil profiles observed in each
+excavated shovel test, while Appendix II contains a copy of the previously submitted and approved
+Scope of Work.
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+1
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Chapter 1. Introduction
+
+Figure 1.1 Map Excerpt Depicting the Location of the Proposed Project Area
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+2
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Chapter 1. Introduction
+
+Figure 1.2 USGS Quadrangle Map Depicting the Location of the Proposed Project Area
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+3
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+2.
+
+Natural and Cultural Settings
+
+2.1
+
+Natural Setting
+
+Chapter 2. Natural and Cultural Settings
+
+The regional landscape strongly influences the preservation and subsequent identification of any
+archeological materials that may have been deposited within the proposed Project areas. The Project
+items are located within the eastern Grand Prairie physiographic region, which developed on limestones
+and calcareous shales (Bureau of Economic Geology 1996). The Project area is underlain by the
+Cretaceous-era Fredericksburg and L. Washita geologic groups (Bureau of Economic Geology 1992).
+The area is adapted primarily to agriculture, particularly raising livestock and growing staple crops, and
+it is generally treeless except along the streambanks (Texas Almanac 2018). The area is characterized
+by thin, rocky soils arising from weathering and erosion. The eastern Grand Prairie Region is typified by
+plains ranging in elevation from 137 to 381 m above sea level (asl; [450 to 1250 ft asl]); a strata
+dip characterizes the eastern side of the Region (BEG 1996; United States Department of Agriculture
+2008).
+Due to the Project area’s proximity to the Brazos River and the peculiarities of the Fredricksburg group
+there, soils within the Project are generally deeper and less eroded than those in much of the Grand
+Prairie Region (Brooks 1978). Soils on the west side of the river are comprised from the Bastrop,
+Minwells, Slidell, and Sunev series (Figure 2.1). All are characterized as deep, well-drained soils. Slidell
+soils are found on uplands, and Bastrop, Minwells, and Sunev soils are found on stream terraces.
+Bastrop soils are loamy and sandy and are formed in thick beds of loamy alluvial sediments. Minwells
+soils are loamy and are formed in thick beds of loamy and gravelly alluvial sediments. Sunev soils are
+loamy and are formed in alluvium along major streams (Stringer 1980).
+Soils on the east side of the river are comprised from the Aledo, Bastsil, Brackett, Burleson, Gowen, and
+Krum series. Aledo and Brackett soils are shallow, loamy soils. Aledo soils are underlain by hard,
+coarsely fractured limestone at a depth of less than 50.8 cm (20 in). Brackett soils are formed in
+interbedded soft limestone and marly earth. Bastsil soils are deep, sandy or loamy soils found on uplands
+and formed in loamy sediments on stream terraces. Burleson soils are deep, nearly level, clayey soils
+found on old stream terraces. They are formed in alkaline, clayey sediments. Gowen soils are deep,
+loamy soils and are formed in noncalcareous loamy sediments in floodplains. Krum soils are deep,
+clayey soils that formed in thick beds of unconsolidated, calcareous sediments on old high terraces and
+valley fills (Brooks 1978).
+
+2.2
+
+Cultural Setting
+
+The Project area falls within the Prairie-Savanna study region of the Eastern Archaeological Planning
+Region as defined by the THC (Kenmotsu and Perttula 1993). Researchers have divided the region
+into chronological periods based on archaeological evidence obtained from investigations principally
+related to grant-funded reconnaissance (primarily carried out by the University of Texas), reservoir
+construction, mining operations, Soil Conservation Service projects, water treatment, utility and energy
+line construction, and federally-funded highway projects. Table 2.1 depicts the chronological periods
+for the Project area. A brief overview of each period is below.
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+4
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Chapter 2. Natural and Cultural Settings
+
+Table 2.1 Chronological Periods for the Project Area
+Chronological Period
+Paleoindian
+Early Archaic
+Middle Archaic
+Late Archaic
+Late Prehistoric I
+Late Prehistoric II
+Historic Indian
+Historic
+
+Dates
+9950–6500 BP*
+6500–4000 BP
+4000–1500 BP
+1500 BP–AD** 700
+AD 700–1200
+AD 1200–1700
+AD 1700–early 1800s
+Early 1800s–present
+
+Note: *BP, before present; **AD, anno domini
+
+The Paleoindian period is the earliest defined cultural period in North America. Most of the evidence
+of the period in the region consists of isolated finds of projectile points; generally, the point types are
+non-local and are made of non-local materials. There is usually meager occupational debris, and, while
+some bison remains have been identified, much of the faunal remains are from small mammals and
+land turtles. Overall, archaeological evidence suggests that small, highly mobile groups inhabited or
+passed through the region during the Paleoindian period (Kenmotsu and Perttula 1993).
+Although sites from this period within the study region are extremely rare, a Paleoindian component
+was identified at Site 41BQ46, the Horn Shelter No. 2 Site, which is a rock shelter located
+approximately 32 km (20 mi) south of the proposed project area (Bousman, et al. 2004). A number of
+sealed Paleoindian deposits were identified within the site, and diagnostic artifact recoveries included
+Folsom, San Patrice, and Scottsbluff projectile points, as well as a possible Clovis point. Radiocarbon
+dates for these deposits ranged from 9500 +/- 200 BP to 10,310 +/- 150 B.P. (Bousman, et al. 2004).
+In addition, a double burial consisting of a Paleoindian adult and child was identified at Site 41BQ46.
+Both skeletons were nearly complete, and numerous grave goods, such as shell beads, bird claws,
+bone and stone tools, and perforated nonhuman canines also were identified in association with the
+bodies. The cranium of the adult was placed in a turtle carapace, and two other turtle carapaces were
+placed near the face and pelvis of the body. Both individuals were characterized as male, and the adult
+was estimated to be between 160-167.6 cm (63-66 in) in height (Bousman, et al. 2004).
+Near the end of the Paleoindian period, global climate began to change slowly, becoming gradually
+warmer and dryer (Brown and Lebo 1991). In response, plant and animal populations also changed
+and the human populations in north Texas began to exploit a wider variety of food resources.
+Archaeological evidence of Early and Middle Archaic groups within the Prairie-Savannah study region
+is sparse. Artifacts from the Early and Middle Archaic periods are restricted to projectile points and
+they often come from culturally-mixed soil deposits or from surface finds. Projectile points from the
+Early and Middle Archaic are usually less carefully fashioned and are made from less exotic materials
+than those from the Paleoindian Period (Kenmotsu and Perttula 1993).
+In comparison to earlier time periods, the Late Archaic represents a period of increased population
+and site density. Artifacts from the Late Archaic period are characterized by projectile points made of
+local materials and an increased density of occupational debris and features, such as hearths and
+floral remains. Burned rock midden features dating from the latter part of the Middle Archaic and the
+Late Archaic periods, absent in most of the study region, have been identified in Bosque County
+(Kenmotsu and Perttula 1993).
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+5
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Chapter 2. Natural and Cultural Settings
+
+The Late Prehistoric periods are marked by the introduction of bow-and-arrow technology, ceramics,
+house structures, and corn horticulture. Changes in ceramic and arrow point types distinguish the Late
+Prehistoric I from the Late Prehistoric II period. Additionally, archeological evidence shows a more
+varied assemblage during Late Prehistoric II, including thumbnail scrapers, knives, drills, digging
+sticks, and hoes (Kenmotsu and Perttula 1993).
+The Historic Indian period generally coincided with the arrival of the first Spanish and French peoples
+in the region. Archaeological sites from the period are extremely rare in the Prairie-Savannah study
+region; all sites identified thus far are village sites associated with the Wichita Confederacy, a group
+that moved from the Oklahoma-Kansas border region into northern Texas in the mid-1700s. Many of
+the sites are heavily damaged; however, the Vinson Site (Limestone County) remains largely intact.
+Archaeological excavation there revealed eight burned house floors and a mixture of European trade
+goods, such as beads, metal arrowpoints, and gun parts; and native-made items, such as ceramics,
+hide scrapers, and ground stone tools. Documentary evidence from early European explorers in the
+region lists several groups, including the Tonkawa, Apache, Comanche, Wichita, Kitsai (Kichai),
+Yojaunce, Caddo, Delaware, and Kickapoo (Kenmotsu and Perttula 1993).
+The Stansbury Site, Site 41HI9, was a Historic Indian village site that is located approximately 19.3
+km (12.0 mi) southeast of the Project area. Stephenson (1970) hypothesized that the Stansbury Site
+represents the former location of the Flechado Village of the Tawkoni Indians. The Tawkoni were
+closely related to the Wichitas, and the village was established between 1772 and 1778, and
+abandoned between 1780 and 1786. Stephenson described the site as a, “large, open, occupation
+area on the edge of the upper, or 40-foot, terrace of the Brazos River…two miles above the Whitney
+Dam” (Stephenson 1970:104). Investigations conducted at the site in 1947 and 1950 identified, “four
+burials, a stone wall, several “piles” of bison bones, a series of unpatterned postholes, and an
+aboriginal dwelling structure” (Stephenson 1970:104). The artifact sub-assemblage recovered from
+the site includes both Native American and European/American trade goods. In addition to the Tawkoni
+occupation, the site likely was reoccupied in the middle nineteenth century by a Hainai Native
+American group. At that time, the site was referred to as the Old Towash Village. These groups likely
+were relocated to Oklahoma Territory in 1870 (Stephenson 1970).
+The first European explorers to enter what is now Bosque County were Spanish missionaries, who
+arrived in 1721. In Hill County, the first European was probably Pedro Vial, a Frenchman hired by the
+Spanish to find a route to Santa Fe from San Antonio, in 1786 (Austin 2016; Strickland 2018). Before
+Texas independence, while under the control of Mexico, several empresario grants were awarded by
+Mexico to populate the territory (Haaser 2010; Hardy, et al. nd). Settlement in both Bosque and Hill
+counties began with these land grants. In Bosque County, the first settler was Sterling C. Robertson;
+in Hill County, the first settler was Peter Fleming. Both men were issued grants in 1825. Within a few
+years, Robertson also received much of the land that would become Hill County and, in 1835, he gave
+grants to several other families that he recruited to settle the area. Few homesteaders opted to settle
+within Bosque County until 1841, when a military expedition passed through the region and many of
+those associated travelers decided to stay. In 1847, the town of Kimball was established in Bosque
+County in an effort to bring more settlers to the area. The first town in Hill County was established in
+1849 and it surrounded Fort Graham. The fort was abandoned in 1853, but the town remained (Austin
+2016; Strickland 2018).
+Hill County was created from a portion of Navarro County in 1853 and Bosque County was formed
+from a portion of McLennan County in 1854. Hillsborough and Meridian were chosen as the respective
+county seats, and in both counties, town lots were sold to the public for settlement. Many Norwegians
+settled in the less-densely populated Bosque County following an offer by the state of Texas to grant
+320 acres to anyone willing to settle in the new county (Austin 2016; Strickland 2018).
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+6
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Chapter 2. Natural and Cultural Settings
+
+Both counties voted for secession in the Civil War. However, while Hill County supported three cavalry
+units and established home guards, most of the soldiers in Bosque County guarded the area from
+local Native Americans. Both counties grew during the latter half of the nineteenth century. The
+population of Bosque County was enumerated at 4,981 in 1870; 11,216 in 1880; and 17,390 in 1900.
+Similarly, Hill County’s population was enumerated at 3,653 in 1860; 7,453 in 1870; and 41,355 in
+1900. However, population of both counties began to fall during the early twentieth century as declining
+farm prices discouraged agriculture and as manufacturers left the area.
+Erosion and drought conditions worsened the agricultural decline in the 1930s, 1940s, and 1950s.
+Manufacturing, primarily related to lumber, limestone, oilfield-tool manufacturing, and textiles, began
+to increase in Bosque County during the 1940s and 1950s and grew substantially in the 1970s and
+1980s. Manufacturing decreased in Hill County over the same period, but employment opportunities
+in service industries such as medical care and retail rose significantly. As of 2014, 17,780 people lived
+in Bosque County and 34,848 lived in Hill County (Austin 2016; Strickland 2018).
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+7
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Chapter 2. Natural and Cultural Settings
+
+Figure 2.1 Soils Present in the Proposed Project Area
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+8
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Chapter 3. Results of Background Research
+and Field Methodologies
+
+3.
+
+Results of Background Research and Field
+Methodologies
+
+3.1
+
+Previous Investigations and Background Research
+
+A review was undertaken of those previously completed cultural resources surveys, previously
+recorded archeological sites, built resources greater than 50 years in age, cemeteries, historic
+markers, and properties listed in the National Register of Historic Places (NRHP) situated within 1.0
+kilometer (km) (0.6 mile [mi]) of the proposed Project. That review utilized the data stored electronically
+on the THC’s Texas Archeological Sites Atlas (TASA). The results of the data collection are
+summarized below.
+
+3.1.1 Previously Completed Cultural Resources Surveys
+A total of seven previously completed cultural resources investigations were identified within 1.6 km
+(1.0 mi) of the proposed Project items, and very few data were present on the abstracts present on
+TASA (Figure 2; Table 2). Two of the surveys were sponsored by The Smithsonian Institution in 1947.
+These investigations were conducted by Robert L. Stephenson during the Texas River Basin Surveys
+(RBS) program. Jelks (2014) indicated that these salvage investigations were initiated in 1945, and
+they examined over 40 reservoir projects and located and recorded approximately 1,600 archeological
+sites. Stephenson discussed some of the sites he identified during his survey of the Whitney Basin in
+Volume 18 of the Bulletin of the Texas Archeological and Paleontological Society (Stephenson 1947),
+a more robust discussion of those investigations was included in Volume 41 of the Bulletin of the Texas
+Archeological Survey (Stevenson 1970).
+Although not recorded on TASA, archeologists associated with Southern Methodist University (SMU)
+conducted additional investigations near the Project area in anticipation of an expansion to Lake
+Whitney (Skinner and Gallagher 1974; Lynott 1978). Electronic copies of the SMU reports could not
+be identified, and they also were not available from local archives. However, based on correspondence
+with the USACE, Skinner and Gallager recorded 29 new sites, including Sites 41BQ90 and 41BQ91
+(see below; Daniel McGregor, personal communication, 2019)
+Of the remaining surveys, two were sponsored by the USACE, Fort Worth District, and they were
+Section 110 compliance efforts completed by Ecological Communications Corporation in 2008 and
+2009 (Nickels, et al. 2008; Jones 2009). Both were large-scale surveys that examined properties near
+Lake Whitney. When combined, the investigations identified 15 new archeological sites and revisited
+three others. Of those sites, Sites 41BQ90, 41BQ290, and 41HI33 were located near the proposed
+Project areas. While the study authors recommended no additional work for Sites 41BQ90 and
+41BQ290, Site 41HI33 was assessed as eligible for listing in the NRHP, and avoidance was
+recommended.
+Fieldwork for the final investigation was completed in 2015 by Turpin and Sons, Inc. (Turner 2015).
+While the report does not appear on TASA, a copy was provided to AECOM by Mr. Daniel McGregor
+of the USACE, Fort Worth District. The survey, which utilized pedestrian survey and shovel testing to
+assess large portions of the currently proposed Project areas, did not identify any cultural resources.
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+9
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Chapter 3. Results of Background Research and
+Field Methodologies
+
+Table 3.1 Previously Completed Cultural Resources Surveys Within 1.6 km (1.0 mi) of the Proposed Project Areas
+Permit
+No.
+
+Atlas
+Number
+8500007574
+8500007814
+
+Report Unavailable
+(Stephenson 1947)
+
+N/A
+
+An Evaluation of the
+Archaeological Resources at
+Lake Whitney, Texas
+(Skinner and Gallagher 1974)
+An Archaeological
+Assessment of the Bear
+Creek Shelter, Lake Whitney,
+Texas (Lynott 1978)
+Archeological Investigations
+at Lake Whitney, Bosque,
+Hill, and Johnson Counties,
+Texas (Nickels, et al. 2008)
+
+N/A
+
+8500015082
+
+AECOM
+
+Title (Author/Date)
+Report Unavailable
+(Stephenson 1947)
+
+Methods
+No data
+
+Site(s) / Loci /
+Structures
+Identified
+No data
+
+Recommendations
+No data
+
+N/A
+
+No data
+
+No data
+
+No data
+No data
+
+No further work
+recommended for Sites
+41HI297, 41HI298, and
+41BQ290. Avoidance or
+further work
+recommended for Sites
+41HI296, 41BQ291, and
+41JN59.
+No further work
+recommended for Sites
+41BQ90, 41BQ249,
+41BQ292, 41BQ294,
+41BQ296, and 41BQ297.
+Avoidance or further
+work recommended for
+41BQ293, 41BQ295,
+41BQ305, 41HI33,
+41HI303, and 41HI304.
+No further work.
+
+Study
+Type
+N/A
+
+Smithsonian
+Institution
+
+Sponsoring Agency
+Inter-Agency
+Archeological
+Salvage Program
+Inter-Agency
+Archeological
+Salvage Program
+United States Army
+Corps of Engineers,
+Fort Worth District
+
+Contractor
+Smithsonian
+Institution
+
+Southern
+Methodist
+University
+
+Phase I
+
+No data
+
+United States Army
+Corps of Engineers,
+Fort Worth District
+
+Southern
+Methodist
+University
+
+No data
+
+No data
+
+Identified 29
+sites, including
+Sites 41BQ90
+and 41BQ91
+No data
+
+United States Army
+Corps of Engineers,
+Fort Worth District
+
+Ecological
+Communications
+Corporation
+
+Phase I/II
+
+Pedestrian
+survey, shovel
+testing, and unit
+excavation
+
+Identified six
+new
+archeological
+sites
+
+8500016069
+
+Archeological Survey and
+Testing at Lake Whitney,
+Bosque, Hill Counties, Texas
+(Jones 2009)
+
+United States Army
+Corps of Engineers,
+Fort Worth District
+
+Ecological
+Communications
+Corporation
+
+Phase I/II
+
+Pedestrian
+survey, shovel
+testing, unit
+excavation, and
+mechanized
+excavation
+
+Identified nine
+new
+archeological
+sites and
+revisited three
+additional sites.
+
+Not
+Recorded
+
+Negative Findings: Cultural
+Resource Survey, Lone Star
+NGL Pipeline, LP, Lone Star
+Express 30-inch Pipeline
+Lake Whitney Crossing,
+Bosque and Hill Counties
+(Turner 2015)
+
+Gremminger and
+Associates, Inc.
+
+Turpin and
+Sons, Inc.
+
+Phase I
+
+Pedestrian
+survey and
+shovel testing
+
+None
+
+Contains Privileged Information – Do Not Release
+
+No data
+
+10
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Chapter 3. Results of Background
+Research and Field Methodologies
+
+3.1.2 Previously Identified Archeological Sites
+Seven archeological sites were identified near the proposed Project items (Table 3.2). As mentioned
+above, Stephenson (1947) identified four sites, which include 41HI26, 41HI27, 41HI32, and 41HI33.
+Site 41BQU90 was identified by Hyatt in 1972 and was revisited by Jones, et al. in 2009, who also
+recorded Site 41BQ290. The examined site form for the final site, Site 41BQ91, indicates that it was
+identified by Skinner in 1971.
+Only Site 41BQ290 was characterized as a late nineteenth to early twentieth century homestead. It
+was assessed as not eligible for listing in the NRHP.
+The six remaining sites were characterized on TASA as prehistoric, and they included three middens
+(41BQ91, 41HI26, 41HI27), a rock shelter (41HI32), a campsite (41BQ90), and an artifact scatter
+(41HI33). One of the middens, the campsite, and the artifact scatter dated from the Late Archaic; the
+scatter also possessed a Late Prehistoric component. The cultural affiliation of the remaining three
+sites was unknown.
+Stephenson (1970) described Site 41HI32 as a rock shelter at the upper end of a ravine. Although the
+site appeared to have a deep floor deposit at the time of his investigation, he was not able to test the
+site as time did not allow for excavation. As a result, no artifacts were recovered from the site.
+Site 41HI33, the Steele Site, also was identified by Stephenson (1970). Unlike Site 41HI32,
+Stephenson was able to conduct a surface collection and excavate large portions of Site 41HI33, and
+cultural materials were identified to depths of 457 cm (180 in). However, the majority of the recovered
+613 artifacts were recovered from the upper 15 cm (6 in) of the site, and they consisted primarily of
+chipped stone tools. Stephenson concluded that the occupants of the site were representative of a
+single culture complex who occupied the site briefly over a period of several centuries. He attributed
+the site to the Edwards Plateau Aspect of the Archaic Period (Stephenson 1970).
+In terms of the NRHP eligibility of the sites, Sites 41BQ90 and 41BQ290 were assessed as ineligible,
+while Site 41HI33 was assessed as eligible. The NRHP eligibility of the remaining four sites appears
+to have not been assessed. While none of the previously recorded sites were located in the currently
+proposed Project areas, Site 41BQ91 is located near the proposed river crossing. However, because
+the HDD will occur in existing, disturbed right-of-way, the Project will not impact the site.
+Table 3.2 Previously Recorded Archeological Sites Within 1.6 km (1.0 mi) of the Proposed
+Project Areas
+Site
+Number
+41BQ90
+
+-
+
+Site Name
+
+Site
+Description
+USGS 7.5 Quad
+Lakeside Village Campsite
+
+Cultural
+Affiliation
+Late Archaic
+
+Field
+Methodology
+Pedestrian survey
+and shovel testing
+
+NRHP
+Eligibility
+Ineligible
+
+41BQ91
+
+Plowman Park
+Site
+
+Lakeside Village
+
+Prehistoric
+midden
+
+Late Archaic
+
+No data
+
+No data
+
+41BQ290
+
+-
+
+Lakeside Village
+
+Homestead
+
+Pedestrian survey
+and shovel testing
+
+Ineligible
+
+41HI26
+
+42-26D718/Possibly 4126D7-18—Nicks
+Site
+
+Plowman Creek
+
+Prehistoric
+midden
+
+Late 19th- early
+to mid-20th
+century
+Unknown
+Prehistoric
+
+Pedestrian survey
+and shovel testing
+
+No data
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+11
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Site
+Number
+41HI27
+
+Site Name
+42-26D719/Possibly 4126D7-19
+
+Chapter 3. Results of Background
+Research and Field Methodologies
+
+Site
+USGS 7.5 Quad
+Description
+Plowman Creek Prehistoric
+midden
+
+Cultural
+Affiliation
+Unknown
+prehistoric
+
+Field
+Methodology
+No data
+
+NRHP
+Eligibility
+No data
+
+41HI32
+
+41-26D7-37
+
+Plowman Creek
+
+Rock Shelter
+
+Unknown
+
+No data
+
+No data
+
+41HI33
+
+41-26D7-38—
+Steele Site
+
+Plowman Creek
+
+Artifact Scatter
+
+Late Archaic,
+Late Prehistoric
+
+Pedestrian survey,
+shovel testing, test
+units
+
+Eligible
+
+3.1.3 Previously Recorded Cemeteries
+One cemetery was identified within 1.6 km (1.0 mi) of the proposed Project items. Kopperl Cemetery
+is located within the city limits of Kopperl. Aerial photography shows it to be a landscaped cemetery
+with a definitive, fenced boundary. Findagrave.com indicates that the cemetery possesses 1,130
+interments. The earliest recorded interment dates from 1882, and the latest dates from 2015
+(Findagrave.com 2019).
+
+3.1.4 Standing Structures Greater than 50 Years in Age
+No standing structures greater than 50 years in age were identified within 1.6 km (1.0 mi) of the
+proposed Project items.
+
+3.1.5 Properties Listed In the National Register of Historic Places
+No properties listed in the NRHP were identified within 1.6 km (1.0 mi) of the proposed Project items.
+
+3.2
+
+Phase I Cultural Resources Survey Field Methodology
+
+The objective of this cultural resources investigation was to identify any cultural resources within the
+area of disturbance associated with the Project, define their horizontal and vertical boundaries, and
+make assessments of the significance of any identified resources applying the NRHP Criteria for
+Evaluation (36 CFR 60.4 [a-d]). Fieldwork included pedestrian survey, supplemented by systematic
+shovel testing along all workspace locations situated outside the extant pipeline corridor. Because the
+HDD will occur in a previously disturbed utility corridor, no subsurface testing was conducted for that
+Project item.
+All exposed ground surfaces were examined for evidence of archaeological resources. Current
+construction plans call for subsurface impacts outside the existing corridor to measure no more than
+91 cm (36 in) in depth. Thus, shovel tests were excavated to a depth of 100 cm (39.4 in). Additionally,
+in those areas surveyed previously by Turner (2015), no additional subsurface testing was conducted.
+Each shovel test measured 30 cm (11.8 in) in diameter and each was excavated in 10 cm (3.9 in)
+levels. All excavated soil was screened through 0.64 cm (0.25 in) hardware mesh. The location, depth,
+soil strata, and presence/absence of cultural materials was recorded for each shovel test, and all
+shovel tests were backfilled upon completion. Shovel tests were mapped in the field using a handheld
+Global Positioning System (GPS) unit. All work was supervised by cultural resources professionals
+who meet the United States Secretary of the Interior’s Professional Qualification Standards for
+Archaeology and Historic Preservation.
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+12
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+3.3
+
+Chapter 3. Results of Background
+Research and Field Methodologies
+
+Site Recordation and Delineation
+
+No cultural resources were identified during the investigation. As a result, no site delineation was
+required.
+
+3.4
+
+Architectural Field Methods
+
+As a part of this Phase I cultural resources investigation, all visible historic standing structures,
+cemeteries, or engineering structures located within or immediately adjacent to the proposed Project
+area that appeared to have been built at least 50 years ago were to be examined at the reconnaissance
+level. However, no such structures were identified.
+
+3.5
+
+Laboratory Analysis
+
+No cultural materials were recovered during excavation. Thus, no laboratory analysis was required.
+
+3.6
+
+Curation
+
+After the final report has been accepted, all photographs and field notes will be curated with the Texas
+Archeological Research Laboratory, J.J. Pickle Research Campus, Bldg. 5, The University of Texas at
+Austin, 10100 Burnet Road, Austin, Texas 78758.
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+13
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+4.
+
+Chapter 4. Results
+
+Results
+
+This chapter describes the results of Phase I cultural resources investigation of the proposed Energy
+Transfer Partners Brazos River Horizontal Directional Drill location associated with the proposed J.C.
+Nolan Pipeline Project in Bosque and Hill counties, Texas (Figures 1.1, 1.2, and 4.1). The proposed
+project items were located on both sides of the Brazos River (Figure 4.1). On the west side of the river,
+the workspace associated with the project measured approximately 2.6 ha (6.4 ac), while the
+workspace on the east side of the river measured approximately 0.4 ha (1.0 ac). Two arbitrary survey
+segments, one located on either side of the river, were utilized to examine the proposed project items.
+A description of each survey segment is below.
+
+4.1
+
+Survey Segment SS-PEH04232019a
+
+Survey Segment SS-PEH042319a was located on the west side of the Brazos River in Bosque County
+(Figures 4.1 and 4.2). The segment measured approximately 50 m (98.4 ft) in width and it extended
+approximately 900 m (2,952.8 ft). The segment originated in a field east of Farm-to-Market Road 56,
+and it terminated at the previously surveyed pipeline corridor. Vegetation along the survey segment
+consisted of grasses interspersed with copses of mixed hardwood trees (Figure 4.3). Observed slopes
+along the segment were characterized as nearly level to gently sloping.
+A total of 18 shovel tests were excavated in Survey Segment SS-PEH042319a at 50 m (164 ft)
+intervals along a single survey transect. Shovel testing was not conducted in areas where existing
+safety hazards, such as buried pipelines, prevented safe excavation. In such cases, attempts were
+made to offset the shovel test. Shovel test profiles for each excavated shovel test can be found in
+Appendix I.
+A typical shovel test excavated in the segment extended to a depth of 100 cm (39.4 in) and it exhibited
+two strata in profile. Stratum I, a dark brown (10YR 3/3) silty clay, extended from the ground surface
+to a depth of 45 cmbs (17.7 inbs). Stratum II, a brown (7.5YR 4/4) silty clay with calcium carbonate
+nodules, extended from the base of Stratum I to a depth of 100 cmbs (39.4 inbs). No cultural resources
+or evidence of intact cultural deposits were identified in survey segment SS-PEH042319a. No
+additional investigation of this Project item is recommended.
+
+4.2
+
+Survey Segment SA-PEH042519a
+
+Survey Segment SA-PEH042519a was located on the east side of the Brazos River in Hill County
+(Figures 4.1 and 4.4). The survey measured approximately 61 by 61 m (200 by 200 ft), and it was
+crossed by multiple pipeline corridors. The gently sloping workspace was covered primarily by
+manicured lawn, although occasional mixed woods also were present (Figure 4.5).
+A total of four shovel tests were excavated in the segment at 50 m (98.4 ft) intervals along two survey
+transects located to either side of the proposed workspace centerline. The two transects were initially
+spaced 50 m (98.4 ft) apart. However, due to the presence of the extant pipelines, the transect spacing
+was increased to 60 m (197 ft) to allow for sufficiently safe distance from the active pipeline corridors.
+A typical shovel test excavated within Survey Segment SA-PEH042519a extended to a variable depth
+of 10 to 68 cmbs (3.9 to 26.8 inbs) before terminating on a layer of solid rock. Each test exhibited a
+single stratum in profile, a very dark gray (10YR 3/1 or 7.5YR 3/1) clay loam that extended from the
+surface to the base of excavations. No cultural resources or evidence of intact cultural deposits were
+identified in Survey Segment SA-PEH042519a. No additional investigation of this Project item is
+recommended.
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+14
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Chapter 4. Results
+
+Figure 4.1 Aerial Photograph Depicting the Proposed Project Area
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+15
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Chapter 4. Results
+
+Figure 4.2 Aerial Photograph Depicting Shovel Test Locations on the West Side of the
+Brazos River
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+16
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Chapter 4. Results
+
+Figure 4.3 Overview Photograph of Survey Segment SS-PEH04232019a Facing North
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+17
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Chapter 4. Results
+
+Figure 4.4 Aerial Photograph Depicting Shovel Test Locations on the East Side of the Brazos River
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+18
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Chapter 4. Results
+
+Figure 4.5 Overview Photograph of Survey Segment SA-PEH042519a Facing Northwest
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+19
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+5.
+
+Chapter 5. Summary and Recommendations
+
+Summary and Recommendations
+
+The Phase I cultural resources investigation of the proposed Energy Transfer Partners Brazos River
+Horizontal Directional Drill Project examined an area measuring approximately 2.9 ha (7.2 ac) in total
+extent. Pedestrian survey, augmented by the excavation of 22 shovel tests, failed to reveal the
+presence of any surface or subsurface cultural materials. Likewise, no potentially intact cultural soils
+were observed. Finally, no historic built resources were identified as a result of this survey.
+Consequently, AECOM recommends a finding of no historic properties affected and further
+recommends no further investigations be conducted.
+If any unmarked prehistoric or historic human remains or burials are encountered, the area of the
+remains is considered a cemetery under current Texas law. All cemeteries are protected under State
+law and cannot be disturbed. Section 28.03(f) of the Texas Penal Code provides that intentional
+damage or destruction inflicted on a human burial site is a state jail felony. If a cemetery is identified
+in the project right-of-way, all work in the area of the discovery must cease and the THC must be
+notified by contacting the History Programs Division at (512) 463-5853 and the Archeology Division at
+(512) 463-6096. Following consultation with the THC, a treatment or avoidance plan would be
+developed and implemented.
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+20
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+6.
+
+Chapter 6. References Cited
+
+References Cited
+
+Austin, Kenneth E.
+2016 Hill
+County.
+Electronic
+document,
+https://tshaonline.org/handbook/online/articles/hch15, accessed March 19, 2019.
+Texas State Historical Association.
+Bousman, C. Britt, Barry W. Baker, and Anne C. Kerr
+2004 Paleoindian Archeology in Texas. In The Prehistory of Texas, edited by Timothy
+Pertulla, pp. 15-97. Texas A&M University Press, College Station.
+Bureau of Economic Geology (BEG)
+1992 Geology of Texas. Bureau of Economic Geology. The University of Texas at Austin.
+1996
+
+Physiographic Map of Texas. Bureau of Economic Geology. The University of Texas at
+Austin.
+
+Brooks, Charles A.
+1978 Soil Survey of Hill County, Texas. United States Department of Agriculture, Soil
+Conservation Service in cooperation with Texas Agricultural Experiment Station,
+College Station.
+Brown, K.L., and S.A. Lebo
+1991 Archeological Testing of the Lewisville Lake Shoreline, Denton County, Texas (with
+contributions by G. Brown, C.R. Ferring, H. Gill-King, S.A. Lohse, B. Mergele, and B.C.
+Yates). Institute of Applied Sciences, University of North Texas, Denton. Submitted to
+the U.S. Army Corps of Engineers, Fort Worth District, Contract No. DACW63-86-C0098.
+Findagrave.com
+2019 Kopperl
+Cemetery.
+Electronic
+document,
+https://www.findagrave.com/cemetery/317489/kopperl-cemetery, accessed March 21,
+2019.
+Haaser, Robert J.
+2010 Ellis County. Texas State Historical
+https://www.tshaonline.org/handbook/online/
+articles/hce04, accessed May 12, 2016.
+
+Association.
+
+Electronic
+
+document,
+
+Hardy, Heck, and Moore Cultural Resources Consultants
+nd
+“Richard
+Ellis:
+The
+County’s
+Namesake.”
+Electronic
+Document,
+http://www.rootsweb.ancestry.com/~txecm/ellis.htm, accessed May 12, 2016. Hardy,
+Heck, Moore Cultural Resource Consultants in the Superconducting Super Collider
+Laboratory report for the U.S. Department of Energy. Austin, Texas.
+Jelks, Edward B.
+2014 Archaeological Salvage at Texas Reservoir Construction Projects: 1945-1969. In Dam
+Projects and the Growth of American Archaeology. The River Basin Surveys and the
+Interagency Archeological Salvage Project, edited by Kimball M. Banks and Jon S.
+Czaplicki, pp. 85-94. Left Coast Press, Walnut Creek, California.
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+21
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Chapter 6. References Cited
+
+Jones, Richard S.
+2009 Archeological Survey and Testing at Lake Whitney, Bosque and Hill Counties, Texas.
+Report submitted to the United States Army Corps of Engineers by Ecological
+Communications Corporation, Austin, Texas.
+Kenmotsu, N. A., and T. K. Perttula (Editors) (with contributions by C. Britt Bousman, M. B. Collins, J.
+E. Corbin, R. C. Fields, D. J. Prikryl, and S. A. Tomka)
+1993 Archeology in the Eastern Planning Region, Texas: A Planning Document. Department
+of Antiquities Protection, Cultural Resource Management Report 3, Texas Historical
+Commission, Austin.
+Lynott, Mark J.
+1978 An Archaeological Assessment of the Bear Creek Shelter, Lake Whitney, Texas.
+Archaeology Research Program Research Report No. 115, Southern Methodist
+University, Dallas, Texas.
+Nickels, David L., Richard S. Jones, W. Nicholas Trierweiler, Rachel J. Feit, and Antonio E. Padilla
+2008 Archeological Investigations at Lake Whitney, Bosque, Hill, and Johnson Counties,
+Texas. Report submitted to the United States Army Corps of Engineers by Ecological
+Communications Corporation, Austin, Texas.
+Skinner, S. Alan, and Joseph Gallagher
+1974 An Evaluation of the Archaeological Resources at Lake Whitney, Texas. Contributions
+in Anthropology No. 14, Southern Methodist University, Dallas, Texas.
+Stephenson, Robert L.
+1947 Archaeological Survey of Whitney Basin: A Preliminary Report. Bulletin of the Texas
+Archeological and Paleontological Society Vol. 18. Texas Archeological and
+Paleontological Society, Lubbock.
+1970
+
+Archeological Investigations in the Whitney Reservoir Area, Central Texas. Bulletin of
+the Texas Archeological Society Vol. 41. Texas Archeological Society, Dallas.
+
+Strickland, Kristi
+2018 Bosque County. Texas State Historical Association. Electronic document,
+https://tshaonline.org/handbook/online/articles/hcb10, accessed March 19, 2019.
+Stringer, Billy R.
+1980 Soil Survey of Bosque County, Texas. United States Department of Agriculture, Soil
+Conservation Service in cooperation with Texas Agricultural Experiment Station,
+College Station.
+Texas Almanac
+2018 “Physical
+Regions
+of
+Texas.”
+Electronic
+https://texasalmanac.com/topics/environment/physical-regions-texas,
+March 20, 2019.
+
+document,
+accessed
+
+Texas Historical Commission (THC)
+2011a Preservation Connection: Texas’ Statewide Historic Preservation Plan.
+Electronic document,
+https://www.thc.texas.gov/public/upload/forms/Texas%20Statewide%20Preservation
+%20Plan%202011_2020.pdf, accessed May 17, 2019.
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+22
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Chapter 6. References Cited
+
+2011b Archeological Survey Standards for Texas. Electronic document,
+http://counciloftexasarcheologists.org/wordpress/wpcontent/uploads/surveystandards.pdf, accessed May 17, 2019.
+Turner, Billy
+2015
+
+Negative Findings: Cultural Resource Survey, Lone Star NGL Pipeline, LP, Lone Star
+Express 30-inch Pipeline Lake Whitney Crossing, Bosque and Hill Counties. Report
+submitted to Gremminger and Associates by Turpin and Sons, Inc., Canyon Lake,
+Texas.
+
+United States Department of Agriculture
+2008 General Soil Map of Texas. United States Department of Agriculture: Natural
+Resources Conservation Service. MO9 Soil Survey Office: Temple, Texas
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+23
+
+Appendix I
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Appendix I
+Shovel Test Data
+Appendix I Shovel Test Data
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+24
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Appendix I. Shovel Test Data
+
+Shovel Test Data
+Shovel Test
+
+Depth
+(cmbs)
+
+Description
+
+Cultural
+Materials
+
+Survey Segment SS-PEH04232019a
+TR1 ST1
+TR1 ST2
+TR1 ST3
+TR1 ST4
+
+TR1 ST5
+
+TR1 ST6
+
+TR1 ST7
+
+TR1 ST8
+
+TR1 ST9
+
+TR1 ST10
+
+TR1 ST11
+
+TR1 ST12
+
+TR1 ST13
+
+AECOM
+
+0-55
+
+Dark Brown 10YR 3/3 silty clay loam
+
+55-67
+
+Reddish Brown 5YR 5/4 clay; 50 percent calcium carbonate nodules
+
+0-70
+
+Dark Brown 10YR 3/3 silty loam
+
+70-100
+
+Reddish Brown 5YR 5/4 silty clay; calcium carbonate nodules
+
+0-40
+
+Dark Brown 10YR 3/3 silty loam
+
+40-80
+
+Brown 7.5YR 4/4 silty clay; calcium carbonate nodules
+
+0-45
+
+Dark Brown 10YR 3/3 silty loam
+
+45-100
+
+Brown 7.5YR 4/4 silty clay; calcium carbonate nodules
+
+0-50
+
+Dark Brown 10YR 3/3 silty loam
+
+50-75
+
+Reddish Brown 5YR 5/4 silty clay
+
+75-100
+
+Reddish Brown 5YR 5/4 silty clay; calcium carbonate nodules
+
+0-40
+
+Dark Brown 10YR 3/3 silty loam
+
+40-60
+
+Brown 7.5YR 4/4 silty clay
+
+60-100
+
+Dark Brown 7.5YR 3/4 silty clay; calcium carbonate nodules
+
+0-35
+
+Dark Brown 10YR 3/3 silty loam
+
+35-70
+
+Brown 7.5YR 4/4 silty clay
+
+70-100
+
+Dark Brown 7.5YR 3/4 silty clay; calcium carbonate nodules
+
+0-50
+
+Dark Brown 10YR 3/3 silty clay loam
+
+50-100
+
+Brown 7.5YR 4/4 silty clay mottled with 10YR 7/4 sand
+
+0-45
+
+Dark Brown 10YR 3/3 silty loam
+
+45-50
+
+Light Yellowish Brown 10YR 6/4 silt
+
+50-65
+
+Dark Grayish Brown 10YR 4/2 silty clay
+
+65-90
+
+Brown 10YR 5/3 silty clay
+
+90-100
+
+Yellowish Brown 10YR 5/6 silt
+
+0-13
+
+Dark Brown 10YR 3/3 silty loam
+
+13-50
+
+Dark Brown 7.5YR 3/4 silty clay
+
+50-100
+
+Yellowish Red 5YR 4/6 clay
+
+0-33
+
+Yellowish Red 5YR 5/8 silty clay; 50 percent calcium carbonate
+nodules
+
+0-50
+
+Very Pale Brown 10YR 7/3 silty clay; calcium carbonate nodules
+
+50-75
+
+Dark Brown 10YR 3/3 silty clay loam
+
+75-100
+
+Pale Brown 10YR 6/3 silty clay
+
+0-35
+
+Yellowish Brown 10YR 5/6 silty loam; 20 percent calcium carbonate
+nodules
+
+35-60
+
+Dark Brown 10YR 3/3 silty loam
+
+60-80
+
+Reddish Brown 5YR 5/4 silty clay
+
+80-100
+
+Reddish Brown 5YR 5/4 silty clay; 50 percent calcium carbonate
+nodules
+
+Contains Privileged Information – Do Not Release
+
+Negative
+Negative
+Negative
+Negative
+
+Negative
+
+Negative
+
+Negative
+
+Negative
+
+Negative
+
+Negative
+
+Negative
+
+Negative
+
+Negative
+
+25
+
+Appendix I. Shovel Test Data
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Shovel Test
+
+Depth
+(cmbs)
+0-40
+
+TR1 ST14
+
+TR1 ST15
+TR1 ST16
+TR1 ST17
+TR1 ST18
+
+Description
+Very Pale Brown 10YR 7/3 silty clay loam; 10 percent calcium
+carbonate nodules
+
+40-100
+
+Yellowish Red 5YR 4/6 silty clay; 50 percent calcium carbonate
+nodules
+
+0-25
+
+Dark Brown 10YR 3/3 silty loam
+
+25-100
+
+Brown 7.5YR 4/4 silty clay
+
+0-25
+
+Dark Reddish Brown 5YR 3/4 silty loam
+
+25-100
+
+Red 2.5YR 5/6 silty clay
+
+0-65
+
+Very Dark Brown 10YR 2/2 silty clay
+
+65-75
+
+Dark Brown 10YR 3/3 clay
+
+0-55
+
+Very Dark Brown 10YR 2/2 silty clay
+
+55-90
+
+Dark Brown 10YR 3/3 clay
+
+Cultural
+Materials
+Negative
+
+Negative
+Negative
+Negative
+Negative
+
+Survey Segment SA-PEH04252019a
+TR1 ST1
+
+0-50
+
+Very Dark Gray 10YR 3/1 clay loam
+
+Negative
+
+TR1 ST2
+
+0-68
+
+Very Dark Gray 7.5YR 3/1 clay loam
+
+Negative
+
+TR2 ST1
+
+0-20
+
+Very Dark Gray 10YR 3/1 clay loam
+
+Negative
+
+TR2 ST2
+
+0-10
+
+Very Dark Gray 10YR 3/1 clay loam
+
+Negative
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+26
+
+Appendix II
+
+Phase I Cultural Resources Investigation of the Proposed
+Energy Transfer Partners Brazos River Horizontal Directional
+Drill Location Associated with the Proposed J.C. Nolan
+Pipeline Project in Bosque and Hill Counties, Texas
+
+Appendix II
+AECOM Brazos River Scope of Work
+Appendix II AECOM Brazos River Scope of Work
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+27
+
+Phase I Cultural Resources Survey
+of the Energy Transfer Brazos
+River Horizontal Directional Drill
+Location Associated with the
+Proposed J.C. Nolan Pipeline
+Project in Bosque and Hill
+Counties, Texas
+Prepared for:
+
+Energy Transfer
+1300 Main Street
+Houston, TX 77002
+April 2019
+
+Phase I Cultural Resources Survey of the Energy Transfer
+Brazos River Horizontal Directional Drill Location
+Associated with the Proposed J.C. Nolan Pipeline Project
+in Bosque and Hill Counties, Texas
+
+Prepared for:
+
+Energy Transfer
+1300 Main Street
+Houston, TX 77002
+
+Prepared by:
+
+James Eberwine and Patricia Hutchins
+
+James Eberwine, M.S., R.P.A.
+Principal Investigator
+
+April 2019
+
+7389 Florida Boulevard, Suite 300
+Baton Rouge, LA 70806
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+ii
+
+Scope of Work
+This Scope of Work describes the methodologies and technical approach for the Phase I cultural resources
+survey of the proposed Energy Transfer (ET) Brazos River Horizontal Directional Drill (HDD) location
+associated with the proposed J.C. Nolan Pipeline Project (Project) in Bosque and Hill counties, Texas
+(Figure 1). ET has conducted bathymetric surveys of the existing pipeline crossing of the Brazos River
+(Lake Whitney) and is considering proactive measures to lower the pipeline. If it is determined to lower the
+pipeline beneath the Brazos River, the Project will consist of using HDD technology to drill a
+30.5-centimeter (cm; 12-inch [in]) pipeline approximately 9.2 meters (m; 30.3 feet [ft]) below the river.
+AECOM Technical Services, Inc. (AECOM), on behalf of ET, will conduct the archaeological and
+architectural inventories of the proposed Project components described above. This investigation is
+designed to identify and evaluate any cultural resources, such as historic and prehistoric archaeological
+sites, historic standing structures, and cemeteries, which may be located within the area of disturbance
+associated with the Project. This investigation will follow the guidelines and procedures outlined in the
+National Historic Preservation Act (NHPA) of 1966, as amended; the Archaeological and Historic
+Preservation Act of 1974; 33 CFR 325 Appendix C - Procedures for the Protection of Historic Properties;
+and, Title 36 of the Code of Federal Regulations, Parts 60-66 and 800, as appropriate. Additionally, this
+survey effort will abide by the standards set forth in Archeology and Historic Preservation: The Secretary
+of the Interior’s Guidelines and with guidelines contained within Preservation Connection: Texas’
+Statewide Historic Preservation Plan. 2011–2020. Information provided by the Council of Texas
+Archeologists, the Texas Archaeological Research Laboratory, the Antiquities Code of Texas, and the
+Texas Historical Commission’s (THC) Archeological Survey Standards For Texas and Rules of Practice
+and Procedure for the Antiquities Code of Texas also will be utilized.
+As currently proposed, the crossing will span approximately 1,681.3 m (5,516 ft). In addition, the pipeline
+replacement will occur in ET’s existing, disturbed pipeline corridor. However, additional temporary
+workspace will be required for pipe stringing, contractor parking, and laydown. Such workspace will be
+located outside the existing, disturbed corridor. Further, at this time ET has not yet determined from which
+side of the river they will cross. As a result, ET is examining workspace locations on both sides of the
+Brazos River (Figures 1 and 2).
+The Project spans a portion of the Brazos River that lies within the United States Geological Survey (USGS)
+7.5-minute topographic quadrangle maps of Morgan, TX and Lakeside Village, TX. Any impacts the
+Project may have on wetlands and water bodies will be permitted by the United States Army Corps of
+Engineers (USACE) related to actions under Section 404 of the Clean Water Act of 1972 (33 U.S.C. §1251
+et seq.) and Section 10 of the Rivers and Harbors Act of 1899 (33 U.S.C. 403). Therefore, because this is a
+federal undertaking, this Project is subject to review under Section 106 of the NHPA (16 USC 470) and its
+implementing regulations (36 CFR 800).
+
+NATURAL SETTINGS
+The regional landscape strongly influences the preservation and subsequent identification of any archeological
+materials that may have been deposited within the proposed Project areas. The Project items are located within
+the eastern Grand Prairie physiographic region, which developed on limestones and calcareous shales (Bureau
+of Economic Geology 1996). The Project area is underlain by the Cretaceous-era Fredericksburg and L.
+Washita geologic groups (Bureau of Economic Geology 1992). The area is adapted primarily to agriculture,
+particularly raising livestock and growing staple crops, and it is generally treeless except along the
+streambanks (Texas Almanac 2018). The area is characterized by thin, rocky soils arising from weathering
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+1
+
+and erosion. The eastern Grand Prairie Region is typified by plains ranging in elevation from 381 to 137 m
+above sea level (asl; [1250 to 450 ft asl]); a strata dip characterizes the eastern side of the Region (BEG 1996;
+United States Department of Agriculture [USDA] 2008).
+Due to the Project area’s proximity to the Brazos River and the peculiarities of the Fredricksburg group there,
+soils within the Project are generally deeper and less eroded than those in much of the Grand Prairie Region
+(Brooks 1978). Soils on the west side of the river are comprised from the Bastrop, Minwells, Slidell, and
+Sunev series. All are characterized as deep, well-drained soils. Slidell soils are found on uplands, and Bastrop,
+Minwells, and Sunev soils are found on stream terraces. Bastrop soils are loamy and sandy and are formed in
+thick beds of loamy alluvial sediments. Minwells soils are loamy and are formed in thick beds of loamy and
+gravelly alluvial sediments. Sunev soils are loamy and are formed in alluvium along major streams (Stringer
+1980).
+Soils on the east side of the river are comprised from the Aledo, Bastsil, Brackett, Burleson, Gowen, and
+Krum series. Aledo and Brackett soils are shallow, loamy soils. Aledo soils are underlain by hard, coarsely
+fractured limestone at a depth of less than 50.8 cm (20 in). Brackett soils are formed in interbedded soft
+limestone and marly earth. Bastsil soils are deep, sandy or loamy soils found on uplands and formed in loamy
+sediments on stream terraces. Burleson soils are deep, nearly level, clayey soils found on old stream terraces.
+They are formed in alkaline, clayey sediments. Gowen soils are deep, loamy soils and are formed in
+noncalcareous loamy sediments in floodplains. Krum soils are deep, clayey soils that formed in thick beds of
+unconsolidated, calcareous sediments on old high terraces and valley fills (Brooks 1978).
+
+CULTURAL SETTING
+The Project area falls within the Prairie-Savanna study region of the Eastern Archaeological Planning
+Region as defined by the THC (Kenmotsu and Perttula 1993). Researchers have divided the region into
+chronological periods based on archaeological evidence obtained from investigations principally related to
+grant-funded reconnaissance (primarily carried out by the University of Texas), reservoir construction,
+mining operations, Soil Conservation Service projects, water treatment, utility and energy line construction,
+and federally-funded highway projects. Table 1 depicts the chronological periods for the Project area. A
+brief overview of each period is below.
+Table 1. Chronological Periods for the Project Area
+Chronological Period
+Dates
+Paleoindian
+9950–6500 BP*
+Early Archaic
+6500–4000 BP
+Middle Archaic
+4000–1500 BP
+Late Archaic
+1500 BP–AD** 700
+Late Prehistoric I
+AD 700–1200
+Late Prehistoric II
+AD 1200–1700
+Historic Indian
+AD 1700-early 1800s
+Historic
+Early 1800s-present
+Note: *BP, before present; **AD, anno domini
+
+The Paleoindian period is the earliest defined cultural period in North America. Most of the evidence of the
+period in the region consists of isolated finds of projectile points; generally, the point types are non-local
+and are made of non-local materials. There is usually meager occupational debris, and, while some bison
+remains have been identified, much of the faunal remains are from small mammals and land turtles. Overall,
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+2
+
+archaeological evidence suggests that small, highly mobile groups inhabited or passed through the region
+during the Paleoindian period (Kenmotsu and Perttula 1993).
+Although sites from this period within the study region are extremely rare, a Paleoindian component was
+identified at Site 41BQ46, the Horn Shelter No. 2 Site, which is a rock shelter located approximately 32 km
+(20 mi) south of the proposed project area (Bousman, et al. 2004). A number of sealed Paleoindian deposits
+were identified within the site, and diagnostic artifact recoveries included Folsom, San Patrice, and
+Scottsbluff projectile points, as well as a possible Clovis point. Radiocarbon dates for these deposits ranged
+from 9500 +/- 200 B.P. to 10,310 +/- 150 B.P. (Bousman, et al. 2004).
+In addition, a double burial consisting of a Paleoindian adult and child was identified at Site 41BQ46. Both
+skeletons were nearly complete, and numerous grave goods, such as shell beads, bird claws, bone and stone
+tools, and perforated nonhuman canines also were identified in association with the bodies. The cranium of
+the adult was placed in a turtle carapace, and two other turtle carapaces were placed near the face and pelvis
+of the body. Both individuals were characterized as male, and the adult was estimated to be between 160167.6 cm (63-66 in) in height (Bousman, et al. 2004).
+Near the end of the Paleoindian period, global climate began to change slowly, becoming gradually warmer
+and dryer (Brown and Lebo 1991). In response, plant and animal populations also changed and the human
+populations in north Texas began to exploit a wider variety of food resources. Archaeological evidence of
+Early and Middle Archaic groups within the Prairie-Savannah study region is sparse. Artifacts from the
+Early and Middle Archaic periods are restricted to projectile points and they often come from culturallymixed soil deposits or from surface finds. Projectile points from the Early and Middle Archaic are usually
+less carefully fashioned and are made from less exotic materials than those from the Paleoindian Period
+(Kenmotsu and Perttula 1993).
+In comparison to earlier time periods, the Late Archaic represents a period of increased population and site
+density. Artifacts from the Late Archaic period are characterized by projectile points made of local materials
+and an increased density of occupational debris and features, such as hearths and floral remains. Burned
+rock midden features dating from the latter part of the Middle Archaic and the Late Archaic periods, absent
+in most of the study region, have been identified in Bosque County (Kenmotsu and Perttula 1993).
+The Late Prehistoric periods are marked by the introduction of bow-and-arrow technology, ceramics, house
+structures, and corn horticulture. Changes in ceramic and arrow point types distinguish the Late Prehistoric
+I from the Late Prehistoric II period. Additionally, archeological evidence shows a more varied assemblage
+during Late Prehistoric II, including thumbnail scrapers, knives, drills, digging sticks, and hoes (Kenmotsu
+and Perttula 1993).
+The Historic Indian period generally coincided with the arrival of the first Spanish and French peoples in
+the region. Archaeological sites from the period are extremely rare in the Prairie-Savannah study region;
+all sites identified thus far are village sites associated with the Wichita Confederacy, a group that moved
+from the Oklahoma-Kansas border region into northern Texas in the mid-1700s. Many of the sites are
+heavily damaged; however, the Vinson Site (Limestone County) remains largely intact. Archaeological
+excavation there revealed eight burned house floors and a mixture of European trade goods, such as beads,
+metal arrowpoints, and gun parts; and native-made items, such as ceramics, hide scrapers, and ground stone
+tools. Documentary evidence from early European explorers in the region lists several groups, including
+the Tonkawa, Apache, Comanche, Wichita, Kitsai (Kichai), Yojaunce, Caddo, Delaware, and Kickapoo
+(Kenmotsu and Perttula 1993).
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+3
+
+The Stansbury Site, Site 41HI9, was an Historic Indian village site that is located in close proximity to the
+Project area. Stephenson (1970) hypothesized that the Stansbury Site represents the former location of the
+Flechado Village of the Tawkoni Indians. The Tawkoni were closely related to the Wichitas, and the village
+was established between 1772 and 1778, and abandoned between 1780 and 1786. Stephenson described the
+site as a, “large, open, occupation area on the edge of the upper, or 40-foot, terrace of the Brazos River…two
+miles above the Whitney Dam” (Stephenson 1970:104). Investigations conducted at the site in 1947 and
+1950 identified, “four burials, a stone wall, several “piles” of bison bones, a series of unpatterned postholes,
+and an aboriginal dwelling structure” (Stephenson 1970:104). The artifact sub-assemblage recovered from
+the site included both Native American and European/American trade goods. In addition to the Tawkoni
+occupation, the site likely was reoccupied in the middle nineteenth century by a Hainai Native American
+group. At that time, the site was referred to as the Old Towash Village. These groups likely were relocated
+to Oklahoma Territory in 1870 (Stephenson 1970).
+The first European explorers to enter what is now Bosque County were Spanish missionaries, who arrived
+in 1721. In Hill County, the first European was probably Pedro Vial, a Frenchman hired by the Spanish to
+find a route to Santa Fe from San Antonio, in 1786 (Austin 2016; Strickland 2018). Before Texas
+independence, while under the control of Mexico, several empresario grants were awarded by Mexico to
+populate the territory (Haaser 2010; Hardy, et al. nd). Settlement in both Bosque and Hill Counties began
+with these land grants. In Bosque County, the first settler was Sterling C. Robertson; in Hill County, the
+first settler was Peter Fleming. Both men were issued grants in 1825. Within a few years, Robertson also
+received much of the land that would become Hill County and, in 1835, he gave grants to several other
+families that he recruited to settle the area. Few homesteaders opted to settle within Bosque County until
+1841, when a military expedition passed through the region and many of those associated travelers decided
+to stay. In 1847, the town of Kimball was established in Bosque County in an effort to bring more settlers
+to the area. The first town in Hill County was established in 1849 and it surrounded Fort Graham. The fort
+was abandoned in 1853, but the town remained (Austin 2016; Strickland 2018).
+Hill County was created from a portion of Navarro County in 1853 and Bosque County was formed from a
+portion of McLennan County in 1854. Hillsborough and Meridian were chosen as the respective county
+seats, and in both counties, town lots were sold to the public for settlement. Many Norwegians settled in
+the less-densely populated Bosque County following an offer by the state of Texas to grant 320 acres to
+anyone willing to settle in the new county (Austin 2016; Strickland 2018).
+Both counties voted for secession in the Civil War. However, while Hill County supported three cavalry
+units and established home guards, most of the soldiers in Bosque County guarded the area from local
+Native Americans. Both counties grew during the latter half of the nineteenth century. The population of
+Bosque County was enumerated at 4,981 in 1870; 11,216 in 1880; and 17,390 in 1900. Similarly, Hill
+County’s population was enumerated at 3,653 in 1860; 7,453 in 1870; and 41,355 in 1900. However,
+population of both counties began to fall during the early twentieth century as declining farm prices
+discouraged agriculture and as manufacturers left the area.
+Erosion and drought conditions worsened the agricultural decline in the 1930s, 1940s, and 1950s.
+Manufacturing, primarily related to lumber, limestone, oilfield-tool manufacturing, and textiles, began to
+increase in Bosque County during the 1940s and 1950s and grew substantially in the 1970s and 1980s.
+Manufacturing decreased in Hill County over the same period, but employment opportunities in service
+industries such as medical care and retail rose significantly. As of 2014, 17,780 people lived in Bosque
+County and 34,848 lived in Hill County (Austin 2016; Strickland 2018).
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+4
+
+PREVIOUS INVESTIGATIONS AND BACKGROUND RESEARCH
+A review was undertaken of those previously completed cultural resources surveys, previously recorded
+archeological sites, built resources greater than 50 years in age, cemeteries, historic markers, and properties
+listed on the National Register of Historic Places (NRHP) situated within 1.6 kilometer (km) (1.0 mile [mi])
+of the proposed Project. That review utilized the data stored electronically on the THC’s Texas
+Archeological Sites Atlas (TASA). The results of the data collection are summarized below.
+Previously Completed Cultural Resources Surveys
+A total of seven previously completed cultural resources investigations were identified within 1.6 km (1.0
+mi) of the proposed Project items, and very few data were present on the abstracts present on TASA (Figure
+2; Table 2). Two of the surveys were sponsored by The Smithsonian Institution in 1947. These
+investigations were conducted by Robert L. Stephenson during the Texas River Basin Surveys (RBS)
+program. Jelks (2014) indicated that these salvage investigations were initiated in 1945, and they examined
+over 40 reservoir projects and located and recorded approximately 1,600 archeological sites. Stephenson
+discussed some of the sites he identified during his survey of the Whitney Basin in Volume 18 of the
+Bulletin of the Texas Archeological and Paleontological Society (Stephenson 1947), a more robust
+discussion of those investigations was included in Volume 41 of the Bulletin of the Texas Archeological
+Survey (Stevenson 1970).
+Although not recorded on TASA, archeologists associated with Southern Methodist University (SMU)
+conducted additional investigations near the Project area in anticipation of an expansion to Lake Whitney
+(Skinner and Gallagher 1974; Lynott 1978). Electronic copies of the SMU reports could not be identified,
+and they also were not available from local archives. However, based on correspondence with the USACE,
+Skinner and Gallager recorded 29 new sites, including Sites 41BQ90 and 41BQ91 (see below; Daniel
+McGregor, personal communication, 2019)
+Of the remaining surveys, two were sponsored by the USACE, Fort Worth District, and they were Section
+110 compliance efforts completed by Ecological Communications Corporation in 2008 and 2009 (Nickels,
+et al. 2008; Jones, et al. 2009). Both were large-scale surveys that examined properties near Lake Whitney.
+When combined, the investigations identified 15 new archeological sites and revisited three others. Of those
+sites, Sites 41BQ90, 41BQ290, and 41HI33 were located near the proposed Project areas. While the study
+authors recommended no additional work for Sites 41BQ90 and 41BQ290, Site 41HI33 was assessed as
+eligible for listing on the NRHP, and avoidance was recommended.
+Fieldwork for the final investigation was completed in 2015 by Turpin and Sons, Inc. (Turner 2015). While
+the report does not appear on TASA, a copy was provided to AECOM by Mr. Daniel McGregor of the
+USACE, Fort Worth District. The survey, which utilized pedestrian survey and shovel testing to assess
+large portions of the currently proposed Project areas, did not identify any cultural resources.
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+5
+
+Table 2. Previously Completed Cultural Resources Surveys Within 1.6 km (1.0 mi) of the Proposed Project Areas
+Permit
+No.
+
+Atlas
+Number
+8500007574
+
+Title (Author/Date)
+Report Unavailable
+(Stephenson 1947)
+
+8500007814
+
+Report Unavailable
+(Stephenson 1947)
+
+N/A
+
+An Evaluation of the
+Archaeological Resources at
+Lake Whitney, Texas (Skinner
+and Gallagher 1974)
+An Archaeological Assessment
+of the Bear Creek Shelter,
+Lake Whitney, Texas (Lynott
+1978)
+Archeological Investigations at
+Lake Whitney, Bosque, Hill,
+and Johnson Counties, Texas
+(Nickels, et al. 2008)
+
+N/A
+
+8500015082
+
+Sponsoring Agency
+Inter-Agency
+Archeological Salvage
+Program
+Inter-Agency
+Archeological Salvage
+Program
+United States Army
+Corps of Engineers,
+Fort Worth District
+
+Contractor
+Smithsonian
+Institution
+
+Study Type
+Methods
+N/A
+No data
+
+Site(s) / Loci /
+Structures
+Identified
+No data
+
+Smithsonian
+Institution
+
+N/A
+
+No data
+
+No data
+
+No data
+
+Southern
+Methodist
+University
+
+Phase I
+
+No data
+
+No data
+
+United States Army
+Corps of Engineers,
+Fort Worth District
+
+Southern
+Methodist
+University
+
+No data
+
+No data
+
+Identified 29
+sites, including
+Sites 41BQ90
+and 41BQ91
+No data
+
+United States Army
+Corps of Engineers,
+Fort Worth District
+
+Ecological
+Phase I/II
+Communications
+Corporation
+
+Pedestrian
+survey, shovel
+testing, and unit
+excavation
+
+Identified six
+new
+archeological
+sites
+
+No further work
+recommended for Sites
+41HI297, 41HI298, and
+41BQ290. Avoidance or
+further work
+recommended for Sites
+41HI296, 41BQ291, and
+41JN59.
+No further work
+recommended for Sites
+41BQ90, 41BQ249,
+41BQ292, 41BQ294,
+41BQ296, and 41BQ297.
+Avoidance or further work
+recommended for
+41BQ293, 41BQ295,
+41BQ305, 41HI33,
+41HI303, and 41HI304.
+No further work.
+
+8500016069
+
+Archeological Survey and
+Testing at Lake Whitney,
+Bosque, Hill Counties, Texas
+(Jones 2009)
+
+United States Army
+Corps of Engineers,
+Fort Worth District
+
+Ecological
+Phase I/II
+Communications
+Corporation
+
+Pedestrian
+survey, shovel
+testing, unit
+excavation, and
+mechanized
+excavation
+
+Identified nine
+new
+archeological
+sites and
+revisited three
+additional sites.
+
+Not
+Recorded
+
+Negative Findings: Cultural
+Resource Survey, Lone Star
+NGL Pipeline, LP, Lone Star
+Express 30-inch Pipeline Lake
+Whitney Crossing, Bosque and
+Hill Counties (Turner 2015)
+
+Gremminger and
+Associates, Inc.
+
+Turpin and
+Sons, Inc.
+
+Pedestrian
+survey and
+shovel testing
+
+None
+
+AECOM
+
+Phase I
+
+Contains Privileged Information – Do Not Release
+
+Recommendations
+No data
+
+No data
+
+6
+
+Previously Identified Archeological Sites
+Seven archeological sites were identified near the proposed Project items (Table 3). As mentioned above,
+Stephenson (1947) identified four sites, which included 41HI26, 41HI27, 41HI32, and 41HI33. Site
+41BQU90 was identified by Hyatt in 1972 and was revisited by Jones, et al. in 2009, who also recorded
+Site 41BQ290. The examined site form for the final site, Site 41BQ91, indicates that it was identified by
+Skinner in 1971.
+Only Site 41BQ290 was characterized as an historic site. The site was described as late nineteenth to early
+twentieth century homestead. It was assessed as not eligible for listing in the NRHP.
+The six remaining sites were characterized on TASA as prehistoric, and they included three middens
+(41BQ91, 41HI26, 41HI27), a rock shelter (41HI32), a campsite (41BQ90), and an artifact scatter (41HI33).
+One of the middens, the campsite, and the artifact scatter dated from the Late Archaic; the scatter also
+possessed a Late Prehistoric component. The cultural affiliation of the remaining three sites was unknown.
+Stephenson (1970) described Site 41HI32 as rock shelter at the upper end of a ravine. Although the site
+appeared to have a deep floor deposit at the time of his investigation, he was not able to test the site as time
+did not allow for excavation. As a result, no artifacts were recovered from the site.
+Site 41HI33, the Steele Site, also was identified by Stephenson (1970). Unlike Site 41HI32, Stephenson
+was able to conduct a surface collection and excavate large portions of Site 41HI33, and cultural materials
+were identified to depths of 457 cm (180 in). However, the majority of the recovered 613 artifacts were
+recovered from the upper 15 cm (6 in) of the site, and they consisted primarily of chipped stone tools.
+Stephenson concluded that the occupants of the site were representative of a single culture complex who
+occupied the site briefly over a period of several centuries. He attributed the site to the Edwards Plateau
+Aspect of the Archaic Period (Stephenson 1970).
+In terms of the NRHP eligibility of the sites, Sites 41BQ90 and 41BQ290 were assessed as ineligible, while
+Site 41HI33 was assessed as eligible. The NRHP eligibility of the remaining four sites appears to have not
+been assessed. While none of the previously recorded sites were located in the currently proposed Project
+areas, Site 41BQ91 is located near the proposed river crossing. However, because the HDD will occur in
+existing, disturbed right-of-way, the Project will not impact the site.
+Table 3. Previously Recorded Archeological Sites Within 1.6 km (1.0 mi) of the Proposed Project
+Areas
+Site
+Number
+Site Name
+41BQ90 41BQ91
+
+Plowman Park
+Site
+
+41BQ290 -
+
+AECOM
+
+USGS 7.5
+Quad
+Lakeside
+Village
+
+Site
+Description
+Campsite
+
+Cultural
+Affiliation
+Late Archaic
+
+Field
+NRHP
+Methodology
+Eligibility
+Pedestrian survey Ineligible
+and shovel
+testing
+No data
+No data
+
+Lakeside
+Village
+
+Prehistoric
+midden
+
+Late Archaic
+
+Lakeside
+Village
+
+Homestead
+
+Late 19th- early Pedestrian survey Ineligible
+to mid-20th
+and shovel
+century
+testing
+
+Contains Privileged Information – Do Not Release
+
+7
+
+Site
+USGS 7.5
+Site
+Number
+Quad
+Description
+Site Name
+42-26D741HI26
+Plowman Creek Prehistoric
+18/Possibly 41midden
+26D7-18—
+Nicks Site
+42-26D741HI27
+Plowman Creek Prehistoric
+19/Possibly 41midden
+26D7-19
+41HI32
+41-26D7-37
+Plowman Creek Rock Shelter
+41HI33
+
+41-26D7-38—
+Steele Site
+
+Plowman Creek Artifact
+Scatter
+
+Cultural
+Affiliation
+Unknown
+Prehistoric
+
+Field
+NRHP
+Methodology
+Eligibility
+Pedestrian survey No data
+and shovel
+testing
+
+Unknown
+prehistoric
+
+No data
+
+No data
+
+Unknown
+
+No data
+
+No data
+
+Late Archaic,
+Late
+Prehistoric
+
+Pedestrian
+survey, shovel
+testing, test units
+
+Eligible
+
+Previously Recorded Cemeteries
+One cemetery was identified within 1.6 km (1.0 mi) of the proposed Project items. Kopperl Cemetery is
+located within the city limits of Kopperl. Aerial photography shows it to be a landscaped cemetery with a
+definitive, fenced boundary. Findagrave.com indicates that the cemetery possesses 1,130 interments. The
+earliest recorded interment dates from 1882, and the latest dates from 2015 (Findagrave.com 2019).
+Standing Structures Greater than 50 Years in Age
+No standing structures greater than 50 years in age were identified within 1.6 km (1.0 mi) of the proposed
+Project items.
+Properties Listed In the National Register of Historic Places
+No properties listed in the NRHP were identified within 1.6 km (1.0 mi) of the proposed Project items.
+
+PHASE I CULTURAL RESOURCES SURVEY FIELD METHODOLOGY
+The objective of this cultural resources investigation is to identify and inventory any cultural resources
+within the area of disturbance associated with the Project, define their horizontal and vertical boundaries,
+and make assessments of the significance of any identified resources applying the NRHP Criteria for
+Evaluation (36 CFR 60.4 [a-d]). Fieldwork will include pedestrian survey of each Project item,
+supplemented by systematic shovel testing along all workspace locations situated outside the extant pipeline
+corridor. Because the HDD will occur in a previously disturbed utility corridor, no subsurface testing will
+be conducted for that Project item.
+All exposed ground surfaces will be examined for evidence of archaeological resources. Current
+construction plans call for subsurface impacts outside the existing corridor to measure no more than 91 cm
+(36 in) in depth. Thus, shovel tests will be excavated to a depth of 100 cm (39.4 in). Additionally, in those
+areas surveyed previously by Turner (2015), no additional subsurface testing will be conducted.
+Each shovel test will measure 30 cm (11.8 in) in diameter and will be excavated in 10 cm (3.9 in) levels.
+All excavated soil will be screened through 0.64 cm (0.25 in) hardware mesh. The location, depth, soil
+strata, and presence/absence of cultural materials will be recorded for each shovel test, and all shovel tests
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+8
+
+will be backfilled upon completion. Shovel tests will be mapped in the field using a handheld Global
+Positioning System (GPS) unit. All work will be supervised by cultural resources professionals who meet
+the United States Secretary of the Interior’s Professional Qualification Standards for Archaeology and
+Historic Preservation.
+
+SITE RECORDATION AND DELINEATION
+Any cultural resources identified during survey will be examined to ascertain their nature, size, depth,
+integrity, age, and affiliation. Delineation also will be used to assess stratigraphic placement, artifact
+density, and the research potential of each identified site. In addition, information will be gathered to assist
+in subsequent assessment of whether a site is significant applying the NRHP Criteria for Evaluation (36
+CFR 60.4 [a-d]). Archeological recordation will include a combination of the following tasks: (1)
+establishment of a site datum; (2) intensive surface reconnaissance of the site area; and (3) excavation of
+tightly spaced shovel tests at 10-m (32.8-ft) intervals along rays emanating from datum to delineate both
+the horizontal and vertical extent of the site and its configuration. A minimum of six delineation tests will
+be excavated to determine site boundaries; if necessary, the shovel test spacing will be reduced accordingly.
+Artifact distributions and the stratigraphic positions of all artifacts will be used in compiling each site
+description, as well as to support a clear and concise statement regarding integrity and significance for each
+identified site. Finally, Texas Archeological Site Data Forms will be completed for all sites identified and
+delineated during survey.
+
+ARCHITECTURAL FIELD METHODS
+As a part of this Phase I cultural resources investigation, all visible historic standing structures, cemeteries,
+or engineering structures located within or immediately adjacent to the proposed Project area that appear to
+have been built at least 50 years ago will be examined at the reconnaissance level. This effort will collect
+reconnaissance-level architectural survey data for any historic buildings located within or adjacent to the
+Project corridor and it will determine if additional research or recordation is necessary.
+
+LABORATORY ANALYSIS
+Laboratory analysis of all recovered cultural materials will follow established archeological protocols. All
+field specimen bag proveniences first will be crosschecked against the field notes and the specimens
+inventoried for accuracy and completeness. Following this quality-control process, all recovered materials
+will be washed by hand, air-dried, sorted into basic material categories, and then encoded into computerized
+site catalogs to allow manipulation of the data. The nature and structure of the analyses will be guided by
+the Project goals. The first requirement of the research will be to determine whether a cultural resources
+locus has the potential to meet the legal definition of a historic property (i.e., eligible for listing in the
+NRHP). Therefore, care will be taken to observe and record chronologically sensitive attributes of historic
+artifacts, and to evaluate whether the material is more than 50 years in age.
+Beyond the determination of minimum age, the artifact analysis will consist of making and recording a
+series of observations for each specimen. The observations will be chosen to provide the most significant
+and diagnostic information about each specimen. Separate relational databases will be used to store,
+organize, and manipulate the data generated by the analytical process. Separate databases will be used for
+analyzing the prehistoric lithics, prehistoric ceramics, and historic artifacts recovered during survey. If
+needed, additional databases will be used for the analysis of any faunal or botanical remains, as well as any
+other classes of recovered data that may be collected. The use of these databases will reflect differences in
+the analytical protocols required to study thoroughly the different types of materials. Non-diagnostic artifact
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+9
+
+descriptions will be summarized in tabular form. Photographs and descriptions of chronologically or
+culturally diagnostic artifacts will be included in the report. Features or artifacts observed but not collected
+also will be described in the report.
+
+CULTURAL RESOURCES ASSESSMENT AND REPORTING
+Based on field and laboratory data, a recommendation of significance will be offered for all newly recorded
+archeological sites and/or historic standing structures identified as a result of this intensive cultural
+resources survey. These assessments will apply the NRHP Criteria for Evaluation (36 CFR 60.4 [a-d]).
+Following survey, a draft report will be written that presents the background, methods, and results of this
+investigation and it will contain appendices that will include an inventory of recovered cultural materials
+and Project correspondence with review agencies.
+
+CURATION
+After the final report has been accepted, all cultural materials not returned to individual landowners,
+drawings, maps, photographs, and field notes will be curated with the Texas Archeological Research
+Laboratory, J.J. Pickle Research Campus, Bldg. 5, The University of Texas at Austin, 10100 Burnet Road,
+Austin, Texas 78758.
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+10
+
+References Cited
+Austin, Kenneth E.
+2016 Hill County. Electronic document, https://tshaonline.org/handbook/online/articles/hch15,
+accessed March 19, 2019. Texas State Historical Association.
+Bousman, C. Britt, Barry W. Baker, and Anne C. Kerr
+2004 Paleoindian Archeology in Texas. In The Prehistory of Texas, edited by Timothy Pertulla,
+pp. 15-97. Texas A&M University Press, College Station, Texas.
+Bureau of Economic Geology (BEG)
+1992 Geology of Texas. Bureau of Economic Geology. The University of Texas at Austin.
+1996
+
+Physiographic Map of Texas. Bureau of Economic Geology. The University of Texas at
+Austin.
+
+Brooks, Charles A.
+1978 Soil Survey of Hill County, Texas. United States Department of Agriculture, Soil
+Conservation Service in cooperation with Texas Agricultural Experiment Station.
+Brown, K.L., and S.A. Lebo
+1991 Archeological Testing of the Lewisville Lake Shoreline, Denton County, Texas (with
+contributions by G. Brown, C.R. Ferring, H. Gill-King, S.A. Lohse, B. Mergele, and B.C.
+Yates). Institute of Applied Sciences, University of North Texas, Denton. Submitted to the
+U.S. Army Corps of Engineers, Fort Worth District, Contract No. DACW63-86-C-0098.
+Findagrave.com
+2019 Kopperl
+Cemetery.
+Electronic
+document,
+https://www.findagrave.com/cemetery/317489/kopperl-cemetery, accessed March 21,
+2019.
+Haaser, Robert J.
+2010 Ellis County. Electronic document, https://www.tshaonline.org/handbook/online/
+articles/hce04, accessed May 12, 2016. Texas State Historical Association.
+Hardy, Heck, and Moore Cultural Resources Consultants
+nd
+“Richard
+Ellis:
+The
+County’s
+Namesake.”
+Electronic
+Document,
+http://www.rootsweb.ancestry.com/~txecm/ellis.htm, accessed May 12, 2016. Hardy,
+Heck, Moore Cultural Resource Consultants in the Superconducting Super Collider
+Laboratory report for the U.S. Department of Energy. Austin, Texas.
+Jelks, Edward B.
+2014 Archaeological Salvage at Texas Reservoir Construction Projects: 1945-1969. In Dam
+Projects and the Growth of American Archaeology. The River Basin Surveys and the
+Interagency Archeological Salvage Project, edited by Kimball M. Banks and Jon S.
+Czaplicki, pp. 85-94. Left Coast Press, Walnut Creek, California.
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+11
+
+Jones, Richard S.
+2009 Archeological Survey and Testing at Lake Whitney, Bosque and Hill Counties, Texas.
+Report submitted to the United States Army Corps of Engineers by Ecological
+Communications Corporation, Austin, Texas.
+Kenmotsu, N. A., and T. K. Perttula (Editors) (with contributions by C. Britt Bousman, M. B. Collins, J. E.
+Corbin, R. C. Fields, D. J. Prikryl, and S. A. Tomka)
+1993 Archeology in the Eastern Planning Region, Texas: A Planning Document. Department of
+Antiquities Protection, Cultural Resource Management Report 3, Texas Historical
+Commission, Austin, Texas.
+Lynott, Mark J.
+1978 An Archaeological Assessment of the Bear Creek Shelter, Lake Whitney, Texas.
+Archaeology Research Program Research Report No. 115 Southern Methodist University,
+Dallas, Texas.
+Nickels, David L., Richard S. Jones, W. Nicholas Trierweiler, Rachel J. Feit, and Antonio E. Padilla
+2008 Archeological Investigations at Lake Whitney, Bosque, Hill, and Johnson Counties, Texas.
+Report submitted to the United States Army Corps of Engineers by Ecological
+Communications Corporation, Austin, Texas.
+Skinner, S. Alan, and Joseph Gallagher
+1974 An Evaluation of the Archaeological Resources at Lake Whitney, Texas. Contributions in
+Anthropology No. 14 Southern Methodist University, Dallas, Texas.
+Stephenson, Robert L.
+1947 Archaeological Survey of Whitney Basin: A Preliminary Report. Bulletin of the Texas
+Archeological and Paleontological Society Vol. 18. Texas Archeological and
+Paleontological Society, Lubbock, Texas.
+1970
+
+Archeological Investigations in the Whitney Reservoir Area, Central Texas. Bulletin of the
+Texas Archeological Society Vol. 41. Texas Archeological Society, Dallas, Texas.
+
+Strickland, Kristi
+2018 Bosque
+County.
+Electronic
+document,
+https://tshaonline.org/handbook/online/articles/hcb10, accessed March 19, 2019. Texas
+State Historical Association.
+Stringer, Billy R.
+1980 Soil Survey of Bosque County, Texas. United States Department of Agriculture, Soil
+Conservation Service in cooperation with Texas Agricultural Experiment Station.
+Texas Almanac
+2018 “Physical
+Regions
+of
+Texas.”
+Electronic
+document,
+https://texasalmanac.com/topics/environment/physical-regions-texas, accessed March 20,
+2019.
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+12
+
+Turner, Billy
+2015
+
+Negative Findings: Cultural Resource Survey, Lone Star NGL Pipeline, LP, Lone Star
+Express 30-inch Pipeline Lake Whitney Crossing, Bosque and Hill Counties. Report
+submitted to Gremminger and Associates by Turpin and Sons, Inc., Canyon Lake, Texas.
+
+United States Department of Agriculture (USDA)
+2008 General Soil Map of Texas. United States Department of Agriculture: Natural Resources
+Conservation Service. MO9 Soil Survey Office: Temple, Texas.
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+13
+
+(Turner 2015)
+
+Figure 1. Map Excerpt Depicting the Locations of the Proposed Project Items
+
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+13
+
+(Turner 2015)
+
+Figure 2. USGS Quadrangle Excerpt Depicting the Location of the Proposed Project Items
+AECOM
+
+Contains Privileged Information – Do Not Release
+
+14
+
+James Eberwine, M.S., R.P.A.
+Principal Investigator
+Impact, Assessment, and Permitting, Environment
+Gulf-Southwest Region
+T: 225.922.5700
+E: james.eberwine@aecom.com
+AECOM
+7389 Florida Boulevard
+Suite 300
+Baton Rouge
+LA, 70806
+USA
+aecom.com
+
+

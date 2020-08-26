@@ -1,0 +1,4597 @@
+THE USIBWC FALCON RESERVOIR 600 ACRE
+SURVEY PROJECT, ZAPATA COUNTY, TEXAS
+FINAL REPORT
+Prepared for:
+United States Section, International Boundary and Water Commission (USIBWC)
+Under Contract IBM04D0005, Task Order IBM06T0023
+
+ARPA Permit No. 0014
+
+Principal Investigators:
+James W. Karbula, Ph.D. and Timothy K. Perttula, Ph.D.
+Prepared by:
+CH2M Hill, Inc. El Paso, and Hicks & Company, Austin, Texas
+Written by:
+James W. Karbula, Brian King and Matthew C. Stotts
+
+Archeology Series No. 181
+
+August 2007
+
+Table of Contents
+
+TABLE OF CONTENTS
+ABSTRACT ................................................................................................................................................. iii
+EXECUTIVE SUMMARY .............................................................................................................................. v
+INTRODUCTION........................................................................................................................................... 1
+Project Background .................................................................................................................................. 1
+Project Structure ....................................................................................................................................... 2
+Summary................................................................................................................................................... 4
+ENVIRONMENTAL SETTING ...................................................................................................................... 9
+Vegetation, Wildlife, and Land Use ........................................................................................................ 10
+CULTURAL BACKGROUND ..................................................................................................................... 13
+Archeological Background ...................................................................................................................... 13
+South Texas Cultural Chronology........................................................................................................... 13
+Historic Period......................................................................................................................................... 14
+Previous Investigations........................................................................................................................... 16
+METHODOLOGY........................................................................................................................................ 23
+Methods used to Map 307- foot Traverse Taking Line........................................................................... 23
+Probability Areas..................................................................................................................................... 24
+RESULTS OF FIELD INVESTIGATIONS .................................................................................................. 29
+Intensive Survey ..................................................................................................................................... 29
+Areas 1 and 2.......................................................................................................................................... 30
+CONCLUSIONS AND RECOMMENDATIONS .......................................................................................... 45
+REFERENCES CITED................................................................................................................................ 47
+
+LIST OF FIGURES
+Figure 1
+Figure 2
+Figure 3
+Figure 4
+Figure 5
+Figure 6
+Figure 7
+Figure 8
+Figure 9
+Figure 10
+Figure 11
+Figure 12
+Figure 13
+Figure 14
+Figure 15
+Figure 16
+Figure 17
+Figure 18
+
+Project location map .................................................................................................................. 7
+Dense vegetation typically observed in the project area, facing south. .................................... 9
+Photograph of dense 20-foot tall cane typically observed in the project area, facing west. ... 10
+Photograph of density of bamboo in some project locations................................................... 25
+Photograph of cleared vegetation in Area 1, facing south. ..................................................... 26
+Photograph of typical vegetation encountered in Area 2, facing north. .................................. 26
+Photograph of extremely dense vegetation with increasing elevation in the northern portion
+of the proposed project area, facing south. ............................................................................. 28
+Broad Rio Grande terrace deposits in Area 1 extending away from river and scarp to the
+east .......................................................................................................................................... 30
+Disturbance in Area 2 from flooding or pond deposits. ........................................................... 31
+Dense bamboo in Area 2......................................................................................................... 32
+Crew members traverse dense bamboo in Area 2.................................................................. 32
+Hummocky topography, erosional gulleys and vegetation disturbance north of Area 2. ........ 33
+Depth of Holocene terrace deposits is evident in this photo of confluence of unnamed creek
+and the Rio Grande, note terrace deposits to left of photo. .................................................... 33
+Historic disturbance north of Area 2. ....................................................................................... 35
+Eroded terrace scarp at edge of river...................................................................................... 36
+Looking down erosional scarp and relatively steep slope towards project area south of
+Dolores Creek.......................................................................................................................... 37
+Dirt road leads down scarp towards river south of Dolores Creek. ......................................... 37
+View upslope into higher elevations of the erosional drainage of Dolores Creek. .................. 39
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+i
+
+Table of Contents
+
+Figure 19
+Figure 20
+Figure 21
+Figure 22
+Figure 23
+Figure 24
+
+View of cliff at higher elevations of Dolores Creek.................................................................. 39
+Heavily modified Rio Grande terrace remnant at base of erosional scarp.............................. 41
+Steep upland erosional slope in northern project area............................................................ 41
+View down relatively steep, eroded slope in northern project area......................................... 42
+Erosional gully and upland hummocky topography in northern project area. ......................... 42
+Eroded scarp and relatively steep slope leading down to river in northern project area......... 43
+
+LIST OF APPENDICES
+Appendix A
+Appendix B
+
+Plates 1 through 7
+GIS Data Disc
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+ii
+
+Abstract
+
+ABSTRACT
+Hicks & Company archeologists conducted an archeological survey along the
+Falcon Lake and Rio Grande shoreline in Zapata County, Texas, on behalf of the
+United States Section, International Boundary and Water Commission
+(USIBWC), El Paso, Texas. The project area extends from the Rio Grande at the
+Webb and Zapata County line, near Arroyo Dolores, downstream approximately
+13.7 miles to just north of San Ygnacio, and from the United States
+jurisdictional boundary in the reservoir to the 307-foot traverse taking line.
+Hicks & Company field survey covered approximately 624.89 acres within the
+boundary limits of the proposed USIBWC study area. The entire project area
+was subject to systematic 100% pedestrian survey with shovel testing to one
+meter in depth in all undisturbed areas exhibiting the potential to contain
+buried archeological deposits.
+Shovel tests were not conducted in
+disturbed/destroyed areas. No backhoe trenching was conducted during the
+current study. Backhoe trenching was not included in the USIBWC scope of
+work for the project. No new archeological sites were documented within the
+proposed project area during the current study.
+A single previously recorded archeological site overlaps the project area
+(41ZP96). There is very little available information regarding this site on the
+Texas Historic Sites Atlas. The portion of the site overlapping the USIBWC
+property was determined destroyed by modern residential settlement and
+agricultural development. No further Section 110 or 106 investigations or
+cultural resource coordination is recommended for 41ZP96 relative to the
+National Historic Preservation Act (NHPA).
+A single archeological site (41ZP924), however, was observed and recorded on
+private property within the USIBWC flood easement located between the 307
+and 314-foot traverse taking lines. This site is a probable prehistoric site and
+has the potential to contain intact buried cultural deposits.
+Further
+archeological work and coordination is recommended should there be any
+Section 106 undertakings resulting in ground disturbing impacts within the site
+area. This report recommends that the site be avoided and protected until it has
+been surveyed and tested for eligibility to the National Register of Historic Places
+(NRHP) (if warranted) should there be any site related federal undertakings with
+proposed ground disturbing impacts.
+Pedestrian survey and shovel testing demonstrate there are no shallowly buried,
+intact, well preserved archeological sites in the project area (sites less than one
+meter in depth). Large sections of the project area however, consist primarily of
+deep, Rio Grande flood terrace deposits which exhibit good potential for buried
+archeological sites.
+These high probability areas should be avoided and
+protected until the deeper deposits have been assessed with systematic backhoe
+trenching relative to Section 110 and Section 106 of the National Historic
+Preservation Act (NHPA). Portions of two remaining unsurveyed drainages
+adjacent to the south and central project areas are recommended for
+archeological survey under Section 110 and 106 of the NHPA. It is the
+recommendation of the Principal Investigators that all identified disturbed and
+destroyed areas as mapped under the current investigations warrant no further
+archeological investigations and no further consideration under Section 110 or
+106.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+iii
+
+Abstract
+
+All project related documents and materials will be professionally curated at the
+Center for Archeological Research (CAR) at the University of Texas-San Antonio
+in San Antonio, Texas.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+iv
+
+Executive Summary
+
+EXECUTIVE SUMMARY
+Between December 3-5, 2006 and January 17-25, 2007, Hicks & Company
+conducted an archeological survey along the Falcon Lake and Rio Grande
+shoreline in Zapata County, Texas on behalf of the United States Section,
+International Boundary and Water Commission (USIBWC), El Paso, Texas
+(Figure 1). The project was conducted at the request of the USIBWC to partially
+satisfy archeological site inventory and eligibility determinations under Section
+110 of the National Historic Preservation Act (NHPA). The project was conducted
+under USIBWC ARPA Permit No. 0014 (Archeological Resources Protection Act)
+to enable survey on federal property. The project area extends from the Rio
+Grande at the Webb and Zapata County line, near Arroyo Dolores, downstream
+approximately 13.7 miles to just north of San Ygnacio, and from the United
+States jurisdictional boundary in the reservoir to the 307-foot traverse taking
+line.
+The goals of the USIBWC are to continue a program of historic property
+inventory in recently exposed areas of shoreline relative to the development and
+implementation of a Falcon Reservoir Cultural Resource Management Plan
+(CRMP). The Management Plan focuses on the documentation, evaluation,
+and/or mitigation of NRHP eligible sites relative to land and water use, other
+Reservoir environmental resources, resident leasing rights, and the destruction
+of important NRHP sites due to erosion, vandalism, and fluctuating lake levels.
+Current investigations are part of a broader USIBWC study undertaken to
+facilitate long-term planning activities and resource management of the
+International Falcon Dam and Reservoir. The scope included utilizing the
+survey data to make cultural resource management recommendations on short
+and long-term planning activities for the Falcon Reservoir, and update the
+USIBWC Geographic Information System project files.
+The project scope of work consisted of selecting approximately 600 acres within
+the proposed study area for a 100% intensive pedestrian field survey with
+systematic shovel testing of all undisturbed areas exhibiting the potential for
+intact archeological sites. Selected areas approximating 600 acres in the project
+were coordinated and approved by the USIBWC and included as part of the
+ARPA permit. Ultimately, archeologists surveyed approximately 624.89 acres
+within the proposed USIBWC study area. Within the 13.7 mile project length,
+two areas totaling 117.35 acres were not surveyed and not included in the
+current investigations. These are two erosional drainages that extend up to US
+83 adjacent to the project area. One is located in the southern project area
+south of Area 2 (see Plate 2). The other is Arroyo Dolores located in the central
+project area. Investigators surveyed only a portion of these drainages due to
+relatively steep terrain and the erosional nature of the topography, one not
+conducive to prehistoric occupation nor the preservation of archeological sites.
+Project areas with the potential to contain intact, buried archeological sites were
+classified apriori as high and moderate probability for the presence of sites
+based on a number of factors including topography, terrain, geology, land use,
+degree of disturbance, depositional context, archeological site context, and field
+observations. These classifications were confirmed through field observations.
+A total of 165.12 acres were classified as high probability for buried
+archeological sites, and 194.43 acres as moderate probability for intact, buried
+archeological sites. These areas were subjected to intensive 100% pedestrian
+survey with systematic shovel testing. A total of 263 shovel tests were excavated
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+v
+
+Executive Summary
+
+over the length of the approximate 13.7 mile project. All shovel tests were
+negative for cultural materials. Because of significant variation in project width
+and terrain, along its 13.7 mile length, three different shovel testing strategies
+were employed in high and moderate probability areas: 1) All linear areas less
+than 200 foot in width were shovel tested at intervals of 16 tests per mile per
+100 foot width according to Texas Historical Commission (THC) archeology
+survey standards for linear projects; 2) Area 1 consisting of a broad area over
+1200 feet in width and of approximately 100 acres was shovel tested at 1 test
+every 2 acres (79 tests), according to the THC minimum acreage survey
+standards for projects up to 100 acres in size and 3) Area 2 consisting of a broad
+area over 1900 feet in width and approximately 144 acres was shovel tested at 1
+test for every 3 acres (56 tests) according to the THC minimum acreage survey
+standards for projects up to 200 acres in size.
+Severely disturbed and virtually destroyed areas were classified as low
+probability for intact archeological sites.
+These areas were identified by
+pedestrian survey, field observation and recording. Limited shovel testing was
+conducted in some but not all disturbed and destroyed areas only to confirm
+ground conditions and disturbance. A total of 265.34 acres were classified as
+low probability disturbed and destroyed areas.
+No new archeological sites were documented within delineated project
+boundaries during the current study. One previously recorded archeological site
+overlaps project area boundaries in the central project area (41ZP96). There is
+virtually no information other than location in the Texas Historical Commission
+Sites Atlas regarding site 41ZP96. Field crews accessed USIBWC property by
+driving through this site and traversing portions of the site on foot. The portion
+of the site within the project area boundary was determined disturbed and
+destroyed. This area is currently the location of several surface encumbrances
+including residential and industrial structures, a pump house (located near the
+edge of the upper terrace), and a large amount of heavy farming equipment.
+Vehicular traffic has further modified the surface of the site, with several traffic
+loops surrounding the small residential/farming complex. The site location
+appears to be completely destroyed and heavily modified by modern activity.
+Four previously recorded archeological sites are located adjacent to but not
+overlapping the surveyed extent of the USIBWC property boundary (307 foot
+traverse). Three of these are Spanish Colonial ranch sites (41ZP74, 41ZP77, and
+41ZP78). Site 41ZP74 is the NRHP listed Corralitos Ranch. Site 41ZP77 is
+listed on the National Register of Historic Places (NRHP). These sites relate to
+the original Spanish settlement of the area and founding of the community of
+Dolores. Both sites (41ZP77 and 41ZP78) sit on the high terrace that overlooks
+relatively narrow stretches of the project area (307 foot traverse taking line) in
+the central and northern project area and neither intersects the current project.
+The Corralitos Ranch settlement (41ZP74) is located approximately 750 feet east
+of the USIBWC project area and does not overlap the project.
+Prehistoric Site 41ZP191 is located along an unnamed arroyo in the central
+project area adjacent to one eastern edge of the 307 foot traverse taking line (see
+Plate 4). Site 41ZP191 was recommended for further investigations by the
+original surveyors. Investigators determined that the site does not extend onto
+USIBWC property (307 foot traverse taking line). The drainage which traverses
+Site 41ZP191 is defined by sheer, erosional banks on both sides, significantly
+limiting the possibility for intact site preservation. The topographic setting
+within the 307 foot traverse taking line was one of a steep sided erosional
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+vi
+
+Executive Summary
+
+drainage (slope greater than 20%) and not a setting for a prehistoric occupation
+site nor one conducive to the preservation of intact site deposits. The USIBWC
+property bounded by the 307 foot traverse taking line at this location was
+identified as disturbed and destroyed. Due to the observed environmental
+conditions, it is probable that the site only exists on the relatively flat terrace
+overlooking the drainage outside of USIBWC property.
+Two additional prehistoric sites are previously recorded overlapping US 83 in the
+southern project area (41ZP889, 890). The sites as mapped are located adjacent
+to unsurveyed portions of USIBWC property (307 foot traverse taking line) (see
+Plate 2). Sites 41ZP890 and 889 abut the very eastern edge of the 307 foot
+traverse along an unnamed arroyo adjacent to US 83 in the central portion of
+the project. Site 41ZP889 is previously recorded as destroyed. Site 41ZP890
+was previously mapped in the right-of-way of US 83 and recommended for
+further investigations by the original surveyors. These areas should be surveyed
+for archeological sites prior to any ground disturbing activities by the USIBWC,
+and to determine whether Site 41ZP890 overlaps USIBWC property.
+A single new, archeological site (41ZP924), however, was observed and the
+location recorded adjacent to the north central project area (307 foot traverse
+taking line). Site 41ZP924 is situated on private land within the USIBWC
+flowage and flood easement located between the 307-314 foot traverse taking
+lines.
+Site 41ZP924 was observed approximately 35-40 meters east of the
+project boundary 307-foot traverse taking line, on higher topography. The site
+was observed while crossing private property to gain access to the project area
+which is topographically below the 307 foot traverse taking line. Although the
+general location of Site 41ZP924 was mapped during the current survey, no
+subsurface testing, site mapping or recording was conducted since it was
+located outside of the proposed project area on private property. Areas between
+the 307-314 traverse taking lines represent USIBWC flowage or flood easement
+on private property and were not identified as part of the current project. The
+USIBWC has the right to flood the zone during seldom encountered flood
+conditions, but has no other management responsibilities on this private land.
+Site 41ZP924 is a probable Late Prehistoric archeological site. Artifacts observed
+on site included lithic debitage, a single ceramic sherd, an unidentified thin
+biface/projectile point, early stage bifaces, burned rock fragments, mussel shell,
+ground stone, and bone fragments, all observed on the ground surface. The site
+is located on higher topography overlooking the USIBWC 307 traverse property
+line boundary and appears significantly eroded by natural environmental
+factors. 41ZP924 has the potential to contain intact buried cultural deposits
+and subsurface testing is recommended to determine the vertical and horizontal
+extent of the site and its eligibility status for the National Register of Historic
+Places (NRHP) should there be any Section 106 undertakings resulting in
+ground disturbing impacts with the site area.
+Field crew access to USIBWC property was facilitated by the Mr. Raul Garcia,
+the Falcon Lease and License Manager at the Falcon Field Office, in Falcon
+Heights, Texas. Mr. Garcia flagged five different access points for the crew to
+exit US 83 and travel west to the 307 foot traverse taking line.
+These access
+points were a combination of private ranch roads and public county roads. In
+each case involving private property, Mr. Garcia coordinated with landowners to
+allow the field crew to access USIBWC lands. The crew was able to utilize all of
+the flagged access points successfully. One additional non-flagged access point
+was utilized in the northern project area. Generally, the crew drove vehicles on
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+vii
+
+Executive Summary
+
+a combination of county roads and private roads through private land getting as
+close to the project area as possible, before traversing the remaining distance on
+foot. In each case, Mr. Garcia coordinated with any private landowners where
+necessary to allow access. Importantly, none of the ingress/egress routes were
+surveyed. Although a few county roads were employed, these routes invariably
+traversed over considerable distances of private property to access USIBWC
+lands which were not identified as part of the current investigations. The
+eastern limit of the project survey was the 307 foot traverse taking line.
+High and moderate probability areas consist of relatively deep Rio Grand flood
+terrace deposits, with the potential for deeply buried prehistoric archeological
+sites. While shovel testing indicates there are no shallowly buried intact
+archeological sites in the project area, these deep Holocene age river terraces
+exhibit considerable potential to contain buried prehistoric archeological sites,
+based on terrain, setting, context and geomorphology, and on the presence of
+similarly documented sites in these settings in the region. It is the opinion of
+the Principal Investigators that all high and moderate probability areas as
+delineated in this report should be avoided and protected until the deeper
+deposits have been assessed with systematic backhoe trenching relative to
+Section 110 and Section 106 of the National Historic Preservation Act (NHPA).
+The two remaining unsurveyed portions of land within the 307 foot traverse
+taking line should be surveyed for the presence of archeological sites relative to
+Section 110 and Section 106 of the National Historic Preservation Act (NHPA).
+It is the recommendation of the Principal Investigators that all identified
+disturbed and destroyed areas as mapped under the current investigations
+warrant no further archeological investigations nor any further archeology
+consideration under Section 110 or 106. There are no current USIBWC projects
+with proposed ground disturbing impacts below the immediate ground surface
+within the project area. All project related documents and materials will be
+professionally curated at the Center for Archeological Research (CAR) at the
+University of Texas-San Antonio in San Antonio, Texas.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+viii
+
+Introduction
+
+INTRODUCTION
+PROJECT BACKGROUND
+Falcon Reservoir is the second and lowermost reservoir jointly constructed by
+the United States and Mexico by the International Boundary and Water
+Commission (IBWC) on the Rio Grande, under the original 1944 Water Treaty.
+The function of the dam is to control and regulate the flow of international
+waters and to provide a means of contributing to the mutual social and
+economic welfare of Mexico and the United States. The dam is located
+approximately 75 miles (121 km) downstream from Laredo, Texas, and Nuevo
+Laredo, Tamaulipas, Mexico. The Falcon Reservoir extends from the U.S.
+jurisdictional boundary in the reservoir to the 307-foot federal property line
+(traverse line), generally from the Webb and Zapata County line at Arroyo
+Dolores extending south to Falcon Dam, near the Falcon Reservoir State Park. A
+total of 851 archeological sites are documented on USIBWC controlled property.
+Many of these were recorded after inundation. This is among the highest
+archeological site density recorded in any one area of Texas.
+Cultural resources on USIBWC controlled lands represent the evolution of an
+international cultural landscape comprising approximately 10,000 years of
+human occupation, culminating in the 18th century Spanish colonization of
+Texas, the Republic of Texas, and the development of the international border
+between Mexico and the United States. It can be argued that the Falcon
+Reservoir area is NRHP eligible at the district level based on several criteria.
+Recent reconnaissance survey of exposed shorelines resulted in 34 individual
+archaeological sites determined NRHP eligible and 130 additional sites
+considered eligible by the Texas State Historic Preservation Officer (SHPO)
+(Parsons 2004). A number of these sites, including inundated sites, contain
+architectural components with building foundations and the ruins of early
+Spanish ranchos. Many historic sites are considered eligible because of their
+direct association with the 18th century Hispanic colonization of Texas and the
+lower Rio Grande Valley, and their association with the cattle ranching industry
+in Texas and North America. Several historic cemeteries are documented in the
+reservoir area. Scores of prehistoric sites are considered eligible for their
+potential to yield important prehistoric information spanning several thousand
+years on the Texas/Mexico border region. Many of the prehistoric sites contain
+ancient human burials.
+A significant number of archeological sites at the Falcon Reservoir are damaged
+or are at risk for damage from erosion caused by fluctuating water levels in the
+reservoir. When exposed, many of these sites are doubly and triply threatened
+by looting and illicit artifact collection. NRHP eligible sites are being adversely
+effected by lakeshore erosion and artifact surface collection/looting and require
+immediate attention by the USIBWC. This situation has attained crisis level in
+recent years as the reservoir level fluctuates. The Texas SHPO has since
+identified 88 damaged or at risk sites from water level fluctuation and vandalism
+(Parsons 2004).
+Approximately 350 total sites are identified through
+reconnaissance survey to be damaged from erosion or at risk due to their
+exposure to fluctuating water levels and wave action (Parsons 2004). These
+represent a mix of NRHP eligible and sites of undetermined eligibility. Eroding
+sites with burials are a particular concern. Recreational, agricultural, and other
+modern land use has also contributed to the erosion and damage of
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+1
+
+Introduction
+
+archeological sites. The cumulative effects of erosion and modern land use are
+an immediate threat to the cultural resources at Falcon Reservoir.
+The current proposed Falcon Reservoir project area consists primarily of Rio
+Grande flood terraces in a riverine setting, especially in the northern most
+portion of the project area. These terraces are frequently flooded and are often
+intensively vegetated, aggrading alluvial zones. It is important to point out that
+the current study area is not subject to intensive erosion as typically
+encountered along the reservoir shoreline in the southern portions of Zapata
+County. Areas adjacent to the reservoir shoreline in southern portions of Zapata
+County are heavily eroded due to fluctuating water levels since the 1950âs.
+The proposed project represents a due diligence effort on the part of the USIBWC
+to continue cultural resource identification and Section 110 coordination for
+endangered archeological sites. While there is no official federal undertaking,
+the USIBWC wishes to identify NRHP eligible properties for possible treatment,
+mitigation, and/or preservation relative to reservoir water functions and land
+management practices. Many of the current land management practices such
+as grazing have the potential to impact NRHP eligible sites. The USIBWC has
+recently developed a Cultural Resource Management Plan (Parsons 2004) to
+address inventory, evaluation, treatment and mitigation goals under Section 110
+of the NHPA within the context of Falcon Dam land management priorities. The
+northern terminus of the proposed project area is located along the Rio Grande
+at the Webb and Zapata County line near the Arroyo Dolores. The study area
+travels south adjacent to the Rio Grande before terminating just north of San
+Ygnacio, Texas. It is important to mention that previous reconnaissance surveys
+conducted over approximately 6000 acres downstream of San Ygnacio have
+resulted in the identification of numerous sites and Section 106 coordination
+concerning these sites with the Texas SHPO.
+
+PROJECT STRUCTURE
+Personnel structure of the project is consistent with a previous 2006 Hicks &
+Company survey working on behalf of the USIBWC. Hicks and Company
+recently completed the Falcon Reservoir Salvage Project which included
+approximately 400 acres of combination intensive and reconnaissance survey
+with shovel testing in the Northern and Central Unsurveyed Areas of the Falcon
+Reservoir under Archeological Resources Protection Act Permit 0010 (Karbula et
+al. 2006). Under this federal permit, James Karbula and Tim Perttula were
+approved Co-Principal investigators.
+Credentials meeting expertise
+requirements for the project personnel under the project scope were submitted
+to the USIBWC and subsequently approved by the Texas SHPO prior to project
+inception. For this project, Hicks & Company proposed and coordinated SHPO
+approval of intensive shovel testing in all areas with the potential for buried
+sites, which was a completely different survey protocol than had previously been
+employed by the USIBWC during many years of reservoir investigations. With
+the advent of shovel testing at Falcon Reservoir in 2006, Hicks & Company was
+able to coordinate NRHP eligibility determinations on numerous prehistoric sites
+with the Texas SHPO. The Falcon Reservoir Salvage Project also included test
+level investigations and feature salvage of a shallowly buried prehistoric site
+(41ZP845), under the direction of Dr. Karbula. Report production included test
+level analyses as defined by Chapter 26 of the Rules of Practice and Procedure
+for the Texas Antiquities Code (TAC) to determine site eligibility for the National
+Register of Historic Places (NRHP). NRHP evaluations were conducted according
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+2
+
+Introduction
+
+to the USIBWC and SHPO approved scope of work for the project, and as
+detailed in ARPA Permit 0010, and consistent with 36 CFR 60.4 of the National
+Park Service criteria for determining formal NRHP eligibility of archeological
+sites. Analyses included radiocarbon dating of charred wood samples in feature
+contexts, flotation matrix analyses of feature sediment samples, lithics and
+faunal analyses.
+Under the current investigations, James Karbula and Tim Perttula were once
+again listed as Co-Principal Investigators under ARPA Permit 0014. The CoPrincipal Investigator strategy was based on Dr. Karbulaâs experience in
+identifying and evaluating prehistoric sites for state and federal agencies in
+many Texas regions, including the previous Falcon Reservoir Salvage Project,
+and on Dr. Perttulaâs long and outstanding record of evaluating archeological
+sites, especially historic-age and Spanish Colonial archeological sites, and on his
+extensive record of publications and fieldwork in the Falcon Reservoir area. As
+such, Dr. Perttulaâs role in the current project was identified as historic-age and
+Spanish Colonial expertise, and quality assurance/quality control for the survey
+report, especially in regards to formal NRHP eligibility recommendations and site
+evaluations.
+In terms of prehistoric expertise, Dr. Karbula has functioned as Hicks &
+Company Project Manager and Principal Investigator for over 10 years
+successfully completing more than 45 Texas Antiquities Code Permits (TAC) for
+both prehistoric and historic surveys, and testing and data recovery projects in
+multiple Texas regions (Phase I, II and III investigations).
+As Principal
+Investigator, Dr. Karbula has expertise in preparing complex research designs,
+predictive models, background studies, archival research, impact evaluations
+and in conducting both reconnaissance and 100% pedestrian surveys with
+extensive subsurface testing. Dr. Karbula has directed successful testing and
+data recovery projects on a variety of prehistoric sites including burned rock
+midden and open occupation sites. Crews supervised by Dr. Karbula have
+recorded hundreds of buried and surface prehistoric sites across the state of
+Texas, from the Panhandle to West and south Texas and the Rio Grande. Field
+and analytical expertise includes directing large mechanical investigations, total
+station transit site mapping, lithics analysis, interpreting projectile point
+typologies, site chronologies, and the presentation of contextual and
+distributional studies utilizing site records and graphics software. Similar to the
+Rio Grande terrace setting, James has conducted intensive mechanical field
+investigations in deep terrace sites of the Clear Fork of the Trinity River (Tarrant
+Co.), San Antonio River (Bexar Co.), Onion and Barton Creeks (Travis Co.),
+Brushy and Berry Creeks (Williamson Co.), Texas to name just a few, often
+supervising project construction schedules, permanent staff and large field
+crews. As such, Dr. Karbulaâs role in the current project was identified as field
+supervisor, and prehistoric expertise, and especially in regards to formal NRHP
+eligibility recommendations and site evaluations for prehistoric sites.
+The following excerpt from the contract scope as approved by the USIBWC
+details project structure:
+Dr. Tim Perttula and Dr. James Karbula will function as Co-Principal
+Investigators to ensure project field and report expertise and quality control. Dr.
+Karbula will supervise evaluation of prehistoric sites and general survey
+operations. Dr. Karbula and Hicks & Company will function as primary report
+authors detailing results of field investigations. Dr. Perttula will supervise
+evaluation of all historic and Spanish Colonial sites. Dr. Perttula will conduct
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+3
+
+Introduction
+
+fieldwork in the event of a discovery evaluating historic-age or Spanish Colonial
+sites, or any sites with human remains. Dr. Perttula will have a project
+management role in quality assurance and quality control, in report production
+oversight and editing, and evaluating methods, interpretations and formal
+recommendations. By all accounts, Dr. Perttula is one of the most accomplished
+editors working in archeological literature in the State of Texas.
+
+SUMMARY
+Field investigations were conducted between December 3-5, 2006 and January
+17-25, 2006, utilizing a five person crew. James W. Karbula and Timothy K.
+Perttula functioned as Co-Principal Investigators for the project. Brian King
+functioned as Project Archeologist; Matthew Stotts functioned as Crew Chief.
+Robert Lassen, Suzy Smith, and David Peyton functioned as field archeological
+technicians. Mr. Silverio Garza, the Falcon Dam Supervisory Facility Manager
+at the Falcon Field Office, in Falcon Heights, Texas provided support and
+assistance during the survey. Mr. Raul Garcia, the Falcon Lease and License
+Manager at the Falcon Field Office, in Falcon Heights, Texas coordinated
+property right-of-entry for the archeological team, as well as identifying the 307Â­
+foot traverse taking line in the field and providing historic maps depicting the
+project area 307-foot traverse taking line.
+Considerable logistical difficulties were encountered in two respects. At first,
+access was denied to Falcon Reservoir lands by the Falcon Dam Facility
+Manager due to the imminent dangers of deer hunting season taking place on
+adjacent private property. Excavations slated for December were postponed
+until after hunting season in late January. Second, there were no recent maps
+or available survey coordinates depicting the 307 traverse property boundary
+and no property boundary markers in the field. The original property boundary
+markers appear long since disturbed or moved. The property boundaries crissÂ­
+crossed a confusing array of private fences and different topographies resulting
+from many years of blurred boundary distinctions between private landowners
+and federal property. The property boundary was clearly established, however,
+by collecting, organizing, and georeferencing a series of the old historic maps
+from the 1950âs relating to the original survey of the 307 and 314 foot traverse
+taking lines. These maps were provided by the Falcon Lease and License
+Manager while in the field and depicted the property boundaries as originally
+surveyed. The maps were taken to Laredo, scanned on a large format scanner,
+and relayed electronically to Hicks & Company GIS specialists. Using the latest
+aerial photography and topographic maps, GIS personnel were able to use GPS
+coordinates taken from the current survey investigations, correlate to known
+landmarks and georectify the historic maps onto modern aerials and
+topographic maps, thus providing georeferenced graphic depictions to scale of
+the 307 foot traverse property boundary. These data were then relayed back to
+the field, and uploaded onto the Trimble GIS units carried daily by surveyors. In
+this manner, field crews were able to precisely locate and follow the 307 foot
+traverse property boundary after what was quite the technical adaptation to
+promote the success of the project, and to track accurate acreages.
+All high and moderate probability areas were shovel tested according to the THC
+survey standards for linear survey projects, due to the predominantly linear
+nature of the project (16 tests per mile per 100 foot width). The only exception
+to this were two broad areas of land that were shovel tested according to the
+THC acreage standards as these were broad areas of terrain (1 test every 2-3
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+4
+
+Introduction
+
+acres depending on size of the tract). Low probability disturbed or destroyed
+areas were subject to pedestrian survey, and very limited or no shovel testing. A
+total of approximately 624.89 acres were surveyed. USIBWC property within
+this northernmost section of the Falcon Reservoir consists primarily of Rio
+Grande flood terraces in a riverine setting. These terraces are generally
+frequently flooded and are often intensively vegetated, aggrading alluvial zones.
+Areas immediately adjacent to the river on USIBWC property typically consisted
+of a highly eroded scarp leading from the edge of intact, deep, terrace deposits
+down to the current river channel. Whereas the broad river terraces away from
+the channel exhibit excellent potential for buried site deposits, the narrow,
+highly eroded scarp leading down to the channel, which is the immediate flood
+zone, was typically severely disturbed by recent flooding and flood debris and
+did not exhibit any potential for intact, buried archeological sites. This eroded
+scarp aspect was compounded in many places by the presence of intensely
+invasive, dense vegetation which increased the level of the disturbance to these
+narrow areas. In fact, much of the northern portion of the project represented
+very narrow bands of USIBWC property adjacent to the river, in frequently
+flooded, heavily eroded, disturbed areas of highly invasive, 20 foot tall
+vegetation.
+Dr. Karbula and Brian King (Project Archeologist) supervised the pedestrian
+survey and systematic placement of 263 shovel tests, the majority to one meter
+in depth and all negative for cultural material. Both Dr. Karbula and Brian King
+were instrumental in reconstructing an accurate electronic representation of the
+307 foot property boundary to guide field investigations, when none was
+provided by the USIBWC.
+Since all areas with the potential for buried
+archeological sites were systematically shovel tested, and no sites were present,
+the only archeological or regionally specific expertise required was the
+determination of which areas exhibited a high potential for sites (undisturbed)
+and in the actual placement of shovel tests. Dr. Perttula was on call to
+immediately conduct a field visit to evaluate any historic, Spanish Colonial,
+burial or cemetery sites but this was unnecessary. No prehistoric sites were
+found within project boundaries. No intact historic sites were found within
+project boundaries. Generally conducting shovel tests systematically at 16 per
+mile per 100 foot width, with completely negative findings, there was no need for
+Dr. Perttula to conduct a site visit, to further supervise the placement of
+negative shovel tests.
+A single new, archeological site (41ZP924), however, was observed on private
+property while achieving access to USIBWC lands. Site 41ZP924 is a probable
+Late Prehistoric site observed approximately 35-40 meters east of the project
+boundary 307-foot traverse taking line. The site contained lithic debitage, a
+small unidentified ceramic sherd fragment, an unidentified thin biface/projectile
+point, early stage bifaces, burned rock fragments, mussel shell, groundstone,
+and bone fragments observed on the ground surface. Site 41ZP924 appears
+eroded but has the potential to contain intact buried cultural deposits.
+Report production occurred in January through June 2007. James Karbula,
+Brian King and Matt Stotts are the primary authors. Kevin Contrino is credited
+for the extensive GIS contribution. Cheryl Hardy is responsible for report
+production. Dr. Tim Perttula reviewed all report regulatory recommendations
+and report text for quality control for the preliminary draft prior to agency
+review. All project related documents and materials will be professionally
+curated at the Center for Archeological Research (CAR) at the University of
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+5
+
+Introduction
+
+Texas-San Antonio in San Antonio, Texas. This report is offered in partial
+fulfillment of USIBWC ARPA Permit No. 0014.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+6
+
+Introduction
+
+Figure 1 Project location map
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+7
+
+Introduction
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+8
+
+Environmental Setting
+
+ENVIRONMENTAL SETTING
+The project area is located primarily in the Rio Grande Valley / South Texas
+Brushlands of the Gulf Coastal Plains ecological or natural subregion. The
+South Texas Brushlands occupy a large, wide, wedge-shaped plain in south
+Texas below the Balcones Escarpment, east of the Rio Grande and west of the
+Blackland Prairies region (Telfair 1999). The majority of the proposed project
+area is undeveloped with dense vegetation (Figures 2 and 3). Most areas within
+the project area are lined with mesquite-acacia savannah or south Texas
+mesquite-scrub brush savannah, combined with pockets of dense bamboo
+(typically over 20 feet in height). Areas adjacent to the project area are typically
+cleared of all vegetation and are used as farmland. The majority of the existing
+project area is located in the Rio Grande floodplain, with a small portion being
+located on an adjacent terrace. The proposed project area transects three
+geological formations: Alluvium, Fluviatile terrace deposits, and the Laredo
+Formation. The alluvium is dominantly sand and silt deposits from frequent
+flooding of the Rio Grande. The Fluviatile terrace deposits consist of gravel,
+sand, silt, and clay. The Laredo Formation consists of clay and sandstone with
+soil colors ranging from chocolate brown to reddish-brown (Groat 1976). To
+date, there has not been a Natural Resources Conservation Service soil survey
+report published for Zapata County, Texas. A typical shovel test revealed a
+light-colored loamy soil over reddish or mottled clayey subsoil to a depth of 100
+centimeters below the ground surface. Ground surface visibility in the proposed
+project area is poor (10%), with little to no visibility observed by investigators.
+The typical climate in Zapata County is a subtropical, subhumid climate with
+mild winters and hot summers. Temperatures range from an average minimum
+of 69Â° F in January to an average maximum of 100Â° F in July. Rainfall within
+Zapata County averages 19 inches a year (Garza and Long 2001).
+
+Figure 2: Dense vegetation typically observed in the project area, facing south.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+9
+
+Environmental Setting
+
+Figure 3: Photograph of dense 20-foot tall cane typically observed in the project
+area, facing west.
+
+VEGETATION, WILDLIFE, AND LAND USE
+The project is located within the South Texas Plains Vegetational Area of Texas
+(Gould 1962). This region includes most of southern Texas from the Rio Grande
+to the Coastal Plains and extends on an east-west line between San Antonio and
+Del Rio. The climate of this region is described as subtropical steppe and is
+characterized by semiarid to arid conditions (Larkin and Bomar 1983). The
+vegetational structure and relative species composition of the South Texas
+Plains has changed drastically over time. Historically, the dominant vegetation
+types were brushy savannahs and grasslands. Increased grazing and the
+cessation of fire have led to the spread of woody species from riparian areas and
+ridges to all parts of the landscape (Inglis 1964). The proliferation of these
+woody species has progressed to such an extent that the area is now commonly
+referred to as the Brush Country of south Texas.
+This vegetational area is further divided into two vegetation types as described in
+âThe Vegetation Types of Texasâ (Frye 1984). These vegetation types are
+Mesquite-Blackbrush Brush and Crops. The Mesquite-Blackbrush vegetation
+type is principally found on shallow, gravelly or loamy soils. Examples of this
+type of vegetation observed in the project area during survey include lotebush,
+desert olive, allthorn, prickly pear cactus, yucca, and tasajillo. Cropland, as the
+name implies, consists of cultivated cover crops or row crops providing food
+and/or fiber for either man or domestic animals. This type may also portray
+grassland associated with crop rotations (Frye 1984).
+The fauna distributed here illuminates the transitional nature of the province.
+There are considerable elements of neo-tropical species, grassland species, and
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+10
+
+Environmental Setting
+
+Chihuahuan desert species inhabiting the variety of habitats present. Several
+species of mammals, snakes, lizards, and anurans (frogs and toads), occur, or
+have recently occurred, in the Tamaulipan province. Bird life is also diverse,
+with several species documented at Falcon Lake State Park, located near Falcon
+Dam. Perhaps the most noteworthy example of the local wildlife observed during
+the survey was a rather large western diamondback rattlesnake, encountered at
+an uncomfortably close distance.
+Present day land use in the region is predominantly agricultural and residential.
+This includes single family residences, range land, pastureland and crops. More
+urban and residential land uses are concentrated in and around the cities of
+Zapata, San Ygnacio, and Laredo. Oil and gas production are found throughout
+the region, often at high densities. Hunting of wildlife is of tremendous economic
+importance in the region. Recreational hunting for white-tailed deer, wild hogs,
+bobwhite quail, and mourning and white-winged dove bring substantial financial
+benefits to the local economy.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+11
+
+Environmental Setting
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+12
+
+Cultural Background
+
+CULTURAL BACKGROUND
+ARCHEOLOGICAL BACKGROUND
+The project corridor extends across the Rio Grande Plain biogeographical
+subregion of the South Texas Plains archeological region as defined by Black
+(1989). While the Rio Grande nominally defines the western and southern
+border of most of this region, the river almost certainly did not function as a
+cultural boundary in prehistoric times. In fact, the northeastern areas within
+the Mexican states of Nuevo Leon and Tamaulipas manifest prehistoric cultural
+materials that are strikingly similar to those found in south Texas (Hester 1980).
+The South Texas Plains archeological region is poorly understood, reflecting a
+paucity of systematic excavations as well as the geomorphic characteristics of
+the landscape as they pertain to site formation processes. The most commonly
+recorded sites in south Texas are open occupation sites. In some cases,
+meaningful excavation of these sites has proven to be a challenge to
+archeologists (Hester 1995). This vexing situation stems from the horizontal
+patterning of many open occupation sites in the region. These sites tend to exist
+as laterally extensive occupation areas with temporally separated components
+found across the area that are also separated horizontally and rarely overlap
+(Hester 1995). Other open occupation sites, especially in upland settings, occur
+on stable ancient surfaces with very shallow or deflated cultural deposits that
+are virtually impossible to conclusively attribute to a particular time period.
+Comparatively few deeply stratified occupation sites have been excavated in
+south Texas. Black posits that this is a result of both settlement patterning and
+depositional context (Black 1989). Other site types present in south Texas
+include lithic procurement and reduction sites, rockshelters, artifact caches,
+and burials. Lithic procurement and reduction sites are common and are
+typically found in upland areas where chert resources in Uvalde gravels occur.
+
+SOUTH TEXAS CULTURAL CHRONOLOGY
+Although the South Texas Plains archeological region is a distinct entity, much
+of what is known of the area is in part derived from comparisons and
+extrapolation with adjacent areas that have been the subject of more intensive
+investigation, particularly the central Texas archeological region. Suhm, Kriger,
+and Jelks (1954) used artifact collections and other data to type artifact
+assemblages corresponding to the Archaic and Late Prehistoric periods as the
+âFalcon Focusâ and the Mier Focusâ (Quigg and Cordova 1999). The Falcon
+Focus contains archaic surficial artifacts recovered from open camp sites near
+Zapata and Rosita terraces along the Rio Grande. The most common diagnostic
+artifact is the unnotched triangular Tortugas dart point, in association with
+large crude fist axes, triangular knives, heavy end scrapers, and gouges (Quigg
+and Cordova 1999:3-2). These sites are common in south Texas and represent
+an increase in population within the region.
+The Mier Focus (Suhm et al. 1954) is a continuation of the earlier Falcon Focus.
+The most common diagnostic artifact is the unnotched Tortugas and Abasolo
+points, in addition to the smaller Matamoros and Catan arrow points. According
+to Quigg and Cordova (1999:3-1-3-2) limited excavations in this region of south
+Texas since the 1950âs have yet to clarify the relationship of the Falcon and Mier
+foci. As in other parts of Texas, sites of the Late Prehistoric and Protohistoric
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+13
+
+Cultural Background
+
+periods in south Texas demonstrate a radical shift in technology with the
+abandonment of the dart point and gouge tool kit and adoption of arrow points
+and ceramic technology. Sites tend to be more closely clustered around creek
+channels.
+Syntheses of the prehistory of South Texas Plains archeological region have been
+formulated by Hester (1980), Hall et al. (1986), and Black (1989). More recently,
+Hester (1995,2004) has refined these syntheses in a general overview of the
+cultural history of the region. These syntheses provide an outline of the basic
+chronological divisions. This sequence, adapted from Black (1989) and Hester
+(1995), is based on four time periods roughly parallel to those found in central
+Texas. These time periods include: Paleoindian (11,200-8,000 radiocarbon
+years before present [B.P.]), Archaic (8,000-1,200 B.P.), Late Prehistoric (1,200Â­
+400 B.P.), and Protohistoric (400-300 B.P.). Similar to the cultural chronology
+provided for the central Texas archeological region, these divisions represent
+contrived temporal categories, but they are also based in large part on perceived
+adaptations in subsistence, and are reflected in changes in lithic and other
+technologies. These technological changes further reflect changes in broader
+patterns of the environment and culture.
+Much of the prehistoric data on south Texas derives from Choke Canyon. There,
+archeologists found sites spanning the entire spectrum of south Texas
+prehistory. Only a handful of Paleoindian sites have been recorded at Choke
+Canyon and these were found as shallow surface manifestations (Hall et al.
+1986), suggesting that indigenous groups inhabited this region only briefly on
+their way to someplace else.
+Hester (1980) has suggested that another
+explanation for the paucity of Paleoindian sites is that erosion and shifting river
+channels have caused massive destruction of these already ephemeral remains.
+The Early Archaic is likewise poorly represented at Choke Canyon, though data
+collected from two carefully built stone hearths indicate that native peoples may
+have relied heavily on aquatic resources or processing of plant food. This idea is
+further supported by a noticeable dearth of projectile points, which would
+otherwise indicate a strong reliance on hunting (Hall et al. 1986).
+The
+archeology of Choke Canyon suggests that during the Middle Archaic to Late
+Archaic periods, the population began to steadily increase. Sites types and
+artifacts increasingly demonstrate a reliance on plant foods and small mammal
+consumption. The incidences of burned rock middens increase, as well as
+ground stone, flake tools, and distally beveled gouges (Hall et al. 1986).
+
+HISTORIC PERIOD
+Zapata County, bordered on the north by Webb County, Jim Hogg and Starr
+Counties to the east, and Mexico to the west, was named for local rancher
+Antonio Zapata. Capt. Miguel de la Garza FalcÃ³n led the first European
+exploration of the region in 1747, when he led a group down the northern bank
+of the Rio Grande from the site of present day Eagle Pass to the mouth of the
+river (Sanchez 1994; Fleming 1998; Garza and Long 2001). Although Garza
+described the land as "barren, with little or no water, scanty grass...and unfit for
+settlement for lack of an adequate water supply", the first settlement of Nuestra
+SeÃ±ora de los Dolores Hacienda was founded in 1750, a few miles from the site
+of present San Ygnacio (Garza and Long 2001). According to McCulloch et al.
+(2001:62) lifestyles of local Native Americans became dominated due to the
+establishment of permanent Spanish settlements in south Texas. Ranching was
+the primary industry in the early years. Fleming (1998:61) states only a few
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+14
+
+Cultural Background
+
+large ranches were present along the Rio Grande, with most ranches being small
+stock farms during the early Spanish settlement of south Texas. In 1821 the
+future Zapata County, along with other settlements between the Nueces and the
+Rio Grande, became part of the Mexican state of Tamaulipas (Garza and Long
+2001).
+There were numerous small groups of American Indians living in south Texas
+and northeastern Mexico when Spanish explorers made contact. Salinas
+(1990:93) describes how the Spanish explorers referred to the different American
+Indian groups as âCarrizos.â The Carrizo groups were further distinguished by
+their location to the east and west of the Rio Grande. Spanish explorers referred
+to these groups as the western and eastern Carrizos groups (Salinas 1990;
+Parsons 2004). Some of the American Indian settlements near the present day
+Falcon Reservoir include the Malaguitas, western Carrizos, the Borrado, and the
+Tepemaca (Garza and Long 1996:1143; Parsons 2004).
+The Malaguitas
+inhabited the area near the present day Starr and Zapata County line. The
+western Carrizos inhabited the area west of the Falcon Reservoir, along the Rio
+Salado east of Lampazos in Nuevo LeÃ³n. The Borrado and the Tepemaca were
+documented within the regional area (Garza and Long 1996; Parsons 2004).
+Claimed by both Texas and Mexico, the region was disputed territory from the
+time of the Texas Revolution until the Mexican War. Despite political turmoil in
+the region and continual raids by Comanches, Apaches, and other Indians, by
+1848 thirty-nine porciones and 15 other tracts of land had been granted to
+individuals either by Spanish authorities or by the Mexican government. In
+1839, Henry Redmond (one of the earliest Anglo-Americans in the region) filed a
+claim for a headright. A small settlement grew at the site that became known as
+HabitaciÃ³n. This settlement was renamed Bellville in 1858, and eventually
+became to be known as Zapata, the county seat of Zapata County. The county
+itself was established by legislative measure on January 22, 1858, following the
+1848 Treaty of Guadalupe Hidalgo, in which Texas laid claim to the region.
+With a population of 1,248 before the Civil War, Zapata County had been known
+as a haven for outlaws. âAfter the war both Mexican and American outlaws made
+frequent raids on Zapata County ranches, stealing cattle and horses and
+sometimes killing the occupantsâ (Garza and Long 2001). In 1875, following the
+killing of several county officials, Governor Richard Coke declared that all
+judicial proceedings be moved to neighboring Webb County until order could be
+restored. Ranching remained the dominant occupation throughout this time,
+with an increased dependence upon sheep ranching. After the 1890âs, most
+ranchers had sold their sheep and replaced them with goats, which were better
+adapted to the harsh climate and sparse vegetation, and by 1910, mohair
+exportation was a chief source of revenue for the county. Prior to the 1900âs,
+farming had been largely subsistence, led by corn production. However, the
+period after 1900 saw an increased emphasis on commercial farming crops such
+as cotton, with local farmers producing 2,000 bales annually by 1920.
+Oil was discovered in Zapata County in 1919, and throughout the 1920âs, the
+first commercial oil and gas wells were drilled. In 1931, a toll bridge was
+constructed between Zapata and Guerrero (Tamaulipas, Mexico), followed by the
+introduction of a water system to the county seat in 1932. A few years later,
+Highway 83 connected Brownsville and Laredo, affording Zapata County access
+to outside markets for the first time. Additionally, many other county roads
+were graded and improved. As the county was beginning to boom the Great
+Depression hit, and as with most other Texas counties, Zapata County farmers
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+15
+
+Cultural Background
+
+suffered from falling crop and livestock prices. Following World War II, ranching
+once again emerged as the dominant industry. Many other important changes
+took place during the postwar years in Zapata County, including the
+construction of the Falcon Reservoir. The planning stages for the project were
+initiated in the late 1940âs and to oversee the efforts, the International Boundary
+and Water Commission was formed. The selection of the Starr/Zapata County
+line for the dam location meant that more than 115,000 acres in Zapata County
+would be inundated (Garza and Long 2001; McCulloch et al. 2001).
+Nevertheless, the Falcon Reservoir provided a boom to the countyâs economy,
+fostering tourism, which was one of the county's largest sources of income by
+the 1960âs. Lakeshore developments became the focus of both commercial and
+social activity and for the next three decades, tourism, ranching, oil, and gas
+were the Zapata Countyâs leading industries (Garza and Long 2001).
+
+PREVIOUS INVESTIGATIONS
+Many of the earlier details regarding archeological investigation in the Falcon
+Reservoir prior to impoundment have not been published (Parsons 2002). There
+are several summaries of these earlier investigations prepared by Krieger and
+Hughes (1950), Hartle and Stephenson (1951), Cason (1952), and Jelks (1952,
+1953). The majority of these intensive surveys were conducted as salvage
+investigations as part of the National Park Service River Basin Surveys program
+prior to construction of the Falcon Dam. Previous archeological investigations
+conducted between 1953 and 1998 have been summarized by McCulloch and
+Warren (1998). Cultural resources surveys conducted after the construction of
+the Falcon Dam are limited to surveys including pipelines, conduct of seismic
+surveys, and support to the USIBWC in their management responsibilities
+(Parsons 2002). A summary of previous investigations within the Falcon
+Reservoir after inundation on behalf of the USIBWC follows.
+In 1991, TRC Mariah Associates conducted the first archeological investigations
+within the Falcon Reservoir for the USIBWC. Twenty-one prehistoric sites were
+recorded during the survey (OâNeill et al. 1992). From 1992-1995, Archaeology
+Consultants, Inc. conducted archeological investigations for several seismic
+studies for pipeline installation and the construction of a boat ramp (Warren
+1992, 1993, 1994, 1995; Houk and Warren 1994; McCulloch and Warren
+1995a, 1995b). In 1999, Quigg and Cordova (1999) of TRC Mariah Associates,
+Inc. conducted monitoring and test excavations at two sites (41ZP39 and
+41ZP176) originally recorded by McCulloch and Warren (1995b).
+In 1996, Perttula et al., conducted an assessment of the threatened prehistoric
+and historic archeological resources at the Falcon Reservoir. The assessment
+consisted of reconnaissance surveys by representatives from the SHPO, the
+National Park Service, the Texas Parks and Wildlife Department, the Texas
+Archeological Research Laboratory of the University of Texas at Austin, and the
+South Texas Archeological Association. The goal of the study was to assess the
+condition and National Register eligibility of archeological sites exposed by
+severe drought in areas along the shoreline that were normally inundated by
+Falcon Reservoir. The survey resulted in the documentation of 97 previously
+unrecorded archeological sites and the reinvestigation of 13 previously recorded
+archeological and architectural sites. Perttula et al., (1996) recommended that
+sites 41ZP79, 41ZP87, 41ZP276, 41ZP278, 41ZP280, 41ZP281, 41ZP285,
+41ZP295, 41ZP302, 41ZP316, 41ZP317, 41ZP318, 41ZP319, 41ZP320,
+41ZP328, and 41ZP359 meet criteria A, C, or D of the NRHP, while sites
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+16
+
+Cultural Background
+
+41ZP299, 41ZP88, 41ZP89, 41ZP90, 41ZP92, 41ZP180, 41ZP197, 41ZP298,
+41ZP299, 41ZP300, 41ZP314, and 41ZP327 meet criteria A and C.
+In 1996, Archaeology Consultants, Inc. conducted the largest survey to date
+within the Falcon Reservoir. Investigators conducted a reconnaissance survey
+for nine large parcels of land in support of a seismic survey line study. An
+approximate total of 28,175 acres were surveyed during this investigation. The
+survey consisted of reconnaissance survey only, with no subsurface testing
+being conducted. The survey resulted in 60 previously recorded sites being
+reassessed and 351 newly recorded archeological sites. Only preliminary
+potential for listing in the NRHP was assessed for each site. None of the sites
+were fully assessed for NRHP eligibility (McCulloch et al. 2003).
+From 1997-2000, TRC Mariah Associates, Inc. conducted cultural resource
+investigations for a pipeline and the salvage of four additional prehistoric sites,
+in the Mustang project area (Lintz and Quigg 1997). The sites dated from the
+Early Archaic through the Late Prehistoric periods. These investigations led to a
+data recovery for Site 41ZP364 (Quigg and Cordova 2000).
+In 2001, Parsons and LOPEZGARCIA GROUP (2002) (previously known as
+Wendy Lopez & Associates, Inc.), conducted survey in two designated areas
+within the Falcon Reservoir: the Central Unsurveyed Area (CUA) and the
+Northern Unsurveyed Area (NUA). A total of 2,486 acres were surveyed during
+the reconnaissance survey, with a total of 144 archeological sites being newly
+recorded. In result, 58 sites were recommended as not eligible to be listed in the
+NRHP, while 27 sites were recommended eligible to the NRHP; the remaining 59
+sites were unidentified sites and were recommended for further investigation to
+determine site integrity and eligibility to the NRHP (Parsons and LOPEZGARCIA
+GROUP 2002).
+In 2003, Parsons and LOPEZGARCIA GROUP conducted an archeological
+reconnaissance survey of a total of 2,002 acres within the Northern Unsurveyed
+Area (NUA) and the Central Unsurveyed Area (CUA) (Parsons 2004). Forty-nine
+previously unrecorded archeological sites were recorded and four previously
+recorded sites were revisited (41ZP3, 41ZP81, 41ZP82, and 41ZP812). Of the 53
+sites, 46 are prehistoric, three are historic, and four are multi-component. The
+numbers of fire-cracked-rock hearths at the sites varied considerably and
+ranged from a low count of a single hearth at seven sites to a high count of 15
+hearths at 41ZP846. In addition to the recorded hearth features, two sites
+contain flake cluster features (41ZP854, 41ZP863) and a charcoal and bone-rich
+soil zone was recorded at one site (41ZP845). Diagnostic projectile point forms
+recovered from these sites include Abasolo, Tortugas, Matamoros, and Starr
+types.
+In 2005, Hicks & Company (H&C) conducted a combination intensive and
+reconnaissance pedestrian survey of approximately 403 acres along the Falcon
+Lake shoreline in Zapata and Starr Counties, Texas, on behalf of the USIBWC
+(Karbula et al. 2006). The project also included salvage investigations at Site
+41ZP845. The project area consisted of two selected sections of roughly
+equivalent size in each of the Northern and Central Unsurveyed Areas (NUA,
+CUA).
+Project areas were classified apriori as high, moderate, and low
+probability based on a number of criteria. High and some moderate probability
+areas were subject to 100% pedestrian survey with shovel testing according to
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+17
+
+Cultural Background
+
+the THC minimum acreage survey standards. Low probability areas were
+subject to pedestrian survey with no subsurface shovel testing.
+A total of 178 acres were surveyed and 73 shovel tests excavated in the NUA.
+Two prehistoric and one historic archeological site were recorded in or
+immediately adjacent to the NUA (41ZP919, 41ZP920, and 41ZP921). There
+were no previously recorded archeological sites located within the NUA project
+area. Prehistoric site 41ZP921 was recommended for further investigations
+(additional cultural resource coordination and formal testing) to determine its
+eligibility to the National Register of Historic Places (NRHP). No further work or
+coordination was recommended for 41ZP920. Investigators believe Site 41ZP919
+was possibly an extension of Site 41ZP82, the Rancho Rincon, a ca. 1860
+archeological site originally recorded during the Parsons reconnaissance survey
+(2004). Site 41ZP919 was recommended for further evaluation, in relation to
+41ZP82 to determine NRHP eligibility.
+A total of 197 acres were surveyed and 22 shovel tests excavated in the CUA.
+The survey resulted in the documentation of a single previously unidentified
+archeological site (41ZP922). In addition, there were 15 previously recorded
+sites subject to revisits (41ZP183, 41ZP724, 41ZP727, 41ZP733, 41ZP734,
+41ZP735, 41ZP736, 41ZP753, 41ZP755, 41ZP758, 41ZP759, 41ZP760,
+41ZP761, 41ZP763 and 41ZP764) within the CUA project area. Attempts were
+made to revisit all 15 sites. Site 41ZP755, a multi-component site recorded in
+the CUA, was not relocated.
+No further work or cultural resource coordination was recommended for the
+exposed portions of Sites 41ZP727, 41ZP733, 41ZP761, 41ZP763, and 41ZP764.
+The exposed portions of these sites were recommended as ineligible for inclusion
+in the NRHP.
+The inundated portions of these sites, however, were
+recommended for further assessment should lake levels decline.
+Sites 41ZP724, 41ZP736, 41ZP753 and 41ZP758 were recommended as
+ineligible for inclusion in the NRHP. These sites are the remains of surficial
+Uvalde gravel lithic workshops. These sites appear to no longer exist. No
+further work or cultural resource coordination was recommended for these sites.
+The Texas SHPO, however, requested further information for Sites 41ZP736,
+41ZP753, and 41ZP758 in order to determine NRHP eligibility.
+The Texas SHPO subsequently reviewed, commented and concurred with the
+recommendations on all but three sites. Further information was requested on
+Sites 41ZP736, 41ZP753, and 41ZP758 (letter dated May 6, 2006), which is
+presented in the final survey report for these investigations (Karbula et al. 2006).
+The survey and revisit salvage investigation of Site 41ZP845 included a site
+revisit, 100% pedestrian survey (27.2 acres) and salvage of two prehistoric
+hearth features. Although hundreds of feature remnants were present within
+the site boundaries, investigators determined that the site lacked good research
+potential. It was estimated that 95% of the exposed feature remnants were
+completely eroded and disturbed. No diagnostic artifacts and little organic
+preservation were recovered during testing excavations. The overall context of
+the site was one of erosion and disturbance. Site 41ZP845 was recommended
+by investigators as ineligible for inclusion in the NRHP and no further work or
+cultural resource coordination was recommended. The Texas SHPO, however,
+recommended further investigation for any intact site areas at 41ZP845 that
+may have the potential to contain buried features. As a result, further cultural
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+18
+
+Cultural Background
+
+resource coordination is required related to any future Federal undertakings or
+State sponsored activities at Site 41ZP845.
+The goal of the current project was to continue survey efforts within the Falcon
+Dam and Reservoir Project Area.
+Prior to initiating the current field
+investigations, a search of records on the online Texas Archeological Sites Atlas,
+maintained by the Texas Historical Commission (THC), was conducted within a
+two-kilometer buffer radius to determine if any previously recorded archeological
+sites or surveys were recorded or conducted in the study area.
+According to the Texas Archeological Sites Atlas, a single archeological survey
+has been conducted within the two kilometer buffer zone around the Falcon
+Reservoir 600 Acre Survey in Zapata County. Between June and September of
+2003, Blanton and Associates conducted an intensive pedestrian survey of the
+proposed improvements to US 83 in Zapata and Starr Counties (Meadows et. al.
+2005). This survey identified 40 new sites and revisited nine previously recorded
+sites. Pertinent to the project under discussion are nine sites recorded during
+the course of the US 83 survey that fall within the two kilometer buffer zone:
+41ZP150, 41ZP191, 41ZP886, 41ZP887, 41ZP888, 41ZP889, 41ZP890,
+41ZP891, and 41ZP892. Of these sites, only three â 41ZP150, 41ZP191, and
+41ZP890 - were deemed as requiring further investigation to determine NRHP
+eligibility. The remainder was determined ineligible for NRHP nominations or
+designations as State Archeological Landmarks (SAL). The spatial relationships
+of Sites 41ZP191, 889, and 890 to the current project are discussed in the
+Executive Summary and Results of Field Investigations sections.
+Site 41ZP150 was first identified by William E. Moore as a scatter of debitage
+and possible cores of unknown age. Following a 2003 revisit by Blanton &
+Associates archeologists, they recommended that the site required further
+investigation to determine if it was eligible as an NRHP or SAL. 41ZP191 was
+first recorded by James B. Boyd of the South Texas Archeological Association in
+1988. He defined the site as a multi-component prehistoric campsite dating
+between the Early Archaic and the Late Prehistoric periods.
+Temporal
+placement was based on the recovery of nine projectile points including Perdiz,
+Caracara, Young, Matamoros, and Tortugas types. In addition, other stone
+tools, debitage, burned rock, mussel and snail shell were recorded as abundant
+and associated with hearth features eroding from the surface. When the site
+was resurveyed by Blanton & Associates archeologists in 2003, they
+encountered burned rock, debitage and stone tool fragments up to a meter in
+depth, but did not recover additional diagnostic artifacts. Blanton & Associates
+investigators suggested that additional research was reasonable and felt that
+NRHP eligibility would need to be assessed with additional investigation.
+41ZP890 is a scatter of burned rock, chert debitage and two biface fragments
+associated with a single large hearth feature. Deposits ranged from 20 to 80
+centimeters in depth, but no diagnostic artifacts were identified to date the site.
+Investigators stated the potential for more buried deposits and recommended
+that additional investigation would be necessary to make a determination if the
+site was NRHP or SAL eligible.
+41ZP886 was identified as a prehistoric site of unknown age located on the
+surface and extending to a depth of 45 centimeters below the surface. Artifacts
+recorded included debitage and burned rock, but no features or diagnostic
+artifacts were identified. No additional investigation was recommended for this
+site. A sparse amount of chert debitage and burned rock found on the surface
+and between 10-40 centimeters below the surface was identified as site
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+19
+
+Cultural Background
+
+41ZP887. No diagnostic artifacts or intact features were found. The area within
+the project right-of-way was deemed of low research value and additional
+investigations were not recommended. 41ZP888 is a low-density prehistoric site
+of unknown age. Artifacts recovered on the surface and to a depth of 50
+centimeters below the surface were found to be in disturbed contexts and to lack
+any intact feature associations. Investigators deemed the site too disturbed (at
+least within the project ROW), to warrant further investigation or NRHP or SAL
+nomination. 41ZP889 consisted of a shallow deposit (0-30 centimeters below
+surface) of burned rock, debitage and biface fragments. No diagnostics artifacts
+were located. Archeologists noted that the site was heavily disturbed from the
+construction of US 83 and utility lines, and did not warrant further research as
+it lacked a potential for intact buried components. 41ZP891 is a prehistoric site
+of unknown age consisting of a scatter of lithic debitage, burned rock and
+mussel shell in the upper 50 centimeters of deposits. The recorders indicated
+that the site was disturbed and did not warrant further investigation within the
+project ROW. Finally, site 41ZP892 is a poorly preserved site with debitage and
+burned rock located on the surface and in the upper 20 centimeters of deposits
+below the surface. No further investigation was recommended for this site.
+In addition to the sites listed above, five additional archeological sites were
+located within the two kilometer project area buffer zone. These sites may have
+been recorded as part of the original ca. 1950 National Park Service River Basin
+Surveys of the Falcon Reservoir, though information is scant (Krieger and
+Hughes 1950), or by avocational archeologists. These include the Corralitos
+Ranch (41ZP74), a NRHP listed property. When originally listed in 1977, the site
+was identified as the location of a historic period ranch and farmstead occupied
+from 1849-1899. Subsequent archival and archeological investigation by
+Fleming and Perttula (1999), clarified that the site was the location of the mid
+18th century settlement by JosÃ© Fernando Vidaurri of his grandfather Jose
+VÃ¡squez Borregoâs 1750 land grant by the Spanish government. The site
+structures include the remains of the original fortaleza constructed by 1786 and
+later 19th century ranch buildings. Field crews drove through the Corralitos
+Ranch to access USIBWC lands. All of the ranch structures are a considerable
+distance from the current project area.
+Sites 41ZP77, 41ZP78, 41ZP96 and 41ZP35 are also within the two kilometer
+buffer zone. No records pertaining to Site 41ZP77 are available on the THC
+Historic Sites Atlas. Site 41ZP77 is apparently listed on the National Register
+listings of the Texas Historical Commission as a Spanish Colonial (1750-1799)
+domestic, agriculture site with data potential including architecture. In her
+unpublished Ph.D. dissertation, Mary Jo Galindo (2003:12) identified the site as
+the location of Old Dolores, a ranch within the boundaries of the Nuestra SeÃ±ora
+de los Dolores hacienda. The site is located on a high terrace overlooking the
+project. The site does not overlap the project area.
+Galindo (2003:12) also identified site 41ZP78 as another Spanish Colonial ranch
+site on the Dolores hacienda, known simply as Dolores. According to the Texas
+Historic Sites Atlas, when the site was identified during the National Park
+Service River Basin Survey, the recorders identified this same site as Dolores
+Viejo and collected 60 potsherds, one gouge, two dart points and a copper strip.
+The site is located on a high terrace overlooking the project area. The site does
+not overlap the project area.
+In fact, Sites 41ZP74 (Corralitos Ranch), 41ZP77 (Old Dolores, Rancho Dolores)
+and 41ZP78 (Dolores, Nuevo Dolores), all appear part of the original Ca. 1750
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+20
+
+Cultural Background
+
+Hacienda de Nuestra SeÃ±ora de los Dolores founded as part of JosÃ© VÃ¡squez
+Borregoâs land grant from the Spanish government. The Hacienda and these
+ranch settlements are considered to be the first Spanish Colonial venture on the
+north bank of the Rio Grande. All of this early Spanish settlement occurred on
+the higher terrace overlooking the immediate Rio Grande floodplain. The
+structures had to be built on higher topography to withstand Rio Grande floods.
+Any related structures or remains in the immediate floodplain would have long
+since been destroyed. These early Spanish settlements do not overlap the
+narrow USIBWC project area, as the sites are currently mapped, and from field
+observation and shovel testing.
+A historic 1936 Centennial marker denotes the location of a possible âMission
+Dolores a Visitaâ. The marker is mapped along unsettled portions of Arroyo
+Dolores according to the THC Atlas. However, the marker appears to reside
+along US 83 at Arroyo Dolores, and is believed to reference the nearby
+community of Old Dolores or Rancho Dolores (41ZP77). The Handbook of Texas
+Online indicates there was never any mission in this area. The marker is
+outside of the project area.
+For the final site, 41ZP96, no information is available concerning the temporal
+placement or type of site represented. As mapped on the Archeological Sites
+Atlas, the boundaries of 41ZP96 overlap the western edge of the project area.
+Site 41ZP35 is a multi-component artifact scatter located on an upland ridge
+along US 83 approximately 250 meters west of Arroyo Dolores. The prehistoric
+component at the site consists of a Tortugas dart point, chert debitage, and
+burned rock to a depth of 60 centimeters below ground surface. The historic
+component is confined to the surface and consists of a scatter of untyped glazed
+ceramics. The site was originally recorded in 1950 and revisited in 2003 by
+Blanton & Associates, Inc. as part of their survey of US 83. Limited archival
+research revealed two structures were present on a 1931 Corps of Engineers
+map and a later 1936 highway map of Zapata County. The most recent survey
+does not report the presence of any structures. Based on the assemblage
+reported by Blanton & Associates, Inc., the prehistoric component likely dates to
+the Late Middle Archaic and the historic component likely dates to the early
+20th century. Blanton & Associates, Inc. recommends additional survey and
+archival research for the site. The site does not overlap the boundaries of the
+current project area.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+21
+
+Cultural Background
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+22
+
+Methodology
+
+METHODOLOGY
+METHODS USED TO MAP 307- FOOT TRAVERSE TAKING LINE
+The 307-foot traverse taking line of the proposed study area was incorporated
+into the existing ArcView Geographic Information System (GIS) maps and the
+Trimble XT Global Positioning System (GPS) unit. The purpose of this effort was
+to provide investigators with a planning and management tool prior to survey
+and so the field survey crew could accurately relocate the 307-foot traverse
+during survey. The 307-foot traverse line consists of a series of straight lines
+that approximate the 307-foot elevation contour line, respectively. Lands
+managed by the USIBWC above the 307-foot traverse taking line were not
+identified nor included in the current cultural resources survey.
+The 307-foot taking line was compiled from three sources: real property maps
+from the USIBWC Falcon Reservoir Field Office in Falcon Heights, Texas; on site
+location of the 307-foot traverse taking line in specific areas by Mr. Raul Garcia,
+the Falcon Lease and License Manager, and hand written U.S. State Plane
+coordinates of the original survey of the 307-foot traverse taking line. An
+attempt to relocate the original 307-taking line survey monuments during
+survey was unsuccessful. No single source was complete, but all these variables
+together were used to supplement each other to reconstruct a complete 307-foot
+traverse taking line for the study area (see Plates 1 â 7).
+The USIBWC real property maps were not complete, and lacked spatial
+reference. The USIBWC real property maps for the project area stored at the
+USIBWC Falcon Field Office, in Falcon Heights, Texas were in relatively good
+condition. The journal log with the hand written U.S. State Plane coordinates,
+however, was in poor condition with certain sections unreadable. Investigators
+use Index maps from the Government Furnished Materials (GFM) to obtain the
+map identification source codes for the current study area. Unfortunately, some
+maps were missing that were shown on the larger area index map for the project
+area. Hand written state plane coordinates were compiled for the missing map
+segments.
+On the ground GPS coordinates, obtained in the field, provided necessary
+ground control points to georeference the real property maps. The GPS unit
+used on the survey was the Trimble Geo XT. This GPS system utilizes
+differential correction to allow for sub-meter accuracy.
+The differential
+correction process began with field collection of the data, and the field data was
+âpost processedâ, or correlated with a stationary receiver, often called a "base
+station." The base station data corrected positioning errors of the field data.
+Since none of the survey monuments were found to be intact, investigators used
+the original Falcon real property maps and U.S. state plane coordinates, as well
+as personal knowledge from Mr. Garcia to project the 307-foot traverse taking
+line on 2004 infrared aerial photography and 7.5 minute USGS topography
+maps. With a set of georeferenced real property maps, the 307-foot taking line
+was extracted and saved as an Environmental Systems Research Institute, Inc.
+(ESRI) shapefile. The shapefile was imported into the Trimble GPS unit allowing
+investigators to know precisely where the 307-foot traverse taking line was
+located during survey.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+23
+
+Methodology
+
+PROBABILITY AREAS
+Field methods were guided by determinations of high, moderate and low
+probability areas.
+Survey investigations effectively ground-truthed these
+determinations. Low probability disturbed and destroyed areas consisted of the
+immediate areas adjacent to the shoreline. These areas consisted of eroded, Rio
+Grande terrace remnants often in the form of steep scarps or low lying areas
+clearly scoured by recent flooding and further disturbed by invasive, dense
+vegetation. Often these areas were littered with sizeable debris from recent
+flooding. These areas are subject to a violent combination of immediate flooding
+and scour by the current Rio Grande. In the southern project area, the T1
+terrace is approximately 2-3 meters above the modern channel but characterized
+by a steep eroded scarp adjacent and leading down to the river. In the central
+and north-central project area, the T1 terraces are much more narrow remnants
+and much more disturbed due to sheetwash and erosional drainages impacting
+the sediments resulting from narrowing of the Rio Grande valley walls in higher
+elevations upstream. The Rio Grande appears constrained within approximately
+the 320 foot elevation line on both sides of the river. In the north project area,
+the valley walls narrow and the river has a much more constrained axis to
+deposit flood sediments. On the U.S. side, the river is constrained laterally by
+steep topography. In the narrow valley, flood sediments are probably quickly
+deposited, and just as quickly eroded away by gulleys and sheetwash from the
+adjacent hills. This erosional aspect is compounded by frequent flooding and
+even scouring having a measurable negative effect on the contextual integrity of
+the deposits. Even in northern areas that exhibit somewhat wider terrace
+remnants extending east and away from the river, it is clear from observation
+that the majority of these are frequently flooded, scoured, and dissected by
+erosional gulleys funneling run-off from the adjacent and much closer T2
+terrace. In the extreme northern project area, steep slopes and heavily eroded
+terrain characterized the narrow project corridor. Large portions of the linear
+survey areas within the 307 foot traverse taking line are located entirely within
+the immediate flood and scour zone of the current Rio Grande (T1 scarp in the
+south, terrace remnants and heavily eroded steep slopes in the north).
+These areas were identified as having a low probability for intact buried
+prehistoric sites due to the nature of the highly eroded, scoured scarp, often at
+slopes greater than 20 percent (T1), or because of the degraded terrace
+remnants, and also due to extremely eroded, steep slopes in the northern project
+area, all of which represent the highly dynamic, active zone of the modern
+channel. Movement of the river is constrained laterally by rising topography at
+higher elevations and there is much less flat, level topography for the deposition
+of flood sediments. In these areas, narrow terrace deposits are frequently
+impacted by additional flooding and scour from the river moving at high velocity
+through the narrow channel. This, in combination with erosion from the
+adjacent hills, results in terrace remnants, which are highly dynamic zones of
+the active channel. In these areas, terrace remnants probably represent very
+recent flood sediments subject to dual erosion from the hills and from additional
+flooding.
+The context of the scarp, terrace remnants and steep slopes is further
+compromised through disturbance introduced by highly invasive, thick woody
+and bamboo vegetation. Bamboo stalks numbered in the thousands in some
+places, were closely spaced together, and generally each 10-15 centimeters in
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+24
+
+Methodology
+
+diameter, and fully 20 or more feet tall. The density of large cane stalks in
+some of these areas is such that sediments are surely disturbed to the depth of
+the bamboo vegetation (Figure 4). The associated root disturbance must have
+had a significant effect on sediment context, and resulted in displaced sediments
+to the depths of the roots.
+
+Figure 4: Photograph of density of bamboo in some project locations.
+Other areas considered low probability were typically adjacent to small drainage
+tributaries of the Rio Grande, having a slope greater than 20 percent, and
+evidence of a high degree of human or natural disturbance. These areas appear
+as small finger ravines and were essentially erosional drainages leading down to
+the current shoreline. Approximately 265.34 acres were considered completely
+disturbed and were identified as having a low probability for buried cultural
+resources based on the above criteria. These areas were subject to pedestrian
+survey and field observation with limited or no shovel testing. Limited shovel
+testing was conducted at some locations to confirm sub-surface conditions.
+Further inland and in the south project area, high probability areas consisted of
+an intact, relatively deep (ca. 2-3 m), heavily vegetated Rio Grande terrace
+deposit extending away from the shoreline for a considerable distance (Plates 1
+and 2). In the southern project area the Rio Grande Valley begins to widen
+which allows the river to meander and create wider floodplain deposits. This
+broad Rio Grande terrace graded into a higher terrace with distance away from
+the river (T2), in the wider southern Rio Grande valley setting. The T2 terrace is
+predominantly located outside of the 307 foot traverse taking line boundary and
+thus not part of the current project, and probably representative of a much
+older, and higher landform.
+The southern T1 terrace is much lower in
+topography and elevation than the adjacent T2 terrace, which is probably a
+much older landform. The majority of the Spanish Colonial ranches and
+prehistoric sites are located on the much higher T2 landform overlooking the Rio
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+25
+
+Methodology
+
+Grande from a considerable distance (see below). Neither historic or prehistoric
+settlement was favorable in the active floodplain.
+The topography adjacent to the Rio Grande shoreline varied from the south to
+the north. The southern area was more flat with wider pockets of cleared
+vegetation surrounded by dense forested areas (T1). Area 1 and Area 2 contain
+these types of terrain and vegetation (Figures 5 and 6). These areas were
+identified as high and moderate probability. Approximately 359.55 acres was
+considered to have a high and/or moderate probability for intact buried cultural
+resources; these areas were subject to systematic hand excavated shovel testing.
+
+Figure 5: Photograph of cleared vegetation in Area 1, facing south.
+
+Figure 6: Photograph of typical vegetation encountered in Area 2, facing north.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+26
+
+Methodology
+
+Areas to the north contained narrow strips of disturbed terrace remnants in
+areas of increasing elevation (Figure 7). The northern terminus project area is
+characterized by steep, highly eroded, heavily vegetated scarps descending
+directly into the Rio Grande. Approximately 265.34 acres were considered
+completely disturbed and were identified as having a low probability for buried
+cultural resources based on the above criteria. These areas were subject to
+pedestrian survey and field observation with limited or no shovel testing.
+
+Figure 7: Photograph of extremely dense vegetation with increasing elevation in the
+northern portion of the proposed project area, facing south.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+27
+
+Methodology
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+28
+
+Results of Field Investigations
+
+RESULTS OF FIELD INVESTIGATIONS
+INTENSIVE SURVEY
+Prior to the start of survey, the Principal Investigator and Project Archeologist
+met with USIBWC officials to obtain a copy of the original survey maps of the
+307-foot traverse taking line prior to the construction of the Falcon Reservoir.
+An electronic copy of these maps was e-mailed to Hicks & Company GIS staff in
+Austin, Texas. GIS personnel projected the 307-foot traverse taking line onto
+field maps and created a GIS shapefile that could be imported into the Trimble
+XT GPS unit. Field maps and data files with the 307-foot traverse line were
+promptly sent to the Project Archeologist in the field. Archeologists used the
+Trimble XT GPS unit to navigate the project area and accurately located the 307Â­
+foot traverse taking line on the ground.
+The field survey started at the southern terminus of the project area (Plate 1).
+Archeologists continued surveying the proposed project area in a northerly
+direction ending at the northern terminus, the Zapata and Webb County line.
+Archeologists surveyed approximately 624.89 acres within the proposed
+USIBWC study area. The project area is depicted on Plates 1 â 7. A total of 263
+shovel tests were excavated along the project corridor, with all being negative for
+cultural resources.
+Hicks & Company personnel walked systematic transects parallel to the existing
+Falcon Reservoir shoreline to investigate project areas for cultural material.
+Shovel tests were distributed at approximately 100-meter (325 feet) intervals,
+approximately 16 per mile, in only those areas having a high and moderate
+probability for cultural resources, except in two areas (Area 1 and Area 2)
+located in the southern portion of the project area (Plates 1 and 3); these areas
+were subject to the THC minimum acreage standards for archeological survey.
+When multiple transects were necessary to obtain coverage along linear portions
+of the project area, investigators incorporated additional transects at 25-meter
+wide intervals.
+All shovel tests were terminated at a depth of 100 centimeters below ground
+surface. All excavated soil was screened through Â¼-inch wire mesh. Each
+shovel test was recorded in 10-centimeter levels on standardized forms and
+plotted onto a site sketch map and/or an aerial photograph of the project area.
+Universal Transverse-Mercator (UTM) coordinates were obtained for all
+excavated shovel tests and for the endpoints of pedestrian and disturbed areas.
+The walls and bottom of each shovel test were cleaned with a trowel to examine
+the stratigraphy and any evidence of historic and prehistoric activity; a soil
+profile was recorded for each shovel test. Once these data were recorded, all of
+the shovel tests were backfilled.
+The results of each shovel test were
+documented through standardized forms, field notes, and photographs. Areas of
+disturbance were noted and recorded through photographs.
+No archeological cultural material was recovered within the proposed project
+area. A typical shovel test revealed a light-colored loamy soil over reddish or
+mottled clayey subsoil to a depth of 100 centimeters below the ground surface.
+Ground surface visibility in the proposed project area is poor (10%), with little to
+no visibility observed by investigators. Navigation along the proposed project
+corridor was guided by a Trimble XT GPS unit and detailed 1950âs survey maps
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+29
+
+Results of Field Investigations
+
+provided by the USIBWC Falcon office. All GPS positions were downloaded and
+plotted on aerial maps by Hicks & Company GIS personnel.
+
+AREAS 1 AND 2
+Areas 1 and 2 in the southern portion of the project were accessed through two
+roads or gates of the Corralitos Ranch off US 83, and by a caliche road through
+an open field to the north off US 83, near an unnamed drainage. The field crew
+drove through and by the NRHP listed groups of Spanish Colonial ranch
+buildings of the Corralitos Ranch and structures to access USIBWC property
+(41ZP74). Site 41ZP74 and the historic elements of the Corralitos Ranch are
+located approximately 750 feet east of the USIBWC project area. Both access
+points were drivable all the way to the USIBWC property.
+Areas 1 and 2 and areas in between in the southern portion of the project were
+identified as high and moderate probability zones due to their broad width
+containing intact Rio Grande terrace sediments (Plates 1 and 2). Area 1
+consisted of a steep eroded scarp heavily vegetated with bamboo along the rivers
+edge grading into a broad Holocene age terrace deposit extending to the east
+(Figure 8). Although the scarp exhibited little potential for intact cultural
+material due to severe erosion of the slope, the broad terrace was approximately
+three meters deep and exhibited excellent potential for buried archeological
+deposits. Figures 4 and 5 depict the typical vegetation and broad relatively
+level terrace deposits within Area 1 and Area 2. Area 1 appears relatively
+maintained by the USIBWC.
+
+Figure 8: Broad Rio Grande terrace deposits in Area 1 extending away from river and
+scarp to the east.
+Area 2 was identified as moderate probability. Area 2 contained broad, level two
+to three meter deep terrace deposits in its central and eastern portions but is
+severely disturbed along the riverâs edge and in several low lying areas that may
+represent previous pond or flood deposits (Figure 9). The areas adjacent to the
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+30
+
+Results of Field Investigations
+
+river in Area 2 represent low lying, frequently flooded, heavily eroded, highly
+disturbed areas. In fact all of Area 2 appears to be a low lying frequently flooded
+zone with the upper sediments subjected to both sediment deposition and scour
+probably at regular intervals. There are pockets of disturbance in multiple areas
+of Area 2. It is therefore identified as moderate probability. Area 2 contained
+severe strands of invasive bamboo along the rivers edge, along its central
+portion, and at its northern and southern locations (Figures 10 and 11). While
+even a backhoe would face a formidable challenge in penetrating these areas for
+subsurface testing, there is plenty of available surface area in Area 2 for
+mechanical testing, should it be warranted.
+
+Figure 9: Disturbance in Area 2 from flooding or pond deposits.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+31
+
+Results of Field Investigations
+
+Figure 10: Dense bamboo in Area 2.
+
+Figure 11: Crew members traverse dense bamboo in Area 2.
+Areas to the north and south of Area 2 were hummocky, heavily eroded, with
+multiple erosional gulleys and intensely vegetated (Figure 12). These areas were
+identified as low probability (Plates 2 and 3). A lengthy linear stretch in
+between Areas 1 and 2 is identified as high probability. Although the zone
+contains pockets of disturbance, the area consists of two to three meter deep
+Holocene terrace deposits, as illustrated in Figure 13, where the terrace
+deposits are evident at the confluence of an unnamed drainage and the Rio
+Grande (facing SW). To the northeast within this unnamed drainage, the project
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+32
+
+Results of Field Investigations
+
+area climbed significantly in elevation and topography. Because the visible
+portions of USIBWC property along this drainage were determined to be highly
+erosional and unlikely to contain intact archeological deposits, surveyors did not
+investigate this drainage beyond approximately 200 meters east of the Rio
+Grande River (Plate 2). Thus, the portion within the 307 foot traverse taking
+line along this unnamed drainage extending to US 83 was not surveyed, due to
+observations of steep slopes, erosional surfaces, and a lack of Holocene
+depositional context.
+
+Figure 12: Hummocky topography, erosional gulleys and vegetation disturbance north of
+Area 2.
+
+Figure 13: Depth of Holocene terrace deposits is evident in this photo of confluence of
+unnamed creek and the Rio Grande, note terrace deposits to left of photo.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+33
+
+Results of Field Investigations
+
+High and moderate probability Areas 1 and 2 were systematically shovel tested
+by one test every two acres (Area 1) and one test every three acres (Area 2),
+according to parcel size. The linear moderate probability zone in between was
+shovel tested at 16 tests per mile (Plates 1 and 2). Area 1 totaled approximately
+102.82 acres and was subject to the minimum acreage survey standards of one
+shovel test for every two acres (79 tests). Area 2 totaled approximately 144.37
+acres in size allowing investigators to apply the minimum survey acreage
+standards of one shovel test for every three acres (56 tests).
+
+ARROYO DOLORES
+The long linear project area located between Area 2 and Arroyo Dolores was
+accessed through two caliche roads off US 83, one through a plowed field just
+north of Area 2, and the second through an open and plowed field just south of
+Arroyo Dolores (Plates 3-5). The first access point was drivable all the way to
+the 307 foot traverse line and beyond, nearly to the river. This access drive
+passed through Site 41ZP96, the remnants of which are visible on aerial
+photography (Plate 3). Site 41ZP96 is recorded in the central project area
+overlapping with the 307 foot traverse taking line boundary. Other than
+location, there are no records of this site on the Texas Historic Sites Atlas, or in
+the Government Furnished Materials (GFM) or online, and no further
+information could be obtained. Based on the extant topographic maps, this may
+have been the location of a number of possible historic age buildings. Field
+crews drove and walked through this area but observed no historic structures
+that warranted archeological investigation. This area is currently the location of
+several surface encumbrances including residential and industrial structures, a
+pump house (located near the edge of the upper terrace), and a large amount of
+heavy farming equipment, and was therefore identified as disturbed and
+destroyed by modern development. Further modification of the ground surface
+is attributed to heavy and repeated vehicular traffic, which has resulted in the
+formation of several traffic loops around the small complex of structures and
+equipment. There appears to be no intact archeological or structural elements
+to the site.
+Approximately 3000 linear feet were identified as moderate probability area just
+north of Area 2. This area is north and west of an identified heavily disturbed
+area along the east edge of the 307 foot traverse line. Surveyors report being
+unable to move farther south from the access point, due âto a wall of bambooâ.
+The moderate probability area to the north was identified based on survey and
+observation of the terrace situation at the rivers edge. The portion of the project
+within the 307 foot traverse line between Area 2 and Arroyo Dolores is
+predominantly linear and very narrow (75-150 feet). The immediate terrace at
+this location is approximately two meters above the river. The area contained by
+the 307 foot traverse taking line boundary at this juncture typically represents
+the immediate flood zone of the river, highly disturbed and eroded. Numerous
+naturally and historically disturbed areas were identified along this alignment
+(Figure 14). The area was identified as moderate probability and shovel tested
+due to the depth of the terrace deposits along this stretch.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+34
+
+Results of Field Investigations
+
+Figure 14: Historic disturbance north of Area 2.
+Only limited shovel tests were conducted in the low probability area identified
+between the previous moderate probability area the entire distance up and into
+Arroyo Dolores (Plates 3-5). Areas south of Arroyo Dolores within the 307 foot
+traverse line consisted of two aspects related to narrowing of the Rio Grande
+valley walls and a general increase in elevations with distance to the north of the
+project area. The primary topographic setting mid-distance between Area 2 and
+Arroyo Dolores consisted of low lying, frequently inundated, heavily eroded
+terrace remnants at the base of relatively steep, highly eroded slopes. Terrace
+remnants were much more infrequent and narrow in this central portion of the
+project and more heavily eroded due to narrowing of the valley walls, incision of
+the Rio Grande at the base of the valley wall, associated erosion of remaining
+intact terrace sediments, and also close proximity to nearby steep upland slopes
+of the T2 terrace. With the narrowing of the valley, terrace remnants were much
+more highly subjected to sheetwash, gulley formation, and erosion, from the
+higher elevations, and still were subject to frequent inundation, flooding and
+scouring from the Rio Grande. The combination of these factors yielded highly
+disturbed terrace remnants with a low probability for intact buried cultural
+materials, and was compounded by highly invasive vegetation. The immediate
+floodplain contact with the river at the access point approximately 2000 feet
+south of Arroyo Dolores was described as low lying, frequently inundated,
+heavily eroded terrace remnant no more than 15 meters wide. Although some of
+these terrace remnants may have contained deep Holocene sediments, there
+would typically not be sufficient spatial area to conduct mechanical subsurface
+testing and machine access would be extremely problematic, if not impossible.
+Low probability determinations on terrace remnants also took terrace size and
+access factors into account. The sloping surfaces at these locations graded into
+low lying, narrow, disturbed flood zone areas, or straight into the Rio Grande.
+Closer to Arroyo Dolores, some areas contained no terrace remnants at all and
+simply represented a riverine setting between relatively steep erosional scarps.
+The project area at this location was narrow and primarily located on the edge of
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+35
+
+Results of Field Investigations
+
+the eroded scarp leading down to the river (Figure 15). The slopes increased in
+grade with the approach to Arroyo Dolores. Areas south of the creek within the
+narrow, river side project area were quite steep erosional surfaces (Figure 16).
+No shovel tests were conducted in these areas due to the low probability of
+intact buried deposits on this sloping eroded surface of greater than 20%. These
+areas consistently contained erosional drainages and gulleys. Figure 17 depicts
+an area 500 meters south of Dolores Creek in which the project area is located
+on a steep scarp leading down to the river, one dissected by shallow erosional
+drainages. These scarp surfaces are routinely subject to slopewash from the
+higher elevations stripping sediment and moving it to lower elevations. These
+areas within the project were classified as low probability and disturbed by
+natural forces.
+
+Figure 15: Eroded terrace scarp at edge of river.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+36
+
+Results of Field Investigations
+
+Figure 16: Looking down erosional scarp and relatively steep slope towards project area
+south of Dolores Creek.
+
+Figure 17: Dirt road leads down scarp towards river south of Dolores Creek.
+A number of erosional drainages were investigated within the 307 foot traverse
+taking line boundary including Arroyo Dolores. These drainages typically
+represented small finger ravines and erosional run off environments with little or
+no sediment deposition that could contain buried archeological materials.
+Because the visible portions of USIBWC property along these drainages were
+determined to be highly erosional on slopes of 20-30% and unlikely to contain
+intact archeological deposits due to the lack of a significant depositional
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+37
+
+Results of Field Investigations
+
+environment, surveyors typically did not shovel test these areas.
+Visual
+inspection, rather, identified the USIBWC property at these locations as
+disturbed and destroyed.
+Prehistoric Site 41ZP191 is mapped approximately mid-distance between Area 2
+and Arroyo Dolores, at the headwaters of an unnamed arroyo feeding into the
+Rio Grande. The site is mapped adjacent to one eastern edge of the 307 foot
+traverse taking line. Site 41ZP191 was recommended for further investigations
+by the original surveyors. Current investigations determined that the site does
+not extend onto USIBWC property (307 foot traverse taking line). The USIBWC
+property bounded by the 307 foot traverse taking line at this location was
+identified as a zone of highly erosional cutbanks whose context is disturbed and
+destroyed. The topographic setting within the 307 foot traverse taking line was
+one of a steep sided erosional drainage (slope greater than 20%) and not a
+setting for a prehistoric occupation site nor one conducive to the preservation of
+intact site deposits. Due to the observed environmental conditions, it is
+probable that the site only exists on the relatively flat terrace overlooking the
+drainage outside of USIBWC property.
+The area of the confluence of Arroyo Dolores and the Rio Grande represented a
+significant increase in the topographic elevation, degree of slope and related
+erosional factors in the form of gulleys and slopewash (Plate 5). Several shovel
+tests were placed up into the drainage area despite the degree of slope and
+erosional factors indicated (Figures 18 and 19). Survey investigations were
+terminated midway up the drainage because of the increase in slope leading up
+to a rock cliff, the upper surface of which was outside the project area (to the
+north and south). These areas do not appear to represent depositional contexts
+that could contain buried sites. There is little or no Holocene deposition in the
+areas surveyed in Arroyo Dolores. Portions of Arroyo Dolores within the 307 foot
+traverse taking line extending northeast to US 83 remain unsurveyed. These
+areas were not included as part of the current survey due to the erosional
+nature and steep sided slopes of the drainage observed within 600 meters of the
+river. The current survey was terminated near the location of the easternmost
+shovel test within approximately 600 meters of the Rio Grande, as the drainage
+continued to climb in elevation, exhibiting very low potential for intact
+archeological sites. Thus, the area within the 307 foot traverse taking line near
+US 83 was not part of the current survey. However, the upland areas adjacent
+to the arroyo, above the 330 foot contour line, may exhibit the potential to
+contain surficial archeological sites.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+38
+
+Results of Field Investigations
+
+Figure 18: View upslope into higher elevations of the erosional drainage of Dolores Creek.
+
+Figure 19: View of cliff at higher elevations of Dolores Creek.
+
+NORTHERN TERMINUS
+Moving north, a moderate probability area was identified north of Arroyo
+Dolores, in the vicinity of Site 41ZP924 (see below). Access to this area was
+achieved by a series of caliche roads traveling west from a Conoco-Phillips gate
+along US 83 (Plates 5 and 6). At the location of Site 41ZP924, the road was
+drivable up the edge of the upper T2 terrace scarp. From there, crews walked
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+39
+
+Results of Field Investigations
+
+over private land down the steep scarp (greater than 30%) to gain access to the
+307 traverse line.
+The traverse line straddled a level terrace remnant (60
+meters in width) with approximately 3-4 meters of recent Holocene deposition
+(probably very recent) adjacent to the modern channel of the Rio Grande. The
+terrace is described as frequently flooded and heavily eroded by gulleys and
+sheetwash from the adjacent T2 terrace. The surface of the terrace was littered
+with flood debris and channeled by several gulleys transporting water from the
+upper terrace. The terrace was identified as moderate probability due to the
+depth of the Holocene sediments, but one significantly altered in the upper
+sediments by natural forces. The scarp leading from the T2 terrace was
+identified as heavily eroded, not warranting subsurface tests, and outside of the
+project area (307 foot traverse line). The remnants of Site 41ZP924 were
+identified on the T2 scarp (private property). It is unclear whether the site was
+present on the edge of the T2 terrace and is now eroded off into the scarp, or
+whether intact portions of the site remain on the T2 terrace (private property).
+Extensive shovel testing was conducted in this moderate probability area
+especially below and adjacent to the 41ZP924 site area (within the 307 foot line).
+It is clear that Site 41ZP924 does not extend over the 307 foot traverse taking
+line (Plate 5). The terrace remnant at this location is of sufficient size and
+access that mechanical subsurface testing would be warranted.
+As previously mentioned, a single archeological site (41ZP924) was observed and
+recorded adjacent but outside of the proposed project area. Site 41ZP924 is
+situated on private land and USIBWC flood easement located between the 307
+and 314-foot traverse taking lines. Site 41ZP924 is a probable Late Prehistoric
+site observed approximately 35-40 meters east of the project boundary 307-foot
+traverse taking line. The site contained lithic debitage, a small unidentified
+single ceramic sherd fragment (black paste with quartz temper), unidentified
+thin biface/projectile point, early stage bifaces, burned rock fragments, mussel
+shell, groundstone, and bone fragments observed on the ground surface. Site
+41ZP924 appears eroded but has the potential to contain intact buried cultural
+deposits. Subsurface testing is recommended to determine the vertical and
+horizontal extent of the site should there be any Section 106 undertakings
+resulting in ground disturbing impacts within the site area.
+The northern terminus of the project was accessed by a second caliche road
+north of Arroyo Dolores nearly all the way to the rivers edge. From here,
+however, access was problematic and the entire length north to the Webb and
+Zapata County line had to be walked on foot (Plates 6 and 7). This was some of
+the most difficult terrain of the project. The entire northern, very narrow width
+adjacent to the Rio Grande (within the 307 line), is identified as very low
+probability, serious slopes (20-30%), hummocky topography, numerous
+erosional run off and drainage gulleys, and is an area significantly disturbed by
+erosion, sheetwash and other natural factors. The northern portion of the
+project continued to climb in elevation, essentially representing a different
+topography than the southern portion of the project. A few areas contain highly
+eroded terrace remnants along the rivers edge (Figure 20). Project areas south
+of the northern terminus are nearly exclusively characterized by steep erosional
+slopes, hummocky topography, and erosional gulleys (Figures 21-24). Along
+these scarps, there is little or no evidence of Holocene deposition, nor a
+mechanism for such. These areas may be characterized as upland, erosional
+surfaces.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+40
+
+Results of Field Investigations
+
+Figure 20: Heavily modified Rio Grande terrace remnant at base of erosional scarp.
+
+Figure 21: Steep upland erosional slope in northern project area.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+41
+
+Results of Field Investigations
+
+Figure 22: View down relatively steep, eroded slope in northern project area.
+
+Figure 23: Erosional gully and upland hummocky topography in northern project area.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+42
+
+Results of Field Investigations
+
+Figure 24: Eroded scarp and relatively steep slope leading down to river in northern
+project area.
+Two Spanish Colonial Ranch sites are recorded on higher topography
+overlooking the 307 foot traverse taking line northern project area (41ZP77 and
+41ZP78). Site 41ZP77 is located on the north side of the confluence of Arroyo
+Dolores and the Rio Grande and is NRHP listed (see previous investigations).
+Site 41ZP78 is a larger component related to the original settlement of Dolores
+further upstream. Both of these sites are located on a much higher terrace of
+the Rio Grande overlooking the current project. These do not overlap the
+current project and were not investigated.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+43
+
+Results of Field Investigations
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+44
+
+Conclusions and Recommendations
+
+CONCLUSIONS AND RECOMMENDATIONS
+Hicks & Company archeologists conducted an archeological survey along the
+Falcon Lake and Rio Grande shoreline in Zapata County, Texas, on behalf of the
+United States Section, International Boundary and Water Commission
+(USIBWC), El Paso, Texas (Figure 1). The project was conducted at the request
+of the USIBWC to satisfy archeological site inventory and eligibility
+determinations under Section 110 of the National Historic Preservation Act
+(NHPA). The project was conducted under USIBWC ARPA Permit No. 0014
+(Archeological Resources Protection Act) to enable survey on federal property.
+The project area extends from the Rio Grande at the Webb and Zapata County
+line, near Arroyo Dolores, downstream approximately 13.7 miles to just north of
+San Ygnacio, and from the United States jurisdictional boundary in the reservoir
+to the 307-foot traverse taking line.
+Hicks & Company archeologists surveyed approximately 624.89 acres within the
+proposed USIBWC study area. Much of the current project area within the 307
+foot traverse taking line boundary consist of narrow linear zones immediately
+adjacent to the Rio Grande. The immediate areas adjacent to the shoreline
+consisted of sterile, Rio Grande terrace scarp remnants highly disturbed by
+erosion and scour complicated by invasive vegetation. These scarp remnants
+are frequently flooded and severely erosional in this respect. These areas were
+considered to have a low probability for buried cultural resources and were
+subject to pedestrian survey and visual inspection. These areas were typically
+not shovel tested. Limited shovel tests were conducted in these areas to confirm
+ground disturbance and a lack of intact terrace sediments. All areas within the
+study area were identified as having either a high, moderate, or low probability
+for intact archeological sites. All undisturbed high and moderate probability
+areas were systematically shovel tested to explore for buried archeological
+deposits. No new archeological sites were documented within the proposed
+project area during the current study.
+One previously recorded archeological site (41ZP96) overlapping the project area
+was documented as disturbed by modern residential and agricultural
+development. No further Section 110 or 106 investigations or cultural resource
+coordination is recommended for 41ZP96 relative to the National Historic
+Preservation Act (NHPA).
+Four previously recorded archeological sites are located adjacent to but not
+overlapping the surveyed extent of the USIBWC property boundary (307 foot
+traverse). Three of these are Spanish Colonial ranch sites (41ZP74, 41ZP77, 78).
+Site 41ZP74 is the NRHP listed Corralitos Ranch. Site 41ZP77 is listed on the
+National Register of Historic Places (NRHP). These sites relate to the original
+Spanish settlement of the area and founding of the community of Dolores. Both
+sites (41ZP77 and 78) sit on the high terrace that overlooks relatively narrow
+stretches of the project area (307 foot traverse taking line) in the central and
+northern project area and neither intersects the current project. The Corralitos
+Ranch settlement (41ZP74) is located approximately 750 feet east of the
+USIBWC project area and does not overlap the project.
+Prehistoric Site 41ZP191 is located along an unnamed arroyo in the central
+project area adjacent to one eastern edge of the 307 foot traverse taking line.
+Investigators determined that the site does not extend into the current project
+area onto USIBWC property (307 foot traverse taking line). Project areas
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+45
+
+Conclusions and Recommendations
+
+adjacent to the mapped location of 41ZP191 were documented as heavily eroded,
+disturbed areas.
+A single archeological site (41ZP924) was observed and recorded adjacent to the
+proposed project area. Site 41ZP924 is a probable Late Prehistoric site and is
+situated on private land and USIBWC flood easement located between the 307
+and 314-foot traverse taking lines. Site 41ZP924 has the potential to contain
+intact buried cultural deposits.
+Subsurface testing is recommended to
+determine the vertical and horizontal extent of the site and determine the need
+for any further investigations relative to determining National Register of Historic
+Places (NRHP) eligibility status should there be any Section 106 undertakings
+resulting in ground disturbing impacts within the site area.
+High and moderate probability areas consist of relatively deep Rio Grande flood
+terrace deposits, with the potential for deeply buried prehistoric archeological
+sites. While shovel testing indicates there are no shallowly buried intact
+archeological sites in the project area, these deep Holocene age river terraces
+exhibit considerable potential to contain buried prehistoric archeological sites,
+based on terrain, setting, context and geomorphology, and on the presence of
+similarly documented sites in these settings in the region. It is the opinion of
+the Principal Investigators that all high and moderate probability areas as
+delineated in this report should be avoided and protected until the deeper
+deposits have been assessed with systematic backhoe trenching relative to
+Section 110 and Section 106 of the National Historic Preservation Act (NHPA).
+The two remaining unsurveyed portions of land within the 307 foot traverse
+taking line property boundary as delineated in this report should be surveyed for
+the presence of archeological sites relative to Section 110 and Section 106 of the
+National Historic Preservation Act (NHPA).
+It is the recommendation of the Principal Investigators that all identified
+disturbed and destroyed areas as mapped under the current investigations
+warrant no further archeological investigations nor any further archeology
+consideration under Section 110 or 106. There are no current USIBWC projects
+with proposed ground disturbing impacts below the immediate ground surface
+within the project area. All project related documents and materials will be
+professionally curated at the Center for Archeological Research (CAR) at the
+University of Texas-San Antonio in San Antonio, Texas.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+46
+
+References Cited
+
+REFERENCES CITED
+Black, Steven L.
+1989 Central Texas Plateau Prairie. In From the Gulf to the Rio Grande: Human Adaptation
+in Central, South, and Lower Pecos Texas, edited by Thomas R. Hester, Stephen L. Black,
+D. Gentry Steele, Ben W. Olive, Anne A. Fox, Karl J. Reinhard, and Leland C. Bement, pp.
+17-38. Arkansas Archeological Research Series No. 33. Arkansas Archeological Survey,
+Fayetteville, Arkansas.
+Cason, Joe F.
+1952 Report on Archeological Salvage in the Falcon Reservoir, Season of 1952. Bulletin of
+the Texas Archeological Society 23:218-259.
+Fleming, Sharon Elizabeth
+1998 Building La Frontera: The Form and Technology of Historic Ranch Architecture in
+Zapata County, Texas. Unpublished Masterâs Thesis, Department of Architecture, Texas
+Tech University, Lubbock.
+Fleming, Sharon E. and Timothy K. Perttula
+1999 San Jose de Corralitos, A Spanish Colonial Ranch in Zapata County, Texas.
+Bulletin of the Texas Archeological Society 70: 395-410.
+Frye, Roy
+1984 The Vegetation Types of Texas. Texas Parks & Wildlife Department, Austin, Texas.
+Galindo, Mary Jo
+2003 Con Un Pie En Cada Lado: Ethnicity and the Archaeology of Spanish Colonial
+Ranching Communities Along the Lower Rio Grande Valley. Unpublished Ph.D.
+dissertation, Department of Anthropology, University of Texas, Austin.
+Garza, Alicia A. and Christopher Long
+1996 Zapata County. In The New Handbook of Texas, Vol. 6, edited by Ron Tyler, Douglas
+E. Barnett, Roy R. Barkeley, Penelope C. Anderson, and Mark F. Odintz, pp. 1143-1145.
+Texas State Historical Association, Austin, Texas.
+2001 Zapata County. Electronic document,
+http://www.tsha.utexas.edu/handbook/online/, accessed February 2007.
+Gould, Frank W.
+1962 Texas Plants: A Checklist and Ecological Summary. Texas Agricultural Experiment
+Station, Texas A&M University, College Station, Texas.
+Groat, Charles. G.
+1976 Geologic Atlas of Texas: Laredo Sheet. Bureau of Economic Geology, The University
+of Texas at Austin, Austin.
+Hall, Grant D., Thomas R. Hester, and Stephen L. Black
+1986 The Prehistoric Sites at Choke Canyon Reservoir, Southern Texas: Results of Phase II
+Archaeological Investigations. Choke Canyon Series No. 10. Center for Archaeological
+Research, The University of Texas at San Antonio, San Antonio, Texas.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+47
+
+References Cited
+
+Hartle, Donald. D. and Robert L. Stephenson
+1951 Archaeological Excavations at the Falcon Reservoir, Starr County, Texas. River
+Basins Surveys, Smithsonian Institution. Manuscript on file at the Center for
+Archaeological Research, the University of Texas at San Antonio, San Antonio, Texas.
+Hester, Thomas R.
+1980 Digging into South Texas Prehistory. Corona Publishing, San Antonio, Texas.
+1995 The Prehistory of South Texas. Bulletin of the Texas Archeological Society 66:427Â­
+459.
+2004 The Prehistory of South Texas. In The Prehistory of Texas. edited by Timothy K.
+Perttula, pp. 127-151. Texas A&M University Press, College Station, Texas.
+Houk, Brett A. and James E. Warren
+1994 A Cultural Resources Survey of the Western Geophysical/Union Pacific Resources 3-D
+Seismic Exploration Project, Falcon International Reservoir, Zapata County, Texas. Report
+No. 399. Archaeology Consultants, Inc., George West, Texas.
+Inglis, Jack M.
+1964 A History of Vegetation on the Rio Grande Plains. Pittman-Robertson Project W-84Â­
+Texas, Bulletin No. 45. Texas Parks & Wildlife Department, Austin, Texas.
+Jelks, Edward B.
+1952 The River Basin Surveys Archaeological Salvage Program in Texas. The Texas
+Journal of Science 4(2):131-138.
+1953 The River Basin Surveys: Recent Archeological Investigations in Texas, Arkansas,
+and Kansas. The Texas Journal of Science 5(3):342-347.
+Karbula, James W., Brian King, and Matthew Stotts
+2006 Cultural Resource Survey of Selected Portions of the Northern and Central Unsurveyed
+Areas, International Falcon Dam and Reservoir Project, Zapata and Starr Counties, Texas.
+Prepared for International Boundary and Water Commission, U.S. Section, El Paso,
+Texas. Archeological Report Series No. 148. Hicks & Company, Austin, Texas.
+Krieger, Alex D. and Jack T. Hughes
+1950 Archaeological Salvage in the Falcon Reservoir Area. Progress Report No. 1. Prepared
+for the National Park Service, Austin, Texas by The University of Texas at Austin.
+Larkin, Thomas J. and George W. Bomar
+1983 Climatic Atlas of Texas. Publication No. LP-192, Texas Department of Water
+Resources, Austin.
+Lintz, Christopher and Mike Quigg
+1997 Cultural Resources Survey of the USA #1 Well Pad Alternatives 1 and 2, and
+Associated Pipeline Routes, Zapata County, Texas. TRC Mariah Associates, Inc., Austin,
+Texas.
+McCulloch, Samuel D. and James E. Warren
+1995a A Report on the Cultural Resources Survey of the Proposed Mustang Palmyra #2
+Pipeline, Zapata County, Texas. Report No. 438. Archaeology Consultants, Inc., George
+West, Texas.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+48
+
+References Cited
+
+1995b A Report on the Cultural Resources Survey of a Proposed Trans-Texas Gas
+Corporation Drilling Pad Site and Vicinity, Zapata County, Texas. Report No. 426.
+Archaeology Consultants, Inc., George West, Texas.
+1998 A Report on the Reconnaissance Survey of Cultural Resources at Falcon State Park,
+Zapata and Starr Counties, Texas. Report No. 482. Archaeology Consultants, Inc., George
+West, Texas.
+McCulloch, Samuel D., James E. Warren, J. Thomas Dureka, and Timothy K. Perttula
+2001 A Report on the Reconnaissance Survey of Cultural Resources on Lands Managed by
+the U.S. Section, International Boundary and Water Commission, Falcon Reservoir, Zapata
+and Starr Counties, Texas. Archaeology Consultants, Inc. Submitted to the United States
+Section, International Boundary and Water Commission, El Paso, Texas. Copies available
+from Archaeology Consultants, Inc., George West, Texas.
+2003 A Report on the Reconnaissance Survey of Cultural Resources on Lands Managed by
+the U.S. Section, International Boundary and Water Commission, Falcon Reservoir, Zapata
+and Starr Counties, Texas. Archaeology Consultants, Inc.. Submitted to the United States
+Section, International Boundary and Water Commission, El Paso, Texas. Copies available
+from Archaeology Consultants, Inc., George West, Texas.
+Meadows, Richard K., Christopher Ringstaff, Brandon Young, James T. Jones, and David O.
+Brown.
+2005 Cultural Resources Survey of Proposed Improvements to US 83 in Zapata & Starr
+Counties. Blanton and Associates, Inc., Austin, Texas.
+OâNeill, Patrick L., Fred M. Oglesby, W. Nicholas Trierweiler, and Christopher Lintz
+1992 A Cultural Resource Survey at Falcon Reservoir, Zapata County, Texas. Mariah and
+Associates, Inc.. Submitted to the United States Section, International Boundary and
+Water Commission, El Paso, Texas. Copies available from TRC Mariah, Austin, Texas.
+Parsons
+2002 Cultural Resources Reconnaissance Survey and Oral History Interviews for
+International Falcon Dam and Reservoir Project, Zapata and Starr Counties, Texas, Vol. I.
+Prepared for International Boundary and Water Commission, U.S. Section, El Paso,
+Texas. Parsons, Austin, Texas.
+2004 Cultural Resource Reconnaissance Survey for Selected Areas of the Central and
+Northern Unsurveyed Areas within International Falcon Dam and Reservoir Project Zapata
+and Starr Counties, Texas, Volume I: Report and Appendix A. Prepared for International
+Boundary and Water Commission, U.S. Section, El Paso, Texas. Parsons, Austin, Texas.
+Parsons and LopezGarcia Group
+2002 Cultural Resources Reconnaissance Survey and Oral History Interviews for
+International Falcon Dam and Reservoir Project, Zapata and Starr Counties, Texas.
+Parsons, Inc. and LopezGarcia Group. Submitted to the United States Section,
+International Boundary and Water Commission, El Paso, Texas. Copies available from
+Parsons, Austin, Texas.
+Perttula, Timothy K., Sergio A. Iruegas, and G. Lain Ellis
+1996 An Assessment of the Threatened Prehistoric and Historic Archeological Resources at
+Falcon Reservoir, Zapata and Starr Counties, Texas. CRM Report No. 9. Division of
+Antiquities Protection, Texas Historical Commission, Austin, Texas.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+49
+
+References Cited
+
+Quigg, J. Michael and Carlos Cordova
+1999 Archeological Investigations at Upland Sites 41ZP39 and 41ZP176 for Trans Texas
+Gas Well Site USA#3 Falcon Reservoir, Zapata County, Texas. TRC Technical Report No.
+22347. TRC Mariah Associates, Inc., Austin, Texas.
+2000 Data Recovery at 41ZP364: An Upland Campsite at Falcon Reservoir, Zapata County,
+Texas. TRC Technical Report No. 22317. TRC Mariah Associates, Inc., Austin, Texas.
+Salinas, Martin
+1990 Indians of the Rio Grande Delta. University of Texas Press, Austin, Texas.
+Sanchez, Mario L. (editor)
+1994 Shared Experience-The History, Architecture and Historic Designations of the Lower
+Rio Grande Heritage Corridor. Los Caminos del Rio Heritage Project and the Texas
+Historical Commission, Austin Texas.
+Suhm, Dee Ann, Alex D. Krieger, and Edward B. Jelks
+1954 Introductory Handbook of Texas Archeology.
+Society 25:27-562.
+
+Bulletin of the Texas Archeological
+
+Telfair II, Raymond C.
+1999 Ecological Regions of Texas: Description, Land Use, and Wildlife. In Texas Wildlife
+Resources and Land Uses, edited by R.C. Telfair II, pp. 1-39. University of Texas Press,
+Austin, Texas.
+Warren, James E.
+1992 A Cultural Resources Survey in the Inland Geophysical/Enron Oil and Gas
+Corporation Falcon Lake Prospect, Zapata County, Texas. Report No. 236. Archaeology
+Consultants, Inc., George West, Texas.
+1993 An Archeological Survey of a Portion of the Enron Old Zapata to Flores Lateral
+Petroleum Pipeline, Zapata County, Texas. Report No. 318. Archaeology Consultants, Inc.,
+George West, Texas.
+1994 A Cultural Resources Survey of a Portion of Mustang Oil and Gas Corporation LopeÃ±o
+Field 3:D Seismic Survey Project, Zapata County, Texas. Report No. 378. Archaeology
+Consultants, Inc., George West, Texas.
+1995 A Cultural Resources Survey of the New Harbor Lodge Boat Ramp Project in Falcon
+International Reservoir, Zapata County, Texas. Report No. 416. Archaeology Consultants,
+Inc., George West, Texas.
+Weddle, Robert S.
+1991 San Juan Bautista, Gateway to Spanish Texas. University of Texas Press,
+Austin, Texas.
+
+Archeological Survey â Falcon Reservoir 600 Acre Survey in Zapata County, Texas â August 2007
+
+50
+
+APPENDIX A
+PLATES 1 THROUGH 7
+
+RL 1
+
+DP 63
+
+RL 27
+
+SS 28
+
+DP 1
+
+SS 1
+
+DP 57
+
+MS 13
+
+DP 2
+
+SS 2
+
+MS 1
+
+DP 58
+
+RL 28
+
+MS 19
+
+MS 14
+
+DP 4
+
+SS 33
+
+SS 30
+
+DP 3
+
+RL 2
+
+MS 2
+
+RL 3
+
+SS 31
+
+DP 8
+
+RL 31
+
+AREA 1
+
+DP 60
+
+MS 3
+
+MS 16
+
+DP 7
+
+DP 62
+
+DP 59
+
+MS 15
+
+DP 5
+
+DP 6
+
+SS 3
+
+RL 4
+
+SS 4
+
+RL 29
+
+MS 18
+
+DP 11
+
+RL 5
+
+DP 10
+
+DP 61
+
+MS 17
+
+SS 32
+
+DP 9
+
+MS 4
+
+RL 30
+
+MS 5
+
+SS 5
+
+DP 12
+
+DP 14
+
+DP 13
+
+RL 6
+
+SS 6
+
+DP 15
+
+MS 6
+
+DP 16
+
+MS 7
+
+RL 7
+
+DP 18
+
+SS 7
+
+RL 9
+
+DP 21
+
+DP 20
+
+US Hwy 83
+
+DP 19
+
+RL 8
+
+DP 22
+
+SS 8
+
+DP 23
+
+RL 10
+
+MS 9
+
+SS 9
+
+DP 24
+
+RL 11
+
+DP 25
+
+SS 10
+
+41ZP74
+
+"
+)
+DP 26
+
+RL 12
+
+DP 27
+
+SS 11
+
+DP 28
+
+RL 13
+
+DP 29
+
+SS 12
+DP 30
+
+RL 14
+
+DP 31
+
+SS 13
+
+RL 15
+
+DP 33
+
+"
+)
+41ZP892
+
+DP 32
+
+SS 14
+
+DP 34
+
+DP 35
+
+RL 16
+
+DP 36
+
+SS 15
+
+DP 37
+
+DP 38
+
+RL 17
+
+0
+
+"
+)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Negative Shovel Test
+
+Access Point
+
+Access Route
+
+Archeological Site
+
+Unsurveyed Area Â­
+117.35 acres
+
+Low Probability / Disturbed /
+Destroyed Area Â­
+265.34 acres
+
+Moderate Probability Area Â­
+194.43 acres
+
+High Probability Area Â­
+165.12 acres
+
+307 Foot Traverse
+
+6
+
+7
+
+Lo ca to r Di ag ra m
+
+USIBWC Falcon
+Reservoir - 600 Acres
+Archeological
+Survey Area
+
+0
+
+PLATE 1
+
+Feet
+
+375
+
+Meters
+
+150
+
+750
+
+300
+
+W
+
+DP 36
+
+SS 15
+
+DP 37
+
+DP 38
+
+RL 17
+
+RL 18
+
+DP 39
+
+SS 17
+
+41ZP891
+
+SS 16
+
+DP 40
+
+DP 41
+
+RL 19
+
+SS 18
+
+DP 42
+
+RL 20
+
+DP 43
+
+SS 19
+
+DP 44
+
+DP 45
+
+RL 21
+
+SS 20
+
+DP 46
+
+DP 47
+
+RL 22
+
+SS 21
+
+DP 49
+
+SS 22
+
+DP 50
+
+41ZP890
+
+RL 41
+
+MS 28
+
+DP 77
+
+DP 76
+
+DP 64
+
+SS 34
+
+DP 75
+
+41ZP889
+
+SS 42
+
+RL 40
+
+SS 41
+
+"
+)
+
+RL 32
+
+MS 20
+
+DP 74
+
+SS 51
+
+DP 65
+
+RL 39
+
+RL 48
+
+RL 33
+
+SS 35
+
+MS 37
+
+MS 33
+
+MS 21
+
+MS 26
+
+DP 66
+
+SS 36
+
+SS 40
+
+DP 87
+
+DP 86
+
+DP 67
+
+MS 25
+
+MS 36
+
+DP 87
+
+MS 22
+
+RL 34
+DP 68
+
+MS 23
+SS 38
+
+DP 72
+
+RL 49
+
+DP 69
+
+SS 52
+
+DP 86
+
+RL 38
+
+MS 35
+
+US Hwy 83
+
+SS 37
+
+AREA 2
+
+DP 73
+
+SS 53
+
+SL 71
+
+RL 35
+DP 70
+
+MS 24
+
+SS 39
+
+RL 36
+
+RL 37
+
+DP 71
+
+0
+
+"
+)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Negative Shovel Test
+
+Access Point
+
+Access Route
+
+Archeological Site
+
+Unsurveyed Area Â­
+117.35 acres
+
+Low Probability / Disturbed /
+Destroyed Area Â­
+265.34 acres
+
+Moderate Probability Area Â­
+194.43 acres
+
+High Probability Area Â­
+165.12 acres
+
+307 Foot Traverse
+
+6
+
+7
+
+Lo ca to r Di ag ra m
+
+USIBWC Falcon
+Reservoir - 600 Acres
+Archeological
+Survey Area
+
+"
+)
+
+0
+
+PLATE 2
+
+Feet
+
+375
+
+Meters
+
+150
+
+750
+
+300
+
+W
+
+MS 25
+
+MS 36
+
+DP 87
+
+MS 22
+
+RL 34
+
+SS 37
+
+AREA 2
+
+SL 71
+
+DP 68
+
+MS 23
+
+SS 38
+
+DP 72
+
+RL 49
+
+DP 69
+
+SS 52
+
+DP 86
+
+RL 38
+
+MS 35
+
+RL 35
+
+DP 70
+
+MS 24
+
+SS 39
+
+RL 36
+
+RL 37
+
+DP 71
+
+41ZP96
+
+"
+)
+
+"
+)
+
+RL 23
+
+DP 51
+
+SS 23
+
+SS 24
+RL 25
+DP 53
+
+41ZP888
+
+SS 25
+DP 54
+SS 26
+MS 11
+DP 55
+SS 27
+RL 26
+
+MS 12
+
+DP 56
+
+SS 28
+
+41ZP887
+
+US Hwy 83
+
+0
+
+"
+)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Negative Shovel Test
+
+Access Point
+
+Access Route
+
+Archeological Site
+
+Unsurveyed Area Â­
+117.35 acres
+
+Low Probability / Disturbed /
+Destroyed Area Â­
+265.34 acres
+
+Moderate Probability Area Â­
+194.43 acres
+
+High Probability Area Â­
+165.12 acres
+
+307 Foot Traverse
+
+6
+
+7
+
+Lo ca to r Di ag ra m
+
+USIBWC Falcon
+Reservoir - 600 Acres
+Archeological
+Survey Area
+
+"
+)
+
+0
+
+PLATE 3
+
+Feet
+
+375
+
+Meters
+
+150
+
+750
+
+300
+
+W
+
+41ZP887
+
+41ZP191
+
+RL 44
+
+US Hw y 83
+
+MS 30
+
+41ZP886
+
+DP 80
+
+RL 43
+
+SS 45
+
+DP 79
+
+MS 29
+
+SS 44
+
+DP 78
+
+RL 42
+
+SS 43
+
+SS 46
+
+SS 47
+
+RL 45
+
+DP 81
+
+0
+
+"
+)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Negative Shovel Test
+
+Access Point
+
+Access Route
+
+Archeological Site
+
+Unsurveyed Area Â­
+117.35 acres
+
+Low Probability / Disturbed /
+Destroyed Area Â­
+265.34 acres
+
+Moderate Probability Area Â­
+194.43 acres
+
+High Probability Area Â­
+165.12 acres
+
+307 Foot Traverse
+
+6
+
+7
+
+Lo ca to r Di ag ra m
+
+USIBWC Falcon
+Reservoir - 600 Acres
+Archeological
+Survey Area
+
+"
+)
+
+0
+
+PLATE 4
+
+Feet
+
+375
+
+Meters
+
+150
+
+750
+
+300
+
+W
+
+SS 46
+
+SS 47
+
+"
+)
+
+RL 45
+
+DP 81
+
+SS 48
+
+41ZP885
+
+RL 46
+
+SS 49
+
+MS 31
+
+RL 55
+
+US Hwy
+83
+
+MS 32
+
+RL 48
+
+DP 83
+
+SS 50
+
+RL 47
+
+SS 59
+
+DP 95
+
+41ZP77
+
+MS 42
+
+DP 94
+
+DP 93
+RL 54
+
+DP 92
+SS 58
+
+RL 52
+MS 40
+
+SS 56
+
+DP 90 RL 53
+
+SS 57
+
+SS 55
+
+MS 39
+
+DP 88
+
+DP 89
+
+RL 50
+
+MS 38
+
+DP 99
+
+DP 98
+
+41ZP924
+
+DP 100
+
+RL 57
+
+41ZP150
+
+41ZP35
+
+0
+
+"
+)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Negative Shovel Test
+
+Access Point
+
+Access Route
+
+Archeological Site
+
+Unsurveyed Area Â­
+117.35 acres
+
+Low Probability / Disturbed /
+Destroyed Area Â­
+265.34 acres
+
+Moderate Probability Area Â­
+194.43 acres
+
+High Probability Area Â­
+165.12 acres
+
+307 Foot Traverse
+
+6
+
+7
+
+Lo ca to r Di ag ra m
+
+USIBWC Falcon
+Reservoir - 600 Acres
+Archeological
+Survey Area
+
+0
+
+"
+)
+
+"
+)
+
+PLATE 5
+
+Feet
+
+375
+
+Meters
+
+150
+
+750
+
+300
+
+W
+
+1ZP77
+
+RL 54
+
+DP 92
+
+SS 58
+
+RL 52
+
+SS 57
+
+MS 40
+
+SS 56
+
+DP 90 RL 53
+
+SS 55
+
+MS 39
+
+DP 88
+
+DP 89
+
+MS 38
+
+RL 50
+
+DP 99
+
+DP 98
+
+41ZP924
+
+DP 100
+
+RL 57
+
+DP 97
+
+DP 96
+
+RL 56
+
+SS 60
+
+SS 61
+
+RL 58
+
+41ZP78
+
+SS 61
+
+0
+
+"
+)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Negative Shovel Test
+
+Access Point
+
+Access Route
+
+Archeological Site
+
+Unsurveyed Area Â­
+117.35 acres
+
+Low Probability / Disturbed /
+Destroyed Area Â­
+265.34 acres
+
+Moderate Probability Area Â­
+194.43 acres
+
+High Probability Area Â­
+165.12 acres
+
+307 Foot Traverse
+
+6
+
+7
+
+Lo ca to r Di ag ra m
+
+USIBWC Falcon
+Reservoir - 600 Acres
+Archeological
+Survey Area
+
+0
+
+"
+)
+
+PLATE 6
+
+Feet
+
+375
+
+Meters
+
+150
+
+750
+
+300
+
+W
+
+RL 59
+
+41ZP78
+
+P
+CO
+
+SS 61
+
+ZA
+A
+AT
+T
+UN
+
+RL 58
+
+B
+TY
+
+RL 60
+
+W
+EB
+C
+N
+OU
+0
+
+"
+)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Negative Shovel Test
+
+Access Point
+
+Access Route
+
+Archeological Site
+
+Unsurveyed Area Â­
+117.35 acres
+
+Low Probability / Disturbed /
+Destroyed Area Â­
+265.34 acres
+
+Moderate Probability Area Â­
+194.43 acres
+
+High Probability Area Â­
+165.12 acres
+
+307 Foot Traverse
+
+6
+
+7
+
+Lo ca to r Di ag ra m
+
+USIBWC Falcon
+Reservoir - 600 Acres
+Archeological
+Survey Area
+
+Y
+
+"
+)
+
+0
+
+PLATE 7
+
+Feet
+
+375
+
+Meters
+
+150
+
+750
+
+300
+
+W
+
+RL 1
+
+DP 63
+
+RL 27
+
+SS 28
+
+DP 1
+
+SS 1
+
+DP 57
+
+MS 13
+
+DP 2
+
+SS 2
+
+MS 1
+
+DP 58
+
+RL 28
+
+MS 19
+
+MS 14
+
+DP 4
+
+SS 33
+
+SS 30
+
+DP 3
+
+RL 2
+
+MS 2
+
+RL 3
+
+SS 31
+
+DP 8
+
+RL 31
+
+AREA 1
+
+DP 60
+
+MS 3
+
+MS 16
+
+DP 7
+
+DP 62
+
+DP 59
+
+MS 15
+
+DP 5
+
+DP 6
+
+SS 3
+
+RL 4
+
+SS 4
+
+RL 29
+
+MS 18
+
+DP 11
+
+RL 5
+
+DP 10
+
+DP 61
+
+MS 17
+
+SS 32
+
+DP 9
+
+MS 4
+
+RL 30
+
+MS 5
+
+SS 5
+
+DP 12
+
+DP 14
+
+DP 13
+
+RL 6
+
+SS 6
+
+DP 15
+
+MS 6
+
+DP 16
+
+MS 7
+
+RL 7
+
+DP 18
+
+SS 7
+
+DP 19
+
+RL 8
+
+RL 9
+
+DP 21
+
+DP 20
+
+DP 22
+
+SS 8
+
+DP 23
+
+RL 10
+
+MS 9
+
+SS 9
+
+DP 24
+
+RL 11
+
+DP 25
+
+SS 10
+
+41ZP74
+
+"
+)
+DP 26
+
+RL 12
+
+DP 27
+
+SS 11
+
+DP 28
+
+RL 13
+
+DP 29
+
+SS 12
+DP 30
+
+RL 14
+
+DP 31
+
+SS 13
+
+DP 32
+
+RL 15
+
+DP 33
+
+"
+)
+41ZP892
+
+SS 14
+
+DP 34
+
+DP 35
+
+RL 16
+
+DP 36
+
+SS 15
+
+DP 37
+
+DP 38
+
+RL 17
+
+0
+
+"
+)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Negative Shovel Test
+
+Access Point
+
+Access Route
+
+Archeological Site
+
+Unsurveyed Area Â­
+117.35 acres
+
+Low Probability / Disturbed /
+Destroyed Area Â­
+265.34 acres
+
+Moderate Probability Area Â­
+194.43 acres
+
+High Probability Area Â­
+165.12 acres
+
+307 Foot Traverse
+
+6
+
+7
+
+Lo ca to r Di ag ra m
+
+USIBWC Falcon
+Reservoir - 600 Acres
+Archeological
+Survey Area
+
+0
+
+PLATE 1
+
+Feet
+
+375
+
+Meters
+
+150
+
+750
+
+300
+
+W
+
+DP 36
+
+SS 15
+
+DP 37
+
+DP 38
+
+RL 17
+
+RL 18
+
+DP 39
+
+SS 17
+
+41ZP891
+
+SS 16
+
+DP 40
+
+DP 41
+
+RL 19
+
+SS 18
+
+DP 42
+
+RL 20
+
+DP 43
+
+SS 19
+
+DP 44
+
+DP 45
+
+RL 21
+
+SS 20
+
+DP 46
+
+DP 47
+
+RL 22
+
+SS 21
+
+DP 49
+
+SS 22
+
+DP 50
+
+41ZP890
+
+RL 41
+
+MS 28
+
+DP 77
+
+DP 76
+
+DP 64
+
+SS 34
+
+DP 75
+
+41ZP889
+
+SS 42
+
+RL 40
+
+SS 41
+
+"
+)
+
+RL 32
+
+MS 20
+
+DP 74
+
+SS 51
+
+DP 65
+
+RL 39
+
+RL 48
+
+RL 33
+
+SS 35
+
+MS 37
+
+MS 33
+
+MS 21
+
+MS 26
+
+DP 66
+
+SS 36
+
+SS 40
+
+DP 87
+
+DP 86
+
+DP 67
+
+MS 25
+
+MS 36
+
+DP 87
+
+MS 22
+
+RL 34
+
+SS 37
+
+AREA 2
+
+DP 73
+
+SS 53
+
+SL 71
+
+DP 68
+
+MS 23
+SS 38
+
+DP 72
+
+RL 49
+
+DP 69
+
+SS 52
+
+DP 86
+
+RL 38
+
+MS 35
+
+RL 35
+DP 70
+
+MS 24
+
+SS 39
+
+RL 36
+
+RL 37
+
+DP 71
+
+0
+
+"
+)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Negative Shovel Test
+
+Access Point
+
+Access Route
+
+Archeological Site
+
+Unsurveyed Area Â­
+117.35 acres
+
+Low Probability / Disturbed /
+Destroyed Area Â­
+265.34 acres
+
+Moderate Probability Area Â­
+194.43 acres
+
+High Probability Area Â­
+165.12 acres
+
+307 Foot Traverse
+
+6
+
+7
+
+Lo ca to r Di ag ra m
+
+USIBWC Falcon
+Reservoir - 600 Acres
+Archeological
+Survey Area
+
+"
+)
+
+0
+
+PLATE 2
+
+Feet
+
+375
+
+Meters
+
+150
+
+750
+
+300
+
+W
+
+MS 25
+
+MS 36
+
+DP 87
+
+MS 22
+
+RL 34
+
+SS 37
+
+AREA 2
+
+SL 71
+
+DP 68
+
+MS 23
+
+SS 38
+
+DP 72
+
+RL 49
+
+DP 69
+
+SS 52
+
+DP 86
+
+RL 38
+
+MS 35
+
+RL 35
+
+DP 70
+
+MS 24
+
+SS 39
+
+RL 36
+
+RL 37
+
+DP 71
+
+41ZP96
+
+"
+)
+
+"
+)
+
+RL 23
+
+DP 51
+
+SS 23
+
+SS 24
+DP 53
+
+41ZP888
+
+RL 25
+SS 25
+DP 54
+SS 26
+MS 11
+DP 55
+SS 27
+RL 26
+
+MS 12
+
+DP 56
+
+SS 28
+
+41ZP887
+
+0
+
+"
+)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Negative Shovel Test
+
+Access Point
+
+Access Route
+
+Archeological Site
+
+Unsurveyed Area Â­
+117.35 acres
+
+Low Probability / Disturbed /
+Destroyed Area Â­
+265.34 acres
+
+Moderate Probability Area Â­
+194.43 acres
+
+High Probability Area Â­
+165.12 acres
+
+307 Foot Traverse
+
+6
+
+7
+
+Lo ca to r Di ag ra m
+
+USIBWC Falcon
+Reservoir - 600 Acres
+Archeological
+Survey Area
+
+"
+)
+
+0
+
+PLATE 3
+
+Feet
+
+375
+
+Meters
+
+150
+
+750
+
+300
+
+W
+
+41ZP887
+
+41ZP191
+
+RL 44
+
+41ZP886
+
+DP 80
+
+MS 30
+
+RL 43
+
+SS 45
+
+DP 79
+
+MS 29
+
+SS 44
+
+DP 78
+
+RL 42
+
+SS 43
+
+SS 46
+
+SS 47
+
+RL 45
+
+DP 81
+
+0
+
+"
+)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Negative Shovel Test
+
+Access Point
+
+Access Route
+
+Archeological Site
+
+Unsurveyed Area Â­
+117.35 acres
+
+Low Probability / Disturbed /
+Destroyed Area Â­
+265.34 acres
+
+Moderate Probability Area Â­
+194.43 acres
+
+High Probability Area Â­
+165.12 acres
+
+307 Foot Traverse
+
+6
+
+7
+
+Lo ca to r Di ag ra m
+
+USIBWC Falcon
+Reservoir - 600 Acres
+Archeological
+Survey Area
+
+"
+)
+
+0
+
+PLATE 4
+
+Feet
+
+375
+
+Meters
+
+150
+
+750
+
+300
+
+W
+
+SS 46
+
+SS 47
+
+"
+)
+
+RL 45
+
+DP 81
+
+SS 48
+
+41ZP885
+
+RL 46
+
+SS 49
+
+MS 31
+
+RL 55
+
+MS 32
+
+RL 48
+
+DP 83
+
+SS 50
+
+RL 47
+
+SS 59
+
+DP 95
+
+41ZP77
+
+MS 42
+
+DP 94
+
+DP 93
+RL 54
+
+DP 92
+SS 58
+
+RL 52
+MS 40
+
+SS 56
+
+DP 90 RL 53
+
+SS 57
+
+SS 55
+
+MS 39
+
+DP 88
+
+DP 89
+
+RL 50
+
+MS 38
+
+DP 99
+
+DP 98
+
+41ZP924
+
+DP 100
+
+RL 57
+
+41ZP150
+
+41ZP35
+
+0
+
+"
+)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Negative Shovel Test
+
+Access Point
+
+Access Route
+
+Archeological Site
+
+Unsurveyed Area Â­
+117.35 acres
+
+Low Probability / Disturbed /
+Destroyed Area Â­
+265.34 acres
+
+Moderate Probability Area Â­
+194.43 acres
+
+High Probability Area Â­
+165.12 acres
+
+307 Foot Traverse
+
+6
+
+7
+
+Lo ca to r Di ag ra m
+
+USIBWC Falcon
+Reservoir - 600 Acres
+Archeological
+Survey Area
+
+0
+
+"
+)
+
+"
+)
+
+PLATE 5
+
+Feet
+
+375
+
+Meters
+
+150
+
+750
+
+300
+
+W
+
+1ZP77
+
+RL 54
+
+DP 92
+
+SS 58
+
+RL 52
+
+SS 57
+
+MS 40
+
+SS 56
+
+DP 90 RL 53
+
+SS 55
+
+MS 39
+
+DP 88
+
+DP 89
+
+MS 38
+
+RL 50
+
+DP 99
+
+DP 98
+
+41ZP924
+
+DP 100
+
+RL 57
+
+DP 97
+
+DP 96
+
+RL 56
+
+SS 60
+
+SS 61
+
+RL 58
+
+41ZP78
+
+SS 61
+
+0
+
+"
+)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Negative Shovel Test
+
+Access Point
+
+Access Route
+
+Archeological Site
+
+Unsurveyed Area Â­
+117.35 acres
+
+Low Probability / Disturbed /
+Destroyed Area Â­
+265.34 acres
+
+Moderate Probability Area Â­
+194.43 acres
+
+High Probability Area Â­
+165.12 acres
+
+307 Foot Traverse
+
+6
+
+7
+
+Lo ca to r Di ag ra m
+
+USIBWC Falcon
+Reservoir - 600 Acres
+Archeological
+Survey Area
+
+0
+
+"
+)
+
+PLATE 6
+
+Feet
+
+375
+
+Meters
+
+150
+
+750
+
+300
+
+W
+
+RL 59
+
+41ZP78
+
+P
+CO
+
+SS 61
+
+ZA
+A
+AT
+T
+UN
+
+RL 58
+
+B
+TY
+
+RL 60
+
+W
+EB
+C
+N
+OU
+0
+
+"
+)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Negative Shovel Test
+
+Access Point
+
+Access Route
+
+Archeological Site
+
+Unsurveyed Area Â­
+117.35 acres
+
+Low Probability / Disturbed /
+Destroyed Area Â­
+265.34 acres
+
+Moderate Probability Area Â­
+194.43 acres
+
+High Probability Area Â­
+165.12 acres
+
+307 Foot Traverse
+
+6
+
+7
+
+Lo ca to r Di ag ra m
+
+USIBWC Falcon
+Reservoir - 600 Acres
+Archeological
+Survey Area
+
+Y
+
+"
+)
+
+0
+
+PLATE 7
+
+Feet
+
+375
+
+Meters
+
+150
+
+750
+
+300
+
+W
+
+APPENDIX B
+GIS DATA DISC
+
+

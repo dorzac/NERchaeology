@@ -1,0 +1,1723 @@
+CULTURAL RESOURCES REPORT
+
+Cultural Resources Survey of the Southwest Campus Expansion 2 Project,
+Dallas Fort Worth International Airport, Tarrant County, Texas
+
+Prepared for:
+Texas Historical Commission
+Texas Antiquities Permit #8352
+
+On Behalf of:
+Dallas Fort Worth International Airport
+
+July 2018
+
+This page intentionally left blank
+
+Cultural Resources Survey of the
+Southwest Campus Expansion 2,
+Dallas Fort Worth International Airport,
+Tarrant County, Texas
+by
+Anne Gibson, MA, RPA
+Project Archeologist,
+Kevin Stone, MA, RPA
+Principal Investigator,
+Christopher Goodmaster, MA, RPA
+Principal Investigator,
+&
+Thomas Chapman, MA
+Project Archeologist
+
+Submitted to:
+
+Texas Historical Commission
+1511 Colorado Street
+Austin, Texas 78701
+
+Prepared by:
+
+Integrated Environmental Solutions, LLC
+610 Elm Street, Suite #300
+McKinney, Texas 75069
+
+Cultural Resources Report
+July 2018
+
+This page intentionally left blank
+
+ABSTRACT
+This report documents the substantive findings and management recommendations of a
+cultural resources survey conducted by Integrated Environmental Solutions, LLC (IES)
+for the Southwest Campus Expansion 2 project located within the Dallas Fort Worth
+International Airport (DFW) property in Tarrant County, Texas. The proposed project
+pertains to the development of approximately 42.7 acres (ac) adjacent to the intersection
+of West Airfield Drive and East Mid Cities Boulevard. Approval from the Federal
+Aviation Administration (FAA) will be required to modify the Airport Layout Plan
+(ALP) to reflect the permanent alterations on the DFW property. Since the ALP is
+considered a federal action, the project will require compliance with the National
+Environmental Policy Act and Section 106 of the National Historic Preservation Act.
+Additionally, as the DFW is a political subdivision of the State of Texas, the project will
+be subjected to the provisions of the Antiquities Code of Texas (ACT).
+The goal of the survey was to locate, identify, and assess any cultural resources that could
+be adversely affected by the proposed development, and to evaluate such resources for
+their potential eligibility for listing as a State Antiquities Landmark (SAL) and eligibility
+for listing in the National Register of Historic Places (NRHP).
+The cultural resources inventory survey was conducted by archeologists Thomas
+Chapman and Anne Gibson on 13 and 14 March 2018 under Antiquities Permit No. 8352.
+All work conformed to 13 Texas Administrative Code 26, which outlines the regulations
+for implementing the ACT. During the survey, one newly recorded historic-age
+archeological site (41TR312) was documented within the APE. Based on the degree of
+prior disturbance and lack of contextual integrity, site 41TR312 is not recommended to
+be eligible for listing on the NRHP or designation as a SAL.
+No artifacts were collected as part of this survey. All records will be temporarily curated
+at the IES McKinney office and permanently curated at the Texas Archeological
+Research Laboratory (TARL). No further work is warranted. However, if any cultural
+resources are encountered during construction, the operators should stop construction
+activities, and immediately contact the project environmental representative to initiate
+coordination with the Texas Historical Commission (THC) prior to resuming any
+construction activities.
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page i
+
+This page intentionally left blank
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page ii
+
+TABLE OF CONTENTS
+ABSTRACT................................................................................................................................................... i
+CHAPTER 1: PROJECT DESCRIPTION ................................................................................................... 1
+1.1 Introduction ......................................................................................................................................... 1
+1.2 Area of Potential Effects ..................................................................................................................... 1
+Direct APE ................................................................................................................................... 1
+Indirect APE................................................................................................................................. 4
+1.3 Administrative Information ................................................................................................................ 4
+CHAPTER 2: ENVIRONMENTAL BACKGROUND................................................................................ 5
+2.1 Environmental Setting ........................................................................................................................ 5
+Climate ......................................................................................................................................... 5
+Topographic Setting ..................................................................................................................... 5
+Geology and Vegetation............................................................................................................... 5
+Soils.............................................................................................................................................. 5
+CHAPTER 3: CULTURAL BACKGROUND ............................................................................................. 9
+3.1 Previous Investigations ....................................................................................................................... 9
+3.2 Cultural Resources Potential ............................................................................................................... 9
+Direct APE ................................................................................................................................. 12
+Indirect APE Resource Potential................................................................................................ 13
+CHAPTER 4: METHODOLOGY .............................................................................................................. 15
+4.1 Survey Methods ................................................................................................................................ 15
+Shovel Testing ........................................................................................................................... 15
+Archival Research ...................................................................................................................... 15
+Site Recording ............................................................................................................................ 17
+4.2 Site Evaluation .................................................................................................................................. 17
+National Register Evaluation Criteria ........................................................................................ 17
+State Antiquities Landmark Evaluation Criteria ........................................................................ 18
+4.3 Curation............................................................................................................................................. 19
+CHAPTER 5: RESULTS ............................................................................................................................ 21
+5.1 Archeological Survey........................................................................................................................ 21
+Prior Ground Disturbances......................................................................................................... 21
+Pedestrian Survey and Shovel Testing ....................................................................................... 21
+5.2 Encountered Resources ..................................................................................................................... 23
+41TR312 .................................................................................................................................... 23
+CHAPTER 6: SUMMARY AND RECOMMENDATIONS ..................................................................... 27
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page iii
+
+CHAPTER 7: REFERENCES CITED ....................................................................................................... 29
+
+LIST OF FIGURES
+Figure 1.1: General Project Location ...............................................................................................2
+Figure 1.2: Topographic Setting ......................................................................................................3
+Figure 2.1: Geological Setting ........................................................................................................6
+Figure 2.2: Soils Located within and Adjacent to the APE ............................................................7
+Figure 3.1: Previous Investigations within 1 Mile of the APE .....................................................10
+Figure 3.2: Archeological Environmental Zone Map ...................................................................14
+Figure 4.1: High Probability Areas Map........................................................................................16
+Figure 5.1: Shovel Test Location Map ..........................................................................................22
+Figure 5.5: Site 41TR312 Plan Map ..............................................................................................24
+LIST OF TABLES
+Table 2.1: Soils within the APE ................................................................................................................... 8
+Table 3.1: Previous Archeological Surveys within the APE ....................................................................... 9
+Table 3.2: Previous Archeological Surveys within 1 Mile of the APE...................................................... 11
+Table 3.3: Previously Recorded Archeological Sites within 1 Mile of the APE ....................................... 11
+Table 5.1: 41TR312 Chain-of-Title ............................................................................................................ 25
+Table 6.1: Summary of NRHP/SAL Eligibility Recommendations ........................................................... 27
+
+APPENDICES
+Appendix A â Photograph Location Map and Photographs (Restricted Information)
+Appendix B â Archeological Site Location Map (Restricted Information)
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page iv
+
+CHAPTER 1: PROJECT DESCRIPTION
+This report presents the results of a cultural resources survey conducted by Integrated Environmental
+Solutions, LLC (IES), under subcontract to the Dallas Fort Worth International Airport (DFW). A
+description of the proposed project area or Area of Potential Effects (APE), environmental and historical
+contexts, field and analytical methods, results of the investigations, and recommendations regarding the
+identified cultural resources are provided in this document. Prepared in accordance with the Council of
+Texas Archeologists (CTA 2002) guidelines, this report satisfies the requirements of Section 106 of
+National Historic Preservation Act (NHPA) and the Antiquities Code of Texas (ACT) for the proposed
+project.
+
+1.1 Introduction
+As the project cultural resources consultant for the DFW, IES performed an intensive cultural resources
+survey for the Southwest Campus Expansion 2 project. The proposed project pertains to the development
+of two tracts of land within the DFW property in Tarrant County, Texas (Figures 1.1 and 1.2). Approval
+will be required from the Federal Aviation Administration (FAA) to modify the Airport Layout Plan
+(ALP) that will reflect the permanent alterations to the DFW property. Since this is considered a federal
+action, the project will consequently require compliance with the National Environmental Policy Act
+(NEPA) and Section 106 of the NHPA. In addition, as the DFW is a political subdivision of the State of
+Texas, the project will be subjected to the provisions of the ACT.
+This report documents the cultural resources survey conducted in support of the proposed project. The
+purpose of these investigations was to conduct an inventory of cultural resources (as defined by Code of
+Federal Regulations, Title 36, Section 800.4 [36 CFR 800.4]) present within the proposed project area and
+to evaluate identified resources for their eligibility for inclusion in the National Register of Historic
+Places (NRHP), as per Section 106 (36 CFR 800) of the NHPA of 1966, as amended, or for designation
+as State Antiquities Landmarks (SAL) under the ACT (Texas Natural Resources Code, Title 9, Chapter
+191 [9 TNRC 191]) and associated state regulations (Texas Administrative Code, Title 13, Chapter 26 [13
+TAC 26]). All investigations were conducted in accordance with 36 CFR 60.4 and 13 TAC 26, which
+outline the regulations for implementing Section 106 of the NHPA and the ACT, respectively. This
+survey was conducted under Antiquities Permit No. 8352.
+
+1.2 Area of Potential Effects
+Direct APE
+The direct APE for the project encompasses a total of approximately 42.7 acres (ac) divided into two
+tracts near West Airfield Drive. The 28.3-ac tract is situated west of West Airfield Drive and is located at
+the northwest corner of the intersection of East Mid Cities Boulevard and West Airfield Drive. The 14.4ac tract is located on the east side of West Airfield Drive and at the northeast corner of the intersection of
+Southwest Construction Road and West Airfield Drive. Although the final project designs were not
+available at the time of this report, preliminary designs call for an extension of a campus located within
+the southwest quadrant of the airport. Ground disturbances associated with tree removal, grading, utility
+installation, and paving are anticipated for this project. Although the extent of subsurface impacts is
+unknown at this point, field investigations assessed to the depth of soils capable of containing cultural
+resources.
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 1
+
+Figure 1.1: General Project Location
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 2
+
+Figure 1.2: Topographic Setting
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 3
+
+Indirect APE
+As the project will require approval from the FAA, an assessment of indirect effects is required to comply
+with the NHPA. The sole potential indirect effect of the undertaking was related to visual effects
+associated with the construction of multiple above-ground buildings and structures. To account for
+potential visual impacts associated with these above-ground elements, a 300-foot (ft) indirect APE was
+considered surrounding the direct APE. Thus, any standing structure or building of historical age within
+the direct and indirect APE was photographed and assessed for potential NRHP eligibility.
+
+1.3 Administrative Information
+Sponsor: DFW
+Review Agency: Texas Historical Commission (THC)
+Principal Investigator: Christopher Goodmaster, MA, RPA
+IES Project Number: 03.006.061
+Days of Field Work: 13 and 14 March 2018
+Area Surveyed: 42.7 ac
+Resources Recommended Eligible for NRHP Under 36 CFR 60.4: None
+Resources Recommended Not Eligible for NRHP Under 36 CFR 60.4: 41TR312
+Resources Recommended Eligible for SAL Under 13 TAC 26: None
+Resources Recommended Not Eligible for SAL Under 13 TAC 26: 41TR312
+Curation Facility: No artifacts were collected. Field notes and project records will be temporarily
+curated at the IES office in McKinney and permanently curated at TARL.
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 4
+
+CHAPTER 2: ENVIRONMENTAL BACKGROUND
+2.1 Environmental Setting
+Climate
+Tarrant County is located in the north central portion of the State of Texas. This region has a humid
+subtropical climate and an average annual rainfall ranging from approximately 35 to 40 inches (in; 89 to
+102 centimeters [cm]). About half of the rain usually falls between April and May, with July and August
+being the two driest months of the year. The subtropical region tends to have a relatively mild year-round
+temperature with the occasional exceedingly hot and cold snaps (Estaville and Earl 2008).
+Topographic Setting
+Overall, the majority of the DFW is located within a gently rolling upland setting that is irregularly
+dissected by the headwaters of unnamed tributaries of surrounding streams. The transition of the gently
+sloping upland ridges to the low-lying Big Bear Creek valley floor correlates to a transition from the more
+stable, clay-rich Blackland Prairie soils to the more erosive, sandy soils of the Cross Timbers ecological
+region. The APE is located along the upland terraces of Big Bear Creek and on the western slope of a
+ridgeline. Big Bear Creek dissects the northwestern corner of the 28.3-ac tract of the APE and
+confluences with Bear Creek approximately 0.52 mi south of the APE (see Figure 1.2). Elevations
+within the APE range from 500 to 560 ft (152 to 171 m) above modern sea level (amsl).
+Geology and Vegetation
+The DFW property is located within an environmental interface, known as an ecotone, between the
+Northern Blackland Prairie and Eastern Cross Timbers ecoregions (McGowen et al. 1987). Variation
+among each ecoregion is a direct result of the underlying regional geology (Diggs et al. 1999). The
+Blackland Prairie occupies the Eagle Ford Formation (Kef) while the Woodbine Formation (Kwb)
+typically underlies the Cross Timbers. The natural divide between these two geological formations
+parallels Big Bear Creek, which extends from the northwest to the southeast through the western portion
+of the DFW property.
+The APE is located within the Northern Blackland Prairie of the Texas Blackland Prairie ecoregion. This
+area is distinguished from surrounding regions by the gently rolling hills and fine-textured, black clayey
+soils and prairie vegetation (Griffith et al. 2007). Vertisols dominate the Blackland Prairie ecoregion and
+consist of high clay content soils that have significant shrink and swell potential (Ressel 1981). Most of
+the prairie has been converted to cropland, non-native pasture, and expanding urban uses. Historical
+vegetation included little bluestem, big bluestem, yellow Indiangrass, and tall dropseed. The APE is
+underlain by the Cretaceous-age Woodbine Formation (Figure 2.1). The Woodbine Formation underlies
+the Eagle Ford Formation and is primarily sandstone and contains a small percentage of siltstone,
+mudstone, and clay (USGS 2018).
+Soils
+As shown by the Soil Survey of Tarrant County, Texas, there are six mapped soil units within the APE
+(Ressel 1981; Figure 2.2; Table 2.1). Approximately 84 percent of the APE contains soils typical of
+upland landforms while 16 percent of the APE contains soils typical of fluvial settings. Soils located
+within the 28.3-ac tract contained loam or sandy loam soils commonly associated with the Eastern Cross
+Timbers ecoregion while the 14.4-ac tract primarily contained clay soils found in the Northern Blackland
+Prairie ecoregion. Soil data was viewed from the U.S. Department of Agriculture (USDA) Natural
+Resources Conservation Service (NRCS) Web Soil Survey (USDA 2018).
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 5
+
+Figure 2.1: Geological Setting
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 6
+
+Figure 2.2: Soils Located within and Adjacent to the APE
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 7
+
+Table 2.1: Soils within the APE
+Approximate
+Percentage
+of the APE
+
+Soil Map Unit Description
+12 - Birome-Aubrey-Rayex complex, 5 to 15 percent slopes - This component is described as gravelly fine sandy
+loam located on ridges. Depth to a root restrictive layer or bedrock is 20 to 40 in to paralithic bedrock. The natural
+drainage class is well drained.
+21 - Crosstell fine sandy loam, 1 to 3 percent slopes - This component is described as fine sandy loam located on
+ridges. Depth to a root restrictive layer or bedrock is 40 to 60 in to densic bedrock. The natural drainage class is
+moderately well drained.
+34 - Houston Black clay, 1 to 3 percent slopes â This component is described as clay located on ridges. Depth to a
+root restrictive layer or bedrock is more than 80 inches. The natural drainage class is moderately well drained.
+50 â Navo clay loam, 1 to 3 percent slopes â This component is described as clay loam located on ridges. Depth to a
+root restrictive layer or bedrock is more than 80 inches. The natural drainage class in moderately well drained.
+70 - Silawa fine sandy loam, 3 to 8 percent slopes - This component is described as fine sandy loam located on
+stream terraces. Depth to a root restrictive layer or bedrock is more than 80 in. The natural drainage class is well
+drained.
+83 - Whitesboro loam, frequently flooded - This component is described as loam located on floodplains. Depth to a
+root restrictive layer or bedrock is more than 80 in. The natural drainage class is moderately well drained.
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+15.2
+
+28.7
+10.0
+30.1
+2.9
+13.1
+
+IES Project No. 03.006.061
+Page 8
+
+CHAPTER 3: CULTURAL BACKGROUND
+3.1 Previous Investigations
+A file search within the Texas Archeological Sites Atlas (TASA) and the Texas Historic Sites Atlas
+(THSA) databases, maintained by the THC, identified that there are no NRHP properties, historical
+markers, or cemeteries located within or directly adjacent to the APE (TASA 2018; THSA 2018). A
+previously recorded archeological site (41TR17) extends north into the southern half of the 28.3-ac tract.
+Site 41TR17 was recorded in 1979 as a prehistoric site containing a low-density lithic scatter at the edge
+of a bluff (TASA 2018). Since its initial recording, the site has been revisited twice. In 2011, no
+prehistoric cultural materials were observed in the central part of the site during a survey conducted by
+Hicks and Company. During a IES survey conducted in 2015, archeologists encountered only a single
+quartzite flake in a shovel test within the northern half of the site. Portions of the site within each
+projectâs APE were recommended as ineligible for NRHP listing.
+TASA records indicate four previous archeological surveys have been conducted within the APE (Table
+3.1; Figure 3.1; TASA 2018). AR Consultants, Inc. (ARC) surveyed parts of the APE as part of a
+pipeline project in 2007. No cultural resources were encountered within the APE during this survey. In
+2011, Hicks and Company surveyed the road corridor of East Mid Cities Boulevard prior to being
+widened in 2014. Although site 41TR17 was revisited, investigators did not identify any cultural deposits
+within the APE. In 2015, IES conducted an intensive survey of over half of the 28.3-ac tract as part of the
+Property Inventory Project. IES archeologists encountered a single lithic flake within the boundaries of
+site 41TR17. IES also performed a survey nearby for the Southwest End-Around Taxiway project in
+2016. The survey utilized high probability areas that were based on background research using the Texas
+Department of Transportation (TXDOT) Potential Archeological Liability Map (PALM) data and
+historical maps and aerial photographs. No cultural resources were encountered during this survey.
+Table 3.1: Previous Archeological Surveys within the APE
+Agency
+
+ACT
+Permit No.
+
+Firm/Institution
+
+Date
+
+Survey
+Type
+
+Location (Approximate)
+
+FAA / DFW
+
+4491
+
+ARC
+
+2007
+
+Area
+
+Overlaps northwestern corner of 28.3-ac tract
+
+FAA / DFW
+
+5773
+
+Hick and Company
+
+2011
+
+Area
+
+Adjacent to southern boundary of APE
+
+DFW
+
+7373
+
+IES
+
+2015
+
+Area
+
+Overlaps majority of 28.3-ac tract
+
+DFW
+
+7650
+
+IES
+
+2016
+
+Area
+
+Overlaps northern portion of 14.4-ac tract
+
+In addition, the TASA database indicates that nine previously conducted cultural resources surveys and
+15 previously recorded archeological sites are located within 1 mi [1.6 kilometers (km)] of the APE
+(Tables 3.2 and 3.3; Figure 3.1; TASA 2018).
+
+3.2 Cultural Resources Potential
+In addition to the TASA review, several additional resources were referenced to determine the overall
+potential for encountering cultural resources within the APE. These resources included the Soil Survey of
+Tarrant County, Texas, the NRCS digital soil database for Tarrant County, the Geologic Atlas of Texas,
+Dallas Sheet, USGS topographic maps, the TxDOT PALM, the National Archives and Records
+Administrationâs (NARA) 1940 Census Enumeration District Maps for Tarrant County, the Texas
+Historic Overlay (THO) georeferenced maps, and historic and modern aerial photography.
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 9
+
+Figure 3.1: Previous Investigations within 1 Mile of the APE
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 10
+
+Table 3.2: Previous Archeological Surveys within 1 Mile of the APE
+ACT
+Permit No.
+
+Agency
+
+Firm/Institution
+
+Date
+
+Survey
+Type
+
+Location (Approximate)
+
+Trinity River Authority
+/ U.S. Environmental
+Protection Agency
+(EPA)
+
+n/a
+
+Texas Department of
+Water Resources
+(TDWR)
+
+1979
+
+Linear
+
+0.11 mi west and 0.54 mi northwest of
+the APE
+
+EPA
+
+n/a
+
+TDWR
+
+1982
+
+Linear
+
+0.58 mi northwest of the APE
+
+Federal Highway
+Administration
+(FHWA)
+
+n/a
+
+SDHPT
+
+1990
+
+Linear
+
+0.80 mi northwest of the APE
+
+US Army Corps of
+Engineers (USACE) â
+Fort Worth District
+
+n/a
+
+n/a
+
+2001
+
+Area
+
+0.88 mi west of the APE
+
+TxDOT
+
+3561
+
+Geo-Marine, Inc.
+
+2004
+
+Area
+
+0.08 mi south of the APE
+
+FAA / DFW
+
+4773
+
+ARC
+
+2007
+
+Evaluation
+
+0.91 mi north of the APE
+
+FAA / DFW
+
+6835
+
+IES
+
+2014
+
+Area
+
+0.52 mi north of the APE
+
+Alan Plummer
+Associates
+
+n/a
+
+ARC
+
+2015
+
+Area
+
+0.13 mi west of the APE
+
+FAA / DFW
+
+7126
+
+IES
+
+2015
+
+Area
+
+0.33 mi southeast of the APE
+
+Table 3.3: Previously Recorded Archeological Sites within 1 Mile of the APE
+Site Size
+
+Depth
+Extent
+(cm)
+
+Cultural Materials
+
+Topographic
+Setting
+
+Open campsite
+
+200x500
+
+10-50
+
+Lithic, tool fragments, burned rock
+
+Stream terrace
+
+Prehistoric;
+Historic
+
+Lithic scatter;
+historic graffiti
+
+120 x 340 m
+
+No data
+
+Lithic debitage; historic graffiti
+
+Upland
+escarpment
+
+41TR19
+
+Prehistoric
+
+Lithic scatter
+
+400 x 75 m
+
+0-10
+
+Lithic debitage, burned rock
+
+Upland terrace
+
+41TR20
+
+Prehistoric
+
+Lithic scatter
+
+200 x 75 m
+
+No data
+
+Lithic debitage, burned rock
+
+Hill
+Upland terrace
+
+Lorrain 1972
+
+Site
+Trinomial
+
+Time Period
+
+Site Type
+
+41TR16
+
+Prehistoric
+
+41TR18
+
+41TR63
+41TR79
+41TR87
+
+Whitsett 1979
+Hayden and
+Fox 1979
+Whitsett and
+Fox 1979
+
+Prehistoric
+
+Lithic scatter
+
+220 x 115 m
+
+No data
+
+Lithic debitage; projectile points (Late
+Archaic)
+
+Prehistoric;
+Historic
+Prehistoric;
+Historic
+
+Lithic scatter;
+Homestead
+
+200 x 170 m
+
+10
+
+Lithic debitage; historic domestic debris
+
+Upland knoll
+
+Prikryl 1982
+
+Artifact scatter
+
+No data
+
+No data
+
+Lithic debitage
+
+Stream terrace
+
+Prikryl 1982
+
+Upland terrace
+
+Shelton 2008
+
+Upland terrace
+
+Shelton 2007
+
+Stream terrace
+
+Hamilton 2015
+
+41TR218
+
+Historic
+
+Artifact scatter
+
+30 x 50 m
+
+25
+
+41TR219
+
+Prehistoric
+Prehistoric/
+Historic
+
+Lithic scatter
+
+120 x 60 m
+
+20-30
+
+Nails, bolts, glass, and other 20th century
+debris
+Lithic debitage
+
+Artifact scatter
+
+165 by 175 m
+
+20
+
+Lithic debitage, assorted domestic trash
+
+41TR273
+
+Reference
+Hayden and
+Fox 1979
+
+41TR274
+
+Historic
+
+Farmstead
+
+70 x 70
+
+0-20
+
+41TR275
+
+Historic
+
+Farmstead
+
+70 x 70
+
+0-20
+
+41TR291
+
+Historic
+
+Surface scatter
+
+355 x 210 ft
+
+0
+
+41TR294
+
+Historic
+
+Surface scatter
+
+15 x 23 m
+
+0
+
+41TR295
+
+Historic
+
+Surface scatter
+
+18 x 15
+
+0
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+Glass bottles, cans, jars, bricks, scrap
+metal
+Trash midden, weir foundation,
+construction debris
+Concrete rubble, building materials, tin
+cans, plastic, shoes, ceramics, glass
+bottles
+Glass bottles, cans, ceramic sherds,
+building materials
+Metal siding, concrete, bricks, milled
+lumber, tile
+
+Upland
+Upland
+
+Stone and
+Hamilton 2015
+Stone and
+Hamilton 2015
+
+Upland
+
+Gibson 2015
+
+Upland
+
+Gibson 2015
+
+Upland
+
+Gibson 2015
+
+IES Project No. 03.006.061
+Page 11
+
+Direct APE
+Prehistoric Resource Potential
+The TxDOT PALM for the Fort Worth District indicates that most of the APE possesses a low potential
+for containing shallow and deeply buried prehistoric cultural deposits. The portion of the APE adjacent to
+Big Bear Creek contains a moderate to high potential for containing shallow and deeply buried prehistoric
+cultural resources. The remaining portion of the APE features a low potential for containing shallow and
+deeply buried prehistorical cultural resources.
+In 2007 and 2008, ARC conducted intensive pedestrian surveys within 1,210 ac of the DFW property
+(Shelton et al 2008). Through this study, three environmental zones were identified within the DFW that
+contain varying degrees of cultural resources potential. The current APE will have ground disturbances
+within all three zones (Figure 3.2). Zone 1 is comprised of the Blackland Prairie Uplands ecoregion,
+which consists of generally-level landforms mantled by clay or clay loam soils over limestone bedrock.
+Water permeates very slowly to the water table causing slow surface runoff and high shrink and swell
+potential. This setting has a low biotic diversity and is dominated by short grasses. Due to the limited
+resources available within the area, it has a low probability for containing prehistoric archeological sites
+(Shelton et al. 2008). The entire 14.4-ac tract and southeast corner of the 28.3-ac tract are located within
+the Zone 1 environmental region within the DFW.
+Zone 2 is typified by a wide range of well-drained soil types ranging from those with high clay content to
+sandy loams located on uplands, ridges, terraces, tributary streams, and valleys. Accordingly, these soils
+supported a wide range of vegetation and dense stands of old growth trees during the prehistoric period.
+The upland soils are moderately well suited for cropland, pastureland, or urban development and the area
+has been well utilized for agricultural purposes since early historic settlement. Thus, Zone 2 is considered
+to have a high potential for containing both prehistoric and historic sites (Shelton et al. 2008).
+Approximately 71.2 percent of the 28.3-ac tract lies within Zone 2.
+Zone 3 is a narrow band of alluvial floodplain adjacent to Little Bear Creek, Big Bear Creek, and Bear
+Creek. Because the loamy soils in this zone are frequently flooded, the land is mostly used as pasture.
+Cultural resources are low to nonexistent in the floodplain due to heavy modification of top soils by
+agriculture over the past century and the lack of previously recorded deeply buried prehistoric sites in the
+Bear Creek floodplain (Shelton et al. 2008). Approximately 19.5 percent of the 28.3-ac tract is within
+Bear Creek Floodplain (Zone 3) environmental region within the DFW.
+Through a review of the previously defined environmental zones within the DFW property (Shelton et al.
+2008), TxDOT PALM data, and previous land disturbance, it was determined that the majority of the
+APE features a low potential for containing shallow or deeply buried prehistoric cultural materials. A
+5.52-ac portion of the APE along Big Bear Creek features a high potential for containing prehistoric
+cultural materials.
+Historic Period Resource Potential
+Historic aerial photography depicts the APE was primarily used for agricultural or pastoral activities prior
+to 1942. The 1895 Samâs Street Map of Tarrant County, which was the oldest record observed that
+illustrates early Anglo-American habitation within the APE, illustrates a house owned by L. Rogers
+within the 14.4-ac tract. The 1920 USDA soils map of Tarrant County indicates the house identified in
+the 1895 map remained at the same location east of Jackson Road. An aerial photograph dating to 1942
+depicts the house was part of a farmstead that included at least one barn and several associated
+outbuildings. Between 1957 and 1963, the hipped roof barn was demolished and a gabled roof barn was
+constructed 140 ft west of the original barn. By 1968, all buildings and structures associated with the
+farmstead were removed. After 1968, aerial photographs illustrate that the rest of the APE east of
+Jackson Road was left vacant. In the 1980s, a maintenance road was built through the former location of
+the farmstead dwelling and original barn. Although clearing and installation of various utilities has
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 12
+
+disturbed much of the tract north of the maintenance road, the remaining portion of the tract has been left
+undisturbed since 1968. Based on historic and modern aerial photographs, there is a moderate potential
+for encountering historic-aged cultural deposits within the 14.4-ac tract of the APE.
+The 1920 USDA soil map also indicates that a building was located at the southeast corner of the 28.3 ac
+tract. Historical aerial photographs and topographic maps illustrate the building was part of a farmstead
+west of Jackson Road. The farmstead included the main dwelling, a long barn structure, and associated
+outbuildings. In the early 1970s, all buildings and structures within this farmstead were demolished.
+After the farmstead was removed, the property was left unmaintained with the exception of the
+installation of a pipeline and the construction of West Airfield Drive. During the 2015 IES survey, no
+cultural resources were identified in the area of the former farmstead. As such, the 28.3-ac tract is
+considered to have a low potential for encountering historic-period cultural resources.
+Indirect APE Resource Potential
+Based on a review of historic maps and aerial photographs, the APE was largely devoid of historic-period
+structures. Aerial photographs illustrate that the APE was used primarily for agricultural and pastoral
+purposes until airport-related development took place in the vicinity in the 1970s. Based on historic and
+modern aerial photographs, there is a negligible potential for the presence of historic period standing
+buildings or structures within the indirect APE.
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 13
+
+Figure 3.2: Archeological Environmental Zone Map
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 14
+
+CHAPTER 4: METHODOLOGY
+Prior to fieldwork, the IES staff conducted historical and archeological records reviews to determine
+previously recorded resources within the APE and within a 1-mi (1.6-km) radius of the direct APE (see
+Section 3.1). IES staff also reviewed ecological, geological, and soils data, as well as historical and
+modern topographic maps and aerial photography of the APE. The archeological survey for the
+Southwest Campus Expansion 2 Project was conducted on 13 and 14 March 2018. The methods utilized
+during this survey exceed the minimum archeological survey standards requirements for field
+investigations recommended by the CTA (CTA 1996, 2001), as approved by the THC.
+
+4.1 Survey Methods
+For the APE, the intensive pedestrian survey was limited to high probability areas (HPA). HPA limits
+were determined by comparing initial probability data to current land use, past disturbance, and previous
+survey limits. The HPA did not denote the specific limits of the intensive survey but were expanded or
+contracted depending on field observations. HPA identified for survey are represented within Figure 4.1.
+Areas outside designated HPA were assessed through pedestrian survey and/or aerial photography.
+Representative photographs detailing the low potential for intact archeological deposits outside the
+identified HPA were recorded (Appendix A).
+Although the APE occupies approximately 42.7 ac, the identified HPA acreage was approximately 13.6
+ac. Although HPA methodology is not discussed within the CTA survey standards, using the standards as
+a guideline, one shovel test was anticipated for every 2 acres of HPA. However, shovel test numbers
+varied from this amount based on the exact limit of cultural material, the level of disturbance, erosion, and
+steep slope observed during the pedestrian survey.
+Shovel Testing
+In areas with potential for preserving archeological materials, shovel tests were excavated to the top of
+culturally sterile deposits, typically to the argillic (Bt) or calcic (Bk) subsoil horizon. Shovel tests were at
+least 30 cm in diameter and were hand-excavated in natural stratigraphic levels not exceeding 20 cm in
+thickness. Excavated soil was screened using 0.25-in hardware cloth to facilitate the recovery of buried
+cultural materials. When high clay content soils were encountered and could not be efficiently screened,
+material was manually troweled and inspected for cultural deposits. Additionally, the physical properties
+of each natural soil stratum were recorded. All shovel test locations were recorded and plotted using a
+Trimble GeoXT handheld global positioning system (GPS) receiver. Investigators documented the results
+of each test on standardized shovel test forms.
+Standards for archeological methods require that measurements be recorded in metric units. For this
+reason, while general distances and engineering specifications are described in imperial units (e.g., in, ft,
+mi) within this report, archeological measurements and observations are listed in metric units (e.g., cm,
+m, km), unless historic-period artifact or architectural elements are more appropriately recorded in
+imperial units.
+Archival Research
+Historic-aged maps and aerial photographs encompassing the direct APE and indirect APE were reviewed
+to determine the locations of historic-age (e.g., greater than 50 years old) structures. Deed/title research
+was conducted for archeological sites that contained evidence of historic-period site components and
+historic-period architectural resources. The purpose was to identify historically notable persons that were
+possibly associated with any resource documented during this survey. Initial research was carried out by
+examining deed and land title records from the Tarrant County Clerkâs office. The historic significance
+of identified persons associated with each resource were also researched using The Handbook of Texas
+Online database and within various local history publications.
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 15
+
+Figure 4.1: High Probability Areas Map
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 16
+
+Site Recording
+An archeological site is typically considered to be a spatially discrete area containing cultural resources.
+The recognition of a âsiteâ is therefore contingent on the basis of content and extent. Content may refer
+to artifacts or cultural features encountered in surface or subsurface contexts, architectural elements, or
+other manifestations of past human activity. The extent of a site is based on the vertical and horizontal
+spatial arrangement of these cultural remains. For surficial materials, a site is defined as five or more
+artifacts of at least two different materials or functional classes located within the same vicinity (typically
+a 400 square meter [m2] [0.1-ac] area) or at least one cultural feature. The extent of the surface artifacts
+and cultural features are then defined as the site boundary. When artifacts or features are encountered in
+buried contexts, a site is defined within the extent of the culturally positive excavations. In cases where
+an excavated survey sampling location (i.e., shovel test) yields cultural materials, additional delineation
+excavations are conducted to define the boundary of the site. The spatial extent of the site is defined
+within the extent of positive excavations. Archeological sites may also be defined within the extent of
+surface artifacts or features and culturally positive excavations when both are present.
+Cultural remains, meeting these criteria, are designated as a site, recorded on a Texas Archeological Site
+Data Form, and submitted to TARL to be included in the TASA database. Conversely, discovery of
+cultural materials that do not meet these criteria are considered isolated occurrences of past human
+activity and are simply documented by location and content. Modern materials and features (i.e., less
+than 50 years old) are not considered sites, with only location and content documented. Depending on
+depositional integrity and cultural content, archeological sites can be eligible for inclusion in the NRHP or
+for designation as SALs. Cultural isolates and modern features are not eligible for inclusion in the NRHP
+or for designation as SALs because of their failure to meet the site definition and their inability to
+contribute important information to the understanding of history or prehistory.
+
+4.2 Site Evaluation
+Each identified archeological site was plotted on the appropriate 7.5-minute USGS topographic map and a
+scaled site map was prepared for each site. Field data were processed to evaluate site significance and
+potential eligibility for inclusion in the NRHP and designation as an SAL. When applicable, a variety of
+data were used to assess site significance including temporal period, artifact density, artifact variety,
+feature density, feature variety, feature preservation, stratigraphic integrity, and the amount of previous
+disturbance.
+National Register Evaluation Criteria
+The assessment of significance of a cultural resources property is based on federal guidelines and
+regulations. The criteria for evaluating properties for inclusion in the NRHP are codified under the
+authority of the NHPA, as amended (36 CFR Part 60.4 [aâd]), and the Advisory Council on Historic
+Preservation has set forth guidelines to use in determining site eligibility. Federal regulations indicate
+that â[t]he term âeligible for inclusion in the National Registerâ includes both properties formally
+determined as such by the Secretary of the Interior and all other properties that meet National Register
+listing criteriaâ (36 CFR 800.2[e]). Based on Advisory Council guidelines, any cultural resource that is
+included in or eligible for inclusion in the NRHP is a historic property.
+Subsequent to the identification of relevant historical themes and related research questions, four criteria
+for eligibility are applied. The quality of significance in American history, architecture, archeology,
+engineering, and culture is present in districts, sites, buildings, structures, and objects that possess
+integrity of location, design, setting, material, workmanship, feeling, and association and:
+Criterion A:
+Criterion B:
+
+that are associated with events that have made a significant contribution to the
+broad patterns of our history; or
+that are association with the lives of persons significant in our past; or
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 17
+
+Criterion C:
+
+Criterion D:
+
+that embody the distinctive characteristics of a type, period, or method of
+construction, or that represent the work of a master, or that possess high artistic
+values, or that represent a significant and distinguishable entity whose components
+may lack individual distinction; or
+that have yielded, or may be likely to yield, information important in prehistory or
+history [36 CFR Part 60.4(aâd)].
+
+The principal objective is to determine whether a cultural resource possesses the potential to contribute to
+one or more of the above-defined criteria. Adequate information regarding site function, context, and
+chronological placement from both archeological and, if appropriate, historical perspectives is essential
+for cultural resources investigations. Because research questions vary as a result of geography, temporal
+period, and project design, determination of site context and chronological placement of cultural
+resources is a particularly important objective during the inventory and evaluation processes. Criterion D
+is generally associated with prehistoric, but also historic-era, archeological sites. Criteria A, B, and C
+typically reflect association with historic-era resources, rarely with prehistoric sites. The objective of the
+current project was to locate and define both the horizontal and vertical extents of any cultural resources,
+document and describe those resources, and then, when adequate data were present, evaluate each for
+NRHP eligibility.
+State Antiquities Landmark Evaluation Criteria
+For purposes of implementing the ACT, the THC is the statutorily created body responsible for protecting
+and preserving SALs (9 TNRC 191). A SAL is an archeological site, archeological collection, ruin,
+building, structure, cultural landscape, site, engineering feature, monument or other object, or district that
+is eligible to be designated as a landmark or is already officially designated as a landmark. The State of
+Texas considers all publicly-owned archeological sites and historic buildings and structures to have some
+intrinsic historic value, and the ACT provides some level of protection for those sites, buildings, or
+structures regardless of their size, character, or ability to currently yield data that will contribute important
+information on the history or prehistory of Texas. Additionally, these publicly-owned archeological sites
+and historic buildings and structures are protected from vandalism, or other actions meant to take, alter, or
+destroy them, and information directly related to the specific location of archeological sites is restricted
+from open records requests. However, not all cultural resources are equally significant to the history and
+prehistory of Texas. Some archeological sites may not possess research value sufficient to warrant longterm preservation or investigations beyond survey level documentation, and some historic buildings and
+structures retain minimal integrity due to damage or deterioration. Therefore, the issue of whether
+cultural resources are significant and warrant preservation, and/or further research (such as archeological
+testing and data recovery level investigations), is addressed through official landmark designation, permit
+issuance, and rules associated with enforcement of the ACT. Archeological sites and historic buildings
+and structures on lands belonging to state agencies or political subdivisions of the state of Texas are
+eligible to be designated as landmarks (9 TNRC 191.091 and 191.092). Also protected, under 9 TNRC
+191.094, are specially designated landmarks on private property.
+Under the ACT at the state level, archeological sites may be considered significant and be recognized or
+designated as an SAL. The THC uses one or more of the following criteria when assessing the
+appropriateness of official landmark designation, and/or the need for further investigations under the ACT
+permit process:
+Criterion 1:
+Criterion 2:
+Criterion 3:
+Criterion 4:
+
+the site has the potential to contribute to a better understanding of the prehistory and/or
+history of Texas by the addition of new and important information;
+the siteâs archeological deposits and the artifacts within the site are preserved and intact,
+thereby supporting the research potential or preservation interests of the site;
+the site possesses unique or rare attributes concerning Texas prehistory and/or history;
+the study of the site offers the opportunity to test theories and methods of preservation,
+thereby contributing to new scientific knowledge;
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 18
+
+Criterion 5:
+
+there is a high likelihood that vandalism and relic collecting has occurred or could occur, and
+official landmark designation is needed to ensure maximum legal protection, or alternatively,
+further investigations are needed to mitigate the effects of vandalism and relic collecting
+when the site cannot be protected (13 TAC 26.10).
+
+4.3 Curation
+The survey employed a non-collection strategy. Records, files, field notes, forms, and other
+documentation will be included in the curation package. All field-generated documents will be
+temporarily curated at the IES office and permanently curated at TARL. These documents and
+photographs will be organized and catalogued according to TARL curation standards and submitted for
+curation.
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 19
+
+This page intentionally left blank
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 20
+
+CHAPTER 5: RESULTS
+Background and archival research conducted in preparation for this cultural resources survey indicated
+that at least nine prior cultural resources investigations have taken place within 1 mi (1.6 km) of the
+proposed APE, including four previous investigations within the APE. As a result of these prior surveys,
+15 archeological sites have been previously recorded in the vicinity (see Table 3.3), including one
+previously recorded archeological site (41TR17) partially within the southern portion of the 28.3-ac tract
+APE. During this survey, the 42.7-ac direct APE was subjected to reconnaissance survey transects and a
+systematic intensive survey. Pedestrian reconnaissance was conducted across the entire APE to confirm
+the extent of prior ground disturbances and assess the likelihood of encountering cultural resources.
+Intensive survey with systematic shovel test sampling in staggered intervals was conducted across the
+portions of the APE with the potential to contain archeological resources. During the pedestrian survey,
+one previously unrecorded historic-age archeological site (41TR312) was encountered within the APE.
+Shovel test locations and the archeological site boundary is illustrated in Figures 5.1 and 5.2, a
+photograph location map and photographs are presented in Appendix A, and a site location map in
+Appendix B.
+
+5.1 Archeological Survey
+Prior Ground Disturbances
+A background review of historic maps and aerial photographs indicate that much of the APE has been
+exposed to some degree of prior ground disturbance. These disturbances are primarily related to past
+agricultural or pastoral use during the late-19th and early 20th centuries and later 20th-century development
+of the DFW property. More significant disturbances were present within the APE but were identified
+within smaller, relatively localized areas.
+Aerial photography from 1942 illustrates that the APE contained farmstead buildings, fields, pastures, and
+small, undisturbed areas adjacent to Big Bear Creek dominated by mixed hardwood forest. In the late
+1960s and early 1970s, properties within and surrounding the APE were purchased for development of
+DFW. During this time, several large farms, including those within the APE, were demolished and many
+of the fields and pastures fell into disuse and began to be succeeded by dense, woody, secondary growth.
+Between 1970 and 1979, a pipeline and associated pad site were installed in a north-to-south orientation
+across the 28.3-ac tract. During this same period, it appears Jackson Road was widened or reconstructed.
+By 1990, a network of dirt or gravel maintenance roads extended through the northern part of the 14.4-ac
+tract.
+Between 1990 and 1995, sections of Jackson Road were removed for the construction of West Airfield
+Drive. Since the early 1990s, no other significant disturbances have occurred. The APE now consists
+almost entirely of dense, mixed, hardwood forest.
+Pedestrian Survey and Shovel Testing
+During the pedestrian survey, 4 positive and 44 negative shovel tests were excavated within the APE
+(Figure 5.1). Shovel testing was conducted within portions of the APE with the potential to contain
+buried cultural deposits (Appendix A, Photographs 01 through 05). The remaining portion of the APE
+was determined to have been significantly disturbed and contained negligible potential for subsurface
+cultural deposits. Subsequently, these areas were visually assessed and photographed during transect
+survey (Appendix A, Photographs 06 through 14).
+Soils exposed within shovel tests across the APE revealed a profile that transitioned from medium brown
+sandy loam near Big Bear Creek to dark grayish-brown clay or clay loam in the 14.4-ac tract. Soils near
+the creek were generally characterized as sandy loam or sandy clay loam with gravel deposits overlaying
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 21
+
+Figure 5.1: Shovel Test Location Map
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 22
+
+compact sandy clay loam. Soils ranged from a dark brown (10YR 3/2 and 3/3) sandy loam near the
+surface to a compact, medium reddish-brown (7.5YR 4/4) sandy clay loam at a depth of 60 cm below
+surface (cmbs). Soils encountered east of the creek and bluffs were generally characterized as being more
+clayey. In the 14.4-ac tract, the soils were composed mainly of a dark brownish-black (10YR 2/2 and
+3/2) clay loam or clay. The maximum depth of the shovel tests was approximately 70 cmbs with the
+majority terminating between 40 to 50 cmbs.
+Archeologists observed large piles of construction debris within the 28.3-ac tract and several small
+scatters of modern trash (plastic containers, tires, etc.) in the 14.4-ac tract (Appendix A, Photographs 15
+through 26). Due to their location, it is unclear if the construction debris of concrete slabs and metal
+sheeting in the 28.3-act tract was associated with the farmstead west of Jackson Road or with structures
+demolished on other parts of the DFW property.
+
+5.2 Encountered Resources
+41TR312
+During the IES survey, a newly recorded historic-period archeological site (41TR312) was documented
+within the northern portion of the 14.4-ac tract of the APE (Figure 5.2). The site is situated in an upland
+setting, east of Big Bear Creek. Through the pedestrian survey and site delineation, the site was
+documented to extend approximately 75 m (248 ft) north-to-south by 77 m (251 ft) east-to-west,
+encompassing a 0.62-ac area, at an elevation range of 165 to 167 m (540 to 548 ft) amsl. The site was
+comprised of two features and an artifact scatter associated with a former farmstead.
+Prior Ground Disturbances
+Historical aerial photographs, dating as early as 1942, illustrate that the site was part of a well-organized
+farm with a dwelling, a barn, and at least four associated outbuildings. The majority of the farmstead was
+located within the APE except for two buildings, north of the APE boundary. Between 1957 and 1963,
+the original barn was removed and replaced with a different barn structure closer to the dwelling. After
+the property was purchased by the City of Fort Worth in 1969, all buildings on the farm were demolished
+and the land was left vacant. In the 1980s, a maintenance road was installed through the former location
+of the farmstead dwelling and a small utility building was constructed east of the site.
+Survey Observation and Shovel Testing
+During the pedestrian survey, IES investigators observed two archeological features, a barbed wire fence
+with wooden posts, and a surface artifact scatter that included concrete chunks, fragments of asphalt
+roadway, and bricks and brick fragments within the site (Attachment A, Photographs 27 through 32).
+Several of these brick fragments were marked with a âCARROLLTONâ logo. The marking is for the
+Carrollton Pressed Brick company that was founded in the City of Carrollton around 1904 and appears to
+have ceased operations by the mid-20th century. A pile of concrete debris was located north of the
+maintenance road and east of the site (Attachment A, Photograph 33). This debris was most likely
+associated with the small utility building constructed nearby in the 1980s.
+A total of 23 shovel tests were excavated within and surrounding the site. Shovel testing was conducted
+across the site to determine the extent of the site beyond observable surface features and the level of
+subsurface integrity. Shovel testing revealed a soil profile consisting of very dark grayish brown (10YR
+2/1 and 2/2) clay soils gradually transitioning to dark brown (10YR 3/2 and 3/3) clay loam. Termination
+of shovel tests ranged from depths of 30 to 50 cmbs with disturbed soils, compact clay subsoil, and
+perceived culturally sterile soils as reasons for termination.
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 23
+
+Figure 5.2: Site 41TR312 Plan Map
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 24
+
+During the site delineation, four shovel tests (AG07, AG08, AG12, and AG13) were positive for
+containing cultural materials (Attachment A, Photographs 34 through 39). Excavated materials
+included a wire nail fragment (post-1890), a decorated whiteware rim sherd with a blue transfer print
+design, a clear bottle glass base shard, a blue glass bottle screw-top shard, a piece of bone, and brick
+fragments, including a fragment marked with the âCARROLLTONâ logo (post-1904). Most of the
+subsurface artifacts were observed within the uppermost 20 cmbs. The shard of a blue glass bottle was
+encountered between 20 and 30 cmbs and the marked brick fragment at 25 to 30 cmbs. All positive
+shovel tests were located north of the maintenance road in the vicinity of the former dwelling location.
+No artifacts or features were visible on the surface in this area of the site (Attachment A, Photographs
+40 and 41)
+Features
+Feature 1 was a rectangular water trough that was part of the former farmstead (Appendix A,
+Photographs 42 and 43). The trough was located south of the maintenance road in the southeast part of
+the site. The feature was constructed of concrete and rebar and measured approximately 7 by 6 ft in an
+east-to-west by north-to-south orientation. The water trough can be clearly identified in historical aerial
+photographs as early as 1956.
+Feature 2 contained the base remnants of a windmill located approximately 30 ft east of Feature 1 and
+near the eastern site boundary (Appendix A, Photograph 44). The square feature measured
+approximately 3 by 3 ft and consisted of metal supports for each corner of the windmill and a large metal
+pipe in the center. The earliest depiction of the windmill is an aerial photograph dating to 1957.
+Archival Research
+Site 41TR312 is located within the Sanders Elliott survey (Abstract No. 475), which was patented on 24
+March 1854 and comprised 214 acres. Using public deed records from the Tarrant County Clerkâs Office,
+a chain-of-title for the property encompassing the site was generated (Table 5.1). According to deed
+records, the property on which the site is located was primarily associated with the Rogers and Trigg
+families. None of the names in the chain-of-title were listed in the Handbook of Texas or online research
+resources for Tarrant County.
+Site Summary
+Site 41TR312 was a newly recorded historic-period archeological site that contained two features and an
+artifact scatter associated with a late-19th to early 20th century farmstead. The farmstead is depicted in
+historical aerial photographs and maps beginning in 1895 until 1968, when all buildings were demolished.
+Twenty-three shovel tests were excavated, 4 of which yielded cultural materials. Through shovel testing
+and survey observations, it was determined the majority of the site had been disturbed. Overall, the site
+was general in nature, was well represented within the North-Central Texas archeological record and
+lacked an association to a significant historical person or event.
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 25
+
+Table 5.1: 41TR312 Chain-of-Title
+Grantor
+-
+
+Volume
+
+Page
+
+3/21/1934
+
+1218
+
+567
+
+R. E. Morrow
+
+9/3/1937
+
+1344
+
+90
+
+W. E. Massey and M. A. Massey
+Heirs of W. E. Massey
+
+10/2/1937
+DOD 12/4/1938
+
+1351
+
+189
+
+John Trigg
+
+7/19/1943
+
+1583
+
+329
+
+John Trigg
+
+7/19/1943
+
+1583
+
+331
+
+Heirs of John Trigg
+
+DOD 10/21/1948
+
+Kate Trigg
+
+11/6/1965
+
+4143
+
+563
+
+Kate Trigg
+
+William Trigg, J. B. Trigg, Zora
+Shumaker, and Jess Trigg
+
+5/10/1966
+
+4212
+
+652
+
+Kate Trigg, deceased
+
+Heirs of Kate Trigg
+
+DOD 1/21/1969
+
+J. B. Trigg, individually and
+executor of the Estate of Kate
+Trigg; William Trigg; Zora
+Shumaker; and Jess Trigg
+
+City of Fort Worth
+
+5/16/1969
+
+4731
+
+209
+
+L. B. Rogers, deceased
+Emma G. Rogers, Executrix of the
+Will of L. B. Rogers, deceased
+John F. Rogers, Will L. Rogers,
+Mrs. S. C. Lance joined by her
+husband S. C. Lance
+R. E. Morrow
+W. E. Massey, deceased
+Margaret Angelene Massey and
+John Thomas Massey,
+independently and as Executor of
+the Last Will of Walter Eugene
+Massey, deceased
+William I. Massey and Warren E.
+Massey
+John Trigg, deceased
+William Trigg, J. B. Trigg, Zora
+Shumaker, and Jess Trigg
+
+Grantee
+L. B. Rogers
+Emma G. Rogers, Executrix of
+the Will of L. B. Rogers
+John F. Rogers, Will L. Rogers,
+and Nellie Rogers Lance
+
+DOD 12/27/1931
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+Date
+Before 1895
+
+IES Project No. 03.006.061
+Page 26
+
+CHAPTER 6: SUMMARY AND RECOMMENDATIONS
+During the intensive pedestrian survey, 48 shovel tests were excavated within the 42.7-ac HPA survey
+area. Through the survey, one archeological site (41TR312) was documented within the APE.
+Table 6.1: Summary of NRHP/SAL Eligibility Recommendations
+NRHP/SAL Eligibility
+Recommendations
+
+Site Trinomial
+
+Not Eligible
+
+41TR312
+
+41TR312 was a newly recorded historic-period site that contained two features and a surface artifact
+scatter related to a late 19th or early 20th century farmstead that was demolished in 1969. Based on the
+siteâs lack of association with a significant historical event(s) or person(s) and the low potential to
+yield significant archeological data, site 41TR312 should be considered ineligible for listing in the
+NRHP under Criteria A, B, or D nor considered for SAL designation. No further work is
+recommended for this site.
+Therefore, it is the recommendation of IES that the Southwest Campus Expansion 2 project be permitted
+to continue without the need for further cultural resource investigations. However, if any cultural
+resources, other than those detailed within this report, are encountered during construction, the operators
+should immediately stop construction activities in those areas. The project cultural resources consultant
+should then be contacted to initiate further consultation with the THC/SHPO prior to resuming
+construction activities. In addition, if project designs change, and areas outside the APE detailed within
+this report are to be impacted, additional field investigations may be required.
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 27
+
+This page intentionally left blank
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 28
+
+CHAPTER 7: REFERENCES CITED
+Council of Texas Archeologists (CTA)
+1996 Update on Survey Standards. CTA Newsletter 20(2).
+2001
+
+Revised Archeological Survey Standards for Texas. CTA Newsletter 25(2).
+
+2002
+
+Guidelines for the Content of Cultural Resource Management Reports, manuscript on file with
+the membership.
+
+Diggs, G. M. Jr., B. L. Lipscomb, R. J. OâKennon
+1999 Shinners and Mahlerâs Illustrated Flora of North Central Texas. SIDA, Botanical, Miscellany,
+No. 16. Botanical Research Institute of Texas. Ft. Worth, Texas.
+Estaville, Lawrence, and Richard Earl
+2008 Texas Water Atlas. Texas A&M University Press, College Station.
+Griffith, Glenn, Sandy Bryce, James Omernik, and Anne Rogers
+2007 Ecoregions of Texas. Texas Commission on Environmental Quality, Austin.
+McGowen, J. H., C. V. Proctor, W. T. Haenggi, D. F. Reaser, and V. E. Barnes
+1987 Geological Atlas of Texas, Dallas Sheet. The University of Texas Austin.
+Ressel, D.
+1981 Soil Survey of Tarrant County, Texas. United States Department of Agriculture, Soil
+Conservation Service, in cooperation with Texas Agricultural Experiment Station.
+Shelton, Rebecca, Cody S. Davis, and S. Alan Skinner
+2008 An Archaeological Survey for Chesapeake Energy Corporation at DFW International Airport
+Dallas and Tarrant Counties, Texas. AR Consultants, Inc., Dallas.
+Texas Archeological Sites Atlas (TASA)
+2018 Texas Archeological Sites Atlas. s.v. âTarrant Countyâ http://nueces.thc.state.tx.us/ (accessed
+March 2018).
+Texas Historic Sites Atlas (THSA)
+2018 Texas Archeological Sites Atlas. s.v. âTarrant Countyâ http://nueces.thc.state.tx.us/ (accessed
+March 2018).
+U.S. Department of Agriculture (USDA)
+2018 âWeb Soil Survey.â National Resources Conservation Service,
+http://websoilsurvey.nrcs.usda.gov/app/HomePage.htm (accessed March 2018).
+U.S. Geological Survey (USGS)
+2018 U.S. Department of the Interior Mineral Resources On-Line Spatial Data Website.
+http://mrdata.usgs.gov/sgmc/tx.html (accessed March 2018).
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+Page 29
+
+This page intentionally left blank
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+
+APPENDIX A
+Photograph Location Map and Photographs
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+
+Project Photographs
+Photograph Setting
+
+Photograph Range
+
+General Project Area
+
+01 through 26
+
+Site 41TR312
+
+27 through 44
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+
+Photograph 1
+
+Photograph 2
+
+Photograph 3
+
+Photograph 4
+
+Photograph 5
+
+Photograph 6
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+
+Photograph 7
+
+Photograph 8
+
+Photograph 9
+
+Photograph 10
+
+Photograph 11
+
+Photograph 12
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+
+Photograph 13
+
+Photograph 14
+
+Photograph 15
+
+Photograph 16
+
+Photograph 17
+
+Photograph 18
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+
+Photograph 19
+
+Photograph 20
+
+Photograph 21
+
+Photograph 22
+
+Photograph 23
+
+Photograph 24
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+
+Photograph 25
+
+Photograph 26
+
+Photograph 27
+
+Photograph 28
+
+Photograph 29
+
+Photograph 30
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+
+Photograph 31
+
+Photograph 32
+
+Photograph 33
+
+Photograph 34
+
+Photograph 35
+
+Photograph 36
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+
+Photograph 37
+
+Photograph 38
+
+Photograph 39
+
+Photograph 40
+
+Photograph 41
+
+Photograph 42
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+
+Photograph 43
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+Photograph 44
+
+IES Project No. 03.006.061
+
+APPENDIX B
+Archeological Site Location Map
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+
+This page intentionally left blank
+
+DFW Southwest Campus Expansion 2 Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.061
+
+

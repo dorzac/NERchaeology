@@ -1,0 +1,845 @@
+NEUTRON ACTIVATION ANALYSIS
+OF WEST TEXAS CERAMICS:
+A STATISTICAL EVALUATION
+CAROLYN EKLAND
+
+ABSTRACT
+A neutron activation study of west Texas Jornada Mogollon ceramics
+was statistically evaluated to see if the neutron activation technique is
+useful for distinguishing between ceramics manufactured by different
+cultural groups in separate geographical areas. The results of this study
+indicate that ceramics from a settled village site at Hueco Tanks show
+less variation in their element composition than ceramics collected from
+a number of widely dispersed, intermittently occupied sites in the
+Guadalupe Mountains area. The analysis further indicates that ceramics
+manufactured in widely separated geographical environments are
+generally distinct in their total element composition. The results of the
+statistical tests suggest that the elements most useful for showing these
+distinctions are the major constituents of clays.
+
+INTRODUCTION
+Neutron activation analysis is an analytical technique which is
+used to identify and measure the abundances of elements found in
+various geologic materials. Archeologists have recently found that
+knowledge of the element composition of artifacts can be useful for
+solving problems of a cultural nature such as locating the place of
+origin for artifacts or for establishing the existence of prehistoric
+contact between groups in separate geographical areas. Gordus et
+al. (1967) and Gordus et a!. (1971) used neutron activation to locate
+the source of obsidian artifacts found in Hopewell burial mounds,
+and Allen et al. (1975) used the technique to identify the source
+material of steatite or soapstone bowls from sites in the eastern
+United States. Sabloff (1971) used data from neutron activation of
+Fine Orange and other pottery types to infer trade networks or
+movements of people between a number of Terminal Classic and
+Early Postclassic Maya sites, and Bennyhoff and Heizer (1965) used
+neutron activation of ceramics to suggest trade between the sites of
+Cuicuilco and Teotihuacan in the Valley of Mexico.
+In neutron activation analysis a small sample is extracted from
+an artifact and placed in a nuclear reactor where it is bombarded
+with free neutrons. During the irradiation process some of the
+elements in the sample will absorb neutrons to form radioactive
+isotopes. Because these radioactive isotopes are unstable they will
+
+120
+
+TEXAS ARCHEOLOGICAL SOCIETY
+
+decay to the stable form over a period of time, emitting gamma
+rays during the disintegration process. The gamma ray emissions
+from the decaying isotopes exhibit characteristic energy levels and
+rates of decay which allow the investigator to identify the isotopes
+and, thereby, the stable elements from which they were produced.
+Quantitative measurements can be obtained by counting the gamma
+ray emissions from each of the elements detected in the sample and
+comparing these with emissions from standards irradiated under
+the same conditions (Meyers and Denier 1972: 4-7).
+Due to individual differences in the elements’ absorption of
+neutrons, and variations in the rate of decay for the resulting
+isotopes, different irradiation periods and counting schedules are
+employed in the analysis. Different elements and their respective
+amounts will be detected in each of the counts.
+
+PROBLEM
+Neutron activation studies have revealed that samples of
+material from the same geologic source or area are not always
+homogeneous in their element composition (Bowman et al. 1973);
+however, the element composition of source materials will often
+exhibit greater variation between different geographical regions
+than will materials extracted from within any one local (Allen et al.
+1975). The analysis reported in this paper uses the results of a
+neutron activation study of west Texas ceramics to assess the
+relative homogeneity of element composition both within and
+between sherd populations drawn from two separate geographical
+areas. The analysis was further attempted to determine whether
+some inferences could be made as to the possible manufacturing
+origins for some of the pottery types in the sample. The actual
+neutron activation study which provides the basis for the
+statistical analysis reported in this paper was not conducted by the
+author; however, a description of the sample analyzed and a short
+discussion of the results is essential to understanding the statistical
+evaluation which follows.
+Twenty-six sherds from the west Texas area were selected for
+the neutron activation study. The sample included 16 sherds which
+were randomly selected from a large sherd population collected by
+George Kegley from a Mogollon pithouse village at Hueco Tanks
+State Park in E1 Paso County (Figure 1); 10 sherds were selected
+from a sample collected from nine intermittently occupied sites in
+the Guadalupe Mountains National Park along the HudspethCulberson County border by members of the 1970 Texas
+
+NEUTRON ACTIVATION ANALYSIS OF CERAMICS
+
+121
+
+Archeological Society field school (Figures 1 and 2). One of the
+sherds in the Guadalupe Mountains sample had no actual site
+provenience and was included as a random specimen. It is
+suspected that the sites in the Guadalupe Mountains area were
+occupied either by small transient Mogollon groups or by other
+cultural groups who were interacting with the Mogollon settlements
+further to the west (Harry J. Shafer, personal communication).
+
+Guadalupe Mountains
+National Park
+
+NEW MEXICO
+
+41EP2A ~
+
+El Paso co.
+
+.2’ ~
+41HZ43
+41HZ48
+41HZ50
+41HZ68
+41HZ71
+41HZ77
+41HZ78
+RS 18
+
+/
+
+~,
+
+41CU19
+
+Culbertson Co.
+
+Hudspeth Co.
+
+0
+
+25
+
+Scale of Miles
+
+FIGURE 1. Map of West Texas Area Showing the Locations of Hueco
+Tanks State Park and Guadalupe Mountains National Park
+
+The 26 sherds used in the analysis represent several types of
+pottery generally associated with the Jornada Mogollon ceramic
+assemblage. Of the 16 sherds from the settled village, 12 were El
+Paso Brown, two were Chupadero Black on White, and two were
+Mimbres Classic Black on White. Of the I0 samples from the
+Guadalupe Mountains area, eight were El Paso Brown, one was
+Chupadero Black on White, and one was an unclassified specimen
+
+TEXAS ARCHEOLOGICAL SOCIETY
+
+122
+
+resembling the E1 Paso Brown ware in paste composition but with
+an orange slip. The following are the general type descriptions for
+the ceramics used in the analysis:
+
+1
+
+¯ 41HZ43
+41HZ48
+
+4111Z68
+
+4 IHZ71
+" 41HZ77
+¯ 41MZ78
+
+.41MZ41
+
+.41HZ50
+
+J
+o
+
+j
+Scale Of Miles
+
+o
+U
+
+~io~
+41CU19 ¯
+
+FIGURE 2. Map of Southwest Corner of Guadalupe Mountains
+National Park Showing the Site Locations for Ceramics Used in the
+
+Project.
+E1 Paso Brown -- A coiled, undecorated ware with a soft granular
+and friable paste. Paste color is generally a medium brown with
+surfaces often discolored by firing clouds. Tempering materials vary
+depending on the local but frequently include feldspars, gypsum, sand,
+or some combination of these (Runyan and Hendrick 1973: 21-22).
+Chupadero Black on White -- A coiled, well-fired ware with a fine
+textured paste. The paste color is uniform and ranges from light to dark
+grey. Vessels are generally slipped white or grey-white and painted with
+a black mineral paint. Temper varies with the area of manufacture
+often consisting of quartz sand, basalt, or basalt with crushed sherds
+(Runyan and Hendrick 1973: 37-38).
+Mimbres Classic Black on White -- A coiled ware with a relatively
+fine, porous, and friable paste. Paste colors range from light grey to
+
+NEUTRON ACTIVATION ANALYSIS OF CERAMICS
+
+123
+
+grey-black. Interiors of vessels are slipped a heavy white and decorated
+with black mineral paint. The characteristic temper is a fine to medium
+quartz sand {Runyan and Hendrick 1973: 36}.
+Orangeware -- An unclassified specimen with method of manufacture
+and paste characteristics closely resembling pottery of the E1 Paso
+Brown type. Unlike the E1 Paso Brown, however, the specimen features
+an orange slip.
+
+Clay samples were not available from either locality. Admittedly
+it would be desirable to have the element composition of the local
+clays for comparison.
+The ceramics were analyzed through neutron activation by
+Rebecca Wright (Ms.) at Texas A&M University. Two samples
+from each of the 26 sherds were prepared and used in the analysis.
+One sample from each sherd was irradiated for 30 seconds and the
+gamma ray emissions counted for five minutes; the second group
+was irradiated for 14 hours and the gamma ray emissions counted
+for 60 minutes.
+This method of analysis identified 16 different elements in the
+ceramics as a whole; however, not all of the 16 elements were
+detected in each sherd. The short irradiation and count revealed
+the presence and amounts of aluminum, calcium, chlorine,
+potassium, magnesium, manganese, sodium, and vanadium; with the
+exception of chlorine these elements were detected in all of the
+pottery samples analyzed. The longer irradiation and count yielded
+the presence and amounts of arsenic, gold, bromine, cadmium,
+cerium, potassium, lanthanum, sodium, antimony, and samarium;
+the presence of these elements was considerably more variable for
+only lanthanum, sodium, and samarium were detected in all of the
+ceramics. The quantitative analysis also indicated that the majority
+of the long-run elements were present in considerably smaller
+concentrations than those detected in the short count.
+As was mentioned earlier, the following analysis was conducted
+to evaluate the potential of neutron activation analysis as a means
+for assessing the relative homogeneity of element composition both
+within and between two ceramic populations and to determine
+whether any inferences could be made as to the manufacturing
+origins for some of the ceramic types. The two populations selected
+for the study were drawn from widely separated geographical
+environments, each occupied by cultural groups differing in their
+degree of sedentism. Provided that the assumption that artifacts
+manufactured from materials in one particular local will show
+similarities in element composition is true, it is hypothesized that
+due to differences in selected clay sources, the sherds from the
+
+TEXAS ARCHEOLOGICAL SOCIETY
+
+124
+
+settled village will show less variation in element composition than
+will the samples collected from the more widely dispersed,
+intermittently occupied sites. It is further believed that if the two
+geologic environments are sufficiently different this will be
+reflected in the clay sources, the end result being that each group
+of ceramics will exhibit differences in total element composition.
+The black on white ceramic types collected from both the settled
+village and Guadalupe Mountains area are not believed to be
+native to the region and are suspected to be imports (Harry J.
+Shafer, personal communication). If this is true, the analysis should
+indicate that the element composition of their clays is distinct from
+the other ceramics used in the analysis.
+
+STATISTICAL ANALYSIS
+A recent neutron activation study of ceramics has revealed that
+often times clays from different areas of the world do not exhibit
+distinct differences in their element composition, especially if single
+elements or only a very few elements are considered (Harbottle
+1970: 29). For this reason it was decided that a statistical method
+which could incorporate the data for as many elements as possible
+was necessary for testing the hypotheses proposed in this paper. A
+factor analysis was selected as the statistical technique which
+would provide the kinds of information most useful for the project.
+The first part of the project involved recording on computer
+cards the amounts of such element detected in each sherd. A factor
+analysis (Nie et al. 1975) was then used to reduce these data to a
+smaller set of variables called factors; each of these factors
+represents a distinct pattern of variation which is shared by
+certain elements in the clays. Only nine of the sixteen elements
+were selected for the analysis as they were present in the majority
+of the samples. Due to missing data for some of these nine
+elements, the factor analysis ignored the one Chupadero Black on
+White sherd from the Guadalupe Mountains area, reducing the
+data set to 25 cases.
+The factor analysis produced three factors which accounted for
+80.8% of the variation in the data. The factor matrix, shown in
+Table I, indicates that there are three independent patterns of
+interrelated elements in the clays of the ceramics; strong loadings,
+which are underlined in the matrix, show which individual
+elements are characteristic of each factor. The strong positive
+loadings for Factor I indicate that there is an element pattern in
+the clays which lanthanum, sodium, and samarium are involved in;
+
+NEUTRON ACTIVATION ANALYSIS OF CERAMICS
+
+125
+
+the absolute amounts of the loadings measure how closely each
+element is related to this pattern, that is, the higher the loading the
+closer the relationship between the element and the pattern.
+
+TABLE 1. ROTATED FACTOR MATRIX
+
+Factor I
+Aluminum
+
+Calcium
+Potassium
+Magnesium
+Manganese
+Vanadium
+Lanthanum
+Sodium
+Sama rium
+
+Factor H
+
+Factor HI
+
+.01
+
+.87
+
+.42
+
+-.22
+-.23
+.18
+.06
+.01
+.99
+.8_33
+.9_44
+
+.00
+.24
+.39
+.6_!7
+.7__99
+.03
+.05
+.02
+
+.74
+.744
+.6_!
+.18
+-.02
+-.17
+-.04
+-. 12
+
+TABLE 1. ROTATED FACTOR MATRIX
+
+Three factor scores for each of the 25 sherds were also obtained
+and can be seen in Table 2. These scores measure the relative
+importance of each sherd to the particular factor; a high positive
+score indicates that the sherd contains a high proportion of those
+elements characteristic of the factor and a high negative value
+indicates that the particular sherd is deficient in the elements
+characteristic of the factor.
+To test the hypothesis that the ceramics from the settled village
+would show less variation in element composition than would those
+from the sites in the Guadalupe Mountains area, the variance of
+the factor scores for each of the sherd samples were calculated
+and compared; factor scores, rather than the actual amounts of
+each element detected in each sherd, could be used for this as the
+meaningful variation in the original data is not lost when factor
+scores are computed (Rummel 1967: 451). Two measures of the
+variance for the settled village ceramics were calculated for each
+set of factor scores, one for all 16 of the sherds and one for only
+the brownware; if the black on white ceramics were imports to the
+site and thus manufactured from clays of a different element
+composition it was suspected that this would be reflected in the
+variance. One measure of the variance was calculated for the
+sherds from the Guadalupe Mountains region, again for each group
+of factor scores; the orangeware specimen was included with the
+brownware due to similarities in the paste composition.
+
+TEXAS ARCHEOLOGICAL SOCIETY
+
+126
+
+TABLE 2. FACTOR SCORES FOR SHERDS
+
+Settled Village
+E1 Paso Brown
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Chupadero
+Black on White
+13
+14
+Mimbres Classic
+Black on White
+15
+16
+Scattered Sites
+E1 Paso Brown
+17
+18
+19
+20
+21
+22
+23
+24
+Orangeware
+25
+
+Factor I
+
+Factor II
+
+Factor HI
+
+-.14
+1.28
+3.39
+.40
+-1.79
+.77
+-1.01
+-.65
+-.23
+-.41
+1.25
+-.29
+
+.80
+.70
+-.39
+.57
+.51
+-.11
+.30
+-.13
+-.47
+.29
+.49
+.43
+
+-.06
+.37
+.37
+.12
+-.08
+.44
+.20
+.16
+-.02
+-.33
+-.29
+-.08
+
+-.93
+-.56
+
+-1.27
+2.38
+
+2.90
+-.00
+
+-.33
+-.69
+
+-.59
+.07
+
+1.68
+-.30
+
+.15
+-.12
+.32
+.61
+-.76
+.25
+.54
+-.15
+
+-.14
+.30
+2.30
+-.86
+-1.28
+-1.13
+-.94
+-.97
+
+-.29
+.54
+.53
+-.96
+-.70
+-.69
+-1.19
+-1.29
+
+-.90
+
+-.88
+
+-1.02
+
+1.39
+1.65
+.25
+
+.60
+
+.65
+.06
+.42
+
+Variance
+Settled Village
+All Ceramics
+Brownware
+Guadalupe Mountains
+
+TABLE 2. FACTOR SCORES FOR INDIVIDUAL SHERDS
+
+.16
+1.14
+
+NEUTRON ACTIVATION ANALYSIS OF CERAMICS
+
+127
+
+The variance of the factor scores for both groups of sherds from
+the settled village and for the brownware from the Guadalupe
+Mountains sites can be seen at the bottom of Table 2. For the
+factors that loaded heavily for the elements in the short count,
+Factors II and Ill, the variance of the factor scores for the settled
+village brownware was lower than that of the Guadalupe
+Mountains sample; this indicates that the composition of the
+elements characteristic of these factors was more homogeneous.
+This difference in the variance was expected as it seems likely that
+the ceramics from the village would have been manufactured from
+one or a few good clay sources located close to the village while
+those from the Guadalupe Mountains area would have been
+manufactured from a number of different sources.
+For the factor that loaded heavily for the elements detected in
+the longer irradiation and count the situation was reversed, that is,
+the settled village sample showed a considerably higher variance
+than did the Guadalupe Mountains group due to some extremely
+high and low concentrations of lanthanum, sodium, and samarium
+in some of the sherds. This was not expected and may be directly
+related to the characteristics of the clay samples used in the actual
+neutron activation study. Earlier studies have indicated that
+ceramics are not homogeneous and that small samples will differ to
+some degree from the body as a whole (Perlman and Asaro 1971:
+188). It has been further determined that elements that occur in
+very small amounts will not be dispersed in a statistically
+satisfactory number of particles if the pottery is not well
+homogenized (Perlrnan and Asaro 1971: 184). Both lanthanum and
+samarium, which contributed the most heavily to the factor, were
+found in considerably smaller amounts than most of the other
+elements. If the ceramics were not well homogenized these
+elements would not be well dispersed in the clays, the end result
+being that either high or low concentrations could be present
+depending on where the actual sample was extracted from the
+sherd. Taking the size of the two populations into consideration,
+sixteen for the settled village as opposed to nine for the scattered
+sites, the greater variation exhibited by the settled village ceramics
+does not seem unreasonable for there would be an increased
+possibility that more extremes would appear in a larger population.
+When the variance of the factor scores for all the settled village
+ceramics
+
+were
+
+compared
+
+with
+
+the
+
+variance
+
+for
+
+only
+
+the
+
+brownware, there was an increase in the variance for the elements
+important in Factors II and Ill; once again this occurred because
+certain pieces of the black on white ceramics contained larger
+
+128
+
+TEXAS ARCHEOLOGICAL SOCIETY
+
+amounts of some of the elements especially calcium, potassium,
+manganese, and vanadium. However, the variance for elements
+characteristic of Factor I decreased because the amounts of these
+elements in the black on white pieces were closer to the average,
+the extremes being found in the brownware population.
+While the results of this rather simple analysis should not be
+considered conclusive due to the small size of the sample and the
+possibility of measurement errors in the neutron activation study
+itself, it would appear that the settled village ceramics showed less
+variation in element composition than did those from the Guadalupe
+Mountains area. In this instance the elements from the short count
+were the most useful for assessing the relative homogeneity for the
+two populations of ceramics as they were present in large amounts
+and were found in all of the samples. The elements detected in the
+longer count appeared to be relatively useless for this kind of
+analysis for two reasons: first, not all of the elements were found
+in all of the pottery samples analyzed; and second, those that were
+detected in all of the samples were present in such small
+concentrations that they would be susceptible to extreme variation
+from sample to sample if the clays were not well homogenized.
+Each of the three sets of factor scores were then plotted against
+each other on scattergrams to see if the scattered site sample
+would separate out from the settled village ceramics. Both Factor II
+and III exhibited some separation when plotted against Factor I;
+however, the most distinct separation occurred between Factor II
+and III (Figure 3). Both Factor II and III exhibited heavy loadings
+for some of the major elements found in clays including aluminum,
+calcium, potassium, and magnesium (Shepard 1971:6-10 and
+374-377).
+The scattergram plot revealed two general clusters, one for the
+settled village ceramics and one for the dispersed settlement
+sample (Figure 3). One sherd from the scattered site population (18)
+clustered with the settled village, and one (19) fell outside both the
+dispersed settlement and settled village populations; in both cases
+these ceramics contained greater concentrations of the major clay
+elements than did the rest of the scattered site sample. Three of
+the four black on white pottery pieces also failed to cluster with
+the settled village sample; this suggests that although the ceramics
+were found at the settled village they were manufactured from a
+different clay source than the brownware, lending support to the
+hypothesis that they are not indigenous to the site.
+
+NEUTRON ACTIVATION ANALYSIS OF CERAMICS
+
+129
+
+(ACAOSS~ IAC;OR3
+"1.m5191
+
+..6632O
+
+-.2aa,~
+
+.t?~22
+
+.~V~3
+
+I.ett63
+
+I.~3e31
+
+I.~4~lS
+
+2.~677b
+
+~.6a~47
+
+¯ 14
+
+Z,376A~
+
+÷ 19
+
+2.errS8
+
+t.Z^est
+
+.~t5~2
+.i
+-2
+.4
+
+.s~o~e
+
+*?
+
+¯ io
+
++18
+
+° 16
+
+"’~
+
+"’""~
+~
+
+",gt~O
+
+*24
+2~+ 20
+z + ¯ 23
+!
+!
+!
+
+.~
+
+"~
+
+*f
+
+x
+!
+
+l
+
+* 22
+
+FIGURE 3. Scattergram of Factor II and Factor III.
+
+Although the separation of the two ceramic populations is not
+perfect, the scattergram plot indicates that the Guadalupe
+Mountains sample is generally distinct from the settled village
+ceramics in element composition and that it is the major
+constituents of clay that best reflect this difference.
+
+CONCLUSIONS
+Although neutron activation analysis has generally been addressed to problems of ceramic origins, this statistical evaluation
+has indicated that the results are also useful for distinguishing
+between populations of ceramics drawn from sites occupied by
+cultural groups differing in their degree of sedentism. It has
+further indicated that the results of neutron activation studies can
+be successfully used to differentiate between ceramic populations
+manufactured in separate geographical environments. The
+statistical tests suggest that when dealing with problems of this
+nature it is best to focus on elements found in the greatest
+abundances in ceramics, especially the major constituents of clays.
+
+130
+
+TEXAS ARCHEOLOGICAL SOCIETY
+
+The minor trace elements detected in considerably smaller
+amounts proved to be useless for either accurately assessing
+ceramic homogeneity within populations or for distinguishing
+between populations from different geographical areas; this is most
+likely related to the actual characteristics of the ceramics
+themselves for if pottery is not well homogenized the amounts of
+these elements could exhibit wide variation depending on where
+the sample was extracted from the sherd. However, the detection
+of these trace elements would likely be of critical importance to the
+investigator dealing with ceramic origins for they would most likely
+reflect slight differences in various geologic surroundings.
+
+ACKNOWLEDGEMENTS
+A number of people were most helpful during the course of the
+project, and to them I extend my thanks: Dr. Harry J. Sharer, of Texas
+A&M University, who suggested the project and provided the data that
+were used in the statistical analysis; Mr. George Kegley who supplied
+the ceramics used in the neutron activation study and Ms. Rebecca
+Wright, a chemistry major at Texas A&M University, who performed the
+actual neutron activation analysis; Mr. Roland Henry, of the Nuclear
+Analytical Laboratory at The University of Texas at Austin, for his help
+in interpreting the results of the neutron activation study; and Mr. Rick
+Plattsmier, of the Computation Center at The University of Texas at
+Austin, for his patience and valuable assistance in setting up the
+statistical programs. Special thanks are extended to Dr. Joel Gunn of
+The University of Texas at San Antonio and Dr. Daniel Price of The
+University of Texas at Austin, for their suggestions on how to approach
+the problem and for their assistance in interpreting the results of the
+statistical tests.
+
+REFERENCES
+
+CITED
+
+Allen, R. O., A. H. Luckenbach, and C. G. Holland
+1975 The Applications of Instrumental Neutron Activation Analysis to a
+Study of Prehistoric Steatite Artifacts and Source Materials.
+Archaeometry, Vol. 17, part 1, pp. 69-83.
+Bennyhoff, J. A. and R. F. Heizer
+1965 Neutron Activation Analysis of Some Cuicuilco and Teotihuacan
+Pottery: Archaeological Interpretations of Results. American Antiquity, Vol. 30, No. 3, pp. 348-349.
+
+NEUTRON ACTIVATION ANALYSIS OF CERAMICS
+
+131
+
+Bowman, H. R., F. Asaro, and I. Perlman
+1973 Composition Variations in Obsidian Sources and the Archaeological
+Implications. Archaeometry, Vol. 15, Part 1, pp. 123-127.
+Gordus, A. A., W. C. Fink, M. E. Hill, J. C. Purdy, and R. T. Wilcox
+1967 Identification of the Geologic Origins of Archaeological Artifacts:
+An Automated Method of Na and Mn Neutron Activation Analysis.
+Archaeometry, Vol. 10, pp. 87-96.
+Gordus, Adon A., James B. Griffin, and Gary A. Wright
+1971 Activation Analysis Identification of the Geologic Origins of
+Prehistoric Obsidian Artifacts. Science and Archaeology, Fourth
+Symposium on Archaeological Chemistry, Atlantic City, 1968. ed.
+by Robert H. Brill, pp. 222-234, MIT Press.
+Harbottle, G.
+1970Neutron Activation Analysis of Potsherds from Knossos and
+Mycenae. Archaeometry, Vol. 12, Part 1, pp. 23-34.
+Meyers, Thomas and Mark Denier
+1972 LONGTERM and SPEKSCAN: Neutron Activation Analysis Computer Programs. The University of Michigan Museum of Anthropology Technical Reports, No. 2, Ann Arbor.
+Nie, Norman H., C. Hadlai Hull, Jean G. Jenkins, Karin Steinbrenner, and
+Dale H. Bent
+1975 Statistical Package for the Social Sciences. McGraw-Hill, New
+York.
+Perlman, I. and Frank Asaro
+1971 Pottery Analysis by Neutron Activation. Science and Archaeology,
+Fourth Symposium on Archaeological Chemistry, Atlantic City,
+1968. ed. by Robert H. Brill, pp. 182-194, MIT Press.
+Rummel, R. J.
+1967 Understanding Factor Analysis. The Journal of Conflict Resolution.
+Vol. 11, No. 4, pp. 444-480.
+Runyan, John W. and John A. Hendrick
+1973 Pottery Types of the SWFAS Area. Transactions of the Eighth
+Regional Archaeological Symposium for Southeastern New Mexico
+and Western Texas, pp. 19-45, Publication of the Lea County
+Archaeological Society, Inc., Hobbs, New Mexico.
+Sabloff, Jeremy A.
+1971 Comments on the Archaeological Background and Implications of
+the Neutron Activation Analysis of Fine Paste Pottery. Science and
+Archaeology, Fourth Symposium on Archaeological Chemistry,
+Atlantic City, 1968, ed. by Robert H. Brill, pp. 180-181, MIT Press.
+Shepard, Anna O.
+1971 Ceramics for the Archaeologist. Carnigie Institution of Washington,
+Publication 609, {Seventh Printing), Washington, D.C.
+Wright, Rebecca
+Ms. Neutron Activation Analysis on Pottery. Unpublished manuscript in
+the files of the Department of Anthropology, Texas A&M
+University, College Station, Texas.
+
+

@@ -1,0 +1,6335 @@
+INTENSIVE ARCHEOLOGICAL SURVEY OF THE
+PROPOSED EXPANSION OF STATE HIGHWAY 349
+FROM TWO MILES NORTH OF THE MARTIN AND
+MIDLAND COUNTY LINE TO 1.26 MILES SOUTH OF
+FM 2052 SOUTH OF LAMESA, TEXAS
+
+CSJ#: 0380-08-012, 0380-07-018
+
+Written by:
+Bradford M. Jones, Rachel Feit, and Matt Stotts
+
+Principal Investigator:
+Bradford M. Jones, M.A.
+
+TAC Permit #4605
+
+Archeology Series # 194
+
+September 2007
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Table of Contents
+
+TABLE OF CONTENTS
+ABSTRACT .................................................................................................................................................. v
+INTRODUCTION AND MANAGEMENT SUMMARY................................................................................... 1
+Newly-Recorded Sites .............................................................................................................................. 6
+Administrative Matters .............................................................................................................................. 6
+ENVIRONMENTAL BACKGROUND ........................................................................................................... 7
+CULTURAL BACKGROUND AND PREVIOUS INVESTIGATIONS ......................................................... 11
+Previous Investigations........................................................................................................................... 13
+Previously-Recorded Sites ..................................................................................................................... 13
+RESULTS OF FIELD INVESTIGATIONS .................................................................................................. 15
+Existing Right-of-Way ............................................................................................................................. 15
+Non Right-Of-Entry Areas....................................................................................................................... 19
+Proposed Expanded Right-of-Way ......................................................................................................... 20
+SITE DISCUSSIONS .................................................................................................................................. 83
+41DS13 ................................................................................................................................................... 83
+41DS14 ................................................................................................................................................... 87
+41MT42................................................................................................................................................... 91
+41MT43................................................................................................................................................... 95
+41MT44................................................................................................................................................... 99
+CONCLUSIONS AND RECOMMENDATIONS ........................................................................................ 109
+BIBLIOGRAPHY....................................................................................................................................... 111
+
+LIST OF TABLES
+Table 1
+Table 2
+Table 3
+Table 4
+Table 5
+Table 6
+
+Soils Mapped in the SH 349 Project Area................................................................................... 7
+Results of Shovel Tests at 41DS13 .......................................................................................... 84
+Results of Shovel Tests at 41DS14 .......................................................................................... 88
+Results of Shovel Tests at Site 41MT42 ................................................................................... 92
+Results of Shovel Testing at Site 41MT43 ................................................................................ 96
+Results of Shovel Tests at Site 41MT44 ................................................................................. 100
+
+LIST OF FIGURES
+Figure 1
+Figure 2
+Figure 3
+Figure 4
+Figure 5
+Figure 6
+Figure 7
+Figure 8
+Figure 9
+
+SH 349 Improvement Project Location Map ............................................................................... 2
+Typical rangeland in southern portions of project area looking east/northeast (Martin County). 3
+Typical agricultural land in northern portions of project area, looking south along SH 349
+(Dawson County)......................................................................................................................... 4
+Example of excellent surface visibility in agricultural field looking south down SH 349 in
+proposed ROW (Dawson County).............................................................................................. 5
+Example of low surface visibility in uncultivated rangeland (Martin County) .............................. 5
+Shovel test in Amarillo series soils in Dawson County ............................................................... 8
+Shovel test in Slaughter-Kimbrough association soils in Martin County. Note caliche present in
+base of shovel test. ..................................................................................................................... 9
+Typical view down drainage culvert paralleling SH 349 in project area (Martin County); note
+gas lines, transmission line, and fiber optic line........................................................................ 16
+View looking west of large spoil pile at edge of existing SH 349 ROW in Dawson County...... 16
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+i
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Table of Contents
+
+Figure 10 View of large drain running under SH 349 and effects of erosion on existing and proposed
+ROW; Rachel Feit in foreground, photo taking facing west ...................................................... 17
+Figure 11 Area of gravel fill in existing SH 349 ROW looking north in Martin County .............................. 17
+Figure 12 View down CR G illustrating the impact of road construction on the existing and proposed SH
+349 ROW in Dawson County. ................................................................................................... 18
+Figure 13 View of ground surface in existing ROW disturbed by heavy vehicle (Dawson County).......... 19
+Figure 14 View of proposed SH 349 ROW in Charles L. Anderson property at northern terminus of
+project area looking south ......................................................................................................... 22
+Figure 15 View of Connie Smith Trustee, et. al. property (no ROE) looking east; note high surface
+visibility ...................................................................................................................................... 22
+Figure 16 View of existing ROW and Atchley Property (no ROE) looking north; note culvert and artificial
+rise............................................................................................................................................. 23
+Figure 17 View of proposed ROW in Martha Lou Neil property looking southeast towards SH 349. ....... 23
+Figure 18 View of SH 349 ROW and proposed ROW in Patsy Ann Shook property (no ROE) looking
+north; note poor surface visibility............................................................................................... 24
+Figure 19 View of Connie Smith, et. al. property (no ROE) looking northeast; note excellent surface
+visibility in proposed ROW. ....................................................................................................... 25
+Figure 20 View of playa on Doris Jean Foster with shovel test BJ#11 in foreground. .............................. 26
+Figure 21 View looking east of Snell Living Trust property (no ROE); note dry playa and excellent surface
+visibility. ..................................................................................................................................... 28
+Figure 22 Example of moderate to good ground surface visibility in James Martin property.................... 28
+Figure 23 View looking north at area of proposed SH 349 ROW in Harris, et. al. property (no ROE); note
+excellent surface visibility. ......................................................................................................... 29
+Figure 24 View of business in existing ROW at north end of Patricia, looking north. ............................... 30
+Figure 25 View of residence along existing ROW in Patricia .................................................................... 30
+Figure 26 View looking southeast of existing ROW and residences in southern end of Patricia; note
+deeply cut dirt road on east side of road. .................................................................................. 31
+Figure 27 View looking south of garbage located on top of artificial rise on the Nora Phillips property. .. 32
+Figure 28 View looking east of proposed ROW in Riker Property (no ROE); note excellent surface
+visibility. ..................................................................................................................................... 33
+Figure 29 View looking northeast of proposed ROW in Paige, Howard and Cawfield property (no ROE);
+note excellent surface visibility.................................................................................................. 34
+Figure 30 View looking east of cultivated field within proposed ROW in G. I. Snell property (no ROE)... 35
+Figure 31 View of J & K Farms and C. R. Hightower properties (no ROE) looking east; note very dense
+vegetation.................................................................................................................................. 35
+Figure 32 View of Lee Graves property (no ROE) looking east; note dense ground cover ...................... 37
+Figure 33 View looking east of gas pipeline juncture on artificial rise on JRC Land & Cattle property..... 37
+Figure 34 View west down transmission line at intersection of Lambright and Echols property in Martin
+County; note clearly visible but access road parallels transmission line on left side. ............... 39
+Figure 35 View looking south down proposed on Lambright property with view of Patricia Substation
+sign, gas lines, transmission line, and pole marking buried fiber optic cable. .......................... 39
+Figure 36 View looking south down proposed ROW on Lambright property with poison gas pipeline sign;
+additional natural gas pipeline runs between power line and poison gas line. ......................... 40
+Figure 37 View looking south on Brown property at intersection of SH 349 and CR 2051; note
+convergence of multiple subsurface gas lines, fiber optic cable, transmission line and disturbed
+ground surface. ......................................................................................................................... 40
+Figure 38 View looking east of gas pumping station on east side of SH 349 at intersection with CR 2051
+on edge of existing ROW. ......................................................................................................... 41
+Figure 39 View in existing ROW at shovel test MS#6 looking north at rise from Mustang Draw; note
+dense ground cover................................................................................................................... 42
+Figure 40 Looking south across Mustang Draw from rise on north side; note road fill visible in existing
+ROW.......................................................................................................................................... 43
+Figure 41 Concrete retaining walls placed on slope of rise in existing ROW on north side of Mustang
+Draw. ......................................................................................................................................... 43
+Figure 42 Roadside cross with plaque in existing ROW on west side of SH 349 north of Mustang Draw
+commemorating 1972 drunk driving death................................................................................ 44
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+ii
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Table of Contents
+
+Figure 43 View looking east of cleared pad and oil tanks in proposed ROW on Mabee property (no ROE)
+3.8 miles south of CR 2051 looking east................................................................................... 44
+Figure 44 View looking east of âstock tankâ 2,460 feet north of SH 176 within proposed ROW on Holt
+property (no ROE). .................................................................................................................... 45
+Figure 45 View looking south of area of expanded ROW associated with straightening of SH 349 and SH
+176 interchange improvements located on Holt property (no ROE) north of SH 176(visible in
+background). ............................................................................................................................. 45
+Figure 46 View looking southwest of cleared area and buildings within proposed ROW on W. S. Kelton
+property ..................................................................................................................................... 47
+Figure 47 Looking south along edge of existing ROW and proposed ROW on Cowden property; caliche
+cobbles and surface disturbance associated with dirt track paralleling fenceline..................... 48
+Figure 48 View of low visibility ground surface on Scharbauer property south of 41MT44 ...................... 48
+Figure 49 View of good surface visibility on Scharbauer property south of 41MT44 ................................ 49
+Figure 50 View looking north at proposed and existing ROW on EDMC property; note drains in existing
+ROW and excellent surface visibility on EDMC property. ......................................................... 49
+Figure 51 View of disturbance south of Johnson Ranch entrance in proposed ROW looking south........ 51
+Figure 52 View looking south down road in proposed ROW; note caliche visible on surface as a result of
+disturbance to natural soils. ...................................................................................................... 51
+Figure 53 View of moderate surface visibility near shovel test MS#15 on Scharbauer property near
+southern project terminus.......................................................................................................... 52
+Figure 54 View of 41DS13 from northern portion of site boundary looking south; note playa in
+background................................................................................................................................ 85
+Figure 55 Site map of 41DS13 .................................................................................................................. 86
+Figure 56 Example of artifacts collected from site surface of 41DS13...................................................... 87
+Figure 57 View looking north of Site 41DS14 north of CR 26 with Rachel Feit at shovel test RF#10. ..... 89
+Figure 58 View looking south of Site 41DS14 south of CR 26 (in foreground); note playa visible in
+distance on left side of picture................................................................................................... 89
+Figure 59 Site map of 41DS14. ................................................................................................................. 90
+Figure 61 View across northern portion of Site 41MT42 looking southeast; note topographic rise.......... 93
+Figure 62 View looking south across Site 41MT42; playa is present in low area in background ............. 93
+Figure 63 Site map of 41MT42 .................................................................................................................. 94
+Figure 64 Chert debitage recovered from the surface of Site 41MT42 ..................................................... 95
+Figure 66 Site map of 41MT43 .................................................................................................................. 98
+Figure 67 In situ burned caliche on surface of Site 41MT43..................................................................... 99
+Figure 68 Artifacts recorded at 41MT43.................................................................................................... 99
+Figure 69 View of Site 41MT44 looking west towards SH 349 ............................................................... 103
+Figure 70 Site map of 41MT44 ................................................................................................................ 104
+Figure 71 Example of the types of artifacts common to the site surface of 41MT44 .............................. 105
+Figure 72 A Concrete âTroughâ located during the mapping of Site 41MT44 ......................................... 105
+Figure 73 Close up of area of stones on surface of Site 41MT44........................................................... 106
+Figure 74 Metal pole or fence post identified during the mapping of 41MT44 ........................................ 106
+Figure 75 Second metal pole identified during the mapping of 4MT44................................................... 107
+
+LIST OF PLATES
+Plate 1
+Plate 2
+Plate 3
+Plate 4
+Plate 5
+Plate 6
+Plate 7
+Plate 8
+Plate 9
+
+SH 349 Archeological Field Investigations................................................................................ 53
+SH 349 Archeological Field Investigations................................................................................ 55
+SH 349 Archeological Field Investigations................................................................................ 57
+SH 349 Archeological Field Investigations................................................................................ 59
+SH 349 Archeological Field Investigations................................................................................ 61
+SH 349 Archeological Field Investigations................................................................................ 63
+SH 349 Archeological Field Investigations................................................................................ 65
+SH 349 Archeological Field Investigations................................................................................ 67
+SH 349 Archeological Field Investigations................................................................................ 69
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+iii
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Plate 10
+Plate 11
+Plate 12
+Plate 13
+Plate 14
+Plate 15
+
+Table of Contents
+
+SH 349 Archeological Field Investigations............................................................................... 71
+SH 349 Archeological Field Investigations................................................................................ 73
+SH 349 Archeological Field Investigations................................................................................ 75
+SH 349 Archeological Field Investigations................................................................................ 77
+SH 349 Archeological Field Investigations................................................................................ 79
+SH 349 Archeological Field Investigations................................................................................ 81
+
+LIST OF APPENDICES
+Appendix A TAC Permit Application Scope of Work
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+iv
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Abstract
+
+ABSTRACT
+Hicks & Company conducted an intensive archeological survey along the
+existing and proposed new right-of-way for the State Highway (SH) 349
+improvements (CSJ# 0380-08-012, 0380-07-018) in Martin and Dawson
+counties, Texas. The survey was conducted in compliance with the Antiquities
+Code of Texas (13 TAC 26) and Section 106 of the National Historic Preservation
+Act (36 CFR 800), under TAC Permit #4605. The project is considered a linear
+survey; the total distance for the planned highway improvement is
+approximately 42.5 miles, with a typical expansion of the existing ROW of 100 to
+110 feet. The survey took place in both the existing TxDOT ROW and within the
+proposed ROW on privately owned property. The total SH 349 project area
+including both the existing and proposed ROW is 1306.59 acres. Archeologists
+surveyed the entire existing ROW, plus all areas where right-of-entry (ROE) had
+been granted. Archeologists secured ROE from 61% of the landowners, totaling
+20.969 linear miles of survey area (275.51 Acres). The survey involved
+pedestrian survey as well as the excavation of 160 shovel tests, of which only six
+were positive for cultural materials. Due to limitations relating to lack of intact
+deposits, no ROE and restrictions concerning mechanical excavation on private
+lands spelled out in the ROE letters, backhoe trenching was not conducted. The
+survey documented five new archeological sites within the proposed ROW. Sites
+41DS13 and 41MT44 are both early to mid-twentieth century farmsteads or
+trash dumps. Sites 41DS14, 41MT42, and 41MT43 are all prehistoric campsites
+of unknown age. None of the five sites contained intact archeological deposits,
+and none have potential for new data through additional investigation. As a
+result, none of the five sites are recommended as eligible for listing on the
+National Register of Historic Places (NRHP) or as State Archeological Landmarks
+(SALâs). Consequently, in all portions of the existing ROW and surveyed portions
+of the proposed ROW within the SH 349 project area, Hicks & Company
+recommends that no additional investigation is necessary for the project to
+proceed to construction. In areas where no ROE was granted, attempts to assess
+the possibility of cultural resources and to clear properties were effected through
+reconnaissance level survey. Hicks & Company recommends survey for a limited
+portion of these properties where surface visibility was low.
+No artifact collections were made during the course of this project. All site forms,
+photographs and project related records will be curated at the Texas
+Archeological Research Laboratory (TARL).
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+v
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+Abstract
+
+vi
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Introduction and Management Summary
+
+INTRODUCTION AND MANAGEMENT SUMMARY
+In July of 2007, Hicks & Company archeologists conducted an intensive linear
+pedestrian archeological survey along the route of the proposed highway
+improvement to State Highway (SH) 349 in Martin and Dawson counties in west
+Texas (Figure 1). The proposed roadway expansion would extend approximately
+42.5 miles from a point two miles north of the Midland and Martin County line
+to a point 1.26 miles south of the intersection of SH 349 and FM 2052 south of
+Lamesa, Texas. The project is intended to improve the existing roadway in order
+to develop SH 349 to Texas Trunk System Standards. This project is sponsored
+by TxDOT and the FHWA and the survey is conducted in compliance with
+Section 106 of the National Historic Preservation Act (36 CFR 800) and the
+Antiquities Code of Texas (13 TAC 26).
+The proposed improvements to SH 349 plan to expand the current two lane
+roadway into a four lane divided highway through the addition of 100-110 feet of
+additional right-of-way (ROW). The placement of proposed ROW expansion varies
+throughout the project area, though it most often parallels the eastern edge of
+the existing ROW in order to avoid a fiber optic line that runs on the western
+edge of SH 349. However, other preexisting structures and utility or gas lines
+necessitated that the improvements be located on the western side of the
+existing ROW in several locations throughout the project area. In addition to the
+expansion of the roadway, it is proposed to improve the interchange at the
+junction of SH 349 and SH 176 through the construction of new access roads on
+the northeastern side of the existing interchange. Originally, several alternatives
+were proposed for a bypass through the town of Patricia, however, the final
+design utilizes the existing ROW through the town. Based on available
+schematics, the roadway will be built at grade or upon fill in most places within
+the newly acquired right-of-way. The area of potential effects (APE) comprises
+the entire footprint of the proposed roadway expansion in the existing and newly
+acquired right-of-way (100-110 feet wide) and the areas of the proposed
+interchange improvement. The vertical extent of the APE appears minimal with
+typical impacts less than three and a half feet (1 meter) in depth. At the time the
+field investigations were conducted, the total SH 349 roadway improvement
+project area including the existing and proposed ROW consisted of 1306.59
+acres. Of this, 541.61 acres was proposed new ROW.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+1
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+Introduction and Management Summary
+
+2
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Introduction and Management Summary
+
+Funding for the archeological survey was provided through the Texas
+Department of Transportation (TxDOT) with oversight from TxDOTâs Odessa
+District and the Environmental Affairs Division who are overseeing the highway
+construction.
+The portion of SH 349 investigated in this survey crosses through a landscape
+that is primarily utilized for agriculture, grazing and oil and gas extraction. Only
+one town is present in the project area, Patricia, a small community located in
+southern Dawson County. The landscape is relatively flat rolling plains
+punctuated by playas and a single draw, Mustang Draw. Though oil and gas
+extraction occurs throughout the project area, there is a notable shift from
+south to north in land use practices corresponding to geology and soils.
+Generally speaking, properties south of the intersection of SH 349 and County
+Road (CR) 2051 are used for rangeland. This land use closely matches soil
+distributions in the project area. The lands utilized for grazing are generally
+characterized by shallow Slaughter-Kimbrough association soils overlying
+indurated caliche (Figure 2). In contrast, the portions of the project area roughly
+north of CR 2051, including all of Dawson County, are characterized primarily
+by intensive agricultural use and deep Amarillo association sandy loam soils
+(Figure 3). Broadly speaking, the construction of the existing SH 349 highway
+and agricultural production have resulted in significant disturbance to the
+natural deposits in the northern parts of the project area in Dawson County and
+northern Martin County. In the southern portions of the project area,
+disturbance outside the current SH 349 roadway is more sporadic resulting from
+oil and gas exploration and the associated pipeline infrastructure.
+Figure 2: Typical rangeland in southern portions of project area looking
+east/northeast (Martin County)
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+3
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Introduction and Management Summary
+
+Figure 3: Typical agricultural land in northern portions of project area, looking
+south along SH 349 (Dawson County)
+
+The project took place within the existing ROW and on private land where rightÂ­
+of-entry (ROE) has been acquired. At the time that the survey was conducted,
+approximately 61% of the landowners had granted ROE for the archeological
+survey. However, many of those who had not granted permission were some of
+the larger landholders in the project area and thus only approximately 51% of
+the proposed ROW in the project area was able to be surveyed. Where survey
+was impossible, the edge of the proposed ROW was inspected from the current
+ROW and assessed for the presence of cultural materials.
+Accordingly, Hicks & Company archeologists focused their efforts on the
+portions of the proposed ROW where right-of-entry had been granted and along
+the existing TxDOT ROW. The areas of the proposed ROW were surveyed
+following the methodology stated in the TAC Permit Application (Appendix 1).
+Surveyors walked the proposed ROW in two or three parallel transects and
+shovel tested areas in which surface visibility was less than 30% as per the
+THCâs minimum standards for archeological survey. Throughout the project area
+surface visibility varied considerably. In northern portions of the project area
+where agricultural land use dominated, surface visibility was excellent to good
+(100-60%) (Figure 4). In areas of rangeland or fallow fields, surface visibility
+often fluctuated considerably, from low (0-30%) to very good (80-90%) (Figure
+5). One hundred and forty-nine shovel tests were dug in the proposed ROW and
+an additional 11 within the existing ROW for a total of 160 shovel tests.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+4
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Introduction and Management Summary
+
+Figure 4: Example of excellent surface visibility in agricultural field looking south
+down SH 349 in proposed ROW (Dawson County)
+
+Figure 5: Example of low surface visibility in uncultivated rangeland (Martin
+County)
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+5
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Introduction and Management Summary
+
+NEWLY-RECORDED SITES
+During the course of the survey Hicks & Company archeologists recorded five
+new archeological sites: 41DS13, 41DS14, 41MT42, 41MT43, and 41MT44.
+These consisted of two historic twentieth century artifact scatters, 41DS13 and
+41MT44, and three prehistoric sites of unknown age: 41DS14, 41MT42, and
+41MT43. Site 41DS13 is a medium density scatter of historic glass, metal and
+ceramic artifacts dating to the early to mid-twentieth century. The site is
+disturbed by cultivation and there are no associated features. The site appears
+to be a farmstead or an accumulation of dumped historic debris badly disturbed
+by the plowing of the site. Site 41MT44 is also an early to mid-twentieth century
+historic site with a scatter of metal, glass and ceramic artifacts. In addition,
+several features including a concrete trough, metal poles and a possibly
+intentional accumulation of rock were identified and mapped as part of this site.
+Shovel testing showed no intact subsurface components, and the site appears to
+be a demolished field house or homestead associated with ranching, farming or
+oil drilling activities occurring on the property. Site 41DS14 is a prehistoric
+campsite of unknown age situated on a low hill with views of four surrounding
+playas. Though two artifacts were found within the upper 20 centimeters of the
+site deposits, the site is primarily composed of a surface scatter of burned
+caliche, lithic debitage, and non-diagnostic lithic tools. This site is heavily
+disturbed by plowing. Site 41MT42 is another surface scatter of burned caliche
+and lithic debitage of unknown age located on a low rise near a playa in a
+currently uncultivated property. No tools, diagnostic artifacts or intact features
+were identified. Site 41MT43 is the final prehistoric site and consists of a medial
+biface fragment and very low density scatter of burned caliche and a piece of
+chert debitage. Again, no intact features or temporally diagnostic artifacts were
+recovered and the site appears to be the remains of a small campsite of
+unknown age that has been seriously disturbed by plowing. None of the five
+sites investigated exhibited evidence for the presence of buried or intact
+subsurface features or contexts. As a result of the low site integrity and lack of
+potential for additional information to be gathered through additional
+investigations, none of the identified sites are being recommended for additional
+testing and none of the sites are eligible for registration on the National Register
+of Historic Places (NRHP) or nomination as State Archeological Landmarks
+(SALâs)
+
+ADMINISTRATIVE MATTERS
+Bradford M. Jones was the Principal Investigator for this project. The field crew
+consisted of Bradford M. Jones and Matthew Stotts, who were both present
+throughout the full period of fieldwork from July 17th to July 26th, 2007, and
+Rachel Feit who assisted with fieldwork for the first six days of the project. All
+field crew members are Hicks & Company staff archeologists. All work has been
+conducted under the terms and conditions of the First Amended Programmatic
+Agreement (2005) among the Federal Highway Administration (FHWA), TxDOT,
+the Texas State Historic Preservation Office (TSHPO), the Advisory Council on
+Historic Preservation (ACHP) and the Memorandum of Understanding (MOU)
+between TxDOT and the Texas Historical Commission (THC). The survey
+occurred on both state owned land (SH 349 ROW) and private property where
+right-of-entry had been granted. The field survey was conducted under a nocollection policy and all artifacts discovered in the field were photographed and
+described. Thus no artifacts were collected or will be curated, however, all
+project notes, forms, drawings and photographs will be curated at the Texas
+Archeological Research Laboratory. This report is offered in partial fulfillment of
+TAC Permit # 4605.
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+6
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Environmental Background
+
+ENVIRONMENTAL BACKGROUND
+The project area lies at the southeastern edge of the Llano Estacado which forms
+the southernmost extension of the American High Plains region. Local streams
+and creeks drain to tributaries of the Colorado River. Major local surface water
+features include Mustang Draw, as well as numerous playa lakes into which
+most surface water drains. The hilltops between the playa lakes offer 360Â° views
+of the surrounding landscape.
+The Hobbs and Big Spring Geologic Atlas of Texas maps indicate that the
+underlying geology of the project area is made up of a combination of primarily
+Holocene and Pleistocene deposits (Tahoka (Qta), Alluvium (Qal), Pond (Qun),
+Caliche (Qcc), Windblown sand (Qcs)) and a very limited area of the
+Miocene/Pliocene age Ogallala Formation. The SCS County Soil Surveys for
+Martin and Dawson counties mapped twenty-one different soils (Table 1) within
+the project area (Stoner and Dixon 1974, Sanders 1960). The most common are
+soils mapped in the Slaughter-Kimbrough association and the Amarillo
+association. Amarillo association soils are deep, nearly level to gently sloping,
+loamy soils with a fine sandy loam surface layer and lower layers of sandy clay
+loam (Figure 6). These soils are commonly cultivated. These soils are the most
+common soil type within the project area north of the intersection of SH 349 and
+SH 176 in northern Martin County and all of Dawson County. SlaughterKimbrough association soils are shallow to very shallow, nearly level to gently
+sloping, loamy soils with a loam upper layer and a clay loam lower layer
+underlain by indurated caliche 7 to 12 inches below the surface (Figure 7).
+These soils are commonly used for rangeland and are the dominant soil type
+within the project area south of the intersection of SH 349 with SH 176 in
+Martin County. Only in the vicinity of Mustang Draw are other major soil
+associations traversed by the proposed SH 349 highway improvement. On either
+side of Mustang Draw are found a narrow band of Potter-Mansker association
+soils. These are very shallow to deep, nearly level to steep, loamy soils. The
+Potter-Mansker association soils are in turn bounded on either side by MilesPatricia association soils. These soils are deep, nearly level to gently sloping,
+sandy soils. Overall, soils within the project area range from 0-72 inches in
+depth and may have the potential for buried deposits. However, the use of these
+soils for agricultural purposes and the presence of urban landscapes within the
+project area mean there is a high potential for surface disturbance within the
+project area. In addition, preexisting utility lines, wells, homes and businesses
+are present along the project area, increasing the likelihood for disturbance to
+the soils and any buried deposits that may be present.
+
+Soil Abbrev
+
+Table 1
+Soil Name
+
+Soils Mapped in the SH 349 Project Area
+Slope
+
+AcA
+
+Acuff Loam
+
+0-1%
+
+42-60â
+
+AfB
+
+Amarillo Fine Sandy Loam
+
+1-3%
+
+36-60â
+
+AfA
+
+Amarillo Fine Sandy Loam
+
+0-1%
+
+36-60â
+
+AnA
+
+Amarillo Sandy Clay Loam
+
+0-1%
+
+40-56â
+
+AvA
+
+Arvana Fine Sandy Loam
+
+0-1%
+
+16-40â
+
+AxB
+
+Arvana Fine Sandy Loam Shallow
+
+0-3%
+
+0-20â
+
+BfB
+
+Brownfield Fine Sand
+
+Gently Undulating
+
+50-60â
+
+GoB
+
+Gomez Loamy Fine Sand
+
+Gently Undulating
+
+62-70â
+
+KuA
+
+Kimbrough & Upton Soils
+
+Nearly level
+
+7-17ââ
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+Avg. Depth
+
+7
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Environmental Background
+
+Soil Abbrev
+
+Table 1
+Soil Name
+
+Soils Mapped in the SH 349 Project Area
+Slope
+
+KsA
+
+Kimbrough-Slaughter Complex
+
+Avg. Depth
+
+0-2% Slopes
+
+7-11â
+46-62â
+
+Lr
+
+Lipan Roscoe Complex
+
+Nearly Level
+
+MdA
+
+Midessa Fine Sandy Loam
+
+0-3%
+
+60-70â
+
+MlB
+
+Miles Loamy Fine Sand
+
+0-3%
+
+55-72â
+
+OlA
+
+Oltron Loam
+
+0-1%
+
+60-65â
+
+PaB
+
+Patricia Fine Sand
+
+Gently Undulating
+
+52-64â
+
+PfA
+
+Portales Fine Sandy Loam
+
+0-1%
+
+30-48â
+
+SaB
+
+Sharvana Fine Sandy Loam
+
+0-3%
+
+19-21â
+
+SfB
+
+Simona Fine Sandy Loam
+
+1-3%
+
+14-15â
+
+SlA
+
+Slaughter Loam
+
+0-1%
+
+16-20â
+
+SpC
+
+Springer Loam Fine Sand
+
+Gently Undulating
+
+48-68â
+
+SwA
+
+Stegall Clay Loam
+
+0-1%
+
+25â
+
+Figure 6: Shovel test in Amarillo series soils in Dawson County
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+8
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Environmental Background
+
+Figure 7: Shovel test in Slaughter-Kimbrough association soils in Martin County.
+Note caliche present in base of shovel test.
+
+The project area lies within the High Plains vegetation area of Texas, near its
+ecotonal margin with the Edwards Plateau, Rolling Plains, and Trans-Pecos
+vegetational areas (Gould 1975). The High Plains of Texas represent the
+southernmost extension of the American Great Plains and were originally
+classified as semi-arid shortgrass, tallgrass, and mixed prairie dominated by
+various gramas (Bouteloua spp.), bluestems (Andropogon and Schizachyrium
+spp.), buffalo grass (Buchloe dactyloides), and dropseeds (Sporobolus spp.)
+(Hatch et al. 1990, Correll and Johnston 1979).
+With the increase in
+agricultural practices, much of the original vegetation has been converted to
+cropland and rangeland. Woody species including sand sagebrush (Artemisia
+filifolia), prickly-pear (Opuntia spp.), yucca (Yucca spp.), and mesquite (Prosopis
+glandulosa) have invaded many sandy sites (Hatch et al. 1990) in this region.
+Areas of dune sand are commonly wooded with shin oak (Quercus havardii).
+Because of the project areaâs proximity to the margins of three other vegetational
+areas, species representative of each of the vegetational areas would be expected
+to occur.
+Project area vegetation consists of brush-dominated rangeland, typical of the
+mesquite shrub/grassland vegetation type as described by McMahan et al.
+(1984). Specific vegetation within the project area includes various gramas
+(Bouteloua spp.), aster (Aster sp.), sand sagebrush (Artemisia filifolia), pricklypear (Opuntia spp.), western ragweed (Ambrosia psilostachya), American
+basketflower (Centaurea americana), horse crippler (Echinocactus spp.), threeawns (Aristida spp.), vine-mesquite (Panicum obtusum), with a woody component
+consisting of mesquite, acacias (Acacia spp.), yucca, and lotebush (Ziziphus
+obtusifolia). The northern half of the project area is devoted almost entirely to
+crops such as cotton, peanuts and corn.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+9
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Environmental Background
+
+In terms of wildlife, the project area falls within the Kansan biotic province of
+Texas, as described by Blair (1950), near its ecotonal margin with the Balconian
+and Chihuahuan provinces. The Kansan province encompasses the Texas
+panhandle region and portions of adjacent states. Typical terrestrial species
+include Western diamondback rattlesnake (Crotalus atrox), Couchâs spadefoot
+toad (Scaphiopus couchii), Great Plains rat snake (Elaphe guttata emoryi), coyote
+(Canis latrans), striped skunk (Mephitis mephitis), black-tailed jackrabbit (Lepus
+californicus), and black-tailed prairie dog (Cynomys ludovicianus).
+Wildlife species observed during field investigations were noted. Common avian
+species noted during field visits include American Crow (Corvus brachyrhyncos),
+Red-tailed Hawk (Buteo jamaicensis), Mourning Dove (Zenaida macroura), and
+Scottâs Oriole (Icterus parisorum). Terrestrial species observed include coyote,
+black-tailed jackrabbit, desert cottontail (Sylvilagus audubonii), Mexican ground
+squirrel (Spermophilus mexicanus), Western diamondback rattlesnake (Crotalus
+atrox), ground snake (Sonora semiannulata), Texas horned lizard (Phrynosoma
+cornutum), tarantulas, and black widow spiders. Species noted around the
+playas, which were full of water at the time of survey, included spotted
+salamander (Ambystoma maculatum) and seagulls.
+The climate ranges from an average 28Â° F in the January to an average 94Â° in
+July. The region is arid, receiving approximately 16 inches of rainfall a year.
+The growing season lasts for approximately 212 days annually (Gelin and Odintz
+2001). At the time of the survey, the region had experienced an unusual amount
+of rainfall and below average temperatures.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+10
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Cultural Background and Previous Investigations
+
+CULTURAL BACKGROUND AND PREVIOUS
+INVESTIGATIONS
+Martin and Dawson counties are located in western Texas on the southeastern
+edge of Southern Plains, also known as the Llano Estacado. Archeologically this
+region has a documented history of human occupation spanning the Paleoindian
+period through the current day, over 11,500 years of time (Johnson & Holliday
+2004: 283). The commonly employed cultural chronology for the region has five
+basic periods: the Paleoindian Period (ca 11,500-8550 BP), the Archaic Period
+(ca 8,500-2000 BP), the Ceramic Period (2,000-500 BP), the Protohistoric Period
+(500-300 BP), and the Historic Period (300 BP â present) (Johnson & Holliday
+2004: 284).
+Paleoindian Period (ca 11,500-8,550 BP)
+The Paleoindian Period is the earliest period of known human habitation in the
+Southern Plains, and has been subdivided based on distinct projectile point
+types with consistent radiocarbon dates into Clovis, Folsom, and Late
+Paleoindian periods (Johnson and Holliday 2004: 285-289). Sites and artifacts
+dating to the Paleoindian period are most numerous in upland contexts, though
+still rare, and are generally not found in situ. Exceptions to this general pattern
+tend to be sites located on upland playas where there is sufficient sedimentation
+to preserve sites. The most archeologically significant sites, however, have been
+located in the draws that developed during the Pleistocene and where streams
+continued to flow until about 9,500 BP. Generally speaking, Paleoindian groups
+in the region are characterized as hunter-gathers who had an orientation
+towards a broad-spectrum hunting base in the Clovis Period, which gradually
+narrowed with an increasing emphasis on bison as the primary focus as the
+region underwent a long term process of increasing seasonality, warming and
+increasing aridity.
+Archaic Period (ca 8,500-2,000 BP)
+The Archaic Period, commonly subdivided into Early, Middle, and Late Periods,
+shows a continuation of a hunting and gathering lifeways in the Southern Plains
+(Johnson and Holliday 2004: 290-292). In the Early and Middle Archaic Periods,
+the environment has been reconstructed to suggest increasing aridity that peaks
+in the Middle Archaic period. Early Archaic sites remain poorly documented, but
+Middle Archaic sites are better represented by excavated stratified archeological
+sites. Both Early and Middle Archaic period sites continue to be associated with
+bison hunting and processing, but additionally large oven processing of
+presumably vegetal materials has been documented with associated
+groundstone implements. During this period several sites such as the
+Blackwater Draw, Mustang Springs and Marks Beach have evidence of the
+construction of wells by the Archaic peoples. By the Late Archaic the harsh
+climate conditions of the Early and Middle Archaic ameliorated with increasingly
+moist conditions. However, the Late Archaic is also associated with only
+localized sedimentation resulting in few stratified archeological sites from this
+period. Only the San Jon Site has been identified as a bison kill site. Other Late
+Archaic period sites are interpreted as camping locales with evidence of lithic
+manufacture, corner- and side-notched Late Archaic style dart points, and
+burned caliche hearthstones.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+11
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Cultural Background and Previous Investigations
+
+Ceramic Period (2,000-500 BP)
+The succeeding Ceramic Period marks the shift to the adoption of the bow and
+arrow and ceramics within the larger Southern Plains region (Johnson and
+Holliday 2004: 292-293). Scallorn and Deadman points are common arrow
+points recovered from sites during this period. Early ceramics are coarsetempered and cord marked. In many sites of this period both arrow points and
+darts points are found in association. After 1,000 BP, sites are commonly
+associated with âPuebloan trade pottery and Plains lithic tool typesâ(Johnson &
+Holliday 2004: 293). Though termed the Ceramic Period, it should be noted that
+many sites of this period do not have pottery. For example, excavations at the
+Lubbock Lake site have found stratified radiocarbon dated features from this
+period, but none have produced pottery.
+Protohistoric Period (500-300 BP)
+The Protohistoric Period is characterized by serially occupied camping and kill
+sites, including bison kill sites (Johnson and Holliday 2004: 293). At Lubbock
+Lake, this period was associated with the recovery of Garza Points and
+associated hearths as well as the processing of large game. Though European
+colonization of the Americas had begun at this point, it was not until later that
+indigenous people in this region began to be increasingly impacted by European
+expansion.
+Historic Period (300 BP â present)
+Finally, the Historic Period encompasses all of recent history since the arrival of
+European trade goods and the modern horse (Johnson and Holliday 2004: 293).
+In general, Historic Period sites associated with the indigenous population are
+much like Ceramic and Protohistoric Period sites but with the notable inclusion
+of horse and modern trade goods such as glass beads. Washita points were
+commonly associated with sites of this period at Lubbock Lake.
+Martin County was formed in 1876, but was first part of Mitchell County, then
+Howard County before being organized into its present form in 1884 with
+Mariensfield (now Stanton) as the county seat (Hunt & Leffler 2001). Known
+Indian groups residing in Martin County included the Lipan Apache and later
+the Comanche in the mid-1800âs. The first permanent European settlement in
+what would become Martin County was established at Grelton in 1881 by John
+Konz. Early settlement was promoted and sponsored by the Texas and Pacific
+Railway. Early settlers were principally farmers and ranchers, with cattle
+ranching becoming a major industry by the 1890âs. Population levels remained
+low in the county until the 1900âs, after which point settlement began to
+increase steadily, and farming, especially cotton farming, began to take a more
+prominent place in the county economy. Agriculture continues to this day to be
+the backbone of the local economy. Oil and gas exploration did, however,
+commence in the 1920âs, though it was not until late 1940âs and 1950âs that it
+began to play a significant part in the local economy.
+Dawson County was also formed on August 21, 1876, but remained judicially
+tied to Howard County until 1905 (Gelin and Odintz 2001). In the 1870âs the
+region was home to both Comanche and Kiowa Indian groups. Reports from
+surveyors of the Texas and Pacific Railway lands reported large numbers of
+buffalo in the region in 1875, which attracted many hunters to the area. Though
+portions of the county had been included in an 1827 land grant issued to Dr.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+12
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Cultural Background and Previous Investigations
+
+John Cameron by the Mexican government, there does not appear to have been
+any European settlement of the area until the 1880âs, at which time most of the
+county was part of four large cattle ranches. The first decades of the twentieth
+century, however, saw a sudden rise in the local population as settlers began to
+acquire lands and establish farms. Population continued to climb until the
+1960âs, but has slowly declined since then. In 1905 Lamesa became the seat of
+the county and in 1911 the Santa Fe railroad was constructed through Lamesa.
+By 1914 or 1915 cotton had become the main crop and remains the most
+important agricultural product in the county today. During the 1930âs oil and
+gas extraction began, and this has also become an important component of the
+local economy. Both agriculture and oil remain the basis of the countyâs
+economy.
+
+PREVIOUS INVESTIGATIONS
+According to records researched on the Texas Historical Commission Sites Atlas,
+only one previously conducted survey overlaps the project area near the
+southern terminus. This areal survey was conducted for the FAA, and is
+bounded on its western edge by the current SH 349 ROW. No cultural resources
+were identified in the course of that survey. Another areal survey was conducted
+by the TNRCC approximately a kilometer northeast of the northern project
+terminus. No sites were identified in the course of this survey.
+
+PREVIOUSLY-RECORDED SITES
+Prior to the conduct of this survey 41 sites had been recorded in Martin County
+and only 12 in Dawson County. Sites encountered included all time periods from
+the Paleoindian Period through the Historic Period. According to records
+researched on the Texas Historical Commission Sites Atlas, no previously
+recorded sites are present within the project area. Three sites â 41DS2, 41DS8,
+and 41MT11 â are located within close proximity of the project area. Site 41DS8,
+located just south of the TNRCC areal survey and approximately 3,083.99 feet
+(940 meters) northeast of the northern project terminus, is the closest site. No
+information concerning the site is available on THC Sites Atlas. Site 41DS2, the
+White Site, is a Late Prehistoric (Ceramic or Protohistoric Period) bison kill site
+and possible camp site located 7,808.4 feet (2,380 meters) east of the project
+area at the edge of a playa. Recorded in a road cut in 1982, the site had
+exposed bison bone, burned rock, and lithic tools including scrapers and a
+Harrell and a Fresno point found in association. Additional bone was noted on
+the surface in adjacent corn fields. No formal archeological investigations were
+conducted at the time that it was recorded, but test excavations were
+recommended to determine site potential. Finally, 41MT11 is approximately
+7,874 feet (2,400 meters) west of the project area on the east side of McKenzie
+Draw. The site was recorded by archeologists from the University of Texas and
+consists of a surface scatter of burned rock and chert flakes that was seriously
+disturbed as a result of plowing and natural erosion. Given the poor site
+preservation, no further work was recommended for the site and it was
+considered ineligible for NRHP/SAL listing.
+Archeological research associated with the construction of the Sulpher Springs
+Draw Reservoir (Quigg, et. al. 1994) and the Red Lake Reservoir (Quigg, et. al.
+1993), both west of the project area, encountered multiple prehistoric and
+historic archeological sites adjacent to draws and playas. Deposits were
+generally limited to the surface, though several sites had deposits .33-.98 feet
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+13
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Cultural Background and Previous Investigations
+
+(10-30 centimeters) in depth below surface. Only two sites exhibited greater
+depth: 41MT41 had material present to a depth of 1.97 feet (60 centimeters)
+below surface and 41MT21 had artifacts present to depths of over one meter.
+Prehistoric artifacts consisted primarily of burned rock and caliche, lithic
+debitage and occasional chipped or ground stone tools. Several sites also had
+historic components. In all cases, regardless of depth of deposits, artifacts were
+visible on the surface.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+14
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+RESULTS OF FIELD INVESTIGATIONS
+During the course of the archeological survey along the proposed improvements
+to SH 349 in Dawson and Martin counties, archeologists traversed
+approximately 20.97 miles (275.51 acres) of the proposed ROW and the entire
+existing TxDOT ROW corridor. Because right-of-entry was not granted to 20.71
+miles (266.1 acres) of the proposed new ROW, archeologists only observed,
+photographed and took notes on these areas from the edge of the existing
+TxDOT ROW. In properties within the project area where ROE was granted, the
+area of the proposed ROW was shovel tested at a rate of 16 shovel tests per
+linear mile per 100 feet of width in areas with less than 30% surface visibility, in
+accordance with the THCâs minimum standards for archeological survey. In
+addition shovel testing was also conducted at the discretion of the surveyors in
+locations where it was deemed that archeological sites were more likely to be
+encountered, primarily in the vicinity of playas. Shovel tests were excavated to a
+depth of one meter, to bedrock or to culturally sterile ancient soils, whichever
+was encountered first. Soil from all shovel tests was screened through Â¼â
+hardware mesh. Investigators recorded their observations and the results of
+shovel tests through notes, standardized shovel test forms, and photographs.
+Any archeological sites identified during the survey were investigated by means
+of no fewer than six shovel tests in order to define site boundaries relative to the
+project corridor. Artifacts encountered on the surface or in the course of
+subsurface testing were not to be collected, but fully photo documented in the
+field. Archeologists excavated a total of 160 shovel tests, with only six shovel
+tests being positive for cultural materials. A total of five new sites â 41DS13,
+41DS14, 41MT42, 41MT43, and 41MT44 â were identified during the course of
+the survey. What follows is a discussion of the results of the field investigations
+along the entire project area beginning with an overview of the existing ROW, a
+comment on properties where no ROE was granted, and followed by a detailed
+discussion of the proposed ROW. In order organize the discussion of the survey
+of the proposed ROW, it is broken down into multiple segments along the entire
+length of the project area and discusses both properties where ROE was granted
+and those where it was not.
+
+EXISTING RIGHT-OF-WAY
+Survey within the existing TxDOT ROW along SH 349 indicated that throughout
+the entire length of the project area significant disturbance was present. Clearly
+visible in many places were drainage culverts generally placed along both sides
+of the existing road (Figure 8). In other areas the use of fill to raise the surface
+for the road was also notable, as were locations where existing landforms were
+flattened. At times the construction of these culverts and the leveling of the road
+bed resulted in the creation of significant spoil piles at the edge of the ROW
+(Figure 9). In addition, drains were regularly placed running under the existing
+road, resulting not only in disturbance due to their construction, but increased
+erosional action as well (Figure 10). Other clearly visible forms of disturbance
+included areas of gravels and caliche fill materials within the right-of-way
+(Figure 11). The use of fill material to grade the existing roadbed was commonly
+noted dispersed across the ground surface within and adjacent to the ROW. This
+material was particularly notable on the surface of active agricultural fields
+lining the ROW, where pieces of caliche and quartzite (the most common fill
+materials noted by investigators) were often found scattered across the surface
+up to 65.62 feet (20 meters) beyond the current ROW limits.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+15
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 8: Typical view down drainage culvert paralleling SH 349 in project area
+(Martin County); note gas lines, transmission line, and fiber optic line.
+
+Figure 9: View looking west of large spoil pile at edge of existing SH 349 ROW in
+Dawson County
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+16
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 10: View of large drain running under SH 349 and effects of erosion on
+existing and proposed ROW; Rachel Feit in foreground, photo taking facing west
+
+Figure 11: Area of gravel fill in existing SH 349 ROW looking north in Martin County
+
+Other forms of disturbance within, or more commonly, on the edge of the
+existing ROW, included the placement of utility lines and poles, gas lines, and
+numerous driveways and farm road and county road intersections. In particular,
+the many county and ranch roads that intersect SH 349 were areas where
+disturbance was significant. In most cases the road was constructed by
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+17
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+bulldozing or leveling the ground, leaving the road as a cut through the surface
+sediments (Figure 12). Other areas of the ROW had been disturbed due to heavy
+vehicles driving on the ROW, some perhaps a result of farming activities in
+adjacent fields (Figure 13).
+Figure 12: View down CR G illustrating the impact of road construction on the
+existing and proposed SH 349 ROW in Dawson County.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+18
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 13: View of ground surface in existing ROW disturbed by heavy vehicle
+(Dawson County)
+
+Shovel testing within the existing ROW was limited, amounting to only 11 shovel
+tests, owing to the clear disturbance and often greater than 30% surface
+visibility encountered. All shovel tests in the ROW were negative for cultural
+materials. However, those shovel tests placed within the existing ROW clearly
+reinforced the evidence for disturbance visible on the surface. Shovel tests
+generally encountered heavily compacted sediment mixed with road fill and
+modern trash in the upper 10-30 centimeters with a gradually decreasing
+percentage of road fill with depth. In most of the project area fill was present to
+approximately 30-70 centimeters below surface, though at times it was observed
+to a depth of a meter. One striking example of the effects of the original SH 349
+highway construction on the existing surface was recorded during shovel testing
+in the ROW on the north side of Mustang Draw where it is crossed by the project
+area. In shovel test RF#8, placed at the very western edge of the existing ROW,
+the stratigraphy in the test was clearly divided between the eastern and western
+halves. In the eastern half road fill was encountered mixed with sediment to the
+bottom of the shovel test, and in the western half of the shovel test only
+disturbed and partially intact sediment lacking road fill was observed.
+
+NON RIGHT-OF-ENTRY AREAS
+Though access was granted to approximately 275.51 acres of proposed ROW, a
+significant portion of the proposed ROW (approximately 266.1 acres) was not
+accessible at the time of the survey. Nonetheless, a concerted effort was made to
+assess and clear the properties through observation from the edge of the current
+ROW and by documenting any observed evidence for disturbance or cultural
+materials visible on the surface. Generally speaking, lack of ROE presented a
+larger problem in the project area in Martin County where large tracts of lands
+owned by two major landholders, the Holts and the Mabee families, were
+inaccessible. In contrast, in the northern portions of the project area in Dawson
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+19
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+and Martin counties, access was greater and the lack of ROE was partially
+ameliorated by the patchy nature of the entry where small properties with no
+ROE were interspersed with properties with ROE. Furthermore, in Dawson and
+Martin County north of the intersection of SH 349 and CR 2052, much of the
+land is being actively cultivated which enabled surveyors to get a much better
+sense of what was on the surface as well as to assess the possibility for sites
+being located there. In those areas where disturbance is clearly manifested, lack
+of ROE was not relevant in assessing the need for portions of these properties to
+be cleared without further survey, though in most cases disturbance was limited
+in scope and did not de facto present justification for clearing entire unsurveyed
+properties. Because of the large number of no ROE properties interspersed with
+properties with ROE, individual properties with no ROE are discussed within the
+proposed expanded ROW section in order to better situate them within the
+context of the archeological survey.
+
+PROPOSED EXPANDED RIGHT-OF-WAY
+In all properties where Hicks & Company archeologists had ROE, the proposed
+ROW was intensively surveyed on foot with shovel testing occurring in areas
+where surface visibility was less than 30%. Overall, ground surface visibility
+varied widely both within the project area and even within individual properties,
+depending on both the use of the land and the types of soils present. For
+example, areas with active cultivation had extremely good surface visibility â
+between 90-100%. In areas with Amarillo association soils that were
+uncultivated, visibility varied between 20-75%, though most areas had visibility
+between 40% and 60%. These areas tended to be dominated by grass and
+mesquite that grew relatively tall, but which tended to be spaced apart providing
+good overall surface visibility. Areas of uncultivated rangeland with SlaughterKimbrough association soils, however, often exhibited much lower overall
+surface visibility (15-60%) necessitating more regular shovel testing in the
+southern portion of the project area where these soils are most common.
+Because the survey was conducted over a large distance with patchy ROE, the
+discussion of the results of the investigation in the proposed ROW is broken
+down into a series of segments defined by the intersection of the SH 349 project
+area with county roads (CR), ranch roads (RR), and state highways (SH). The
+orientation is north to south. In general, the proposed ROW passes on the
+eastern side of the current SH 349 ROW and the reader should understand that
+unless otherwise stated, this is the case throughout the descriptions.
+CR 29 to CR 23/CR 1( Plate 1)
+The first segment of the survey extends from the northernmost portion of the
+project area at County Road (CR) 29 and continues to the intersection of SH 349
+with CR 23 and CR 1. The first property in this segment is owned by Charles L.
+Anderson, who granted ROE. The property is currently being planted with cotton
+and had excellent surface visibility (95-100%) with a light scatter of road base
+present on the surface 32.81-65.62 feet (10-20 meters) east of the existing
+TxDOT ROW (Figure 14). Though the excellent surface visibility did not
+necessitate the placement of shovel tests on this property, a single shovel test
+(BJ#1) was placed in this property in order to establish a baseline for
+subsequent results. The resulting shovel test encountered an upper 50
+centimeters of loose yellow-brown (10YR5/4) sandy loam which grows
+increasingly compacted with depth. The upper 20 to 30 centimeters are part of
+the current plow zone. At 50 centimeters below the surface there is a very
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+20
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+noticeable shift to a dense sandy yellow-red (5YR4/6) clay present to a meter
+with gradually increasing compactness. In addition, shovel tests MS#1 and
+RF#1 were intentionally placed in the existing ROW on opposite sides of SH 349
+in order to examine the condition of deposits within the ROW. Both shovel tests
+encountered a loose to compact upper 30 to 50 centimeters of red-brown sandy
+loam with intermixed road base and modern artifacts. This was underlain by
+compacted red-brown clay.
+The next two properties are jointly owned by the Connie Smith Trustee, Rex W.
+Nolan, and Iris Millender. No ROE was granted for these properties. The
+properties are active agricultural fields with high ground surface visibility
+(Figure 15). From the edge of the TxDOT ROW no artifacts or evidence for
+archeological materials was noted. Two shovel tests placed in the adjacent ROW
+(MS#2, RF#2) encountered road base and modern glass to depths of up to 60
+centimeters below surface.
+In the southern portion of the Connie Smith Trustee, et. al. property, the
+proposed SH 349 ROW shifts to the west side of the road for a short distance
+passing first through the Atchley Property for which no ROE was granted. The
+portion of the property through which the proposed ROW passes is unused and
+covered in short and tall grasses with little to no surface visibility. A single
+shovel test in the TxDOT ROW (BJ#2) encountered disturbed and very
+compacted sandy loam with small caliche nodules. Outside the TxDOT ROW
+there is a notable artificial rise to the land surface suggesting it was formed
+during the cutting of the road and culverts (Figure 16).
+Still on the west side of SH 349, the final property before CR 23 was the Martha
+Lou Neil property. Where this property is within the proposed ROW it forms a
+small triangle bounded on the north by CR 1 and the south by CR 23, which
+converge in an intersection with SH 349 (Figure 17). Right-of-entry had been
+granted for this property. The field was covered in wildflowers and had low
+surface visibility (20-40%). Two shovel tests (RF#3, RF#4) placed in this property
+within the proposed ROW were negative for cultural materials.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+21
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 14: View of proposed SH 349 ROW in Charles L. Anderson property at
+northern terminus of project area looking south
+
+Figure 15: View of Connie Smith Trustee, et. al. property (no ROE) looking east;
+note high surface visibility
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+22
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 16: View of existing ROW and Atchley Property (no ROE) looking north;
+note culvert and artificial rise.
+
+Figure 17: View of proposed ROW in Martha Lou Neil property looking southeast
+towards SH 349.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+23
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+CR 23/CR 1 to CR 24 (Plates 1-2)
+The segment from CR 23 to CR 24 consists of properties where ROE was both
+granted and was not. Immediately south of CR 23 the proposed SH 349 ROW
+begins shifting back to the eastern side of the current roadway, passing through
+a property belonging to Patsy Anne Shook which is bisected by SH 349 and for
+which no ROE was granted. Currently the property is not being used for
+agriculture and is overgrown with short and tall grasses. Surface visibility is
+poor, making assessment from the TxDOT ROW difficult (Figure 18). A single
+shovel test (BJ#3) placed at the edge of TxDOT ROW on the west side of SH 349
+near the proposed ROW encountered modern materials in disturbed contexts to
+a depth of 30 centimeters below the surface. Sterile sandy clay sediments were
+encountered below.
+The property of Donald Vogler, for which ROE was granted, was situated south
+of the Shook property and extends to the intersection of CR24 and SH 349. The
+property encompasses a low area and associated playa east of the proposed
+ROW. This property is currently being used to cultivate corn and has excellent
+surface visibility. Because of the proximity of the playa, a single negative shovel
+test (BJ#4) was placed at the northern edge of the property near the top of the
+rise. Subsequently, historic artifacts were observed scattered across the surface
+of the proposed ROW on the upper part of the property situated on the north
+side of the playa. This early twentieth century site was recorded as 41DS13 (see
+Site Discussion section). In the lowest portion of the property west of the playa a
+large drain running under the highway has resulted in increased erosion and
+disturbance to the proposed ROW (Figure 10). No evidence of prehistoric or
+historic occupation was registered on the portion of the property south of
+41DS13.
+Figure 18: View of SH 349 ROW and proposed ROW in Patsy Ann Shook property
+(no ROE) looking north; note poor surface visibility.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+24
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+CR 24 to CR H (Plate 2)
+This very small segment passes through the Marvin Kid property. The proposed
+ROW was surveyed owing to the ROE given. Surface visibility was good to
+excellent and no shovel testing was conducted on the property. No artifacts of a
+prehistoric or historic nature were observed. Notable was the presence of a large
+artificial berm on the western side of SH 349 indicative of the types of
+disturbance common to the ROW and immediately adjacent areas.
+CH H to CR 25 (Plate 2)
+The northern portion of this segment belongs jointly to the Connie Smith Trust,
+Rex W. Nolan, and Iris Millender, and no ROE was provided. The land is
+currently being utilized to grow crops and the portions within the proposed ROW
+had excellent surface visibility (Figure 19). From the vantage point of the
+adjacent TxDOT ROW modern trash and road base were observed scattered in
+the fields near the current ROW, but no historic or prehistoric artifacts or sites
+were observed.
+The next property south of the Connie Smith Trust, et al. property is owned by
+John Saleh. ROE had been granted and the proposed ROW was fully surveyed in
+this property. The property is currently a cultivated field with excellent surface
+visibility. This property is followed by the Dianne Murphy property, which is in
+turn bounded on the south by CR 25. ROE was provided for Dianne Murphyâs
+cultivated field, which had excellent surface visibility and was fully surveyed. No
+prehistoric or historic artifacts or sites were observed on either property.
+Figure 19: View of Connie Smith, et. al. property (no ROE) looking northeast; note
+excellent surface visibility in proposed ROW.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+25
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+CR 25 to CR G (Plate 2)
+This segment crosses two properties, both with ROE granted. The first is another
+property owned by Donald Vogler and the second by Doris Jean Foster. Both
+properties are being actively cultivated with excellent (95-100%) surface
+visibility. Disturbance associated with the maintenance or construction of the
+current fields was observed at the boundary juncture of the two properties. Just
+east of the boundary between the Vogler and Foster properties a small playa is
+present (Figure 20). Though ground surface was sufficient to assess the project
+area within the two properties, three shovel tests (RF#9, MS#8, BJ#11) were
+placed at approximately 328 foot (100 meter) intervals in order to test for
+possibly buried deposits near the playa. No artifacts were observed on the
+surface and all shovel tests were negative.
+Figure 20: View of playa on Doris Jean Foster with shovel test BJ#11 in
+foreground.
+
+CR G to CR 26 (Plate 2)
+This segment crosses an active agricultural field owned by the Oscar Paul Vogler
+Estate. ROE had been granted and the entire proposed ROW was surveyed.
+Surface visibility was excellent. At the south edge of the property where it abuts
+CR 26, a scatter of burned caliche, chert and quartzite debitage, and nondiagnostic lithic tools was identified on the surface. This prehistoric site of
+unknown age, 41DS14, was subsequently shovel tested and found to continue
+as a surface deposit on the other side of the road (also an Oscar Paul Vogler
+property). Further discussion of the site is provided in the Site Discussion
+section.
+CR 26 to CR F (Plate 3)
+As noted above, the northernmost portion of this segment contains site 41DS14
+in property owned by the Oscar Paul Vogler Estate. The remainder of the
+segment was all agricultural fields, with the southern half owned by Henry F.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+26
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Vogler. ROE was granted for all property in this segment. Surface visibility was
+excellent in both fields. South of the limits of 41DS14 no additional artifacts of a
+prehistoric or historic character were encountered by the surveyors.
+CR F to CR 27 (Plate 3)
+This short segment crosses an active agricultural owned by Henry F. Vogler, who
+granted permission to survey the property. Surface visibility continued to be
+excellent owing to the plowing and cultivation of the field. No artifacts or sites
+were registered in this property.
+CR 27 to CR 28 (Plate 3)
+This segment crosses three different private properties. The northernmost
+property is owned by the Glynn I. & Wanda J. Snell Living Trust and was not
+surveyed because ROE was not given. The property is currently utilized for
+agriculture and is the site of a small playa (Figure 21). Observations of the
+property made from the eastern edge of the TxDOT ROW indicated that surface
+visibility was excellent. No artifacts or indications of historic or prehistoric sites
+were noted.
+The subsequent two properties were both fully surveyed as permission for
+survey had been granted by the owners. The property south of the Snell Living
+Trust field is owned by Roy Huffaker, and only a small portion of the northwest
+corner of the property will be affected by the proposed ROW expansion. Ground
+surface visibility was excellent given use of the property for agriculture. The
+southernmost property in this segment, owned by James A. Martin, was not
+being actively cultivated and was characterized by short and long grasses and
+wildflowers which resulting in only good to low surface visibility (Figure 22).
+Owing to this factor and the presence of a small playa to the west, four shovel
+tests were dug (MS#10, RF#13, RF#14, BJ#14) to assess for the possibility of
+archeological deposits. Deposits were characterized by 20-60 centimeters of
+sandy reddish yellow (5YR6/6) followed by compact red (2YR4.5/8) sandy clay.
+All shovel tests were negative for cultural materials.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+27
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 21: View looking east of Snell Living Trust property (no ROE); note dry
+playa and excellent surface visibility.
+
+Figure 22: Example of moderate to good ground surface visibility in James Martin
+property.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+28
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+CR 28 to RR 829 (Plate 3)
+This short segment comprises the northwest corner of Calvin Fosterâs property.
+ROE for this property was granted and the proposed ROW was surveyed.
+Surface visibility was good (60-90%) and no cultural materials were noted within
+the project area.
+RR 829 to RR 828 (Plate 3-4)
+The segment between RR 829 and RR 828 is a section in the proposed project
+area where the proposed ROW narrows to match the existing TxDOT ROW as it
+enters into town of Patricia. The segment crosses two properties. The
+northernmost, for which no ROE was granted, is owned by Harris Heirs, Lois
+Echols Life Estate and Gloria Echols Johnson. The southern property, for which
+ROE was granted, is owned jointly by Abel Perez, Ackerly Oil Co., Inc, and the
+M. M. Brown Childrenâs Trust. Both properties are active agricultural fields with
+excellent (95-100%) surface visibility (Figure 23). Survey along the west edge of
+the Echols property in the existing ROW did not result in the identification of
+any cultural artifacts, nor did survey in the proposed ROW in the Perez, et al.
+property.
+Figure 23: View looking north at area of proposed SH 349 ROW in Harris, et al.
+property (no ROE); note excellent surface visibility
+
+Patricia (Plate 4)
+According to the existing plans for the improvements to SH 349, as it passes
+through the small town of Patricia, the highway will utilize the existing ROW.
+Survey through the town indicated that the present ROW has the same types of
+disturbance present throughout the project area: grading and the creation of
+drainage culverts. In addition the residential and commercial development
+along the road has contributed to the disturbance through the construction of
+driveways and yards as well as the placement of utility infrastructure (Figures
+24-26). Owing to the extensive disturbance in this portion of the project area,
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+29
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+and the fact that all sites in this area are confined to the surface, no shovel tests
+were dug and the area was photo documented.
+Figure 24: View of business in existing ROW at north end of Patricia, looking north.
+
+Figure 25: View of residence along existing ROW in Patricia, looking east.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+30
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 26: View looking southeast of existing ROW and residences in southern end
+of Patricia; note deeply cut dirt road on east side of road.
+
+Patricia to CR D (Plate 4)
+This segment extends from the southern edge of development associated with
+Patricia and crosses two private properties. The northern property in the
+proposed ROW, owned by the Jose Medina & Maria Gallo Trust, was fully
+surveyed. At the time of the survey the property was not being actively cultivated
+and was covered in short and tall grasses and wildflowers. Nonetheless, surface
+visibility remained good (50-75%) and no shovel testing was deemed necessary.
+No cultural artifacts were identified during the survey of this property. The
+adjoining property to the south, owned by Carol Fry Ray, was actively cultivated
+farmland with excellent surface visibility, though ROE was not granted for this
+property. Survey along the existing TxDOT ROW did not indicate the presence of
+any cultural materials on the surface of the property adjacent to the ROW.
+CR D to CR 30 (Plate 4)
+This segment of the survey crossed the property of Nora Espindola & Sam and
+Syble Parham, who granted ROE to survey the proposed ROW. The property is
+an active agricultural field with excellent (95-100%) surface visibility. During the
+course of the survey a small scatter of approximately 5 burned pieces caliche
+was found. This area measured less than 16.4 X 6.56 feet (5 X 2 meters).
+Intensive surface inspection of the surrounding area failed to find other burned
+caliche or other types of cultural artifacts. In addition, three shovel tests were
+placed at 100 meter intervals in the field to investigate the possibility of buried
+deposits. All shovel tests were negative and encountered an upper deposit of
+loose brown (7.5YR4/4) sandy loam plow zone from 20 to 35 centimeters below
+the surface overlaying compact dark brown (7.5YR3/3) sandy clay. Because of
+the lack of other cultural material of definite prehistoric age as well as the small
+size of the burned caliche scatter, the investigators did not believe that this
+amounted to sufficient evidence to indicate that a site was present. No other
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+31
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+cultural artifacts or evidence for prehistoric or historic occupation of the site was
+recorded in the course of surveying this property.
+CR 30 to CR C (Plate 4)
+Within this small segment for which ROE was granted by the owners Jerry
+Mitchell and Sam and Syble Parham, a single piece of chert debitage was
+encountered on the ground surface. The property is an active agricultural field
+with excellent (95-100%) surface visibility. Subsequent to locating the flake,
+intensive inspection of the ground surface in the field and in the existing TxDOT
+ROW on both sides of SH 349 was conducted. No additional cultural artifacts
+were found to be present on the surface. Additionally, three shovel tests (RF#15,
+MS#11, BJ#15) were dug adjacent to the area in which the flake was found. All
+shovel tests were negative for cultural materials. Based on the lack of additional
+evidence, the flake was recorded as an isolated find (IF#1) and not registered as
+a site.
+CR C to CR 31 (Plate 4)
+This segment was located entirely within an agricultural field owned by Nora
+Phillips and ROE was given to survey the proposed ROW. The majority of the
+property was active agricultural land with excellent surface visibility (95-100%).
+No prehistoric or historic cultural materials were noted during the survey of the
+property. At the southern end of the property where it abutted CR 31, an
+artificial rise was noted and investigated (Figure 27). The rise is vegetated with
+short and tall grasses and weeds and has large modern trash and debris at the
+apex. The rise appears to have been constructed by pushing or possibly
+dumping a large amount of soil and caliche here and clearly demonstrates
+disturbance on this portion of the property.
+Figure 27: View looking south of garbage located on top of artificial rise on the
+Nora Phillips property.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+32
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+CR 31 to CR 5100 (Plate 5)
+In this segment the proposed SH 349 project area crosses into Martin County
+just south of CR 31. No ROE was granted for either of the two properties within
+this segment. The northern property is owned jointly by David Riker, Joan Riker
+Haney, and Jayne Riker Olear, and the southern property by Alissa Paige,
+Cawfield Howard, and Stephen Lee Cawfield. Both properties are being
+cultivated and have excellent (95-100%) ground surface visibility (Figures 28,
+29). As observed from the eastern edge of the existing TxDOT ROW, no
+prehistoric or historic cultural artifacts were noted as present.
+Figure 28: View looking east of proposed ROW in Riker Property (no ROE); note
+excellent surface visibility.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+33
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 29: View looking northeast of proposed ROW in Paige, Howard and Cawfield
+property (no ROE); note excellent surface visibility.
+
+CR 5100 to CR 2651 (Plate 5)
+Through this segment the proposed SH 349 ROW crosses four different
+properties. Only the southernmost property owned by the Heddy Mitchel Myrtle
+Estate granted ROE to survey the proposed ROW. The other three properties,
+from north to south, were the G. I. Snell property, C. R. Hightower property, and
+the J & K Farms property. Of these three no ROE properties, the G. I. Snell
+property is actively being cultivated and provided excellent (95-100%) surface
+visibility from the eastern edge of the existing TxDOT ROW (Figure 30). No
+prehistoric or historic cultural materials were observed when investigating the
+property from the existing ROW. The other two properties are both currently
+uncultivated and covered in moderate to dense ground cover which limited
+observation of the properties from the existing ROW, though no artifacts were
+noted in the ROW or on what could be seen of the surface of the two properties
+(Figure 31). Finally, the Myrtle Estate property was surveyed within the
+proposed ROW. Given the good (60%) to very good (80%) surface visibility on the
+property, no shovel tests were dug and no archeological artifacts were observed.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+34
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 30: View looking east of cultivated field within proposed ROW in G. I. Snell
+property (no ROE).
+
+Figure 31: View of J & K Farms and C. R. Hightower properties (no ROE) looking
+east; note very dense vegetation.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+35
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+CR2651 to CR 4800 (Plates 5-6)
+This segment crossed six separate properties for which all but the southern two
+ROE had been granted. The northern property in the segment is owned by the
+KNAB Corporation and is not currently being utilized. Ground surface visibility
+was moderate to very good (40-80%) with short and tall grasses, mesquite and
+cactus present. A small playa located on the east side of SH 349 is in the center
+of the property. On the south and eastern sides of the playa there is a very
+notable rise in the topography just outside the ROW. It is unclear if this rise is a
+natural or artificial feature. At the southern end of the property at the top of a
+rise on the southern side of the playa a low density scatter of burned caliche and
+lithic debitage was recorded as 41MT42 (see Site Discussion section below). Six
+shovel tests were dug in association with the recording of 41MT42.
+South of the KNAB Property and 41MT42, the next property was an agricultural
+field with excellent surface visibility owned by T. Shook. No cultural materials
+were noted during the survey of this property. South of the Shook property
+another KNAB Corp. property was surveyed. As with the first KNAB Corp.
+property, this land was currently unused and overgrown with short and tall
+grasses, mesquite, and cactus. In the northern end of the property the ground
+surface visibility was less than 30% and two shovel tests (BJ#18, MS#14) placed
+100 meters apart were dug. Sediments encountered in the shovel tests
+consisted of loose dark yellow brown (10YR4/6) sandy clay which transitioned to
+dark brown (7.5YR3/3) clay at 60-65 centimeters below the surface. Both
+shovel tests were negative and no artifacts were observed on the surface of the
+property. In the adjoining uncultivated property to the south, owned by J.P.
+Vogler, survey in the proposed ROW encountered generally low surface visibility.
+As a result four shovel tests (BJ#17, MS#13, RF#17, RF#18) were dug to
+investigate for cultural resources. All shovel tests were negative for cultural
+materials, encountering sterile dark yellow brown (7.5YR4/6) compact sandy
+clay to a depth of 35-60 centimeters below the surface underlain by strong
+brown (7.5YR4/6) clay.
+No ROE was granted for the Lee Graves or JRC Land & Cattle properties in the
+southern portion of this segment. Neither property was currently being utilized
+and offered low surface visibility from the vantage of the existing TxDOT ROW
+(Figure 32). From limited observation no cultural material was noted as present
+in either property adjacent to the existing ROW. At the southern end of the JRC
+Land & Cattle Property an area of disturbance consisting of an artificial rise
+adjacent to an access road and capped by a juncture of gas pipelines was
+documented (Figure 33).
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+36
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 32: View of Lee Graves property (no ROE) looking east; note dense ground
+cover
+
+Figure 33: View looking east of gas pipeline juncture on artificial rise on JRC Land
+& Cattle property.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+37
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+CR 4800 to CR 2051 (Plate 6-7)
+The CR 4800 to CR 2051 segment begins in the north in the property of B. J.
+Lambright for which ROE was granted. This property is a cultivated field with
+excellent surface visibility. Near the north end of the property a very low density
+scatter of burned caliche, lithic debitage and a medial biface fragment was
+recorded as a unknown aged prehistoric Site 41MT43 (see below for further
+discussion). Six shovel tests were dug in relation to this site. Survey in the
+southern portions of the property did not identify any additional prehistoric or
+historic cultural material. South of this northern Lambright property the
+proposed ROW crosses the northwest corner of an agricultural field owned by F.
+Deatherage. ROE for this property was granted and survey of this field with
+excellent visibility did not identify any archeological materials. South of this
+property the proposed ROW enters a property owned by G. L. Snell for which no
+ROE was provided. Approximately half way through the Snell property, which is
+cultivated and presents excellent surface visibility, the proposed ROW crosses to
+the western side of the existing SH 349 into more property owned by B. J.
+Lambright. Within the Lambright property, which is uncultivated, surface
+visibility was low to moderate requiring that three shovel tests (BJ#50, BJ#51,
+MS#57) be dug to assess the possible presence of cultural material. All shovel
+tests were negative. At the southern end of this Lambright property, the
+proposed ROW passes through the northeast corner of a property owned by
+Paige Echols for which no ROE was granted. This property has low to moderate
+surface visibility but is also clearly disturbed by the presence of several
+transmission lines and access roads (Figure 34). South of the Paige Echols
+property more property owned by B. J. Lambright was surveyed. The ground
+visibility was low to moderate throughout the northern portions of this property.
+As a result four shovel tests were placed in areas of low visibility (MS#58,
+MS#59, BJ#52, BJ#53). All four shovel tests were negative for cultural materials.
+At the southern end of this Lambright property surface visibility was much
+improved (50-90%).
+Near the middle of this B. J. Lambright property, disturbance associated with
+the Patricia Substation operated by Seminole Pipeline was documented in the
+proposed ROW (Figure 35). South of the Patricia Substation where the proposed
+ROW continues to pass west of SH 349 there is extensive disturbance present
+throughout the proposed ROW in the B. J. Lambright, W. P. Hatchett and
+Jimmy G. Brown properties (all granted ROE). At least two subsurface gas lines
+â one natural gas and another poisonous gas â run south paralleling SH 349
+through the proposed ROW (Figure 36). On the eastern edge of the proposed
+ROW a buried fiber optic cable is present and an overhead transmission line.
+Additional disturbance associated with access roads to oil field sites and gas
+lines that connect with the north south lines occur regularly throughout this
+southern portion of the segment. At the southernmost terminus of this segment
+on the Jimmy G. Brown property, there is a large area of disturbance where
+numerous gas lines converge on the west edge of SH 349, apparently before
+passing under the highway to a large gas processing or pumping station on the
+east side of the highway outside of the proposed ROW (Figures 37, 38).
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+38
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 34: View west down transmission line at intersection of Lambright and
+Echols property in Martin County; not clearly visible, but access road parallels
+transmission line on left side.
+
+Figure 35: View looking south down proposed on Lambright property with view of
+Patricia Substation sign, gas lines, transmission line, and pole marking buried
+fiber optic cable.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+39
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 36: View looking south down proposed ROW on Lambright property with
+poison gas pipeline sign; additional natural gas pipeline runs between power line
+and poison gas line.
+
+Figure 37: View looking south on Brown property at intersection of SH 349 and CR
+2051; note convergence of multiple subsurface gas lines, fiber optic cable,
+transmission line and disturbed ground surface.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+40
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 38: View looking east of gas pumping station on east side of SH 349 at
+intersection with CR 2051 on edge of existing ROW.
+
+CR. 2051 to SH 176 (Plates 7-9)
+This long segment is the largest area in the project area where no ROE was
+granted. The property in this segment is held by either R. B. Holt et. al. or J. G.
+Mabee. In the northernmost portion the proposed ROW crosses SH 349 to again
+parallel the eastern edge of the existing ROW. In this same area the project area
+also crosses Mustang Draw. Mustang Draw is nearly imperceptible, marked by
+broad low valley with rises on both sides (Figure 39). The draw has no clearly
+defined channel. Surface visibility is low in lower portions of the draw, which are
+overgrown with short and tall grasses and wildflowers. Disturbance is evident on
+the surface of the existing ROW where road base covers much of the surface of
+the rise north of the draw and concrete retaining walls have been placed in the
+ROW to minimize erosion (Figure 40, 41). Originally, backhoe trenching had
+been proposed for properties crossing Mustang Draw. However, owing to the fact
+that ROE was not granted in this area and five shovel tests (RF#8, MS#5, MS#6,
+BJ#9, BJ#10) in the existing ROW demonstrated significant disturbance within
+the existing ROW, no backhoe trenching was conducted. The five shovel tests all
+indicated that the construction of the highway had disturbed the deposits in the
+existing ROW in a manner consistent with that observed elsewhere in the project
+area. Modern trash and road base are present in the upper 40 to 80 centimeters
+of deposits, and sterile compact sandy clay is present below. No evidence of
+cultural material was noted on the surface or in the shovel tests. However, a
+white cross with a red plate was situated at the top of the rise above Mustang
+Draw on the west edge of the existing ROW commemorating the death of Sue
+Allen Scism due to an accident on November 5, 1972 (Figure 42).
+Throughout the remainder of the segment efforts were made to assess the
+possibility of cultural materials in the proposed ROW from the existing ROW.
+Generally, this land is uncultivated and has poor to moderate surface visibility,
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+41
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+limiting the ability of investigators to make valid assessments. East-west
+oriented subsurface gas lines, access roads, a large cleared area with two oil
+tanks (3.8 miles south of CR 2051 on Mabee property), and a large âstock tankâ
+(2,460 feet (750 meters) north of SH 176 on Holt property) resulted in isolated
+disturbance to the proposed ROW visible from the existing ROW (Figures 43,
+44). In attempting to assess the proposed ROW, particular focus was placed on
+rises near playas, since prehistoric and historic archeological sites occur on
+these landforms both in the project area and in the broader region. While
+significant modification of the existing ROW was documented, no cultural
+materials were identified at any point along the segment. North of SH176 on the
+Holt property a large stock tank or similar construction was documented as
+clear disturbance within the proposed ROW. Within this northern area of the
+Holt property plans are for the proposed ROW to be straightened and moved
+further east of the current road than is typical in the project area (Figure 45,
+Plate 9). An improved interchange is proposed for this area as well. None of
+these proposed ROW areas or improvements could be assessed from the existing
+ROW due to a lack of ROE.
+Figure 39: View in existing ROW at shovel test MS#6 looking north at rise from
+Mustang Draw; note dense ground cover.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+42
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 40: Looking south across Mustang Draw from rise on north side; note road
+fill visible in existing ROW.
+
+Figure 41: Concrete retaining walls placed on slope of rise in existing ROW on
+north side of Mustang Draw.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+43
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 42: Roadside cross with plaque in existing ROW on west side of SH 349
+north of Mustang Draw commemorating 1972 death.
+
+Figure 43: View looking east of cleared pad and oil tanks in proposed ROW on
+Mabee property (no ROE) 3.8 miles south of CR 2051 looking east.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+44
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 44: View looking east of âstock tankâ 2,460 feet north of SH 176 within
+proposed ROW on Holt property (no ROE).
+
+Figure 45: View looking south of area of expanded ROW associated with
+straightening of SH 349 and SH 176 interchange improvements located on Holt
+property (no ROE) north of SH 176(visible in background).
+
+SH176 to CR3200 (Plates 10-12)
+The northern end of this long segment continues crossing Mabee and Holt
+properties to which no ROE had been granted. Both properties are uncultivated
+range land and oil leases. Here the proposed SH 349 ROW varies in its location
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+45
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+relative to the existing ROW, being situated on Holt property on the eastern side
+of SH 349 as it crosses under SH 176, before crossing to the western side of SH
+349 in the southern portion of the Mabee property. Surface visibility from the
+existing ROW for both properties was low to good (30-60%). From the existing
+ROW no cultural materials were observed. A small playa is present near the SH
+176 overpass on the west side of the road and a larger playa is present on the
+eastern side of the road in the southern portion of the Holt property. An access
+road leading to oil and gas drilling equipment has also impacted the proposed
+ROW on the Holt property.
+South of the Mabee property where the proposed ROW continues along the
+western side of SH 349 it crosses a series of small properties. The first is the
+Mrs. W. S. Kelton property. ROE was granted to this property. In the proposed
+ROW the property has been completely disturbed through the construction of a
+large oil or gas refining or pumping station (Figure 46). Here the surface has
+been stripped and resurfaced and several different structures constructed. The
+adjacent L. F. Cowden property also had ROE granted. Here the surface visibility
+was low to moderate (15-50%). Three shovel tests (MS#60, BJ#54, BJ#55) were
+excavated in this property to investigate the possibility of cultural resources. All
+three shovel tests were negative for cultural resources and encountered a layer
+of compact brown (7.5YR 4/4) sandy clay with increasing caliche content with
+depth. Impenetrable caliche was encountered from 18 to 45 centimeters below
+surface. In addition, disturbance was recorded along the eastern edge of the
+proposed ROW were a small dirt road with two visible ruts paralleled the
+fenceline (Figure 47). Within this dirt track numerous caliche cobbles were
+visible on the surface, indicating disturbance. The E. F. Kelton property south of
+the Cowden property was only minimally in the proposed ROW as it again moves
+to the eastern side of SH 349 and back on to the Holt property. In this property
+within the proposed ROW the small dirt track was present indicating clear
+subsurface disturbance.
+After crossing back to the eastern side of SH 349 onto the Holt property, the
+proposed ROW quickly proceeds onto a large parcel of land owned by C.
+Scharbauer Jr.. From this point the proposed ROW continues along the eastern
+side of the SH 349 for the remainder of this segment. As ROE was granted for
+the Scharbauer property, it was completely surveyed through this segment. Near
+the northern end where it abuts the Holt property, a slight rise and adjacent
+upland south of a playa was found to have a light to moderate density scatter of
+historic artifacts and small surface features from the twentieth century. This
+scatter was registered as site 41MT44 and six shovel tests were excavated in
+association (see Site Discussion section). Survey throughout this extensive
+Scharbauer property encountered a wide range of surface conditions with
+surface visibility ranging from low (15%) to excellent (90%) (Figures 48, 49).
+Broadly speaking, except in areas near or in two playas, the northern portions of
+the Scharbauer area had higher surface visibility, in part due to recent burning
+of the ground surface. As a result less intensive shovel testing was conducted
+with twenty shovel tests dug in areas of lower visibility in the northern portion
+(BJ#39-49, MS#48-56). In the final approximately 1.45 miles (2,340 meters) of
+the Scharbauer property, surface visibility was consistently poorer (less than
+30%) and 24 shovel tests were dug at approximately 328 foot (100 meter)
+intervals in this portion of the project area. With the exception of shovel tests
+dug within the boundaries of 41MT44, all shovel tests were negative for cultural
+materials. Soils within the shovel tests tended towards deeper sandy loams in
+the northern portions and shallow sandy clays with caliche in the south.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+46
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Throughout the project area within this Scharbauer property, evidence of an old
+dirt track was intermittently observed running along the eastern edge of the
+property fenceline, resulting in disturbance to western edge of the proposed
+ROW. Occasional buried gas lines were also noted.
+The final property in this segment is owned by EDMC and entry was not
+granted. The property is a plowed and cultivated field with excellent surface
+visibility (Figure 50). Survey along the edge of the property did not identify any
+cultural materials.
+Figure 46: View looking southwest of cleared area and buildings within proposed
+ROW on W. S. Kelton property
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+47
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 47: Looking south along edge of existing ROW and proposed ROW on
+Cowden property; caliche cobbles and surface disturbance associated with dirt
+track paralleling fenceline.
+
+Figure 48: View of low visibility ground surface on Scharbauer property south of
+41MT44
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+48
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 49: View of good surface visibility on Scharbauer property south of 41MT44
+
+Figure 50: View looking north at proposed and existing ROW on EDMC property;
+note drains in existing ROW and excellent surface visibility on EDMC property.
+
+CR3200 to Lazy Ranch Road (Plate 12-14)
+The final segment of the proposed SH 349 improvement begins along the eastern
+edge of SH 349 in a property owned by J. G. Mabee et. al., and for which no
+ROE was granted. It then switches to the western side of SH 349 where it
+continues on Mabee property and then crosses onto property owned jointly by
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+49
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+George W. Gass and Monta Johnson, which also was unable to be surveyed due
+to a lack of access. Both the Mabee et. al. and the Gass and Johnson properties
+are uncultivated range land and have multiple oil jacks and access roads.
+Surface visibility in both was low to good (20-60%). From the existing ROW no
+cultural materials were observed.
+South of the Gass and Johnson property, the proposed ROW again switches to
+the eastern side of SH 349 and onto lands owned exclusively by Monta Johnson
+(the Johnson Ranch). ROE to this property had been granted and the proposed
+ROW throughout this property was fully surveyed. In general, surface visibility
+was less than 30% and 23 shovel tests (MS#20-21, BJ#27-31, RF#26-31) were
+excavated at 100 meter intervals except were significant disturbance was
+present. All of the shovel tests were negative for cultural materials. Typical
+shovel tests encountered compact yellow-red (10YR5/4) sandy clay overlaying
+caliche at a depth from 15-25 centimeters below the surface. At the main
+entrance to the Johnson Ranch, extensive disturbance as noted in association
+with the gate and an access road and subsurface waterline being built (Figure
+51). Additional disturbance was noted associated with occasional subsurface
+gas lines on the property. Finally, evidence of a dirt track nearly identical to the
+one on the Scharbauer property was recorded along the western edge of the
+current fenceline (and western edge of the proposed ROW) south of the Johnson
+Ranch entrance and continuing to the end of the property (Figure 52). The track
+is roughly 10 feet (3 meters) wide, with two shallow ruts and occasional wooden
+fence posts marking the eastern edge. Where the track is present the subsurface
+deposits have clearly been disturbed, marked by the presence of significant
+quantities of caliche cobbles on the surface.
+South of the Johnson property the proposed ROW crosses onto lands owned by
+G. H. Gass and for which no ROE was provided. Surface visibility was low to
+moderate and no cultural materials were identified on the surface from the
+existing ROW. A single access road presents the only clear disturbance to the
+property.
+In the final approximately 4,724.41 feet (1,440 meters) of proposed ROW at the
+southern terminus of the project area, the proposed ROW switches back to the
+western side of SH 349. This property is owned by C. Scharbauer Jr. and ROE
+was granted. Survey of the property encountered low to moderate surface
+visibility, with areas of exposed caliche visible on the surface (Figure 53).
+Fourteen shovel tests (BJ#22-26, MS#15-19, RF#22-25) were excavated within
+this property. All shovel tests were negative for cultural materials and
+encountered shallow yellowish-red (10YR5/4) sandy clay soils overlying caliche
+at depths ranging from 10 to 30 centimeters below surface. In addition a buried
+fiber optic cable runs along the eastern edge of the proposed ROW in this
+property, as it does through all properties on the western side of SH 349.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+50
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 51: View of disturbance south of Johnson Ranch entrance in proposed ROW
+looking south.
+
+Figure 52: View looking south down road in proposed ROW; note caliche visible on
+surface as a result of disturbance to natural soils.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+51
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Results of Field Investigations
+
+Figure 53: View of moderate surface visibility near shovel test MS#15 on
+Scharbauer property near southern project terminus.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+52
+
+N 4th
+
+St
+
+CRJ
+
+SH 349 - Archeological
+Field Investigations
+
+0
+oad 2
+FM R
+
+52
+US HWY 180
+
+DAWSON COUNTY
+
+52
+
+7
+
+8
+
+5
+
+82 9
+
+R AN
+
+11
+
+RD
+
+STAT E HWY 176
+
+CH
+
+MARTIN COUNTY
+
+10
+
+R AN
+
+9
+
+6
+
+137
+
+ad J
+ty Ro
+Coun
+
+0
+oad 2
+FM R
+
+E
+
+3
+
+4
+
+1
+
+WY
+
+STAT
+
+115
+HW Y
+
+2
+
+TE H
+STA
+
+ad H
+ty Ro
+Coun
+
+ad 21
+ty Ro
+Coun
+
+CH
+RD
+
+12
+
+12 1
+2
+
+13
+
+14
+
+15
+
+PR
+
+OJ
+
+MIDLAND COUNTY
+
+EC
+
+TB
+E
+
+I2
+
+0E
+
+Existing ROW
+
+GI N
+
+Proposed ROW
+Archeological Site
+
+ad 22
+ty Ro
+Coun
+
+!
+
+ad I
+ty Ro
+Coun
+
+!
+!
+
+MS1
+
+Area of Disturbance
+
+RF1
+
+No Right of Entry /
+Recommended for Clearance
+
+BJ1
+
+No Right of Entry
+Right of Entry Allowed
+Shovel Test
+
+!
+
+MS2
+
+ad 23
+ty Ro
+Coun
+
+49
+
+!
+! RF2
+
+Sta
+te
+
+Hw
+y3
+
+ad 23
+ty Ro
+Coun
+
+1
+wy
+eH
+
+BJ3
+
+37
+
+!
+
+t
+Sta
+
+ad 23
+ty Ro
+Coun
+
+BJ2
+
+RF3
+!
+! RF4
+!
+
+CRJ
+
+41DS13 RF5
+! MS3
+BJ6 !! RF6
+!
+!!
+
+ad J
+ty Ro
+Coun
+
+BJ4
+
+ad I
+ty Ro
+Coun
+
+BJ5 !
+!
+
+W
+
+ad K
+ty Ro
+Coun
+
+ad H
+ty Ro
+Coun
+
+ad H
+ty Ro
+Coun
+
+!
+
+ad 25
+ty Ro
+Coun
+
+0
+
+750
+Feet
+
+ad 24
+ty Ro
+Coun
+
+PLATE 1
+
+1,500
+
+BJ5 !
+
+ad J
+ty Ro
+Coun
+
+ad 23
+ty Ro
+Coun
+
+BJ4
+
+!
+
+BJ6 !! RF6
+!! BJ7
+!
+
+DAWSON COUNTY
+
+ad 24
+ty Ro
+Coun
+
+!
+
+RF7
+
+BJ8
+
+7
+
+8
+
+5
+
+MARTIN COUNTY
+
+10
+
+82 9
+
+R AN
+CH
+
+12
+
+RD
+12 1
+
+13
+
+2
+
+ad F
+ty Ro
+Coun
+
+ad G
+ty Ro
+Coun
+
+11
+
+RD
+
+STAT E HWY 176
+
+CH
+
+9
+
+6
+
+R AN
+
+!
+
+E
+
+3
+
+4
+
+1
+
+137
+
+STAT
+
+115
+HW Y
+
+2
+
+WY
+
+ad H
+ty Ro
+Coun
+
+!
+
+MS4
+
+US HWY 180
+
+TE H
+STA
+
+ad I
+ty Ro
+Coun
+
+41DS13 RF5
+! MS3
+
+SH 349 - Archeological
+Field Investigations
+
+14
+
+15
+
+MIDLAND COUNTY
+
+0E
+
+Existing ROW
+
+51
+
+Proposed ROW
+49
+
+d 20
+h Roa
+Ranc
+
+I2
+
+Hw
+y3
+
+Archeological Site
+
+Sta
+te
+
+Area of Disturbance
+No Right of Entry /
+Recommended for Clearance
+No Right of Entry
+
+ad F
+ty Ro
+Coun
+
+Right of Entry Allowed
+Shovel Test
+
+!
+
+ad 25
+ty Ro
+Coun
+
+!
+!
+!
+
+RF9
+
+BJ11
+
+41DS14
+
+W
+
+ad I
+ty Ro
+Coun
+
+!
+
+ad H
+ty Ro
+Coun
+
+ad G
+ty Ro
+Coun
+
+RF10
+MS9
+!!!
+RF11 !
+BJ12
+!
+!
+RF12 ! BJ13
+
+ad 26
+ty Ro
+Coun
+
+MS8
+
+0
+
+750
+Feet
+PLATE 2
+
+1,500
+
+SH 349 - Archeological
+Field Investigations
+
+RF10
+MS9
+!
+!!!
+RF11 !
+BJ12
+!
+RF12 ! BJ13
+
+!
+
+41DS14
+
+US HWY 180
+
+5
+
+CH
+RD
+
+12
+
+12 1
+2
+
+13
+
+ad 27
+ty Ro
+Coun
+
+82 9
+
+R AN
+
+11
+
+RD
+
+STAT E HWY 176
+
+CH
+
+MARTIN COUNTY
+
+10
+
+R AN
+
+Sta
+t
+
+eH
+wy
+3
+
+49
+
+7
+
+8
+
+9
+
+6
+
+137
+
+E
+
+3
+
+4
+
+1
+
+WY
+
+STAT
+
+115
+HW Y
+
+2
+
+TE H
+STA
+
+DAWSON COUNTY
+
+ad H
+ty Ro
+Coun
+
+ad 26
+ty Ro
+Coun
+
+14
+
+15
+
+MIDLAND COUNTY
+
+I2
+
+0E
+
+Existing ROW
+Proposed ROW
+Archeological Site
+Area of Disturbance
+No Right of Entry /
+Recommended for Clearance
+d 82
+h Roa
+Ranc
+
+No Right of Entry
+Right of Entry Allowed
+Shovel Test
+
+!
+
+9
+
+!
+
+!
+!
+
+RF14
+
+ad G
+ty Ro
+Coun
+
+!
+!
+
+MS10
+
+BJ14
+
+RF13
+
+ad 28
+ty Ro
+Coun
+
+ad F
+ty Ro
+Coun
+
+W
+0
+
+750
+Feet
+
+ad 29
+ty Ro
+Coun
+
+PLATE 3
+
+1,500
+
+SH 349 - Archeological
+Field Investigations
+US HWY 180
+
+7
+
+8
+
+5
+
+82 9
+
+R AN
+
+11
+
+RD
+
+STAT E HWY 176
+
+CH
+
+MARTIN COUNTY
+
+10
+
+R AN
+
+9
+
+6
+
+137
+
+E
+
+3
+
+4
+
+WY
+
+STAT
+
+115
+HW Y
+
+1
+TE H
+STA
+
+DAWSON COUNTY
+
+ad 29
+ty Ro
+Coun
+
+2
+
+CH
+RD
+
+12
+
+12 1
+2
+
+13
+
+14
+
+St
+
+e
+at
+
+Hw
+
+y
+
+5
+11
+
+d 82
+h Roa
+Ranc
+
+8
+
+15
+
+MIDLAND COUNTY
+
+29
+Road
+County
+
+I2
+
+0E
+
+Existing ROW
+Proposed ROW
+Archeological Site
+Area of Disturbance
+No Right of Entry /
+Recommended for Clearance
+
+y 30
+ty Hw
+Coun
+
+No Right of Entry
+
+CRD
+
+Right of Entry Allowed
+ad F
+ty Ro
+Coun
+
+BJ16
+
+!
+
+MS12
+
+9
+
+RF16
+
+d 82
+h Roa
+Ranc
+
+9P 1
+CR2
+
+Shovel Test
+
+!
+
+!
+
+!
+ad 30
+ty Ro
+Coun
+
+BJ15 !
+!
+!
+I.F. #1 !
+!
+
+RF15
+
+!
+!
+MS11
+
+W
+
+eH
+wy
+3
+
+ad 31
+ty Ro
+Coun
+
+Sta
+t
+
+ad 30
+ty Ro
+Coun
+
+49
+
+0
+CR3
+
+ad 31
+ty Ro
+Coun
+
+ad C
+ty Ro
+Coun
+
+ad D
+ty Ro
+Coun
+
+0
+
+750
+Feet
+PLATE 4
+
+1,500
+
+ad
+ty Ro
+
+eH
+St a
+t
+
+31
+
+SH 349 - Archeological
+Field Investigations
+US HWY 180
+
+DAWSON COUNTY
+
+137
+
+5
+
+82 9
+
+CH
+
+ad
+ty Ro
+
+11
+
+RD
+
+STAT E HWY 176
+
+CH
+
+MARTIN COUNTY
+
+10
+
+R AN
+
+ty
+
+7
+
+8
+
+9
+
+0
+
+6
+
+R AN
+
+C oun
+
+C oun
+
+510
+R oa d
+
+E
+
+3
+
+4
+
+1
+
+WY
+
+STAT
+
+115
+HW Y
+
+2
+
+TE H
+STA
+
+ad C
+ty Ro
+
+30
+
+wy
+
+34
+
+9
+
+C oun
+
+ad
+ty Ro
+
+ty
+
+C oun
+
+C oun
+
+C oun
+
+30
+R oa d
+
+RD
+
+12
+
+12 1
+2
+
+2651
+
+13
+
+14
+
+15
+
+MIDLAND COUNTY
+
+I2
+
+0E
+
+Existing ROW
+Proposed ROW
+
+y3
+
+49
+
+Archeological Site
+
+St
+at
+e
+
+Hw
+
+Area of Disturbance
+No Right of Entry /
+Recommended for Clearance
+No Right of Entry
+
+C oun
+
+Right of Entry Allowed
+
+ad
+ty Ro
+
+Shovel Test
+
+!
+
+2601
+
+C oun
+
+ad
+ty Ro
+
+4980
+
+RF21
+BJ21 !
+!
+!!
+! BJ20
+!
+!
+RF19 !! RF20
+BJ19
+
+W
+
+41MT42
+
+0
+
+750
+Feet
+
+MS14
+
+!
+!
+
+BJ18
+
+PLATE 5
+
+1,500
+
+SH 349 - Archeological
+Field Investigations
+
+MS14
+
+!
+!
+
+US HWY 180
+
+BJ18
+
+STAT E HWY 176
+
+CH
+RD
+
+12
+
+12 1
+
+13
+
+00
+
+2
+
+ad 48
+ty Ro
+Coun
+
+82 9
+
+11
+
+!
+
+RD
+
+!
+!
+
+CH
+
+MARTIN COUNTY
+
+R AN
+
+9
+
+5
+
+137
+
+7
+
+8
+
+10
+
+!
+
+6
+
+R AN
+
+MS13
+
+RF18
+
+51
+
+BJ17
+
+!
+
+ad 26
+ty Ro
+Coun
+
+RF17
+
+E
+
+3
+
+4
+
+1
+
+WY
+
+STAT
+
+115
+HW Y
+
+2
+
+TE H
+STA
+
+DAWSON COUNTY
+
+!
+
+14
+
+15
+
+MIDLAND COUNTY
+
+I2
+
+0E
+
+Existing ROW
+Proposed ROW
+Archeological Site
+Area of Disturbance
+No Right of Entry /
+Recommended for Clearance
+MS63
+BJ58 !! MS61
+!! BJ56
+!
+!
+BJ57 ! MS62
+
+No Right of Entry
+
+41MT43
+
+Shovel Test
+
+!
+
+eH
+wy
+3
+
+49
+
+00
+
+St
+at
+
+ad 48
+ty Ro
+Coun
+
+Right of Entry Allowed
+
+MS57
+
+!
+
+BJ50
+
+!
+
+MS58 !
+BJ52
+
+BJ51
+
+W
+
+d
+Sun R
+
+!
+
+!
+
+BJ53 !
+
+0
+
+MS59
+
+750
+Feet
+
+!
+
+Sun Rd
+
+PLATE 6
+
+1,500
+
+BJ53 !
+
+!
+
+MS59
+
+SH 349 - Archeological
+Field Investigations
+US HWY 180
+
+7
+
+8
+
+5
+
+82 9
+
+R AN
+
+11
+
+RD
+
+STAT E HWY 176
+
+CH
+
+MARTIN COUNTY
+
+10
+
+R AN
+
+9
+
+6
+
+137
+
+E
+
+3
+
+4
+
+WY
+
+STAT
+
+115
+HW Y
+
+1
+TE H
+STA
+
+DAWSON COUNTY
+
+2
+
+CH
+RD
+
+12
+
+12 1
+2
+
+13
+
+14
+
+15
+
+MIDLAND COUNTY
+
+I2
+
+0E
+
+Existing ROW
+Proposed ROW
+Archeological Site
+Area of Disturbance
+No Right of Entry /
+Recommended for Clearance
+Co
+un
+ty
+
+Ro
+ad
+
+No Right of Entry
+20
+
+Right of Entry Allowed
+
+51
+
+Shovel Test
+
+!
+
+!
+
+!
+
+!
+
+!
+
+MS5
+
+BJ9
+
+BJ10
+
+MS6
+
+W
+
+St
+at
+
+eH
+wy
+3
+
+49
+
+!
+
+RF8
+
+0
+
+750
+Feet
+PLATE 7
+
+1,500
+
+SH 349 - Archeological
+Field Investigations
+US HWY 180
+
+7
+
+8
+
+5
+
+82 9
+
+R AN
+
+11
+
+RD
+
+STAT E HWY 176
+
+CH
+
+MARTIN COUNTY
+
+10
+
+R AN
+
+9
+
+6
+
+137
+
+E
+
+3
+
+4
+
+WY
+
+STAT
+
+115
+HW Y
+
+1
+TE H
+STA
+
+DAWSON COUNTY
+
+2
+
+CH
+RD
+
+12
+
+12 1
+2
+
+13
+
+14
+
+15
+
+MIDLAND COUNTY
+
+I2
+
+0E
+
+Existing ROW
+
+9
+
+Proposed ROW
+
+eH
+
+wy
+
+34
+
+Archeological Site
+
+St
+at
+
+Area of Disturbance
+No Right of Entry /
+Recommended for Clearance
+No Right of Entry
+Right of Entry Allowed
+Shovel Test
+
+!
+
+W
+0
+
+750
+Feet
+PLATE 8
+
+1,500
+
+SH 349 - Archeological
+Field Investigations
+US HWY 180
+
+7
+
+8
+
+5
+
+3
+
+829
+
+RAN
+
+11
+
+RD
+
+STATE HWY 176
+
+CH
+
+MARTIN COUNTY
+
+10
+
+RAN
+
+9
+
+6
+
+4
+
+137
+
+H
+STATE
+
+5
+WY 11
+
+1
+WY
+TE H
+STA
+
+DAWSON COUNTY
+
+2
+
+CH
+RD
+
+12
+
+121
+2
+
+13
+
+14
+
+15
+
+MIDLAND COUNTY
+
+I2
+
+0E
+
+34
+9
+
+Existing ROW
+
+St
+at
+
+eH
+
+wy
+
+Proposed ROW
+Archeological Site
+Area of Disturbance
+No Right of Entry /
+Recommended for Clearance
+No Right of Entry
+Right of Entry Allowed
+Shovel Test
+
+!
+
+0
+
+State H
+wy
+
+W
+750
+
+Feet
+176
+
+PLATE 9
+
+1,500
+
+SH 349 - Archeological
+Field Investigations
+US HWY 180
+
+State H
+wy
+
+176
+
+7
+
+8
+
+5
+
+3
+
+829
+
+RAN
+
+11
+
+RD
+
+STATE HWY 176
+
+CH
+
+MARTIN COUNTY
+
+10
+
+RAN
+
+9
+
+6
+
+4
+
+137
+
+H
+STATE
+
+5
+WY 11
+
+1
+WY
+TE H
+STA
+
+DAWSON COUNTY
+
+2
+
+CH
+RD
+
+12
+
+121
+2
+
+13
+
+14
+
+15
+
+MIDLAND COUNTY
+
+I2
+
+0E
+
+Existing ROW
+Proposed ROW
+Archeological Site
+Area of Disturbance
+No Right of Entry /
+Recommended for Clearance
+No Right of Entry
+Right of Entry Allowed
+Shovel Test
+
+!
+Hw
+State
+y 349
+!
+!
+
+MS60
+
+!
+
+BJ54
+
+!
+
+BJ55
+
+MS44 MS46
+! MS45
+MS42 !!
+!
+!!
+MS6
+MS43
+
+!
+
+41MT44
+
+BJ39
+
+!
+
+MS48
+
+0
+
+W
+750
+
+Feet
+PLATE 10
+
+1,500
+
+!
+!
+
+MS48
+
+SH 349 - Archeological
+Field Investigations
+US HWY 180
+
+!
+!
+
+DAWSON COUNTY
+
+BJ40
+
+7
+
+8
+
+5
+
+3
+
+829
+
+RAN
+
+11
+
+RD
+
+STATE HWY 176
+
+CH
+
+MARTIN COUNTY
+
+10
+
+RAN
+
+9
+
+6
+
+4
+
+1
+
+137
+
+H
+STATE
+
+5
+WY 11
+
+2
+
+WY
+TE H
+STA
+
+!
+
+MS49
+
+CH
+RD
+
+12
+
+121
+2
+
+13
+
+14
+
+Hw
+State
+
+15
+
+MIDLAND COUNTY
+
+I2
+
+0E
+
+y 349
+
+Existing ROW
+Proposed ROW
+Archeological Site
+Area of Disturbance
+No Right of Entry /
+Recommended for Clearance
+No Right of Entry
+Right of Entry Allowed
+
+!
+
+!
+
+Shovel Test
+
+!
+
+BJ41
+MS50
+
+!
+
+BJ42
+
+!
+
+BJ43
+
+!
+
+MS51
+
+!
+
+BJ44
+
+!
+
+MS52
+
+!
+
+BJ45
+
+!
+
+BJ46
+
+!
+
+MS53
+
+!
+
+MS54
+
+!
+
+MS55
+
+!
+
+BJ48
+
+0
+
+W
+750
+
+Feet
+PLATE 11
+
+1,500
+
+!
+
+Hw
+State
+
+SH 349 - Archeological
+Field Investigations
+US HWY 180
+
+y 349
+
+!
+
+H
+STATE
+
+MS56
+
+5
+WY 11
+
+Archeological Site
+
+RF34
+
+!
+
+BJ35
+
+!
+
+Area of Disturbance
+
+MS36
+
+!
+
+0E
+
+Proposed ROW
+
+MS35
+
+!
+
+I2
+
+Existing ROW
+
+RF33
+
+!
+
+829
+
+BJ34
+
+!
+
+RD
+
+15
+
+MIDLAND COUNTY
+
+MS34
+
+!
+
+CH
+
+14
+
+BJ33
+
+!
+
+2
+
+13
+
+MS33
+
+!
+
+121
+
+!
+!
+
+RD
+
+12
+
+RF32
+
+RAN
+
+11
+
+MS32
+
+!
+
+STATE HWY 176
+
+CH
+
+!
+!
+
+MARTIN COUNTY
+
+10
+
+BJ32
+
+5
+
+3
+
+RAN
+
+!
+
+7
+
+8
+
+9
+
+6
+
+4
+
+137
+
+!
+
+BJ49
+
+1
+WY
+TE H
+STA
+
+DAWSON COUNTY
+
+2
+
+No Right of Entry /
+Recommended for Clearance
+
+RF35
+
+!
+
+No Right of Entry
+
+BJ36
+
+!
+
+MS37
+
+!
+
+Right of Entry Allowed
+
+MS38
+
+!
+
+!
+
+Shovel Test
+
+!
+
+RF36
+BJ37
+
+!
+
+MS39
+
+!
+
+RF37
+
+!
+
+MS40
+
+!
+
+BJ38
+!
+!
+
+MS41
+!
+!
+
+RF38
+
+Coun
+
+ty Ro
+
+0
+ad 32
+
+0
+
+0
+
+W
+750
+
+Feet
+PLATE 12
+
+1,500
+
+SH 349 - Archeological
+Field Investigations
+US HWY 180
+
+7
+
+8
+
+5
+
+3
+
+829
+
+RAN
+
+11
+
+RD
+
+STATE HWY 176
+
+CH
+
+MARTIN COUNTY
+
+10
+
+RAN
+
+9
+
+6
+
+4
+
+137
+
+H
+STATE
+
+5
+WY 11
+
+1
+WY
+TE H
+STA
+
+DAWSON COUNTY
+
+2
+
+CH
+RD
+
+12
+
+121
+2
+
+13
+
+14
+
+15
+
+MIDLAND COUNTY
+
+I2
+
+0E
+
+Existing ROW
+Proposed ROW
+Archeological Site
+Area of Disturbance
+No Right of Entry /
+Recommended for Clearance
+No Right of Entry
+Right of Entry Allowed
+Shovel Test
+
+!
+
+Hw
+State
+y 349
+
+!
+
+MS20
+
+!
+
+BJ27
+
+!
+
+RF26
+
+!
+
+MS21
+
+!
+
+BJ28
+
+!
+
+RF27
+
+!
+
+MS22
+
+!
+
+BJ29
+
+!
+
+MS23
+
+!
+
+RF28
+
+!
+
+MS24
+
+!
+
+MS25
+
+!
+!
+
+RF29
+
+!
+
+MS26
+
+!
+!
+
+MS27
+
+!
+!
+
+MS28
+
+!
+
+MS29
+
+!
+!
+
+BJ30
+
+0
+
+W
+750
+
+Feet
+PLATE 13
+
+1,500
+
+!
+!
+
+RF29
+
+!
+
+MS26
+
+!
+!
+
+SH 349 - Archeological
+Field Investigations
+
+MS27
+
+!
+!
+
+MS28
+
+!
+
+MS29
+
+!
+!
+
+US HWY 180
+
+BJ30
+
+DAWSON COUNTY
+
+MS30
+RF30
+
+!
+!
+
+H
+STATE
+
+MS31
+
+!
+
+5
+WY 11
+
+BJ31
+
+!
+
+RF31
+
+7
+
+8
+
+5
+
+3
+
+829
+
+RAN
+
+11
+
+RD
+
+STATE HWY 176
+
+CH
+
+MARTIN COUNTY
+
+10
+
+RAN
+
+9
+
+6
+
+4
+
+137
+
+!
+
+1
+WY
+TE H
+STA
+
+!
+
+2
+
+CH
+RD
+
+12
+
+121
+2
+
+13
+
+14
+
+15
+
+MIDLAND COUNTY
+
+I2
+
+0E
+
+Existing ROW
+Hw
+State
+
+Proposed ROW
+
+y 349
+
+Archeological Site
+Area of Disturbance
+No Right of Entry /
+Recommended for Clearance
+No Right of Entry
+Right of Entry Allowed
+Shovel Test
+
+!
+
+!
+
+BJ22
+
+!
+
+RF22
+
+!
+
+MS15
+
+!
+
+MS16
+
+!
+
+RF23
+
+!
+
+BJ23
+
+!
+
+MS17
+
+!
+
+RF24
+
+!
+
+BJ24
+
+!
+
+RF25
+
+!
+
+R
+Lazy
+
+Rd
+anch
+
+BJ25
+
+!
+
+MS18
+
+!
+
+MS19
+
+!
+!
+
+BJ26
+
+0
+
+W
+750
+
+Feet
+PLATE 14
+
+1,500
+
+SH 349 - Archeological
+Field Investigations
+US HWY 180
+
+7
+
+8
+
+5
+
+CH
+121
+
+13
+
+2
+
+PR
+
+RD
+
+12
+
+N
+
+829
+
+RAN
+
+11
+
+RD
+
+STATE HWY 176
+
+CH
+
+MARTIN COUNTY
+
+10
+
+GI
+T BE
+OJE C
+
+3
+
+RAN
+
+9
+
+6
+
+4
+
+137
+
+H
+STATE
+
+5
+WY 11
+
+1
+WY
+TE H
+STA
+
+DAWSON COUNTY
+
+2
+
+14
+
+15
+
+MIDLAND COUNTY
+
+I2
+
+0E
+
+Existing ROW
+Proposed ROW
+Archeological Site
+Area of Disturbance
+No Right of Entry /
+Recommended for Clearance
+No Right of Entry
+Right of Entry Allowed
+Shovel Test
+
+!
+
+Hw
+State
+y 349
+
+MAR TIN CO UNT Y
+
+MID LAN D CO UNT Y
+
+0
+
+W
+750
+
+Feet
+PLATE 15
+
+1,500
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+SITE DISCUSSIONS
+Five new archeological sites were recorded during the course of the survey of the
+proposed SH 349 improvements. In this section a description of each of these
+sites is presented. Because right-of-entry was restricted to 150 feet beyond the
+existing TxDOT ROW, lateral definitions of site boundaries are in several cases
+arbitrarily fixed at the edge or slightly beyond the proposed ROW based on the
+presence of artifacts within the area of ROE, not full assessment of the possible
+extent of these sites from systematic surface or subsurface observations.
+Notably, all sites were located on the upper slopes and tops of uplands
+surrounding playas. This pattern is well established in the regional archeological
+literature and doubtless reflects the importance of available water for sustaining
+both local human and animal populations. As such the results of this survey
+contribute to the construction of a basic predictive model for the location of
+archeological sites, particularly prehistoric and Protohistoric sites. In those
+areas adjacent to playas, the likelihood of encountering archeological sites is
+clearly the highest. Though survey and shovel testing within the existing ROW
+in Mustang Draw failed to encounter any cultural resources, based on previous
+investigations in the region and in the South Plains in general, the uplands
+adjacent to draws also represent areas of high probability for encountering
+archeological sites. In contrast, upland areas away from playas and draws
+represent areas of low probability for encountering archeological sites,
+particularly prehistoric sites. Though this model was applicable to historic sites
+within the surveyed areas of the proposed SH 349 ROW, the model seems
+particularly well suited for predicting the likelihood of encountering prehistoric
+sites. The probability of encountering historic sites associated with European
+settlement and occupation of the region is still considered to be potentially
+higher in areas away from playas and draws, and will require additional
+research to further refine the applicability of this model to sites of this period.
+
+41DS13
+Site 41DS13 is a moderately dense surface scatter of historic artifacts located on
+the eastern side of SH 349 in southern Dawson County on a slight rise above a
+large playa located 820.29 feet (250 meters) to the southeast (Figures 54, 55).
+Currently the site is located in an actively cultivated corn field on private
+property belonging to Donald Vogler. Based on the presence of surface artifacts,
+the site area was delineated entirely within the proposed ROW at 344.49 feet
+(105 meters) north-south by 98.43 feet (30 meters) east-west (.79 acres (3,150
+sq. meters), though modern agriculture has clearly displaced many of the
+surface artifacts (Figure 56). The densest area of artifacts was observed near the
+top of the rise approximately 49.21-114.83 feet (15-35 meters) east of the
+current road.
+Across the site the soil is a red-brown sandy loam belonging to the Amarillo
+association. Six shovel tests were dug to determine site boundaries and to
+investigate for the possibility of intact buried components (Table 2). Though
+three shovel tests recorded small numbers of fragmented historic remains to
+depths of up to 40 centimeters below surface, this depth remained within the
+range of plow zone, and it is believed that the vertical distribution of artifacts is
+a factor of the disturbance to the site resulting from agricultural land use
+patterns. No evidence for intact structural features was observed and there is no
+indication that intact deposits exist within the project area.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+83
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Table 2 Results of Shovel Tests at 41DS13
+Shovel
+Test #
+
+Max.
+Depth
+(cmbs)
+
+Depth
+(cmbs)
+
+BJ5
+
+60
+
+0-40
+40-50
+
+BJ6
+
+43
+
+0-43
+
+BJ7
+
+60
+
+MS3
+
+50
+
+RF5
+
+50
+
+RF6
+
+50
+
+0-35
+35-60
+0-50
+0-30
+30-50
+0-30
+30-50
+
+Soil Description
+(10YR 5/4) Yellowish brown sandy loam
+(7.5YR 4/6) Strong brown clay; Terminated due to ancient clay.
+(7.5YR 4/6) Strong brown sandy loam with a 20-30cm plow zone;
+Terminated due to yellowish red, ancient clay.
+(7.5YR 4/6) Strong brown sandy loam with a 20-30cm plow zone
+(5YR 4/6) Yellowish red clay increasingly dense with depth; Terminated
+due to ancient clay.
+(7.5YR 4/6) Strong brown sandy loam with a 20-30cm plow zone; (010cm, 2 clear bottle glass fragments; 10-20cmbs, 4 clear bottle
+glass fragments); Terminated due to yellowish red, ancient clay.
+(7.5YR 4/6) Strong brown sandy loam with a 20-30cm plow zone
+(5YR 4/6) Yellowish red clay; (30-40cmbs, 1 wire nail); Terminated
+due to ancient clay.
+(7.5YR 4/6) Strong brown sandy loam with a 20-30cm plow zone; (0-25,
+2 clear bottle glass, 1 brown bottle glass)
+(5YR 4/6) Yellowish red clay; (30-40cmbs, 2 clear glass); Terminated
+due to ancient clay.
+
+Pos/
+Neg
+Neg
+Neg
+Neg
+Neg
+Neg
+Pos
+Neg
+Pos
+Neg
+Pos
+
+The artifacts observed and collected from the surface and the shovel tests
+consist primarily of typical twentieth century household items such as clear,
+green and brown bottle glass and container shards, milk glass container
+fragments, whiteware and glazed stoneware sherds, shell buttons, and two glass
+marbles (Figure 57). One of the clear glass fragments is a portion of the body of
+an embossed Coca-Cola bottle. A neck and handle of a brown glass bottle is
+similar to many bleach bottles or other cleaning supplies. Other artifacts of note
+included nails, window glass, modern brick and a porcelain electric fence
+insulator, all architectural elements suggesting a structure may once have been
+present. Several metal artifacts of unknown function, including a brass valve,
+were found that may pertain to architectural elements or activities such as
+farming practiced by the residents. Overall the artifacts appear to date to the
+1940âs. Though temporally specific diagnostic attributes were generally missing
+from the collection, embossing on an Owens-Illinois bottle base indicates a date
+of 1943 based on the presence of an embossed âDuraglasâ logo and â3.â found to
+the right of the bottle manufacturing mark (Lockhart 2004). No other artifacts in
+the collection suggest that the assemblage consists of objects manufactured
+prior to the 1940âs. All of the glass bottles appear to be made in an Automatic
+Bottle Machine and have screw caps, and none of the glass uses manganese
+bleaching to achieve a clear color.
+Deed research indicates that this property was originally surveyed as part of
+Section 34, Block 36, Township 5 of the Texas and Pacific Railroad Company
+Survey in Dawson County. Though property ownership was not well documented
+in the Dawson County Clerks files, it appears that the current owner Donald
+Vogler acquired the property as an 87.5 acre tract from Ernest G. Carr in 1975
+(Dawson County Deed Records Vol. 320: 412). Carr had in turn purchased the
+property from O. M. Murphy on May 12, 1959 (Dawson County Deed Records
+Vol. 170: 449). Though the original deed for Murphyâs purchase was not found
+in the Dawson County Deed Records dating back to the turn of the century, no
+other deeds or evidence for sale were present either, strongly suggesting that the
+property had been in Murphyâs hands for some time and very likely long before
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+84
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+the 1940âs period to which the diagnostic artifacts date. A search for O. M.
+Murphy in the Handbook of Texas was negative.
+Based on the artifacts present on the site, 41DS13 is interpreted as a scatter of
+1940âs historic artifacts likely associated with a small residence or field house
+located on the property when it was in the possession of O.M. Murphy. It is not
+clear if any structure that would have been present here was the house of a
+tenant, the owners, or possibly a field house associated with ranching or
+agricultural activities on the site. The density of the remains and the lack of
+much time depth strongly argue in favor of an interpretation that whatever the
+function of the property, it was not a significant residence. The seemingly
+constricted time period for the artifacts and the lack of any intact architectural
+remains suggest that any residence that may have once stood on the site has
+been completely demolished. The site may also represent a dump of materials
+from elsewhere. Based on the lack of site integrity and the poor research
+possibilities presented by this site, Hicks & Company archeologists do not find
+that this site is eligible for the National Register under any of the criteria, nor do
+we find that the site is eligible for listing as a State Archeological Landmark.
+Figure 54: View of 41DS13 from northern portion of site boundary looking south;
+note playa in background
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+85
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Figure 55: Site map of 41DS13
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+86
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Figure 56: Example of artifacts collected from site surface of 41DS13
+
+41DS14
+Site 41DS14 is a low density scatter of burned caliche and lithic manufacturing
+debris and tools located on a hilltop on the east side of SH 349 from which four
+different playas are visible (Figure 57, 58). The site is bisected by CR 26 and is
+currently being actively cultivated for cotton. Site size was calculated as 1.89
+acres (7,650 square meters) based on the surface distribution of artifacts within
+the project ROW (Figure 59). The north-south axis was able to be firmly
+established at a length of 557.74 feet (170 meters). The site extends to the east
+outside of the proposed ROW. As artifact counts tended to be slightly higher on
+the eastern edge of the site, especially in the portions south of CR 26, it is
+assumed that the site is actually larger and extends further to the east, though
+to what degree the current authors cannot speculate.
+Six shovel tests were dug to define the boundaries of the site and to identify any
+potentially buried and intact archeological deposits (Table 3). The shovel tests
+encountered Amarillo series red-brown fine sandy loam to depths of over 80
+centimeters. Only two shovel tests were found to be positive for cultural
+material, with artifacts found to a depth of 20 centimeters within the active plow
+zone. Based on the results of shovel testing and the presence of artifacts on the
+surface, the site has no intact buried archeological deposits or features, and has
+been severely disturbed by the effects of agriculture.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+87
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Table 3 Results of Shovel Tests at 41DS14
+Shovel
+Test #
+
+Max.
+Depth
+(cmbs)
+
+Depth
+(cmbs)
+
+BJ12
+
+40
+
+0-40
+
+BJ13
+
+50
+
+MS9
+
+50
+
+RF10
+
+60
+
+0-40
+40-50
+0-50
+0-40
+40-60
+RF11
+
+60
+
+0-60
+
+RF12
+
+60
+
+0-60
+
+Soil Description
+(5YR 4/6) Yellowish red sand loam with a 20cm, loose plow zone; (1020cmbs, 1 burned caliche); Terminated due to yellowish red,
+ancient clay.
+(5YR 4/6) Yellowish red sand loam with a 20cm, loose plow zone
+(5YR 4/6) Yellowish red clay; Terminated due to yellowish red,
+ancient clay.
+(5YR 4/6) Yellowish red sand with a 20cm, loose plow zone;
+Terminated due to yellowish red, ancient clay.
+(5YR 4/6) Yellowish red sand loam with a 20cm, loose plow zone; (010cmbs, 1 edge modified flake)
+(5YR 4/6) Yellowish red clay, becoming increasingly compact with
+depth; Terminated due to yellowish red, ancient clay.
+(5YR 4/6) Yellowish red sand loam with a 20cm, loose plow zone;
+Terminated due to yellowish red, ancient clay.
+(5YR 4/6) Yellowish red sand loam with a 20cm, loose plow zone;
+Terminated due to yellowish red, ancient clay.
+
+Pos/
+Neg
+Pos
+Neg
+Neg
+Neg
+Pos
+Neg
+Neg
+Neg
+
+Artifacts documented at the site were all lithic materials including stone tools,
+manufacturing debris and burned rock (Figure 60). Artifact density per square
+meter averaged only 1-2 artifacts per square meter. Two areas of higher artifact
+concentrations were noted, and overall the southeast sector of the site exhibited
+a slightly higher incidence of artifact recovery. The four stone tools found
+during the survey were all made of chert and included three edge modified flakes
+and a uniface. The edge modified flakes were all tertiary flakes less than 4
+centimeters in size and exhibited minute flaking and edge damage along at least
+one edge. All three specimens were from differently colored chert source
+materials. One example was found in shovel test RF#10, and the remaining
+examples were collected from the site surface. The uniface, collected from the
+surface along the edge of CR 26, was manufactured on a secondary flake of grey
+chert with brown and white mottles removed from a small cobble with a tanwhite cortex. The edge opposite the cortex has been systematically chipped to
+form a steep edge and was likely used as an end scraper. Twenty three pieces of
+manufacturing debris were also documented. Most were generally small in size,
+ranging from less than one to approximately four centimeters in length, and all
+but two were tertiary flakes. One piece was a fine grained purple quartzite, and
+the remaining specimens consisted of cherts of a wide range of colors.
+Based on the types of artifacts observed and the location of the site, site 41DS14
+appears to have functioned as a small campsite for prehistoric peoples. The lack
+of temporally diagnostic artifacts makes it impossible to date the site. The
+location of the site seems to be particularly salient to its choice as a campsite
+given the excellent visibility afforded of the local landscape from this higher
+vantage as well as the accessibility to water provided by the four playas that
+surround the site. The lack of evidence for intact occupation surfaces or
+features, the disturbance of the site by modern agricultural practices, and the
+lack of research potential makes the portion of the site within the proposed ROW
+ineligible for either listing on the National Register of Historic Places or as a
+State Archeological Landmark. Since the same conditions apply outside the
+proposed ROW, it is the recommendation of the Principal Investigator that the
+site as a whole does not have potential to be listed on the NRHP or as an SAL.
+Thus no further work is recommended for site 41DS14.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+88
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Figure 57: View looking north of Site 41DS14 north of CR 26 with Rachel Feit at
+shovel test RF#10.
+
+Figure 58: View looking south at Site 41DS14 south of CR 26 (in foreground); note
+playa visible in distance on left side of picture.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+89
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Figure 59: Site map of 41DS14.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+90
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Figure 60: Artifacts from 41DS14
+
+41MT42
+Site 41MT42 is a very low density scatter of lithic manufacturing debris and
+burned caliche of unknown age located on a rise on the south side of a playa in
+the proposed ROW on the eastern side of SH 349 in northern Martin County
+(Figures 61, 62). The site is located on the property of the KNAB Corporation,
+and is currently unused. The ground surface is covered in short and tall grasses
+and mesquite trees with a surface visibility between 40-70 percent. Based on the
+presence of artifacts on the surface, the site size is mapped as 213.25 feet (65
+meters) in length northeast-southwest and 98.43 feet (30 meters) in width
+northwest-southeast for a total area of .73 acres (2,950 square meters) (Figure
+63). The site extends an unknown distance outside the proposed ROW to the
+east. A dramatic topographic rise occurs east of the site and appears to ring the
+south and east sides of the adjacent playa. It is unclear if this landscape feature
+represents an actual natural formation or is an artificial rise constructed in the
+past during the preparation of adjoining agricultural fields.
+Six shovel tests were placed within the area of Site 41MT42 in order to assess
+the possibility of intact subsurface deposits or features and to delineate the site
+boundaries (Table 4). All six shovel tests were negative for cultural materials
+and encountered Amarillo fine sandy loam to depths of 40-75 centimeters below
+the surface underlain by compact clay.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+91
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Table 4 Results of Shovel Tests at Site 41MT42
+Shovel
+Test #
+
+Max.
+Depth
+(cmbs)
+
+Depth
+(cmbs)
+
+BJ19
+
+50
+
+0-40
+40-50
+
+BJ20
+
+43
+
+0-40
+
+BJ21
+
+50
+
+RF19
+
+50
+
+RF20
+
+55
+
+0-40
+40-50
+0-30
+30-50
+0-32
+32-55
+0-35
+
+RF21
+
+75
+35-75
+
+Soil Description
+(10YR 5/4) Yellowish brown sandy loam
+(7.5YR 4/6) Strong brown sandy clay; Terminated due to ancient clay.
+(10YR 5/4) Yellowish brown sandy loam; Terminated due to strong
+brown, ancient clay.
+(10YR 5/4) Yellowish brown sandy loam
+(7.5YR 4/6) Strong brown sandy clay; Terminated due to ancient clay.
+(10YR 5/4) Yellowish brown sandy loam
+(7.5YR 4/6) Strong brown sandy clay, becoming increasingly clayey with
+depth; Terminated due to ancient clay.
+(10YR 5/4) Yellowish brown sandy loam, becomes more compact at
+20cmbs
+(7.5YR 4/6) Strong brown sandy clay, becoming increasingly clayey with
+depth; Terminated due to ancient clay.
+(10YR 5/4) Yellowish brown sandy loam, becomes more compact at
+25cmbs
+(7.5YR 4/6) Strong brown sandy clay, becoming increasingly clayey with
+depth; Terminated due to ancient clay.
+
+Pos/
+Neg
+Neg
+Neg
+Neg
+Neg
+Neg
+Neg
+Neg
+Neg
+Neg
+Neg
+Neg
+
+Artifact density on the surface was very low with artifacts found scattered across
+the surface as isolated individual specimens (Figure 64). No concentrations
+were noted across the site. The most common artifacts were small pieces of grey,
+burned caliche less than 5 centimeters in size. A total of ten tertiary chert flakes
+were recorded on the surface. Most chert was a yellow-white to tan-brown color
+with a single dark grey piece, but was not collected. At least two examples
+appeared to have been burned.
+Based on the debitage and burned caliche, the site appears to have served as a
+short term campsite for prehistoric people. The lack of diagnostic artifacts
+makes placement of the site within the regional archeological chronology
+impossible. The chert manufacturing debris suggests that at least some
+resharpening of tools or flake manufacture was occurring on site, and the
+burned caliche hints at the presence of hearth features on site at one time.
+However, natural erosion and modern land use practices appear to have
+disturbed the site and compromised the site integrity. The lack of intact
+subsurface occupation surfaces or features further indicates that the site has
+little or no future research potential. As a result, the portion of Site 41MT42
+located within the proposed ROW contains no elements that have potential to
+contribute to the siteâs overall eligibility for the NRHP or as an SAL. Hicks &
+Company recommends that no additional work is necessary for site 41MT42
+within the proposed ROW.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+92
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Figure 61: View across northern portion of Site 41MT42 looking southeast; note
+topographic rise.
+
+Figure 62: View looking south across Site 41MT42; playa is present in low area in
+background
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+93
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Figure 63: Site map of 41MT42
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+94
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Figure 64: Chert debitage recovered from the surface of Site 41MT42
+
+41MT43
+Site 41MT43 consists of a very dispersed scatter of burned caliche and two lithic
+artifacts located in an active cotton field belonging to B. J. Lambright in the
+proposed SH 349 ROW on the east side of SH 349 in northern Martin County
+(Figure 65). The site is located on the upper portions of a very gentle slope
+overlooking a playa 984.25 feet (300 meters) to the west. The site size was
+measured at 377.27 feet (115 meters) northeast-southwest and 98.43 feet (30
+meters) northwest-southeast or .85 acres (3.450 square meters) (Figure 66).
+Based on the occurrence of surface artifacts, the site does not extend outside of
+the proposed ROW.
+Six shovel tests were dug within the site boundaries to assess for the possibility
+of intact subsurface deposits and features (Table 5). All six shovel tests were
+negative for cultural materials and encountered a deep deposit of Amarillo fine
+sandy loam to a depth of approximately 50 centimeters below surface underlain
+by compact sandy clay. Surface inspection of the property on the opposite side
+of SH 349 did not reveal any evidence of artifacts west of the site boundary as it
+was mapped.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+95
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Table 5 Results of Shovel Testing at Site 41MT43
+Shovel
+Test #
+
+Max.
+Depth
+(cmbs)
+
+BJ56
+
+50
+
+BJ57
+
+30
+
+BJ58
+
+MS61
+
+MS62
+
+MS63
+
+Depth
+(cmbs)
+
+Soil Description
+
+Pos/
+Neg
+
+0-33
+
+(7.5YR 4/4) Brown sand, damp from recent rain; Root intrusion
+
+Neg
+
+33-50
+
+(5YR 5/8) Yellowish red sandy clay with upper sediment mixing;
+Terminated due to ancient clay.
+
+Neg
+
+0-30
+
+(7.5YR 4/4) Brown sand, damp from recent rain; Plow zone
+
+Neg
+
+0-52
+
+(7.5YR 4/4) Brown sand, damp from recent rain; upper 30cm is in plow
+zone; some black and red clay mottling from 30-52 cmbs
+
+Neg
+
+52-76
+
+(5YR 5/8) Yellowish red sandy clay; Terminated due to ancient clay.
+
+Neg
+
+0-50
+
+(7.5YR 4/4) Brown sand, damp from recent rain; upper 30cm is in plow
+zone
+
+Neg
+
+50-54
+
+(5YR 5/8) Yellowish red sandy clay; Terminated due to ancient clay.
+
+Neg
+
+0-50
+
+(7.5YR 4/4) Brown sand, damp from recent rain; upper 30cm is in plow
+zone
+
+Neg
+
+50-60
+
+(5YR 5/8) Yellowish red sandy clay; Terminated due to ancient clay.
+
+Neg
+
+0-50
+
+(7.5YR 4/4) Brown sand, damp from recent rain; upper 30cm is in plow
+zone
+
+Neg
+
+50-55
+
+(5YR 5/8) Yellowish red sandy clay; Terminated due to ancient clay.
+
+Neg
+
+76
+
+54
+
+60
+
+55
+
+Artifacts encountered on site consisted of approximately 20 small pieces of
+burned caliche scattered across the site surface in very low density (Figure 67).
+The only other items of prehistoric age were a piece of secondary chert debitage
+and a medial biface fragment (Figure 68). The biface fragment was
+manufactured on a flake of gray chert and is finely worked on the dorsal face
+and minimally worked on the ventral face. The ventral face also exhibited
+potlidding. The size and thinness of the piece suggests it may be a medial
+fragment of a dart point.
+The presence of burned caliche, a piece of debitage and a broken chert bifacial
+tool suggest this area served as an ephemeral campsite for prehistoric people.
+Unfortunately, the lack of diagnostic artifacts makes ascertaining the period of
+habitation impossible. The lack of intact subsurface features or occupation
+surfaces, in conjunction with the clearly disturbed nature of the site due to
+cultivation, render the site of little or no future research value. In light of this,
+Site 41MT43 is not considered eligible for listing on the NRHP or as an SAL.
+Hicks & Company archeologists recommend that no further work is required for
+this site.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+96
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Figure 65: View of Site 41MT43 looking north with shovel test BJ#56 and MS#61
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+97
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Figure 66: Site map of 41MT43
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+98
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Figure 67: In situ burned caliche on surface of Site 41MT43
+
+Figure 68: Artifacts recorded at 41MT43.
+
+41MT44
+Site 41MT44 is a scatter of twentieth century domestic and architectural
+artifacts associated with a concrete âtroughâ, a roughly circular concentration of
+stone, and two metal poles anchored in the ground. The site is located on the
+northern end of the Scharbauer property on the east side of SH 349 just south
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+99
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+of the intersection with SH 176, and situated on a rise above a playa located 328
+feet (100 meters) to the north (Figure 69). The site size, based on the extent of
+the surface artifact scatter, was measured at 426.52 feet (130 meters) northsouth and 131.23 feet (40 meters) east-west, for a total area of 1.28 acres (5,200
+square meters) (Figure 70). The site extends from the eastern edge of the
+current TxDOT ROW to the approximate limit of the proposed ROW, and is
+entirely within the proposed ROW. Based on the artifact scatter and features
+identified on the surface, the site appears to have served as a residence or field
+house for ranching, farming, or oil and gas extraction activities. In general
+artifact densities were highest in the southwestern portions of the site near the
+current TxDOT ROW and west of the visible surface features. In addition, pieces
+of machine made brick were found scattered on the surface for at least 60
+meters to the north of the primary artifact scatters and features. This
+widespread distribution of brick on the surface strongly suggests that a brick
+structure was present on the site and then demolished. Subsequently, or
+possibly as a consequence of the demolition, the construction material became
+widely dispersed across the general area.
+The site surface is covered with short and tall grasses, mesquite and various
+cacti. Surface visibility was good, ranging from 50-75%. Six shovel tests were
+placed within the site boundaries to assess the potential for intact buried
+deposits and further assist in delineating the site boundaries (Table 6). With the
+exception of shovel test MS#42 from which a piece of graphite-like material of
+unknown function was recovered 30 centimeters below the surface, shovel
+testing did not suggest the presence of any intact subsurface deposits. Soils at
+the site consisted of a strong brown (6.5YR4/6) compact sand or a yellowish
+brown (7.5YR5/4) sand to a depth of at least 50 centimeters below the surface.
+Table 6
+Shovel
+Test #
+
+Max.
+Depth
+(cmbs)
+
+Depth
+(cmbs)
+
+MS42
+
+50
+
+0-50
+
+MS43
+
+50
+
+0-50
+
+MS44
+
+50
+
+0-50
+
+MS45
+
+50
+
+0-50
+
+MS46
+
+65
+
+0-65
+
+MS47
+
+50
+
+0-50
+
+Results of Shovel Tests at Site 41MT44
+Soil Description
+(7.5YR 4/6) Strong brown compact sand; (20-30cmbs, 1 chunk of
+graphite-like material); Terminated due to sterile soil.
+(7.5YR 4/6) Strong brown compact sand; Terminated due to sterile
+soil.
+(10YR 5/4) Yellowish brown sand; Terminated due to sterile soil.
+(10YR 5/4) Yellowish brown compact sand; Terminated due to sterile
+soil.
+(10YR 5/4) Yellowish brown sand with caliche at 50-55cmbs;
+Terminated due to sterile soil.
+(10YR 5/4) Yellowish brown very compact sand; Terminated due to
+sterile soil.
+
+Pos/
+Neg
+Pos
+Neg
+Neg
+Neg
+Neg
+Neg
+
+The artifacts observed and recorded on the site consisted of a variety of domestic
+materials and architectural elements (Figure 71). Domestic type artifacts
+included glass bottles and containers of clear, brown, blue, green and milk
+glass, whiteware and porcelain ceramics, rusted cans, and a metal sieve likely
+for flour. Notable among the glass domestic wares were a complete brown bottle
+- likely a container for hydrogen peroxide - and a partial milk glass cream jar
+with the Ponds brand name on the base; both reflect personal hygiene and
+medical items commonly found on twentieth century sites. The brown glass
+bottle had an Owens-Illinois makerâs mark on the base with an âIâ inside an âOâ
+with the number 7 in the date mark location. This version of the company logo
+was not utilized until at least 1954, and the 7 at the right likely indicates a date
+of 1957. Other bottles likely related to kitchen activities included numerous
+fragments of clear, green and brown bottles. An oval clear glass base bore an
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+100
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+earlier Owens-Illinois makerâs mark â the âIâ in the âOâ inside a triangle â with a
+date mark that may indicate 1936 or 1946 (Lockhart 2004). The ceramics
+recovered included a diverse assortment of transfer printed and glazed
+whiteware plate, bowl and cup fragments as well as a piece of transfer printed
+porcelain and a glazed earthenware. None of the ceramics bore makerâs marks.
+Architectural elements included metal hinges and over twenty orange paste
+bricks that were all broken. The bricks were embossed with the âGroesbeckâ
+name. Though it is plausible to suggest that Groesbeck bricks may have been
+manufactured in the town of Groesbeck in Limestone County, Texas, research
+could not identify when the company existed or where it was precisely located.
+Several of the bricks still had a white mortar with large aggregate adhered to
+them. A porcelain electric fence insulator was also collected that was marked
+âBRUNTâ. The G.F. Brunt company of East Liverpool, Ohio manufactured and
+sold these types of insulators from approximately 1900-1914 (http://www.rÂ­
+infinity.com/Companies/index.htm). While the electric fence insulator does
+suggest an artifact that dates to the first two decades of the twentieth century,
+in light of the two temporally diagnostic bottle marks and the general character
+of the observed artifact scatter, the site was occupied primarily between the midÂ­
+1930âs and possibly into the late 1950âs or 1960âs.
+In addition to artifacts, the survey of the site also identified three surface
+features that may have been associated with a no longer stranding structure.
+The first of these is a rectangular concrete âtroughâ placed into the ground near
+the southeastern portion of the site (Figure 72). The opening of this feature is
+5.05 feet (154 centimeters) in length and 1.02 feet (33 centimeters) in width, the
+depth was greater than one foot but the presence of trash and dirt fill did not
+permit a full measurement of the depth. It is not clear what the purpose of this
+feature was. Approximately 20 feet (6 meters) to the northwest of the trough was
+an approximately 16 by 16 foot (5 X 5 meter) area of stones 4-8 inches 10-20
+centimeters) in size (Figure 73). Though no clear organization of the stones
+could be ascertained that would help in determining their functional purpose,
+one group of stones in the southwestern portion of the stone scatter appeared to
+have a roughly circular organization. It is possible that these stones represent
+old remnants of a foundation. Near the southern boundary of the site area two
+metal poles were identified. The first was 2.4 inches (6 centimeters) in diameter
+and placed vertically, reaching a height of 2.62 feet (80 centimeters) above the
+surface (Figure 74). The second metal pole was located 5.25 feet (160
+centimeters) southwest of the first and was smaller at 1.57 inches (4
+centimeters) in diameter (Figure 75). This pole appeared to enter the ground at
+an angle, though it only extended less than 4 inches (10 centimeters) above the
+current surface. The poles appear to be standard metal poles for fencing, and
+these poles may be remnants of a small fence or gate related to a now destroyed
+building and the associated artifact scatter.
+Deed research at the Martin County courthouse was able to establish the chain
+of title for this property. The site is located in Tract 323 of the Lasalle County
+School Land. Tract 323 is part of a larger grant of land described in the original
+patent given by Governor John Ireland on September 1, 1883 to the County of
+Lasalle (Martin County Deed Records Vol. 9: 183). In 1893 Tract 323 was part of
+a land purchase by Ed Woodall, Patrick E. Hooks, W. J. Robertson and Ed
+Wilkenson (Martin County Deed Records Vol. 3: 103). Subsequently, Clarence
+Scharbauer purchased Tract 323 from the aforementioned individuals for the
+Scharbauer Cattle Company in 1917 (Martin County Deed Records Vol. 16:
+506). Clarence Scharbauer, who moved to Midland, Texas in 1889, became a
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+101
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+significant member of the community after becoming manager of Scharbauer
+Cattle Company, an enterprise he entered into with his uncle and brother
+(Connor 2001). The Scharbauer Cattle Company dissolved in 1912 and then
+reincorporated in 1914. The Scharbauer family has since remained important
+cattle ranchers in the area, and the purchase of Tract 323 in 1917 marks an
+example of the continued growth of the Scharbauer Cattle Company after its
+reincorporation. The property remains in the Scharbauer familyâs possession to
+this day.
+In 1935, Clarence Scharbauer also became increasingly involved in the oil and
+gas industry after oil was found on his properties, though his interests in oil and
+gas developed earlier. Shortly after purchasing Tract 323 in 1917, actions were
+taken by Clarence Scharbauer in May of 1919 to lease this property as well as
+Tracts 324 and 325 to the Trustees of Midland Tulsa Oil Company for gas
+exploration (Martin County Deed Records Vol. 18: 207). Interestingly, the
+trustees included O. B. Holt (whose family currently retains very large land
+holdings in the SH 349 project corridor and the property just north of 41MT44),
+G. W. Walcott, and Clarence Scharbauer himself. Ultimately the lease was
+voided in September of 1919 due the inability of the Midland Tulsa Oil Company
+to complete incorporation. Of note in the first lease proceedings was a
+stipulation by Scharbauer to provide free gas service for the stove and lights to a
+house and barn within the lease. Unfortunately more specific information on the
+location of these structures is not given, but the dates seem too early for the
+artifact assemblage at 41MT44. In 1938, however, the Scharbauer Cattle
+Company did lease part of Tract 323 to the British American Oil Company &
+Sunray Oil Company for oil and gas exploration and extraction (Oil, Gas &
+Mineral Lease Records Vol. 4: 157).
+Based on the dating of the artifacts and the use of the land as both cattle
+pasturage by the Scharbauer Cattle Company from 1917 until the present, and
+for oil and gas extraction beginning in the 1930âs, the artifact scatter and
+features observed at Site 41MT44 likely represent occupation related to these
+activities. Considering that the area continues to be used for gas and oil
+extraction, the transient nature of the site occupation, and the lack of any other
+residential dwellings in the vicinity, it seems most reasonable to assume that
+this site may have been a small field house associated with a period of oil and
+gas exploration on the property. Once the lease expired and/or the resources on
+the property were tapped, the site may have been abandoned and the house
+demolished in order to return the property to cattle grazing lands.
+Given the lack of intact subsurface deposits and the low probability that the site
+has the potential to contribute to our understanding of the history of the region,
+this site is not considered to be eligible for listing on the NRHP or as an SAL.
+Hicks & Company recommends no additional research is necessary for Site
+41MT44.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+102
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Figure 69: View of Site 41MT44 looking west towards SH 349
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+103
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Figure 70: Site map of 41MT44
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+104
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Figure 71: Example of the types of artifacts common to the site surface of 41MT44
+
+Figure 72: A Concrete âTroughâ located during the mapping of Site 41MT44
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+105
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Figure 73: Close up of area of stones on surface of Site 41MT44
+
+Figure 74: Metal pole or fence post identified during the mapping of 41MT44
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+106
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Site Discussions
+
+Figure 75: Second metal pole identified during the mapping of 4MT44.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+107
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+Site Discussions
+
+108
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Conclusions and Recommendations
+
+CONCLUSIONS AND RECOMMENDATIONS
+Hicks & Company archeologists conducted an intensive linear archeological
+survey along the 42.5 mile length of the proposed SH 349 Highway Improvement
+project in Dawson and Martin counties. Because of limited ROE to properties
+within the project area, intensive survey was restricted to only 51% of the
+proposed ROW and to the existing ROW. Properties to which archeologists did
+not have ROE were subject to reconnaissance level survey as could best be
+performed given the conditions of the property and the ground surface visibility.
+The survey was completed in July of 2007 on behalf of the Texas Department of
+Transportation.
+Within the existing ROW, archeologists observed significant disturbance to
+deposits resulting from the grading and filling of the roadbed, the cutting of
+drainage ditches alongside the roadway and the placement of drainage features
+under the roadway. In addition, transmission lines, subsurface gas lines, and
+access roads were present within the TxDOT ROW resulting in additional
+disturbance to natural deposits. The results of 11 shovel tests within the
+existing ROW and surface inspection supported these observations indicating
+that deposits were extensively disturbed and mixed to depths of 1-3.3 feet (30Â­
+100 centimeters). Even where sites were encountered during the survey of the
+proposed ROW, inspection of the adjacent ROW repeatedly demonstrated that
+artifacts were consistently absent, suggesting that highway construction has
+already possibly destroyed portions of sites within the ROW. This is not
+surprising given the lack of subsurface deposits associated with these sites.
+Based on these observations it is the opinion of Hicks & Company that there is
+no potential for deposits in the existing ROW to contain intact cultural
+materials. As a result, any construction within the existing ROW is
+recommended to proceed without further investigation.
+Within the proposed expanded ROW archeologists were granted access to
+approximately 20.969 linear miles (275.51 acres) of private land to survey for
+cultural resources. During the course of surveying these properties 149 shovel
+tests were dug, only six of which were positive for cultural materials. Within the
+areas of proposed ROW that were able to be surveyed, five archeological sites
+were identified as well as a scatter of burned rock and an isolated chert flake.
+These latter two discoveries were recorded but not deemed sufficiently
+significant to warrant registration as archeological sites, much less as NRHP or
+as SALâs. Site 41DS13 is a medium density scatter of various historic glass,
+metal and ceramic artifacts dating to the early to mid-twentieth century. The site
+is disturbed by cultivation and there are no associated features. The site
+appears to be the remnants of either a badly disturbed farmstead or an
+accumulation of dumped historic debris. Site 41MT44 is also an early to midtwentieth century historic site with a scatter of metal, glass and ceramic
+artifacts. In addition, several features including a concrete trough, metal poles
+and a possibly intentional accumulation of rock were identified and mapped as
+part of this site. Shovel testing showed no intact subsurface components, and
+the site appears to be a demolished field house or homestead associated with
+ranching, farming or oil drilling activities occurring on the property. Site 41DS14
+is a prehistoric site of unknown age situated on a low hill with views of four
+surrounding playas. The site is composed of a surface scatter of burned caliche,
+lithic debitage, and non-diagnostic tools, and the site appears to have functioned
+as a prehistoric campsite. Though two artifacts were found within the upper 20
+centimeters of the soil, site deposits have been heavily disturbed by plowing of
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+109
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Conclusions and Recommendations
+
+the property and no intact deposits are present. Site 41MT42 is another surface
+scatter of burned caliche and lithic debitage of unknown edge located on a low
+rise near a playa. No tools, diagnostic artifacts or intact features were identified.
+Site 41MT43 is the final prehistoric site and consists of a medial biface fragment
+and very low density scatter of burned caliche and a piece of debitage. Again, no
+intact features or temporally diagnostic artifacts were recovered and the site
+appears to be the remains of a small campsite of unknown age that has been
+completely disturbed by plowing.
+In summary none of the five archeological sites investigated exhibited evidence
+for the presence of buried or intact subsurface features or contexts or additional
+research potential. Their greatest research value consists of being identified and
+registered as archeological sites contributing to settlement pattern information
+for the regional landscape. As a result of the low site integrity and the lack of
+potential for substantive new information to be gathered through additional
+investigations, none of the identified sites are being recommended for additional
+testing and none of the sites are eligible for registration on the National Register
+of Historic Places (NRHP) or for nomination as State Archeological Landmarks
+(SALâs). It is thus recommended that the within the portions of the proposed
+ROW that have been fully archeologically surveyed that the project may proceed
+to construction without any further investigation.
+Finally, Hicks & Company archeologists attempted to assess the potential for
+those properties in the proposed ROW for which ROE was not granted to have
+cultural resources that may be impacted by the proposed improvements to SH
+349. Decisions to recommend additional survey for properties for which no ROE
+was given were predicated on the following criteria: (1) surface visibility, (2)
+general location on the landscape, and (3) likelihood of containing intact
+deposits. The first criterion, surface visibility, was the most significant in terms
+of being able to assess the proposed ROW on a property. In those properties
+where the fields were currently under cultivation, surface visibility was superb
+and allowed a thorough visual assessment to be made. In contrast, uncultivated
+tracts of land generally had poor to good surface visibility, but due to the
+vegetation it was only possible to assess the proposed ROW within a narrow
+tract immediately adjacent to the existing ROW. As a result, only properties that
+were actively cultivated at the time of the survey were recommended for
+clearance. The other two criteria are based on the results of the survey within
+the proposed ROW where access was granted. Results of the survey indicated
+that the probability of encountering an archeological site within the project area
+was highest on the upland high points adjacent to playas. Thus properties
+where such topographic features are present are considered as having a higher
+probability of containing archeological sites and were recommended for
+additional survey. The third criterion reflects the observation that all sites within
+the project area were surficial in nature and clearly lacked integrity when
+encountered within active agricultural fields. In practice the third and first
+criteria are interdependent. Based on these criteria, Hicks & Company
+recommends clearance for a total of 4.719 miles (67.59 acres) of proposed ROW
+in properties where ROE was not granted (see Plates 1-15). Additional survey is
+recommended for the remaining 15.989 miles (198.51 acres) of proposed ROW
+where ROE was not granted (see Plates 1-15).
+This report is offered in partial fulfillment of TAC Permit #4605. All project
+related records and photos will be curated at TARL.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+110
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Bibliography
+
+BIBLIOGRAPHY
+Blair, W. Frank
+1950 The Biotic Provinces of Texas. Texas Journal of Science 2(1): 93-117.
+Bureau of Economic Geology
+1974 Geologic Atlas of Texas, Big Spring Sheet (reprinted 1981), The University of Texas at
+Austin.
+1976
+
+Geologic Atlas of Texas, Hobbs Sheet, The University of Texas at Austin.
+
+Connor, Seymour V.
+2001 âClarence Scharbauerâ. Handbook of Texas Online, s.v. â,â
+http://www.tsha.utexas.edu/handbook/online/articles/SS/fsc5.html (accessed August
+1, 2007)
+Correll, Donovan S. and Marshall C. Johnston
+1979 Manual of Vascular Plants of Texas. University of Texas, Dallas.
+Dawson County Deed Records
+Vol. 170: 449
+Vol. 320: 412
+Gelin, Leona M. and Mark Odintz
+2001 âDawson Countyâ. Handbook of Texas Online, s.v. â,â
+http://www.tsha.utexas.edu/handbook/online/articles/DD/hcd3.html (accessed
+August 1, 2007).
+Gould, Frank W.
+1975 Texas Plants: A Checklist and Ecological Summary. The Texas A&M University System,
+Texas Agricultural Experiment Station, College Station.
+Hatch, Stephen L., Kancheepuram N. Gandhi and Larry E. Brown
+1990 Checklist of Vascular Plants of Texas. Texas A&M Texas Agricultural Experiment
+Station, Pub. #MP-1655. Texas A&M University, College Station.
+Hunt, William R. and John Leffler
+2001 âMartin Countyâ. Handbook of Texas Online, s.v. â,â
+http://www.tsha.utexas.edu/handbook/online/articles/MM/hcm3.html (accessed
+August 1, 2007)
+Insulators
+2006 List of Insulator Companies. Electronic document, http://www.rÂ­
+infinity.com/Companies/index.htm, accessed August 2, 2007.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+111
+
+CSJ#: 0380-08-012; 0380-07-018
+
+Bibliography
+
+Lockhart, Bill
+2004 The Dating Game: Owens-Illinois. Electronic document,
+http://www.blm.gov/historic_bottles/pdffiles/OwensIll_BLockhart.pdf, accessed
+December 18, 2006.
+Johnson, Eileen and Vance T. Holiday
+2004 Archeology and Late Quaternary Environments of the Southern High Plains. In The
+Prehistory of Texas, edited by Timothy K. Perttula, pp. 283-295. Texas A&M University
+Press, College Station.
+McMahan, Craig A., Roy G. Fry and Kirby Brown
+1984 The Vegetation Type of Texas. Texas Parks and Wildlife, Austin.
+Martin County Deed Records
+Vol. 3:103
+Vol. 9: 183
+Vol. 16: 506
+Vol. 18: 207
+Martin County Oil, Gas & Mineral Lease Records
+Vol. 4: 157
+Quigg, J. Michael, Charles D. Frederick, and Christopher Lintz
+1993 Archaeological and Geomorphological Investigations at Red Lake Dam Axis, Borrow Area,
+and Spillway, Martin County, Texas. Mariah Technical Report No. 873. Mariah
+Associates, Inc, Austin.
+1994
+
+Sulpher Springs Draw: Geoarchaeological and Archaeological Investigations at Sulpher
+Draw Reservoir, Martin County, Texas. Mariah Technical Report No. 776. Mariah
+Associates, Inc., Austin.
+
+Sanders, Dupree
+1960 Soil Survey of Dawson County, Texas. U.S. Department of Agriculture, Soil Conservation
+Service in cooperation with Texas Agricultural Experiment Station.
+Stoner, Herbert R. and Marvin L. Dixon
+1974 Soil Survey of Martin County, Texas. U.S. Department of Agriculture, Soil Conservation
+Service in cooperation with Texas Agricultural Experiment Station.
+
+Archeological Survey â Expansion of Hwy 349 â September 2007
+
+112
+
+APPENDIX A
+TAC PERMIT APPLICATION SCOPE OF WORK
+
+Submitted to TxDOT-ENV 07/07
+
+Scope of Work for
+SH 349 Highway Improvement
+From Two Miles North of Midland & Martin County Line to FM 2052 in Martin and
+Dawson Counties, Texas
+TxDOT Odessa District
+CSJ#: 0380-07-018
+This scope of work describes a 100% intensive linear pedestrian archeological
+survey along the route of the proposed highway improvement to SH 349 in
+Martin and Dawson Counties in west Texas (Figure 1). The proposed roadway
+expansion would extend 42.5 miles from a point two miles north of the Midland
+and Martin County line to the intersection of SH 349 and FM 2052 south of
+Lamesa, Texas. The project is intended to improve the existing roadway in order
+to develop SH 349 to Texas Trunk System Standards. The preferred alternative
+proposes to improve the highway by expanding the current roadway into a four
+lane divided highway through the addition of 100-110 feet of additional right-ofÂ­
+way. Based on available schematics, the roadway will be built at grade or upon
+fill in most places within the newly acquired right-of-way. In addition to the
+expansion of the roadway, it is proposed to improve the interchange at the
+junction of SH 349 and SH 176, and construct new bypasses around Patricia
+and just south of Lamesa at FM 2052. At present four alternatives have been
+proposed for the improvement of the SH 349/SH 176 interchange with six
+proposed alternatives for the Patricia bypass. The proposed Lamesa bypass is
+still under development.
+Based on available construction schematics/plans the area of potential effects
+(APE) comprises the entire footprint of the proposed roadway expansion in the
+existing and newly acquired right-of-way (100-110 feet wide) and the areas of the
+proposed interchange improvement and bypasses. Based on the available plans
+the roadway will be built on grade, and the vertical extent of the APE appears
+minimal throughout the project area. Final project profiles are not yet available,
+however, based on projects of this type, it is estimated that the vertical APE will
+typically extend only a few feet in depth.
+The total SH 349 roadway
+improvement project will consist of approximately 647 acres of new highway
+right-of-way. The project will take place within the existing right-of-way and on
+private land where right-of-entry has been acquired. As of June 26th, 2007,
+approximately 61% of the landowners had granted right-of-entry for the
+archeological survey.
+
+The Hobbs and Big Spring Geologic Atlas of Texas maps indicate that the
+underlying geology of the project area is made up of a combination of primarily
+Holocene and Pleistocene deposits (Tahoka (Qta), Alluvium (Qal), Pond (Qun),
+Caliche (Qcc), Windblown sand (Qcs)) and a very limited area of the
+Miocene/Pliocene age Ogallala Formation. The SCS County Soil Surveys for
+Martin and Dawson counties mapped twenty-one different soils (Table 1) within
+the project area (Stoner and Dixon 1974, Sanders 1960). The most common are
+soils mapped in the Slaughter-Kimbrough association and the Amarillo
+association. Amarillo association soils are deep, nearly level to gently sloping,
+loamy soils with a fine sandy loam surface layer and lower layers of sandy clay
+loam. These soils are commonly cultivated. These soils are the most common
+soil type within the project area north of the intersection of SH 349 and SH 176
+in northern Martin County and all of Dawson County. Slaughter-Kimbrough
+association soils are shallow to very shallow, nearly level to gently sloping, loamy
+soils with a loam upper layer and a clay loam lower layer underlain by indurated
+caliche 7 to 12 inches below the surface. These soils are commonly used for
+rangeland and are the dominant soil type within the project area south of the
+intersection of SH 349 with SH 176 in Martin County. Only in the vicinity of
+Mustang Draw are other major soil associations traversed by the proposed SH
+349 highway improvement. On either side of Mustang Draw are found a narrow
+band of Potter-Mansker association soils. These are very shallow to deep, nearly
+level to steep, loamy soils. The Potter-Mansker association soils are in turn
+bounded on either side by Miles-Patricia association soils. These soils are deep,
+nearly level to gently sloping, sandy soils. Overall, soils within the project area
+range from 0-72 inches in depth and may have the potential for buried deposits.
+However, the use of these soils for agricultural purposes and the presence of
+urban landscapes within the project area mean there is a high potential for
+surface disturbance within the project area (see attached aerial photos). In
+addition, preexisting utility lines, wells, homes and businesses are present along
+the project area, increasing the likelihood for disturbance to the soils and any
+buried deposits that may be present.
+Table A-1
+Soils Mapped in the Project Area
+Soil Name
+Slope
+
+Soil Abbrev
+
+Avg. Depth
+
+AcA
+
+Acuff Loam
+
+0-1%
+
+42-60â
+
+AfB
+
+Amarillo Fine Sandy Loam
+
+1-3%
+
+36-60â
+
+AfA
+
+Amarillo Fine Sandy Loam
+
+0-1%
+
+36-60â
+
+AnA
+
+Amarillo Sandy Clay Loam
+
+0-1%
+
+40-56â
+
+AvA
+
+Arvana Fine Sandy Loam
+
+0-1%
+
+16-40â
+
+AxB
+
+Arvana Fine Sandy Loam Shallow
+
+0-3%
+
+0-20â
+
+BfB
+
+Brownfield Fine Sand
+
+Gently Undulating
+
+50-60â
+
+GoB
+
+Gomez Loamy Fine Sand
+
+Gently Undulating
+
+62-70â
+
+KuA
+
+Kimbrough & Upton Soils
+
+Nearly level
+
+7-17ââ
+
+KsA
+
+Kimbrough-Slaughter Complex
+
+0-2% Slopes
+
+7-11â
+
+Lr
+
+Lipan Roscoe Complex
+
+Nearly Level
+
+46-62â
+
+MdA
+
+Midessa Fine Sandy Loam
+
+0-3%
+
+60-70â
+
+MlB
+
+Miles Loamy Fine Sand
+
+0-3%
+
+55-72â
+
+OlA
+
+Oltron Loam
+
+0-1%
+
+60-65â
+
+PaB
+
+Patricia Fine Sand
+
+Gently Undulating
+
+52-64â
+
+PfA
+
+Portales Fine Sandy Loam
+
+0-1%
+
+30-48â
+
+SaB
+
+Sharvana Fine Sandy Loam
+
+0-3%
+
+19-21â
+
+SfB
+SlA
+
+Simona Fine Sandy Loam
+Slaughter Loam
+
+1-3%
+0-1%
+
+14-15â
+16-20â
+
+Soil Abbrev
+
+Table A-1
+Soils Mapped in the Project Area
+Soil Name
+Slope
+
+Avg. Depth
+
+SpC
+
+Springer Loam Fine Sand
+
+Gently Undulating
+
+48-68â
+
+SwA
+
+Stegall Clay Loam
+
+0-1%
+
+25â
+
+According to records researched on the Texas Historical Commission Sites Atlas,
+no previously recorded sites are present within the project area. Only one
+previously conducted survey overlaps the project area in its southern extreme.
+This areal survey was conducted for the FAA, and is bounded on its western
+edge by SH 349. No cultural resources were identified in the course of that
+survey. Another areal survey was conducted by the TNRCC approximately a
+kilometer northeast of the northern project terminus. No sites were identified in
+the course of this survey. Three sites â 41DS2, 41DS8, and 41MT11 â are
+located within close proximity of the project area. Site 41DS8, located just
+south of the TNRCC areal survey and approximately 940 meters northeast of the
+northern project terminus, is the closest site. No information concerning the
+site is available on THC Sites Atlas. Site 41DS2, the White Site, is a Late
+Prehistoric bison kill site and possible camp site located 2380 meters east of the
+project area at the edge of a playa. Recorded in a road cut in 1982, the site had
+exposed bison bone, burned rock, and lithic tools including scrapers and a
+Harrell and a Fresno point found in association. Additional bone was noted on
+the surface in adjacent corn fields. No formal archeological investigations were
+conducted at the time that it was recorded, but test excavations were
+recommended to determine site potential. Finally, 41MT11 is approximately
+2400 meters west of the project area on the east side of McKenzie Draw (Figure
+1). The site was recorded by archeologists from the University of Texas and
+consists of a surface scatter of burned rock and chert flakes that was seriously
+disturbed as a result of plowing and natural erosion. Given the poor site
+preservation, no further work was recommended for the site and it was
+considered ineligible for NRHP/SAL listing.
+Archeological research associated with the construction of the Sulpher Springs
+Draw Reservoir (Quigg, et. al. 1994) and the Red Lake Reservoir (Quigg, et. al.
+1993), both west of the project area, encountered multiple prehistoric and
+historic archeological sites adjacent to draws and playas. Deposits were
+generally limited to the surface, though several sites had deposits 10-30
+centimeters in depth below surface. Only two sites exhibited greater depth:
+41MT41 had material present to a depth of 60 centimeters below surface and
+41MT21 had artifacts present to depths of over one meter. Prehistoric artifacts
+consisted primarily of burned rock and caliche, lithic debitage and occasional
+chipped or ground stone tools. Several sites also had historic components. In all
+cases, regardless of depth of deposits, artifacts were visible on the surface.
+In summary, examination of the USGS topographical quad maps, the Hobbs and
+Big Spring Geologic Atlas of Texas maps, SCS County Soil Series maps, available
+areal photographs, and known site distributions suggests that the possibility for
+encountering archeological sites is relatively low except in areas where the
+project crosses draws and playas. Over the course of the 42.5 mile length of the
+project only one draw is crossed â Mustang Draw. In addition a second
+ephemeral stream shown on the USGS topographical maps and eleven playas
+are crossed or passed within close proximity. As the proposed project alignment
+follows the existing roadway and passes through terrain that is currently used
+for agricultural production as well as oil and gas extraction, and given the active
+
+plowing of the fields, any sites in these areas will have lost much of their
+integrity, if they have not been completely destroyed. In general, surface
+visibility is expected to be good to very good along the project area depending on
+surface vegetation.
+The project area will be shovel tested at a rate of 16 shovel tests per linear mile
+per 100 feet of width in areas with less than 30% surface visibility, in
+accordance with the THCâs minimum standards for archeological survey. Shovel
+tests will be excavated to a depth of one meter, to bedrock or to culturally sterile
+soils, whichever is encountered first. Soil from all shovel tests will be screened
+through Â¼â hardware mesh. Investigators will record their observations and the
+results of shovel tests through notes, standardized shovel test forms, and
+photographs. Any archeological sites identified during the survey will be
+investigated by means of no fewer than six shovel tests in order to define site
+boundaries relative to the project corridor. Artifacts encountered on the surface
+or in the course of subsurface testing will not be collected, but will be fully photo
+documented in the field.
+In addition to shovel testing, backhoe trenching will be employed to investigate
+for buried deposits on both sides of Mustang Draw. Backhoe trenching is also
+proposed to test for deeply buried components of any sites encountered during
+the survey that exhibit the possibility of possessing deposits at depths of greater
+than one meter.
+As per the THCâs Policy on Late-19th- and Early-20th-Century Sites (Denton
+1999), any historical sites identified during the survey will be documented not
+only through field efforts, but also through survey level archival research. This
+research will include an attempt to determine the history of ownership and land
+use for the site through oral interviews, deed research, or map research,
+whenever possible. Census records for the names of the individuals associated
+with the site will be checked, and the names of individuals will also be checked
+in the New Handbook of Texas History. Based on a combination of archival
+research, oral history, and artifact analysis, investigators will make
+recommendations for further archival or archeological work (outside the current
+scope) to determine NRHP/SAL eligibility.
+All work will be conducted under the terms and conditions of the First Amended
+Programmatic Agreement (2005) among the Federal Highway Administration
+(FHWA), TxDOT, the Texas State Historic Preservation Office (TSHPO) and the
+Advisory Council on Historic Preservation (ACHP) and the Memorandum of
+Understanding (MOU) between TxDOT and the THC.
+The results of the investigation will be compiled into a professional report as
+required under Chapter 26 of the THCâs Rules of Practice and Procedure and in
+conformance with section 106 of the National Historic Preservation Act (1966, as
+amended). The report will discuss all sites identified, including identifying the
+ownership of the land on which the site is located, and it will make
+recommendations about their eligibility with respect to the National Historic
+Preservation Act and as State Archeological Landmarks. The report will make
+clear recommendations about the need for further testing of archeological sites.
+The recommendations will be justified based on the requirements of 13 TAC
+26.5(35) and 13 TAFC 26.20(2). This report will be submitted to TxDOT-ENV
+and the THC for review and comment, and if required, Hicks & Company will
+address all comments and resubmit the report for final approval.
+All
+
+archeological sites located during the survey will be recorded at TARL, and all
+project photographs and records will be curated at that facility according to their
+standards. Upon acceptance of the draft report by TxDOT-ENV and the THC, 25
+bound color copies will be sent to TxDOT-ENV (20 for the THC to satisfy the
+conditions of the permit) and two bound color hard copies to the Odessa
+District.
+
+REFERENCES
+Bureau of Economic Geology
+1974 Geologic Atlas of Texas, Big Spring Sheet (reprinted 1981), The University of Texas at
+Austin.
+1976
+
+Geologic Atlas of Texas, Hobbs Sheet, The University of Texas at Austin.
+
+Denton, Mark H.
+1999 Dealing With Late-19th- And Early-20th-Century Sites. CRM News & Views: 13-14.
+Quigg, J. Michael, Charles D. Frederick, and Christopher Lintz
+1993 Archaeological and Geomorphological Investigations at Red Lake Dam Axis, Borrow Area,
+and Spillway, Martin County, Texas. Mariah Technical Report No. 873. Mariah
+Associates, Inc, Austin.
+1994
+
+Sulpher Springs Draw: Geoarchaeological and Archaeological Investigations at Sulpher
+Draw Reservoir, Martin County, Texas. Mariah Technical Report No. 776. Mariah
+Associates, Inc., Austin.
+
+Sanders, Dupree
+1960 Soil Survey of Dawson County, Texas. U.S. Department of Agriculture, Soil Conservation
+Service in cooperation with Texas Agricultural Experiment Station.
+Stoner, Herbert R. and Marvin L. Dixon
+1974 Soil Survey of Martin County, Texas. U.S. Department of Agriculture, Soil Conservation
+Service in cooperation with Texas Agricultural Experiment Station.
+
+

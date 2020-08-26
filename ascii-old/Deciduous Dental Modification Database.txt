@@ -1,0 +1,1684 @@
+BURIAL
+62.1
+62.1
+62.1
+62.1
+62.1
+62.1
+78
+78
+78
+78
+78
+78
+78
+122
+181
+181
+181
+181
+182
+182
+183
+183
+183
+183
+183
+183
+183
+183
+183
+183
+207
+207
+207
+208
+208
+208
+208
+208
+208
+208
+208
+208
+208
+208
+208
+208
+208
+208
+208
+226
+239
+239
+239
+239
+239
+239
+239
+239
+269
+269
+269
+269
+269
+269
+269
+269
+
+TOOTH
+lower dec. left central incisor
+lower dec. left posterior premolar
+lower dec. right canine
+lower dec. right central incisor
+upper dec. left posterior premolar
+upper dec. right canine
+lower dec. right canine
+lower dec. right central incisor
+lower dec. right posterior premolar
+upper dec. left canine
+upper dec. left lateral incisor
+upper dec. right central incisor
+upper dec. right lateral incisor
+upper dec. right central incisor
+lower dec. left central incisor
+lower dec. left lateral incisor
+lower dec. right central incisor
+upper dec. left lateral incisor
+upper dec. left posterior premolar
+upper dec. right posterior premolar
+lower dec. left anterior premolar
+lower dec. left canine
+lower dec. left central incisor
+lower dec. left lateral incisor
+lower dec. left posterior premolar
+lower dec. right anterior premolar
+lower dec. right canine
+lower dec. right central incisor
+lower dec. right lateral incisor
+lower dec. right posterior premolar
+lower dec. left anterior premolar
+upper dec. left anterior premolar
+upper dec. left posterior premolar
+lower dec. left anterior premolar
+lower dec. left canine
+lower dec. left lateral incisor
+lower dec. left posterior premolar
+lower dec. right anterior premolar
+lower dec. right canine
+lower dec. right central incisor
+lower dec. right posterior premolar
+upper dec. left anterior premolar
+upper dec. left canine
+upper dec. left central incisor
+upper dec. left posterior premolar
+upper dec. right anterior premolar
+upper dec. right canine
+upper dec. right central incisor
+upper dec. right posterior premolar
+lower dec. left central incisor
+lower dec. left anterior premolar
+lower dec. left central incisor
+lower dec. left posterior premolar
+lower dec. right canine
+lower dec. right posterior premolar
+upper dec. left posterior premolar
+upper dec. right canine
+upper dec. right posterior premolar
+lower dec. left anterior premolar
+lower dec. left canine
+lower dec. left lateral incisor
+lower dec. left posterior premolar
+lower dec. right anterior premolar
+lower dec. right posterior premolar
+upper dec. left anterior premolar
+upper dec. left canine
+
+SURFACE
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+mesial surf.
+None
+None
+None
+None
+mesial surf.
+mesial surf.
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+occlusal surf.
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+LOC
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+crown
+None
+None
+None
+None
+crown
+crown
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+crown
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+TYPE
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+pit and groove
+None
+None
+None
+None
+cervical margin
+cervical margin
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+pit and groove
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+ABSCESS
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+SIZE
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+MODIF. TYPE
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+LOC
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+DEV. STAGE
+root length 1/2
+crown complete
+None
+root length 1/2
+crown complete
+crown 3/4 complete
+crown complete
+initial root formation
+crown complete
+crown 3/4 complete
+crown complete
+initial root formation
+crown complete
+None
+crown complete
+crown 3/4 complete
+crown complete
+crown 3/4 complete
+None
+None
+crown 3/4 complete
+crown 3/4 complete
+crown complete
+crown complete
+crown 1/2 complete
+crown 3/4 complete
+crown 3/4 complete
+crown complete
+crown complete
+crown 1/2 complete
+None
+None
+None
+root length 1/4
+crown complete
+root length 1/2
+crown complete
+root length 1/4
+crown complete
+root length 3/4
+crown complete
+root length 1/4
+initial root formation
+root length 3/4
+crown complete
+root length 1/4
+initial root formation
+root length 3/4
+crown complete
+None
+apex closed
+apex closed
+apex closed
+apex closed
+apex closed
+apex closed
+apex closed
+apex closed
+crown complete
+crown 3/4 complete
+crown complete
+crown 3/4 complete
+crown complete
+crown 3/4 complete
+crown complete
+crown 3/4 complete
+
+LEH
+absent
+absent
+present
+absent
+absent
+present
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+
+269
+269
+302
+308
+308
+308
+308
+308
+308
+308
+308
+312
+312
+312
+312
+312
+312
+318
+318
+318
+318
+318
+318
+318
+318
+318
+318
+318
+318
+318
+319
+319
+319
+319
+319
+319
+319
+319
+319
+319
+319
+319
+319
+319
+328
+328
+328
+368
+368
+368
+368
+368
+386
+386
+386
+386
+386
+386
+396
+396
+396
+396
+396
+396
+397
+397
+397
+
+upper dec. right anterior premolar
+upper dec. right posterior premolar
+lower dec. right posterior premolar
+lower dec. left anterior premolar
+lower dec. left lateral incisor
+lower dec. left posterior premolar
+lower dec. right anterior premolar
+lower dec. right posterior premolar
+upper dec. left anterior premolar
+upper dec. left posterior premolar
+upper dec. right posterior premolar
+lower dec. left anterior premolar
+lower dec. right anterior premolar
+upper dec. left canine
+upper dec. left posterior premolar
+upper dec. right anterior premolar
+upper dec. right lateral incisor
+lower dec. left anterior premolar
+lower dec. left canine
+lower dec. left central incisor
+lower dec. left lateral incisor
+lower dec. left posterior premolar
+lower dec. right central incisor
+upper dec. left anterior premolar
+upper dec. left central incisor
+upper dec. left lateral incisor
+upper dec. left posterior premolar
+upper dec. right anterior premolar
+upper dec. right lateral incisor
+upper dec. right posterior premolar
+lower dec. left anterior premolar
+lower dec. left lateral incisor
+lower dec. left posterior premolar
+lower dec. right anterior premolar
+lower dec. right posterior premolar
+upper dec. left anterior premolar
+upper dec. left canine
+upper dec. left lateral incisor
+upper dec. left posterior premolar
+upper dec. right anterior premolar
+upper dec. right canine
+upper dec. right central incisor
+upper dec. right lateral incisor
+upper dec. right posterior premolar
+upper dec. left canine
+upper dec. right canine
+upper dec. right posterior premolar
+lower dec. right anterior premolar
+lower dec. right canine
+lower dec. right central incisor
+lower dec. right lateral incisor
+lower dec. right posterior premolar
+lower dec. left anterior premolar
+lower dec. left posterior premolar
+lower dec. right posterior premolar
+upper dec. left anterior premolar
+upper dec. left posterior premolar
+upper dec. right central incisor
+lower dec. left posterior premolar
+lower dec. right anterior premolar
+lower dec. right posterior premolar
+upper dec. left anterior premolar
+upper dec. right canine
+upper dec. right posterior premolar
+lower dec. left canine
+lower dec. left posterior premolar
+lower dec. right posterior premolar
+
+None
+None
+distal surf.
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+occlusal surf.
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+mesial surf.
+None
+None
+None
+mesial surf.
+None
+mesial surf.
+None
+
+None
+None
+crown
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+crown
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+crown
+None
+None
+None
+crown
+None
+crown
+crown
+
+None
+None
+cervical margin
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+pit and groove
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+cervical margin
+None
+None
+None
+cervical margin
+None
+cervical margin
+cervical margin
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+initial root formation
+crown complete
+None
+None
+None
+None
+None
+None
+None
+None
+None
+crown complete
+crown complete
+initial root formation
+crown complete
+initial root formation
+crown complete
+root length complete
+None
+root length complete
+root length complete
+None
+root length complete
+None
+None
+root length complete
+None
+root length 3/4
+root length 3/4
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+apex closed
+apex closed
+apex closed
+None
+None
+None
+None
+None
+root length complete
+None
+root length complete
+None
+root length 3/4
+apex closed
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+absent
+absent
+present
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+
+397
+397
+397
+397
+397
+397
+397
+399
+399
+419
+428.1
+430
+432
+432
+432
+432
+
+upper dec. left anterior premolar
+upper dec. left canine
+upper dec. left central incisor
+upper dec. left posterior premolar
+upper dec. right canine
+upper dec. right lateral incisor
+upper dec. right lateral incisor
+lower dec. left posterior premolar
+upper dec. left posterior premolar
+upper dec. right posterior premolar
+lower dec. left posterior premolar
+lower dec. right posterior premolar
+lower dec. left central incisor
+lower dec. right central incisor
+upper dec. left central incisor
+upper dec. right central incisor
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+occlusal surf.
+None
+None
+None
+None
+None
+None
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+crown
+None
+None
+None
+None
+None
+None
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+gross
+None
+None
+None
+None
+None
+None
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+crown 3/4 complete
+crown 3/4 complete
+crown 1/2 complete
+crown 1/2 complete
+
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+absent
+
+

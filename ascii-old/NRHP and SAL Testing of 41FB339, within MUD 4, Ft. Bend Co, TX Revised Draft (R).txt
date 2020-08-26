@@ -1,0 +1,1624 @@
+National Register of Historic Places and State Antiquities
+Landmark Testing of Site 41FB339, within Municipal Utility
+District 4, Fort Bend County, Texas
+
+By
+Kristi Miller Nichols and Chris R. Murray
+
+Steve A. Tomka
+Principal Investigator
+
+Prepared for:
+Toll-GTIS Property Owner LLC
+c/o Johnson SS Management
+5777 Sienna Parkway, Suite 100
+Missouri City, TX 77459
+
+Prepared by:
+Raba Kistner Environmental, Inc.
+12821 West Golden Lane
+San Antonio, Texas 78249
+September 2014
+
+REVISED DRAFT
+ASF 14-120-00
+
+Management Summary
+In August of 2014, Raba Kistner Environmental, Inc. was contracted by Toll-GTIS Property Owner LLC
+to perform National Register of Historic Places and State Antiquities Landmark eligibility testing of site
+41FB339, documented in 2013 by RKEI staff, in Fort Bend County, Texas. Recent plans indicate that the
+site may be impacted by planned improvements associated with the Sienna South Development.
+Therefore, National Register of Historic Places eligibility test excavations were performed at the site.
+The testing consisted of the excavation of 10 backhoe trenches and one 1-x-1 meter test unit within the
+current site boundary.
+The investigations revealed three brick features that appear to have been part of a sawmill. The mill’s
+equipment was removed from the location once it was no longer in use, leaving only the brick supports.
+It is likely the sawmill was in use between the late 1830s to the 1880s.
+Although associated with a rich history related to the Arcola Plantation, site 41FB339 retains little
+integrity. The equipment related to the sawmill had been removed and any superstructure that may have
+covered the facility has either been reused or has deteriorated, leaving only the brick foundation. RKEI
+recommends that the site is not eligible for listing to the National Register of Historic Places (NRHP)
+because it lacks integrity.
+The project was not conducted under a Texas Antiquities Permit since the property is under private
+ownership and the proposed development is privately funded. Steve A. Tomka served as Principal
+Investigator. Artifacts recovered during the investigations, as well as all project related material, are
+temporarily curated at RKEI. The artifacts will be returned to the property owners at the completion of
+the project.
+
+i
+
+Table of Contents
+Management Summary .........................................................................................................................................i
+Acknowledgements ........................................................................................................................................... iii
+List of Figures .....................................................................................................................................................iv
+List of Tables ....................................................................................................................................................... v
+Chapter 1 Introduction ......................................................................................................................................... 1
+The Area of Potential Effect ........................................................................................................................... 3
+Geology and Soils ........................................................................................................................................... 4
+Chapter 2 Previous Archaeology Investigations of the APE and its Vicinity...................................................... 6
+Chapter 3 Historical Background......................................................................................................................... 9
+Chapter 4 Methodology ..................................................................................................................................... 15
+Field Methods .............................................................................................................................................. 15
+Laboratory Methods ..................................................................................................................................... 15
+Additional Considerations ........................................................................................................................... 16
+Chapter 5 Results of the Field Investigation ...................................................................................................... 17
+Backhoe Trenching ...................................................................................................................................... 17
+Test Unit Excavation.................................................................................................................................... 28
+Features ........................................................................................................................................................ 39
+Chapter 6 Discussion of Artifacts Recovered .................................................................................................... 50
+Construction Materials ................................................................................................................................. 50
+Bone ............................................................................................................................................................. 52
+Glass............................................................................................................................................................. 53
+Metal Items .................................................................................................................................................. 54
+Personal Items .............................................................................................................................................. 54
+Chapter 7 Discussion and Recommendations .................................................................................................... 57
+References Cited ................................................................................................................................................ 60
+
+ii
+
+Acknowledgments
+The authors would like to thank several people for the successful completion of the project. Thanks go to
+Karl Mistry of Toll Brothers, Inc. for allowing RKEI the opportunity to perform the investigations. Our
+thanks also go out to Toll-GTIS Property Owner LLC for their sponsoring of the investigations. Derek
+Goff, Development Manager of the Johnson Development Corp., coordinated much of the logistics for the
+project, for which RKEI is grateful. Special thanks to Brian of CJ Waller Excavations for performing the
+mechanical excavations and assisting in exposing the brick features. Thanks to C. Clint Laffere for
+preparing the field maps and final figures for the report.
+Steve A. Tomka served as Principal Investigator and offered welcome guidance throughout the course of
+the project. Kristi Miller Nichols served as Project Archaeologist
+Crew consisted of Chris Murray, Mark Luzmoor, and Cynthia Dickey. Without their assistance the
+project would not have been a success. Lab technicians consisted of Kristi M. Nichols, Mark Luzmoor,
+and Chris Murray.
+
+iii
+
+List of Figures
+Figure 1-1. Location of the site. .......................................................................................................................... 2
+Figure 1-2. Location of site 41FB339 on the Thompson (2995-244) 7.5 minute USGS topographic
+quadrangle map. ............................................................................................................................................ 3
+Figure 1-3. Soil types distributed across the “wetlands.” ................................................................................... 4
+Figure 3-1. The 1890 map of the Arcola Plantation with the location of the Area of Potential Effect............. 13
+Figure 3-2. The 1909 map of the Arcola Plantation with the location of the Area of Potential Effect............. 14
+Figure 5-1. Location of the Backhoe Trenches and Test Unit excavated at 41FB399...................................... 18
+Figure 5-2. BHT 1 located to the right of Feature 1, facing east. ...................................................................... 19
+Figure 5-3. North wall of BHT 2. ..................................................................................................................... 20
+Figure 5-4. South wall of BHT 3. ..................................................................................................................... 21
+Figure 5-5. North wall of BHT 4.. .................................................................................................................... 22
+Figure 5-6. East wall of BHT 5. Note clay at base of trench ............................................................................ 23
+Figure 5-7. A portion of the east wall of BHT 6 showing Feature 3. ............................................................... 24
+Figure 5-8. The north wall of Feature 3. ........................................................................................................... 25
+Figure 5-9. The juncture of BHT 7 and BHT 8, showing the northeast corner of Feature 3 and the
+northwest corner of Feature 2. ..................................................................................................................... 26
+Figure 5-10. Overview of the brick features; note that the north walls of Feature 2 and Feature 3 are not
+aligned. ........................................................................................................................................................ 27
+Figure 5-11. Level 2 (10-20 cmbd) of Test Unit 1 showing the wall fall encountered..................................... 30
+Figure 5-12. Test Unit 1 Level 3 (20-30 cmbd) below the majority of the brick rubble and at the top of
+the lime and mortar layer............................................................................................................................. 31
+Figure 5-13. Level 4 (30-40 cmbd) in Test Unit 1showing the lime stain. ....................................................... 32
+Figure 5-14. Level 5 (40-50 cmbd) in Test Unit 1 revealing the footers of the wall. ....................................... 33
+Figure 5-15. Level 6 (50-60 cmbd) in Test Unit 1 showing the second course of footers. ................................ 34
+Figure 5-16. Bottom of Level 7 (60-70 cmbd) in Test Unit 1........................................................................... 35
+Figure 5-17. Level 8 (70-80 cmbd) in Test Unit 1. ........................................................................................... 36
+Figure 5-18. Profile of the south wall of Test Unit 1 ......................................................................................... 37
+Figure 5-19. East wall profile of Test Unit 1. ................................................................................................... 38
+Figure 5-20. West wall of Feature 1. Note whitewashing on the bricks. ......................................................... 40
+Figure 5-21. Top of Feature 1, facing west. ...................................................................................................... 41
+Figure 5-22. Top of the east end of Feature 1. .................................................................................................. 42
+Figure 5-23. Feature 1 facing southwest showing keyholes on the north façade.............................................. 43
+Figure 5-24. Break in Feature 1. ....................................................................................................................... 43
+Figure 5-25. Southwest corner of Feature 2. ..................................................................................................... 45
+iv
+
+Figure 5-26. Metal ring uncovered while clearing Feature 1. ........................................................................... 45
+Figure 5-27. Southern wall of Feature 3. .......................................................................................................... 46
+Figure 5-28. Narrow niche on top of Feature 3................................................................................................. 47
+Figure 5-29. Overview of Feature 3 with Feature 2 in the background. Note channel on Feature 3. ............... 48
+Figure 5-28. Planview of the brick features encountered at 41FB339. ............................................................. 49
+Figure 6-1. Brick fragments recovered from Test Unit 1.................................................................................. 51
+Figure 6-2. Brick recovered at the site with glazing on edge (note the right side). .......................................... 51
+Figure 6-3. Course brick “clinker” recovered from the site. ............................................................................. 53
+Figure 6-4. Glass bottle fragment recovered from Feature 3. ........................................................................... 53
+Figure 6-5. Cow bell recovered from Feature 3. ............................................................................................... 55
+Figure 6-6. Ceramic reed pipe bowl.................................................................................................................. 56
+Figure 6-7. Cuprous rivet recovered from Feature 3......................................................................................... 56
+
+List of Tables
+Table 1-1. Soils within the Sienna Plantation. .................................................................................................... 5
+Table 5-1. Artifacts Recovered in Test Unit 1. ................................................................................................. 29
+Table 5-2. Artifacts Recovered from Feature 3. ............................................................................................... 47
+
+v
+
+Chapter 1 Introduction
+Toll-GTIS Property Owner LLC (Sponsor), contracted with Raba Kistner Environmental, Inc. (RKEI) to
+perform National Register of Historic Places and State Antiquities Landmark eligibility testing of site
+41FB339, recently documented by RKEI staff, in Fort Bend County, Texas (Figure 1-1). The site is
+located near the southeastern corner of the Municipal Utility District #4 (MUD 4) property on the west
+bank of Sawmill Lake. The technical report (Clark et al., 2014) submitted by RKEI to the Texas
+Historical Commission documented and described the site and recommended that it be avoided since its
+National Register eligibility has not been determined. This recommendation was based in part on the
+expectation that the location was outside of the footprint of original improvement plans. The Texas
+Historical Commission concurred with these recommendations. However, upon consultation, it became
+clear that recent plans indicate that the site may be impacted by planned improvements associated with
+the Sienna South Development. Therefore, Toll-GTIS Property Owner LLC agreed to conduct the
+National Register/State Antiquities Landmark Eligibility testing of 41FB339 and contracted with RKEI
+to carry out the necessary archaeological investigations.
+
+1
+
+Figure 1-1. Location of the site.
+2
+
+THE AREA OF POTENTIAL EFFECT
+The Area of Potential Effect (APE) is located within the bounds of the former J.D. Waters Arcola Sugar
+Plantation, established in the middle of the nineteenth century and later purchased by T.W. House, a
+wealthy businessman from Houston. The project area has a long history of use as a cotton and sugar
+plantation. The APE is situated on the banks of Sawmill Lake, between the Brazos River and Oyster
+Creek in southeastern Fort Bend County (Figure 1-2).
+
+Figure 1-2. Location of site 41FB339 on the Thompson (2995-244) 7.5 minute USGS topographic
+quadrangle map.
+3
+
+The project area is in the Coastal Plains ecological region. This area is characterized by relative flat
+topography. Drainage basins feed into the Brazos River, Oyster Creek or Cow Bayou. Numerous ancient
+meander scars and ponds are present throughout the region and serve as sources of fresh water and
+localized but highly diverse plant and animal communities.
+
+GEOLOGY AND SOILS
+According to the United States Department of Agriculture (USDA)/Natural Resources Conservation
+Service (NRCS) Web Soil Survey, there are six different soils mapped within the portion of the MUD 4
+hitherto surveyed (Figure 1-3). The soil types are Norwood silty clay loam (Nd) found around the
+Sawmill Lake area, and Brazoria clay, found on flat to nearly flat terrain, rarely flooded (Ma). Soils
+within the APE are summarized below in Table 1-1.
+
+Figure 1-3. Soil types distributed across the “wetlands.”
+4
+
+Table 1-1. Soils within the Sienna Plantation.
+
+Soil Name
+
+Soil
+Type
+
+Brazoria clay, 0 to
+1 percent slopes,
+
+Clay
+
+rarely flooded (Ma)
+
+Norwood silt loam
+(Nc)
+
+Norwood silty clay
+loam (Nd)
+
+Silt
+
+Silt
+
+Sumpf clay (Ra)
+
+Clay
+
+Sandy alluvial (Sa)
+
+N/A
+
+Soil
+Depth
+(Meters)
+
+Parent
+Material
+
+Greater
+
+Clayey
+
+than 2
+
+alluvium
+
+Greater
+than 2
+
+Greater
+than 2
+
+clayey
+
+Water Capacity
+
+Capacity
+
+Slow
+
+Moderate
+
+High
+
+High
+
+High
+
+Low
+
+High
+
+High
+
+Low
+
+Low
+
+High
+
+High
+
+High
+
+Moderate
+
+N/A
+
+alluvium
+Loamy over
+clayey
+alluvium
+Clayey
+
+than 2
+
+alluvium
+
+than 2
+
+Shrink-Swell
+
+Loamy over
+
+Greater
+
+Greater
+
+Available
+
+Permeability
+
+N/A
+
+5
+
+Chapter 2 Previous Archaeological Investigations of the
+APE and its Vicinity
+A pedestrian reconnaissance survey of a large portion of the Sienna Plantation Development was
+previously carried out by Espey, Huston & Associates, Inc. in 1984 on behalf of the Johnson Corporation
+(Glander 1984). These investigations included the APE of the current project. A single prehistoric
+surface scatter, lacking physical and cultural integrity, was recorded during the survey. The
+reconnaissance also resulted in the identification of the home site of J.D. Waters, the Waters Cemetery,
+the site of the Waters brickyard, two existing brick structures believed to be associated with the
+Waters/House sugar mill, seven other historic-aged structures believed to be associated with the House
+Plantation era, and the Scanlan family home and cannery. In addition, three former structures and four
+features located on historic maps and mentioned in the literature were discussed in the report. These
+include a possible church, three possible depots, an abandoned dump, two railroad grades, and a cemetery
+located near the Scanlan mansion. The report recommended that all of the existing brick sugar mill
+structures associated with the Waters/House plantation should be considered eligible for listing in the
+NRHP (Glander 1984). These structures are located to the east and outside of the boundaries of the MUD
+4, the APE of the current project.
+In 2003, SWCA Environmental Consultants (SWCA) performed an intensive pedestrian survey and
+mechanical trenching on approximately 19 acres of property proposed for a wastewater treatment plant in
+Fort Bend County. This survey area is located to the east and outside of the current project, directly
+across Oyster Creek. No additional information was available for this survey but it appears that no new
+sites were recorded during the survey (Bonine 2005).
+Between 2007 and 2008, HRA Gray & Pape carried out a number of archaeological investigations across
+portions of the 3,100-acre Sienna Plantation tract (McKinney and Hughey 2008; Nash et al. 2009),
+including a survey and mechanical subsurface testing on behalf of UST-PRU Sienna, LP., on the
+proposed approximately 4.0-mile long Sienna Parkway South Extension crossing through the center and
+along the southern edge of the current APE. At the time, the property was privately owned and the
+project was privately funded. The APE was restricted to the proposed right-of-way (ROW) for the new
+construction. Field investigation consisted of a combination of 100 percent pedestrian survey
+accompanied by shovel testing, mechanical scraping, and backhoe trenching. Trenching between the
+Arcola Community Cemetery (FB-C057) and the proposed ROW for Sienna Parkway was performed
+specifically to search for cultural materials and features that would allow the delineation of the cemetery
+6
+
+boundaries and whether its limits extend into the proposed ROW (Nash et al. 2009). No evidence of the
+Arcola-Community Cemetery was discovered within the ROW. HRA Gray & Pape recommended that no
+further archaeological work be required within the proposed road ROW (Nash et al. 2009).
+HRA Gray and Pape also performed extensive archeological and historic research on the CommunityArcola Cemetery. The cemetery is located to the east and outside of the current APE. The purpose of the
+work was to determine the boundaries of the cemetery. Research and fieldwork resulted in identifying
+seven headstones and 59 possible burial shafts. The dates of the seven headstones range between 1910
+and 1926 and one burial was identified as that of a leased convict and two others were identified as
+women. It was observed that the headstones and depressions tended to be found in clusters; however, an
+informant stated that the cemetery extends, “well past the northern-most identified depression”. HRA
+Gray and Pape recommended additional work such as: the collection of oral histories, archival research,
+and mechanical scraping and trenching to define the eastern, western, and northern boundaries of the
+cemetery (Nash et al. 2009).
+In 2009, HRA Gray & Pape performed an historic assessment of a drainage feature located within the
+Sienna Plantation Development. The canal that connects the Oyster Creek and Cow Bayou drainages is
+believed to be of early Texas statehood age. However, available documentation did not support this
+postulation, therefore the feature was not recommended for NRHP eligibility as an isolated feature
+(McKinney 2008).
+In the fall of 2009 and summer of 2010, HRA Gray & Pape excavated and documented the Sienna
+Plantation Sugar House/T.W. House New Sugar House and mill that was accidentally discovered during
+the construction of the Waters Lake Boulevard extension project, in Fort Bend County (Nash et al. 2009;
+Nash n.d.). The site was considered not eligible as a State Antiquities Landmark (SAL) due to the fact
+that the entire site was going to be removed for the completion of the Waters Lake Boulevard extension.
+In 2013, Raba Kistner Environmental, Inc. (RKEI) performed 70 shovel tests across the high-probability
+areas within the 3,700-acre Proposed Sienna South Development and the delineation of the Community
+Arcola Cemetery (FB-C057) on behalf of Toll-GTIS Property Owner LLC. At the time, the property was
+privately owned and the project was privately funded. Only one shovel test, ST 70 located along Oyster
+Creek), produced cultural materials consisting of two, historic-age machine-made nails found between 10
+and 15 cmbs. The cemetery boundaries were further investigated based on earlier HRA Gray & Pape
+recommendations. The northern and eastern boundaries were scrapped in search of potential unmarked
+graves, which none were found. RKEI redefined the cemetery boundaries and recommended a 75 foot
+7
+
+buffer to further protect against accidental disturbance of an unmarked grave during future construction
+activities.
+In the spring of 2014, Raba Kistner Environmental, Inc. (RKEI) performed mechanical trenching of the
+1,134-acre Municipal Utility District #4 (MUD 4) on behalf of Toll-GTIS Property Owner LLC. Four of
+the 44 backhoe trenches encountered were positive for cultural materials and all 4 were associated with
+the newly discovered 41FB339. 41FB339 was mapped and RKEI recommended further work to establish
+it’s potential eligibility for listing on the NRHP and formal designation as an SAL.
+
+8
+
+Chapter 3 Historical Background
+The settlement of the region by Anglo colonists began during the 1820s. Prior to this date, the area had
+been sporadically used by the Karankawa Indians. The Karankawa occupied the area of Texas west of
+Galveston Bay to Corpus Christi, typically in small bands that moved frequently to follow supplies of
+natural resources (Newcomb 1961). The Karankawa are often characterized as being an aggressive group
+of people, but the colonists that settled the Fort Bend area had few problems. This is likely due to the
+movement of the Karankawa groups out of the Fort Bend County area by the 1850s.
+Moses Austin was given permission by the Spanish government to settle 300 families in the Brazos and
+Colorado River valleys. The plans were delayed by his death in 1821. Mexico’s independence from
+Spain also hindered the settlement. Moses’ son, Stephen F. Austin was able to take over the efforts and
+arranged for a group of colonists to sail from New Orleans to the Brazos River. In 1822, a small
+expedition of men established a cabin approximately ninety miles inland that became known as Fort
+Bend. By 1824, the Mexican Government officially granted leagues of land to the colonists Austin
+brought to Texas. Fifty-three grants were given to colonists within the Fort Bend area.
+The location of site 41FB339 falls within a portion of land that had been granted to David Fitzgerald in
+1824. Fitzgerald was awarded Patent No. 82 on July 10, 1824, consisting of 4428.4 acres. According to
+the document on File (Tx GLO), the grant was located east of the Brazos, and then joined the Hall and
+Barnett leagues. David Fitzgerald was one of the “Old Three Hundred” that was awarded grants from the
+Austin’s first empresario. Fitzgerald retained the land until 1840.
+David Fitzgerald was accompanied by his son, John, to Texas in 1822. David had a daughter that
+remained in the states with her husband. In 1832, Fitzgerald’s son-in-law came to Texas to make contact
+with the man who had not spoken to his relatives in the states for at least a decade. Upon arriving at the
+Fitzgerald League, the son-in-law, Eli, found that his father-in-law had passed just a few weeks prior.
+Eli’s brother-in-law, John, was living on the league at the time. Eli decided to bring his wife and children
+to Texas and settled on the league as well (Wharton 1939). Fitzgerald and the Fenns remained on the
+property for about 8 years.
+In 1840, Jonathan D. Waters, also known as Colonel Waters, came to the Fort Bend area. Deed records
+show that Waters purchased a large portion of the Fitzgerald property by October of 1844 (FBCDR B:92).
+He purchased another portion from Sarah Fenn, David Fitzgerald’s daughter, in 1844 (FBCDR B:93).
+Over the next decade, Waters purchased additional tracts of land (FBCDR) and had a thriving plantation
+complete with sugar, cotton, and corn crops, a brick yard, a sugar mill, and a cotton gin that he called
+9
+
+Arcola Plantation (Johnson 2014). It was believed that he had the largest sugar and cotton plantation in
+Fort Bend County (Wharton 1939). Waters had a large brick house constructed at the northern line of the
+Fitzgerald League was, near what came to be the Sante Fe Railroad Bridge. Waters’ brother came to visit
+the plantation in 1844, but never made it back to where he came in Alabama. Waters’ brother died
+suddenly and was buried on the plantation grounds near a grove of pecan trees not very far from the main
+house (Wharton 1939).
+Waters appears to have been a bit of a loose cannon when dealing with others in the community. He had
+a dispute over land with Collin Cox, a neighbor who had married Sarah Fenn, daughter of David
+Fitzgerald. Cox, who was unruly as well, indicated that he would kill Waters if provoked. Waters went
+to Cox’s home with a few friends and killed Cox in front of his wife (Wharton 1939). Although the
+ordeal made the local newspapers in 1847, Waters was never punished for the murder (Wharton 1939;
+Johnson 2014).
+Tragedy struck in 1848, when Waters’ wife, Sarah, died. Sarah left her half of the plantation to her
+husband. Waters appears to not have been known for kindness or gentle nature. Instead, he was known
+for being a businessman who overworked his slaves and livestock (Wharton 1939; Johnson 2014).
+Waters needed to travel to the county seat to probate Sarah’s will. He waited for a length of time, almost
+ninety days, and not only filed the will with probate but also requested a marriage license to wed Clara
+Byne. The two were married in March of 1848, barely three months after Sarah’s death (Wharton 1939).
+Waters threw all of his efforts into creating a successful plantation throughout the 1850s. He often
+worked all the daylight hours pushing his mules and slaves to produce more for the plantation. It was
+reported that he had up to 500 slaves working the plantation during the 1850s and 1860s. Locals
+discussed how he only fed the slaves “cornmeal mush cooked in huge boilers” (Wharton 1939:138). By
+1860, Waters was considered the wealthiest man in Fort Bend County. The plantation’s entire acreage
+had increased to 20,600, its cash value had risen to $270,000, and its farming implements and machinery
+were valued at $18,000 (U.S. Bureau of the Census 1860).
+During the spring of 1860, Clara Byne died, leaving Waters a widower once more. Waters erected a
+monument to Clara at the family cemetery where his first wife and brother were buried. He married again
+shortly after Clara’s death to her sister, Martha McGowen. Waters had yet to have any children of his
+own, so he adopted Martha’s children as his own.
+The Civil War ended up costing Waters the fortune he had acquired. To help fund the war, Waters
+donated $100,000 worth of gold to the Confederate cause. As a slave-owner himself, he felt that the
+10
+
+Confederate side of the war benefited him best. At the outcome of the war, both his finances and his
+health were failing (Wharton 1939; Johnson 2014). Waters died during the summer of 1871 (Johnson
+2014), although his wife, Martha, lived on for an additional fifty years (Wharton 1939). At the time of his
+death, the Waters estate was believed to have a net worth of approximately $800,000.
+The Waters heirs sold portions of the plantation after his death. The heirs sold a portion of the property to
+Thomas Pierce. In 1872, Pierce conveyed the property to Thomas William House. House was a
+successful businessman who arrived in Houston to start up House and Loveridge, a bakery and
+confectionary (Beazley 2014). He later developed the business to sell dry goods, groceries, and accept
+bank deposits. By 1853, House expanded further and opened the T. W. House and Company which
+became the largest wholesaler in all of Texas (Beazley 2014). The 1872 acquisition of the sugar
+plantation only worked to further House’s success. House employed John Fenn to run the plantation for
+him, in hope to prove to the public that the investment was sound and could turn a profit. Within five
+years, House and Fenn were able to increase the plantation’s size to span from the Brazos River to Oyster
+Creek (Sowell 2014)
+Convict labor became a popular source of getting work done on the plantations starting ca. 1871
+(Wharton 1939). The source of cheap labor was one of the many tactics used to increase the profits.
+House used convict labor to staff his plantation as early as 1875 (Glander 1984; Johnson 1961: 41-43).
+House died in January of 1880 (Beazley 2014). His son, T.W. House, Jr. continued the running of the
+plantation per the instructions of the will (Beazley 2014). House, Sr. wanted his estate to remain in one
+piece for at least five years (Beazley 2014).
+The sugar plantation was operated by House, Jr. throughout the rest of the nineteenth century. During the
+spring of 1903, he incorporated the Arcola Sugar Mills Company. House, Jr. expanded the infrastructure
+of the plantation to include a shop, commissary, dormitories, houses for the permanent employees, cane
+field derricks, and storage facilities (Rice 1909:12-13, 19). Although House, Jr. worked on the expansion
+of the sugar plantation, it appears that he was never able to consistently make a profit. The sugar industry
+in the Houston area suffered once Hawaii was annexed to the U.S., Puerto Rico was granted protectorate
+status, and the elements caused cane crops to decline (Clark et al. 2014). House, Jr. filed bankruptcy by
+1907 leading the plantation to be put for sale in 1909 (Rice 1909; Clark et al 2014). In 1908, the
+advertisement for the sale of the Arcola Sugar Plantation was presented in a pamphlet giving details
+concerning the bankruptcy, offering details of what the plantation could produce, and photographs of the
+main buildings. A topographic map of the plantation was included with the pamphlet that depicted the
+crops being grown, the location of the different living areas and work areas, and location of drainages,
+11
+
+lakes, roads, and tracks.
+The property was purchased by the Estate of T.H. Scanlan. Scanlan, a mayor of Houston, had passed
+away in 1906 while visiting a vacation home in Chicago (Scanlan Foundation 2005). His daughters were
+left his estate and managed it for the rest of their lives. The Scanlan sisters acquired the plantation in
+1913 (Scanlan Foundation 2005) as a result of the House Bank failure. Scanlan had been a large
+depositor in the bank, and once the bank went under all of the assets of the bank were distributed to the
+depositors (Scanlan Foundation 2005). From the archival records, it appears that the Scanlan sisters had
+little to do with the day-to-day running of the plantation and lived in Houston rather than at Arcola.
+Sugar production at the plantation appears to have ceased ca. 1929 (Glander 1984). The use of convict
+labor had been outlawed approximately 19 years earlier, causing great difficulty to the local sugar and
+cotton plantations. The cost of labor dramatically increased when the cost of the product did not. Slowly
+the plantations in the area declined, with the Arcola Sugar Plantation ceasing to function by the time the
+Scanlan sisters decided to occupy the property. Due to tensions from street widening in Houston, the two
+remaining Scanlan sisters decided to relocate to the Arcola Plantation (Scanlan Foundation 2005). The
+ladies salvaged material from their Houston house to build a home on the plantation. The older sister,
+Lillian, used the plantation grounds as a farm and ranch which she ran. Much of the area that had been
+used for cane cultivation had been converted to pastureland for the ranch. Soon ranching became the
+main activity at the plantation. What areas that did not see much livestock reverted to woodlands over the
+years.
+Lillian Scanlan died in 1947, at which time all of her assets were given to the Scanlan Foundation. The
+Scanlan Foundation was formed at this time and consisted of Stella Scanlan (Lillian’s younger sister),
+Louie Linnenberg, and Walter Brown. Linnenberg and Brown were individuals that had helped the
+Scanlan sisters manage their property. Lillian stipulated that all of her estate was to be used for “Roman
+Catholic religious, charitable and educational purposes within the state of Texas” (Scanlan Foundation
+2005).
+Stella Scanlan passed away three years later, leaving her estate to the Scanlan Foundation (Scanlan
+Foundation 2005). There was some uproar over the will at the time of her death. Extended family argued
+that Stella was coerced into leaving her estate to the Scanlan Foundation. After going to court, it was
+ruled that her will was valid and the Scanlan Foundation was to manage the assets of the estate. The
+house within the old Arcola Plantation that Lillian and Stella had built became a retreat center operated by
+the Cenacle Sisters. The Cenacle Sisters renamed the Scanlan property “Sienna Plantation” after the
+12
+
+Sienna region in Italy. The Sienna Plantation remained in the possession of the Foundation until 1961, at
+which time it was sold to the Fuqua Industries, Inc. out of Rosharon, Texas (Glander 1984).
+A review of the historic maps of the project area offer insight to the use of the plantation. The 1890 map
+depicts the location of Mill Lake and the locations of the sugar house and T.W. House residence, but do
+not indicate a structure on in the vicinity of the lake (Figure 3-1). The 1909 map of the Arcola Plantation
+does not show any structures within the vicinity of Sawmill Lake, but does reveal that the land adjacent to
+the lake was used to for cane cultivation (Figure 3-2). Opposite the lake to the northeast, there is a
+loading derrick depicted. No earlier maps of the plantation have been located that depict the location of
+the structures. The two maps examined both show Sawmill Lake, but do not have the location of the
+sawmill for which the lake is named after. It is possible that the sawmill was constructed and fell into
+disuse by the time the map of 1890 was drawn.
+
+Figure 3-1. The 1890 map of the Arcola Plantation with the location of the Area of Potential Effect.
+13
+
+Figure 3-2. The 1909 map of the Arcola Plantation with the location of the Area of Potential Effect.
+
+14
+
+Chapter 4 Methodology
+Field Methods
+The archaeological investigations consisted of the mechanical excavation of backhoe trenches within the
+APE and the hand-excavation of a single 1-x-1 meter test unit.
+The backhoe trenches excavated during the project were placed perpendicular to the lake bank. Each
+trench was excavated to a maximum depth of 1.5 m below surface. Each trench was approximately 80 cm
+wide and 2.5 to 3 meters long. To prevent damage to the brick features, the backhoe left 5 to 10 cm of soil
+on the façades. This soil was removed by hand. During the trenching, the removed dirt was briefly
+inspected for cultural material. Select portions of the trench walls were profiled and photographed to
+document the different soil layers and define original ground surface upon which the site features were
+constructed. The placement of the backhoe trenches was made at the discretion of the Project
+Archaeologist and Principal Investigator with the intent of determining if significant cultural deposits
+were present within the APE.
+The test unit was excavated in arbitrary 10-cm increments. The unit was excavated to yield fine-grained
+information related to the vertical distribution of cultural materials within the site. All matrix was
+screened through ¼ inch hardware cloth and artifacts recovered from each level were bagged with the
+appropriate provenience information and returned to the CAR laboratory for processing and analysis.
+Due to the quantity encountered, rather than collecting all brick and mortar pieces, only a sample of
+bricks and mortar was collected from each level. Level forms were completed for each excavation level.
+Information related to the broad range of artifact types recovered, artifact quantities, and matrix types
+were noted on the excavation forms.
+
+Laboratory Methods
+Artifacts were processed in the RKEI laboratory where they were washed, air dried, and stored in
+archival-quality bags. Acid-free labels were placed in all artifact bags. Each label displayed provenience
+information and a corresponding lot number written in pencil. Additionally, the materials are processed in
+accordance with current Council of Texas Archaeologists guidelines. Artifacts will be returned to the
+property owners at the completion of the project.
+Field notes, field forms, photographs, and field drawings were placed into labeled archival folders and
+converted into electronic material. Digital photographs were printed on acid-free paper, labeled with
+15
+
+archivally appropriate materials, and placed in archival-quality plastic sleeves. All field forms were
+completed with pencil. Ink-jet produced maps and illustrations were placed in archival quality plastic
+page protectors to prevent against accidental smearing due to moisture. A copy of the report and all digital
+material were burned onto a CD and permanently curated with field notes and documents. All project
+related documentation is housed at the RKEI Archaeological Laboratory.
+
+Additional Considerations
+In consultation with the THC, subsequent to proper analyses and quantification, artifacts possessing little
+scientific value were discarded pursuant to Chapter 26.27(g)(2) of the Antiquities Code of Texas. Artifact
+classes to be discarded specific to this project included redundant or poor condition building materials.
+Prior to discard, the provenience information and weights of the building materials were recorded. A
+representative sample of the building materials recovered at the site was retained.
+
+16
+
+Chapter 5 Results of the Field Investigation
+RKEI archaeologists conducted the investigation at Site 41FB339 over the course of four days. The
+investigation employed three different approaches. First, the brick feature that had been encountered
+during a previous investigation was uncovered. Second, backhoe trenching was used to determine if
+additional features were present at the site. And finally, a 1-x-1 m unit was excavated to obtain a more
+detailed look at the cultural material and stratigraphy of the site.
+
+Backhoe Trenching
+A total of nine backhoe trenches were excavated (Figure 5-1). Backhoe Trenches 1 and 2 had been dug
+during prior visits to the site, both were re-excavated. Backhoe Trench 1 was located along the southern
+edge of the brick feature identified during the 2013 site visit. Backhoe Trench 2 was located along the
+north face of the brick features. These trenches were re-excavated to expose the brick feature and
+determine if the visible bricks on the surface were part of a separate feature. Backhoe Trenches 3, 4, 5, 9,
+and 10 were excavated around the site to determine if additional deposits were present. Backhoe Trenches
+6, 7 and8 were excavated to aid in delineating the brick platforms.
+
+17
+
+Figure 5-1. Location of the Backhoe Trenches and Test Unit excavated at 41FB399.
+18
+
+BHT 1
+Backhoe Trench 1 had been excavated at least twice prior to the 2014 site visit. The trench was located
+south of Feature 1 (Figure 5-1 and 5-2), which was identified during the prior visits. The trench was
+approximately 1 meter deep, 80 cm wide, and approximately 10 meters long. It encountered previously
+disturbed soils and no cultural material. The brick feature was approximately 7 meters in length,
+extending to the edge of the bank of Sawmill Lake. Feature 1 was approximately 1.2 meters wide. The
+bricks along the western edge of Feature 1 were white-washed.
+
+Figure 5-2. BHT 1 located to the right of Feature 1, facing east.
+
+BHT 2
+Backhoe Trench 2 was excavated along the northern face of Feature 1. This trench had also been
+excavated during previous investigations. The purpose of BHT 2 was to expose the northern façade of
+Feature 1 and to locate the possible feature that was noted during the 2013 investigation.
+The trench was approximately 11 meters in length and 1.2 meters in width. The previously dug portion of
+19
+
+BHT 2 was excavated with ease. Once the trench was widened to locate the northern brick alignment, the
+backhoe encountered soils that contained a jumble of brick, mortar, lime, and a silty reddish soil. Larger
+pockets of lime and mortar were noted along the length of the trench’s northern profile (Figure 5-3).
+Cultural material noted in the trench included cut nails, small metal fragments, and a few faunal remains.
+
+Figure 5-3. North wall profile of BHT 2.
+Hand-clearing of the trench’s north wall revealed intact brick. The bricks formed the bases of two eastwest aligned platforms. The platform located closest to Sawmill Lake was designated Feature 2. The
+brick platform located to the west of Feature 2 was designated Feature 3 (Figure 5-1). The bricks exposed
+in the northern wall of BHT 2 were white-washed.
+
+20
+
+BHT 3
+Backhoe Trench 3 was placed approximately 5 meters to the south of BHT 1. The purpose of excavating
+this trench was to determine if additional brick features or other historic deposits extended to the south.
+The trench was approximately 1 meter in width, 3 meters in length and 1 meter deep. The upper 30 cm of
+the trench consisted of a brown, silty loam that contained many grass roots. Below this stratum was a
+yellowish red silty soil with a slight clay content that contained no inclusions. This layer was
+approximately 60 cm thick. At the very base of the trench, approximately 10 cm of a dark brown clay
+with carbonate streaking that appears to be due to degrading snail shell was encountered.
+No cultural material was encountered within this trench. The soils appear to be intact and had not been
+previously disturbed (Figure 5-4). Once below the silty loam, the soil was extremely compact and
+difficult for the mini-excavator to get through. The clay encountered at the base of the unit was more
+difficult to excavate. It appears that the yellowish red silt and the dark brown clay were sterile soil strata
+in the area. The compacted soil may represent the original ground surface at the time of the construction
+of the brick features.
+
+Figure 5-4. South wall of BHT 3.
+21
+
+BHT 4
+Backhoe Trench 4 was placed approximately 9.5 meters to the north of BHT 2. The trench was placed
+south of a trench that was excavated during the 2013 visit. The trench was approximately 1 meter wide, 5
+meters long, and 1.5 meters in depth. The soils encountered were very similar to those encountered in
+BHT 3. The upper 20 cm was compact, but easily excavated with the mini-excavator. Below the silty
+loam was compact yellowish red silt that contained no inclusions. This layer was extremely compact and
+was difficult for the mini-excavator to get through. At the base of the trench, the min-excavator
+encountered the dark brown clay with carbonate streaks (Figure 5-5). No cultural material was noted in
+the trench.
+
+Figure 5-5. North wall of BHT 4.
+
+BHT 5
+Backhoe Trench 5 was located approximately 10 meters to the west of BHT 4 (Figure 5-1). The trench
+was approximately 1 meter in width, 5 meters in length, and 1.5 meters in depth. The soil strata were
+identical to that of BHTs 3 and 4 (Figure 5-6). The upper 20 cm was brown silty loam. Below that was
+22
+
+compact, yellowish red silt with no inclusions. The bottom of the trench (approximately 120-130 cm
+below surface) contained dark brown clay with snail shell fragments. The soil was compact and sterile.
+No cultural material was encountered.
+
+Figure 5-6. East wall of BHT 5. Note clay at base of trench.
+
+BHT 6
+Backhoe Trench 6 was placed perpendicular to BHT 2 to follow the edge of Feature 3 (Figure 5-1). BHT
+2 was extended further to the west than when opened in 2013. Once the southwest corner of Feature 3
+was located, BHT 3 was excavated parallel to the west façade (Figure 5-7). The trench was
+approximately 1.5 meters in width, 7 meters in length, and 90 cm deep. The base of Feature 3 was
+located approximately 41 cm below the surface. The bottom course of brick was stepped to allow for a
+small footing. The foundation was five courses of brick deep, and placed on the sterile, compacted
+yellowish red soil. The bricks were white-washed. During the excavation, many loose bricks and pockets
+of mortar and lime were encountered close to the foundation. Along the southern portion of the trench, it
+appears that there is a slump in the brick feature. Part of the footing appears to be missing and there is a
+23
+
+jumble of brick and mortar in place of the footers. This may be due to rodent burrowing, or natural
+settling of the soils over the years. The west wall of Feature 3 appears to be approximately 2.1 meters in
+length.
+
+Figure 5-7. A portion of the east wall of BHT 6 showing Feature 3.
+Cultural material noted during the clearing of the façade included cut nails and metal fragments. All
+pieces were relatively small and unidentifiable.
+
+BHT 7
+Backhoe Trench 7 was located perpendicular to the northern edge of BHT 6 (Figure 5-1). The trench was
+excavated to expose the north façade of Feature 3 (Figure 5-8). The trench was approximately 1.5 meters
+in width, 4.5 meters in length, and varied between 65 and 75 cm in depth. The same strategy of leaving
+soil on the brick façade to be cleared by hand was used again. At the eastern edge of the trench, it
+appeared that another brick alignment was encountered that was perpendicular to BHT 6. Trenching to
+the east stopped at that point and the focus reverted to clearing off the north façade of Feature 3. Similar
+24
+
+to what was encountered in BHT 6, the façade was five courses of bricks deep, with a footing projecting
+approximately 6 cm. All the bricks have been white-washed. Pockets of jumbled bricks and mortar were
+noted up against the wall during trenching and clearing.
+
+Figure 5-8. The north wall of Feature 3.
+Towards the eastern edge of the trench, the northeast corner of Feature 3 was uncovered. The space
+between Feature 3 and Feature 2 appears to be filled with loose bricks, mortar fragments, lime, and soil
+(Figure 5-9). Also, what appears to be the northwest corner of Feature 3 exhibits one course of bricks
+with a jumble of bricks fragments and mortar below. This corner is in line with the corners located in
+BHT 2 and follows the alignment of brick found in the bank of Sawmill Lake (Figure 5-10). The north
+walls of each feature are not aligned, though. There is an approximately 30 cm difference in the wall
+alignments. The corner is also near an area where the backhoe may have taken out a few bricks during
+excavation. It appears that there is a layer of bricks from this corner extending to the east that is one
+course thick, possibly used as a flooring (Figure 5-9).
+
+25
+
+Figure 5-9. The juncture of BHT 7 and BHT 8, showing the northeast corner of Feature 3 and the
+northwest corner of Feature 2.
+
+26
+
+Figure 5-10. Overview of the brick features; note that the north walls of Feature 2 and Feature 3 are not
+aligned.
+
+BHT 8
+Backhoe Trench 8 was located perpendicular to the eastern edge of BHT 7 (Figure 5-1). The trench was
+excavated to investigate a potential alignment of bricks noted in BHT 7. The trench was approximately
+1.5 meters wide, 3 meters in length, and approximately 80 cm in depth. During the excavation of this
+trench, RKEI was better able to expose the north façade of the brick foundation, revealing corners that
+indicated there were two brick features. In addition, a small stack of bricks was noted approximately 1.5
+meters to the north of the Features 2 and 3. The stack was three bricks high, although they did not adjoin
+any other surrounding bricks. Approximately 30 cm to the west, near the bottom brick in the stack, was a
+metal bar that resembles a piece of track. The possible track piece was 60 cm in length, and
+approximately 9 cm wide. There were no other bricks that could be tied to the small brick stack. There
+were no other features noted within BHT 8. Artifacts encountered during trenching included animal bone
+(possibly hog), cast iron fragment, a lead fragment, and the possible track fragment.
+
+BHT 9
+Backhoe Trench 9 was situated between BHT 4 and the northern end of BHT 8 (Figure 5-1). The trench
+was placed in this location to determine if there were additional brick platforms or other buried cultural
+27
+
+deposits. The trench was approximately 3 meters in length, 1 meter in width, and 1.5 meters deep. The
+soil stratigraphy noted in BHT 9 was very similar to the other BHTs that were not associated with the
+brick features.
+The upper 30 cm of soil was a brown, silty loam with grass roots. A few small brick and mortar
+fragments were noted in the upper 20 cm of the layer. The fragments ranged in size from 5-10 cm in
+diameter, and there were approximately 5 total. Below the silty loam, the soil changes to the yellowish
+red compacted silt with some clay content. The soil stratum is sterile and contains no inclusions. This
+stratum extended to approximately 120 cm below the surface. At the base of the trench (the remaining 30
+cm), a dark brown clay was encountered that exhibited carbonate streaks that are likely related to the
+presence of degraded snail shell. No cultural material was observed in this layer.
+A column of soil was collected at every 5 cm increment between the surface and the base of the trench.
+The soil samples may be used for magnetic soil susceptibility testing once returned to the laboratory.
+Other than the few fragments of brick observed in the first 20 cm, no other cultural material was
+encountered.
+
+BHT 10
+Backhoe Trench 10 was placed approximately 5 meters to the west of BHT 6 (Figure 5-1). The trench
+was orientated north/south. It was excavated to determine if a channel had existed between the Feature 1
+and Features 2 and 3. Initially it was believed that a water channel may have passed between the features.
+The trench was 3.5 meters in length, 1 meter wide, and 1.2 meters in depth. The profiles of the trench
+were very similar to the other trenches not associated with the brick features. The upper 20-30 cm
+consisted of brown, silty loam with grass roots. Below this upper layer was the yellowish red silt with a
+slight clay content. At approximately 90 cm below the surface, the soil changed to the dark brown clay
+with carbonate streaks. One brick fragment was encountered in the upper 10 cm of the northern end of
+the trench. The remainder of the soil strata did not contain any cultural material. There was no evidence
+of a channel cut in the trench profiles.
+
+Test Unit Excavation
+One test unit was excavated within the site (Figure 5-1). Prior to placing the unit, sections of the surface
+were cleared to locate the path of a brick alignment observed starting in the bank of Sawmill Lake. Once
+an outline of the alignment was visible, a unit was placed along the north edge of the alignment. This unit
+28
+
+was designated as Test Unit 1.
+
+TEST UNIT 1
+Test Unit 1 (TU 1) was excavated in arbitrary 10 cm levels to a terminal depth of 90 cm below datum
+(cmbd). The datum was positioned north of the unit and 10 cm above the modern ground surface.
+Excavation of the first level revealed there was a large quantity of fragmented brick and mortar. Due to
+the large quantity of brick encountered and the question of transporting such material to the RKEI
+Archaeology Laboratory, it was decided that only samples of the brick and mortar fragments were to be
+collected rather than collect every piece. The brick alignment noted in the lake bank formed the southern
+edge of the unit.
+The excavation of Level 1 (3-10 cmbd) of TU 1focused on the removal of the vegetation covering the
+surface of the site. As the grasses were cleared, it became evident that there was a high density of brick
+fragment. The soil consisted of a compacted silty loam that was dark brown in color (7.5YR3/4).
+Artifacts encountered included brick, mortar, and one fragment of animal bone (Table 5-1). There were
+over 100 brick fragments noted that ranged in size from 5-15 cm in diameter. A sample of 31 fragments
+of brick and four fragments of mortar were collected from this level (Table 5-1).
+
+4
+1
+3
+
+Grand Total
+
+4
+
+27
+
+1
+
+1
+5
+14
+8
+
+1
+
+27
+
+1
+
+Local Made
+224
+31
+170
+1
+8
+4
+6
+2
+1
+1
+
+80
+4
+15
+30
+7
+
+224
+
+80
+
+6
+
+Other
+
+Fastener
+
+Sample
+
+Bolt
+
+Cut
+Nail
+
+Mussel Shell
+
+TU 1
+Lvl 1 (0-10)
+Lvl 2(10-20)
+Lvl 3 (20-30)
+Lvl 4 (30-40)
+Lvl 5 (40-50)
+Lvl 6 (50-60)
+Lvl 7 (60-70)
+Lvl 8 (70-80)
+Lvl 9 (80-90)
+
+Glazed
+
+Metal
+
+Pull Tab
+
+Faunal
+
+Mortar
+
+Brick
+Charcoal
+
+Bone
+
+Mortar/Brick Sample
+
+Construction Material
+
+3
+
+22
+
+2
+
+8
+
+1
+
+2
+
+2
+
+4
+4
+
+1
+1
+
+9
+4
+5
+1
+1
+
+3
+
+22
+
+6
+
+3
+1
+13
+7
+6
+
+Lime/Ash
+1
+
+1
+
+2
+
+8
+
+1
+
+Grand Total
+
+Table 5-1. Artifacts Recovered in Test Unit 1.
+
+379
+36
+197
+42
+31
+22
+24
+4
+15
+8
+379
+
+Level 2 (10-20 cmbd) encountered an increased density of brick and mortar fragments. The excavation
+revealed bricks that appear to have been related to wall fall. The top of the alignment in the southern
+portion of the unit was exposed further (Figure 5-11). Artifacts encountered in this level included brick,
+29
+
+mortar, animal remains, one metal bolt, two cut nails, pull tabs and mussel shell.
+
+Figure 5-11. Level 2 (10-20 cmbd) of Test Unit 1 showing the wall fall encountered.
+Level 3(20-30 cmbd) excavations focused on removing the wall fall that had been mapped in on the
+previous level. The soil encountered in this level consisted of a brown (7.5YR5/4) silt with some clay
+content. The wall fall was removed to reveal what appeared to be degraded mortar or lime in the western
+half of the unit (Figure 5-12). The bricks varied in size from whole to small fragments. A few of the
+bricks encountered exhibited a glaze. Artifacts recovered from the level included brick, mortar, charcoal,
+and mussel shell. The excavation of the level produced over 100 fragments and whole bricks. A sample
+of the brick fragments was collected. At the base of the level, a few additional bricks were noted that
+were considered wall fall. The southern edge of the unit exposed more of the brick alignment, revealing
+that it was at least two courses of brick deep.
+
+30
+
+Figure 5-12. Test Unit 1 Level 3 (20-30 cmbd) below the majority of the brick rubble and at the top of
+the lime and mortar layer.
+Level 4 (30-40 cmbd) removed more wall fall, but the density of bricks decreased in comparison to the
+previous levels. A burned root was encountered in the center of the unit. The soil around it appeared to
+be ash, but it also could have just been a mixture of lime and degraded mortar (Figure 5-13). The
+consistency of the white (7.5YR8/1) matrix was fine and powdery. The surrounding soil was a slightly
+darker brown (7.5YR4/4) silt than the previous level with some clay content. Artifacts collected in this
+level included brick, mortar, charcoal, cut nails, and a bolt fragment. The density if the brick fragments
+encounter was reduced in this level (n=<100).The brick alignment in the southern portion of the unit was
+revealed to be at least 3 courses of brick deep, with a possible fourth course acting as a footer.
+
+31
+
+Figure 5-13. Level 4 (30-40 cmbd) in Test Unit 1showing the lime layer.
+Level 5 (40-50 cmbd) exposed more of the burned root in the center of TU 1. Charcoal fragments were
+present around the root. The soil encountered was a mix of the fine, powdery white ash/lime with brown
+silt. The soil was fairly compacted, but the fineness of the ash/lime made digging in several areas easy.
+The density of brick fragments decreased from the previous level. Artifacts collected included brick,
+mortar, charcoal, and cut nails. The fourth course of brick was exposed and it is stepped from the upper
+bricks (Figure 5-14). The layer extended approximately 8 cm from the upper brick courses.
+
+32
+
+Figure 5-14. Level 5 (40-50 cmbd) in Test Unit 1 revealing the footers of the wall.
+Level 6 (50-60 cmbd) excavations allowed for the removal of the root that was approximately 8 cm in
+diameter and extended through the middle portion of the unit from north to south. Charcoal was noted
+around the root. The soil consisted of a strong brown (7.5YR4/6) silt with clay content. The lime/ash
+pockets are still present, as well as small chunks of degrading mortar. The largest pocket was noted in the
+southeast corner of the unit, abutting the brick wall. The soil in the northwest corner was more compact
+than other areas in the unit. The brick wall fall density decreased in this level in comparison to the
+previous level. Cultural material collected from this level included brick, glazed brick, mortar, charcoal,
+cut nails, and a ferrous bolt fragment. Excavations along the brick wall uncovered another layer of
+stepped brick (Figure 5-15), although it appears on the eastern half of the wall and not the entire length.
+The excavations indicate that the wall is at least 5 courses tall.
+
+33
+
+Figure 5-15. Level 6 (50-60 cmbd) in Test Unit 1 showing the second course of footers.
+Level 7 (60-70 cmbd) excavations revealed that the base of the wall was encountered in the previous
+level. The wall is five courses of brick high, with the two bottom courses being stepped. The soil
+encountered consisted of the strong brown silt with some clay content and pockets of lime and mortar
+(Figure 5-16). There was a slight increase in the density of brick fragments encountered due to one of the
+pockets of lime and mortar containing a concentration. Cultural material collected from this level
+included brick, mortar, and a cut nail.
+
+34
+
+Figure 5-16. Bottom of Level 7 (60-70 cmbd) in Test Unit 1.
+The soil excavated in Level 8 (70-80 cmbd) was deeper than the bottom of the brick wall. The soils were
+very similar to the previous level, with strong brown silt and pockets of lime and mortar (Figure 5-17).
+The brick density was low, and was encountered mostly within the pockets of lime and mortar. Artifacts
+collected included brick, mortar, and one cut nail.
+
+35
+
+Figure 5-17. Level 8 (70-80 cmbd) in Test Unit 1.
+Level 9 (80-90 cmbd) was the final level excavated in TU 1. The soil encountered was slightly darker
+than the previous level, but this strong brown (7.5YR5/6) silt may have been due to the decrease in the
+amount of lime and mortar inclusions in the level. The soil was extremely hard packed. Artifacts
+encountered consisted of a few fragments of brick and mortar. Most of these fragments were from areas
+just below the brick wall and confined to the upper few centimeters of the level. The compacted soil was
+very similar to the yellowish red silt that had been noted in the backhoe trenches excavated around the
+site. The façade of the brick wall was cleared and it appears that the wall sits atop a slightly jumbled
+layer of brick fragments and soil, which is on top of the compacted yellowish red silt (Figure 5-18 and
+Figure 5-19).
+
+36
+
+Figure 5-18. Profile of the south wall of Test Unit 1.
+
+37
+
+Figure 5-19. East wall profile of Test Unit 1.
+
+38
+
+Features
+Once backhoe trenching was completed, clearing of the surface of the features was undertaken. The brick
+façades were cleared by hand using a trowel and brush. The top of the features were cleared by removing
+the vegetation and using shovels and trowels to remove the soil layer. Ultimately, the clearing of the
+surfaces allowed for the identification of three brick features.
+None of the soil removed was screen, although artifacts were noted when they were encountered. Several
+unique artifacts were collected during the clearing. Fragments of ferrous metal, cast iron, cut nails, and
+lead were common materials encountered. Items that were unique or potentially diagnostic were
+collected and returned to the RKEI laboratory for processing. Other materials were photo-documented in
+the field. Less than 50 items were collected.
+
+FEATURE 1
+Feature 1 was originally identified in 2013 and lead to the designation of site 41FB339. Once cleared, the
+feature revealed a stepped surface along the western side (Figure 5-20). The eastern portion exhibits
+stepping, but it does not appear to be in the same design (Figure 5-21). This may be due to the eastern
+edge being obscured by tree roots (Figure 5-22). Two keyholes were seen on the feature that went through
+the entire width of the brick structure. The base of the feature was between 70 and 80 cm below surface.
+The feature has its tallest point near the center and appears to step down on the edges. The dimensions of
+the exposed brick feature measures 6.20 m (20.34 ft) on the top of the feature, 6.85 m (22.47 ft) at the
+bottom of the feature, 1.11 m (3.64 ft) wide, and 78 cm (2.55 ft) high.
+
+39
+
+Figure 5-20. West wall of Feature 1. Note whitewashing on the bricks.
+
+40
+
+Figure 5-21. Top of Feature 1, facing west.
+
+41
+
+Figure 5-22. Top of the east end of Feature 1.
+The north and south walls were similar, and exhibited two keyholes that seem to traverse the width of the
+feature (Figure 5-23). The feature extends into the bank of Sawmill Lake, with what appears to be a
+break in the feature in the eastern portion (Figure 5-24). Probing with a shovel did not encounter brick in
+this area.
+
+42
+
+Figure 5-23. Feature 1 facing southwest showing keyholes on the north façade.
+
+Figure 5-24. Break in Feature 1.
+The dimensions of the feature are 1.2 m wide, 70 cm deep at the tallest point, and 7 meters in length. The
+bricks are whitewashed, which is most evident on the western façade. On the surface, clearing produced
+43
+
+several artifacts including a brown glass bottle lip, a twentieth century pocket knife, cut nails, faunal
+remains, and a few unidentified ferrous fragments.
+
+FEATURE 2
+Feature 2 is located approximately 1.5 meters to the north of Feature 1. The western edge of Feature 2
+aligns with the western edge of Feature 1. The eastern edges do not appear to match. The southern
+façade of Feature 2 does not extend into the bank of Sawmill Lake. Clearing of the feature revealed much
+wall fall and jumble in this area, but no distinct alignment was observed. The southern façade ranged
+from four to six courses of brick high. The bricks are stepped to the surface, although the stacking of the
+bricks varies from lengthwise to transverse throughout the profile. The bricks are white washed, with
+pockets of lime and mortar present throughout the length of the southern face of the feature.
+
+The
+
+southern edge of the feature was the most complete exposure. The northern edge was revealed in Test
+Unit 1. The wall was five courses of brick high on the north façade, and has both transversely and
+lengthwise placed bricks. Exposing the surface of the feature offered some clues to the dimensions of the
+structure, but also brought some confusion. The feature is at least 2.8 meters wide, but the east-west
+dimension was hard to determine due to an area along the southern wall that appears to be missing. The
+north wall appears to be approximately 8 meters in length. The western wall façade was not exposed due
+to its proximity to Feature 3, but the exposure of the surface of Feature 2’s western area indicated a brick
+surface that sloped towards Feature 3. There may have been a connection with bricks between Feature 2
+and 3, but this could not be determined during the site investigations. The western portion of Feature 2
+appears to have some notch-like niches (Figure 5-25). The eastern portion of the feature consists of a
+brick foundation that is three courses of brick wide (approximately 30 cm), with at least one identifiable
+cross-support running north-south. The northern foundation extends to the east into the bank of Sawmill
+Lake. The interior of the feature exhibits some brick rubble, but no indication of a solid platform of brick.
+It is likely that this feature was used as a foundation for a wooden structure. The bricks are white washed
+on the surface and wall façade.
+Artifacts encountered while clearing Feature 2 included a metal plate, a metal ring (Figure 5-26), faunal
+remains, cut nails, and a few unidentifiable ferrous fragments.
+
+44
+
+Figure 5-25. Southwest corner of Feature 2.
+
+Figure 5-26. Metal ring uncovered while clearing Feature 1.
+
+FEATURE 3
+Feature 3 appears to be a solid brick platform with notches in the surface. The feature is rectangular in
+shape, and slightly narrower than Feature 2. The platform is five courses of bricks, with the bottom two
+45
+
+courses of bricks stepped (Figure 5-27). Once cleared, the dimensions of the platform were 2.4 meters
+wide (north-south), 2.4 meters long (east-west), and approximately 45 cm below surface at its tallest
+points. As the soil was cleared around the feature, archaeologists encountered a jumble of bricks, brick
+fragments, mortar fragments, and lime.
+
+Figure 5-27. Southern wall of Feature 3.
+The southeastern corner of Feature 3 is aligned with the western edge of Feature 1. There appears to be a
+space between Feature 2 and Feature 3 (approximately 30 cm) that is filled with brick rubble, lime, and
+mortar. There may be a connection between the two features along the eastern wall, but the nature of the
+connection was not determined. Bricks were noted on the surface at the center of the eastern wall of
+Feature 2 and the western wall of Feature 3 that are aligned, forming a paved surface between the two.
+The wall exterior surfaces of Feature 3 have been white washed. The surface of the feature also exhibits
+white washing, which was thick in the northwestern portion of the platform surface. Clearing of the
+feature revealed notches and grooves on the surface. Clearing of the southern portion of the feature’s
+surface revealed a narrow channel, one course of brick wide, one course of brick deep, and two courses of
+brick long, that contained a collection of artifacts (Figure 5-28, Table 5-2). A clear glass bottle with a
+46
+
+pontil mark was recovered in the upper sediment in the channel. A metal cowbell, a ceramic pipe bowl,
+faunal remains, and a cuprous rivet were also uncovered in the niche. The niche appears to be an
+intentional creation although it is unclear what purpose it served.
+
+Figure 5-28. Narrow niche on top of Feature 3.
+Table 5-2. Artifacts Recovered from Feature 3.
+
+Brick
+Structure 3
+Cleaning
+
+Metal
+
+Container
+
+Faunal
+
+Clear
+
+3
+
+Cow Bell
+
+Bone
+
+1
+
+1
+
+Personal
+
+Pipe Bowl
+
+Rivet
+
+Lead Glazed
+
+Cuprous
+
+Grand Total
+
+Glass
+
+1
+
+7
+
+1
+
+Another channel in the brick surface was identified in the western wall of the feature (Figure 5-29). This
+channel was approximately 30 cm wide, two courses of brick deep (approximately 20 cm), at extended at
+least 70 cm to the east. It is likely that the channel extended further to the east, but due to time
+47
+
+constraints, that portion of the surface was not uncovered. A few fragments of ferrous metal were noted
+in the sediment, and one cut nail. Similar to the other channel uncovered, this appears to be an intentional
+construction as the brick surfaces are white washed.
+
+Figure 5-29. Overview of Feature 3 with Feature 2 in the background. Note channel on Feature 3.
+The southern wall of Feature 3 is aligned with the southern wall of Feature 2. Reviewing the planview
+and photographs reveals that the northern wall of Feature 2 is offset by approximately 40 cm from the
+edge of the northern wall of Feature 3 (Figure 5-28).
+
+48
+
+Figure 5-28. Planview of the brick features encountered at 41FB339.
+
+49
+
+Chapter 6 Discussion of Artifacts Recovered
+A total of 386 artifacts were collected during the excavations and backhoe trenching conducted at
+41FB339 during the 2014 season. The collection represents items recovered during the excavations, but
+only a sample of brick and mortar from the units were returned to the laboratory. The only items
+collected during the clearing were items that were unique or potentially diagnostic. The artifacts fell into
+five main categories: construction materials, bone, glass, metal items, and personal items. Each of these
+artifact categories offers insight to the use and temporal affiliation of the site.
+
+Construction Materials
+Construction materials recovered from the site fell into two categories: brick and mortar. All the brick
+and mortar was related to the three features that were uncovered during excavation and backhoe
+trenching. The brick encountered came in three varieties. All varieties appear to have been locally made
+as they do not exhibit manufacturing marks. The most common variety is a soft, fine pasted, salmon
+colored brick (Figure 6-1). These bricks are typically under-fired and porous (Colonial Williamsburg
+2014). Within the brick kilns, the temperature of firing varies. Approximately half of each batch fired
+would have been well fired. The remainder of the batch consisted of the salmon, under-fired variety, or
+over-fired bricks that were referred to as “clinkers” (Colonial Williamsburg 2014). Another variety noted
+at 41FB339 exhibited a coating on portions that resembled a glaze (Figure 6-2). The glaze was not
+uniform on the brick and was not intentionally applied. These glaze bricks were likely facing the kiln fire
+and received the glaze as the wood ash from the fire combined with vaporized sand (McDowell 2009:6).
+The brick clay appears to be fine, similar to the salmon bricks, but are higher fired and not as porous. The
+third variety noted at the site has been referred to as a “clinker” (Wetherell and Kmet 1991; Colonial
+Williamsburg 2014). The “clinker” is an over-fired brick that usually has a much darker color than the
+others. These have been too close to the fire and, when extracted from the kiln, exhibit a much darker
+color than the rest of the batch (VanHecke 2006). The “clinkers” encountered at the site were denser than
+the other bricks (Figure 6-3). These bricks also appear to exhibit a courser matrix, with large inclusions
+of grog and small gravel.
+
+50
+
+Figure 6-1. Brick fragments recovered from Test Unit 1.
+
+Figure 6-2. Brick recovered at the site with glazing on edge (note the right side).
+51
+
+Figure 6-3. Course brick recovered from the site.
+All three of these brick types would likely have been manufactured during the occupation at the
+plantation.
+Mortar was also recovered at the site. The mortar consisted of a mixture of lime and sand. Fragments
+were encountered in all areas around the three brick features. The mortar would have been made on site
+to be used when laying the brick. In addition to the mortar, lime residue was noted that was due to the
+white washing of the bricks.
+
+ANIMAL BONE
+The faunal remains encountered at the site were few (less than 20 fragments). Only seven fragments were
+collected and returned to the laboratory. The larger fragments of bone encountered appeared to have
+belonged to either cow or hog. Wild hogs currently inhabit the property, and were noted on one occasion
+during the field project. When the plantation was purchased by the Scanlin sisters, the plantation away
+from cultivating cane and cotton to ranching. Raising cattle had become the plantations main purpose
+after 1913. Cattle leases are still active on a large portion of the Sienna Plantation currently no
+developed.
+
+52
+
+GLASS
+Only a few glass fragments were noted during the clearing of the features. Only two were of any interest.
+While clearing the surface of Feature 1, a brown glass bottle lip was encountered. The examination of the
+specimen indicated that the bottle had an applied lip. This results from applying hot glass to the vessel to
+form a finish. The style of the finish varied by the type of bottle that was being created. The specimen
+noted at 41FB339 appear to be an oil finish. The oil finish was one of the most common type of finish
+used on bottles manufactured between the 1830s to the 1920s (SHA 2014).
+The second item of importance was the clear glass bottle with the pontil mark on the base (Figure 6-4).
+This bottle was recovered from within the narrow niche during the clearing of Feature 3. The pontil mark
+is created during the glass blowing process of the vessel. The mark is the result of the vessel being
+attached to a pontil rod. The manufacture of glass vessels using the pontil rod predated occupation of the
+site in other corners of the world (Kendrick 1966). For the case of this specimen, it was likely
+manufactured sometime between the 1830s and the 1870s (SHA 2014). The use of the pontil rod
+decreased at the end of the Civil War period due to the introduction of the snap-case rod (Kendrick 1966).
+
+Figure 6-4. Glass bottle fragment recovered from Feature 3.
+53
+
+METAL ITEMS
+Metal items fell into three categories: fasteners, metal fragments, and identifiable metal objects. A total
+of 29 metal artifacts were collected from the site, although there were additional items observed in the
+field. Metal fasteners comprised the largest portion of the metal artifact assemblage with 25 specimens.
+Of the 25 metal fasteners collected in Test Unit 1, 22 were cut nails. Cut nails generally predate 1880 due
+to the introduction of machine made wire nails that became the predominant type by the turn of the
+century (Fox et al 1997). Many other cut nails were noted during the clearing of the Features, although
+not collected. A rough estimate would be that approximately 20 more cut nails were observed. No other
+variety of nail was noted at the site which is consistent with the dates of occupation and use of the
+plantation during the nineteenth century.
+Bolt fragments were another variety of metal fasteners recovered at the site. Three bolt fragments were
+collected in Test Unit 1. All three were not complete, and appeared to have been sheared off. The bolts
+exhibit heavy corrosion.
+In addition to the metal fasteners, fragments of metal were encountered while clearing the brick features.
+The majority of the metal encountered was ferrous, but there were also a few fragments of lead. These
+unidentified fragments of metal were not collected during the clearing.
+Several identified metal items were observed during the clearing. Ferrous metal plates were noted along
+Feature 2, but these did not appear to be attached to anything. A metal pocket knife was encountered on
+the surface of Feature 1. This item likely dates to the twentieth century. A large, broken ferrous ring was
+encountered at the edge of Feature 1. It appears that the ring was whole at one time, but only ¾ of it was
+present. The function of the ring is unknown. Broken ferrous brackets were noted while cleaning Feature
+3. Two were encountered while clearing, but were not collected. One ferrous cowbell was collected
+while cleaning out the narrow notch on the surface of Feature 2. This item was collected. Aluminum pull
+tabs were encountered both in Test Unit 1 and during the clearing of the brick features. The pull tabs,
+though diagnostic, are more modern material in comparison to the rest of the artifacts encountered. Pull
+tabs became popular by the 1960s and were all but extinct by the 1980s. The pull tabs were found in the
+upper 10 cm of sediment at the site.
+
+PERSONAL ITEMS
+A few items recovered were classified as personal items. One was a metal cow bell (Figure 6-5). The
+cow bell was recovered while clearing Feature 3, from within the narrow niche. The cow bell is 8 cm tall,
+54
+
+with a handle 1 cm from the top of the bell. The bell was a maximum width of 7 cm, and the opening was
+5 cm across. The bell appears to be relatively small to be a bell for cattle and may have more likely the
+size used for sheep or goat. Due to the history of the plantation, it is likely that the bell is related to the
+occupation by the Scanlin sisters.
+
+Figure 6-5. Cow bell recovered from Feature 3.
+A ceramic reed stem pipe bowl was also recovered from within the narrow niche on Feature 3 (Figure 66). The pipe bowl appears to be a stoneware ceramic with a lead glaze. The design of pipe bowl is very
+similar to ones that were made in Point Pleasant, Clermont County, Ohio between 1838 and 1890
+(Murphy 1976). It appears that Ohio was a larger producer of the reed pipes as other potters in the region
+produced the wares between the early 1800s into the mid-1900s (Rams Horn Studio 2014). Similar
+varieties were noted in a dump feature related to the Akron Smoking Pipe Co. in Mogadore, Ohio
+(Murphy and Reich 1974). Other manufacturers were based out of Virgina (i.e. Pamplin Pipe Factory
+1878-1951) (Schroder 2011). Although these potters have manufactured similar items, the pipe bowl
+recovered from 41FB339 does not match the typical decoration design.
+
+55
+
+Figure 6-6. Ceramic reed pipe bowl.
+Another personal item was a cuprous clothing stud (Figure 6-7). Often, this type of closure is associated
+with blue jeans. It is possible, but not definite, that the cuprous stud is from a pair of jeans.
+
+Figure 6-7. Cuprous rivet recovered from Feature 3.
+56
+
+Chapter 7 Discussion and Recommendations
+The NRHP eligibility testing of Site 41FB339 was conducted over four days in August of 2014. The
+investigation consisted of the excavation of one 1-x-1 meter test unit to gather a detailed understanding of
+the stratigraphy of the site and backhoe trenching to reveal and determine the extent of the brick features.
+The surface of the brick features was also cleared to attempt to define the function and use of the features.
+Three brick features were recorded during the course of the project. Feature 1 was located in the southern
+region of the site. It consisted of a narrow brick platform that was approximately 80 cm deep at the
+highest point, and 1.5 meters wide. The feature was approximately 8 meters in length and extended to the
+edge of the bank of Sawmill Lake. Feature 1 exhibited two sets of keyholes on the north and south
+façades. These keyholes extend the entire width of the feature. A break in the brick alignment was noted
+along the eastern portion of the feature.
+The excavation of the 1-x-1 meter unit revealed much brick and mortar rubble against the northern wall of
+Feature 2. Once the face of the wall was revealed, it was evident that the bricks had been white washed.
+This may be the reason that the unit encountered pockets of lime in the matrix abutting the wall. The
+artifact assemblage recovered during the excavation included a high density of bricks and brick
+fragments, and mortar. Cut nails and faunal remains comprised a much smaller portion of the
+assemblage. Overall, there was a lack of cultural material that gave definitive insight to the use of the
+features uncovered.
+Trenching around 41FB339 revealed that there were three brick features that comprise a larger area that
+originally anticipated. The trenching also showed that the density of cultural materials decreased rapidly
+beyond the brick features. Backhoe trenching beyond 4 meters from the brick features did not produce
+cultural material, less a few fragments of bricks near the surface that may have been deposited during
+flooding episodes at the site.
+Clearing of the brick features revealed much about the construction and treatment of the site. The brick
+features are situated in two alignments. Feature 1 was located perpendicular to Sawmill Lake and
+composed a brick platform with two keyhole openings that spanned the width of the structure. The
+platform appears to have been taller in the center, with the west edge stepped. The surface of Feature 1
+was white washed. Feature 2 appears to be a brick foundation for a structure. The brick walls were three
+courses of brick wide. At least two cross-walls were noted when clearing the surface of the feature. The
+north wall of the feature was noted in Test Unit 1. The surfaces of the bricks in Feature 2 were white
+washed. Feature 3 was located to the west of Feature 2. These two features are in an east-west
+57
+
+alignment, although Feature 2 appears to be slightly wider. The south walls of the feature line up. The
+north walls of the features do not, with the outer edge of the north wall of Feature 2 being approximately
+30 cm further to the north. The surfaces of the bricks associated with Feature 3 have all been white
+washed.
+Artifacts encountered during the clearing included a large quantity of brick and brick fragments, mortar
+fragments, cut nails, ferrous fragments, lead fragments, metal brackets/plates, faunal remains, and an iron
+rail fragment. A few items were collected during the clearing due to their unique nature. While clearing
+the narrow niche on the surface of Feature 3, a glass bottle with a pontil mark, a cuprous rivet, a ferrous
+cow bell, and a ceramic reed pipe bowl were collected. These items combined appear to date to the midto late 1800s. In addition, all the nails encountered at the site were cut nails that fell out of use by the
+1890s. It would be safe to infer that the structure was constructed before 1890.
+No machinery or other items that could specifically indicate that the brick features were part of a sawmill,
+but the feature offers some hints. The few metal items encountered could be part of a large machine.
+Historical accounts indicate that once a location had served its purpose, items of worth (such as a
+sawmill) would have been removed to another location. The area would typically be cleared of all
+associated material during the move. The rail fragment that was encountered may be related to a track
+needed for a portion of the machinery associated with a sawmill.
+The bricks at the site were all whitewashed. Whitewashing was a technique that was used for several
+different reasons. Whitewash is typically composed of a mixture of lime and water, with a binder or other
+additive to help improve durability and color. Whitewash is best used on rough, porous surfaces and
+forms a thin film of plaster. Bricks would have been an ideal surface to whitewash. Whitewashing would
+create a surface that was considered “sanitary” the lime mixture would deter the growth of bacteria and
+mold. If whitewashing was used on wood, it would help to prevent decay. In addition to preventing
+decay, whitewashing would act to protect the surfaces from insects (GSA 2014). This would be a benefit
+if the site was used as a sawmill, creating sawdust that would attract insects.
+The brick features were not large enough to support a structure that used water power to run the mill.
+Rather, based on its size, the site may have been equipped with a small steam engine that serviced the
+sawmill. The steam engine would have powered the sawmill, using the wood chips and scrap wood waste
+products produced by the milling as fuel. A steam engine would be somewhat portable in the sense that it
+was mounted on wheels and could be moved when the mill location needed. The saw would be mounted
+on a platform with a moving cart to transport the logs. A close example of what may have operated at the
+58
+
+site is present at the Cradle of Forestry near Brevard, North Carolina. The sawmill represents one that
+was likely constructed ca. 1889, although the technology was brought to North America by the 1820s
+(Cooper 1994).
+Even a sawmill this small could produce a decent quantity of lumber every day. It is likely that the mill
+would have been producing wood planks during a time at the plantation when construction of housing,
+storage facilities, stores, and commissary were underway. According to the history of the Arcola
+Plantation, the peak of construction at the Arcola Plantation occurred during the 1880s when House, Jr.
+worked to expand the plantation’s production after his father’s death (LifeontheBrazosRiver 2013). There
+is a chance that the mill was functioning prior to then as the plantation had been in existence for
+approximately 50 years prior, but since the feature does not appear on the 1890 or the 1907 maps of the
+plantation, it probably was not in use at those dates.
+The removal of the machinery and all associated material has severely affected the integrity of the site
+and left little to warrant the nomination of the feature as eligible to the National Register of Historic
+Places. Therefore, RKEI recommends that the site is not eligible for listing to the National Register of
+Historic Places (NRHP) because it lacks integrity.
+
+59
+
+References Cited
+Beazley, J.
+2014 House,
+Thomas
+William.
+Handbook
+of
+Texas
+(http://www.tshaonline.org/handbook/online/articles/fwa86), accessed August 18, 2014.
+
+Online
+
+Bonine, M. L.
+2005 Archeological Survey of a 16.2-acre Lower Oyster Creek Regional Wastewater Plant, Fort Bend
+County, Texas. Prepared by SWCA Environmental Consultants. Prepared for OEM Group on
+behalf of the City of Missouri City.
+Bureau of Economic Geology (BEG)
+1982 Geologic Atlas of Texas, Houston Sheet. Bureau of Economic Geology, The University of Texas
+at Austin.
+Burke, J.
+1883 Burke’s Texas Almanac and Immigrants Handbook for 1883, With Which is Incorporated
+Hanford’s Texas State Register. Compiled, printed, and published by J. Burke, New York.
+Clark, P., S. A. Tomka, and C. Murray
+2014 An Intensive Cultural Resources Survey within Municipal Utility District #4 Fort Bend County,
+Texas. Raba Kistner Environment, Inc. Report on File. San Antonio, Texas.
+Colonial Williamsburg
+2014 Brickmakers.
+Digital Resource.
+Accessed August 2014.
+
+http://www.history.org/almanack/life/trades/tradebri.cfm.
+
+Cooper, C.C.
+1994 A Patent Transformation: Woodworking Mechanization in Philadelphia, 1830-1856. In Early
+American Technology. Edited by J. McGaw. The University of North Carolina Press. North
+Carolina.
+Creighton, J.
+1975 A Narrative History of Brazoria County, Texas. Texian Press.
+Fox, A.A, M. Renner, and R.J. Hard
+1997 Archaeology at the Alamodome: Investigations of a San Antonio Neighborhood in Transition.
+Archaeological Survey Report No. 238, Center for Archaeological Research, University of Texas
+at San Antonio.
+Fort Bend County Deed Records (FBCDR)
+Digital resource. http://ccweb.co.fort-bend.tx.us/RealEstate/SearchEntry.aspx?e=newSession.
+Accessed August 2014.
+General Land Office (GLO)
+2014 http://gisweb.glo.texas.gov/glomap/, accessed August 18, 2014.
+
+60
+
+General Services Administration, U.S. (GSA)
+2014 Historic Preservation-Technical Procedures: Properties and Uses of Whitewash Paint. Interior’s
+Handbook
+For
+Historic
+Interiors,
+Vol.
+II.
+Digital
+Resource.
+http://www.gsa.gov/portal/content/112558. Accessed August 2014.
+Glander, W.
+1984 Cultural Resources Assessment of the Proposed Sienna Plantation Development. Prepared by
+Espey, Huston & Associates. Submitted to the Johnson Corporation, Job No. 4227.
+Gould, F.W.
+1975 Texas Plants: A Checklist and Ecological Summary. Texas Agricultural
+Experimentation Station, College Station, Texas.
+Johnson, J. G.
+2014 Waters, Jonathan Dawson. The Handbook of Texas Online. Available URL:
+http://www.tshaonline.org/handbook/online/articles/WW/fwa86.html” (Accessed August 18,
+2014).
+Kendrick, G.
+1966 The Antique Bottle Collector. Edwards Brothers, Inc. Ann Arbor, Michigan.
+LifeOnTheBrazosRiver.com
+2013 Flood of the Brazos River in Texas. Available URL: http://lifeonthebrazosriver.com.htm
+(Accessed August 12, 2014).
+McDowell, M.
+2006 Brick by Brick: A Personal History of the Mead Hall Bricks. In Mead. Winter 2009, Volume
+IV.
+http://www.drew.edu/wp-content/uploads/sites/49/Friends-of-MEAD-Hall-News.pdf.
+Accessed August 2014. Drew University. New Jersey.
+McKinney, Tom W.
+2008 South Sienna Slave Ditch. Prepared by HRA Gray & Pape, LLC. Prepared for Hillwood
+Residential.
+Murphy, J. L.
+1976 "Reed Stem Tobacco Pipes from Point Pleasant, Clermont County, Ohio," Northeast Historical
+Archaeology:
+Vol.
+5
+5:
+Iss.
+1,
+Article
+2.
+Available
+at:
+http://digitalcommons.buffalostate.edu/neha/vol5/iss1/2. Accessed Sept 2, 2014.
+Murphy, J.L. and K. Reich
+1974 Nineteenth Century Reed-Stem Tobacco Pipes from the Mogadore, Ohio, Dump.
+In
+Pennsylvania
+Archaeologist.
+https://kb.osu.edu/dspace/bitstream/handle/1811/36867/mogadore_pipes.pdf?sequence=1.
+Accessed August 2014.
+Nash, S., Ch. Bludau, Jr., and J. Hughey
+2009 Intensive Archaeological Survey of the Proposed Sienna Parkway South Extension, Fort Bend
+County, Texas. Prepared by HRA Gray & Pape, LLC. Prepared for the USACE and Berg-Oliver
+& Associates, Inc. and Sienna/Johnson North, LP.
+61
+
+Nash, S.
+n.d. Community-Arcola Cemetery Investigations at Sienna Plantation. Fort Bend County, Texas.
+Nesbitt, L.
+1943 History of Fort Bend County. Masters Thesis, Sam Houston State Teachers College, Huntsville,
+TX.
+Newcomb, W.W.
+1961 The Indians of Texas, From Prehistoric to Modern Time. University of Texas Press. Austin.
+Rams Horn Studio
+2014 Clay Pipe Collection. Digital Resource. http://www.ramshornstudio.com/pipe_.htm. Accessed
+August 2014.
+Rice, J. S.
+1909 Presenting for Sale the Arcola Sugar Plantation on Oyster Creek, Fort Bend County, Texas.
+Privately Published, Houston, Texas.
+Scanlan Foundation
+2005 History
+of
+the
+Scanlan
+Foundation.
+Digital
+http://lifeonthebrazosriver.com/ScanlanFamily.pdf. Access August 2014.
+
+Resource.
+
+Schroder, L.
+2011 Clay Trade Pipes. Digital Resource at the Peach State Archaeological Society Website.
+http://www.peachstatearchaeologicalsociety.org/index.php?option=com_content&view=article&i
+d=215%3AClay-Trade-Pipes&catid=&Itemid=58. Accessed August 2014
+Society for Historical Archaeology (SHA)
+2014 Historic Glass Bottle Identification & Information Website. Created by the Bureau of Land
+Management. http://www.sha.org/bottle/. Accessed August 2014.
+Sowell, A.J.
+2014 The
+History
+of
+Fort
+Bend
+County.
+Digital
+http://lifeonthebrazosriver.com/AJSowelArcola.htm. Accessed August 2014.
+
+resource.
+
+Texas Historical Commission (THC)
+2013 Texas Archeological Sites Atlas, http://nueces.thc.state.tx.us/, accessed August 6, 2013.
+Tx GLO (Texas General Land Office)
+Digital database. http://www.glo.texas.gov/cf/land-grant-search/index.cfm.
+2014.
+
+Accessed August
+
+United States (U.S.) Bureau of the Census
+1850 Schedule 4. Productions of Agriculture in Fort Bend County State of Texas during the Year
+Ending June 1, 1850. Available URL: “http://www.ancestry.com/” (Accessed August 13, 2013).
+1860 Schedule 4. Productions of Agriculture in Fort Bend County State of Texas during the Year
+Ending June 1, 1860. Available URL: “http://www.ancestry.com/” (Accessed August 13, 2013).
+
+62
+
+VanHecke, S
+2006 The Accidental Charm of Clinker Bricks. In Old-House Journal. May/June 2006. Volume 34,
+No. 3. Pp. 72-77.
+Waters, Ph. B. and H. M. Milam
+1903 A Genealogical History of the Waters and Kindred Families. Part one compiled by Philemon
+Berry Waters, Part two complied by Herbert M. Milam. Foote & Davies Company, Atlanta, GA.
+Wharton, C. R.
+1939 Wharton’s History of Fort Bend County. The Anson Jones Press. Houston, Texas.
+Wetherell, D.G. and I. Kmet
+1991 Homes in Alberta: Building, Trends, and Design, 1870-1967. University of Alberta.
+
+63
+
+

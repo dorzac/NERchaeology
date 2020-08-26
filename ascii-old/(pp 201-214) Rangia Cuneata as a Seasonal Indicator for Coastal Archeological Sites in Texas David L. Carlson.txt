@@ -1,0 +1,1399 @@
+Rangia Cuneata as a Seasonal Indicator for Coastal
+Archeological Sites in Texas
+
+David L. Carlson
+
+ABSTRACT
+Rangia cuneata, a brackish water clam, is commonly found in archeological
+sites along the coast of Texas and Louisiana. Because of its abundance and because
+of the obvious growth rings on the surface of its valves, Rangia has been a focus
+of seasonality studies over the last ten years. Recently, Lawrence Aten (1981)
+proposed a method of identifying site seasonality using Rangia valves.
+Aten’s dated collections are used to develop a model of Rangia growth
+patterns by using cubic splines to smooth and interpolate the known samples. A
+FORTRAN program is used to fit archeological samples to the model and provide
+a graphic display of the quality of the fit. Sixty-fourpublishedRangia seasonality
+determinations are evaluated using this procedure. The analysis of archeological
+samples using this technique confirms previous researchers’ conclusions that
+Rangia were used along the Texas coast primarily as a spring resource.
+
+INTRODUCTION
+
+The brackish water clam, Rangia cuneata, is common on archeological sites
+along the coast of Louisiana and Texas. Along the central Gulf Coast of Texas,
+extensive shell middens of Rangia like the one at the Dow-Cleaver site (41BO35)
+document the use of large quantities of these clams for food (Aten 1971). At
+Dow-Cleaver, piles of circular"floors" of Rangia appear to have been deliberately
+constructed for living areas. Although there is some disagreement about whether
+Rangia cuneata was a staple (Dillehay 1975c) or a minor supplement (Byrd 1976),
+its abundance at many sites suggests that the species was systematically collected
+as a food resource.
+Rangia cuneata occupy brackish water habitats in estuaries and bays along the
+coast, surviving in environments ranging in salinity between 0 and 33 parts per
+thousand (Bedford 1972). They are most abundant in the low diversity habitat zone
+between freshwater and saltwater environments, where they reach their greatest
+population densities (Bedford 1972:99). Ecological studies suggest that the
+preference of the species for low salinity environments is a result of heavy predation
+and competition in more saline habitats (O’Heeron 1966).
+The success ofRangia in brackish habitats, where salinity can change suddenly
+and dramatically, is primarily a result of its success at osmoregulation. At salinities
+above 10 parts per thousand, Rangia are isosmotic. At lower salinities, however,
+Bulletin of the Texas Archeological Society 58 (1987)
+
+202
+
+Texas Archeological Society
+
+Rangia rapidly begin to osmoregulate and control their internal salinity at a
+significantly higher level than the surrounding medium (Bedford 1972:99). This
+ability buffers the species against sudden salinity shocks and insures that shell
+morphology is more likely to be a function of animal growth cycles than of transient
+environmental effects.
+Perhaps as a result of their ability to survive under adverse environmental
+conditions, Rangia cuneata are reported from the Potomac River on the Atlantic
+Coast to Avarado, Mexico on the Gulf (TarJer 1971). The species has been in
+Louisiana for at least the last 9000 years, and some 5 million cubic yards of dead
+shell are dredged in that state every year (Tarver 1971).
+Rangia are relatively easy to gather since they reach their highest densities in
+shallow water adjacent to sources of fresh- or saltwater (Tarver and Dugas 1973).
+In Lakes Pontchartmin and Manrepas in Louisiana, densities can reach 820
+individuals 16mm or larger in a single square meter. In the Neches River in Texas,
+concentrations of 250 individuals per square meter have been reported ~arver and
+Dugas 1973).
+Because of their abundance and because of the obvious growth rings on the
+surface of their valves,Rangia cuneata have been a focus of seasonality studies over
+the last 10 years (Aten 1972,1981; Dillehay 1974, 1975a, 1975b; Skelton 1978). By
+studying the indentations on the surface of Rangia shells, Aten devised a technique
+for classifying samples of 50 or more shells by growth stages and then fitting the
+resulting distribution to a series of modem samples (Aten 1981).
+The use of growth increments in bivalve shells to determine environmental
+conditions has been the subject of considerable study in recent years. Bivalve
+growth patterns that reflect subdaily, daily, bidaily, fortnightly, lunar month, and
+annual growth episodes have been identified (Kennish 1980).
+Interruptions in growth can be related to freeze, heat, and thermal shock,
+abrasion, spawning, neap tides, and storms (Kennish 1980). By microscopic
+observation of shell microstructure, it is often possible to distinguish various
+environmental shocks and other events in the life of an individual bivalve (Tevesz
+and Carter 1980).
+This report explores the use ofRangia cuneata for estimating seasonality on
+archeologieal sites on the Texas coast. An extension of the techniques originally
+proposed by Lawrence Aten (1981) is described and applied to a series of 64
+archeologieal samples.
+
+SEASONALITY IN RANGIA CUNEATA
+In 1981, Aten published a method for determining seasonality from collections
+of Rangia cuneata (Aten 1981). The technique involves examining the exterior
+surfaces of the shells for annual rings. Once the annual rings are located, the degree
+of growth beyond the last period of growth interruption is estimated. Application
+of the procedure involves using estimates of age/size relationships in Rangia
+cuneata so that interruptions caused by thermal shock or storm tides are not
+mistakenly identified as annual rings. The width ofthering preceding the lastis used
+
+Carlson m Rangia Cuneata as Seasonal Indicator
+
+203
+
+as a measure of the amount of growth expected in the last ring. If the growth in the
+last ring is less than one-third of what is expected, the valve is classified as in the
+Early stage. If it is more than one-third, but less than two-thirds, it is classified as
+Middle, and if it is more than two-thirds, it is classified as Late. If the last growth
+episode appears to be complete, and the valve is currently in an arrested period of
+growth, it is classified as Interrupted; if the rings cannot be clearly identified, the
+valve is classified as Indeterminate. Since the evaluation of any single valve is
+subject to error, Aten recommends that samples of at least 50 valves of one side (i.e.
+all left or all right valves) be used. Blind tests involving Aten and Dillehay and Aten
+and the author indicate that independent assessments of single samples are comparable.
+Once estimates have been made for a sample of valves (preferably at least 50),
+the distribution of the sample is compared to empirical distributions made by Aten
+from modem collections along the Texas coast.
+The samples vary in size from 14 to 50 individuals. Aten combines these
+samples into half-month periods. Dated samples are available for 18 of the 24
+half-month periods in the year.
+Seasonality estimates are made by picking the empirical distribution that most
+closely matches the sample. The method has been criticized on various grounds;
+one criticism is that the surface morphology of bivalves in general cannot be used
+to identify annual cycles reliably (Monks 1981, Claassen 1982). Study of thin
+sections or acetate peels of thick sections certainly are more reliable methods than
+observation of surface morphology or estimating the age or season of a single
+individual, but the cost and time involved in analyzing sections of each specimen
+greatly limit the number of specimens that can be examined. Although study of
+surface morphology is less precise, the errors in that method may average out if
+sample sizes are large enough. Examination of surface annual rings has been used
+in at least one ecological study to produce demographic life tables for Rangia
+(Fairbanks 1963).
+Another criticism has been that the determination of seasonality from surface
+morphology overestimates the expected growth in the last year by comparing it to
+the penultimate growth ring, since growth rates slow as the individuals become
+older. This imprecision would be more important if the exact width of the ring were
+involved in the estimate. Since only the nearest third is estimated and since the
+reduction in growth rates is relatively small from one year to the next, the effect is
+likely to be negligible. More importantly, the same inaccuracy occurs in the
+empirical data. Since both the sample and the empirical data may underestimate the
+"true" proportion of Late stage clams, there is no systematic bias in the prediction
+as suggested by Monks (1981). To resolve this problem, steps have been taken to
+systematize the fitting procedure and to provide a graphic display of the goodness
+offit between the unknown sample and the dated samples.
+The dated samples collected by Aten represent several localities along the
+coast. For this reason, they are viewed best as an approximation of the average
+trends of growth forRangia. Examining the plots for the different growth categories
+emphasizes this fact. Each growth category should be characterized by a single
+
+Texas Archeological Society
+
+204
+
+peak. Secondary, smaller peaks probably reflect sampling fluctuations or unique
+conditions (see Aten 1981, Figure 4).
+What is needed is a smooth cupJe that follows the rise, peak, and decline of each
+growth category through the years but ignores the smaller fluctuations. Several
+techniques are available for smoothing "noisy" data. These techniques also permit
+estimates of the expected proportions in the six half-month periods for which there
+are no samples. One technique would be to fit nonlinear curves to the data, for
+example, polynomial functions by least squares or by iterative techniques designed
+for nonlinear regression. Another would be to smooth the data using the exploratory
+data techniques described by Hartwig and Dearing (1979) and others. The first
+approach would have the possible disadvantage of smoothing the data too much.
+The latter approach would make estimates for the gaps somewhat more difficult, and
+the degree of smoothing could not be easily controlled.
+A third approach, which overcomes these deficiencies, is to use cubic splines,
+which are simply a series of separate cubic polynomials fitted to the intervals
+0+8-
+
+!
+
+0.7¸
+
+0.6
+
+0.5
+to
+k~
+
+o
+
+0.4
+
+o
+0.3
+
+0.2
+
+0.1
+
+0.0
+
+I
+
+i
+
+I
+
++
+
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+May
+
+June
+
+July
+
+Aug
+
+Sept
+
+Oct
+
+Nov
+
+Dec
+
+Month
+Figure 1. Spline curve fit to Aten’s modem data on the proportion of Rangia values in the
+Interrupted stage. Vertical lines show the observed proportions; the smooth curve is the cubic
+spline approximation.
+
+I
+
+Carlson ~ Rangia Cuneata as Seasonal Indicator
+Table 1.
+
+Expected Proportions for each Rangia Growth
+
+Half-Month
+
+Interrupted
+
+Mid-Jan
+L~e Jan
+Mid-Feb
+Late Feb
+Mid-March
+Late March
+Mid-April
+Late April
+Mid-May
+L~eMay
+Mid-June
+Late June
+Mid-July
+Lam July
+Mid-Aug
+La~ Aug
+Mid-Sept
+Late Sept
+Mid--Oct
+Late Oct
+Mid-Nov
+Late Nov
+Mid-Dec
+La~ Dec
+
+.6941
+.7398
+.7177
+.6193
+.5015
+.3851
+.2601
+.1473
+.0782
+.0451
+.0289
+.0065
+.0482
+.0962
+.1467
+.1857
+.2196
+.2892
+.3637
+.3968
+.4092
+,4391
+.5129
+.6088
+
+205
+Stage
+
+Early
+
+Middle
+
+Late
+
+Uncertain
+
+.0425
+.0864
+.1464
+.2209
+.3017
+.3770
+.4313
+.4406
+.3911
+.3012
+,2007
+.!261
+.0827
+.0591
+.0504
+.0391
+.0232
+.0131
+.0103
+.0079
+.0044
+.0000
+.0015
+.0147
+
+.0051
+.0123
+.0215
+.0329
+.0474
+.0776
+.1394
+.2320
+.3368
+.4378
+.5102
+.4972
+.3905
+.2633
+.1860
+.1652
+.1638
+.1476
+.1057
+.0821
+.0748
+.0663
+.0436
+.0063
+
+.1586
+.1035
+.0541
+.0196
+.0220
+.0230
+.0329
+.0522
+.0818
+.1236
+.1787
+.2447
+.3156
+.3804
+.4260
+.4501
+.4556
+.4415
+.4172
+.3888
+.3557
+.3160
+.2684
+.2150
+
+.0997
+.0580
+.0603
+.1073
+.1274
+.1373
+.1363
+.1276
+.1121
+.0923
+.0815
+.1255
+.1630
+.2010
+.1909
+.1599
+.1378
+.1086
+.1031
+.1244
+.1559
+.1786
+.1736
+.1552
+
+between dated samples. A cubic spline is continuous and has continuous first and
+second derivatives. This latter condition assures that the curve will have a smooth
+overall appearance. The spline function can be used to smooth noisy data values and
+to interpolate between known points (Reinsch 1967, Wold 1974).
+In order to smooth the dated samples published by Aten, a FORTRAN program
+was written using a subroutine provided in the International Mathematics and
+Statistics Library (1980) for smoothing by cubic splines. The subroutine requires
+the user to provide a smoothing parameter, which is used to fit the curve. In fitting
+the function, each sample was weighted by the number of valves in the sample so
+the curve would fit large samples more closely than small ones. A large value was
+selected for the smoothing parameter by examining the data, and this value was
+progressively reduced to zero. At this point, the spline curve fits the data exactly
+(i.e., no smoothing is done). The results were inspected at each increase of the
+smoothing parameter, and the smallest value was selected that produced a curve that
+rose monotonically to a single peak and then declined monotonically. Curves were
+calculated independently for Interrupted ~igure 1), Early, Middle, and Late growth
+stages. The expected proportions for each half-month period in the year were
+calculated for each growth category (Table 1). The uncertain category was
+computed by summing the four growth stages and subtracting the result from 1.0.
+Table 1, then, represents a model of a full year’s expected Rangia growth that is
+
+206
+
+Texas Archeological Society
+
+Mid-Jan
+Late Jan
+Mid-Feb
+Late Feb
+Mid-Mar
+Late Mar
+Mid-Apr
+Late Apr
+Mid-May
+Late May
+Mid-June
+Late June
+Mid-July
+Late July
+Mid-Aug
+Late Aug
+Mid-Sept
+Late Sept
+Mid-Oct
+Late Oct
+Mid-Nov
+Late Nov
+Mid-Dec
+Late Dec
+
+0.55090
+0.61324
+0.59308
+0.48934
+0.38325
+0.30755
+0.23551
+0.16637
+0.10081
+0.05127
+0.03022
+0.01810
+0.00654
+0.03496
+0.07935
+0.10661
+0.12192
+0.15230
+0.20436
+0.23052
+0.23604
+0.25710
+0.32828
+0.44777
+
+Rangia counts (N=32):
+Proportions (% of total):
+Expected:
+
+2
+0.0625
+0.0482
+
+4
+0.1250
+0.0827
+
+12
+0.3750
+0.3905
+
+8
+0.2500
+0.3156
+
+6
+0.1875
+0.1630
+
+Figure 2. Aten’s mid-July Rangia sample compared to the model. The length of the line of
+astersks/stars shows how well (short) or poorly (long) the sample fits each period. The best
+fit is mid-July. The error sum of square is 0.006537. The mean squared error is 0.239391 with
+variance 0.033999.
+
+based on the dated samples.
+If the calibrated data really reflect the seasonal growth patterns of Rangia
+cuneata, they should be correlated with environmental factors known to affect
+Rangia growth. Data on air temperature (Aten 1981) and water temperature (Texas
+Parks andWildlife Department 1963,1964,1965,1966,1967,1968,1969/70,1972,
+1973) in the Galveston Bay area were examined and found to be highly correlated
+(r=+.9912). Rangia in the Early, Middle, or Late stages can be considered to be
+growing, so the sum of these categories should be correlated with temperature. The
+correlation between air temperature and the proportion of Rangia in the Early,
+Middle, or Late stage is +.9254. In addition, Aten (1981:195) notes that growth in
+Table 2.
+
+Summary of Goodness of Fit Between the Model and the
+Dated Rangia Samples
+Error Sums of Squares
+
+Sample Size
+
+No.
+
+Minimum
+
+Maximum
+
+Mean
+
+Standard
+Deviation
+
+X < 50
+50< X < 100
+X > 100
+
+4
+8
+6
+
+.0007
+.0009
+.0006
+
+.0428
+.0121
+.0069
+
+. 0157
+.0061
+.0027
+
+.0187
+.0038
+.0028
+
+Carlson ~ Rangia Cuneata as Seasonal Indicator
+
+Mid-Jan
+Late Jan
+Mid-Feb
+Late Feb
+Mid-Mar
+Late Mar
+Mid-Apr
+Late Apr
+Mid-May
+Late May
+Mid-June
+Late June
+Mid-July
+Late July
+Mid-Aug
+Late Aug
+Mid-Sept
+Late Sept
+Mid-Oct
+Late Oct
+Mid-Nov
+Late Nov
+Mid-Dec
+LateDec
+
+0.28260
+0.31775
+0.29123
+0.20582
+0.12606
+0.08438
+0.06902
+0.07801
+0.09659
+0.12818
+0.17335
+0.18637
+0.12868
+0.09433
+0.09173
+0.10022
+0.10740
+0.10827
+0.11564
+0.11943
+0.11702
+0.12342
+0.15632
+0.22003
+
+Rangia counts (N=200):
+Proportions (% of total):
+Expected:
+
+207
+
+****************************
+********************************
+*****************************
+*********************
+*************
+********
+*******
+********
+**********
+*************
+*****************
+*******************
+************
+*********
+*********
+**********
+***********
+***********
+************
+************
+************
+************
+****************
+**********************
+48
+0.2400
+0.2601
+
+52
+0.2600
+0.4313
+
+32
+0.1600
+0.!394
+
+46
+0.2300
+0.0329
+
+22
+0.1100
+0.1363
+
+Figure 3. Aten’s late April and mid-October samples combined to illustrate a poor fit to the
+Rangia seasonality model. The best fit is mid-April. The error sum of squares is 0.069020.
+The mean squared error is 0.146743 with variance 0.004675.
+
+proportion of growing Rangia should come in June (mean temperature 81.5°). In
+July and August, when the mean temperature increases to 83°F, the proportion of
+growing Rangia declines. These data strongly suggest that the major growth cycles
+of the species have been captured in the model.
+In order to match undated samples to the model, a second FORTRAN computer
+program was written. This program compares the sample proportions with each of
+the model predictions. For each of the 24 comparisons a goodness--of-fit measure
+is calculated that involves summing the differences between the observed and
+expected proportions for the four growth periods (the unknown category is not used
+in fitting the sample to model). The half-month period with smallest error sum of
+squares is selected as the best fit. For each sample, the program displays the error
+sum of squares for each half-month period and draws a histogram that reflects the
+degree of fit or lack of fit over the whole year. A sample that fits the model will have
+a valley in the histogram that indicates a close fit with that half-month or group of
+half-months. A deep, narrow valley indicates a close fit with a single half-month,
+
+208
+
+Texas Archeological Society
+
+whereas a broad, gradual valley indicates a poorer fit with any particular half-month
+but a general fit with a particular season.
+To judge the accuracy of the model and the fitting program, the 18 dated
+samples were submitted for seasonality estimates. Thirteen of the samples were
+estimated to the exact half-month of their collection. The remaining five samples
+were placed in an adjacent half-month interval. All of the samples then, were
+classified within a half-month of their true dates. All of the"errors" occurred in the
+late summer and early fall months when growth is slowing and most of the valves
+are in the Late or Interrupted stage. In addition, the valleys tend to be broader in the
+late summer and fall, indicating that changes are taking place more gradually and
+that, therefore, it is more difficult to distinguish between adjacent periods. Aten’s
+mid-July collection is illustrated as an example of a close fit between the model data
+and a modem collection (Figure 2). The results of the test also provide some data
+on how well good samples can be expected to fit the model (Table 2). Archeological
+samples cannot be expected to fit the model as closely as the data from which the
+model was generated do, but very poor fits should be regarded with suspicion.
+
+Mid-Jan
+Late Jan
+Mid-Feb
+Late Feb
+Mid-Mar
+LateMar
+Mid-Apr
+Late Apr
+Mid-May
+Late May
+Mid-Jun
+Late Jun
+Mid-July
+Late July
+Mid-Aug
+Late Aug
+Mid-Sept
+Late Sept
+Mid-Oct
+Late Oct
+Mid-Nov
+Late Nov
+Mid-Dec
+Late Dec
+
+0.47043
+0.48667
+0.42872
+0.30102
+0.18511
+0.10368
+0.04475
+0.01420
+0,.01013
+0.03657
+0.09310
+0.13897
+0.14652
+0.17885
+0.22114
+0.15094
+0.26838
+0.28240
+0.30648
+0.31391
+0.30606
+0.30831
+0.34467
+0.41568
+
+Rangia counts (N=295):
+Proportions (% of total):
+Expected:
+
+47
+0.1593
+0.0782
+
+102
+0.3458
+0.3911
+
+88
+0.2983
+0.3368
+
+23
+0.0780
+0.0818
+
+35
+0.1186
+0.1121
+
+Figure 4. A composite sample created by combining all of Aten’s spring samples, which
+illustrates a close fit to theRangia seasonality model. The best fit is mid-May. The error sum
+of squares is 0.010133. The mean squared error is 0.235696 with variance 0.019410.
+
+Carlson m Rangia Cuneata as Seasonal Indicator
+Table 3.
+
+Seasonality Determinations for Published Rangia
+Samples
+
+Site
+
+Level (L)
+Zone (Z)
+Surface (S)
+
+Estimate
+
+Date
+
+41CH32
+
+L1
+L2
+L3
+L4
+L5
+
+Late April
+Late May
+Poor fit
+Late May
+Poor fit
+
+A.D.
+A.D.
+A.D.
+A.D.
+A.D.
+
+41CH46
+
+L1
+L2
+L3
+L4
+
+Late April
+Late April
+Poor fit
+Late April
+
+After A.D. 1100z
+A.D. 600-11002
+A.D. 500-1000z
+A.D. 100-6002
+
+41CH47
+
+L1
+L2
+L3
+L4
+L5
+
+Late April
+Mid-May
+Late May
+Poor fit
+Late May
+
+A.D. 800?2
+A.D. 700?2
+A.D. 41X)-600?2
+A.D. 100-5002
+Late Archaic2
+
+41CHl10
+
+Z1
+
+Late July
+Mid-July
+Mid-May
+Late July
+Mid-May
+Late May
+Mid-July
+3-Poor fit
+
+A.D.
+A.D.
+A.D.
+A.D.
+A.D.
+A.D.
+A.D.
+A.D.
+
+Late April
+Mid-May
+Mid-May
+Poor fit
+Poor fit
+Mid-July
+Mid-June
+Mid--July
+
+A.D. 100-5002
+A.D. 100-5002
+A.D. 100-5002
+Archaic2
+Archai~
+Archaidz
+Archaic2
+Archaic2
+
+41MG19
+
+Mid-May
+
+Late Prehistoric3
+
+41MG25
+
+Mid-May
+
+41MG29
+
+Late May
+
+41JK7
+
+Mid-May
+Late April
+Poor fit
+Late April
+Mid-April
+Late April
+
+Late Prehistoric3
+Late Prehistoric3
+Late Prehistoric3
+Late Prehistoric3
+Late Prehistoric3
+Late Prehistoric3
+
+Z3
+Z4
+
+41CH172
+
+L1
+L2
+L3
+L4
+L5
+L6
+L7
+L8
+
+1550?2
+1400z
+1000-14002
+500-10002
+100-500z
+
+1160-17601
+1160-17601
+1160-17601
+1 !60-17601
+1160-17601
+1160-17601
+1160-17601
+1160-17601
+
+41JK41
+
+"lest
+
+Late April
+
+Late Prehistoric3
+
+41JK91
+
+Upper
+Cluster
+
+Poor fit
+Poor fit
+Late April
+Poor fit
+
+Late Prehistoric3
+Late Prehistoric3
+Late Prehistoric3
+Archaic/
+Late Prehistoric3
+Archaic/
+Late Prehistoric3
+ArctNc3
+Arch~c3
+continued
+
+Middle
+Cluster
+
+Late Apri!
+Lower
+
+Cluster
+
+Late April
+Late April
+
+209
+
+210
+
+Texas Areheological Society
+Table 3, continued
+41JKll0
+
+S
+
+Mid-May
+
+?3
+
+41JKl13
+
+S
+
+Mid-May
+
+?3
+
+41JKl14
+
+S
+S
+
+Late April
+Mid-July
+
+Late Prehistoric3
+Late Prehistoric3
+
+41JKl18
+
+S
+
+Late June
+
+Late Prehistoric3
+
+41JK120
+
+S
+
+Late May
+
+?3
+
+41JK125
+
+S
+S
+
+Late May
+Mid--May
+
+Late Prehistoric3
+Late Prehistoric3
+
+41JK128
+
+S
+
+Mid-May
+
+Late Prehistoric3
+
+41JK129
+
+S
+
+Late June
+
+Late Prehistoric3
+
+41JK147
+
+Test
+
+Late April
+
+Late Prehistoric3
+
+41CL35
+
+S
+
+Mid-July
+
+?3
+
+41CL37
+
+S
+S
+
+Late June
+Mid-July
+
+Archaic3
+Archaic3
+
+1 DiUehay 1974
+2 Ditlehay 1975b
+3 Skelton 1978
+
+Mid-Jan
+Late Jan
+Mid-Feb
+Late Feb
+Mid-Mar
+Late Mar
+Mid-Apr
+Late Apr
+Mid-May
+Late May
+Mid-Jun
+Late Jun
+Mid-July
+Late July
+Mid-Aug
+Late Aug
+Mid-Sept
+Late Sept
+Mid-Oct
+Late Oct
+Mid-Nov
+Late Nov
+Mid-Dec
+Late Dec
+
+0.56606
+0.57683
+0.50531
+0.35587
+0.21709
+0.11454
+0.03922
+0.00282
+0.00759
+0.05307
+0.13101
+0.18969
+0.20578
+0.24258
+0.28864
+0.32355
+0.34669
+0.36693
+0.39477
+0.40316
+0.39533
+0.39891
+0.43826
+0.51117
+
+Rangia counts (N=51):
+Proportions (percent of total):
+Expected:
+
+6
+0.1176
+0.1473
+
+22
+0.4314
+0.4406
+
+14
+0.2745
+0.2320
+
+3
+0.0588
+0.0522
+
+6
+0.1176
+0.1279
+
+Figure 5. A sample from archeological site 41JK7 illustrating a close fit to the Rangia
+seasonality model. The best fit is late April. The error sum of squares is 0.002815. The mean
+squared error is 0.2924785 with variance 0.029107.
+
+Carlson u Rangia Cuneata as Seasonal Indicator
+
+211
+
+Next, a series of mixed samples was created by combining dated samples from
+different seasons. The purpose of these experiments was to see if, for example, by
+mixing spring and fall collections, the program would erroneously estimate a
+summer or winter collection. The results (Figure 3) showed that a bimodal
+distribution is created by mixing samples from disparate seasons, which is readily
+identified as a poor fit to the model; no half-month period fits well. An added
+advantage to the program, then, is that mixed or otherwise inappropriate samples
+can be readily identified and eliminated.
+A second series of experiments was run simulating collection over a single
+season. In these tests, all of the dated samples from a single season were combined
+(Figure 4). The best estimate is consistently within the range of the known sample
+dates. The valleys appear to be somewhat broader than for single samples, however,
+the difference is subtle. This suggests that samples representing a particular season
+and samples representing a single collection episode cannot be distinguished from
+one another. For example, combining all of the spring collections produces a
+composite sample that fits the Late April and Mid-May model values (Figure 4).
+This suggests too that the accuracy of this technique for seasonality estimates may
+be as good as +1 1/2 months. Considering the simplicity of the technique and the
+level of our current understanding of seasonal exploitation by prehistoric populations, this level of accuracy is impressive.
+Next, a series of 64 published archeological samples ofRangia, from Chambers
+County on the upper Texas coast to Calhoun County on the central Texas coast, was
+analyzed (Table 3). Thirteen of the samples provided relatively poorfits to any of
+the half-month periods; 51 samples fit one of the model periods. The sample from
+the Anaqua site (41JK7) (Story 1968) is illustrated as an example of a good fit
+(Figure 5). The analysis shows that the estimates range between mid-April and late
+July, a four-month period spanning spring and early summer. Despite differences
+in location along the coast and time period, it is clear that the the use of Rangia by
+the prehistoric inhabitants of the coast was highly seasonal (Table 4). This confirms
+
+Table
+
+4.
+
+Summary of Archeological
+Determinations
+
+Half-Month Period
+
+No.
+
+Seasonality
+Percent
+
+Mid-April
+Late April
+Mid-May
+Late May
+Mic-June
+Late June
+Mid-July
+Late July
+
+1
+16
+12
+9
+1
+3
+7
+2
+
+1.6
+25.0
+18.8
+14.1
+1.6
+4.7
+10.9
+3.1
+
+Poor fit
+
+13
+
+20.3
+
+64
+
+100.1
+
+TOTAL
+
+212
+
+Texas Archeological Society
+
+the results of Aten, (1979), Dillehay (1974, 1975b), and Skelton (1978). Some of
+the sites listed in Table 3 probably were occupied only for a single season. Others,
+however, are larger, multicomponent occupations of specific areas. The fight
+clustering of Rangia seasonality determinations suggests a highly scheduled
+subsistence pattern involving movements along the coast and, perhaps, inland as
+well.
+ACKNOWLEDGMENTS
+I would like to thank Gentry Steele for encouraging me to work on theRangia
+seasonality problem for a paper presented at the annual meeting of the Society for
+American Archaeology in Pittsburgh. I also thank Lawrence Aten for initiating
+Rangia seasonality studies by collecting the control samples and recognizing the
+potential of the technique. Some of his comments on the original paper have been
+incorporated here. Texas A&M University provided the computer facilities for
+conducting the analyses. A program to fit Rangia samples to the model distributions, which will run on IBM or compatible microcomputers, is available from the
+author.
+REFERENCES CITED
+Aten, Lawrence E.
+1971 Archeological excavations at the Dow-Cleaver site, Brazoria County, Texas.
+Texas Archeological Salvage Project, Technical Bulletin 1.
+1981
+
+Determining seasonality of Rangia cuneata from Gulf Coast shell middens.
+Bulletin of the Texas Archeological Society 52:179-200.
+
+Bedford, W. B.
+1972 The physiology of the estuarine clam Rangia cuneata (Gray). Ph.D. dissertation,
+Anthropology, Texas A&M University, College Station.
+Byrd, K. M.
+1976 The brackish water clam (Rangia cuneata) a prehistoric "staff of life" or a minor
+food resource. Louisiana Archaeology 3:23-31.
+Ctaassen, Cheryl
+1982 Report of recent molluscan seasonality projects in the southeastern United States.
+Paper presented at the October 1982 annual meeting of the Southeastern Archaeological Conference, Memphis.
+Dillehay, Tom D.
+1974 Appendix]II: SeasonalityassessmentofRangiacuneataclamfrom41CH110. In:
+Cultural variation on the Texas coast, by Kathleen Gilmore. Texas Archeological
+Survey Research Report 44:97-105.
+1975a Appendix I: Seasonality ofRangia cuneata shellfish collection. In: Matagorda
+Bay area, Texas: A survey of the archeological and historical resources, by G.
+Fritz. Texas Archeological Survey Research Report 45:159-165.
+
+Carlson--Rangia Cuneata as Seasonal Indicator
+
+213
+
+1975b Appendix ]lI: Shell refuse analysis for the 1973 Wallisville archeologicalproject,
+Chambers County, Texas. In: Prehistoric subsistence exploitation in the lower
+Trinity River delta, Texas, by T. D. DiUehay. Texas Archeological Survey
+Research Report 51:149-162.
+1975c Prehistoric subsistence exploitation in the lower Trinity River delta, Texas. Texas
+Archeological Survey Research Report 51.
+Fairbanks, Lawrence D.
+1963 Biodemographic studies of the clam Rangia cuneata gray. Tulane Studies in
+Zoology 10(1):3-47.
+Fritz, Gayle
+1975 MatagordaBay area, Texas: a survey of the archeological and historicalresources.
+Texas Archeological Survey Research Report 45.
+Gilmore, Kathleen
+1974 Cultural variation on the Texas coast: analysis of an aboriginal shell midden,
+Wallisville Reservoir, Texas. Texas Archeological Survey Research Report 44.
+Hartwig, F., and B. Dearing
+1979 Exploratory data analysis. Sage Quantitative Applications in the Social Sciences
+16.
+International Mathematics and Statistics Library
+1980 IMSL: Library reference manual. Edition 8. Houston, IMSL, Inc.
+Kennish, M. J.
+1980 Shell microgrowth analysis: Mercenaria mercenaria as a type example for
+research in population dynamics. In: Skeletal growth of aquatic organisms:
+Biological records of environmental change, edited by D. Rhoades and R. Lutz.
+New York. Plenum Press, pp. 255-294.
+McGuff, Paul R.
+1978 Prehistoric archeological investigations at Palmetto Bend Reservoir: phase I,
+Jackson County, Texas. Texas Archeological Survey Research Report 58.
+Monks, Gregory
+1981 S easonality studies. Advances in Archaeological Method and Theory 4:177-240.
+O’Heeron, M. K., Jr.
+1966 Some aspects of the ecology ofRangia cuneata (gray). M.A. thesis, Texas A&M
+University, College Station.
+Reinsch, C. H.
+1967 Smoothing by spline function. Numerische Mathematika 10:177-183.
+Skelton, D.
+1978 Appendix V: The seasonal factor ofR. cuneata clam collecting. In: Prehistoric
+
+214
+
+Texas Archeological Society
+archeologicalinvestigations at Palmetto Bend Reservoir: phase i, Jackson County,
+Texas, by Paul R. McGuff. Texas Archeological Survey Research Report
+45:262-274.
+
+Story, Dee Ann
+1968 ArcheologicalinvestigationsattwoCentralTexasGulfCoastsites. StateBuilding
+Commission Archeological Program Report 13.
+Tarver, J. W., and R. S. Dugas
+1973 A study of the clam, Rangia cuneata in Lake Pontchartrain and Lake Maurepas,
+Louisiana. Louisiana Wild Life and Fisheries Commission, Oyster, Water
+Bottoms, and Seafoods Division Technical Bulletin 5.
+Tevesz, M. J. S., and J. G. Carter
+1980 Environmental relationships of shell form and structure of unionacean bivalves.
+In: Skeletal growth of aquatic organisms: Biological records of environmental
+change, edited by D. Rhoades and R. Lutz. New York, Plenum Press, pp. 295-322.
+Texas Parks and Wildlife Department
+1963 Coastal fisheries project report, Austin.
+1964
+
+Coastal fisheries project report, Austin.
+
+1965
+
+Coastal fisheries project report, Austin.
+
+1966
+
+Coastal fisheries project report, Austin.
+
+1967
+
+Coastal fisheries project report, Austin.
+
+1968
+
+Coastal fisheries project report, Austin.
+
+1969
+
+Coastal fisheries project report, Austin.
+
+1972
+
+Coastal fisheries project report, Austin.
+
+1973
+
+Coastal fisheries project report, Austin.
+
+Wold, Svante
+1974 Spline functions in data analysis. Technometrics 16(1): 1-11.
+Wolfe, D. A., and E. N. Petteway
+1968 Growth of Rangia cuneata gray. Chesapeake Science 9(2):99-102.
+
+

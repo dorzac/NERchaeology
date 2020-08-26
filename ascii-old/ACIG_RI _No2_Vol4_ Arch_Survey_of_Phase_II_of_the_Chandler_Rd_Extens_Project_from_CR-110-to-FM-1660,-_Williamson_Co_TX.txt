@@ -1,0 +1,2633 @@
+Archaeological Survey of Phase II of the Chandler Road
+Extension Project from CR 110 to FM 1660, Williamson
+County, Texas
+Texas Antiquities Permit # 2904
+
+Prepared for:
+aci consulting, a division of aci group, LLC.
+1001 Mopac Circle Suite 100
+Austin TX, 78746
+
+For:
+Williamson County
+
+By:
+Sean R. Nash, RPA, Gregory D. Staples,
+and Martha Doty Freeman
+
+Principal Investigator: Sean R. Nash, RPA
+
+Reports of Investigations Volume 2, Number 4
+
+aci Cultural Resources, a Division of aci Group LLC.
+Austin, Texas
+August 2004
+
+TABLE OF CONTENTS
+EXECUTIVE SUMMARY .............................................................................................. 1
+INTRODUCTION............................................................................................................. 4
+Area of Potential Effects ............................................................................................... 5
+Previous Projects and Recorded Sites ......................................................................... 5
+ENVIRONMENTAL BACKGROUND.......................................................................... 6
+Physiography.................................................................................................................. 6
+Flora and Fauna............................................................................................................. 6
+Geology and Soils........................................................................................................... 6
+PREHISTORIC BACKGROUND .................................................................................. 7
+Paleo-Indian (Before 8800 B.P.) ................................................................................... 7
+Archaic (8800–1300 B.P.) .............................................................................................. 8
+Late Prehistoric (1300–ca. 500 B.P., or contact)......................................................... 9
+HISTORICAL BACKGROUND..................................................................................... 9
+PREVIOUSLY RECORDED ARCHAEOLOGICAL SITES.................................... 11
+ARCHAEOLOGICAL SENSITIVITY PROFILE...................................................... 12
+Uplands ......................................................................................................................... 12
+Small Creeks and Intermittent Drainages................................................................. 13
+INTENSIVE SURVEY ................................................................................................... 13
+Methods ........................................................................................................................ 13
+Pedestrian Survey....................................................................................................... 13
+Sub-surface Examination ........................................................................................... 14
+Shovel Testing ........................................................................................................ 14
+Backhoe Testing...................................................................................................... 15
+RESULTS ........................................................................................................................ 15
+Pedestrian Survey ........................................................................................................ 15
+Section 1..................................................................................................................... 16
+Section 2..................................................................................................................... 16
+Section 3..................................................................................................................... 19
+Section 4..................................................................................................................... 19
+Newly Recorded Sites .................................................................................................. 24
+41WM1097................................................................................................................. 24
+Description:............................................................................................................. 24
+Cultural Materials Collected/Observed: ................................................................. 24
+Assessment:............................................................................................................. 29
+41WM1098................................................................................................................. 29
+Description:............................................................................................................. 29
+Features within the ROW ................................................................................. 30
+Features outside the ROW................................................................................ 35
+Cultural Materials Collected/Observed: ................................................................. 46
+Assessment:............................................................................................................. 46
+Shovel Test Results ...................................................................................................... 48
+Section 1..................................................................................................................... 48
+Section 2..................................................................................................................... 53
+Section 3..................................................................................................................... 59
+Section 4..................................................................................................................... 59
+Backhoe Trench Test Results ..................................................................................... 59
+i
+
+CONCLUSIONS ............................................................................................................. 62
+RECOMMENDATIONS................................................................................................ 63
+REFERENCES CITED .................................................................................................. 64
+APPENDIX: Summary Results of Formal Shovel Tests ................................................. 67
+ADDENDUM: History of Site 41WM1098 by Martha Doty Freeman ........................... 73
+
+ii
+
+LIST OF FIGURES
+Figure 1. Location of APE within Williamson County. .................................................... 2
+Figure 2. USGS topographic map showing APE and recorded site locations. .................. 3
+Figure 3. Top-Intermittent tributary of McNutt Creek immediately west of CR 110.
+Bottom-View east along ROW centerline showing cultivated field. ......................... 17
+Figure 4. Top-Livestock tank with modern refuse (likely associated with site
+41WM1097). Bottom-View east along ROW centerline showing plowed field west
+of CR 118 (CR 118 is in background)........................................................................ 18
+Figure 5. Top-View north from ROW showing shotgun house and intermittent drainage.
+Bottom-View west along ROW centerline showing bedrock fragments in routinely
+plowed field................................................................................................................ 20
+Figure 6. Top-Exposed bedrock in drainage channel. Bottom-Vacant farm complex north
+of APE (point of origin for the drainage channel) ..................................................... 21
+Figure 7. Top-Active cultivation within APE. Bottom-View southeast along ROW
+centerline showing plowed field immediately west of CR 100 (CR 100 and site
+41WM1098 are in the background, a man-made canal is in the foreground). ........... 22
+Figure 8. Top-View southeast along ROW centerline showing recently plowed field east
+of CR 100. Bottom-Modern corral feature within the APE....................................... 23
+Figure 9. Top-View west along ROW centerline showing plowed fields east of CR 130.
+Bottom-View of Mustang Creek channel facing south. ............................................. 25
+Figure 10. Survey map of 41WM1097 showing location of ROW, approximate site
+boundaries, and shovel test locations. ........................................................................ 26
+Figure 11. Top-View of site 41WM1097 facing northwest with lone hackberry tree in
+foreground and old fence row in background. Bottom-View of old fence row facing
+south. .......................................................................................................................... 27
+Figure 12. Top-Ground visibility near lone hackberry tree (note: arrows indicate glass
+fragments). Bottom-Cedar fence post and hackberry tree marking eastern fence row.
+.................................................................................................................................... 28
+Figure 13. Survey map of 41WM1098 showing location of ROW and features within and
+near the APE............................................................................................................... 31
+Figure 14. Survey map of 41WM1098 showing location of ROW, shovel tests, and
+features outside the APE. ........................................................................................... 32
+Figure 15. Top-View of Feature 2 facing east-northeast with Features 5 and 10 in the
+background. Bottom-View of Feature 3 facing north-northwest............................... 37
+Figure 16. Top-View of windmill (Feature 4a) facing east. Bottom-Well (Feature 4b) at
+site 41WM1098. ......................................................................................................... 38
+Figure 17. Top-Hand-hewn timber upright with hand-cut mortise in Feature 5. BottomView of Feature 6 (wooden platform) facing west-northwest. .................................. 39
+Figure 18. Top-Front of Feature 10 (Barn) facing west. Bottom-Rear of Feature 10
+(Barn) facing east-northeast. ...................................................................................... 40
+Figure 19. Top-Original siding under shed-roof addition on southern wall (Note the red
+barn paint and livestock stalls). Bottom-View east along center passage with
+livestock stalls to right and storage rooms to left....................................................... 41
+Figure 20. Top-Timber upright with embedded square nails. Bottom-Original siding
+under roofed addition on western (rear) wall of barn (Note the loft ladder and red
+barn paint). ................................................................................................................. 42
+iii
+
+Figure 21. Top-View of Features 11 and 12 facing north with Features 14 and 15 in the
+background. Bottom-View of Feature 1 facing north with Feature 22 (concrete lowwater crossing) in the background and intermittent drainage to the left.................... 43
+Figure 22. Top-View of Feature 16 (house) facing west. Bottom-View of Feature 16
+(house) facing northeast. ............................................................................................ 44
+Figure 23. Top-View of Feature 17 facing east. Bottom-View of Feature 18 facing north.
+.................................................................................................................................... 45
+Figure 24. Top-Features 20 and 21 south of the APE. Bottom-Amethyst-tinted glass
+container finish fragment located near Feature 10 (barn). ......................................... 47
+Figure 25. USGS topographic map showing APE, disturbed areas, and shovel test
+locations. .................................................................................................................... 49
+Figure 26. Top-ST 19 at 41WM1097. Bottom-ST 20 at 41WM1097............................. 51
+Figure 27. Top-ST 23. Bottom-ST 25. ............................................................................ 52
+Figure 28. Top-ST 36 at unnamed tributary of McNutt Creek. Bottom-ST 37 on ridge
+slope east of ST 36. .................................................................................................... 54
+Figure 29. Top-ST 3. Bottom-ST 6 ................................................................................. 56
+Figure 30. Top-ST 9. Bottom-ST 12 ............................................................................... 57
+Figure 31. Top-ST 28 at 41WM1098. Bottom-ST 29 at 41WM1098............................. 58
+Figure 32. Top-ST 1. Bottom-ST 2. ................................................................................ 60
+Figure 33. Top-ST 13. Bottom-ST 14 at Mustang Creek................................................ 61
+
+iv
+
+Archaeological Survey of Phase II of the Chandler Road
+Extension Project from CR 110 to FM 1660, Williamson
+County, Texas
+EXECUTIVE SUMMARY
+
+aci Cultural Resources conducted an intensive archaeological survey of Phase II of the
+proposed extension of Chandler Road between County Road (CR) 110 and Farm-toMarket Road (FM) 1660 in south-central Williamson County, Texas from March 18 to
+June 6, 2004 (Figure 1). The project area consists of the approximately 5-mile-long, 200ft.-wide, County-controlled Right-of-Way (ROW) of the proposed extension (Figure 2).
+The Area of Potential Effects (APE) is the County-controlled ROW and is 121 acres.
+Funding for this project will come entirely from Williamson County.
+A records search was conducted at the Texas Archeological Research Laboratory
+(TARL) and the Texas Historical Commission’s (THC) Texas Archeological Sites Atlas
+to locate any previously recorded historic and prehistoric cultural resources within the
+project area. With the benefit of this research, a 100% pedestrian survey of the entire
+project area was performed. Shovel testing was performed in areas where the soil depth
+appeared to exceed 10 cm.
+The proposed ROW crosses Mustang Creek and four intermittent drainages (tributaries of
+McNutt Creek and Cottonwood Creek). All drainages within the APE were dry during
+the survey except for Mustang Creek, which crosses the ROW midway between CR 130
+and FM 1660. Shovel tests conducted at Mustang Creek and the intermittent drainages
+tested negative for cultural materials and significant alluvial deposits.
+There are three previously recorded archaeological sites located north and south of the
+project area. Sites 41WM835, 41WM1014, and 41WM1025 are early to mid-twentieth
+century historic sites. Sites 41WM835 and 41WM1025 are house/farmstead sites. Site
+41WM1014 is a historic dump site. The three sites are located >1 km from the APE.
+There are no previously recorded archaeological sites located within the Chandler Road
+Extension ROW.
+During the current survey, two newly discovered sites, 41WM1097 and 41WM1098,
+were found to exist within the ROW (Figure 2). Site 41WM1097 is an early to midtwentieth century house site that is most likely associated with tenant farming. The
+cultural deposits within the ROW are relatively shallow and have been disturbed by
+plowing, and the site contains no features. The site is not potentially eligible for
+nomination to the National Register of Historic Places (NRHP) or as a State
+Archeological Landmark (SAL) due to poor site integrity and lack of significant data.
+Site 41WM1098 is an early to mid-twentieth century farm complex with extant house,
+outbuildings, and tenant houses. The main house and tenant houses are not located
+within ROW, but an early twentieth century barn and several associated outbuildings and
+1
+
+Figure 1. Location of APE within Williamson County.
+
+2
+
+Figure 2. USGS topographic map showing APE and recorded site locations.
+3
+
+features are located within the ROW. The site may be potentially eligible for nomination
+as a SAL or to the NRHP under Criteria A, C, and D. Under Criterion A, the site is
+associated with cotton farming in Central Texas prior to mechanization, an important
+period in Texas history and in the evolution of agriculture. Under Criterion C, the site
+displays characteristics of a class of architecture, particularly in the form of an early
+twentieth century rural residence, a remarkably preserved barn, several associated
+outbuildings, and two extant tenant houses. The barn has architectural details that are no
+longer common in the region. Under Criterion D, the site may contain significant data
+relating to cotton farming practices prior to mechanization and patterns in early twentieth
+century farm design and implementation.
+Due to the potential NRHP and SAL eligibility of site 41WM1098, aci recommends that
+the ROW be shifted north to avoid the site. Martha Freeman, architectural historian, has
+been consulted to address the architectural value and history of the site and make further
+recommendations regarding the site (see Addendum).
+A total of 38 shovel tests were executed within the ROW of the Chandler Road Extension
+Project (see Figure 25). Five shovel tests executed at site 41WM1097 tested positive for
+cultural materials. Four shovel tests executed at site 41WM1098 tested positive for
+cultural materials. All artifacts were field-identified and field-recorded. No artifacts
+were collected during any part of the archaeological survey.
+This report follows the Council of Texas Archeologists (CTA) guidelines and is designed
+to satisfy State and Federal laws and regulations. The findings of the cultural resource
+survey and records search are summarized and assessments and recommendations
+concerning cultural resources are presented. A brief environmental background is
+provided.
+
+INTRODUCTION
+Williamson County is planning the extension of Chandler Road to connect CR 110 to the
+east and FM 1660 to the west. The proposed section of road is approximately 5 miles
+long. The APE consists of the proposed 200-ft.-wide ROW, which is located east of
+Interstate Highway 35 and roughly midway between the cities of Round Rock and
+Georgetown, in Williamson County, Texas.
+The Chandler Road Extension was adopted as part of the Williamson County MultiCorridor Transportation Plan in September 1999. The proposed, ±14.0-mile-long, eastwest corridor will eventually extend from FM 1460 to US 95. The first phase of the
+project, the extension of Chandler Road from FM 1460 to CR 110, was surveyed by
+Archaeological and Cultural Sciences Group (now aci Cultural Resources)
+archaeologists in 2001 and is currently under construction. The second phase of the
+project, the extension between CR 110 and FM 1660, is the subject of this report.
+As a subdivision of the State, Williamson County is obligated to comply with the Texas
+Antiquities Act and the Rules of Practice and Procedure for the Texas Antiquities Act.
+These rules are interpreted and enforced by the Texas Historical Commission (THC).
+4
+
+After a visit to the project location, an initial scope of work was formulated to comply
+with the Texas Antiquities Code. That is, “to locate, protect, and preserve all sites,
+objects, buildings…, and locations of historical, archeological, educational, or scientific
+interest, including but not limited to prehistoric and historical American Indian or
+aboriginal campsites, dwellings, and habitation sites, archeological sites of every
+character…within the jurisdiction of the State of Texas.” The THC approved the initial
+scope of work and Texas Antiquities Permit #2904 was issued to Sean R. Nash as
+principal investigator for Archaeological and Cultural Sciences Group (ACSG).
+Area of Potential Effects
+The APE is 200 ft. wide by 5 miles long and is 121 acres. The road construction will
+directly affect all surface areas within the limits of construction. Impact to bedrock is
+anticipated for the upland portions of the APE. In the deeper sediments of the flood
+plains, box culverts will be used, limiting the impacts to soils or sediments to
+approximately 1 meter. Any additional public access to the project area will be restricted
+to the ROW.
+Previous Projects and Recorded Sites
+A records search was conducted at TARL and the THC to locate any previously recorded
+prehistoric and historical archaeological sites and completed surveys within the Project
+Area. There are no previously recorded historic or archaeological sites located within the
+APE. There are no SAL or NRHP eligible properties in or near the project area.
+If there were eligible prehistoric properties in the area, they would typically be sites
+buried by alluvium or colluvium or both, rock shelter or cave sites, sites containing
+burials, and sites that contain or may contain information that is significant in history or
+prehistory. Eligible historic properties are typically sites associated with an important
+event, set of events, or person(s) that is important in our past. Eligible historic properties
+are also sites that display the characteristics of a class, style, a school of architecture, or a
+period of architecture. Historic properties may also be eligible if they contain significant
+data. However, the properties must display a high degree of integrity. Historic properties
+are usually ineligible if buildings and structures have poor structural integrity or are no
+longer present.
+In 2001, aci archaeologists conducted an archaeological survey of Phase I of the
+Chandler Road Extension Project from FM 1460 to CR 110. No archaeological sites or
+cultural materials were found during that investigation. In 2003, aci archaeologists
+conducted an archaeological survey of the Hutto Bypass Project Area, which is located
+immediately south of the Chandler Road ROW. One historic site was recorded during
+that investigation. Site 41WM1087, a house site located along CR 164, is comprised of
+the remains of a small board-and-batten house and an artifact scatter associated with the
+house. The site appears to be an early to mid-twentieth century tenant farmer’s residence.
+No other sites or cultural materials were observed or recorded during the Hutto Bypass
+survey.
+
+5
+
+ENVIRONMENTAL BACKGROUND
+Physiography
+Elevations within the Blackland Prairie region range from 300 ft. (91 m) to 800 ft. (244
+m) AMSL (Texas Parks and Wildlife 1996). The overall landform in the area of the
+project is characterized by gently rolling to nearly level uplands dissected by broad,
+shallow valleys. Elevations within the APE range from 850 ft. (259 m) above mean sea
+level (AMSL) at site 41WM1097 to 672 ft. (205 m) AMSL at the Mustang Creek
+channel.
+The APE crosses Mustang Creek midway between CR 130 and FM 1660. The creek is a
+tributary of Brushy Creek, which is a tributary of the San Gabriel River. The San Gabriel
+River is located approximately 4.9 km north of the proposed Chandler Road ROW. The
+APE also crosses four ephemeral streams that are tributaries of McNutt Creek and
+Cottonwood Creek.
+Flora and Fauna
+Lowland soils are comprised of moderately deep clays and support tall-grasses and mixed
+stands of post oak, blackjack oak, and mesquite (Texas Parks and Wildlife 1996). The
+upland soils are relatively shallow and support live oak, Ashe juniper, and prickly pear
+cactus. The project area lies within Blair’s (1950) Texan biotic province and the flora
+and fauna of the province can be found within the APE.
+Geology and Soils
+Upper Cretaceous Austin Chalk (Kau) underlies the portion of the project area west of
+CR 130. East of CR 130, the underlying geologic formations consist of Pleistocene High
+gravel deposits (Qhg) in the upland areas and Upper Cretaceous Ozan Formation (Ko)
+along Mustang Creek and its tributaries. A northeast-southwest striking fault line bisects
+the ROW at the intersection of CR 130. The upthrown side of the fault line is on the
+western side.
+The soils within the eastern portion of the project area are comprised of BranyonHouston Black-Burleson, which are “deep, calcareous and non-calcareous, clayey soils
+formed in clayey alluvium and marine clays and shales; on ancient stream terraces and
+uplands” (U.S. Department of Agriculture, Soil Conservation Service [USDA, SCS]
+1983). Soils within the western portion of the project area are comprised of AustinHouston Black Castephen association soils, which are deep to shallow, calcareous clayey
+soils formed in marine chalk, marl, shale, and clays; on uplands” (USDA, SCS 1983)
+The soils within the uplands of the APE are generally stable to erosional and are not
+conducive to preserving archaeological sites. Prehistoric sites within the upland areas are
+likely to be surficial, and components would be compressed within a few centimeters of
+the surface or mixed and resting on the surface. Only historic sites, structured prehistoric
+sites (e.g., burned rock features), or surficial lithic scatters would likely be encountered in
+these settings.
+6
+
+Soils and sediments in the lowlands of the intermittent drainages and small creeks in the
+APE typically exhibit erosion balanced by deposition and do not present a favorable
+depositional environment for the preservation of archaeological sites (USDA, SCS 1983).
+However, individual locations may have atypical physiographic features (e.g. paleo­
+channels) and alluvial deposits could accumulate.
+
+PREHISTORIC BACKGROUND
+The property falls within the Central Texas archaeological area (Collins 1995).
+Prehistoric archaeological sites in Central Texas represent continuous human occupation
+starting around 11,500 years ago. Throughout its occupation, hunting and gathering is
+believed to be the exclusive resource procurement strategy of prehistoric Central Texans.
+Sites have been interpreted to represent relatively short-term occupations. Deeper sites
+with large amounts of cultural materials are thought to be camps that were returned to
+through the years, possibly on a regular basis.
+Michael B. Collins (1995) authored a recent synthesis of Central Texas archaeology. The
+cultural history summarized here is based in large part on his synthesis. Collins divides
+the prehistory of Central Texas into 3 time periods: (1) the Paleo-Indian, (2) the Archaic,
+and (3) the Late Prehistoric. Each of these has further been divided into subperiods, such
+as early and late. Smaller units of time referred to as “style intervals” are used to
+coincide with the interval of use of a particular point style or group of point styles. These
+style intervals can overlap or extend over more than one subperiod. Most, however, can
+be used to subdivide the subperiods. Information pertaining to burned rock middens,
+specifically, is based primarily on Black’s (1989) research.
+Paleo-Indian (Before 8800 B.P.)
+The evidence (e.g., Meltzer 1993) no longer supports the long held belief that North
+American Paleo-Indians could be characterized as nomadic bands of big game hunters.
+Big game hunting is indicated, particularly in association with Folsom. However, a more
+generalized hunting and gathering subsistence is now evidenced at Paleo-Indian sites
+across Texas and the rest of North America (e.g., Burger Bluff (41GD30) and Baker
+Cave). The relatively mesic conditions that prevailed from about 11,500 B.P. allowed for
+a high biomass in central Texas and the surrounding regions (Collins 1995).
+Clovis and Folsom style intervals divide Collins’ early Paleo-Indian period (11,200–
+10,000 B.P.). Clovis is the earliest recognized cultural horizon in central Texas. Clovis
+is securely dated to between 11,200 and 10,900 B.P. in radiocarbon years. The WilsonLeonard, Gault, and Pavo Real sites have recently added new data to the study of these
+early peoples of what is now Texas. Kincaid Rockshelter and Horn Shelter sites also
+have documented Clovis components. Clovis artifacts include prismatic blades, engraved
+stones, bola stones and the unique Clovis point (Collins 1995). Clovis points are usually
+lanceolate, fluted projectile or lance points (Collins 1998).
+The Folsom style interval is not as securely dated, and appears to overlap with Clovis.
+The finely retouched and fluted Folsom points are one of the most easily recognized
+points made in the Americas. In Folsom times, more than at any other interval, people
+7
+
+were specialized hunters. Bison kills with associated Folsom points remain the typical
+Folsom site type. The postulated style intervals following Folsom, known as Plainview
+and Dalton-San Patrice, are not well known or clearly defined. However, evidence from
+sites containing components related to them, such as Horn Shelter 2, indicate an Archaiclike hunter-gatherer lifeway (Redder 1985).
+Wilson, Golondrina-Barber, and St. Mary’s Hall style intervals make up Collins’ (1995)
+late Paleoindian subperiod. This subperiod is characterized as intermediate or transitional
+between Paleo-Indian and Archaic (Collins 1998:63–4). Burned rock features have been
+found associated with all three style intervals of this subperiod, but they are substantially
+smaller and less frequent than in the Archaic (Collins 1995).
+Archaic (8800–1300 B.P.)
+The mesic conditions of the Paleo-Indian period come to an end during the early
+subperiod of the Archaic. With the exception of the Bell-Andice-Calf Creek interval of
+the middle Archaic subperiod, this was a more xeric time for Central Texas and the
+surrounding regions. A jump in the number of ground stone tools, specifically manos and
+metates suggests an increased reliance on plant resources (Collins 1995). Central Texas
+Archaic sites are characterized by accumulations of heat altered rock, including those
+known as burned rock middens.
+Three subperiods have been defined for the Central Texas Archaic: (1) early, (2) middle,
+and (3) late (Johnson and Goode 1994, Collins 1995). Early Archaic sites (8800–6000
+B.P.) are recognized by the presence of Angostura, Early Split Stem, and MartindaleUvalde points. Unifacial Clear Fork tools and Guadalupe bifaces are found in early
+Archaic sites along with ground stone tools and other bifacial and unifacial implements.
+Early Archaic earth ovens and accumulations of burned rock are found primarily on the
+better-watered portions of the Edward’s plateau, in Live Oak savanna habitats. These
+earth ovens and accumulations of burned rock have been considered the technological
+antecedents of the classic burned rock middens (Collins 1995). However, at Ft. Hood
+seven burned rock middens were carefully dated using AMS. The features spanned from
+5500 BC (early Archaic) to 1400 AD (Quigg and Ellis 1994). Two others burned rock
+middens in Kerr County have been dated to the early Archaic (Luke 1980). It is possible
+that these reported early burned rock ovens and accumulations may represent the same
+phenomenon in a different form or stage of development (e.g., incipient).
+During the first interval (6000–5000 B.P.) of the middle Archaic subperiod the climate is
+somewhat more mesic. Bison populations soared. The technically impressive BellAndice-Calf Creek points were likely made primarily for killing these Bison (Johnson
+and Goode 1994). By 5000 B.P., the Bison had dwindled and the climate had become
+more xeric again. Burned rock middens were likely used to cook sotol and other
+xerophytes that thrived during these dry years (Johnson and Goode 1994:26). The last
+thousand years of the middle Archaic (5000–4000 B.P.) are divided into two style
+intervals, Taylor and Nolan-Travis.
+The late Archaic (4000–1300 B.P.) began during the driest time central Texans had ever
+experienced. There was, however, a steady increase in effective moisture until it peaked
+in the later part of the late Archaic (Collins 1995). With the increase in effective
+8
+
+moisture came the return of Bison. Six style intervals are recognized for the late Archaic:
+(1) Bulverde, (2) Pedernales-Kinney, (3) Lange-Marshall-Williams, (4) Marcos-MontellCastroville, (5) Ensor-Frio-Fairland, and (6) Darl.
+Late Prehistoric (1300–ca. 500 B.P., or contact)
+The beginning of the late Prehistoric period is defined primarily by the introduction of the
+bow and arrow. Pottery was also introduced during this time, but unlike many areas in
+Texas and the rest of the New World, hunting and gathering resource procurement
+strategies prevailed (Collins 1995). Many documented instances of arrow wounds are
+recorded during this period (Prewitt 1974).
+The late Prehistoric is divided into early and late subperiods (Jelks 1962). Each
+subperiod has a single style interval. The early subperiod is represented by the Austin
+style interval and the late subperiod by the Toyah interval (Collins 1995). Scallorn and
+Edwards points are diagnostic of the early subperiod and Perdiz is representative of the
+Toyah archaeological manifestation.
+
+HISTORICAL BACKGROUND
+Historic exploration and settlement of the Williamson County area began in the late
+seventeenth and early eighteenth century when Spanish explorers traveled through the
+region searching for better routes to the missions in East Texas. Captain Alonso De León
+followed the Camino Real from San Antonio to Bastrop several times during the 1680s,
+and, at least once, he traveled on the Camino de Arriba, which crossed Brushy Creek and
+the San Gabriel River. In 1716, Louis Juchereau de St. Denis, a French explorer, and
+Captain Domingo Ramon, a Spanish explorer, led an expedition through the area and
+camped on the banks of Brushy Creek and the San Gabriel River. They named them
+Arroyo do las Bendítas Ánimas and Río de San Xavier, respectively. In 1721, Marques
+de Aguayo led a large group of soldiers, livestock, and provisions through present-day
+Williamson County to replenish supplies at the eastern missions (The City of Round
+Rock 1998). In the mid-eighteenth century, the San Xavier missions were established
+along the San Gabriel River, just east of the Williamson/Milam County line. By 1753,
+drought and disease made the missions uninhabitable and Spanish influence in the area
+declined (Odintz 2002a).
+Anglo-American influence in the area began during the Texas Revolution and the early
+days of the Republic of Texas, when the area was part of Milam County. In 1835,
+continual attacks by indigenous Indians prompted Captain John J. Tumlinson and his
+company of Texas Rangers to construct a fort and Indian lookout near the headwaters of
+Brushy Creek, in southwestern Williamson County. Tumlinson Fort, as it was called,
+was abandoned in 1836 when General Santa Ana invaded Texas (Odintz 2002a).
+Following the defeat of General Santa Ana at the Battle of San Jacinto, several veterans
+of the battle settled in Williamson County. In 1838, Dr. Thomas Kenney and his family
+built a fort on Brushy Creek, in what is now eastern Williamson County. Kenney’s Fort
+became the first civilian settlement in Williamson County. By the 1840s, several
+settlements existed along Brushy Creek. However, battles with the indigenous
+9
+
+population were a frequent problem, and numerous settlers, including Kenney, were
+killed by Indians. By 1846, the Indian resistance has weakened, and settlers moved into
+the region in increasing numbers. In 1848, the Texas legislature established Williamson
+County, naming it after Robert Williamson, a Milam County Judge and state senator.
+By 1850, the county had a population of 1,379 whites and 155 slaves. Most of the
+population was located in the eastern part of the county on Brushy Creek and the San
+Gabriel (Odintz 2002a), but a few families were living in the western half.
+During the 1850’s and 1860’s, towns, lumber mills, and tanneries sprang up around the
+county. Although urbanization and industrialization increased somewhat, the bulk of the
+county remained rural and agricultural. The majority of the families lived on subsistence
+farms in log houses and raised corn. During the 1850s and early 1860s, the slave
+population increased and the agricultural patterns within the county became more diverse.
+Wheat and corn were the predominant crops in the blackland prairies, and cattle and
+sheep ranching was widespread throughout the county, but particularly widespread in the
+hilly regions west of the Balcones Escarpment (Nash et al. 2002). Cotton was introduced
+in 1850s, but it was not a significant cash crop.
+The economy of Williamson County slumped during the Civil War, but picked up again
+in the 1870s with the growth of the cattle and sheep industry and the expansion of cotton
+farming. The cattle industry was sustained by the Chisolm trail, which was established in
+1864 and passed close to Round Rock. Many cattle drives passed through or originated
+in Williamson County. The 1870s and 1880s was also marked by the arrival of railroads
+to Williamson and Travis County (Odintz 2002a).
+The City of Hutto was founded in 1876 with the arrival of Williamson County’s first
+railroad, the International-Great Northern Railroad. The community was named after
+James Emory Hutto, a local rancher on whose land the railroad station was built. By
+1884, the town had 200 residents, a school, three churches, and five cotton gins. By the
+early 1890s, a bank and hotel had been constructed, and by 1896, the town had 700
+residents (Odintz 2002b).
+Gower, a small community located on Cottonwood Creek immediately south of the
+Chandler Road APE, was the site of a mill in the 1880s and a post office in 1890s. The
+community was named for its first postmaster, Bennet A. Gower. A school was
+established in Gower after 1896 and operated until sometime after 1903 (Scarbrough
+1973). Today all that remains of the community is a few modern residences and several
+dilapidated barns and early twentieth century tenant houses. Site 41WM1098 is located
+immediately north of Gower and may be associated with the community.
+By the early-twentieth century, cotton farming had surpassed the cattle industry in
+Williamson County. Many rural railroad communities, like Hutto, prospered as cotton
+processing and shipment centers. The economy of Hutto was based primarily on cottonrelated activities (e.g., cotton gins and railroad shipping) (Odintz 2002b).
+With the dramatic growth in cotton farming, a shift in farm tenancy developed. As late as
+1880, 77 percent of the farms were still worked by owners. By 1890, 43 percent of the
+farms were worked by owners. By 1930, only 29 percent of the farms were worked by
+10
+
+owners. The tenancy rates dropped during the Great Depression (Odintz 2002a) as many
+tenant farmers either moved away or turned to other occupations. By 1931, the
+population in the City of Hutto had fallen from its peak of 900 in 1928 to 538 (Odintz
+2002b).
+The cotton industry in Williamson County and in the City of Hutto suffered economically
+during the 1920s from the effects of soil depletion, falling prices brought on by
+overproduction, and the boll weevil infestation. The Great Depression of the 1930s
+worsened the economic situation and encouraged farmers to shift away from cotton to
+livestock. Cotton production was reduced by nearly half, while sorghum and wheat
+became important crops. Along with cattle and sheep, poultry farming intensified
+(Odintz 2002a).
+Significant population and economic changes occurred in the 1960s, 1970s, and 1980s.
+The construction and expansion of roads throughout the undeveloped areas of
+Williamson County meant rural populations now had easier access to the urban areas.
+The consolidation of rural schools also meant children could now attend schools outside
+of their rural communities.
+Suburbanization of the portions of the county bordering Austin caused the population of
+Williamson County to boom in the 1970s and 1980s. In 1970, the population of
+Williamson County was 37,305. By 1982, the population had grown to over 85,700
+(Odintz 2002a). A pattern of absentee ownership and of non-agricultural use of the land
+also intensified following World War II.
+Local development in the mid-1980s brought a growth spurt to Hutto, whose population
+had increased to 630 by 1990, and the surrounding area (Odintz 2002b). Today, the
+majority of the area surrounding Hutto is rural and agricultural with cotton, corn, and
+sorghum being the predominant crops. However, residential development is continually
+expanding from the suburbs of Round Rock to the outskirts of Hutto. Many of the farms
+surrounding Hutto are being subdivided and developed as residential neighborhoods.
+
+PREVIOUSLY RECORDED ARCHAEOLOGICAL SITES
+A records search was conducted at TARL and the THC to locate any previously recorded
+prehistoric and historical archaeological sites and completed surveys. No sites have been
+recorded in the APE. Three sites, 41WM835, 41WM1014, and 41WM1025, have been
+recorded near the APE (i.e., 1–2 km from ROW)
+Site 41WM835 is a historic farmstead site located along an intermittent drainage
+approximately 1.8 km north of the Chandler Road APE. The site was recorded by
+archaeologists of Antiquities Planning and Consulting in August 1996 during a cultural
+resource survey of the proposed Weathery Private Housing Development. The site
+measures approximately 350 ft. (north-south) x 250 ft. (east-west) and consists of several
+features and an artifact scatter. Evidence of at least four buildings, one limestone cistern,
+and one well were observed. Diagnostic artifacts include crockery sherds, whiteware
+sherds, square nails, automotive parts, wagon parts, pink and purple bottle glass, and a
+hand-forged metal bridal. The recorder recommended that the site be protected by
+11
+
+including it in a greenbelt park and that further archival research should be conducted on
+the site.
+Site 41WM1014 is a historic dump/house site located approximately 2 km south of the
+Chandler Road APE. The site was recorded by PBS&J in October 2001 during a cultural
+resource survey of the proposed State Highway 130 Construction Project for the Texas
+Department of Transportation and the Texas Turnpike Authority. The site consists of a
+surficial artifact scatter that measures approximately 30 m (north-south) x 35 m (east­
+west). Artifacts include glass bottles, various ceramic sherds, tin cans, toys, a 1951
+license plate, and automobile tires. The site has been heavily disturbed by farming,
+plowing, and grazing. No further investigation was recommended due to poor site
+integrity.
+Site 41WM1025 is a historic artifact scatter located approximately 1.3 km north of the
+Chandler Road APE. The site was recorded by PBS&J in October 2001 during a cultural
+resource survey of the proposed State Highway 130 Construction Project. The site
+consists of a scatter of early to mid-twentieth century domestic artifacts. The artifact
+scatter measures approximately 80 m (north-south) x 75 m (east-west) and is surficial.
+Artifacts include Albany and Bristol Slip stoneware, whiteware sherds, amethyst bottle
+glass, cobalt blue bottle glass, amber bottle glass, aquamarine bottle glass, embossed
+bottle glass, a serving spoon, a hook, and windowpane sherds. No features were
+observed. The site has been disturbed by plowing and erosion. No further investigation
+was recommended.
+
+ARCHAEOLOGICAL SENSITIVITY PROFILE
+Prior to the archaeological survey, ACSG conducted an archaeological sensitivity profile
+of the project area to determine areas of high and low probability for intact archaeological
+sites. The sensitivity profile is based on data collected from:
+(1) a records search at TARL and the THC to locate any previously recorded sites and
+completed surveys,
+(2) a study of the soils and land forms to delimit areas with the potential for buried sites,
+(3) a study of aerial photographs, old county highway maps, and early GLO plat maps to
+look for historic properties and historically important property owners, and
+(4) a reconnaissance of the ROW to look for obvious disturbances within the project area.
+The prospect of finding intact archaeological sites varies with the physiographic settings
+within the APE. Two distinct physiographic settings were identified: (1) uplands, and (2)
+small creeks and intermittent drainages.
+Uplands
+The age of the geologic formations within the APE is Upper Cretaceous and predates
+known human occupation of the region. Routine contour plowing has directly or
+indirectly impacted all areas within the APE (see Figure 2). All upland settings within
+the APE have been directly impacted. Upland soils are formed in situ and because of the
+low relief and stable clay soils surfaces are generally stable.
+12
+
+In the Central Texas Archaeological region, sites in upland areas are likely to be surficial
+with all components compressed within a few centimeters of the surface or mixed and
+resting on the surface (Black 1989). Any sites of this nature would have been heavily
+disturbed by contour plowing and have minimal research value. Previously recorded
+sites in the area fit this pattern. Upland areas have a low probability for containing intact
+archaeological sites.
+Small Creeks and Intermittent Drainages
+Soils and sediments in the lowlands of the intermittent drainages and small creeks in the
+APE typically exhibit erosion balanced by deposition and do not present a favorable
+depositional environment for the preservation of archaeological sites (USDA, SCS 1983).
+However, individual locations may have atypical physiographic features (e.g. paleo­
+channels) and alluvial deposits could accumulate. Small Creeks and Intermittent
+Drainages, specifically Mustang Creek, have a higher potential for containing intact,
+buried archaeological sites than the upland areas. If shovel testing indicated significant
+alluvial deposits, then Backhoe trenching would be implemented at Mustang Creek or the
+intermittent drainages to test for deeply buried cultural deposits.
+
+INTENSIVE SURVEY
+Methods
+A 100% pedestrian survey was conducted to “identify obvious or well known properties”
+and “areas where certain kinds of properties are likely to occur” [36 CFR § 64] (Derry et.
+al. 1985, King et. al. 1977). These include both historic and prehistoric-aged properties.
+A thorough records search was completed in order to determine: (1) if there were any
+recorded sites within the project area; and (2) the nature of the recorded sites in the
+general area. Based on this data, a strategy for an intensive archaeological survey of the
+project area was devised. The survey strategy included a 100% pedestrian survey and
+sub-surface testing. Separate methodologies of sub-surface testing were employed for
+areas with a high probability of buried sites and areas with a low probability.
+Sites as defined by Hester et al. (1997:42) are “any discrete, bounded location where
+humans lived, worked, or carried out a task—and where evidence of their behavior can be
+recovered by the archaeologist.” For practical purposes, any area where three or more
+artifacts were found within a 10-m diameter was recorded. Isolated artifacts would be
+plotted on a USGS 7.5’ topographic map.
+Pedestrian Survey
+The revised minimum survey standards, as implemented by the THC, for project areas of
+200 acres or less require a transect interval no greater than 30 m. Ten-meter transects
+were walked across the entire APE. Smaller transects would be employed in areas that
+evidenced historic or prehistoric sites. Due to numerous recently plowed fields, the
+overall ground visibility was excellent and allowed for a confident appraisal of the APE.
+Areas of better visibility within the poor visibility areas received additional attention. If
+an artifact were found, the surrounding area would be cleared and carefully searched.
+13
+
+Notes were taken describing conditions, environmental factors, and any other factors
+affecting the survey. Photographs were taken of environmental settings, cultural artifacts,
+and features encountered during the survey. All naturally exposed profiles were
+examined.
+The soils within the APE are generally stable to erosional and are not conducive to
+preserving archaeological sites. Prehistoric sites within the upland areas are likely to be
+surficial, and components would be compressed within a few centimeters of the surface
+or mixed and resting on the surface. Only structured sites, like burned rock middens, or
+surficial lithic scatters would likely be encountered in these settings. If surficial sites
+were encountered, a random sample of artifacts would be field-identified to quantify the
+density of the scatter and the types of artifacts present. No artifacts were collected during
+any part of the survey.
+If any previously recorded sites were located within the Chandler Road APE, they would
+be revisited and reassessed for potential significance. Newly discovered sites were
+investigated and recorded at TARL. If the surface visibility at the sites is less than 30
+percent, then a minimum of six shovel tests were executed to delimit site boundaries.
+Based on the results of the shovel tests and surface inspection, the newly recorded sites
+were evaluated for potential significance.
+Sub-surface Examination
+Shovel Testing
+The minimum survey standards for Texas, as implemented by the THC, require 16 shovel
+tests per mile in a linear project, unless the geomorphology or terrain conditions
+demonstrate that this number is unnecessary. Based on the background research and an
+environmental assessment, a scope of work was formulated to account for the presence of
+highly disturbed agricultural areas.
+Fewer shovels tests than the number required by the minimum survey standards (i.e., 16
+per mile, per 100-ft. width of new ROW) were anticipated in the project area. The
+subsequent pedestrian survey results confirmed that the majority of the project area is
+located in an upland setting with heavily plowed surfaces. With this in mind, shovel tests
+were conducted at the Principal Investigator’s discretion.
+Shovel tests were placed in areas where the soils and sediments appeared to be relatively
+intact. In order to confirm the absence of buried, intact archaeological sites, some shovel
+tests were placed in areas that contained thin soils or were disturbed by cultivation or
+other agricultural activities. Areas where soil profiles were naturally exposed through
+erosion were also examined. Shovel tests were 30 cm in diameter and were excavated to
+the bottom of Holocene deposits, if possible. Positive shovel tests were dug in levels no
+thicker than approximately 20 cm. Negative shovel tests containing sterile, homogenous
+clay were dug in levels corresponding to the natural stratigraphic boundaries. Excavated
+sediments were screened through ¼-inch hardware cloth unless high clay or water
+content required that the material be troweled through or sorted by hand. Shovel test
+locations were mapped by global positioning systems (GPS). Notes were taken
+describing the zone, depth, soils, stratigraphy, and any artifacts found. If a site were
+14
+
+located during the pedestrian survey, additional sub-surface testing would be conducted
+to evaluate the depth and nature of cultural deposits. The minimum survey standards for
+Texas require at least 6 shovel tests to define site boundaries, unless the site has more
+than 30 percent surface visibility.
+The uplands of the APE are low probability areas. Upland soils are formed in situ and
+because of the low relief and stable clay soils surfaces are generally stable. Sites formed
+in upland settings on stable clay surfaces are likely surficial or mixed and compressed
+within the top few centimeters. These surficial sites will most likely be sparse lithic
+scatters, burned rock features, or historic sites.
+Due to contour plowing of the project area, all upland surface sites within the project area
+are thoroughly disturbed. Upland areas were ground-truth tested with at least one shovel
+test. If ground truth testing showed a favorable depositional environment for buried sites,
+additional shovel tests would be performed.
+In high probability areas, where alluvium or colluvium could accumulate, buried sites are
+far more likely. For this reason, shovel testing was concentrated in these areas.
+However, streams within the project area typically exhibit erosion balanced by deposition
+and do not develop significant alluvium deposits or terraces. If initial shovel tests
+showed a poor depositional environment, fewer shovel tests than required under the
+minimum standards would be performed.
+Overall, the soils within the project area are clay soils that were formed during the
+Pleistocene or earlier and predate known human occupation of the region. These soils are
+stable to erosional and have a low probability of containing buried cultural deposits.
+Backhoe Testing
+Testing of areas that may contain deeply buried sites is required by the THC minimum
+Standards. Proposed locations of bridges or any other constructions that may impact
+alluvium deeper than 1 m would be tested with a minimum of one backhoe trench. The
+backhoe trenches would be approximately 4 m to 8 m long, 2 m wide and would be dug
+to the water table, bedrock, or the reach of the backhoe. Profiles would be examined,
+described, and photographed. Representative profiles would also be drawn and/or
+photographed.
+
+RESULTS
+Pedestrian Survey
+For the pedestrian survey and subsequent shovel testing, the project area was divided into
+four sections based on the locations of existing roads crossing the APE and geographic
+characteristics.
+
+15
+
+Section 1
+This portion of the APE begins at CR 110 and terminates at CR 118. The environment in
+this section is characterized by livestock pastures and recently plowed fields (Figure 3).
+Near the western terminus of the APE at CR 110, the ROW crosses an unnamed tributary
+of McNutt Creek (Figure 3). The Creek, which was not flowing during the survey,
+contains insignificant alluvial deposits. Approximately 1.17 km east of CR 110, a small
+stock tank is located within the ROW (Figure 4). The tank has been partially filled with
+refuse, including modern household garbage, brush, fence posts, and a variety of
+construction materials. Several mature hackberry trees are rooted in the tank’s banks,
+indicating that the tank is not a recent construction. A small scatter of bricks is located
+2–3 m east of the dam’s eastern bank. The bricks are marked “Mexia” and may have
+originated from a cistern or well in the area.
+Approximately 1.26 km east of CR 110 (~90 m east of the stock tank), the ROW crosses
+site 41WM1097, an early to mid-twentieth century house site. The site is located at the
+crest of a ridge in a large cow pasture. At 850 ft. AMSL, the site is located at the highest
+elevation within the project area. The site appears to be confined to a low rise on the
+ridge top and is bound to the east by a row of hackberry trees that mark an old fence row.
+A single hackberry tree that is located at the southern boundary of the ROW, southwest
+of the fence row, may mark the approximate location of a house. The bulk of the
+surficial artifacts are concentrated around this single hackberry.
+A modern house site is located roughly 144 m south of the APE and site 41WM1097.
+The site is comprised of an extant metal outbuilding/garage and the visible footprint of a
+house. The footprint contains exposed plumbing, a cistern or septic tank, and a surficial
+scatter of modern household artifacts. The house and outbuilding are not present on a
+1985 USGS topographic map of the area, but are present on a 2000 aerial photograph.
+The house may have burned or been razed sometime between 1985 and 2000. Because
+the site is located outside the ROW, further investigation is prohibited. It is unclear
+whether site 41WM1097 and the modern house site are associated.
+The portion of the APE between site 41WM1097 and CR 118 crosses recently plowed
+fields (Figure 4). Surface visibility in the plowed field is excellent due to the lack of
+ground cover. No cultural materials were observed in this portion of Section 1.
+No cultural materials were collected in Section 1.
+Section 2
+This portion of the APE begins at CR 118 and terminates at CR 100. The easternmost
+portion of this section crosses a large cow pasture that appears to have been regularly
+plowed in the past. An unnamed tributary of Cottonwood Creek crosses the ROW
+approximately 250 m east of CR 118. The tributary, which was not flowing during the
+survey, contains insignificant alluvial deposits. A small shotgun-style house is located
+approximately 150 m north of the ROW (Figure 5). The building appears to be an early
+twentieth century tenant farmer’s residence. Approximately 180 m north of the ROW
+and directly east of the shotgun house, a cluster of outbuildings mark the nucleus of a
+16
+
+Figure 3. Top-Intermittent tributary of McNutt Creek immediately west of CR 110.
+Bottom-View east along ROW centerline showing cultivated field.
+
+17
+
+Figure 4. Top-Livestock tank with modern refuse (likely associated with site
+41WM1097). Bottom-View east along ROW centerline showing plowed field west of
+CR 118 (CR 118 is in background).
+18
+
+historic farmstead site. There may have been an older home near the outbuildings (a twohole privy was observed near the outbuildings when accessing the ROW), but the site is
+now occupied by a modern, pre-manufactured home.
+The ROW ascends a ridge slope east of the Cottonwood Creek tributary. The area is
+comprised of horse and cow pastures, but has been routinely plowed in the past (e.g.,
+artificial terracing is evident along the contours of the ridge slope and shallow soils near
+the ridge summit have been disturbed to bedrock) (Figure 5).
+As the ROW descends the eastern ridge slope, artificial terracing is evident and bedrock
+fragments are ubiquitous on the surface. Approximately 1.2 km west of CR 118, an
+intermittent drainage crosses the ROW. Bedrock is exposed in the bed of channel. The
+drainage, which originates at a vacant farm complex located roughly 250 m north of the
+ROW, appears to be man-made or intentionally modified (Figure 6).
+The topography levels out roughly 125 m east of the drainage. This portion of the APE is
+located in a large, recently plowed field that was being cultivated during the survey
+(Figure 7). At the southern boundary of the plowed field, an east-west oriented, manmade canal crosses the ROW. South of the canal, the ROW crosses another recently
+plowed field (Figure 7).
+At the eastern terminus of Section 2, adjacent to CR 100, the ROW crosses site
+41WM1098. The site is an early twentieth century farm complex that is comprised of a
+house, barn, several outbuildings, a windmill, a well, and two tenant houses. The ROW
+cuts through the center of the site. The main house and five outbuildings are located
+north of the ROW, and the two tenant houses are located south of the ROW. The barn,
+windmill, well, and six outbuildings are located within the ROW. No cultural materials
+were collected in Section 2.
+Section 3
+This portion of the APE begins at CR 100 and terminates at FM 130. The section crosses
+routinely plowed fields, which were being cultivated during the survey (Figure 8).
+Approximately 540 m east of CR 100, the ROW crosses an intermittent drainage. The
+drainage, which was not flowing during the survey, contains insignificant alluvial
+deposits. East of the drainage, the ROW ascends a ridge between the Cottonwood Creek
+valley and the Mustang Creek valley. Near the crest of the ridge, a corral, livestock tank,
+and ruinous shed are located within the ROW (Figure 8). These features are modern
+constructions. No other features or artifacts were observed within the APE. East of the
+corral, the ROW crosses a recently plowed field bordered by a mobile home park to the
+south. The mobile home park extends for approximately 530 m along the southern edge
+of the ROW and terminates at CR 130. No cultural materials were collected in Section 3.
+Section 4
+Section 4 begins at CR 130 and terminates at FM 1660. The majority of Section 4 is
+comprised of recently plowed fields and cow pastures (Figure 9).
+
+19
+
+Figure 5. Top-View north from ROW showing shotgun house and intermittent drainage.
+Bottom-View west along ROW centerline showing bedrock fragments in routinely
+plowed field.
+20
+
+Figure 6. Top-Exposed bedrock in drainage channel. Bottom-Vacant farm complex north
+of APE (point of origin for the drainage channel)
+
+21
+
+Figure 7. Top-Active cultivation within APE. Bottom-View southeast along ROW
+centerline showing plowed field immediately west of CR 100 (CR 100 and site
+41WM1098 are in the background, a man-made canal is in the foreground).
+22
+
+Figure 8. Top-View southeast along ROW centerline showing recently plowed field east
+of CR 100. Bottom-Modern corral feature within the APE.
+
+23
+
+Midway between CR 130 and FM 1660, the ROW crosses Mustang Creek, which was
+flowing during the survey (Figure 9). The creek channel meanders through a narrow
+pasture that is bound to the east and west by recently plowed fields. The active creek
+channel is deeply entrenched, and a relic channel is located roughly 10 m east of the
+active channel. The cut banks of the active channel and shovel tests indicate that
+sediment deposition is balanced by erosion and that there are no significant alluvial
+deposits along the creek.
+East of Mustang creek, the ROW crosses a recently plowed field before terminating at
+FM 1660, roughly 1 km northeast of Mustang Creek. No cultural materials were
+observed or collected in Section 4.
+Newly Recorded Sites
+41WM1097
+Description:
+Site 41WM1097 is located on a ridge top in Section 1, midway between CR 110 and CR
+118. The site is comprised of a sparse artifact scatter that extends the full width (i.e., 200
+ft.) of the ROW (the scatter may extend beyond the northern and southern ROW
+boundaries) and approximately 187 ft. along the length of the ROW (northeast­
+southwest) (Figure 10). A dilapidated fence row marks the eastern boundary of the site
+(Figure 11). The western boundary of the site appears to correspond to a change in
+surface topography. The site is located on a low rise at the crest of the ridge. The rise
+may be the byproduct of years of plowing, which has contributed to the degradation of
+the surrounding surfaces, or a natural feature attributed to underlying bedrock shelves
+that stair-step down the ridge slope. Surface visibility at the site averages 45 percent.
+The bulk of the artifacts are located at the base of a lone hackberry tree at the southern
+edge of the ROW (Figure 11). The vegetation in this area is sparse, suggesting that this
+may be the footprint of a building (Figure 12). The fence row at the eastern boundary of
+the site is marked by a row of hackberry trees that is oriented roughly north-south. A
+cedar fence post leans against the trunk of each tree (Figure 12). Some of these fence
+posts have embedded machine-cut square nails. A second fence row is located
+approximately 100 ft. northwest of first fence row. Three of the trees in this fence row
+have been blown down. No additional features were observed at the site.
+Aerial photographs, USGS topographic maps, and site survey sketch maps suggest that
+the site is approximately 1.25 acres (roughly the area of the low rise).
+Cultural Materials Collected/Observed:
+Artifacts include glass container fragments, window pane sherds, unidentified metal
+fragments, rubber shoe soles, a dry cell battery core, crushed enameled pots, wire nails,
+wood screws, wire fragments, whiteware sherds, and one machine-cut square nail
+fragment. The bulk of the artifacts suggest an early to mid-twentieth century occupation.
+The machine-cut square nail is the only artifact that can be dated to the nineteenth
+24
+
+Figure 9. Top-View west along ROW centerline showing plowed fields east of CR 130.
+Bottom-View of Mustang Creek channel facing south.
+
+25
+
+Figure 10. Survey map of 41WM1097 showing location of ROW, approximate site
+boundaries, and shovel test locations.
+
+26
+
+Figure 11. Top-View of site 41WM1097 facing northwest with lone hackberry tree in
+foreground and old fence row in background. Bottom-View of old fence row facing
+south.
+27
+
+Figure 12. Top-Ground visibility near lone hackberry tree (note: arrows indicate glass
+fragments). Bottom-Cedar fence post and hackberry tree marking eastern fence row.
+
+28
+
+century. It is possible that the nail or a board with the embedded nail was recycled from
+another site.
+Assessment:
+The site appears to be an early to mid-twentieth century house site, probably a tenant
+farmer’s residence. The small building footprint (i.e., the area of the artifact scatter near
+the lone hackberry) suggests a shotgun-style house, probably one very similar to extant
+tenant buildings in the project area. It is very likely that the site is associated with early
+twentieth century cotton farming and is probably representative of many of the early
+twentieth century farming sites surrounding the project area.
+A main farm house was likely located where a grove of hackberries now stands south of
+the ROW, approximately 275 m southwest of site 41WM1097. A surface inspection near
+the grove revealed amethyst (manganese-tinted) glass fragments, which suggest a late
+nineteenth to early twentieth century occupation. A 1985 USGS topographic map does
+not show any buildings at that location, but a 2000 aerial photograph shows what appears
+to be a house and an outbuilding ~90 m and ~50 m, respectively, north of the grove. The
+outbuilding is still present. The house is not. According to the USGS topographic map
+and the aerial photograph, the house and outbuilding were constructed sometime after
+1985, and the house was razed or burned sometime between 1985 and the present. A
+surface inspection of the house site revealed a scatter of modern domestic artifacts,
+exposed plumbing on the surface, and partially exposed cistern or septic tank. Since the
+house site and outbuilding are located outside the ROW, further investigation is
+prohibited.
+Site 41WM1097 appears to have been significantly disturbed by land clearing and routine
+plowing. The surface of the site appears to have been scraped, perhaps when the building
+was razed. A large push pile located approximately 68 m northeast of the lone hackberry
+may be the surface layer that was removed from the site. Investigation of the push pile
+for artifacts was unsuccessful due to a large prickly pear cactus growing on the pile. In
+addition to the land clearing, the area appears to have been regularly plowed.
+No clear pattern of artifact distribution or cultural stratification is apparent. The cultural
+deposits are very shallow and mixed or mixed and resting on the surface. The diagnostic
+artifacts can be dated to the early and mid-twentieth century. Only one artifact, a
+machine-cut square nail fragment, can be dated to the late nineteenth century. The square
+nail however is not a clear diagnostic because it may be a recycled item.
+Due to poor site integrity and lack of significant data, site 41WM1097 is not eligible for
+nomination to the NHRP or as a SAL and does not warrant further investigation.
+41WM1098
+Description:
+Site 41WM1098 is located in Section 2, adjacent to CR 100. The site is an early
+twentieth century farm complex comprised of farm outbuildings and farm-related
+structures, a house, and two tenant houses. The house and five of the outbuildings are
+29
+
+located north of the proposed ROW. The two tenant houses are located south of the
+proposed ROW. The ROW cuts through the western and central portion of the site
+(Figures 13 and 14). An early twentieth century barn, a well, a windmill, and six
+outbuildings are located within the ROW.
+The site is L-shaped with one arm extending southwestward from CR 100 and
+terminating at an unnamed tributary of Cottonwood Creek. The other arm extends
+southeastward, paralleling the unnamed tributary and terminating at Cottonwood Creek.
+The main portion of the site is located in the northern arm that extends from CR 100.
+The southern arm is a narrow pasture connecting the main portion of the site with the two
+tenant houses along Cottonwood Creek. The total area of the site, including both arms, is
+approximately 4.5 acres.
+There are 22 features at site 41WM1098. Thirteen of these features are located within the
+Chandler Road ROW (Figures 13).
+Features within the ROW
+Feature 2
+Feature 2 is a small, dilapidated pole shed located adjacent to a fence row at the northern
+boundary of the site (Feature 15). The shed measures roughly 6 ft. (north-south) x 10 ft.
+(east-west) x 5 ft. tall and is constructed of small-diameter cedar logs that support a roof
+framed with 2 x 4 dimensional boards and covered with corrugated sheet metal. The shed
+has no walls and apparently functions as a cover for two livestock watering troughs (i.e.,
+a cast iron bathtub and a large-diameter metal pipe with poured concrete floor).
+Feature 3
+Feature 3 is a small outbuilding located approximately 43 ft. southeast of Feature 2
+(Figure 15). The shed measures approximately 8 ft. (northeast-southwest) x 9 ft.
+(northwest-southeast) and is approximately 8 ft. tall. The shed has board-and-batten
+siding and corrugated sheet metal roofing. Corrugated sheet metal also covers the eastern
+and the northern walls of the building. The building is framed with 2 x 4 dimensional
+boards and has wire nails throughout. A door is located in the southern wall. The door is
+attached to the building with cast iron strap hinges and is latched with a horseshoe placed
+through a hasp. The building may have functioned as a storage shed for livestock feed or
+supplies. It does not appear to be currently used.
+
+30
+
+Figure 13. Survey map of 41WM1098 showing location of ROW and features within and
+near the APE.
+31
+
+Figure 14. Survey map of 41WM1098 showing location of ROW, shovel tests, and
+features outside the APE.
+32
+
+Feature 4
+Feature 4 consists of a windmill (4a) and well (4b) located approximately 56 ft. 6 in.
+northeast of Feature 3 (Figure 16). The windmill straddles a brick-lined well and a fence
+row located adjacent to the well. The fence row marks the approximate northern
+boundary of the site. The windmill is an all metal construction and has a fully encased
+gear box. The windmill vane is marked “The Wonder Model B” and “Made at Elgin Ill.”
+The base of the windmill stand measures approximately 6 ft. x 6 ft., and the windmill is
+approximately 30 ft. tall and has ~6 ft. diameter blades. The windmill pumps water from
+the well for livestock. A subsurface pipe leads from the windmill to what may be a water
+tank tower near the main barn. Sections of the pipe are exposed on the surface and have
+rusted through.
+Feature 5
+Feature 5 is small outbuilding at the southern edge of the site, immediately south of the
+main barn. The shed is constructed of cedar log and hand-hewn timber uprights and 2 x 4
+cross members and rafters. The roofing and siding are corrugated sheet metal. The
+southern wall of the shed is open. The building measures approximately 16 ft. 6 in. x 14
+ft. x 6 ft. 6 in. tall. The building may have been a shelter for livestock. At least one of
+the upright timbers appears to have been recycled from another building or structure. It is
+a hand-hewn timber with embedded machine-cut square nails and hand-cut mortises
+(Figure 17). The other uprights are unhewn cedar logs.
+Feature 6
+Feature 6 is a wooden platform on four splayed wooden legs (Figure 17). It is located
+approximately 6 ft. southwest of the barn. The platform legs are unhewn logs that have
+been reinforced by 2 x 6 diagonal cross members. The platform is constructed of 4 x 6
+boards laid side-by-side. A subsurface pipe originating at the well and windmill appears
+to terminate near the platform. The associated pipe suggests that the platform may have
+supported a water tank. No water tank or evidence of a water tank was found.
+Feature 7
+Feature 7 is a fenced enclosure or corral that measures approximately 72 ft. 6 in.
+(southeast-northwest) x 322 ft. 6 in. (northeast-southwest). Feature 7 encompasses
+Features 1–6.
+Feature 8
+Feature 8 is small fenced enclosure or corral that measures approximately 37 ft. 6 in.
+(southeast-northwest) x 45 ft. (northeast-southwest). This enclosure is located adjacent to
+the main barn, on the southwestern side of the barn.
+
+33
+
+Feature 9
+Feature 9 is a small fenced enclosure or corral that measures approximately 30 ft.
+(southeast-northwest) x 50 ft. (northeast-southwest). This enclosure is located adjacent to
+the main barn, on the southeastern side of the barn.
+Feature 10
+Feature 10 is a large, front-gable barn located at the center of the site. The barn, which
+measures approximately 41 ft. 9 in. (southeast-northwest) x 97 ft. (northeast-southwest),
+is completely clad in corrugated sheet metal (Figure 18). Close inspection of the building
+revealed the original board-and-batten siding preserved under the corrugated sheet metal
+siding. A large section of the original siding is exposed on the southeastern side of the
+barn under a later shed-roof addition (Figure 19). The siding retains much of the original
+red barn paint. Many of the original architectural elements remain (e.g., intact trim,
+doors, stalls, loft access doors, and loft ladders).
+The interior of the barn is divided by a center passageway (Figure 19). Various storage
+rooms are located north of the passageway. Animal stalls and feed troughs are located
+south of the passageway. Some of the timber posts supporting the loft along the
+passageway have embedded square nails and appear to be hand-hewn (Figure 20). A few
+of the storage room doors also have embedded square nails. The majority of the building
+however contains wire nails (e.g., the board-and-batten siding and many of the interior
+framing elements are fastened by wire nails). It is likely that some of the older interior
+elements have been recycled from another location(s).
+The barn has at least three later additions. These include two, front-gable, pole-barn
+additions on the southwestern side of the barn and a shed-roof addition on the
+southeastern side of the barn. The two pole-barn additions may have been separate
+outbuildings at one time that were subsequently connected to the barn by the addition of
+common roof. The roofed space between the pole-shed additions and the main barn
+functions as a garage for a small tractor. The original southwestern wall of the barn is
+visible within this garage (Figure 20).
+The shed-roof addition on the southeastern side of the barn extends into Feature 9, a
+fenced enclosure on the southeastern side of the barn. The shed-roof addition may have
+been added to garage farm machinery or shelter livestock.
+Feature 11
+Feature 11 is a small outbuilding located approximately 36 ft. 7 in. northeast of Feature 9
+(the corral southeast of barn) (Figure 21). The building measures roughly 10 ft.
+(northwest-southeast) x 11 ft. (southwest-northeast) and is approximately 7 ft. 6 in. tall.
+It appears to be a chicken coop and incubator. The building has a shed roof and is clad
+entirely with corrugated sheet metal. The building has two openings, one in the lower
+left corner of southeastern wall and one in the lower right corner of northeastern wall.
+Screens have been placed over these openings. A door is also located at the corner of the
+southeastern wall. The building has been wired for electricity and contains an empty
+34
+
+light socket. A table is located under the light socket. A small enclosure fenced with
+chicken wire is located south of the building. This enclosure appears to be a chicken run.
+Feature 12
+Feature 12 is similar to Feature 11 but has an end-gable roof, a large screened opening in
+the southeastern wall, and a narrow door in the northeastern wall (Figure 21). The
+building measures approximately 12 ft. (northwest-southeast) x 10 ft. (southwest­
+northeast) and is roughly 11–12 ft. tall. The building is clad completely in corrugated
+sheet metal and is connected to the fenced “chicken run.” Roosting perches are still in
+place within the building.
+Feature 13
+Feature 13 is a small outbuilding located approximately 13 ft. northwest of the two
+chicken coops (Features 11 and 12). The building measures 6 ft. (east-west) x 8 ft.
+(north-south) and is approximately 4 ft. tall. It has a front-gable roof and corrugated
+sheet metal roofing. The siding consists of vertical wood planks covered with remnants
+of asphalt shingles. The building has been wired for electricity and has a single light
+socket. The building also has a wooden floor. Due to the proximity of two chicken
+coops and the presence of a light socket in the building, Feature 13 is most likely
+associated with poultry and/or egg production.
+Feature 22
+Feature 22 is a concrete bridge or low water crossing that crosses the intermittent
+drainage at the eastern edge of site 41WM1098. The bridge measures approximately 10
+ft. wide (northeast-southwest) x 20 ft. (northwest-southeast). Erosion has undermined the
+bridge causing it to sink considerably. A large eroded hole is located at southern edge of
+bridge.
+Features outside the ROW
+Feature 1
+Feature 1 is comprised of two ruinous livestock troughs (Feature 1a and Feature 1b)
+(Figure 21). Each trough is constructed of large log piers set in in the ground. Plank
+boards are fixed to the piers to form two rectangular boxes, each measuring
+approximately 3 ft. 6 in. wide x 9 ft. 6 in.–10 ft. long x ~3 ft. tall. The two troughs are
+oriented roughly northwest-southeast and are aligned end to end, 13 ft. apart.
+Feature 14
+Feature 14 is a pole shed located approximately 31 ft. 6 in. northeast of the main barn.
+The building measures approximately 20 ft. x 20 ft. and is currently used to store farm
+machinery. The end-gable building is clad entirely with corrugated sheet metal. The
+southern side of the building is completely open. Feature 14 appears to a more recent
+construction.
+35
+
+Feature 15
+Feature 15 is an end-gable pole shed located approximately 6 ft. 5 in. northeast of Feature
+14. The shed is similar to Feature 14 and appears to be a more recent construction. The
+building measures roughly 16 ft. 8 in. (north-south) x 36 ft. 6 in. (east-west) and is
+completely clad with corrugated sheet metal, except for the western wall, which has
+white board-and-batten siding. The southern wall of the building is completely open.
+Dimensional lumber and wire nails were used throughout, and some of the interior boards
+appear to have been recycled (i.e., traces of white paint on interior boards). Feature 15 is
+currently for farm machinery storage.
+Feature 16
+Feature 16 is the main house (Figure 22). It is a ca. 1910 cottage with hipped roof, white
+ship-lap siding, and asphalt shingles. Five columns at the front entrance rest on a low
+wall that encloses an inset porch and is an extension of a battered skirt that extends
+around the base of the building. According to the current tenant, Tim Krueger, the
+building had a rear porch, but it was closed in some years ago. The building also had two
+interior chimneys, but they were removed during past renovations (personal
+communication 2004).
+The house, which appears to rest on a pier and beam foundation, has severe settling
+problems. The northeastern corner of the building has settled significantly lower than the
+rest of the building. The clapboard skirting around the foundation has buckled, and the
+southern wall and roof line has shifted considerably. The windows in the southern wall
+are no longer aligned.
+Feature 17
+Feature 17 is a large outbuilding associated with the house (Figure 23). The building has
+front gables, corrugated sheet metal roofing, white board-and-batten siding, and exposed
+rafter ends. A door and single window are located in the northern (front) wall. The
+building appears to be contemporaneous with the house and may be a workshop or
+garage.
+Feature 18
+Feature 18 is a small, front-gable outbuilding located behind the main house (Figure 23).
+The building has board-and-batten siding and asphalt shingles and has been painted white
+to match the house. A door is located in the eastern wall. A shed addition is located on
+the southern side of the building. The addition has two windows in the southern wall and
+a narrow door in the eastern wall. This building may have been a privy that was later
+converted to a storage shed.
+Feature 19
+Feature 19 is a small corrugated metal outbuilding with shed roof. The construction
+appears to be very recent and may be a storage building or pump house for a well.
+36
+
+Feature 10
+
+Feature 5
+
+Figure 15. Top-View of Feature 2 facing east-northeast with Features 5 and 10 in the
+background. Bottom-View of Feature 3 facing north-northwest.
+
+37
+
+Figure 16. Top-View of windmill (Feature 4a) facing east. Bottom-Well (Feature 4b) at
+site 41WM1098.
+38
+
+Figure 17. Top-Hand-hewn timber upright with hand-cut mortise in Feature 5. BottomView of Feature 6 (wooden platform) facing west-northwest.
+
+39
+
+Figure 18. Top-Front of Feature 10 (Barn) facing west. Bottom-Rear of Feature 10
+(Barn) facing east-northeast.
+
+40
+
+Figure 19. Top-Original siding under shed-roof addition on southern wall (Note the red
+barn paint and livestock stalls). Bottom-View east along center passage with livestock
+stalls to right and storage rooms to left.
+41
+
+Figure 20. Top-Timber upright with embedded square nails. Bottom-Original siding
+under roofed addition on western (rear) wall of barn (Note the loft ladder and red barn
+paint).
+42
+
+Feature 12
+Feature 11
+Feature 14
+
+Feature 15
+
+Feature 22
+
+Intermittent Drainage
+
+Figure 21. Top-View of Features 11 and 12 facing north with Features 14 and 15 in the
+background. Bottom-View of Feature 1 facing north with Feature 22 (concrete low-water
+crossing) in the background and intermittent drainage to the left.
+43
+
+Figure 22. Top-View of Feature 16 (house) facing west. Bottom-View of Feature 16
+(house) facing northeast.
+
+44
+
+Figure 23. Top-View of Feature 17 facing east. Bottom-View of Feature 18 facing north.
+
+45
+
+Feature 20
+Feature 20 is small front-gable building located south of the ROW, near Cottonwood
+Creek (Figure 24). The building appears to have board-and-batten siding and corrugated
+sheet metal roofing. According to Tim Krueger (personal communication 2004), the
+building was a “hand house” occupied by tenant farmers during cotton season. The
+building is located at the edge of a plowed field and does not appear to be currently used.
+Feature 21
+Feature 21 is another tenant house located south of the ROW, near Cottonwood Creek
+(Figure 24). The building has a hipped roof and appears to be an L-shaped plan. It
+appears to have board-and-batten siding and corrugated sheet metal roofing. The
+building is located in a plowed field and does not appear to be currently used.
+Cultural Materials Collected/Observed:
+Cultural materials that were observed at the site include wire nails, barbed wire fencing,
+an amethyst glass container finish fragment, a 1933 license plate, and various twentieth
+century farm machinery and farm-related equipment. Shovel tests conducted at the site
+uncovered wire nails and fragments of tie wire.
+The majority of the artifacts at site 41WM1098 are twentieth century items. The only
+artifact that could clearly be a nineteenth century item is the amethyst glass container
+finish fragment (Figure 24). The fragment comes from a blown-in-mold bottle with a
+tooled finish. The amethyst color is produced by the solarization of manganese in the
+glass. Manganese was added to glass as a bleaching agent between ca.1885 and 1917.
+Assessment:
+The site is an early twentieth century farm complex that appears to be associated with
+cotton production. According to Tim Krueger, who is the current tenant (personal
+communication 2004), the main house was constructed in ca. 1910 by a bachelor farmer,
+and the two houses south of the site were occupied by farm hands during cotton season.
+Krueger states that the main barn is for the most part intact, except for the corrugated
+siding and roofing, which replaced the original wood shingles. The interior of the barn
+has not been modified. The stalls, troughs, and storage rooms are all original. The house
+has been slightly modified. The rear porch has been closed in, a bathroom was added,
+and two interior chimneys were removed. The remainder of the house appears to be
+original (see Addendum for detailed site history).
+Shovel tests results indicate sparse cultural deposits within the ROW. Artifacts are more
+likely to be found in the vicinity of the house, outside the ROW.
+Site 41WM1098 is representative of early twentieth century agriculture, specifically
+cotton farming, prior to mechanization in south-central Williamson County. For this
+reason, the site is potentially eligible for nomination to the NRHP under Criterion A. The
+site is also potentially eligible under Criteria C and D. The site displays a high degree of
+integrity and significant characteristics of a class of architecture (e.g., early twentieth
+46
+
+Feature 21
+
+Feature 20
+
+Figure 24. Top-Features 20 and 21 south of the APE. Bottom-Amethyst-tinted glass
+container finish fragment located near Feature 10 (barn).
+
+47
+
+century farm design), and the site may contain significant data relating to cotton farming
+practices and farm landscape design in the early twentieth century. With an extant house,
+outbuildings, tenant houses, and farm-related structures, the site provides an opportunity
+to study past farming techniques, such as using seasonal help and draft animals, and
+patterns in farm complex design and agricultural implementation on the eve of fully
+mechanized farming.
+Shovel Test Results
+A total of 38 shovel tests were executed within the Chandler Road ROW. Of the 38
+shovel tests, 7 were executed at site 41WM1097 and 6 were executed at site 41WM1098.
+Section 1
+Shovel Tests 15–25 and 32–38 were executed in Section 1.
+Shovel Test 15 was executed at the edge of a large pasture. The shovel test profile
+contains dark gray clay at 0–23 cmbs, underlain by dark gray clay with light gray mottles
+to a depth of 57 cmbs. The upper 23 cmbs appears to be a plow zone. The shovel test
+was sterile.
+Shovel Tests 16–25 were executed at site 41WM1097, a historic homestead site. Shovel
+Test 16 was executed near the center of the ROW, between two dilapidated fence rows.
+It contains dark brown silty clay loam and many angular limestone fragments. Degrading
+bedrock was exposed at 10 cmbs. One wire nail was uncovered at 0–10 cmbs. No other
+artifacts were observed or collected.
+Shovel Test 17 was executed near a dilapidated fence row, at the eastern site boundary.
+The shovel test contains light grayish brown silty clay loam to a depth of 20 cmbs. This
+level appears to be a plow zone. One wire fragment, 1 clear glass fragment, 1 amber
+glass fragment, and 4 unidentified, corroded metal flakes were found at 0–20 cmbs. At
+20–40 cmbs, the shovel test contains degrading bedrock and mottled white, yellow, and
+light brown chalky clay. No artifacts were observed in Level 2.
+Shovel Test 18 was executed at the southern boundary of the ROW, approximately 5 m
+south of a lone hackberry tree that marks a surficial artifact scatter. The shovel test was
+executed at the edge of a shallow depression that appeared to be cultural feature.
+Numerous window pane sherds and bottle glass fragments were observed on the surface
+near the depression. The soil profile in ST 18 contains dark brown silty clay loam with
+common limestone fragments at 0–12 cmbs. Three clear glass fragments, 1 unidentified,
+corroded metal flake, 1 wire nail, and 1 small coal fragment were found at 0–12 cmbs.
+At 12 cmbs, degrading, fractured bedrock was exposed. The shallow depression appears
+to be a natural formation, the byproduct of a fractured substrate.
+One machine-cut square nail fragment was found on the surface at the edge of the shovel
+test. The nail fragment may indicate a late nineteenth or early twentieth century
+occupation or that some of the building materials were recycled from an older site.
+Nearby fence posts also have embedded machine-cut square nails. No other square nails
+were found at the site.
+48
+
+Figure 25.
+locations.
+
+USGS topographic map showing APE, disturbed areas, and shovel test
+49
+
+Shovel Test 19 (Figure 26) was executed west of the lone hackberry, near the center line
+of the ROW. The shovel test contains dark grayish brown clay loam with many
+subangular to angular limestone fragments. Degrading bedrock was exposed at 10 cmbs.
+Artifacts observed in ST 19 include 1 wire finishing nail, 1 bolt with nut, 2 wood screws
+(1 slotted, 1 Philips head), 1 tie wire fragment, 1 amber glass fragment, 1 clear glass
+fragment, 1 unidentified, corroded metal fragment, and 1 aluminum, angled plate
+fragment. The aluminum fragment suggests a post-World War II occupation.
+Shovel Test 20 (Figure 26) was executed near the northern fence row, at the northern
+ROW boundary. At 0–15 cmbs, the shovel test contains dark grayish brown clay loam
+and common, angular to subangular, limestone pebbles. Artifacts include 1 unidentified
+metal plate, 2 small-diameter, metal pipe fragments, 7 tie wire fragments, 1 barbed wire
+barb (flat-type), 1 fencing staple, 1 clear glass fragment, and 5 wire nails. At 15–27
+cmbs, the shovel test contains many degrading bedrock fragments. Degrading bedrock
+was exposed at 27 cmbs. One tie wire fragment was found in Level 2.
+Shovel Test 21 was executed near the center line of the ROW, at the eastern edge of the
+site. The shovel test contains grayish brown clay loam at 0–12 cmbs. This appears to be
+a plow zone. At 12–22 cmbs, the shovel test contains degrading, chalky bedrock with
+pockets of grayish brown clay loam. No artifacts were observed in ST 21.
+Shovel Test 22 was executed near the center line of the ROW, at the western edge of the
+site. The shovel test contains grayish brown clay loam with many degrading bedrock
+fragments. Bedrock was exposed at 18 cmbs. No artifacts were observed.
+Shovel Test 23 (Figure 27) was executed immediately east of a stock tank, east of site
+41WM1097. At 0–30 cmbs, the shovel test contains grayish brown clay loam that
+becomes more clayey with depth. This level appears to be a plow zone. At 30–39 cmbs,
+the shovel test contains grayish brown and light brown mottled clay loam. The matrix is
+very compacted at 39 cmbs. No artifacts were observed in ST 23.
+Shovel Tests 24, 25, and 32–34 were executed in a large pasture east of the stock tank.
+Shovel Test 24 contains dark grayish brown clay loam and many limestone flecks and
+small angular limestone pebbles at 0–22 cmbs. This level appears to be a plow zone. At
+22–30 cmbs, bedrock was exposed. No artifacts were observed in ST 24. Shovel Test 25
+(Figure 27) contains light gray silty clay and many limestone flecks and chalky
+inclusions. The high limestone content appears to be the result of plowing. Plowing has
+disturbed the underlying bedrock, bringing many bedrock fragments to the surface and
+mixing fragments in the surface layer. At 15–20 cmbs, soft chalky bedrock was exposed.
+No cultural materials were observed in ST 25.
+Shovel Tests 32–34 were executed in a large pasture east of site 41WM1097. Shovel
+Test 32 contains dark gray clay and many limestone flecks at 0–15 cmbs. This level
+appears to be a plow zone. At 15–40 cmbs, the shovel test contains dark gray clay that
+becomes slightly browner with depth. There are fewer flecks than Level 1, and the
+matrix is more compacted. Shovel Test 33 contains dark gray clay and many degrading
+
+50
+
+Figure 26. Top-ST 19 at 41WM1097. Bottom-ST 20 at 41WM1097.
+
+51
+
+Figure 27. Top-ST 23. Bottom-ST 25.
+
+52
+
+limestone fragments and flecks. Degrading bedrock was exposed at 16 cmbs. Shovel
+Test 34 contains dark gray clay at 0–20 cmbs. At 20–40 cmbs, the matrix contains light
+gray mottles that increase in number with depth. No cultural materials were observed in
+ST’s 32–34.
+Shovel Tests 35–38 were executed along an intermittent drainage and in agricultural field
+at the western terminus of the APE. Shovel Test 35 was conducted approximately 20 m
+east of CR 110 and 60 m north of the intermittent drainage. The shovel test contains dark
+gray, sticky clay to 56 cmbs. Limestone flecks were observed at 0–30 cmbs. Shovel Test
+36 (Figure 28) was executed on the left bank of the intermittent drainage, approximately
+8 m south of the drainage channel. The shovel test contains light grayish brown loamy
+clay at 0–10 cmbs and dark gray clay at 10–50 cmbs. The dark gray clay contains
+common limestone flecks and few buff mottles at 50 cmbs. No significant alluvial
+deposits were found in ST 36. Shovel Tests 37 and 38 were conducted in a routinely
+plowed field east of the drainage. Shovel Test 37 (Figure 28) was executed on a ridge
+slope. It contains light gray silty clay with many limestone flecks and pebbles.
+Degrading bedrock was exposed at 10 cmbs. Shovel Test 38 was executed on the ridge
+top. It contains dark gray silty clay at 0–52 cmbs. The matrix is damp and sticky and
+becomes lighter gray with depth. A few well rounded chert pebbles were observed at 50–
+52 cmbs.
+Section 2
+Shovel Tests 3–12 and 26–31 were executed in Section 2.
+Shovel Tests 3–5 were executed in a pasture on a ridge slope. Shovel Test 3 (Figure 29)
+contains reddish brown silty clay loam and common degrading limestone fragments at 0–
+20 cmbs. Chalky, degrading bedrock was exposed at 20–27 cmbs. No cultural materials
+were observed in ST 3. Shovel Test 4 contains reddish brown silty clay loam at 0–22
+cmbs and many degrading limestone fragments. Degrading bedrock was exposed at 22
+cmbs. No cultural materials were observed in ST 4. ST 5 contains sticky and compacted
+dark gray clay at 0–9 cmbs. This level appears to be a plow zone. At 9–52 cmbs, soil
+profile contains dark gray clay and many limestone flecks. The limestone flecks are
+concentrated primarily at 9–30 cmbs. The matrix is moist and sticky with darker gray
+clay mottles and veins. Light gray mottles are present at the bottom of level.
+Shovel Tests 6–8 were executed in a large pasture immediately east of CR 118. Shovel
+Test 6 (Figure 29) contains dark gray clay at 0–25 cmbs. This level appears to be a plow
+zone. At 25–38 cmbs, degrading bedrock was exposed. The bedrock is very soft with
+pockets of dark gray clay mixed with degrading bedrock fragments. No cultural
+materials were found in ST 6. Shovel Test 7 was executed near an unnamed tributary of
+Cottonwood Creek. The shovel test contains dark gray clay with some light gray mottles
+at 0–55 cmbs. The matrix grades to a lighter gray color with depth. No cultural materials
+or significant alluvium was found in ST 7. Shovel Test 8 contains dark grayish brown
+clay at 0–16 cmbs with many angular limestone pebbles. At 16–20 cmbs, degrading
+limestone bedrock was exposed.
+Shovel Tests 9–11 were executed in an agricultural field on a ridge slope. Evidence of
+routine contour plowing (e.g., artificial terraces, plow furrows) was observed along ridge
+53
+
+Figure 28. Top-ST 36 at unnamed tributary of McNutt Creek. Bottom-ST 37 on ridge
+slope east of ST 36.
+
+54
+
+slope. Shovel Test 9 (Figure 30) was executed near the crest of the ridge to confirm the
+presence of thin, disturbed soils. The shovel test contains brown silty clay and many
+limestone flecks and fragments at 0–16 cmbs. At 16–25 cmbs, soft, degraded limestone
+bedrock was exposed. No cultural materials were observed in ST 9. Shovel Test 10 was
+executed near an intermittent drainage that originates at a vacant farm complex north of
+the ROW. At 0–25 cmbs, the shovel test contains dark grayish brown clay with few
+limestone fragments. Light gray mottles are present at 20–25 cmbs. This level appears
+to be a plow zone. At 25–41 cmbs, the shovel test contains lighter gray clay. No cultural
+materials were observed in ST 10. Shovel Test 11 was executed near the toe of the ridge
+slope. At 0–35 cmbs, the shovel test contains dark gray clay that is very sticky and damp
+with brown mottles. Degrading bedrock was exposed at 0–35 cmbs. The ground in the
+area of ST 11 is saturated with water, and water pooled at the bottom of ST 11.
+Shovel Test 12 (Figure 30) was executed along a man-made canal separating two recently
+plowed and planted fields. The shovel test contains homogenous dark gray clay at 0–55
+cmbs. No cultural materials were observed.
+Shovel Tests 26–31 were executed at site 41WM1098, a historic farm complex located
+adjacent of CR 100. Shovel Test 26 was executed within a fenced enclosure/corral
+(Feature 7, see Site Description above) at the southwestern boundary of the ROW, near
+an intermittent tributary of Cottonwood Creek. At 0–26 cmbs, the shovel test contains
+dark brownish gray silty clay and very few subangular limestone pebbles. The matrix
+grades to a darker gray clay with depth. At 26–42 cmbs, the shovel test contains dark
+gray clay and many limestone flecks. The matrix grades to a lighter gray clay with depth.
+No cultural materials were found in ST 26.
+Shovel Test 27 was executed near a windmill and well at the northern boundary of the
+fenced enclosure (Feature 7). At 0–50 cmbs, the shovel test contains homogenous dark
+gray clay with many limestone flecks. One fragment of tie wire was found at 0–20 cmbs.
+No other cultural materials were observed. Shovel Test 28 (Figure 31) was executed
+along a fence at the southern boundary of the fenced enclosure (Feature 7). The shovel
+test contains dark brownish gray clay and common limestone flecks at 0–22 cmbs. At
+22–46 cmbs, the shovel test contains dark gray clay with light gray mottling and many
+limestone flecks. The matrix becomes lighter gray with depth. No cultural materials
+were observed in ST 28.
+Shovel Test 29 (Figure 31) was executed at the eastern edge of Feature 7, adjacent to the
+main barn (Feature 10) and a second fenced enclosure (Feature 8). The shovel test
+contains dark brown, humic clay at 0–13 cmbs (manure level). At 13–40 cmbs, the
+matrix is dark gray clay with many limestone flecks. The matrix grades to a lighter gray
+color with depth. At 20–40 cmbs, 1 wire nail and 6 wire fragments were observed. The
+artifact zone may have been the natural surface when the barn was constructed. The
+overlying burden appears to be comprised of manure and livestock bedding that has
+accumulated since the barn was constructed. At 40–51 cmbs, the shovel test contains
+very compacted dark gray clay and common limestone flecks and degrading limestone
+fragments. The matrix is this level is lighter in color than the previous level and
+corresponds to the dark gray clay found in ST’s 27 and 28. No cultural materials were
+found below 40 cmbs.
+55
+
+Figure 29. Top-ST 3. Bottom-ST 6
+
+56
+
+Figure 30. Top-ST 9. Bottom-ST 12
+
+57
+
+Figure 31. Top-ST 28 at 41WM1098. Bottom-ST 29 at 41WM1098.
+
+58
+
+Shovel Test 30 was executed approximately 3 m east of a third fenced enclosure (Feature
+9). The shovel contains dark gray clay at 0–28 cmbs. One wire nail fragment was found
+at 0–20 cmbs. At 28–43 cmbs, the shovel test contains dark grayish brown clay that
+becomes more brown (slightly yellow/olive) with depth and many limestone flecks. No
+cultural materials were observed below 20 cmbs.
+Shovel Test 31 was executed east of Feature 13, at the northeastern boundary of the
+ROW. The shovel test contains dark gray clay at 0–28 cmbs. One wire nail was found at
+0–20 cmbs. At 28–50 cmbs, the shovel test contains many limestone flecks and common
+degrading limestone fragments. The matrix becomes slightly browner with depth. No
+cultural materials were observed below 20 cmbs.
+Section 3
+Shovel Tests 1 and 2 were executed in Section 3. Shovel Test 1 (Figure 32) was executed
+near an intermittent drainage that bisects a large, recently plowed field. The shovel test
+contains dark gray clay at 0–44 cmbs. The upper 15 cmbs appears to be a plow zone. At
+44–58 cmbs, the shovel test contains dark grayish brown clay with light gray mottles. No
+cultural materials were observed in ST 1.
+Shovel Test 2 (Figure 32) was executed in a corral that is located near the center of the
+ROW. At 0–23 cmbs, the shovel test contains dark grayish brown clay. This level
+appears to be a plow zone. At 23–46 cmbs, the shovel test contains dark gray clay with
+few light gray mottles and subangular limestone pebbles. No cultural materials were
+observed in ST 2.
+Section 4
+Shovel Test 13 and 14 were executed in Section 4. Shovel Test 13 (Figure 33) was
+executed along a fence row that bisects the Chandler Road ROW. At 0–14 cmbs, the soil
+profile contains dark grayish brown clay and common subrounded chert and limestone
+pebbles. The matrix is very humic, with corn cob fragments and leaf litter comprising a
+majority of the matrix. At 14–36 cmbs, the shovel test contains dark gray clay with
+common chert and limestone pebbles. The matrix at this depth is very firm and sticky.
+The soil profile at 36–54 cmbs contains many chert and limestone pebbles and small
+cobbles. No cultural materials were found in ST 13.
+Shovel Test 14 (Figure 33) was executed at Mustang Creek. It contains homogenous
+dark gray clay at 0–62 cmbs. No cultural materials or significant alluvium was found in
+ST 14.
+Backhoe Trench Test Results
+The pedestrian survey and shovel test results revealed poor depositional environments, in
+which stream terrace development and the preservation of archaeological deposits were
+impeded by erosion. No alluvial deposits deeper than 1 m were located within the flood
+plain of Mustang Creek or the intermittent drainages. Therefore, backhoe trenching was
+not performed during the archaeological survey.
+59
+
+Figure 32. Top-ST 1. Bottom-ST 2.
+
+60
+
+Figure 33. Top-ST 13. Bottom-ST 14 at Mustang Creek.
+
+61
+
+CONCLUSIONS
+Results of the archaeological survey show that the majority of the APE has been
+thoroughly disturbed by routine contour plowing.
+There are three previously recorded archaeological sites located 1–2 km from the
+Chandler Road APE. The sites are early to mid-twentieth century house/dump sites. No
+previously recorded archaeological sites are located within or adjacent to the ROW.
+Two newly recorded sites, 41WM1097 and 41WM1098, were found to exist within the
+Chandler Road ROW. Site 41WM1097 is comprised of an artifact scatter and dilapidated
+fence row. The site appears to mark the location of an early to mid-twentieth century
+house, probably similar to extant shotgun-style houses near the project area. The site
+may have been the residence of a tenant family during the early part of the twentieth
+century. Shovel test results indicate that cultural deposits are shallow (≤20 cmbs) to
+surficial and appear to represent a single twentieth century component. The site has been
+heavily disturbed by plowing and grazing and may have been mechanically scraped. Due
+to poor site integrity and insignificant data, the site is not potentially eligible for
+nomination as a SAL or to the NRHP. The site represents a negligible cultural resource
+and does not warrant further investigation.
+Site 41WM1098 is a historic farm complex located adjacent to CR 100. The site is
+comprised of a ca. 1910 house, several outbuildings, a metal-clad barn, a windmill, a
+well, and two tenant houses. The main house, 5 of the outbuildings, and 2 tenant houses
+are located outside the ROW. The main barn, the windmill, the well, and 6 outbuildings
+are located within the ROW. The barn is the central element within the ROW. The barn
+retains its original board-and-batten siding and architectural details under a more recent
+sheet metal exterior. Red barn paint is still evident on the original siding. Stalls and
+troughs within the barn are intact and the doors and loft ladders are still in place. Except
+for the more recent sheet metal exterior, the barn is remarkably intact.
+Site 41WM1098 is representative of early twentieth century agriculture; specifically
+cotton farming, in Central Texas. The site displays a high degree of integrity and
+significant architectural characteristics to be potentially eligible for nomination to the
+NHRP and as a SAL. The site may also contain significant data relating to cotton
+farming practices and farm landscape design in the early twentieth century. With an
+extant house, outbuildings, tenant houses, and farm-related structures, the site provides an
+opportunity to study past farming techniques, such as using seasonal help and draft
+animals, and patterns in farm complex design and agricultural implementation in the
+early twentieth century.
+The ROW was shovel tested for buried cultural deposits and the presence of alluvial
+deposits. All shovel tests tested negative for prehistoric cultural materials and revealed
+poor depositional environments, in which the preservation of archaeological deposits
+were impeded by erosion and routine plowing. Due to routine plowing, the APE
+possesses minimal potential for intact archaeological sites. Five shovel tests executed at
+site 41WM1097 tested positive for historic artifacts, and four shovel tests executed at site
+41WM1098 tested positive for historic artifacts. The artifacts, which include numerous
+wire nails, are indicative of a twentieth century occupation.
+62
+
+Creeks and intermittent drainages within the APE are generally erosional or exhibit
+erosion balanced by deposition. Typically, this type of depositional environment does
+not result in significant alluvial deposition or terrace formation. Preservation of intact
+archaeological sites in this depositional environment is unlikely (USDA, SCS 1983). The
+creek and intermittent drainages within the APE was shovel tested for buried cultural
+deposits and the presence of alluvial deposits. None were found. Due to the shallow
+depth of alluvial deposits (<1 m), no backhoe trenches were excavated.
+
+RECOMMENDATIONS
+Due to severe disturbances and lack of significant data, site 41WM1097 does not warrant
+further investigation and is not potentially eligible for nomination as a SAL or to the
+NRHP.
+Site 41WM1098 may be potentially eligible for nomination as a SAL or to the NRHP
+under Criteria A, C, and D. Under Criterion A, the site is associated with cotton farming
+in Central Texas on the eve of agricultural mechanization, an important period in Texas
+history and in the evolution of agriculture. Under Criterion C, the site displays
+characteristics of class of architecture, particularly in the form of an early twentieth
+century rural residence, a remarkably preserved barn, several extant outbuildings, and
+two tenant houses. The barn has architectural details that are now rare in the region.
+Many of the barns of that period have been razed and replaced with modern buildings or
+are heavily dilapidated. Under Criterion D, the site may contain significant data relating
+to cotton farming practices prior to mechanization and patterns in early twentieth century
+farm landscape design. The extant tenant houses, associated outbuildings and features,
+and the main house provide a model for the study of similar sites.
+Because of the site’s potential NRHP and SAL eligibility, aci recommends that the
+ROW be shifted further north (approximately 950 ft.) to avoid the site and potential
+problems posed by the site. As it stands, the current ROW cannot be shifted further south
+or it will encroach on additional historic sites. If it is shifted north, the ROW will cross
+plowed fields. An architectural historian was consulted to address the architectural
+significance and history of the site and make further recommendations regarding the site
+(see Addendum).
+No further archaeological work is warranted for the remainder of Phase II of the Chandler
+Road Extension Project. It is aci’s recommendation that all parts of the Chandler Road
+APE be cleared for construction except site 41WM1098. If any cultural remains are
+encountered during construction, all work should cease, and an aci professional
+archaeologist should be called to assess the site. If the site is assessed to be significant,
+further consultation with the State Historic Preservation Officer should be pursued.
+
+63
+
+REFERENCES CITED
+Barnes, Virgil E.
+1974 Geological Atlas of Texas: Austin Sheet. Bureau of Economic Geology,
+University of Texas at Austin. Austin.
+Black, S. L.
+1989 Central Texas Plateau Prairie. In From the Gulf to the Rio Grande: Human
+Adaptation in Central, South, and Lower Pecos Texas, by T. R. Hester, S. L.
+Black, D. G. Steele, B. W. Olive, A. A. Fox, K. J. Reinhard, and L. C. Bement,
+pp. 17–38. Research Series No. 33. Arkansas Archeological Survey, Fayetteville
+Blair, W. F.
+1950 The Biotic Provinces of Texas. Texas Journal of Science 2(1): 93–117.
+City of Round Rock
+1998 “An ongoing History: Chronological History.” The Historic Round Rock
+Collection. City of Round Rock: Planning and Community Development.
+<http://www.ci.round-rock.tx.us/planning/rrcollection/chronology/
+chronology.html> [Accessed Wed Jan 8 13:54:08 US/Central 2003].
+Collins, Michael B.
+1995 Forty Years of Archeology in Central Texas. Bulletin of the Texas Archeological
+Society 66:361–400.
+1998 Wilson-Leonard: An 11,000-year Archaeological Record of Hunter-Gatherers
+in Central Texas. Studies in Archaeology 31. Texas Archaeological Research
+Laboratory, The University of Texas at Austin.
+Derry, Anne, Ward E. Jandl, Carol D. Shull, and Jan Thorman
+1985 Guidelines for Local Surveys: A Basis for Preservation Planning. National
+Register Bulletin 24, first issued 1977, revised 1985 by Patricia L. Parker,
+National Park Service, Washington, D. C.
+Garner, L. E., and K. P. Young
+1976 Environmental Geology of the Austin Area: An Aid to Urban Planning. Bureau
+of Economic Geology Report of Investigations No. 86. The University of Texas
+at Austin, Austin.
+Hester, Thomas R., Harry J. Shafer, and Kenneth L. Feder
+1997 Field Methods in Archaeology. Mayfield Publishing, Mountain View.
+Jelks, E. B.
+1962 The Kyle Site, a Stratified Central Texas Aspect Site in Hill County, Texas.
+Archeological Series 5. The University of Texas at Austin.
+Johnson, L., Jr., and G. T. Goode
+1994 A New Try at Dating and Characterizing Holocene Climates, as well as
+Archeological Periods, on the Edwards Plateau. Bulletin of the Texas
+64
+
+Archeological Society 65:1–51
+King, T. F.
+1977 The Archaeological Survey: Methods and Usage. Heritage Conservation
+and Recreation Service, U. S. Department of the Interior, Washington
+D. C.
+Luke, C. J.
+1980 Continuing Archaeology on State Highway 16: The Shep Site (41KR109)
+and the Wounded Eye Site (41KR107). Publications in Archaeology 19. State
+Department of Highways and Public Transportation, Austin.
+Meltzer, D. J.
+1993 Is There a Clovis Adaptation? In From Kostenki to Clovis, edited by O. Soffer
+and N. D. Praslov, pp. 293–310. Plenium, New York.
+Nash, Sean R., RPA, Gregory D. Staples, and Martha Doty Freeman.
+2002 Cultural Resource Survey of the Parmer Lane Extension Project, FM 1431–FM
+2243, Williamson County, Texas. Reports of Investigations, Number 13.
+Archaeological and Cultural Sciences Group. Austin, Texas.
+Odintz, Mark
+2002a "Williamson County." The Handbook of Texas Online.
+<http://www.tsha.utexas.edu/handbook/online/articles/view/WW/hcw11.html>
+[Accessed Wed Jan 8 13:19:55 US/Central 2003].
+2002b "Hutto, TX." The Handbook of Texas Online.
+<http://www.tsha.utexas.edu/handbook/online/articles/view/WW/hcw11.html>
+[Accessed Wed Oct 15 13:19:55 US/Central 2003].
+Prewit, E. R.
+1974 Archeological Investigations at the Loeve-Fox Site, Williamson County, Texas.
+Research Report 49. Texas Archeological Survey, The University of Texas at
+Austin.
+1981 Cultural Chronology in Central Texas. Bulletin of the Texas Archeological
+Society 52:65–89.
+Redder, A. J.
+1985 Horn Shelter Number 2: The South End, a Preliminary Report. Central Texas
+Archeologist 10:38–65.
+Scarbrough, Clara Stearns
+1973 Land of Good Water: A Williamson County History. Williamson County Sun
+Publishers, Georgetown, Texas.
+Texas Parks and Wildlife
+1996 “Nature and the Environment – Texas Natural Regions.”
+<http://www.tpwd.state.tx.us/nature/tx-eco95.htm > June 2002.
+65
+
+U.S. Department of Agriculture
+1983 Soil Survey of Williamson County, Texas. U.S. Government Printing Office.
+Washington D.C.
+
+66
+
+APPENDIX: Summary Results of Formal Shovel Tests
+
+67
+
+Appendix 1: Results of Formal Shovel Tests
+
+Shovel
+Test
+ST1
+
+ST2
+
+ST3
+
+UTM
+Coordinates
+Zone 14
+E 0637766
+N 3384892
+
+Zone 14
+E 0637973
+N 3384850
+
+Zone 14
+E 0635547
+N 3385217
+
+Artifacts
+Collected or
+Observed
+none
+
+Level/Depth
+1: 0-44 cmbs
+
+Matrix
+dark gray clay with ped formation; upper 15 cm
+is plow zone
+
+2: 44-58 cmbs
+
+dark grayish brown clay with light gray mottles;
+matrix is very damp and sticky
+
+none
+
+1: 0-23 cmbs
+
+dark grayish brown clay with ped formation; plow
+zone; very dry and compacted; no rocks
+
+none
+
+2: 23-46 cmbs
+
+dark gray clay with very few subangular limestone
+pebbles; matix is moist but very compacted;
+some gray mottling and ped formation
+
+none
+
+1: 0-20 cmbs
+
+reddish brown silty clay loam with common
+degrading limestone frags (all angular pebbles);
+many limestone flecks; matrix is very compacted
+and dry
+
+none
+
+2: 20-27 cmbs
+
+degrading limestone bedrock; slightly chalky and
+friable
+
+none
+
+ST4
+
+Zone 14
+E 0635452
+N 3385263
+
+1: 0-22 cmbs
+
+reddish brown silty clay loam with many degrading
+limestone fragments (same as ST3, L1); degrading
+limestone bedrock exposed at 22 cmbs
+
+none
+
+ST5
+
+Zone 14
+E 0635358
+N 3385298
+
+1: 0-9 cmbs
+
+dark gray (black) clay; very compacted and sticky;
+possible plow zone
+
+none
+
+2: 9-52 cmbs
+
+dark gray clay (lighter than previous level) with
+limestone flecks throughout; flecks are mainly
+concentrated at 9-30 cmbs; matrix is moist and
+very sticky with ped formation; some darker clay
+mottles and veins and lighter gray mottles at
+bottom
+
+none
+
+1: 0-25 cmbs
+
+dark gray clay; very sticky and compacted with
+ped formation
+
+none
+
+2: 25-38 cmbs
+
+degrading limestone bedrock; very soft with
+pockets of dark gray clay mixed with degrading
+bedrock fragments
+
+none
+
+ST6
+
+Zone 14
+E 0634787
+N 3385091
+
+ST7
+
+Zone 14
+E 0634970
+N 3385174
+
+1: 0-55 cmbs
+
+dark gray clay with some light gray mottles; matrix
+grades to a lighter gray color with depth; no
+distinct strata; matrix is dry and hard at top and
+becomes more moist and sticky with depth; ped
+formation
+
+none
+
+ST8
+
+Zone 14
+E 0635183
+N 3385257
+
+1: 0-16 cmbs
+
+dark grayish brown clay with many angular
+limestone pebbles
+
+none
+
+2: 16-20 cmbs
+
+degrading limestone bedrock (similar to ST's 3,4,
+and 6)
+
+none
+
+68
+
+Appendix 1: Results of Formal Shovel Tests
+
+ST9
+
+ST10
+
+Zone 14
+E 0635701
+N 3385188
+
+Zone 14
+E 0635870
+N 3385143
+
+1: 0-16 cmbs
+
+brown silty clay with many limestone flecks and
+small angular limestone pebbles
+
+none
+
+2: 16-25 cmbs
+
+limestone bedrock; very soft and degraded
+
+none
+
+1: 0-25 cmbs
+
+dark grayish brown clay with few small limestone
+pebbles (all angular to subangular); some light gray
+mottling at 20-25 cmbs; plow zone
+
+none
+
+2: 25-41 cmbs
+
+lighter gray clay; moist and sticky with same
+texture as previous level, but lighter in color; no
+clear statigraphic boundaries
+
+none
+
+ST11
+
+Zone 14
+E 0636031
+N 3385102
+
+1: 0-35 cmbs
+
+dark gray clay; very sticky and damp with some
+brown mottling; exposed bedrock at 35 cmbs;
+water pooling at bottom of shovel test
+
+none
+
+ST12
+
+Zone 14
+E 0636435
+N 3384988
+
+1: 0-55 cmbs
+
+dark gray (black) clay with ped formation; matrix is
+semi-dry and very sticky; color grades to dark
+grayish brown with depth; at 55 cmbs matrix is
+very firm and compacted
+
+none
+
+ST13
+
+Zone 14
+E 0639310
+N 3385295
+
+1: 0-14 cmbs
+
+dark grayish brown clay; very humic with corn cob
+fragments and leaf litter; common subrounded
+chert and limestone pebbles
+
+none
+
+2: 14-36 cmbs
+
+dark gray clay with common chert and limestone
+pebbles (all subrounded); matrix is firm and sticky
+
+none
+
+3: 36-54 cmbs
+
+same matrix as Level 2, but many chert and
+limestone pebbles and small cobbles (all
+subrounded); matrix is very compacted and firm
+
+none
+
+ST14
+
+Zone 14
+E 0639429
+N 3385367
+
+1: 0-62 cmbs
+
+homogenous dark gray clay with ped formation
+throughout; matrix is very firm and compacted
+starting at ~50 cmbs; no rocks; very dry
+
+none
+
+ST15
+
+Zone 14
+E 0634223
+N 3384830
+
+1: 0-23 cmbs
+
+dark gray clay (black) with ped formation
+
+none
+
+2: 23-57 cmbs
+
+dark gray clay with light gray mottles that increase
+in number with depth; texture is the same as
+previous level
+
+none
+
+ST16
+
+Zone 14
+E 0634059
+N 3384768
+
+1: 0-15 cmbs
+
+dark brown silty clay loam with many subangular to
+angular limestone pebbles (small to large) and a
+few cobbles; degrading bedrock exposed at 10 cmbs
+
+1 wire nail at
+0-10 cmbs
+
+ST17
+
+Zone 14
+E 0634075
+N 3384742
+
+1: 0-20 cmbs
+
+light grayish brown silty clay loam; matrix is very
+loose with no rocks; Plow zone; all artifacts were
+found in this level (Note: this level appears to be a
+plow zone)
+
+1 wire frag
+1 clear glass frag
+1 amber glass
+frag
+4 unidentified,
+corroded metal
+flakes
+
+2: 20-40 cmbs
+
+degrading bedrock; mottled white, yellow, and light
+brown chalky clay; no rocks; sterile
+
+none
+
+69
+
+Appendix 1: Results of Formal Shovel Tests
+
+ST18
+
+Zone 14
+E 0634050
+N 3384729
+
+1: 0-12 cmbs
+
+dark brown silty clay loam with common subangular
+to angular limestone pebbles (small to large) and a
+few cobbles; all artifacts were found in this level
+(Note: this level appears to be a plow zone)
+
+3 clear glass
+frags
+1 unidentified;
+corroded metal
+flake
+1 wire nail
+1 small coal frag
+
+2: 12-15 cmbs
+
+derading, fractured bedrock
+
+none
+
+ST19
+
+Zone 14
+E 0634034
+N 3384748
+
+1: 0-10 cmbs
+
+dark grayish brown clay loam (plow zone) with many
+subangular to angular limestone fragments;
+degrading bedrock exposed at 10 cmbs; all artifacts
+were found at 0-10 cmbs
+
+1 wire finishing
+nail
+1 bolt w/ nut
+2 wood screws
+(1 slotted, 1
+phillips)
+1 tie wire frag
+1 amber glass
+frag
+1 clear glass frag
+1 unidentified,
+corroded metal
+frag
+1 aluminum plate
+frag (angled)
+
+ST20
+
+Zone 14
+E 0634050
+N 3384781
+
+1: 0-15 cmbs
+
+dark grayish brown clay loam; matrix is very soft with
+common, angular to subangular, limestone pebbles
+
+2: 15-27 cmbs
+
+same matrix as Level 1, but many degrading bedrock
+fragments (angular to subangular, pebble to cobble
+size); exposed degrading bedrock at 27 cmbs
+
+1 rectangular
+metal plate
+2 metal tubing
+frags
+7 tie wire frags
+1 barbed wire
+barb (flat type)
+1 fencing staple
+1 clear glass frag
+5 wire nails
+1 wire frag
+(maybe wire nail
+with no head)
+
+1: 0-12 cmbs
+
+grayish brown clay loam with no rocks; plow zone;
+sterile
+
+none
+
+2: 12-22 cmbs
+
+degrading, chalky bedrock with pockets of grayish
+brown clay loam; sterile
+
+none
+
+ST21
+
+Zone 14
+E 0634092
+N 3384778
+
+ST22
+
+Zone 14
+E 0634006
+N 3384749
+
+1: 0-18 cmbs
+
+grayish brown clay loam with many degrading loam
+with many degrading bedrock fragments; bedrock
+exposed at 18 cmbs; sterile
+
+none
+
+ST23
+
+Zone 14
+E 0633905
+N 3384714
+
+1: 0-30 cmbs
+
+grayish brown clay loam that becomes more clayey
+with depth; no rocks; plow zone
+
+none
+
+2: 30-39 cmbs
+
+gray brown and light brown mottled clay loam; matrix
+is compacted with some roots and no rocks
+
+none
+
+70
+
+Appendix 1: Results of Formal Shovel Tests
+
+ST24
+
+ST25
+
+ST26
+
+Zone 14
+E 0633790
+N 3384692
+
+Zone 14
+E 0633684
+N 3384668
+
+Zone 14
+E 0636979
+N 3384761
+
+1: 0-22 cmbs
+
+dark grayish brown clay loam with many limestone
+flecks and small angular limestone pebbles; plow
+zone
+
+none
+
+2: 22-30 cmbs
+
+bedrock
+
+none
+
+1: 0-15 cmbs
+
+light grayish silty clay with many limestone flecks
+and chalky inclusions (high limestone content most
+likely resulting from plowing)
+
+none
+
+2: 15-20 cmbs
+
+soft chalky bedrock
+
+none
+
+1: 0-26 cmbs
+
+dark brownish gray silty clay; matrix is very dry and
+compacted; very few (1 or 2) subangular limestone
+pebbles; matrix grades to darker gray with depth
+
+none
+
+2: 26-42 cmbs
+
+same matrix is Level 1 but moist and soft with
+limestone flecks throughout; matrix becomes more
+gray and compacted with depth; no rocks
+
+none
+
+ST27
+
+Zone 14
+E 0636997
+N 3384778
+
+1: 0-50 cmbs
+
+homogenous dark gray clay with limestone flecks
+throughout; dry and hard at 0-10 cmbs; 10-45 is
+moist and soft; at 45 cmbs matrix is firm
+
+1 frag tie wire at
+0-20 cm
+
+ST28
+
+Zone 14
+E 0637028
+N 3384784
+
+1: 0-22 cmbs
+
+dark brownish gray clay with common limestone
+flecks; very dry and hard at 0-10 cmbs
+
+none
+
+ST29
+
+ST30
+
+ST31
+
+Zone 14
+E 0637047
+N 3384809
+
+Zone 14
+E 0637091
+N 3384805
+
+Zone 14
+E 0637096
+N 3384821
+
+2: 22-46 cmbs dark gray clay with light gray mottling and many
+limestone flecks; matrix becomes lighter gray with
+depth; very compacted at bottom
+
+none
+
+1: 0-13 cmbs
+
+dark brown clay; very dry and compacted (manure
+level)
+
+none
+
+2: 13-40 cmbs
+
+dark gray clay; matrix is very dry with limestone
+flecks throughout and few brown inclusions;
+becomes lighter in color with depth
+
+1 wire nail
+(2-1/2");
+6 wire frags (nail
+frags?); all found
+at 20-40 cmbs
+
+3: 40-51 cmbs
+
+extremely compacted dark gray clay with limestone
+flecks throughout; lighter in color than previous level;
+few pebble-size, degraded limestone fragments
+
+1: 0-28 cmbs
+
+dark gray clay; very firm and slightly moist (top 10
+cm is dry and hard); many tree roots
+
+1 wire nail frag
+(no head) found
+at 0-20 cmbs
+
+2: 28-43 cmbs
+
+dark grayish brown clay that becomes more brown
+with depth; limestone flecks throughout; Note: brown
+is slightly yellowish/olive)
+
+none
+
+1: 0-28 cmbs
+
+dark gray clay; top 10 cm is hard and dry; 10-28
+cmbs is soft, moist, and slightly sticky; many roots
+
+1 wire nail (2")
+found at 0-20
+cmbs
+
+2: 28-50 cmbs
+
+same matrix as Level 1, but many limestone flecks
+
+none
+
+71
+
+Appendix 1: Results of Formal Shovel Tests
+
+ST31
+cont'd
+
+ST32
+
+and common degrading, angular to subangular
+limestone pebbles; matrix is very sticky and
+compacted at bottom and appears to become slightly
+browner with depth
+Zone 14
+E 0633584
+N 3384633
+
+1: 0-15 cmbs
+
+dark gray clay with many limestone flecks; plow zone
+
+none
+
+2: 15-40 cmbs
+
+dark gray clay; fewer flecks and very compacted at
+bottom; becomes slightly browner with depth
+
+none
+
+ST33
+
+Zone 14
+E 0633500
+N 3384599
+
+1: 0-16 cmbs
+
+dark gray clay with many degading limestone frags
+and flecks; angular limestone pebbles; exposed
+degrading bedrock at 16 cmbs
+
+none
+
+ST34
+
+Zone 14
+E 0633404
+N 3384566
+
+1: 0-20 cmbs
+
+dark gray clay
+
+none
+
+2: 20-40 cmbs
+
+same matrix as Level 1 but light gray mottling that
+increases with depth
+
+none
+
+1: 0-30 cmbs
+
+dark gray clay with many limestone flecks; matrix is
+damp and sticky
+
+none
+
+2: 30-56 cmbs
+
+very compacted, dark gray clay; matrix is damp and
+very sticky; fewer limestone flecks than at 0-30 cmbs
+
+none
+
+1: 0-10 cmbs
+
+soft, light grayish brown loamy clay
+
+none
+
+2: 10-50 cmbs
+
+dark gray clay with common limestone flecks; no
+rocks or roots; few grayish buff mottles at 40-50
+cmbs
+
+none
+
+ST35
+
+ST36
+
+Zone 14
+E 0632847
+N 3384351
+
+Zone 14
+E 0632999
+N 3384394
+
+ST37
+
+Zone 14
+E 0633153
+N 3384448
+
+1: 0-10 cmbs
+
+light gray silty clay with many limestone flecks and
+common angular limestone pebbles; hard limestone
+bedrock exposed at 10 cmbs
+
+none
+
+ST38
+
+Zone 14
+E 0633289
+N 3384503
+
+1: 0-52 cmbs
+
+dark gray silty clay; matrix is damp and sticky and
+grades to lighter gray clay with depth; few wellrounded chert pebbles at 40-52 cmbs and few
+limestone flecks
+
+none
+
+72
+
+ADDENDUM: History of Site 41WM1098 by Martha Doty Freeman
+
+73
+
+Historical Summary of Site 41WM1098
+By Martha Doty Freeman
+
+Site 41WM1098
+
+Site History:
+Site 41WM1098 is located on 120 acres in the George Keith Survey, a 1,280-acre
+headright patented to Keith on September 25, 1852 (Deed Record 194:221–222).i
+Following Keith’s death, his widow (Lavina), son (Oliver), and daughter (Susan) deeded
+600 acres of the Keith headright to William and Lou E. Wiess, V. and Mary E. Wiess,
+and O. M. and S. H. Kyle (Deed Record 37:144–145).
+In 1875, when the 600 acres surrounding present-day 41WM1098 were conveyed
+by the Keith heirs, both they and the Wiess family were residents of Jefferson County.
+There is no indication that either family ever lived on the Williamson County headright,
+and all subsequent transactions were made in Jefferson County. In 1890, however, as
+population and agricultural production hit new highs in Williamson County, William
+Wiess began to sell off tracts in the Keith Survey. On December 8, he sold 60 1/7 acres
+in the northeast and central portions of the tract on which 41WM1098 is located to C. W.
+(also appears as C. H.) Flynn for $1,563.00 (Deed Record 56:166–167). Two months
+later he sold the 30 acres adjoining the Flynn tract to E. P. Kendall for $780.00 (Deed
+Record 56:575–576). On November 16, 1891, he sold another 85 acres in the Keith
+Survey west of the Flynn and Kendall tracts to Edward Rogan for $2,252.50 (Deed
+Record 60:113–114).
+In December 1892, E. P. and Sallie A. Kendall sold their 30 acres to C. W. Flynn
+(Deed Record 63:53), who then owned 90 1/7 acres, or the eastern three-quarters of the
+present-day 120-acre tract on the east line of the Keith Survey and adjoining present-day
+County Road 100 (CR100). Flynn and his wife held the 90 1/7 acres until August 1,
+1906, when they sold the property to A. P. Rydberg for $7,650.00 (Deed Record
+119:436–437), a price that suggests the existence of improvements.ii Two years later,
+Edward Rogan and his wife, Hannah, sold the 85 acres they had purchased in 1891 to J.
+D. Tinning for $8,500.00 (Deed Record 131:493). On January 1, 1910, Tinning sold the
+85 acres to A. P. Rydberg and C. H. Anderson (Deed Record 138:198), who immediately
+partitioned the property. Rydberg, who owned the 90 1/7 acres adjoining present-day CR
+74
+
+100, received a 30.62-acre tract to the west, so that his farm then totaled 120 acres (Deed
+Record 138:200). Anderson received the balance of 57.14 acres to the southwest of the
+Rydberg tract (Deed Record 138:199).
+Williamson County, like most of central and western Texas, suffered a
+devastating drought in 1917–1918, and bales ginned in Williamson decreased by well
+over 50% from 1916 yields (Belo & Company 1925:225; The Dallas Morning News,
+August 25, 1918). Good rains in 1919–1920, however, brought record crops, and with
+them a spurt of economic activity in real estate and construction.
+
+The Rydbergs
+
+purchased property in Georgetown in 1919 and sold their 120-acre farm late the same
+year to Oskar Gren for $24,154.00 in cash and notes, a considerable sum for the time.
+They then moved to Georgetown and lived in a house near Southwestern University.
+Oskar Gren was unable to pay all the notes on the former Rydberg property, and
+in January 1932, he had to re-convey the land to the Rydbergs (Deed Record 269:119–
+120). A. P. Rydberg died in Georgetown on January 29, 1940, and left the 120-acre farm
+on the Keith Survey, 38.77 acres in the Brown Survey near Hutto, his home on half a
+block in Georgetown, and miscellaneous property (Probate File No. 3697). His widow,
+Hanna, then moved to Austin where her son, Paul, her daughter-in-law, Bertha, and her
+granddaughter, Joyce, lived. She died in Austin on June 24, 1954, and left the 120-acre
+farm, a home in Hyde Park, and miscellaneous property to her son, Paul Rydbert (Deed
+Record 401:65–73; The Williamson County Sun, July 1, 1954:3).
+
+In 2004, the
+
+Williamson County farm is owned by Paul and Hanna Rydberg’s daughter, Joyce Elaine
+Rydbert Chaney.
+
+Summary:
+The property on which 41WM1098 is located may have been improved and
+occupied as early as the 1890s, when it was owned by C. W. Flynn. Flynn held the
+property until 1906, when he sold it to A. P. Rydberg, a farmer who was born in Sweden
+on April 11, 1867. He immigrated to Texas in 1891 and settled in rural Williamson
+County (Williamson County Sun, February 2, 1940:1), by that time a destination point for
+Scandinavians who moved to the county in the 1880s and 1890s, established farms, and
+swelled the populations of Hutto and other Williamson County towns where they built
+churches, businesses, and educational institutions.
+
+According to a granddaughter
+
+(Chaney 2004), Rydberg and his Swedish wife, Matilda, married in 1901. The couple
+75
+
+first lived on property west of and adjoining the current 120-acre tract, then moved to the
+new property after purchasing a portion of it in 1906. According to a former tenant
+(Schneider 2004), Rydberg and a neighbor named Johnson, who lived on the adjoining
+farm to the north, built a barn (41WM1098, Feature 10) on the property sometime after
+1906. An increase in valuation from $2,700 in 1907 to $4,050 in 1908–1909 also
+suggests that Rydberg was working to improve his farm.
+Rydberg worked as a carpenter, constructing houses in the Hutto area (Hanson
+2004) while operating his farm. According to Schneider (2004), Rydberg or Oskar Gren,
+who bought the property in 1919, tore down the old house in which the Rydbergs had
+lived from 1906–1919 and built the house presently on the property. After 1932, the
+property reverted to the Rydbergs, and it was occupied by tenants, one of whom made
+substantial changes. Some time after 1960, Raymond Schneider built two tractor sheds,
+and in the 1970s or 1980s, he made alterations to the barn built by Rydberg and Johnson.
+The east end of the structure was on the verge of collapse, and so Schneider removed the
+original steeply pitched metal roof, lowered it substantially, and clad the structure in
+metal (Schneider 2004).
+
+Recommendations:
+The Antiquities Code of Texas (amended September 1, 1997) requires that, to be
+eligible for designation as a State Archeological Landmark, a structure or building must
+have 1.) been “the site of an event that has significance in the history of the United States
+or the State of Texas,” 2.) been “significantly associated with the life of a famous
+person,” 3.) been “significantly associated with an event that symbolizes an important
+principle or ideal,” 4.) represented “a distinctive architectural type and [have] value as an
+example of a period, style, or construction technique,” or 5.) been “important as part of
+the heritage of a religious organization, ethnic group, or local society.”
+A review of the history of the development of Site 41WM1098 and of the
+buildings that will be impacted by road construction suggests that they are not eligible for
+landmark designation under criteria 1, 2, or 3 because the farm was not the site of a
+significant event, it was not significantly associated with a famous person, and it was not
+significantly associated with an event that symbolized an important principle or ideal.
+However, one structure at the farmstead—the ca. 1906 barn constructed by Swedish
+immigrant, carpenter, and farmer A. P. Rydberg and his neighbor, Mr. Johnson—may
+76
+
+have significance because it “represents a distinctive architectural type and has value as
+an example of a period, style, or construction technique” and because it “is important as
+part of the heritage of a[n] . . . ethnic group. . . .” While a portion of the barn was altered
+in the last 30 years when its architectural integrity was negatively impacted by a change
+in the roof profile, the balance of the structure—interior layout and spatial organization—
+and its materials retain a high degree of integrity. It remains an agricultural artifact from
+the period of Williamson County’s greatest agricultural-based economic boom, and it is
+associated with the activities of Swedish farmers and builders who comprised an
+important, ethnically distinctive population in Williamson County.
+
+77
+
+References Cited
+Belo, A. H. & Company
+1925
+
+The Texas Almanac And State Industrial Guide. The Dallas News, Dallas, Texas.
+
+Chaney, Joyce Rydberg
+2004
+
+Telephone interview with Joyce Rydberg Chaney, Austin, Texas, August 20, 2004
+by Martha Doty Freeman, Austin, Texas.
+
+Dallas Morning News, The
+Odintz, Mark
+1996
+
+Williamson County. The New Handbook of Texas, Volume 6. The Texas State
+Historical Association, Austin.
+
+Schneider, Raymond
+2004
+
+Telephone interview with Raymond Schneider, Georgetown, Texas, August 20,
+2004, by Martha Doty Freeman, Austin, Texas.
+
+Williamson County Sun (Georgetown, Texas)
+Williamson County Sun, The (Georgetown, Texas)
+Williamson County, Texas
+Deed Records
+Probate Records
+
+i
+
+All references to deed and other legal records are to Williamson County instruments.
+Tax records showing an appraised value of $1,350 in 1904 and 1905 suggest the presence of modest
+improvements on the 90 1/7 acres. The sales price of $7,650 suggests considerably greater improvements
+at the time of sale, or perhaps reflects the desirability of farm land in Williamson County where the second
+greatest amount of cotton in Texas was baled in 1900-1901 (Odintz 1996:6:994).
+
+ii
+
+78
+
+

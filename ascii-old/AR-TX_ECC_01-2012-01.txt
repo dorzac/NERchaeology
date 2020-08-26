@@ -1,0 +1,4405 @@
+ARCHAEOLOGICAL INVESTIGATIONS AND
+CONSTRUCTION MONITORING AT THE TEXAS
+GOVERNOR’S MANSION, AUSTIN, TEXAS
+
+David L. Nickels and D. Emory Worrell
+with a contribution by Kevin M. Koch
+
+January 2012
+
+Ecological Communications Corporation
+
+ARCHAEOLOGICAL INVESTIGATIONS AND
+CONSTRUCTION MONITORING AT THE TEXAS
+GOVERNOR’S MANSION, AUSTIN, TEXAS
+by
+
+David L. Nickels and D. Emory Worrell
+with a contribution by
+
+Kevin M. Koch
+
+Texas Antiquities Permit 5822
+
+Ecological Communications Corporation
+Austin, Texas
+
+January 2012
+
+© 2011 by Ecological Communications Corporation
+4009 Banister Lane, Suite 300
+Austin, Texas 78704
+Ecological Communications Corporation Project No. 206-001
+Cover photograph: Governor’s Mansion and discovered artifacts.
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Abstract
+The Texas Governor’s Mansion is one of the most important Governor’s Mansions in America.
+It was declared a Texas Historical Landmark in 1962, and placed on the National register
+of Historic Places in 1974. While undergoing Deferred Maintenance Project renovations in
+June 2008, the Texas Governor’s Mansion was set on fire by an arsonist. After the fire, the
+project then became one of comprehensive stabilization and restoration. Plans for restoration
+that would impact the soils around the mansion called for 1) new utilities, to include a ground
+source heat pump geothermal installation with 40 to 50 wells, 2) removal of brick pavers and
+a pecan tree at the rear of the Mansion, and 3) a basement addition to the rear of the Mansion.
+The State Preservation Board (SPB) is responsible for the preservation and maintenance of
+the Mansion, and managed this project for the state. In November 2010, the SPB contracted
+with Ecological Communications Corporation (EComm) of Austin to conduct archaeological
+monitoring of ground disturbances that were planned during the ongoing restoration program.
+A Scope of Work was approved by the Texas Historical Commission, and Antiquities Permit
+#5822 was issued for the project. Archaeologists remained on call, and conducted spot
+monitoring as requested during the period November 2010 through October 2011.
+During the course of trenching investigations at the rear of the Mansion, as well as the
+monitoring of multiple trenches and hand-excavated soils removed by construction workers
+on all four sides of the Mansion, a total of eight cultural features were documented, and 191
+artifacts were collected.
+Following analysis, redundant and potentially non-significant artifacts were recommended
+to be discarded. Otherwise, those artifacts that were deemed to be potentially significant for
+possible future studies will be permanently housed at the Texas Archaeological Research
+Laboratory, University of Texas at Austin.
+
+Ecological Communications Corporation
+
+iii
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+iv
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Acknowledgments
+It has been our distinct pleasure to work with the Texas State Preservation Board staff. Ms.
+Dealey Herndon, Ms. Katie Daly, and Mr. Kevin Koch knew all the answers to our questions,
+and coordinated a multitude of schedules to ensure overall success. They are true professionals
+dedicated to the historic preservation of not only the Mansion itself, but also the cultural
+resources on the grounds.
+Other professionals that were extremely helpful, ensured communication concerning ongoing
+construction schedules, and were genuinely interested in the history of the grounds are Mr.
+Jerry Ott, Construction Project Manager for White Construction Company, and Project
+Superintendent for White Construction Company, Daniel Howard.
+We would be remiss if we did not mention Mr. Hector Medrano, longtime gardener at
+the Mansion, and who because of his knowledge was able to provide us with invaluable
+information regarding the extensive soil disturbances that have occurred on the grounds. In
+terms of interpreting the integrity of archaeological deposits and features, his information was
+extremely helpful.
+Assisting in our subsurface investigations at the rear of the Mansion, the backhoe trenching
+was skillfully accomplished by Mr. Miguel Castro of BCS Services. Mr. Sonny Horton, owner
+of BCS Services coordinated backhoe services for us on short notice. The logistics for the
+geothermal well system installation were very efficiently orchestrated by Jason Swann, Marco
+Mortero, and Justino Martinez.
+David Nickels served as the Principal Investigator and Project Archaeologist for the project,
+and Emory Worrell conducted the bulk of the monitoring chores. The artifacts were analyzed
+by Dave and Emory, and Emory prepared the artifacts, photographs, and supporting documents
+for curation.
+Our gratitude also goes to those talented people who contributed their expertise in GIS,
+photography, and figure presentation. Much of the artifact photography was accomplished by
+Dan Rose, and Joel Butler’s professionalism is exhibited in the drafted figures and overlays
+presented in the report. Nick Trierweiler was EComm’s Project Manager and reviewed and
+edited the draft report. Margo Gregory re-edited and produced the report for publication.
+Thanks very much to these most gifted individuals.
+Finally, we are indeed grateful to the Texas Historical Commission’s Mr. Jim Bruseth and Mr.
+Mark Denton. They were very helpful in freely offering their historic knowledge, expertise,
+and advice throughout the project. Mark took the time to visit the site more than once.
+
+Ecological Communications Corporation
+
+v
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+vi
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Table of Contents
+Abstract.............................................................................................................................iii
+Acknowledgments.............................................................................................................. v
+Chapter 1. Introduction and Background. ..................................................................... 1
+1.1. Introduction............................................................................................................ 1
+1.2. Background............................................................................................................. 1
+1.3. Project Setting. ...................................................................................................... 2
+1.4. Brief History of the Governor’s Mansion............................................................ 3
+1.5. Previous Archaeological Investigations............................................................... 5
+Chapter 2. Project Goals and Methods. ........................................................................ 7
+2.1. Goals....................................................................................................................... 7
+2.2 Methods. .................................................................................................................. 7
+2.3. Historic Artifact Analysis..................................................................................... 9
+2.3.1. Bottle and Dinnerware Glass....................................................................... 9
+2.3.2. Window Glass.............................................................................................. 10
+2.3.3. Ceramics....................................................................................................... 11
+2.3.4. Nails............................................................................................................. 11
+2.3.5. Nuts, Bolts, and Screws.............................................................................. 12
+2.4. Prefield Planning. ................................................................................................ 12
+Chapter 3. Results of Investigations............................................................................. 15
+3.1. West Side of the Mansion. ................................................................................... 15
+3.1.1. Tree Stump Removal.................................................................................... 15
+3.12. Feature 1—French Drain............................................................................. 17
+3.1.3. Backhoe Trench Investigations................................................................... 18
+3.1.4. Feature 2—Possible Well. .......................................................................... 20
+3.2. North Side of the Mansion................................................................................... 21
+3.2.1. Feature 3—Garden Stone Path. ................................................................. 21
+3.2.2. Feature 4—Clay Pipeline............................................................................. 22
+3.2.3. Feature 5—Brick and Mortar Section....................................................... 23
+3.3. East Side (Lawn) of the Mansion......................................................................... 29
+3.3.1. Feature 6 – Probable Stone Pathway. ........................................................ 29
+3.4. South Side (Lawn) of the Mansion. ..................................................................... 33
+3.4.1. Feature 7—Soil Anomaly............................................................................ 33
+3.4.2. Feature 8—Trash Deposit. .......................................................................... 33
+3.4.3. Other Artifacts on the South Lawn........................................................... 35
+Chapter 4. Summary, Conclusions, and Recommendations.......................................... 37
+References. ....................................................................................................................... 39
+Appendices
+Appendix A–Whole Bottles
+Appendix B–Artifacts Collected
+
+Ecological Communications Corporation
+
+vii
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+viii
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+List of Figures
+Figure 1. Aerial photograph showing location of the Texas Capitol building and the Governor’s
+Mansion................................................................................................................................ 1
+Figure 2. City map showing the location of the Texas Governor’s Mansion in downtown Austin......... 3
+Figure 3. Geological map of the area surrounding the Governor’s Mansion. ........................................ 4
+Figure 4. Backhoe operations under the patico in the immediate rear of the Governor’s Mansion
+(facing south)........................................................................................................................ 7
+Figure 5. Trackhoe operating on the south lawn of the Mansion (facing northeast). ............................. 8
+Figure 6. Monitoring overburden removal around the Pecan tree at the rear of the Mansion (facing
+east)...................................................................................................................................... 8
+Figure 7. Schematic of the Mansion and grounds.................................................................................. 15
+Figure 8. Removing brick retaining wall around raised bed with pecan tree stump
+(facing southeast). ............................................................................................................. 16
+Figure 9. Profile of the soils and construction used to fill in the raised bed around the pecan tree at
+the rear of the Mansion; facing southwest. ....................................................................... 16
+Figure 10. Pecan tree stump and rootball removal (facing west).......................................................... 17
+Figure 11. Location of improvised French drain made from a clay chimney flue with a layered brick
+bottom; facing northwest.................................................................................................... 17
+Figure 12. Contents of French drain...................................................................................................... 18
+Figure 13. Examples of bricks layered in the bottom of the French drain: top left – “ABILENE”;
+top right – “BUTLER”; bottom – unmarked. . .................................................................. 18
+Figure 14. Location of investigative backhoe trenches at the rear of the Mansion............................... 19
+Figure 15. Typical trench wall profile on the near west side of the Mansion; BHT 4 north wall
+profile in front of portico; 24 inches of fill over red gravelly sand.................................... 19
+Figure 16. Clay sewer pipe encountered in BHTs 2 and 4..................................................................... 20
+Figure 17. Feature 2 – possible well; facing northeast.......................................................................... 20
+Figure 18. Locations of trenches and soil removal area on the north side of the Mansion. ................. 21
+Figure 19. Photo of Feature 3, remnants of a stone garden path; facing west....................................... 22
+Figure 20. Probable extension of Feature 3, remnants of a stone garden path; facing north. . ............. 22
+Figure 21. Feature 4 – clay pipeline; facing west. ................................................................................ 23
+Figure 22. Feature 5—Brick and mortar section; facing west.. ............................................................ 23
+Figure 23. Clay sewer pipe discovered in the north-central portion of the north lawn; facing
+southeast............................................................................................................................. 24
+Figure 24. Examples of bricks and cut stone found occasionally scattered within trench backdirt
+piles on the north side, northeast corner, of the Mansion. ................................................ 24
+Figure 25. Ceramic sherd with a Flow Blue decoration found in the central area of the north lawn.... 25
+Figure 26. Glass lightning rod insulator. .............................................................................................. 27
+
+Ecological Communications Corporation
+
+ix
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Figure 27. .45 caliber bullet casing. . .................................................................................................... 27
+Figure 28. Composition “Ball”.............................................................................................................. 28
+Figure 29. Horse tooth found in the northwest corner of the north lawn. ............................................ 28
+Figure 30. Metal spoon found near the Ell Kitchen and 1914 west wing kitchen addition. . ............... 29
+Figure 31. Locations of trenches and Features on east side................................................................... 30
+Figure 32. Feature 3—apparent abandoned stone pathway; facing east. . ............................................ 30
+Figure 33. Square rock removed from bottom of trench....................................................................... 31
+Figure 34. Square, cut nail. ................................................................................................................... 31
+Figure 35. Bisque doll leg...................................................................................................................... 31
+Figure 36. Frozen Charlotte porcelain doll body. ................................................................................. 32
+Figure 37. Channeled Whelk found in soils near the front steps. ......................................................... 33
+Figure 38. Locations of trenches and Features on the south side.......................................................... 33
+Figure 39. Feature 7, soil anomaly on eastern edge of south lawn; facing east. ................................. 34
+Figure 40. Feature 8—trash deposit northwest of the gazebo on the south lawn; facing northwest. ... 34
+Figure 41. Homer Laughlin maker’s mark............................................................................................ 35
+Figure 42. Bottle neck............................................................................................................................ 35
+Figure 44. Close-up photo of construction rubble under South Lawn; facing north. ........................... 36
+Figure 43. Layer of construction rubble uncovered under the South Lawn; facing east....................... 36
+Figure A-2. Base of Heckell Sect Champagne bottle.......................................................................... A-2
+Figure A-1. Henkell Sect Champagne bottle....................................................................................... A-2
+Figure A-3. Neck and lip of Heckell Sect Champagne bottle.............................................................. A-2
+Figure A-4. Sharp & Dohme medicine bottle front............................................................................. A-4
+Figure A-5. Raised lettering on base of Sharp & Dohme medicine bottle.......................................... A-4
+Figure A-6. Martha Washington wine bottle........................................................................................ A-5
+
+List of Tables
+Table 1. List of Cultural Features Documented During this Project...................................................... 15
+Table 2. Approximate Time Periods of manufacture of Bottle Glass on the North Side of the
+Mansion.............................................................................................................................. 26
+Table 3. North Lawn Window Glass Thickness and Approximate Dates of Manufacture.................... 26
+
+x
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Chapter 1
+
+Introduction and Background
+1.1
+
+Introduction
+
+This report is organized into four main sections. Section 1 provides a brief background
+explaining how this project came about, along with a brief history of the Governor’s Mansion,
+focusing on ground disturbing events that have occurred on the Mansion’s grounds through the
+years.
+Section 2 discusses the goals and methods, including some background on historical artifact
+analysis. Section 3 provides the results of the investigations, beginning with discoveries
+on the west side of the Mansion, and progressing in a clockwise manner to the north, east,
+and south lawns. Section 4
+summarizes the results and
+provides recommendations for
+the curation or non-curation
+of artifacts, as well as further
+research. Appendix A presents
+a description of three whole
+bottles found by construction
+workers. Finally, a listing of the
+artifacts collected during this
+project is included at Appendix
+B.
+
+1.2	Background
+The Texas Governor’s Mansion
+(41TV1872) was designed
+and built by Abner Cook, a
+master builder who constructed
+numerous
+Greek
+Revival
+style architectural homes in
+Austin. Between 1854 and
+1856, he designed and built the
+Mansion for Governor Elisha
+Marshall Pease. It is within
+walking distance of the State
+Capitol (Figure 1), and has
+been occupied by every Texas
+Ecological Communications Corporation
+
+Figure 1. Aerial photograph showing location of the
+Texas Capitol building and the Governor’s Mansion.
+1
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+governor since 1856. From both an architectural and a historic perspective, the Texas Governor’s
+Mansion is one of the most important Governor’s Mansions in America (Alexander 1985). It
+was declared a Texas Historical Landmark in 1962, and placed on the National register of
+Historic Places in 1974 (Smryl 2011).
+While undergoing Deferred Maintenance Project renovations in June 2008, the Texas Governor’s
+Mansion was set on fire by an arsonist. At the time of the fire, the Mansion was several months
+into a comprehensive deferred maintenance project to upgrade the mechanical, electrical, and
+plumbing systems, as well as make other improvements related to the operations of the home.
+After the fire, the funds set aside for the Deferred Maintenance Project were re-allocated to
+the Stabilization Project, and the project then became one of comprehensive stabilization and
+restoration. Plans for restoration that would impact the soils around the Mansion called for 1)
+new utilities, to include a ground source heat pump geothermal installation with 40 to 50 wells,
+2) removal of plywood and brick pavers at the rear of the Mansion, 3) removal of a pecan tree
+at the rear of the Mansion, and 4) a basement addition to the rear of the Mansion.
+The State Preservation Board (SPB) is responsible for the preservation and maintenance
+of the Mansion, and managed this project for the state. Although neither the SPB nor the
+Texas Historical commission (THC) anticipated that the restoration project would encounter
+unidentified areas of archaeological significance that possibility could not be ruled out. For
+that reason, the SPB elected to engage a qualified archaeological firm to be a part of the project
+team throughout the construction phase.
+In November 2010, the SPB contracted with Ecological Communications Corporation
+(EComm) of Austin to conduct archaeological monitoring of ground disturbances that were
+planned during the ongoing restoration program. A Scope of Work was approved by the Texas
+Historical Commission, and Antiquities Permit #5822 was issued for the project. Archaeologists
+remained on call, and conducted spot monitoring as requested during the period November
+2010 through October 2011.
+Specific archaeological tasks identified before construction began included:
+1) Monitor the removal of a pecan tree stump and root ball located in the rear of
+the Mansion.
+2) Conduct backhoe investigations in the rear of the Mansion following brick
+pavement removal of an area approximately 70 feet (ft) x 70 ft. This encompassed
+an approximate 30-ft x 30-ft basement addition as well as an approximate 20-ft
+layback buffer area along three sides.
+3) Monitor the excavation of trenches for the installation of geothermal lines
+throughout much of the grounds surrounding the Mansion.
+
+1.3	Project Setting
+The Governor’s Mansion is located on an entire city block in downtown Austin, Texas (Figure
+2). A thin layer of natural dark loam (10YR 3/2) topsoil is consistent across the Mansion’s
+2
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+grounds where it has not been otherwise
+disturbed. Geologically, it sets on
+a high, Pleistocene Capitol Terrace
+(Rodda 1970:7) consisting of highly
+rubified very gravelly sandy clay that
+grades with depth from reddish brown
+(2.5YR 4/4) to light olive brown (2.5Y
+5/3). The gravels are comprised of
+cherts and quartzites. These alluvium
+deposits are approximately 9–10
+meters thick, and lie uncomformably
+on Upper Cretaceous Austin Chalk
+(Figure 3). Given the thin layer of
+Holocene topsoil overlying very ancient
+alluvium on the Mansion grounds, the
+probability of discovering stratified
+and intact prehistoric archaeological
+deposits is minimal. However, as will
+be discussed, there are historic features
+that have been excavated into these
+soils as early as the 1850s.
+
+1.4	Brief History of the
+Governor’s Mansion
+
+Figure 2. City map showing the location of the
+Texas Governor’s Mansion in downtown Austin.
+
+We present here a brief history of the
+renovations that have occurred to the Mansion since construction began in 1854. More relative
+to the current project, however, are the improvements that have been made to the grounds
+surrounding the Mansion. The most comprehensive chronology of modifications and changes
+to the Governor’s Mansion has been compiled by Prewitt and Associates following their 2008
+investigations. This list by Doug Boyd and Jennifer McWilliams is presented in their 2009
+publication as Table 1.2 on pages 8–14 (Boyd and McWilliams 2009), and compiled primarily
+from Daniel et al. (1984) and Gammel (1898). It is from these sources that we synthesize the
+construction that has occurred on the grounds through the years since the Mansion was first
+constructed, and by implication their impact on buried features.
+Texas joined the Union in 1845, with Austin remaining the capital of the once former Republic
+of Texas. The burgeoning state was in need of a new governor’s residence and in 1848, Congress
+passed a joint resolution authorizing the construction of a residence for the Governor (Gammel
+1898, Vol. 3:29). After careful consideration a lot was chosen which is surrounded by Lavaca,
+Guadalupe, Tenth, and Eleventh streets (see Figure 1). Master builder Abner Hugh Cook was
+contracted to design, procure materials for, and construct what would be the home of every
+Texas governor since 1856 (Alexander 1985).
+
+Ecological Communications Corporation
+
+3
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Abner Cook’s previous building
+experiences can be found in the southern
+states of Georgia and Tennessee, where
+he undoubtedly was influenced by
+the Greek Revival style architecture
+common to such prominent residences
+of the area. Andrew Jackson’s country
+place, the Hermitage, was said to be
+a significant influence. After moving
+to Austin in 1839, Mr. Cook began
+designing and building residences
+first in the Federal-style, then in the
+Ionic Greek style which was to be the
+style of the new Governor’s Mansion
+(Hafertepe 2011).
+Construction of the Mansion began
+in 1854 with Abner supplying the
+materials from his interests in a lumber
+mill in Bastrop and a brick kiln that
+he built on Shoal Creek in Austin. The
+basic plan of the house consisted of a
+square, two-story building with a grand
+Figure 3. Geological map of the area
+Greek Ionic portico on the front, eastsurrounding the Governor’s Mansion.
+facing side of the house. Not much is
+known about the workers involved in
+the construction, but it was common
+during this time period for slave labor to have been used, if not directly in the building of
+them—at least in the production of construction materials such as bricks and lumber. Handmade Austin common bricks (with a “frog” on one side) and wood from Bastrop were the chief
+building materials for the Mansion.
+Many structures in Austin were built with Austin common bricks in the mid to late 19th century.
+The Loblolly pine harvested from Bastrop for construction was apparently not kiln-dried, as a
+fractured piece of wood from the Mansion still emanates a strong sap smell (D. Emory Worrell,
+personal observation). Machine-cut nails were predominantly used as the fastening hardware
+in the carpentry work. A two-story ell was built at the rear (west side) of the house and used as
+a kitchen and servants’ quarters. This semi-detached structure was the only means of entrance
+for servants, via a covered porch (Hafertepe 2011).
+Outbuildings were common for houses of this period and the Governor’s Mansion was no
+exception. Generally located at the back of the house in the northwestern quadrant, original
+outbuildings included the stables/carriage house, barn, chicken house, and tool shed (Blake
+and Kibler 1999).
+
+4
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+By 1856, the Mansion was first occupied by Governor Ilisha Pease, and a cistern and privy had
+been dug. However, the privy was located in the north-central area of the west lawn, and was
+apparently offensive to prominent Austin citizen Joseph Harrell who lived nearby. It was then
+moved to the central area of the south lawn, and the structure can be seen in photographs from
+the 1890s.
+In addition to the installation of a modern toilet inside the Mansion, a garden house and gazebo
+were constructed, and numerous trees, shrubs, flowers, and vegetables were planted in 1870
+(Gammel 1898, Vol. 4:314; Daniel et al. 1984:90–92). In 1871, the gardener ordered 341 loads
+of dirt and 166 loads of manure brought in. By 1874, horse stables had been constructed on
+the grounds. In 1877, water hydrants and fountains were installed on the grounds. In 1883, a
+new stable was built on the southwest corner of the Mansion. By 1898, the old fence around
+the entire grounds had been replaced with a new one, the old sidewalks on the grounds were
+terraced, and new steps had been built.
+By 1900, cement sidewalks and cement block curbings, and Bermuda grass terraces were
+installed. In 1901, legislative appropriations were made for the construction of a new stable
+(the current Carriage House) northwest of the Mansion. By 1902, all of the walks had been
+graveled, and more trees, flowers, and grass had been planted. In 1914, a family dining room
+was constructed over the original cistern and porch area; most outbuildings were torn down
+(including the old cistern house and summer house); and picket fences across the front and
+sides of the grounds were removed—while fences enclosing the horse lot in the southwest
+corner and the Carriage House still remained in place.
+A new greenhouse was constructed in the southwest corner of the grounds around 1915, and
+included a boiler and hot water system. In 1927, the flower garden was converted to a vegetable
+garden. Around 1933, new trees were planted, and a new retaining wall was constructed on
+the north side of the Mansion where low spots were filled in. An unknown number of cooking
+pits were dug on the grounds in 1941 for an inauguration party. By 1959, an underground
+sprinkler system had been installed, walkways were again repaired, and a retaining wall along
+the south edge of the grounds had been built. By 1969, the grounds had undergone significant
+landscaping, and a brick and iron fence had been built around the grounds; it was at this time
+that the “Buckeye Fence” was installed on the brick walls.
+In 1969, front gates were installed. By 1982, new construction on the grounds included a
+gazebo on the south lawn, a wood front porch to replace a brick porch, a widened driveway to
+the Carriage house, new sections of a brick wall by the gate on the north side of the Carriage
+House, and widening of the front entrance brick walkway. In addition, the sprinkler system
+was upgraded, fence brick walls were replaced with wrought-iron fencing, and additional
+landscaping had taken place.
+
+1.5	Previous Archaeological Investigations
+The first archaeological investigations project on the grounds of the Mansion was undertaken
+by Prewitt and Associates, Inc. in 1998 and 1999. Monitoring of trenching operations on the
+Ecological Communications Corporation
+
+5
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+north lawn of the Mansion resulted in the discovery, and subsequent excavation of the original,
+1850s privy (Blake and Kibler 1999).
+More extensive archaeological monitoring and excavations were conducted by Prewitt and
+Associates in 2008, during a construction project to replace buried sewer and water lines, and
+to expand the basement. A total of 15 features were discovered, including a brick wall for the
+1856 basement stairway, a brick wall foundation for the 1856 porch, a later brick-walled grease
+trap, and two brick-lined cisterns dating to 1856 and 1914. In addition, ground penetrating
+radar employed on the south lawn most likely located in the privy pit that was dug in 1856
+(Boyd and McWilliams 2009).
+
+6
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Chapter 2
+
+Project Goals and Methods
+2.1	Goals
+The goals of this project were to:
+1) identify all cultural materials observed during soil removal, and if possible to
+place the artifacts within a temporal framework;
+2) identify all subsurface cultural features, and place them within a temporal
+framework based upon their design and architecture, as well as archival research;
+3) advise the SPB as to the potential significance of these discoveries in an
+expedient manner so that they could either be avoided during construction, or
+mitigated in a timely manner; and
+4) prepare a professional written report of these investigations as required by
+contractual agreement with the SPB, as well as satisfying the requirements of
+Antiquities Permit #5822.
+
+2.2	Methods
+Although
+construction
+work
+schedules
+were
+effectively
+communicated
+throughout the duration of
+the project, two EComm
+staff archaeologists remained
+on call in order to respond
+to unsuspected discoveries
+of cultural materials and
+features.
+Construction
+workers used both a backhoe
+and trackhoe for trenching, as
+well as shovels in some areas
+for soil removal (Figures
+Figure 4. Backhoe operations under the patico in the
+4 and 5), as trenching and
+immediate rear of the Governor’s Mansion (facing south).
+other soil removal operations
+were carefully monitored by
+archaeologists (Figure 6).
+During backhoe investigations on the west side of the Mansion, sediments and soils below
+the brick paving were to be carefully removed in shallow scrapes (2–3 inches [in]) using a
+smooth-bladed bucket. The number of backhoe trenches necessary to evaluate the extent of
+Ecological Communications Corporation
+
+7
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+any cultural deposits or
+features uncovered was to be
+determined by the Principal
+Investigator.
+
+Figure 5. Trackhoe operating on the south
+lawn of the Mansion (facing northeast).
+
+Construction was halted
+when cultural features were
+unearthed. They were fully
+documented either with
+sketch maps or photographs,
+or both. They were then
+shot in with a sub-meter
+accuracy Global Positioning
+System (GPS). Features of
+potential significance were
+immediately brought to
+the attention of a member
+of the SPB. Artifacts were
+collected and bagged for
+further
+analysis.
+Each
+bag was labeled with an
+approximate horizontal and
+vertical provenience along
+the trenchlines.
+
+All artifacts collected were
+accounted for daily while in
+the field, and inventoried at
+the EComm laboratory. All
+artifacts were then identified
+and analyzed. Artifacts and
+samples were separated by
+artifact type and recovery
+context to facilitate analysis.
+Processing of recovered
+Figure 6. Monitoring overburden removal around the
+artifacts began with washing
+Pecan tree at the rear of the Mansion (facing east).
+and sorting into appropriate
+categories. These data were
+then entered into an Excel
+spreadsheet. Artifacts later determined to be redundant, from heavily disturbed contexts and
+non-significant (e.g., vitrified sewer pipe pieces, unidentifiable brick fragments) were discarded
+with the permission of the THC.
+Otherwise all cultural material to be permanently curated was prepared for storage in accordance
+with federal regulation 36 CFR part 79, and in accordance with current guidelines of the Texas
+8
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Archaeological Research Laboratory. Lithic, metal, and ceramic artifacts were washed, airdried, and stored in archival-quality bags. Acid-free labels were placed in all artifact bags.
+Each bag was labeled with a provenience or corresponding Lot number. Artifacts larger than
+a dime were labeled with permanent ink and covered by a clear coat of acrylic. Other artifacts
+were separated by class and stored in acid-free boxes with standard labels.
+Finally, all cultural material, field notes, photographs, and drawings, along with a copy of the
+final report on acid-free paper, and computer disks pertaining to this project are stored in acidfree boxes at TARL.
+
+2.3	Historic Artifact Analysis
+2.3.1 Bottle and Dinnerware Glass
+Finding a piece of bottle or jar glass, or dinnerware glass with a maker’s mark on it is always
+helpful in determining its approximate date and place of manufacture, as well as its likely
+contents. However, there are many other characteristics that can provide clues as to the
+probable age and contents of bottles, such as mold seams and scars from the manufacturing
+process, labeling, closure types, and glass color. As technology and customer desires changed
+through the years, so too did the manufacturing of bottles. It is these discriminators that allow
+archaeologists to approximate their age. Primary reference sources used for the bottle glass
+analysis were Munsey (1970) and Toulouse (1971). Other specific references are cited within
+the following text.
+Selected pieces with possibly diagnostic characteristics such as seams, decorations, and makers’
+marks were pulled from the collection for further examination. The individual characteristics
+of glass often overlap through time.
+In the 1700s, bottles were generally hand blown (thus no mold seams). The lip was then crudely
+applied in a separate action. Although a lipping tool was used in the production of this piece,
+it is considered to be an applied finish and not a “true” tooled finish. A tooled finish employed
+the use of a mold, which incorporated the forming, or at least the pre-forming, of the finish
+within the mold. After removal from the mold, the bottle was then “tooled” of its remaining
+imperfections. This applied and crudely tooled finish, typically just called an ‘applied’ finish,
+was placed and shaped on the neck, after the removal from the blowpipe (Lindsey 2011). After
+1850, finishing tools which smoothed the inside and top of the lip were commonly used.
+The year 1904 marked a significant change from hand-blown bottles to automatic bottlemaking machines. Another technological advancement allowed for the common manufacture
+of screw-top bottles and jars. Although screw top bottles had been used prior to the 1800s,
+they were considered specialty items and were not common until about 1924 (Polak 1997:24).
+Various labeling and decorative techniques such as raised lettering and etching (frosting) were
+also used beginning in the 1880s.
+
+Ecological Communications Corporation
+
+9
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Additives caused glass colors to change through time. Aqua, amber, olive green, and brown are
+natural colors produced in glass manufacture. However, before 1880, the predominate colors of
+bottles glass were shades of green and blue. The standard, natural color of most cheap bottles
+produced since the beginning of making glass until about 1900 (and even somewhat later for
+medicine bottles) was aqua with varying hues of green and blue. Glass is a mixture of lime,
+soda, and sand with traces of iron oxides. When molten, the iron oxides in the sand creating a
+chemical which produces the aqua color (Munsey 1970:69; Kendrick 1966:53).
+With the exception of “black” glass, glass color was not an important consideration until around
+1880 when food manufacturers began adding manganese to the glass as a decolorizer. After
+exposure to the sun’s ultra-violet rays, the manganese would change the color of the glass to
+amethyst or purple. Manganese worked fine until the outbreak of World War I in 1915 which
+led to another defining temporal characteristic to occur in bottles. Prior to 1915, Germany
+was a main supplier of manganese. When the war broke out, the supply of manganese was
+no longer available to the bottle makers and they resorted to using selenium as a decolorizing
+agent. Selenium causes the glass to turn an amber color when exposed to sunlight (Munsey
+1970:55; Kendrick 1966:53). By about 1930, the glass manufacturing process was refined so
+that neither manganese nor selenium had to be used, resulting in clear glass with no hue. In
+addition, milk glass was commonly used in the production of cosmetic and toiletry bottles, and
+in ointment/cream jars from the 1870s to the mid-20th century (Lindsey 2011).
+Although admittedly problematic—when no other period-diagnostic characteristics were
+available—we used glass color, along with personal subjective observation such as thickness,
+flaws in the glass, and the degree of patination or corrosion in assigning shards to a particular
+time period.
+
+2.3.2 Window Glass
+Window glass can potentially be dated. Archaeologist Randall Moir (1988) devised a formula to
+date window glass accurate to within a span of 14 years. Moir’s data regression formula yields
+a regression coefficient of .93 at a 95 percent confidence level of ±7 years. Quite simply, the
+equation uses the thickness modes of window glass found at a site to provide an approximate
+date within ±7 years that the glass was manufactured. The equation is: I=84.22(T) +1712.7 (in
+which I = the initial date of construction and T = the mean thickness in millimeters). It should
+be noted that the regression formula is designed for window pane glass, but not special plate
+glass which is usually thicker than the upper 3.3-mm parameter set for window glass (Moir
+1988:264).
+Obviously, the date of manufacture does not necessarily represent the date the glass was brought
+to the site, or the date it was broken, but it does offer a reasonable time frame. By examining
+the variations in the thicknesses of glass found on a site, archaeologists are sometimes able to
+estimate not only when a house or barn was built, but perhaps even when and how many times
+it was renovated. Dating broken window glass shard thicknesses has been used successfully
+in south and central Texas (e.g., Gross and Meissner 1997:240–241), and they have also been
+correlated with hurricanes near the Gulf Coast (Leezer 2006).
+10
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+2.3.3 Ceramics
+Dinnerware
+This section discusses the various types of dinnerware ceramics recovered. They include
+decorated and undecorated whiteware, as well as earthenware, a generic term we use here
+for modern flowerpots. A small quantity of porcelain and ironstone are also present in the
+assemblage.
+Whiteware
+Whiteware is a highly fired refined clay with a vitreous surface. Whiteware was commonly
+imported to America from Britain during the 1800s, but the demand for undecorated type
+increased significantly in America by 1860. This type became a common tableware setting for
+middle class families in this area of Texas after the 1860s, replacing pewter and wooden wares
+(Fox et al. 1989:45), and are still being produced today (Miller 1991).
+Ironstone
+Ironstone is a highly fired earthenware from about 1860–present in Texas. Also referred to as
+“stone china,” “white granite,” and “granite ware,” it can be decorated or undecorated. Highly
+fired furnaces enabled the production of ironstone wares around 1813, but they probably
+became popular in Texas in the 1850s and 1860s. Raised molded designs began appearing on
+ironstone wares about 1875. Like softer fired whitewares, ironstone was a popular, relatively
+inexpensive utilitarian kitchenware, but was much more durable and didn’t break as easily. It
+is still being produced today (Fox et al. 1989; Kovel and Kovel 2001a, b; Miller 1991).
+Porcelain
+A small amount of Chinese porcelain imported to Mexico on the Manila galleons is present on
+nearly every Spanish colonial site in Texas. It can be differentiated by very careful examination
+from European and American porcelain by the very slightly blue gray tint of the body, and
+when decorations are present, the grayish blue designs lie beneath the glaze, or delicately
+painted orange floral designs lie over the glaze. Porcelain is rarely present on eighteenth and
+early nineteenth century sites because the fragile ware had to be transported from Europe (Ivey
+and Fox 1981:35), but became more common after 1832, when it was commonly manufactured
+in the United States (Barber 1976:126–127).
+
+2.3.4 Nails
+Nails can be classified into three main categories: 1) hand wrought, 2) cut with hand hammered
+heads or cut with machine-made heads, or 3) wire. Hand wrought nails were commonly used
+until the 1800s, falling off in popularity with the introduction of cut nails. Cut nails with handhammered heads were popularly in use between ca. 1790 and 1825, followed by cut nails with
+machine-made heads which were commonly used from ca. 1825 to present. Though they were
+Ecological Communications Corporation
+
+11
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+introduced prior to the 1850s, wire nails did not become the dominant type until the 1890s
+(Nelson 1968:1–10).
+
+2.3.5 Nuts, Bolts, and Screws
+Before 1860, nearly all nuts, bolts, and screws made in the U.S. were either made by blacksmiths
+or made in small shops using hand tools with limited production. As for bolts, the small shops
+used square iron strips and turned them making them round and to add threads. The end of
+each piece was left to form the square head. Beginning in 1859, William Clark was granted a
+series of patents to manufacture bolts out of round rods, using a machine to fashion the heads.
+Nut manufacturing remained much the same, using square rods, bored through and turned
+on a lathe to cut the threads, and then cut in small sections. Production was much faster, and
+manufactured bolts and nuts were much in demand from that time through the present (Nuts
+and Bolts 2011).
+The first patented machine to produce screws was designed by Job and William Wyatt in
+England in 1760, and they finally opened the world’s first screw factory in 1776. From 1800 to
+1860, British screw factories were able to increase screw production from fewer than 100,000
+gross of screws per year to nearly 7,000,000 gross per year. The first screw factories in the U.S.
+began operating in 1810 in Rhode Island. Pointed screws were developed in 1849, Phillipshead screws were designed and perfected during the period 1860–1890, and the socket-head
+screw was designed in 1907. By 1900, the modern screws as we know them today were being
+mass produced so that the U.S. was the leading producer of screws in the world (Rybczynski
+2000:75–86).
+
+2.4	Prefield Planning
+Before the project began the Principal Investigator discussed research issues, field
+methodologies, and analysis strategies with members of the SPB and THC to refine fieldwork
+and reporting standards. Prior to initiation of actual fieldwork, more detailed archival research,
+and examination of soil survey, geology, and topographic maps were used to better understand
+the potential for intact soils and cultural features around the Mansion. To ensure systematic
+recording procedures, the Principal Investigator archaeologist met with the primary monitor
+before the fieldwork began to review feature and artifact classifications, and recording
+procedures.
+In mid-November 2010, EComm representatives Nick Trierweiler and David Nickels met on
+site with THC representatives (Jim Bruseth and Mark Denton), SPB representatives (Dealey
+Herndon, Kevin Koch, and Katie Daly), and White Construction Company representatives
+(Jerry Ott and Duane Campbell). At this meeting the overall project and scope of work
+were discussed in detail to ensure all parties were in agreement on scheduling, notification
+procedures, and how the monitoring and recording of features was to be conducted. This
+meeting also included a tour of the Mansion grounds with various representatives sharing their
+knowledge of buried cultural features previously documented around the Mansion, as well as
+12
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+areas where additional features could potentially be buried. A follow-up examination of the
+Mansion grounds was then conducted by Principal Investigator David Nickels and Primary
+Monitor D. Emory Worrell on 24 November to review monitoring and recording procedures.
+
+Ecological Communications Corporation
+
+13
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+14
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Chapter 3
+
+Results of Investigations
+During the course of trenching
+investigations at the rear of the
+Mansion, as well as the monitoring of
+multiple trenches and hand-excavated
+soils removed by construction workers
+on all four sides, a total of eight cultural
+features were documented (Table
+1), and 191 artifacts were collected
+(Appendix B). This section describes
+the excavations and monitoring results,
+beginning with the west side (rear)
+of the Mansion, and working
+clockwise around the Mansion
+(Figure 7). The features are
+described in detail, and uniqueitem artifacts either associated
+with features or found as
+isolates are also discussed.
+
+Table 1. List of Cultural Features
+Documented During this Project.
+Feature
+
+Description
+
+Location
+
+Feature 1
+
+French Drain at the rear portico
+
+West Side
+
+Feature 2
+
+Possible Well
+
+West Side
+
+Feature 3
+
+Garden Stone Pathway
+
+North Side
+
+Feature 4
+
+Clay Pipeline
+
+North Side
+
+Feature 5
+
+Brick and Mortar Section
+
+North Side
+
+Feature 6
+
+Probable Stone Pathway
+
+East Side
+
+Feature 7
+
+Soil Anomaly
+
+South Side
+
+Feature 8
+
+Trash Deposit
+
+South Side
+
+3.1	West Side of
+the Mansion
+3.1.1 Tree Stump
+Removal
+In January 2011, contractors
+began removing a brick wall
+forming the perimeter of a raised
+bed filled with topsoil around a
+large pecan tree stump at the
+rear of the Mansion (Figure 8).
+It was readily apparent that the
+entire 45-foot in diameter raised
+bed had been filled with both
+construction debris and mottled
+soils, before being covered over
+with a thin layer of topsoil.
+
+Ecological Communications Corporation
+
+Figure 7. Schematic of the Mansion and grounds.
+
+15
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Figure 8. Removing brick retaining wall around raised
+bed with pecan tree stump (facing southeast).
+
+Figure 9. Profile of the soils and construction debris
+used to fill in the raised bed around the pecan tree at
+the rear of the Mansion; facing southwest.
+
+16
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+A typical profile, with irrigation pipes is shown in Figure 9. A French drain feature within the
+raised bed area was also documented. The rootball on the pecan tree proved to be shallow
+and was easily removed with a front-end loader, causing minimal disturbance to the original
+ground surface (Figure 10).
+
+3.1.2 Feature 1—
+French Drain
+
+Figure 10. Pecan tree stump and rootball removal (facing west).
+
+Figure 11. Location of improvised French drain made from a
+clay chimney flue with a layered brick bottom; facing northwest.
+
+Ecological Communications Corporation
+
+Near the southwest portico
+pillar was a buried clay
+chimney flue with a layered
+brick bottom and filled with
+gravel. It apparently served
+as a French drain off of the
+portico roof (Figures 11
+and 12). The bottom layer
+consisted of one yellow
+half, six red halves, and
+two red whole bricks. The
+yellow
+brick
+fragment
+was manufactured by the
+Butler Brick Company in
+Austin, using the dry press
+technology
+(Steinbomer
+1982). Six red brick halves
+bear the “Abilene” maker’s
+mark, indicating they were
+made by the Abilene Brick
+Company
+(Steinbomer
+1982). This particular style
+was manufactured after
+World War II (Williams
+2011). The two whole red
+bricks bear no maker’s
+marks; they are both 7¼
+inches long x 3¾ inches
+wide, x 2¼ inches thick, not
+highly fired, but with crisp
+edges (Figure 13).
+Artifacts observed within
+this area included two
+medium size mammal bones,
+red and yellow bricks (from
+17
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+the French drain), brown and aqua
+colored glazed tile fragments,
+an amber bottle glass shard, a
+modern clay flowerpot sherd, and
+an unidentifiable ferrous metal
+fragment. The two medium sized
+mammal bones are a sawn long
+bone and a fractured scapula.
+
+3.1.3 Backhoe Trench
+Investigations
+A second task involved the
+excavation of investigative backhoe
+Figure 12. Contents of French drain.
+trenches at the rear, west side of
+the Mansion where plans called
+for the construction of a basement
+and extended ramp entryway. This
+would impact the ground to about
+eight feet below the surface at its
+deepest (under the patico) with a
+sloping ramp to the west. Overall,
+the area to be impacted would be
+roughly 70 ft x 70 ft (see Figure 7).
+A total of 11 trenches of varying
+lengths were dug using a backhoe
+with a 24-inch bucket while being
+carefully monitored for both cultural
+features and artifacts (Figure 14).
+Excavations revealed that the
+Figure 13. Examples of bricks layered in the
+loamy soil cap had generally been
+bottom of the French drain: top left – “ABILENE”;
+removed in this area, and replaced
+top right – “BUTLER”; bottom – unmarked.
+with a matrix of grayish roadbase
+mixed with red coarse sandy clay.
+The approximate 24-inch layer
+of gravelly red clay gradually transitioned to red gravelly sand with occasionally light olive
+brown clay mottling. Excavations were generally terminated in Pleistocene soils between 36
+inches and 54 inches below the rubified red sandy clay surface. A typical trench profile is
+shown in Figure 15. The only artifacts observed consisted of an occasional red brick fragment,
+a few clear glass shards, and an undecorated whiteware sherd, all within mixed fill.
+No historic cultural features were observed. However, a clay sewer pipe with a 3-inch diameter
+and brown glazed exterior was discovered in the north wall profile of Backhoe Trench 2 (BHT
+2), near its eastern end. It was further encountered near the northern end of BHT 4. It was
+18
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+set in the bottom of a ditch dug
+shallowly into the red clay, and
+then covered with dark brown
+loam, followed by mixed fill
+(Figure 16). Its alignment
+suggests that it led from near the
+northwest corner of the Mansion
+to the south edge of the Carriage
+House. It was most likely
+installed sometime in the 1930s
+through 1950s.
+A large metal tank was
+encountered near the south
+end of BHT 6 (see Figure
+14). It was approximately 9 ft
+long and perhaps 24 inches in
+diameter, with a 1-inch pipe
+extending from its northern end.
+Excavations were terminated in
+this immediate area until it could
+be inspected by SBP personnel,
+and it was later removed under
+hazmat conditions.
+Figure 14. Location of investigative backhoe
+trenches at the rear of the Mansion.
+
+3.1.4
+Feature 2—
+Possible Well
+One feature that could possibly
+be an abandoned well was
+uncovered during the geothermal
+trenching phase. Feature 2 was
+discovered in the south-central
+area of the circular drive while
+Looptech
+was
+conducting
+horizontal trenching west of
+the Mansion (see Figure 14).
+An excavated pit lined with
+dry stacked limestone and
+filled with burned matrix was
+encountered below one foot of
+
+Figure 15. Typical trench wall profile on the near west
+side of the Mansion; BHT 4 north wall profile in front
+of portico; 24 inches of fill over red gravelly sand.
+Ecological Communications Corporation
+
+19
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Figure 16. Clay sewer pipe encountered in BHTs 2 and 4.
+
+imported gravel fill. The
+limestone rocks lining the
+pit appear to be unaltered,
+and most measure between
+15 to 20 inches in length
+and width, with a thickness
+between 4 to 8 inches. A
+few smaller fragments were
+also observed, measuring
+between 5 to 10 inches in
+length, width, and thickness.
+In profile, the feature
+measures 5 ft across, from
+outside wall to outside wall,
+and the rock alignments are
+roughly 1 to 2 ft wide on both
+sides (Figure 17).
+
+The matrix within the feature
+measures 2 to 3 ft in width
+and consists of a very dark
+grayish brown (10YR3/2)
+gravelly clay mixed with ash
+and charcoal. This horizon
+extends to 3 ft below the
+surface at its deepest point
+with a rounded profile at the
+bottom. The matrix below
+that, from 3 to 5 ft, is a strong
+brown (7.5YR5/6) gravelly
+clay with numerous charcoal
+fragments. All elements of
+the feature appear to extend
+below the trench bottom at 5
+ft below the surface. Along
+Figure 17. Feature 2 – possible well; facing northeast.
+with what appears to be paint
+chips dispersed throughout
+the feature, only one clear
+glass shard and one metal fragment were observed in association with the feature. The glass
+shard was recovered from the backfill and the metal item from the bottom of the trench.
+Although one possibility is that the feature could be a filled-in well, there are no available
+archival records to indicate a well in that area. Nevertheless, the feature was fully documented
+with photographs, a sketch map, field notes, and a GPS.
+
+20
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+3.2	North
+Side
+of the
+
+Mansion
+A series of geothermal
+trenches
+and
+two
+utility trenches were
+excavated on the north
+side of the Mansion in
+addition to hazmat soil
+removal in the garden
+area (Figure 18). One
+feature was documented
+within the trenches, as
+was a length of clay
+sewer pipe. Selected
+examples of clay pipe,
+yellow bricks, and
+stone were collected
+for further examination.
+In addition a total of
+46 glass, ceramic,
+and metal artifacts
+were collected—all as
+isolates within trench
+backdirt (Appendix B).
+
+3.2.1 Feature 3—
+Garden
+Stone Path
+
+Figure 18. Locations of trenches and soil removal
+area on the north side of the Mansion.
+
+Feature 3 is an exposed section of dry stacked limestone, found in the central area of the North
+lawn, just south of the North garden area (Figures 18 and 19). Approximately 20 to 30 tabular
+limestone rocks, stacked to a width of about 8 inches, were exposed beneath roughly one foot
+of topsoil, just above the gravelly clay horizon. The un-hewn rocks are highly fragmented
+with some as large as 12 inches long and 4 inches wide. After discussion with the grounds
+keeper, it was determined that this feature was the remnants of an old garden path covered by
+landscaping soil within the last 15 years (Hector Medrano, personal communication, June 22,
+2011). A similar path was observed on the surface about 15 ft northwest of the feature in the
+northwest garden area (Figure 20).
+
+Ecological Communications Corporation
+
+21
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+3.2.2
+Feature 4—
+Clay Pipeline
+Feature 4 is an exposed
+section
+of
+clay
+pipe
+discovered while workers
+were removing contaminated
+soil from the north border
+garden (see Figure 18).
+The pipe was encountered
+at approximately 1½ ft
+below the surface, running
+at roughly 303 degrees. As
+more contaminated soil was
+removed along the north
+border garden, more pipe was
+Figure 19. Feature 3, remnants of a
+exposed, eventually leading
+stone garden path; facing west.
+to the mouth of the storm
+drain on the northeast corner
+of the house. Measuring
+close to 20 ft in total length,
+nine 2-ft sections of ceramic
+pipe were exposed, along
+with one broken section
+and one partially buried
+section (Figure 21). The
+4-inch diameter sections are
+connected by bell and spigot
+joints with no apparent
+sealing mortar. Both the
+interior and exterior exhibit a
+brown slip. The pipe appears
+to continue past the garden
+wall, running underneath
+a large pecan tree growing
+Figure 20. Probable extension of Feature 3,
+just outside the garden
+remnants of a stone garden path; facing north.
+border. The pipe heads in a
+direction that would lead in
+close proximity to the North
+Cistern recorded by Prewitt and Associates in 2008. Further investigation would be needed to
+determine whether this indeed was a rainwater intake for the North Cistern.
+
+22
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+3.2.3
+Feature 5—Brick
+and Mortar Section
+Feature 5 consists of an exposed section
+of plastered brick and mortar unearthed at
+the north corner of the 1856 structure and
+the 1914 addition (see Figure 18). It was
+discovered during soil removal while trying
+to locate the source of a water leak in this area.
+An obvious site of multiple excavations,
+construction, and backfilling episodes,
+this area was heavily disturbed. Numerous
+fragments of ceramic pipe, concrete pipe,
+metal pipe, PVC pipe, concrete mortar, and
+several Type I Austin Common bricks were
+observed. Most of the pipes appear to be
+abandoned storm and sewer drains replaced
+by plastic PVC piping.
+
+Figure 21. Feature 4 – clay pipeline; facing west.
+
+Figure 22. Feature 5—Brick and
+mortar section; facing west.
+Ecological Communications Corporation
+
+A section of intact Austin Common brick
+and mortar with cement plaster on one side
+was recorded (Figure 22). No frogs were
+observed on the bricks indicating they may
+have been Type 2 bricks. The exposed section
+is 10 inches below the surface, measuring
+15 inches long, with a width of about 10
+inches. It is in an upright position, though
+probing by trowel did not reveal evidence
+of further extension into the ground. These
+construction materials are similar to ones
+used in a grease trap recorded by Prewitt and
+Associates in 2008. However, the location
+of the grease trap is several feet west of the
+current feature. In addition, the walls of the
+grease trap are about half as thick, and it was
+encountered 3 ft below the surface, which
+is significantly deeper than the current
+feature. It is possible that this represents a
+fragment of the original grease trap that was
+pushed into this location during previous
+renovations.
+A section of clay sewer pipe was uncovered
+one foot below the surface in the northcentral portion of the north lawn (Figure
+23
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Figure 23. Clay sewer pipe discovered in the northcentral portion of the north lawn; facing southeast.
+
+23; see also, Figure 18). The
+ceramic pipe has a very thin
+pale grey mortar-like interior
+and exterior covered surface.
+The interior diameter of the
+pipe is 6 inches, and the
+sections are connected by bell
+and spigot joints. A powdery
+layer of debris was observed
+in the exposed section of pipe
+from where a geothermal
+well core punctured it and
+sent a mixture of water and
+shale running down the
+pipe. The pipe is running at
+207 degrees, heading in the
+direction of the northwest
+corner of the original 1856
+structure.
+The pipe was then “scoped”
+with a camera by a technician
+hired by the SPB. It is filled
+with large gravel at 53 ft, right
+at the north retaining wall.
+Towards the Mansion it goes
+for another approximately
+45 ft, and is then filled with
+concrete. There were two
+downspouts at that northwest
+corner of the Mansion, and
+it was likely a storm drain
+before the retaining walls
+were built in 1967.
+
+Figure 24. Examples of bricks and cut stone found
+occasionally scattered within trench backdirt piles on
+the north side, northeast corner, of the Mansion.
+
+Yellow Bricks and
+Cut Stone
+
+An occasional Type 1 Austin
+Common pinkish-yellow brick and pieces of cut limestone were observed along the trench
+backdirt piles. These were isolated occurrences and appeared to be within filled, heavily
+disturbed contexts. Selected examples are shown in Figure 24. A typical example of Type 1
+Austin Common brick collected measures 8 inches long x 3-5/8 inches wide x 2¼ inches thick,
+and has a rectangular frog. According to Boyd and McWilliams (2009:81), “Type 1 Austin
+
+24
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Common bricks with a rectangular frog are the earliest bricks used at the Governor’s Mansion”
+“…and it is presumed that all of the bricks used in the 1856 construction are probably Type 1.”
+Ceramics
+A total of 20 ceramic sherds were recovered. Four unglazed, white earthenware pieces appear
+to be from flower pots of an indeterminate age. Ten whiteware sherds were found. Whiteware is
+of the less durable and less expensive common ceramic tableware assemblage for middle class
+families after the 1860s, replacing pewter and wooden wares (Fox et al. 1989:45). However,
+they are still being produced today (Miller 1991, 1993). Three appear to be base fragments
+for small bowls, while the other seven are too fragmented for further identification. All are
+undecorated except for one piece that has a raised molded design suggesting a post-1875 date
+of manufacture (Miller 1991).
+Four undecorated ironstone sherds were also found. Like softer fired whitewares, ironstone
+was a popular, relatively inexpensive utilitarian kitchenware, but was much more durable and
+didn’t break as easily. Although it was commonly imported into Texas in the 1850s and 1860s,
+like common whitewares, it is also still being produced today (Fox et al. 1989; Kovel and
+Kovel 2001a, b; Miller 1991).
+One body sherd of undecorated porcelain was
+recovered from the backdirt. Porcelain is a more
+expensive, but fragile tableware imported from
+Europe beginning in the early 19th century. However,
+it became more common after 1832, when it was
+commonly manufactured in the United States (Barber
+1976:126–127; Ivey and Fox 1981:35).
+Other than the raised molded decoration on a
+whiteware sherd discussed above, the only decorated
+piece of whiteware found on the north side of the
+Figure 25. Ceramic sherd with a
+Mansion has a Flow Blue pattern (Figure 25). It was
+Flow Blue decoration found in the
+found in the backdirt of a geothermal trench in the
+central area of the north lawn.
+central area of the north lawn. The popularity of Flow
+Blue ceramics began in 1835 when they were first
+mass produced. They remained popular through the Victorian era, but by 1910 they were no
+longer in demand (Snyder 1992:7).
+Bottle Glass
+A total of 23 bottle glass shards were found. Only three had either a maker’s mark or mold type
+indicators. The first is a thick, dark green, heavily patinated body and partial base fragment that
+exhibits slightly raised concentric rings on its exterior. The raised rings indicate it was likely
+a part of a manufacturing technology that was used from about 1869 through 1903 (Polak
+1997:27).
+Ecological Communications Corporation
+
+25
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+One clear glass jar fragment has a screw top. Its clarity, along with the screw top technology,
+suggests it was manufactured after 1930 (Polak 1997:24). The third glass shard with a
+diagnostic mark is from a thick, dark brown bottle base, and has a raised capital letter “A” on
+it. Mold seams on the base suggest a pre-1903 technology (Munsey 1970; Toulouse 1971).
+Although Toulouse discusses two glass manufacturers that used the “A” in raised lettering
+as maker’s marks, the bottle color and manufacturing technology of this specimen suggest it
+was not manufactured by either of the two. Overall, the attributes of this specimen suggests a
+manufacturing period from about 1860 through 1880 (Toulouse 1971:23).
+On the remaining 20 shards, although admittedly
+problematic, we used glass color, along with
+personal subjective observation such as thickness,
+flaws in the glass, and the degree of patination or
+corrosion in assigning shards to a particular time
+period. In that regard, the remaining 20 shards
+can be assigned to approximate time periods as
+shown in Table 2.
+Window Glass
+
+Table 2. Approximate Time Periods
+of manufacture of Bottle Glass on
+the North Side of the Mansion.
+Bottle Glass
+Shards
+
+Quantity
+
+Approximate
+Time Period of
+Manufacture
+
+Dark green, thick,
+raised rings
+
+1
+
+1869–1880
+
+Clear glass, no
+hue, screw top
+
+1
+
+Post–1930
+
+Dark brown, thick,
+“A” maker’s mark
+
+1
+
+1860–1900
+
+Amber color
+2
+1915–1930
+A total of 16 window glass shards were found
+Aqua color
+3
+1880–1920
+on the north side. They range in thickness from
+Clear,
+no
+hue
+10
+Post–1930
+1.6 to 3.1 millimeters (mm), and three thickness
+Dark Green, thick
+2
+1860–1880
+modes became apparent. Applying these
+Green
+3
+1900–Present
+thicknesses to Moir’s (1988:264) data regression
+formula provides approximate dates that the
+glass was manufactured. Obviously the date of
+manufacture does not necessarily represent the date the glass was brought to the site, but it does
+offer a reasonable time frame. Thicknesses used to approximate dates of manufacture, and their
+correlations to historic events are shown in Table 3.
+
+Table 3. North Lawn Window Glass Thickness
+and Approximate Dates of Manufacture.
+Thickness
+Modes (mm)
+
+Approximate
+Dates of
+Manufacture
+
+Correlated Historic
+Events
+
+1.73
+
+1851–1865
+
+1854–1856: Mansion
+Construction
+
+2.12
+
+1884–1898
+
+1883–1897: Legislature
+twice allocated funds for
+repair and renovation
+
+1958–1972
+
+1958–1969: Significant
+repairs and renovations
+under Price Daniel
+and John Connally
+administrations
+
+3.00
+
+26
+
+Lightning Rod Glass Insulator
+A green-colored glass lightning rod
+insulator was collected during soil
+removal in the north border garden
+area next to a pecan tree (see Figure
+18). It bears the name “SPRATT” in
+raised lettering. James Spratt opened
+a business selling lightning rods,
+points, and insulators in Cincinnati,
+Ohio in 1848. On February 5, 1850,
+he received a patent to produce the
+side-type insulator as shown in Figure
+26. They were made in both green
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+and aqua colors. By
+1855, he was no longer
+in the insulator business
+(Insulator Companies
+2011; Ohio Lightning
+Rod Insulators 2011;
+Moulton 2011; National
+Insulator
+Companies
+2011). Based upon these
+early dates, this artifact
+could conceivably be an
+artifact from the original
+construction.
+Figure 26. Glass lightning rod insulator.
+
+Bullet Cartridge
+
+A spent, or fired, .45
+caliber brass bullet
+cartridge (Figure 27)
+was found in soil
+removed on the north
+border garden (see
+Figure 18). It is a center
+fire type and is headstamped with “REMUMC” “45 COLT.”
+Center fire cartridges
+were
+produced
+beginning about 1858,
+and the .45 caliber bullet
+and Colt single action
+revolver were adopted
+for use by the Army
+in 1873 (Cartridge
+Figure 27. Bullet cartridge, .45 caliber.
+Collector 2011). The
+head-stamp on this
+specimen indicates it
+was manufactured by the Remington Arms-Union Metallic Cartridge Company in Bridgeport
+Connecticut (Headstamp Codes 2011:45; Logan 1959:61–63). Remington and Union Metallic
+were combined into the Remington Union Metallic Company in 1912 at Bridgeport, but the
+company was closed in November 1946 (Remington 2011). Although bullets remain in firing
+condition for years if stored properly, it is safe to assume that this specimen had to have been
+manufactured no earlier than 1912 and no later than 1946.
+
+Ecological Communications Corporation
+
+27
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Composition “Ball”
+This
+artifact
+is
+tentatively referred
+to as a “ball,” but its
+true use is unknown.
+It was found during
+soil removal from the
+north garden, west of
+the concrete slab area.
+This round specimen
+with multiple flat
+surfaces is made
+of a composition
+material. It has been
+formed in two pieces
+and melded together,
+exposing a seam
+completely around
+Figure 28. Composition “Ball”.
+its perimeter (Figure
+28).
+Composition
+material is made from
+a mixture or conglomeration of organic materials such as wood fibers or guttapercha latex,
+bound together by shellac and rubber (Pool 1987:286). This type of material was commonly
+used in the manufacture of buttons in the U. S. between 1875–1925 (Brown 1942:43).
+Horse Tooth
+A heavily worn horse
+tooth was recovered
+from an electrical utility
+trench excavated on the
+northwest corner of the
+north lawn (see Figure
+18). It is both heavily
+worn and heavily polished
+(Figure 29). Available
+archival records indicate
+there was a stable on the
+grounds by 1874, a new
+stable was then built on
+the southwest corner in
+Figure 29. Horse tooth found in the northwest
+corner of the north lawn.
+1883, and in 1901 the
+legislature appropriated
+funds for construction of a
+new stable (the current Carriage House).
+28
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Faunal Remains
+Four animal bones were observed and collected. Three of the four are fragments from the rib of
+a large mammal, with no evidence of cutting, sawing, or burning. The fourth is a sawn segment
+of a long bone from a medium size to possibly large mammal. It also exhibits no evidence of
+burning.
+Metal Spoon
+This specimen was found in close proximity to the original Ell Kitchen and the west wing
+kitchen that was part of the 1914 addition. It is made from ferrous metal and as shown in Figure
+30 is heavily rusted. It may have been enamel-coated, but in its current condition it is difficult
+to discern. Mass production of white enamel-coated tinware thrived by the last quarter of the
+19th century, but it can still be purchased today (Enamelware History 2011).
+
+Figure 30. Metal spoon found near the Ell Kitchen
+and 1914 west wing kitchen addition.
+
+3.3	East Side (Lawn) of the Mansion
+A series of geothermal trenches were excavated on the east side of the Mansion, in addition
+to hazmat soil removal in the border garden area (Figure 31). One feature was documented
+within the trenches, and a total of ten artifacts were collected—all as isolates within trench
+backdirt. They include two doll parts, a whiteware body sherd, a marine shell, a cut nail, and
+five window glass shards (Appendix B).
+
+3.3.1 Feature 6 – Probable Stone Pathway
+Feature 6 is a group of hewn and un-hewn limestone rocks uncovered in the trench excavated
+to connect the geothermal pipes to the east side of the Mansion (see Figure 31). The rocks
+were unearthed approximately 8 ft east of the northernmost front column, just outside the east
+border garden. In profile, the group of rocks measured roughly 6 ft in length, and roughly 1
+ft thick (Figure 32). They were encountered at approximately 1 ft below the surface. Most
+rocks measured between 5 and 10 inches and appeared to be unaltered; however, two of the
+Ecological Communications Corporation
+
+29
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+rocks with distinct cut marks were
+collected. In addition, a large,
+square, apparently hand-hewn
+rock was removed, measuring
+approximately 2 ft x 2 ft, with a
+width of 4½ inches (Figure 33).
+The rocks appeared to have been
+dry stacked, and are possibly the
+remnants of another abandoned
+pathway.
+Window Glass
+
+Figure 31. Locations of trenches and Features on east side.
+
+A total of five window glass
+shards were found on the east side.
+Measurements revealed only one
+mode, with a mean thickness of
+3.0 mm. Applying this thickness
+mean to Moir’s (1988:264) data
+regression formula indicates
+that the glass was manufactured
+sometime between 1958–1972, a
+period during which significant
+repairs and renovations were
+made under the Price Daniel and
+John Connally administrations.
+Cut Nail
+A square, 4½-inch cut nail with a
+machine-made head (Figure 34)
+was found north of the front stairs
+during soil removal in the east
+border garden area (see Figure
+18). Cut nails with machinemade heads were commonly used
+from ca. 1825 to present. Though
+they were introduced prior to the
+1850s, wire nails did not become
+the dominant type until the 1890s
+(Nelson 1968:1–10).
+
+Figure 32. Feature 3—apparent abandoned
+stone pathway; facing east.
+
+30
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Bisque Doll Leg
+
+Figure 33. Square rock removed from bottom of trench.
+
+Figure 34. Square, cut nail.
+
+Figure 35. Bisque doll leg.
+
+Ecological Communications Corporation
+
+This specimen was collected during
+soil removal from the east border
+garden, north of the front steps
+(see Figure 31). The colloquial
+term “bisque doll” is a French
+word—among doll enthusiasts and
+collectors—and is sometimes used
+interchangeably with ‘porcelain
+doll’ or ‘china doll’ (Bisque Dolls
+2011). Bisque is basically an
+unglazed porcelain with a matte
+finish. Doll heads, arms, and legs
+were manufactured and sold as
+separate pieces so they could be
+attached to cloth bodies. Depending
+on how large they were and how
+they were accessorized, bisque
+dolls could be cheap, or they could
+be expensive (Schroeder 1971:94).
+Bisque dolls were produced from
+the 1840s until after World War I,
+with the amount of production and
+number of manufacturers increasing
+significantly around 1860 (German
+and French Dolls 2011).
+The specimen shown in Figure 35
+is the left leg of an untinted, solid
+bisque doll. Its only coloration is
+a blue painted garter ribbon in the
+upper calf area. A hole in the top
+of the hip was for a wire-held joint.
+No rust stains are visible around the
+hole, indicating that the wire was
+likely brass. The bisque is of good
+quality, suggesting that the doll was
+of good quality also.
+On the interior, top of the hip is an
+incised mold mark of “80.” A search
+of various websites and hard copy
+publications indicates that the “80”
+mold mark on bisque dolls was used
+by two manufacturers. The first was
+31
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+used by the Scheutzmeister & Quendt Company in Boldstadt, Germany, beginning in 1891
+(Doll Reference 2011a). The second manufacturer to use the “80” mold mark was the William
+Goebel Porzellanfabrik factory, beginning about 1892 (Doll Reference 2011b).
+The Texas governor occupying the Mansion in the early 1890s was Governor James Stephen
+Hogg (1891–1895). Although he had two sons, his only daughter was Ima Hogg, who was born
+in 1882, and who would have been nine years old when Governor James Hogg first moved into
+the Mansion (Bernard 2011; Cotner 2011).
+Porcelain “Frozen Charlotte” Doll Body
+This specimen was also collected during soil removal from the east border garden, north of
+the front steps (see Figure 31). It is commonly referred to as a “Frozen Charlotte” penny doll,
+because unlike the china limb dolls with rotating or moveable parts, the arms and legs of these
+dolls were molded permanent. According to St. George (1948:42–45), Frozen Charlotte was a
+vain young damsel, who in an American folk ballad, froze to death because she vainly refused
+to cover her fancy ballroom dress while on a sleigh ride.
+Frozen Charlottes were made entirely out of porcelain from about 1850 through about 1920,
+and ranged in size from 1 inch to 18 inches (China Doll 2011). “These little dolls were generally
+cheaply made, but some were made of glazed porcelain, decorated with gold colors or other
+luster, and were ‘10-cent’ dolls. Most had painted shoes and faces, and many were wigged.
+Others had molded hair and some even had molded bonnets. They could be either solid or
+hollow. Dolls of this type have been insecurely dated as early as the mid-1850s (Angione
+1973:83–84)” (Meissner 1997:61).
+As shown in Figure 36, this specimen
+found at the Governor’s Mansion
+is missing its head, and most of
+its arms and legs. Nevertheless,
+it is unmistakably a small Frozen
+Charlotte doll. Given its wide
+range of manufacture, it could have
+been a play toy of any of the Texas
+governors’ children who lived in the
+Mansion from the 1850s through the
+1920s.
+Figure 36. Frozen Charlotte porcelain doll body.
+
+Marine Shell
+
+Shown at Figure 37 is a Channeled
+Whelk shell. It was collected during
+soil removal north of the Mansion’s front steps along the east border garden area (see Figure 18).
+The Channeled Whelk (Busycotypus canalicalatus) is a common species that inhabits the Gulf
+of Mexico coastal bays (Abbott and Dance 1982). As such, it is possible that this specimen was
+32
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+brought to the Mansion grounds
+after an excursion to the Texas Gulf
+Coast.
+
+3.4	South Side
+(Lawn) of the Mansion
+
+Figure 37. Channeled Whelk found
+in soils near the front steps.
+
+A series of geothermal trenches
+were excavated on the south lawn
+of the Mansion, in addition to
+hazmat soil removal in the border
+garden area (Figure 38). Two
+features were documented within
+the trenches, and 27 glass, ceramic,
+and metal artifacts were collected
+(Appendix B).
+
+3.4.1 Feature 7—
+Soil Anomaly
+Feature 7 is a soil anomaly
+discovered along the eastern edge
+of the south lawn (Figure 39),
+consisting of a yellow (2.5Y6/8)
+silty fill starting at approximately
+18 inches below the surface. The
+deposit is about 4.5 ft long, and
+with a width of about 1 ft. No
+artifacts were observed in, or near
+the feature.
+
+3.4.2 Feature 8—
+Trash Deposit
+
+Figure 38. Locations of trenches and
+Features on the south side.
+
+Ecological Communications Corporation
+
+Feature 8 was discovered in a
+geothermal trench approximately
+6 ft northwest of the gazebo
+(see Figure 38). A concentration
+of burned and buried trash was
+uncovered below the topsoil,
+within the gravelly clay horizon.
+This deposit of cultural material
+was first encountered during the
+33
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+geothermal well boring
+process, which is apparent
+in profile, as the well cuts
+into the feature (Figure 40).
+No artifacts were observed
+on the surface, but as the
+horizontal trenching reached
+the geothermal well, artifacts
+began to be uncovered.
+
+Figure 39. Feature 7, soil anomaly on eastern
+edge of south lawn; facing east.
+
+Although there did not
+appear to be a uniform
+shape to the deposit, it was
+3 ft at its deepest, starting
+at approximately 1 ft below
+the surface, and the width of
+the deposit was roughly 3 ft
+across. The matrix consists
+of a dark brown (10YR3/2)
+gravelly clay loam with
+numerous charcoal and ash
+deposits. Artifacts recovered
+from the feature included
+aqua, brown, clear (slight
+amethyst hue), and dark green
+bottle glass, unidentified
+metal, a horseshoe fragment,
+whiteware,
+earthenware
+(probable modern flower
+pot), a ceramic construction
+tile, a metal battery post,
+cut bone, and several
+domesticated pig vertebrae
+(whole).
+
+Figure 40. Feature 8—trash deposit northwest of the
+gazebo on the south lawn; facing northwest.
+
+In addition, a clear chimney
+glass shard that appears to
+be from a kerosene lamp or
+lantern ‘straight” chimney
+was found. The “straight” chimney was commonly used in hall lamps where dim lighting
+was preferred. This particular glass shard does not fluoresce when exposed to either long or
+short wave ultraviolet light, indicating it does not contain lead; lead was used in lantern glass
+before 1864 (Woodward et al. 1984:61; National park Service 2000). The concept of fuel
+burning lamps was first patented in 1784, but it wasn’t until 1864 that kerosene became readily
+available as a fuel source in the U.S. and kerosene lamps became the norm. Although “straight”
+34
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+chimneys on hall lamps can
+pre-date the use of kerosene,
+they were also continuously
+used into the late nineteenth
+and early twentieth centuries
+(Woodhead et al. 1984:58,
+62).
+The base of a whiteware
+plate or bowl collected from
+within the feature bears a
+Homer Laughlin maker’s
+mark (Figure 41). The
+Homer Laughlin China Co.
+was established by Homer
+Figure 41. Homer Laughlin maker’s mark.
+and Shakespeare Laughlin in
+1871. They built a plant on
+the banks of the Ohio River in 1873, gaining a reputation for producing some of the first and
+finest quality ceramic ware in the United States. The company was sold to William Edwin
+Wells and Louis I. Aaron in 1897, who in turn expanded the company to three plants by 1903.
+Well known companies, such as the F. W. Woolworth Co. and the American Cereal Co. of
+Chicago, were important carriers of this line of dinnerware. The mark reads “Homer Laughlin,”
+with “Hudson” underneath, and dates to around 1900 (Homer Laughlin China Company 2011;
+Lehner 1988:247–248).
+Collectively, the artifacts recovered from Feature
+8 can tentatively be assigned to a period of 1880–
+1915. A modern thumb tack with a plastic head
+and a piece of flagging tape were also recovered,
+indicating modern disturbances.
+
+3.4.3 Other Artifacts on the South Lawn
+Other artifacts found in trench backdirt on the
+South lawn include a plain whiteware shard, two
+undecorated ironstone shards, two earthenware
+sherds (probable flower pot), brown body and neck
+bottle glass shards, a clear glass (no hue) dinnerware
+rim sherd, and one window glass shard. The
+window glass thickness (3.1 mm) implies a period
+of manufacture between 1958 and 1972.
+The brown glass bottle neck shown in Figure 42
+was collected from geothermal trench backdirt
+near the south end of the front porch. It exhibits
+Ecological Communications Corporation
+
+Figure 42. Bottle neck.
+35
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+a “laid-on-ring”, a tooled plain and broad
+sloping collar, and no mold seams. These
+characteristics imply an approximate period
+of manufacture between 1890 and 1910
+(Bottle Finishes 2011).
+A layer of construction rubble consisting
+of fractured limestone and Austin Common
+brick fragments was discovered under the
+south-central portion of the South Lawn. It
+was uncovered during soil removal along
+the south retaining wall down to its footing.
+Construction workers removed the soil and
+gravel fill that was behind the wall, leaving
+the soil cut as it was when the wall was built
+in 1967 (personal communication, Kevin
+Koch, December 27, 2011). Although not in
+the original scope of work, Mr. Koch alerted
+EComm archaeologists to the discovery.
+Emory Worrell responded and documented
+the rubble layer that appeared to be in a
+low artificial swale along the wall. It was
+roughly 15 inches below the modern surface,
+ranged in thickness from 6 to 9 inches, and
+extended approximately 25 ft from east to
+west (Figures 43 and 44; see also, Figure
+38). No other cultural material was observed
+in association.
+
+Figure 43. Layer of construction rubble
+uncovered under the South Lawn; facing east.
+
+Figure 44. Close-up photo of construction
+rubble under South Lawn; facing north.
+36
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Chapter 4
+
+Summary, Conclusions, and
+Recommendations
+During the course of trenching investigations at the rear of the Mansion, as well as the
+monitoring of multiple trenches and hand-excavated soils removed by construction workers
+on all four sides during the period November 2010 through October 2011, a total of eight
+cultural features were documented and 191 artifacts were collected. The features consisted of
+abandoned stone pathways, a trash deposit, a French drain, a brick and mortar section, a clay
+pipeline, a soil anomaly, and a possible stone-lined well. All were impacted to some degree
+by the trenching operations, but all except the French drain were generally left in place and
+re-buried following utility installation.
+Seven of the eight features were either heavily disturbed or are assessed as non-significant.
+However, there may have been a well at the rear of the Mansion (Feature 2) that has not
+previously been identified either in archival research or subsurface investigations which could
+be significant. In that regard, we recommend archaeological investigations be undertaken in
+that immediate area before any further soil disturbance occurs in the future.
+Many of the 191 artifacts collected proved to be unique, and have provided an array of both
+personal and construction items. As a whole, they offer in a continuum an idea of how life was
+at the Mansion over the past 150-plus years.
+After all of the 191 artifacts were analyzed in the EComm laboratory, it became apparent
+that there was redundancy among some items, such as clay sewer pipe for example. Other
+items appear to have little or no potential to contribute to our understanding of the history
+of the Governor’s Mansion or Texas. These items we recommend be returned to the SPB
+for their disposal or storage as they see fit, and they are earmarked accordingly at Appendix
+B. Otherwise, we recommend that all other artifacts be permanently curated at the Texas
+Archaeological Research Laboratory.
+Finally, it is evident from this project that although much of the grounds surrounding the
+Mansion have been significantly disturbed over the years, there are still discrete pockets of intact
+soils, and perhaps cultural features. In addition, the discovery of unique artifacts, regardless of
+their contexts, has been able to contribute to the history of the Mansion and its occupants. In
+that regard, we recommend that any further construction, or any other soil disturbances that are
+to occur on the grounds, be monitored by a qualified archaeologist.
+
+Ecological Communications Corporation
+
+37
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+38
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+References
+Abbott, R. T., and S. P. Dance
+1982
+
+Compendium of Seashells: A Color Guide to More than 4,200 of the World’s Marine Shells.
+Dutton Publishing, New York.							
+
+Alexander, D. B.
+1985
+
+An Architect’s View of the Governor’s Mansion. In The Governor’s Mansion of Texas: A
+Historic Tour, pp. 73–84. Friends of the Governor’s Mansion, Austin.
+
+Angione, G.
+1973
+
+All Bisque and Half-Bisque Dolls. Thomas Nelson, Nashville, Tennessee.
+
+Barber, E. A.
+1976
+
+The Pottery and Porcelain of the United States, Colonial Times to 1970. U.S. Department of
+Commerce, Bureau of Census, Washington, D.C.
+
+Bisque Dolls
+2011
+
+Bisque Dolls. http://en.wokopedia.org/wiki/Bisque_doll. [accessed December 17, 2011].
+
+Bernhard, V.
+2011
+
+Hogg, Ima. http://www.tshaonline.org/handbook/online/articles/fho16. [accessed December
+17, 2011].
+
+Blake, M. E., and K. W. Kibler
+1999
+
+A House to “Compare Favorably with the Best Building of any Country”: Research on the
+Texas Governor’s Mansion (41TV1872), Austin, Texas. Technical Reports, Number 38. Prewitt
+and Associates, Inc. Austin, Texas.
+
+Bottle Finishes
+2011
+
+Society for Historical Archeology. http://www.blm.gov/historic_bottles/. [accessed December
+19, 2011].
+
+Boyd, D. K., and J. K. McWilliams
+2009
+
+Archaeological Monitoring and Feature Investigations for the Deferred Maintenance Project,
+Texas Governor’s Mansion (41TV1872), Austin, Texas. Technical Reports, Number 83. Prewitt
+and Associates, Inc. Austin, Texas.
+
+Ecological Communications Corporation
+
+39
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Brown, D. F.
+1942
+
+Button Parade. Wallace-Homestead Co., Des Moines, Iowa.
+
+Cartridge Collector
+2011
+
+Those Confusing .45 Colt and Schofield Headstamps. http://www.oldammo.com/march08.
+htm. [accessed December 15, 2011].
+
+China Doll
+2011
+
+China Doll. http://en.wikipedia.org/wiki/Chin_doll. [accessed December 17, 2011].
+
+Cotner, R. C.
+2011
+
+Hogg, James Stephen. http://www.tshaonline.org/handbook/online/articles/fho17. [accessed
+December 17, 2011].
+
+Daniel, J. H., P. Daniel, and D. Blodgett
+1984
+
+The Texas Governor’s Mansion. Texas State Library and Archives Commission (Austin, TX)
+and the Sam Houston Regional Library and Research Center (Liberty, TX).
+
+Enamelware History
+2006
+
+Fanny & Vera’s Site for New Civilians: Enamelware/Graniteware. http://www.shasta.com/
+suesgoodco/newcivilians/faq/qenamelware.htm. [accessed December 17, 2011].
+
+Fox, A. A., I. W. Cox, L. Highley, and D. Hafernik
+1989
+
+Archaeological and Historical Investigations at the Site of the New Bexar County Justice
+Center in Downtown San Antonio, Texas. Archaeological Survey Report, No.184, Center for
+Archaeological Research, The University of Texas at San Antonio.
+
+Frantz, J. B.
+1985
+
+From the Beginning: Log Cabin to Mansion. In The Governor’s Mansion of Texas: A Historic
+Tour, pp. 67–72. Friends of the Governor’s Mansion, Austin.
+
+Friends of the Governor’s Mansion
+1985
+
+Part Three. A Historical Perspective. In The Governor’s Mansion of Texas: A Historic Tour, pp.
+55–64. Friends of the Governor’s Mansion, Austin.
+
+Gammel, K. H.
+1898
+
+40
+
+Gammel’s The Laws of Texas: Nineteenth Century Texas Laws Online. The Laws of Texas,
+1822–1897, Volumes 1–10. University of North Texas Library. http://texasinfo.library.unt.edu.
+[accessed December 14, 2011].
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+German and French Dolls
+2011
+
+A Brief History of Antique Dolls. http://collectdolls.about/com/library/weekly/aa032999.htm.
+[accessed December 17, 2011].
+
+Gross, K. J., and F. Meissner
+1997
+
+Architectual Methods. In Archaeology at the Alamodome: Investigations of a San Antonio
+Neighborhood in Transition, Volume III, pp. 229–241, edited by Anne A. Fox, Marcie Renner,
+and Robert J. Hard. Archaeological Survey Report No. 238, Center for Archaeological Research,
+The University of Texas at San Antonio.
+
+Hafertepe, K.
+2011
+
+Cook, Abner Hugh. Handbook of Texas Online. http://www.tshaonline.org/handbook/online/
+articles/fco46. [accessed December 14, 2011]. Published by the Texas State Historical
+Association.
+
+Headstamp Codes
+2011
+
+International Ammunition Association. http://cartridgecollectors.org/headstampcodes_
+bottom.htm. [accessed December 14, 2011].
+
+Homer Laughlin China Company
+2011
+
+History of HLC. http://www.hlchina.com/company.htm [accessed November 7, 2011].
+
+Insulator Companies
+2011
+
+Insulator Companies and Their History. http://www.r-ininity.com/company/index.htm.
+[accessed December 16, 2011].
+
+Ivey, J. E., and A. A. Fox
+1981
+
+Archaeological Survey and Testing at Ranchos de las Cabras, Wilson County, Texas.
+Archaeological Survey Report No. 104. Center for Archaeological Research,The University of
+Texas at San Antonio.
+
+Kendrick, G.
+1966
+
+The Antique Bottle Collector. Edward Brothers, Inc., Ann Arbor, Michigan.
+
+Kovel, R., and T. Kovel
+2001
+
+Kovel’s Antiques & Collectibles. Three Rivers Press, New York.
+
+Leezer, C.
+2006
+
+Archaeological Investigations at the Levi Jordan Plantation State Historic Site, Brazoria
+County, Texas, Archaeological Studies Report No. 7. Center for Archaeological Studies, Texas
+State University–San Marcos.
+
+Ecological Communications Corporation
+
+41
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Lehner, L.
+1988
+
+Lehner’s Encyclopedia of U.S. Marks on Pottery, Porcelain & Clay. Collector Books, Paducah,
+Kentucky.
+
+Lindsey, B.
+2011
+
+Historic Glass Bottle Identification & Information Website. www.blm.gov/historic_bottles.
+htm. [accessed December 19, 2011].
+
+Logan, H. C.
+1959
+
+Cartridges: A Pictorial Digest of Small Arms Ammunition. Stackpole Publisher, Harrisburg,
+Pennsylvania.
+
+McGuire, J.
+1985
+
+The People Who Lived in the Mansion. In The Governor’s Mansion of Texas: A Historic Tour,
+pp. 95–150. Friends of the Governor’s Mansion, Austin.
+
+Meissner, B. A.
+1997
+
+Dolls, Toys, Games, and Other Diversions. In Archaeology at the Aladome: Investigations of a
+San Antonio Neighborhood in Transition, pp. 57–99. Archaeological Survey Report No. 238.
+Center for Archaeological Research, The University of Texas at San Antonio.
+
+Miller, G. L.
+1991
+
+A Revised Set of CC Index Values for Classification and Economic Scaling of English Ceramics
+from 1787 to 1880. Historical Archaeology 25(1):1–25.
+
+Moir, R. W.
+1988
+
+Window Glass. In Historic Farming on the Hogwallow Prairies, Ethnoarchaeological
+Investigations of the Mountain Creek Area, North Central Texas. Joe Pool Lake Archaeological
+Project, Volume 2. Archaeological Research Program, Institute for the Study of Earth and Man,
+Southern Methodist University, Dallas.
+
+Moulton, T. G.
+2011
+
+Kissin Cousins: A History of Insulator and Fruit Jar Manufacturers. http://www.insulators.info/
+articles/fruitref.htm#SPRATT. [accessed December 16, 2011].
+
+Munsey, C.
+1970
+
+The Illustrated Guide to Collecting Bottles. Hawthorn Books, Inc., New York.
+
+National Insulator Association
+2011
+
+42
+
+Insulator Historical Timeline! 1830–1859. http://www.nia.org/timeline/1840.htm. [accessed
+December 14, 2011].
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+National Park Service
+2000
+
+The Use of Ultraviolet Induced Visible-Fluorescence in the Examination of Museum Objects,
+Part II. Conserve O Gram Number 1/10.
+
+Nelson, L. H.
+1968
+
+Nail Chronology as an Aid to Dating Old Buildings. American Association for State and Local
+History, Technical Leaflet No. 48. Nashville, Tennessee.
+
+Nuts and Bolts
+2011
+
+History of the Bolt & Nut Industry in America. Annual Newsletter, Winter 2001. C a r r i a g e
+Museum of America Library. Bird-in-Hand, Pennsylvania. http://www.carriagemuseumlibrary.
+com [accessed December 16, 2011].
+
+Ohio Lightning Rod Insulators
+2011
+
+James Spratt. http//lightningrodinsulators.com. [accessed December 16, 2011].
+
+Polak, M.1997 Bottles Identification and Price Guide. Avon Books. New York.
+Pool, J. C.
+1987
+
+Fanthorp Inn: A Study of Nineteenth and Twentieth Century Buttons. In Archaeological
+Excavations at Fanthorp Inn State Historic Site (41GM79), Grimes County, Texas, 1982, pp.
+277–293. Texas Parks and Wildlife Department, Historic Sites and Restoration Branch, Austin.
+
+Randle, A. B.
+1985
+
+The Grounds of the Governor’s Mansion. In The Governor’s Mansion of Texas: A Historic
+Tour, pp. 85–94. Friends of the Governor’s Mansion, Austin.
+
+Remington
+2011
+
+Remington Arms Company History of the Firearms Business. http://www.remington.com/
+library/history/company_history.asp [accessed December 14, 2011].
+
+Rodda, P. U.
+1970
+
+Geology of the Austin West Quadrangle, Travis County, Texas. Bureau of Economic Geology,
+The University of Texas at Austin.
+
+Rybczynski, W.
+2000
+
+One Good Turn: A Natural History of the Screwdriver and the Screw. Scribner Publications,
+New York.
+
+Schroeder, J. J., Jr. (editor)
+1971
+
+The Wonderful World of Toys, Games, & Dolls 1860–1930. Digest Books, Inc. Northfield,
+Illinois.
+
+Ecological Communications Corporation
+
+43
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Smryl, V. E.
+2011
+
+Governor’s Mansion. Handbook of Texas Online. http://www.tshaonline.org/handbook/
+online/articles/ccg03. [accessed December 14, 2011. Published by the Texas State Historical
+Association.
+
+Snyder, J. B.
+1992
+
+Flow Blue: A Collector’s Guide to Patterns, History, and Values. Schiffer Publishing, Ltd.
+Atglen, Pennsylvania.
+
+St. George, E.
+1948
+
+The Dolls of Yesterday. Bonanza, New York.
+
+Schladweiler, J., J. McDonald, P. Matty, and S. Siva
+2011
+
+Tracking Down the Roots of Our Sanitary Sewers, http://www.sewerhistory.org/index.html
+[accessed October 25, 2011].
+
+Steinbomer, R. A.
+1982
+
+Brickmaking in Texas: A History of the Industry and Its Product. Manuscript on file, Texas
+Historical Commission Library, Austin.
+
+Toulouse, J. H.
+1971
+
+Bottle Makers and Their Marks. Thomas Nelson Inc., New York.
+
+1977
+
+Price Guide to Fruit Jars. Everybody’s Press, Inc. Hanover, Pennsylvania.
+
+Williams, E.
+2011
+
+The Bricks of Abilene. Arrick/Orrick Geneaology. http://www.arrick.com/family/files/
+
+brickplant3.jpg. [accessed December 20, 2011].
+
+Woodhead, E. I., C. Sullivan, and G. Gusset
+1984
+
+44
+
+Lighting Devices in the National Parks Reference Collection, Parks Canada. Studies in
+Archaeology, Architecture, and History. National Historic Parks and Sites Branch, Parks
+Canada, Environment Canada, Ottawa, Ontario.
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Appendix A
+
+Whole Bottles
+Kevin M. Koch
+David L. Nickels
+D. Emory Worrell
+
+Ecological Communications Corporation
+
+A-1
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+During the period of renovation, construction
+workers found three whole bottles, and turned
+them over to Mr. Kevin Koch of the SPB. Kevin
+conducted historical research on the bottles,
+and graciously allowed us to photograph them
+and present his findings in this appendix. They
+have since been returned to Mr. Koch for a SPB
+display.
+
+Henkell Sect Champagne Bottle
+This bottle (Figures A-1 through A-3) was found
+under the library, just east of the fireplace.
+
+Figure A-1. Henkell Sect Champagne bottle.
+
+Figure A-2. Base of Henkell
+Sect Champagne bottle.
+A-2
+
+Figure A-3. Neck and lip of Henkell
+Sect Champagne bottle.
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+This particular bottle of champagne was likely produced in Germany between 1894 and 1908.
+In response to an inquiry from Mr. Koch, the following e-mail was received from Ms. Barbara
+Burkardt of Henkell-Setkellerei in Germany:
+
+Dear Mr. Koch,
+Thank you so much for photos and pictures about an old Henkell Sect bottle that
+you found at the Governor’s Mansion, Austin.
+The Henkel winery delivered their wines and champagnes ever since 1847 to
+the United States, encompassing the vast region between New York, Milwaukee,
+down to Galveston.
+Although our champagne winery was founded in 1856 in Mainz, Henkell &
+Cie did not produce Henkell Trocken right away. Branding – Henkell Trocken
+is a brand name – in Germeny was not put into action locally before 1876.
+Brand protection on a national level was not possible until 1895. The very
+first brand that Henkel created was Henkell Trocken – this was done in 1894.
+Henkell Trocken developed from a range of Henkell champagnes, only specified
+by the name of their “dosage’, mild, dry, sweet. Henkel Sect Trocken was first
+produced beginning in 1856, whereas the champagne with the brand name was
+not produced earlier than 1894.
+I think your pictures show a Henken Trocken (half size) made between the
+early 1890s and 1908, and selling for about $2.00 per bottle. Since 1909, our
+champagne was manufactured in Weisbaden; from then on the labels would say
+Henkel & Co. Bierbach-Wiesbaden.
+Yours,
+Barbara Burkhardt
+April 5, 2011
+
+Ecological Communications Corporation
+
+A-3
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Sharp & Dohme Pharmaceutical Bottle
+The specimen shown in Figures A-4 and A-5 is a Sharp & Dohme medicine bottle. It was
+also found under the library, just east of the fireplace. The Sharp & Dohme Company was
+established in Baltimore, Maryland in 1860, and by 1892 was manufacturing a wide variety
+of pharmaceuticals in both liquid and pill form. The mold seam on this bottle indicates it was
+machine-made, it would have had an applied paper label, its base has raised lettering “S & D”
+and the number “3”; these attributes indicate it was likely manufactured after 1903. Sharpe
+& Dohme merged with pharmaceutical giant Merck & Company in 1953 (Bottle Books.com
+2011; Scripophily.com 2011).
+
+Figure A-4. Sharp & Dohme medicine bottle front.
+
+Figure A-5. Raised lettering on base of Sharp & Dohme medicine bottle.
+
+A-4
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Martha Washington Wine Bottle
+This bottle was found while removing the elevator. The elevator had a concrete retaining wall
+around the base of the shaft which was about 3 feet above the basement floor level. The dirt
+behind the east wall of the shaft was about 6 feet higher than the basement floor. Construction
+worker David Warwick noticed a small crack in the shaft, looked behind the concrete shaft
+wall, and saw the bottle in some loose dirt. Mr. Warwick then used a stick to rake the bottle to
+the crack in the wall shaft so he could retrieve it.
+According to Kevin Koch, the elevator
+became non-operational in the early 1940s.
+The addition was built in 1914 and at that
+time the basement was excavated, leaving
+about 6 feet of soil above a retaining wall
+adjacent to the 1856 structure. The central
+crawl space was shored in the late 1950s,
+and the foundation wall was underpinned.
+In sum, it would be very hard to tell what
+journey this particular bottle took for it to
+get to where it was found.
+This particular specimen has the words
+“EPPSTEIN & SON” “VINTNERS” “FORT
+WORTH” in raised lettering near the bottom,
+and the number “3” in raised lettering on its
+base. Kevin Koch’s research indicates that
+the brand name “Martha Washington” was
+issued to Milton C. Eppstein, doing business
+at the corner of Eighth and Throckmorton
+Streets in Fort Worth Texas. Mr. Eppstein
+was involved in selling champagne, sherry
+and assorted wines (Martha Washington
+2011a). In 1912, Milton Eppstein was issued
+a federal trademark serial number for selling
+these same wares. Notably, the serial number
+expired in 1993 (Martha Washington 2011b).
+
+Figure A-6. Martha Washington wine bottle.
+
+The base of the bottle bears a “B” in raised lettering maker’s mark. This is most likely the
+maker’s mark used by the Buck Glass Company of Baltimore, Maryland from 1909-1961
+(Toulouse 1971:57-58; Elling 2011). Note its ribbed design, paper label, finely machined
+and smoothed neck and lip, and the clarity, but with slightly amber hued glass. The labeling,
+lettering, and machine technology suggest a post-1903 period of manufacture, while the clarity
+of the bottle with a slight amber hue suggests a period of manufacture between 1915 and 1930.
+
+Ecological Communications Corporation
+
+A-5
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+References Cited
+Elling, Michael M.
+2011
+
+Plain “B” Bottlemark: Buck Glass of Baltimore. http://www.angelfire.com/zine2/
+thesodafizz/2002Dec-BuckGlass.html. [accessed December 20, 2011].
+
+Martha Washington
+2011a Champagne or Champagnes. http://www.findownersearch.com/category-champagne-brands-3.
+html. [accessed November 15, 2011].
+2011b
+
+Trademarkia. http://www.trademarkia.com/martha-washington-71063003.html.
+November 15, 2011].
+
+[accessed
+
+Bottlebooks.com
+2011
+
+Sharp Dohme Company. Digger Odell Publications. http://www.bottlebooks.com/wholesale%20
+druggists/sharpe%20dohme%20wd.html. [accessed December 19, 2011].
+
+Scripophily.com
+2011
+
+A-6
+
+Sharp & Dohme Manufacturing Chemists. http://scripophily.stores.yahoo.net/shdomachnewy.
+html. [accessed December 19, 2011].
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Appendix B
+
+Artifacts Collected
+
+Ecological Communications Corporation
+
+B-1
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Appendix B. Artifacts Collected.
+Lot
+
+Monitoring Area
+
+Side
+
+Artifact Description
+
+N
+
+Remarks
+
+recommendation
+
+1
+
+Hazmat soil removal,
+N border garden,
+next to 1st column
+
+N
+
+Whiteware base fragment,
+bright white paste, highly fired
+
+1
+
+Ironstone
+
+Discard
+
+Horse tooth
+
+1
+
+Very worn
+
+Curate at TARL
+
+Bottle body sherd, amber,
+varying thickness, heavy patina
+
+1
+
+-
+
+Discard
+
+Bottle body and base fragment,
+green, thick, heavy patina
+
+1
+
+-
+
+Discard
+
+N
+
+Window glass sherds, clear, light
+green hue, light patina (6 each)
+
+6
+
+Some burned, 1 w/
+numerous cracks
+
+Discard
+
+N
+
+Bottle or jar body sherd, aqua,
+med. thick, med. patina
+
+1
+
+-
+
+Discard
+
+2
+
+Electrical utilities
+trench, NW corner
+of N lawn
+
+N
+
+3
+
+Hazmat soil removal,
+N border garden,
+next to 1st column
+
+4
+
+Electrical utilities
+trench, NW corner
+of N lawn
+
+N
+
+Porcelain body sherd
+
+1
+
+-
+
+Discard
+
+5
+
+Hazmat soil removal,
+E border garden,
+S of front stairs
+
+E
+
+Window glass sherds, clear,
+some w/ light green hue, some
+w/ light patina (5 each)
+
+5
+
+Some burned, 1 w/
+numerous cracks
+
+Discard
+
+6
+
+Hazmat soil removal,
+S basement entry
+
+S
+
+Whiteware body sherd, white
+paste, crackled surface
+
+1
+
+-
+
+Discard
+
+7
+
+Hazmat soil removal,
+N border garden,
+next to pecan tree
+
+N
+
+Whiteware base fragment, white
+paste, thick, crackled surface
+
+1
+
+Probable vase
+
+Discard
+
+8
+
+Hazmat soil removal,
+N border garden,
+next to pecan tree
+
+N
+
+Window glass sherd,
+clear, light green hue
+
+1
+
+-
+
+Discard
+
+9
+
+Hazmat soil removal,
+N border garden,
+next to 1st column
+
+N
+
+Window glass sherd,
+clear, light green hue
+
+1
+
+-
+
+Discard
+
+10
+
+Hazmat soil removal,
+E border garden,
+N of front stairs
+
+E
+
+Whiteware body sherd, white
+paste, crackled surface
+
+1
+
+-
+
+Discard
+
+11
+
+Hazmat soil removal,
+N border garden,
+next to pecan tree
+
+N
+
+Bottle body sherd, green,
+thick, heavy patina
+
+1
+
+-
+
+Discard
+
+N
+
+Window glass sherds, clear, light
+green hue, light patina (5 each)
+
+5
+
+Some burned, 1 w/
+numerous cracks
+
+Discard
+
+12
+
+Hazmat soil removal,
+N border garden,
+next to 1st column
+
+N
+
+Jar rim and body fragment,
+clear, no hue, machine-made
+
+1
+
+-
+
+Discard
+
+N
+
+Lightning rod insulator
+fragment, aqua, thick
+
+1
+
+Embossed w/ “NT
+SPRATT” (James
+Spratt Patent 1850)
+
+Curate at TARL
+
+13
+
+B-2
+
+Hazmat soil removal,
+N border garden,
+next to pecan tree
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Lot
+
+14
+
+Monitoring Area
+
+Electrical utilities
+trench, NW corner
+of N lawn
+
+Side
+
+Artifact Description
+
+N
+
+Remarks
+
+recommendation
+
+N
+
+Whiteware body sherds, bright
+white paste, highly fired (2 each)
+
+2
+
+Ironstone
+
+Discard
+
+N
+
+Bottle body fragment, green,
+numerous bubbles
+
+1
+
+-
+
+Discard
+
+N
+
+Bottle body sherd,
+amber, med. patina
+
+1
+
+-
+
+Discard
+
+N
+
+Bottle body sherds, clear, 1
+w/ light green hue, varying
+thicknesses, light patina (5 each)
+
+5
+
+-
+
+Discard
+
+N
+
+Indeterminate glass sherds,
+clear, 2 w/ light green hue,
+light patina (3 each)
+
+3
+
+-
+
+Discard
+
+N
+
+Whiteware body sherds, white
+paste, crackled surface (2 each)
+
+2
+
+-
+
+Discard
+
+N
+
+Indeterminate ceramic fragment
+
+1
+
+-
+
+Discard
+
+15
+
+Electrical utilities
+trench, 1914 addition,
+NW fireplace
+
+N
+
+Indeterminate ceramic fragment
+
+1
+
+Probable sewer pipe
+
+Discard
+
+16
+
+Electrical utilities
+trench, NW corner
+of N lawn
+
+N
+
+Whiteware rim sherd, white
+paste, thick, crackled surface
+
+1
+
+-
+
+Discard
+
+Electrical utilities
+trench, 1914 addition,
+NW fireplace
+
+N
+
+Indeterminate ceramic fragment
+
+1
+
+Probable sewer pipe
+
+Discard
+
+17
+
+N
+
+Whiteware body sherd, offwhite paste, crackled surface
+
+1
+
+-
+
+Curate at TARL
+
+18
+
+Electrical utilities
+trench, 1914 addition,
+NW fireplace
+
+N
+
+Window glass sherd, clear,
+light green hue, light patina
+
+1
+
+-
+
+Discard
+
+19
+
+Electrical utilities
+trench, NW corner
+of N lawn
+
+N
+
+Whiteware rim sherd w/
+molded decoration, off-white
+paste, crackled surface
+
+1
+
+-
+
+Curate at TARL
+
+N
+
+Whiteware base sherd, bright
+white paste, highly fired
+
+1
+
+Ironstone
+
+Discard
+
+20
+
+Hazmat soil removal,
+N border garden,
+next to 1st column
+
+N
+
+Bottle body sherd, green,
+numerous bubbles, med. patina
+
+1
+
+-
+
+Discard
+
+S
+
+Earthenware rim and body
+fragments, re-fit (2 each)
+
+4
+
+Probable flower pot
+
+Discard
+
+S
+
+Glass rim sherd, clear, thin
+
+1
+
+-
+
+Discard
+
+S
+
+Window glass sherd, clear, light
+green hue, thick, light patina
+
+1
+
+-
+
+Discard
+
+21
+
+Geothermal monitoring,
+S lawn, near S end
+of front porch
+
+22
+
+Geothermal monitoring,
+S lawn, near S entry
+
+23
+
+Geothermal monitoring,
+N lawn, N central area
+
+N
+
+Bone, unidentified (3 each)
+
+3
+
+-
+
+Discard
+
+24
+
+Hazmat soil removal,
+E border garden,
+N of front stairs
+
+E
+
+Marine shell
+
+1
+
+-
+
+Curate at TARL
+
+25
+
+Geothermal monitoring,
+S lawn, near S end
+of front porch
+
+S
+
+Bottle neck, amber, light patina
+
+1
+
+-
+
+Curate at TARL
+
+26
+
+Hazmat soil removal,
+E border garden,
+N of front stairs
+
+E
+
+Ceramic doll part, horse hoof,
+blue decoration, incised “80”
+
+1
+
+-
+
+Curate at TARL
+
+27
+
+Hazmat soil removal,
+E border garden,
+N of front stairs
+
+E
+
+Nail, cut, 4 1/2”
+
+1
+
+-
+
+Curate at TARL
+
+Ecological Communications Corporation
+
+B-3
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Lot
+
+Monitoring Area
+
+Side
+
+Artifact Description
+
+N
+
+Remarks
+
+recommendation
+
+28
+
+Geothermal monitoring,
+S lawn, 2 meters
+N of gazeebo
+
+S
+
+Bottle body sherd,
+amber, light patina
+
+1
+
+-
+
+Discard
+
+29
+
+Geothermal monitoring,
+N lawn, 10 meters
+N of front porch
+
+N
+
+Whiteware base fragment,
+bright white paste, highly fired
+
+1
+
+Ironstone
+
+Discard
+
+30
+
+Geothermal monitoring,
+S lawn, SE corner
+
+S
+
+Whiteware plate base fragment,
+bright white paste, highly fired
+
+1
+
+Ironstone
+
+Discard
+
+31
+
+Geothermal monitoring,
+S lawn, 5 meters
+S of S entry
+
+S
+
+Whiteware cup rim sherd,
+bright white paste, highly fired
+
+1
+
+Ironstone
+
+Curate at TARL
+
+32
+
+Hazmat soil removal,
+E border garden,
+N of front stairs
+
+E
+
+Ceramic doll body, highly fired
+
+1
+
+-
+
+Curate at TARL
+
+33
+
+Geothermal monitoring,
+N lawn, central area
+
+N
+
+Flow Blue sherd, off-white
+paste, crackled surface
+
+1
+
+-
+
+Curate at TARL
+
+34
+
+Geothermal monitoring,
+N lawn, central area
+
+N
+
+Bottle base fragment,
+amber, thick, med. patina
+
+1
+
+Produced in a
+cup-bottom mold,
+embossed “A”
+
+Curate at TARL
+
+N
+
+.45 caliber shell casing, stamped
+“REM-UMC”, “.45 COLT”
+
+1
+
+Union Metallic
+Cartridge Co.
+combined w/
+Remington in 1912
+
+Curate at TARL
+
+N
+
+Composition ball?
+
+1
+
+-
+
+Curate at TARL
+
+N
+
+Bottle body fragment, aqua,
+thick, numerous bubbles
+
+1
+
+-
+
+Discard
+
+N
+
+Bone, unidentified, cut
+
+1
+
+-
+
+Discard
+
+N
+
+Window glass sherds, clear, light
+green hue, light patina (2 each)
+
+2
+
+-
+
+Discard
+
+N
+
+Bottle body sherd, clear,
+thick, light patina
+
+1
+
+-
+
+Discard
+
+N
+
+Whiteware body sherd, white
+paste, thick, crackled surface
+
+1
+
+-
+
+Discard
+
+N
+
+Whiteware body sherd, white
+paste, crackled surface
+
+1
+
+-
+
+Discard
+
+35
+
+Hazmat soil removal,
+N border garden, W
+of concrete slab
+
+36
+
+Hazmat soil removal,
+N border garden,
+next to pecan tree
+
+N
+
+Vehicle headlamp sherd, clear,
+molded pattern, light patina,
+embossed partial “GE”
+
+1
+
+General Electric
+maker’s mark
+(very modern)
+
+Discard
+
+37
+
+Hazmat soil removal,
+N border garden,
+next to pecan tree
+
+N
+
+Bottle body sherd, light
+aqua, thick, light patina
+
+1
+
+-
+
+Discard
+
+N
+
+Whiteware body fragment,
+off-white paste, thick,
+crackled surface
+
+1
+
+-
+
+Discard
+
+N
+
+Bottle body sherd, green,
+numerous bubbles, light patina
+
+1
+
+-
+
+Discard
+
+N
+
+Large metal spoon,
+heavily corroded
+
+1
+
+-
+
+Curate at TARL
+
+N
+
+Bottle body sherd, green,
+thick, heavy patina
+
+1
+
+-
+
+Discard
+
+38
+
+39
+
+B-4
+
+Soil removal, beginning
+of 1914 addition, N side
+
+Hazmat soil removal,
+N border garden, W
+of concrete slab
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Lot
+
+40
+
+41
+
+Monitoring Area
+
+Geothermal monitoring,
+S lawn, 2 meters
+NW of gazeebo
+
+Hazmat soil removal,
+N border garden, NE
+drain to pecan tree
+
+Side
+
+Artifact Description
+
+N
+
+Remarks
+
+recommendation
+
+S
+
+Large unidentified
+battery hardware?
+
+1
+
+Covered in
+degraded insulation
+(asbestos?)
+
+Discard
+
+S
+
+Whiteware body and body/
+base sherds, bright white
+paste, highly fired (1 of each)
+
+2
+
+Ironstone
+
+Discard
+
+S
+
+Whiteware base sherd, offwhite paste, crackled surface,
+Homer Laughlin mark
+
+1
+
+Mark dates to
+around 1900
+
+Curate at TARL
+
+S
+
+Thumbtack w/ plastic head
+
+1
+
+Modern
+
+Discard
+
+S
+
+Flagging tape, red
+
+1
+
+Modern
+
+Discard
+
+S
+
+Earthenware body sherd
+
+1
+
+Probable flower pot
+
+Discard
+
+S
+
+Large construction tile
+fragment w/ mortar
+
+1
+
+-
+
+Curate at TARL
+
+S
+
+Possible lamp or lantern
+sherd, clear, thin, light patina
+
+1
+
+-
+
+Curate at TARL
+
+S
+
+Bone, unidentified, (2
+vertebrae, 1 rib?)
+
+3
+
+-
+
+Discard
+
+S
+
+Bone, unidentified, cut (2 each)
+
+2
+
+-
+
+Discard
+
+S
+
+Horse shoe fragment,
+heavily corroded
+
+1
+
+-
+
+Discard
+
+S
+
+Indeterminate glass sherd,
+clear, light patina
+
+1
+
+-
+
+Discard
+
+S
+
+Indeterminate glass sherd,
+clear w/ slight amethyst
+hue, light patina
+
+1
+
+-
+
+Discard
+
+S
+
+Glass container body and
+base fragment, clear w/ slight
+amethyst hue, thin, med. patina
+
+1
+
+-
+
+Discard
+
+S
+
+Bottle body sherd, amber,
+thick, heavy patina
+
+1
+
+-
+
+Discard
+
+S
+
+Bottle body and body/base
+fragments, aqua, thick to thin,
+heavy patina (1 of each)
+
+2
+
+-
+
+Discard
+
+S
+
+Bottle body sherd, green,
+numerous bubbles, light patina
+
+1
+
+-
+
+Discard
+
+S
+
+Whiteware body fragment,
+off-white paste
+
+1
+
+-
+
+Discard
+
+N
+
+Austin Common brick,
+Type 1 (1 whole)
+
+1
+
+-
+
+Curate at TARL
+
+N
+
+Ceramic sewer pipe, orange/red
+paste, brown slip interior/exterior
+(2 whole-1 w/ bell, 5 fragments)
+
+7
+
+-
+
+Discard
+
+N
+
+Ceramic sewer pipe, orange/
+red paste, brown slip interior/
+exterior (1 bell fragment,
+1 exterior fragment)
+
+2
+
+-
+
+Discard
+
+N
+
+Ceramic sewer pipe, light
+brown paste, brown slip
+interior/exterior (1 fragment)
+
+1
+
+-
+
+Discard
+
+N
+
+Cut rocks, burned (3 each)
+
+3
+
+-
+
+Discard
+
+N
+
+Austin Common bricks,
+Type 1 (2 fragments)
+
+2
+
+-
+
+Discard
+
+N
+
+Austin Common brick
+fragment, indeterminate type
+
+1
+
+-
+
+Discard
+
+Ecological Communications Corporation
+
+B-5
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Lot
+
+Monitoring Area
+
+Side
+
+Artifact Description
+
+N
+
+Remarks
+
+recommendation
+
+42
+
+Hazmat soil removal,
+N border garden, W
+of concrete slab
+
+N
+
+Ceramic sewer pipe, orange/red
+paste, brown slip interior/exterior
+(1 fragment w/ partial bell)
+
+1
+
+-
+
+Discard
+
+43
+
+Hazmat soil removal,
+N border garden, E
+of concrete slab
+
+N
+
+Ceramic sewer pipe, light
+brown paste, brown slip interior/
+exterior (1 whole w/ bell)
+
+1
+
+-
+
+Discard
+
+S
+
+Ceramic sewer pipe, light to dark
+brown paste, brown slip interior/
+exterior (4 bell fragments)
+
+4
+
+-
+
+Discard
+
+S
+
+Ceramic sewer pipe, dark
+orange/red paste, brown slip
+interior/exterior (1 whole)
+
+1
+
+-
+
+Discard
+
+S
+
+Austin Common brick
+fragment, Type 1
+
+1
+
+-
+
+Curate at TARL
+
+S
+
+Austin Common brick
+fragment, Type 2
+
+1
+
+-
+
+Curate at TARL
+
+S
+
+Lumber fragment w/ cut nail
+
+1
+
+-
+
+Curate at TARL
+
+S
+
+Austin Common brick,
+Type 1 (4 whole)
+
+4
+
+-
+
+Curate at TARL
+
+S
+
+Austin Common brick fragment,
+Type 1 (5 fragments)
+
+5
+
+-
+
+Discard
+
+44
+
+45
+
+46
+
+Hazmat soil removal,
+S basement entry
+
+Geothermal monitoring,
+S lawn, central area
+
+Geothermal monitoring,
+S lawn, SE corner
+of front porch
+
+47
+
+Electrical utilities
+trench, NW lawn,
+central area
+
+N
+
+Woven wire
+
+1
+
+-
+
+Discard
+
+48
+
+Geothermal
+monitoring, E lawn,
+trench into house
+
+E
+
+Cut rocks (3 each)
+
+3
+
+-
+
+Discard
+
+N
+
+Austin Common brick,
+Type 1 (1 whole)
+
+1
+
+-
+
+Curate at TARL
+
+N
+
+Austin Common bricks,
+Type 1 (8 fragments)
+
+8
+
+-
+
+Discard
+
+N
+
+Austin Common brick
+fragment, indeterminate type
+
+1
+
+-
+
+Discard
+
+N
+
+Austin Common brick, Type 1
+
+1
+
+-
+
+Curate at TARL
+
+N
+
+Lumber fragment w/
+round nail, burned
+
+1
+
+-
+
+Discard
+
+W
+
+Indeterminate glass sherd, clear,
+light green hue, med. patina
+
+1
+
+-
+
+Discard
+
+W
+
+Indeterminate metal
+
+1
+
+-
+
+Discard
+
+N
+
+Ceramic sewer pipe, orange/
+red paste, brown slip
+exterior (3 fragments)
+
+3
+
+-
+
+Discard
+
+N
+
+Ceramic sewer pipe, orange/red
+paste, grey slip interior/exterior
+(1 bell fragment, 5 fragments)
+
+6
+
+-
+
+Discard
+
+N
+
+Ceramic sewer pipe fragment,
+large diameter, orange/
+red paste, brown interior/
+exterior (1 fragment)
+
+1
+
+-
+
+Discard
+
+N
+
+Ceramic sewer pipe, orange/
+red paste, brown interior/
+exterior (1 bell fragment)
+
+1
+
+-
+
+Discard
+
+49
+
+Geothermal monitoring,
+N lawn, E central area
+
+50
+
+Soil removal,
+NW fireplace
+
+51
+
+Geothermal monitoring,
+W lawn, E central
+area, feat. 8
+
+52
+
+53
+
+B-6
+
+Hazmat soil removal,
+N border garden, W
+of concrete slab
+
+Geothermal monitoring,
+N lawn, central area
+
+Ecological Communications Corporation
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+Lot
+
+54
+
+Monitoring Area
+
+Pecan tree stump
+removal, W lawn
+
+Side
+
+Artifact Description
+
+N
+
+Remarks
+
+recommendation
+
+W
+
+mammal rib bone
+fragment (2 each)
+
+2
+
+-
+
+Curate at TARL
+
+W
+
+Thick amber bottle glass sherd
+
+1
+
+-
+
+Curate at TARL
+
+W
+
+Mammal long bone (sawn)
+
+1
+
+-
+
+Curate at TARL
+
+W
+
+Brown glazed ceramic bathroom
+or kitchen tile fragment
+
+1
+
+-
+
+Curate at TARL
+
+W
+
+Aqua glazed ceramic bathroom
+or kitchen tile fragment
+
+1
+
+-
+
+Curate at TARL
+
+W
+
+Earthenware flower pot sherd
+
+1
+
+-
+
+Curate at TARL
+
+W
+
+Butler bricks 1 half, 1 whole)
+
+2
+
+-
+
+Discard
+
+W
+
+Abilene brick halves (2 each)
+
+2
+
+-
+
+Discard
+
+W
+
+Unmarked whole
+pinkish red brick
+
+1
+
+-
+
+Discard
+
+W
+
+Austin Common type 2
+brick fragments (2 each)
+
+2
+
+-
+
+Discard
+
+W
+
+Unidentifiable metal fragment
+
+1
+
+-
+
+Discard
+
+Ecological Communications Corporation
+
+B-7
+
+Archaeological Investigations and Construction Monitoring at the Texas Governor’s Mansion, Austin, Texas
+
+B-8
+
+Ecological Communications Corporation
+
+

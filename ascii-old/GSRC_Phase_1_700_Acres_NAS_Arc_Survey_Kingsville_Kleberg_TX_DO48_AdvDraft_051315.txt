@@ -1,0 +1,4732 @@
+ADVANCE DRAFT
+PHASE I ARCHAEOLOGICAL SURVEY OF 700 ACRES
+NAVAL AIR STATION KINGSVILLE
+KLEBERG COUNTY, TEXAS
+
+Prepared for:
+Naval Facilities Engineering Command Southeast
+
+Prepared by:
+Gulf South Research Corporation
+
+May 2015
+
+ADVANCE DRAFT
+PHASE I ARCHAEOLOGICAL SURVEY OF 700 ACRES
+NAVAL AIR STATION KINGSVILLE
+KLEBERG COUNTY, TEXAS
+
+Prepared for:
+Naval Facilities Engineering Command Southeast
+
+Prepared by:
+Dean A. Barnes
+David R. Hart
+Brian Thibodeaux
+Gulf South Research Corporation
+8081 Innovation Park Dr.
+Baton Rouge, LA 70820
+
+Contract Number: N69450-12-D-0073
+Delivery Order 48
+
+_____________________________
+David Hart, RPA
+Principal Investigator
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+ABSTRACT
+Gulf South Research Corporation (GSRC) personnel conducted an intensive pedestrian
+archaeological survey supplemented with shovel testing of approximately 700 acres (ac) at Naval
+Air Station (NAS) Kingsville, which is located southeast of Kingsville in Kleberg County,
+Texas. GSRC conducted the survey for Naval Facilities Engineering Command Southeast
+(NAVFAC SE) according to the work plan prepared under Contract No. N69450-12-D-0073,
+Delivery Order 48. The project area was subject to pedestrian survey at 30-meter (m) (100-foot
+[ft]) intervals and supplemented with the excavation of 300 shovel test pits (STPs) in accordance
+with the Archaeological Survey Standards for Texas recommended by the Texas Historical
+Commission.
+GSRC conducted the survey on behalf of NAVFAC SE and in accordance with an approved
+work plan prepared under Contract No. N69450-12-D-0073, Delivery Order 48. Dr. John
+Calabrese of NAVFAC SE served as technical representative for the project, and Mr. Jeremy
+Adams, natural resources manager for NAS Kingsville, provided onsite support and guidance.
+GSRC personnel included Mr. Dave Hart, who served as the principal investigator and project
+manager, and Mr. Dean Barnes, who served as field director for the project. Field archaeologists
+included Mr. Steven Fullen, Mr. Brian Thibodeaux, Ms. Jenni Bivona, and Mr. Erik Haydel.
+Fieldwork was conducted during two 10-day field sessions from January 5 to 14 and January 19
+to 28, 2015, by Mr. Barnes, Mr. Fullen, Mr. Thibodeaux, Ms. Bivona, and Mr. Haydel.
+The cultural resources survey resulted in the documentation of two newly identified
+archaeological sites (Field Sites 1 and 2) and three isolated occurrences of cultural material. All
+of the archaeological sites and isolated occurrences identified by this study represent late
+Historic-era occupation of the Kingsville area. Field Site 1 is a late-nineteenth to middletwentieth century historic artifact scatter and Field Site 2 is the middle-twentieth century NAS
+Kingsville airstrip built for propeller aircraft. The three isolated occurrences are a watering
+trough, a porcelain electrical wire insulator, and a metal roof trestle with an unidentified metal
+object. None of the sites are recommended as eligible for listing in the National Register of
+Historic Places (NRHP) and no further work or consideration is warranted.
+
+Archaeology Survey of 700 Acres
+NAS Kingsville
+
+i
+
+Advance Draft
+May 2015
+
+1
+2
+
+TABLE OF CONTENTS
+
+3
+
+ABSTRACT .................................................................................................................................... i
+
+4
+
+INTRODUCTION......................................................................................................................... 1
+
+5
+
+Reporting Conventions ....................................................................................................... 4
+
+6
+
+ENVIRONMENTAL SETTING ................................................................................................. 5
+
+7
+8
+9
+10
+11
+
+Geography ........................................................................................................................... 5
+Climate ................................................................................................................................ 5
+Geology and Soils ............................................................................................................... 5
+Flora and Fauna................................................................................................................... 9
+Paleoenvironment ............................................................................................................. 10
+
+12
+
+CULTURAL SETTING AT NAVAL AIR STATION KINGSVILLE .................................. 12
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+Prehistoric Overview ........................................................................................................ 12
+Paleoindian Period ................................................................................................ 12
+Early Archaic Period ............................................................................................. 14
+Middle Archaic Period .......................................................................................... 15
+Late Archaic Period .............................................................................................. 15
+Late Prehistoric Period .......................................................................................... 15
+Historic Overview ............................................................................................................. 16
+Spanish Exploration Period................................................................................... 17
+Spanish Colonial Period ........................................................................................ 17
+Mexican Colonial Period ...................................................................................... 17
+Texas Republic and Nineteenth Century American Period .................................. 17
+Twentieth Century American Period .................................................................... 18
+Archival Research and Records Search ............................................................................ 20
+Previously Conducted Archaeological Investigations .......................................... 20
+Naval Air Station Kingsville Integrated Cultural Resources Management
+Plan ........................................................................................................... 22
+Archaeological Survey of 1,000 Acres at Naval Air Station Kingsville,
+Kleberg County, Texas ............................................................................. 22
+Previously Recorded Archaeological and Historic Resources.............................. 22
+
+32
+
+SURVEY METHODS ................................................................................................................. 24
+
+33
+34
+
+Fieldwork .......................................................................................................................... 24
+Laboratory Analysis and Curation .................................................................................... 26
+
+35
+
+SURVEY RESULTS ................................................................................................................... 28
+
+36
+37
+38
+
+Field Site 1 ........................................................................................................................ 28
+Field Site 2 ........................................................................................................................ 31
+Isolated Occurrences ......................................................................................................... 36
+
+39
+
+SUMMARY AND RECOMMENDATIONS ............................................................................ 41
+
+40
+
+REFERENCES CITED .............................................................................................................. 42
+
+Archaeology Survey of 700 Acres
+NAS Kingsville
+
+ii
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+
+LIST OF FIGURES
+Figure 1.
+Figure 2.
+Figure 3.
+Figure 4.
+Figure 5.
+Figure 6.
+Figure 7.
+Figure 8.
+Figure 9.
+
+Location of NAS Kingsville, Kleberg County, Texas. .................................................2
+Project area map .............................................................................................................3
+Geologic units at NAS Kingsville..................................................................................6
+Soil types at NAS Kingsville. ........................................................................................7
+Chronological chart for archaeological regions in Texas, adapted from Perttula
+(2004). ..........................................................................................................................13
+Previously conducted archaeological studies and previously recorded archaeological
+sites within 1 mile of the survey area...........................................................................21
+Locations of newly identified sites and isolated occurrences. .....................................29
+Field Site 1 sketch map. ...............................................................................................30
+Field Site 2 sketch map. ...............................................................................................33
+LIST OF TABLES
+
+Table 1.
+Table 2.
+Table 3.
+Table 4.
+
+Swan Lake Sea-Level and Climatic Historical Phases from Albert (2006).................11
+Previously Recorded Archaeological Investigations within 1 Mile of the Survey
+Area. .............................................................................................................................22
+Previously Recorded Archaeological Sites within 1 Mile of the Survey Area. ...........23
+Artifacts Collected from Field Site 1. ..........................................................................31
+LIST OF PHOTOGRAPHS
+
+Photograph 1.
+Photograph 2.
+Photograph 3.
+Photograph 4.
+Photograph 5.
+Photograph 6.
+Photograph 7.
+Photograph 8.
+Photograph 9.
+Photograph 10.
+Photograph 11.
+Photograph 12.
+Photograph 13.
+
+Field Site 1 overview, facing north. .................................................................28
+Modern construction material debris between STPs 8 and 9 of Transect 1,
+facing north. .....................................................................................................32
+Sewage drainage entrance between STPs 8 and 9 on Transect 3. ...................34
+Piles of discarded concrete located around STP16 on Transect 9, facing
+northeast. ..........................................................................................................34
+Piles of asphalt located at the south end of Transect 4, facing north. ..............35
+Asphalt runaway/road next to STP10 on Transect 6, facing southeast............35
+IO 1, concrete watering trough, facing northwest............................................36
+IO 1, engraving on concrete watering trough. .................................................37
+Overview of IO 2, facing north. .......................................................................38
+Top view of âKNOX KNOBâ porcelain electrical insulator found at IO 2.....38
+Side view of âKNOX KNOBâ porcelain electrical insulator found at IO 2. ...39
+IO 3, unknown metal object in front and metal trestle in foreground, facing
+south. ................................................................................................................40
+Metal trestle at IO 3, facing east. .....................................................................40
+
+Archaeology Survey of 700 Acres
+NAS Kingsville
+
+iii
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+
+INTRODUCTION
+Naval Air Station (NAS) Kingsville is located southeast of Kingsville in Kleberg County, Texas
+(Figure 1). The NAS Kingsville main base consists of 3,180 acres (ac) of land, with an
+additional 798 ac in aviation and other easements. In addition to the main base, NAS Kingsville
+also manages four properties covering approximately 12,353 ac, which include the following:
+Naval Auxiliary Landing Field (NALF) Orange Grove, McMullen Range Complex, Escondido
+Ranch, and the King Ranch Relocatable Over-the-Horizon Radar (ROTHR) site. An Integrated
+Cultural Resources Management Plan (ICRMP) was developed for NAS Kingsville in 2009
+(Stokes et al. 2009). The ICRMP is âa plan that defined the process for the management of
+cultural resources on Department of Defense (DoD) installationsâ (Department of Defense
+Instruction [DODINST] 4715.16). The purpose of the ICRMP developed for NAS Kingsville is
+to provide coordinated management of NAS Kingsvilleâs mission with stewardship of cultural
+resources. The ICRMP covers a period of 5 years and has the following goals:
+ï·
+ï·
+ï·
+ï·
+ï·
+ï·
+
+Provide an assessment of the health of the installationâs cultural resources program
+Present a summary of known information about cultural resources on the installation and
+identify gaps in data
+Outline standard procedures to address common situations relating to cultural resources
+Serve as a toolbox for Cultural Resources Managers (CRMs) on how to apply various
+statutes, regulations, and guidance relating to cultural resources management
+Address concerns and requirements of internal and external stakeholders
+Serve as the institutional memory about the cultural resources program
+
+Naval Facilities Engineering Command Southeast (NAVFAC SE) issued a Naval Resources
+Environmental Technical Services Contract (N69450-12-D-0073, Delivery Order 0048) to
+GSRC to conduct an intensive pedestrian archaeological survey of 700 ac supplemented with up
+to 300 shovel tests for previously unsurveyed portions of NAS Kingsville (Figure 2). By
+inventorying NAS Kingsville-managed property for cultural resource potential and identifying
+National Register of Historic Places (NRHP) potentially eligible properties well in advance of
+proposed actions, NAS Kingsville not only takes efforts to address Section 110, but also has the
+potential to limit efforts necessary for Section 106 compliance in the future. No immediate
+undertaking is proposed that would disturb the present context of the areas under this
+investigation.
+All work conformed to guidelines set forth by the Texas Historical Commission (THC) and was
+conducted in compliance with the U.S. Navy Executive Order (USNEO) 11593 Protection and
+Enhancement of the Cultural Environment, the Standard Operating Procedure #3 National
+Historic Preservation Act (NHPA) Section 110 Compliance identified in the Naval Air Station
+Kingsville Integrated Cultural Resources Management Plan FY 2009-2014 (Stokes et al. 2009),
+and the Secretary of Interiorâs Guidelines for Local Surveys: A Basis for Preservation Planning
+(Derry et al. 1977). All work conducted under Delivery Order 0048 was conducted in
+accordance with Section 2.8 (Cultural Resources Technical Requirements), particularly sections
+2.8.1.1 (Terrestrial Archaeological Survey â Pedestrian), 2.8.7.9 (Artifact Shipment), 2.8.8.2
+(Shovel Test Pit, Multiple), 2.8.2.3 (Historic Resources Evaluation), and all appropriate sections
+of the contract.
+NAS Kingsville Archaeology Survey
+Technical Report
+
+1
+
+Advance Draft
+May 2015
+
+Oklahoma City
+
+!
+\
+
+AR
+W
+el
+ls
+
+NM
+
+El Paso
+!
+
+OK
+
+Texas
+Austin
+San Antonio
+!
+!
+Corpus Houston
+
+Jim
+
+Santa Fe
+
+!
+\
+
+Project Location
+Mexico
+
+Christi
+!
+
+Gulf
+of
+Mexico
+
+Nueces
+Kleberg
+
+Kingsville
+
+Jim Wells
+
+Kleberg
+
+NAS Kingsville Boundary
+
+Â·
+
+0
+0
+
+5
+5
+
+10
+Miles
+
+10
+Kilometers
+
+Kenedy
+
+eckpoint
+wn Area
+
+!
+\
+
+Sources: Esri, HERE, DeLorme, USGS, Intermap, increment P Corp.,
+NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand),
+TomTom, MapmyIndia, Â© OpenStreetMap contributors, and the GIS User
+Community
+
+Figure 1. Location of NAS Kingsville, Kleberg County, Texas.
+May 2015
+
+2
+
+Nueces
+
+Kleberg
+NAS Kingsville
+Map data Â©2015 Google
+Jim Wells
+Kleberg
+
+Survey Area
+NAS Kingsville Boundary
+
+Â·
+
+0
+0
+
+0.25
+0.25
+
+0.5
+
+0.5
+Miles
+
+0.75
+
+Kilometers
+Copyright:Â© 2013 National Geographic Society,
+i-cubed
+
+Figure 2. Project area map.
+May 2015
+
+3
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+Reporting Conventions
+Cultural resources specialists typically express measurements using the metric system when
+reporting on indigenous archaeological sites (e.g., meters [m] and centimeters [cm]) and English
+measurements when discussing non-indigenous properties (e.g., feet [ft] and inches [in]).
+Measurements derived from U.S. Geological Survey (USGS) maps or other sources in which
+English measurements are used are given only in English dimensions. Thus, distances are given
+in miles (mi) and elevations in ft with metric conversions. The dimensions of surveyed areas are
+expressed in acres. Metric-English conversions are provided for clarity, where appropriate.
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+4
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+
+ENVIRONMENTAL SETTING
+Geography
+Kleberg County is located in the Gulf Coast Prairie Region of Texas and lies on the mainland, as
+well as on Padre Island (United States Fish and Wildlife Servive [USFWS] 2010:9). Kleberg
+County is bounded on the western border by Jim Wells County, Kenedy County to the south,
+Nueces County to the north, and Brooks County to the southwest. The county covers a total area
+of 1,090 square miles (mi2), of which 853 mi2 lie on the mainland, with the remaining being split
+between 18 mi2 on Padre Island and 219 mi2 of water. The terrain is generally flat with
+elevations ranging from sea level to 150 ft (45 m) above sea level. Several creeks dissect the
+county, including the San Fernando, Santa Gertrudis, Escondido, and Los Olmos, which flow
+into the Cayo del Grullo and Baffin Bay (Coalson 2010).
+Climate
+The climate of Kleberg County is humid-subtropical with an average minimum temperature of
+8.9Âº Celsius (C) (48Âº Fahrenheit [F]) in January and an average high temperature of 35.6Âº C
+(96Âº F) in July. The growing season averages 314 days a year, and the average annual
+precipitation is 26.5 in (67.3 cm) (Coalson 2010).
+Geology and Soils
+The project area lies within the Pleistocene Beaumont Formation (Barnes 1975) (Figure 3). The
+geologic units encompassing the survey area are described as predominantly clay and mud of
+low permeability with a high to very high shrink-swell potential. These units generally include
+interdistributary muds, abandoned channel-fill muds, and fluvial overbank muds. Soils within
+the survey area consist of Banquete clays (BbA), Calallen sandy clay loams (CaA), Crannel
+sandy clay loams (CnA), Gertrudis fine sandy loams (GeB), Gullied land-Riverwash complex
+(GRE), and Victoria clay (VcA and VcB) (Figure 4) (United States Department of Agricultural
+[USDA], Natural Resources Conservation Service [NRCS] 2012). The soils within the survey
+area are predominantly Victoria clay (VcA) (75 percent) and Crannel sandy clay loam (CnA) (20
+percent). Subsoil varies in depth from 15 to 43 centimeters below ground surface (cmbs) (6 to
+17 inches below ground surface [inbs]).
+The Banquete series consists of very deep, moderately well drained, very slowly permeable soils
+that formed in clayey fluviomarine sediments derived from the Beaumont Formation of Late
+Pleistocene age. These soils are nearly level and found in open-ended shallow depressions and
+swales on flat plains of the South Texas Coastal Plain (USDA, NRCS 2012). A typical pedon
+for Banquete series soils consists of an A horizon from 0 to 15 cmbs (0 to 6 inbs) of black (10YR
+2/1) (black [10YR 2/1] dry) clay. This is followed by a Bss horizon from 15 to 53 cmbs (6 to 21
+inbs) of black (10YR 2/1) (black [10YR 2/1] dry) clay. A Bkss1 horizon extends from 53 to 71
+cmbs (21 to 28 inbs) consisting of a very dark gray (10YR 3/1) (dark gray [10YR 4/1] dry) clay,
+a Bkss2 horizon extending from 71 to 89 cmbs (21 to 35 inbs) consisting of a gray (10YR 5/1)
+(gray [10YR 5/1] dry) clay, and a Bkss3 horizon extending from 89 to 112 cmbs (35 to 44 inbs)
+consisting of a gray (2.5Y 6/1) (gray [10YR 6/1] dry) clay. A Bk horizon extends from 112 to
+142 cmbs (44 to 56 inbs) consisting of a light gray (10YR 7/1) (light gray [2.5Y 7/1] dry) clay
+loam (Haile and Brezina 2012).
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+5
+
+Advance Draft
+May 2015
+
+Nueces
+Kleberg
+NAS Kingsville
+Map data Â©2015 Google
+Jim Wells
+Kleberg
+
+NAS Kingsville
+
+NAS Kingsville Boundary
+Survey Area
+
+Geologic Unit
+
+Qal - alluvium
+Qbc - Beaumont Formation, predominantly clay
+Qbs - Beaumont Formation, predominantly sand
+Qcd - Clay dune
+Qsi - Silt sheet
+Water
+
+Â·
+
+0
+0
+
+2.5
+
+5
+5
+
+Miles
+
+10
+Kilometers
+
+Map data Â©2015 Google Imagery Â©2015 TerraMetrics
+
+Figure 3. Geologic units at NAS Kingsville.
+6
+
+May 2015
+
+VcA
+GeB
+
+CnA
+
+Nueces
+
+PIT
+
+Kleberg
+
+GeB
+
+NAS Kingsville
+Map data Â©2015 Google
+Jim Wells
+Kleberg
+
+CnA
+GRE
+
+VcA
+GeB
+CaA
+VcA
+VcA
+
+NAS Kingsville Boundary
+
+BbA
+
+Survey Area
+
+Soils Unit
+
+BbA - Banquete clay, 0 to 1 percent slopes
+
+CnA
+
+CaA - Calallen sandy clay loam, 0 to 1 percent slopes
+CnA - Cranell sandy clay loam, 0 to 1 percent slopes
+GRE - Gullied land-Riverwash complex
+
+VcA
+
+GeB - Gertrudis fine sandy loam, 0 to 3 percent slopes
+PIT - Pits, quarry
+VcA - Victoria clay, 0 to 1 percent slopes
+
+VcB
+
+VcB - Victoria clay, 1 to 3 percent slopes
+
+CnA
+GRE
+
+Â·
+
+0
+0
+
+0.25
+0.5
+
+0.5
+Miles
+
+1
+Kilometers
+
+Imagery Â©2015 TerraMetrics
+
+Figure 4. Soil types at NAS Kingsville.
+7
+
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+
+Cranell series soils consist of very deep, well drained, and slowly permeable soils that are found
+on flats. The soils are formed in loamy and clayey sediments of middle to late Pleistocene age.
+A typical pedon of Cranell series soils has an A horizon from 0 to 25 cmbs (0 to 10 inbs)
+consisting of a black (10YR 2/1) sandy clay loam. This is followed by two Bt horizons
+consisting of a Bt1 horizon from 25 to 56 cmbs (10 to 22 inbs) of black (10YR 2/1) sandy clay
+and a Bt2 horizon from 56 to 74 cmbs (22 to 29 inbs) consisting of a very dark gray (10YR 3/1)
+sandy clay. This is followed by a Btk horizon from 74 to 109 cmbs (29 to 43 inbs) consisting of
+a dark grayish brown (10YR 4/2) sandy clay. This is followed by two Bk horizons consisting of
+a Bk1 horizon of pale brown (10YR 6/3) sandy clay loam from 109 to 147 cmbs (43 to 58 inbs)
+and a Bk2 horizon of pale yellow (2.5Y 7/3) sandy clay loam from 147 to 203 cmbs (58 to 80
+inbs) (Haile and Brezina 2012).
+The Calallen Series soils consist of very deep, well drained, moderately permeable soils that are
+formed in loamy fluviomarine sediments in the Beaumont Formation of Late Pleistocene-age.
+They are nearly level and occur on flats on the South Texas Plain (Haile and Brezina 2012). A
+typical pedon has an Ap horizon from 0 to 20 cmbs (0 to 8 inbs) consisting of a very dark gray
+(10YR 3/1) (dark gray [10YR 4/1] dry) sandy clay loam. This is followed by a Bt1 horizon from
+20 to 36 cmbs (8 to 14 inbs) consisting of a very dark gray (10YR 3/1) (very dark gray [10YR
+3/1] dry) sandy clay loam, a Bt2 horizon from 36 to 66 cmbs (14 to 26 inbs) consisting of a very
+dark gray (10YR 3/1) (very dark gray [10YR 3/1] dry) sandy clay loam, and a Bt3 horizon from
+66 to 97 cmbs (26 to 38 inbs) consisting of a dark gray (10YR 4/1) and dark grayish brown
+(10YR 4/2) (dark gray [10YR 4/1] and grayish brown [10YR 5/2] dry) sandy clay loam. This is
+followed by a Btk1 horizon from 97 to 142 cmbs (38 to 56 inbs) consisting of a grayish brown
+(10YR 5/2) (light brownish gray [10YR 6/2] dry) sandy clay loam, a Btk2 horizon from 142 to
+168 cmbs (56 to 66 inbs) consisting of a pale yellow (2.5Y 7/3) (very pale brown [10YR 7/4]
+dry) sandy clay loam, and a Btk3 horizon from 168 to 203 cmbs (66 to 88 inbs) consisting of a
+very pale brown (10YR 7/3) (very pale brown [10YR 8/3] dry) sandy clay loam (Haile and
+Brezina 2012).
+Gertrudis series soils consist of very deep, moderately permeable, and well-drained soils found
+on erosional terrace remnants. The soils have formed from Aeolian deposits over Quaternaryage calcareous loamy alluvium. A typical pedon for Gertrudis series soils consists of an A1
+horizon of very dark grayish brown (10YR 3/2) (dark grayish brown [10YR 4/2] dry) fine sandy
+loam from 0 to 18 cmbs (0 to 7 inbs) and an A2 horizon from 18 to 43 cmbs (7 to 17 inbs)
+consisting of a very dark brown (10YR 2/2) (very dark grayish brown [10YR 3/2] dry) very fine
+sandy loam. This is followed by 2 Bk horizons consisting of a Bk1 horizon of dark grayish
+brown (10YR 4/2) (grayish brown [10YR 6/2] dry) sandy clay loam from 43 to 64 cmbs (17 to
+25 inbs) and a Bk2 horizon from 64 to 102 cmbs (25 to 40 inbs) consisting of a grayish brown
+(10YR 5/2) (light brownish gray [10YR 6/2] dry) sandy clay loam. This is followed by three
+buried Bk horizons which is interpreted to represent the Quaternary-age alluvium deposits
+consisting of a 2Bk1 horizon from 102 to 127 cmbs (40 to 50 inbs) of pale brown (10YR 6/3)
+(pale brown [10YR 6/3] dry) clay loam, a 2Bk2 horizon from 127 to 173 cmbs (50 to 68 inbs)
+consisting of a pale brown (10YR 6/3) (light gray [10YR 7/2] dry) clay loam, and a 2Bk3
+horizon from 173 to 203 cmbs (68 to 80 inbs) consisting of a light brownish gray (10YR 6/2)
+(light gray [10YR 7/2] dry) loam (Haile and Brezina 2012).
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+8
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+
+The Gullied land-Riverwash complex consists predominantly of Riverwash and similar soils (55
+percent) and Gullied land and similar soils (35 percent). Riverwash typically occurs on
+floodplains within the Coastal Plain. It consists of loamy and clayey alluvial sediments of
+Holocene age. Gullied land is similarly found on Coastal Plains and consists of loamy and
+clayey alluvial sediments. Typical pedons or profiles are not provided for either of these soil
+types/series by the USDA (Haile and Brezina 2012).
+The Victoria series consists of dark, calcareous, crumbly soils that crack when they dry and swell
+and take in water slowly when they are wet. Victoria clays are a vertisol whose parent materials
+are clayey fluviomarine deposits of Late Pleistocene age. Victoria series soils have a typical
+pedon consisting of an Ap horizon from 0 to 15 cmbs (0 to 6 inbs) of black (10YR 2/1) (very
+dark gray [10YR 3/1] dry) clay. This is followed by two Bss horizons consisting of a Bss1
+horizon of very dark gray (10YR 3/1) (very dark gray [10YR 3/1] dry) clay from 15 to 61 cmbs
+(6 to 24 inbs) and a Bss2 horizon from 61 to 94 cmbs (24 to 37 inbs) consisting of a very dark
+gray (10YR 3/1) (very dark gray [10YR 3/1] dry) clay. This is followed by a Bnss horizon from
+94 to 127 cmbs (37 to 50 inbs) consisting of a pale brown (10YR 6/3) (pale brown [10YR 6/3]
+dry) clay. This is followed by two Bkny horizons consisting of a Bkny1 horizon from 127 to 157
+cmbs (50 to 62 inbs) composed of a very pale brown (10YR 7/3) (pale yellow [2.5Y 7/3] dry)
+clay and a Bkny2 horizon from 157 to 203 cmbs (62 to 80 inbs) composed of a very pale brown
+(10YR 7/3) (pale yellow [2.5Y 8/3] dry) clay (Haile and Brezina 2012).
+Flora and Fauna
+The project location is situated within the Gulf Coast Prairie Region (USFWS 2010, 2011;
+United States Geological Survey [USGS] 2013). Common vegetation includes honey mesquite
+(Prosopis glandulosa), sugarberry (Celtis laevigata), wax myrtle (Myrica cerifera), dwarf
+palmetto (Sabal minor), lantana (Lantana camara), inland seaoats (Chasmanthium latifolium),
+big bluestem (Andropogon gerardii), and Gulf cordgrass (Spartina spartinae) (USGS 2013).
+South Texas ambrosia (Ambrosia cheiranthifolia), a Federally endangered plant, is known to
+occur at 28 sites within Kleberg and Nueces counties, including in and around Kingsville. South
+Texas ambrosia is an herbaceous ashy, blue-gray rhizomatous perennial in the Asteraceae
+(sunflower) family. Erect stems are 3.9 to 23.8 in tall. The number of plants present is difficult
+to count, as they usually form closely spaced colonies with rhizomatous growth habits inhibiting
+number counts. The leaves are usually opposite at the base, and alternate above. The leaves are
+mostly oblanceolate 0.8 to 2.8 in long, with the blade narrowing gradually at the base. Leaves
+are mostly unlobed and entire, although the lower and larger leaves of juvenile plants may be
+undulate or shallowly pinnate. Leaves appear whitened due to a fine and short appressed
+pubescence, giving the leaf an ashy blue-gray color. The inflorescence is usually unbranched
+and composed of separate male and female flowers. The male flowers occur in a terminal
+raceme 2 to 4 in long composed of 10 to 12 small, light yellow, saucer-shaped flowers that are
+about 0.16 in wide and have four to six acute, triangular lobes. The female flowers are in small
+clusters in the axils of the leaves. The fruit is an achene, somewhat angled and long with a stout
+beak. The fruit has four to five blunt spines spread across the surface (Correll and Johnston
+1970; Jones 1977). South Texas ambrosia is distinguished from related species within its
+geographical range by its simple leaves and the ashy blue-gray color; however, this species is
+easily obscured by taller native and introduced grasses (Turner 1983).
+NAS Kingsville Archaeology Survey
+Technical Report
+
+9
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+
+South Texas ambrosia grows at low elevations (less than 66 ft above mean sea level) in open
+prairies and savannas of south Texas, on soils varying from clay loams to sandy loams. Within
+the Gulf Coastal grasslands, it inhabits clay soils derived primarily from the Beaumont clay
+series (Turner 1983). This soil is typically clay loam to sandy loam, usually deep clay soils and
+occasionally on windblown clay dunes along streams. Given the known presence of south Texas
+ambrosia in and around Kingsville, specific measures for avoidance of this endangered species
+will be implemented. This includes all technicians being familiar with the identification of the
+plant and not excavating shovel tests within the vicinity of the plant.
+Wildlife commonly associated with this ecoregion include white-winged dove (Zenaida
+asiatica), red-tailed hawk (Buteo jamacaiensis), common grackle (Quiscalus quiscula), coyote
+(Canis latrans), raccoon (Procyon lotor), rats (Genera Rattus, Sigmodon, Orozomys), Texas rat
+snake (Elaphe obsoleta lindhiemeri), Texas horned lizard (Phrynosoma cornutum), and Gulf
+Coast toad (Rana valliceps) (USGS 2013).
+Paleoenvironment
+The paleoenvironment of the area during the Wisconsin Glacial Episode (87,000 to 14,000 years
+Before Present [B.P.]) was considerably cooler and more humid than today. The area was
+thought to be covered by grasslands, woodlands, and parklands including species of pine
+(Pinus spp.) and spruce (Picea spp.) that are predominantly found today in much cooler
+environments. A change to the current Holocene environmental conditions began around 10,000
+B.P., though there is some debate over timing and nature of the change, with some suggesting a
+gradual trend toward warmer and drier conditions over time and others suggesting that the
+climate fluctuated throughout the Holocene between drier and wetter conditions (Black 1989a;
+Ricklis 2004). Although there is not complete agreement on the timing of the Holocene sea-level
+rise, there is a general consensus that marine transgression was stepwise, with periods of rapid
+rise interrupted by intervals of markedly slowed rise, slight regression, or sea-level stillstand
+(Ricklis 2004).
+More recent research by Albert (2006) reconstructed the vegetational history of the Central
+Texas Coast utilizing pollen data from marsh sediments at Swan Lake on Copano Bay, as well as
+supporting sequences from Nueces Bay and the Lower Guadalupe River Valley. Three periods
+of marine influence were identified at Swan Lake, first at 7100 B.P., then at 4900 B.P., and
+finally at 3450 B.P., each of which are defined by high levels of Chenopodiaceae pollen. The
+presence of Avicennia pollen in the initial period of marine influence, and in lesser
+concentrations in the latter two periods of marine influence, is suggestive of a connection
+between higher sea levels and warmer climates in the Gulf region. Comparison of the pollen
+samples collected at Swan Lake to samples collected from a black mangrove swamp near Bahia
+Grande in the Rio Grande Delta indicate that a warmer climate approximating that of the Rio
+Grande region today was extant as far north as Coprano Bay between 7100 and 6650 B.P. In
+contrast, marine stillstands are also identified that are characterized by low Chenopodiaceae
+values, high freshwater aquatic pollen levels, and high levels of Quercus pollen; first from 5800
+to 5400 B.P., then ca. 3650 B.P., and finally from 3050 B.P. to present (Albert 2006). Table 1
+provides summary data for the Swan Lake sea-level and climatic historical phases, as developed
+by Albert (2006).
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+10
+
+Advance Draft
+May 2015
+
+1
+
+2
+3
+4
+5
+6
+7
+8
+
+Table 1. Swan Lake Sea-Level and Climatic Historical Phases from Albert (2006).
+Marine Phase definition
+
+Chronology
+
+Climatic reconstruction
+
+Earlier Holocene rise
+Earlier Holocene stillstand
+Middle Holocene highstand
+Mesic interval and regression
+Xeric interval and rise
+Modern stillstand
+
+7100-6650 B.P.
+5800-5400 B.P.
+4900-3850 B.P.
+ca. 3650 B.P.
+ca. 3450 B.P.
+3050-0 B.P.
+
+More tropical
+Mesic, high effective precipitation
+Subtropical to tropical
+Mesic, high effective precipitation
+More tropical
+Mesic to subtropical
+
+Long-term stillstand conditions were attained after 3050 B.P., which encouraged barrier island
+formation, low bay salinities, and the establishment of biotically productive, freshwater estuarine
+marshlands. Ricklis (1995) proposes that marine transgressions or rises in sea level, promote an
+emergence of low-productivity halophytic biomes, while stillstand conditions lead to an
+emergence of high-productivity estuarine marshes. These fluctuations would also result in
+fluctuating intensity of occupations as expressed in the archaeological record.
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+11
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+
+CULTURAL SETTING AT NAVAL AIR STATION KINGSVILLE
+Prehistoric Overview
+The project area is located in the Coastal Bend Cultural Region (Perttula 2004). The prehistory
+of the Coastal Bend region, also called the Coastal Texas region, can be divided into four
+periods: Early Archaic, Middle Archaic, Late Archaic, and Late Prehistoric (Figure 5) (Hester
+2004). The Paleoindian period, found in the chronologies of other regions in Texas, is not
+represented in the current regional chronology because Paleoindian site data are generally absent
+(or undocumented) across the region. Although the Paleoindian period is absent in the
+chronology of the Coastal Texas region, a general overview of the south Texas Paleoindian
+culture period is presented here for reference.
+ï·
+ï·
+ï·
+ï·
+ï·
+
+Paleoindian period
+Early Archaic period
+Middle Archaic period
+Late Archaic period
+Late Prehistoric period
+
+ca. 11,200-7500 B.P.
+ca. 7500-4200 B.P.
+ca. 4200-3100 B.P.
+ca. 3100-950 B.P.
+ca. 950-250 B.P.
+
+Ricklis (2004) further divides the Coastal Texas region by different cultural traits exhibited into
+the Central and Lower Texas Coast subregions. The current project area is located within the
+Central Texas Coast subregion.
+Paleoindian Period
+Initial human occupation of south Texas is thought to have occurred during the Paleoindian
+period from approximately 11,200 to 7500 B.P. (Black 1989b; Hester 2004). Evidence of
+Paleoindian habitation within the Central Texas Coast region is scant. Ricklis (2004) proposes
+that the earliest demonstrable human occupation and exploitation of the central coast shoreline
+dates to the Early Archaic period. The lack of Paleoindian sites within the Central Texas Coast
+region has likely resulted from sea-level fluctuations during the terminal Pleistocene through
+early Holocene. Bousman et al. (2004) note that no true coastal Paleoindian sites have been
+identified because the Pleistocene-era coastlines would have been inundated by rising sea levels.
+Bousman et al. (2004) also note that the classification of projectile points remains one of the
+most important concerns of Paleoindian archaeologists in Texas, and that the entire culturalhistorical framework of Paleoindian archaeology is highly dependent on projectile point
+classifications. Fluted lanceolate forms such as Clovis and Folsom point types are the most
+distinctive Paleoindian projectile points. In addition, other non-fluted lanceolate forms and some
+stemmed points are also known to be associated with Paleoindian deposits. As a result of several
+typological problems surrounding the non-fluted lanceolate Paleoindian projectile points, a
+comprehensive study was undertaken in 1998 during the Texas Archaeological Research
+Laboratory (TARL) Wilson-Leonard Project. This involved a quantitative analysis of projectile
+points based on metric attributes. Projectile points analyzed predominantly fell within two broad
+morphological categories of 1) non-fluted lanceolate forms and 2) contracting stem and parallel
+stem forms. Within the contracting stem forms, three point types were identified: Angostura,
+Lubbock, and Thrall. Although two other groups of projectile points were identified within the
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+12
+
+Advance Draft
+May 2015
+
+CHRONOLOGICAL CHART FOR ARCHAEOLOGICAL REGIONS IN TEXAS
+
+YEARS
+B.P.
+
+CENTRAL
+TEXAS
+
+250-
+
+1000-
+
+SOUTH
+TEXAS
+PROTOHISTORIC
+
+LATE
+PREHISTORIC
+
+LATE
+PROTOHISTORIC
+
+LOWER
+PECOS
+
+LATE
+PREHISTORIC
+
+WESTERN
+TRANSPECOS
+POST-PUEBLO
+LATE
+FORMATIVE
+EARLY
+FORMATIVE
+
+LATE
+ARCHAIC
+
+2000-
+
+CAPROCK
+CANYONLANDS
+PROTOHISTORIC
+& LATE
+PREHISTORIC II
+
+HIGH
+PLAINS
+PROTOHISTORIC
+
+ANTELOPE
+CREEK
+
+CERAMIC
+PERIOD
+LATE
+ARCHAIC
+
+LATE
+ARCHAIC
+
+3000-
+
+LATE
+PREHISTORIC
+
+LATE
+PREHISTORIC
+
+LATE
+ARCHAIC
+
+LATE
+ARCHAIC
+
+CENTRAL
+TEXAS
+COAST
+
+LATE
+ARCHAIC
+
+LATE
+ARCHAIC
+
+MIDDLE
+ARCHAIC
+
+UPPER
+TEXAS
+COAST
+PROTOHISTORIC
+
+INITIAL TO
+FINAL LATE
+PREHISTORIC
+
+EARLY
+CERAMIC
+
+EAST
+TEXAS
+
+EAST
+CENTRAL
+TEXAS
+
+EARLY TO
+HISTORIC
+CADDOAN
+
+LATE
+PREHISTORIC
+
+WOODLAND
+
+WOODLAND
+
+TCHULA
+
+LATE
+ARCHAIC
+
+NORTH
+TEXAS
+
+LATE
+PREHISTORIC
+
+LATE
+ARCHAIC
+
+LATE
+ARCHAIC
+
+LATE
+ARCHAIC
+
+MIDDLE
+ARCHAIC
+
+MIDDLE
+ARCHAIC
+
+EARLY
+ARCHAIC
+
+EARLY
+ARCHAIC
+
+MIDDLE
+ARCHAIC
+
+4000MIDDLE
+ARCHAIC
+
+5000-
+
+MIDDLE
+ARCHAIC
+
+6000-
+
+MIDDLE
+ARCHAIC
+
+MIDDLE
+ARCHAIC
+MIDDLE
+ARCHAIC
+
+LATE
+EARLY
+ARCHAIC
+
+MIDDLE
+ARCHAIC
+
+MIDDLE
+ARCHAIC
+
+EARLY
+ARCHAIC
+
+7000-
+
+EARLY
+ARCHAIC
+
+EARLY
+ARCHAIC
+EARLY
+ARCHAIC
+
+EARLY
+ARCHAIC
+
+EARLY
+ARCHAIC
+
+EARLY
+ARCHAIC
+
+EARLY
+ARCHAIC
+
+8000-
+
+9000LATE
+PALEOINDIAN
+
+LATE
+PALEOINDIAN
+
+LATE
+PALEOINDIAN
+
+PALEOINDIAN
+PALEOINDIAN
+
+10,000-
+
+11,000-
+
+LATE
+PALEOINDIAN
+
+LATE
+PALEOINDIAN
+
+EARLY
+PALEOINDIAN
+
+EARLY
+PALEOINDIAN
+
+PALEOINDIAN
+
+EARLY
+PALEOINDIAN
+
+EARLY
+PALEOINDIAN
+
+PALEOINDIAN
+
+EARLY
+PALEOINDIAN
+
+12,000-
+
+Figure 5. Chronological chart for archaeological regions in Texas, adapted from Perttula (2004).
+13
+
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+
+contracting stem formsâtypes previously defined as Midland and Milnesâthe forms lacked
+adequate evidence to support the assignment of firm type definitions. Parallel stem point forms
+were further divided into two general classes, specimens with shallow-to-moderate basal
+concavities, and those with deep basal concavities. Projectile point types identified as having
+shallow-to-moderate concavities included Plainview, St. Maryâs Hall, and Scottsbluff. Point
+types identified as having deep basal concavities included atypical St. Maryâs Hall, Golondrina,
+Barber, and Dalton types.
+Paleoindian projectile points found within the South Texas Plains, adjacent to the Central Texas
+Coast region, include Clovis, Folsom, Plainview, Golondrina, Scottsbluff, and Angostura (Black
+1989b; Hester 1980). Projectile point types identified as having shallow-to-moderate concavities
+included Plainview, St. Maryâs Hall, and Scottsbluff. Point types identified as having deep basal
+concavities included atypical St. Maryâs Hall, Golondrina, Barber, and Dalton types. Stemmed
+projectile points found in Paleoindian contexts include Wilson, Berclair, San Patrice, and Big
+Sandy point types (Bousman et al. 2004).
+It was generally thought that the Paleoindian people were big-game hunters of large herbivores,
+with extinct Pleistocene species such as the mammoth (Mammuthus spp.) and bison (Bison
+bison), being the preferred prey (Black 1989b). As more data are accumulated, a more
+generalized subsistence strategy for Paleoindian populations is being proposed. Subsistence data
+from early Paleoindian (terminal Pleistocene) sites in Texas show the exploitation of large game
+and extinct megafauna such as mammoth, bison, short-faced bear (Arctodus simus), horse (Equus
+ferus caballus), and giant armadillo (Priodontes maximus). Additionally, faunal assemblages
+from several archaeological sites, such as Aubrey (41DN479) and Lewisville (41DN72), also
+contain a broad range of small taxa. Paleoindian subsistence and settlement patterns suggest a
+very low population density in the area, with small highly mobile bands operating in larger
+territorial ranges (Black 1989b).
+Early Archaic Period
+Cultural traits of the Early Archaic period (ca. 7500 B.P. to 4200 B.P.) are similar to the
+preceding Paleoindian period. Ricklis (2004) notes that there are two major prehistoric
+occupations during the Early Archaic centering ca. 7500 to 6800 B.P. and ca. 5800 to 4200 B.P.
+Evidence of the initial shoreline occupation dating from 7500 to 6800 B.P. consists of thick but
+dense lenses (or strata) of oyster shells (Crassotrea virginica) that rest at the base of the
+Holocene deposits and atop the Pleistocene Beaumont Formation. These early sites contain scant
+faunal material and few lithic artifacts (Ricklis 2004).
+Evidence for the later Early Archaic period (ca. 5800 to 4200 B.P.) occupation is better
+documented, consisting of a thin (5 to 25 cm) stratum of oyster shells near shoreline occupations
+or brackish-water clams (Rangia flexuosa) within the riverine areas. Artifacts from excavated
+contexts are limited but include chert debitage, utilized chert flakes, chert end scrapers, shell
+tools (perforated oyster shell, edge-modified oyster shell), and chert dart points such as Bell,
+Early Triangular, Tortugas, and Gower point forms. Subsistence data includes fish otoliths
+representing several different species, including black drum (Pogonias cromis), spotted seatrout
+(Cynoscion nebulosis), redfish (Sciaenops ocellata), Atlantic croaker (Micropogon undulatus),
+and hardhead catfish (Aurius felis). Although the cultural deposits from this period are generally
+NAS Kingsville Archaeology Survey
+Technical Report
+
+14
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+
+too old for bone material preservation, the presence of dart points suggests that some hunting
+was taking place. At site 41NU267, some faunal bone was preserved including fish, deer
+(Odocoileus spp.), and rodents (Ricklis 2004). Early Archaic diagnostic artifacts of the broader
+south Texas area include Bell, Andice, Early Triangular, and Early Expanding Stem dart points,
+as well as large thin triangular bifaces with concave bases, and Guadalupe and unifacial Clear
+Fork distally beveled tools (Black 1989b).
+Middle Archaic Period
+Middle Archaic period (ca. 4200 B.P. to 3100 B.P.) sites are more common in south Texas than
+sites from previous periods, however, radiocarbon data from the Central Texas Coast shows little
+occupation of the shoreline (Black 1989b; Ricklis 2004). Given the larger number of Middle
+Archaic sites in the greater south Texas area, including evidence from Choke Canyon, Loma
+Sandia, and the Coastal Bend area, the Middle Archaic may be generalized as a period of
+population growth (Black 1989b). Within the Coastal Bend region, there is a continued
+adaptation to the littoral resources, particularly those of the estuary bays. Evidence of increased
+plant utilization for subsistence is also seen during the Middle Archaic period, including the
+increase in the use of groundstones and roasting/baking hearths. Acorns and mesquite are
+suggested as major plant resources utilized during this period. In addition, other resources such
+as land snails, freshwater mussels, deer, and other mammals were also exploited during the
+Middle Archaic. Artifacts indicative of Middle Archaic sites include the Pedernaes, Langtry,
+Kinney, and Bulverde projectile point types, as well as medium- to small-sized distally beveled
+tools. Groundstone artifacts such as tubular stone pipes, grinding slabs, and manos also become
+common in Middle Archaic contexts (Black 1989b). In the Coastal Bend region, the earliest
+Aransas complex materials include Matamoros, Palmillas, Morhiss, and Bulverde points, as well
+as incised bone. Conch columela gouges and conch adzes also started to appear in the Middle
+Archaic (Black 1989b).
+Late Archaic Period
+The Late Archaic period (ca. 3100 B.P. to 950 B.P.) saw a continued increase in population from
+the Middle Archaic as evident from the increase in Late Archaic period site density. Subsistence
+patterns in the Coastal Bend region demonstrate resource exploitation of a wide range of
+shellfish, fish, and small mammals with a focus on marine resources, particularly those of
+estuary bays. Inland sites show a focus on plant resources but also included the use of a variety
+of small mammals such as rodents and rabbits. Late Archaic period artifacts may include small
+corner or side-notched dart points such as Ensor, Frio, Marcos, Fairland, and Ellis types. Small
+distally beveled tools are also common in south Texas Late Archaic assemblages. In the Coastal
+Bend region, later Aransas complex materials are present, including Ensor, Fairland, Darl, CatÃ¡n,
+and possibly Matamoros dart points (Black 1989b).
+Late Prehistoric Period
+The Late Prehistoric period (ca. 950 B.P. to 250 B.P.) saw a change from the small expanding
+stem dart points of the Late Archaic period to smaller expanding stem arrow points with the
+concurrent adoption of the bow and arrow. This transition was fairly rapid throughout south
+Texas. In the Coastal Bend region, the Late Prehistoric period begins later (ca. 750 B.P.) with
+the Rockport complex that extends geographically from Matagorda Bay to Baffin Bay, and the
+Brownsville complex in the area of the Rio Grande Delta. The high density of Late Prehistoric
+NAS Kingsville Archaeology Survey
+Technical Report
+
+15
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+
+period sites suggests that there were fairly high population densities during the Late Prehistoric
+period. Inland sites tended to be located near water while sites in upland locations are less
+common. Along the Coastal Bend region, Late Prehistoric period sites seem to be concentrated
+along the bays, on the barrier islands, and along the brackish water streams and rivers above the
+bays. Subsistence data for the Late Prehistoric period has been predominantly gathered from
+inland sites due to relatively good preservation. Evidence from the inland sites of south Texas
+demonstrates an emphasis on faunal exploitation, with a large and diverse range of species being
+utilized. Bison was an important component of Late Prehistoric subsistence, as well as other
+artiodactyls such as deer and pronghorn (Artilocapra americana).
+In the Coastal Bend region, there is considerable amount of faunal diversity including a variety
+of marine and brackish water species. Generally, arrow points and pottery are the diagnostic
+artifacts associated with Late Prehistoric sites in south Texas. In the Coastal Bend region, the
+Fresno (triangular) and Padre (ovate) projectile points are indicative of the earlier part of the Late
+Prehistoric period, while the Perdiz and Bulbar Stemmed projectile points are indicative of the
+later part of the Late Prehistoric period. Bone-tempered pottery is common during the Late
+Prehistoric period in inland sites, while Rockport pottery is indicative of the Rockport complex
+in the Coastal Bend region. Rockport pottery consists of thin, sandy paste wares that often have
+asphaltum (decoration and edge mending) and incised decorations. The Brownsville complex is
+dominated by a shell-working industry containing various shell tools (scrapers, gouges, projectile
+points) along with other ornaments such as beads, pendants, and gorgets. Stemmed arrow points
+are virtually absent in the Brownsville complex, while triangular stone arrow points, such as
+Matamoros, Fresno, Starr, and Cameron, are more common. Other distinct Late Prehistoric
+period artifact types in south Texas include beveled stone knives and small end scrapers, as well
+as ceramic figurines and smoking pipes. Marine and mussel shell ornaments and bird bone beads
+have been recovered from Late Prehistoric period sites (Black 1989b).
+By the early nineteenth century, the local indigenous population was either culturally or
+biologically extinct or displaced. As a result, information on Protohistoric/Historic-era Native
+American groups is primarily derived from the historic documentation of European explorers and
+settlers. The Coastal Bend region was historically inhabited by several different Native
+American groups including the Coahuiltecans, Karankawas, Lipan Apaches, and Tonkawas.
+These groups were subdivided into numerous smaller bands, such as the Atakapa, Borado,
+Cavas, Capoque, Emet, Kohani, Kopani, Malaquite, Payata, and Sana Tamique, among others
+(Hester 1989; Newcombe 2002).
+Historic Overview
+The Historic-era chronology of the Coastal Bend region can be divided into five temporal
+periods. These historic periods are defined by distinct artifact assemblages along with historic
+archival/documentary evidence.
+ï·
+ï·
+ï·
+ï·
+ï·
+
+Spanish Exploration period
+Spanish Colonial period
+Mexican Colonial period
+Texas Republic and Nineteenth Century American period
+Twentieth Century American period
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+16
+
+A.D. 1535 to 1659
+A.D. 1659 to 1821
+A.D. 1821 to 1836
+A.D. 1836 to 1900
+A.D. 1900 to present
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+
+Spanish Exploration Period
+The Spanish Exploration period begins with the presence of European explorers, mostly of
+Spanish descent in the Coastal Bend region. The first Europeans thought to enter the area were
+Alvar NuÃ±ez, better known as Cabeza de Vaca, along with three companions (SÃ¡nchez 1992).
+The Panfilo de NarvÃ¡ez expedition, of which Cabeza de Vaca was a member, was shipwrecked
+on the upper Texas coast at a location they described as the Isla del Malhado (SÃ¡nchez 1992;
+Hester 1999). The Isla del Malhado was probably Galveston Island or a nearby island, given the
+known ethnohistoric and archaeological record (Hester 1999). There is disagreement among
+historians, anthropologists, and archaeologists on the route taken by Cabeza de Vacaâs group
+across Texas. The Krieger route, which takes Cabeza de Vaca from the upper and central Texas
+coast, through southern Texas, into northeastern Mexico, and perhaps back into west Texas, is
+the most probable of all the routes proposed, given the archaeological and ethnohistoric record
+(Hester 1999). By 1535, Cabeza de Vaca and his three companions crossed southern Texas,
+reaching different points along the Rio Grande (SÃ¡nchez 1992).
+Spanish Colonial Period
+No real attempts to settle the area were made until the late seventeenth century and as a response
+to a French settlement established by RenÃ© Robert Cavelier, Sieur de La Salle on the Texas Coast
+in 1568. After an unsuccessful attempt at establishing missions in east Texas during the latter
+part of the seventeenth century, the Spanish decided that a three-pronged approach that included
+mission, presidio, and civilian settlement would be the best strategy to establish a Spanish
+presence in the area. The Corpus Christi Bay remained unexplored until 1747, when JoaquÃ­n
+Prudencio de Orobio y Basterra led an expedition down the Nueces River to its mouth. After
+several failed attempts, the first settlement in the area was founded by Blas MarÃ­a de la Garza
+FalcÃ²n in 1766. He established a ranch called Santa Petronila on Petronila Creek. Despite many
+ranchers from the Rio Grande Valley applying for and receiving land grants in the lower Nueces
+Valley during the end of the eighteenth century, the area was slow to develop. By 1794, a large
+ranch belonging to Juan Barrera, known as Rancho de Santa Gertrudis, was established on the
+north side of Corpus Christi Bay. An Indian uprising in 1812 forced many of the colonists to
+seek refuge in the Rio Grande Valley. Hostilities with the Comanches and Lipans in the area
+continued until the end of Spanish control of the region (Long 2010; Fox 1989).
+Mexican Colonial Period
+With Mexican independence in 1821, the region became part of Tamaulipas. Remaining land in
+the area was deeded to individuals by the Tamaulipan government. After several unsuccessful
+attempts to settle the area, Fort LipantitlÃ¡n was established in 1831 where the road from
+Matamoros to Goliad crossed the Nueces River. Irish and German settlers also moved into the
+area during the 1820s and 1830s (Long 2010; Fox 1989).
+Texas Republic and Nineteenth Century American Period
+The Texas Republic period began in 1836 after the Texas Revolution. During that time, the
+region became a no manâs land, with both Mexican and Texan merchants engaging in illegal
+trading in the Nueces Valley. Henry Lawerence Kinney established a trading post and fort on
+Corpus Christi Bay in 1839. By 1842, a post office had opened, and in 1845 the settlement
+experienced a brief boom, although population declined after the Mexican War. During this
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+17
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+
+period, large-scale ranching rapidly became one of the major bases of the economy (Long 2010;
+Fox 1989).
+In 1852, Richard King purchased several tracts of land fronting Santa Gertrudis Creek. The first
+grant obtained was the Ricon de Santa Gertrudis comprising roughly 15,500 ac of land at the
+junction of the Santa Gertrudis and San Fernando creeks near their confluence with Laguna
+Madre. The grant included the area that is now Kingsville. King also purchased Santa Gertrudis
+de la Garza, which included approximately 54,000 ac of land. It was on this land that King
+would begin his cattle operation. In 1860, King founded R. King and Company, along with
+partners James Walworth and Mifflin Kenedy, which joined all the land titles of James
+Walworth, King and his wife Henrietta, and Mifflin Kenedy (Coalson 2010; Chessman 2010;
+THC 1966).
+During the Civil War, King and his partners entered into several contracts with the Confederate
+government to supply European buyers with cotton while they, in return, supplied Confederate
+forces with beef, horses, imported munitions, medical supplies, clothing, and shoes. King, who
+also owned a steamship company, moved operations of the steamship to Matamoros under
+Mexican registry, which successfully avoided Union blockades for the most part. At the end of
+the war, King fled to Mexico, returning only after securing his pardon from President Andrew
+Johnson in 1865 (Coalson 2010; Chessman 2010; THC 1966). Following the war, raids from
+Mexican bandits started to rise and, until 1875, continued persistently and unchecked. By the
+end of these raids, King had suffered losses totaling one million dollars. Despite the losses, King
+continued to buy land and acquired a large section of the San Carricitos grant in south Texas
+(THC 1966).
+Richard King passed away on April 14, 1884, leaving his heirs land valued at $564,784 and
+livestock worth $496,700. After his death, his son-in-law continued land acquisition, as well as
+methodical breeding of cattle. Even though difficult financial times during the 1880s
+necessitated the selling of approximately 10,995 ac of land, efforts continued to consolidate and
+obtain land grants for the ranch. In 1901, they bought 60,000 ac in the grants Las Comitos, El
+Infernillo, and most of El Chiltipin. In 1906, Ricon de los Laureles was purchased from the
+Texas Land and Cattle Company totaling 110,000 ac (THC 1966).
+The King Ranch ranks as one of the most outstanding and best known of all cattle enterprises in
+the history of the southwestern cattle frontier. The only new breed of cattle to be developed in
+the U.S., the Santa Gertrudis breed, was produced on King Ranch. In addition, studies of
+grassland and animal diseases conducted at King Ranch contributed greatly to the cattle industry
+(THC 1966). As such, the King Ranch Headquarters, located approximately 5 mi west of NAS
+Kingsville, was designated as a National Historic Landmark (NHL) in 1961 for the ranchâs
+historic-era significance in the development of western ranching and agriculture (Williams et al.
+1995).
+Twentieth Century American Period
+By 1903, the St. Louis, Brownsville, and Mexico Railway was being built through south Texas;
+Henrietta King opened several tracts of her land for sale. The town of Kingsville was laid out in
+a pasture 3 mi east of the Ranch Headquarters. By 1912, the population of the town was
+NAS Kingsville Archaeology Survey
+Technical Report
+
+18
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+
+approximately 4,000 people. With the introduction of the railroad and the establishment of
+Ricardo, a trading center for farmers located on the railroad 6 mi south of Kingsville, the local
+economy began to shift from ranching to farming and dairying. The population continued to
+rapidly grow in the region during the early part of the twentieth century, and by 1913, the Texas
+Legislature, prompted by pressure from the regional population of the area, organized Kleberg
+County. Kingsville was subsequently designated as the county seat (Coalson 2010).
+Several industries in the early-to-middle twentieth century prompted rapid population growth in
+the county. Oil exploration began early in the region, with the first producing well being
+discovered in 1919. The first industry in the county was a cotton mill, established in Kingsville
+in 1921. Additional growth came from the establishment of the South Texas Teachers College
+(now Texas A&M University at Kingsville) in 1925 (Stokes et al. 2009).
+Another population boom occurred in early 1942 as a result of the development of the Naval
+Auxiliary Air Station (NAAS) 3 mi southeast of Kingsville. NAAS Kingsville was one of
+several U.S. Naval aviation facilities built during World War II to support flight training in south
+Texas. Two runways for âP-4â aircraft called the North and South Fields were initially designed
+and separated by nearly 5,000 ft. The majority of the buildings were placed between the two
+fields. The buildings were temporary and semi-permanent facilities and based on standardized
+plans used at military installations throughout the nation. The administrative offices (Building
+700), the gatehouse (Building 775), runways at North Field and South Field, and hangars and
+aircraft maintenance facilities (Buildings 760 and 771) were constructed first. Support facilities
+including the fire station and warehouse facilities (Buildings 776 and 701, respectively) were
+built soon after. The main activity at the station focused on the runways and pilot training
+(Stokes et al. 2009).
+After World War II ended, the Navy could not maintain an expensive, full wartime complement
+of Navy bases throughout south Texas. As a result, the Navy decommissioned the Kingsville
+base on August 1, 1946, and Navy personnel vacated the station by mid-September (Stokes et al.
+2009). A local governmental board accepted stewardship of the base, leasing the facility from
+the U.S. Government for a nominal $1-per-year fee. Local businesses, community groups, and
+Texas A&M College expressed interest in the facilities and the college was granted a lease. The
+station facilities served an important satellite function for the growing college for nearly 4 years.
+By late 1950, and in response to the potential conflict with Korea, Navy officials recommissioned NAAS Kingsville on April 1, 1951. Texas A&M College received word of their
+lease change in December 1950 and completely vacated the site by the following summer
+(Stokes et al. 2009).
+The re-commissioned NAAS Kingsville would serve as a jet transitional training facility.
+Rehabilitation construction work began in March 1951, and by late June the field was fully
+operational. The Korean Conflict ended with a cease-fire agreement in 1953, but much of the
+building program associated with the reactivation of NAAS Kingsville during the Korean
+Conflict continued. Between the end of the Korean Conflict and beginning of the Vietnam
+Conflict, the number of personnel at NAAS Kingsville fluctuated in response to Naval funding
+allocations. Similarly, building renovation and replacement at the NAAS also fluctuated with
+funding.
+NAS Kingsville Archaeology Survey
+Technical Report
+
+19
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+
+On October 31, 1956, NALF Orange Grove, located 20.0 mi away from NAAS Kingsville, was
+commissioned, though it had been used in an unofficial capacity by cadets for some time. As the
+American military became increasingly reliant on jet aircraft during the 1950s, education for the
+Navyâs pilots at NAAS Kingsville kept pace with the technological changes. In 1960, NAAS
+Kingsville became an all-jet training base. The land that would become the McMullen Range
+Complex was purchased by the U.S. Government ca. 1965 and was established to take the place
+of bombing ranges on Padre Island as they were decommissioned. In 1968, the Navy upgraded
+NAAS Kingsville to an autonomous NAS. During the late 1960s, the NAS Kingsville Civil
+Disturbance Rifle Detachment drilled regularly at the Station in response to official fears about
+popular uprisings from both civil rights proponents and students protesting American
+involvement in Southeast Asia. In 1990, the Navy acquired the Escondido Ranch, a hunting
+ranch located 90 mi northwest of Kingsville. The ranch is managed by the Morale, Welfare, and
+Recreation Department of NAS Kingsville and is used by Navy personnel and their families.
+Administration of the McMullen Range Complex, formerly part of NAS Chase Field, came
+under NAS Kingsville in 1993 (Stokes et al. 2009).
+Archival Research and Records Search
+Prior to the initiation of the pedestrian field surveys, a records search was performed by GSRC
+personnel on the Texas Archeological Sites Atlas website on October 8, 2014. The records
+search sought to identify any previous cultural resources surveys, cemeteries, landmarks, and
+historic structures, buildings, sites, districts or objects, as well as any previously recorded
+archaeological sites within 1.0 mi of the project area. In addition, GSRC personnel reviewed the
+government-furnished materials provided by NAVFAC SE.
+Previously Conducted Archaeological Investigations
+A total of eight previously conducted archaeological investigations were on file as having been
+conducted within 1.0 mi of the survey area, which includes the Naval Air Station Kingsville
+Integrated Cultural Resources Management Plan FY 2009-2014 (Table 2). The sponsoring
+agencies for the surveys included the Federal Highway Administration (FHWA), NAVFAC SE,
+and the U.S. Army Corps of Engineers (USACE) Vicksburg and Mobile Districts. Projects with
+corresponding polygons are plotted on Figure 6.
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+20
+
+Advance Draft
+May 2015
+
+Nueces
+
+Young and Sanchez 2014
+
+Kleberg
+NAS Kingsville
+
+Map data Â©2015 Google
+Jim Wells
+Kleberg
+
+Joseph et al. 2009
+
+Huffer and Ryan 2014
+
+Lindemuth 2011
+Huffer and Ryan 2014
+41KL99
+
+Huffer and Ryan 2014
+
+41KL97
+
+41KL80
+
+Werner 2013
+41KL98
+
+#
+*
+#
+*
+
+Lindemuth 2011
+
+Weir 1984
+
+41KL81
+
+41KL105
+Werner 2013
+Huffer and Ryan 2014
+
+Lindemuth 2011
+
+Young and Sanchez 2014
+
+41KL40
+NAS Kingsville Boundary
+Survey Area
+
+41KL41
+
+1-mile Buffer
+Previously Recorded Archaeological Site
+Previously Surveyed Area
+
+Â·
+
+0
+0
+
+0.5
+
+1
+
+Miles
+
+1
+
+2
+
+Kilometers
+Map data Google Â©2015, Imagery Â©2015 TerraMetrics
+
+Figure 6. Previously conducted archaeological studies and previously recorded archaeological sites
+within 1 mile of the survey area.
+21
+
+May 2015
+
+1
+2
+
+Table 2. Previously Recorded Archaeological Investigations within
+1 Mile of the Survey Area.
+Agency
+
+Investigation Type
+
+Final Report Date Sites
+
+Map ID
+
+Federal Highway
+Administration
+
+Identification/Survey
+
+May 9, 1984
+
+NA
+
+Weir 1984
+
+U.S. Navy
+U.S. Navy
+U.S.A.C.E, Mobile
+District
+Texas Department of
+Transportation
+U.S.A.C.E, Fort Worth
+District
+NAVFAC SE
+NAVFAC SE
+
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+
+Reconnaissance
+Survey
+ICRMP
+
+March 15, 1995
+
+41KL80, 41KL81
+
+Hines 1995*
+
+May 2009
+
+NA
+
+NA
+
+Survey
+
+March 2009
+
+None
+
+Joseph et al. 2009
+
+Partial survey
+
+ND
+
+No information
+
+Young and Sanchez
+2014
+
+Survey
+
+January 2011
+
+Survey
+Survey
+
+July 2013
+August 2014
+
+41KL97, 41KL98,
+41KL99
+None
+41KL105
+
+Lindemuth 2011
+Werner 2013
+Huffer and Ryan 2014
+
+*no investigation polygon or line in database
+
+Naval Air Station Kingsville Integrated Cultural Resources Management Plan
+An ICRMP was developed in May 2009 for NAS Kingsville and its outlying properties, which
+include four additional properties managed under NAS Kingsville: NALF Orange Grove, the
+King Ranch ROTHR Site, McMullen Range Complex (Yankee and Dixie Target Ranges), and
+Esondido Ranch. At the time of the publication of the ICRMP, a total of 117 ac had undergone
+archaeological site identification on the NAS Kingsville main base, which includes the survey of
+10 ac performed for USACE, Mobile District identified in Table 2 above (Stokes et al. 2009).
+An additional 23.5 acres at the NAS Kingsville main base were surveyed in April 2013 in
+support of a Small Arms Range (Werner 2013). A reconnaissance-level survey was conducted in
+1995, which resulted in the identification of four archaeological sites on the NAS Kingsville
+main base. While an abstract for this investigation and site forms for the four sites recorded are
+available from the Texas Archeological Sites Atlas, no archaeological investigation boundary is
+mapped in the Texas Archeological Sites Atlas.
+Archaeological Survey of 1,000 Acres at Naval Air Station Kingsville, Kleberg County, Texas
+A recent investigation by GSRC involved survey and shovel testing of 1,000 acres at NAS
+Kingsville (Huffer and Ryan 2014). As a result of fieldwork, GSRC documented one previously
+known and six newly identified archaeological sites within the inventoried areas. Only one of
+the newly identified sites, 41KL105, is located within the 1-mile radius of the current
+investigation
+The archaeological work conducted at NAS Kingsville, as well as in other locations in Kleberg
+County, suggests that archaeological sites are predominantly located near water sources and
+consist of relatively few artifacts that are often on or just below the surface (Stokes et al. 2009).
+Previously Recorded Archaeological and Historic Resources
+Eight previously recorded archaeological sites were recorded within 1.0 mi of the survey as
+indicated within THCâs Texas Archeological Site Atlas and GSRCâs archival research (Table 3).
+NAS Kingsville Archaeology Survey
+Technical Report
+
+22
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+
+The sites consist of prehistoric lithic scatters, prehistoric artifact scatters, historic scatters, and
+farmsteads. None of the previously recorded archaeological sites are located within the current
+survey area (see Figure 6).
+Table 3. Previously Recorded Archaeological Sites within 1 Mile of the Survey Area.
+Site
+Number
+
+Site Type
+
+Age/Cultural Affiliation
+
+Eligibility
+Determination
+
+Archaic and Neo-American
+
+Undetermined
+
+Archaic
+
+Undetermined
+
+41KL80
+41KL81
+
+Open campsite (prehistoric)
+Scattered open campsite
+(prehistoric)
+Prehistoric lithic scatter
+Prehistoric lithic scatter
+
+Ineligible
+Ineligible
+
+41KL97
+
+Farmstead
+
+41KL98
+41KL99
+41KL105
+
+Farmstead
+Historic scatter (poss. refuse pile)
+Farmstead
+
+Prehistoric unknown
+Prehistoric unknown
+Historic (late nineteenth to early twentieth
+century)
+Historic (early twentieth century)
+Historic (unknown)
+Historic (mid-twentieth century or later)
+
+41KL40
+41KL41
+
+Ineligible
+Ineligible
+Ineligible
+Undetermined
+
+6
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+23
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+
+SURVEY METHODS
+Fieldwork
+During the initiation of fieldwork, known populations of south Texas ambrosia within the survey
+areas were flagged for avoidance. The field crew members underwent an orientation, including
+an onsite visitation of a known population of south Texas ambrosia, and included information
+regarding the protective status of the plant, the identifying characteristics of the plant, and
+measures to ensure avoidance or minimization of impacts on the species during the surveys. In
+addition, handouts were provided to each field crew member with information regarding the
+south Texas ambrosia including its habitat, photographs of identifying characteristics of the
+plant, and information on its protected status. These handouts aided in the identification of south
+Texas ambrosia populations during field operations. Field crew members avoided any identified
+populations of south Texas Ambrosia and did not excavate any shovel test pits within 20 m of
+any known or identified populations.
+The survey was scheduled for the winter months when vegetation and ground cover was minimal
+and ground surface visibility was optimal. Prior to fieldwork each day, a safety meeting was led
+by the project director to discuss potential hazards, and measures of avoidance. GSRC field
+personnel conducted the intensive archaeological pedestrian survey supplemented with limited
+systematic shovel testing on 700 ac of NAS Kingsville in accordance with the Archaeological
+Survey Standards for Texas recommended by THC. The pedestrian survey employed parallel
+transects spaced no greater than 30 m (100 ft) apart, during which the ground surface was
+inspected for any artifacts, features, or other cultural material. Transects were aligned in a
+cardinal direction across the survey area depending on the terrain and access. The pedestrian
+survey was supplemented with the excavation of STPs (n=234) at a ratio of one STP per 3 ac.
+Additional STPs (n=17) were excavated at a minimum ratio of six STPs per archaeological site
+in order to define the horizontal and vertical extent of cultural deposits and features. Along
+transects, each STP was numbered consecutively from transect origin to its terminus. Unique
+numerical identification labels were assigned to each STP and contain two components. The
+first component is an abbreviation of the transect number, such as T1 for Transect 1. The second
+component is the STP number assigned consecutively along the transect from the transect origin
+such as STP3 for Shovel Test 3. These components are then combined. Using the above
+examples, T1-STP3 represents the third shovel test from the origin of Transect 1. The number of
+STPs in each transect varied depending on impenetrable obstacles, water, steep slopes, and the
+irregular shape of the survey area.
+All STPs excavated were square, measuring 30 cm in length on each side to their terminal
+depths. All STPs were excavated using flat blade shovels and to the base of Holocene deposits,
+if practical. All STPs were excavated in arbitrary 10-cm levels. All excavated soils were
+screened utilizing hand box screens with 0.25 in mesh. Any artifacts recovered from the
+excavated STPs were recorded, bagged, and reported by provenience. The size, depth, and
+contents of all STPs excavated were recorded. Profiles of all STPs excavated were recorded
+utilizing the Munsell Soil Color Chart to describe the strata and soil colors. Soil horizons and
+strata were described using standard scientific terms. All cultural features found in excavated
+shovel test pits were recorded in plan and profile, as appropriate, along with other pertinent
+information regarding the feature, including dimensions, depth, orientations, and possible
+NAS Kingsville Archaeology Survey
+Technical Report
+
+24
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+
+associations. All information recorded during the excavation of STPs was documented on
+standardized STP forms prepared for the project. The information from the STP forms prepared
+in the field was used to develop STP logs that were maintained for the duration of the project.
+The STP logs included information on the depth of each STP excavated, the number of artifacts,
+if any, recovered from each STP, the location of the STP (expressed in transect and shovel test
+number), and soil conditions. The STP logs along with the STP forms prepared in the field will
+be submitted to NAS Kingsville for curation as part of the permanent project records. All
+excavated STPs were backfilled upon their completion.
+No transect STPs were positive for cultural materials, although surface scatters of artifacts were
+discovered through pedestrian survey. Additional shovel tests were excavated at the locations of
+surface scatters to determine if a subsurface component was present. STPs excavated to explore
+whether subsurface deposits were associated with surface artifact scatters were assigned unique
+identification labels. Within each surface scatter an initial shovel test designated as the
+temporary arbitrary datum with the coordinate north (N) 1000 m east (E) 1000 m was
+excavated. From the datum STP further delineation STPs were excavated in a cruciform pattern
+toward the cardinal directions at 10-m intervals. These delineation STPs were assigned a
+coordinate based labels depending on their position in cardinal directions from the originating
+STP. Coordinate values increase with distance toward the north and east and decrease in value
+to the south and west. An STP with the label abbreviated as N990-E1010 would be so named for
+its location 10 m south and 10 m east of N1000-E1000 whereas an STP label N1010-E990
+would be 10 m north and 10 m west of N1000-E1000.
+A site plan map was prepared during the delineation of archaeological sites and isolated finds.
+The site plan map minimally shows the site boundaries, locations of all positive and negative
+delineation and transect STPs, any STPs not excavated during the delineation of the find, the
+extent of any surface artifacts observed, all cultural features within the site boundary, estimated
+contours derived from topographic maps of the area along with observations made in the field,
+topographic features such as streams and drainages, man-made features such as roads or trails,
+any vegetation indicative of historic occupation, the location of the site marker established at the
+site, and any areas of observable disturbance. Site boundaries were set halfway between the last
+positive and the first of the two consecutive negative STPs or according to terrain feature and
+surface manifestations of the site as described above in the site boundary delineation methods.
+Site plan maps are included in the draft and final technical reports and with the state site record
+forms that will be submitted to TARL. In addition, archaeological site forms or site update
+forms, as appropriate, will be prepared utilizing TexSite, for their submission to TARL and the
+assignment of official state trinomial site numbers.
+A sub-meter-accurate TrimbleÂ® Global Positioning System (GPS) unit was used to record
+relevant features of all archaeological sites and isolated finds identified during this study. GPS
+points were taken of the center of the archaeological site or isolated finds. Universal Trans
+Mercator (UTM) coordinates of all the center points for all archaeological sites and isolated finds
+will be provided to NAS Kingsville. In addition, points were taken for observable cultural
+features, locations where relevant images or photographs were taken, diagnostic surface artifacts,
+and the archaeological site or isolated find boundaries. These data will be converted into
+Environmental Systems Research Institute (ESRI) shapefiles and will be made available to the
+NAS Kingsville Archaeology Survey
+Technical Report
+
+25
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+
+NAVFAC SE technical representative and NAS Kingsville staff. Attempts were made to record
+the above information utilizing a sub-meter-accurate GPS unit. If it was not possible to obtain
+coordinates for the archaeological sites and isolated finds utilizing the GPS unit, UTM
+coordinates were determined through observations in the field and the use of USGS topographic
+quadrangles. Metadata associated with Geographic Information System (GIS) files will be
+maintained and submitted to the NAVFAC SE technical representative and NAS Kingsville staff
+as a deliverable with the GIS data, in accordance with the United States Navy 3.01 Data Model
+provided by NAVFAC SE.
+Photographic data was collected at each site location during the delineation of the site
+boundaries. Photographs were taken with a digital camera with a minimum of 8 megapixels of
+resolution. Images will be submitted in JPEG or TIFF format at 300 Dots Per Inch (DPI) or
+greater resolution. Sufficient photographs were taken at each archaeological site to record the
+significant information describing the site. Minimal photographic documentation at all
+archaeological sites recorded included any vegetation that may be emblematic of historic sites,
+features encountered on the surface or in excavated shovel test pits, highly disturbed areas within
+the delineated site boundaries, and a minimum of two overview photographs. All photographs
+taken in the field included an appropriate scale, a compass direction indicator, and either a real or
+digital menu board or chalkboard that indicates the subject of the photograph. These elements
+are located clearly within the photograph and placed to not detract from a clear rendering of the
+subject. A second image or photograph was taken without the information board and direction
+indicator for images or photographs that are anticipated to be used as illustrations in the technical
+report. Directional and subject information were recorded in the photograph log maintained
+during the study and in the figure captions used in the draft and final technical reports.
+A survey photograph log was maintained for the duration of the study. The survey photograph
+log was sequentially numbered and includes the field site number, cardinal directions of the
+image, the subject, and the date the image was taken. This log and at least one image of all the
+significant data will be submitted to NAS Kingsville for curation as part of the permanent project
+records. Lost, damaged, or absent required images will be explained for each site in the survey
+photograph log, as well as in the draft and final technical reports.
+Diagnostic artifacts recovered from the surface and any artifacts recovered from shovel tests
+were collected and placed in new 4 mil polyethylene resealable zipper storage bags marked with
+provenience information in indelible ink on the exterior and cataloged in a field specimen
+inventory. All bags are labeled with the project name, site name and number (if applicable),
+provenience information, artifact type and count, date, excavatorâs name (or initials), and a field
+specimen (FS) number.
+Laboratory Analysis and Curation
+Laboratory analysis was initiated in the field by a detailed recording of provenience information
+and assigning FS identification numbers to artifacts. Post-field processing in the laboratory
+began with cross-checking field specimens with the inventory lists from the field. All artifacts
+and other cultural materials recovered were washed (if appropriate), stabilized, and cataloged.
+These materials were analyzed and processed using categories and techniques in accordance with
+the Stipulations and Procedures for the Preparation of Archeological Material Collections to be
+NAS Kingsville Archaeology Survey
+Technical Report
+
+26
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+
+Curated at TARL and Separation of Collections for Housing at TARL and Stipulations and
+Procedures for the Preparation of Archeological Records and Photographs, Curation Supplies
+and Sources provided by TARL. Prehistoric ceramics were classified into recognized
+typological categories. Counts and weights, as well as position on the vessel (e.g., rim, base,
+body), were determined for all sherds. Lithic materials were separated into waste flakes
+(debitage), tools, and manufacturing failures/production rejects. Stone tools were categorized
+into standard typologies. The analysis of the waste flakes followed standard protocols and
+categories dependent on the quantity of material recovered. Faunal remains were identified to
+the lowest possible taxonomic category. Historic artifacts were identified and cataloged into
+standard typological or functional categories. Metal or other oxidizing materials were evaluated
+for their research or data recovery potential and, if warranted, stabilized appropriately.
+All recovered material, field notes, forms, and other project records were prepared for curation
+following both Federal standards (Curation of Federally-Owned and Administered
+Archaeological Collections; Code of Federal Regulations [CFR] Title 36, Part 79). Artifacts
+were placed in new 4 mil polyethylene resealable zipper storage bags with acid-free labels that
+include full provenience and catalog information. Artifacts were packaged in acid-free storage
+boxes clearly labeled with project, dates, and provenience. All field logs and field notes,
+analysis sheets, photographic record forms, and other documents produced during execution of
+this project were printed on acid-free paper and will be included in the curation delivery. Each
+box will include an inventory of contents on acid-free paper and an electronic inventory. All
+materials will be returned to NAS Kingsville for curation in the repository at the Center for
+Archaeological Research (CAR), University of Texas San Antonio (UTSA).
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+27
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+SURVEY RESULTS
+The cultural resources survey resulted in the documentation of two newly identified
+archaeological sites and three isolated occurrences of cultural material (Figure 7).
+Field Site 1
+Field Site 1 is a late-nineteenth to middle-twentieth century historic artifact scatter located in a
+plowed agricultural field approximately 350 ft outside of the perimeter fence, south of the
+airfield (Figure 8, Photograph 1). The scatter consists of approximately 100 to 150 items of
+household refuse (glass and ceramic). The entire area is heavily disturbed with a plow zone to a
+depth of 30 cm below ground surface.
+
+Photograph 1. Field Site 1 overview, facing north.
+The site area is situated 1.3 mi west of San Fernando Creek and 1.2 mi north of San Gertrudis
+Creek. The site measures approximately 300 ft (91 m) east to west and 150 ft (45.7 m) north to
+south. The southern portion of the site is located outside of the current survey area. Visual
+examination of the portion of the site outside of survey area is similar to the portion that was
+delineated. The boundary of Field Site 1 was defined by the extent of the observed surface
+artifacts; eight shovel test pits were excavated to ascertain the potential depth of cultural
+deposits. Artifacts were encountered to depths ranging from 0 to 30 centimeters below ground
+surface, but the subsurface deposition of artifacts is due to plowing and bioturbation and is not
+representative of a subsurface horizon.
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+28
+
+Advance Draft
+May 2015
+
+29
+
+Â© OpenStreetMap (and)
+contributors, CC-BY-SA
+
+Survey Area
+
+!
+!
+
+!
+!
+
+!
+
+"
+J!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+!
+!
+!
+
+!
+!
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+IO #1
+
+IO #2
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+Field Site 2
+
+!
+
+!
+
+!
+
+"
+J
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+!
+
+!
+
+Figure 7. Locations of newly identified sites and isolated occurrences.
+
+IO #3
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+Â·
+
+Field Site 1
+
+!
+
+0
+
+0
+
+!
+
+!
+
+0.25
+
+!
+
+"
+J
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+0.5
+Kilometers
+
+0.5
+Miles
+
+May 2015
+
+Imagery Â©2015 TerraMetrics
+
+0.25
+
+NAS Kingsville Boundary
+
+Survey Area
+
+No Dig Areas
+
+Estimated Field Site Boundary
+
+Field Site Boundary
+
+Shovel Test Location
+
+Isolated Occurrence
+
+!
+
+!
+
+!
+
+!
+!
+
+!
+
+!
+
+30
+
+(Ã
+
+0
+R
+
+#
+0
+
+Survey Area Boundary
+
+NAS Kingsville Boundary
+
+Positive Shovel Test
+
+Negative Shovel Test
+
+Not Excavated
+
+Artifact Scatter
+
+Datum
+
+PLOWED FIELD
+
+R
+
+(Ã
+
+R
+
+#
+0
+
+N1000
+E1000
+
+Figure 8. Field Site 1 sketch map.
+
+0
+
+PLOWED FIELD
+
+0
+
+R
+
+0
+
+0
+
+Â·
+
+0
+
+0
+
+10
+5
+
+20
+
+10
+
+30
+
+PLOWED FIELD
+
+40
+
+50
+Feet
+15
+
+May 2015
+
+20
+Meters
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+The site is a discrete scatter of household refuse. A total of 44 artifacts were collected from
+Field Site 1, with 37 artifacts collected from the modern ground surface and seven artifacts
+collected from five STPs (Table 4). Artifacts recorded at Field Site 1 consist predominantly of
+glass and ceramic artifacts with one brick fragment recorded. The glass artifacts are shards of
+various colors including amber (n=2), amber/black (n=1), aquamarine (n=2), clear (n=6), cobalt
+blue (n=2), milk glass (n=7), and solarized manganese (n=2). Ceramic artifacts included sherds
+of ironstone (n=1), porcelain (n=4), semi-porcelaineous earthenware (n=5), stoneware (n=6), and
+whiteware (n=5).
+Table 4. Artifacts Collected from Field Site 1.
+Description
+
+Total
+
+Ceramics
+Porcelain
+Semi-porcelaineous earthenware
+Stoneware
+Whiteware
+
+4
+6
+6
+5
+
+Total
+
+21
+
+Glass
+Amber
+Amber/black
+Aquamarine
+Clear
+Cobalt blue
+Milk glass
+Solarized manganese
+Total
+Construction Material
+Brick
+
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+2
+1
+2
+6
+2
+7
+2
+22
+
+Date Range
+
+ca. 1840 to 1930 (Majewski and OâBrien 1987)
+ca. 1830 to present (Noel Hume 1969)
+
+ca. 1880 to 1930 (Lockhart 2006)
+
+1
+
+Total
+
+1
+
+Total Artifacts
+
+44
+
+The artifact assemblage and lack of architectural (e.g., stone, brick, or mortar) debris from Field
+Site 1 suggests that the site represents a late-nineteenth to middle-twentieth century trash deposit.
+Historic homestead sites in the surrounding area, located during GSRCâs previous survey,
+displayed a high concentration of brick and stone foundation scatters that are absent from this
+site, suggesting that Field Site 1 is a single-episode trash dump. There is little or no potential for
+intact subsurface deposits given the prolonged agricultural use of the site, and all subsurface
+artifacts were confined to the plowzone. It is likely that further archaeological investigation of
+the site would yield no new or significant information on the local or regional history of the area,
+and additional research or documentation would yield no significant information important to
+understanding historic associations of the site. Given the lack of integrity, Field Site 1 is
+considered to have low research potential and is not recommended eligible for listing in the
+NRHP. No further archaeological work is recommended.
+Field Site 2
+Field Site 2 is the original Naval Auxiliary Air Station propeller aircraft airstrip and its
+associated utilities and debris (Photographs 2 through 6). The airstrip was demolished after its
+NAS Kingsville Archaeology Survey
+Technical Report
+
+31
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+
+14
+15
+16
+
+operation was discontinued due to the introduction of jet airplanes and the requirement for a
+newer and larger airstrip. The site is situated 1.8 mi west of San Fernando Creek and 1.2 mi
+north of San Gertrudis Creek. The full dimensions of the site could not be measured due to the
+eastern half of the airfield being outside of the current survey boundaries (Figure 9). However,
+based on historical maps and aerial photography, the estimated dimensions are 5,000 ft (1,524 m)
+north to south by 6,500 ft (1,981 m) east to west. The entire southern and eastern portions of the
+site, up to Transect 14, have piles of debris scattered throughout the area that is associated with
+the demolition of the airstrip. The majority of debris, consisting of piles of asphalt and concrete,
+are the result of the demolition of the airstrip and represent secondary deposition along with
+construction material to a lesser degree. Many of these piles of debris include modern items
+mixed in with older debris, indicating prolonged use of the area as a refuse dump over several
+decades.
+
+Photograph 2. Modern construction material debris between
+STPs 8 and 9 of Transect 1, facing north.
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+32
+
+Advance Draft
+May 2015
+
+33
+
+Â·
+
+(Ã
+
+!
+=
+
+0
+
+0
+
+Survey Area Boundary
+NAS Kingsville Boundary
+
+Not Excavated
+
+Field Site Boundary
+
+500
+
+750
+
+50 100 150 200
+Meters
+
+250
+
+1,000
+Feet
+
+Estimated Field Site Boundary
+
+No Dig Areas
+
+Negative Shovel Test
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+Figure 9. Field Site 2 sketch map.
+
+!
+=
+
+!
+=
+
+!
+=
+!
+=
+!
+=
+!
+=
+!
+=
+
+!
+=
+!
+=
+!
+=
+!
+=
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+(Ã
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+(Ã
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+May 2015
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+!
+=
+
+1
+
+2
+3
+
+4
+5
+6
+
+Photograph 3. Sewage drainage entrance between STPs 8 and 9 on Transect 3.
+
+Photograph 4. Piles of discarded concrete located around STP16 on Transect 9,
+facing northeast.
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+34
+
+Advance Draft
+May 2015
+
+1
+2
+
+3
+4
+
+5
+6
+
+Photograph 5. Piles of asphalt located at the south end of Transect 4, facing north.
+
+Photograph 6. Asphalt runaway/road next to STP10 on Transect 6, facing southeast.
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+35
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+18
+19
+
+No STPs in this section of the survey area were positive for subsurface cultural materials, nor did
+any STPs display any natural stratigraphy. The site boundaries have been reduced to include just
+the original airstrips and not the surrounding areas of secondary deposition. It is likely that
+further archaeological investigation of the site would yield no new or significant information on
+the local or regional history of the area. Given the lack of integrity, Field Site 2 is considered to
+have low research potential and is not recommended eligible for listing in the NRHP. No further
+archaeological work is recommended.
+Isolated Occurrences
+IO 1 is a concrete watering trough that measures 8 ft north to south, 2 ft 8 in east to west, 2 ft tall,
+and 4 in thick (Photograph 7). The watering trough has two wooden poles just north of the
+trough and rusted piping. Engraved into the south end of the trough is âSEABEES, 24/5/71,
+Timmy SMYERâ (Photograph 8). Surface visibility in the area of IO 1 is greater than 85 percent
+and no cultural resources were found during the pedestrian survey. No additional shovel tests
+were placed around IO 1 due to the lack of surface artifacts and the known age of construction
+for the watering trough being less than 50 years old.
+
+Photograph 7. IO 1, concrete watering trough, facing northwest.
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+36
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Photograph 8. IO 1, engraving on concrete watering trough.
+IO 2 is a porcelain âKNOX KNOBâ electrical wire insulator located within a loose scatter of
+rocks likely associated with the excavation of a utility pole for an active electrical power line
+right of way (Photographs 9 through 11). No STPs were placed in the area due to this area
+containing a known population of an endangered species (south Texas Ambrosia). The surface
+visibility was greater than 85 percent and the area was heavily disturbed due to tilling and cutting
+under the power lines. Due to lack of cultural resources and the presence of the protected south
+Texas Ambrosia, no more testing will be required for this area.
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+37
+
+Advance Draft
+May 2015
+
+1
+2
+3
+
+Photograph 9. Overview of IO 2, facing north.
+
+4
+5
+
+Photograph 10. Top view of âKNOX KNOBâ porcelain electrical insulator found at IO 2.
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+38
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+Photograph 11. Side view of âKNOX KNOBâ porcelain electrical insulator found at IO 2.
+IO 3 (Photograph 12 and 13) is a metal building trestle, a metal roof trestle, and an unidentified
+metal object. The metal roof trestle is common to metal buildings that would have been built
+around the original airstrip. Nine additional STPs were excavated in the surrounding area. No
+subsurface cultural material was recovered from any of the excavated STPs and no surface
+artifacts were located around the metal objects.
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+39
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+
+Photograph 12. IO 3, unknown metal object in front and metal trestle in foreground,
+facing south.
+
+5
+6
+
+Photograph 13. Metal trestle at IO 3, facing east.
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+40
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+SUMMARY AND RECOMMENDATIONS
+GSRC personnel conducted an intensive pedestrian archaeological survey supplemented with
+shovel testing of approximately 700 ac at NAS Kingsville, which is located southeast of
+Kingsville in Kleberg County, Texas. GSRC conducted the survey for NAVFAC SE according
+to the work plan prepared under Contract No. N69450-12-D-0073, Delivery Order 48.
+GSRC field personnel recorded two new historic archaeological sites (Field Sites 1 and 2). All
+of the archaeological sites and IOs identified by this study represent late Historic-era occupation
+of the Kingsville area. Field Site 1 is a late-nineteenth to middle-twentieth century historic
+artifact scatter and Field Site 2 is the middle-twentieth century Kingsville NAS airstrip built for
+propeller planes.
+There is little or no potential for intact subsurface deposits at any of the sites given the extensive
+amount of earth-moving activities recorded across the survey area. It is unlikely that additional
+archaeological investigation at the sites would yield any new or significant information on the
+local or regional history of the area, and additional research or documentation would yield no
+significant information important to understanding historic associations of the sites. GSRC
+recommends that none of the sites be recommended as eligible for listing in the NRHP and no
+further archaeological work is recommended.
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+41
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+REFERENCES CITED
+Albert, Bruce M.
+2006 Holocene Pollen Data for Sea Level and Climate Change at Swan Lake, Aransas
+County, Texas, and Implications for the Cultural Ecology of the Central Texas Coast.
+Bulletin of Texas Archaeology 77:161-177.
+Barnes, V.E.
+1975 Geologic Atlas of Texas, Corpus Christi Sheet. Bureau of Economic Geology, The
+University of Texas at Austin.
+Black, Stephen L.
+1989a Environmental Setting. In From the Gulf to the Rio Grande: Human Adaptation in
+Central, South, and Lower Pecos Texas by Thomas R. Hester, Stephen L. Black, D. Gentry
+Steele, Ben W. Olive, Anne A. Fox, Karl J. Reinhard, and Leland C. Bement. Arkansas
+Archeological Survey Research Series No. 33. Prepared by the Center for Archaeological
+Research at the University of Texas, San Antonio, Texas A&M University, and the Arkansas
+Archeological Survey, Fayetteville.
+1989b South Texas Plains. In From the Gulf to the Rio Grande: Human Adaptation in
+Central, South, and Lower Pecos Texas by Thomas R. Hester, Stephen L. Black, D. Gentry
+Steele, Ben W. Olive, Anne A. Fox, Karl J. Reinhard, and Leland C. Bement. Arkansas
+Archeological Survey Research Series No. 33. Prepared by the Center for Archaeological
+Research at the University of Texas, San Antonio, Texas A&M University, and the Arkansas
+Archeological Survey, Fayetteville.
+Bousman, C. Britt, Barry W. Baker, and Anne C. Kerr
+2004 Paleoindian Archeology in Texas in The Prehistory of Texas edited by Timothy K.
+Pertula. Texas A&M University Press, College Station, Texas.
+Chessman, Bruce S.
+2010 âKING, RICHARD,â Handbook of Texas Online, Published by the Texas State
+Historical Association. Electronic document,
+http://www.tshaonline.org/handbook/online/articles/KK/fki19.html. Last accessed July 1,
+2010.
+Coalson, George O
+2010 Handbook of Texas Online â KLEBERG COUNTY. Electronic document,
+http://www.tshaonline.org/handbook/online/articles/KK/hck10.html. Last accessed July 1,
+2010.
+Correll, D.S. and M.C. Johnston
+1970 Manual of the Vascular Plants of Texas. Renner: Texas Research Foundation.
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+42
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+
+Derry, Anne, H. Ward Jandl, Carol D. Shull, and Jan Thorman
+1977 Secretary of Interiorâs Guidelines for Local Surveys: A Basis for Preservation Planning,
+National Register Bulletin Number 24. Prepared for, National Register of Historic Places,
+Interagency Resource Division, National Park Service, U.S. Department of the Interior,
+Washington, D.C.
+Fox, Anne A.
+1989 Historic Anglo-European Exploration and Colonization. In From the Gulf to the Rio
+Grande: Human Adaptation in Central, South, and Lower Pecos Texas by Thomas R. Hester,
+Stephen L. Black, D. Gentry Steele, Ben W. Olive, Anne A. Fox, Karl J. Reinhard, and
+Leland C. Bement. Arkansas Archeological Survey Research Series No. 33. Prepared by the
+Center for Archaeological Research at the University of Texas, San Antonio, Texas A&M
+University, and the Arkansas Archeological Survey, Fayetteville.
+Haile, Nathan I. and Dennis N. Brezina
+2012 Soil Survey of Kenedy and Kleberg Counties, Texas. United States Department of
+Agriculture, Natural Resources Conservation Branch, Washington, D.C. in cooperation with
+Texas AgriLife Research, Texas A&M University, College Station, Texas.
+Hester, Thomas R.
+1980 Digging into South Texas Prehistory: A Guide for Amateur Archaeologists. Corona
+Publishing Company, San Antonio, Texas.
+1989 Historic Native American Populations. In From the Gulf to the Rio Grande: Human
+Adaptation in Central, South, and Lower Pecos Texas by Thomas R. Hester, Stephen L.
+Black, D. Gentry Steele, Ben W. Olive, Anne A. Fox, Karl J. Reinhard, and Leland C.
+Bement. Arkansas Archeological Survey Research Series No. 33. Prepared by the Center
+for Archaeological Research at the University of Texas, San Antonio, Texas A&M
+University, and the Arkansas Archeological Survey, Fayetteville.
+1999 Artifacts, Archeology, and Cabeza de Vaca in Southern Texas and Northeastern New
+Mexico. Bulletin of the Texas Archeological Society 70:17-28.
+2004 The Prehistory of South Texas. In The Prehistory of Texas edited by Timothy K.
+Perttula. Texas A&M University Press, College Station, Texas.
+Hines, Margaret Howard
+1995 Archeological Reconnaissance Survey at Naval Air Station Kingsville, Kleberg County,
+Texas. Technical Report Number 21 prepared by Prewitt and Associates, Inc., Austin, Texas
+for the Department of the Navy, Southern Division.
+Huffer, Donelle J., and Kimberly A. Ryan
+2014 Archaeological Survey of 1,000 Acres at Naval Air Station Kingsville, Kleberg County,
+Texas. Report submitted to NAVFAC SE and prepared by Gulf South Research Corporation,
+Baton Rouge, Louisiana.
+Jones. F. B.
+1977 Flora of the Texas Coastal Bend. Rob and Bessie Welder Wildlife Foundation. Sinton,
+Texas.
+NAS Kingsville Archaeology Survey
+Technical Report
+
+43
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+
+Joseph, Joe W., Jennifer R. Warhop, and Christina Olsen
+2009 Phase I Cultural Resources Survey of the Kingsville Armed Forces Reserve Center Site,
+Kleberg County, Texas. Prepared for U.S. Army Corps of Engineers, Mobile District by
+New South and Associates, Stone Mountain, Georgia.
+Lindemuth, John
+2011 Cultural Resources Inventory of Three Alternative Site Locations for the Proposed New
+Kingsville Border Patrol Station and Building Maintenance Regional Facility, Rio Grande
+Valley Sector, Kleberg County, Texas. Report submitted to the U.S. Army Corps of
+Engineers, Galveston District, Galveston, Texas and prepared by Gulf South Research
+Corporation, Baton Rouge, Louisiana.
+Lockhart, Bill
+2006 The Color Purple: Dating Solarized Amethyst Glass Containers. Historical
+Archaeology 40(2): 45-56.
+Long, Christopher
+2010 âNUECES COUNTY,â Handbook of Texas Online. Electronic document:
+http://www.tshaonline.org/handbook/online/articles/NN/hcn5.html, accessed July 1, 2010.
+Published by the Texas State Historical Association.
+Majewski, Teresita and Michael J. OâBrien
+1987 The Use and Misuse of Nineteenth-Century English and American Ceramics in
+Archaeological Analysis. Advances in Archaeological Method and Theory (11):97-209.
+Newcombe, Jr., W.W.
+2002 The Indians of Texas: From Prehistoric to Modern Times. University of Texas Press.
+Thirteenth Edition. Austin, Texas.
+NÃ¶el Hume, I.
+1969 A Guide to Artifacts of Colonial America. New York: Alfred A Knopf, Inc.
+Perttula, T. K.
+2004 An Introduction to Texas Archeology in The Prehistory of Texas edited by Timothy K.
+Pertula. Texas A&M University Press, College Station, Texas.
+Ricklis, Robert A.
+1995 Prehistoric Occupation of the Central and Lower Texas Coast: A Regional Overview.
+Bulletin of the Texas Archaeological Society 58:1-76.
+2004 Prehistoric Occupation of the Central and Lower Texas Coast: A Regional Overview in
+The Prehistory of Texas edited by Timothy K. Pertula. Texas A&M University Press,
+College Station, Texas.
+SÃ¡nchez, J. P.
+1992 From El Paso to Eagle Pass: Spanish Entradas along the Lower Rio Grande in the
+Sixteenth and Seventeenth Centuries. Bulletin of the Texas Archeological Society 63:53-66.
+NAS Kingsville Archaeology Survey
+Technical Report
+
+44
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+
+Stokes, Anne V., Brenda Swann, Monte Kim, Len E. Winters, and Norma Barrera
+2009 Naval Air Station Kingsville: Integrated Cultural Resources Management Plan, 2009 to
+2014. Integrated Cultural Resource Management Plan prepared by Southeastern
+Archaeological Research, Inc. Jonesville, Florida, Naval Facilities Engineering Command,
+Southeast, Naval Air Station, Jacksonville, Florida, and Naval Air Station Kingsville,
+Kingsville, TX
+Texas Historical Commission (THC)
+1966 Kings Ranch. NRHP District Information on file with the THC, Austin, Texas.
+Turner, B. L.
+1983 Status Report on Ambrosia cheiranthifolia. U.S. Fish and Wildlife Service,
+Albuquerque, New Mexico.
+United States Department of Agricultural (USDA), Natural Resources Conservation Service
+(NRCS)
+2012 Web Soil Survey. Soil Survey Staff, Natural Resources Conservation Service, United
+States Department of Agriculture. Electronic document, http://websoilsurvey.nrcs.usda.gov/
+accessed November 25, 2012.
+United States Geological Survey (USGS)
+2013 National Wetlands Research Center, Coastal Prairie Region Program. Regional data
+available online at http://www.nwrc.usgs.gov/prairie.tcpr.htm. Accessed March 7, 2015.
+United States Fish and Wildlife Service (USFWS)
+2010 Ecosystem Regions Shapefile and Metadata. GIS data available online at
+http://www.fws.gov/gis/data/national/index.html. Accessed March 30, 2015.
+2011 Landscape Conservation Cooperatives Map. Electronic document,
+http://www.fws.gov/gis/data/national/LCCMap.pdf. Accessed March 30, 2015.
+Weir, Frank
+1984 Cultural Resources Assessment, Kleberg and Nueces Counties. U.S. 77: from 2.0 Miles
+North of Bishop City Limits to 4.0 Miles South of Kingsville City Limit. Letter report on file
+with the Texas Historical Commission, from the State Department of Highways and Public
+Transpiration, Austin.
+Werner, William J.
+2013 Archaeological Range Investigation, Naval Air Station Kingsville, Texas. Report
+prepared for NAVFAC Southeast, Jacksonville, Florida by Southeastern Archaeological
+Research, Inc., Orlando, Florida.
+Williams, Diane Elizabeth, Anne Malanka, and David W. Moore, Jr
+1995 Historic Resources Survey and Assessments, Naval Air Station Kingsville, Texas.
+Prepared for South Division, Naval Facilities Engineering Command by Hardy, Heck,
+Moore, Austin, Texas
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+45
+
+Advance Draft
+May 2015
+
+1
+2
+3
+4
+5
+
+Young, Brandon S., and Joseph M. Sanchez
+2014 Intensive Archaeological Survey of US 77 from SH 107 in the City of Combes to SH 44
+in the City of Robstown in Cameron, Willacy, Kenedy, Kleberg, and Nueces Counties, Texas.
+Report prepared for the Texas Department of Transportationâs Texas Turnpike Authority by
+Blanton and Associates, Inc., Austin.
+
+NAS Kingsville Archaeology Survey
+Technical Report
+
+46
+
+Advance Draft
+May 2015
+
+

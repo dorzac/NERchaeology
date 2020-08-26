@@ -1,0 +1,3143 @@
+CULTURAL RESOURCES SURVEY OF THE
+HILLTOPPERS DU #2H PROJECT AREA,
+SAN AUGUSTINE COUNTY, TEXAS
+by
+Christopher Goodmaster
+
+Principal Investigator
+Melissa M. Green
+
+for
+Titanium Environmental Services, LLC
+Longview, Texas
+
+USACE Project No. SWF 2010-00593
+
+MISCELLANEOUS REPORTS OF INVESTIGATIONS
+NUMBER 537
+
+May 2011
+
+CULTURAL RESOURCES SURVEY OF THE
+HILLTOPPERS DU #2H PROJECT AREA,
+SAN AUGUSTINE COUNTY, TEXAS
+
+by
+Christopher Goodmaster
+Principal Investigator
+Melissa M. Green
+
+for
+Titanium Environmental Services, LLC
+116 E. South St., Suite 200
+Longview, Texas 75601
+
+under
+USACE Project Number
+SWF 2010-00593
+
+MISCELLANEOUS REPORTS OF INVESTIGATIONS
+NUMBER 537
+
+Geo-Marine, Inc.
+2201 K Ave, Suite A2
+Plano, Texas 75074
+
+May 2011
+
+EXECUTIVE SUMMARY
+
+This report presents the results of a cultural resources survey for the proposed Hilltoppers DU
+#2H well pad and associated lease road, approximately 3.7 miles southeast of Chireno in western
+San Augustine County, Texas. This cultural resources investigation was conducted by GeoMarine, Inc., under contract to Titanium Environmental Services, LLC, for XTO Energy, Inc.
+The purpose of this document is to provide data for use in the management of cultural resources
+in partial fulfillment of obligations under Section 106 of the National Historic Preservation Act of
+1966 (P.L. 96-515), as amended, and other cultural resources legislation.
+Cultural resources investigations consisted of a records search to identify previous cultural
+resources surveys conducted in the area and the archeological and historic sites recorded by those
+efforts, visual inspection of the project area, and subsurface investigations via the excavation of
+screened shovel tests. Fieldwork for this project was conducted on 23 November and 21
+December 2010, and 17 January 2011. One prehistoric archeological site, 41SA312, was
+identified. The site extends beyond the project area; however, the portion of the site within the
+project area is recommended as not eligible for inclusion in the National Register of Historic
+Places. Construction of the Hilltoppers DU #2H well pad and its associated lease road will have
+no adverse effect any significant cultural resources. Provided the project is carried out as
+proposed, no further cultural resources investigations are recommended. In the unlikely event
+that any cultural materials are inadvertently discovered at any point during the construction, use,
+or maintenance of the well pad, all work should cease immediately and the Texas Historical
+Commission and the U.S. Army Corps of Engineers should be notified of the discovery.
+
+ii
+
+TABLE OF CONTENTS
+
+ACKNOWLEDGMENTS ...............................................................................................................vi
+CHAPTER 1. INTRODUCTION .................................................................................................... 1
+CHAPTER 2. NATURAL ENVIRONMENT................................................................................. 3
+Geomorphology ........................................................................................................................ 3
+Hydrology ................................................................................................................................. 3
+Soils .......................................................................................................................................... 5
+Bernaldo Series................................................................................................................... 5
+Alazan-Besner Complex..................................................................................................... 5
+Flora and Fauna ........................................................................................................................ 5
+Climate ..................................................................................................................................... 6
+CHAPTER 3. CULTURAL CONTEXT ......................................................................................... 7
+Native American Cultural Chronology ..................................................................................... 7
+Paleoindian (Â±10,000â7000 B.C.) ....................................................................................... 7
+Archaic (Â±7000â200 B.C.) .................................................................................................. 9
+Early Ceramic/Woodland (200 B.C.âA.D. 800) .................................................................. 9
+Formative (A.D. 800â1000) and Early Caddo (A.D. 1000â1200) ..................................... 10
+Middle Caddo (A.D. 1200â1400)...................................................................................... 11
+Late Caddo (A.D. 1400â1680) .......................................................................................... 11
+Historic Native American Period (A.D. 1680â1860) ........................................................ 12
+Historic Euro-American Era ................................................................................................... 13
+CHAPTER 4. PREVIOUS INVESTIGATIONS AND METHODOLOGY ................................. 14
+Previous Investigations in the Project Area ............................................................................ 14
+Methodology........................................................................................................................... 15
+Survey Methods................................................................................................................ 15
+Archeological Site Definition ........................................................................................... 16
+Artifact Treatment and Analysis ...................................................................................... 16
+National Register of Historic Places Eligibility Criteria ........................................................ 16
+
+iii
+
+Table of Contents
+(contâd)
+
+CHAPTER 5. SURVEY RESULTS.............................................................................................. 18
+Background and Archival Research Results........................................................................... 18
+Cultural Resources Survey Results......................................................................................... 18
+Site 41SA312 .......................................................................................................................... 20
+CHAPTER 6. SUMMARY AND RECOMMENDATIONS ........................................................ 27
+REFERENCES CITED .................................................................................................................. 28
+APPENDIX A. LITHIC ANALYSIS DATA ............................................................................ A-1
+
+iv
+
+LIST OF FIGURES
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+Location of the Hilltoppers DU #2H project area in western San Augustine County, Texas ... 2
+Geomorphology, hydrology, and soils of the Hilltoppers DU #2H project area ...................... 4
+Location of cultural resources investigations within the project area ..................................... 19
+Photograph of the Hilltoppers DU #2H project area, view to the north.................................. 20
+Wetland in northern portion of the project area, view to the south......................................... 21
+Plan map of site 41SA312....................................................................................................... 22
+Photograph of site 31SA312, view to the south ...................................................................... 23
+Photograph of access road intersecting site 41SA312, view to the southeast ......................... 23
+Soil profile of ST 8 in the northern part of site 31SA312 ....................................................... 24
+Soil profile of ST 46 in the southern portion of site 41SA312 ............................................... 24
+
+LIST OF TABLES
+
+1. Soils within the Proposed Project Area ...................................................................................... 5
+2. Generalized Native American Cultural Sequences for Northeast Texas .................................... 8
+3. Prehistoric Artifacts from Site 41SA312 .................................................................................. 25
+
+v
+
+ACKNOWLEDGMENTS
+
+This project greatly benefited from the help of Dr. Danny Johns of Titanium Environmental
+Services, who provided information about and facilitated access to the project area.
+Several Geo-Marine personnel were involved in this project and their participation and insight are
+appreciated. Melissa Green served as Principal Investigator throughout the process of this
+investigation. Fieldwork was facilitated with the help of Bethany Oliver, Erin King, and Brett
+Lang. Erin King also assisted with the review of historic maps and aerial photography and
+created the maps and graphics presented in this document. Sharlene Allday edited this report, and
+Denise Pemberton was responsible for its formatting and production.
+
+vi
+
+CHAPTER 1
+INTRODUCTION
+
+This report presents results of a cultural resources survey conducted by Geo-Marine, Inc. (project
+number 30563.02.09), under contract to Titanium Environmental Services, LLC, for XTO
+Energy, Inc., for the proposed Hilltoppers DU #2H well pad location (U.S. Army Corps of
+Engineers [USACE] Project No. SWF 2010-00539). The proposed site is located on a terrace of
+the Attoyac River in western San Augustine County, Texas (Figure 1). The proposed well pad
+will be constructed 0.3 mile (mi; 0.5 kilometer [km]) east of Farm to Market Road (FM) 1196,
+approximately 3.7 mi (6 km) southeast of Chireno, Texas. The Hilltoppers DU #2H project area
+consists of a 5.4-acre well pad and approximately 720 feet (ft; 220 meters [m]) of lease road
+right-of-way (ROW). The landscape encompassing the proposed project area consists of private
+property supporting second-growth mixed-hardwood forest, areas of managed silviculture, energy
+resources extraction infrastructure, and pasture.
+The purpose of these investigations was to assist Titanium Environmental Services with the
+management of cultural resources as delineated under Section 106 of the National Historic
+Preservation Act of 1966, as amended; the National Environmental Policy Act of 1969; and the
+Texas Historical Commissionâs (THC) Archeological Survey Standards for Texas. Initial
+fieldwork for this project was conducted on 23 November 2010 by Geo-Marine Project
+Archeologist Christopher Goodmaster and Field Technician Bethany Oliver. Additional
+fieldwork was conducted on 21 December 2010 with the assistance of Erin King and 17 January
+2011 with the assistance of Brett Lang to more adequately assess site 41SA312. Melissa Green
+served as the project Principal Investigator throughout the process of this investigation.
+
+1
+
+CHAPTER 2
+NATURAL ENVIRONMENT
+
+The proposed project area is located in western San Augustine County in East Texas, situated in
+the Southern Tertiary uplands of the South Central Plains (Griffith et al. 2004). The soils of the
+region are derived from in situ weathering of the underlying Wilcox Formation (Griffith 2006).
+This area is located within the Austroriparian biotic province (Blair 1950; Dice 1943). Often
+referred to as the Pineywoods (Gould et al. 1960), this region once supported a diverse variety of
+flora and fauna.
+
+GEOMORPHOLOGY
+San Augustine County is located within the South Central Plains physiographic region of Texas.
+This region is characterized by rolling or hummocky plains underlain by the stratified shales and
+sandstones of the Wilcox Formation (Bureau of Economic Geology 1993). The project area is
+located within the Southern Tertiary Uplands subregion of the South Central Plains in the Neches
+River Basin. The proposed project area is situated on terrace above the Attoyac River (Figure 2).
+The elevation of the project area ranges 63 to 64 m (207 to 210 ft) above mean sea level with
+slopes of 0â2 percent.
+
+HYDROLOGY
+The project area is within the Neches River basin, on a terrace of Attoyac Bayou. Numerous
+unnamed, small-order drainages flow from the uplands along Attoyac Bayou. The proposed
+project area is located on a terrace between an unnamed tributary of Curry Creek to the northwest
+and an unnamed tributary of Granberry Branch, both tributaries of the Attoyac River, to the south
+(see Figure 2). The Hilltoppers DU #2H project area is located approximately 806 km (5.5 mi)
+from the current flood pool of Sam Rayburn Reservoir and approximately 22.5 km (14 mi) from
+the confluence of the Attoyac River with the Angelina River.
+
+3
+
+SOILS
+The area is situated across one soil series and one soil complex (Table 1, see Figure 2). The soils
+mapped in the project area are primarily moderately permeable fine sandy loams. Soil textures
+range from loams to fine sandy loams. These soils are derived from in situ weathering of the
+underlying clastic and carbonate bedrock of the Eocene-age Wilcox Formation. All information
+regarding the soils of the project area has been synthesized and summarized from information
+supplied by the Soil Conservation Service (Griffith 2010) and the Natural Resources
+Conservation Service (2010).
+
+Table 1
+Soils within the Proposed Project Area
+Soil Unit
+
+Landform
+
+Description
+
+Bernado series
+Alazan-Besner complex
+
+Terrace
+Terrace
+
+Fine sandy loam, well drained, moderately permeable
+Fine sandy loam to loam, well drained, moderately permeable
+
+Bernaldo Series
+Bernaldo soils are classified as fine-loamy, siliceous, semiactive, thermic Glossic Paleudalfs.
+These soils are well drained, formed in loamy alluvial deposits. The surface layer typically
+consists of a brown (10YR 4/3) fine sandy loam, underlain by an E horizon of pale brown
+(10YR 6/3) fine sandy loam to a depth that varies from approximately 15 36 centimeters (cm;
+6 14 inches [in]). The E horizon is underlain by a strong brown (7.5YR 5/6) sandy clay loam Bt
+horizon with few redoximorphic features.
+
+Alazan-Besner Complex
+The Alazan-Besner complex consists of areas of comingled soils composed primarily of the
+Alazan series and the Besner series. Both series are loamy, siliceous, semiactive, thermic Aquic
+Glossudalfs; however, the Alazan series soils tend to be more fine-grained (i.e., loam), and
+Besner series soils are slight more coarse (i.e., fine sandy loam). This complex tends to have a
+brown (10YR 4/3) to dark grayish brown (10YR 4/2) A horizon over a brown (10YR 5/3) to pale
+brown (10YR 6/3) E horizon underlain by a strong brown (7.5YR 5/6) or reddish yellow (7.5YR
+6/8) Bt/E horizons.
+
+FLORA AND FAUNA
+This region is located within the Austroriparian biotic province (Blair 1950; Dice 1943) and
+supports a variety of flora and fauna. The environs encompassing the project area consist of an
+array of subtropical terrestrial communities. These ecosystems support a diverse range of fauna,
+including several endangered or threatened species. The Sabine, Angelina, and Neches rivers
+support a diverse biotic community, characterized by hydrophilic vegetation and numerous
+5
+
+aquatic vertebrates and invertebrates that include 32 varieties of mussel (Unionidae) and 104
+species of freshwater fish (Dahm et al. 2005). Mammal species in the area, either presently or
+historically, include deer (Odocoileus virginianus), cougar (Puma concolor), feral hogs (Sus
+scrofa), black bear (Ursus americanus), squirrel (Sciurus spp.), rabbit (Sylvilagus spp.), opossum
+(Didelphis virginiana), and raccoon (Procyon lotor).
+Once blanketed by oak-hickory-pine forests, the area now supports loblolly and shortleaf pine and
+is locally referred to as the Pineywoods (Gould et al. 1960). As the name implies, coniferous
+forest ecosystems dominate much of the region, although variations in soil types, topography, and
+drainage allow for areas of native hardwoods such as oaks (Quercus sp.), elms (Elmus sp.),
+hickories (Carya sp.), pecan (C. illinoinensis), black walnut (Juglans nigra), tupelo (Nyssa sp.),
+sweetgum (Liquidambar sp.), and others. Shortleaf (Pinus echinata), longleaf (P. palustris), and
+loblolly pine (P. taeda) are the three native species of southern yellow pine. Uplands may harbor
+certain hardwoods, such as post oak (Q. stellata) and blackjack oak (Q. marilandica).
+Bottomlands near rivers and other major drainages are most often dominated by native
+bottomland hardwoods such as water oak (Q. nigra), cherrybark oak (Q. pagoda), nutall oak (Q.
+nuttallii), black hickory (C. texana), bitternut hickory (C. cordiformis), black tupelo (N.
+sylvatica), and sweetgum. Dense understory growth may often be found in forest areas in the
+form of woody shrubs and small trees such as yaupon (Ilex vomitoria), wax myrtle (Myrica
+cerifera), American hornbeam (Carpinus caroliniana), rusty blackhaw viburnum (Viburnum
+rufidulum), and other species. In recent years, invasive species such as Chinese tallow (Triadica
+sebifera), Japanese climbing fern (Lygodium japonicum), and soda apple (Solanum viarum) have
+become well established throughout the Pineywoods as well. Much of the general area is
+managed coniferous timberlands.
+
+CLIMATE
+The climate of the project area is humid and subtropical. The weather typically consists of hot
+summers with high humidity and short winters because of the influence of the Gulf of Mexico.
+Average annual precipitation measures approximately 123 cm (48 in), primarily as rainfall
+distributed uniformly throughout the year. The average summer temperature recorded in nearby
+Nacogdoches, Texas, is around 25 degrees Celsius (Â°C; 77Â°Fahrenheit [F]), and the average
+winter temperature is 13Â°C (56Â°F), with temperatures seldom dropping below 0Â°C (32Â°F).
+
+6
+
+CHAPTER 3
+CULTURAL CONTEXT
+
+The following chapter presents a brief synopsis, based on regional archeology, of Native
+American cultural chronology and Euro-American history of Northeast Texas. Given the size of
+the region and the depth and breadth of cultural complexity that has developed in the area, this
+chapter must necessarily be limited in scope. References are provided to supplement the
+information summarized here.
+
+NATIVE AMERICAN CULTURAL CHRONOLOGY
+The following brief discussion of the prehistoric archeological record of Northeast Texas
+provides a historic context for the evaluation of site 41SA312. This synopsis draws from
+previous summaries by Kenmotsu and Perttula (1993), Perttula (1988), Story (1981, 1985, 1990),
+and Thurmond (1985, 1988, 1990). A generalized cultural sequence for the Northeast Texas
+culture area is outlined in Table 2.
+
+Paleoindian (Â±10,000â7000 B.C.)
+Evidence suggests human migration into the northeastern Texas region by approximately 10,000â
+9500 B.C., although the exact timing and nature of the arrival is the subject of some dispute. In
+Northeast Texas, numerous diagnostic projectile point styles, such as Clovis, Plainview, Dalton,
+Scottsbluff, and San Patrice, have been recovered as isolated surface finds or excavated in later
+contexts (Carley n.d.; Perttula 1988:17). Unfortunately, however, few Paleoindian sites in good
+stratigraphic context have been found (Perttula 1988:17; Preston 1972, 1974), and those that have
+received any sort of systematic excavation are scarce.
+Despite the lack of good data relating to the early Paleoindian period in Northeast Texas, some
+attempts have been made to generalize settlement mobility and intensity of site occupation,
+drawing on the limited data that are known and on assumptions based on comparisons with other
+areas. The people of this period are often characterized as living in small bands of highly mobile
+hunter-gatherers, specializing in the hunting of now-extinct Pleistocene megafauna. For instance,
+a number of researchers have seen evidence for a high degree of group mobility in the broad
+7
+
+Table 2
+Generalized Native American Cultural Sequences for Northeast Texas
+Years
+1
+B.P.* Great BendâNeches/Angelina Areas
+90
+150
+270
+350
+450
+550
+650
+750
+850
+950
+1,050
+1,150
+1,250
+1,950
+2,150
+4,000
+6,000
+9,000
+11,500
+
+Western Cypress Creek Basin 2
+
+Historic Caddoan
+
+Historic Caddoan
+
+Late Caddoan
+
+Late Caddoan
+
+A.D.
+
+Titus Phase
+
+Middle Caddoan
+Period 2
+
+Early Caddoan
+
+Early Caddoan
+Period 1
+
+Formative Caddoan
+
+1860
+1800
+A.D. 1680
+A.D. 1600
+A.D. 1500
+A.D. 1400
+A.D. 1300
+A.D. 1200
+A.D. 1100
+A.D. 1000
+A.D. 900
+A.D. 800
+A.D. 700
+A.D. 1
+200 B.C.
+2000 B.C.
+4000 B.C.
+7000 B.C.
+9500 B.C.
+A.D.
+
+Whelan Phase
+Middle Caddoan
+
+Dates B.C./A.D.
+
+Woodland (Early Ceramic)
+
+Woodland (Early Ceramic)
+
+Late Archaic
+Middle Archaic
+Early Archaic
+
+Late Archaic
+Middle Archaic
+Early Archaic
+
+Paleoindian
+
+Paleoindian
+
+*B.P.: before present (i.e., before 1950)
+1
+After Kenmotsu and Perttula (1993)
+2
+After Thurmond (1990)
+
+distribution of Paleoindian artifacts over the landscape and in the variety of presumably nonlocal
+lithic raw materials from which they were made (Meltzer and Smith 1986; Shafer 1977; Story
+1990:177). Likewise, the well-documented exploitation of large megafauna by Paleoindians in
+the western United States, coupled with the known presence of similar species in Northeast Texas
+between 11,000 and 9,000 years ago (see Hemmings 1983; Slaughter and Hoover 1963), has
+resulted in the popular conclusion that âbig game huntingâ was part of the Paleoindian
+subsistence strategy in Northeast Texas. Although a possible association between a Clovis point
+and mastodon remains at the Murphey site (Story 1990:185) does support this likelihood,
+increasing evidence from sites to the west (such as the Aubrey site) suggests that Paleoindian
+groups were less dependent upon âbig game huntingâ than has been assumed in the past. A more
+accurate view of Paleoindian life likely includes use of a much wider array of resources (Ferring
+1989).
+The late Paleoindian period in Northeast Texas appears to be distinguished by the divergence of
+the earlier, widespread fluted point tradition into several distinct subtraditions. The first of these
+includes Scottsbluff, Plainview, and similar lanceolate point styles that appear to be part of a
+more western or âplains-derivedâ subtradition in terms of origin and style; the second includes
+Dalton and Dalton-related projectile points that have a wide distribution throughout the wooded
+southeastern and midwestern United States. Some researchers have suggested that this Dalton
+horizon represents an adaptation to the changing environment at the end of the Pleistocene
+(Goodyear 1982:389â391), a view that has found some support in the addition of the Dalton adze,
+a presumed âheavy, woodworking tool,â to what otherwise is viewed as a Paleoindian tool kit
+(Kelley et al. 1988:21). San Patrice, an important complex that may be related to Dalton, is found
+8
+
+in eastern Texas, southeastern Oklahoma, northern Louisiana, and southern Arkansas and is
+characterized by San Patrice points, Keithville points, and Albany scrapers (Ensor 1987;
+Schambach 1979; Webb et al. 1971).
+
+Archaic (Â±7000â200 B.C.)
+With the end of Pleistocene glaciation, the prehistoric residents of the region began to develop
+into populations of efficient hunter-gatherers exploiting localized resource bases. This period,
+and the subsistence pattern that characterizes it, has become termed the âArchaicâ period.
+Representing a significant period of time (approximately 6,800 years), this period is characterized
+by gradual changes in subsistence patterns, lithic technology, and projectile point styles. Archaic
+populations are usually portrayed as generalized hunters and gatherers with more limited
+geographic ranges than the preceding Paleo-Indian peoples. At the present time, there is no
+evidence for the development of local cultigens during the Archaic period in Texas, although this
+is not the case for the Ozark Highlands and other parts of the eastern United States.
+The Archaic period in Northeast Texas is tentatively dated between 7000 and 200 B.C. As is true
+for many areas, a threefold division of the Archaic period, consisting of early, middle, and late
+subperiods, has been applied in Northeast Texas. Although reliable dating for the Archaic period
+in this area of Texas is virtually nonexistent, these divisions have been given tentative dates on
+the basis of cross-correlation with more confidently dated and stratified sites in surrounding areas.
+Thus, the Early Archaic has been dated from 7000 to 4000 B.C., the Middle Archaic from 4000 to
+2000 B.C., and the Late Archaic from 2000 to 200 B.C. (overviews that cover the Archaic in this
+portion of Texas include Fields and Tomka 1993; Peter et al. 1991:Appendix I; and Story 1985,
+1990). Archaic remains are usually found in upland settings and are frequently mixed with later
+material (Campbell et al. 1983; Story 1981). General trends have been proposed that characterize
+the Archaic period in Northeast Texas as (1) increasing development of complex settlement
+system, (2) increasing population size and density, (3) increasing sedentism, and (4) development
+of distinct group territories (Perttula 1988:17; Story 1985:52). Despite these changes, however,
+no evidence of any level of horticulture has been reported from any Northeast Texas Archaic site
+(Perttula 1988:17; Story 1990:Table 56), in spite of the fact that definite steps toward food
+production were being taken elsewhere in the eastern United States (Ford 1985:347â349; Watson
+1988).
+
+Early Ceramic/Woodland (200 B.C.âA.D. 800)
+The Early Ceramic period (200 B.C.âA.D. 800)ârepresenting the introduction of ceramics into
+the Northeast Texas regionâis generally not well defined and is largely identified by similarities
+in pottery and projectile points to sites of the Fourche Maline tradition north of the Red River
+(recent overviews that provide good information for this period include Perttula et al. 1993; Peter
+et al. 1991:Appendix I; and Story 1990). Diagnostic artifacts consist of coarse plainware
+ceramics, tempered with either clay/grog or bone, and Gary projectile points. The ceramics
+generally are grouped together as Williams Plain; but given the wide range of temporal and
+spatial variability present, they should probably be viewed as one or more undefined varieties of
+that type. Discounting ceramic differences at the varietal level, the remains of the Early Ceramic
+period in Northeast Texas seem to be most closely related to Schambachâs (1982:188) Fourche
+Maline tradition in Arkansas. Despite other similarities to Fourche Maline, however, no Early
+9
+
+Ceramic period burial mounds are known in the Texas portion of the Great Bend. The few that
+are known in East Texas occur in the southern Sabine and Neches river basins around the Toledo
+Bend and Sam Rayburn reservoir areas (see Story 1990:Figure 41) at the Coral Snake (16SA48;
+on the eastern edge of Toledo Bend in Louisiana) and Jonas Short (41SA101) mound sites
+(Jensen 1968; McClurkan et al. 1966, 1980). The lack of such evidence in Northeast Texas
+leaves open the question of whether or not this area was undergoing the same processes of
+cultural evolution presumably responsible for the development of burial mound use elsewhere
+(see Perttula 1988:18; Story 1990).
+
+Formative (A.D. 800â1000) and Early Caddo (A.D. 1000â1200)
+The Formative (A.D. 800â1000) and Early Caddo (A.D. 1000â1200) periods in the Great BendNeches/Angelina regions are not well defined. Conversely, in the Cypress Creek region, Caddo
+occupation of the area is well documented from ca. A.D. 800 to the period of historic contact. For
+detailed cultural and chronological information, consult Thurmondâs (1990) treatise on the
+archeology of the Cypress Creek Basin.
+The Formative and Early Caddo periods are characterized by what may best be termed the Alto
+complex or Alto sphere, a widespread manifestation related to the Alto phase, originally defined
+at the George C. Davis site in Cherokee County, Texas, south of the Great Bend area (Newell and
+Krieger 1949). The Alto complex shows strong influence from the Coles Creek culture to the
+east and appears to partially overlap it in time. It also, however, shows a number of new
+characteristics (Neuman 1970), including new projectile point types (i.e., Hayes and Homan
+arrow points), new ceramic vessel forms (i.e., the carinated bowl and the bottle), and a new mode
+of vessel decoration (i.e., fine engraving with red pigment filler).
+Perttula (1988:18) has suggested that these and other cultural innovations, including the
+introduction of the bow and arrow ca. A.D. 800 and increased food production based on maize,
+led to increases in population and sociopolitical complexity during those periods. The settlement
+system became increasingly complex, apparently involving sedentary villages and farmsteads,
+special function sites (what Binford [1980] has called logistical camps), and mound centers that
+were presumably ritual or ceremonial in function (see Perttula 1988:18â19). A number of such
+mound centers dating to the Formative and Early Caddo periods occur in Northeast Texas,
+including the T. M. Coles or Mustang Creek Mound (Jackson 1931) on a tributary of the Sulphur
+River to the west of Wright Patman Lake, and several mounds at the lake itself (Stephenson
+1950). Many more mound sites occur along the Red River and its immediate tributaries to the
+north (Banks 1983; Miller 1986; Taylor 1949). To the south, the Bivins-Flanagan mound (also
+known as Hudnall-Pirtle, site 41RK4) on the middle Sabine River is a major multiple mound site
+with six to eight mounds, a plaza, and a habitation area (Kenmotsu and Perttula 1993:129). The
+George C. Davis site in Cherokee County on the Neches River may be the best representative of
+the mound center-village site type, another characteristic of the Alto focus. The Early Caddo
+component of this site likely indicates an immigrant group from the middle Sabine River area,
+possibly the Bivins-Flanagan area, arriving prior to ca. A.D. 900 (Story 1990:325).
+
+10
+
+Middle Caddo (A.D. 1200â1400)
+The Middle Caddo period (A.D. 1200â1400) in the Great Bend region includes what is known as
+the Haley phase, the definition of which is based generally on mortuary data largely from C. B.
+Mooreâs excavations at the Haley site (3MI1) in Arkansas (Moore 1912). The Haley phase
+appears to represent a development of the earlier Alto complex, and among the continuities from
+the earlier period is the use of shaft grave burials for some members of the society, who were
+accompanied by relatively rich grave offerings (Kelley et al. 1988:26). This phase was centered
+in the Great Bend area in Arkansas, but northwestern Louisiana and northeastern Texas also fall
+within its peripheral influence. Haley phase components are recognized at the Hatchel site in
+Bowie County (Davis 1970:44). Other Haley components, including the Cabe Mounds site
+(Perttula et al. 1995) and the Mitchell site (Cliff et al. 1997), are known in the area. Coker
+Mound (41CS1) also apparently has a Haley phase component, based on radiocarbon dates and a
+reported Haley Engraved bottle in a mortuary feature (Perttula et al. 1997:17â20). Despite its
+presence in Texas, however, the Haley phase was apparently most fully elaborated in the
+Arkansas portion of the Great Bend.
+In the Sabine River area, the Oak Hill Village site (41RK214) in Rusk County (Perttula and
+Rogers 2007), Washington Square (41NA49) in Nacogdoches County, and Tyson (41SY92) in
+the Attoyac River basin in Shelby County are among the major mound centers dating to the
+EarlyâMiddle Caddo period (Perttula 2000:24â25). Data from these sites suggest a horticultural
+lifestyle based on maize and squash, supplemented by wild seeds, nuts, and tubers, along with
+fishing and continued hunting of deer and other game. Mounds were used both as temple and
+burial sites, and the larger centers were important civic-ceremonial areas. Many of the large
+mound centers contained structures and plazas along with storage/granary structures and pits.
+The distribution of the mound centers suggests an integrated society of rather complex sociopolitical extent. The Washington Square mound, securely dated to the late A.D. 1200s, was built
+at the crossroads between aboriginal trails (later known as the eastâwest Caddo Trace and the
+northâsouth Camino Real) and may have been primarily a ceremonial center since little indication
+of permanent habitation has been documented. Radiocarbon dates also suggest the possibility
+that Washington Square was the successor to the George C. Davis site, which was essentially
+abandoned by the early fourteenth century (Perttula 2000:24â29).
+
+Late Caddo (A.D. 1400â1680)
+The Late Caddo period (A.D. 1400â1680) includes the conclusion of the prehistoric period and
+the initial years of European contact (for an overview of this period and the subsequent Historic
+Caddo period, see Perttula 1992). The survivors of the Hernando de Soto Spanish entrada
+apparently entered Northeast Texas ca. 1542, and the latter part of this period appears to have
+overlapped with the initial movements of seventeenth-century European explorers and traders
+into northeastern Texas. Numerous archeological complexes have been defined for the Late
+Caddo period, several of which overlap their spheres of influence into the Sabine River. The
+Bossier phase, though centered on the Great Bend region of Arkansas, has been identified in the
+Sabine River valley (Dieste et al. 1985:2â20; Gadus and Howard 1988:31). The Titus phase
+appears to be centered between the Sabine and Sulphur rivers in the Northeast Texas Pineywoods
+and post-oak savanna. The Bossier, Titus, and Texarkana phases appear to be characterized by
+small hamlets or farmsteads that were probably occupied by small family groups of shifting
+agriculturalists. These farmsteads are apparently characterized by a limited number of structures
+11
+
+and a small family cemetery (see Brewington and Dockall 1991; Brewington et al. 1995; Jelks
+1961; Perttula 1988; Wormser 1988). They presumably were associated with larger, more
+permanent suprahousehold sites, including both mound centers and nonmound cemeteries, which
+served to integrate the scattered households into a unified social group.
+
+Historic Native American Period (A.D. 1680â1860)
+The Historic Caddo period (A.D. 1680â1860) in Northeast Texas began with the founding, by
+RenÃ© Robert Cavelier, Sieur de La Salle, of the short-lived French colony Fort Saint Louis on the
+Texas coast and ended with the expulsion of the Caddo from Texas in 1859. During the closing
+decades of the seventeenth century, French explorers, such as Henri de Tonti, Jean Baptiste Le
+Moyne de Bienville, and Louis Juchereau de St. Denis, traveled through the upper Red River
+valley and made contact with the Native Americans residing in the area. The primary Native
+American groups inhabiting the Great BendâNeches/Angelina region at that time consisted of
+Caddoan speakers, presumably descendants of groups that had inhabited the area at least as far
+back as A.D. 800. These Caddoan populations were divided very generally into the Kadohadacho
+in the Great Bend area north of the Sulphur River and the Hasinai in the Neches/Angelina River
+region south of the Sabine River.
+The groups in the northern area comprised the Kadohadacho Confederacy (Swanton 1946:141).
+The confederacy was originally composed of five groupsâthe Kadohadacho, the Petit Caddo, the
+Upper Natchitoches, the Upper Nasoni, and the Nanatsoho. According to Williams (1974:286),
+the Upper Yatasi and the Cahinnio joined the confederacy at a later time, possibly in the early
+eighteenth century in the case of the Cahinnio and in the 1760s in the case of the Yatasi. The
+confederacy apparently controlled the entire Texas portion of the Great Bend region. Don
+Domingo TerÃ¡n de los Rios, who in 1692 visited one of the Kadohadacho villages located just
+above the Great Bend of the Red River near present-day Texarkana (Swanton 1946:57), noted
+that their power extended as far south as Big Cypress Bayou (Hackney 1966:3). The origin of the
+confederacy is unknown at present, but it may have arisen as a result of what was probably a
+severe demographic impact resulting from the earlier Hernando de Soto entrada (cf., Smith
+1989).
+The Hasinai were organized in a loose confederacy composed primarily of the Hainai,
+Nabedache, Nacogdoche, Nasoni, Nadaco, Neches, Nacono, Nechaui, and Nacao, but
+membership apparently was fluid and fluctuating (Story 1990:322). An intertribal organization
+pertaining especially to religious beliefs was the basis of this confederacy. At the top of a
+relatively weak social and political hierarchy was the grand xinesi, along with the subordinate
+chiefs of each tribe and their lesser officials (Bolton 1987; Story 1982:21). Although males
+inherited these offices, females often held powerful positions and descent was likely through the
+female line.
+RenÃ© Robert Cavelier, Sieur de La Salle, established Fort Saint Louis on the Gulf coast in 1685
+(John 1975:182). By 1686, he had traveled northward to Caddo country. By the late 1600s, a
+regular European presence/settlement into Caddo territory had begun. In 1690, the Spanish
+established missions in the Hasinai areaâSan Francisco de los Tejas and SantÃ­simo Nombre de
+MarÃ­aâbut abandoned them in 1693 when the local population refused to comply with Spanish
+attempts to convert and control them (Swanton 1942:46â49). In response to St. Denisâs 1714
+French trading post at Natchitoches, three more Spanish missions were established in 1716âa
+12
+
+second Mission San Francisco de los Tejas just east of the Neches River, and two in the main
+villages of the Hasinai (Nuestra SeÃ±ora de la PurÃ­sima ConcepciÃ³n, likely on the Angelina River)
+and the Nacogdoches (Nuestra SeÃ±ora de Guadalupe, likely on Bayou La NaÃ±a) (Swanton
+1942:46â49). In 1779, a group of Euro-American settlers from the Trinity River moved into the
+Nacogdoches area, and a rancher set up operations on Bayou Loco near or on the Deshazo site.
+These moves, as well as intruding Indian groups, forced the Hasinai to emigrate westward to the
+prairie or to withdraw into smaller villages. The French briefly regained control of Louisiana,
+only to lose it again in 1803 when President Jefferson bought the Louisiana Purchase. The area
+was now open for American immigration, which effectively forced the remaining Hasinai to
+move to a reservation on the Brazos in 1845, and then finally to Indian Territory in Oklahoma in
+1859 (Newcomb 1961:289; Swanton 1942:71â88).
+
+HISTORIC EURO-AMERICAN ERA
+The period of European exploration and settlement and the subsequent Euro-American and
+African-American settlement and development of Northeastern Texas is discussed extensively in
+other sources and will therefore not be summarized in this report. For more extensive treatments
+of this period in North Texas, see works by Peter and Cliff (1990:Chapters 3 and 7), Peter et al.
+(1991:Appendix J), and Freeman (1990).
+
+13
+
+CHAPTER 4
+PREVIOUS INVESTIGATIONS AND METHODOLOGY
+
+The cultural resources survey recorded in this document was designed to identify both prehistoric
+and historic archeological sites along with important architectural resources located within the
+proposed project area. This work was undertaken with two primary management goals in mind:
+1. To locate cultural resources occurring within the designated survey areas
+2. To assess the significance of those resources in regard to their potential for inclusion in the
+National Register of Historic Places (NRHP)
+The first of these goals was accomplished by a program of background and archival research,
+intensive pedestrian survey, and shovel test excavations undertaken using the field methods
+described in this chapter. The second goal consists of assessment and evaluation based on
+National Register of Historic Places criteria defined in 36 Code of Federal Regulations (CFR)
+Â§60.4 (National Park Service 1990).
+
+PREVIOUS INVESTIGATIONS IN THE PROJECT AREA
+To determine previous cultural resources survey efforts as well as the locations of previously
+recorded historic or archeological resources in the project area, the Texas Archeological Sites
+Atlas online database maintained by the THC was consulted. Review of THC records indicated
+that two previous cultural resources surveys have been conducted within a 1.6-km (1-mi) radius
+of the project area. G. E. Arnold, a research archeologist at the University of Texas at Austin,
+conducted early archeological reconnaissance surveys of large portions of East Texas under the
+auspices of the Works Progress Administration from 1930â1941, including the Attoyac valley in
+1940. Later archeological reconnaissance survey in 1948 by R. L. Stephenson for the National
+Park Serviceâs River Basin Survey revisited may of the sites along the Attoyac River that Arnold
+had previously recorded (Stephenson 1948). Although numerous sites have been recorded along
+the Attoyac River, only one site is within 1.6 km (1 mi) of the Hilltoppers DU #2H project area.
+Site 41SA61, a probable late prehistoric habitation site initially recorded by Arnold in 1941, is
+located on a terrace adjacent to the Attoyac River approximately 1.4 km (0.8 mi) from the
+proposed project area. A site revisit by Stephenson in 1948 indicated that, although prehistoric
+ceramics and lithic debitage were evident across the surface of the site, no temporally or
+14
+
+culturally diagnostic artifacts were found. Based on the results of previous surveys in the Attoyac
+River drainage, the project area was considered to have a moderate to high probability of
+containing prehistoric sites.
+Various sources of historical and geographic data were consulted to ascertain the likelihood of
+historic-era cultural resources existing within the proposed project area. These materials include
+historic highway maps, topographic maps, and soil surveys (which often record cultural resources
+such as cemeteries, houses, and related features) and aerial photography. Based on a review of
+these historic records and previously recorded archeological site locations, it is evident that the
+area has experienced a dynamic history. Evaluating these sources with more recent records,
+however, indicates that the substantial development has occurred in recent years, altering much of
+the historic landscape. Historic period habitation within the region was minimal during the
+nineteenth century, but settlement increased markedly in San Augustine County during the
+twentieth century. The Antioch Church and cemetery are located on the eastern side of FM 1196
+approximately 1.6 km (1 mi) north of the proposed project area; however, few other structures or
+features are evident on historic period maps and aerial photographs. Therefore, the project area
+was considered to have at a moderate probability of containing historic sites.
+
+METHODOLOGY
+
+Survey Methods
+Based on the background and archival research conducted, it was determined that the proposed
+Hilltoppers DU #2H well pad project area had a moderate to high probability of containing
+cultural materials. Given the amount of groundcover, the recent silviculture, and the nature of
+archeological sites in the region, it was assumed that ground visibility in the project area would
+not be conducive to visual inspection, and that subsurface excavation via shovel testing would be
+necessary to adequately survey the area.
+Shovel tests consisted of hand-excavated units 30â40 cm (11.8â15.7 in) in diameter excavated in
+20-cm (7.9-in) levels, with the excavated soil passed through a 0.64-cm (0.25-in) hardware mesh
+screen to recover artifacts. Shovel tests were excavated systematically across the proposed
+project area to depths of 1 m (3.3 ft), to the extent of Holocene deposits, or until an obstruction
+such as the water table or fragipan was encountered. The location of each shovel test was
+recorded with a submeter-accurate TrimbleÂ® GeoXTâ¢ global positioning system (GPS) unit,
+and the exposed soil profile documented. Each shovel test was backfilled upon completion of the
+recording process. Areas that were inundated, waterlogged, or completely disturbed by features
+such as roads, stock ponds, or other construction were systematically investigated and
+documented, but not shovel-tested. Areas of exposed soil, either on the surface or in profile (e.g.,
+cutbanks), were also examined for cultural materials as they were encountered during survey.
+This cultural resources survey resulted in the investigation of approximately 6.1 acres for this
+project.
+
+15
+
+Archeological Site Definition
+An archeological site is typically considered to be a spatially discrete area containing cultural
+resources. The definition of a âsiteâ is therefore contingent on the basis of content and extent.
+Content may refer to artifacts recovered from surface or subsurface contexts, architectural
+features, or other manifestations of past human activity. The extent of a site is based on the
+horizontal and vertical spatial arrangement of these cultural remains. When only surficial
+materials are encountered, a site is defined as five or more cultural artifacts or features of at least
+two different materials or functional classes located within the same vicinity (typically a 400-m2area [0.1 acre]); the extent of the surface material is then defined as the site boundary. When
+artifacts are encountered in buried contexts, a site is defined within the extent of the culturally
+positive excavations. In cases where a shovel test yields cultural materials, additional delineation
+shovel tests are excavated to define the boundary of the site. Shovel tests used to define and
+delineate a site are typically placed at intervals of 5â10 m (16.4â32.8 ft) in a cruciform pattern (in
+each of the cardinal directions) around the positive shovel test until two negative shovel tests, or
+the project area boundaries, are reached. In general, if two or more positive shovel tests are
+encountered and contain at least five artifacts of at least two classes of cultural materials, a site is
+then defined within the extent of positive shovel tests and, if present, surface artifact scatter.
+Cultural remains meeting these criteria are designated as a site, recorded on a Texas
+Archeological Site Data Form, and submitted to the Texas Archeological Research Lab (TARL)
+for a site trinomial designation and to be included in the Texas Archeological Sites Atlas
+database. Conversely, the discovery of cultural materials that do not meet these criteria are
+considered isolated occurrences of past human activity and are simply documented by location
+and content; likewise, modern material representing an obvious single-event trash dump is not
+considered a site, with only location and content documented.
+Depending on depositional integrity and cultural content, archeological sites can be eligible for
+inclusion in the NRHP. Isolated artifacts are not eligible for inclusion in the NRHP because of
+their failure to meet site definition and their lack of significance in contributing important
+information to the archeological record.
+
+Artifact Treatment and Analysis
+All artifacts recovered during this survey were briefly examined, bagged, and labeled by
+provenience in the field. Upon arrival at the Geo-Marine laboratory facilities in Plano, Texas,
+artifacts were cleaned, inventoried, analyzed, and catalogued (see Appendix A). Each artifact
+was thoroughly examined in order to identify and determine, to the extent possible, its function or
+role and cultural or chronological affiliation within the identified contexts.
+
+NATIONAL REGISTER OF HISTORIC PLACES ELIGIBILITY CRITERIA
+The assessment of significance of a cultural resources property is based on federal guidelines and
+regulations. The criteria (36 CFR Part 60.4 [aâd]) for evaluating properties for inclusion in the
+National Register of Historic Places are codified under the authority of the National Historic
+Preservation Act of 1966, as amended, and the Advisory Council on Historic Preservation has set
+forth guidelines to use in determining site eligibility. Based Advisory Council guidelines, any
+resource that is included in or eligible for inclusion in the National Register is a âhistoric
+16
+
+property.â âThe term âeligible for inclusion in the National Registerâ includes both properties
+formally determined as such by the Secretary of the Interior and all other properties that meet
+National Register listing criteriaâ (36 CFR Â§800.2 [e]). Subsequent to the identification of
+relevant historical themes and related research questions, the following four criteria for eligibility
+are applied:
+The quality of significance in American history, architecture, archeology, engineering, and culture is present
+in districts, sites, buildings, structures, and objects that possess integrity of location, design, setting,
+material, workmanship, feeling, and association and
+(a) that are associated with events that have made a significant contribution to the broad patterns of our
+history; or
+(b) that are associated with the lives of persons significant in our past; or
+(c) that embody the distinctive characteristics of a type, period, or method of construction, or that represent
+the work of a master, or that possess high artistic values, or that represent a significant and
+distinguishable entity whose components may lack individual distinction; or
+(d) that have yielded or may be likely to yield, information important in prehistory or history [36 CFR Part
+60.4 (aâd)].
+
+The principal research objective is to determine whether a cultural resources property possesses
+the potential to contribute to one or more of the above-defined criteria. Therefore, adequate
+information on site function, context, and chronological placement from both archeological and,
+if appropriate, historical perspectives is essential for cultural resources investigations. Because
+research questions vary as a result of geography, temporal period, and project design,
+determination of site context and chronological placement of cultural properties is a particularly
+important objective during the inventory process. The objective of this current project was to
+locate and define both horizontally and vertically any cultural resources, document and describe
+those resources, and then, when adequate data were present, evaluate each for NRHP eligibility.
+
+17
+
+CHAPTER 5
+SURVEY RESULTS
+
+This chapter presents the results of the cultural resources survey and assesses the effects of the
+proposed Hilltoppers DU #2H project on cultural resources in the vicinity. Management
+considerations and recommendations based on the findings of this survey are presented in the
+final chapter.
+
+BACKGROUND AND ARCHIVAL RESEARCH RESULTS
+Review of THC records indicated that two previous cultural resources investigations have been
+conducted within a 1.6-km (1-mi) radius of the project area. One prehistoric archeological site,
+41SA61, has been documented within the search radius, and the Antioch Church and cemetery
+are located approximately 1.6 km (0.8 mi) northeast of the proposed project area. Archival
+research focused on the historic period settlement in the immediate vicinity of the project area.
+Examination of the 1937 Angelina National Forest 1:126,000-scale topographic map, the 1942
+USACE Chireno 1:125,000-scale topographic map, the 1958 United States Geological Survey
+(USGS) Broaddus topographic map, and USGS aerial photography do not indicate any historic
+period structures in or near the proposed Hilltoppers DU #2H project area.
+
+CULTURAL RESOURCES SURVEY RESULTS
+The proposed Hilltoppers DU #2H well pad location was intensively investigated to determine
+the presence of cultural resources using a combined technique of systematic visual
+reconnaissance and the excavation of screened shovel tests. All areas not intensively investigated
+due to prior disturbance were documented. Approximately 6.1 acres were investigated and 59
+shovel tests were excavated as part of this cultural resources survey (Figure 3). These 40-cmdiameter (15.8-in) screened shovel tests were excavated in 20-cm (7.9-in) levels across the
+proposed project area, with the final location of each excavation situated to avoid low-lying,
+inundated, or disturbed areas and in favor of microtopographic rises and undisturbed contexts,
+when possible.
+
+18
+
+The Hilltoppers DU #2H well pad location is situated on a terrace of the Attoyac River. The
+topography of the project area is generally level, with some undulations, yielding
+microtopographic rises (Figure 4) and low-lying, seasonally inundated areas (Figure 5).
+Vegetation consists of areas of managed pine silviculture, second-growth forest of mixed
+hardwoods and coniferous species, and pasture (see Figure 3). The northern portion of the
+proposed well pad and the southern portion of the proposed lease road consisted of wetland areas
+and were therefore not intensively surveyed. Soils within the project area typically consisted of a
+thin (5â20-cm [2â8-in] thick) brown (10YR 4/3â5/3) silt loam surface layer overlying yellowish
+brown (10YR 5/6) to brownish yellow (10YR 6/6) fine sandy loam. A strong brown (7.5YR 4/6,
+5/6, or 5/8) clay loam was usually encountered at a depth of 60â80 cm (23.6â31.5 in). Positive
+shovel tests were encountered along the northern portion of the proposed lease road (see Figure
+3). Artifacts were recovered in a total of 23 shovel tests. These shovel tests yielded artifacts
+indicative of a prehistoric camp or short-term habitation site. Based on the recovery of these
+artifacts, site 41SA312 was recorded.
+
+Figure
+
+4.
+
+Photograph of the Hilltoppers DU #2H project area, view to the north
+
+Figure 4. Photograph of the Hilltoppers DU #2H project area, view to the north.
+
+SITE 41SA312
+Site 41SA312 consists primarily of chipped stone artifacts recovered in 23 shovel tests along the
+proposed Hilltoppers DU #2H lease road (Figure 6). The site occupies a subtle rise on a gently
+undulating terrace of the Attoyac River (Figure 7). Site 41SA312 encompasses approximately
+0.76 acres, measuring roughly 155 m (506 ft) northeast-to-southwest by 85 m (279 ft) northwestto-southeast at an elevation of approximately 64 m (210 ft) amsl. The site is covered by managed
+20
+
+Figure
+
+5.
+
+Wetland in northern portion of the project area, view to the south
+
+Figure 5. Wetland in northern portion of the project area, view to the south.
+
+pine silviculture with little surface visibility. An existing access road and drainage culvert
+intersect the northwestern portion of the site (Figure 8). Limited shovel testing was conducted to
+the northwest of the existing access road to determine if the site extended in that direction.
+Positive shovel tests were encountered northwest of the existing access road, but the site
+boundary was not fully delimited in that area because it was beyond the extent of the Hilltoppers
+DU #2H project area. Recent construction of the Blue Raiders DU #1H well pad precluded fully
+defining the site boundary to the east.
+Soil profiles examined during shovel testing indicate that the site is situated on an area of dark
+yellowish brown (10YR 4/4) to brown (10YR 5/3) silt loam overlying strong brown (7.5YR 5/6)
+to yellowish brown (10YR 5/4) fine sandy loam (Figures 9 and 10). A reddish yellow (7.5YR
+7/6) mottled with a strong brown (7.6YR 5/8) fine sandy loam layer was common along the
+margin of the landform, while a very pale brown (10YR 7/4) fine sandy loam layer was more
+prevalent on the landform proper. A reddish yellow (7.5YR 6/8) clay loam was usually
+encountered by a depth of 60â80 cm (23.6â31.5 in).
+The prehistoric artifact assemblage encountered at site 41SA312 (n=40; Table 3) consists
+primarily of chert and silicified wood debitage (n=37) from the manufacture and maintenance of
+chipped stone tools. One large fragment of silicified wood recovered from a depth of 30 cm (11.8
+in) in ST 8 appears to have served as a core but also displays limited evidence of use as a
+pounding implement, perhaps from use as a hammerstone. A large piece of silicified wood
+debitage in ST 46 shows evidence of retouch along one margin, perhaps from use as an expedient
+cutting or scraping tool. One symmetrical sandstone grinding or pounding tool was also
+recovered from a depth of 42 cm (16.5 in) in ST 46. This artifact most likely represents a
+21
+
+Figure
+
+7.
+
+Photograph of site 31SA312, view to the south
+
+Figure 7. Photograph of site 31SA312, view to the south.
+
+Figure
+
+8.
+
+Photograph of access road intersecting site 41SA312, view to the southeast
+
+Figure 8. Photograph of access road intersecting site 41SA312, view to the southeast.
+
+23
+
+Figure
+
+9.
+
+Soil profile of ST 8 in the northern part of site 31SA312
+
+Figure 9. Soil profile of ST 8 in the northern part of site 31SA312.
+
+Figure
+
+10.
+
+Soil profile of ST 46 in the southern portion of site 41SA312
+
+Figure 10. Soil profile of ST 46 in the southern portion of site 41SA312.
+
+24
+
+Table 3
+Prehistoric Artifacts from Site 41SA312
+
+Provenience
+ST 1
+ST 2
+ST 3
+ST 5
+ST 7
+ST 8
+
+ST 9
+ST 10
+ST 11
+ST 12
+ST 14
+ST 24
+ST 27
+ST 29
+ST 30
+ST 32
+ST 34
+ST 37
+ST 39
+ST 46
+ST 47
+ST 52
+ST 55
+Total
+
+Chipped Stone
+Debitage
+Shatter
+
+Depth
+[cmbs]
+
+Tool
+
+40â60
+40â60
+60â80
+0â20
+20â40
+0â20
+0â20
+0â20
+20â40
+40â60
+0â20
+0â20
+0â20
+40â60
+0â20
+0â20
+0â20
+0â20
+0â20
+20â40
+0â20
+0â20
+20â40
+0â20
+20â40
+0â20
+40â60
+20â40
+20â40
+60â80
+20â40
+
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+1
+â
+â
+â
+â
+â
+
+1
+1
+3
+1
+1
+1
+2
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+2
+â
+1
+1
+1
+1
+
+1
+
+37
+
+Core
+
+Ground
+Stone
+
+FCR
+
+Unmodified
+
+Total
+
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+
+â
+â
+â
+â
+â
+â
+â
+â
+1
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+1
+â
+â
+â
+â
+
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+â
+
+1
+1
+3
+1
+1
+1
+2
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+3
+1
+1
+1
+1
+1
+
+â
+
+1
+
+1
+
+â
+
+â
+
+40
+
+hammerstone for stone tool manufacture. The majority of artifacts recovered from site 41SA312
+were within the upper 20 cm (8 in) of the surface (n=22; 55% of the total assemblage). A lesser
+amount of the total artifact assemblage (n=9; 23%) was recovered between 20 and 40 cm (8 and
+16 in) below surface (bs). Few artifacts were recovered below a depth of 40 cm (16 in), with five
+artifacts (12%) recovered between 40 and 60 cm bs (16 and 24 in bs) and four artifacts (10%)
+recovered between 60 and 80 cm bs (24 and 32 in bs). A single historic artifact, a piece of amber
+bottle glass recovered between 0 and 20 cm bs (0 and 8 in bs) in ST 39, is considered intrusive to
+the site and does not represent a substantial historic period component. No culturally or
+temporally diagnostic artifacts were encountered at site 41SA312, nor were any significant
+artifact concentrations, intact features, or organic-rich deposits.
+25
+
+Site 41SA312 likely represents a short-term or intermittently occupied camp. Given the siteâs
+minimal, fragmentary, and redundant artifact content, and the lack of culturally or temporally
+diagnostic artifacts or cultural features, the portion of site 41SA312 within the project area is
+considered to have little research potential. As such, this portion of the site is not likely to
+preserve information important to understanding prehistoric settlement and subsistence strategies
+in the Pineywoods of East Texas. Thus, it is recommended that the portion of 41SA312 within
+the Hilltoppers DU #2H project area is not eligible for inclusion in the NRHP under the criteria
+enumerated in 36 CFR 60.4. The site has been documented and recorded with TARL. No further
+investigations are recommended for the portion of site 41SA312 within the project area as it is
+presently defined.
+
+26
+
+CHAPTER 6
+SUMMARY AND RECOMMENDATIONS
+
+This cultural resources survey was conducted to document and assess cultural resources within
+the proposed Hilltoppers DU #2H project area and to provide adequate and relevant information
+for use in the management of cultural resources. One previously recorded archeological site,
+prehistoric site 41SA61, is located approximately 1.4 km (0.8 mi) north of the project area. The
+Antioch Church and cemetery are located on the eastern side of FM 1196 approximately 1.6 km
+(1 mi) north of the proposed project area. The proposed project will have no adverse effect on
+41SA61 or the Antioch Church and its associated cemetery. This intensive pedestrian survey
+resulted in examination of 6.1 acres and the excavation of 59 shovel tests. Through the course of
+these investigations, site 41SA312, a prehistoric hunting camp, was located and documented.
+Site 41SA312 has been adversely affected by ground-disturbing activities associated with modern
+silviculture and road construction. The artifact assemblage associated with this site is sparse and
+not diagnostic to any specific prehistoric cultural group or temporal period. Given the minimal
+information potential associated with this site, it is unlikely that it will provide any additional
+information relevant to understanding prehistoric settlement and subsistence patterns in the
+Pineywoods of East Texas. Thus, the portion of site 41SA312 within the Hilltoppers DU #2H
+project area is recommended to be not eligible for inclusion in the NRHP under criteria
+enumerated in 36 CFR 60.4. The portion of site 41SA312 outside of the project area is of
+unknown eligibility because it was not fully investigated. The location of this site has been
+recorded with TARL. No further investigations are recommended within the proposed project
+area at this site. Given the lack of significant cultural resources in the proposed project area, it is
+recommended that construction of the Hilltoppers DU #2H well pad be allowed to proceed. No
+historic properties (i.e., cultural resources eligible for inclusion in or listed on the NRHP) will be
+affected by the construction of this well pad or its associated lease road. Provided the project is
+carried out as proposed, no further cultural resources investigations are recommended within the
+proposed project area. In the unlikely event that any cultural materials are inadvertently
+discovered at any point during the construction, use, or maintenance of the Hilltoppers DU #2H
+well pad, all work should cease immediately and the THC and Fort Worth District of the USACE
+should be notified of the discovery.
+
+27
+
+REFERENCES CITED
+
+Banks, L. D.
+1983 Prehistoric Engineering along a Meandering River: An Hypothesis. In River
+Meandering: Proceedings of the Conference on Rivers, 1983, edited by C. M.
+Elliott, pp. 191â203. American Society of Civil Engineers, New York.
+Binford, L. R.
+1980 Willow Smoke and Dogsâ Tails: Hunter-Gatherer Settlement Systems and
+Archaeological Site Formation. American Antiquity 45:4â20.
+Blair, W. F.
+1950 The Biotic Provinces of Texas. Texas Journal of Science 2:93â117.
+Bolton, H. E.
+1987 The Hasinais: Southern Caddoans as Seen by the Earliest Europeans, edited and
+with an introduction by R. M. Magnaghi. University of Oklahoma Press, Norman.
+Brewington, R. E., and J. E. Dockall
+1991 41MX5: Considerations of Late Caddoan Settlement Patterns. Paper presented at the
+62nd Annual Meeting of the Texas Archeological Society, Austin.
+Brewington, R. L., J. E. Dockall, and H. J. Shafer
+1995 Archaeology of 41MX5: A Late Prehistoric Caddoan Hamlet in Morris County,
+Texas. Reports of Investigations No. 1. Center for Environmental Archaeology,
+Texas A&M University, College Station.
+Bureau of Economic Geology
+1993 Geologic Atlas of Texas. 1:250,000 Palestine Sheet.
+Campbell, L. J., C. S. Weed, M. T. Swanson, and J. E. Keller
+1983 Background and Literature Review for Three Proposed AlternativesâNorthwest
+Louisiana Water Supply StudyâBossier, Caddo, DeSoto, and Webster Parishes,
+Louisiana; Harrison and Marion Counties, Texas; Lafayette County, Arkansas.
+Reports of Investigations No. 93. New World Research, Inc., Pollock, Louisiana.
+28
+
+Carley, D.
+n.d.
+Evidence of Early Man in Northeast Texas. Preliminary report. Submitted to the
+Texas Historical Commission, Austin.
+Cliff, M. B., S. M. Hunt, M. M. Green, R. Procter, F. B. Largent, Jr., and W. J. Autin
+1997 Geomorphological Investigations and Inventory of Cultural Resources Along and
+Near the Bowie County Levee, Bowie County, Texas: 1996. Miscellaneous Reports
+of Investigations No. 139. Geo-Marine, Inc., Plano, Texas.
+Dahm, C. N., R. J. Edwards, and F. P. Gelwick
+2005 Gulf Coast Rivers of the Southwestern United States. In Rivers of North America,
+edited by E. Cushing and A. C. Benke, pp. 181â230. Academic Press, New York.
+Davis, E. M.
+1970 Archaeological and Historical Assessment of the Red River Basin in Texas. In
+Archeological and Historical Resources of the Red River Basin, edited by H. Davis,
+pp. 25â65. Research Series No. 1. Arkansas Archeological Survey, Fayetteville.
+Dieste, T., L. Heartfield, and G. Stringer
+1985 An Archaeological Overview and Management Plan for the Longhorn Army
+Ammunition Plant, Harrison County, Texas. Final Report No. 22. National Park
+Service, U.S. Department of the Interior, Atlanta.
+Dice, L. R.
+1943 The Biotic Provinces of North America. University of Michigan Press, Ann Arbor.
+Ensor, H. B.
+1987 San Patrice and Dalton Affinities on the Central and Western Gulf Coastal Plain.
+Bulletin of the Texas Archeological Society 57:69â81.
+Ferring, C. R.
+1989 The Aubrey Clovis Site: A Paleoindian Locality in the Upper Trinity River Basin,
+Texas. Current Research in the Pleistocene 6:9â11.
+Fields, R. C., and S. A. Tomka
+1993 Hunter-Gatherer Mobility in Northeast Texas, 10,000â200 B.C. In Archeology in the
+Eastern Planning Region, Texas: A Planning Document, edited by N. A. Kenmotsu
+and T. K. Perttula, pp. 69â95. Cultural Resources Management Report 3.
+Department of Antiquities Protection, Texas Historical Commission, Austin.
+Ford, R. I.
+1985 Patterns of Prehistoric Food Production in North America. In Prehistoric Food
+Production in North America, edited by R. I. Ford, pp. 341â364. Anthropological
+Papers No. 75. Museum of Anthropology, University of Michigan, Ann Arbor.
+Gadus, E., and M. A. Howard
+1988 Archeological Background. In Survey and Testing along Boone Creek, Louisiana
+Army Ammunition Plant, Webster Parish, Louisiana, edited by R. C. Fields, pp. 11â
+20. Reports of Investigations Number 64. Prewitt and Associates, Inc., Austin.
+29
+
+Goodyear, A. C.
+1982 The Chronological Placement of the Dalton Horizon in the Southeastern United
+States. American Antiquity 47:382â395.
+Gould, F. W., G. O. Hoffman, and C. A. Rechenthin
+1960 Vegetational Areas of Texas. Leaflet 492. Texas Agricultural Experiment Station,
+Texas A&M University, College Station.
+Griffith, G. E., S. A. Bryce, J. M. Omernik, J. A. Comstock, A. C. Rogers, B. Harrison, S. L.
+Hatch, and D. Bezanson
+2004 Ecoregions of Texas (color poster with map, descriptive text, and photographs). U. S.
+Geological Survey, Reston, Virginia.
+Griffith, K.
+2010 Soil Survey of San Augustine and Sabine Counties, Texas. Soil Conservation Service,
+U.S. Department of Agriculture, in cooperation with Texas Agricultural Experiment
+Station and the United States Forest Service.
+Hackney, V. H.
+1966 Port CaddoâA Vanished Village and Vignettes of Harrison County.
+National Bank, Marshall, Texas.
+
+Marshall
+
+Hemmings, E. T.
+1983 Vertebrate Fossils from Recent Red River Point Bar and Channel Bar Deposits in the
+Great Bend Region. In Contributions to the Archeology of the Great Bend Region,
+Southwest Arkansas, edited by F. F. Schambach and F. Rackerby, pp. 30â38.
+Research Series No. 22. Arkansas Archeological Survey, Fayetteville.
+Jackson, A. T.
+1931 Department of Anthropology Field Notebook No. 3 for 1931: April 17, 1931 (Tom N.
+Cole or Mustang Creek Site). On file at the Texas Archeological Research
+Laboratory, University of Texas, Austin.
+Jelks, E. B.
+1961 Excavations at Texarkana Reservoir, Sulphur River, Northeastern Texas. River
+Basin Survey Papers No. 21, Bulletin No. 179. Bureau of American Ethnology,
+Washington, D.C.
+Jensen, H. P., Jr.
+1968 Coral Snake Mound X16SA48. Bulletin of the Texas Archeological Society 39:9â44.
+John, E. A. H.
+1975 Storms Brewed in Other Menâs Worlds: The Confrontation of Indians, Spanish, and French
+in the Southwest, 1540â1795. University of Nebraska Press, Lincoln.
+Kelley, D. B., S. S. Victor, and M. D. Freeman
+1988 Archaeology in the Flatwoods: An Intensive Survey of Portions of the Louisiana
+Army Ammunition Plant, Bossier and Webster Parishes, Louisiana. Coastal
+Environments, Inc., Baton Rouge.
+
+30
+
+Kenmotsu, N. A., and T. K. Perttula (editors)
+1993 Archeology in the Eastern Planning Region, Texas: A Planning Document. Cultural
+Resources Management Report 3. Department of Antiquities Protection, Texas
+Historical Commission, Austin.
+McClurkan, B. B., W. T. Field, and J. N. Woodall
+1966 Excavations in Toledo Bend Reservoir, 1964â65. Paper No. 8. Texas Archeological
+Salvage Project, Austin.
+McClurkan, B. B., E. B. Jelks, and H. P. Jensen
+1980 Jonas Short and Coral Snake Mounds: A Comparison. Louisiana Archaeology
+6:173â206.
+Meltzer, D. J., and B. D. Smith
+1986 Paleoindian and Early Archaic Subsistence Strategies in Eastern North America. In
+Foraging, Collecting and Harvesting: Archaic Period Subsistence and Settlement in
+the Eastern Woodlands, edited by S. W. Neusius, pp. 3â31. Occasional Paper No. 6.
+Center for Archaeological Investigations, Southern Illinois University, Carbondale.
+Miller, J. E.
+1986 The Myers Mound: Salvage Excavations at a Caddo II Site in Southwest Arkansas.
+The Arkansas Archeologist Bulletin 23/24.
+Moore, C. B.
+1912 Some Aboriginal Sites on Red River. Volume XIV, second series. Journal of the
+Academy of Natural Science of Philadelphia.
+National Park Service
+1990 How to Apply the National Register Criteria for Evaluation. National Register
+Bulletin 15.
+National Park Service, Interagency Resources Division, U.S.
+Department of the Interior.
+National Resources Conservation Service
+2010 Soil Survey Staff, Natural Resources Conservation Service, United States
+Department of Agriculture. Official Soil Series Descriptions Online. Available from
+http://soils.usda.gov/technical/classification/osd/index.html. Accessed 20 November
+2010.
+Neuman, R. W.
+1970 Archaeological and Historical Assessment of the Red River Basin in Louisiana. In
+Archeological and Historical Resources of the Red River Basin, edited by H. Davis,
+pp. 1â24. Research Series No. 1. Arkansas Archeological Survey, Fayetteville.
+Newcomb, W. W., Jr.
+1961 The Indians of Texas: From Prehistoric to Modern Times. The University of Texas
+Press, Austin.
+
+31
+
+Newell, H. P., and A. D. Krieger
+1949 The George C. Davis Site, Cherokee County, Texas. Memoir No. 5. The Society for
+American Archaeology, Washington, D.C.
+Perttula, T. K.
+1988 Cultural Setting. In Test Excavations at Sites 41BW182 and 41BW183, Red River
+Army Depot, Bowie County, Texas, edited by M. B. Cliff and D. E. Peter, pp. 11â25.
+RRAD/LSAAP Archeological Technical Series, Reports of Investigations No. 1.
+Geo-Marine, Inc., Plano, Texas.
+1992
+
+The Caddo Nation: Archaeological and Ethnohistoric Perspectives. University of
+Texas Press, Austin.
+
+Perttula, T. K. (editor)
+2000 An Archeological Survey of the Proposed Lake Naconiche, Nacogdoches County,
+Texas. Report of Investigations No. 35. Archeological and Environmental
+Consultants.
+Perttula, T. K., and R. Rogers
+2007 The Evolution of a Caddo Community in Northeastern Texas: The Oak Hill Village
+Site (41RK214), Rusk County, Texas. American Antiquity 72:71â94.
+Perttula, T. K., J. E. Bruseth, N. A. Kenmotsu, and W. A. Martin
+1995 Archeological Testing at the Cabe Mounds (41BW14), Bowie County, Texas.
+Cultural Resources Management Report No. 8. Department of Antiquities
+Protection, Texas Historical Commission, Austin.
+Perttula, T. K., R. C. Fields, J. E. Corbin, and N. A. Kenmotsu
+1993 Historic Context: The Emergence of Sedentism in Northeast Texas, ca. 500 B.C. to
+A.D. 1000. In Archeology in the Eastern Planning Region, Texas: A Planning
+Document, edited by N. A. Kenmotsu and T. K. Perttula, pp. 97â120. Cultural
+Resources Management Report 3. Department of Antiquities Protection, Texas
+Historical Commission, Austin.
+Perttula, T. K., M. Turner, and B. Nelson
+1997 A Radiocarbon Date from the Coker Mound (41CS1). Journal of Northeast Texas
+Archaeology 9:17â20.
+Peter, D. E., and M. B. Cliff (editors)
+1990 Intensive Archeological Survey and Archival Investigations at the Red River Army
+Depot and Lone Star Army Ammunition Plant, Bowie County, Texas. RRAD/LSAAP
+Archeological Technical Series, Reports of Investigations No. 2. Geo-Marine, Inc.,
+Plano, Texas.
+Peter, D. E., T. K. Perttula, M. B. Cliff, S. M. Hunt, C. Stiles-Hanson, and N. G. Reese
+1991 Red River Army Depot and Lone Star Army Ammunition Plant Cultural Resource
+Management Plan. Geo-Marine, Inc., Plano, Texas. Prepared for the Red River
+Army Depot/Lone Star Army Ammunition Plant and the U.S. Army Corps of
+Engineers, Fort Worth District.
+
+32
+
+Preston, N. E.
+1972 Multiple Paleo Finds in Hunt County, Texas.
+Newsletter October:6â8.
+1974
+
+Missouri Archaeological Society
+
+Waco Sinkers in Association with Paleo-Indian Artifacts. The Record 30(4):4â5.
+
+Schambach, F. F.
+1979 Summary of Local and Regional Archeology. In Hampton: An Archeological and
+Historical Overview of a Proposed Strip Mine Tract in South Central Arkansas,
+assembled by T. C. Klinger, pp. 21â30. Research Report No. 19. Arkansas
+Archeological Survey, Fayetteville.
+1982
+
+The Archaeology of the Great Bend Region in Arkansas. In Contributions to the
+Archeology of the Great Bend Region of the Red River Valley, Southwest Arkansas,
+edited by F. F. Schambach and F. Rackerby, pp. 1â11. Research Series No. 22.
+Arkansas Archeological Survey, Fayetteville.
+
+Shafer, H. J.
+1977 Early Lithic Assemblages in Eastern Texas. The Museum Journal 17:187â197. West
+Texas Museum Association, Lubbock.
+Slaughter, E. H., and B. R. Hoover
+1963 Sulphur River Formation and the Pleistocene Mammals of the Ben Franklin Local
+Fauna. Journal of the Graduate Research Center 31(3):132â148. Southern
+Methodist University, Dallas.
+Smith, M. T.
+1989 Indian Responses to European Contact: The Coosa Example. In First Encounters: Spanish
+Explorations in the Caribbean and the United States, 1492â1570, edited by J. T.
+Milanich and S. Milbrath, pp. 135â149. Ripley P. Bullen Monographs in
+Anthropology and History, No. 9. Florida Museum of Natural History, University of
+Florida Press, Gainesville.
+Stephenson, R. L.
+1948 Archaeological Survey of McGee Bend Reservoir: A Preliminary Report. Bulletin of
+the Texas Archeological and Paleontological Society 19:58â73.
+1950
+
+Archaeological Survey of Texarkana Reservoir, Bowie and Cass Counties, Texas.
+River Basin Surveys, Smithsonian Institution, Austin, Texas, Office.
+
+Story, D. A.
+1981 An Overview of the Archaeology of East Texas. Plains Anthropologist 26-92:135â
+158.
+1985
+
+Adaptive Strategies of Archaic Cultures of the West Gulf Coastal Plain. In
+Prehistoric Food Production in North America, edited by R. I. Ford, pp. 19â56.
+Anthropological Papers No. 75. Museum of Anthropology, University of Michigan,
+Ann Arbor.
+
+33
+
+1990
+
+Cultural History of the Native Americans. In The Archeology and Bioarcheology of
+the Gulf Coastal Plain, vol. 1, by D. A. Story, J. A. Guy, B. A. Burnett, M. D.
+Freeman, J. C. Rose, D. G. Steele, B. W. Olive, and K. J. Reinhard, pp. 163â366.
+Research Series No. 38. Arkansas Archeological Survey, Fayetteville.
+
+Story, D. A. (editor)
+1982 The Site, Its Setting, Investigation, Cultural Features, Artifacts of Non-Native
+Manufacture, and Subsistence Remains. The Deshazo Site, Nacogdoches County,
+Texas, vol. 1. Texas Antiquities Permit Series, No. 7. Texas Antiquities Committee,
+Austin.
+Swanton, J. R.
+1942 Source Material on the History and Ethnology of the Caddo Indians. Bulletin 132.
+Bureau of American Ethnology, Smithsonian Institution, Washington, D.C.
+1946
+
+The Indians of the Southeastern United States. Bulletin 137. Bureau of American
+Ethnology, Smithsonian Institution, Washington, D.C.
+
+Taylor, H. C.
+1949 An Archaeological Survey of the Mounds on the Red River from DeKalb, Texas, to
+Ida, Louisiana. Manuscript on file, Texas Archeological Research Laboratory,
+University of Texas, Austin.
+Thurmond, J. P.
+1985 Late Caddoan Social Group Identifications and Sociopolitical Organization in the
+Upper Cypress Basin and Vicinity, Northeastern Texas. Bulletin of the Texas
+Archeological Society 54:185â200.
+1988
+
+Caddoan ArcheologyâIts Present Status and Future Directions: A Perspective from
+Northeast Texas. Paper presented at the 30th Caddo Conference, Dallas.
+
+1990
+
+Archeology of the Cypress Creek Drainage Basin, Northeastern Texas and
+Northwestern Louisiana. Studies in Archeology No. 5. Texas Archeological
+Research Laboratory, University of Texas, Austin.
+
+Watson, P. J.
+1988 Prehistoric Gardening and Agriculture in the Midwest and Midsouth.
+In
+Interpretations of Culture Change in the Eastern Woodlands during the Late
+Woodland Period, edited by R. W. Yerkes, pp. 39â67. Occasional Papers in
+Anthropology No. 3. Ohio State University, Columbus.
+Webb, C. H., J. L. Shiner, and E. W. Roberts
+1971 The John Pearce Site (16CD56): A San Patrice Site in Caddo Parish, Louisiana.
+Bulletin of the Texas Archeological Society 42:1â49.
+Williams, S.
+1974 The Aboriginal Location of the Kadohadacho and Related Indian Tribes. In Caddoan
+Indians I, pp. 281â330. Garland Publishing, New York.
+
+34
+
+Wormser, A.
+1988 Investigations at 41MX5: A Small Caddo Cemetery in Morris County, Texas. Paper
+presented at the 30th Caddo Conference, Dallas.
+
+35
+
+APPENDIX A
+LITHIC ANALYSIS DATA
+
+Depth
+(cm)
+
+40 - 60
+
+40 - 60
+
+60 - 80
+
+60 - 80
+
+60 - 80
+
+0 - 20
+
+20 - 40
+
+0 - 20
+
+0 - 20
+
+ST 001
+
+ST 002
+
+ST 002
+
+ST 002
+
+ST 002
+
+ST 003
+
+ST 003
+
+ST 005
+
+ST 007
+
+Site 41SA312
+
+Unit No.
+
+7
+
+6
+
+5
+
+4
+
+3
+
+3
+
+3
+
+2
+
+1
+
+FS
+No.
+
+Lot
+No.
+
+1
+
+1
+
+1
+
+1
+
+3
+
+2
+
+1
+
+1
+
+1
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Art.
+No. Class
+
+Flake
+
+Shatter
+
+Flake
+
+Flake
+
+Flake
+
+Flake
+
+Shatter
+
+Flake
+
+Flake
+
+Type
+
+Modification
+
+N/A
+
+Biface
+Thinning
+
+Biface
+Thinning
+
+N/A
+
+N/A
+
+Indeterminat N/A
+e
+(Fragmentmedial/dista
+l)
+
+Indeterminat N/A
+e
+(Fragmentmedial/dista
+l)
+
+N/A
+
+N/A
+
+Decorticatio N/A
+n
+
+Other
+
+Percent of
+cortex Type Name
+
+0%
+(tertiary)
+
+0%
+(tertiary)
+
+1-99%
+(secondar
+y)
+
+Whole
+
+0%
+(tertiary)
+
+Fragment Indetermi
+(indeterminanate/Not
+te)
+applicable
+
+Whole
+
+Whole
+
+Whole
+
+Fragment Indetermi
+(indeterminanate/Not
+te)
+applicable
+
+Fragment Indetermi
+(indeterminanate/Not
+te)
+applicable
+
+Fragment 1-99%
+(indetermina(secondar
+te)
+y)
+
+Fragment- 1-99%
+lateral
+(secondar
+y)
+
+Condition
+
+GMI 30563.02.09, Hilltoppers DU #2H
+Lithic Artifact Data
+
+Geo-Marine, Inc.
+
+Undifferenti
+ated chert
+
+Silicified
+wood
+
+Undifferenti
+ated chert
+
+Undifferenti
+ated chert
+
+Silicified
+wood
+
+Silicified
+wood
+
+Silicified
+wood
+
+Silicified
+wood
+
+Undifferenti
+ated chert
+
+Material
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Heat
+Treat. Qty
+
+6.4-12.7
+
+6.4-12.7
+
+12.7-19
+
+6.4-12.7
+
+6.4-12.7
+
+12.7-19
+
+25.4-38.1
+
+12.7-19
+
+6.4-12.7
+
+Size
+(in mm)
+
+0.2
+
+0.2
+
+0.4
+
+0.4
+
+0.4
+
+0.5
+
+9.8
+
+1.3
+
+0.1
+
+Weight
+(in g) Comments
+
+Page 1 of 5
+
+Depth
+(cm)
+
+0 - 20
+
+0 - 20
+
+20 - 40
+
+20 - 40
+
+40 - 60
+
+0 - 20
+
+0 - 20
+
+0 - 20
+
+Unit No.
+
+ST 007
+
+ST 008
+
+ST 008
+
+ST 008
+
+ST 008
+
+ST 009
+
+ST 010
+
+ST 010
+
+12
+
+12
+
+11
+
+10
+
+9
+
+9
+
+8
+
+7
+
+FS
+No.
+
+Lot
+No.
+
+2
+
+1
+
+1
+
+1
+
+2
+
+1
+
+1
+
+2
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Core
+
+Debitage
+
+Debitage
+
+Art.
+No. Class
+
+Shatter
+
+Flake
+
+Flake
+
+Shatter
+
+Shatter
+
+Prepared
+
+Flake
+
+Flake
+
+Type
+
+Modification
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Multidirecti
+onal
+
+Indeterminat
+e
+(Fragmentmedial/dista
+l)
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Decorticatio N/A
+n
+
+Other
+
+1-99%
+(secondar
+y)
+
+1-99%
+(secondar
+y)
+
+1-99%
+(secondar
+y)
+
+Percent of
+cortex Type Name
+
+Indetermi
+nate/Not
+applicable
+
+Fragment
+0%
+(indetermina(tertiary)
+te)
+
+Fragment Indetermi
+(indeterminanate/Not
+te)
+applicable
+
+Fragment Indetermi
+(indeterminanate/Not
+te)
+applicable
+
+Blocky
+chunk
+
+Fragment Indetermi
+(indeterminanate/Not
+te)
+applicable
+
+Whole
+
+N/A
+
+N/A
+
+Condition
+
+GMI 30563.02.09, Hilltoppers DU #2H
+Lithic Artifact Data
+
+Geo-Marine, Inc.
+
+No
+
+Undifferenti
+ated chert
+
+Silicified
+wood
+
+Silicified
+wood
+
+Silicified
+wood
+
+Silicified
+wood
+
+Silicified
+wood
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Heat
+Treat. Qty
+
+Fossiliferous No
+chert
+
+Undifferenti
+ated chert
+
+Material
+
+0-6.4
+
+6.4-12.7
+
+6.4-12.7
+
+6.4-12.7
+
+6.4-12.7
+
+>50.8
+
+6.4-12.7
+
+6.4-12.7
+
+Size
+(in mm)
+
+0.1
+
+0.5
+
+0.1
+
+1.1
+
+0.5
+
+119.8 may have
+been also
+used as
+hammerston
+e as one
+corner
+appears
+battered
+
+0.2 oolitic chert
+
+0.1
+
+Weight
+(in g) Comments
+
+Page 2 of 5
+
+Depth
+(cm)
+
+0 - 20
+
+40 - 60
+
+0 - 20
+
+0 - 20
+
+0 - 20
+
+0 - 20
+
+0 - 20
+
+20 - 40
+
+0 - 20
+
+Unit No.
+
+ST 011
+
+ST 011
+
+ST 014
+
+ST 024
+
+ST 027
+
+ST 027
+
+ST 029
+
+ST 030
+
+ST 032
+
+20
+
+19
+
+18
+
+17
+
+17
+
+16
+
+15
+
+14
+
+13
+
+FS
+No.
+
+Lot
+No.
+
+1
+
+1
+
+1
+
+2
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Art.
+No. Class
+
+Shatter
+
+Flake
+
+Flake
+
+Flake
+
+Shatter
+
+Flake
+
+Shatter
+
+Flake
+
+Flake
+
+Type
+
+Modification
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Biface
+Thinning
+
+N/A
+
+N/A
+
+Decorticatio N/A
+n
+
+Indeterminat N/A
+e
+(Fragmentmedial/dista
+l)
+
+N/A
+
+Biface
+Thinning
+
+N/A
+
+Biface
+Thinning
+
+Indeterminat N/A
+e
+(Fragmentmedial/dista
+l)
+
+Other
+
+Percent of
+cortex Type Name
+
+0%
+(tertiary)
+
+0%
+(tertiary)
+Fragment Indetermi
+(indeterminanate/Not
+te)
+applicable
+
+Whole
+
+Fragment 1-99%
+(indetermina(secondar
+te)
+y)
+
+Fragment Indetermi
+(indeterminanate/Not
+te)
+applicable
+
+Fragment Indetermi
+(indeterminanate/Not
+te)
+applicable
+
+Whole
+
+Fragment Indetermi
+(indeterminanate/Not
+te)
+applicable
+
+Fragment
+0%
+(indetermina(tertiary)
+te)
+
+Fragment Indetermi
+(indeterminanate/Not
+te)
+applicable
+
+Condition
+
+GMI 30563.02.09, Hilltoppers DU #2H
+Lithic Artifact Data
+
+Geo-Marine, Inc.
+
+Silicified
+wood
+
+Undifferenti
+ated chert
+
+Undifferenti
+ated chert
+
+Silicified
+wood
+
+Silicified
+wood
+
+Undifferenti
+ated chert
+
+Silicified
+wood
+
+Undifferenti
+ated chert
+
+Silicified
+wood
+
+Material
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Heat
+Treat. Qty
+
+6.4-12.7
+
+6.4-12.7
+
+6.4-12.7
+
+6.4-12.7
+
+12.7-19
+
+6.4-12.7
+
+6.4-12.7
+
+6.4-12.7
+
+12.7-19
+
+Size
+(in mm)
+
+0.6
+
+0.6
+
+0.2
+
+0.2
+
+0.6
+
+0.2
+
+0.2
+
+0.2
+
+0.9
+
+Weight
+(in g) Comments
+
+Page 3 of 5
+
+Depth
+(cm)
+
+0 - 20
+
+20 - 40
+
+0 - 20
+
+0 - 20
+
+20 - 40
+
+0 - 20
+
+0 - 20
+
+0 - 20
+
+42 - 42
+
+20 - 40
+
+Unit No.
+
+ST 034
+
+ST 037
+
+ST 039
+
+ST 039
+
+ST 039
+
+ST 046
+
+ST 046
+
+ST 046
+
+ST 046
+
+ST 047
+
+27
+
+26
+
+25
+
+25
+
+25
+
+24
+
+23
+
+23
+
+22
+
+21
+
+FS
+No.
+
+Lot
+No.
+
+1
+
+1
+
+3
+
+2
+
+1
+
+1
+
+2
+
+1
+
+1
+
+1
+
+Uniface
+
+Shatter
+
+Flake
+
+Shatter
+
+Flake
+
+Shatter
+
+Shatter
+
+Flake
+
+Type
+
+Debitage
+
+Flake
+
+Modification
+
+Edge
+Modified
+Flake
+
+N/A
+
+Biface
+Thinning
+
+N/A
+
+Biface
+Thinning
+
+N/A
+
+N/A
+
+Decorticatio N/A
+n
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Indeterminat N/A
+e
+(Fragmentmedial/dista
+l)
+
+Other
+
+Ground/Pec Hammersto N/A
+ked/Battered ne
+stone
+
+Chipped
+Stone Tool
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Debitage
+
+Art.
+No. Class
+Percent of
+cortex Type Name
+
+Indetermi
+nate/Not
+applicable
+
+0%
+(tertiary)
+
+Whole
+
+Whole
+
+Whole
+
+1-99%
+(secondar
+y)
+
+Indetermi
+nate/Not
+applicable
+
+1-99%
+(secondar
+y)
+
+Fragment 1-99%
+(indetermina(secondar
+te)
+y)
+
+Fragment- Indetermi
+distal
+nate/Not
+applicable
+
+Blocky
+chunk
+
+Whole
+
+Fragment Indetermi
+(indeterminanate/Not
+te)
+applicable
+
+Fragment Indetermi
+(indeterminanate/Not
+te)
+applicable
+
+Fragment Indetermi
+(indeterminanate/Not
+te)
+applicable
+
+Condition
+
+GMI 30563.02.09, Hilltoppers DU #2H
+Lithic Artifact Data
+
+Geo-Marine, Inc.
+
+Silicified
+wood
+
+Sandstone
+
+Silicified
+wood
+
+Silicified
+wood
+
+Undifferenti
+ated chert
+
+Silicified
+wood
+
+Undifferenti
+ated chert
+
+Silicified
+wood
+
+Silicified
+wood
+
+Silicified
+wood
+
+Material
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Heat
+Treat. Qty
+
+19-25.4
+
+>50.8
+
+25.4-38.1
+
+12.7-19
+
+6.4-12.7
+
+6.4-12.7
+
+6.4-12.7
+
+12.7-19
+
+19-25.4
+
+6.4-12.7
+
+Size
+(in mm)
+
+2.4
+
+208.2
+
+16.0
+
+0.4
+
+0.4
+
+4.0
+
+0.2
+
+0.4
+
+1.9
+
+0.2
+
+Weight
+(in g) Comments
+
+Page 4 of 5
+
+Depth
+(cm)
+
+20 - 40
+
+60 - 80
+
+20 - 40
+
+Unit No.
+
+ST 052
+
+ST 052
+
+ST 055
+
+30
+
+29
+
+28
+
+FS
+No.
+
+Lot
+No.
+
+1
+
+1
+
+1
+
+Debitage
+
+Debitage
+
+Debitage
+
+Art.
+No. Class
+
+Flake
+
+Shatter
+
+Flake
+
+Type
+
+N/A
+
+N/A
+
+Modification
+
+Decorticatio N/A
+n
+
+N/A
+
+Biface
+Thinning
+
+Other
+0%
+(tertiary)
+
+Percent of
+cortex Type Name
+
+Whole
+
+1-99%
+(secondar
+y)
+
+Fragment
+100%
+(indetermina(primary)
+te)
+
+Whole
+
+Condition
+
+GMI 30563.02.09, Hilltoppers DU #2H
+Lithic Artifact Data
+
+Geo-Marine, Inc.
+
+Silicified
+wood
+
+Silicified
+wood
+
+Undifferenti
+ated chert
+
+Material
+
+No
+
+No
+
+No
+
+1
+
+1
+
+1
+
+Heat
+Treat. Qty
+
+6.4-12.7
+
+19-25.4
+
+6.4-12.7
+
+Size
+(in mm)
+
+0.1
+
+2.5
+
+0.1
+
+Weight
+(in g) Comments
+
+Page 5 of 5
+
+

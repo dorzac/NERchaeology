@@ -1,0 +1,163 @@
+SPREADSHEET KEY
+Basic data
+Each sherd number was recorded (lot# and sherd #), as well as the weight, and the longest and
+shortest axes of each sherd. Sherd thickness was measured. Variability of sherd thickness was
+determined by taking three measurements. If they varied from one another more than 1
+millimeter, thickness was recorded as being variable (Y=yes N=no).
+Diameter
+Most sherds in 41GV66, 41AU38, and 41LB4 were not large enough to provide accurate
+measurements of orifice or vessel diameter. Thus, many cells in these fields are blank.
+Orifice diameter
+The diameter of the orifice was measured using a metric template and was expressed in
+centimeters. This was only done with rim sherds that were large enough to provide a reasonably
+accurate result.
+Body diameter
+Body diameter was measured on body sherds greater than or equal to 50 millimeters using a
+micrometer that provided both chord length and the length of the curve. The spreadsheet for
+41AU38 lacks these four columns because no sherds were large enough to measure. The
+following measurements and calculations were recorded: length of curve (measurement),
+difference between length of curve and the “zero” or tare setting on the micrometer (which in
+this case was 18 millimeters—a calculation), chord length (measurement) and the diameter of the
+sherd (calculation). All measurements are expressed in millimeters.
+Sherd color
+The dominant color of the exterior of each sherd was described using a Munsell soil color chart.
+Firing Core
+The firing core of each sherd was described as: 1=reduced, 2=oxidized, 3=reduced and oxidized
+portions found on different locations of sherd.
+Inclusions: abundance and size
+The abundance (“abund” on the spreadsheets) and size of aplastic inclusions in each sherd was
+described as a frequency where: 0=none, 1= (<50%), 2=50%, 3= (>50%). Sand, grog, and bone
+inclusions were noted, as well as “other” inclusions where: C=calcium carbonate, F=ferric
+concretion, H=hematite, S=shell, U=unidentified.
+Inclusion size
+Size and sorting of aplastic inclusions was expressed as 0=none, 1=1/16-1/8mm in diameter,
+2=1/8-1/4mm in diameter, 3=1/4mm and greater, 4=size classes 1 and 2, 5=size classes 2 and 3,
+6=size classes 1, 2, and 3, and 7= size classes 1 and 3. These observations were made using a
+binocular microscope at 10X magnification.
+
+Location of sherd on vessel (“Location”)
+Is expressed as: 1=rim, 2=neck, 3=shoulder, 4=body, 5=base.
+
+Database key for 41GV66, 41AU 38, and 41LB4/Hood 2005
+
+1
+
+Culture historical type (“type”)
+Culture historical type was determined using attributes after Aten 1983, and Suhm and Jelks
+1962 and is expressed as:
+Paste inclusions/surface
+treatment
+Clay/silt
+Clay/silt/rocker stamped
+Sandy/plain
+Sandy/stamped
+Sandy/incised
+Sandy/contorted paste
+Sandy/red wash
+Grog/fine texture/plain
+Grog/sandy/plain
+Grog/fine texture/incised
+Grog/sandy/incised
+Sand-tempered plain
+Asphaltum present
+Shell
+Bone
+Shell and/or bone
+
+Type name
+Techfuncte Plain, variety unspecified
+Techfuncte Stamped, variety unspecified
+Goose Creek Plain
+Goose Creek Stamped
+Goose Creek Incised
+Mandeville Plain
+Goose Creek Red-Filmed, variety
+unspecified
+Baytown Plain, variety Phoenix Lake
+Baytown Plain, Variety San Jacinto
+San Jacinto Incised, variety Spindletop
+San Jacinto Incised, variety Jamison
+O’Neal Plain, variety Conway
+Rockport Black on Gray
+Descriptive category
+Descriptive category
+Descriptive category
+
+Code
+number
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+Use-wear and surface treatments
+Attributes relating to use-wear and surface treatments were recorded using the following scale to
+describe their frequency:
+0=none
+1= (<25%)
+2=(>25<50%)
+3=(>50%<75%)
+4=(>75%<100%)
+5=100%
+Observations were made on the interior (“int”) and exterior (“ex”) of the sherd. When not
+indicated, observations were made on the exterior of the sherd.
+Spalling (“spall”)
+After Hally 1983.
+Dark areas (“dk”)
+After Hally 1983 and Skibo 1992.
+Scratches (“Scr”)
+After Skibo 1992.
+
+Database key for 41GV66, 41AU 38, and 41LB4/Hood 2005
+
+2
+
+Mending (“Mend”)
+Here the frequency scale above was not used. In this column: 0=none, 1=drilled hole(s), 2=clay
+patching, 3=asphaltum on or near a crack or break.
+Asphaltum residue (“tar”)
+Burnishing (“Burn”)
+After Rice 1987.
+Combing (“Comb”)
+Red Film (“Film”)
+After Aten 1983.
+Incising
+Punctation (“Punctate”)
+Stamping
+Striations from wiping or scraping wet vessel (“stri”)
+After Ellis 1992 and Rye 1981.
+Comments
+Comments include notes of sherds that were glued together or had unique characteristics. In the
+case of 41AU38, this column includes the original sorting of the analysis from the 1974 test
+excavations—this collection is still sorted that way; I simply entered and used the sorting as a
+tool to easily locate individual sherds when working with the collections.
+Bibliography
+Aten, L.E. 1983 Indians of the Upper Texas Coast. Academic Press, New York.
+Ellis, L.W. 1992 Technological Style in Upper Texas Coast Ceramics: A Case Study from
+41HR616, Harris County, Texas. Unpublished masters thesis, University of Texas, San Antonio.
+Hally, D.J. 1983 Use Alteration of Pottery Vessel Surfaces: An Important Source of Evidence for
+the Identification of Vessel Function. North American Archaeologist. 4(1):3-26.
+Rice, P.M. 1987 Pottery Analysis: A Sourcebook. University of Chicago Press, Chicago.
+Rye, O.S. 1981 Pottery Technology: Principles and Reconstruction. Taraxacum, Washington,
+D.C.
+Skibo, J.M. 1992 Pottery Function: A Use-Alteration Perspective. Plenum, New York.
+Suhm, D.A. and E.B. Jelks 1962 Handbook of Texas Archeology: Type Descriptions. Texas
+Archeological Society and Texas Memorial Museum, Austin, Texas.
+
+Database key for 41GV66, 41AU 38, and 41LB4/Hood 2005
+
+3
+
+

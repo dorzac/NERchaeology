@@ -1,0 +1,261 @@
+BURIAL G-OP EU-EU WCB BA-N XFB FT-FT FMT-FMT
+ZY-ZY GN-N IDS-N BA-B PO-PO BA-IDS L. ORBIT HT
+63
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+87
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+198
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+210
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+387
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+446
+181
+130
+0
+101
+110
+95
+103
+119
+0
+74.5
+136
+112.5
+106
+30.5
+
+BURIAL R. ORBIT HT
+PR-ALV AL-AL L. PO-MS
+R. PO-MS
+BA-O F.M. BREADTH
+GN-IDI L. CORP. HT.
+63
+0
+0
+0
+0
+24.5
+0
+0
+0
+87
+0
+0
+26
+0
+0
+0
+0
+0
+198
+0
+0
+0
+20.4
+0
+0
+0
+0
+210
+0
+0
+0
+21.5
+32.5
+0
+0
+0
+387
+0
+0
+0
+19.5
+13
+0
+0
+0
+446
+30.5
+0
+22.5
+26.5
+26.5
+33.5
+25.5
+0
+
+R. CORP. HT
+0
+0
+0
+0
+0
+32
+
+0
+0
+0
+0
+0
+32.5
+
+BURIAL L. CORP BREADTH
+R. CORP. BREADTH
+GO-GO CDL-CDL
+WT_RECID
+63
+0
+0
+0
+0
+87
+0
+0
+0
+0
+198
+0
+0
+0
+0
+210
+0
+0
+0
+0
+387
+0
+0
+0
+0
+446
+14.5
+14.5
+0
+0
+
+Cell: R3
+Comment: B87:
+estimated
+
+Cell: T5
+Comment: B210:PO-MS
+The left and right mastoid length measurements are very different and the mastoid length was observably very different so these measurements are
+correct.
+Cell: B7
+Comment: EHA
+B446:
+Glabella/posterior
+
+Cell: C7
+Comment: EHA
+B446:
+Parietal eminences above temporals.
+
+Cell: D7
+Comment: EHA
+B446:
+Damaged> pushed in.
+Cell: E7
+Comment: EHA
+B446:
+Ant. F. M. N. sutures.
+Cell: I7
+Comment: EHA
+B446:
+Distorted,
+lateral most point of arch.
+
+Cell: J7
+Comment: EHA
+B446:
+Mandible disarticulated.
+
+Cell: K7
+Comment: EHA
+B446:
+ant/inf. Septum->Nasion.
+
+Cell: L7
+Comment: EHA
+B446:
+ant. F. M. -> bregma.
+
+Cell: Q7
+Comment: EHA
+B446:
+Damaged.
+
+Cell: R7
+Comment: EHA
+B446:
+Possible distortion.
+
+

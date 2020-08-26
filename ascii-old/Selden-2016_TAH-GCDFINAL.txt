@@ -1,0 +1,1004 @@
+Journal of Texas Archaeology and History, 2016
+Data Paper Series 1:1-8
+
+3D Scan Data for Caddo Ceramic Vessels from the
+George C. Davis Site (41CE19)
+Robert Z. Selden Jr.1, 2 *
+Abstract
+On June 8, 2015, the intact and reconstructed vessels from the George C. Davis site (41CE19) were scanned
+(3D) in advance of an analysis of 3D geometric morphometrics. These data were collected using a Creaform
+GoSCAN50 running VXElements via the scanner direct control function in Geomagic Design X. All data
+associated with this project are available in Zenodo under a Creative Commons Attribution license, where they
+can be downloaded for use in additional projects. These data have the capacity to augment numerous research
+designs in the digital humanities and ceramic studies, as well as a wide range of comparative research topics
+throughout the American Southeast. The reuse potential for these data is significant.
+Keywords
+American Southeast — Caddo — 3D
+1 Center
+
+for Regional Heritage Research, Stephen F. Austin State University, Nacogdoches, USA
+ID 0000-0002-1789-8449
+*Corresponding author: seldenjrz@sfasu.edu
+The online publication Journal of Texas Archeology and History (ISSN 2334-1874) is published by Journal of Texas Archeology and
+History.org. Copyright (c) 2016 Journal of Texas Archeology and History.org. All rights reserved.
+2 ORCID
+
+Contents
+1
+
+Overview
+
+1
+
+1.1 Context . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+1.2 Spatial Coverage . . . . . . . . . . . . . . . . . . . . . . . 2
+1.3 Temporal Coverage . . . . . . . . . . . . . . . . . . . . . 2
+2
+
+Methods
+
+3
+
+2.1 Steps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.2 3D Cardboard Puzzles . . . . . . . . . . . . . . . . . . . 3
+3
+
+Data Description
+
+4
+
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+3.8
+3.9
+
+Collection Name . . . . . . . . .
+Data Type . . . . . . . . . . . . . .
+Format Names and Versions .
+Creation Dates . . . . . . . . . .
+Dataset Creators . . . . . . . . .
+Language . . . . . . . . . . . . . .
+License . . . . . . . . . . . . . . . .
+Repository Location . . . . . . .
+Publication Date . . . . . . . . .
+
+4
+
+Reuse Potential
+
+4
+
+Acknowledgments
+
+4
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+much of Caddo archaeology [1, 2], and the site represents
+one of the best-studied in East Texas. It is a civic-ceremonial
+center with three earthen mounds, is estimated to encompass
+over 110 acres, and includes over 100 known–or suspected–
+structures [3]. Influential studies from this site come from a
+variety of analytical domains including ceramics [4, 5, 6, 7, 8,
+9, 10, 11], lithics [12, 13, 14, 15], plant remains [16, 17, 18],
+architecture [19, 20] and remote sensing [21, 22, 23, 24, 25,
+26, 27]. The site is located near the southwestern border of
+the Southern Caddo Area (Figure 1), and remains among the
+earliest of the known Caddo mound sites.
+
+4
+4
+4
+4
+4
+4
+4
+4
+4
+
+1. Overview
+Research from the George C. Davis site (41NA49), or Caddo
+Mounds State Historic Site, has served as the foundation for
+
+Figure 1. Location of the George C. Davis site (41CE19) in
+
+the Southern Caddo Area.
+
+3D Scan Data for Caddo Ceramic Vessels from the George C. Davis Site (41CE19) — 2/8
+
+Additional cultural resource management (CRM) undertakings at the site [28, 29, 30, 31, 32, 33, 34, 11, 35, 36, 37,
+38, 39] represent the substantial record of investigations that
+are ongoing. We continue to learn more about the archaeology
+of the George C. Davis site; however, we should do more with
+our projects to advance the evolution of archaeological praxis
+and theory [40].
+The addition of analytical approaches that employ 3D
+meshes (Figure 2) helps, in this case, to advance discussions
+of shape variations that occur among ceramic artifacts [41, 42],
+many components of which are difficult–if not impossible–to
+characterize using traditional orthogonal approaches [43, 44].
+These attributes can be couched within a variety of theoretical
+frameworks [45, 46, 47]. While the production of 3D data are
+labor and time-intensive (although see [48]), the benefits can
+be seen in their contribution to conservation [49], participatory
+digital archaeology [50], and dynamic illustrations [51, 52].
+Figure 3. Undirected network of vessel form by type with
+
+nodes (vessel forms in red; types in blue) and text scaled
+proportional to the number of samples from each. All vessels
+(even those not intact or reconstructed [3]) were used to
+generate this graph.
+
+1.2 Spatial Coverage
+Cherokee County, Texas
+1.3 Temporal Coverage
+There are a total of 115 radiocarbon dates available for the
+George C. Davis site that have been reported [53], compiled
+[54], and recalibrated [55] (Figure 4). The site most regularly articulates with Formative and Early Caddo (ca. A.D.
+900-1200) periods in East Texas. Those dates that articulate
+with the mounds and other known contexts for those vessels
+discussed herein will be used to augment additional analyses.
+Figure 2. 3D scan of TARL 41CE19 424-21. This is a 3D
+
+figure that can be rotated, measured and otherwise quantified.
+To activate the figure, this article must be downloaded to your
+computer. Activate the figure by clicking on the image, then
+click/drag to rotate.
+A preliminary synthesis of the vessels can be accomplished through the analysis of networks extrapolated from
+qualitative attributes associated with vessel form and type [3],
+where the various nodes can be scaled proportional to the
+number of samples associated with each (Figure 3). While
+additional network-based analyses are currently underway,
+this graph illustrates the contributions of the various Caddo
+vessel forms and types present at the George C. Davis site.
+1.1 Context
+While the context of the vessels is discussed in detail elsewhere [3], an abbreviated listing is included in Table 1.
+
+Figure 4. Summed probability distribution for radiocarbon
+
+dates from the George C. Davis site.
+
+3D Scan Data for Caddo Ceramic Vessels from the George C. Davis Site (41CE19) — 3/8
+
+Table 1. Context of Vessels and Vessel Type
+
+Vessel
+
+Context
+
+101
+361
+424-21
+427B
+790
+2006-04-107
+2006-04-108
+2015-1
+2097-1
+2097-14
+2210
+3070-1
+3959
+4020
+2006-4-84
+5897
+5915
+30342
+ET221
+
+Mound C, F106
+Mound C, F107
+Mound C, F119
+Mound B
+Inner Village A
+Inner Village, F5
+Mound A
+Mound C, F154
+Mound C, F155
+Mound C, F155
+Inner Village A
+Mound C, F152
+Inner Village A
+Mound C, F156
+Unknown
+Below Mound A
+Below Mound A
+Mound A
+Surface
+
+Type
+UID Fine Ware
+Holly Fine Eng
+Holly Fine Eng
+Davis Incised
+Weches Fing-Imp
+Pennington Punct-Inc
+Bowles Creek Pl
+Hickory Eng
+Holly Fine Eng
+Holly Fine Eng
+Bowles Creek Plain
+Hickory Eng
+Pennington Punct-Inc
+Holly Fine Eng
+Hickory Eng
+Holly Fine Eng
+Holly Fine Eng
+Pennington Punct-Inc
+Holly Fine Eng
+
+2. Methods
+All whole or reconstructed vessels were scanned with a Creaform
+GoSCAN50 running VXElements 4.1 via the scanner direct
+control function in Geomagic Design X 2015.2.0. Upon completion of scanning each vessel, the texture (color) layer was
+removed pursuant to guidance by the Caddo Nation of Oklahoma that no texture data be made publicly accessible without
+the express written permission of the Tribe. The uniform
+color scan data were saved as ASCII.ply files prior to postprocessing [56, 57].
+2.1 Steps
+To align each scan, a reference vector (revolving axis) was
+inserted, followed by a reference point at the confluence of
+the vector and the mesh (using a projection) at the central
+base. Region groups were then used to define the basal plane.
+All three elements (vector, point and plane) of reference geometry were then utilized in an interactive alignment, with
+the reference plane as the moving plane, the reference vector
+as the moving vector, and the reference point as the moving
+point (Figure 5). Alignment has proven to be an important
+factor in downstream analyses, particularly when making the
+transition from Design X and Control to SolidWorks or other
+CAD-based platform [58].
+Post-processing of each 3D mesh began with the healing wizard function in Design X, which corrects problematic
+issues with non-manifold poly-vertices, folded poly-faces,
+dangling poly-faces, small clusters, small poly-faces, nonmanifold poly-faces, crossing poly-faces, and small tunnels.
+After these issues were corrected, the global remesh function
+was used to render the final mesh. When post-processing was
+
+Figure 5. Aligned 3D mesh for TARL 41CE19 2097-1
+
+illustrating the reference geometry (reference vector, point
+and plane–in green) used to align the mesh.
+
+complete, each mesh was decimated by 50 percent prior to
+saving then exporting each as an ASCII.ply. Decimation of
+the mesh decreases file size while increasing ease of use on
+standard computers.
+A digital photograph of each vessel was taken with a Sony
+RX1R camera, then saved as a .jpg, which appears alongside
+each 3D mesh. Since dissemination of the texture file for the
+3D mesh is prohibited by the Caddo Nation of Oklahoma, the
+digital photography provides a color proxy.
+2.2 3D Cardboard Puzzles
+In addition to the 3D models, two 3D cardboard puzzles
+were created (for TARL 41CE19 2006-4-84 [59] and TARL
+41CE19 424-21 [60]) to augment the on-site efforts of the interpretive staff by providing a physical model through which
+visitors can interact with the digital proxy. These cardboard
+puzzles were generated using Autodesk 123D Make [61], and
+the plans for the cardboard puzzles (Figure 6) accompanied
+the uploads to Zenodo. Those plans can be downloaded, cut,
+glued to cardboard, then cut out to create a tangible model
+of a Caddo vessel. These files were uploaded to Zenodo in
+.pdf format, and are compatible with most laser cutters where
+they can be cut out using variety of mediums in addition to
+cardboard.
+
+3D Scan Data for Caddo Ceramic Vessels from the George C. Davis Site (41CE19) — 4/8
+
+Figure 6. Modeled 3D cardboard puzzle of TARL 41CE19
+424-21 created using Autodesk 123D Make.
+
+3. Data Description
+3.1 Collection Name
+Caddo Burial Vessels 3D
+3.2 Data Type
+Decimated meshes and digital photographs
+3.3 Format Names and Versions
+ASCII.ply (mesh) and .jpg (digital photograph)
+3.4 Creation Dates
+June 8, 2015
+3.5 Dataset Creators
+Robert Z. Selden Jr.
+3.6 Language
+English
+3.7 License
+Creative Commons Attribution
+3.8 Repository Location
+Caddo Burial Vessels 3D
+• TARL 41CE19 101 [62]
+(http://dx.doi.org/10.5281/zenodo.28085)
+• TARL 41CE19 361 [63]
+(http://dx.doi.org/10.5281/zenodo.28086)
+• TARL 41CE19 424-21 [60]
+(http://dx.doi.org/10.5281/zenodo.28087)
+• TARL 41CE19 472B [64]
+(http://dx.doi.org/10.5281/zenodo.28088)
+• TARL 41CE19 790 [65]
+(http://dx.doi.org/10.5281/zenodo.28090)
+
+• TARL 41CE19 2006-4-107 [66]
+(http://dx.doi.org/10.5281/zenodo.28092)
+• TARL 41CE19 2006-4-108 [67]
+(http://dx.doi.org/10.5281/zenodo.28093)
+• TARL 41CE19 2015-1 [68]
+(http://dx.doi.org/10.5281/zenodo.28255)
+• TARL 41CE19 2097-1 [69]
+(http://dx.doi.org/10.5281/zenodo.28256)
+• TARL 41CE19 2097-14 [70]
+(http://dx.doi.org/10.5281/zenodo.28264)
+• TARL 41CE19 2210 [71]
+(http://dx.doi.org/10.5281/zenodo.28272)
+• TARL 41CE19 3070-1 [72]
+(http://dx.doi.org/10.5281/zenodo.28274)
+• TARL 41CE19 3959 [73]
+(http://dx.doi.org/10.5281/zenodo.28278)
+• TARL 41CE19 4020 [74]
+(http://dx.doi.org/10.5281/zenodo.28286)
+• TARL 41CE19 2006-4-84 [59]
+(http://dx.doi.org/10.5281/zenodo.28292)
+• TARL 41CE19 5897 [75]
+(http://dx.doi.org/10.5281/zenodo.28298)
+• TARL 41CE19 5915 [76]
+(http://dx.doi.org/10.5281/zenodo.28304)
+• TARL 41CE19 30342 [77]
+(http://dx.doi.org/10.5281/zenodo.28307)
+• TARL 41CE19 ET221 [78]
+(http://dx.doi.org/10.5281/zenodo.28310)
+3.9 Publication Date
+August 18, 2015
+
+4. Reuse Potential
+Those data from this project have long-term and wide-ranging
+reuse potential, of which many applications may (likely) not
+yet have been contemplated. While the primary purpose of
+this endeavor was to document the vessels in advance of a 3D
+geometric morphometrics study [41, 42, 79], two of these have
+since been modeled as 3D puzzles that can be cut out using
+materials that are easily acquired by most (i.e., a cardboard
+box).
+These data have significant reuse potential in the digital
+humanities where they can augment more qualitative studies
+of decorative designs and motifs. They also hold promise
+for clarifying questions of vessel shape and form that can
+be addressed in analyses of asymmetry and 3D geometric
+morphometrics.
+
+Acknowledgments
+I extend my gratitude to the Caddo Nation of Oklahoma and
+to the Texas Archeological Research Laboratory (TARL) for
+providing the requisite permissions and access needed to scan
+this collection of Caddo burial vessels.
+
+3D Scan Data for Caddo Ceramic Vessels from the George C. Davis Site (41CE19) — 5/8
+
+This article was written using an open access LaTeX template [80] in Overleaf, and I wish to thank Dr. John Hammersley and Dr. Lian Tze Lim for their help with scripting
+questions.
+The 3D model used in Figure 2 was generated as a .ply
+in Design X and converted to a .u3d in MeshLab with the
+support of the 3D-CoForm project.
+
+[11]
+
+J. Stokes and J. Woodring. Native-Made Artifacts of Clay.
+In D. A. Story, editor, Archeological Investigations at the
+George C. Davis Site, Cherokee County, Texas: Summers
+of 1979 and 1980, pages 135–238. Occasional Papers
+No. 1, Texas Archeological Research Laboratory, The
+University of Texas at Austin, Austin, 1981.
+
+[12]
+
+B. J. Baskin. Lithic and Mineral Artifacts. In D. A.
+Story, editor, Archeological Investigations at the George
+C. Davis Site, Cherokee County, Texas: Summers of 1979
+and 1980, pages 239–320. Occasional Papers, Vol. 1,
+Texas Archeological Research Laboratory, The University
+of Texas at Austin, Austin, 1981.
+
+[13]
+
+H. J. Shafer. Lithic Technology at the George C. Davis
+Site, Cherokee County, Texas. PhD Dissertation, Department of Anthropology, The University of Texas at Austin,
+1973.
+
+[14]
+
+H. J. Shafer. Lithic Reduction Strategies at the George C.
+Davis Site. Louisiana Archaeology, 1:66–74, 1974.
+
+[15]
+
+H. J. Shafer. Lithic Technology at the George C. Davis
+Site, Cherokee County, Texas. Special Publication No. 18,
+Friends of Northeast Texas Archaeology, Austin, 2011.
+
+[16]
+
+R. I. Ford. Preliminary Report on the Plant Remains from
+the George C. Davis Site, Cherokee County, Texas 19681970 Excavations. Bulletin of the Texas Archeological
+Society, 68:104–107, 1997.
+
+[17]
+
+V. H. Jones. Maize from the Davis Site: Its Nature and
+Interpretation. In H. P. Newell and A. D. Krieger, editors, The George C. Davis Site, Cherokee County, Texas,
+pages 241–249. Memoirs No. 5., Society for American
+Archaeology, Menasha, Wisconsin, 1949.
+
+[18]
+
+J. E. Keller. Subsistence Paleoecology of the George
+C. Davis Site: Strategies and Consequences. Western
+Canadian Journal of Anthropology, 7:100–128, 1977.
+
+[19]
+
+T. C. Schultz. Architectural Variability in the Caddo
+Area of Eastern Texas. PhD Dissertation, Department of
+Anthropology, The University of Texas at Austin, 2010.
+
+[20]
+
+C. Spock. An Analysis of the Architectural and Related
+Features at the George C. Davis Site. MA Thesis, Department of Anthropology, The University of Texas at Austin,
+1977.
+
+[21]
+
+J. E. Bruseth and B. Pierson. Magnetometer Survey at
+the George C. Davis Site (41CE19). Current Archeology
+in Texas, 6(1):7–9, 2004.
+
+[22]
+
+D. G. Creel, D. Hudler, S. M. Wilson, T. C. Schultz,
+and C. P. Walker. A Magnetometer Survey of Caddoan
+Mounds State Historic Site. Technical Report 51, Texas
+Archeological Research Laboratory, The University of
+Texas at Austin, Austin, 2005.
+
+References
+[1]
+
+H. P. Newell and A. D. Krieger. The George C. Davis
+Site, Cherokee County, Texas. Memoir No. 5, Society for
+American Archaeology, Menasha, Wisconsin, 1949.
+
+[2]
+
+H. P. Newell and A. D. Krieger. The George C. Davis
+Site, Cherokee County, Texas. 2nd Edition, Society for
+American Archaeology, Washington, D. C., 2000.
+
+[3]
+
+T.K. Perttula. Documentation of Early Caddo Period
+Ceramic Vessels from the George C. Davis Site on the
+Neches River in Cherokee County, Texas. Journal of
+Northeast Texas Archaeology, 64:(in press), 2016.
+
+[4]
+
+J. B. Arnold III. George C. Davis Site Ceramic Analysis,
+Excavations of 1968-1970. MA Thesis, Department of
+Anthropology, The University of Texas at Austin, 1973.
+
+[5]
+
+J. B. Arnold III. Porosity and Refiring Tests on Ceramics
+from the George C. Davis Site, Texas. Bulletin of the
+Texas Archeological Society, 46:231–241, 1975.
+
+[6]
+
+C. Descantes, D. G. Creel, R. J. Speakman, S. M. Wilson,
+and M. D. Glascock. Instrumental Neutron Activation
+Analysis of Pottery from the George C. Davis Site, Texas.
+North American Archaeologist, 25(2):121–138, 2005.
+
+[7]
+
+G. Fritz. Analysis of Ceramic Pipes, Ear Ornaments,
+and Effigies from the George C. Davis Site. MA Thesis,
+Department of Anthropology, The University of Texas at
+Austin, 1975.
+
+[8]
+
+[9]
+
+[10]
+
+D. B. Kelley. Ceramics from Caddo Mounds State Park
+(41CE19) Monitoring Project. In A. Peyton and J. D.
+Lowe, editors, Archaeological Monitoring Investigations
+at Site 41CE19, The Caddo Mounds State Historic Site,
+Cherokee County, Texas, pages A–1 – A–10. Cultural Resource Report No. 10-311, SWCA Environmental Consultants, Austin, 2010.
+M. L. Marchbanks. Lipid Analysis in Archaeology: An
+Initial Study of Ceramics and Subsistence at the George
+C. Davis Site. MA Thesis, Department of Anthropology,
+The University of Texas at Austin, 1989.
+T. K. Perttula. Analysis of Prehistoric Artifacts from
+2003 Excavations at the George C. Davis Site (41CE19),
+Cherokee County, Texas. Journal of Northeast Texas
+Archaeology, 33:63–67, 2010.
+
+3D Scan Data for Caddo Ceramic Vessels from the George C. Davis Site (41CE19) — 6/8
+
+[23]
+
+D. G. Creel, D. Hudler, S. M. Wilson, T. C. Schultz,
+and C. P. Walker. Geophysical Survey of the Mound B
+Area at the George C. Davis Site. Bulletin of the Texas
+Archeological Society, 31:101–108, 2008.
+
+[24]
+
+T. Osburn, J. E. Bruseth, and W. Pierson. Magnetometer
+Investigations at the George C. Davis Site, a Prehistoric
+Caddo Village. Bulletin of the Texas Archeological Society, 79:191–200, 2008.
+
+[25]
+
+C. P. Walker. Landscape Archaeogeophysics: A Study
+of Magnetometer Surveys from Etowah (9BW1), The
+George C. Davis Site (41CE19), and the Hill Farm Site
+(41BW169). Dissertation, Department of Anthropology,
+The University of Texas at Austin, 2009.
+
+[26]
+
+C. P. Walker. Geophysical Survey at the George C. Davis
+Site (41CE19) South of Highway 21, Cherokee County,
+Texas. AGA Report 2011-6, Archaeo-Geophysical Associates, LLC, Austin, 2011.
+
+[27]
+
+C. P. Walker and D. P. McKinnon. Exploring Prehistoric
+Caddo Communities through Archaeogeophysics. In T.K.
+Perttula and C. P. Walker, editors, The Archaeology of
+the Caddo, pages 177–208. University of Nebraska Press,
+Lincoln, Nebraska, 2012.
+
+[28]
+
+D. G. Creel. Archeological Investigations at the George C.
+Davis Site, Cherokee County, Texas, Summer 1978. Texas
+Antiquities Permit Series No. 1, Texas A&M University,
+College Station, 1979.
+
+[29]
+
+W. A. Davis, A. C. Earls, and M. S. F. Tomka. 1987
+Archeological Excavations at the George C. Davis
+Site (41CE19), Caddoan Mounds State Historical Park,
+Cherokee County, Texas. Technical Report No. 1, Texas
+Parks and Wildlife Department, Austin, 1992.
+
+[30]
+
+R. C. Fields. Report on the 1977 Investigations at the
+George C. Davis Site, Caddoan Mounds State Historic
+Site, Cherokee County, Texas. Texas Archeological Research Laboratory, The University of Texas at Austin,
+Austin, 1978.
+
+[31]
+
+[32]
+
+[33]
+
+R. C. Fields and J. P. Thurmond. The Geoge C. Davis
+Site, Cherokee County, Texas: Spring 1980 Archeological
+Investigations. Report of Investigations No. 8, Prewitt
+and Associates, Inc., Austin, 1980.
+C. Goodmaster. Archeological Monitoring for Trail Construction, Caddo Mounds State Historic Site, Cherokee
+County, Texas. Miscellaneous Reports of Investigations
+No. 557, Geo-Marine, Inc., Plano, 2012.
+T. K. Perttula and B. Nelson. Recent Archeological
+Survey Investigations at Caddo Mounds State Historic
+Site (George C. Davis Site, 41CE19). Letter Report No.
+242, Archeological & Environmental Consultants, LLC,
+Austin, 2010.
+
+[34]
+
+A. Peyton and J. D. Lowe. Archaeological Monitoring Investigations at Site 41CE19, The Caddo Mounds
+State Historic Site, Cherokee County, Texas. Cultural
+Resources Report No. 10-311, SWCA Environmental
+Consultants, Austin, 2010.
+
+[35]
+
+D. A. Story. 1968-1969 Field Work at George C. Davis.
+Newsletter of the Southeast Archaeological Conference,
+13:25–32, 1969.
+
+[36]
+
+D. A. Story. A Preliminary Report of the 1968, 1969, and
+1970 Excavations at the George C. Davis Site, Cherokee
+County, Texas. Texas Archeological Research Laboratory,
+The University of Texas at Austin, Austin, 1972.
+
+[37]
+
+D. A. Story. Archeological Investigations at the George
+C. Davis Site, Cherokee County, Texas: Summers 1979
+and 1980. Occasional Papers Vol. 1, Texas Archeological
+Research Laboratory, The University of Texas at Austin,
+Austin, 1981.
+
+[38]
+
+D. A. Story. 1968-1970 Archeological Investigations
+at the George C. Davis Site, Cherokee County, Texas.
+Bulletin of the Texas Archeological Society, 68:1–113,
+1997.
+
+[39]
+
+J. P. Thurmond and U Kleinschmidt. Report on the Fall
+1978 Investigations at the George C. Davis Site, Caddoan Mounds State Historic Site, Cherokee County, Texas.
+Texas Archeological Research Laboratory, The University of Texas at Austin, Austin, 1979.
+
+[40]
+
+D. A. Story. The George C. Davis Site: Glimpses into
+Early Caddoan Symbolism and Ideology. In T.K. Perttula and J. E. Bruseth, editors, The Native History of the
+Caddo: Their Place in Southeastern Archeology and Ethnohistory, pages 9–43. Studies in Archeology 30, Texas
+Archeological Research Laboratory, The University of
+Texas at Austin, Austin, 1998.
+
+[41]
+
+R. Z. Selden Jr., T. K. Perttula, and M. J. O’Brien. Advances in Documentation, Digital Curation, Virtual Exhibition, and a Test of 3D Geometric Morphometrics: A
+Case Study of the Vanderpool Vessels from the Ancestral
+Caddo Territory. Advances in Archaeological Practice,
+2(2):1–15, 2014.
+
+[42]
+
+R. Z. Selden Jr. and M. L. C. Vasconcelos. Uma análise
+preliminar da morfometria 3d das cerâmicas acordeladas
+na coleção Calderón. Boletim Informativo do Museu de
+Arqueologia e Etnologia, 8(3):8, 2015.
+
+[43]
+
+M. J. Shott and B. W. Trail. New Developments in Lithic
+Analysis: Laser Scanning and Digital Modeling. The SAA
+Archaeological Record, pages 12–17, 2012.
+
+[44]
+
+M. J. Shott. History Written in Stone: Evolutionary Analysis of Stone Tools in Archeology. Evolution: Education
+and Outreach, 4(3):435–445, 2011.
+
+3D Scan Data for Caddo Ceramic Vessels from the George C. Davis Site (41CE19) — 7/8
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+
+[49]
+
+[50]
+
+R. Hosfield. Modes of Transmission and Material Culture Patterns in Craft Skills. In Stephen Shennan, editor,
+Pattern and Process in Cultural Evolution, pages 45–60.
+University of California Press, 2009.
+C. L. Costin. Craft Production Systems. In G. M. Feinman and T. D. Price, editors, Archaeology at the Millennium: A Sourcebook, pages 273–327. Kluwar Academic/Plenum Press, New York, 2001.
+C. L. Costin. Craft Production. In J. D. G. Maschner, editor, Handbook of Archaeological Methods, pages 1034–
+1107. AltaMira, Walnut Creek, 2005.
+N. Ahmed, M. Carter, and N. Ferris. Sustainable Archaeology through Progressive Assembly 3D Digitization.
+World Archaeology, 46(1):137–154, 2014.
+S. C. Kuzminsky and M. S. Gardiner. Three-Dimensional
+Laser Scanning: Potential Uses for Museum Conservation and Scientific Research. Journal of Archaeological
+Science, 39(8):2744–2751, 2012.
+C. Morgan and S. Eve. DIY and Digital Archaeology:
+What are you Doing to Participate? World Archaeology,
+44(4):521–537, 2012.
+
+[51]
+
+M. Magnani. Three-Dimensional Alternatives to Lithic
+Illustration. Advances in Archaeological Practice,
+2(4):285–297, 2014.
+
+[52]
+
+E. S. Carlson. Representation and Structure Conflict in
+the Digital Age: Reassessing Archaeological Illustration
+and the Use of Cubist Techniques in Depicting Images of
+the Past. Advances in Archaeological Practice, 2(4):269–
+284, 2014.
+
+[53]
+
+[54]
+
+[55]
+
+[56]
+
+[57]
+
+D. A. Story and S Valastro Jr. Radiocarbon Dating and
+the George C. Davis Site, Texas. Journal of Field Archaeology, 4(1):63–89, 1977.
+T. K. Perttula. A Compendium of Radiocarbon and Oxidizable Carbon Ratio Dates from Archaeological Sites in
+East Texas, with a Discussion of the Age and Dating of
+Select Components and Phases. Radiocarbon, 39(3):305–
+342, 1998.
+R. Z. Selden Jr. and T. K. Perttula. Radiocarbon Trends
+and the East Texas Caddo Tradition. Southeastern Archaeology, 34(1):85–96, 2013.
+F. Galeazzi, H. Moyes, and M. Aldenderfer. Defining
+Best 3D Practices in Archaeology: Comparing Laser
+Scanning and Dense Stereo Matching Techniques for 3D
+Intrasite Data Recording. Advances in Archaeological
+Practice, 2(4):353–365, 2014.
+T. Weyrich, M. Pauly, R. Keiser, S. Heinzle, S. Scandella,
+and M. Gross. Post-Processing of Scanned 3D Surface
+Data. Eurographics Symposium on Point-Based Graphics,
+2004.
+
+[58]
+
+R. Z. Selden Jr. 3D Scan Data of Caddo Burial Vessels
+from the McSpadden Site near Frankston, Texas. CRHR
+Research Reports, 1:Article 5.
+
+[59]
+
+R. Z. Selden Jr. TARL 41CE19 2006-4-84 3D Cardboard
+Model, zenodo, http://dx.doi.org/10.5281/zenodo.28292,
+2015.
+
+[60]
+
+R. Z. Selden Jr. TARL 41CE19 424-21 3D Cardboard
+Model, zenodo, http://dx.doi.org/10.5281/zenodo.28087,
+2015.
+
+[61]
+
+Autodesk. 123D Make, http://www.123dapp.com/make,
+2015.
+
+[62]
+
+R. Z. Selden Jr. 3D Model of TARL 41CE19 101, zenodo,
+http://dx.doi.org/10.5281/zenodo.28085, 2015.
+
+[63]
+
+R. Z. Selden Jr. 3D Model of TARL 41CE19 361, zenodo,
+http://dx.doi.org/10.5281/zenodo.28086, 2015.
+
+[64]
+
+R. Z. Selden Jr. 3D Model of TARL 41CE19 472b, zenodo, http://dx.doi.org/10.5281/zenodo.28088, 2015.
+
+[65]
+
+R. Z. Selden Jr. 3D Model of TARL 41CE19 790, zenodo,
+http://dx.doi.org/10.5281/zenodo.28090, 2015.
+
+[66]
+
+R. Z. Selden Jr. 3D Model of TARL 41CE19 2006-4-107,
+zenodo, http://dx.doi.org/10.5281/zenodo.28092, 2015.
+
+[67]
+
+R. Z. Selden Jr. 3D Model of TARL 41CE19 2006-4-108,
+zenodo, http://dx.doi.org/10.5281/zenodo.28093, 2015.
+
+[68]
+
+R. Z. Selden Jr. 3D Model of TARL 41CE19 2015-1,
+zenodo, http://dx.doi.org/10.5281/zenodo.28255, 2015.
+
+[69]
+
+R. Z. Selden Jr. 3D Model of TARL 41CE19 2097-1,
+zenodo, http://dx.doi.org/10.5281/zenodo.28256, 2015.
+
+[70]
+
+R. Z. Selden Jr. 3D Model of TARL 41CE19 2097-14,
+zenodo, http://dx.doi.org/10.5281/zenodo.28264, 2015.
+
+[71]
+
+R. Z. Selden Jr. 3D Model of TARL 41CE19 2210, zenodo, http://dx.doi.org/10.5281/zenodo.28272, 2015.
+
+[72]
+
+R. Z. Selden Jr. 3D Model of TARL 41CE19 3070-1,
+zenodo, http://dx.doi.org/10.5281/zenodo.28274, 2015.
+
+[73]
+
+R. Z. Selden Jr. 3D Model of TARL 41CE19 3959, zenodo, http://dx.doi.org/10.5281/zenodo.28278, 2015.
+
+[74]
+
+R. Z. Selden Jr. 3D Model of TARL 41CE19 4020, zenodo, http://dx.doi.org/10.5281/zenodo.28286, 2015.
+
+[75]
+
+R. Z. Selden Jr. 3D Model of TARL 41CE19 5897, zenodo, http://dx.doi.org/10.5281/zenodo.28298, 2015.
+
+[76]
+
+R. Z. Selden Jr. 3D Model of TARL 41CE19 5915, zenodo, http://dx.doi.org/10.5281/zenodo.28304, 2015.
+
+[77]
+
+R. Z. Selden Jr. 3D Model of TARL 41CE19 30342,
+zenodo, http://dx.doi.org/10.5281/zenodo.28307, 2015.
+
+3D Scan Data for Caddo Ceramic Vessels from the George C. Davis Site (41CE19) — 8/8
+
+[78]
+
+R. Z. Selden Jr. 3D Model of TARL 41CE19 et221,
+zenodo, http://dx.doi.org/10.5281/zenodo.28310, 2015.
+
+[79]
+
+R. Z. Selden Jr., B. K. Means, J. C. Lohse, C. Koenig,
+and S. L. Black. Beyond Documentation: 3D Data in
+Archaeology. Texas Archeology, 58(4):20–24.
+
+[80]
+
+LaTeX Templates. Stylish Article, http://www.latex
+templates.com/template/stylish-article, 2015.
+
+

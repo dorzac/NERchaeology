@@ -1,0 +1,2085 @@
+DISCRIMINANT ANALYSIS OF STONE TOOLS FROM
+THE SAN PEDRO VALLEY OF ARIZONA
+
+Norman M. Whalen
+
+ABSTRACT
+An archeological survey in southern Arizona resulted in the recording of 293
+sites ranging in age from 3500 B.C. to A.D. 1450. The sites crosscut five environmental zones and yielded 3387 stone artifacts and 643 ceramic sherds.
+Application of the multivariate technique of discriminant analysis disclosed the
+performance of eight functional activities and demonstrated differential preference for certain activities during successive time and cultural periods.
+
+INTRODUCTION
+During the summer months of 1975 through 1977 an archeological survey
+was conducted of the east side of the San Pedro Valley in southeastern Arizona
+between the Dragoon Mountains and the San Pedro River (Figure 1). Within
+the boundaries of the 180-square-mile (46,620 ha) area, 16.5 square miles
+(4273 ha), or sections, representing 9 percent of the total area were surveyed,
+and 293 prehistoric sites were discovered. These included Cochise sites of the
+Chiricahua (3500-1500 B.C.) and San Pedro (1500-200 B.C.) stages and other
+sites identified as agricultural features. Decorated ceramics on some sites suggest
+dates as late as A.D. 1450. Five environmental zones-distinguished from one
+another by elevation, topography, and prevailing forms of vegetation-crosscut
+the survey area.
+ENVIRONMENTAL ZONES
+
+The central San Pedro Valley is flanked by two parallel northwest-trending
+mountain ranges, the Whetstones on the west, and the Dragoons on the east.
+The ranges are separated by a valley about 32 km (20 miles) wide, through
+which the San Pedro River flows in a northerly course. In the surveyed area on
+the east side of the valley are five environmental zones, which are described
+below from the highest to the lowest.
+(1) The mountain zone consists mainly of canyons cutting into the mountains at elevations averaging 5100 feet. Vegetation is primarily oak-woodland,
+with a heavy gallery of willow, oak, and mesquite. The woodland is interspersed with yucca, cholla, and an occasional prickly pear cactus on an understory of grasses.
+(2) The hillside zone is a narrow band of open plains about .8 km (.5 mile)
+wide bordering the mountains and sloping gently downward and westward
+toward the river nearly 20 km (!2 miles) away. The hillside zone has scattered
+
+Bulletin of the Texas Archeologieal Society
+
+5 3:151-17 3
+
+152
+
+Texas Archeological Society
+
+Figure 1.
+Map of the Dragoon-San Pedro Survey area, showing boundaries of
+survey area (heavy black lines) and sections surveyed (crosshatched blocks)~
+sentinels of oak and mesquite, with yucca, prickly pear, and, rarely, mescal
+interspersed among thick grasses and sage.
+(3)
+The bajada, the largest zone, is more than 16 km (10 miles) wide and
+extends from the hillside zone down to the 4000-foot elevation about 2.5 km
+(1.5 miles) from the flood plain. The upper part of the bajada-nearest the
+hillside-is open country with oak and mesquite surrounded by thick grasses
+that rapidly diminish, to be replaced by a creosote-bursage community, heavily
+congested in places. Other species on the bajada include blackbush, yucca, and
+prickly pear. Mesquite grows on the bajada (but less densely than in the
+riparian environment), together with paloverde, ironwood, catclaw, and several
+scrubs. Elevation of the bajada varies from 4000 to 5000 feet.
+(4)
+The first terrace is indistinguishable environmentally from the bajada
+and is in fact a continuation of it. The first terrace overlooks the flood plain
+below, from which it extends upward for about 2.5 km (1.5 miles). The first
+terrace was designated a zone for cultural reasons. We expected to find small
+agricultural settlements there close to the farming potential of the flood plain.
+Elevation of the zone varies from 3800 to 4000 feet.
+
+Whalen-Discrirninant Analysis
+
+153
+
+(5) The flood plain is a flat, low-lying zone that adjoins the San Pedro
+River and is seldom more than 1.5 meters (5 feet) above it. Here cottonwood
+trees compete with mesquite, which sometimes clusters in almost impenetrable
+thickets on the river bank. In places the flood plain is 1.5 km (1 mile) wide;in
+others the slopes of the first terrace impinge directly on the river, leaving no
+flood plain at all. Vegetation on the flood plain is more luxuriant than elsewhere due to fiver overflow and runoff from tributary washes. Grasses are
+thick and tall, and the zone is liberally blanketed with creosote, sage, catclaw,
+and blackbush, together with arboreal species of ironwood and paloverde.
+FIELD METHODS
+In the first year of the survey the initial size of a survey unit was one section,
+but the unit was later reduced to a quarter-section on the assumption that the
+information gathered in a quarter-section was truly representative of the entire
+section (Plog 1976; Judge, Ebert, and Hitchcock 1975). By reducing the size
+of the survey unit we were able to quadruple the area in diverse environmental
+zones that could be covered in a given time span. This methodology is valid, of
+course, only if environmental factors within the section are constant and if both
+quarter-sections and sites are randomly distributed. Preparatory to the actual
+survey, sections and quarter-sections were numbered consecutively and survey
+units were chosen from a table of random numbers in order to minimize bias in
+the selection process.
+Although 9 percent of the total area was surveyed, the environmental zones
+were not covered equally or in proportion to the area they cover (Table 1). The
+immense size of the bajada (128 sections) precluded a 9 percent survey, since
+that alone would have entailed a reconnaissance of 11.5 sections, a task that
+would require two summers to complete. On the other hand, the mountain and
+hillside zones received more than adequate coverage, which was required for
+compliance with the terms of a permit from the U.S. Forest Service that had
+to be secured because those zones were mainly located in the Coronado National
+Forest. The flood plain posed a different problem. It is almost wholly under
+cultivation, with very few patches in pristine condition. This fact, coupled with
+strenuous objections of local farmers to any survey in their plowed and planted
+fields, limited the area of flood plain open for survey. Consequently only one
+quarter-section, which was undisturbed by cultivation, was examined.
+Both section and quarter-section units were surveyed on foot in criss-cross
+fashion from one end of the unit to the other with intervals of about 60 meters
+(200 feet) between swaths. At times, particularly in mountain canyons, the
+irregularity of the terrain interrupted this pattern. Sample collections of stone
+artifacts and sherds, especially decorated sherds to aid in dating, were made
+from each site. Artifacts were gathered at random as the archeologists walked
+across the sites to determine site dimensions and locate features such as house
+outlines, hearths, walls, and rock piles. Color photographs were taken of each
+site and feature, house outlines were measured and plotted, and distances between houses were calculated. Data collected at each site also included horizontal and vertical distance to water, the direction to and nature of the water
+source (e.g., spring, wash, river), and descriptions of site topography, soil, s!ope,
+and types and density of surrounding vegetation. Each site was sketched, and its
+precise location was pinpointed on a U.S. Geological Survey map. These descrip-
+
+154
+
+Texas Archeological Society
+Table 1. Survey Area
+
+Size
+
+Mountain
+
+Hillside
+
+Total Area*
+
+8
+
+7
+
+Area Surveyed*
+
+3.5
+
+5.75
+
+% Surveyed
+
+43.7
+
+82.1
+
+Bajada
+128
+
+Terrace
+26
+
+3.5
+
+3.5
+
+2.7
+
+13.5
+
+Flood Plain
+
+Total
+
+11
+
+180
+
+0.25
+2.3
+
+16.5
+9.2
+
+*Area figures are in square miles (sections).
+
+tions enabled us to assemble composite pictures of the environmental and
+physical attributes of the sites and of the environmental zones in which they
+were located. In the course of the 3-year survey, 3387 stone artifacts and 643
+sherds were recovered.
+ARTIFACTS
+
+The system used by Haury (1950) in his Ventana Cave report was used for
+classifying stone artifacts. Artifacts described by Haury closely resemble the
+ones collected in the San Pedro Valley 160 km (100 miles) to the east of
+Ventana Cave, as indeed they should, since the Ventana Cave artifacts come
+from the same culture and the same time interval as the San Pedro artifacts.
+The stone artifacts collected at the sites were first divided into three classes:
+chipped stone tools, ground stone tools, and artifacts associated with tool
+manufacturing. After this preliminary division, the tools were classified according to the types defined by Haury. Except for scrapers and choppers, no
+attempt was made to divide them into further subtypes. Scrapers, however,
+were subdivided into side, end, ovoid, disc, and domed varieties, and choppers
+were subdivided into end and side forms. Projectile points, regardless of morphology, were listed simply as projectile points, although their cultural affiliations were noted when they could be ascertained. Manos were listed without
+differentiating the various forms. Gravers were distinguished from drills by the
+shortened projection of the former and the lengthened, bifacially flaked shaft
+of the latter. Like manos, burins and cores were entered without reference to
+subtypes.
+After the artifacts had been provisionally classified, they were examined for
+wear patterns under binocular stereoscopic microscope with magnifications
+averaging 50X. Waste debris was examined as well as chipped stone tools, and
+as a result some specimens were reclassified. For example, a tool resembling
+a chopper was found under magnification to lack any evidence of wear, such
+as battering, striations, or a crushed or shattered working edge, so it was reclassified as a core. In another case a tool thought to be a plane was classified
+as a core after the microscopic examination failed to disclose any evidence of
+wear. A tool was confirmed as a notch when, under magnification, numerous
+parallel striations could be seen at right angles to the indented edge. These are
+a few cases where microscopic examination corrected or corroborated tool
+identification based on morphology alone. The work of Keeley (1977, 1980)
+also demonstrates the value of microscopic study of stone tools prior to typological and functional classification.
+
+Whalen-Discriminant Analysis
+
+155
+
+Fifty-four artifact types were identified in the collection (Figures 2-4): 46
+were finished tool types, four were ground stone tools (metate, mano, mortar,
+and abrader), and four were of the manufacturing tool category (core, hammerstone, flake, and chunk). Twenty-six of the finished tool types were composite
+forms with two types represented on the same implement, and 20 were singular
+forms. Length, width, thickness, and, where appropriate, contour, length, and
+angle of working edges were measured for each artifact. Variables such as the
+presence of cortex, patina, and denticulation were noted. Basalt was the most
+favored raw material, followed by chert, quartzite, and rhyolite (Table 2).
+Although this choice reflects the availability of raw materials in the area, it also
+indicates preferential selection, since materials other than basalt were more
+common than their percentages in the artifacts suggest.
+SITES AND ACTIVITIES
+The 293 sites found in the survey were divided into two general categories:
+lithic and ceramic. Lithic sites were those with stone artifacts alone; ceramic
+sites were those with pottery and usually an assortment of stone artifacts.
+Lithic sites numbered 252 and ceramic, 41. Four of the ceramic sites had plain
+sherds only; 15 had decorated sherds, but at only nine were the sherds sufficiently diagnostic to be identified and dated. Rim sherds were sought to aid
+in distinguishing jars from bowls. A third grouping of 62 sites, distinguished
+from among the first two categories, was that of the Cochise culture. These
+sites were located mainly on the first terrace and consisted of 49 lithic sites
+and 13 combined lithic and ceramic sites (Table 3). Six of the 13 ceramic
+sites had decorated pottery, a development that evolved long after the disappearance of the Cochise culture, suggesting reoccupation of Cochise sites by
+later groups. Plain ceramics on the other seven sites could denote the terminal
+San Pedro stage-when ceramics first appeared in southern Arizona, about
+200 B.C.-or resettlement of older Cochise sites.
+Eight of the 293 sites found in the survey had round, oval, or rectangular
+house structures. Five of the eight sites had one structure each, but one had
+
+Table 2. Frequency of Lithic Raw Materials
+Material
+
+Mountain
+
+Hillside
+
+Bajada
+
+TelTace
+
+Flood Plain
+
+Total
+
+Percent
+
+Basalt
+Chert
+Quartzite
+Rhyolite
+Dolomite
+Sandstone
+Siltstone
+Shale
+Gneiss
+Limestone
+
+144
+94
+17
+14
+4
+17
+0
+0
+9
+0
+
+118
+71
+5
+6
+1
+3
+1
+2
+0
+0
+
+341
+15
+15
+20
+15
+2
+0
+2
+3
+0
+
+1570
+197
+237
+171
+115
+43
+43
+20
+4
+15
+
+23
+5
+7
+8
+4
+5
+I
+0
+0
+0
+
+2196
+382
+281
+219
+139
+70
+45
+24
+16
+15
+
+64.8
+11.3
+8.3
+6.5
+4.1
+2.1
+1.3
+0.7
+0.5
+0.4
+
+Total
+
+299
+
+207
+
+413
+
+2415
+
+53
+
+3387
+
+100.0
+
+156
+
+Texas Archeological Society
+
+B
+
+A
+
+C
+
+C
+
+D
+
+b
+Figure 2.
+Heavy duty artifacts. (a) Cores and hammerstones: A,B,C, cores;
+C,E, hammerstones (A is 215 mm long). (b) Pick and choppers: A, pick;
+B-F, choppers (A is 169 mm long).
+
+Whalen-Discriminant Analysis
+
+157
+
+13
+
+C
+
+D
+
+a
+
+C
+
+J
+
+D
+
+IXl
+
+b
+Figure 3.
+Miscellaneous artifacts. (a) Metates and manos: A-C, metates;
+D,E, manos (D is 137 mm !ong). (b) Other artifacts: A,E, planes; B-D, flake
+knives; F,G, notches; H,I, gravers; J,K, blades; L-N, bifaces (N is 70 mm long).
+
+158
+
+Texas Archeological Society
+
+D
+
+A
+
+C
+
+B
+
+G
+
+E
+
+H
+
+N
+
+M
+
+I<
+
+O
+
+a
+
+A
+
+B
+
+C
+
+D
+
+E
+
+J
+
+G
+H
+
+K
+
+M
+
+L
+
+N
+
+O
+
+b
+Figure 4. Miscellaneous artifacts. (a) Scrapers and burins: A-H, side scrapers;
+I,J, disc scrapers; K, end scraper; O, scraper; L-N, burins (B is 81 mm long).
+(b) Projectile points (H is 66 mm long).
+
+Whalen-Discriminant Analysis
+
+159
+
+Table 3. Kinds and Distribution of Sites
+Sites
+
+Mountain
+
+Number
+Density (per section)
+Lithic
+Ceramic
+Cochise
+With ceramics
+With lithics only
+
+9
+2.6
+5
+4
+0
+0
+0
+
+Hillside
+
+Bajada
+
+Terrace
+
+24
+4.2
+20
+4
+3
+0
+3
+
+82
+23.4
+78
+4
+4
+0
+4
+
+176
+50.3
+148
+28
+54
+12
+42
+
+Flood Plain
+2
+8.0
+1
+1
+1
+1
+0
+
+Total
+293
+252
+41
+62
+13
+49
+
+seven and two had six houses each (Figures 5 and 6). On multiple-house sites
+the structures were separated from one another by distances of 1 to as much as
+20 meters (65 feet), and all were on the first terrace directly overlooking the
+flood plain. Also on the first terrace were 20 sites having one to eight rock
+mounds, or rock piles, each, probably accumulations from surface clearing for
+the practice of agriculture (Woosley 1980). Some sites had linear stone alignments at right angles to the downslope, designed to retain slope wash and arrest
+soil erosion (Doyel 1979).
+At higher elevations were eight rock-shelters, seven in the mountain zone and
+one in the hillside zone. The shelters were not in the bedrock itself, but under
+huge igneous boulders that had settled in such a way as to afford a partial overhang or shelter. On one site the boulders were so disposed that they made up
+three medium-sized interconnecting chambers.
+The zone most utilized for day-to-day activity was the first terrace. There,
+the number of sites was highest and the density of sites per section greatest.
+Despite the differences in zone size and in the areas surveyed within the zones,
+comparisons of site density clearly confirm the priority of the first terrace for
+occupation and activity. This priority prevailed not only among sites of the
+later agricultural period but also among those of the earlier Cochise stage as
+well; 54 (87 percent) of 62 Cochise stage sites concentrated on the first terrace.
+The sites found in the survey were divided into base camps and work camps,
+based on the length of occupation and the range of activities performed. In preagricultural times base camps were semipermanent, occupied only a few weeks a
+year. After the introduction of agriculture, base camps usually were inhabited
+the year around. At base camps diverse tasks were carried out: curing hides;
+manufacturing tools, stone and otherwise; processing wild and/or domesticated
+plant foods; erecting shelters and, in later periods, storage facilities; producing
+clothing, footgear, and basketry; and, on occasion, butchering game. Base camps
+were ideal settings where the injured and the infirm could recuperate; where the
+very old and the very young could rest from the rigors of transhumance; and
+where tribal lore could be recited and customs could be passed on from one
+generation to the next.
+Work camps, on the other hand, were temporary; they were occupied only
+overnight or at best for only a few days. Their contents suggest a single function, such as processing hides, gathering succulent fruits, or gathering and converting suitable stone or wood into useful artifacts. This singularity of purpose
+limited the size of work camps-plant gathering being an exception-to small
+
+160
+
+Texas Archeological Society
+
+a
+
+b
+Figure 5.
+Photographs of house outlines in the San Pedro Valley, site 100
+(Ariz. EE:4: 14): (a) house 2; (b) house 7.
+
+Whalen-Discriminan t A nalysis
+
+161
+
+a
+
+b
+Figure 6.
+Photographs of house outlines in the San Pedro Valley:
+107 (Ariz. EE:4:lS), house 5; (b) site 127 (Ariz. EE:4:16), house 6.
+
+(a) site
+
+162
+
+Texas Archeological Society
+
+dimensions. Common to base camps and work camps were stone artifacts,
+which clustered into groups compatible with the functions of the sites. For
+example, at a kill and butchering station, projectile points were used to bring
+down the game; choppers, flakes, and bifacial knives were used to dismember
+it; and scrapers with edge angles exceeding 50 degrees were used to remove fat
+and flesh in the preliminary processing of hides. The makeup of an assemblage
+indicates its function, which in turn classifies the site. Unlike the single-purpose
+work camps, base camps reflected many functions.
+From the 3387 artifacts recovered, we hypothesized the performance of
+eight functional activities, which we in turn consolidated into three groups.
+The first group, which dealt with plant exploitation, consisted of three related
+functional activities: wild plant gathering; mescal and yucca collecting which,
+although they are obviously wild plants like the rest, nevertheless required
+special tools; and food plant processing. The second group, which dealt with
+tool manufacturing, also comprised three activities: the production of stone
+tools, the fashioning of bone artifacts, and the manufacture of wooden implements. The third group was concerned with faunal resources as reflected in kill
+and butchering tasks and in hide processing. Each activity called for its own set
+of appropriate tools, but some tools crosscut several tasks; e.g., side scrapers
+were useful in woodworking, in hide preparation, and in plant procurement and
+processing.
+Ethnographic accounts (Goodyear 1975; Doelle 1976; Crosswhite 1980)
+describe the use of wooden tools for plant gathering as part of an inventory
+that included scrapers, choppers, cores, flakes, and knives. A similar set of tools
+could assist in mescal and yucca harvesting, together with picks, bifaces, and
+denticulate flakes. Plant processing equipment includes metates, manos, and,
+less frequently, mortars and pestles, hammerstones, scrapers, and flakes. A
+concentration of cores, hammerstones, flakes, and chunks strongly suggests
+stone tool production, just as tool kits high in choppers, planes, flakes, scrapers,
+notches, and burins suggest woodworking. The absence of planes and the
+introduction of gravers with suites of notches, burins, and steeply angled
+scrapers imply the engraving of bone and antler tools (Wilmsen 1970; Wylie
+1975; Cantwell 1979). Projectile points, knives, and sharp-edged flakes are
+found at both kill and butchering sites and at hide-processing sites (Bayham
+1976). Side scrapers and end scrapers with convex edge angles between 45
+and 55 degrees are specific to hide scraping (Keeley 1980), and highly polished
+handstones or manos are specific to softening and smoothing hides. Manos used
+for hide softening were smaller, thinner, and had glossier surfaces than did the
+larger, heavier, pitted manos used in plant processing (Mason 1891; Wissler
+1920; Ewers 1937).
+DISCRIMINANT ANALYSIS OF THE DATA
+Several multivariate programs were available for statistical analysis of the
+data:
+analysis of variance, factor analysis, and discriminant analysis. The
+first two procedures seek to discover patterning among variables through
+statistical computation. We opted for discriminant analysis, which assumes the
+existence of patterns in some members of the sample and uses variables of those
+members to discover patterning in the remaining members. The program used
+for discriminant analysis was designed by Tuccy and Klecka and is described in
+
+Whalen-Discriminant Analysis
+
+163
+
+Statistical Package for the Social Sciences (Nie et al. 1975). Twenty-eight of
+the 293 sites were ambiguous in terms of activity (four had only ceramics and
+24 had only stone flakes) and were therefore omitted from computation. This
+left 265 sites. Forty of those were among the preselected sites that were chosen
+to illustrate the eight activities, leaving 225 ungrouped sites to be classified.
+We reduced the 54 artifact types to 30 by redefining composite tools as single
+types determined by elimination of the rarer of the two forms found on each
+tool. Eighteen of the 30 artifact types analyzed were computed as most discriminatory (Table 4). For those 18 types, discriminant function coefficients
+were derived (Table 4A), which produced a mean discriminant score (Table 5)
+for each activity, on the basis of which all of the sites-the 40 grouped sites as
+well as the 225 ungrouped sites-were classified.
+
+Table 4. Discriminant Analysis Computation (Standardized Weights)
+Discriminant
+Function
+1
+2
+3
+4
+5
+6
+
+Eigenvalue
+4.35613
+2.66792
+2.18796
+0.89705
+0.71730
+0.61123
+
+Canonical
+Correlation
+0.902
+0.853
+0.828
+0.688
+0.646
+0.616
+
+Functions Wilksâ
+Lambda
+Derived
+1
+2
+3
+4
+5
+6
+
+0.0138
+0.0508
+0.1618
+0.3070
+0.5273
+0.8496
+
+Chi-Square
+
+df
+
+1074.542
+748.097
+457.093
+296.378
+160.648
+40.922
+
+102
+80
+60
+42
+26
+12
+
+Significance
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+
+Table 4A. Standardized Discriminant Function Coefficients (Standardized Weights)
+Function
+1
+V 1 Chopper
+V 2 Side Scraper
+V 3 Graver
+V 4 Pr~ectile Point
+V 5 Core
+V 6 Plane
+V 7 Notch
+V 8 Biface
+V 9 Hammerstone
+V!0 Flake
+V 11Burin
+V 12 Pick
+V13 Mortar
+V 14 Abrader
+V 15 Chunk
+V 16 Pick and Hammer
+V 17 Metate
+V 18 Mano
+
+-0.34775
+-0.27185
+0.39409
+0.01108
+0.05966
+0.19310
+0.50386
+-0.00581
+0.04196
+-0.04551
+0.43612
+0.04137
+0.00793
+-0.04648
+-0.00853
+0.03229
+-0.00849
+0.02855
+
+Function
+2
+0.04645
+-0.00565
+-0.00379
+-0.84668
+0.16682
+0.02334
+0.02274
+-0.09101
+0.03315
+-0.07244
+0.02817
+-0.00504
+0.02064
+0.00461
+-0.01031
+0.01652
+0.00111
+-0.43384
+
+Function
+3
+-0.24851
+-0.15928
+-0.18123
+0.10900
+0.78045
+-0.14828
+-0.14709
+~.02967
+0.31584
+~.02014
+-0.13325
+-0.06070
+0.01705
+-0.07120
+-0.04237
+0.02801
+0.01306
+0.03662
+
+Function
+4
+1.62988
+1.14711
+0.27680
+0.34136
+1.03278
+0.48361
+0.78963
+0.05601
+0.15037
+0.50970
+0.34720
+0.01187
+-0.19037
+0.07743
+0.33890
+-0.34199
+Â©.07148
+0.37308
+
+Function
+5
+0.63268
+0.41971
+~.13330
+0.54742
+0.41996
+0.57423
+0.49190
+0.19173
+0.14507
+0.36696
+~.06493
+0.04636
+-0.08461
+-0.00893
+0.29819
+~.07859
+~.01484
+-0.67904
+
+Function
+6
+-0.20843
+-0.04644
+-0.41741
+-0.23538
+-0.07728
+0.59233
+0.21235
+0.01936
+0.02775
+0.06292
+-0.33691
+0.03464
+-0.00547
+-0.04600
+0.06178
+0.05411
+-0.00380
+0.43749
+
+164
+
+Texas Archeological Society
+Table 5. Discriminant Analysis Computation-Discriminant Scores:
+Centroids of Groups in Reduced Space (Mean Discriminant Scores)
+
+Function
+1
+
+Function
+2
+
+Function
+3
+
+Function
+4
+
+Function
+5
+
+Function
+6
+
+0.17287
+
+-2.49049
+
+0.43399
+
+1.06523
+
+-2.29987
+
+1.29714
+
+-0.17949
+
+-3.42904
+
+0.44938
+
+-0.43863
+
+1.65190
+
+-0.84782
+
+Group 3
+WoodWorking
+
+0.75740
+
+0.22959
+
+-0.58548
+
+0.17992
+
+0.83369
+
+0.22421
+
+Group 4
+Bone Working
+
+2.39277
+
+0.12340
+
+-0.69277
+
+0.39383
+
+-0.39008
+
+-1.07587
+
+Group 5
+Stone Tool Production
+
+0.52615
+
+0.78657
+
+3.14771
+
+0.52667
+
+0.25205
+
+-0.05936
+
+Group 6
+Plant Food Processing
+
+0.03336
+
+0.11976
+
+0.21037
+
+-2.01528
+
+-0.66140
+
+0.05087
+
+Group 7
+Mescal and Yucca
+
+0.11350
+
+0.14375
+
+0.00186
+
+-0.29848
+
+0.08537
+
+0.17823
+
+-0.82320
+
+0.23884
+
+-0.26630
+
+0.31215
+
+-0.05951
+
+-0.25308
+
+Group 1
+Hide Processing
+Group 2
+Ki!l and Butchering
+
+Group 8
+Wild Plant Gathering
+
+The discriminant analysis program for classifying ungrouped sites selects
+by mean discriminant scores the highest and second highest probability groups
+for each site. The correlations between discriminant coefficients of artifacts
+(standardized weights) and corresponding activities (mean discriminant scores)
+are graphically illustrated for each of the six functions in Figures 7 to 12.
+Function 1 (Figure 7) segregates bone working from plant gathering; notches,
+burins, and gravers are attributed to bone working, and side scrapers and choppers are assigned to plant gathering. Planes correlate more closely with woodworking than with bone working. Mortars, manos, metates, and bifaces clustered closely around plant processing.
+Function 2 (Figure 8) separates two extremes: stone tool manufacturing
+and kill and butchering. Cores are predominant in the former and projectile
+points in the latter. Manos relate more to hide processing than to anything
+else. Bone working and woodworking scores are too close for any differentiation.
+Function 3 (Figure 9) isolates stone tool manufacturing at one end of the
+scale and bone working and woodworking at the other. Cores and hammerstones align with stone tool production; a cluster of tools-burins, planes,
+notches, side scrapers, and gravers-suggests wood and bone working. Manos,
+metates, and mortars align a little more closely with plant processing than with
+plant gathering. Projectile points clearly denote kill and butchering as well as
+hide processing tasks.
+
+Whalen-Discriminant Analysis
+FUNC
+
+Standardized
+Weights
+
+1
+
+~!.0
+
++3.0
+
+â â â
+
+2,39
+
+Discriminanl
+Scores
+
+FUNC 2
+
+Standardized
+Weights
+
+Oiscriminant
+
+......... +4.0
+
++1.0
+
+165
+
+Scores
+
+Bone Work
+
+--+3.0
+-- +2.0
+
+Notch
+
+0.50
++0.5--,â~
+
+Burin
+Graver
+
++0.5--+2.0
+
+0.43
+0,39 ......
+--+1.0
+
+Plane
+Core
+Hammerstone, Pick
+Mane
+Mortar
+
+0.190, 05
+0.04 ~,~
+0,02~x~
+0.01 -~
+0 ....
+/
+
+Metate, Biface -0.01 J
+
+O. 75
+
+Wood Work
+
+0.52
+
+Stone Tool Mfg
+
+0.17
+0.03
+
+Hide Prr~
+Plant Proc
+
+--o
+--
+
+"0,17
+
+~+i. 0
+0. 78
+Core
+
+0.16
+
+0.22
+.~--~0,23
+~*"f 0,12
+0.11
+n__ --0
+Pick, Side Scraper, Graver -0.01 ~
+
+Chopper
+Hammerstone
+Mortar, Burin, Notch, Plane
+
+0.04
+0.03
+0.02
+
+Chopper -0,34
+
+Tool
+
+Mfg
+
+Plant Gath
+Wood Work
+Bone Work
+Plant Proc
+
+Kill/Butcher
+
+8itace -0.09
+
+Side Scraeer -0.27 ~ ......
+.......
+
+Stone
+
+.....
+
+-- -I,0
+-0,82
+
+Plant Gath
+
+---1.0
+
+Mano
+-0.5 --
+
+-0. 43
+-0,5 --
+
+--
+
+-2,0
+
+-2.49
+
+Hide Proc
+
+-- -2.0
+
+-Proj Point -0.84
+
+-l.O
+
+----
+
+-3.0
+
+Figure 7.
+Artifact-activity diagram
+for function 1, based on discriminant
+analysis.
+
+â
+
+-3.0
+
+-3.42
+
+KiO/Butcher
+
+4.0
+
+Figure 8.
+Artifact-activity diagram
+for function 2, based on discriminant
+analysis.
+
+Function 4 (Figure 10) is enigmatic. Although it separates hide processing
+from kill and butchering, it fails to isolate artifacts that other diagrams indicate are diagnostic of those activities. Side scrapers are indeed a recognized
+component of hide processing, but it is hard to visualize the role of cores in
+that task. Picks and hammerstones are closer to and more compatible with
+mescal and yucca exploitation than to kill and butchering tasks, but plant
+processing (on the negative end of the scale), like kill and butchering, has no
+associated artifacts at all.
+
+166
+
+Texas Archeological Society
+FUNC 3
+
+Standardized
+Weights
+
++ 1.0
+
+......... + 4.0
+
+Discrirninant
+Scores
+
+FUNC 4
+
+Standardized
+
++2.0
+
+Weights
+
+Chopper
+3.14
+m +3.0
+
+Core 0.18
+
+Stone Tool
+
++2.0
+
+Â¯
+
+1.62
+
+Mfg
+
+Side Scraper
+Core
++0.S
+
+Discriminant
+Scores
+
+â +2.0
+
+1, I4
+...... 1.06
+1.03 ~ ......
++1.0
++L0
+
+Hide Proc
+
+Notch O. 7B
+Hammerstone
+
+0.31
+
+m +1.0
+
+Proj Point
+Mano
+Metote, Mortar
+
+0, I0
+
+~
+
+0.03 "~
+0.O1
+
+0.44
+0.43
+
+Killt Butcher
+Hide Proc
+
+0.21
+
+Plant Proo
+
+Plane 0.48
+Mano 0,37
+Proj Point. Burin 0.34
+Graver 0,27
+
+â
+
+O. 52
+
+Stone Tool Mfg
+
+~.
+
+0.39
+
+Bone Work
+
+0.31
+
+Plant Gath
+
+â
+
+mO
+Burin
+Plane, Notch
+Scraper
+Side
+Graver
+
+Metate
+
+-0.13
+-0.14
+-0.15 ----,
+-0.18 "--
+
+0.17 Wood Work
+
+Hammerstone 0.15
+Pick 0.01%
+
+-0.26
+
+Plant Gath
+
+~ -0.58
+
+Wood Work
+"0.69 Bone Work
+
+Mortar
+
+O
+
+-0.07
+-0, Ig
+
+Pick/Hammer -0.~4
+
+-0.29
+
+Mescal IYucca
+
+-0.43
+
+Killl Butcher
+
+-- -LO
+
+-0.5
+
+Â¯
+
+-2.0
+
+-1.0
+
+-1.0
+
+-2.0
+
+Z-2.0
+
+-3.0
+
+Â¯-,---2.00
+
+4.0
+
+Artifact-activity diagram
+Figure 9.
+for function 3, based on discriminant
+analysis.
+
+Figure 10.
+
+Plant
+
+Pr~
+
+Artifact-activity diagram
+
+for function 4, based on discriminant
+analysis.
+
+Function 5 (Figure 11) separates kill and butchering activities with associated
+choppers, planes, and projectile points, on the positive end of the scale, from
+hide processing with the mano, on the negative end. Notches, side scrapers,
+cores, and flakes are widely separated from the burins and gravers of bone
+working. Picks correlate well with mescal and yucca procurement; metates and
+mortars seem more compatible with plant gathering than with plant processing,
+suggesting that those implements may have been used at temporary work camps.
+
+Whalen-Discriminant Analysis
+FUNC 5
+
+Standardized
+Weights
+
++1.0
+
+Oiseriminant
+Scores
+
++3.0
+
+FUNC 6
+
+Standardized
+Weights
+
++ L 0 ....
+
+Plane
+Proj Point
+Notch
+
+0,57
+0.54
++0.5
+0.40
+
+Flake
+
+0.41
+0. 36
+
+Chunk
+
+0,29
+
+Biface
+Hammerstone
+
+0,10
+0.14
+
+Pick
+
+0.04
+
+Side Scraper, Core
+
+1.29
+
+Hide Proc
+
+1.22
+
+Wood Work
+
+0,63
+!,65
+
+Plane
+
+0.59
+
+Mano
+
+0.43
+
+Oiscriminant
+Scores
+
++ 2. 0
+
+m+2.0
+Chopper
+
+..........
+
+167
+
+Kill/Butcher
+Ã·0.5
+
+Â¯
+
++L0
+
+~+1.0
+
+Metate
+Burin
+Mortar
+Graver
+
+0.83
+
+Wood Work
+
+Notch 0.21
+
+Tool
+
+0.25
+
+Stone
+
+0.08
+
+Mescal/Yucca
+
+N ,,,..,~= ---- h
+-0.01
+"%"~ -0.05
+-0.06
+-0.08
+-0,13
+"0.39
+
+-0.60
+
+Mfg
+
+Plant Oath
+
+Flake, Chunk
+Pick
+Hammerstone
+
+0.06 ~.
+0.03 -~
+0.02
+
+27
+
+0.05
+
+Plant Proc
+
+~0
+
+Metate, Nortar -0.01
+/~
+Side Scraper. Abrader -0.04 --~f
+Core -0.07 .i
+
+Bone Work
+
+Plant Proc
+
+0,17 MescallYucca
+
+-0. 05
+
+Stone Tool Mlg
+
+-0.25
+
+Plant Gath
+
+-0.84
+
+Kiltl Butcher
+
+Chopper -0.20
+Proj Point -0.23
+
+-1.0
+
+-0.5
+
+-0,5
+
+Â¯-
+
+-1.0
+
+"1,07 Bone
+Mano -0, 67
+
+-2.0
+
+-2.29
+
+-i.0
+
+Work
+
+Hide Proc
+
+-3.0
+
+Figure 1 1.
+Artifact-activity diagram
+for function 5, based on discriminant
+analysis.
+
+-LO
+
+Figure 12.
+
+.
+
+-2,0
+
+Artifact-activity diagram
+
+for function 6, based on discriminant
+analysis.
+
+Function 6 (Figure 12) places hide processing and woodworking at one end
+of the spectrum, with kill and butchering and bone working at the other, thereby accentuating the differences between them. Once again, planes identify with
+woodworking on the positive end of the scale, while on the negative end of the
+scale burins and gravers correlate with bone working, and choppers and projectile points correlate with kill and butchering.
+In summary, the six functions reveal a close association of projectile points
+
+168
+
+Texas Archeological Society
+
+and manos with hide processing; of projectile points and choppers with kill and
+butchering operations; of planes and notches with woodworking; of notches,
+burins, and gravers with bone working; of hammerstones and cores with stone
+tool manufacturing; of metates and mortars with plant processing; of picks with
+mescal and yucca procurement; and of choppers and side scrapers with plant
+gathering. The tools identified by these discriminant analyses can be regarded
+as salient tools in defining the activities they represent.
+To test the validity and accuracy of discriminant analysis and to confirm the
+internal consistency of the procedure on archeological data that are neither
+continuous nor evenly distributed, we divided the 265 sites alternately into two
+groups. One group of 132 sites, with the same classifications as those accorded
+in the first discriminant analysis run, was considered the preselected or grouped
+sites; the remaining 133 were considered the ungrouped sites. The discriminant
+analysis run was then repeated. Despite the random choice of discriminator
+sites, the second discriminant analysis correctly classified in the highest probability category 106 of the 133 (79.8 percent) ungrouped sites. When the calculation was expanded to include the second highest probability category as a
+correct classification, the accuracy rate increased to 119 out of 133 (89.5 percent). A site was considered correctly classified if its classification corresponded
+to the highest probability category of the first discriminant analysis run. This
+test confirms the accuracy of the initial classification of the ungrouped sites
+and affirms the value of discriminant analysis as a technique for designating site
+function and for predicting the probable functions of sites by means of tool
+assemblages comparable to the ones described here.
+The distribution of sites with respect to activities and environmental zones is
+presented in Table 6, in which the terrace zone clearly emerges as the major
+center for prehistoric occupation and activity. Not all sites were limited to
+single activities. The semipermanent or permanent character of base camps
+facilitated their use for multiple activities, although the temporary nature of
+work camps favored their use for one activity only. In the survey 17 base camps
+were identified, four lithic and 13 ceramic (three ceramic sites were also Cochise). Thirteen of the base camps had evidence of plant processing; ten, of
+stone tool manufacturing; eight, of woodworking; two, of bone working; and
+one each, of hide working and mescal/yucca procurement. Similarly 26 of the
+248 work camps suggest two and, in three cases, three activities. Therefore the
+absence of woodworking and stone tool manufacturing on ceramic sites (Table
+6) does not necessarily denote the cessation of those tasks; often they turn up
+as secondary activities; that is, not in the highest probability category, which
+appears in Table 6, but in the second highest probability category of the discriminant analysis. For example, at 11 of the 13 ceramic base camps, woodworking or stone tool manufacturing-sometimes both-occur as secondary or
+tertiary activities. The most frequent combination among multiple tasks performed at the 26 work camps was mescal/yucca collecting and woodworking.
+Seventeen of the 26 multiple-activity work camps were of Cochise origin.
+Distribution of the principal activities on sites in the five environmental
+zones can be evaluated in terms of the three categories of sites, namely Cochise,
+lithic, and ceramic. Table 6 demonstrates that wild plant collecting (mescal/
+yucca procurement and plant gathering) was the predominant activity at 57.5
+percent of all Cochise sites. For a hunting and gathering society there was
+
+Whalen-Discriminant Analysis
+
+169
+
+?,z
+~.~.
+
+o
+cO
+I
+kO 00
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+,-~
+
+~0
+
+I
+
+o
+
+I
+
+I
+
+I
+o
+o
+
+I
+
+I
+
+~ I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+0
+~ I
+
+I
+
+I
+
+I
+
+oâ~
+oâ~
+
+I
+
+~z0
+
+I
+
+I
+
+I
+
+!
+
+I
+
+I
+
+I
+
+I
+
+-~
+
+1
+
+I
+
+~ I~Â°, ~
+0
+
+I
+
+I
+
+~ i~, ~
+
+I
+
+0
+
+I
+
+I
+
+~,
+
+I
+
+~"
+
+I
+
+"I.
+
+~.
+
+~,~ ~
+I
+
+I
+
+I
+
+I
+
+I ~,"~
+
+o~
+
+â~
+
+~,~
+
+I
+
+I
+
+I
+
+o
+
+I
+
+B
+0
+
+Iâââ-~ I
+
+I
+
+~.~ ~
+
+I Â¢,~ I
+e,l
+
+I
+I
+
+I
+
+I
+
+I
+
+Iââ~ I~I I
+
+e~
+
+.,,~,,
+~o~.~ o~o~~
+
+170
+
+Texas Archeological Society
+
+considerable discrepancy between the percentage of activities relating to wild
+plant collecting and the percentage relating to hunting. This discrepancy suggests an adequate supply of edible wild plants and a reduced dependency on
+large forms of animal life. If small game such as rabbits had been pursued,
+the principal tools for their capture would have been nets and clubs, and flake
+knives probably would have been used for skinning. Some of the 24 ambiguous stone flake sites may represent this activity, but only three of those were
+identified as Cochise sites. Both kill and hide processing sites, like wild plant
+and mescal gathering sites, occurred mainly on the terrace. Contrary to our
+expectations, Cochise bands did not exploit resources intensively in mountain
+canyons or on the hillside, but relied more on plant foraging in the vicinity of
+the terrace, where five of their six base camps were estabhshed. The incidence
+of stone tool manufacturing was low and the incidence of bone working was
+relatively high, but once again multiple functions at base camps and work camps
+compensated for this difference, bringing the number of both activities to nine
+sites each.
+The age of Cochise sites is difficult to determine. From the typology of projectile points, two Cochise work camp sites were recognized as San Pedro (Figure
+4,b: F, J, and N). One is in the mountain zone and the other is in the hillside
+zone. On the first terrace are two somewhat older Chiricahua sites, also dated
+by projectile point style (Figure 4,b: D and L). Two of the four datable
+Cochise sites are kill sites and two are hide processing sites, one each from the
+Chiricahua and San Pedro stages.
+Cochise sites without diagnostic projectile points may belong to either the
+Chiricahua or the San Pedro period, but the probability is greater for a San
+Pedro date for two reasons. In the first place, work on Cochise sites on the
+west side of the San Pedro Valley-directly opposite the survey area-revealed
+a higher incidence of plant gathering in the San Pedro stage than in the earlier
+Chiricahua, when hunting prevailed. If that trend had been consistent on both
+sides of the valley, then the higher ratio of gathering to hunting in the survey
+area would suggest a San Pedro date. In the second place, seven of the 13
+Cochise sites with ceramics but no datable projectile points had plain sherds,
+characteristic of the terminal San Pedro period.
+The main activity at lithic sites was wild plant gathering, which increased
+over the Cochise to 48.6 percent. If mescal collecting is added, the percentage
+rises to 62.7 percent. Since plant gathering usually required an array of wooden
+tools, it is not surprising to see a substantial percentage of woodworking sites.
+The level of bone working and of kill and butchering in lithic sites is c!ose to
+the Cochise, but a decline in plant processing and particularly in hide working
+is apparent. Stone tool manufacturing in hthic sites doubled over the Cochise,
+but still trailed woodworking and bone working. As on Cochise sites, the principal activities on lithic sites were plant food procurement and artifact production.
+Although the lithic category was highest in total number of sites, only one site
+was a base camp.
+The time period covered by lithic sites remains undetermined. Activities at
+lithic sites resemble those at Cochise sites more than they do those that were
+predominant during ceramic times. Such a comparison, however, can be misleading. It seems probable that work parties from both Cochise and ceramic
+base camps were responsible for some of the remains found on lithic sites, but
+
+Whalen-Discriminant Analysis
+
+171
+
+what is less clear is the number of lithic sites that are actually of Cochise or
+ceramic origin. Not all Cochise sites yielded diagnostic projectile points, nor
+were all Cochise tools made of basalt, coated with desert varnish, or crudely
+made. When chert or other fine-grained siliceous materials entered the stone
+tool repertoire, it was often impossible to single out the Cochise tools. Sites
+with such artifacts were categorized simply as lithic. Similarly, not every work
+camp utilized during the ceramic period yielded sherds; if no vessels were
+broken, there would be no sherds to suggest a ceramic work camp. Conceivably,
+some lithic sites may antedate the Cochise period and thus may be Paleo-Indian.
+Conversely, they may be Apache sites; the Apaches encamped frequently in the
+Dragoon Mountains during the historical period.
+The third category, ceramic sites, emphasized plant processing, which soared
+to 42.8 percent, while wild plant gathering dropped to a !ow of 11.4 percent.
+The increased exploitation of mescal and yucca raised the total percentage of
+plant collecting to 45.7 percent, a level not far be!ow that of earlier times.
+From this it seems that half of the subsistence of agricultural societies in the
+San Pedro Valley came from farming and half came from wild plant collecting.
+The striking coincidence of nearly identical percentages for mescal and yucca
+gathering in both Cochise and ceramic sites (35.5 percent and 34.3 percent
+respectively) argues persuasively for the persistence of those plants in the terrace
+zone for a long period of time. Today mescal and, to a lesser extent, yucca are
+almost nonexistent in that area. A creosote-catclaw-bursage community flourishes there, indicative of the climatic change that intervened during the ensuing
+centuries. The absence of woodworking and stone tool manufacturing as pri-â
+mary activities on ceramic sites can be explained by their presence as secondary
+activities, evident on 14 sites for woodworking and on 11 sites for stone tool
+production. Kill and butchering tasks did not occur on a single ceramic site
+as either a primary or secondary activity, yet hide processing was undertaken
+on three sites, implying some pursuit of game.
+Nine ceramic sites, all on the terrace, had decorated sherds that dated between A.D. 900 and 1450. Plain sherds on 29 other sites, some probably older,
+were undatable. The most common decorated sherds were Rincon Red-onbrown, Tanque Verde Red-on-brown, Santa Cruz Polychrome, White Mountain
+Redware, Mimbres Black-on-white, and Encinas Red-on-brown. The first two
+red-on-brown styles were Hohokam and appeared on seven sites, including site
+100 (Figure 5,a and b), which had seven houses. Besides the seven sites with
+Hohokam ceramics, other sites identified as Hohokam include the 20 that
+contained rock piles or rock mounds. These rock piles denote field clearance
+for the dry farming that was practiced on Hohokam sites in other parts of the
+San Pedro and adjacent valleys (Doyel 1979).
+On 13 ceramic sites the main vessel forms were bowls, which were recognized
+by the arcs of their rim sherds. Nine of the 13 sites were work camps and four
+were base camps. Five additional sites, four of them base camps, had equal
+numbers of jars and bowls according to rim sherd counts. Six sites yielded jars
+alone. The presence of bowls suggests leguminous seed processing-paloverde,
+mesquite, catclaw, or ironwood-as Goodyear (1975) points out. Jars were
+used for carrying water and for processing prickly pear cactus which, like paloverde, mesquite, and catclaw, still grows in the survey area. Four of the six
+sites that had ceramic jars alone were work camps.
+
+172
+
+Texas Archeological Society
+
+The survey revealed two major cultures: a hur~ting and gathering culture
+typified by the Cochise and an agricultural culture, typified by the presence
+of ceramics. From the larger number of their sites and from numerous other
+sources outside the valley that confirm the long duration of the Cochise culture, it can be inferred that hunters and gatherers resided in the valley longer
+than did the agriculturists. According to projectile point styles, some Cochise
+sites belonged to the Chiricahua stage and others to the San Pedro stage. Most
+Cochise sites seem to be San Pedro, when gathering eclipsed hunting as the major
+subsistence effort. With the restoration of more effective moisture following
+the Altithermal of Chiricahua times came a decline of transhumance and a concentration of sites in the opulent resource zone of the first terrace. This development paralleled the increasing interest in and ultimate adoption of fulltime agriculture, which also favored locations adjacent to the flood plain, with
+its reliable supply of water and enriched soft.- It was precisely there, on the first
+terrace, that the majority of Cochise sites were found, strengthening the inference that most were San Pedro in origin. The agricultural sites that came later
+followed the same settlement pattern.
+Through the application of discriminant analysis it was possible to identify
+eight activities performed variously on 265 sites scattered geographically across
+five environmental zones and chronologically across nearly 5000 years. The
+use of discriminant analysis on the survey data was vindicated by the consistency
+of the results obtained. Discriminant analysis admits of a wide variety of uses
+and can be employed to resolve a number of archeological problems that call
+for the use of multivariate statistics. Unlike other multivariate approaches,
+discriminant analysis incorporates the experience and expertise of the investigator and is dependent on his skills in the selection of the grouped data. In
+addition, discriminant analysis lends itself to verification by the use of discriminators randomly selected from the data in reruns designed to measure the
+accuracy of prediction of previously classified data.
+REFERENCES CITED
+Bayham, Frank E.
+1976
+Lithics. In Desert resources and Hohokam subsistence: the Conoco
+Florence Project, edited by William H. Doelle, pp. 195-217. Cultural
+Resource Management, Arizona State Museum, University of Arizona, Archaeological Series 103.
+Cantwell, Anne Marie
+The functional analysis of scrapers: problems, new techniques and
+1979
+cautions. Lithic Technology 8(1):5-11.
+Crosswhite, Frank S.
+The annual saguaro harvest and crop cycle of the Papago, with
+1980
+reference to ecology and symbolism. Desert Plants 2(1):3-61.
+Doelle, William H. (editor)
+1976
+Desert resources and Hohokam subsistence: the Conoco Florence
+Project. Cultural Resource Management, Arizona State Museum,
+University of Arizona, Archaeological Series 103.
+Doyel, David E.
+The prehistoric Hohokam of the Arizona desert. American Scientist
+1979
+67(5):544-554.
+
+Whalen-Discriminant Analysis
+Ewers, John C.
+Teton Dakota ethnology and history.
+1937
+terior, National Park Service, Berkeley.
+
+173
+
+U.S. Department of the In-
+
+Goodyear, Albert C.
+1975
+Hecla II and III: an interpretive study of archaeological remains
+from the Lakeshore Project, Papago Reservation, south central
+Arizona. Arizona State University Anthropological Research Paper
+9.
+Haury, Emil W.
+The stratigraphy and archaeology of Ventana Cave, Arizona. Uni1950
+versity of Arizona Press, Tucson.
+Judge, W. James, James I. Ebert, and Robert H. Hitchcock
+1975
+Sampling in regional archaeological survey.
+In Sampling in archaeology, edited by James W. Mueller, pp. 82-123. University
+of Arizona Press, Tucson.
+Kedey, Lawrence H.
+1977
+The functions of Paleofithic flinttools. Scientific American 237(5):
+108-126.
+1980
+
+Experimental determination of stone tool uses: a mierowear analysis. University of Chicago Press, Chicago.
+
+Mason, Otis T.
+1891
+Aboriginal skin dressing.
+
+Smithsonian Institution, Washington, D.C.
+
+Nie, Norman H., C. Hadlai Hull, Jean G. Henkins, and Karin Steinbrenner
+1975
+Statistical package for the social sciences. McGraw-Hill, New York.
+Plog, Stephen
+1976
+Relative efficiencies of sampling techniques for archaeological surveys. In The early Mesoamerican village, edited by Kent V. Flannery, pp. 136-158. Academic Press, New York.
+Wilmsen, Edwin
+Lithic analysis and cultura! inference: a Paleo-Indian case.
+1970
+versity of Arizona Anthropological Papers 16.
+
+Uni-
+
+Wissler, Clark
+1920
+North American Indians of the Plains. American Museum of Natural
+History Handbook Series 1.
+Woosley, Anne I.
+Agricultural diversity in the prehistoric Southwest. The Kiva 45(4):
+1980
+317-335.
+Wylie, Henry G.
+1975
+Tool microwear and functional types from Hogup Cave, Utah.
+Tebiwa 17(2):1-31.
+
+

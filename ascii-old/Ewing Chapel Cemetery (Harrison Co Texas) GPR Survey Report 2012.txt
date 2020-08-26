@@ -1,0 +1,237 @@
+GPR Survey
+Ewing Cemetery, Harrison County, TX
+January 3, 2012
+
+Submitted to:
+James Brenner
+Texas Cemetery Restoration
+10122 Cherry Tree Drive
+Dallas, TX 75243
+January 18, 2012
+
+Kent A. Schneider, Ph.D.
+Archeology Store
+9790 Misty Cove Lane
+Gainesville, GA 30506
+
+Management Summary
+Thirteen (13) probable unmarked graves were identified in the radar data (Figure 1).
+Any ground disturbing activities in the areas of unmarked graves noted in this report or
+areas within the survey grid where no graves were observed should proceed with
+caution.
+Introduction
+Ewing Cemetery, also known as Hall’s Church (Ewing Chapel) cemetery is located in
+Harrison County, Texas (Photo 1). From Marshall, Texas, take Hwy 59 south. About 4.1
+miles after crossing I-20, take FM 2625 west approximately 1.8 miles. Turn north onto
+FM 3017 (Middle Rosborough Springs Road). Photos of grave markers can be found at
+http://www.txgenes.com/txharrison/cems/ewinghallcem.htm.
+The site is fairly flat in all directions. At the time of the GPR survey, the ground cover
+was grassed with some bare areas but much of the site was covered by leaves.
+Ground Penetrating Radar (GPR) was used to determine the presence of graves not
+marked with head or foot stones. A cart-mounted digital GSSI SIR3000 control unit and
+a 400MHz antenna were used to collect data on transects separated by 2 feet (61 cm).
+One hundred seventy eight (178) lines of radar data were collected. A total of 14396
+linear feet were surveyed with the GPR antenna. Data was post processed using
+GPR_Slice software. Each line of radar data was examined for anomalies that might be
+probable burials. The radar data was composited into 20 amplitude slice maps to
+approximately 8 feet deep and 1 amplitude map was selected for data presentation in
+this report.
+The GPR Survey
+Once the grid was set up, the GPR survey consisted of pulling a radar antenna across
+the ground to collect data called radargrams. Detailed field notes were kept noting the
+names and locations of marked graves. A red slash was entered into radargrams at
+each marked grave. Each radargram was then post- processed to create images.
+GPR involves the observation of the reflected component of transmitted electromagnetic
+waves into the subsurface. The reflections, unlike that of acoustical waves, occur at the
+interfaces of materials of differing electrical conductivity or permittivity. The depth of
+penetration for radar waves is frequency dependent and the attenuation of the radar
+wave in the ground is rather quick compared to that of seismic - a few meters compared
+to kilometers.
+The GPR output is a series of radar wavelet traces or scans produced on a chart
+recorder or computer screen as an antenna is pulled across the ground surface. The
+radar wave perturbations can directly yield reflection depth and the relative strength of
+the reflections such that the form and location of a buried object or feature can be
+ascertained rather readily. If the velocity of the radar waves can be determined then the
+conversion of travel-time, between the transmitter and receiver, of the reflected wave,
+
+can be converted to distance similar to that done in seismic studies. Mathematical
+protocols such as “stacking”, migration, and deconvolution are now commonly applied
+to GPR data in order to bring out the finest details regarding the stratigraphy and shape
+of subsurface reflectors or features.
+Survey Grid.
+A grid measuring 2-180 feet north-south (Y direction) by 3-204 feet east-west (X
+direction) was established at the site (Figure 2). The cemetery had been previously
+recorded by Texas Cemetery Restoration. The corners were marked and recorded
+using pins. Tapes were pulled along the north-south direction to guide antenna travel
+and to help make survey notes. Spacing between parallel profiles was 2 feet. Data
+was collected in the Y direction (the north-south profile), incrementing west (the X
+direction) at 12 scans/sec. The time window was set to 50ns to provide good resolution
+to about 8 feet in depth after test runs to observe signal attenuation and optimum
+penetration depth for the features sought. Radar profiles were acquired in forward and
+reverse directions on alternate lines.
+Because radar waves are subject to severe attenuation with depth and the time of
+travel, later arriving reflections were amplified using an exponential gain curve to
+maximize the dynamic range in the recorded data. Filter settings used in recording the
+data were set to 100 MHz for the high pass filter and 800 MHz for the low pass filter for
+this particular antenna. The recorded radar reflections were digitized at 512
+samples/scan at 16 bit resolution.
+Depth of Penetration
+Several methods exist for determining the velocity of microwaves within the ground. A
+noninvasive procedure was used for estimating the microwave velocity beneath Ewing
+Cemetery. The method involves fitting curves to hyperbolic reflections recorded on the
+radargrams from subsurface objects. The hyperbolas for (cylindrical) objects occur
+because of the broad directional response function of the ground antenna. Objects that
+are not directly beneath the antenna get recorded as microwaves are sent over a broad
+range of angles. The travel times however, from objects that are recorded off to the
+side of an antenna take progressively longer travel times the further they are from being
+directly beneath the antenna. The net effect for buried point objects is to create a
+hyperbolic reflection pattern.
+Measurements of the microwave velocity for the survey were estimated at the site using
+the hyperbola fitting method. Shown in Figure 3 is a hyperbola from an existing grave.
+A hyperbola was fitted to this target using an option in the filtering menu of GPR-SLICE
+V7.0 Software. A dielectric permittivity of 7.44, corresponding to a velocity of about
+11.0 cm/ns was estimated for a recording depth of approximately 8 feet. This estimate
+was made using the 400 MHz antenna. Microwaves are “dispersive” which means that
+the microwave velocity can sometimes depend on the frequency transmitted into the
+ground. The GPR antenna, although it has a central frequency near 400 MHz, other
+energy at different frequencies are propagated into the ground. For estimating the
+
+depth of the radar reflections, however, the estimated velocity of the microwaves
+ignores the possibility of dispersion.
+Although the estimated depth of penetration for the survey was approximately 8 feet,
+many anomalies representing probable burials are quite shallow, the tops of the graves
+being within the first 1-3 feet. The survey results shown are based on a depth of 2-3
+feet.
+Radargram Signal Processing
+Before the radargram data was used to construct images, signal processing on the raw
+radargrams was implemented. The processes applied to the recorded data are briefly
+described:
+1) Regaining of the radargrams in post processing was implemented to account for
+limitation in the control unit for the SIR 3000 to apply direct gain during recording.
+Small adjustments were made just below the ground surface reflection for
+regaining.
+2) DC drift removal was implemented during the radargram conversion to remove
+low frequency signal which cause the radar pulse to float away from the 0 line.
+The DC drift was removed in a time domain moving filter.
+Other signal processing options are available in GPR-SLICE v7.0 Software such as
+bandpass filtering. These filters are generally applied in the event that strong line
+noises are seen in the radargrams. Particularly for high-conductive soils, the signal-tonoise ratios are much weaker since recorded reflections need more amplification during
+recording.
+Time Slice Processing
+Radargrams represent vertical slices taken across the ground. Time slices represent
+horizontal slices taken across the survey area. Time slices can be used to show
+variations in reflected return amplitudes at various depths across a site. Time slices are
+found by cutting data from all the radar profiles in a specified time window and
+presenting the information from this slicing window in a pixel map. Depending upon the
+time window in which the slicing is made across the parallel profiles, depth information
+regarding important targets can be determined.
+The radar signals within the designated time window are averaged in the vertical and
+some averaging in the horizontal direction was used. The squared amplitude of the
+recorded reflected amplitudes across the time window was computed and averaged
+every .5 feet along the profile direction. Overlapped time slice datasets were created for
+input into a 3D data volume. The overlapping process helps to create a smoother 3D
+volume which would be useful for during graphic and animation display of the data.
+The time slices were interpolated using an inverse distance algorithm. Data within a 5
+foot search radius were used to weight data in estimating the interpolated reflection
+data. The gray scale was selected to show the data. In some cases the data are
+
+presented in either a linear, square root, or logarithm transform to delineate various
+features which have a large dynamic range in recorded reflection intensity. In addition,
+minimum and maximum thresholding was applied to the data to enhance suspected
+anomalies within the datasets.
+The time slices are presented as depth slices by using the nominal microwave velocity
+of 11.0cm/ns estimated for the soils at the site. Twenty time slices to a depth of
+approximately 8.3 feet were prepared for analysis. One time slice was selected to show
+probable unmarked grave locations in this report. The written report is by no means
+meant to replace the study of the full animation dataset that is available on CD
+accompanying this report showing the complete 2D depth slices.
+Results
+Unmarked Graves
+Figure 1 shows 13 red dots which have a high probability of representing unmarked
+graves. The background color is gray scale, the preferred color, since it is the author’s
+experience that color rich backgrounds may bleed colors masking grave anomalies.
+Many anomalies can be seen in the radar data. A conservative approach was used in
+marking anomalies as graves. Tree roots, rocks, buried and decayed tree stumps, can
+give signatures which appear to be but may not be graves. Radar signatures with a low
+probability of being graves are not reported. A mosaic was encountered during post
+processing and corrected to the extent possible in the software. The faint vertical lines
+between X52 feet and X98 feet form a rectangle that encloses the boundaries of the
+mosaic correction. There are many complex explanations for mosaicing including soil
+change and diurnal changes. Probable unmarked grave GPR file number and locations
+are:
+file
+2
+10
+38
+42
+60
+62
+62
+65
+197
+212
+216
+222
+235
+
+line
+4
+18
+48
+52
+66
+68
+68
+72
+82
+98
+100
+104
+114
+
+distance
+56
+157
+157
+159
+136
+100
+136
+138
+111
+112
+81
+110
+96
+
+notes
+
+seen in field
+seen in field
+very good
+seen in field
+seen in field
+seen in field, maybe too deep
+seen in field very good
+seen in field very good
+seen in field very good
+seen in field, very good
+
+Conclusion
+Thirteen high probability unmarked graves were noted in the GPR data. No excavation
+should proceed within the unmarked burial areas. Caution is urged when excavating
+areas where no graves were noted.
+
+Photos Referenced
+
+Photo 1. Ewing Cemetery area map
+
+Figures Referenced
+
+Figure 1. GPR Map of Ewing Cemetery, red rots are probable unmarked graves
+
+Figure 2. Map of Ewing GPR grid
+
+Figure 3. Fitting a hyperbola to estimate depth
+
+

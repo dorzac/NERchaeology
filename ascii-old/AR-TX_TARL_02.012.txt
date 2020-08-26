@@ -1,0 +1,3789 @@
+ARCHEOLOGICAL TESTING
+AT THE VERA DANIEL SITE (41TV1364)
+ZILKER PARK, AUSTIN, TEXAS
+
+by
+Robert A. Ricklis, Michael D. Blum, and Michael B. Collins
+
+Texas Antiquities Committee Permit # 789
+Principal Investigator
+Michael B. Collins
+
+Studies in Archeology 12
+Texas Archeological Research Laboratory
+The University of Texas at Austin
+
+1991
+
+Errata
+Page 15, line 4
+"1bis was obscured.... " should read "This obscured .... "
+Page 46, Figure 15, symbol key should read
+"LPEMHC= Late Pleistocene to Early-Middle Holocene Colluvium"
+"LPEMHA =Late Pleistocene to Early-Middle Holocene Alluvium"
+Page 52, Second Heading
+"INTERSITE VARIABLILI1Y ... " should read "INTRASITE V ARIABIL11Y"
+Page 54, Figure 16, Label
+"Outfill Right-of-Way" should read "Outfall Right-of-Way"
+
+Printed 1991
+The University of Texas at Austin
+Texas Archeological Research Laboratory
+Balcones Research Center 5
+Austin, Texas 78712-1100
+Submitted to
+City of Austin
+in partial fulfillment of an agreement between
+.
+The City of Austin and The University of Texas at Austm
+dated May 16, 1989.
+
+ABSTRACT
+Archeological testing of the Vera Daniel Site (41 TV1364) in Zilker Park, City of
+Austin, Texas, by the Texas Archeological Research Laboratory, The University of Texas
+at Austin, in the summer of 1989 established the presence of cultural materials stratified
+in deep alluvial and colluvial valley fill deposits. The cultural vestiges derive from the
+Paleoindian and Archaic periods of the regional archeological record. Radiocarbon ages
+of the geologic deposits hosting these cultural remains span the period from 11,000 to
+500 years ago. The site is deemed to be significant with considerable potential to
+contribute to scientific knowledge about the prehistoric inhabitants of the area.
+The area of the site tested falls within the right-of-way of the proposed South Austin
+Outfall Interceptor Main, a wastewater line. Construction of this line as planned would
+destroy a large volume of the site and result in loss of valuable archeological data. It is,
+therefore, recommended that construction plans be altered to eliminate or greatly reduce
+the impact to this site. If this cannot be achieved, then mitigation of the impact by
+archeological excavation in a portion of the area to be disturbed by construction is
+recommended.
+
+111
+
+Page intentionally left blank.
+
+TABLE OF CONTENTS
+ABSTRACT .................................................................. 111
+LIST OF FIGURES ........................................................... vii
+LIST OF TABLES ............................................................ viii
+ACKNOWLEDGMENTS ........................................................ ix
+INTRODUCTION ............................................................. 1
+ENVIRONMENTAL AND ARCHEOLOGICAL BACKGROUND ................ 3
+General Setting ............................................................. 3
+Environment ................................................................ 5
+Archeological Chronology ................................................... 6
+Archeology at The Vera Daniel Site ........................................... 9
+Discussion ................................................................. 10
+GOALS AND METHODS ..................................................... 13
+GEOMORPHOLOGY ......................................................... 19
+Introduction and Purpose ................................................... 19
+Methods ................................................................... 19
+Results of Geoarcheological Investigations ................................... 20
+Summary and Implications .................................................. 24
+EXCAVATIONS .............................................................. 27
+Trench 1 ................................................................... 27
+Trench 2 ................................................................... 29
+Trench 3 ................................................................... 29
+Trench 4 ................................................................... 30
+Trench 5 ................................................................... 30
+Trench 6 ................................................................... 33
+Trench 7 ................................................................... 33
+Trench 8 ................................................................... 33
+CULTURAL MATERIAL ..................................................... 37
+Diagnostic Lithic Artifacts .................................................. 37
+Non-diagnostic Lithic Artifacts .............................................. 43
+Discussion ................................................................. 43
+RADIOCARBON AGES ...................................................... 45
+DISCUSSION OF SITE SIGNIFICANCE ....................................... 51
+Site Potential For Chronological Study ....................................... 51
+Site Potential For Study Of Cultural-behavioral Patterns ....................... 52
+lntersite Variability In Potential Archeological Significance .................... 52
+RECOMMENDATIONS ....................................................... 57
+REFERENCES CITED ........................................................ 59
+APPENDIX 1 ................................................................. 67
+APPENDIX 2 ................................................................. 69
+
+v
+
+Page intentionally left blank.
+
+LIST OF FIGURES
+1. Generalized geomorphic map of the area surrounding 41 TV1364 ............... 4
+2. The southeastern part of the Vera Daniel Site (41 TV1364)
+in Zilker Park, Austin, Texas ............................................... 11
+3. Large trackhoe used to excavate 6-meter deep trenches with
+sediment piles for each 40-cm level ......................................... 14
+4. Hydraulic aluminum shoring installed in a deep trench for
+examination of profile by Michael Blum and Robert Ricklis ................... 15
+5. Installation of oak-timber shoring in the hand-excavated trench 8 ............. 16
+6. Schematic geologic cross section of 41TV1364 ............................... 21
+7. General model illustrating relationships between rates of
+fluvial sedimentation and development and preservation
+of the archeological record ................................................. 25
+8. Histograms of artifact occurrences by excavation level
+for trenches 1-4, 41 TV1364 ................................................. 28
+9. Plan view of cultural debris at the east end of trench 3
+at 105-115 cm depth ....................................................... 31
+10. Histograms of artifact occurrences by excavation level
+for trenches 5-8, 41TV1364 ................................................ 32
+11. Plan view of trench 8 showing location of burned rock and chert artifacts
+at 134-141 cm depth ....................................................... 35
+12. Paleoindian and Archaic dart points from 41TV1364, 1989 season ............. 39
+13. Clovis preform, 41TV1364, 1989 season ..................................... 41
+14. Chipped stone artifacts from 41TV1364, 1989 season ......................... 42
+15. Synoptic cross section of 41TV1364 showing
+all sources of subsurface data ............................................... 46
+16. Three levels of inferred archeological significance at Vera Daniel Site ......... 54
+17. Schematic cross section showing expected compression or
+expansion of cultural zones related to geomorphic setting ..................... 55
+
+vii
+
+LIST OF TABLES
+Radiocarbon ages for sediments from the Vera Daniel Site
+(41TV1364) ............................................................... 45
+2. Depth, in centimeters, of levels in machine-excavated trenches ................ 67
+3. Findings by trench level from 41TV1364 .................................... 69
+1.
+
+Vlll
+
+ACKNOWLEDGMENTS
+Many individuals contributed to making the testing at the Vera Daniel Site both
+effective and enjoyable. We would especially like to thank Jonathan Janek, of the City
+of Austin, Transportation and Public Service Department, who was the project manager
+during the fieldwork, for his help and cooperation in expediting the project. In addition,
+Matthew Kite, Gary Kosut, and Doug Rademaker, also of Transportation and Public
+Services Department, assisted in coordinating some project details. Jim Rhodes, city
+arborist, was helpful in discussing the logistics of avoiding damage to the Zilker Park
+trees. Sarah Macias, Zilker Park manager, and the park staff were most helpful in
+supplying us with wooden barricades. Rick Fuszek, of the City of Austin, Parks and
+Recreation Department, helped to coordinate efforts between the various city departments that were involved. Peter Marsh, staff engineer with the Parks and Recreation
+Department, ensured that signs, explaining the nature of our project to the public, were
+delivered and installed. Billy Akers, of the City of Austin, Water and Wastewater
+Department is thanked for prompt installation of erosion control fencing around the
+trench areas. Final completion of this report has been facilitated by James Clarno, who
+has replaced Jonathan Janek as project manager.
+We appreciate the efficiency with which Dr. Solveig A. Turpin, as Co-Principal
+Investigator, handled the administrative responsiblities. The field crew was made up of
+the following able individuals: Bon Davis, David W. Dibble, Dave Driver, Anne Kerr,
+Yorke Rowan, Lauren Sullivan, Abby Treece, and Raul Troxler. In addition, Paul Keeler
+voluntarily helped on the screens. David W. Dibble served as on-site photographer.
+Anne Kerr deserves special thanks for supervising on-site bagging and prelimnary counting of artifacts, as well as editing this report. At TARL, Kelly Scott helped with
+coordination of logistical details, and Laura Hillier received and processed material in
+the lab. Pamela Headrick produced most of the artifact illustrations for this report.
+Kathryn Reese and Pamela Headrick drafted the maps and graphs. Dan Julien developed
+and printed the photographs.
+Special thanks go to Sam Valastro, of the Radiocarbon Laboratory, The University
+of Texas at Austin, for fitting our samples into a demanding schedule so the results
+reported here could be available on a timely basis.
+We greatly appreciate the professional expertise of Kirby Meyer, Susan Ham, and
+Frank Allen of MLA Labs, Inc. Mr. Meyer's geotechnical data input and trench safety
+recommendations were indispensable in completing the deep trench excavations efficiently and safely. Frank Allen was with us on a daily basis and his help and advice in
+installing and removing trench shoring were essential. Melvin Collard, of MLA Labs,
+Inc., made the initial borings necessary for the development of the trench safety plan.
+Rick Schmidt, of Capital Equipment, provided us with prompt delivery and servicing
+of machinery. The skill of Kenneth Smith, the machine operator, was largely responsible
+
+IX
+
+for the level of vertical resolution which we were able to achieve in the machine-excavated trenches. Richard Gresham, of The Plank Company, is thanked for prompt
+delivery of the shoring devises. We also thank Bill Waring, of Campbell Light and
+Barricade, for the timely delivery of the visiguard fencing. We appreciate the services of
+Felix Warwas, of Greener Pastures Lawn and Landscaping, who provided and installed
+grass sod subsequent to the excavation of the trenches.
+We extend our appreciation to Mark Denton and J. Barto Arnold III, of the Texas
+Antiquities Committee for their input in the formulation of the research design and
+continuing interest in the project.
+
+x
+
+CHAPTER 1
+
+INTRODUCTION
+During June and July of 1989, archeological testing was conducted at the Vera Daniel
+Site (41TV1364), located in Zilker Park, Austin, Texas, by the Texas Archeological
+Research Laboratory (TARL) of The University of Texas at Austin. The purpose of this
+work was to assess the archeological potential of that part of the site to be disturbed by
+the proposed South Austin Outfall Interceptor Main wastewater line to be constructed
+by the City of Austin, and to make recommendations to the City as to whether or not
+additional archeological excavations would be required in order to mitigate the impact
+of construction. The work was under the overall supervision of Dr. Michael B. Collins,
+Principal Investigator. Dr. Solveig A. Turpin, as Co-Principal Investigator, handled
+administrative duties. Robert A. Ricklis served as Project Archeologist, and Michael D.
+Blum was retained as geoarcheological consultant. Materials and documentation
+generated in this and the previous work by Espey, Huston and Associates (EHA), are
+being permanently curated at TARL.
+The testing by TARL involved the excavation of eight trenches across the site, in most
+cases to and below culturally relevant depths. Significant evidence of prehistoric human
+occupation of the site was uncovered. The present report summarizes the findings at the
+site, discusses their significance, and makes appropriate recommendations.
+Some of the findings pose interpretive dilemmas. In part this is because of the limited
+amount of subsurface exposure produced by testing of such modest scale in comparison
+to the extensive area investigated. It is also due to the complex nature of certain kinds
+of geologic deposits encountered, colluvial slopes in particular. The reader will find that
+the geological perspective differs somewhat from the archeological one in interpreting
+the evidence generated in this project. Although the perspectives and interpretations
+vary somewhat, the conclusion is that the colluvial slope areas of the Vera Daniel Site are
+of less archeological value than are other areas.
+Because of the importance of this site for the scientific study of the early human
+prehistory of Central Texas, it is suggested in our recommendations that construction
+impact to the site be avoided or minimized; if this cannot be done, then substantial
+mitigative excavation is recommended.
+
+1
+
+Page intentionally left blank.
+
+CHAPTER2
+
+ENVIRONMENTAL AND ARCHEOLOGICAL BACKGROUND
+GENERAL SETTING
+
+Zilker Park is located at the confluence of Barton Creek with the Colorado River, just
+downstream from the point where the Colorado emerges from a deep canyon at the
+Balcones Escarpment. Barton Creek is a small but perennial, spring-fed stream that has
+a drainage areaof311 km 2 (Tovar and Maldonado 1981), most of which consist of a deeply
+dissected landscape underlain by chert-bearing carbonate rocks of Cretaceous age (Barnes 1981a, 1981b). By contrast, the Colorado River is the trunk stream of a large and
+complex fluvial system that heads on the Southern High Plains and Edwards Plateau of
+West Texas, and eventually flows to the Gulf of Mexico some 300 km to the southeast of
+Austin. Contributing area for the Colorado River at the mouth of Barton Creek is
+100,635 km 2 (Tovar and Maldonado 1981). The most important rock units that crop out
+in the basin, in terms of the contribution of sediment to the Colorado channel at Zilker
+Park, are the red Triassic and Permian sandstones and mudstones in the uppermost
+reaches of the Colorado system, the Precambrian igneous and metamorphic rocks of the
+Llano Basin farther downstream, and the chert-bearing Cretaceous carbonate rocks of
+the Edwards Plateau where most major tributaries to the Colorado originate (Barnes
+1974, 1975, 1981a, 1981b). Thus fluvial deposits of the Colorado River can be easily
+distinguished from those of Barton Creek on the basis of constituent mineralogical
+assemblages: Barton Creek deposits consists solely of limestone and chert gravels, and
+fine calcareous brown muds, whereas those transported by the Colorado River contain a
+diverse suite of siliceous materials as well, most importantly the reddish sands and muds
+from the Triassic and Permian redbeds, and the easily identified micaceous rock fragments derived from the crystalline basement of the Llano region.
+The landscape in the vicinity of Zilker Park consists of erosional bedrock valley walls
+and uplands that flank both the Barton Creek and Colorado valleys, the active floodplain
+and older terraces 1 of Barton Creek, and the active floodplain and older terraces of the
+Colorado River (Fig. 1). In the Barton Creek valley, landforms that predate the
+demonstrated human occupation in this area include the bedrock valley walls and an
+extensive Pleistocene terrace that forms much of the flat to gently rolling uplands in
+1.
+
+The term floodplain, as used in this report, represents an active constructional feature of a fluvial system
+that is inundated on a relatively frequent basis (on average every 2-3 years). By contrast, the term
+terrace represents an abandoned or fossil floodplain, no longer flooded regularly, and usually at a
+considerable elevation above the modern channel and active constructional floodplain. Lower
+elevation terraces may, however, be flooded during relatively infrequent, high magnitude flood events,
+especially in the Central Texas area.
+
+3
+
+4 I ENVIRONMENTAL AND ARCHEOLOGICAL BACKGROUND
+
+FIGURE 1. Generalized geomorphic map of the area surrounding 41TV1364 (adapted from
+Rodda et al. 1970). Note that landforms east of present day Barton Creek were not investigated
+during this study. A' -A indicates cross section in Figure 6.
+
+ENVIRONMENT I 5
+
+Zilker Park, including the landscape immediately to the west of the excavations reported
+on herein. Deposits underlying this terrace consist of limestone and chert gravels, and
+fine calcareous muds typical of the Barton Creek drainage, all of which are now strongly
+cemented due to post-depositional pedogenic processes, and the development of a
+laminated petrocalcic, or K horizon: the over lying A and B horizons from this soil profile,
+which must have at one time existed on top of this petrocalcic horizon in order for it to
+form (see Birkeland 1984), have been removed by erosional stripping. Younger depositional landforms, which are inset against the bedrock valley walls and this older
+Pleistocene terrace, consist of the extensive two-tiered Holocene alluvial terrace complex that begins along the Colorado River and continues a short distance up the Barton
+Creek valley, and the essentially modern or pre-dam floodplains of the Colorado River
+and Barton Creek.
+ENVIRONMENT
+The Balcones Escarpment marks an ecotonal (transitional) environment, situated as
+it is between the Blackland Prairie to the east and the Edwards Plateau to the west.
+According to Blair ( 1950), the eastern edge of the escarpment marks an abrupt boundary
+between two major biotic provinces, the Texan and the Balconian.
+The Texan province is itself a broad ecotone between the wooded Austroriparian
+environment of eastern Texas and the drier grasslands of western Texas (Blair 1950).
+Rainfall in the Texan province provides only a marginal moisture surplus. The Blackland
+prairie, just to the east of the Balcones Escarpment is thus dominated by various tall grass
+species. The Balconian province of the Edwards Plateau is somewhat drier still, with
+average annual rainfall of less than 35 inches in the east dropping to 26 inches or less to
+the west (Carr 1967). The characteristic plant association is a scrub forest of juniper, oak,
+live oak, and grasses, though prior to historic settlement arboreal vegetation was less
+extensive, and open grasslands more widespread, than they are today (Weniger 1984).
+The patterns of paleoclimate, and, by extension, of past patterns of floral and faunal
+distributions, have yet to be defined with full confidence. According to Bryant and
+Shafer(1977) and Bryant and Holloway (1985), the available palynological data suggests
+a gradual trend toward increasingly dry climatic conditions from late Pleistocene glacial
+times and throughout the Holocene. By contrast, Story (1985) posits a less linear
+trajectory of climatic change, with a marked xeric interval between about 5000 and
+3000/2500 B.C. (7000 and 5000/4500 years B.P.), and fluctuating climatic conditions from
+about 2500 to 1500 B.C. ( 4500 to 3500 years B.P.) prior to the establishment of essentially
+modern conditions. However Story (1985) relies on studies which had little or no
+chronological control. Recent geomorphological and geoarcheological research at locations to the north and west of Central Texas does appear to support the postulation of
+mid-Holocene xeric conditions in the greater Texas-Southern Plains region (Holliday
+1989; S. Hall 1988; Meltzer 1987). The more recent Holocene may have seen significant
+climatic fluctuations as well. Hall (1988:206) believes that a variety of paleoenvironmental data from the South Plains indicate a relatively mesic interval about 1000-2000 years
+B.P. (before present), and a shift to drier conditions about 1000 years B.P. Examination
+
+6 I ENVIRONMENTAL AND ARCHEOLOGICAL BACKGROUND
+
+of sedimentary stratigraphy on the Pedernales River of Central Texas indicates changes
+in stream sinuosity, a fining of sediment load and decrease in channel width-depth ratio,
+all of which are geomorphic responses suggesting drier conditions that likely occurred
+about 1000 years B.P. (Blum and Valastro 1989).
+In short, the paleoclimatic/environmental history of Central Texas and the larger
+encompassing region are only beginning to be understood in terms of a complex of
+significant shifts and oscillations. The relevance to prehistoric human adaptive patterns
+will doubtless ultimately prove highly significant, and syntheses of paleoenvironmental
+and archeological research, with the goal of defining the articulation of cultures with
+changing environmental conditions, should be given high priority.
+ARCHEOLOGICAL CHRONOLOGY
+
+Since its beginnings over a half century ago, scientific archeological research in
+Central Texas has strongly emphasized the development of a regional chronology. This
+is understandable in view of the wide range of observable variation in prehistoric artifact
+forms, particularly projectile points; chronological placement of each of the various point
+types is one essential baseline for further study of culture history and change through
+time. A long series of studies has resulted in the establishment, and progressive refinement, of the projectile point type sequence, and the temporal ordering of periods or
+phases, each characterized by one or more time-diagnostic types (Kelley 1947a, 1947b;
+Suhm et al. 1954; Suhm 1957; L. Johnson et al. 1962; L. Johnson 1967; Sorrow et al. 1967;
+Weir 1976, 1979; Jelks 1978; Prewitt 1981, 1985).
+At a summary level, these researchers have defined three broad prehistoric
+chronological periods. The oldest of these is the Paleoindian Period, dated between
+about 10,000 and 6000 B.C. (12,000-8000 years B.P.). This was followed by the Archaic
+Period which began about 6000 B.C. and lasted until about A.D. 700 (8000-1250 years
+B.P.). The latest period of prehistory, the Late Prehistoric, is marked by the technological
+shift to the bow and arrow and, slightly later, the introduction of ceramics (Hester and
+Parker 1970; T. Hester 1980; Prewitt 1981; Suhm et al. 1954). It dates to between about
+A.D. 700 and the period of ongoing European contact, about A.D. 1600-1700 (1250-250
+years B.P. ).
+Following the Late Prehistoric is the Historic Period, characterized archeologically
+by aboriginal sites containing items of European trade and by the early historic occupation of the region by Hispanic colonials and later by Anglo-American settlers. Since all
+of the archeologically significant materials found at 41TV1364 pertain to prehistoric
+occupations, this period will not be treated in the following descriptive survey.
+The Paleoindian Period
+
+How long ago people first arrived in the Americas continues to be a subject of debate
+and controversy (see discussion in Meltzer 1989). A very early human presence (more
+than 30,000 years ago) in the western hemisphere has been postulated in some quarters
+
+ARCHEOLOGICAL CHRONOLOGY I 7
+
+(e.g., Carter 1978), and recent evidence from North America (e.g., Adovasio et al. 1980)
+and South America (Dillehay and Collins 1988) have lent considerable credence to
+arguments for occupation prior to 15,000/20,000 years B.P.
+Still, the oldest fully accepted cultural remains in North America are those of the
+Clovis people, the earliest of a series of Paleoindian cultures defined by distinctive
+typological artifacts. The most diagnostic artifact of the Clovis culture is the large
+unstemmed, lanceolate fluted Clovis point, which has been found in virtually all the
+contiguous United States, and in widespread locations throughout Texas (Meltzer 1987).
+These points have been found in association with the bones of extinct mammoths on the
+High Plains (Haury 1953; Leonhardy 1966; J. Hester 1972), leading to the inference that
+Clovis subsistence relied significantly upon hunting of these large Pleistocene mammals.
+Radiocarbon assays from a number of sites place Clovis points at about 11,000-11,500
+years B.P.
+A slightly later, and geographically more restricted, Paleoindian manifestation is that
+of the Folsom culture. As with Clovis, the most diagnostic trait is an unstemmed
+lanceolate fluted point. Folsom points are the result of a different manufacturing
+technology, however, and are smaller, thinner, and more finely flaked than Clovis points.
+Folsom points have been found in stratigraphic contexts in Texas at Bonfire Shelter in
+the Lower Pecos River region (Dibble and Lorrain 1968) and the Lubbock Lake Site on
+the Llano Estacado (E. Johnson 1987). Folsom points have been radiocarbon dated to
+between 10,000 and 11,000 years B.P. at a number of locations. From the time of the first
+discovery of Folsom points in association with extinct Pleistocene bison (Wormington
+1957), a big game hunting subsistence base has been inferred for the Folsom people.
+Later Paleoindian occupation of Texas is evident from several distinctive projectile
+point types, the most common of which are Plainview, Golondrina, and Angostura.
+While, like Clovis and Folsom, these points are unstemmed and of basic lanceolate shape,
+they are unfluted. Plainview is the earliest, dating to about 10,000 years B.P; Golondrina
+and Angostura are somewhat later, with radiocarbon dates of around 9000 years B.P. for
+Golondrina (T. Hester 1983; Turner and Hester 1985) and 8500-8000 years B.P. for
+Angostura (Turner and Hester 1985:66).
+In general, all of these Paleoindian dart point types are related by basic morphological
+
+and technological features: they are unstemmed and lanceolate in shape, tend to be of
+excellent workmanship, and bear moderate to heavy edge grinding near the basal, hafted
+ends. However, the big game subsistence patterns which apparently characterized, at
+least to some degree, the Clovis and Folsom cultures, probably gave way during later,
+Paleoindian times to a more broad-based subsistence regime which foreshadowed succeeding Archaic adaptive patterns. For examples, subsistence remains from the
+Golondrina level in Baker Cave in Val Verde County suggest a dietary pattern broadly
+adapted to essentially modern biotic resources (T. Hester 1978, 1983). Considerable
+research is needed in Central Texas to define the cultural ecology of the transition from
+late Paleoindian lifeways to Archaic adaptive patterns.
+
+8 I ENVIRONMENTALANDARCHEOLOGICALBACKGROUND
+
+The Archaic Period
+
+The term Archaic in American archeology was originally coined to refer to a
+preceramic and pre-horticultural, broad-based hunting/fishing/gathering lifeway
+(Ritchie 1932; Willey and Phillips 1958). The concept has gained wide acceptance, and
+has been used in Texas archeological studies for several decades. Intensive chronological
+studies, alluded to above, have succeeded in defining a sequence of phases, or temporally
+discrete periods, for the approximately seven millennia of the Archaic in Central Texas.
+The most recent chronology, and that which appears to most completely account for
+the range of variation in Archaic point types, is that developed by Prewitt (1981, 1985).
+Prewitt's construct, based in part on previous works, draws upon a large number of
+radiocarbon dates, and defines a total of 11 Archaic phases. These phases are placed
+within the more general time periods of the Early, Middle and Late Archaic, concepts
+introduced previously through the work of Johnson, Suhm, and Tunnell {1962) at Canyon
+Reservoir and by Sorrow, Shafer, and Ross (1967) at Stillhouse Hollow, and by Black and
+McGraw (1985) but modified and updated by Story (1985).
+A detailed description of the phase characteristics listed by Prewitt is unnecessary for
+the purposes of this brief background survey. A few basic points, however, can be noted.
+Prewitt includes the aforementioned Golondrina and Angostura point types, as well
+as the less commonly found Meserve and Scottsbluff types, within his earliest Archaic
+Circleville Phase. While these point types are generally considered diagnostic of late
+Paleoindian, Prewitt believes that the subsistence patterns of the period involved essentially a broad-based Archaic adaptation (Prewitt 1981:77). Though this may be the case,
+it can be noted that these point types are of much wider geographical distribution than
+most later Archaic types, suggesting more mobile, wide-ranging adaptive patterns than
+that generally considered to be characteristically Archaic (cf., Sollberger and Hester
+1972). Prewitt's placement of the Circleville Phase into the Archaic does highlight the
+need for a better understanding of fundamental cultural-ecological patterns and processes during the transition from Paleoindian to Archaic, and brings into focus the fact that
+cultural phases must be defined on the basis of more than projectile point styles.
+Toward the end of the Early Archaic (Prewi tt's Oakalla Phase), a characteristic feature
+of the Central Texas Archaic -the burned rock midden - appears in the archeological
+record. These highly visible features have received considerable attention by Central
+Texas archeologists, perhaps a disproportionate amount as suggested by Collins (Collins
+1988). Nonetheless, their precise function in Archaic adaptations, and the formation
+processes by which they were created, remain to be definitively determined {Collins
+1988). Burned rock middens have been variously interpreted as resulting from in situ
+accumulations of hearths or secondary deposition of used hearth stones from hearths
+located in primary activity areas of sites (e.g., T. Hester 1970; Weir 1979). Whatever the
+function and cultural origin of these features, they disappear from the record during the
+Late Archaic, a fact which suggests some significant, but poorly understood, shifts in
+adaptive strategies.
+
+ARCHEOLOGYAT THE VERA DANIEL SITE I 9
+
+The various stemmed and notched dart point forms of the Middle and Late Archaic
+phases are for the most part restricted in their distributions to Central Texas and adjacent
+regions. This contrasts with the broad distributional patterns of earlier types, notably the
+various Paleoindian forms and such Early Archaic types as Bell/Andice. Though the
+points and the respective phases may not represent discrete socio-ethnic groupings (e.g.,
+L. Johnson 1987), it is apparent that spheres of sociocultural interaction and/or group
+operational areas had become more geographically restricted by the Middle Archaic.
+This is in accord with a postulated localization and regional specialization of adaptive
+patterns during the Archaic (see Willey and Phillips 1958).
+The Late Prehistoric Period
+
+The Central Texas Late Prehistoric Period is divided into two sequential phases. The
+Austin Phase (A.D. 700-1300 or 1250-650 years B.P.) is marked by the shift to the bow
+and arrow, represented in the archeological record by side-notched Scallorn type arrow
+points. Available data indicate some change in lifeways during this phase with increased
+use as rockshelters and cemeteries. The Toyah Phase (A.D. 1300-1750 650-200 years B.P.)
+saw the emergence of a tradition of bone tempered pottery, a shift to the contracting stem
+Perdiz type arrow point, beveled knives, end scrapers,and a major new emphasis on bison
+hunting. The Toyah Phase extended well beyond Central Texas into Southern Texas and
+the Gulf Coastal Plain, an expansion which may have corresponded to a southward
+movement of bison herds after A.D. 1300 (Dillehay 1974). Because the diagnostic traits
+and subsistence patterns of the Toyah Phase diffused widely, and probably quite rapidly
+(Black 1986; Ricklis 1989), beyond Central Texas, it has been suggested that the
+phenomenon should be defined as a Horizon rather than a true regional phase (Black
+1986).
+ARCHEOLOGY AT THE VERA DANIEL SITE
+In anticipation of construction of a segment of the South Austin Outfall Interceptor
+Main, a reconnaissance-level study which included surface as well as subsurface exploration for archeological vestiges was conducted along a route from near the city Coliseum
+to Barton Springs (EHA 1988). This route traversed alluvial terraces on the south bank
+of the Colorado River (Town Lake) and it was recognized that buried cultural materials
+were likely to be discovered. Surprisingly, only one significant prehistoric site was found.
+This was designated 41 TV1364 (and named the Vera Daniel Site) by EHA personnel in
+1988, as recorded in the records housed at TARL. Of particular note in the subsurface
+reconnaissance results was the presence of deeply buried and seemingly stratified cultural components in Late Quaternary alluvial deposits of the Colorado River and/or
+Barton Creek. It was deemed potentially significant and recommended for testing (EHA
+1988).
+Diagnostic artifacts encountered suggested that most of the local prehistoric era
+might be present within the natural deposits. The evidence for Paleoindian, Archaic, and
+possibly Late Prehistoric human presence was found by EHA below the surface in the
+
+10 I ENVIRONMENTAL AND ARCHEOLOGICAL BACKGROUND
+
+southeastern part of Zilker Park. Almost no surface exposure of 41TV1364 archeological
+evidence occurs and the site boundaries proposed by EHA are little more than an
+educated guess (EHA 1988; TARL site files). However, as is appropriate at the reconnaissance level, the information recovered was not sufficient to fully evaluate the site nor
+provide a basis for its excavation should this become necessary. Nonetheless, it was
+clearly demonstrated that a large and important site was present. The present, moredetailed study was restricted to the proposed construction right-of-way in the
+southeastern part of the site (Fig. 2). See EHA (1988) for site description.
+DISCUSSION
+This brief discussion highlights a significant point: while chronology or culture history
+in Central Texas is reasonably well defined, thanks to the efforts of numerous researchers
+over several decades, our understanding of cultural ecological patterns and processes of
+change remains, for the most part, at a rudimentary level. This fact in no way detracts
+from the considerable accomplishments in chronology building; indeed, without a sound
+chronology, cultural processes cannot be studied since archeological cultures themselves
+cannot be isolated from the array of artifacts representing millennia of human occupation.
+With a useful chronology as a baseline, though, archeological research in the region
+can begin to explicitly address basic issues of prehistoric adaptive continuity and change,
+and at the same time employ alternative field methods and techniques appropriate to the
+questions asked. With a sound delineation of regional cultural time periods, research
+can move toward defining fundamental patterns of subsistence and behavior and how
+these articulated with environmental opportunities and limitations through patterns of
+settlement location, sizes of resident human groups, and group seasonal mobility. By
+these criteria, adaptive patterns during definable time periods can be identified. The
+insights to be thus gained, when synthesized with various lines of information about
+paleoenvironmental change, will ultimately permit explanations of why cultural patterns
+at times saw periods of stability (reflected archeologically as definable phases), and at
+other times were marked by relatively rapid change (the temporal shift from one phase
+to another).
+The archeological testing at the Vera Daniel Site was explicitly designed to determine
+the site's potential for addressing these kinds of issues. It was expected from the outset
+that this potential could be very high given the presence of cultural materials in thick
+alluvial valley fill.
+
+l/
+'~I
+
+c_) - . . . . . .
+
+1
+
+t
+
+.....
+
+.,
+
+I
+
+......... ,
+
+/
+
+'',,
+'-....,
+
+I
+'.J
+
+I
+
+/
+
+/'
+
+/
+
+1
+
+I
+
+I
+
+/
+
+,._,
+
+/
+
+l....._
+
+r----
+
+I
+
+.........
+
+.......... ~
+
+I
+
+/
+
+1
+
+... ....,
+
+',,,
+',
+..........
+
+TAAL 7
+
+ir _______Q_________ \
+TARL3\
+
+\
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+II
+
+l____ ___________
+
+\I
+J
+
+meters
+
+Site boundary suggested by
+EHA 1988
+
+Cross section in Figure 12
+Espey, Huston and Associates
+trenches
+
+rÂ·Â·
+
+~
+
+r;.,:j
+
+FIGURE
+
+2. The southeastern part of the Vera Daniel Site (41TV1364) in Zilker Park, Austin, Texas.
+
+(")
+
+~
+~
+
+~
+
+...._
+
+.....
+.....
+
+Page intentionally left blank.
+
+CHAPTER3
+
+GOALS AND METHODS
+The archeological testing at the Vera Daniel Site was designed to determine the site's
+potential to provide data relevant to past behavioral patterns as well as questions of
+chronology. The two primary archeological questions upon which the work was based
+were (a) does the site contain prehistoric cultural material in primary stratigraphic and
+chronological context and (b) are time periods represented by cultural deposits sufficiently discrete to permit recovery of data concerning adaptive patterns and cultural
+behavior during a given segment of the temporal continuum? Initial testing at the site
+(EHA 1988) had already indicated the presence of prehistoric material, not surprising in
+view of the location at the confluence of Barton Creek and the Colorado River, which
+would have been highly suited to prehistoric human use.
+Of predicted significance as regards the two questions just mentioned was the geomorphological context of the site. The site's situation in an alluvial depositional environment
+indicated that prehistoric cultural material would be resting within alluvial sediments laid
+down, over the millennia of the Holocene, by recurrent flooding of Barton Creek and/or
+the Colorado River. It has long been recognized that such floodplain deposits may
+contain "sealed" deposits in which the cultural remains of specific time periods are
+readily definable as stratigraphic units. Such contexts provide archeologists with excellent opportunities to examine prehistoric behavioral patterns during discrete time
+periods, without the mixing of remains of numerous occupations which is the case on
+long-stable ground surfaces with little or no sediment accretion. Despite the long
+emphasis in Central Texas archeological work on chronological investigation in stratified
+site contexts, relatively little work has been done in deep alluvial contexts.
+The specific goals of the testing phase at Zilker Park were as follows:
+1. Determine the relative density of prehistoric cultural material in terms of
+horizontal distributions across that part of the site to be impacted by construction of the wasterwater line.
+
+2. Define the vertical or stratigraphic nature of deposition of cultural material.
+3. Correlate these horizontal and vertical distributions with a geomorphological
+analysis of the sequence of alluvial deposition at the site.
+4. Obtain radiocarbon dates on samples of clay-rich alluvium from which the
+history of occupation at the site, and its articulation with the geomorphological
+history, could be determined.
+5. Assess, based on these lines of evidence, the site's potential for contributing
+to the body of knowledge concerning culture history and prehistoric adaptive
+patterns in Central Texas.
+
+13
+
+14 I GOALSANDMETHODS
+
+In order to realize these goals, eight trenches were excavated at points in the site along
+the proposed route of the wasterwater line (Fig. 2). The horizontal spacing of the
+trenches was determined on the basis of predicted archeological significance, as inferred
+from surface topography, as well as by the practical constraints of existing urban features
+such as roads and parking lots.
+A critical factor in planning the trench excavations was the need to reach sufficient
+depth to obtain a complete vertical profile of archeologically relevant deposits. It was
+initially predicted that prehistoric cultural material would occur at rather deep levels,
+due to the probability of recurrent alluvial deposition throughout the last 12,000 or so
+years of the terminal Pleistocene and Holocene. Thus a large trackhoe (Fig. 3), capable
+of excavating to a depth of about 6 meters, was used in those trenches where alluvial
+deposition was likely to have been greatest. In all, five of the eight trenches (numbers
+3-7) were excavated with the trackhoe. Two trenches (numbers 1 and 2), located closer
+to limestone bedrock outcroppings and thus in areas of predictably shallower alluvium,
+were excavated with a smaller backhoe, capable of reaching to a depth of about four
+meters. The final trench, number 8, was located on a narrow bench-like topographic
+feature adjacent to the limestone outcrop which overlooks the present Barton Springs
+pool area. Here excavation was accomplished completely by hand, and reached a final
+depth of 2.8 meters below the modern ground surface.
+Because of the anticipated depths of these trenches, a trench safety plan was engineered by Kirby Meyer of MLA Labs, Inc., and was implemented in the field by Frank
+
+FIGURE 3. Large trackhoe used to excavate 6-meter deep trenches with
+sediment piles for each 40-cm level.
+
+DISCUSSION I 15
+
+Allen. Central to this plan was the use of shoring. In deep, machine-excavated trenches
+we used hydraulic aluminum shoring planks with gaps between them which allowed full
+examination of the profile (Fig. 4 ). In the hand-excavated trench, oak-timber shoring
+with plywood sheeting was used (Fig. 5). This was obscured most of the profile behind
+sheeting, but sufficient exposure was maintained to allow profile data to be recorded.
+The methods employed in the excavations were designed to maximize three kinds of
+data recovery. First, excavations were vertically controlled, so that recovered material
+could be identified by appropriate stratigraphic contexts. By this means a relative
+chronology of deposition could be established. In the machine-excavated trenches,
+vertical control was successfully maintained by removing the sediments in trench-long
+horizontal levels. Each level was approximately 40 cm thick, and was created through
+the sequential removal of sediment in individual cuts approximately 10 to 15 cm thick.
+
+FIGURE 4. Hydraulic aluminum shoring installed in a deep trench for examination of
+profile by Michael Blum and Robert Ricklis.
+
+16 I GOALS AND METHODS
+
+FIGURE 5. Installation of oak-timber shoring in the hand-excavated
+trench 8.
+
+The machine operator was instructed to deposit the excavated sediment from each 40-cm
+level in a separate backdirt pile (Fig. 3), and a constant volume sampling of these piles,
+and thus of each level, was obtained by screening 30 full hand-shovel loads of sediment
+through one-quarter-inch wire mesh. Additionally, five full hand-shovel loads of sediment from each pile were put through fine mesh window screen to ensure a sampling of
+very small items such as land snails and chert microdebitage. In trench 8, the hand-excavated unit, excavation was controlled in 20 cm arbitrary levels, and all excavated
+sediment was put through one-quarter-inch mesh. Here, constant volume samples of
+sediment were recovered and bagged for subsequent water screening in the lab.
+The second basic method in the trench excavations was exposure and documentation
+of trench-wall profiles. Upon completion of excavation in each trench, hydraulic
+aluminum shoring was installed (except in trench 8, which was shored with oak beams as
+work progressed), a ladder was placed in the end of the trench, and the trench was entered
+and the profiles examined. Notations were made of sediment stratigraphy as observable
+through changes in color, grain size, and cultural inclusions. By these means data were
+gathered relevant to the depositional history as it was articulated with episodes of
+prehistoric human occupation at each trench location.
+The final method of data acquisition was the recovery of sediment samples suitable
+for radiocarbon dating. Recent geomorphological research in the Central Texas region
+has demonstrated that alluvial sediments containing organic matter contemporaneous
+with flood depositional episodes can be dated with accuracy sufficient for establishing
+absolute chronologies of sediment deposition (Blum and Valastro 1989). By examining
+
+DISCUSSION I 17
+
+trench-wall profiles, it was possible to locate sediment strata suitable for this procedure.
+A total of 13 samples were collected, with an eye to dating those sedimentary zones
+deemed most significant in terms of both the geomorphological and archeological histories of the site. Ten samples were assayed at the Radiocarbon Laboratory of The
+University of Texas at Austin. The results of these analyses will be discussed in succeeding chapters.
+
+Page intentionally left blank.
+
+CHAPTER4
+
+GEOMORPHOLOGY
+INTRODUCTION AND PURPOSE
+In recent years, many archeological investigations have focused on the multi-dimensional environmental context within which the cultural record is found, and have
+routinely incorporated natural scientists, in particular those trained in geomorphology
+and Quaternary geology, into archeological research efforts. This is in part due to the
+recognition that many important issues, such as the specific landscape setting, and the
+range of natural site formation processes, can be more comprehensively addressed by
+appropriately framed geological questions (Stein and Farrand 1985). This is the essence
+of what has been referred to as geoarcheology, namely the examination of archeological
+problems using techniques of the earth sciences (Gladfelter 1981; Butzer 1982; Gifford
+and Rapp 1985).
+
+At 41TV1364, initial cultural resource management efforts documented the occurrence of archeological material within deep alluvial deposits of the Colorado River
+and/or Barton Creek (EHA 1988). The purpose of geoarcheological research during this
+second phase of activity was to develop a more complete understanding of the nature and
+origin of these sedimentary deposits and provide a preliminary, spatially and temporally
+defined landscape context for interpretation of the recovered archeological record.
+METHODS
+
+The proposed construction zone cuts across a complex alluvial terrace, with two
+distinct surfaces that are underlain by sediments deposited during the culturally relevant
+time period (EHA 1988). Characterization of these deposits was accomplished by field
+examination and description of soil and sediment 1 profiles in both mechanical and
+hand-excavated trenches, and radiocarbon dating of suitable samples within the most
+significant profiles. Soils and sediments were described in terms of texture, presence or
+absence of carbonate minerals, presence or absence of pedogenic and/or primary
+sedimentary structures, and Munsell color in accordance with standard methods and
+
+1.
+
+Soils, as used in this report, differ from sediments due to post-depositional modification by some
+combination of physical, chemical, or biological processes acting in association with a stable land
+surface, without active depositional and/or erosional processes for some time period. The properties
+of sediments, by contrast, are those imparted by the original depositional process, or are a result of
+post-depositional biological and/or chemical processes at depths below the land surface and the
+influence of soil forming processes.
+
+19
+
+20 I GEOMORPHOLOGY
+
+terminology outlined in Folk (1980) and Birkeland (1984). Samples selected for
+radiocarbon dating consisted of organic-rich muds within the soil and sediment columns,
+and were processed at the Radiocarbon Laboratory, The University of Texas at Austin
+according to methods outlined in White and Valastro (1984). Radiocarbon ages from
+fluvial sediments that show no evidence of soil development are believed to represent
+the approximate time of deposition (Haas et al. 1986), whereas those taken from the soil
+profile, where some of the organic matter was introduced post-depositionally, represent
+mean residence times for the organic carbon and minimum ages for deposition of the
+host sediments (Sharpenspeel 1971; Matthews 1985).
+RESULTS OF GEOARCHEOLOGICAL INVESTIGATIONS
+
+All of the mechanically excavated trenches (trenches 1-7), and the single hand
+excavated block (trench 8) were located on the Holocene terrace complex, and exposed
+underlying sediments consisting of three separate stratigraphic units, two of which are
+buried and not exposed at the surface. These deposits were the focus of geoarcheological
+investigations and are described below. Figure 6 summarizes the general stratigraphic
+framework at 41TV1364, including the relative positions of radiocarbon ages.
+Latest Pleistocene To Early-Middle Holocene Colluvial Deposits
+
+Abutted against bedrock valley walls and the overlying Pleistocene terrace surface,
+and now buried at depths ranging from 0.8 to 1.8 meters below the higher of the two
+surfaces comprising the Holocene terrace complex, is a suite of deposits that consist of
+strong brown (7.5YR 5/6) to yellowish red (5YR 5/6), strongly calcareous, silty clays and
+clayey silts that are interbedded with lenses of mostly limestone and chert gravels and
+reworked carbonate nodules. Overall thickness ranges from less than 3 meters near the
+bedrock valley wall to more than 5 meters farther downdip. The top of these deposits is
+marked by a weakly developed soil profile consisting of a partially leached B horizon with
+weak, coarse blocky structures and films of secondary carbonate on ped faces, and the in
+situ growth of secondary nodules of calcium carbonate and manganese in the underlying
+Ck horizon. It is important to note that the modest degree of soil development apparent
+in these profiles is discordant with the intense reddish colors of the matrix. The
+anomolous color, in combination with the presence of reworked carbonate nodules,
+suggest that this body of sediment was, in large part, derived from erosion and downslope
+movement of already deeply weathered, reddish soil profiles on the adjacent Pleistocene
+terrace surface, and deposited as a valley margin colluvial fan wedge. At depths below
+the soil zone, in all three of the trenches that expose these sediments, are secondary
+carbonate cements that appear to have precipitated from ground water.
+The age of these deposits is partially constrained by temporally diagnostic artifacts
+with Paleoindian through early Archaic affiliations, found stratified and in buried context
+within these sediments. The archeological materials thus suggest that slope instability,
+soil erosion, and deposition of the colluvial wedge occurred from latest Pleistocene
+through early-middle Holocene times. Two radiocarbon ages have been obtained from
+
+m
+
+ft
+
+no horizontal scale
+
+145
+
+142
+
+u;
+
+Upper Surface
+
+~460
+
+E 139
+Q)
+
+>
+
+0
+.0
+IO
+
+I- 450
+
+c
+
+~
+
+0
+
+'i>ii 136
+
+~
+
+Q)
+
+ill
+
+t;j
+440
+
+~
+~
+
+133
+
+~
+
+430
+
+g
+trj
+g
+
+130
+
+L.:::J Late Holocene Alluvium
+
+n
+
+~
+
+Late Pleistocene Terrace
+
+P:l
+
+~
+
+Cretaceous Bedrock
+
+L;J Latest Pleistocene to
+Early-Middle Holocene Alluvium
+
+rBl
+
+Latest Pleistocene to
+Early-Middle Holocene Colluvium
+
+6. Schematic geologic cross section of 41TV1364, illustrating generalized geomorphic and
+stratigraphic relationships, as well as the general position of radiocarbon ages.
+
+FIGURE
+
+a
+
+Q
+
+~
+
+~
+
+Vi
+
+~
+
+S2
+~
+a
+~
+
+-N
+,.....
+
+22 I GEOMORPHOLOGY
+
+this suite of deposits as well. The first, from a depth of 2.1 meters below the present day
+surface in trench 2, and in association with a preform believed to be from the Clovis time
+period, yielded an uncorrected radiocarbon age of 5540Â±90 years B.P. (TX-6530). The
+second, from a depth of 3.2 meters below the present land surface in trench 1, yielded an
+age of 5010Â± 100 years B.P. (TX-6529). Unfortunately, both assays are considerably
+younger than the archeological materials would suggest these deposits should be, and are
+also much younger than radiocarbon ages from the laterally adjacent and coeval fluvial
+deposits (see below). Possible reasons for the discrepancies are the introduction of
+younger organic carbon by the same pedogenic processes that produced secondary calcite
+and manganese nodules from downward percolating rainwater, or by through-flowing
+ground water that resulted in the precipitation of secondary calcite cements at greater
+depths. As a result, chronological control on colluvial deposits should be considered
+tentative at the present time until more detailed stratigraphic work can be completed.
+Latest Pleistocene To Early-Middle Holocene Fluvial Deposits
+
+Valley margin colluvial sediments, in particular the limestone gravel and reworked
+caliche-rich facies, pinch out in the direction of Barton Creek and the Colorado River,
+where they are replaced by coeval, siliceous fluvial sediments, most of which appear to
+have been deposited on active constructional floodplains of the Colorado River, or by
+flood waters backing up the Barton Creek valley from the much larger master stream.
+These deposits, exposed at depths greater than 1.5 to 1.8 meters in trenches 3-6, consist
+of interbedded strong brown (7.5YR 5/6) to reddish yellow (7.SYR 6/6), calcareous silty
+sands and sandy silts, with occasional lenses of clayey silts and a rich terrestrial gastropod
+fauna. Primary sedimentary structures are rare, and when present consist of poorlydefined horizontal laminations, or syndepositional root and burrow traces that are
+truncated upwards in the profile. There is little to no clear-cut evidence for significant
+soil development and/or leaching of carbonate minerals or gastropod shells at the top of
+these deposits, either because they were not exposed for a significant time period prior
+to burial, or soil profiles that did develop were subsequently eroded and removed prior
+to burial. By contrast, secondary carbonate cements, most likely derived from throughflowing ground water, occur at greater depths within all trenches.
+Timing of deposition for this suite of floodplain sediments is again partially constrained by temporally diagnostic archeological materials. Projectile points of
+Paleoindian through Early Archaic age, for example, occur in stratified buried context,
+suggesting that floodplain construction began during the latest Pleistocene, and continued until the early to middle Holocene period. This time range is corroborated by
+four internally consistent radiocarbon ages, which range from 11,050Â±220 years B.P.
+(TX-6527) at a depth of 6.5 meters below the surface in trench 6 to 8960Â±200 years B.P.
+(TX-6532) at a depth of 3.3 meters below the present surface in trench 3.
+
+RESULTS OF GEOARCHEOLOGICAL INVESTIGATIONS I 23
+
+Late Holocene Fluvial Deposits
+Unconformably overlying both the latest Pleistocene to early-middle Holocene colluvial and fluvial deposits on the upper surface of this terrace complex is up to 1.8 meters
+of fine sandy silts to silty sands, again deposited mostly by the Colorado River. These
+sediments have been altered by the development of soil profiles and consist of dark brown
+to dark yellowish brown (lOYR 4/3 to 4/4), overthickened, mildly calcareous mollic A
+horizons, overlying cambic B horizons with yellowish brown (lOYR 5/4) colors, weak
+coarse blocky structures, and films and/or filaments of secondary calcium carbonate that
+have precipitated on ped faces. Gastropod shell fragments are not characteristic of the
+A horizon, and are partially dissolved in the B horizon, indicating the degree of leaching
+of primary carbonates that has occurred since deposition ceased. Root and burrow traces
+are also pervasive throughout the upper parts of these soil profiles, as is evidence of
+human modification during the historic time period. The underlying C horizon, which in
+some cases appears to have penetrated down into underlying latest Pleistocene to
+early-middle Holocene strata, is typically strong brown (7 .5YR 4/6) in color, with little
+to no pedogenic structure, but some films and filaments of secondary carbonates
+throughout. Although this stratigraphic unit is very thin where it overlies older deposits,
+on the lower of the two surfaces that form this terrace complex, as exposed in trench 7
+and deep bore holes, deposits are in excess of 10 meters in thickness, and consist of
+interbedded medium to coarse sands and strong brown (7.5YR 5/6) clayey silts. The
+tremendous differences in thickness are believed to be a result of frequent deposition on
+channel-proximal floodplains and overflow swales (the lower of the two surfaces) that
+were inset against the latest Pleistocene to early-middle Holocene fill, with periodic
+scour and slow deposition by more infrequent high magnitude floods that spilled over
+onto the higher surface.
+Timing of deposition for this younger stratigraphic unit is again partially constrained
+by both temporally diagnostic artifacts and a number of internally consistent radiocarbon
+ages. Projectile points with Middle and Late Archaic affinities were found in stratified
+context within the thin overbank deposits on the upper of the two surfaces that comprise
+this terrace complex, suggesting deposition during the late Holocene time period.
+Radiocarbon ages of 3340Â±90 years B.P. (TX-6533) at a depth of 1.1 meters in trench 3,
+and 3320Â±90 years B.P. (TX-6534) at a depth of 1.2 meters in trench 6 confirm this general
+time frame for overbank deposition on this higher surface. From trench 7, which exposed
+the thicker sequence of swale fill deposits underlying the lower of the two surfaces,
+additional radiocarbon ages of 2610Â±80 years B.P. (TX-6535) at a depth of 5.5 meters,
+and 1090Â±80 years B.P. (TX-6536) at a depth of 1.2 meters support both a late Holocene
+age for this stratigraphic unit, and the interpretation that the deposits on these two
+distinct surfaces are genetically related, but different components of the Colorado River
+depositional system, with vastly different rates of sedimentation. Abandonment of these
+surfaces as frequently active depositional environments probably occurred around 1000
+years ago, contemporaneous with many other streams in the southcentral United States
+that incised their channels at that time (Blum and Valastro 1989; Blum 1989; Hall 1990),
+although infrequent high-magnitude floods probably overtopped these surfaces, producing localized scour and fill, until dam construction in the historic time period.
+
+24 I GEOMORPHOLOGY
+
+SUMMARY AND IMPLICATIONS
+
+The archeological record at 41TV1364 occurs in buried sealed context, within sediments that represent dynamic geomorphic activity and evolving landscapes during the
+culturally relevant time period. To summarize, based on stratigraphic, archeologic, and
+chronometric (radiocarbon) data, the latest Pleistocene and early Holocene time periods
+were characterized by slope instability, soil erosion, and deposition of colluvial fan
+wedges along the Barton Creek valley margin, that was contemporaneous with active
+floodplain construction by the Colorado River, and backflooding of Colorado River water
+and sediment up the Barton creek valley. Although not well constrained by archeological
+or chronometric dates at 41TV1364, similar alluvial sequences in the Upper Colorado
+drainage with good chronological control (e.g., Blum and Valastro 1989; Blum 1989) can
+be used to infer that this period of geomorphic activity probably ended by 5000 years ago,
+when channel incision and floodplain abandonment occurred. Prior to 3300 years ago,
+and perhaps as early as 4500 years ago if alluvial sequences from the Upper Colorado
+drainage are any indication, active channel aggradation and/or floodplain construction
+was again underway adjacent to the Colorado River, with occasional flooding, accompanied by scour and slow sedimentation, onto the higher surface underlain by the latest
+Pleistocene to early-middle Holocene colluvial and alluvial deposits. This period of
+activity probably ended around 1000 years ago when the Colorado River incised its
+channel and abandoned late Holocene floodplains, then began constructing the low
+surfaces adjacent to the modern channel.
+This general geomorphological trajectory means that the archeological record contained within these deposits is largely one that represents temporally discrete periods of
+cultural activity on frequently active, aggrading floodplain surfaces throughout the
+Paleoindian and Archaic time periods. It was only during the Late Prehistoric that this
+area was represented by a stable land surface, where long-term continuous occupation
+and/or utilization of a particular locality, free from the hazards associated with an active
+floodplain environment, became possible. Ferring (1986) has proposed a general model
+that relates the rates of fluvial sedimentation to formation of the archeological record,
+which has considerable implications for this study (Fig. 7). His model suggests that in
+areas where sedimentation rates are high the archeological record will consist of a series
+of components that are isolated in three-dimensional space, with the possibility of good
+spatial, temporal, and behavioral resolution. At the other end of the spectrum, where
+sedimentation rates are relatively low to non-existent, the archeological record may range
+from single, isolated components to multiple component, horizontally extensive sites that
+represent a palimpsest of activities spanning the entire period of subaerial exposure.
+Based on the data presented herein, it can be argued that the latest Pleistocene to
+early-middle Holocene and late Holocene fluvial deposits at 41TV1364 are a good
+example of the former, and that the proposed construction zone will contain a rich
+archeological record, but one that consists of a series of stratigraphically isolated components, with each representing brief periods of time within a horizontally restricted
+space. Because most of the sediments that would be disturbed by construction activities
+are latest Pleistocene to early-middle Holocene in age, the impact will be heaviest on
+archeological records of this kind from the Paleoindian and early Archaic time periods.
+
+SUMMARY AND IMPLICATIONS I 25
+
+Rapid Deposition
+Slow Deposition
+
+No Deposition
+
+â¢
+â¢
+â¢
+
+chipped stone
+burned rock
+mussel shell
+
+FIGURE 7. General model illustrating relationships between rates of fluvial sedimentation and
+development and preservation of the archeological record (modified from F erring 1986). The
+Paleoindian through Late Archaic archeological record found within the proposed construction zone at 41TV1364 occurs in a context best approximated by the block diagram on the left,
+which illustrates a series of horizontally and vertically isolated components that represent
+short-term utilization of active depositional settings.
+
+Page intentionally left blank.
+
+CHAPTER 5
+
+EXCAVATIONS
+This section briefly describes the salient features of, and the archeological findings
+made in, each of the eight excavated trenches.
+As may be seen in Figure 1, the trenches are located in a roughly northeast-southwest
+line across Zilker Park. While the trenches and findings will be discussed sequentially
+according to trench numbers, it should be kept in mind that this order does not completely
+correspond to the consecutive position of the trenches across the site.
+For exact depths of the excavated levels in each trench, the reader is referred to
+Appendix 1.
+TRENCH 1
+
+This trench, the closest of all the trenches to Barton Creek, was excavated with the
+backhoe. The first two levels (0-65 cm) contained dark brown sediments oflate Holocene
+alluvium. The strong brown to reddish yellow silty sands of the latest Pleistocene to
+early-middle Holocene alluvium were encountered from level 3 to level 9 (310 cm), at
+which point scattered water-worn gravel was found. In level 10 cemented gravel was
+encountered. Also, some latest Pleistocene to early-middle Holocene colluvial sediments were interfingered with the same-age alluvium.
+This trench did not produce a large quantity of cultural material. Relatively small
+quantities of chert debitage were found in the one-quarter-inch constant volume samples
+from levels 1 through 4. No debitage was found in the samplings of levels 5 through 8.
+Level 9 yielded 3 pieces of debitage (Fig. 8a). Level 10 was by far the most productive,
+producing a total of 30 pieces of debitage. No diagnostic artifacts were found in this
+trench.
+Burned rocks were likewise scarce. One piece was found in level 7, a few were
+scattered in level 8, and one was found in level 9.
+In summary, trench 1 was generally of low productivity in terms of cultural remains,
+though level 10 produced a fair number of debitage specimens. Given the fact that this
+level was immediately above cemented gravels, a terminal Pleistocene/early Holocene
+occupation may be indicated.
+
+27
+
+28 I EXCAVATIONS
+
+road related disturbance:
+redeposited soil
+
+1
+2
+
+3
+4
+
+Ci5 5
+>
+~
+
+Q)
+
+â¢
+
+> 6 ...
+
+~
+
+6
+
+CLOVIS PREFORM
+
+7
+
+7
+
+8
+
+8
+
+a. Trench 1
+
+9
+
+9
+
+b. Trench 2
+
+10
+.........--.--..........--..;=10 15 20 25 30
+debitage count
+
+10._--.~
+
+o
+
+5
+
+â¢
+â¢
+
+1
+
+11..._--.~.........--.--.........--..--.....
+
+0
+
+5
+
+10 15 20 25 30
+debitage count
+
+1 lithic artifact
+(other than debitage)
+diagnostic artifact type
+
+2
+
+1
+
+3
+
+2
+
+4
+
+3
+
+5
+
+4
+
+6
+
+5
+â¢UVALDE
+
+Q;
+
+8
+
+-
+
+9
+
+>
+Q)
+
+6
+
+~7
+..m
+8
+
+10
+
+9
+
+11
+
+c. Trench 3
+
+12
+
+10
+
+d. Trench 4
+
+11
+
+13
+
+12
+
+14
+
+13
+
+151---.---.--.-.--....--...----.
+
+0
+
+5
+
+10 15 20 25 30
+
+0
+
+5
+
+10 15 20 25 30
+
+debitage count
+
+debitage count
+
+FIGURE 8. Histograms of artifact occurrences m matrix samples by excavation level for
+
+trenches 1-4, 41TV1364.
+
+TRENCH2 I 29
+
+TRENCH2
+
+Trench 2 was also excavated with the backhoe. The first two levels (to 65 cm) were
+disturbed, redeposited soil and gravel, probably deposited in connection with construction of the nearby park road. Level 3 contained a dark brown soil formed on the late
+Holocene alluvium, the original A horizon which was later covered by the redeposited
+material. Levels 4 through 10 were characterized by strong brown to yellowish red
+sediments of latest Pleistocene to early-middle Holocene colluvium. Level 7 (at 230-240
+cm depth) was particularly clay-rich and contained small calcium carbonate nodules, as
+did all lower levels. Scattered limestone gravels increased in levels 9 and 10.
+As may be seen in Figure 8b, chert debitage increased in abundance with increasing
+depth from levels 3 through 6, then rapidly decreased in abundance in levels 7 and 8, so
+that none were recovered from level 9.
+
+At a depth of 210 cm, at the interface between levels 6 and 7, was found, in situ, a
+large chert biface (Fig. 13), believed to be a preform (early manufacturing stage) of a
+Clovis type dart point.
+The cultural materials in this trench occur in a relatively narrow vertical distribution.
+Keeping in mind that the top 65 cm represent recent modern redeposition, and that level
+3 contained the modem A horizon soil formation, it is apparent that cultural material
+was restricted to an approximately 2 meter depth range (i.e., 65 to 280 cm), with most
+material coming from levels 5 and 6 (150-210 cm). The presence of the probable Clovis
+point preform at 210 cm suggests that the lower portion of the culturally relevant deposit
+is of early Paleoindian, or terminal Pleistocene age.
+TRENCH3
+
+This was the most productive trench excavated, in terms of the yield of information
+on the occupational history of the site. Excavation was with the trackhoe, and terminated
+at a depth of 590 cm.
+The uppermost 40 cm contained the dark brown sediments of late Holocene alluvium.
+Below 40 cm and extending through level 10 (320-360 cm) were the strong brown to
+reddish yellow silty sands and sandy silts of latest Pleistocene to early-middle Holocene
+alluvium. In levels 12 through 15, limestone gravels were encountered, with the size of
+the gravel increasing with depth. In level 15 (520-590 cm) sizeable cobbles of limestone
+were encountered.
+Cultural material was found in highly variable amounts in levels 1 through 13 (from
+the surface to a depth of 470 cm). Basically, there is a bimodality in the vertical
+distribution of lithic material (Fig. 8c). The upper mode peaks in level 5 (120-170 cm).
+In addition to being the most productive in terms of debitage, this level also produced a
+Marcos dart point (Fig. 12e), a time marker of the Late Archaic in Central Texas (about
+600 B.C. to A.D. 200 [2550-1750 years B.P.]-see Turner and Hester 1985:117). This
+specimen was found in situ in the west end of the trench at a depth of 165 cm. Level 7
+
+30 I EXCAVATIONS
+
+(210-250 cm) yielded a basal fragment of an Uvalde dart point (Fig. 12b), an Early
+Archaic time marker estimated to date to about 5100 to 6100 years B.P. (Prewitt 1985).
+The lower modal point of artifact abundance peaks in levels 11 and 12 (360-445 cm).
+Debitage was by no means abundant in the standard screening samples, but did show a
+notable increase over levels 8-10. Also, a number of chert flakes were visible in the
+trench walls at depths between 400 and 420 cm, suggesting the presence of a rather
+discrete zone from which most or all of the material found on the screens was derived.
+Because this possible zone might have represented a Paleoindian occupational surface
+(being at a depth considerably below the find of the Early Archaic Uvalde point), a
+larger-than-usual sample of backdirt- 448 full hand-shovel loads - from level 12 was put
+through the one-quarter-inch screen. This yielded an additional 50 pieces of debitage
+and an edge-beveled unifacial chert tool (Fig. 14d).
+The implication of the vertical distribution of cultural material in trench 3 is that this
+portion of the site was a major zone of recurrent Archaic occupation (levels 3 through 7),
+and a deeper, earlier zone of occupation, probably of Paleoindian age, in levels 11 and
+12.
+In addition to these chronological implications, it is significant that trench 3 produced
+what appears to be a discrete occupation surface in level 4. Exposed and documented in
+situ, mainly in the east end of the trench, were a number of fragments of burned rock,
+several chert flakes, a chert core, and two fragments of fresh water mussel shell (Fig. 9).
+All of these items rested between 105 and 115 cm depths. This find suggests that the site
+does contain identifiable occupational surfaces sealed by alluvial deposition.
+TRENCH4
+Trench 4 was also excavated with the trackhoe. The upper 50-60 cm consisted of dark
+brown clayey silt soil of late Holocene alluvium. The remaining sediments in the trench,
+to its maximum depth ( 630 cm), were characterized by the strong brown to reddish yellow
+silty sands of the latest Pleistocene to early-middle Holocene alluvium. Interestingly, the
+occurrence of lithic debitage in trench 4 suggests a bimodality similar to that observed in
+trench 3, since debitage was relatively abundant in levels 3 through 5 (70-170 cm), absent
+in levels 8 through 10 (270-390 cm) and present as a trace in levels 11 and 12 (390-540
+cm) (Fig. 8d). No time-diagnostic artifacts were found in this trench.
+TRENCHS
+Trench 5 was located not far from trench 4 (Fig. 2). With the exception of a somewhat
+thicker dark brown soil oflate Holocene alluvium in the top 90-100 cm, the sediments
+were essentially the same as in trench 4. Again, debitage occurred in a vertically bimodal
+distributional pattern (Fig. lOa), peaking in abundance in the upper node in level 4
+(115-140 cm) and in the lower node in level 12 (370-420 cm). No time-diagnostic artifacts
+were found.
+
+TRENCH3 I 31
+
+TRENCH END-SLOPE
+,_
+
+_____________ _
+.t.
+
+~~
+@
+
+0
+
+(J .~ ...
+
+â¢
+
+.t.
+
+~
+
+.t.
+
+'
+
+0
+
+0
+
+â¢ Debitage
+0 Mussel Shell
+fragment
+Core
+
+e
+
+eJ Burned Rock
+
+1 meter
+
+FIGURE 9. Plan view of cultural debris at the east end of trench 3 at 105-115
+
+cm depth.
+
+32 I EXCAVATIONS
+
+1
+
+1
+
+2
+
+â¢ MONTELL POINT
+{adjacent to trench)
+
+2
+
+3
+3
+
+4
+
+4
+
+5
+
+5
+
+6
+
+6
+
+7
+
+7
+
+~8
+
+~
+
+8
+
+Q)
+
+9
+
+>
+
+~9
+
+10
+11
+
+10
+
+12
+
+11
+
+12
+
+13
+
+a. Trench 5
+
+14
+
+b. Trench 6
+
+13
+
+15
+
+14
+
+16~~~~~~~~
+
+0
+
+5
+
+15"---.--.-~.--.....---.--,
+
+10 15 .20 25 30
+0
+debitage count
+..------------
+
+"'
+â¢
+
+1
+
+5
+
+10 15 20 25 30
+debitage count
+
+1 lithic artifact
+(other than debitage)
+diagnostic artifact type
+
+2
+
+1
+
+3
+
+â¢ BIFACIAL CLEAR
+FORK GOUGE
+
+2 ....
+
+4
+
+............
+
+3
+
+5
+
+4 ....
+
+6
+
+5 ....
+> 6 ........
+
+7
+
+Q)
+
+1a
+
+~
+
+~
+
+1
+
+9
+
+8 ................
+9 ....
+
+10
+11
+
+10
+
+12
+
+c. Trench 7
+
+13
+
+11
+
+14
+
+12
+
+15.L---..---..~...---.---T---.
+
+0
+
+5
+
+10 15 20 25 30
+debitage count
+
+d. Trench 8
+
+0
+
+100
+
+200
+300
+400
+debitage count
+
+500
+
+FIGURE 10. Histograms of artifact occurrences in matrix samples by excavation level for
+
+trenches 5-8, 41TV1364.
+
+TRENCH6 I 33
+
+TRENCH6
+
+This trench was located at the western edge of a swale which transects the site area
+(Fig. 2). The distinct dark brown soil of late Holocene alluvium which characterized the
+uppermost parts of trenches 3, 4, and 5 was less evident here, probably due to erosion on
+the sloping edge of the swale. The sediments in the trench were, as in trenches 4 and 5,
+strong brown to reddish yellow silty sands of latest Pleistocene to early-middle Holocene
+alluvium. Lithic debitage was relatively abundant only in level 11 (350-410 cm). There
+is just a hint at bimodal vertical distribution, with three pieces of debitage coming from
+the one-quarter-inch screen samples in levels 1and2 (0-70 cm), only one piece from level
+6 (170-200 cm), and the majority of pieces from the trench from levels 9 through 11 (Fig.
+lOb ). Though no diagnostic artifacts were found in the trench itself, one Montell type
+dart point (Fig. 12f) was found at a depth of 30 cm from the surface in a shallow trough
+adjacent to the trench made by the trackhoe as the machine was maneuvered in order to
+gain a workable purchase on the slope. This is a Late Archaic type, dated to about 1000
+B.C.-A.D. 200, or 2950-1750 years B.P. (Turner and Hester 1985:126; Prewitt 1981:81).
+TRENCH 7
+
+Trench 7 was located on the eastern margin of the aforementioned swale. The
+sediments encountered in this trench were the thick deposits of late Holocene alluvium.
+The trench was excavated to a depth of 630 cm, and was characterized by interbedded
+medium to coarse sands and strong brown clayey silts.
+Trench 7 was by far the least productive of evidence of prehistoric occupation. Only
+a single piece of chert debitage was found (Fig. lOc), this in level 13 (470-540 cm).
+Because this trench is located at a lower elevation and closer to the Colorado River than
+the other trenches, it is inferred that the sediments represent rapid and relatively recent
+alluvial deposition, an inference which accounts for the low density of cultural remains.
+TRENCHS
+
+As already noted, this trench was excavated entirely by hand in 20-cm arbitrary levels.
+Because all sediment, rather than a constant volume sample, was screened through
+one-quarter-inch mesh, the artifact yield was relatively high. Lithic artifacts include 4011
+pieces of debitage, 14 unifacial and bifacial tools, and 7 small bifacial cores.
+Trench 8 was placed adjacent to the Woodward-Clyde (W-C) Bore Hole 2. The log
+of W-C Bore Hole 2 noted surface soil, limestone rock, and - beneath limestone rockvalley alluvium. This pattern raised the strong possibility that a buried rockshelter was
+present along the bluff in this part of Barton Creek valley. Trench 8 was positioned to
+test the rockshelter hypothesis. What had been understandably logged as limestone rock
+proved to be crushed limestone road bed material.
+The trench, in plan dimensions, measured 2 x 3 meters at the surface. At a depth of
+50 cm these dimensions were reduced to 1.5 x 2 meters. The upper 40-50 cm of the trench
+
+34 I EXCAVATIONS
+
+consisted of modern artificial deposits, including a thin layer of light brown sediment
+underlain by a darker sediment on which rested an old asphalt pavement, apparently the
+remnant of Old Bee Cave Road, which ran the length of the bench-like topographic
+feature on which the trench was located. Beneath the asphalt layer was a compact layer
+of gravel and sand, 20-40 cm thick.
+The original soil surface was reached at a depth of 40-50 cm. It was at this level that
+the 20 cm arbitrary levels were initiated, so that the modern overburden is not considered
+in the level depths as discussed here or as presented in the Appendices. From this
+surface, a dark brown A horizon of late Holocene alluvium extended to a depth of
+approximately 60 cm and graded into a dark yellowish brown silty clay. A distinct
+depositional unconformity was noted at about 110 cm in the north end of the trench and
+136-140 cm in the south end. Below the unconformity were the strong brown to yellowish
+red sediments of latest Pleistocene to early-middle Holocene colluvium. Below 140 cm,
+these sediments contained scattered limestone gravels and cobbles up to 15-20 cm long,
+and an occasional larger limestone clast up to 30 cm long. Below about 175 cm, calcium
+carbonate nodules, up to 1-2 cm in diameter, were present.
+The vertical distribution of cultural material showed an approximate correspondence
+with the sediment deposits. While artifact yield was relatively high in levels below level
+2, there was a marked peak in abundance in level 7, just that level which contained the
+stratigraphic unconformity (Fig. lOd). The lower stratum may in fact represent a longstable surface on which recurrent occupation took place, thus accounting for the
+numerous lithic artifacts in level 7. This inference is apparently supported by artifact
+typology, since level 7 produced both Early Archaic Uvalde points (Fig. 12c,d) and a
+Paleoindian Plainview point (Fig. 12a). Uvalde points are believed to date to about 6000
+years B.P. (Prewitt 1981;1985), while Plainview points are placed at about 10,000 years
+B.P. (Dibble 1970; Turner and Hester 1985:141-142). A small cluster of burned rock and
+chert flakes, and an apparently associated crude Uvalde-like point (Fig. 12d), was
+exposed in level 7 (134-141 cm), resting on the same unconformity (Fig. 11).
+Artifact yield decreased in level 8, but was still relatively high. Below level 8, yield
+dropped markedly, suggesting that the base of the culturally relevant deposits had been
+reached.
+
+TRENCH8 I 35
+
+~
+
+1 meter
+
+Mag.N
+
+I
+
+ft~ Burned Rocks
+
+D Large Flake
+
+t
+
+Uvalde-like Point
+
+FIGURE 11. Plan view of trench 8 showing location of burned
+
+rock and chert artifacts at 134-141 cm depth.
+
+Page intentionally left blank.
+
+CHAPTER6
+
+CULTURAL MATERIAL
+The artifacts recovered during the testing at 41 TV1364 are confined soley to the lithic
+category. Bone preservation was virtually non-existent at the site, so that no implements
+or ornaments of bone were present; similarly, no animal bones which would reflect
+dietary practices were present. Ceramic materials were likewise completely absent, a
+fact attributable to the general lack of Late Prehistoric remains at the site. All of the
+diagnostic projectile points found at the site, both during the TARL excavations and in
+earlier work carried out by EHA, are referable to either the Archaic or Paleoindian
+periods. The small, thin arrow points characteristic of the Central Texas Late Prehistoric
+(beginning about A.D. 800 or 1150 years B.P.; see Prewitt 1981; 1985) are absent in the
+samples recovered during both projects (We are confident that a small elongated bifacial
+fragment, categorized by EHA [1988] as an arrow point, is actually a barb fragment from
+an Early Archaic Andice type dart point).
+Unlike bone, shell was preserved. Freshwater mussel shells (Unio sp.), whole and
+fragmentary, were found in very light scatters in those trench levels most productive of
+lithic artifacts, and there can be little doubt that these items reflect a degree of dietary
+reliance on mussel by prehistoric occupants of the site. However, the lack of any
+concentration of these shells suggests that mussels were a minor constituent in prehistoric
+diets at this location. Land snails (Rabdotus sp. and Helicina sp.) were scattered
+throughout nearly all trenches and levels independently, it would seem, of the
+presence/absence of cultural remains. These are thus believed to represent natural
+deaths in local snail populations.
+Fragments of burned limestone rock, a common indicator of cultural activity in
+Central Texas, occurred only in some of the trench levels, and then only sporadically. As
+with the mussel shells, there is a general correspondence with the occurrence of lithic
+artifact material.
+The occurrences of these various categories of materials by trench and level are
+presented in Appendix 2. The descriptions of artifacts which follow are confined to those
+lithic specimens which are temporally and/or functionally diagnostic.
+DIAGNOSTIC LITHIC ARTIFACTS
+Dart Points
+
+Six specimens were found which can be attributed to established projectile point
+types. Five are from various time periods within the Archaic, while the sixth represents
+
+37
+
+38 I CULTURAL MATERIAL
+
+the earlier Paleoindian Period. These are briefly described in their chronological order,
+from earliest to latest.
+Plainview (N = 1; Fig. 12a). A single Plainview point was found in trench 8, level 7. This
+type is very widespread in Texas, having been reported from virtually all parts of the state
+and beyond (Suhm and Jelks 1962; Turner and Hester 1985:141; L. Johnson 1989). The
+type is well established as a Paleoindian diagnostic, and is dated to about 8000 B.C. or
+10,000 years B.P. (Turner and Hester 1985:141).
+The specimen from trench 8 is incomplete, consisting of the medial section and part
+of the base. Maximum thickness is 7 mm and maximum width 27 mm. It is manufactured
+of gray chert and bears moderate patination. Both surfaces show well-controlled, parallel
+oblique pressure flaking. The one remaining basal section exhibited rather heavy edge
+grinding. Though the base of the point is incomplete, enough remains to indicate that it
+may have had a basal concavity.
+Uvalde (N = 3). Two basal fragments and one complete but unfinished specimen are
+attributed to this dart point type. The first specimen (Fig. 12b) was recovered from trench
+3, level 7. The fragment is large enough to indicate a concave base and a markedly
+constricted stem, which together form distinct basal projections. Maximum width of the
+base is 19 mm.
+A second basal fragment (Fig. 12c) was recovered from trench 8, level 7. This has a
+moderate basal concavity, basal thinning and a slightly constricted stem. Maximum basal
+width is 19 mm.
+The complete but unfinished specimen (Fig. 12d) is also from trench 8, level 7. This
+was found in apparent association with a small cluster of burned rocks, resting on a
+stratigraphic unconformity (Figs. lOd and 11). The point has the type's characteristic
+concave base and stem constriction. It was clearly manufactured from a flake of gray
+chert. One of the lateral edges was not susceptible to final thinning, thus accounting for
+the fact that the point was not finished. Length is 33 mm, maximum width (at the
+shoulders) 15 mm, and maximum thickness 6.5 mm.
+Marcos (N = 1; Fig. 12e ). A specimen of this Late Archaic dart point type, dated to
+about 600/300 B.C.-A.D. 200 or 2550/2250-1750 years B.P. (Prewitt 1981; Turner and
+Hester 1985), was found in the west end of trench 3 at a depth of 165 cm. It exhibits the
+deep corner notching characteristic of the type. The distal end and one edge are heavily
+damaged by an impact fracture. Stem width at the base is 20 mm.
+Montell (N = 1; Fig. 12f). This specimen was found at a depth of about 30 cm next to
+trench 6. It is manufactured from dark brown chert. The distal tip and one shoulder barb
+are broken off. Estimated original width at the shoulders is 46 mm. The type is considered contemporaneous with the Marcos type, with an estimated time range of 1000/300
+B.C.-A.D. 200 or 2950/2250-1750 years B.P. (Prewitt 1981; Turner and Hester 1985).
+
+DIAGNOSTIC LITHICARTIFACTS I 39
+
+b
+
+a
+
+c
+
+e
+
+d
+
+I
+
+I
+
+I
+
+2
+
+0
+
+I
+
+3
+
+cm
+
+f
+
+12. Paleoindian and Archaic dart points from 41TV1364, 1989 season. a, Plainview;
+b,c, Uvalde stem fragments; d, unfinished Uvalde; e, Marcos; f, Montell.
+
+FIGURE
+
+40 I CULTURAL MATERIAL
+
+Clovis Preform
+
+This highly significant specimen (Fig. 13) was found in trench 2 at a depth of 210 cm.
+Though broken by the backhoe, the three resulting fragments were easily refitted, and
+virtually the entire artifact was recovered. While two of the fragments were recovered
+from the backhoe backdirt pile, the third was found in situ in the trench end wall, still
+clearly embedded in its sediment matrix. The refitted specimen measures 156 mm in
+length, 58 mm in width, and 22 mm in maximum thickness. It is manufactured from a
+dark gray-brown, almost black, moderately fine-grained chert. The specimen bears a very
+thick (2-3 mm) white patination on all surfaces. Chert with visual, macroscopic attributes
+identical to the unpatinated interior of this specimen occurs in gravels of a tributary
+stream that enters the Colorado from the southwest about 750 meters west of this site.
+In terms of attributes of size, shape, and technology, this specimen fits remarkably
+well into an hypothesized bifacial reduction sequence for Clovis type dart points (Collins
+et al. 1989). The size and shape are clearly prototypical of finished Clovis points from
+Texas (Turner and Hester 1985:81; Meltzer 1987:57). Technologically, the artifact appears to represent an intermediate stage between initial bifacial reduction and a nearly
+finished Clovis point. Broad percussion flake scars, present on both faces, have been
+struck toward and somewhat past the center of the preform to create a distinctive
+biconvex transverse section. The base of the artifact exhibits a beveling produced by the
+removal of a series of short flakes; the longitudinal section (Fig. 13) is very regular with
+a taper toward the point, the basal bevel, and a uniform thickness in between. Both of
+these are characteristics of a Clovis reduction sequence identified in a stratigraphically
+controlled sample of specimens from Kincaid Shelter in Uvalde County, Texas (Collins
+et al. 1989).
+Given these empirical observations, and the position of the specimen at the base of
+the culturally relevant deposits in trench 2, along with the fact that its size and form are
+not characteristic of later Archaic lithic forms, it is highly probable that this artifact
+represents a Clovis occupation at 41TV1364.
+Clear Fork Tool
+
+This is a common late Paleoindian and Archaic tool form in Central and South Texas
+(e.g., G. Hall et al. 1982: 342-346; Turner and Hester 1985:205). The specimen from
+41TV1364 was found in trench 8, level 2 (Fig. 14a). It is piano-convex in profile, but is
+bifacially worked. The distal, beveled end, which exhibits minute flake scars evidently
+created by use, is slightly convex. Length is at least 39 mm (proximal end is probably
+missing), width at the distal end is 42 mm, and maximum thickness is 8 mm. The specimen
+is thus fairly small, triangular, and thin, which is apparently more characteristic of later
+Archaic examples of the type (see discussion in G. Hall et al. 1982:346). A relatively late
+Archaic placement for this artifact is also suggested by its vertical position in trench 8.
+
+NON-DIAGNOSTICLITHICARTIFACTS I 41
+
+I
+
+\
+
+2
+
+0
+
+3
+
+cm
+
+FIGURE 13. Clovis preform, 41TV1364, 1989 season.
+
+42 I CULTURAL MATERIAL
+
+a
+
+,
+/
+
+b
+
+0
+
+2
+
+1
+
+3
+
+cm
+
+c
+
+FIGURE 14. Chipped stone artifacts from 41TV1364, 1989 season. a, Clear Fork tool; b,c,
+biface fragments; d, uniface.
+
+NON-DIAGNOSTICLITHICARTIFACTS I 43
+
+NON-DIAGNOSTIC LITHIC ARTIFACTS
+A number of uniface and biface fragments (Fig. 14b-d) were recovered in the excavations. These specimens cannot be assigned to diagnostic types, either because they are
+the distal ends of projectile points or knives, and thus do not reveal the proximal-end
+morphologies which characterize the various types, or because they represent strictly
+functional, rather than stylistic, tool forms. These will not be described in detail, since
+they do not contribute to chronological interpretation of the site, and since the narrow
+trenches could not produce spatial data for contextual interpretations of locations of
+functionally different tool categories.
+Most of these items were found in trench 8, doubtless in large part because this trench
+was hand excavated and all sediment screened through one-quarter-inch mesh. These
+consisted of four distal biface or dart point fragments, the medial section of a bifacial
+drill, a medial biface fragment, a unifacial scraping/cutting tool fragment, two medial
+biface/dart point fragments, and a flake bearing concave edge trimming on one edge.
+From trench 3, level 12, was recovered a uniface beveled on three sides (Fig. 14d).
+DISCUSSION
+The diagnostic artifacts clearly indicate that the site was occupied during the Paleoindian and Archaic periods. Furthermore, the range of types indicates that recurrent
+occupations occurred over most, if not all, of these two lengthy periods. The early
+Paleoindian Period is indicated by the probable Clovis point preform, while the late
+Paleoindian Period is indicated by the Plainview point. Early Archaic Period is represented by the Uvalde points, while Late Archaic occupation is indicated by the Marcos
+and Montell points.
+Findings of time-diagnostic dart points during previous testing by Espey, Huston and
+Associates (1988) further support the inference of occupations spanning the Paleoindian
+and Archaic periods. In EHA trench 6, the crew found a Plainview point at a depth of
+2. 7 meters and a possible Angostura point at a depth of between 2.5 and 3. 7 meters. What
+we confidently believe is an Early Archaic Bell point was found in EHA trench 5 at a
+depth of 1.2 meters. Middle Archaic occupation is indicated by the recovery of a
+Pedernales point in EHA trench 9 at a depth of 1.5 meters.
+Certain of these finds by EHA are significant in terms of their vertical positions. The
+Plainview and Angostura points in EHA trench 6 are at expectable depths in relation to
+findings in TARL trench 3, located in the same general area of the site. In TARL trench
+3 we found Early Archaic (Uvalde point) and Late Archaic (Marcos point) diagnostics at
+depths of 1.65 meters and 2.1-2.5 meters, respectively. These finds are vertically above
+the late Paleoindian Plainview and Angostura points, thus further strengthening the
+impression ofstratigraphic/chronological integrity of the archeological materials in this
+part of the site.
+A Pedernales point came from EHA trench 9, located further to the east than those
+just mentioned, in the same part of the site as TARL trenches 4 and 5. This point came
+
+44 I CULTURAL MATERIAL
+
+from a depth of 1.5 meters, suggesting a Middle to Late Archaic time range for the upper
+node of artifact abundance in the vertically bimodal pattern, already discussed, documented for these trenches.
+In sum, it is concluded that the sediments at the site contain cultural material in their
+expected stratigraphic/chronological positions. In trenches 3 through 6, located in areas
+of relatively deep alluvial deposition, considerable depth is evident for culturally relevant
+time periods, with corresponding vertical zonation of materials. In these areas, alluvial
+deposition was of sufficient volume and frequency to create, to some extent, definable
+periods of cultural deposition. The zonation of cultural material is more expanded
+vertically in trenches 4-6 than in trench 3, presumably because these trenches are closer
+to the Colorado River, and thus, in an area which, over time, received a somewhat greater
+volume of flood-borne sediments. Trench 3 showed zonation of cultural material in a
+slightly more compressed vertical context and more accessible for archeological excavation. In trenches 1, 2, and 8, depth of cultural material is not as great, a fact here
+interpreted as reflecting lower rates of alluvial deposition in the western part of the site,
+which is farthest from the Colorado River.Â·
+
+CHAPTER 7
+
+RADIOCARBON AGES
+As previously mentioned, samples of clay-rich alluvial sediments were taken at
+various depths in several trenches for the purpose of obtaining radiocarbon ages on
+inclusive organic materials. A total of 10 samples was submitted to the Radiocarbon
+Laboratory, The University of Texas at Austin. The results (S. Valastro, Jr., personal
+communication 1989), are in Table 1:
+TABLE 1
+RADIOCARBON AGES FOR SEDIMENTS
+FROM THE VERA DANIEL SITE (41 TV1364)
+Sample
+Number
+
+Trench
+
+Depth
+(meters)
+
+Ages*
+(years B.P.)
+
+TX-6529
+TX-6530
+TX-6531
+TX-6532
+TX-6533
+TX-6528
+TX-6527
+TX-6534
+TX-6535
+TX-6536
+
+1
+2
+3
+3
+3
+4
+6
+6
+7
+7
+
+3.2
+2.1
+4.0
+3.3
+1.1
+5.5
+6.1
+1.2
+5.5
+1.2
+
+5010Â±100
+5540Â±90
+9030Â±160
+8960Â±200
+3340Â±90
+9870Â±220
+11,050Â±220
+3320Â±90
+2610Â±80
+1090Â±80
+
+*The samples were not corrected for o13C.
+
+These ages provide, on the whole, excellent confirmation of the depositional sequence
+inferred from the vertical locations of diagnostic artifact types and the postulated articulation between the sequences of cultural and sediment deposition at the site.
+Figure 15 presents a somewhat schematized, synoptic cross section of the site, showing
+trench locations (both TARL and EHA trenches), MLA Labs and Woodward-Clyde bore
+holes, ground surface elevations, densities of cultural material as represented in the
+TARL trenches by debitage counts, locations and ages ofTAR~s 10 radiocarbon samples
+as well as one collected by EHA (the other EHA radiocarbon sample provenience is
+
+45
+
+46 I RADIOCARBON AGES
+
+West
+ft
+
+...
+
+470
+
+~
+w
+
+LHA
+
+460
+
+I
+I
+
+/ ,
+
+(ii
+
+E
+Q)
+
+> 450
+
+0
+
+.0
+
+I
+
+I
+
+I
+
+I
+
+EA?
+
+/t
+I
+
+I
+
+----
+
+I
+L.,
+
+L,
+I
+
+N=4009
+
+LPEMHC
+
+}
+
+N=62
+
+5010 :!: 100Â·
+
+~
+
+I
+
+Pl
+
+N=39
+
+I
+470 :!: 50
+
+ca
+c
+
+0
+Â·.;::
+
+ca
+>
+
+no horizontal scale
+
+Q)
+
+jjJ
+
+440
+
+EHA =Espey, Huston and Associates, Inc. backhoe trenches
+430
+
+MLA = MLA Labs borings
+TARL=Texas Archeological Research Laboratory backhoe trenches
+W-C =Woodward-Clyde borings
+LHA =Late Holocene Alluvium
+LPEMHC =Late Pleistocene to Early-Middle Holocene Alluvium
+LPEMHA =Late Pleistocene to Early-Middle Holocene Colluvium
+
+FIGURE
+
+"'
+~
+
+w
+
+15. Synoptic cross section of 41TV1364 showing all sources of subsurface data.
+
+DISCUSSION I 47
+
+East
+
+...
+
+~
+
+....
+
+"'
+u
+
+...
+
+co
+
+...J
+
+a:
+<(
+
+...J
+
+a:
+<(
+
+J:
+
+w
+
+w
+
+I-
+
+~
+
+"'
+
+Ol
+<(
+
+<(
+
+J:
+
+~
+w
+
+I-
+
+<(
+
+J:
+
+3
+
+:::
+
+"'::5
+
+<(
+
+w
+
+J:
+
+LHA
+
+---
+
+---
+
+...
+
+::;:
+
+w
+
+...J
+
+a:
+~
+
+--
+
+MA
+
+........ .....
+
+/
+
+/
+
+LA
+
+EA
+
+1090
+
+LPEMHA
+9870
+
+Â± 220
+
+N=37
+N=54
+
+N=27
+
+N=91
+
+2610
+
+Â± 80
+N=1
+
+/I
+
+Pl= Paleoindian
+
+7111'
+
+Bedrock
+
+EA= Early Archaic
+
+D
+
+Gravel
+
+MA= Middle Archaic
+
+0
+
+Hearths
+
+LA= Late Archaic
+
+â¢
+
+Radiocarbon samples
+
+Â± 80
+
+48 I RADIOCARBON AGES
+
+unknown), and locations of diagnostic artifact finds. Taking these variables together,
+three basic stratigraphic units, with cultural-chronological correlates, are apparent (see
+section on Geomorphology herein, for more definitive discussion of the alluvial stratigraphy).
+First, at the western end of the site, are two radiocarbon samples (TX-6529 and
+TX-6530) with assayed ages of 5010Â± 100 and 5540Â±90 years B.P., from the lowest
+culturally relevant deposits in trenches 1 and 2, respectively. These dates appear at first
+glance to be incongruent with the relatively deep and presumably old cultural remains
+(as indicated by the Clovis preform at the same depth as the radiocarbon sample in trench
+2) in the respective trenches. However, considering the fact that the depositional context
+is apparently colluvial, it is possible that the cultural material was redeposited by colluvial
+processes. This would be consistent with the heavy patina on the Clovis preform, since
+this artifact could have rested exposed on an upslope, stable surface for a considerable
+time prior to its final deposition in colluvial fill. The approximately 5000-year-old ages
+thus may reflect mid-Holocene colluvial deposition or, as suggested earlier, some form
+of post-depositional contamination by younger carbon.
+Farther to the east, away from the limestone outcrops of the valley margin and toward
+the Colorado River, the radiocarbon ages are in concert with an expected sequence of
+late Pleistocene through late Holocene alluvial deposition. The radiocarbon ages,
+together with the generally bimodal vertical zonation of cultural debris, suggest discernable periods of (a) latest Pleistocene to early-middle Holocene and (b) late Holocene
+deposition.
+The radiocarbon ages on samples from trench 3 best indicate this Holocene alluvial
+sequence. The lowest sample, at 4.0 meters depth, was taken from just above the narrow
+vertical zone of lithic artifacts in levels 11 and 12, and the age of 9030Â± 160 years
+(TX-6531) supports the inference that these materials represent a Paleoindian component. The sample at 3.3 meters below surface yielded an age of 8960Â±200 years B.P.
+(TX-6532). This age is congruent both with the older age and with the fact that an Early
+Archaic Uvalde point was found in level 7, at a 2.1-2.5 meters depth. The final sample
+from trench 3, from a depth of 1.1 meters, produced an age of 3340Â±90 years B.P.
+(TX-6533), thus supporting the inference of Middle to Late Archaic deposition of the
+lithic materials which were relatively abundant in levels 4 though 6 ( 1.0-2.1 meters below
+surface).
+The samples from trenches 4 and 6 yielded corresponding results. A radiocarbon age
+of 9870Â±220 (TX-6528) was obtained from a depth of 5.5 meters in trench 4. This
+corresponds with the lower mode of debitage abundance in this trench, indicating an
+apparent Paleoindian occupational period approximately corresponding with that indicated in trench 3. The age of 11,050Â±220 years B.P. (TX-6527), from a depth of 6.1 meters
+in trench 6, supports these data, since the sample was taken from just below the lower
+mode of debitage abundance in this trench. Also from trench 6 is the age of 3320Â±90
+years B.P. (TX-6534) from a depth of 1.2 meters. This corresponds exceptionally well
+with the similar age, from a similar depth, of the shallowest sample from trench 3. The
+finding of a Montell dart point, estimated to date to about 2000 years B.P. (Prewitt
+1985:81) at 0.3 meters, fits well with these data, further indicating a Middle to Late
+
+DISCUSSION I 49
+
+Archaic chronological position for the upper modes of lithic abundance in trenches 3
+through 6.
+The dates from trench 7 are in accord with a topographic location at a lower elevation
+than the other TARL trenches. The initial inference that this surface represented
+relatively recent and rapid alluvial deposition associated with late Holocene flooding of
+the Colorado River is substantiated. The sample from a depth of 5.5 meters produced
+an age of only 2610Â± 80 years B.P. (TX-6535), while the sample from a depth of 1.2 meters
+yielded an age of only 1090Â±80 years B.P. (TX-6536). Lower elevation, in combination
+with greater proximity to the Colorado River, accounts for more rapid alluvial deposition
+at this location. The dearth of artifacts in this trench thus may be explainable in terms
+of marked vertical dispersal of cultural remains in the context of rapid aggradation, or
+the avoidance of high risk environments when conducting activities, that would leave a
+tangible archeological record.
+In conclusion, the radiocarbon ages, alluvial stratigraphy, and vertical zonation of
+cultural debris appear to be mutually supportive data sets. Excepting the colluvial
+context in trenches 1 and 2 (and probably, it should be added, trench 8), and the thick
+alluvium in trench 7, we seem to be looking at roughly bimodal peaks in artifact densities.
+In light of the chronometric data, the lower mode in artifact abundance is referable to
+the Paleoindian Period in the terminal Pleistocene/early Holocene, while the upper mode
+corresponds to Archaic occupations during the mid to late Holocene (see section on
+Geomorphology).
+An important aspect of these findings is that net sediment deposition was quite high
+for the period 11,000 to 9000 years B.P. In TARL trenches 3, 4, and 6 documented and
+recovered evidence indicates that late Pleistocene and early Holocene alluviation was
+relatively constant and rapid. The average rate of net vertical accretion can be calculated
+at 0.135 cm per year (2.7 meters in 2000 years). This rate contributes to a site formational
+context highly favorable for the isolation of separate episodes of human activity (components). That this environment of rapid, low-energy natural deposition occurs near a
+major spring, at the confluence of a perennial creek and a major river, and within a major
+ecotone between the Edwards Plateau and the Gulf Coastal Plain - optimal for food
+collecting peoples- completes the equation for an unusually significant archeological
+site.
+The net sediment from 9000 years B.P. to present averaged 0.036 cm per year (3.3
+meters in 9000 years). This figure is probably misleading in terms of site formation
+process for two reasons. It is based on only 3 radiocarbon ages of 8960Â±200, 3340Â±90,
+and 3320Â±90 years B.P. and present ground surface, which constitute too few data points
+for an accurate characterization. Also, an episode of erosion is inferred sometime prior
+to 3000 years B.P. so that the rate of deposition is based on net accretion after the loss of
+deposits of unknown thickness to erosion. This does not detract from the site's significance, because the cultural components may occur in intervals of sufficiently rapid
+deposition for adequate component isolation, and because these later components occur
+somewhat more commonly in Central Texas than do those dating from 11,000 to 9000
+years B.P.
+
+Page intentionally left blank.
+
+CHAPTER 8
+
+DISCUSSION OF SITE SIGNIFICANCE
+Based on the findings discussed in previous sections, it is concluded that 41 TV1364,
+the Vera Daniel Site, has considerable potential to provide significant information
+concerning the Paleoindian and Archaic occupations of Central Texas. The points upon
+which this conclusion is based can be summarized as follows:
+SITE POTENTIAL FOR CHRONOLOGICAL STUDY
+As already noted, the site was used intermittently by prehistoric peoples throughout
+the long Paleoindian and Archaic periods. In those parts of the site with deep Holocene
+alluvial deposition histories, namely, the areas immediately north and south of Barton
+Creek Road, the available evidence points to a more or less intact occupational sequence
+from Paleoindian through Late Archaic. It is significant that in this area of the site
+alluvial deposition has been sufficient to create vertical separation of cultural materials
+according to the temporal sequence of their deposition. Considering the success of the
+technique of radiocarbon dating of clay-rich alluvial sediment, it is apparent that cultural
+material within the site deposits can be satisfactorily dated from containment and/or
+bracketing sediments.
+While a detailed chronological sequence has been established for Central Texas,
+further testing and/or refinements are called for (e.g., L. Johnson 1987). The dating of
+discrete occupational periods at the Vera Daniel Site can contribute to a resolution of
+remaining questions of the cultural-historical sequence in the region.
+Specifically, for example, the most troublesome portion of the Central Texas archeological chronology is at the early end, that is, for ages before about 8000 years. Hints
+appear in the archeological record that significant changes occurred in projectile point
+styles and in tool kit compositions during the period between about 10,000 and 8000 years
+ago in Central Texas (Patterson 1989). Because these changes possibly imply greater
+variation in fundamental patterns of human adaptations than is generally believed to have
+existed and because the archeological picture for the period is presently very unclear,
+good archeological resolution of the artifact assemblages and chronology is needed. This
+interval is represented by the presence of considerable archeological material and the
+highest depositional rates at the Vera Daniel Site, precisely the setting which has the
+potential for such resolution.
+
+51
+
+52 I DISCUSSION OF SITE SIGNIFICANCE
+
+SITE POTENTIAL FOR STUDY OF CULTURAL-BEHAVIORAL PATTERNS
+
+The chronological orientation of most of the archeological work accomplished to date
+in Central Texas has been alluded to repeatedly. An important complementary approach
+to the archeological record is synchronic, or spatial, investigation. Such studies can be
+implemented at regional, subregional, local, and intra-site scales. The Vera Daniel Site
+holds significant potential for spatial analysis at the intra-site scale.
+The data from the site indicate a useful degree of vertical stratigraphic isolation of
+periods of cultural deposition. This was particularly notable in trench 3, where a vertically discrete scatter of burned rock, lithic debitage, and mussel shell was exposed at
+105-115 cm below surface (Fig. 9), and a fairly discrete zone of lithic debris was noted at
+400-420 cm below surface. In both cases, a prehistoric occupational surface, sealed by
+alluvium, appears to be indicated. Given the extremely limited horizontal view of the
+site afforded by these test trenches, it is virtually certain that other such discrete occupational zones are present. These would be identifiable within horizontally extensive
+excavations at the site.
+It is in this kind of situation-where occupational remains are found in primary, or
+near-primary, context on identifiable prehistoric surfaces - that prehistoric behavioral
+patterns can best be studied. The articulation of past activities with cultural features such
+as hearths and debris disposal areas can be inferred based upon the spatial arrangement
+of features and distributions of activity-specific debris. In some cases, even the approximate number of people involved in these activities can be determined with
+reasonable accuracy. When placed in the larger synchronic context of regional settlement and subsistence patterns, these kinds of data can contribute to reconstruction of
+past lifeways and modes of human adaptation. Fairly broad horizontal excavation at the
+Vera Daniel Site, particularly in the vicinity of trench 3, would predictably yield the kinds
+of site-specific spatial data required for this important level of archeological interpretation.
+As a specific example, Shiner (1983) suggested that the large springs along the
+Balcones Escarpment were such exceptionally favorable habitats for humans that even
+presumably nomadic Paleoindian peoples may have lived near them on a virtually
+permanent basis as evident from high concentrations of early artifacts. As E. Johnson
+and Holliday (1984) and Meltzer (1987) note, artifact concentrations are not of themselves evidence for permanence of occupation and Shiner's notion requires more
+sophisticated investigation. Of first importance in such inquiry is data on the nature of
+individual components - size, number, and diversity of features and artifacts, and
+seasonality. Although because of poor preservation of organic materials, the Vera Daniel
+Site does not have great potential for yielding data on seasonality, its Paleoindian
+depositional context is ideal for investigating the other aspects of this issue.
+INTERSITE VARIABILITY IN POTENTIAL ARCHEOLOGICAL SIGNIFICANCE
+
+Excavated data from the TARL trenches indicate that there is considerable variability
+in archeological significance across the Vera Daniel Site. This variability is linked to the
+
+INTERS/TE VAR/ABILITY IN POTENTIALARCHEOLOGICAL SIGNIFICANCE I 53
+
+degree of compression or vertical expansion of cultural deposition, which in turn correlates to the different rates and volumes of sediment deposition across the site. The
+findings in trench 3 suggest that the rugby field area just south of Barton Springs Road
+holds the highest potential for yielding important archeological information. The total
+thickness of the culturally relevant deposits in trench 3 was about 4.5 meters, somewhat
+less than in trenches 4-6 , located north of Barton Springs Road. The entire Holocene
+period is encompassed by the trench 3 deposits, and there is good vertical separation of
+discrete cultural zones, as well as practical access for archeological excavation. Vertical
+zonation is also present in trenches 4-6, but the depth of excavation needed to fully
+explore the culturally relevant deposits would be somewhat greater. Additionally, the
+yield of cultural material in trenches 4, 5, and 6 was substantially lower than in trench 3.
+Trenches 2 and 8 produced relatively high artifact densities. However, the great
+majority of specimens in these trenches were concentrated vertically at or near the
+unconformable contact between the colluvial wedge and the overlying mid to late
+Holocene alluvium. This suggests a nearly stable land surface in this area from Paleoindian times into the Archaic, since both Paleoindian and Early Archaic diagnostic
+materials were found on, or in close vertical proximity to, the surface of the colluvium.
+Considering the range of these artifacts (including the Clovis preform, the Plainview
+point, and Uvalde points), a period of as much as 5,000 years of accumulation and mixing
+of cultural debris may be represented. Thus, along the colluvial facies at the base of the
+Pleistocene terrace and the Cretaceous bedrock, vertical zonation of materials - crucial
+for sophisticated archeological interpretation - may not be present.
+Considering these kinds of factors in the relation between cultural occupation and
+sediment deposition, it is apparent that the extensive site designated as 41TV1364 is not
+internally homogeneous in terms of potential data yield. Based on the findings in the
+TARL trenches, and on the inferred geomorphic history of the site, three levels of
+archeological significance (Fig. 16) can be defined as follows:
+1. Areas of low significance for data recovery. Three kinds of geomorphic settings
+can be expected to have low significance for archeological data yield:
+
+A. On the lower Holocene terrace, sediment deposition was of suffiently high rate
+and volume that cultural materials are vertically dispersed and deeply buried.
+In order to recover sufficient cultural material for meaningful interpetation,
+excavations would have to be so deep and so extensive as to be highly impractical.
+B. On the wedge along the base of the Cretaceous and Pleistocene uplands,
+alluvial deposition is minimal. Thus cultural materials accumulated on a
+stable, or nearly stable surface, at least during the archeologically critical
+Paleoindian and Early Archaic periods. Thus cultural materials are too mixed
+to permit useful interpretations of either a chronological or a behavioral kind.
+C. Cultural materials are present on the Pleistocene and Cretaceous surfaces of
+the upland margins overlooking the Barton Creek and Colorado River valleys.
+However, cultural deposits here can also be expected to be highly compressed
+
+54 I DISCUSSION OF SITE SIGNIFICANCE
+
+Co\oradO f).\"Vef
+
+.........Â·.Â·.Â·.Â·.Â·.Â·Â·:Â·:-:-:-:-:-:-:-:-:Â·.Â· ..\.... ~ ....~,(Upper Surface)',,',,,''',, Â·.;.::::::-:-:-:-:-:-:........ :. ..-:Â· ...Â·... Â·-:-:-:-:Â·:-Â·
+
+'' '''''''' '''' '''
+
+:::::::::::::::::::::::::::::::::::::::::::::::\\::.;}\:~
+~ ,,,,,,,,,,, ,,,,,,,,,,
+~ ~ ~ ~ ~ ,,,,,
+~ ~ ~ ~ ~ ~ ,,,,,,,,
+~,~,Â·~ti"~::;:::::::::::::::::;::
+................................ .;.;. ................. Â·z.:: .. :~'
+~,,, """""""""
+::c
+...R.. E.'T"A''c'..E.. aÂ·.Â·uÂ·'s'. {::::~:::~~~~~~~~~~~~~~~~~~~~~~~~~~ ~~~~~Â·~,~~~~.;t.;.~::~:::~:::,:::~r----o.---J
+
+:Â·
+Â·:~.:Â·:<Â·~~:-:-.\.~''''''''''''''''''''''
+,,,,,, ~ ,,,,,, Â·.Â·: ....
+:: BEDROCK :::::::::::::::.x::::::.~~:::}~~~~~~~~~~~~~~~~~~ ~ ~~~~~~ '~'' '~~~~~~~~~.::::::::::::Â·
+:Â·.
+
+Â·:Â·:Â·:Â·:Â·:Â·:Â·:Â·:Â·:~Â·:Â·:Â·:Â·:Â·~~Â·Â·:Â·:Â·~' '' ''' '' '' ,, '' '' ''''
+
+'''' ''''' ~:Â·:Â·:Â·:Â·:Â·Â·
+
+Low Archeologlcal
+Significance Inferred
+Moderate Archeologlcal
+Significance Inferred
+
+~
+~
+
+High Archeologlcal
+Significance Inferred
+
+FIGURE 16. Three levels of inferred archeological significance at the Vera Daniel Site. A-A'
+indicates cross section of Figure 17.
+
+INTERS/TE VARIABILITY IN POTENTIALARCHEOLOGICAL SIGNIFICANCE I 55
+
+and mixed, since these surfaces did not experience significant sediment deposition during culturally relevant (terminal-to-post Pleistocene) time periods.
+2. Area of moderate significance for data recovery. This area encompasses the upper
+surface of the Holocene terrace nearest to the Colorado River, north of Barton
+Springs Road. This is the portion of the site in which TARL trenches 4-6 were
+excavated. As noted, the alluvial deposits here are sufficiently deep, and cultural
+debris sufficiently expanded vertically, that excavations would need to be quite
+deep and extensive in order to yield sufficient data for meaningful interpretations.
+Also, the trench excavations seem to indicate that cultural debris is not particularly
+abundant in this area.
+3. Area of high significance for archeological recovery. This consists essentially of
+the rugby field area in which TARL trench 3 was excavated. Here alluvial deposition was of a sufficient rate and volume as to produce vertically segregated zones
+of cultural material. At the same time, the area was far enough from the Colorado
+
+A'
+
+A
+
+Cretaceous/
+Pleistocene
+Surfaces
+/
+
+COMPRESSED
+CULTURAL DEPOSITS
+
+MAXIMUM POTENTIAL
+ARCHEOLOGICAL DATA
+RECOVERY
+.------.A_~--
+
+CULTURAL DEPOSITS
+HIGHLY EXPANDED
+
+\
+Hypothetical
+...- Cultural
+Horizons
+
+~Bedrock
+~) ~~ Colluvial Wedge
+
+17. Schematic cross section showing expected compression or expansion of cultural
+zones related to geomorphic setting.
+FIGURE
+
+56 I DISCUSSION OF SITE SIGNIFICANCE
+
+River that flood-borne sediments did not accumulate so rapidly, or in such great
+volume, that cultural materials are so deeply buried and/or vertically dispersed as
+to be inaccessible to efficient recovery. This area of relatively high potential is
+wedged between adjoining areas of very high volume alluvial deposition on the
+one hand, and areas of little or no sediment accretion on the other. Thus, despite
+the large size of the Vera Daniel Site, a relatively restricted area appears to hold
+optimal potential for effective archeological investigation.
+The intrasite horizontal extent of these predictable areas of varying archeological
+potential can be seen on the map, Figure 17. The rationale for the relevant geoarcheological inferences is explicated in Figure 17, a schematic cross section of the site
+showing how cultural zones can be expected to be either compressed or expanded
+according to their relation to the site's geomorphic setting.
+
+CHAPTER9
+
+RECOMMENDATIONS
+It is fitting that a site with late Pleistocene to early Holocene (11,000 to 9000 years
+
+old) cultural vestiges of the high significance documented for 41TV1364 is situated in
+Austin's premier city park. Such a setting should insure the conservation and preservation of this evidence of some of the first human inhabitants of central Texas.
+We strongly urge that construction disturbance of the area of potentially high datayield be avoided; if it is unavoidable then it has to be minimized. We further recommend
+that the fullest possible scrutiny of construction alternatives be made by the City of
+Austin.
+Open trench excavation, as currently planned for the installation of this wastewater
+line, could disrupt as much as 800,000 cubic feet of archeologically relevant deposits in
+the right-of-way including the area of high potential around trench 3. To mitigate this
+loss of valuable archeological data by controlled excavation of only 1% of this volume
+would be very costly and still result in the irreversible loss of 99% of that portion of the
+site cut by the wastewater line trench.
+Such engineering alternatives as boring beneath the culturally-relevant deposits,
+re-routing the line, or installing a large lift station and raising the grade of the line to
+permit a greatly reduced installation excavation must be considered.
+To reroute the line around the optimal part of the site with the least likelihood of
+encountering similar archeological problems, an alignment across the high terrace west
+of the present Barton Springs Pool entrance road north across Barton Springs Road and
+then east to the Barton Creek crossing should be considered. It is probable that some
+archeological testing along such a route would be necessary, but our findings suggest that
+much less significant archeological deposits would be encountered.
+Failing these alternatives for avoiding or minimizing disturbance to the most significant part of the site, adequate mitigation of the archeological data loss is
+recommended. In light of the scientific potential of the Vera Daniel Site, particularly in
+regard to Early Archaic and Paleoindian studies, the following broad outlines of a data
+recovery excavation are proposed.
+Should the city decide that the most feasible method with which to lay the wastewater
+line is by continuous trenching from the ground surface across the site, significant
+archeological mitigation is recommended. So that costs to the city would be kept at the
+most reasonable level possible, it is recommended that archeological excavation be
+confined to one excavation block in the area of the present rugby field, in the vicinity of
+TARL trench 3. It is in this area that cultural remains are both sufficiently abundant and
+of sufficient vertical segregation that the scientific potential of the site can be most
+
+57
+
+58 I RECOMMENDATIONS
+
+effectively investigated. This is also an area where bedrock is less deeply buried than it
+is farther north in the site.
+More specifically, our recommendation is for excavation of a fairly broad horizontal
+area, the exact location of which will depend upon the route through this part of the site
+to be taken in constructing the wasterwater line. In order that this excavation should
+encompass enough area to yield the kinds of spatial data referred to previously, a surface
+area approximately 14 x 14 meters in extent should be opened. Excavation would
+proceed to a depth of approximately 2 to 2.5 meters, which would allow exposure and
+documentation of the Archaic occupational zones. Below this level, mechanical equipment could be feasibly used to remove culturally sterile or nearly-sterile sediments to
+just above the 4 meter-deep occupational zone which is believed to represent Paleoindian
+occupation of the site. A "pilot" excavation by hand of a limited area would precede
+mechanical stripping and monitoring of the mechanical stripping would insure minimal
+data loss in this process. At this point excavation by hand would resume.
+Effectively, then, three stages of excavation are envisioned. The first would involve
+hand excavation of the Archaic levels, with perhaps initial mechanical removal of relatively shallow low-productivity overburden. The second stage would involve major, but
+monitored, mechanical removal of sediments between the Archaic and probable Paleoindian zones. At this point the dimensions of the excavation would be reduced to 10 x 10
+meters, creating a stair-step configuration which would reduce the complexity- and thus
+the cost- of shoring required to meet OSHA safety requirements. The third stage would
+involve hand excavation of the lowest culturally relevant zone at the 4.0-4.2 meter depth
+level.
+Should the city determine that the most feasible approach to construction of the
+wastewater line is to bore tunnel, and should this operation be of sufficient depth to pass
+under the archeologically significant deposits at the site, large scale mitigation would be
+unnecessary. f{owever, should the locations where access pits or manholes are to be dug
+be located in archeologically sensitive areas, as determinable from the data already
+recovered, archeological excavation at these loci, to the base of culturally relevant
+sediments, are recommended.
+Finally, if the line could be placed at less depth and the volume of disturbance be
+geometrically reduced, an appropriately-scaled archeological excavation would be
+recommended only to the depth of disturbance.
+Our recommendations are predicated on the two principles of (1) avoidance or (2)
+archeological treatment only in areas that are to be disturbed by construction if avoidance
+cannot be achieved. Once construction alternatives have been considered and the final
+plan for the installation of this line determined, specific archeological treatment based
+on these principles and the general recommendations above can be negotiated between
+representatives of the City of Austin and the Texas Antiquities Committee.
+
+REFERENCES CITED
+Adovasio, J., J. Gunn, J. Donahue, R. Stuckenrath, J.E. Guilday and K. Volman
+1980
+Yes, Virginia, It Really is that Old: A Reply to Haynes and Mead.
+American Antiquity 45:588-595.
+Barnes, V.E.
+1974
+
+Geologic Atlas of Texas: The Big Spring Sheet. Bureau of Economic
+Geology, The University of Texas at Austin, Austin.
+
+1975
+
+Geologic Atlas of Texas: The San Angelo Sheet. Bureau of Economic
+Geology, The University of Texas at Austin, Austin.
+
+1981a
+
+Geologic Atlas of Texas: The Austin Sheet. Bureau of Economic Geology,
+The University of Texas at Austin, Austin.
+
+1981b
+
+Geologic Atlas of Texas: The Llano Sheet. Bureau of Economic Geology,
+The University of Texas at Austin, Austin.
+
+1986
+
+Geologic Atlas of Texas: The Brownwood Sheet. Bureau of Economic
+Geology, The University of Texas at Austin, Austin.
+
+Birkeland, P.W.
+1984
+Soils and Geomorphology. Oxford University Press. New York.
+Black, S.L.
+1986
+
+The Clemente and Herminia Hinojosa Site, 41JW8: A Toyah Horizon
+Campsite in Southern Texas. Special Report 18, Center for Archaeological
+Research, The University of Texas at San Antonio.
+
+Black, S.L. and A.J. McGraw
+1985
+The Panther Springs Creek Site: Cultural Change and Continuity Within the
+Upper Slado Creek Watershed, South-Central Texas. Archaeological Survey
+Report 100, Center for Archaeological Research, The University of Texas
+at San Antonio.
+Blair, W.F.
+1950
+Blum, M.D.
+1989
+
+The Biotic Provinces of Texas. Texas Journal of Science 2( 1):93-117.
+Geoarchaeology and Quaternary Stratigraphy on the Concho and Upper
+Colorado Rivers, West Texas. Abstracts with Programs, Southcentral
+Section of the Geological Society of America 21:4.
+
+59
+
+60 I REFERENCES CITED
+
+Blum, M.D. and S. Valastro, Jr.
+1989
+Response of the Pedernales River of Central Texas to Late Holocene
+Climatic Change. Annals of the Association of American Geographers
+79(3):435-456.
+Bryant, V.M. and R.G. Holloway
+1985
+A Late-Quaternary Paleoenvironmental Record of Texas: An Overview
+of the Pollen Evidence. In Pollen Records of Late-Quaternary North
+American Sediments, edited by V.M. Bryant and R.G. Holloway, pp. 39-70.
+American Association of Stratigraphic Palynologists Foundation.
+Bryant, V.M. Jr. and H.J. Shafer
+1977
+The Late Quaternary Paleoenvironment of Texas: A Model for the
+Archeologist. Bulletin of the Texas Archeological Society 48: 1-25.
+Butzer, K.W
+1982
+Carr, J.T., Jr.
+1967
+Carter, G.
+1978
+
+Archaeology as Human Ecology: Method and Theory for Contextual
+Approach. Cambridge University Press. Cambridge.
+The Climate and Physiography of Texas. Texas Water Development Board
+Report 53.
+
+The American Paleolithic. In Early Man in America, edited by A. Bryan,
+pp. 10-19. Occasional Papers 1, Department of Anthropology, University
+of Alberta, Edmonton.
+
+Collins, M.B.
+Thoughts on Future Investigations of Burned Rock Middens. Paper
+1988
+presented to the Spring, 1988 meeting of the Council of Texas
+Archaeologists, Austin.
+Collins, M.B., G.L. Evans, T.N. Campbell, M.C. Winans, and C.E. Mear
+1989
+Clovis Occupation at Kincaid Shelter, Texas. Current Research in the
+Pleistocene 6:3-4.
+Dibble, D.S.
+1970
+
+On the Significance of Additional Radiocarbon Dates from Bonfire
+Shelter, Texas. Plains Anthropologist 15(50):251-254.
+
+Dibble, D.S. and D. Lorrain
+1968
+Bonfire Shelter: A Stratified Bison Ki.ll Site, Val Verde County, Texas.
+Miscellaneous Papers of the Texas Memorial Museum 1, The University
+of Texas at Austin.
+
+REFERENCES CITED I 61
+
+Dillehay, T.D.
+1974
+Late Quaternary Bison Population Changes on the Southern Plains. Plains
+Anthropologist 19:180-196.
+Dillehay, T.D. and M.B. Collins
+1988
+Early Cultural Evidence from Monte Verde in Chile. Nature 332:150-152.
+Espey, Huston and Associates, Inc. (EHA)
+1988
+A Mechanically Augmented Archaeological Survey of the South Austin
+Outfall, Phase II Travis County, Texas. EHA Document 880195, Espey,
+Huston and Associates, Inc., Austin.
+Ferring, C.R.
+1986
+Folk, R.L.
+1980
+
+Rates of Fluvial Sedimentation: Implications for Archaeological
+Variability. Geoarchaeology 1:259-274.
+
+Petrology of Sedimentary Rocks, 2nd edition. Hemphill Press, Austin.
+
+Gifford, J .A. and G. Rapp
+1985
+History, Philosophy, and Perspectives. InArchaeological Geology, edited
+by G. Rapp and J.A. Gifford, pp. 1-24. Yale University Press. New Haven,
+Connecticut.
+Gladfelter, B.G.
+1981
+Developments and Directions in Geoarchaeology. In Advances in
+Archaeological Method and Theory, edited by M.B. Schiffer, 4:343-364.
+Academic Press. New York.
+Haas, H., V.T. Holliday, and R. Stuckenrath
+1986
+Dating of Holocene Stratigraphy with Soluble and Insoluble Organic
+Fractions at the Lubbock Lake Archaeological Site: An Ideal Case Study.
+Radiocarbon 28:473-485.
+Hall, G.D., S.L. Black and C. Graves.
+1982
+Archaeological Investigations at Choke Canyon Reservoir, South Texas:
+Phase I Findings. Choke Canyon Series 5, Center for Archaeological
+Research, The University of Texas at San Antonio.
+Hall, S.A.
+1988
+1990
+
+Environment and Archaeology of the Central Osage Plains. Plains
+Anthropologist 33:203-218.
+Channel Trenching and Climatic Change in the Southern U.S. Great
+Plains. Geology 18:342-345.
+
+62 I REFERENCES CITED
+
+Haury, E.W.
+1953
+
+Hester, J.J.
+1972
+
+Hester, T.R.
+1970
+
+Artifacts with Mammoth Remains, Naco Arizona: 1. Discovery of the
+Naco Mammoth and Associated Projectile Points. American Antiquity
+19:1-14.
+Blackwater Locality No. 1: A Stratified Early Man Site in Eastern New
+Mexico. Publications of the Fort Burgwin Research Center 8, Taos, New
+Mexico.
+
+Burned Rock Middens on the Southwestern Edge of the Edwards Plateau,
+Texas. Plains Anthropologist 15:237-250.
+
+1971
+
+Archeological Investigations at the La Jita Site, Uvalde County, Texas.
+Bulletin of the Texas Archeological Society 41 :51-148.
+
+1978
+
+Early Human Occupations in South Central and Southwestern Texas:
+Preliminary Papers on the Baker Cave and St. Mary's Hall Sites. Center for
+Archaeological Research, University of Texas at San Antonio.
+
+1980
+
+Digging into South Texas Prehistory. Corona Publishing Co., San Antonio.
+
+1983
+
+Late Paleo-Indian Occupations at Baker Cave, Southwestern Texas.
+Bulletin of the Texas Archeological Society 53: 101-119.
+
+Hester, T.R. and R. Parker
+1970
+The Berclair Site: A Late Prehistoric Component in Goliad County,
+Southern Texas. Bulletin of the Texas Archeological Society 41:1-24.
+Holliday, V.T.
+Middle Holocene Drought on the Southern High Plains. Quaternary
+1989
+Research 31:74-82.
+Jelks, E.B.
+1978
+
+Diablo Range. In Chronologies in New World Archeology, edited by R.E.
+Taylor and C.W. Meighan, pp. 71-111. Academic Press, New York.
+
+Johnson, E. (editor)
+Lubbock Lake: Late Quaternary Studies on the Southern High Plains. Texas
+1987
+A&M University Press, College Station.
+Johnson, E. and V.T. Holliday
+1984
+Comments on "Large Springs and Early American Indians" by Joel L.
+Shiner. Plains Anthropologist 29:65-70.
+
+REFERENCES CITED I 63
+
+Johnson, L., Jr.
+1967
+Toward a Statistical Overview of the Archaic Cultures of Central and
+Southwestern Texas. Bulletin of the Texas Memorial Museum 12, The
+University of Texas, Austin.
+1987
+
+A Plague of Phases: Recent Sociocultural Taxonomy in Texas Archeology.
+Bulletin of the Texas Archeological Society 57: 1-26.
+
+1989
+
+Great Plains Interlopers in the Eastern Woodlands During Late Paleo-Indian
+Times: The Evidence from Oklahoma, Texas andAreas Close By. Office of
+the State Archeologist Report 36, Texas Historical Commission, Austin.
+
+Johnson, L., Jr., D.A. Suhm and C.D. Tunnell
+1962
+Salvage Archeology of Canyon Reservoir: The Wunderlich, Footbridge and
+Oblate Sites. Bulletin of the Texas Memorial Museum 5, The University
+of Texas, Austin.
+Kelley, J.C.
+1947a
+1947b
+
+The Cultural Affiliations and Chronological Composition of the Clear
+Fork Focus. American Antiquity 13(2):97-108.
+The Lehman Rock Shelter: A Stratified Site of the Toyah, Uvalde and
+Round Rock Foci. Bulletin of the Texas Paleontological and Archeologi,cal
+Society 18: 115-128.
+
+Leonhardy, F.C. (editor)
+1966
+Domebo: A Paleoindian Mammoth Kill in the Prairie Plains. Contribution
+1, Museum of the Great Plains, Lawton, Oklahoma.
+Matthews, J .A.
+1985
+Radiocarbon Dating of Surface and Buried Soils: Principles, Problems,
+and Prospects. In Geomorphology and Soils, edited by K.S. Richards, R.R.
+Arnett, and S. Ellis, pp. 269-288. Allen and Unwin. London.
+Meltzer, D.J.
+The Archaeology and Paleoecology of Mustang Springs (41MT2),
+1986
+Southern Llano Estacado. Paper presented at the 57th Annual Meeting of
+the Texas Archeological Society, Laredo, Texas.
+1987
+
+The Clovis Paleoindian Occupation of Texas: Results of the Texas Clovis
+Fluted Point Survey. Bulletin of the Texas Archeological Society 57:27-68.
+
+1989
+
+Why Don't We Known When the First People Came to North America?
+American Antiquity 54:471-490.
+
+64 I REFERENCES CITED
+
+Patterson, L. W.
+1989
+Early Notched Projectile Points in Texas. Current Research in the
+Pleistocene 6:34-36.
+Prewitt, E.R.
+1981
+1985
+
+Cultural Chronology in Central Texas. Bulletin of the Texas Archeological
+Society 52:65-89.
+From Circleville to Toyah: Comments on Central Texas Chronology.
+Bulletin of the Texas Archeological Society 54:201-238.
+
+Ritchie, W.A.
+The Lamoka Lake Site. Researches and Transactions 7, New York State
+1932
+Archeological Association.
+Ricklis, R.A.
+1989
+
+Some Preliminary Observations on a Late Prehistoric Bison Processing
+Site (41RF21) on the Central Part of the Texas Coastal Plain. Texas
+Archeology 33 (2): 12-13.
+
+Rodda, P.U., L.E. Garner, and G.L. Dawe
+1970
+Geologic Quadrangle Map 38: Austin West, Travis County, Texas. Bureau
+of Economic Geology, University of Texas Austin, Austin.
+Scharpenspeel, H. W.
+1971
+Radiocarbon Dating of Soils - Problems, Troubles, and Hopes. In
+Paleopedology-Origin, Nature, and Dating of Paleosols, edited by D.H.
+Yaalon, pp. 77-78. Israel University Press. Jerusalem.
+Shiner, J.L.
+1983
+
+Large Springs and Early American Indians. Plains Anthropologist 28:1-7.
+
+Sollberger, J.B. and T.R. Hester
+1972
+The Strohaker Site: A Review of Pre-Archaic Manifestations in Texas.
+Plains Anthropologist 17(58):327-344.
+Sorrow, W.M., H.J. Shafer, and R.E. Ross
+1967
+Excavations at Stillhouse Hollow Reservoir. Papers of the Texas
+Archeological Salvage Project 11, The University of Texas, Austin.
+Stein, J .K. and W.R. Farrand
+1985
+Context and Geoarchaeology: An Introduction. In Archaeological
+Sediments in Context, edited by J .K. Stein and W.R. Farrand, pp. 1-4.
+Center for the Study of Early Man, University of Maine at Orono.
+
+REFERENCES CITED I 65
+
+Story, D.A.
+1985
+
+Suhm,D.A.
+1957
+
+Adaptive Strategies of Archaic Cultures of the West Gulf Coast Plain. In
+Prehistoric Food Production in North America, edited by R.I. Ford, pp.
+19-56. Anthropological Paper 75, Museum of Anthropology, University
+of Michigan. Ann Arbor, Michigan.
+Excavations at Smith Rockshelter, Travis County, Texas. Texas Journal of
+Science 9(1):26-58.
+
+Suhm, D.A. and E.B. Jelks
+Handbook of Texas Archeology: zype Descriptions. Texas Archeological
+1962
+Society Special Publication 1 and Texas Memorial Museum Bulletin 4.
+Suhm, D.A., A.D. Krieger, E.B. Jelks
+1954
+An Introductory Handbook of Texas Archeology. Bulletin of the Texas
+Archeological Society 25.
+Tovar, F.E. and B.N. Maldonado
+1981
+Drainage Areas of Texas Streams: The Colorado River Basin. Report
+LP-145, Texas Department of Water Resources, Austin, Texas.
+Turner, E.S. and T.R. Hester
+1985
+A Field Guide to Stone Artifacts of the Texas Indians. Texas Monthly Press,
+Austin.
+Weir, F.A.
+1976
+1979
+Weniger, D.
+1984
+
+The Central Texas Archaic.
+University, Pullman.
+
+Ph.D. dissertation, Washington State
+
+Greenhaw: An Archaic Site in Central Texas. Bulletin of the Texas
+Archeological Society 50:5-68.
+The Ex.plorers' Texas: The Lands and Waters. Eakin Press, Austin.
+
+White, S.E. and S. Valastro, Jr.
+1984
+Pleistocene Glaciation of Volcano Ajusco, Central Mexico, and
+Comparison with the Standard Mexican Glacial Sequence. Quaternary
+Research 21:21-35.
+Willey. G.R. and P. Phillips.
+1958
+Method and Theory in American Archaeology. University of Chicago Press,
+Chicago.
+
+66 I REFERENCES CITED
+
+Wormington, H.M.
+Ancient Man in North America. Popular Series 4, Denver Museum of
+1957
+Natural History, Denver.
+
+APPENDIX 1
+
+TABLE2
+DEPTHS, IN CENTIMETERS, OF LEVELS IN MACHINE-EXCAVATED TRENCHES
+(Measured from ground surface at center of trench)
+Level
+
+1
+
+2
+
+3
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+35
+65
+105
+150
+185
+220
+255
+295
+330
+370
+
+35
+65
+110
+150
+185
+210
+250
+280
+315
+380
+
+40
+60
+80
+120
+170
+210
+250
+280
+320
+360
+400
+445
+470
+520
+590
+
+13
+
+14
+15
+16
+17
+
+Trench
+4
+45
+70
+100
+140
+170
+215
+270
+315
+360
+390
+430
+540
+630
+
+67
+
+5
+
+6
+
+7
+
+50
+90
+115
+140
+170
+190
+210
+250
+300
+340
+370
+420
+470
+530
+570
+610
+650
+
+45
+70
+100
+140
+170
+200
+230
+260
+310
+350
+410
+450
+510
+570
+630
+
+40
+75
+110
+140
+180
+205
+250
+290
+330
+370
+410
+470
+540
+620
+630
+
+Page intentionally left blank.
+
+APPENDIX 2
+
+TABLE3
+FINDINGS BY TRENCH LEVEL, FROM 41TV1364
+
+Trench
+1
+
+Level
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+2
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+Debitage
+
+Cores
+
+Other
+Lithics
+
+Burned
+Rock
+
+Mussel Shell
+Fragments
+
+1
+1
+1
+1
+
+x
+x
+x
+
+3
+30
+
+x
+
+x
+
+5
+
+x
+x
+x
+x
+
+4
+5
+15
+17
+4
+2
+
+Clovis preform
+
+x
+x
+
+10
+
+1
+2
+3
+4
+5
+6
+7
+
+7
+1
+8
+21
+25
+13
+3
+
+8
+9
+
+3
+
+1
+1 Marcos point
+1 Uvalde point
+1 biface fragment
+
+10
+
+11
+12
+13
+14
+15
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+10
+
+11
+3
+
+Land
+Snails
+
+5
+4
+1
+
+1 uniface
+
+69
+
+x
+x
+x
+x
+x
+x
+x
+
+x
+x
+x
+x
+x
+x
+x
+
+x
+x
+
+x
+x
+x
+
+x
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+70 I APPENDIX 2
+
+TABLE 3 continued
+
+Trench
+
+Level
+
+4
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+12
+
+Debitage
+
+Cores
+
+Other
+Lithics
+
+Burned
+Rock
+
+Mussel Shell
+Fragments
+
+x
+x
+
+x
+x
+x
+x
+
+7
+14
+8
+4
+1
+1
+
+x
+x
+x
+x
+
+1
+1
+
+x
+
+13
+
+5
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+x
+x
+x
+x
+
+6
+4
+9
+17
+5
+4
+2
+
+x
+x
+
+x
+x
+
+2
+
+11
+
+12
+13
+
+14
+15.
+16
+17
+6
+
+5
+1
+1
+1
+1(?)
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+x
+
+2
+
+x
+
+1
+
+x
+x
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+1
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+12
+13
+14
+15
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+x
+
+1
+
+11
+
+Land
+Snails
+
+1 Montell point
+(near trench)
+
+x
+3
+3
+15
+1
+1
+
+x
+x
+
+x
+x
+x
+
+APPENDIX 2 I 71
+
+TABLE 3 continued
+
+Trench
+7
+
+Level
+
+Debitage
+
+Cores
+
+Other
+Lithics
+
+Burned
+Rock
+
+Mussel Shell
+Fragments
+
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+1
+2
+3
+4
+5
+
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+8
+
+x=present
+
+1
+
+1
+2
+3
+4
+5
+6
+7
+
+64
+199
+526
+494
+383
+560
+928
+
+8
+9
+
+651
+154
+
+10
+11
+12
+
+49
+3
+
+Land
+Snails
+
+4
+15
+
+x
+x
+x
+x
+x
+x
+x
+
+13
+2
+
+x
+x
+
+1
+1
+1
+
+3
+
+1 Clear Fork tool
+2 biface fragments
+1 drill fragment
+1 biface
+2 Uvalde points
+1 Plainview point
+3 biface fragments
+1 uniface
+
+2
+
+5
+
+17
+26
+10
+14
+9
+
+12
+1 biface fragment
+1 "spokeshave"
+
+1
+1
+1
+
+2
+
+x
+x
+
+

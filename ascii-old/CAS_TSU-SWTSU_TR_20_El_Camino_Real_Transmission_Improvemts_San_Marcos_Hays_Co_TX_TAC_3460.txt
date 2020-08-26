@@ -1,0 +1,1262 @@
+El Camino Real
+Transmission Improvements Project,
+San Marcos, Hays County, Texas
+by
+
+Eric Oksanen and Carole Leezer
+
+Principal Investigators
+C. Britt Bousman
+and David L. Nickels
+
+Texas Antiquities Permit No. 3460
+
+CENTER FOR ARCHAEOLOGICAL STUDIES
+Texas State University-San Marcos
+Technical Report No. 20
+2005
+
+The following information is provided in accordance with the General Rules of Practice and Procedure, Title 13,
+Chapter 26, Texas Administrative Code:
+1. Type of investigation: Intensive pedestrian survey with shovel testing.
+2. Project name: El Camion Real Transmission Improvements Project, San Marcos, Hays County, Texas
+3. County: Hays
+4. Principle Investigators: C. Britt Bousman and David L. Nickels
+5. Name and location of sponsoring agency: Carter and Burgess, Inc., Austin, Texas
+6. Texas Antiquities Permit No. 3460
+7. Published by the Center for Archaeological Studies, Texas State University-San Marcos,
+601 University Drive, San Marcos, Texas 78666 (2005)
+
+Texas State University-San Marcos is a member of the Texas State University System
+Copyright © 2005 by Center for Archaeological Studies at Texas State University-San Marcos
+All rights reserved.
+No part of this book may be reproduced or utilized in any form or by any means,
+electronic or mechanical, including photocopying, recording
+or by any information storage and retrieval system
+without permission in writing.
+For further information on this and other publications by
+the Center for Archaeological Studies, please contact:
+CENTER FOR ARCHAEOLOGICAL STUDIES
+Texas State University-San Marcos
+601 University Drive
+San Marcos, Texas 78666
+www.txstate.edu/anthropology/cas/
+
+Editors: Carole Leezer and Jessica Hurley
+
+Cover photography: Eric Oksanen
+
+ii
+
+Abstract
+In July 2004, Carter and Burgess Inc. contracted with the Center for Archaeological Studies
+(CAS) of Texas State University-San Marcos to conduct an archaeological site assessment via a
+pedestrian survey, and limited shovel testing along a proposed transmission improvement right-of-way for
+the City of San Marcos. CAS conducted the fieldwork in August 2004, under Texas Antiquities Permit No.
+3460, issued by the Texas Historical Commission-Department of Antiquities Protection (THC-DAP). A
+total of one core and three exterior chert flakes were collected from the surface. Collected artifacts,
+documents and photographs related to this project are curated at CAS. One new prehistoric site, 41HY389,
+was documented. Site 41HY389 lacked both significance and integrity, and thus was not recommended
+for further testing or nomination to the National Register of Historic Places (NRHP).
+
+iii
+
+iv
+
+Contents
+Abstract...............................................................................................................................................iii
+Contents...............................................................................................................................................v
+List of Figures.....................................................................................................................................vii
+List of Tables......................................................................................................................................iix
+Introduction...........................................................................................................................................1
+Background...........................................................................................................................................2
+Goals and Methods................................................................................................................................8
+Results..................................................................................................................................................8
+Summary..............................................................................................................................................12
+References Cited................................................................................................................................15
+
+v
+
+vi
+
+List of Figures
+1
+
+Project Location.......................................................................................................................1
+
+2.
+
+El Camino Real Transmission Improvements Project Map...........................................................2
+
+3.
+
+Physiographic regions of Texas..................................................................................................3
+
+4.
+
+Location of Shovel Tests ............................................................................................................9
+
+5.
+
+Map of site 41HY389 ..............................................................................................................10
+
+6.
+
+Upland intermittent drainage that pipeline crosses.......................................................................10
+
+7.
+
+Site 41HY389 looking southeast toward site datum and ST2........................................................11
+
+8.
+
+Bifacial core from site 41HY389..............................................................................................12
+
+vii
+
+viii
+
+List of Tables
+1
+
+Cutlural Time Periods of Central Texas.......................................................................................4
+
+ix
+
+x
+
+Acknowledgements
+The Center for Archaeological Studies would like to thank Kathy Pontesso, P.E. of Carter Burgess
+and James Klein, Engineering Department, City of San Marcos, for the opportunity to perform the survey.
+The authors would also like to thank Melissa Lehman for participating in her final project at CAS, and Dave
+Nickels for rearranging his schedule to facilitate the fieldwork. The final report was completed with the
+constructive comments of Dr. Britt Bousman, the graphics of Matt Melancon and the editing of Carole
+Leezer and Jessica Hurley
+
+xi
+
+xii
+
+stalled adjacent to 16,100 linear feet (4, 900 meters)
+of the previously surveyed Guadalupe Blanco River
+Authority (GBRA) raw-water line and within its
+easement as indicated in Figure 2. This archaeo­
+logical survey investigated approximately 8,500
+linear feet (2590 meters) of new, unsurveyed ease­
+ment as indicated in Figure 2. This new easement
+is 30 feet wide (9 meters) with an additional 40 foot
+wide (12 meters) construction easement. The con­
+struction easement will be used for material stor­
+age and transportation. All impacts will be con­
+fined to its surface. Subsurface impacts will be
+confined within the 30 foot (9 meters) wide instal­
+lation easement, and limited to the trenching for the
+pipeline to an estimated depth of 84 inches (213.36
+
+Introduction
+The Center for Archaeological Studies (CAS),
+Texas State University-San Marcos, was contracted
+by Carter and Burgess Inc. to conduct archaeologi­
+cal investigations along the proposed El Camino
+Real Transmission Improvements Project right-of­
+way. In an effort to increase water capacity in
+southern Hays County, the City of San Marcos
+requires the installation of a new treated-water
+pipeline. The 24-30 inch diameter pipeline origi­
+nates at the City of San Marcos water treatment
+plant and terminates at State Highway 123 for a
+total length of approximately 24,660 linear feet
+(7500 meters). The proposed pipeline will be in­
+
+35
+
+N
+
+SAN
+MARCOS
+
+PROJECT
+AREA
+
+0
+
+1
+
+CAS/05
+
+2
+
+3
+
+4
+
+kilometers
+
+Figure 1. Project location
+
+1
+
+Ñ
+
+N
+
+0
+
+340 680
+
+1,360
+
+new easement / surveyed in current project
+previously surveyed GBRA easement
+
+Meters
+
+Figure 2. El Camino Real Transmission Improvements Project Map
+
+cm). In addition to the pipeline excavation, geo­
+logical coring, which is necessary to assess the
+substrate depths for directional drilling, has been
+proposed in the vicinity of neighboring site,
+41CW51. Any core samples collected from this
+drilling should be saved to be examined by a
+geoarchaeologist.
+
+with low hills and alluvial ridges. It is bounded by
+the San Antonio River to the south, the Red River
+to the north, the Balcones Escarpment to the west,
+and the Coastal Plains or Oak-Hickory Woodlands
+to the east (Figure 3).
+Listed in descending order of area encountered
+within project easement, project soils consist of
+Houston Black (HoB), Branyon (ByA), and Heiden
+(HeD3 and HeC3) series (Batte 1984). All of these
+soils exhibit a high susceptibility towards vertical
+cracking, with surface crack widths of four inches
+(10.24 cm) and depths greater than 24 inches
+(60.96 cm). Cracks to depths of 60 inches (152.40
+cm) and more into the C horizon have been ob­
+served in Branyon clay. All of the soils formed in
+calcareous soils or in some instances from Pleis­
+
+Background
+Project Environment
+The El Camino Real Transmission Improve­
+ments Project is located within the physiographic
+region known as the Blackland Prairies. This re­
+gion is a narrow feature of rolling plains accented
+
+2
+
+Figure 3. Physiographic regions of Texas (after TPWD)
+
+tocene alluvial terrace deposits. The vertisols and
+shrink swell cycles increase the probability of
+displacing artifacts from their original positions,
+therefore decreasing the likelihood of encounter­
+ing shallow buried intact cultural deposits.
+
+within the low flat woodlands along streams lo­
+cated within the Blackland Prairie. A dramatic
+increase in invader flora species (e.g., mesquite,
+buffalo grass) has occurred since the mid-nine­
+teenth century due to human land modifications,
+ranching, and grazing activities (Ellis et al. 1995).
+
+Flora
+Fauna
+
+The deep soil deposits of the Blackland Prairie
+support several tall to mid grasses, such as little
+bluestem (Schizachyrium scoparium), big bluestem
+((Andropogon gerardii), Indian grass (Sorghastrum
+nutans), tall dropseed (Sporobolus asper), eastern
+grama grass (Tripsacum dactyloides), and switch
+grass (Panicum virgatum), the natural vegetative
+species for this environment (Ellis et al. 1995;
+Grasslands 2003). In addition, mesquite (Prosopis
+glandulosa), pecan (Carya illinoinensis), hack­
+berry (Celtis laevigata), juniper (Juniperus ashei),
+and live oak (Quercus virginiana) are observed
+
+The project area is located within the Texan
+biotic province as defined by Blair (1950). The
+Texan province contains 49 species of mammals,
+16 species of lizards, 39 species of snakes, 23
+species of amphibians, and two species of land
+turtle (Blair 1950). Typical fauna associated with
+this region include: white-tailed deer (Odocoileus
+virginianus), badger (Taxidea taxus), eastern cot­
+tontail (Sylvilagus floridanus), raccoon (Procyon
+lotor), and opossum (Didelphus virginiana). In
+prehistoric times, large numbers of bison (Bison
+3
+
+bison) were commonly observed within the Black­
+land Prairie environment (McDonald 1981). Two
+threatened and seven endangered species are known
+to inhabit the spring-fed waters of the San Marcos
+River (located 1.53km northeast of the project
+area). The San Marcos salamander (Eurycea nana)
+and Texas blind salamander (Eurycea rathbuni)
+are federally listed as ‘threatened.’ According to
+Brandon (2001:1), the seven federally ‘endan­
+gered’ species include: the black-capped vireo
+(Vireo atricapillus), golden-cheeked warbler
+(Dendroica chrysoparia), whooping crane (Grus
+americana), fountain darter (Etheostoma fonticola),
+San Marcos gambusia (Gambusia georgei), Comal
+Springs riffle beetle (Heterelmis comalensis), and
+Texas wild rice (Zizania texana).
+
+Table 1.Cultural time periods of Central Texas.
+Years
+B. P.
+
+Geologic
+Epoch
+
+0
+
+Central Texas
+Period
+
+Style Intervals
+
+Historic
+Late Prehistoric
+260 -1200
+
+Guerrero,
+Perdiz,
+Scallorn,
+
+1000
+
+2000
+
+(Collins 1995)
+
+Edwards
+
+Late
+Holocene
+Late Archaic
+1200 -1400
+
+3000
+
+Darl, Ensor,
+Frio, Fairland,
+Marcos,
+Montell,
+Castroville,
+Lange, Marshall,
+Williams,
+Pedernales,
+Kinney,
+Bulverde
+
+4000
+
+Climate
+
+Nolan, Travis,
+
+The project area lies in the southern portion of
+the humid subtropical Blackland Prairie. The an­
+nual mean temperature for this region is 67 °F. Hot
+summers (averaging 84°F) and warm winters (av­
+eraging 52°F) characterize this climate (Batte
+1984:3). Precipitation averages 33.46 inches with
+the majority of rainfall occurring between late
+spring and early fall (Batte 1984:3, 95).
+
+Middle Archaic
+4000 - 6000
+
+5000
+
+6000
+
+Taylor,
+Bell-Andice ­
+Calf Creek
+
+Middle
+Holocene
+
+Martindale,
+
+7000
+
+Early Archaic
+6000 - 8800
+
+Uvalde,
+Early Split Stem,
+Angostura
+
+Cultural Background
+8000
+
+The project area is located within the area of
+Texas known as the Central Texas Archaeological
+Region (Prewitt 1981). This distinct cultural re­
+gion encompasses “the eastern half of the Edwards
+Plateau, the Llano Uplift, most of the Lampasas
+Cut Plains, the Comanche Plateau, the southern
+end of the Grand Prairie, and the Blackland Prairies
+bordering the Balcones Escarpment from near Waco
+to near Uvalde” (Prewitt 1981:71). Several schol­
+ars have offered sound but differing arguments
+regarding the prehistoric cultural chronology of
+Central Texas (see Weir 1976; Jelks 1978; Prewitt
+
+9000
+
+Early
+Holocene
+
+St. Mary's Hall,
+Golondrina,
+Barber,
+Wilson,
+
+10,000
+
+Paleoindian
+8800 -11,500
+
+(Dalton, San Patrice)
+(Plainview?)
+Folsom,
+
+Pleistocene
+
+11,000
+
+4
+
+Clovis
+
+Early Archaic
+
+1981, 1985; Johnson and Goode 1994; Collins
+1995; Black 1989b, 1995). The cultural chronol­
+ogy of Central Texas can be roughly divided into
+three periods: Prehistoric, Protohistoric and His­
+toric. Descriptions of these divisions follow. The
+cultural background presented in this report is
+primarily based on the chronological interpreta­
+tions of Collins (1995) and Johnson and Goode
+(1994) (see Table 1). All dates are approximate and
+given as radiocarbon years before present (B.P.)
+(i.e., before the development of radiocarbon dating
+in 1950).
+
+The Early Archaic period in Central Texas
+occurred between 8800-6000 B.P. (Collins 1995).
+The hunting patterns that formed during the Late
+Paleoindian continued into the Early Archaic.
+However, hunter-gatherers during this period modi­
+fied their existing subsistence strategy, becoming
+more holistic by exploiting a wider array of food
+resources such as prickly pear, rodents and rabbits
+(Story 1985:38-39, Weir 1976). Early Triangular,
+Martindale, and Andice are some of the projectile
+points commonly associated with this period (Black
+1995).
+
+Prehistoric
+Three major intervals or periods are identified
+in the Prehistoric Stage: 1) Paleoindian, 2) Ar­
+chaic, and 3) the Late Prehistoric.
+
+Middle Archaic
+Collins (1995) dates the Middle Archaic in
+Central Texas between 6000-4000 B.P. During the
+Middle Archaic period, severe and prolonged
+altithermal (warm and dry) climatic conditions
+were predominant. The severe altithermal condi­
+tions resulted in several important social and sub­
+sistence adaptations. The altithermal caused the
+numerous bison populations, commonly observed
+in this region during the early stages of the Early
+Archaic, to migrate out of Texas into the more
+mesic climate in the northern Great Plains. With
+the total loss of bison and severe xeric conditions
+throughout Texas, native populations migrated
+into Central Texas where resource-rich environ­
+ments were fed by natural springs arising from the
+Balcones Escarpment fault zone. This increase in
+population density in Central Texas is reflected by
+an increase in the number and size of campsites and
+burned rock middens (Weir 1976).
+
+Paleoindian
+According to Collins (1995:381-383) the
+Paleoindian period, which is divided into early and
+late periods, occurred between 11,500-8800 B.P.
+in Central Texas. The Paleoindian period was
+generally characterized by a wetter and cooler
+climate, which occurred after the decline of the
+Wisconsin glaciation event. The native inhabitants
+during the Early Paleoindian period are thought to
+have been nomadic hunter and gatherers subsisting
+mainly on megafauna hunting (Willey 1966:37).
+The Late Paleoindian period is characterized by a
+shift in native subsistence strategy away from
+megafuana hunting towards other large herbivores
+such as deer (Odocoileus virginianus) (Collins
+1995:382).
+
+Archaic
+
+Late Archaic
+
+According to Collins (1995) the Archaic pe­
+riod in Central Texas occurred between 8800-1200
+or 1300 B.P. The Archaic period is divided into
+three subperiods: Early, Middle, and Late Archaic
+(Collins 1995).
+
+Collins (1995) dates the Late Archaic in Cen­
+tral Texas between 4000-1200 or 1300 B.P. Dur­
+ing the Late Archaic, the severe altithermal ob­
+served during the Middle Archaic diminished and
+more mesic conditions prevailed (Collins 1995).
+
+5
+
+The return of mesic conditions in Central Texas
+also brought about the return of the large bison
+populations. The return of large bison herds brought
+about a substantial change in population density
+and subsistence strategies employed by the native
+inhabitants in Central Texas at this time. The
+mobile hunting and gathering subsistence strategy
+associated with bison-focused hunting replaced
+the sedentary and holistic food processing lifeways
+adopted during the Middle Archaic. Prewitt
+(1981:80-81) suggests that this change in subsis­
+tence strategies was reflected by a decrease in the
+accumulation of burned rock middens during this
+period. However, recent investigations conducted
+on burned rock middens in north Central Texas
+revealed that the accumulation of burned rock
+middens actually increased during the Late Ar­
+chaic and Late Prehistoric (Black et al.1997;
+Mauldin et al.2002). Unlike Prewitt (1981) and
+Weir (1976), who heavily relied on diagnostic
+artifacts (e.g., projectile point) to date middens, the
+data generated by Black et al. (1997) and Mauldin
+et al. (2002) were based primarily on the radiocar­
+bon dating of preserved charcoal. According to
+Bousman (personal communication), the presence
+of Middle Archaic diagnostic artifacts in many
+middens located throughout Central Texas could
+actually be the result of Late Archaic/Late Prehis­
+toric burned rock middens construction on top of
+earlier Middle Archaic occupations. Thus, the find­
+ings generated by Black et al. (1997) and Mauldin
+et al. (2002) seriously challenge the long-standing
+belief that the majority of burned rock middens in
+Central Texas originated during the Middle Ar­
+chaic while decreasing in frequency during the
+Late Archaic and Late Prehistoric.
+
+Texas is marked by the development of the bow
+and arrow along with the introduction of pottery
+(Black 1989c:32, Story 1985:45-47). The Late
+Prehistoric is divided into two phases: the Austin
+Phase (ca. 1250 B.P. – 800 B.P.) and the Toyah
+Phase (ca. 800 B.P. – 260 B.P.).
+
+Austin Phase
+The Austin Phase was a time period of popu­
+lation decline (Black 1989c:32). Early expanding
+stem projectile points (e.g., Scallorn) are common
+during this time period. Even though small burned
+rock middens associated with Edwards and Scallorn
+points have been found (Goode 1991:71; Houk and
+Lohse 1993:193-248), they are rare.
+
+Toyah Phase
+In Central Texas, the Toyah Phase is marked
+by a shift from expanding stem projectile points
+(e.g., Scallorn) to contracting stem points ([e.g.,
+Perdiz] [Black 1989a:32; Huebner 1991:346]). In
+addition, this phase is characterized by the intro­
+duction of bladelet technology and the first appear­
+ance of bone-tempered pottery in Central Texas.
+
+Protohistoric
+The Protohistoric period spans the time be­
+tween the earliest European contact and permanent
+European settlements. During the 1500s, three
+historically significant Spanish entradas reached
+Texas. The first was Cabeza de Vaca’s shipwreck
+on the Texas coast near Galveston Island in 1528
+(Covey 1961). It was followed by the Coronado
+and Desoto expeditions reaching the Southern High
+Plains and East Texas in the 1540s (Winship 1896;
+Swanton 1985). Although this marks the begin­
+ning of the Protohistoric period in Central Texas,
+the region was not to be visited again for over 100
+years.
+
+Late Prehistoric
+The Late Prehistoric in Central Texas occurred
+between 1250-260 B.P. (Collins 1995). The shift
+from the Archaic to the Late Prehistoric in Central
+
+Spanish entradas began to travel regularly
+
+6
+
+through Central Texas with the establishment of
+Spanish missions in East Texas during the late
+1600s. Alonso de León’s expedition of 1680 led to
+the establishment of the Camino Real (King’s
+Road) from Villa Santiago de la Monclova in
+Mexico to East Texas. This roadway followed
+established Native American trade routes and trails
+(Old San Antonio Road 2005). These expeditions
+provide the first detailed, written observations on
+the Native American inhabitants and the landscape
+of the San Marcos area.
+
+in close proximity to where the historic Camino de
+los Tejas or Camino de Arriba crossed the San
+Marcos River (McCulloch and Voellinger 1996;
+San Marcos de Neve 2005).
+
+Historic
+
+In 1808, one of the last attempts made by the
+Spanish Empire at colonization in Texas occurred
+when Felipe Roque de la Portilla established the
+town of San Marcos de Neve where the Camino de
+Arriba crossed the San Marcos River (Horrell
+1999). Due to repeated Indian raids and persistent
+flooding, San Marcos de Neve was abandoned in
+1812 (San Marcos de Neve 2005; Horrell 1999). In
+1820, eight years following the abandonment of
+San Marcos de Neve, it appears that all elements of
+the settlement had been destroyed. When the
+French naturalist Jean Louis Berlandier traveled in
+proximity to the proposed location of San Marcos
+de Neve in 1820 he stated, “…not even a trace can
+be found now (Berlandier 1980 (2):341). Based on
+this data, it appears that San Marcos de Neve was
+destroyed (by possible flooding events) sometime
+between 1812-1820. In 1995, Texas Historical
+Commission (THC) archaeologists recorded a site
+(41HY273) along the Camino de Arriba that con­
+tained numerous nineteenth century Spanish Colo­
+nial artifacts (e.g., majolica ceramics) on the sur­
+face. After further research, THC determined
+41HY273 to be the actual location of San Marcos
+de Neve.
+
+Within San Marcos, the Historic period is
+generally thought to have begun in A.D. 1755
+when the two San Xavier missions and presidio
+were established on the banks of the San Marcos
+River. These two missions and presidio were op­
+erational within San Marcos for only two years
+before being relocated to San Antonio in A.D.
+1756 (San Francisco Xavier de Horcasitas Mission
+2005). To date, the exact location of the two
+missions and presidio remain unknown. However,
+it is generally assumed that they would have been
+
+In 1845, William W. Moon became the first
+Anglo pioneer to settle within San Marcos follow­
+ing the abandonment of San Marcos de Neve in
+1812. The population of San Marcos soon esca­
+lated in the years following Moon's arrival. Gen­
+eral Edward Burleson, distinguished soldier of the
+Texas Revolution and Indian fighter, was one of
+the more notable early pioneers to settle within San
+Marcos. In 1848, Burleson constructed a cabin on
+an elevated hill located adjacent to the San Marcos
+
+Written records show that various native groups
+camped near San Marcos Springs during the
+Protohistoric period in the seventeenth and eigh­
+teenth centuries, though little is known about these
+groups. Some of these groups probably lived per­
+manently at or near the springs, while others were
+on bison hunting trips to the Blackland Prairie and
+their villages were in South and West Texas
+(Newcomb 1993; Johnson and Campbell 1992;
+Foster 1995:265-289). Later, groups migrating
+south, such as the Tonkawa from Oklahoma, the
+Lipan Apache, and the Comanche from the Plains,
+moved into the region, and replaced the former
+groups through attrition from warfare, diseases,
+and settlement at missions (Dunn 1911; Campbell
+and Campbell 1985; Newcombe 1961, 1993).
+
+7
+
+Springs. General Burleson was responsible for
+getting a bill through the legislature in 1848 that
+officially established San Marcos and Hays County
+(Stovall et al. 1986). In 1849, General Burleson
+constructed a saw and gristmill along the San
+Marcos River, which created Spring Lake. Since
+the late nineteenth century, Burleson’s dam has
+been modified numerous times in order to facilitate
+in the production of electricity.
+
+Field Methodology
+A pedestrian survey was conducted by two
+archeologists from CAS, spaced 10 m apart within
+a 21 m wide easement. One site, a prehistoric lithic
+scatter, 41HY389, was recorded. A total of 28
+shovel tests were excavated (see Figure 4). Three
+shovel tests were excavated to investigate site
+41HY389 (Figure 5). The remaining shovel tests
+were spaced approximately 100 m apart along the
+easement. The shovel tests were excavated to a
+maximum depth of 60 cm where possible. In addi­
+tion to the shovel tests, approximately 40 m of cut
+bank of an unnamed tributary of Cottonwood Creek
+was examined near highway 123.
+
+Previous Investigations
+An examination of the Texas Archaeological
+Research Laboratory (TARL) site files and San
+Marcos South and San Marcos North Topographic
+Quadrangle maps indicated that the El Camino
+Real Transmission Improvements Project, as pro­
+posed, will be near or on three previously recorded
+sites, 41CW51, 41CW54 and 41HY279. 41CW51
+is an Archaic site located in the San Marcos River
+floodplain. 41CW54 is a paleoindian site in an
+abandoned channel of the San Marcos River.
+41HY279, located approximately 300 m south­
+west of the project area, is a prehistoric site consist­
+ing of a lithic scatter of unknown age (Weaver
+2004).
+
+Results
+Investigations were conducted in accordance
+with Carter and Burgess Inc.’s plans to avoid
+adverse impacts to the previously designated State
+Archeological Landmarks (SALs) 41CW51 and
+41CW54. Site 41CW51 was avoided by
+directionally boring beneath the archaeological
+deposits. In an agreement with the Texas Historical
+Commission (THC), adverse impacts to 41CW54
+were avoided by installing the project between the
+GBRA raw-water line and the eastern edge of site
+41CW54 (Oksanen et al. 2002). The excavation of
+the trench for the pipeline was monitored between
+the defined boundaries of 41CW54 by personnel
+from CAS to record any new archaeological depos­
+its.
+
+Goals and Methods
+The primary objectives of this investigation
+were to identify the specific archaeological sites
+that fall within the proposed easement and estab­
+lish the projected impacts to these archaeological
+resources. Eligibility for the National Register of
+Historic Places (NRHP) will also be assessed and
+it will be determined if further archaeological
+investigations are necessary to comply with State
+and Federal laws and regulations.
+
+Twenty-eight shovel tests were excavated along
+the easement. An unnamed tributary of Cotton­
+wood Creek was also examined near highway 123.
+The exposure in the cut bank varied from 50 cm to
+90 cm. The bottom of the drainage channel is
+
+8
+
+Ñ
+
+new easement / surveyed in current project
+
+0
+
+165
+
+330
+
+660
+
+previously surveyed GBRA easement
+
+Shovel Test
+
+Meters
+
+Figure 4. Locations of shovel tests.
+
+limestone gravels and clay and no cultural materi­
+als were observed in either the cut profile or the
+channel.
+
+project area. The elevation is approximately 650­
+648 ft AMSL (NGVD 1929). 41HY389 is located
+in Houston Black clay (HoB), consisting of 1 to 3
+percent slopes with a clayey soil with a high shrinkswell potential. Large deep cracks can form in this
+soil when dry. Observed cracks on the site were
+wide enough to insert the blade of a shovel to a
+depth of 20 cm. The site is located within a field
+currently under cultivation (see figure7). Ground
+vegetation included Texas bluestem and Bermuda
+grass. The field had been planted with corn with
+numerous stalks and cobs still remaining. Identi­
+fied understory species along the fence line paral­
+leling the easement to the east included common
+sunflower (Helianthus annuus), coreopsis (core
+opsis tinctoria), and poison ivy (Rhus
+toxicodendron). Overstory species consisted of
+common hackberry (Celtis occidentalis), Ameri­
+can elder (Sambucus canadensis) and honey mes­
+quite (Propsis glandulosa).
+
+In addition to the unnamed intermittent tribu­
+tary of Cottonwood Creek, the easement crosses an
+intermittent, unnamed, small upland tributary that
+drains northwards to the San Marcos River (Figure
+6). An examination of this drainage discovered an
+advanced degree of soil pedogenesis and the vis­
+ible effects of erosion, agriculture, and cracking.
+This suggests there is little likelihood for deeply
+buried cultural materials and backhoe trenching is
+therefore unnecessary.
+
+Site Description
+One site, a prehistoric lithic scatter, 41HY389,
+was recorded. Three shovel tests were excavated to
+investigate site 41HY389 (Figure 5). Prehistoric
+Site 41HY389 is a surface scatter of lithic debris
+measuring approximately 25-x-10-m within the
+9
+
+41HY389
+rive
+kD
+Tr ac
+Two
+
+ST 5
+
+N
+
+Co
+ti
+uc
+nst
+
+tio
+uc
+nst
+
+t
+en
+sem
+Ea
+
+Co
+
+on
+ST 2
+
+vey
+s Sur
+
+n
+se
+Ea
+
+iou
+Prev
+
+nt
+
+me
+
+Core ST 4
+ST 3
+
+T rac
+Two
+rive
+kD
+
+datum
+negative shovel test
+
+ST 1
+
+downward slope
+barbed wire fence
+site boundary
+
+0
+
+5 10
+
+d
+Roa
+unty
+
+Co
+
+20
+
+Meters
+
+Figure5. Map of 41HY389.
+
+Figure 6. Upland intermittent drainage that pipeline crosses.
+
+10
+
+266
+
+Figure 7. Site 41HY389 looking southeast towards site datum and ST2.
+
+Abundant, unworked, raw lithic material in the
+form of chert cobbles to 15 cm in diameter are
+scattered across the surface mixed with corre­
+spondingly sized limestone cobbles and gravels.
+Lithic materials, both limestone and chert, exhib­
+ited damage consistent with mechanical impacts
+with recent fractures typically lacking a bulb of
+percussion on flakes and prepared platforms on the
+parent cobbles. In addition, many of the fracture
+scars had no patination and lacked the degree of
+weathering observed in the source material. Many
+of the cobbles had one or several flakes removed in
+this manner, as did some of the limestone which
+would suggest modern damage as opposed to pre­
+historic testing of the cobbles.
+
+depth of 60 cm and all were negative. The western
+boundary was established by observation while the
+eastern boundary was confined by the project area
+and observation. The distribution of raw lithic
+material on the surface, ground visibility greater
+than 60 percent, and the location of the site on the
+foot slope of an upland ridge were factors that
+contributed to the termination of subsurface test­
+ing.
+
+Artifacts
+Recovered artifacts include a core and three
+exterior flakes. The core is bifacial and discoid
+shaped with a biconvex profile (Figure 8). Flakes
+have been removed from the outer margin towards
+the center and the circumferal edge of the specimen
+appears to have been abraded, possibly to reinforce
+the platform edge. Although all of the specimens
+are a similar color and material, it is unknown
+whether they are from the same core.
+
+The observed artifacts consisted of a core and
+three exterior flakes. Three shovel tests were exca­
+vated to evaluate the potential for buried cultural
+material and to define the norther and southern
+boundaries. The shovel tests were excavated to a
+11
+
+color, light gray, and flake color, light gray and
+very pale brown, are the same as Flake 1. There are
+two flake scars on the dorsal face that continue
+beyond the margins indicating that Flake 2 was a
+later removal than Flake 1. Flake 3 is approxi­
+mately 2 cm in length with a small portion of cortex
+remaining at the distal end. The short length of the
+flake and the steep platform suggest that it was
+removed from a small core. No other artifacts were
+collected from the site.
+The observed assemblage was confined to the
+surface. Evidence of mechanized agriculture,
+namely plowing, has adversely impacted the hori­
+zontal and any vertical distribution of the artifacts.
+In addition, the shrink-swell characteristic of the
+soil has likely destroyed any vertical integrity of
+the site. Site 41HY389 is typical of the local upland
+surface lithic scatters, such as prehistoric site
+41HY279, a site recorded by Paul Price Associates
+(Schroeder et al. 1999) during their cultural re­
+sources survey for the GBRA raw-water line. Site
+41HY279 is located approximately 300 meters
+southwest of site 41HY389. The site measured 15­
+x-15-m and contained a bifacial gouge or biface
+preform, and several pieces of debitage. No sub­
+surface tests were excavated at 41HY279 due to the
+estimate that the soil was too old to contain subsur­
+face cultural deposits.
+
+Figure 8. Bifacial core from site 41HY389.
+
+The core is 11.5 cm at its longest point and 10
+cm across, with a maximum thickness of 5.5 cm.
+The size of the core suggests that it was selected
+from the local cobbles. The material is a medium to
+fine grained, tan to grayish-blue, chert that is the
+same as the material scattered across the slope. The
+bluish-gray color (Munsell 5B 6/1) appears to be
+the original color of the material before weather­
+ing. A small portion of cortex remains on the dorsal
+side matching the locally available material. The
+variation in color is across the median and is due to
+selective weathering, suggesting that the specimen
+may have rested for a period of time on edge with
+half of the specimen buried.
+
+Summary
+
+The observed flakes were exterior flakes, from
+2 to 5 cm in overall length. Flake 1 is a hard hammer
+flake, 5 cm in length with a light gray (Munsell
+7.5YR 7/1) weathered cortex remaining on ap­
+proximately 50 percent of the specimen. The color
+of the chert is light gray (Munsell 10YR 7/2) and
+very pale brown (Munsell 10YR 7/3), most likely
+the result of patination from weathering. Flake 2 is
+a hard hammer flake, and 3 cm in length with a
+small portion of cortex remaining. The cortex
+
+It is recommended that the El Camino Real
+Transmission Improvements Project, as proposed,
+will not have an adverse effect upon known cul­
+tural properties. The pedestrian survey recorded a
+prehistoric site, 41HY389. Due to its lack of con­
+text and temporal diagnostic material, it is not
+recommended for nomination to the NRHP. Under
+Evaluation Criterion D (36CFR 60.4), site 41HY389
+12
+
+lacks both significance and integrity, and is un­
+likely to add significant information to the ar­
+chaeological record.
+
+The potential impact to site 41CW51 through geo­
+logical sampling will be negligible and the result­
+ing core will be donated to CAS, furthering the
+geomorphic record of the San Marcos River drain­
+age.
+
+For the previously known sites, potential im­
+pacts to site 41CW54 will be confined to the area
+disturbed by the data recovery excavations con­
+ducted by Paul Price Associates Inc. (Oksanen et
+al. 2002). The excavation of the pipeline through
+41CW54 will be monitored by CAS to document
+archaeological deposits that may be encountered.
+
+Based upon the results of the pedestrian survey
+and consultation with THC regarding site 41CW54,
+the CAS recommends that the El Camino Real
+Transmission Improvements Project be allowed to
+proceed.
+
+13
+
+14
+
+References Cited
+Batte, Charles D.
+1984
+Soil Survey of Comal and Hays Counties, Texas. United States Department of Agriculture, Soil
+Conservation Service.
+Berlandier, Jean Louis
+1980
+Journey to Mexico During the Years 1826 to 1834. Translated by Sheila M. Ohlendorf,
+Josette M. Bigelow, and Mary M. Standifer. Texas State Historical Association and the Center for
+American Studies, University of Texas at Austin.
+Black, S. L.
+1989a South Texas Plains. In From the Gulf to the Rio Grande: Human Adaptation in Central, South and
+Lower Pecos Texas, by T. R. Hester, S. L. Black, D. G. Steele, B. W. Olive, A. A. Fox, K. Reinhard,
+and L. C. Bement, pp. 39–62. Research Series No. 33. Arkansas Archeological Survey. Fayetteville.
+1989b Environmental Setting. From the Gulf Coast to the Rio Grande: Human Adaptation in Central, South,
+and Lower Pecos Texas, by T. R. Hester, S. L. Black, D. G. Steele, B. W. Olive, A. A. Fox, K. J.
+Reinhard, and L. C. Bement, pp. 5–17. Research Series No. 33. Arkansas Archeological Survey,
+Fayetteville.
+1989c Central Texas Plateau Prairie. In From the Gulf to the Rio Grande: Human Adaptation in Central,
+South, and Lower Pecos Texas, by T. R. Hester, S. L. Black, D. G. Steele, B. W. Olive, A. A. Fox, K.
+J. Reinhard, and L. C. Bement, pp. 5-16. Research Series No. 33. Arkansas Archeological Survey,
+Fayetteville.
+1995
+Archaeological and Historical Background. In Archeological Investigations at the Loma Sandia Site
+(41LK28): A Prehistoric Campsite in Live Oak County, Texas. 2 volumes. Studies in Archeology No.
+20, pp. 31-45. Texas Archeological Research Laboratory, The University of Texas at Austin.
+Blair, F.
+1950
+The Biotic Provinces of Texas. Texas Journal of Science 2(1):93-117.
+Brandon, H.
+2001
+Technical Memorandum. In Environmental Review for Proposed FM 123/Cottonwood Creek Waste
+water Line, San Marcos, Texas. Prepared by Hicks & Company, and Freese and Nichols, Inc., pp.
+1-4. Hicks and Company, Austin.
+Campbell, T. N., and T. J. Campbell
+1985
+Indian Groups Associated with Spanish Missions of the San Antonio Missions National Historical
+Park. Special Report, No. 16. Center for Archaeological Research, The University of Texas at San
+Antonio.
+Collins, M. B.
+1995
+Forty Years of Archeology in Central Texas. Bulletin of the Texas Archeological Society 66: 361–400.
+Covey, C. (editor)
+1961
+Cabeza de Vaca’s Adventures in the Unknown Interior of America, Collier Books, New York.
+Dunn, W. E.
+1911
+Apache Relations in Texas, 1718-1750. Southwestern Historical Quarterly 14:198-274.
+
+15
+
+Ellis, L. W., G. L. Ellis, and C. D. Frederick
+1995
+Implications of Environmental Diversity in the Central Texas Archeological Region. Bulletin of the
+Texas Archeological Society 66:401-426.
+Foster, W. C.
+1995
+Spanish Expeditions Into Texas, 1689-1768. University of Texas Press, Austin.
+Goode, G. T.
+1991
+Late Prehistoric Burned Rock Middens in Central Texas, In The Burned Rock Middens of Texas: An
+Archaeological Symposium, edited by T. R. Hester, pp. 71-93. Studies in Archeology 13. Texas
+Archeological Research Laboratory, The University of Texas at Austin.
+Grasslands
+2003
+The Handbook of Texas Online.
+http://www.tsha.utexas.edu/handbook/online/articles/view/GG/hng25.html, accessed Feb 3.
+Horrell, C. E.
+1999
+Drawing Linkages Between Global and Local Processes: Archaeological Investigations of Villa San
+Marcos de Neve, A Spanish Colonial Town on the Frontier. Unpublished Master's Thesis, Department
+of Anthropology. University of Texas at San Antonio.
+Houk, B. A., and J. C. Lohse
+1993[1990] Archeological Investigations at the Mingo Site, Bandera County, Texas. Bulletin of the Texas
+Archeological Society 61:193-247.
+Huebner, J. A.
+1991
+Late Prehistoric Bison Populations in Central and Southern Texas. Plains Anthropologist 36(137):
+343-358.
+Jelks, E. B.
+1978
+The Diablo Range. In Chronologies in New World Archeology, edited by R. E. Taylor and C. W.
+Meighan, pp. 71-111. Academic Press, New York.
+Johnson, L., and T. N. Campbell
+1992
+Sanan: Traces of a Previously Unknown Aboriginal Language in Colonial Coahuila and Texas. Plains
+Anthropologist 37(140):185–212.
+Johnson, L. Jr., and G. T. Goode
+1994
+A New Try at Dating and Characterizing Holocene Climates, as well as Archeological Periods, on the
+Eastern Edwards Plateau. Bulletin of the Texas Archeological Society 65: 1-51.
+Jones, Richard
+in press Annual Report to the City of San Marcos Hays County, Texas for Texas Antiquities Permit No. 2872.
+Center for Archaeological Studies.
+Mauldin, R., and D. Nickels, and C.J. Broehm
+2003
+The Chronology Placement of Camp Bowie Burned Rock Middens. In Archaeological Testing to
+Determine the National Register Eligibility Status of Eighteen Prehistoric Sites on Camp Bowie,
+Brown County, Texas, 2 vols. Archaeological Survey Report, No. 334, Center for Archaeological
+Reasearch, University of Texas at San Antonio, Adjutant General's Deparment Texas, Directorate of
+Facilities and Engineering, Environmental Branch, Austin.
+
+16
+
+McCulloch, S. D., and M. W. Voellinger
+1996
+Cultural Resources Investigation of the Henry Tract, San Marcos, Hays County, Texas. SAGE
+Environmental Archeology Series 10. S. A. Garza Engineers, Inc., Austin.
+McDonald, J. N.
+1981
+North American Bison: Their Classification and Evolution. University of California Press, Berkley.
+Newcomb, W. W., Jr.
+1961
+The Indians of Texas: From Prehistoric to Modern Times. University of Texas Press, Austin.
+1993
+Historic Indians of Central Texas. Bulletin of the Texas Archeological Society 64:1–63. Austin.
+Old San Antonio Road
+2005
+http://www.tsha.utexas.edu/handbook/online/articles/view/OO/ex04.html, accessed March 8.
+Oksanen, Eric R., Craig A. Weaver, Eric A. Schroeder, and Glenn T. Goode
+2002
+Archeological Testing of Four Prehistoric Sites along the Guadalupe-Blanco River Authority’s San
+Marcos Raw Water Pipeline, Caldwell and Hays Counties, Texas. PPA Cultural Resources Report
+Number 0262. Paul Price Associates, Inc., Austin.
+Prewitt, E. R.
+1981
+Cultural Chronology in Central Texas. Bulletin of the Texas Archeological Society 52:65-89.
+1985[1983] From Circleville to Toyah: Comments on Central Texas Chronology. Bulletin of the Texas Archeo
+logical Society 54:201-238.
+San Francisco Xavier de Horcasitas Mission
+2005
+The Handbook of Texas Online.
+http://www.tsha.utexas.edu/handbook/online/articles/view/SS/uqs17.html, accessed Mar. 8.
+San Marcos de Neve
+2005
+The Handbook of Texas Online
+http://www.tsha.utexas.edu/handbook/online/articles/view/SS/hvs21.html, accessed Mar. 8.
+Schroeder, Eric, Steven M. Kotter, and James T. Jones
+1999
+Historical and Archeological Investigations Along the Guadalupe-Blanco River Authority’s San
+Marcos Raw Water Pipeline, Hays, Caldwell, Comal and Guadalupe Counties, Texas. PPA Cultural
+Resources Report Number 236. Paul Price Associates, Inc., Austin
+Schroeder, Eric A., Eric R. Oksanen, Terry Jones, and Alton K. Briggs
+2000
+Cultural Resources Survey of the Canyon Regional Water Authority System Improvement, Hays and
+Caldwell County, Texas. PPA Cultural Resources Report Number 0281. Paul Price Associates, Inc.,
+Austin
+Schroeder, Eric A., Craig A. Weaver, Richard Walter
+2002
+State Archaeological Landmark Evaluation of Site 41CW58 at the Canyon Regional Water Authority
+Treatment Facility, Caldwell County, Texas. PPA Cultural Resources Report 301.
+Story, D. A.
+1985
+Adaptive Strategies of Archaic Cultures of the West Gulf Coastal Plain. In Prehistoric Food Produc
+tion in North America, edited by R. I. Ford, pp. 19-56. Anthropological Papers No. 75, Museum of
+Anthropology, University of Michigan, Ann Arbor.
+
+17
+
+Stoval, F., M. Storm, L. Simon, G. Johnson, D. Schwartz, and D. W. Kerbow
+1986
+Clear Springs and Limestone Ledges, A History of San Marcos and Hays County for the Texas Sesqui
+centennial. Hays County Historical Commission. San Marcos.
+Swanton, J.R.
+1985
+Final Report of the United States De Soto Expedition Commission. Smithsonian Institution Press,
+Washington, D.C.
+Texas Parks and Wildlife Department
+Physiographic regions of Texas
+www.tpwd.state.tx.us/nature/tx-eco95.htm, accessed February 27, 2005.
+Weaver, C.A.
+2004
+Cultureal Resource Reconnaissance Survey of Two Tracts Proposed as School and Bus Barn Facilities
+by the San Marcos Consolidated Independent School District, Hays County, Texas. Paul Price Associ
+ates Inc., Austin.
+Weir, F. A.
+1976
+The Central Texas Archaic. Unpublished Ph.D. dissertation, Department of Anthropology, Washing
+ton State University, Pullman.
+Willey, G. R.
+1966
+An Introduction to American Archaeology. Prentice Hall, New York.
+Winship, G.P.
+1896
+The Coronado Expedition, 1540-1542. In Fourteenth Annual Report of the Bureau of American
+Etnology, 1892-1893, Part I, pp. 339-637. Government Printing Office, Washington, D.C.
+
+18
+
+19
+
+20
+
+

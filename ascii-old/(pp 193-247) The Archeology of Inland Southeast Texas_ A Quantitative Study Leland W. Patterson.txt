@@ -1,0 +1,3054 @@
+255
+
+The Archeology of Inland Southeast Texas:
+A Quantitative Study
+Leland IV. Patterson
+
+ABSTRACT
+This sunanaary of the archeology of Inland Southeast Texas is based on
+computerized data base information from 182 published sites, and provides an
+overview of the current status of research on the prehistory of this subregion. Many
+of the conclusions are the same as in previous studies, but they are now supported
+more fully by quantitative data.
+
+INTRODUCTION
+
+It has been noted (Patterson 1988a) that the published data base for the
+archeology of Southeast Texas is now sufficiently large to support detailed studies
+and summaries of this region and its subregions. Unless the total published data base
+is used, resulting studies will be more impressionistic than rigorous. This is a
+quantitative summary of the archeology of Inland Southeast Texas, using a
+computerized data base and all of the generally available published literature for
+archeological sites in the subregion.
+Inland Southeast Texas as defined here covers 21 counties (Figure 1), the same
+area used previou sly by the author for sum mary articles (Patterson 1979a, 1983) and
+a bibliographic series (Patterson 1986a) for Southeast Texas as a whole. Coastal
+margin sites, mainlyRangia shell middens, are not included in this current data base,
+but a separate data base for coastal margin sites may be developed in the future.
+For the study of geographic distributions of artifact types, Inland Southeast
+Texas has been divided into three zones.
+Eastern Zone: San Jacinto, Liberty, Chambers, Polk, Hardin, Jefferson,
+Jasper, Newton, Orange, and Tyler counties.
+Central Zone: Grimes, Walker, Montgomery, Harris, and Galveston counties.
+Western Zone: Wharton, Washington, Austin, Fort Bend, Brazoria, and
+Waller counties.
+The data base for this study covers 182 published sites. A breakdown of sites
+by county can be made for 16 of the 21 counties (Table 1), but there are no
+publications for Inland type sites in Chambers, Galveston, Jefferson, Newton, and
+Orange counties, all of which border the coastal margin. There are 52 published sites
+in the Western Zone, 95 in the Central zone, and 35 in the Eastern Zone. The
+publications cover 43 excavated sites, 9 sites with data from both excavation and
+surface collections, and 130 sites with data only from surface collections.
+Bulletin of the Texas Archeological Society 61 (1990)
+
+256
+
+Texas Archeological Society
+
+, [t Jasper!
+
+Polk
+
+Tyler
+
+¯
+
+Newton
+
+I
+
+FOrange
+Liberty
+
+\-.~-’/~\
+Jefferson
+i
+1
+
+EASTERN ZONE
+
+Figure 1. Map showing the geographic subregions of Inland Southeastern Texas
+
+Every county in this subregion has some recorded sites for which no details
+have been published, so there is a need for more publication of recorded sites that
+have enough diagnostic data to justify publication; recorded archeological sites are
+often identified only by nondiagnostic materials such as chert flakes.
+It can be seen (Table 1) that there has been no uniformity in archeological work
+in Inland Southeast Texas; the need for uniformity should be considered when
+planning future regional research. The pattern of archeological work in this
+subregion is a result of somewhat random selection; that pattern reflects where sites
+have been discovered, where contract archeology covering construction projects
+has been performed, and where members of the Houston Archeological Society
+have been able to do work.
+The literature on Inland Southeast Texas has grown to a level where it is no
+longer possible to rely on memory or on a few published examples for research
+conclusions. For many archeological subjects in this geographic area, the entire
+body of published literature should be considered quantitatively; this approach
+requires tabulation of data. Once the decision has been made to tabulate large
+
+Patterson--Inlatul Southeast Texas
+
+257
+
+Table 1. Summary of Published Sites by County
+
+County
+
+Number of Inland Sites
+
+Austin
+Brazoria
+
+9
+4
+
+Fort Bend
+
+15
+
+Grimes
+
+1
+
+Harris
+
+87
+
+Hardin
+
+1
+
+Jasper
+
+3
+
+Liberty
+
+14
+
+Montgomery
+
+5
+
+Polk
+
+10
+
+San Jacinto
+
+5
+
+Tyler
+
+2
+
+Walker
+
+2
+
+Wharton
+
+16
+
+Waller
+
+5
+
+Washington
+
+3
+TOTAL
+
+182
+
+amounts of data, the necessity for use of a computer is obvious. More time is
+required to enter data into a computer than would be needed simply to do a
+manual tabulation, but the computer data base has the advantage of making it
+possible (1) to produce new summaries easily, with revised and additional data,
+(2) to make complex queries quickly and easily, and (3) to make final printed
+tabulations easily.
+Some summary articles have been published on the overall archeology of
+Southeast Texas (Patterson 1979a, 1983), but only the coastal margin of this
+region has been the subject of a detailed study (Aten 1983). This paper strives
+to make a detailed summary of the archeology of Inland Southeast Texas generally available.
+The available data indicate that Inland Southeast Texas has been occupied for
+about 12,000 years, and detailed archeological data are available for occupation
+sequences dating since about 10,000 years ago in this subregion. The entire
+prehistory of Inland Southeast Texas is of a hunting and gathering lifeway.
+Technological changes occurred within this framework, but a rather stable settlement
+pattern seems to have been established.
+
+258
+
+Texas Archeological Society
+
+Data are now available for the study of several topics relating to the archeology of Inland Southeast Texas: chronology, technological change, geographical distribution of artifact types, settlement patterns, and subsistence patterns.
+Some investigators tend to favor use of data from excavated sites, but all data
+from both excavated sites and surface collections must be considered if studies
+are to be complete.
+This summary of data synthesizes several subjects for published sites in Inland
+Southeast Texas, but the detailed tabulation of data from each site and a corresponding publication list are too large for inclusion here. A separate report with a complete
+printout of the detailed data base will be published separately as a report of the
+Houston Archeological Society.
+METHODOLOGY AND DATA BASE
+
+This study has used all of the generally available published literature on
+archeological sites in this subregion. Some contract archeology reports have not
+been considered, since they are not always readily available. It would be useful if
+detailed absWacts of scientific data from contract archeology work were generally
+available (Patterson 1979b), since archeological data that are not generally available are essentially lost data. Even though unpublished site data from the Texas
+Archeological Research Laboratory (TARL) files were used for a previous summary of the Southeast Texas region (Patterson 1979a:Table 1), only published data
+are included in this study, since unpublished data generally do not contain enough
+detail to warrant the effort of tabulation. In any event, a substantial data base has
+been developed for this study.
+Use of a computerized data base is ideal for this type of investigation; in this
+specific case, the Paradox relational data base program has been used with an IBM
+50Z computer (a computer with a bard disk is advisable for this type of work). A
+relational data base allows linking of tables for complex queries; archeological site
+numbers are the link between tables in this specific data base.
+The computerized data base used here has 12 tables: basic site data, projectile
+points (3 tables), ceramics, radiocarbon dates, lithic tools, general lithics, terrestrial
+faunal remains, aquatic faunal remains, miscellaneous artifacts and features, and
+mortuary data. Noncomputerized tabulation has been used for some artifact types
+with low frequencies.
+CHRONOLOGY ANDDEMOGRAPHY
+
+The chronological periods used here are those used in a previous regional
+summary (Patterson 1979a). A few radiocarbon dates are available, but, in general,
+time periods have been established for each site on the basis of key projectile point
+and ceramic types. The small amount of data on the Early Paleoindian period has
+been discussed previously (Patterson 1979a, 1983) and will not be considered
+further here. This paper is concerned mainly with the details of the archeology of
+
+Pattersonmlnland Southeast Texas
+
+259
+
+about 10,000 years in this subregion, from the start of the Late Paleoindian period
+until the start of the Historic Indian period.
+The Late Paleoindian period is represented by San Patrice, Early Notched,
+Early Stemmed, Angostura, Plainview, Meserve, and Scottsbluff dart points. The
+Early Archaic period is represented by Carrollton, Trinity, and Bell points. The
+Middle Archaic is represented by Bulverde and Pedernales points, although some
+Gary and Kent points are also present. The Late Archaic and Early Ceramic
+periods share several projectile point types, including Gary, Kent, Ellis, Ensor,
+Yarbrough, Palmillas, and Darl. A few sites have Goose Creek Stamped pottery
+from the Early Ceramic period (Aten 1983:Figure 14.1); the Early Ceramic period
+in this region is represented by dart points and ceramics but no bifacial arrowpoints (unifacial arrowpoints may be present). The Late Prehistoric period has
+ceramics and bifacial arrowpoints, and some Historic Indian sites have glass and
+metal artifacts. For many of the published sites, estimates of time periods involved are those of the authors. A summary of projectile points for each time
+period already has been published (Patterson 1983:Table 1).
+A summary of chronological data shows the time ranges and number of sites
+in Inland Southeast Texas for each time period, and a relative population factor is
+shown for each time period (Table 2). The relative population factor is the number
+of sites in a time period divided by the number of years in a period times 100 (Figure
+2). The results for Inland Southeast Texas are similar to those of a previous study
+(Patterson 1986b) that used another data set, showing a rapid population increase
+in the Late Archaic and Early Ceramic periods and some population decrease in the
+Late Prehistoric. A complete explanation of population dynamics in this region has
+not yet been developed, but the relative population data given here are more
+complete than those in the previous study patterson 1986b) because data are now
+available for the Late Paleoindian and Early Archaic periods.
+Table 2. Summary of Chronological Data
+
+Period
+
+Time Range
+Years BP
+
+Length,
+Years
+
+Number
+of
+Sites
+
+Relative
+Population
+Factor*
+
+Late Paleoindian
+
+10,000-7000
+
+3000
+
+58
+
+1.9
+
+Early Archaic
+
+7000-5000
+
+2000
+
+33
+
+1.7
+
+Middle Archaic
+
+5000-3500
+
+1500
+
+4.7
+
+Late Archaic
+
+3500-1900
+
+1600
+
+70
+104
+
+Early Ceramic
+
+1900-1400
+
+500
+
+120
+
+24.0
+
+Late Prehistoric
+Historic Indian
+
+1400-500
+
+900
+
+125
+
+After 500
+
+--
+
+6
+
+6.5
+13.9
+--
+
+* The Relative Population Factor is the number of sites in a time period divided by the
+number of years in that period times 100.
+
+260
+
+Texas Archeological Society
+RPF
+
+80
+
+26
+
+20
+
+16
+
+10;
+
+0
+0
+0
+
+2
+
+4
+
+x
+6
+
+I
+
+B
+
+10
+
+Thousands of Years BP
+
+Figure 2. Chart showing the relative population changes of Irdand Southeast Texas.
+
+Settlement Patterns
+
+It has been known for some time that most prehistoric sites in Inland Southeast
+Texas were along the banks of streams and small lakes, and that the number of sites
+with occupation components in multiple time periods evidence stable settlement
+patterns in this subregion over long periods of time ~atterson 1983).
+For 16 sites in this study, occupation components have been identified for
+all time periods from Late Paleoindian to Late Prehistoric. This number increases
+to 27 if sites where the Early Archaic period is not f’mnly identified are included.
+Only 49 sites (27 percent) of the 182 sites in this study represent only a single
+time period, and more than half of the sites (73 percent) have occupation components from two or more time periods. These data indicate that there were stable
+settlement patterns with repeated use of sites in this region, in spite of the fact
+that prehistoric Indians here were generally nomadic.
+Radiocarbon Dates
+
+As noted above, most of the chronological placement of artifact types for Inland
+Southeast Texas is based on excavated artifact sequences and the chronology of
+artifact types in adjacent regions. Because of the small amount of data available on
+absolute dates for this subregion, only broad-range chronological periods have been
+considered. The starting dates for pottery and standardized bifacial arrowpoint
+types in Inland Southeast Texas are based on radiocarbon dating from sites on the
+coastal margin (Aten 1983).
+
+Patterson
+
+Inland Southeast Texas
+
+261
+
+Most radiocarbon dates published for Inland Southeast Texas are from counties
+in the Western Zone (Table 3), and these few radiocarbon dates do cover the
+complete time range of the Late Paleoindian through the Late Prehistoric periods.
+In general, chronological placement of artifact types found in radiocarbon-dated
+excavated levels has been consistent with previous estimates of the time periods
+involved (Patterson 1983:Table 1). Radiocarbon dates in Table 3 for site 41PK69
+were added after other summaries were made, so this site is not included in the
+general statistics.
+Table 3. Radiocarbon Dates from Inland Southeast Texas
+
+Site
+
+Date.
+(Years BP)
+
+Sample
+Number
+
+Time
+Period
+
+Reference
+
+41AU1
+
+4530-L-_80
+
+Shell Dev.
+8205-Bl173
+
+Middle Archaic
+
+Fleming 1960
+
+41AU36
+
+4120_+100
+3270-Z-_70
+2460-L-_70
+1650-2-_70
+
+TX-2453
+TX-2127
+TX-2451
+TX-2452
+
+Middle Archaic
+Late Archaic
+Late Archaic
+Early Ceramic
+
+Hall t981:49
+"
+"
+"
+
+41AU37
+
+1070+_60
+440-2-_70
+
+TX-2125
+TX-2126
+
+Late Prehistoric
+Late Prehist./Hist.
+
+Hall 1981:103
+"
+
+41AU38
+
+450£_70
+
+TX-2065
+
+Late Prehist./Hist.
+
+Hall 1981:122
+
+41FB34
+
+5210-2-_110
+
+1-15510
+
+Early Middle Arch.
+
+Patterson 1989
+
+41FB37
+
+6690-2_120
+6490-2-_120
+
+1-15206
+1-15333
+
+Early Archaic
+Early Archaic
+
+Patterson 1988c
+
+Early Archaic
+Middle Archaic
+
+Ensor & Carlson 1988
+"
+
+Late Paleoindian
+"Early Historic
+
+Patterson et al. 1987
+"
+
+41PK69
+
+6240-2_80
+4000-2_110
+
+41WH19
+
+9920+_530
+365+80
+
+AA-298
+SI-6455
+
+tw
+
+There is an obvious need for more radiocarbon dating in this subregion in
+order to refine chronological sequences. This should be an important goal to be
+considered in planning regional research. Excavation of more well-stratified sites
+
+262
+
+Texas Archeological Society
+
+is needed for establishment of more detailed chronological sequences, but,
+unfortunately, well-stratified sites are not common in this subregion.
+Projectile Points
+Data for Early Paleoindian Clovis and Folsom projectile point types are not
+considered in this paper because only a few specimens have been found in Inland Southeast Texas. A summary of Clovis point data has been published for
+the overall region (patterson 1986c), and only one Folsom point has been reported (Patterson et al. 1987). The possibility of notched projectile points starting in the Early Paleoindian period has also been noted previously (Patterson
+and Hudgins 1985; Patterson et al. 1987). There is now a significant published
+data base for projectile point types in Inland Southeast Texas for all time periods after about 10,000 years ago, and a summary of these data is presented below.
+Inland Southeast Texas has been divided into three zones for this study
+(Figure 1) because, as previously noted, there are east-west gradients in the
+concentrations of some projectile point types (patterson 1983:Table 1, 1988b).
+Data summarized here show significant concentration gradients for geographical distributions of projectile point types in all prehistoric time periods. Inland
+Southeast Texas is a border area for technological traditions of the southern Great
+Plains and the woodlands of the Southeast (Jennings 1974:Figure 1.1).
+The geographical distributions of early dart point types in this region (Table
+4) shows that the Great Plains Paleoindian tradition is represented by Plainview,
+Angostura, Scottsbluff, and Meserve points; there is a definite east-west gradient for concentrations of Plainview and Angostura points. As would be expected,
+the highest concentrations of these point types are in the west. The eastern
+Paleoindian tradition is represented by San Patrice and Early Notched points;
+there is a decrease in frequency of San Patrice points to the west, and the frequency of Early Notched points seems to decrease eastward, a fact that is unexpected for this essentially eastern point type. This paradox may be due to the
+fact that the Early Notched point type has only recently been recognized in Inland
+Southeast Texas (patterson and Hudgins 1985). Not much data is available for
+the distribution of Early Stemmed points, although this point type seems to occur
+with a higher frequency to the west in this region.
+Webb, Shiner, and Roberts (1971) have shown that San Patrice and Early
+Notched points are found at the same site in Louisiana. In Inland Southeast Texas,
+35 percent of sites with San Patrice points also have Early Notched points.
+In the Early Archaic period, the Bell point of Central Texas is found in the
+Western and Central Zones of Inland Southeast Texas. Carrollton and Trinity
+points are found most frequently in the Central Zone, and the Wells point has a
+fairly uniform geographic distribution in this region.
+In the Middle Archaic period, the Pedernales point of Central Texas is also
+found in Inland Southeast Texas with a significant east-west concentration gradient. As expected, most Pedernales points are found in the western half of Inland
+
+Patterson--Inland Southeast Texas
+
+263
+
+Table 4. Early Dart Point Type Distributions
+ZONE
+WESTERN
+
+CENTRAL
+
+EASTERN
+
+Number
+
+Number
+
+Number
+
+Point Type
+
+Points Sites
+
+Points Sites
+
+Plainview
+Early Notched
+Early Stemmed
+San Patrice
+Angostura
+Scottsbluff
+Meserve
+
+28
+41
+11
+15
+10
+2
+1
+
+Bell
+CarroUton
+Trinity
+Wells
+
+4
+5
+1
+6
+
+TOTAL
+Number
+
+Points Sites
+
+Points Sites
+
+Paleoindian
+28
+9
+35
+12
+6
+3
+48
+17
+10
+8
+1
+1
+3
+2
+
+0
+3
+0
+42
+1
+1
+1
+
+0
+2
+0
+12
+1
+1
+1
+
+56
+79
+17
+105
+21
+4
+5
+
+22
+23
+6
+34
+16
+4
+4
+
+Early/Middle Archaic
+4
+8
+7
+4
+12
+36
+1
+15
+7
+5
+4
+4
+
+0
+8
+0
+5
+
+0
+3
+0
+2
+
+12
+49
+16
+151
+
+11
+19
+8
+11
+
+43
+0
+1
+
+17
+0
+1
+
+131
+29
+71
+
+44
+7
+30
+
+Middle/Late Archaic
+1
+1
+1
+17
+11
+21
+
+1
+8
+
+5
+49
+
+5
+26
+
+13
+9
+3
+5
+7
+2
+1
+
+Bulverde
+Bulverde-like
+Pedernales
+
+31
+26
+56
+
+13
+5
+18
+
+Morhiss
+Williams
+
+3
+11
+
+3
+7
+
+Middle Archaic
+57
+14
+3
+2
+14
+11
+
+Southeast Texas. Determination of the dislxibution of Bulverde and Bulverdelike points in the Middle Archaic period poses a problem. As previously noted
+(Patterson 1988b), Bulverde-like points in Inland Southeast Texas may have
+evolved from classic Bulverde morphology, with Bulverde-like points often
+lacking the diagnostic wedge-shaped stem. Since the attributes of Bulverde and
+Bulverde-like points overlap, a definite conclusion cannot be made at this time
+on the geographic distributions of these similar point types in Inland Southeast
+Texas.
+Morhiss and Williams points seem to occur during some parts of the Middle
+and Late Archaic periods in Inland Southeast Texas. The Williams point has a
+fairly uniform distribution throughout this region, but data on the Morhiss point
+are insufficient to support any conclusions.
+
+264
+
+Texas Areheological Society
+
+The distributions of later dart point types (Table 5) show that the Late Archaic
+period is represented by several dart point types in Inland S outheast Texas. Gary and
+Kent points are major types for this period, but do not have much value for
+chronological placement, since they were made from the Middle Archaic through
+the Late Prehistoric (Hall 1981; Patterson 1983). Later Gary and Kent points tend
+to be smaller (Patterson 1980); they are distributed throughout this region, but are
+somewhat more numerous in the Eastern and Central Zones. Gary and Kent points
+form a series with overlapping attributes. Eighty percent of published sites with
+Kent points also have Gary points, and 66 percent of sites with Gary points also have
+Kent points.
+Several other dart point types tend to be found with Gary and Kent points
+in the Late Archaic and Early Ceramic periods, including Ellis, Ensor, Palmillas,
+Yarbrough, and Darl types. Seventy-seven percent of sites with Yarbrough points,
+74 percent of sites with Palmillas points, 74 percent of sites with Ellis points, 71
+
+Table 5. Later Dart Point Type Distributions
+ZONE
+WESTERN
+Number
+
+TOTAL
+
+CENTRAL
+
+EASTERN
+
+Number
+
+Number
+
+Number
+
+Points Sites
+
+Points Sites
+
+Points Sites
+
+Point Type
+
+Points Sites
+
+Gary
+
+106
+
+24
+
+774
+
+45
+
+1080
+
+33
+
+1960
+
+102
+
+Kent
+
+100
+
+23
+
+375
+
+32
+
+659
+
+29
+
+1134
+
+84
+
+21
+
+209
+
+50
+
+19
+
+120
+
+38
+46
+
+Ellis
+
+26
+
+14
+
+49
+
+15
+
+134
+
+Ensor
+
+36
+
+13
+
+15
+
+6
+
+69
+
+Palmillas
+
+17
+
+7
+
+84
+
+15
+
+118
+
+24
+
+219
+
+Yarbrough
+
+42
+
+16
+
+56
+
+17
+
+132
+
+18
+
+230
+
+51
+
+12
+
+98
+
+30
+
+3
+
+22
+
+12
+
+2
+
+1
+
+27
+
+16
+
+0
+
+0
+
+13
+
+7
+8
+
+Darl
+
+19
+
+9
+
+23
+
+9
+
+56
+
+Triangular
+
+12
+
+5
+
+7
+
+4
+
+3
+
+Leaf Shaped
+Travis
+
+3
+
+2
+
+22
+
+12
+
+6
+
+1
+
+Marcos
+
+7
+
+6
+
+Fairland
+
+10
+
+4
+
+3
+1
+
+13
+1
+2
+
+0
+
+0
+
+10
+
+1
+
+0
+
+0
+5
+
+11
+
+5
+
+13
+
+7
+
+44
+
+2
+
+32
+4
+
+5
+2
+
+Pontchartrain
+
+1
+
+1
+
+2
+
+1
+
+10
+
+Evans
+
+0
+
+0
+
+0
+
+0
+
+44
+
+Lange
+
+4
+
+4
+
+0
+
+0
+
+28
+
+2
+1
+
+Motley
+
+0
+
+0
+
+0
+
+0
+
+4
+
+2
+
+Pattersonmlnland Southeast Texas
+
+265
+
+percent of sites with Ensor points, and 77 percent of sites with Darl points also
+have Gary and Kent points.
+In the Late Archaic and Early Ceramic periods, several Central Texas dart
+point types that are found in the Western and Central Zones of Inland Southeast
+Texas, including Travis, Marcos, and Fairland types, have not been found in the
+Eastern Zone. Several Louisiana dart point types from the Late Archaic are found
+in Inland Southeast Texas. Evans and Motley points are found only in the Eastern Zone. The Pontchartrain point occurs mainly in the Eastern Zone, but a few
+specimens have been found in the Central and Western Zones.
+Uniform classification of dart point types has caused this study a few problems, since published reports reflect the judgment of the individual investigators. In a few cases, obvious misclassifications have been corrected. Also, I am
+a "lumper" not a "splitter" for projectile point classification. For this study,
+Dawson points have been reclassified as Kent, Neches River side-notched as
+Ensor, Godley have been reclassified as Yarbrough, and Shumla have been reclassified as Bell. Classification of projectile point types here is generally consistent with previous classification studies (Suhm and Jelks 1962; Turner and
+Hester 1985).
+Bifacial arrowpoints represent the Late Prehistoric and Historic Indian periods, although unifacial arrowpoints do occur earlier (Patterson 1980). A summary of arrowpoint distributions in Inland Southeast Texas (Table 6) shows that
+the chronologies of various arrowpoint types are poorly known. Radiocarbon
+dates establish the appearance of bifacial arrowpoints at about A.D. 600 (Aten
+1983:306) in this region, but excavations (Patterson 1980) and surface collections (Patterson 1982) show that unifacial arrowpoints do occur significantly
+earlier; Cuney and Bulbar Stem arrowpoints have been associated with Historic
+Indian sites (Hudgins 1982).
+As noted previously (Patterson 1986d), data from excavations show that
+Perdiz points, especially numerous in the Central and Eastern Zones (Table 6),
+were the dominant arrowpoint type throughout the Late Prehistoric in Inland
+Southeast Texas. Other arrowpoint types were used at some time in the Late
+Prehistoric in this region. The Scallorn arrowpoint, an early Central Texas
+arrowpoint type, was introduced to Inland Southeast Texas sometime after the
+Perdiz point. Scallorn points are found in much smaller numbers than the Perdiz
+point in Inland Southeast Texas. As expected, the Scallorn point has an eastwest concentration gradient in this region, with the highest concentration to the
+west. Fresno, Edwards, Cuney, and Bulbar Stem arrowpoints also have distribution gradients with highest concentrations to the west in this region.
+Some arrowpoints have highest frequencies to the east, including Catahoula,
+Alba, Bonham, and Bassett. Friley, Colbert, Livermore, Washita, and Maud
+arrowpoints have been found only in the Eastern Zone; the Livermore classification in a published report is problematical.
+The geographical areas of distribution of distinctive functional artifact types
+such as projectilepoint and ceramic types represent areas of influence of technological
+
+266
+
+Texas Archeological Society
+Table 6. Arrowpoint Type Distributions
+ZONE
+WESTERN
+Number
+
+Point Type
+
+Points Sites
+
+CENTRAL
+
+EASTERN
+
+TOTAL
+
+Number
+
+Number
+
+Number
+
+Points Sites
+
+Points Sites
+
+Points Sites
+
+Perdiz
+
+56
+
+20
+
+282
+
+35
+
+ScaUorn
+
+52
+
+16
+
+46
+
+17
+
+9
+
+5
+
+107
+
+38
+
+2
+
+81
+
+19
+
+112
+
+24
+
+195
+
+45
+
+Alba
+
+2
+4
+
+4
+
+17
+
+10
+
+269
+
+29
+
+290
+
+43
+
+Bassett
+
+0
+
+0
+
+2
+
+2
+
+25
+
+7
+
+27
+
+9
+
+3
+
+1
+
+1
+
+39
+
+7
+
+0
+
+3
+
+2
+
+37
+
+5
+
+Catahoula
+
+374
+
+32
+
+712
+
+87
+
+Fresno
+
+34
+
+3
+
+4
+
+Cuney
+
+34
+
+3
+
+0
+
+0
+4
+
+1
+
+1
+
+0
+
+0
+
+1
+
+1
+
+2
+
+2
+
+0
+
+0
+
+6
+
+Leaf Shaped
+
+0
+
+Edwards
+
+4
+
+Bonham
+Bulbar Stem
+
+0
+
+0
+
+1
+
+1
+
+35
+
+3
+
+36
+
+6
+4
+
+10
+
+2
+
+0
+
+0
+
+0
+
+0
+
+10
+
+2
+
+Unifacial
+
+3
+
+2
+
+155
+
+18
+
+7
+
+1
+
+165
+
+21
+
+Friley
+
+0
+
+0
+
+0
+
+0
+
+27
+
+10
+
+27
+
+10
+
+Colbert
+
+0
+
+0
+
+0
+
+0
+
+14
+
+4
+
+14
+
+4
+
+Livermore?
+
+0
+
+0
+
+0
+
+0
+
+17
+
+1
+
+17
+
+1
+
+Washita
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+Maud
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+Guerrero
+
+1
+
+1
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+traditions not necessarily tied to limited social groups. The outer geographical
+boundaries of the distribution of a technological tradition can be influenced by
+variables such as cultural preferences, movements of groups, trade, and transfer of
+band members. In any event, the distribution gradients for the concentrations of
+artifact types in Inland Southeast Texas seem to reflect increasing or decreasing
+influences of different technological traditions, sometimes even representing
+Southeastern or southern Great Plains influences. Some technological traditions
+can have wide geographic distributions--e.g., the Clovis point tradition found
+throughout most of the United States or the San Patrice-Hardaway Late Paleoindian
+point tradition found throughout the entire southeastern United States (Justice
+1987:Map 14).
+
+Pattersonmlnlaml Southeast Texas
+
+267
+
+Ceramics
+A summary of distributions of ceramic types in Inland Southeast Texas (Table
+7) shows that ceramic types are not too useful for establishing chronological
+sequences in this subregion. Aten (1983 Figure 14.1) has published a ceramic type
+sequence for the Galveston Bay area that has only limited use for Inland studies; the
+ceramic classification used here generally follows Aten’s (1983) typologies.
+Goose Creek Plain sandy paste pottery is the dominant type in all zones of
+Inland Southeast Texas. This type was probably made throughout the entire time
+span of ceramics in this region (see Aten 1983:Figure 14.1). Goose Creek Incised
+Table 7. Ceramic Type Distributions
+ZONE
+WESTERN
+
+Pottery Type
+
+CENTRAL
+
+EASTERN
+
+Number
+
+Number
+
+Number
+
+Number
+
+Sherds Sites
+
+SherdsSit~
+
+She~sSites
+
+SherdsSit~
+
+TOTAL
+
+Goose Creek
+Plain
+
+1754
+
+33
+
+7608
+
+55
+
+10114
+
+9
+
+19476
+
+97
+
+21
+
+8
+
+77
+
+17
+
+114
+
+5
+
+212
+
+30
+
+0
+
+4
+
+0
+
+0
+
+8
+
+4
+
+Goose Creek
+Incised
+Goose Creek
+Stamped
+
+0
+
+8
+
+22
+
+5
+
+122
+
+9
+
+0
+
+0
+
+144
+
+14
+
+4835
+
+2
+
+2
+
+2
+
+5
+
+1
+
+4842
+
+5
+
+3220
+
+4
+
+0
+
+0
+
+0
+
+0
+
+3220
+
+4
+
+74
+
+11
+
+139
+
+9
+
+180
+
+6
+
+393
+
+26
+
+133
+
+7
+
+107
+
+12
+
+501
+
+7
+
+741
+
+26
+
+Incised
+
+2
+
+2
+
+5
+
+3
+
+126
+
+5
+
+133
+
+10
+
+Tchefuncte
+
+0
+
+0
+
+2
+
+2
+
+0
+
+0
+
+2
+
+2
+
+Lace Holes
+
+1
+
+1
+
+28
+
+7
+
+9
+
+1
+
+38
+
+9
+
+0
+1
+
+0
+1
+
+0
+16
+
+0
+
+5
+206
+
+1
+5
+
+5
+223
+
+9
+
+Conway
+Rockport Plain
+Rockport
+Decorated
+Bone Tempered
+San Jacinto
+Plain
+San Jacinto
+
+Marksville
+Stamped
+Caddo
+
+3
+
+1
+
+268
+
+Texas Archeological Society
+
+pottery is not common, at about I percent ofaU Goose Creek pottery, and a few sites
+have Conway pottery, which is like Goose Creek except that it has coarse sand. On
+at least some sites, there is a question as to whether the coarse sand was intentionally
+added as temper or occurred naturally in the clay. A few sherds of Goose Creek
+Stamped pottery, which Aten (1983:Figure 14.1) classifies as an Early Ceramic
+period type, have been found in the Central Zone.
+Rockport Plain (with or without asphalt coating) and Rockport Asphalt
+Decorated pottery are found in significant quantities at a few sites in the Western Zone of Inland Southeast Texas. This seems to indicate occasional Inland
+occupations by Indians from the adjacent coastal margin. A few asphalt coated
+sherds have been classified as Rockport in the Central and Eastern Zones.
+Bone-tempered pottery occurs in all zones but is not very common. At one
+excavated site in Harris County (patterson 1980), bone tempered pottery seems
+to appear in the Early Ceramic period, unlike the Galveston Bay area, where
+bone tempered pottery is a Late Prehistoric type (Aten 1983:Figure 14.1).
+San Jacinto grog (sherd) tempered pottery is not common at Inland sites in
+this region, but it does occur in all zones. Aten classifies San Jacinto pottery as
+a Late Prehistoric type on the coastal margin. Presence of this pottery type at a
+few Inland sites may indicate occasional occupations of the Inland area by Indians from the coastal margin or, possibly, transfer of women to Inland groups.
+San Jacinto Incised pottery is much less common than San Jacinto Plain. A few
+sherds were found at sites in Austin, San Jacinto, and Polk counties that had
+both grog and bone tempering.
+A few sherds of early Tchefuncte and MarksviUe Stamped pottery types of
+Louisiana have been found in Inland Southeast Texas. These are a possible indication of technological influences from Louisiana in the early days of potterymaking in Inland Southeast Texas. Marksville Stamped has been found only in
+the Eastern Zone adjacent to Louisiana, and the two specimens of Tchefuncte
+found in the Central Zone may not be correctly identified, since Tchefuncte is
+classified mainly by the contorted consistency of the paste.
+A few specimens of Caddo pottery types have been found at sites on the
+northern edge of Inland Southeast Texas, mainly in Montgomery, Polk, and San
+Jacinto counties, indicating that the northern edge of Inland Southeast Texas was
+probably the southern limit of significant Caddo influences in the Late Prehistoric period.
+It has been noted previously that Late Prehistoric sites tend to have less
+pottery than Early Ceramic sites in Inland Southeast Texas (Patterson 1976,
+1980). In this study, 21 sites with only Late Prehistoric components average 16
+sherds per site compared to 210 sherds per site at 100 sites that have both Early
+Ceramic and Late Prehistoric components. This is another indication that pottery was used less during the Late Prehistoric than during the Early Ceramic
+period. The decline in the use of ceramics in the Late Prehistoric might be a
+reflection of a more mobile lifestyle (Patterson 1979a, 1983).
+
+Patterson~Inland Southeast Texas
+
+269
+
+Lithic Tools
+Formal chipped stone tool types are not numerous on most sites in Inland
+Southeast Texas Cable 8); unretouched utilized flakes are the most common tools
+in most lithic collections in this region. Only 30 percent of the 182 published sites
+in the data base have scrapers, 12 percent have bifacial knives, 25 percent have
+gravers, 10 percent have unifacial perforators, and 13 percent have bifacial
+perforators (drills). Other formal tool types occur in even lower frequencies.
+Inset blades (Table 8) may have been used as compound arrowpoint elements,
+much as they were used in the Eurasian Mesolithic (Patterson 1982:19-22).
+Table 8. Lithic Tool Type Distributions
+ZONE
+
+WESTERN
+Number
+Tool Type
+Scraper
+Notched tool
+Denticulate
+
+Tools
+294
+
+Sites
+
+CENTRAL
+
+EASTERN
+
+TOTAL
+
+Number
+
+Number
+
+Number
+
+Tools Sites
+
+Tools Sites
+
+Tools Sites
+
+15
+
+433
+
+36
+
+45
+
+3
+
+772
+
+54
+
+0
+
+0
+
+39
+
+12
+
+10
+
+4
+
+19
+
+10
+
+2
+
+1
+
+41
+
+13
+
+0
+
+0
+
+29
+
+14
+
+Bifacial knife
+
+18
+
+8
+
+272
+
+11
+
+58
+
+2
+
+348
+
+21
+
+Graver
+
+59
+
+12
+
+223
+
+31
+
+22
+
+3
+
+304
+
+46
+
+Scraper-graver
+
+9
+
+1
+
+2
+
+2
+
+0
+
+0
+
+11
+
+3
+
+Uniface perforator 11
+
+2
+
+91
+
+16
+
+1
+
+1
+
+103
+
+19
+
+Biface perforator
+
+54
+
+10
+
+49
+
+9
+
+40
+
+4
+
+143
+
+23
+
+Stemmed scraper
+
+3
+
+2
+
+2
+
+2
+
+0
+
+0
+
+5
+
+4
+
+Chopper
+
+6
+
+3
+
+79
+
+5
+
+3
+
+1
+
+88
+
+9
+
+Gouge
+
+1
+
+1
+
+0
+
+0
+
+1
+
+1
+
+2
+
+2
+
+Comer tang
+
+4
+
+3
+
+0
+
+0
+
+0
+
+0
+
+4
+
+3
+
+Inset blade
+
+0
+
+0
+
+146
+
+9
+
+5
+
+1
+
+151
+
+10
+
+Combination scraper-gravers and stemmed scrapers tabulated here seem to
+be associated with the Late Paleoindian period. Scraper-gravers are common in
+Paleoindian lithic assemblages (Irwin and Wormington 1970) and were found
+in the Late Paleoindian excavation levels of site 41WH19 in Wharton County
+(Patterson et al. 1987). Webb, Shiner, and Roberts (1971) have reported stemmed
+side-notched scrapers at a Late Paleoindian site in Louisiana, and a stemmed
+side-notched scraper was found in the Late Paleoindian excavation level at Site
+41FB42 in Fort Bend County (L. W. Patterson, notes).
+
+270
+
+Texas Archeological Society
+General Lithics
+
+A tabulation of general lithics from sites in Inland Southeast Texas (Table
+9) shows that small flakes measure less than 15 mm~ and large flakes are over
+15 mmL The main reason for tabulating lithic flakes here is to show that fewer
+than half of the reports on sites in this subregion have quantitative data on lithic
+flakes, making it clear that the details of lithic manufacturing are poorly reported
+for many sites.
+
+Table 9. General Lithic Type Distributions
+ZONE
+WESTERN
+Number
+Lithic Type
+
+Items
+
+Sites
+
+CENTRAL
+
+EASTERN
+
+TOTAL
+
+Number
+
+Number
+
+Number
+
+Items Sites
+
+Items Sites
+
+Items Sites
+
+56
+
+0
+
+0
+
+59826
+
+76
+
+62
+
+2245
+
+2
+
+39012
+
+87
+
+15
+
+0
+
+0
+
+160
+
+18
+
+36
+
+22
+
+1
+
+1197
+
+41
+
+0
+45
+
+0
+1
+
+127
+
+21
+
+23
+
+563
+
+35
+
+Small flake
+Large flake
+
+23843
+
+20
+
+12551
+
+23
+
+Large blade
+
+55
+
+3
+
+105
+
+Small blade
+
+29
+
+4
+
+1146
+
+Blade core
+Misc. core
+
+5
+
+2
+11
+
+122
+
+19
+
+331
+
+187
+
+35983
+24216
+
+Heat treating
+
+--
+
+8
+
+--
+
+35
+
+--
+
+1
+
+--
+
+44
+
+Exotic flint
+
+--
+
+4
+
+--
+
+3
+
+--
+
+0
+
+--
+
+7
+
+Hammerstone
+
+37
+
+9
+
+126
+
+17
+
+32
+
+4
+
+195
+
+30
+
+Chert cobble
+
+125
+
+3
+
+89
+
+10
+
+0
+
+0
+
+214
+
+13
+
+Large prismatic blades (more than 15 mm wide) are not numerous and seem
+to be associated mainly with early occupation periods. Sixty-one percent of sites
+with large blades have Paleoindian components.
+As noted previously ~atterson 1973), several sites in this subregion have
+industries for the manufacture of small prismatic blades (less than 15 mm wide).
+Small prismatic blades can be made fortuitously as well as purposefully, but
+many of the sites tabulated here have polyhedral blade cores as well as small
+blades, thus demonstrating a purposeful manufacturing process. Small blades
+were used to manufacture unifacial perforators, inset blades, unifacial arrowpoints (Patterson 1973, 1982), and sometimes blanks for the manufacture of
+bifacial arrowpoints.
+The main lithic raw materials in this region are chert cobbles and petrified
+wood pieces found in the alluvial deposits in drainage basins of rivers such as
+
+Patterson--Inland Southeast Texas
+
+271
+
+the Brazos; large numbers of chert cobbles and miscellaneous chert cores are
+not found on most archeological sites in this subregion. General types of chert
+cores were reported in only 19 percent of published sites, and chert cobbles were
+reported in only 7 percent of published sites (Table 9). This indicates that primary reduction was commonly done at the source of the raw material, in order
+to make the lithic materials easy to transport. Primary reduction at the source
+also permitted testing for selection of high quality materials.
+Heat treating of lithic materials to be used for the manufacture of dart points
+was widespread. Only 24 percent of published sites showed that heat treating
+was used, but many site reports did not consider heat treating at all. Heat treating may not have been used as much for petrified wood as it was for chert. The
+area with the lowest incidence of heat treating (the Eastern zone) corresponds to
+the area of highest use of petrified wood for dart points. Exotic flint from the
+Edwards Plateau has been found in small quantities in a few sites.
+Small numbers of hammerstones are found throughout this subregion. In
+some cases, favorite hammerstones may have been curated by Indians and taken
+from site to site. Most hammerstones are of quartzite, but a few are of limestone, which is a good material for use as a soft percussor for bifacial thinning.
+Faunal Remains
+Faunal preservation is generally poor at sites in Inland Southeast Texas, due
+to acidic soil conditions. However, terrestrial faunal remains have been reported
+at 44 sites (Table 10) and aquatic faunal remains at 26 sites (Table 11); there are
+enough data to provide a fairly good picture of faunal subsistence patterns in
+this subregion. As noted previously (Patterson 1983), Indians in the Southeast
+Texas region were rather omnivorous, utilizing many types of small and large
+animals, probably according to availability on a day-to-day basis. At a few sites
+with freshwater shell middens, including site 41FB37 (McClure 1987), preservation of faunal remains has been good. However, preservation of floral remains
+in this region is practically nonexistent.
+Deer and turtle were the most commonly used faunal food resources; bison was
+utilized when available. As Dillehay (1974) has noted, bison was generally
+available only during certain times on the Southern Plains. Data from excavated
+sites in this region support Dillehay’s statement (Wheat 1953; Patterson et al. 1987).
+All data on faunal remains, from the earliest at 10,000 years ago (Patterson et al.
+1987) to more recent times (Hall 1981) indicate a broad-based faunal subsistence
+pattern over the entire period of prehistoric habitation of Inland Southeast Texas.
+The use of freshwater shellfish is neither geographically nor chronologically uniform in this subregion. Apparently, availability of significant quantities of shellfish was limited to certain local areas and to certain time periods.
+Along the San Bernard River, the greatest use of shellfish was during the Archaic period, with enough shell at some sites for classification as shell middens.
+The oldest radiocarbon date for a shell midden in this area is 6690!-_120 years
+BP (Patterson 1988c). Of the 22 sites with reported freshwater shellfish remains,
+
+272
+
+Texas Archeological Society
+Table 10. Summary of Terrestrial Faunal Remains from 44 Sites
+Number of
+Sites
+
+Percent of
+Sites
+
+Deer
+
+31
+
+70
+
+Land turtle
+
+31
+
+Snake
+
+5
+
+70
+11
+
+Rat
+
+5
+
+11
+
+Land bird
+
+7
+
+16
+
+Bison
+
+14
+
+32
+
+Rabbit
+
+13
+
+30
+
+Gopher
+
+8
+
+18
+
+Skunk
+
+3
+
+7
+
+Species
+
+Mouse
+
+2
+
+5
+
+Raccoon
+
+5
+
+11
+
+Opossum
+Badger
+
+9
+
+20
+
+2
+
+5
+
+Antelope
+
+4
+
+9
+
+Squirrel
+
+3
+
+7
+
+Beaver
+
+3
+
+7
+
+Bear
+
+2
+
+5
+
+Mink
+
+1
+
+2
+
+17 are in the Western Zone, 4 are in the Central Zone and 1 is in the Eastern
+Zone.
+Among other aquatic faunal resources used were alligator, pond turtle, frog,
+and several types of fish. The shark teeth and stingray spines found at Inland sites
+are from marine species of the coastal margin that were imported to Inland sites for
+nonutilitarian uses.
+Miscellaneous Artifacts and Features
+
+Among the miscellaneous items from sites in Inland Southeast Texas (Table
+12) are fired clayballs, found at 31 sites; clayballs formed definite hearth features at five sites. Purposely made clayballs generally are rounded and are uniformly fired on all surfaces. These artifacts, which are generally associated with
+cooking, are found in sites in Inland Southeast Texas of all prehistoric time
+periods (Patterson 1986e).
+Hearths were reported at 12 sites in this subregion: five sites had hearth features
+made of clayballs, three sites had stone hearths, one site had a hearth made of
+
+Patterson--Inland Southeast Texas
+
+273
+
+Table 11. Summary of Aquatic Faunal Remains from 26 Sites
+Species
+Clam
+
+Number of Sites
+22
+
+Alligator
+
+6
+
+Water bird
+
+4
+
+Pond turtle
+
+7
+
+Gar
+
+13
+
+Miscellaneous fish
+
+8
+
+Frog
+
+6
+
+Shark teeth
+
+2
+
+Catfish
+
+7
+
+Drum
+
+6
+
+Bass
+
+3
+
+Bowf’m
+Sunfish
+
+5
+1
+
+Stingray spines
+
+1
+
+clayballs and caliche pieces, and for hearths at three sites little specific information
+is available except for the presence of baked soil and traces of charcoal. Hearths
+made of clayballs were found in all zones, but hearths made of stone were found only
+in the Western Zone, where there are outcrops of sandstone.
+Pieces of asphalt, which were found at seven sites, occurring randomly in
+all zones, were used to haft projectile points and to coat pottery. Sandstone pieces
+that could have been used as abraders were found at 14 sites in all three zones.
+At two other sites, sandstone pieces were definitely classified as abraders. In
+addition, grooved stone pieces that are sometimes classified as shaft straighteners were reported at six sites. Manos were reported at nine sites, and metates
+were reported at nine sites, but manos and metates were not always found together as complete grinding sets.
+Ornamental items such as beads, pendants, and incised bone were found
+most often at burial sites; five of the ~ven sites with beads were burial sites.
+Three sites had bone beads, one site had shell beads, two sites had shell and
+bone beads, and one site had shell and stone beads. The stone beads found at
+one site (41FB42, L. W. Patterson, notes) were made of exotic materials.
+Boatstones made of exotic materials were found at four burial sites, all in the
+Western Zone. Incised bone objects were found at five sites in the Western Zone;
+four of these sites had burials and the other site had a possible burial. Pendants
+were found at seven sites, but shell pendants were found at only four burial
+
+274
+
+Texas Archeological Society
+Table 12. Distributions of
+Miscellaneous Artifacts and Features
+Number of
+Sites
+
+Number of
+Items
+
+Clayball
+Hearth
+Clayball hearth
+Stone hearth
+Clayball-caliche hearth
+Unspecified hearth
+Red ochre
+Asphalt
+Sandstone
+
+31
+12
+5
+3
+1
+3
+13
+7
+14
+
+18426
+
+Incised bone
+Grooved stone
+Mano
+Metate
+Beads. total sites
+Shell beads
+Bone beads
+Stone beads
+Pendant
+Stone pendant
+Shell pendant
+Bone pendant
+Bone tool
+Atlatl weight
+(Bannerstone)
+Boatstone
+Fishhook
+Bone projectile point
+Bone needle
+
+5
+6
+9
+9
+7
+4
+5
+1
+
+Item
+
+169
+
+6
+14
+46
+
+3
+3
+1
+8
+3
+4
+1
+3
+1
+
+4
+
+sites----one of these sites also had ground stone pendants (gorgets) made of exotic materials. One pendant was found at each of three sites that did not have
+burials, made of chert, sandstone and bone.
+Some types of artifacts are rather rare in this subregion. Four atlatl weights
+(bannerstones) of exotic ground stone materials were found on three sites. Fishhooks and bone needles were found at one site, bone tools were reported at eight
+sites, mad bone projectile points at three sites. The low frequency of functional
+bone items is due at least in part to poor preservation.
+
+PattersonuInland Southeast Texas
+
+275
+
+Mortuary Data
+The data on mortuary features at sites in this data base are not intended to
+be used for detailed studies of mortuary practices in this region, but rather as a
+general guide to the extent of data available on various burial types, locations,
+and time periods for Inland Southeast Texas ~able 13). The computer data base
+also has entries for burial configuration.
+
+Table 13. Summary of Inland Mortuary Sites
+Nos. of
+Burials
+
+Grave
+Goods?
+
+Violent
+Death?
+
+Disease?
+
+Zone
+
+41WH14
+41AU1
+4 lWH39
+41AU36
+
+11
+NA
+31
+238
+
+yes
+yes
+yes
+yes
+
+yes
+
+yes
+
+yes
+
+yes
+
+W
+W
+W
+W
+
+41FB 13
+41AU55
+41FB42
+41AU37
+
+19
+3
+4
+9
+
+yes
+yes
+yes
+yes
+
+yes
+
+W
+W
+W
+W
+
+41WH19
+41HR5
+41HR7
+41PK8
+
+1
+4
+3
+3
+
+Site
+
+yes
+
+yes
+
+W
+C
+C
+E
+
+Time
+Period
+Archaic
+Archaic?
+Archaic
+Archaic/postceramic
+Archaic
+Archaic
+Archaic
+Archaic/postceramic
+Post-ceramic
+NA
+NA
+NA
+
+Most of the available mortuary data is for the Western Zone. Two small burial
+groups have been reported in the Central Zone (Harris County) and one small burial
+group has been reported in the Eastern Zone (Polk County). A singlepost-ceramic
+burial has been reported at a site in the Western Zone (Wharton County). All other
+burial data in the Western Zone are for multiple burials.
+The only sites containing significant grave goods are in the Western Zone.
+These sites are associated with an Archaic period burial tradition as noted by
+Hall (1981) and Highley et al. (1988:Figure 1), involving elaborate grave goods,
+often made of exotic materials. Hall (1981) has shown that grave goods decrease
+significantly in post-ceramic burials. Grave goods from sites in the Archaic burial
+tradition of the Western Zone include items such as large corner-tang bifaces,
+boatstones, incised bone objects, shell, bone and stone beads, stone and shell
+pendants, shark teeth, and stingray spines. The Western Zone burial tradition
+implies a higher degree of social organization than is apparent in other zones in
+
+276
+
+Texas Archeological Society
+
+Inland Southeast Texas. The only~other elaborate burial tradition in this region
+is a postceramic tradition found on the coastal margin (Aten 1983). It could be
+postulated that this higher degree of social organization was supported by its
+location in an area of good natural food resources between the Colorado and
+Brazos rivers.
+EXTERNAL RELATIONSHIPS
+Data for prehistoric external relationships of this subregion are of two types:
+one type is a broad technological tradition such as projectile point and pottery
+types; the other type is of a short-term nature and involves evidence of longrange exchange systems using exotic materials. Broadly distributed technological traditions have been discussed above, especially in relation to the Eastem
+Woodlands and Southern Plains technological traditions.
+Evidence for long-range exchange of materials within this region is found
+mainly as grave goods of the Archaic burial tradition of the Western Zone. Shell
+beads, shell pendants, shark teeth, and stingray spines are indications of contacts with the coastal margin. Hall (1981) has discussed the widespread geographic distribution of shell ornaments. The large comer-tang bifaces found in
+the Western Zone seem to have come from Central Texas, which is the center
+of concentration of this type of artifact (Turner and Hester 1985:210).
+There is a possibility that ground stone objects found in the Western Zone
+Archaic burial tradition represent part of the widespread Poverty Point Culture
+exchange system described by Webb (1982:68). Boatstones, bannerstones, tubular stone beads, and stone gorgets found in the Western Zone are well known
+artifact types in the Poverty Point Culture (Webb 1982:Figures 28, 29). The
+Poverty Point Culture is well known for both long-range trade and a lapidary
+manufacturing industry. It has been noted that the Poverty Point Culture has most
+of the dart point types found in Inland Southeast Texas (Patterson 1975). Counter
+exchange from Texas with the Poverty Point Culture may have involved lithic
+raw materials and finished chipped stone items such as projectile points.
+Bone fishhooks found at site 41AU1 in Austin County (Duke 1982:6) are
+similar in both form and manufacturing methods to Archaic fishhooks found at
+the Horn Shelter No. 2 site in Central Texas ~edder 1985:Figure 8).
+Major river systems may have served as cultural exchange routes, promoting contacts between regions. Inland Southeast Texas has several major rivers
+that run from the north or northwest: the Colorado, Brazos, San Jacinto, Trinity,
+Neches, and Sabine rivers. The Colorado and Brazos river systems seem to have
+been important as routes for contacts between Southeast and Central Texas, but
+there are few artifact types that could show contacts between Northeast and
+Inland Southeast Texas in the same manner that projectile point and flint types
+show contacts between Central and Inland Southeast Texas. This is probably
+because the technological traditions of Northeast and Inland Southeast Texas
+are fairly similar, except for the Caddo Culture.
+
+Patterson--Inland Southeast Texas
+
+277
+
+DISCUSSION
+This summary of a data base for Inland Southeast Texas presents a good
+general picture of the current status of research in this subregion. For example,
+more details are now available on geographic distributions of artifact types to
+represent technological traditions. Enough data are now available to support
+research on several topics concerning the archeology of this subregion that have
+not yet been addressed in detail. As mentioned above, the complete current data
+base will be published, and it will be revised as new data become available.
+In general, previous conclusions made in summaries of the Southeastern
+Texas region (Patterson 1979a, 1983) are supported by the more detailed information now available in this data base. For example, previous conclusions on
+population dynamics and the decline of pottery use in the Late Prehistoric still
+seem to be valid. Some aspects of the prehistory of this subregion, such as faunal subsistence and general settlement patterns, are now fairly well outlined,
+although the nature of seasonal patterns remains poorly understood. More detailed chronologies need to be developed here for artifact types, in order to make
+it possible to address several other research problems in more detail.
+The amount of data available on the archeology of Inland Southeast Texas
+is especially impressive when it is noted that most of these data have been developed in only the last 20 years, and at a minimum expenditure of public funds;
+few of the publications for sites in this data base are dated before 1970.
+Regardless of any regional research planning that is done, professional work
+in this subregion will probably continue under the vagaries of contract work
+carried out in connection with construction projects. This means that the types
+of sites and geographic areas will not be closely coordinated with any regional
+research plan. It is hoped that more contract work will be done in the future on
+well-stratified sites. The development of more detailed chronological sequences
+and more geographically uniform data should be major goals in future regional
+research planning. The role of avocational archeologists will continue to be
+important in this region, especially for research involving sites on private land
+(Patterson 1988d:380). Well over half of the publications for Inland Southeast
+Texas sites have been written by avocational archeologists.
+SUMMARY
+This paper has presented a quantitative summary of a data base for published archeological sites of Inland Southeast Texas. It is hoped that this summary and the detailed data base, which will be published separately, will be useful
+for research in this region and for the orientation of Inland Southeast Texas in
+the general prehistory of Texas. Since this data base will be revised as new data
+become available, there should be no time limitation on its value. Because of
+the large amounts of data available, a tabulated data base has become an essential tool for regional research planning, execution, and synthesis.
+
+278
+
+Texas Archeological Society
+REFERENCES CITED
+
+Aten, L. E.
+1983
+Indians of the Upper Texas Coast. Academic Press, New York.
+Dillehay, T. D.
+1974
+Late Quatemary Bison Population Changes on the Southern Plains. Plains
+Anthropologist 19(65): 180-196.
+Duke, A. R.
+The Goebel Site (41AU1) An Archaic-Neo-American Site in Austin County,
+1982
+Texas. Houston Archeological Society Journal 72:5-7.
+Ensor, H. B., and D. L. Carlson
+1988
+The Crawford Site (41PK69), Central Trinity River Highlands, Polk County,
+Texas. Texas Department of Highways and Public Transportation, Contract
+Reports in Archeology, Report No. 4.
+Fleming, C. B.
+1960
+A Radiocarbon Date from Goebel Midden, Austin County. Bulletin ofthe Texas
+Archeological Society 31:330.
+Hall, G. D.
+1981
+Aliens Creek: A Study in the Cultural Prehistory of the Lower Brazos River
+Valley, Texas. Texas Archeological Survey Research Report No. 61.
+Highley, C. L., J. A. Huebner, J. H. Labadie, R. J. Leneave, and R. R. Harrison
+Salvage Archaeology at the Brandes Site (41AU55), Austin County, Texas. La
+1988
+Tierra 15(3):6-19.
+Hudgins, J. D.
+1982
+Historic Indian Site in Wharton Co., Texas. Houston Archeological Society
+Journal 74:2-7.
+Irwin, H. T., and H. M. Wormington
+1970
+Paleo-Indian Tool Types in the Great Plains. American Antiquity 35(1):24-34.
+Jennings, J. D.
+1974
+Prehistory of North America. McGraw Hill, New York.
+McClure, W. L.
+1987
+Faunal Analysis of 41FB37. Houston Archeological Society Journal 89:1-6.
+Patterson, L. W.
+1973
+Some Texas Blade Technology. Bulletin of the Texas Archeological Society
+44:89-111.
+1975
+
+The Poverty Point Culture, as Seen from Southeastern Texas. Louisiana
+Archaeology 2:153-162.
+
+Patterson~lnland Southeast Texas
+
+279
+
+1979a
+
+A Review of the Prehistory of the Upper Texas Coast. Bulletin of the Texas
+Archeological Society 50:103-123.
+
+1979b
+
+Comments on thablication in Contract Archeology. American Society for
+Conservation Archaeology Newsletter 6:29-30,
+
+1980
+
+The Owen Site, 41HR315: A Long Occupation Sequence in Harris County,
+Texas. Houston Archeological Society, Report No. 3.
+
+1982
+
+Initial I)evelopment of the Bow and Arrow in the Southern United States. La
+Tierra 9(2):18-26.
+
+1983
+
+Prehistoric Settlement and Technological Patterns in Southeast Texas. Bulletin
+of the Texas Archeological Society 54:253-269.
+
+1986a
+
+Bibliography of the Prehistory of the Upper Texas Coast. Houston Archeological Society Special Publication No. 6.
+
+1986b
+
+Prehistoric Population Dynamics of Southeastern Texas. Bulletin of the Texas
+Archeological Society 57:117-121.
+
+1986c
+
+Site 41HR571, A Long Prehistoric Sequence in Harris Co., Texas. Houston
+Archeological Society Journal 85:15-18.
+
+1986d
+
+Additional Data from Site41HR293, Harris Co., Texas. HoustonArcheological
+Society Journal 86:11-13.
+
+1986e
+
+Fired ClaybaUs in Southeast Texas. La Tierra 13(4):20-22.
+
+1988a
+
+The Status of Research on the Prehistory of Southeast Texas. Paper presented
+at the Texas Archeological Society Annual Meeting, Houston, Texas.
+
+1988b
+
+Technological Interactions in Central and Southeast Texas. Houston Archeological Society Journal 90:18-22.
+
+1988c
+
+Radiocarbon Dates from 41FB37, Fort Bend Co., Texas. Houston Archeological Society Journal 91:20--21.
+
+1988d
+
+Avocational Archaeology in the United States. Plains Anthropologist
+33(121):377-384.
+
+1989
+
+Early Dates for the Pedemales Point. La Tierra 16(1):28-30.
+
+Patterson, L. W., and J. D. Hudgins
+1985
+Paleoindian Occupations in Wharton County, Texas. Bulletin of the Texas
+Archeological Society 56:155-170.
+Patterson, L. W., J. D. Hudgins, R. L. Gregg, and W. L. McClure
+1987
+Excavations at Site 41WH19, Wharton County, Texas. HoustonArcheological
+Society, Report No. 4.
+Redder, A. J.
+1985
+Horn Shelter Number 2: The South End: A Preliminary Report. Central Texas
+Archeologist 10:37-65.
+Suhm, D. A., and E. B. Jelks
+1962
+Handbook of Texas Archeology: Type Descriptions. Texas Archeological
+Society, Special Publication No. 1.
+
+280
+
+Texas Archeological Society
+
+Turner, E. S., and T. R. Hester
+1985
+A Field Guide to Stone Artifacts of Texas Indians. Texas Monthly Press,
+Austin.
+Webb, C. H.
+1982
+The Poverty Point Culture. Geoscience and Man 17, Second Edition, Revised.
+Webb, C. H., J. L. Shiner, and E. W. Roberts
+1971
+The John Pearce Site (16CD56): A San Patrice Site in Caddo Parish, Louisiana.
+Bulletin of the Texas Archeological Society 42:1--49.
+Wheat, J. B.
+1953
+The Addicks Dam Site. Bureau ofAmerican Ethnology, Bulletin 154:143-252.
+
+

@@ -1,0 +1,2856 @@
+phase I archeological survey of the proposed west of the
+pecos solar project, reeves county, texas
+
+by
+Damon Burden
+and
+Karl W. Kibler
+
+Principal Investigators: Karl W. Kibler and Damon Burden
+
+TECHNICAL REPORTS, NUMBER 103
+
+submitted to
+Energy Renewal Partners, L.L.C
+Austin, Texas
+
+by
+Prewitt and Associates, Inc.
+Cultural Resources Services
+Austin, Texas
+
+PAI No. 215016
+
+March 2016
+
+TEXAS ANTIQUITIES PERMIT NO. 7479
+
+Table of Contents
+
+acknowledgments..........................................................................................................
+
+vii
+
+introduction.....................................................................................................................
+
+1
+
+Environmental Setting...............................................................................................
+Geology and Geomorphology........................................................................................
+Soils...............................................................................................................................
+Climate..........................................................................................................................
+Biota..............................................................................................................................
+
+1
+3
+4
+5
+5
+
+Archeological background......................................................................................
+
+6
+
+historical background................................................................................................
+
+8
+
+previous investigations..............................................................................................
+
+9
+
+methods of investigation..........................................................................................
+Prefield Review.............................................................................................................
+Field Survey..................................................................................................................
+
+13
+13
+13
+
+results of survey............................................................................................................
+Project Area Description..............................................................................................
+West Parcel.......................................................................................................
+East Parcel........................................................................................................
+Site Descriptions...........................................................................................................
+Site 41RV87......................................................................................................
+Site 41RV88......................................................................................................
+Site 41RV89......................................................................................................
+Site 41RV90......................................................................................................
+Site 41RV91......................................................................................................
+Site 41RV92......................................................................................................
+
+15
+15
+15
+17
+20
+22
+26
+29
+31
+33
+34
+
+assessments and recommendations.....................................................................
+Native American Sites..................................................................................................
+Historic Sites.................................................................................................................
+
+37
+37
+38
+
+References Cited.............................................................................................................
+
+39
+
+iii
+
+List of Figures
+1.
+
+Project location map........................................................................................................
+
+2
+
+2.	View southeast across 41RV87 on gently sloping alluvial outwash plain toward
+low gravelly ridge at the southeast corner of the west survey parcel..........................
+
+15
+
+3.
+
+Photograph of a vegetation-stabilized coppice dune in the west survey parcel...........
+
+16
+
+4.	View north across a mechanically cleared area on the east side of the west
+survey parcel...................................................................................................................
+
+17
+
+5.	View north-northeast across the nearly level surface of the relict alluvial t
+errace at 41RV89.............................................................................................................
+
+18
+
+6.	View south-southwest of surface disturbance associated cell tower
+installation on the interfluve summit in the central portion of 41RV91.....................
+
+19
+
+7.	View north across recent surface disturbance in the northwest quadrant
+of the east survey parcel.................................................................................................
+
+20
+
+8.
+
+Topographic map of the project area showing locations of recorded
+archeological sites...........................................................................................................
+
+21
+
+9.
+
+Map of 41RV87 showing topography and locations of north and south
+loci, features, shovel test, and shovel probe on 2015 aerial imagery............................
+
+23
+
+10.
+
+Map of 41RV88 showing topography and locations of the artifact scatter
+and mechanically excavated ditch on 2015 aerial imagery..........................................
+
+28
+
+11.
+
+Map of 41RV89 showing topography and locations of features and
+shovel tests on 2015 aerial imagery...............................................................................
+
+30
+
+12.
+
+Map of 41RV90 showing topography and locations of features and shovel
+tests on 2015 aerial imagery..........................................................................................
+
+32
+
+13.
+
+Map of 41RV91 showing topography and locations of modern cell tower,
+prehistoric features, scatter of burned rocks, and shovel tests on 2015
+aerial imagery.................................................................................................................
+
+35
+
+Map of 41RV92 showing topography and locations of utility pole remnants
+on 2015 aerial imagery...................................................................................................
+
+36
+
+14.
+
+iv
+
+List of Tables
+1.
+
+Summary of previous archeological investigations within 25 km of
+the project area................................................................................................................
+
+10
+
+2.
+
+Documented archeological sites within 25 km of the project area...............................
+
+11
+
+3.
+
+Summary of Native American features identified at 41RV87, 41RV89,
+41RV90, and 41RV91......................................................................................................
+
+24
+
+v
+
+abstract
+In November and December 2015, personnel with Prewitt and Associates, Inc., conducted
+a Phase I archeological survey of the proposed 716-acre West of the Pecos Solar Project area in
+northern Reeves County, Texas. The survey resulted in the identification of six previously unrecorded
+archeological sites. The four Native American sites are an open campsite (41RV87) and three open
+campsites and lithic procurement localities (41RV89, 41RV90, and 41RV91) characterized by stone
+hearth remnants and sparse scatters of chipped stone and occasional ground or battered stone
+artifacts. No temporally diagnostic artifacts were identified at these sites. The two twentieth-century
+historic sites are a work camp or staging area and adjacent water control feature (41RV88) and a
+roadway with adjacent utility pole remnants (41RV92). All six sites have no potential to contain
+important information and are considered ineligible for designation as State Antiquities Landmarks
+(13 TAC 26.2, 8).
+No diagnostic Native American artifacts were found, and the few diagnostic historic artifacts
+at 41RV88 were not collected, so the project resulted in no artifacts that will be curated. The records
+generated by the project are curated at the Texas Archeological Research Laboratory of the University
+of Texas at Austin.
+
+vi
+
+acknowledgments
+We wish to thank Brandon Richards of Energy Renewal Partners, L.L.C., and Grant Huber
+of the Texas General Land Office, who coordinated the fieldwork efforts, provided information about
+the project area, and listed active surface lessees. The authors also would like to thank Robert Hatter
+of the Texas General Land Office and Robert Trotta of West of the Pecos Solar, L.L.C., signatories of
+the antiquities permit application. Special thanks to the Texas General Land Office for allowing us
+free rein to cross state-owned property surrounding the project area. Prewitt and Associates staff
+who contributed to this project include Karl Kibler, Damon Burden, and Rob Thrift, who conducted
+the field survey, and Sandy Hannum, who produced field maps and the graphics in this report. Ross
+Fields edited the report.
+
+vii
+
+introduction
+This report presents the results of a Phase I archeological survey conducted
+for West of the Pecos Solar, L.L.C., and Energy Renewal Partners, L.L.C., on two
+parcels of range land owned by the State of Texas to be utilized for construction
+of the proposed West of the Pecos Solar Project in northern Reeves County, Texas
+(Figure 1). These parcels are between U.S. Highway 285 and the Pecos River,
+roughly 0.8 km south of County Road 440 and 56 km northwest of the Pecos, Texas.
+The west parcel is just east of the highway, has maximum north-south and eastwest dimensions of ca. 1.3 and 1.4 km, and encompasses 344 acres. The east parcel
+is along the valley margin, has maximum north-south and east-west dimensions
+of ca. 1.3 and 1.6 km, and encompasses 372 acres. The horizontal area of potential
+effects for this project consists of 716 acres of land controlled by the Texas General
+Land Office. Fieldwork was conducted in November and December 2015 under
+Texas Antiquities Permit No. 7479 to satisfy the requirements of the Antiquities
+Code of Texas (Texas Natural Resources Code of 1977, Title 9, Chapter 191, as
+amended). Six archeological sites identified during this effort (41RV87â41RV92)
+are evaluated for designation as State Antiquities Landmarks under the âRules of
+Practice and Procedure for the Antiquities Code of Texasâ (Texas Administrative
+Code, Title 13, Part IV, Chapter 26). No federal funds or permitting were involved
+in this project.
+Specific development plans for the two parcels are not yet available, but it is
+anticipated that both tracts will be impacted by the construction of various kinds of
+improvements typical for a solar electric generating facility, including solar panels
+and their mounting systems; underground conduit, communication cables, and
+electrical collection system wiring; multiple combiner boxes; one or more substations;
+inverter boxes on concrete or gravel pads; an operations and maintenance facility; a
+telephone system; and access and service roads. It is anticipated that many impacts
+will extend to a depth of 4 ft or less, but the support pilings for the solar panels will
+be 6â12 ft deep.
+Environmental Setting
+The project area is in the northeastern portion of the Chihuahuan Desert
+on the east edge of the Texas Trans-Pecos Region, broadly referred to as the TransPecos Basin and Range physiographic province. The lower-elevation terrain in
+the eastern third of the Trans-Pecosâstretching between the Pecos River and a
+series of northwest-southeast mountain ranges to the westâis physiographically
+distinct from the rest of the province and includes the dissected Stockton Plateau
+to the south and the broad, arid Toyah and Delaware basins to the north. Surface
+topography in the low-lying sediment-filled basins is characterized by nearly level
+to gently sloping or undulating gravelly plains with occasional low hills, playas,
+salt flats, sand sheets, and dune fields. This terrain is incised by drainages that
+flow into the Pecos River. The dissected west valley wall of the Pecos is defined by
+gradually to moderately sloping landforms and low bluffs in some areas (Griffith et
+al. 2004; Mallouf 1985; McMahan et al. 1984; Miller and Kenmotsu 2004; Richardson
+1
+
+2
+Figure 1
+
+CR
+
+441
+
+CR 440
+
+Project Area
+
+CR
+
+43 7
+
+285
+Â£
+Â¤
+
+Reeves County
+
+Â³
+
+0
+
+500 1,000
+
+2,000
+
+Meters
+
+T E X A S
+
+Figure 1. Project location map. Base image consists of segments of the USGS 7.5-minute Orla and Orla SE quadrangle maps
+(U.S. Geological Survey 1961, 1968).
+
+3
+
+1905). The project area is 1.3â5.9 km west of the Pecos River. Named Pecos River
+tributaries in the vicinity include Sand Bend Draw 0.8 km to the northwest and
+Fourmile Draw 3.7 km to the southeast.
+Geology and Geomorphology
+The project area is in a segment of the Pecos River valley that formed
+through large-scale solution-subsidence associated with the dissolution of Permian
+evaporites of the Delaware basin, channel incision and migration, and valley slope
+retreat starting in the Miocene and continuing to the present (Bretz and Horberg
+1949; Hawley 1993). Throughout this period, this segment of the valley filled with
+clastic sediments, locally up to 580 m thick, primarily derived from erosion of uplifted
+highlands to the west (Hawley 1993:266).
+A portion of this valley fill is known as the GatuÃ±a Formation, which the
+Pecos River incises and flows on along its course from the New Mexico-Texas state
+line to Pecos, Texas (Kelley 1980:216). Outcrops of the GatuÃ±a Formation form
+discontinuous low bluffs primarily along the east side of this segment of the Pecos
+River (Bureau of Economic Geology 1976; Kelley 1980:213). They also occur along
+Fourmile Draw just south of the project area. The formation consists of fine- and
+coarse-grained alluvial and eolian deposits capped by well-developed calcretes
+(Hawley 1993; Kelley 1980). These deposits rest on Permian, Triassic, and Cretaceous
+rocks (Kelley 1980:213) and thus represent the initial filling of the Pecos River valley
+after maximum erosion (Lang 1938:84â85). Initially described by Lang (1938:84â85)
+as âan assemblage of rocks of various kinds that were laid down in the Pecos Valley
+in post-High Plains [Ogallala Formation] time,â there currently is no consensus on
+the age of the GatuÃ±a Formation. It is at least Pliocene to middle Pleistocene in age
+(Bachman 1976, 1980, 1981; Lang 1938; Vine 1963), although basal deposits could
+be as old as late Miocene and correlative to the Ogallala Formation (Kelley 1980;
+Reeves 1972). The lack of consensus on the age of the GatuÃ±a Formation largely
+relates to the lack of detailed mapping, subsurface control, and identification of
+contacts between the GatuÃ±a and Ogallala Formations and correlative units (Hawley
+1993:264; Kelley 1980).
+Outside exposures along Fourmile Draw and the Pecos River, late Quaternary
+alluvial and eolian deposits bury much of the GatuÃ±a Formation in and around the
+project area. These overlying deposits are mapped as âOther Quaternaryâ (Qao) and
+âHolocene alluviumâ (Qal) (Bureau of Economic Geology 1976) and together form a
+broad two-tiered landscape with an overall eastward-dipping surface in the project
+area that stands 15 to 40 m above the Pecos River channel.
+The Qao deposits form the higher of the two surfaces and are more prevalent
+south of the project area. These deposits consist of fine-grained sediments and an
+array of small subrounded to rounded sedimentary, metamorphic, and igneous
+gravels exhibiting coats of secondary carbonate. The gravels often appear as a lag
+on the higher surface due to millennia of eolian deflation. The highly dissected
+nature of the Qao deposits, along with the stage II carbonate morphology, suggest
+
+4
+
+a late Pleistocene age. The lack of carbonate rocks in the gravel assemblage, rock
+types that are prevalent throughout the basin, also testify to the great antiquity of
+the deposits mapped as Qao. The presence of metamorphic and igneous gravels in
+these deposits indicates that the sources of these materials are not the Delaware and
+Guadalupe Mountains ca. 80â90 km to the west, as these ranges and their flanking
+foothills consist of Permian evaporites, carbonate rocks, sandstones, and mudstones
+(Bureau of Economic Geology 1976). The nearest upstream source of igneous and
+metamorphic rocks in the basin is in the northern Sacramento Mountains of New
+Mexico some 240 km northwest of the project area (New Mexico Geological Society
+1982). Hence, the deposits forming the higher surface most likely represent a
+highly dissected alluvial terrace of the Pecos River that is tens of thousands if not
+100,000 years old and that is unrelated to the current eastward-flowing network of
+intermittent streams that drain the broad pediplain west of the river and eastern
+slopes of the Delaware and Guadalupe Mountains. While Qao gravels are typically
+small to medium-sized pebbles, these locally available raw materials were utilized
+for the production of chipped and ground stone tools.
+Surfaces in areas mapped as Qal or Holocene alluvium are generally one to
+a few meters lower than the surfaces of Qao deposits. Qal deposits predominately
+consist of sands and silts delivered by a network of eastward-flowing intermittent
+streams and unconfined surface flow that have coalesced into a widespread sandy
+to silty outwash plain mantling much of the broad pediplain west of the Pecos
+River. Qal surfaces are extensively modified by sheetwash and eolian processes as
+evidenced by sheets of alluvial sediments and coppice dunes. Geologic processes
+and bioturbation have incorporated small pebbles into the Qal deposits from nearby
+higher Qao deposit surfaces.
+Soils
+Although the Qao and Qal deposits differ in age and lithology, their mapped
+distributions show little spatial correlation with the distributions of the three soil
+associations mapped in the project area (Bureau of Economic Geology 1976; Jaco
+1980; Soilweb Earth 2015). The soil series in these associations are Aridisols or
+Entisols, and many display calcic and gypsic horizons. Nearly level Monahans
+association and Reakor association soils are depicted across most of the project
+area, and both associations overlap Qao and Qal deposits. Monahans and Reakor
+soils are nearly level to gently sloping, very deep, and well drained. Monahans soils
+consist of thin surface veneers of fine sandy loam over basal zones of fine sandy loam
+and sandy clay loam; they formed in ancient alluvium with high levels of gypsum
+and calcium carbonate and are found on upland plains and fan skirts on upland
+piedmonts. Reakor soils consist of thin surface veneers of loam over basal zones of
+heavy loam and clay loam; they formed in loamy alluvium derived from limestone and
+small amounts of eolian material and are found on broad uplands and alluvial fans.
+The extent of the nearly level Hoban-Reeves-Holloman association mapped
+across the northern part of the west parcel loosely correlates with the distribution
+of Qal deposits there. These soils are nearly level to very gently sloping and range
+from very shallow to very deep. Hoban soils have moderately thick surface layers
+
+5
+
+of silty clay loam over basal zones of calcareous silty clay loam; they formed in
+calcareous loamy and clayey alluvium on broad valleys, alluvial outwash plains,
+and broad basins. Reeves soils have shallow loamy surface layers over basal zones
+of calcareous and gypsiferous clay loam; they formed in fine-textured alluvium
+derived from gypsum beds and are found on basin floors, hill slopes, and plateaus.
+Holloman soils have shallow and very shallow loamy surface layers over basal
+zones of calcareous and gypsiferous loam and interbedded gypsum and calcium
+carbonate; they formed in loamy, calcareous, and gypsiferous sediments and are
+found on basins, valley floors, and adjacent terraces (U.S. Department of Agriculture,
+Natural Resources Conservation Service 2015).
+Climate
+The climate of the project area is considered semiarid with hot summers and
+cool winters, prevailing winds from the south-southwest, high evaporation rates, and
+an average annual rainfall of 9.1 inches. Springs are typically dry and windy. The
+heaviest rainfall is derived from localized, high-intensity thunderstorms that occur
+during a southwestern monsoonal pattern rainy season that usually starts in July
+and ends in September. Snowfall is rare, generally light, and typically short lived
+at lower elevations. Temperatures can be widely variable and seasonally extreme.
+Mean monthly temperatures in the vicinity can range from 27ÂºF in January to
+97ÂºF in July, with documented extremes of 9ÂºF and 118ÂºF (Bryan 2002; Miller and
+Kenmotsu 2004; El-Hage and Moulton 1998; Jaco 1980).
+Biota
+The project area is in the Chihuahuan Basins and Playas subregion of the
+Chihuahuan Desert ecological region (Griffith et al. 2004). The mapped vegetative
+regime west of the Pecos River consists of Creosotebush-Tarbush Shrub. Aside
+from creosote bush (Larrea tridentata) and tarbush (Flourensia cernua), commonly
+associated plants include mesquite, whitethorn acacia, catclaw, fourwing saltbush,
+false broomweed, range ratany, jimmyweed, sotol, cholla, lechuguilla, alkali sacaton,
+chino grama, and gyp grama. The historic riparian habitats of native cottonwoods,
+willows, and grasses that once lined the Pecos River have been infiltrated or largely
+replaced by mesquite and invasive species like salt cedar, Australian saltbush,
+Russian thistle, Bermuda grass, and Johnsongrass. These modern vegetative
+regimes are believed to be primarily a result of livestock overgrazing and periods
+of drought during the late nineteenth and twentieth centuries. Native plants that
+would have been important resources for Native Americans in the region include
+honey and screwbean mesquite, sotol, agave, yucca, prickly pear, and other species
+of cacti (El-Hage and Moulton 1998; Frye et al. 1984; McMahan et al. 1984; Miller
+and Kenmotsu 2004).
+The project area is in the eastern portion of the Chihuahuan biotic province
+of Texas, which has greater faunal diversity than any other biotic province in
+the state due in part to its physiographic variability. Blair (1950:107, 108) notes
+the occurrence of 83 mammal species in recent times, together with 38 species of
+snakes, 22 lizard species, 1 land turtle, and 14 species of amphibians. A total of
+
+6
+
+244 nesting bird species have been documented in the various environmental regimes
+of Trans-Pecos Texas (Bryan 2002). Extirpated and extant faunal resources found
+in the desert basins and grasslands include bison, mule deer, pronghorn antelope,
+black-tailed jackrabbit, desert cottontail, wild turkey, and various rodents, reptiles,
+and fish (Miller and Kenmotsu 2004).
+Archeological background
+Evidence of Native American occupation in the Trans-Pecos region extends
+back nearly 12,000 years and continues up into the 1800s. This section presents
+a brief summary of indigenous utilization of the region with specific focus on the
+eastern Trans-Pecos to provide context for the Native American sites identified during
+the survey. The cultural history sequence used here is based largely on a temporal
+framework of the Trans-Pecos presented by Miller and Kenmotsu (2004:205â265) and
+Mallouf (1985). Additional sources of information include Perttula (2004), Turner et al.
+(2011), and information presented in the Trans Pecos Mountain & Basins exhibit on
+the Texas Beyond History web site (www.texasbeyondhistory.net/trans-p/index/html).
+The Paleoindian period (10,000â6,500 b.c.) has frequently been characterized
+as having low-density populations of small, highly mobile bands of foragers who
+were specialized hunters of Pleistocene megafauna. This oversimplified view has
+given way to consideration of a Paleoindian way of life that utilized a wider array
+of resources. Accurate understanding of this time period is hindered by a scarcity
+of isolable Paleoindian components and an absence of chronometric dates from
+unquestionable contexts. Identification of Paleoindian remains is typically dependent
+on the presence of known projectile point styles and other diagnostic tool forms, and
+thus it is possible that many archeological deposits dating to this time period are
+unrecognized. A sequential cultural sequence established in surrounding regionsâ
+the Clovis, Folsom, and Plano/Cody Complexesâhas been applied to the Paleoindian
+period in the Trans-Pecos (Kenmotsu and Miller 2014:212, 213; Mallouf 1985:95â98).
+Isolated projectile points have been reported in the Guadalupe Mountains to the
+west-northwest and on the Stockton Plateau well to the southeast (Boisvert 1980;
+Katz 1978; Sommer 1974), but only a few habitation sites have been identified in
+the vicinity of the project area, and these are technically outside the Trans-Pecos
+physiographic province. Site 41LV3, an open campsite about 14 km east-northeast
+of the project area, included a Folsom point fragment and several channel flakes
+mixed with later Archaic artifacts in moderately thick eolian deposits (Ackerly et
+al. 1987). The Shifting Sands site (41WK21), roughly 90 km to the east-northeast,
+is a Folsom-Midland campsite dating to the early and middle Paleoindian period
+(Hoffman et al. 1990).
+The Archaic period (6,500 b.c.âa.d. 200/900) encompasses thousands of
+years of seasonally mobile, broad-spectrum hunter-gatherer subsistence strategies
+and settlement adaptations in an increasingly arid environment. Archeological
+data from rockshelters and open-air sites indicate that this period saw increased
+populations and associated restrictions in range and mobility, seasonally driven
+land use patterns and land use intensification in an increasing diversity of
+environmental zones, increased diversification and intensification in use of plant
+
+7
+
+resources and plant processing, and changes in subsistence technologies. The first
+archeological evidence for the widespread use of rocks and caliche in thermal features
+and habitation structures dates to the first half of the Archaic period. Cultigens
+appeared in the archeological record between 1500 and 1000 b.c. in the western
+Trans-Pecos. The available substantive archeological data varies considerably
+across this lengthy span of time, and temporal subdivisions are primarily based
+on projectile point typologies and sequences developed in surrounding regions. The
+subsistence practices, settlement patterns, and group mobility strategies established
+and reinforced during the Late Archaic were affected by a series of cultural changes
+starting around a.d. 200 in the western Trans-Pecos, whereas a traditional Archaic
+way of life persisted until at least a.d. 900 across most of the eastern part of the
+region (Mallouf 1985; Miller and Kenmotsu 2004). A few archeological sites with
+Archaic components in the eastern Trans-Pecos include the Phantom Springs site
+(41JD63 [Charles 1994]), the Ramâs Head site (41PC35 [Young 1982]), Shelby Brooks
+Cave (41CU7 [Ward 1992]), and Granado Cave (41CU8 [Hamilton 2001]).
+The following period of prehistory is marked by distinct differences in
+subsistence strategies and settlement adaptations in the western and eastern TransPecos. This span of time is referred to as the Formative period (a.d. 200â1450) in
+the west and the Late Prehistoric period (a.d. 900â1450) in the east. The Formative
+period saw a relatively rapid series of changes in subsistence, technology, settlement
+structure and mobility, land use, and architectural form. Increased reliance on
+cultigens climaxed with sedentary Puebloan farmers around a.d. 1250â1450.
+Significant technological developments include the adoption of ceramics and the bow
+and arrow, changes in chipped stone and ground stone technologies, changes in use
+of thermal features, and increased prevalence of formal storage features. Many of
+the changes in the west do not appear in the archeological record in the east until
+a.d. 1000. Aside from universal adoption of the bow and arrow in the eastern TransPecos, many of the other changes in the west were variously adopted by indigenous
+groups in the east. Rather, the archeological record indicates a persistence of Late
+Archaic subsistence practices, settlement patterns, and mobility strategies across
+most of the eastern Trans-Pecos during this time (Mallouf 1985; Miller and Kenmotsu
+2004:236â238, 255â258; Riggs 2014).
+The presence of cultigens, ceramics, and nonlocal lithic materials and
+shells at sites in the east indicates interaction with populations to the west and
+southwest, and in some instances, sufficient knowledge of new subsistence practices
+and technologies for local production (Hamilton 2001; Hedrick 1989; Hines et al.
+1994; Jackson 1937; Roney 1995; Schroeder 1983; Smith 1938). Exceptions to this
+general pattern in the eastern Trans-Pecos are found in the La Junta district in the
+Presidio Bolson along the Rio Grande around modern-day Presidio, Texas, and in the
+Salt Flat Basin on the west side of the Guadalupe and Delaware Mountains. Native
+American populations in these areas lived in sedentary and semisedentary villages,
+manufactured ceramics, and cultivated crops (Miller and Kenmostsu 2004; Riggs
+2014). Diagnostic Late Prehistoric arrow point types for the eastern Trans-Pecos
+include Livermore, Toyah, Perdiz, Fresno, and the recently defined Diablo, Means,
+and Alazan types (Mallouf 2012, 2013; Riggs 2014; Turner et al. 2011).
+
+8
+
+The Cielo Complex (a.d. 1300â1680) encompasses a settlement pattern and
+material culture that are not found together outside the Big Bend region of the
+eastern Trans-Pecos, northeastern Chihuahua, and northwestern Coahuila (Miller
+and Kenmostu 2004). Mallouf (1985) defined the complex and suggests it could be
+the remains of one or more indigenous hunter-gather groups perhaps ancestral
+to the protohistoric and historic Jumano (Mallouf 1999). This manifestation is
+characterized by oval to circular stone-based, wikiup-type structure remnants on
+elevated, easily defended landforms, the absence of ceramics, predominance of the
+Perdiz arrow point style (with Garza and Soto points appearing later), and use of
+blades, blade drills, formal end scrapers, beveled knives, and prismatic blade cores.
+Turquoise and shell ornaments have been recovered at some Cielo Complex sites
+(Mallouf 1999; Miller and Kenmotsu 2004; Riggs 2014).
+The archeological record suggests that regional reorganization and
+abandonment of the Puebloan system occurred in the western Trans-Pecos after
+a.d. 1450, although similar agricultural groups in the east appear to have been
+little affected by the events that led to that cultural collapse. The majority of
+eastern Trans-Pecos residents continued to follow well-established hunter-gatherer
+lifestyles throughout the Protohistoric period (a.d. 1535â1700) and into the Historic
+era (after a.d. 1700). The centuries after the collapse of the Puebloan system saw
+the first Spanish entradas in the sixteenth century and intrusion of Athabascan
+speakers from the north. These interactions precipitated a breakdown of traditional
+subsistence and settlement practices and material culture, cultural assimilation,
+and eventual extirpation of the distinct indigenous cultural groups that traditionally
+inhabited the Trans-Pecos region (Cloud 2004; Mallouf 1999; Miller and Kenmotsu
+2004; Riggs 2014). Spanish settlement gave way to successive periods of Mexican,
+Euro-American, and American settlement and land use in the region.
+historical background
+This summary of Reeves County history is largely specific to the project area
+and provides a general context for the historic archeological sites identified during
+the survey. The first ranchers herded cattle onto open range in the northern part of
+Reeves County in 1885, and ranching remained a key focus of the area economy into
+the twentieth century. Settlement in the vicinity of the project area was encouraged
+by construction of the Pecos River Railroad in 1890 on land patented by the Texas
+and Pacific Railway company in the 1870s. The 54-mile-long railroad extended north
+from the town of Pecos to the state line on the west side of the Pecos River and
+facilitated the transport of local agricultural products. Now the Atchison, Topeka,
+and Santa Fe Railroad, this line passes east of the project area.
+The community of Orla, at the intersection of U.S. Highway 285 and County
+Road 652 about 5 km north of the project area, was established as a section house on
+the railroad line in 1890, and a post office was opened there in 1906. U.S. Highway
+285, which passes just west of the project area, was commissioned along its present
+route from Sanderson, Texas, in 1936. Orla grew steadily in the first half of the
+twentieth century, reaching its zenith as a rural oil supply center with a population
+of 250 in the 1960s. The small town still has a post office and continues to serve as
+
+9
+
+a busy hub for nearby oil and gas production (Smith 2010a, 2010b; Texas General
+Land Office 2015).
+Area ranching and farming were impacted by restrictions on public use
+of state-owned land in 1900, but state-sanctioned sale of school-owned land at
+generous terms to the buyer over the next five years prompted an influx of new
+settlers to Reeves County and other parts of west Texas. Many new residents left
+the area during a 1916 drought, however. The drought and the Great Depression
+of the 1930s had a negative impact on agricultural production and increased farm
+tenancy in the area. Livestock production dominated the agricultural industry by
+1940 but was overtaken by crop production in the 1950s; the values of the two sides
+of the agricultural industry consistently traded places through time according to
+variations in the national market (Smith 2010b).
+Local oil exploration in the Delaware basin in the 1920s, the discovery of
+the Ford Geraldine oil field northeast of Orla in 1956, and the development of three
+oilfields in the 1970s (Athens, Chapman Deep, and San Martine) each served to boost
+the Reeves County population and economy, at least temporarily. Oil development in
+the 1970s preceded the significant west Texas oil boom of the 1980s (Smith 2010b).
+The Ford Geraldine field northwest of the project area remains an important locus
+for oil and gas production.
+previous investigations
+Review of the Texas Historical Commissionâs Texas Archeological Sites Atlas
+in November 2015 revealed eight archeological investigations and 15 previously
+recorded archeological sites within 25 km of the project area (Tables 1 and 2).
+A. T. Jackson (1938) from the University of Texas at Austin conducted the earliest
+documented archeological investigation as part of a larger regional investigation
+in the 1930s. Most of the subsequent investigations were spurred by development
+in the oil and gas industries. The segment of the All American Pipeline corridor
+that passes less than 1 km north of the project area was surveyed in the mid 1980s
+(Plog et al. 1989). Most of the investigations associated with the energy industry are
+small, localized linear or area surveys conducted in the last three years (Carlson
+and Walborn 2014; Dowling and Justen 2013; McCormack and Boggess 2013; Walth
+et al. 2015). Other recent projects include surveys of a proposed cell tower facility
+(Turner 2013), and for proposed road improvements north and south of the town
+of Mentone (Dayton 2014).
+The list of previously documented sites within 25 km of the project area is
+nearly evenly split between Reeves and Loving Counties on either side of the Pecos
+River. Jackson (1938) recorded Petroglyph Site 190 (41LV1), a small rockshelter with
+petroglyphs, in the 1930s. The site is now at the east edge of Red Bluff Reservoir.
+The remaining 13 archeological sites with prehistoric components consist
+of 4 lithic procurement localities with scatters of chipped stone artifacts (including
+the closest site to the project area, 41RV16), 2 lithic procurement localities and open
+campsites, and 7 open campsites. All of these primarily consist of scatters of chipped
+stone artifacts. The distinction between open campsites and lithic procurement
+
+10
+Table 1. Summary of previous archeological investigations within 25 km of the project area
+Date
+
+County
+
+Organization
+
+Reference
+
+Summary of Work
+
+1930s
+
+Loving
+
+University of
+Texas at Austin
+
+Jackson 1938
+
+Recorded site 41LV1 (Petroglyph Site 190).
+
+1985
+
+Loving,
+Reeves
+
+Cultural Resource
+Management
+Division, New
+Mexico State
+University
+
+Ackerly et al.
+1987; Plog et al.
+1989
+
+Large-scale survey for the All American Pipeline
+crossing portions of Callahan, Crane, Crockett,
+Culberson, El Paso, Gillepsie, Hudspeth, Kerr,
+Kimble, Loving, Reeves, Sutton, Upton, Ward,
+and Winkler Counties. Pipeline route ran eastwest just north of project area. Eight prehistoric
+sites (41LV3-41LV7, 41RV14-41RV16) and 1
+multicomponent historic/prehistoric site (41RV17)
+recorded within 25 km of the project area.
+
+2013
+
+Loving
+
+Cox/McLain
+Environmental
+Consulting
+
+Dayton 2014
+
+Survey of a 47-km stretch of existing and
+proposed road rights of way covering 529 acres
+north and south of the town of Mentone. One
+historic site (41LV21) identified.
+
+2013
+
+Reeves
+
+Goshawk
+Environmental
+Consulting, Inc.
+
+Dowling and
+Justen 2013
+
+Survey of 13.2-km-long by 23-m-wide pipeline
+right of way with archeological investigations at
+three tributary crossings. Six isolated surface
+artifacts observed but no sites identified.
+
+2013
+
+Reeves
+
+Lone Mountain
+Archaeological
+Services, Inc.
+
+McCormack and
+Boggess 2013
+
+Survey of a 2.1-km-long by 40-m-wide segment
+of proposed 29-km-long pipeline corridor.
+Identified a prehistoric site (41RV58) with five
+thermal features, debitage, and stone tools on
+south side of Fourmile Draw. Avoidance corridor
+around the site also surveyed.
+
+2013
+
+Reeves
+
+TAS, Inc.
+
+Turner 2013
+
+Survey of three existing and one proposed cell
+tower localities. Identified two new prehistoric
+sites. Site 41RV59 is within 25 km of the current
+project area.
+
+2014
+
+Reeves
+
+SWCA
+Environmental
+Consultants
+
+Carlson and
+Walborn 2014
+
+Survey of a 30.3-acre parcel and 9.1-acre buffer
+for proposed expansion of the Ramsey Gas Plant
+near Orla. No sites identified.
+
+2015
+
+Reeves,
+Culberson
+
+SWCA
+Environmental
+Consultants
+
+Walth et al. 2015
+
+Survey of proposed 14.5-km-long by 15-m-wide
+Ramsey North Residue pipeline in Reeves and
+Culberson Counties, Texas, and Eddy County,
+New Mexico. Numerous historic sites recorded
+(none within 25 km of the project area); no
+prehistoric sites identified.
+
+sites in this sample is typically based on the presence of burned rocks or ground
+stone artifacts. Five campsites (41LV4, 41RV14, 41RV17, 41RV49, and 41RV58)
+contained rock hearths, possible hearths, or scattered burned rocks. Aside from
+prehistoric ceramics at 41LV2, projectile points serve as the diagnostic artifacts
+at the 5 sites with broadly definable prehistoric temporal components. Identifiable
+prehistoric components in this sample range from Paleoindian (Folsom point at
+41LV3) to Late Prehistoric/Late Formative. One lithic procurement site (41LV7) is
+overlain by a historic/modern trash dump, and 1 prehistoric campsite (41RV17) is
+also the location of an early-twentieth-century ranch habitation or camp. The final
+site in the study area (41LV21) is a twentieth-century gypsum mining locality with
+structural remains and debris potentially derived from habitation.
+
+Distance
+and Direction
+
+21.8 km NNW
+
+24.4 km ESE
+
+14.2 km ENE
+
+21.4 km ENE
+
+16.5 km ENE
+
+12.1 km ENE
+
+11.8 km ENE
+
+21.0 km NE
+
+15.2 km WNW
+
+Site
+
+41LV1
+
+41LV2
+
+41LV3
+
+41LV4
+
+41LV5
+
+41LV6
+
+41LV7
+
+41LV21
+
+41RV14
+
+Archaic to Late
+Prehistoric/
+multiple
+
+Historic (20th
+century)/
+single
+
+unknown prehistoric,
+historic-modern/
+multiple
+
+unknown prehistoric/
+unknown
+
+unknown prehistoric/
+unknown
+
+unknown prehistoric/
+unknown
+
+Paleoindian, Archaic/
+multiple
+
+Late Prehistoric/
+unknown
+
+unknown prehistoric/
+unknown
+
+Time Period/
+No. of Components
+
+Site Size
+(m)
+
+168x32+
+
+200x32+
+
+_
+
+open
+campsite
+
+mining
+locality,
+possible
+habitation
+
+600x450
+
+90x90
+
+lithic
+280x32+
+procurement,
+trash dump
+
+lithic
+475x32+
+procurement,
+open
+campsite
+
+lithic
+340x32+
+procurement,
+open
+campsite
+
+open
+campsite
+
+open
+campsite
+
+open
+campsite
+
+rockshelter
+_
+(petroglyphs)
+
+Site Type
+
+45
+
+surface
+
+surface
+
+surface
+
+unknown
+
+surface
+
+50
+
+_
+
+_
+
+Deposit Depth
+(maximum, cm)
+
+Table 2. Documented archeological sites within 25 km of the project area
+
+SAL-designated and NR-eligible prehistoric site
+on level silty plain on west side of Salt Creek.
+Approximately 30 hearths identified on surface, with
+projectile points, flake tools, debitage, ground stones,
+and some shells.
+
+Site is on low flat plain overlying gypsum deposits.
+Consists of structural remains: adobe, masonry,
+concrete footers; scattered domestic trash; several pits
+and shafts presumably derived from gypsum mining.
+
+Site is on relatively flat gravelly pediment east of a
+drainage. Prehsitoric artifacts include cores, debitage,
+and bone(?); historic-modern artifacts include auto
+parts, pipes, glass, wire, and fence posts.
+
+Site is on nearly flat gravelly plain that slopes
+downward gently toward drainage on the west.
+Artifacts include hammerstones, cores, debitage, flake
+tools, utilized pebbles, ground stones, and numerous
+tested cobbles. Materials derived from surface gravels.
+
+On hill overlooking shallow valley and nearby arroyo.
+Consists of cores, debitage, and ground stones.
+
+Site is on rise in desert plain. Included 2 burned rock
+hearths, cores, debitage, and ground stones.
+
+Site is in a dunal area with surface sands and blowouts
+east of the Pecos River. Artifacts recovered in low
+dunes, sandy surface sediments, and blowout areas.
+Artifacts include Folsom point fragment, channel
+flakes, flake tools, debitage, and ground stones.
+
+On east margin of the Pecos River valley. Harrell and
+untyped arrow points noted along with prehistoric
+ceramics and ground stone artifacts.
+
+Small rockshelter with petroglyphs and abrasion
+marks on walls, some occupational debris. Mortar
+holes in rock outcrop not far to the southwest.
+
+Descriptive Information
+
+11
+
+Distance
+and Direction
+
+10.5 km WNW
+
+0.5 km N
+
+17.1 km WNW
+
+21.6 km SE
+
+6.7 km SSE
+
+22.3 km SW
+
+Site
+
+41RV15
+
+41RV16
+
+41RV17
+
+41RV49
+
+41RV58
+
+41RV59
+
+Table 2, continued
+
+unknown prehistoric/
+unknown
+
+Archaic to Late
+Prehistoric/
+multiple
+
+Archaic to Late
+Prehistoric/
+multiple
+
+prehistoric, Historic
+(20th century)/
+multiple
+
+unknown prehistoric/
+unknown
+
+unknown prehistoric/
+unknown
+
+Time Period/
+No. of Components
+
+lithic
+procurement
+
+open
+campsite
+
+open
+campsite
+
+open
+campsite;
+historic
+ranch
+habitation,
+camp
+
+lithic
+procurement
+
+lithic
+procurement
+
+Site Type
+
+50x50
+
+325x165
+
+within
+radius of
+2 miles
+
+250x32
+
+268x170
+
+4,328x61
+
+Site Size
+(m)
+
+surface
+
+46
+
+unknown
+
+surface
+
+surface
+
+surface
+
+Deposit Depth
+(maximum, cm)
+
+About 10 tested cobbles/cores and small amount of
+debitage on small gravelly hilltop.
+
+On low rise and floodplain just south of Fourmile
+Draw. Five disturbed thermal features, 200+ pieces of
+debitage, cores, hammerstones, 1 dart point fragment, 1
+Guadalupe point.
+
+On sloping gravel ridge on west wall of Pecos River
+valley. Observed materials include burned rocks (no
+intact features), lithic debitage, cores, ground stones,
+and chipped stone tools (including corner-tang bifaces
+and Toyah, Frio, Langtry, Paisano, Ensor, possible
+Bulverde, Guadalupe, and Carlsbad points).
+
+In area of stabilized dunes just north of an intermittent
+tributary and 1.6 km west of Salt Creek. Possible
+hearth noted. Corner-notched point and debitage
+present. Locality served as a ranch habitation/
+sheepherder camp. Three historic structure remnants
+with trash scatter dating to 1930sâ1940s.
+
+Lithic scatter on and around a small hill on a gravel
+plain 3.2 km west of the Pecos River. Cores, debitage,
+and hammerstones noted; primarily if not completely
+derived from gravels available in that location.
+
+Expansive lithic scatter on a flat alluvial plain with
+some gently rolling hills. Several dense material
+concentrations noted. Local gravels are the source
+material. Cores, hammerstone, and debitage noted.
+
+Descriptive Information
+
+12
+
+13
+
+methods of investigation
+Prefield Review
+In addition to consulting pertinent geology and soils maps and review of
+information on the Texas Historical Commissionâs Archeological Sites Atlas, prefield
+investigations included examination of the most recent topographic quadrangle
+for the project area (U.S. Geological Survey 1961), modern aerial photographs
+(Texas Orthoimagery Program 1996, 2008, 2015), Google Earth satellite imagery,
+and relevant information available on the Texas State Historical Associationâs
+Handbook of Texas Online. The Atlas review indicated that prehistoric sites could
+be expected on nearly level to gently sloping uplands and desert floors, on top of
+and along the footslopes of elevated topographic features and valley walls, and on
+areas of lower relief with dunes that may harbor greater floral diversity, as long
+as water is reasonably accessible. Aside from the perennial Pecos River just east
+of the project area, locally available water sources could consist of one or more of
+the following at different times of the year: springs, intermittent tributaries, shortlived water impoundments along ephemeral wet-weather surface drainages, and
+rainwater catchments in interdunal blowouts. Given the proximity of the Pecos
+River and several intermittent tributaries and the presence of a number of smaller
+surface drainages, prefield review suggested that prehistoric sites could be present
+anywhere in the project area with the greatest potential along the valley margin
+overlooking tributaries in the east parcel. The age of the subsurface geology and
+characteristics of the mapped soils indicated any prehistoric archeological deposits
+in the project area would be at or near the modern surface or suspended within thin
+dune deposits, and thus potentially susceptible to occupational overprinting and
+natural processes like deflation and dune movement.
+Review of Google Earth satellite imagery and modern aerial photographs
+showed some subsurface pipeline alignments, a cell tower facility, and occasional
+dirt roads in the area, but the extents of these disturbances were limited. A
+prominent track that crosses the west parcel is depicted as a road on Google Earth
+and is mapped as an improved light-duty road on the 1961 topographic quadrangle.
+Subsequent review identified the same roadway on a 1940 Reeves County highway
+map (see 41RV92 description below; Texas State Highway Department 1940). No
+buildings or other structures are depicted along the road within the project area
+on the quadrangle or the earlier highway map. Visible stock tanks, feed troughs,
+and trails in and adjacent to the area confirmed that the property still served as
+range land for stock grazing, but no indications of modern or historic farming were
+evident. The distance of most of the project area from clearly reliable sources of
+water and major roadways and evidence of limited development within it suggested
+the potential for historic archeological sites was low.
+Field Survey
+Archeological fieldwork was conducted by a team of three archeologists who
+completed pedestrian survey of the 716-acre project area in NovemberâDecember
+2015. Excluding travel time, the survey required 15 person-days of effort, for an
+
+14
+
+average survey rate of 48 acres per person-day. Survey transects typically ran
+north-south along Universal Transverse Mercator (UTM) easting coordinate lines,
+since geodetic (true) north, grid north, and the north-south alignments of the survey
+parcels all varied by less than a degree in this location and the vegetation offered
+no physical obstruction to survey. Survey transects were generally spaced 30 m
+apart (sometimes less) due to typically excellent surface visibility, and transect
+spacing was maintained with hand-held Garmin GPS units. Survey included careful
+visual inspection of sparsely vegetated surfaces, animal backdirt piles, two-track
+roads, pipeline corridors, and other disturbances. Shovel tests were not excavated
+outside identified archeological sites due to excellent ground surface visibility
+(40â100 percent) on landforms that had little to no potential for buried archeological
+deposits because of their ancient age and limited Holocene deposition. Likewise,
+superior surface visibility at the documented archeological sites allowed for clear
+site delineation without shovel testing. Seven shovel tests and one shovel probe
+were excavated at the four documented prehistoric sites to assess local sediments
+and check the potential for subsurface deposits. These tests confirmed that the
+archeological remains are largely restricted to the surface.
+Shovel tests were approximately 30 cm in diameter and excavated in
+arbitrary 20-cm levels when sediments allowed. Most tests were excavated to depths
+where steadily increasing secondary carbonate or gypsum or increasing carbonatecoated gravels were encountered. One test was excavated to a layer of sandy clay
+loam with prevalent carbonate flecks. Test depths varied from 60 to 85 cm below
+the surface. Removed sediments were screened through 1/4-inch-mesh hardware
+cloth and inspected for archeological materials. Shovel Test Record Forms were used
+to record brief sediment descriptions, test depths, and recovery. None of the tests
+revealed subsurface artifacts. The one shovel probe (also about 30 cm in diameter)
+exposed tightly packed gravels below a 15-cm-thick mantle of surface sediments.
+The removed sediment was visually inspected for artifacts but was not screened.
+The locations of isolated surface artifacts, artifact scatters, and prehistoric
+features encountered were recorded with hand-held GPS units and revisited for
+additional evaluation and documentation after survey of a particular parcel was
+completed. Instances of one or a few adjacent artifacts were documented but not
+recorded as archeological sites. Aside from the documented historic road segment,
+site definition was loosely based on the occurrence of five or more artifacts or one
+or more features within a 20-m-diameter area. In every instance, site boundaries
+were defined by the extents of artifact scatters or the distribution of features on
+the surface. While one prehistoric site (41RV87) clearly extends outside the project
+area and another (41RV91) may, no effort was made to delineate the full extents
+of these sites outside the project boundaries. The documented segment of historic
+roadway 41RV92, which extends well beyond the limits of the west survey parcel,
+marks the length of the track traversed during survey.
+All archeological features were photographed, and the horizontal and vertical
+dimensions were recorded for each. Additional descriptive information such as clast
+count and composition and overall feature integrity were noted as well. This survey
+was conducted under a limited-collection policy in which only temporally diagnostic
+
+15
+
+artifacts (dart points, arrow points, prehistoric ceramics, and diagnostic historic
+artifacts) would be retained for curation. No temporally diagnostic prehistoric
+artifacts were found, however, and a handful of diagnostic very late historic artifacts
+observed at 41RV88 were described but not collected.
+The locations of shovel tests and the one shovel probe, archeological features,
+some specific artifacts, and the outside edges of artifact scatters were recorded with
+hand-held Garmin Etrex GPS units. Garmin points and tracks were uploaded to
+Google Earth daily to back up the points data and to check survey area coverage.
+Site-related points were plotted on survey block map sheets bearing (UTM) grid
+intersects and coordinates. GPS data were later converted to shape files to display
+the various spatial data within a geographic information system (GIS) environment,
+which allowed the overlay of spatial information onto digitized project maps at the
+end of survey.
+results of survey
+Project Area Description
+West Parcel
+Most of the west parcel is a nearly level to gently sloping upland alluvial
+outwash plain that drops gradually from southwest to northeast. Surface elevations
+mostly range from 2,855 to 2,825 ft. The only notable landform is the west end of
+a 3â4-m-high gravelly ridge at the southeast corner of the tract that probably is a
+segment of a relict Pecos River alluvial terrace (Figure 2). This feature, which is not
+depicted on the most recent topographic quadrangle, has an estimated maximum
+surface elevation of 2,860 ft.
+Figure 2
+
+Figure 2. View southeast across 41RV87 on gently sloping alluvial outwash plain toward low gravelly ridge at the
+southeast corner of the west survey parcel.
+
+16
+
+Surfaces across much of the west parcel have been impacted by eolian
+deflation and to a lesser degree sheetwash and channelized flow. Carbonates are
+exposed at the surface in the central portion of the parcel, and animal backdirt piles
+indicate calcic horizons are only a few centimeters below the surface in much of the
+surrounding area. Fields of low, vegetation-stabilized coppice dunes and adjacent
+sand sheets are present in the western and southern parts of the tract (Figure 3).
+The dunes are typically 1 m or less in height, although occasional exceptions are
+1.5 m tall. Low dune fields flank what appear to be two wide, shallow, ephemeral
+surface drainages that trend southwest to northeast across the parcel. Likely the
+upper reaches of the intermittent Sand Bend Draw tributary depicted north of
+the tract on the 1961 topographic quadrangle, these features would be difficult to
+recognize on the ground were it not for the belts of denser-than-normal vegetation
+that grow along them. Although ephemeral, it is clear from observations at the two
+historic sites (see 41RV88 and 41RV92 below) that these drainages are capable of
+channeling large volumes of water during periods of heavy rainfall. Also noteworthy
+are a series of shallow, oval surface depressions scattered primarily along these two
+drainage alignments. These features range from 10 to 130 m across, are typically
+less than 50 cm deep, and also serve as magnets for localized vegetation growth.
+Similar but smaller surface features are scattered north of the drainages. These
+drainage segments flanked by dune fields are essentially depositional interdunal
+areas dominated by small-scale aggradational processes derived from intermittent
+alluvial sheet flooding and occasional channelized runoff. The oval depressions may
+be derived from periodic water impoundment along these channels. Likewise, the
+smaller surface depressions away from the drainages may be interdunal blowouts
+stabilized by plants, moisture, or both (Waters 1992). Some of these features may
+have been enlarged (or perhaps created) through overgrazing during episodic wet
+periods over the last 140 years.
+Figure 3
+
+Figure 3. Photograph of a vegetation-stabilized coppice dune in the west survey parcel.
+
+17
+
+Survey identified a number of recent disturbances that are not evident on the
+latest Google Earth satellite imagery. An east-west, ca. 25-m-wide subsurface pipeline
+corridor now parallels an earlier corridor (which is visible on satellite images), and
+both extend through the small rectangular area off the northeast corner of the
+tract. A well-built gravel road and adjacent overhead utility line extend south from
+the double pipeline corridor, crossing the same part of the survey tract. Occasional
+discrete equipment- and vehicle-related surface disturbances may be associated with
+drilling test wells (water) and the erection and removal of associated above-ground
+tanks, core sampling, or both. Several acres of flat upland plain on the east side of
+the parcel were mechanically cleared of desert shrubs and other xeric vegetation
+in recent years to foster the growth of forbs and grasses for cattle grazing (Figure
+4). Other previously cleared areas (now in various stages of regrowth) are scattered
+around the west parcel. Natural disturbances aside from those associated with the
+drainages described above are widely scattered and include impacts derived from
+stock grazing, animal burrowing (insects, rodents, badgers, and coyotes), predatory
+digging (badgers and coyotes), and near-surface root growth.
+Figure 4
+
+Figure 4. View north across a mechanically cleared area on the east side of the west survey parcel.
+
+East Parcel
+About a mile distant from the west survey parcel, the east parcel encompasses
+most of a large interfluve, segments of sloping valley wall, and part of a nearly level
+outwash plain. In general, the terrain falls gradually from west to east toward
+
+18
+
+the Pecos River, and surface elevations vary from a high point of 2,829 ft on the
+interfluve to 2,785 ft on the valley wall. Most of the parcel consists of the tread and
+dissected margins of an ancient Pecos River alluvial terrace (Figure 5). Nearly level
+to gently sloping and gently rolling surfaces on the west and north sides of the tract
+culminate in a prominent hill characterized by moderately sloping terrain at the
+east end of the interfluve. A ridge or bench slopes gradually from the hilltop to the
+southeast corner of the parcel. Lower, nearly level terrain along the southern and
+eastern edges of the tract consists of younger alluvial outwash deposits around the
+toe of the relict terrace.
+Figure 5
+
+Figure 5. View north-northeast across the nearly level surface of the relict alluvial terrace at 41RV89. The cell tower on
+the right in the distance is on the summit of the interfluve that crosses the north side of the east survey parcel.
+
+Higher surfaces in the west and north halves of the parcel are capped by
+sand sheets and low coppice dunes, and these areas have been reworked by wind and
+water-derived erosion and limited sedimentation. Surfaces across the lower half of
+the bench extending southeast from the interfluve are lightly to severely deflated,
+and surfaces on this landform and the interfluve summit have been impacted more
+than other areas by channelized surface runoff. The north and south sides of the
+interfluve are dissected by a series of shallow, poorly defined drainages and narrow,
+slightly incised drainages (all wet-weather features) that trend toward intermittent
+Pecos River tributaries north and south of the project area.
+
+19
+
+The northernmost part of the parcel is crossed by the same double pipeline
+corridor that impacted the north edge of the west parcel. Installation of a north-south,
+ca. 35-m-wide subsurface pipeline across the west side of the parcel destroyed an
+unknown portion of 41RV89 (see site description below), and installation of a cell
+tower, associated access road, and overhead utility line on the interfluve summit
+adversely impacted portions of 41RV91 (Figure 6). Recent surface disturbance in the
+northwest quadrant of the tract is associated with installation of a surface water line
+(Figure 7). A downed barbed-wire fence crosses 41RV89 in the southwest quadrant,
+and acreage on several parts of the terrace in the west side of the parcel has been
+mechanically cleared of vegetation at various times in the past. Animal-derived
+surface disturbance is more common in the east parcel than in the west. Stock
+traffic has pitted large areas in the southwest quadrant and left deeply rutted trails
+in some areas. Javelinas have disturbed surfaces across the parcel; these impacts
+are rampant over the southern ca. 40 percent of the tract. Animal burrowing and
+predatory digging are also widespread, with extensive rodent disturbance in some
+areas on the west half of the parcel and on the north half of the low bench that
+extends southeast from the interfluve.
+
+Figure 6
+
+Figure 6. View south-southwest of surface disturbance associated cell tower installation on the interfluve summit
+in the central portion of 41RV91.
+
+Figure 7
+
+20
+Figure 7
+
+Figure 7. View north across recent surface disturbance in the northwest quadrant of the east survey parcel.
+
+Site Descriptions
+The survey resulted in the documentation of six previously unrecorded
+archeological sites, three in each parcel (Figure 8). Four are Native American
+sites (41RV87, 41RV89, 41RV90, and 41RV91), and two are historic sites dating
+to the first half of the twentieth century (41RV88 and 41RV91). Several isolated
+prehistoric artifacts and one historic artifact found on the surface were not
+recorded as sites. Two ground stone fragments (a mano and burned bifaceted
+tool fragment) and two burned limestone fragments were found at the foot of a
+vegetation-stabilized coppice dune in the west parcel about 200 m west-northwest
+of 41RV88. No other artifacts or burned rocks were observed in the vicinity. An
+isolated flake was roughly 200 m northeast of the ground stone fragments. Two
+widely distributed flakes and a ground stone fragment were found on the flat
+alluvial plain 155â200 m north of 41RV87; another isolated flake was observed
+nearly 600 m north of the site. In the southwest portion of the west parcel, a flake
+and a core were observed 110 m northeast and 240 m north of 41RV89; a uniface
+was identified ca. 110 m east-southeast of the site. On the opposite side of the parcel,
+a mano/hammerstone and hammerstone were roughly 150 and 300 m southeast
+of 41RV91, and fragments of a solarized glass bottle (manganese dioxide-induced
+colorless glass) were found 90 m south of the site.
+
+437
+
+285
+
+Â£
+Â¤
+
+Site Boundary
+Project Area
+
+41RV88
+41RV87
+
+Â³
+
+0
+
+255
+
+Meters
+
+510
+
+1,020
+
+41RV89
+
+41RV90
+
+41RV91
+
+Figure 8. Topographic map of the project area showing locations of recorded archeological sites. Base images are segments of the USGS 7.5-minute Orla and Orla
+SE quadrangle maps (U.S. Geological Survey 1961, 1968).
+
+CR
+
+41RV92
+
+CR 440
+
+Figure 8
+
+21
+
+22
+
+Site 41RV87
+Site 41RV87 is an open campsite and lithic procurement locality in
+unimproved range land at the southeast corner of the west survey parcel. It is
+1.4 km east of U.S. Highway 285, 2.0 km south of County Road 440, and 4.8 km
+west-southwest of the closest point along the Pecos River. Surface elevations are
+2,860â2,850 ft. The south end of the site includes the west end of a 3â4-m-high
+gravelly ridge top that probably is a segment of a relict Pecos River alluvial terrace.
+The site extends down slope to the north to include a lower, geologically younger
+segment of alluvial outwash plain (Figure 9) The ridge consists of an array of small
+rounded to subrounded igneous, metamorphic, and sedimentary fluvial gravels and
+fine-grained sediments with coats of secondary carbonates. Ridge side slopes are
+slightly dissected by shallow gullies and washes, and translocated gravels mantle
+the younger, lower surface to the north. Deflated sand sheet or low dune remnants
+are present in the northern part of the site.
+The nearly level Monahans association and Reakor association soils mapped
+at this site do not correspond to localized variations in surface topography (SoilWeb
+Earth 2015). Both associations are very deep and well drained fine sandy loam
+or loam over clayey substrates. Observed surface sediments consist of gravelly
+fine sandy loam on the ridge top and thin layers of fine- to medium-grained sand
+over loamy sand on the flat below. The nearest potential water sources are a very
+ephemeral, wet-weather surface drainage about 350 m northwest of the site and
+an intermittent tributary of Sand Bend Draw ca. 2 km to the northwest. Sparse to
+moderately dense vegetation in the site area consists of scattered yuccas, creosote
+bush, low mesquites and acacias, saltbush, Mormon tea, prickly pears, and various
+forbs and grasses. The densest vegetation is on the ridge top in the southern part
+of the site. Surface visibility is 70â100 percent.
+Site 41RV87 includes two loci that are 90â100 m apart. The north locus is
+on the deflated alluvial flat and encompasses four exposed burned rock hearths
+(Features 1â4) and a group of large sandstone cobbles (Feature 5; Table 3). The
+cobbles do not retain any recognizable pattern of arrangement, likely because of
+postabandonment disturbance, but they once may have braced the ends of supports
+like those used in a small structure such as a wikiup. All of these features are
+seated on or only centimeters below the surface. The south locus includes a lithic
+procurement area at the west end of the ridge top that is likely part of a larger
+procurement area that follows the ridge to the east. Survey efforts documented
+archeological materials just outside (east) of the survey area in both loci.
+Aside from the features, the surface has a sparse scatter of chipped and
+battered or ground stone artifacts, widely dispersed burned rocks (north locus
+only), and sparse to abundant unmodified gravels. No diagnostic artifacts were
+identified. Observed artifacts include chert and rarely chalcedony debitage,
+several chert cores, one chert or chalcedony unifacial scraper, one limestone cobble
+chopping tool, one quartzite hammerstone/mano, and one fine-grained igneous
+metate fragment. Artifacts are present in about the same frequencies in both loci
+but are more easily identified in the north locus due to meager vegetation and
+
+23
+
+Figure 9
+
+F-4
+
+# ST-1
+F-3 *
+#*
+# F-5
+*
+F-1
+
+#
+*
+
+F-2
+
+#
+*
+
+SP-1
+
+)
+"
+
+28 5 0
+
+Locus
+Site Boundary
+Project Area
+
+Â³
+
+0
+
+25
+
+50
+
+100
+
+Meters
+
+Figure 9. Map of 41RV87 showing topography and locations of north and south loci, features, shovel test, and shovel probe
+on 2015 aerial imagery.
+
+24
+Table 3. Summary of Native American features identified at 41RV87, 41RV89, 41RV90, and 41RV91
+Site
+
+Feature
+No.
+
+Feature
+Type
+
+Dimensions
+(m)
+
+Comments
+
+41RV87
+
+1
+
+hearth
+remnant
+
+1.75x2.2
+
+About 25 pieces of burned/fractured limestone, 3 pieces
+of sandstone, and 2 pieces of quartzite. A few pieces of
+debitage present within 3 m of the center.
+
+41RV87
+
+2
+
+hearth
+remnant
+
+2.1x3.2
+
+On deflated sloping surface with rocks dispersed by
+livestock traffic and sheetwash. Most-intact portion
+consists of about 30 pieces of fractured limestone and
+quartzite in 1.0x0.9 m area. About 10 more rocks are
+outside this group. Two fist-sized chert cores, a quartzite
+hammerstone/mano, and a few burned rock fragments are
+3â7 m to the west and southwest.
+
+41RV87
+
+3
+
+hearth
+remnant
+
+1.25x2.4
+
+About 20 clasts (mostly limestone with some sandstone)
+resting on or only centimeters below the surface. Some
+rocks are as large as 15 cm across.
+
+41RV87
+
+4
+
+hearth
+remnant
+
+1.7x2.3
+
+Badly disturbed. Composed of ca. 18 clasts (primarily
+limestone with some sandstone). All rocks are on or only
+centimeters below the surface.
+
+41RV87
+
+5
+
+possible
+structural
+supports
+
+2.2x7.3
+
+Dispersed group of 8 large (up to 30 cm across) pieces of
+ferruginous sandstone and 3 smaller limestone cobbles.
+Size of sandstone suggests they are intentional manuports.
+Could have supported the bases of small structural
+members like those used in a wikiup.
+
+41RV89
+
+1
+
+hearth
+remnant
+
+0.9x0.5
+
+22 mostly rounded and subangular clasts showing
+variable amounts of burning; primarily limestone (some
+fossiliferous) with a few pieces of sandstone. Several rocks
+on the surface within 1.5 m may be derived from the
+feature. Rocks are resting on or only centimeters below the
+surface.
+
+41RV89
+
+2
+
+hearth
+remnant
+
+3.5x4.0
+
+Roughly 100 clasts. Densest cluster of rocks is about
+0.7x0.6 m, with rocks dispersed downslope to the east
+and south. Primarily limestone with some sandstone
+and a few pieces of quartzite and fine-grained igneous
+material (possibly basalt). Clasts are primarily rounded
+to subangular cobbles and cobble fragments with a
+few tabular pieces. Sandstone mano about 2.5 m to the
+southeast. Rocks are on the surface.
+
+41RV89
+
+3
+
+hearth
+remnant
+
+0.7x2.1
+
+Widely dispersed group of about 10 pieces of burned and
+fractured limestone and sandstone. Rocks are on the
+surface.
+
+41RV89
+
+4
+
+hearth
+remnant
+
+1.1x2.2
+
+Rounded to angular pieces of burned and fractured
+limestone and igneous material. Rocks in 0.50x0.35-m
+central cluster extend about 5 cm below the surface. The
+rest of the rocks are on the surface.
+
+41RV89
+
+5
+
+hearth
+remnant
+
+1.2x0.9
+
+Relatively tight group of 34 rocks and 1 igneous core.
+Clasts are round to subangular cobbles and cobble
+fragments with a few tabular pieces, primarily limestone
+with some sandstone and igneous material. Some rocks
+on the west side are partially buried to a depth of no more
+than 5 cm by sheetwash.
+
+41RV89
+
+6
+
+hearth
+remnant
+
+2.0x1.3
+
+Badly disturbed hearth remnant of 13 rounded to
+subangular cobbles and cobble fragments of limestone and
+1 piece of sandstone.
+
+41RV90
+
+1
+
+hearth
+remnant
+
+1.0 x1.6
+
+30â35 clasts; tightest central group is 0.3 m in diameter.
+Rounded to subangular pieces of limestone and sandstone,
+several tabular pieces of limestone, and a few small pieces
+of igneous material. Rock are on or only a few centimeters
+below deflated sandy surface.
+
+25
+Table 3, continued
+Feature
+No.
+
+Site
+
+Feature
+Type
+
+Dimensions
+(m)
+
+Comments
+
+41RV90
+
+2
+
+hearth
+remnant
+
+4.2x1.7
+
+Dispersed scatter of ca. 50 rounded limestone cobble
+fragments, subangular limestone and sandstone cobble
+fragments, some basalt fragments, and 1 piece of quartzite.
+Most rocks are on or only centimeters below the surface,
+but 0.6x0.5-m group of rocks are seated 5â7 cm below the
+surface. One red chert flake is on the surface in the outer
+part of the feature.
+
+41RV90
+
+3
+
+hearth
+remnant
+
+2.3x1.1
+
+Dispersed hearth consisting of 0.7-m-diameter central
+cluster with most rocks dispersed to the south-southwest of
+this group. About 40 rocks in all, consisting of rounded to
+subangular and angular fragments of limestone, sandstone,
+and conglomerate. Rocks are primarily on the surface with
+some a few centimeters below.
+
+41RV90
+
+4
+
+hearth
+remnant
+
+2.9x1.6
+
+Central remnant is 0.6x0.5 m, where many clasts are
+smaller gravels. Consists of rounded gravels and small
+cobbles (limestone, sandstone, conglomerate, and some
+igneous) and fractured angular fragments of limestone,
+quartzite, and sandstone. One small chert flake is present.
+Angular fragments of limestone, sandstone, and possible
+igneous material are 0.5â0.7 m south of the central cluster.
+Larger angular fragments of limestone, sandstone, and
+some igneous material and a large burned chert cobble are
+1.1â1.7 m to the east and northeast. Rocks are on or just a
+few centimeters below the surface.
+
+41RV90
+
+5
+
+hearth
+remnant
+
+0.9x0.8
+
+About 20â25 clasts on deflated gravelly surface. Primarily
+rounded limestone cobbles with a few igenous and
+quartzite gravels. Probing identified some clasts below the
+surface in a small part of the feature.
+
+41RV91
+
+1
+
+hearth
+remnant
+
+1.3x1.1
+(central
+group)
+
+On deflated surface along margin of a sand sheet. About 75
+rocks, primarily rounded to subangular limestone, some
+burned sandstone, and some igneous cobble fragments.
+Numerous rocks are in 3â4-m-diameter area around
+central group. Rocks are on or only centimeters below the
+surface. Large igenous cobble hammerstone (fine-grained
+basalt?) 2.5â3.0 m to the west-southwest.
+
+41RV91
+
+2
+
+hearth
+remnant
+
+0.9x0.6 (main
+group)
+
+About 35 burned/fractured rocks at base of small creosote
+bush. Primarily limestone with a few pieces of sandstone
+and igneous material. Mostly rounded to subangular
+cobbles/cobble fragments and gravels with a few thick
+tabular pieces. About 5 rocks are 0.3â1.3 m east and
+southeast of the main group. Central part of main group
+may have some depth, but the rest of the rocks are on or
+only centimeters below the surface.
+
+41RV91
+
+3
+
+hearth
+remnant
+
+2.0x1.1
+
+Badly disturbed hearth remnant; downslope dispersal is
+result of sheetwash and livestock traffic. 10 limestone and
+2 sandstone rocks centered around a low acacia.
+
+low-density surface gravels in that area. Very occasional artifacts were observed
+on the surface between the loci. Burned rocks primarily consist of limestone with
+some sandstone and rare quartzite.
+The site extends approximately 300 m north-south by at least 100 m eastwest. It extends east beyond the project area, but no effort was made to delineate
+its true eastern boundary. A shovel test (ST-1) in a sand sheet remnant at the north
+
+26
+
+end of the site revealed 1â2 cm of sand over two zones of loosely to moderately
+consolidated loamy sand with very rare fine gravels and occasional carbonate flecks
+in the lowest 30 cm. Sediment at the base of the test (80â85 cm below the surface)
+consisted of moderately to well-consolidated sandy clay loam with abundant small
+carbonate masses. No artifacts were recovered from the test. A shovel probe (SP-1)
+on the ridge top at the south end of the site revealed 15 cm of gravelly sandy loam
+over tightly packed gravels. No artifacts were found. The ancient age of the ridge, the
+degraded character of the alluvial flat below, the characteristics of the features on
+the flat, and the absence of artifacts in the excavated shovel test and probe indicate
+that the archeological deposits are restricted to the modern surface or extend only
+a few centimeters below it at most.
+The site has been impacted by channeled runoff, sheetwash, colluvial
+processes, and eolian deflation. Other natural disturbances include animal
+burrowing, predatory digging (coyotes), near-surface root growth, and stock grazing.
+The northern part of the site probably was subjected to mechanical vegetation
+clearing in the past. The 1961 topographic quadrangle depicts a two-track road ca.
+25 m west of the site, and an unmapped modern gravel road passes 95â110 m to its
+east. The proximity of both make the site accessible to additional recent impacts
+such as vehicle and pedestrian traffic and surface collection.
+Site 41RV88
+Site 41RV88 is a surface scatter of twentieth-century artifacts and a
+mechanically excavated ditch in unimproved range land in the center of the west
+survey parcel, 1.0 km due east of the U.S. Highway 285-County Road 437 intersection
+and 1.8 km due south of County Road 440. The site is in the center of Section 40 of
+the original Texas and Pacific Railway Company Survey (Texas General Land Office
+2015, Abstract 2527), on the northeast side of an existing two-track road that is the
+remnant of an earlier improved roadway (see 41RV92 below).
+Site 41RV88 is at an average elevation of 2,840 ft on a broad, nearly level
+alluvial outwash plain. Surfaces dip gradually from southwest to northeast along
+a wide, ephemeral wet-weather surface drainage that passes about 25 m south of
+the artifact scatter. Surfaces in the site area have been extensively reworked by
+eolian and recent alluvial processes. The nearly level Monahans and Reakor soil
+associations mapped for the area are Aridisols characterized by accumulations
+of gypsum and carbonate (SoilWeb Earth 2015), and caliche is exposed at or just
+below the surface across much of the site. Surface sediments are light brown
+loamy fine sand. The nearest reliable water source is a stock well along the twotrack road 1.4 km southeast of the site, and Sand Bend Draw is 1.5 km to the
+northwest. Vegetation consists of creosote bush, tarbush, low mesquites, various
+yuccas, broomweed, and various forbs and grasses. Vegetation is thickest along
+unmodified portions of the surface drainage. Surface visibility in the artifact
+scatter is 90â100 percent.
+The low- to moderate-density artifact scatter is about 20 m northwest of
+the ditch, with its wider end along the two-track road (41RV92; Figure 10). The
+
+27
+
+70x70âm scatter is primarily metal artifacts and pieces of glass. Metal items include
+two small barrel hoops with small wire nails (from wooden kegs), scattered sardine
+cans, upright hinged-lid pocket tobacco tins, tin snuff can lids (external friction
+cans), aluminum rings (the type that might have joined the tops or bottoms and
+sides of larger cans), paint cans, sanitary cans (several opened by church key),
+metal hardware (bolts, nuts, and washers), bottle caps (crown and threaded), wire
+segments, and unidentifiable metal fragments. One circular can cap is embossed
+with âEST 22.â The largest metal artifacts are a possible crushed exhaust pipe
+segment (with crimped sides) and a large factory-made metal panel, possibly off of
+mechanical equipment. Tobacco and snuff tins, food-related cans, and hardware items
+are the most common metal artifacts in the scatter. Glass includes translucent to
+opaque white flat glass, bright green bottle glass, and four small pieces of manganese
+dioxide-induced colorless glass. Some of the green bottle glass fragments are warped
+from heat exposure. Three small whiteware sherds along the south edge of the
+scatter are probably derived from flatware; each has molded decorative elements
+on one side. Three cylindrical graphite battery cores were observed; these are less
+than 2 inches in diameter and about 8 inches long. No structural remains or other
+diagnostic features were identified.
+The few temporally diagnostic artifacts suggest that the scatter dates to
+the first half of the twentieth century. Aside from the embossed can cap, other
+temporal indicators include the simple external friction lids observed on several of
+the pocket tobacco tins. This lid type was used on tobacco tins for most of the first
+half of the twentieth century and was replaced with more airtight internal friction
+closures in about 1950 (Kirkpatrick and Duran 1981; Rock 1989). Diagnostic glass
+includes the four pieces of manganese dioxide-induced colorless glass. This glass type
+transitions from clear to shades of lavender and eventually purple with prolonged
+ultraviolet light exposure and is often referenced as solarized, amethyst, or purple
+glass. Manganese was used as a glass decolorant from about 1880 to 1915 (Gillio et
+al. 1980; Society for Historical Archaeology 2015).
+The mechanically excavated ditch south of the surface artifact scatter follows
+the alignment of an ephemeral surface drainage on the downslope side of the twotrack road. The southwest-northeast cut is ca. 280 m long, 7 m wide and 60â70 cm
+deep at the southwest end, and 3 m wide and only 30 cm deep at the northeast end.
+The end of the cut is ringed by denser-than-normal vegetation.
+Potential agricultural functions can be ruled out for this feature, since it does
+not appear to have been capable of delivering water to adjacent flat areas, and soil
+composition along the floor of the cut suggests it was incapable of holding water for
+any length of time. The fact that the cut is in the alignment of an existing surface
+drainage on the downslope side of the two-track road suggests it was excavated to
+channel water away from the once-improved roadway during wet periods. It is not
+certain that the ditch and artifact scatter are associated with one another, but the
+latter could represent an equipment staging area or short-term camp used during
+ditch excavation.
+
+28
+
+Figure 10
+
+Mechanically
+Excavated
+Ditch
+
+Artifact
+Scatter
+
+41RV88
+28
+40
+
+41RV92
+
+Site Boundary
+
+Â³
+
+0
+
+20
+
+40
+
+80
+
+Meters
+
+Figure 10. Map of 41RV88 showing topography and locations of the artifact scatter and mechanically excavated ditch on
+2015 aerial imagery. This site borders a historic roadway (41RV92).
+
+29
+
+Site 41RV89
+Site 41RV89 is an open campsite in unimproved range land on the east side
+of a ca. 35-m-wide pipeline corridor near the southwest corner of the east survey
+parcel. It is 3.4 km due east of U.S. Highway 285, 2.0 km due south of County Road
+440, and 2.8 km west-southwest of the nearest point on the Pecos River. It is at an
+average elevation of 2,816 ft on a nearly level relict terrace surface that falls almost
+imperceptibly from west to east. Soils are mapped as nearly level Reakor association
+(SoilWeb Earth 2015), and surface sediments consist of fine sandy loam over gravelly,
+very fine sand. The nearest potential water sources include the upper reaches of
+small intermittent Pecos River tributaries 1.1 km northeast and 1.4 km southeast
+of the site. A larger intermittent tributary of Fourmile Draw is about 3.2 km to
+the southeast. Vegetation is dispersed and sparse, consisting of low mesquites and
+acacias, Mormon tea, yuccas, tasajillo, prickly pears, broomweed, various forbs, and
+bunch grasses. Surface visibility is 80â90 percent.
+Site 41RV89 consists of six disturbed burned rock hearths (see Table 3) in a
+roughly 30-m-diameter area in the south-central portion of a sparse, widely dispersed
+surface artifact scatter (Figure 11). Four of the hearths are along a shallow, northsouth, 20-m-long arc just east of the pipeline corridor (Features 1â3 and 5), and
+the remaining two hearths (Features 4 and 5) are 10â15 m to the east. Most of the
+features are on the surface, but some of the rocks in Features 1 and 4 are seated
+up to 5 cm below the surface. Other scattered burned rocks are undoubtedly from
+these and potentially other extensively disturbed or destroyed thermal features.
+The surface scatter also includes cores and flakes (chert, jasper, chalcedony, quartz,
+and various fine-grained igneous rocks), one fine-grained igneous bifacial core or
+chopping tool, one sandstone mano, and two pieces of mussel shell. Unmodified
+gravels are also present in low to moderate densities across the site surface. No
+diagnostic artifacts were observed.
+The site extends over an area of about 100x65 m. No prehistoric artifacts
+or features were observed on the west side of the pipeline corridor opposite the
+defined site area. Two shovel tests (ST-1 and ST-2) in the south half of the site
+revealed 20â25 cm of fine sandy loam over very fine sand with many small gravels
+with carbonate pendants. Basal layers exposed at 45â60 cm below the surface in
+both tests consisted of fine sand with few to common small gravels with carbonate
+pendants and common soft to hard masses of secondary carbonate and gypsum.
+No artifacts were recovered in these tests. The ancient age of the landform, shovel
+test results, and results of subsurface probing at several features indicate that the
+archeological deposits are primarily restricted to the surface and extend only a few
+centimeters below it at most.
+Surfaces in the site area have been reworked by sheetwash and eolian
+deflation resulting in a patchwork of soil loss in some areas and minor deposition
+in others. Other natural disturbances include animal burrowing, near-surface
+root growth, and stock grazing. An unknown portion of the site was destroyed by
+installation of the pipeline and subsequent surface grading, and the eastern part of
+the site was minimally impacted by barbed wire fence installation. The proximity
+
+30
+
+Figure 11
+
+!
+!
+!
+!
+!
+!
+!
+!
+!
+
+#
+*
+
+!
+
+F-1
+
+!
+
+F-4
+
+ST-1
+F-5
+
+!
+
+#
+#*
+*
+
+!
+
+F-2
+
+!
+
+#
+*
+
+!
+
+F-6
+
+F-3
+
+!
+
+#
+*
+
+#
+*
+
+!
+!
+
+ST-2
+
+!
+!
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+Fence
+Site Boundary
+
+Â³
+
+!
+
+!
+
+0
+
+5
+
+10
+
+20
+
+Meters
+
+Figure 11. Map of 41RV89 showing topography and locations of features and shovel tests on 2015 aerial imagery. The west
+side of the site is delimited by a pipeline corridor.
+
+31
+
+of these disturbances raises the possibility that site features and the surrounding
+artifact scatter were impacted by vehicle and equipment traffic, pedestrian traffic,
+and surface collection.
+Site 41RV90
+Site 41RV90 is an open campsite and lithic procurement locality in
+unimproved range land near the southeast corner of the east survey parcel. It is
+4.6 km due east of U.S. Highway 285, 1.8 km due south of County Road 440, and
+1.7 km southwest of the nearest point on the Pecos River. The site is at an average
+elevation of 2,795 ft on the crest of a low, northwest-southeast gravelly ridge at the
+toe of an ancient, highly dissected Pecos River alluvial terrace segment (Figure 12).
+Surfaces drop gradually to the north, south, and east from the ridge crest toward
+a younger, lower, nearly level alluvial surface. The ridge deposits are fine-grained
+sediments and an array of small subrounded to rounded sedimentary, metamorphic,
+and igneous gravels with coats of secondary carbonates. Surfaces across much of the
+landform have been deflated by wind and sheetwash, leaving a light to moderately
+dense mantle of gravels. Vegetation has maintained discrete patches of thicker
+sandy surface deposits in some areas. Soils are mapped as nearly level Monahans
+association (SoilWeb Earth 2015), and surface sediments are fine sand over loamy
+fine sand with many small gravels. The landform is on the north valley wall of a
+small, intermittent, northeast-trending Pecos River tributary that passes ca. 0.6 km
+southeast of the site. A larger intermittent tributary of Fourmile Draw is about
+3 km to the south. Dispersed vegetation is dominated by whitethorn acacias with
+scattered creosote bush and other acacias, occasional low mesquites, Mormon tea,
+yuccas, tasajillo, prickly pears, various forbs, and bunch grasses. Surface visibility
+is 80â100 percent.
+Site 41RV90 consists of five deflated burned rock hearths (see Table 3) and
+a sparse surface scatter of chipped stone artifacts and burned rocks. The hearth
+remnants are distributed across the site. Features 1â3 are along a shallow, northsouth, 25-m-long arc in the west half of the site. Feature 4 is in the central part of
+the site 25 m east of Feature 3, and Feature 5 is on the east side of the site nearly
+110 m east-northeast of Feature 1. Subsurface probing indicated that most of these
+are seated on or only a few centimeters below the surface, but Features 2 and 5
+each contained buried rocks. Probing revealed a nucleus of subsurface rock in the
+northwest portion of widely dispersed Feature 2. Partial exposure identified a tight
+group of rocks that is 60x50 cm across and seated 5â7 cm below the surface. Observed
+surface artifacts include cores and debitage of microcrystalline materials (cherts,
+jasper, chalcedony, and quartz), quartzite, and fine-grained igneous materials. All of
+these lithologies are available among the lag gravels found across the site surface,
+and chipped stone artifacts are slightly more prevalent in the east half of the site
+where these gravels are densest. No diagnostic artifacts were observed.
+The artifact scatter and features define a site area of 105x175 m. Two shovel
+tests (ST-1 and ST-2) in vegetation-stabilized sediments along the ridge in the
+central part of the site revealed 15 cm of fine sand with few to common small gavels
+over loamy fine sand with many small gravels. Excavation was stopped at 60 cm
+
+32
+
+Figure 12
+
+F-5
+
+F-1
+
+#
+*
+
+#
+*
+
+F-2
+
+#
+*
+
+F-3
+
+#
+*
+
+ST-2
+
+F-4
+
+ST-1
+
+#
+*
+
+27 9 0
+
+Site Boundary
+Project Area
+
+Â³
+
+0
+
+15
+
+30
+
+60
+
+Meters
+
+Figure 12. Map of 41RV90 showing topography and locations of features and shovel tests on 2015 aerial imagery.
+
+33
+
+because of an increasing frequency of gravels with carbonate pendants. Neither
+test contained artifacts. Shovel test results and feature probing indicate that the
+archeological deposits are primarily restricted to the surface, with archeological
+materials extending no more than 10 cm below it in two features. The ancient age
+and geomorphological character of the ridge support the conclusion that the site
+has little to no depth.
+The common to abundant lag gavels across the site indicate area surfaces
+are relatively stable and primarily impacted by wind deflation and water-derived
+erosion. Other natural disturbances include animal burrowing, near-surface root
+growth, and stock grazing. No artificial impacts were identified, although previous
+vegetation clearing is a possibility.
+Site 41RV91
+Site 41RV91 is an open campsite and probable lithic procurement area on
+the summit of a large interfluve near the north edge of the east survey parcel. It
+is 4.7 km due east of U.S. Highway 285, 1.0 km due south of County Road 440, and
+1.7 km west-southwest of the nearest point on the Pecos River. The interfluve is
+composed of ancient, dissected Pecos River alluvial terrace deposits consisting of
+fine-grained sediments and an array of small subrounded to rounded sedimentary,
+metamorphic, and igneous gravels with coats of carbonates. The landform stands
+above discrete deposits of younger alluvium along intermittent tributaries to the
+north and south. Surface elevations are 2,829â2,810 ft. Gently to moderately sloping
+surfaces around the interfluve summit transition to nearly level to gently rolling
+surfaces on a broad saddle west of the site. Localized degraded sand sheets and
+low dune remnants are present on some parts of the landform, and surfaces have
+been reworked by eolian and sheetwash processes. Soils are mapped as nearly level
+Monahans association (SoilWeb Earth 2015), and surface sediments are loamy fine
+sand with typically small gravels. The head of a small, intermittent Pecos River
+tributary is about 0.8 km northwest of the site; another is 1.3 km to the southeast.
+A series of small, wet-weather surface drainages trend down the north and south
+sides of the interfluve toward both tributaries. Most of the site area encompasses
+unimproved range land. Moderately dense vegetation in and around the site
+includes scattered low mesquites, acacias, and creosote bush, as well as Mormon
+tea, yuccas, allthorn, various forbs, and abundant grasses. Vegetation cover on top
+of the interfluve is more diverse and noticeably thicker than is the case across much
+of the rest of the survey area. Surface visibility is 40â80 percent.
+Site 41RV91 consists of three widely separated burned rock hearths (see
+Table 3), another possible hearth remnant marked by a discrete scatter of burned
+rocks, and a sparse to very sparse surface scatter of chipped and battered stone
+artifacts and burned rocks (Figure 13). Trowel probing at the most-intact features
+suggests that the central portion of Feature 2 may have some depth; all other feature
+clasts were on or only centimeters below the surface. Sparse to moderate-density
+fine to small gavels mantle the surface, and many of the chipped stone artifacts are
+easily lost among these. Chipped stone artifacts are rare but appear to be slightly
+more common upslope to the east and southeast of Feature 1. Observed artifacts
+
+34
+
+include one igneous cobble hammerstone, one fine-grained igneous bifacial core
+or chopping tool, and debitage composed of locally available chert, jasper, quartz,
+chalcedony, and fine-grained igneous material. The presence of some microcrystalline
+and fine-grained igneous gravels large enough for tool production suggests the
+landform also served as a lithic procurement locality. No diagnostic prehistoric
+artifacts were observed.
+The artifact scatter and prehistoric features define a site area that is
+approximately 320x370 m. Two shovel tests (ST-1 and ST-2) in the central portion
+of the site revealed 20 cm of loamy fine sand with few small gravels over the same
+sediment with higher frequencies of small gravels (many with carbonate coats) and
+soft masses of secondary gypsum. Test excavations were stopped at 60 cm due to
+increasing frequencies of carbonate and gypsum. Neither test contained artifacts. The
+ancient age of the terrace deposits, the prevalence of landform-degrading processes,
+shovel test results, and feature probing indicate that the archeological deposits are
+mainly restricted to the surface and extend no more than 10 cm below it.
+Surfaces in the site area have been impacted by eolian and sheetwash
+processes, surface gullying, and colluvial processes. Other natural disturbances
+include faunal turbation (by rodents, coyotes, javelinas, and livestock) and nearsurface root growth. Construction of a cell tower on the high point of the landform
+between 1997 and 2005 (Google Earth satellite imagery) extensively disturbed
+the archeological deposits in some areas and largely removed or destroyed any
+indication of them in others. Associated disturbances included earthmoving and
+surface grading, construction of the tower foundation, installation of six large guywire anchors, construction of a gravel access road, and overhead utility installation.
+Site 41RV92
+Site 41RV92 is a 3.8-km-long segment of a historic road that extends
+southeast from County Road 440, passes through the west survey parcel, and ends
+about 0.7 km southeast of the project area (Figure 14). The recorded segment crosses
+Sections 32, 33, 40, and 45 of the original Texas and Pacific Railway Company Survey
+(Texas General Land Office 2015, Abstracts 2213, 592, 2527, and 598). The recorded
+segment is part of a roughly 11-km-long road mapped as an improved âmetal surfaced
+roadâ (rock and gravel-surfaced) on a 1940 Reeves County highway map (Texas
+State Highway Department 1940). The feature is depicted as a light-duty road and
+an unimproved road on the most-recent topographic quadrangles (U.S. Geological
+Survey 1961, 1968). Still visible on Google Earth satellite imagery, this road splits
+from U.S. Highway 285 north of Orla, bypasses the community and parallels the
+highway for about 6.3 km, and curves to rejoin U.S. Highway 285 roughly 2.4 km
+south of the project area.
+The road segment crosses a broad, nearly level, alluvial outwash plain
+where surfaces dip gradually from southwest to northeast. Surface elevations
+vary from a high of 2,855 ft at the southeast end to a low of 2,825 ft near the
+northeast end. Sediments are primarily fine-grained materials, and area surfaces
+have been extensively reworked by sheetwash and eolian processes as evidenced
+
+35
+
+Figure 13
+
+28 1 0
+
+#
+*
+
+F-2
+
+28 2
+
+ST-1
+
+0
+
+ST-2
+Cell
+Tower
+l
+
+# F-1
+*
+
+F-3
+
+#
+*
+
+Site Boundary
+Project Area
+
+Â³
+
+28
+
+00
+
+Burned
+Rock
+Scatter
+
+0
+
+35
+
+70
+
+140
+
+Meters
+
+Figure 13. Map of 41RV91 showing topography and locations of modern cell tower, prehistoric features, scatter of burned
+rocks, and shovel tests on 2015 aerial imagery.
+
+36
+
+Figure 14
+
+28 0 0
+
+28 1 0
+
+CR 440
+
+28
+20
+
+28
+
+41RV92
+
+30
+
+Utility Pole Remnants
+Utility Pole Remnants
+
+28 4 0
+
+4
+CR
+
+37
+
+Â£
+Â¤
+285
+
+28 5
+
+0
+
+28
+
+Â³
+
+60
+
+28 7 0
+
+Site Boundary
+Project Area
+
+0
+
+250
+
+500
+Meters
+
+Figure 14. Map of 41RV92 showing topography and locations of utility pole remnants on 2015 aerial imagery.
+
+1,000
+
+37
+
+by sheets of alluvium, sand sheet remnants, coppice dunes, and deflated areas
+(some with calciferous or gypsiferous sediments at the surface). The northwest
+end of the recorded road segment crosses a shallow valley incised by Sand Bend
+Draw. Ephemeral, wet-weather drainages to the south of the draw are indicated
+by vegetation changes and barely perceptible dips on the landscape. The mapped
+vegetative regime for this area consists of Creosotebush-Tarbush Shrub (Frye et
+al. 1984). In addition to these species, vegetation adjacent to the site area includes
+low mesquites and acacias, various yuccas, allthorn, occasional cholla, broomweed,
+and various forbs and grasses.
+In most places, the road is now little more than an unmaintained 2â3-m-wide
+two-track path. The largely washed out and channelized segment that crosses Sand
+Bend Draw is a rough track maintained by periodic vehicle traffic. Segments of the
+road surface on more-elevated terrain south of the draw (in and south of the project
+area proper) retain variable amounts of unsorted gravel and rocks and appear to
+represent the once gravel-paved road within a 10-m-wide vegetation-free corridor.
+Road gravels have been redeposited northeast of the historic road by sheetwash
+and channelized flow in the vicinity of ephemeral wet-weather drainages. Utility
+pole remnants in two places about 10 m southwest of the track indicate that an
+overhead utility line paralleled the roadway for an unknown distance. The utility
+pole locality inside the project area, ca. 100 m southeast of the north boundary,
+includes two wood cross bars and numerous clear glass insulator fragments. The
+other locality, about 60 m northwest of the project area, includes two utility poles,
+three wood cross bars, and scattered clear glass insulator fragments.
+
+assessments and recommendations
+
+Native American Sites
+The four previously unrecorded Native American archeological sites
+documented during the survey lack the capacity to contain important information
+and are considered ineligible for designation as State Antiquities Landmarks
+(13 TAC 26.2, 8). These are one open campsite (41RV89) and three open campsites
+associated with lithic procurement localities (41RV87, 41RV90, and 41RV91).
+All four are on ancient degrading landforms where the archeological deposits
+are primarily restricted to the surface. These sites contain three to six disturbed
+burned rock hearths, and a group of sandstone cobbles at 41RV87 may be the basal
+supports for a wikiup-type structure. The surrounding artifact scatters are sparse
+to very sparse and primarily composed of chipped stones. No temporally diagnostic
+artifacts were identified at these sites, and hence their ages are unknown. Intrasite
+feature distributions suggest single brief occupations by an extended family group
+or a small number of repeated occupations. The general paucity of lithic materials
+suitable for stone tool manufacture in the area, however, suggests that the lithic
+procurement localities were visited numerous times throughout prehistory. The
+geomorphological characteristics of the landforms suggest that the archeological
+deposits are palimpsests of repeated site use. All of these sites have been disturbed
+
+38
+
+by eolian deflation and sheetwash, stock grazing, and other forms of faunal turbation.
+Given the generally poor conditions of the prehistoric features and the degraded
+conditions of the surfaces on which they sit, the sparse character and uncertain
+depositional history of the surrounding artifact assemblages, and the apparent
+absence of temporally diagnostic artifacts, the remaining archeological deposits
+cannot be interpreted in any meaningful way. While identification of these sites builds
+on existing site distribution data that is useful in a gross sense for understanding
+Native American utilization of the eastern portion of the Trans-Pecos Basin and
+Range physiographic province, the aforementioned limiting factors indicate that the
+archeological deposits at these four sites do not retain the capacity to contribute
+additional important information. No further work is recommended at them.
+Historic Sites
+The two historic archeological sites documented during the survey (41RV88
+and 41RV92), both dating to the first half of the twentieth century, also lack the
+capacity to contribute important information and are considered ineligible for
+designation as State Antiquities Landmarks (13 TAC 26.2, 8). Site 41RV88 consists
+of a low- to moderate-density artifact scatter on a deflated, stable surface and an
+adjacent mechanically excavated drainage ditch. The few temporally diagnostic
+artifacts indicate that it dates to the first half of the century. The site may be tied to
+maintenance activities along the adjacent historic road (41RV92), but the character,
+context, and age of the remaining archeological deposit indicate it has no potential to
+provide important archeological information regarding area history. Site 41RV92 is
+a segment of a longer, once rock-and-gravel-surfaced roadway, possibly constructed
+in association with the local oil and gas industry, that split from U.S. Highway 285
+north of Orla, bypassed the community to the east, and rejoined the highway south of
+the project area. The road segment is now an unmaintained, degraded, infrequently
+used two-track path. Historical features associated with it (e.g., utility poles) have
+been dismantled. Given the siteâs minimal archeological footprint and adverse
+impacts to the road over the past 50â60 years, the existing physical manifestation of
+41RV92 has no potential to provide important archeological information regarding
+area history. No further work is recommended at these two sites.
+
+39
+
+References Cited
+Ackerly, N., R. Buck, D. Carlson, S. Carlson, S. De Atley, G. Dean, M. Green, J. Ponczynski, J.
+Schuldenrein, D. Sick, J. Swarthout, and J. Wilde
+1987
+Interim Descriptive Report on Cultural Resources Found along the All American Pipeline
+Right-of-Way between Celeron MPM 11 and All American MPM 1285. Report submitted
+on behalf of the All American Pipeline Company by Continuum Corporation.
+Bachman, George O.
+1976
+Cenozoic Deposits of Southeastern New Mexico and an Outline of the History of Evaporite
+Dissolution. Journal of Research of the U.S. Geological Survey 4:135â149. U.S. Geological
+Survey, Washington, D.C.
+1980
+
+Regional Geology and Cenozoic History of Pecos Region, Southeastern New Mexico.
+Open-file Report 80-1099. U.S. Geological Survey, Washington, D.C.
+
+1981	Geology of Nash Draw, Eddy County, New Mexico. Open-file Report 81-31. U.S. Geological
+Survey, Washington, D.C.
+Blair, W. F.
+1950
+The Biotic Provinces of Texas. Texas Journal of Science 2(1):93â117.
+Boisvert, Richard
+1980
+A Technological Analysis of Lithic Assemblages from Guadalupe Mountains National
+Park, Texas. Bulletin of the Texas Archeological Society 54:1â104.
+Bretz, J. H., and L. H. Horberg
+1949
+The Ogallala Formation West of the Llano Estacado. Journal of Geology 57:477â490.
+Bryan, Kelly B.
+2002
+Birds of the Trans-Pecos: A Field Checklist. Natural Resources Program, Texas Parks
+and Wildlife. PWD BK P4000-809.
+Bureau of Economic Geology
+1976
+Geologic Atlas of Texas, Pecos Sheet. Bureau of Economic Geology, The University of
+Texas at Austin.
+Carlson, Christopher, and Jennifer Walborn
+2014
+A Cultural Resources Investigation for the Ramsey Gas Plant Expansion Project, Reeves
+County, Texas. SWCA Cultural Resources Report No. 14-159. SWCA Environmental
+Consultants, Austin, Texas.
+Charles, Mona C.
+1994
+Archaeological Evaluations and Testing Site 41JD63, Phantom Lake Spring, Jeff Davis
+County, Texas. Complete Archaeological Service Associates, Cortez, Colorado.
+Cloud, William A.
+2004
+The Arroyo de la Presa Site: A Stratified Late Prehistoric Campsite Along the Rio Grande,
+Presidio County, Texas. Reports in Contract Archeology 9. Center for Big Bend Studies,
+Alpine, Texas, and Texas Department of Transportation, Austin.
+Dayton, Chris
+2014
+Intensive Archeological Survey for Improvements along CR 200 and CR 300 from the
+Ward County Line to RR 652, Loving County, Texas. CMEC Archeological Report 049.
+Cox/McLain Environmental Consulting, Inc., Austin, Texas.
+Dowling, Jon, and Scott Justen
+2013
+Cultural Resources Survey of the Proposed Â± 43,504-Foot Zena to Phillips Pipeline,
+Reeves County, Texas. Goshawk Environmental Consulting, Inc., Austin, Texas.
+
+40
+El-Hage, Albert, and Daniel W. Moulton
+1998
+Evaluation of Selected Natural Resources in Parts of Loving, Pecos, Reeves, Ward, and
+Winkler Counties, Texas. Resources Protection Division, Water Resources Team, Texas
+Parks and Wildlife Department, Austin.
+Frye, Roy G., Kirby L. Brown, and Craig A. McMahan
+1984
+The Vegetation Types of Texas Map. Texas Parks and Wildlife Department, Austin.
+Gillio, David, Frances Levine, and Douglas D. Scott
+1980
+Some Common Artifacts Found at Historical Sites. Cultural Resources Report No. 31.
+USDA Forest Service, Southwest Region, Albuquerque, New Mexico.
+Griffith, G. E., Bryce, S. A., Omernik, J. M., Comstock, J. A., Rogers, A. C., Harrison, B., Hatch, S.
+L., and Bezanson, D.
+2004
+Ecoregions of Texas (color poster with map, descriptive text, and photographs). U.S.
+Geological Survey (map scale 1:2,500,000), Reston, Virginia.
+Hamilton, Donny L.
+2001
+Prehistory of Rustler Hills, Granado Cave. University of Texas Press, Austin.
+Hawley, John W.
+1993
+The Ogallala and GatuÃ±a Formations in the Southeastern New Mexico Region, A
+Progress Report. Guidebook 44:261â269. New Mexico Geological Society, Socorro, New
+Mexico.
+Hedrick, John A.
+1989
+A Preliminary Report on Archeological Resources in Southern Culberson County in the
+Vicinity of Van Horn, Texas. Bulletin of the Texas Archeological Society 59:129â156.
+Hines, Margaret H., Steve A. Tomka, and Karl W. Kibler
+1994
+Data Recovery at the Wind Canyon Site, 41HZ119, Hudspeth County, Texas. Reports of
+Investigations No. 99. Prewitt and Associates, Inc., Austin, Texas.
+Hoffman, Jack L., Daniel S. Amick, and Richard O. Rose
+1990
+Shifting Sands: A Folsom-Midland Assemblage from a Campsite in Western Texas.
+Plains Anthropologist 35:221â253.
+Jackson, A. T.
+1937
+Exploration of Certain Sites in Culberson County, Texas. Bulletin of the Texas
+Archeological and Paleontological Society 9:146â194.
+1938
+
+Picture Writing of Texas Indians. Publication No. 3809. The University of Texas at
+Austin.
+
+Jaco, Hubert B.
+1980
+Soil Survey of Reeves County, Texas. United States Department of Agriculture in
+cooperation with Texas Agricultural Experiment Station, Washington, D.C.
+Katz, Susanna R.
+1978
+Test Excavations at 41CU97. Appendix III in An Inventory and Assessment of
+Archaeological Sites in the High Country of Guadalupe National Park, Texas, by Paul
+R. Katz, pp. 81â91. Archaeological Survey Report No. 36. Center for Archaeological
+Research, The University of Texas at San Antonio.
+Kelley, Vincent C.
+1980	GatuÃ±a Formation (Late Cenozoic), Pecos Valley, New Mexico and Trans-Pecos Texas.
+Guidebook 31:213â217. New Mexico Geological Society, Socorro.
+
+41
+Kirkpatrick, David T., and Meliha S. Duran
+1981
+LA 18783: An Archaeological Study of a Railroad Construction Site, McKinley County,
+New Mexico. Report No. 451. Cultural Resources Management Division, New Mexico
+State University, Las Cruces.
+Lang, W. B.
+1938	Geology of the Pecos River between Laguna Grande de la Sal and Pierce Canyon. In
+Geology and Ground-Water Conditions of the Pecos River Valley in the Vicinity of Laguna
+Grande de la Sal, New Mexico, with Special Reference to the Salt Content of the River
+Water, edited T. W. Robinson and W. B. Lang, pp. 80â86. New Mexico State Engineer
+12th and 13th Biennial Reports.
+Mallouf, Robert J.
+1985
+A Synthesis of Eastern Trans-Pecos Prehistory. M.A. thesis, Department of Anthropology,
+The University of Texas at Austin.
+1999
+
+Comments on the Prehistory of Far Northeastern Chihuahua, the La Junta District
+and the Cielo Complex. Journal of Big Bend Studies 11:49â92.
+
+2012
+
+Some New and Revised Projectile Point Classifications for the Eastern Trans-Pecos
+and Big Bend Regions of Texas. La Tierra: Journal of the Southern Texas Archeological
+Association 39:5â22.
+
+2013
+
+New and Revised Projectile Point Classifications for the Eastern Trans-Pecos and Big
+Bend Regions of Texas. In Archaeological Explorations of the Eastern Trans-Pecos and
+Big Bend: Collected Papers, Volume 1, edited by P. Dasch and R. J. Mallouf, pp. 191â214.
+Papers in the Trans-Pecos Archaeological Program No. 6. Center for Big Bend Studies,
+Sul Ross State University, Alpine.
+
+McCormack, B., and D. Boggess
+2013
+Intensive Cultural Resource Survey for the 18 Mile Pipeline, Reeves County, Texas. Lone
+Mountain Report No. 1642. Lone Mountain Archaeological Services, Inc., Albuquerque,
+New Mexico.
+McMahan, Craig A., Roy G. Frye, and Kirby L. Brown
+1984
+The Vegetation Types of Texas including Cropland. Map and accompanying illustrated
+synopsis. Wildlife Division, Texas Parks and Wildlife Department, Austin.
+Miller, Myles R., and Nancy A. Kenmotsu
+2004
+Prehistory of the Jornada Mogollon and Eastern Trans-Pecos Regions of West Texas.
+In The Prehistory of Texas, edited by Timothy K. Perttula, pp. 205â265. Texas A&M
+University Press, College Station.
+New Mexico Geological Society
+1982
+New Mexico Highway Geologic Map. New Mexico Geological Society in cooperation with
+New Mexico Bureau of Mines and Mineral Resources, Socorro.
+Perttula, Timothy K.
+2004
+An Introduction to Texas Prehistoric Archeology. In The Prehistory of Texas, edited by
+Timothy K. Perttula, pp. 5â14. Texas A&M University Press, College Station.
+Plog, Fred, Kenneth C. Chapman, and David Carlson
+1989
+Cultural Resources Report for the All American Pipeline Project: Santa Barbara,
+California, to McCamey, Texas, and Additional Areas to the East along the Central
+Pipeline Route in Texas. Vols. I and II. New Mexico State University, Las Cruces.
+Reeves, C. C., Jr.
+1972
+Tertiary-Quaternary Stratigraphy and Geomorphology of West Texas and Southeastern
+New Mexico. Guidebook 23:108â117. New Mexico Geological Society, Socorro.
+
+42
+Richardson, G. B.
+1905
+Salt, Gypsum, and Petroleum in Trans-Pecos Texas. In Contributions to Economic
+Geology. Bulletin No. 260. Department of the Interior, United States Geological Survey.
+Washington D. C.
+Riggs, Casey W.
+2014
+Shrub, Scrub, and Grass: The Importance of Shrubland and Grassland Plant
+Communities to the Diet of the Late Prehistoric (a.d. 900â1535) Hunter-Gatherers
+of the Eastern Trans-Pecos Region of Texas. Journal of Texas Archeology and History
+1:1â26.
+Rock, Jim
+1989
+Tin Canisters: Their Identification. United States Department of Agriculture, U.S. Forest
+Service, Klamath National Forest, Yreka, California.
+Roney, John R.
+1995
+Prehistory of the Guadalupe Mountains. The Artifact 33(1):1â99. El Paso Archaeological
+Society.
+Schroeder, Albert H. (assembler)
+1983
+The Pratt Cave Studies. The Artifact 21(1â4):1â240. El Paso Archaeological Society.
+Smith, Julia C.
+2010a Handbook of Texas Online, s.v. âOrla, Texas.â Electronic document,
+		
+https://tshaonline.org/handbook/online/articles/HLO21, accessed November 13, 2015.
+2010b
+		
+
+Handbook of Texas Online, s.v. âReeves County.â Electronic document,
+https://tshaonline.org/handbook/online/articles/hcr06, accessed November 13, 2015.
+
+Smith, Victor J.
+1938
+Carved Rock Shelter. Bulletin of the Texas Archeological and Paleontological Society
+10:222â233.
+Society for Historical Archaeology
+2015
+Historic Glass Bottle Identification & Information. Electronic document, sha.org/bottle/
+index.htm, accessed December 2015.
+SoilWeb Earth
+2015
+SoilWeb Network Link on Google Earth, Streaming-KMZ interface to U.S. Department
+of Agriculture, National Cooperative Soil Survey, Soils Survey Geographic Database
+(SSURGO) and Natural Resources Conservation Service, State Soil Geographic Database
+(STATSGO) digital soil survey products. California Soil Resource Laboratory, University
+of California, Davis, in collaboration with U.S. Department of Agriculture, National
+Cooperative Soil Survey. Electronic document, http://casoilresource.lawr.ucdavis.edu/
+soilweb-apps, accessed November 2015.
+Sommer, Arnold E.
+1974
+1973 SWFAS Early Man Conference. Transactions of the Ninth Regional Archeological
+Symposium for Southeastern New Mexico and Western Texas, pp. 109â141. Midland
+Archeological Society, Midland, Texas.
+Texas General Land Office
+2015
+Online Mapping Viewer, Texas General Land Office Interactive Land Lease Mapping
+Program, Austin. Electronic document, http://gisweb.glo.texas.gov/glomap/, accessed
+December 2015.
+
+43
+Texas Orthoimagery Program
+1996
+Reeves County aerial imagery. Texas Natural Resources Information System, Austin.
+		
+https://tnris.org/data-catalog/entry/texas-orthoimagery-program-top-1996-cir-bw-1m/.
+2008
+		
+
+Reeves County aerial imagery. Texas Natural Resources Information System, Austin.
+http://r.tnris.org/arcgis/services/TOP/TOP_2008_50CM_NC/ImageServer/WMSServer.
+
+2015
+		
+
+Reeves County aerial imagery. Texas Natural Resources Information System, Austin.
+http://r.tnris.org/arcgis/services/TOP/TOP_2015_50CM_NC/ImageServer/WMSServer.
+
+Texas State Highway Department
+1940
+General Highway Map, Reeves County, Texas. Texas Original 1936, revised to February
+1, 1940. State Highway Department, Austin, in cooperation with the U.S. Department
+of Agriculture, Bureau of Public Roads, Washington, D.C.
+Turner, Billy
+2013
+Cultural Resources Assessment of EOG Cell Towers, Reeves, Midland, Reagan, and Irion
+Counties, Texas. Technical Report 230. Turpin and Sons, Inc., Canyon Lake, Texas.
+Turner, Ellen S., Thomas R. Hester, and Richard L. McReynolds
+2011
+Stone Artifacts of Texas Indians. Taylor Trade Publishing, Lanham, Maryland.
+U.S. Department of Agriculture, Natural Resources Conservation Service
+2015
+Soil Series Classification Database. Electronic document, http://www.nrcs.usda.gov/wps/
+portal/nrcs/detail/soils/survey/geo/?cid=nrcs142p2_053587, accessed November 2015.
+U.S. Geological Survey
+1961
+Orla SE, Texas, 7.5-minute Quadrangle. U.S. Geological Survey, Reston, Virginia.
+1968
+
+Orla, Texas, 7.5-minute Quadrangle. U.S. Geological Survey, Reston, Virginia.
+
+Vine, James D.
+1963
+Surface Geology of the Nash Draw Quadrangle, Eddy County, New Mexico. Bulletin
+1141-B. U.S. Geological Survey, Washington, D.C.
+Walth, Cherie K., Kimberly Parker, Meaghan Trowbridge, and Adrian Martinez
+2015
+A Cultural Resources Investigation for the Ramsey North Residue Line Project,
+Reeves and Culberson Counties, Texas. SWCA Cultural Resources Report No. 15-108.
+SWCA Environmental Consultants, Austin, Texas.
+Ward, C. G.
+1992
+Shelby Brooks Cave: The Archaeology of a Dry Cave in the Texas Trans-Pecos. M.A.
+thesis, Department of Anthropology, The University of Texas at Austin.
+Waters, Michael R.
+1992
+Principles of Geoarchaeology. A North American Perspective. University of Arizona,
+Tucson.
+Young, W.
+1982
+Excavations at the Ramâs Head Site, 41PC35, Pecos County, Texas. Publications
+in Archaeology, Report No. 23. Texas State Department of Highways and Public
+Transportation, Austin.
+
+

@@ -1,0 +1,1205 @@
+A Cultural Resource Survey of the
+Lower Colorado River Authority’s
+Proposed Twelvemile 345-kV Substation
+Project, Crockett County, Texas
+by
+
+James J. Hill
+
+Antiquities Permit No. 8333
+
+June 2018
+
+A CulturAl resourCe survey of the lower ColorAdo
+river Authority’s ProPosed twelvemile 345-kv
+substAtion ProjeCt, CroCkett County, texAs
+by
+
+James J. Hill
+
+W. Nicholas Trierweiler,
+Principal Investigator
+
+Prepared for
+
+Lower Colorado River Authority
+
+Antiquities Permit No. 8333
+by
+
+Austin, Texas
+
+June 2018
+
+© 2018 by AmaTerra Environmental, Inc.
+4009 Banister Lane, Suite 300
+Austin, Texas 78704
+Technical Report No. 235
+AmaTerra Project No. 239-005
+
+Abstract
+
+Abstract
+In February of 2018, AmaTerra Environmental, Inc. (AmaTerra) conducted a cultural resources
+investigation in support of the Lower Colorado River Authority’s (LCRA) Twelvemile
+Substation Project in Crockett County, Texas. The proposed 345-kV substation will encompass
+an area of approximately 15 acres. Additionally, LCRA has identified approximately 10.5 miles
+(16.9-km) of existing rural access roads that will be upgraded in selected areas to improve
+access to the proposed new substation. Investigators surveyed a total of 15 acres within the
+proposed footprint of the substation and an additional 7.6 miles (12.2-km) of existing access
+road within an 80–100-foot wide corridor. The proposed project area was assessed through a
+100% pedestrian archaeological survey supplemented with judgementally placed shovel tests.
+AmaTerra conducted the archeological survey under Texas Antiquities Permit No. 8333.
+The pedestrian survey targeted areas along the access roads such as topographical features (i.e.
+mesa tops and accompanying benches) that are more conducive to containing intact cultural
+deposits. Ten shovel tests were excavated within the proposed substation footprint. During the
+survey, AmaTerra documented 26 Isolated Occurrences (IO’s) and relocated one previously
+recorded site (41CX36). Investigators concluded that that the western portions of 41CX36
+within the proposed project area have potential to contain significant intact deposits that may
+make it eligible for listing as a State Antiquities Landmark (SAL). The portions of the site
+within the access road have been completely disturbed and the small remaining portion of the
+site east of the road that has been significantly disturbed has no potential for intact deposits;
+these portions of the site retain no archaeological potential. For this reason, travel along the
+access road will have no adverse effect. However, the portion of the site west of the road retains
+the potential for intact deposits and AmaTerra recommends avoidance of the portion of the
+site west of the access road. No other significant cultural material or archeological sites were
+encountered during the survey.
+No artifacts were collected during the survey. All project-related records will be curated at the
+Texas Archeological Research Laboratory, University of Texas-Austin.
+
+AmaTerra Environmental, Inc.
+
+iii
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+iv
+
+AmaTerra Environmental, Inc.
+
+Table of Contents
+
+Table of Contents
+Abstract. ............................................................................................................................. iii
+Chapter 1. Introduction.....................................................................................................1
+Chapter 2. Environmental Setting....................................................................................5
+Geology and Soils ...................................................................................................................... 5
+Vegetation, Hydrology, and Climate .......................................................................................... 8
+
+Chapter 3. Regional Cultural Background and Previous Investigations. ..................9
+
+Pre-Clovis and Paleoindian (ca. 16,000–8800 BP) .................................................................... 9
+Archaic Period (ca. 8800–1200/1300 BP) ............................................................................... 11
+Late Prehistoric Period (ca. 1200/1300–250 BP) .................................................................... 12
+Historic Period (250 BP–Present) ............................................................................................ 12
+Previous Cultural Resource Investigations .............................................................................. 13
+
+Chapter 4. Methods...........................................................................................................19
+Chapter 5. Results.............................................................................................................21
+Site Description......................................................................................................................... 21
+
+Chapter 6. Summary and Management Recommendations.............................................29
+References..........................................................................................................................31
+
+AmaTerra Environmental, Inc.
+
+v
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+vi
+
+AmaTerra Environmental, Inc.
+
+List of Figures and Tables
+
+List of Figures
+Figure 1.
+
+Project location on USGS 7.5-minute topographical map................................................... 2
+
+Figure 2.
+
+Proposed substation project area on USGS 7.5-minute topographical map........................ 3
+
+Figure 3.
+
+Map depicting Texas ecoregions along the project area....................................................... 6
+
+Figure 4.
+
+USDA soil associations mapped within the project area...................................................... 7
+
+Figure 5.
+
+Typical vegetation within the project area, facing north...................................................... 8
+
+Figure 6.
+
+Texas archaeological regions within the proposed project area......................................... 10
+
+Figure 7.
+
+Project location overlaid on the Texas Archeological Sites Atlas...................................... 14
+
+Figure 8.
+
+1954 aerial imagery of the project area (northern portion)................................................ 15
+
+Figure 9.
+
+1954 aerial imagery of the project area (southern portion)................................................ 16
+
+Figure 10. 1970 USGS 7.5-minute topographical map showing the project area............................... 17
+Figure 11. Map showing 41CX36 and the 26 prehistoric Isolated Occurrences................................. 22
+Figure 12. Site Map for the previously recorded 41CX36.................................................................. 23
+Figure 13. Field site location map from the Parker Ranch Survey...................................................... 24
+Figure 14. Excerpt from the field notes of Aaron Riggs during the Parker Ranch Survey.................. 25
+Figure 15. Burned rock midden feature within 41CX36..................................................................... 26
+Figure 16. Burned rock cluster exposed within the rural access road................................................. 26
+Figure 17. Sample of artifacts observed at 41CX36............................................................................ 27
+
+AmaTerra Environmental, Inc.
+
+vii
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+viii
+
+AmaTerra Environmental, Inc.
+
+Chapter 1
+
+Chapter 1
+
+Introduction
+In February 2018, archeologists from AmaTerra Environmental, Inc. (AmaTerra), at the
+request of the Lower Colorado River Authority (LCRA), conducted a cultural resources survey
+of LCRA’s proposed Twelvemile Substation Project in Crockett County, Texas (Figure  1
+and 2). LCRA has identified improvements for increasing service reliability to transmission
+customers at various locations. One of these service reliability improvements is the Twelvemile
+Substation Project. The project has been undertaken by LCRA to provide transmission service
+to a generator by installing a new 345-kV substation to interconnect the new wind generating
+facility. The substation will be designed as a three-breaker ring bus equipped with relaying
+controls and real time monitoring. LCRA will also add transformers and metering potential
+at the Twelvemile Substation for metering of the Big Sampson Windfarm (LCRA 2018). The
+proposed substation will encompass an area of approximately fifteen acres. Additionally,
+LCRA has identified approximately 10.5-miles (16.9-km) of existing rural access roads that
+will be upgraded in selected areas to improve access to the proposed new substation.
+Total acreage surveyed within the proposed Twelvemile substation footprint was approximately
+15 acres. An additional 7.6-miles of existing rural access roads were pedestrian surveyed along
+high probability areas identified on topographical maps. Currently, all road improvements will
+take place entirely along existing access roads.
+As the planned construction would occur on property owned by a political subdivision of the
+State of Texas (LCRA), the proposed project is subject to the provisions of the Antiquities
+Code of Texas (ACT). The ACT, now subsumed in Title 13, Part II of the Texas Administrative
+Code, defines the necessary conditions for recognition and preservation State Archeological
+Landmarks (SALs) and requires that any political subdivision of the State of Texas, defined
+as a “local governmental entity created and operating under the laws of this state, including
+a city, county, school district, or special district created under the Texas Constitution, Article
+III, §52(b)(1) or (2), or Article XVI, §59” in 13 TAC §26.5 of the code, must identify potential
+SALs through survey of public lands prior to actions that could potentially damage those SALs.
+Field investigations were conducted on February 19 and 20, 2018 under Texas Antiquities
+Permit No. 8333. W. Nicholas Trierweiler served as the project’s Principal Investigator and
+James J. Hill acted as the project archaeologist, while Steven Schooler assisted with field
+investigations. Archeologists encountered no difficulties in completing the investigations.
+The survey resulted in the documentation of 26 Isolated Occurrences (IO’s) in addition to
+relocating and reassessing previously recorded Site 41CX36. Originally recorded in the 1960’s,
+41CX36 is a large prehistoric burned rock midden site associated with a laterally extensive
+lithic scatter. All 26 IO’s are isolated surficial prehistoric occurrences.
+
+AmaTerra Environmental, Inc.
+
+1
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+Figure 1. Project location on USGS 7.5-minute topographical map
+
+2
+
+AmaTerra Environmental, Inc.
+
+Chapter 1
+
+Figure 2. Proposed substation project area on USGS 7.5-minute topographical map.
+
+AmaTerra Environmental, Inc.
+
+3
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+Due to the presence of intact features as well as the potential for intact stratified cultural
+deposits, diagnostic artifacts, dateable materials, organic remains coupled with minimal
+adverse impacts from modern disturbances, 41CX36 may retain significant research potential
+that would make it eligible for designation as a State Antiquities Landmark (SAL). Hence,
+avoidance or archeological testing of 41CX36 is recommended.
+Field investigations were designed to comply with appropriate archeological field methods as
+defined in the Department of the Interior’s Standards and Guidelines (NPS 1983), the Guidelines
+of the Council of Texas Archeologists (1987), and the survey standards developed by the Texas
+Historical Commission (THC) in conjunction with the Council of Texas Archeologists (CTA
+n.d.). The primary intent of the survey was to identify and describe all archeological resources
+discovered within the study area, evaluate their eligibility for inclusion to the NRHP or for
+formal SAL designation and, should archeological historic properties or sites be located, make
+recommendations for future management options such as avoidance and preservation or further
+investigations.
+No artifacts were collected, but all project related materials, such as field forms and photographs,
+will be curated at the Texas Archeological Research Laboratory (TARL), University of
+Texas-Austin.
+This report is divided into six chapters. The environmental setting and cultural overview
+are discussed in Chapters 2 and 3 respectively. Chapter 4 includes the field methodology
+implemented during the project. The results of field investigations are presented in Chapter 5.
+Chapter 6 contains a summary and management recommendations.
+
+4
+
+AmaTerra Environmental, Inc.
+
+Chapter 2
+
+Chapter 2
+
+Environmental Setting
+The proposed Twelvemile Substation project area is located at the intersection of three
+subregions within two separate ecoregions of Texas (Figure 3). Sections of the access roads
+(approximately 3.75-miles), the substation itself, the previously recorded and SAL eligible
+41CX36, and all IOs occur within the Semiarid Edwards Plateau subregion within the Edwards
+Plateau ecoregion. The Edwards Plateau region is characterized by largely a dissected limestone
+plateau with undulating hills to the south and east where it is easily distinguished from bordering
+ecological regions by a sharp fault line (Griffith et al. 2007). This environment is an uplifted
+and elevated region originally formed from marine deposits of sandstone, limestone, dolomites,
+and shales approximately 100 million years ago during the Cretaceous Period when this region
+was predominantly covered by an ocean. The western portion demonstrates a relatively flat
+elevated plateau. The eastern portion, known as the Texas Hill Country, is largely eroded.
+Most of the previously identified access roads (approximately 6.75-miles) within the proposed
+project area are located in the Stockton Plateau, a subregion of the Chihuahuan Desert
+ecoregion. This region is part of what is often referred to as the Trans-Pecos area within
+the Mountain and Basin Ecological Area of Texas as described by Gould (1962). Although
+considered a transitional zone, it compares more favorably with the topography and vegetation
+of the Trans-Pecos area of West Texas. Typical Trans-Pecos landforms include mesa tops, talus
+slopes, valley flats, and canyon washes which were routinely observed throughout the APE.
+Similarly, the vegetation and soils are more comparable with the Stockton Plateau subregion
+of the Chihuahuan Desert as described by Griffith et al. (2007).
+The West Texas region can be quite diverse and contains several north to south oriented
+mountain ranges separated by internal drainage basins. It is characterized by a semiarid climate
+with a dominance of stunted xerophytic vegetation. It is commonly considered a northern
+extension of the Chihuahuan Desert Province (Blair 1950:105). The western extent of Crockett
+County is characterized by terrain consisting of high tabletop mesas and wide-open prairies.
+Tributaries associated with the nearby Pecos River have created numerous canyon washes
+and erosional drainages surrounding the proposed Twelvemile project area, such as Simpson
+Canyon to the east. This vast landscape comprises an ecological transition zone at the junction
+of the high and rolling plains in the north, the Edwards Plateau in the east, the scrub-brush
+country in the south, and the Chihuahuan Desert’s mountain basins in the west.
+
+Geology and Soils
+Geologically, the area is a continuation of the Cretaceous-age Edwards limestone that forms
+the core of the karst terrain associated with the Edwards Plateau (Griffith et al. 2007:16). Soils
+overlying limestone include Ector-Upton, Noelke-Ector, Pandale-Upton, Reagan-Hodgins and
+Sanderson-Upton Associations (Figure 4). Regionally, most soils are aeolian and colluvial
+silty clay and sandy clay loams (USDA-NRCS 2018).
+AmaTerra Environmental, Inc.
+
+5
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+Figure 3. Map depicting Texas ecoregions along the project area.
+
+6
+
+AmaTerra Environmental, Inc.
+
+Chapter 2
+
+Figure 4. USDA soil associations mapped within the project area.
+
+AmaTerra Environmental, Inc.
+
+7
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+Vegetation, Hydrology, and Climate
+Vegetation observed during this survey included cedar, juniper, Spanish dagger aloerita, catclaw,
+persimmon, sotol, yucca, prickly pear cactus, tasajillo, and numerous desert shrubs (Figure 5).
+The Pecos River flows only a short distance (0.25 mile) west of the extreme southern end of the
+APE. Most precipitation in this area occurs in the summer months during brief thunderstorms.
+The average annual rainfall is thirteen inches. Temperatures range from an average low of 31
+°F in January to an average high of 96 °F in July.
+
+Figure 5. Typical vegetation within the project area, facing north.
+
+8
+
+AmaTerra Environmental, Inc.
+
+Chapter 3
+
+Chapter 3
+
+Regional Cultural
+Background and Previous Investigations
+The project area is situated at the crossroads of four archeological regions as defined by Perttula
+(2004) (Figure 6). It resides almost at the border of the Trans-Pecos, Lower Pecos, Southern
+High Plains, and Central Texas regions (Perttula 2004). It is characterized by its numerous
+natural rock shelters formed in limestone canyons and cliffs, as well as its ubiquitous raw lithic
+outcrops and isolated micro-environments near artesian springs. Offering protection from
+the elements, rockshelter localities were consistently attractive to hunter-gatherers, and from
+an archeological standpoint, they create ideal conditions for the preservation of burned rock
+middens, organic materials, burials, and petroglyphic and pictographic rock art.
+Typically, cultural chronology in Texas is divided into four major periods of time: Pre-Clovis
+and Paleoindian (16,000–8800 years before the present [BP]), Archaic (8800–1200/1300 BP),
+Late Prehistoric (1200/1300–250 BP), and Historic (250 BP–present) (Prewitt 1981). While
+the Prehistoric Periods are principally defined by the presence of diagnostic projectile points
+and other technologies, they are intended to order cultural change and are thus somewhat
+arbitrary; cultural change proceeded at somewhat different rates over the vast area of Texas.
+A regional chronology of the Paleoindian, Archaic, Late Prehistoric and Historic periods are
+detailed in the following sections. Once a culture chronology for this region of Texas has been
+summarized, a brief overview of archeological work in proximity to the project area will be
+provided.
+
+Pre-Clovis and Paleoindian (ca. 16,000–8800 BP)
+The arrival of humans in the New World may have occurred as early as 16,000 years ago
+(Jennings and Waters 2014). Some evidence suggests the presence of Pre-Clovis occupations
+in Texas at the Debra L. Friedkin Site located along Buttermilk Creek in Bell County (Waters et
+al. 2011). Artifacts found at this site include bifaces, a discoidal core, edge-modified flake tools,
+blade fragments, bladelets, a polished piece of hematite, and macrodebitage. Additionally, PreClovis components have been reported from the Gault Site, situated upstream from the Debra
+L. Friedkin Site.
+The Paleoindian Period dates from approximately 11,500–8800 BP and is often subdivided
+into the Early and Late Paleoindian subperiods (Collins 2004). The Paleoindian period
+was characterized by cooler and wetter climatic conditions than today. Paleoindian peoples
+practiced unique subsistence patterns that consisted of hunting now extinct megafauna and
+foraging from local plant resources (Black 1989; Mauldin et al. 2003).
+
+AmaTerra Environmental, Inc.
+
+9
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+Figure 6. Texas archaeological regions within the proposed project area.
+
+10
+
+AmaTerra Environmental, Inc.
+
+Chapter 3
+
+As the Pleistocene ended, diagnostic Paleoindian materials in the form of Clovis, Folsom,
+and Plainview projectile points began to enter the archeological record. These points were
+lanceolate-shaped and fluted for hafting to wooden spears. Using the launching momentum
+from atlatls (spear-throwers), large game such as mammoth, mastodons, bison, camel, and
+horse were frequently taken (Black 1989). In addition to megafauna, Paleoindian groups likely
+harvested less daunting prey including antelope, turtle, frogs, etc. Stylistic changes in projectile
+point technology occurred during this later portion of the period, eventually shifting to Dalton,
+Scottsbluff, and Golondrina traditions. Environmental studies suggest that Late Pleistocene
+Epoch climates were wetter and cooler (Mauldin and Nickels 2001; Toomey et al. 1993) during
+most of the Paleoindian Period with a gradual shift to drier and warmer conditions at the onset
+of the Early Holocene Epoch (Bousman 1998). The end of the Pleistocene was likely arid to
+semiarid, and prickly pear and agave populations were high (Bousman et al. 1990:94, 98). As
+megafauna gradually died off during the shift to a warmer climate, subsistence patterns shifted
+toward smaller game and plant foraging. Intact Paleoindian occupations in the Trans-Pecos
+region are somewhat rare and consist mostly of kill sites found near rockshelters (Turpin 1995),
+or isolated projectile points within multicomponent scatters (Seebach 2001). This cultural
+change is visible in the archaeological record and marks the onset of the Archaic Period.
+
+Archaic Period (ca. 8800–1200/1300 BP)
+The Archaic Period, which lasted approximately 7500 years, is divided into the Early, Middle,
+and Late Archaic subperiods (Collins 2004). The Archaic Period exhibited a shift from more
+mobile hunting strategies to a heavier reliance on a broader spectrum of local plants and
+animals (Miller and Kenmotsu 2004) and broadly dates to 8800–1200/1300 BP. Rockshelters
+were more intensively utilized during the Archaic, thus leading to an increase in rock art. This
+period signifies a shift away from megafauna to smaller animals, a more intensive reliance on
+plant resources, an increased use in ground stones for food processing, a decrease in residential
+mobility, the systematic burial of the dead, the use of stone cooking technology, and an increase
+in woodworking tools (Yelacic and Lohse 2011). The Late Archaic in the Trans-Pecos is the
+best understood sequence and suggests that a population increase took place with a heavier
+reliance on specialized food processing earth ovens (Miller and Kenmotsu 2004). Common
+site types of this period include large-scale burned rock middens that are exposed on mesa tops
+overlooking canyons and water sources.
+Mallouf (1985: Figure 14) has summarized chronologies unique to the Trans-Pecos, and it
+was refined further into ten prehistoric periods and a phase by Turpin (1995). Some overlap
+in projectile point technologies is shared between the Trans Pecos and Central Texas. Hester
+places the Early Archaic in neighboring Central Texas between 7950 and 4450 BP based on
+Early Corner Notched and Early Basal Notched projectile points (1995:436–438). Collins’
+dating of the Early Archaic period to 8800–6000 BP is founded on unstemmed point types
+(1995:383). Middle Archaic materials date from about 6000 to 4000 BP (Collins 1995:383).
+The last subperiod of the Archaic falls between 4000 and 1200/1300 BP (Collins 1995:384).
+
+AmaTerra Environmental, Inc.
+
+11
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+Late Prehistoric Period (ca. 1200/1300–250 BP)
+The commonly held date for the beginning of this interval is 1200/1300 BP with a hallmark
+transition to the bow and arrow (Hester 1981). This technology enabled prehistoric hunters to
+harvest prey from greater distances with a lesser need for brushless, wide open spaces required
+for atlatl maneuverability. The use of arrows is indicated by smaller-sized, triangular projectile
+points. Another turning point in the Late Prehistoric period is the first substantial presence
+of pottery. Trans-Pecos sites dating to the Late Prehistoric suggest a continued reliance on
+rockshelters, but also show up in the form of tipi rings, cairn burials, and pit houses built along
+water source terraces. Perdiz arrow points, groundstone implements, beveled bifacial knives,
+end-notched sinker stones, and ornamental beads add more diversity to the archeological
+record during this interval.
+
+Historic Period (250 BP–Present)
+Beginning in the late AD 1500s, Europeans entered what is now Texas only sporadically. The
+first exposure to European contact comes with the arrival of Alva Nuñez Cabeza de Vaca
+and the remaining survivors of the Narvaez expedition in 1528. In Crockett County, the first
+Spaniards to pass through the area were part of the Gaspar Castaño de Sosa mining expedition
+in 1590 (Smith 2016). Between 1528 and the late 1600s, Spanish excursions into the Texas
+territory were limited, but Spanish records described a number of Native American tribes like
+the Coahuiltecans. They were described as family units of hunter gatherers that resided near
+streams and springs, whose camps were revisited on a seasonal basis (Campbell 1983:349–351).
+By the mid-1700s, the Comanche had begun entering the region from the north, following the
+buffalo migrations. Efficiency on horseback allowed them to displace numerous native groups
+and control trade and prime hunting grounds. In 1821, Spain lost control of most of its North
+American territories when it recognized the independence of Mexico. Anglo settlement in
+Texas soon followed in the 1830s when Stephen F. Austin’s colonists were allotted impresario
+contracts by the newly formed Mexican government. After the fight for Texas Independence,
+independent Republic of Texas prospered for ten years, eventually joining the United States
+in 1845. The threat of Indian hostility was still present, especially in the vicinity of the Pecos
+River. To safeguard travelers from Indian attack and to protect the San Antonio-El Paso Mail
+route, the United States Army established Fort Lancaster in 1855 (Smith 2016). Named after
+David Crockett, one of the heroes of the infamous Alamo, the county was established on January
+12, 1875, but was not formally organized until July 7, 1891 when an election established
+Ozona as the county seat. As for much of West Texas, ranching dominated the local economy
+for decades. Although having not experienced the oil boom observed in other neighboring
+counties due largely in part because of a lack of a railway through Crockett County, petroleum
+and natural gas production nonetheless created a major uptick in the local economy leading up
+to and after the Great Depression. Today, Crockett County is still largely rural, but ranching
+coupled with petroleum and natural gas development has supported a stable economy.
+
+12
+
+AmaTerra Environmental, Inc.
+
+Chapter 3
+
+Previous Cultural Resource Investigations
+An archeological background review was conducted in February 2018. The Texas Archeological
+Sites Atlas (Atlas) was consulted to identify previous surveys and recorded cultural resources.
+This review focused on the identification of previously recorded archaeological sites, Registered
+Texas Historic Landmarks (RTHLs), sites listed as SALs, sites listed on the National Register
+of Historic Places (NRHP), cemeteries, and archaeological surveys within one kilometer (0.62
+mile) of the project area (Figure 7).
+According to the Atlas, two previous archeological surveys overlap the proposed project area.
+In 1999, S. Turpin surveyed approximately 13 square miles immediately north of the project
+area. This survey resulted in the recording of 41CX904 located approximately 800 m north
+of the Twelvemile Substation project area. According to the online site form, 41CX904 is a
+small burned rock midden containing fire-cracked rock, lithic flakes, and a sandstone mano.
+The site was recommended for no further investigations but was determined eligible for the
+NRHP in 2001. A second survey was conducted by Cox & McLain Environmental Consulting,
+Inc. in 2015 on behalf of the city of Iraan. Three sites, 41PC769, 41PC811 and 41PC812 were
+recorded or revisited during the survey. These three sites are located outside the proposed
+Twelvemile Substation project area (Atlas 2018).
+A total of seventeen previously recorded sites occur within a 1-km radius of the project area.
+The sites (41CX10, 41CX11, 41CX23, 41CX31, 41CX36, 41CX37, 41CX51, 41CX52,
+41CX53, 41CX65, 41CX904, 41CX1323 and 41CX1324; 41PC769, 41CX811 and 41CX812),
+as well as the Memory Garden Cemetery, were identified within the 1-km buffer of the project
+area (see Figure 7). However, only 41CX36 is located directly within the proposed footprint
+of the proposed project area and was subject to this investigation. Little information was
+available on the Atlas for 41CX36 apart from being recorded in the 1960s and its site type.
+Site 41CX36 was recorded as the “Dry Well Road Midden; Riggs’ Site K” and is described as
+a “Mound Midden.” The remaining sixteen sites, as well as the Memory Garden Cemetery, are
+all recorded outside of the proposed Twelvemile project area and will not be impacted by the
+proposed project.
+Review of historic aerial photography and maps show that historically the area has been rural,
+with no indication of residential or commercial development. Much of the area is characterized
+by existing and derelict oil and gas wells and accompanying infrastructure. Aerial photography
+from 1954 shows some development in the area, with the presence of access roads and
+structures associated with nearby ranches located in and around the proposed project area
+(Figure 8–9). Examination of more recent USGS topographic maps indicate the area is still
+largely undeveloped except for features associated with the oil and gas industry as indicated on
+a series of 1970 USGS 7.5 quadrangle maps south of Iraan, Texas (Figure 10). Recent aerial
+photographs show a significant increase in the development of oil and gas infrastructure in the
+area.
+
+AmaTerra Environmental, Inc.
+
+13
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+Figure 7. Project location overlaid on the Texas Archeological Sites Atlas.
+14
+
+AmaTerra Environmental, Inc.
+
+Chapter 3
+
+Figure 8. 1954 aerial imagery of the project area (northern portion).
+
+AmaTerra Environmental, Inc.
+
+15
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+Figure 9. 1954 aerial imagery of the project area (southern portion).
+
+16
+
+AmaTerra Environmental, Inc.
+
+Chapter 3
+
+Figure 10. 1970 USGS 7.5-minute topographical map showing the project area.
+
+AmaTerra Environmental, Inc.
+
+17
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+18
+
+AmaTerra Environmental, Inc.
+
+Chapter 4
+
+Chapter 4
+
+Methods
+Prior to field investigations, archaeologists conducted archival research to assess the potential
+for historic-period archaeological materials. This research involved examining historical maps
+and aerial photographs. In addition, archaeologists consulted the Atlas (2018) to assess the
+potential for previously recorded archaeological sites within the project area, as well as a
+review of literature on archaeological sites within the region. This allowed investigators to
+identify previously recorded archaeological sites adjacent to or within the project area, and
+provided insight into site types, site settings, artifact assemblages, and average depth of cultural
+materials below the ground surface. Lastly, the proposed project area limits were overlaid on
+aerial based gridded maps and loaded onto hand-held GPS units to aid in navigation.
+Field investigation of the proposed LCRA’s Twelvemile Substation project area was conducted
+according to standard survey methods and under appropriate guidelines. Review of USGS
+topographic maps in combination with field investigations revealed that the majority of the
+proposed project area crosses denuded upland terrain containing shallow soils and laterally
+extensive bedrock exposures. The survey was conducted from February 19–20, 2018 and
+conformed to survey standards set forth by the Council of Texas Archaeologists (CTA). Field
+investigations consisted of a 100 percent pedestrian survey augmented by judgementally placed
+shovel tests. Survey transects ranged from fifteen to thirty meters apart. Shovel tests typically
+measured 30 cm in diameter and extend to a maximum depth of 50 cm below surface (cmbs).
+The shovel tests were excavated in 10-cm increments and all removed soil was screened
+through ¼ inch hardware mesh to ensure artifact recovery. Appropriate shovel test data was
+recorded on an AmaTerra shovel test forms, and all shovel test locations were plotted with a
+hand-held global positioning system (GPS) receiver.
+During pedestrian survey, the ground was thoroughly inspected for cultural materials which
+were identified as FCR, debitage, bifacial lithic tools in varying stages of lithic reduction,
+projectile points, ground stone implements, or historic materials over 50 years in age. Based on
+density and diversity of artifacts, as well as the lateral extension of these materials, they were
+recorded as an archeological site or an IO.
+For the purposes of this survey, an archeological site had to contain a certain number of cultural
+materials or features older than 50 years within a given area. The criteria for recording an
+archeological site employed during the survey was: 1) five or more surface artifacts within a
+15-m radius, or 2) a single cultural feature, such as a hearth or rock art, observed on the surface.
+Specific information on all IOs and Site 41CX36 was recorded in the field through field notes,
+hand-drawn maps, digital photographs, and GPS points. This information was later recorded
+on standardized forms and submitted to TARL for inclusion in their archives. Any artifacts
+found either on the surface or in shovel tests were catalogued and photographed in the field and
+returned to their original locations. No artifacts were collected during the survey.
+AmaTerra Environmental, Inc.
+
+19
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+20
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+Chapter 5
+
+Results
+A total of 7.6-miles (12.2-km) of existing rural access roads in addition to a proposed 15-acre
+substation footprint were surveyed as part of LCRA’s proposed Twelvemile Substation Project.
+A total of 10 shovel tests were excavated during the survey. Typical shovel tests measured
+approximately 30 centimeters (cm) in diameter and extended no deeper than 50 cm below
+surface (cmbs). Shovel testing was undertaken only at the proposed substation location due
+to its position along the apex of a mesa and its potential to contain subsurface deposits. No
+cultural material was encountered in any subsurface test. Relevant information for all shovel
+tests was recorded on a standardized form and will be curated at TARL along with all other
+documentation associated with the project after the final report is submitted to LCRA.
+Field efforts relocated one previously recorded site (41CX36) and documented 26 IO’s (Figure
+11). Specific site information for 41CX36 was recorded on standardized forms and submitted
+to TARL for inclusion in their archives. All artifacts were field catalogued and returned to their
+original locations as per LCRA requirement that no artifacts were to be collected during the
+survey.
+
+Site Description
+Site 41CX36
+During the survey, one previously recorded Site 41CX36 was revisited (Figure 12). Site 41CX36
+was recorded in 1968 by Aaron Riggs as part of the Parker Ranch Survey (Figure 13). Based
+on the limited data available for 41CX36, it is characterized as the Dry Well Road Midden and
+Mr. Riggs describes it as a “Mound Midden” and refers to it as “Site K” (Figure 14). During
+field investigations, AmaTerra archeologists relocated the site approximately 50 m southeast of
+the location as recorded in the THC Site Atlas. Since limited information is available for Site
+41CX36, AmaTerra archaeologists investigated the site as if previously unrecorded.
+Site 41CX36 is recorded as a prehistoric burned rock midden site located on an east to west
+sloping toe slope. The site was identified on the surface during visual inspection of the access
+roads along the slope. The site measures approximately 180 meters north-south by 75 meters
+east-west, encompassing approximately 2.5 acres. Site 41CX36 is partially defined by a large
+circular burned rock midden, 12 meters in diameter by 1 to 1.5 meters in height, as well as a
+secondary cluster of burned rocks exposed within the access road and a moderately dense lithic
+scatter that surrounds the burned rock features (Figures 15–17).
+Although no temporally diagnostic artifacts were noted on the surface, an estimated 200 pieces
+of lithic debitage at various stages of reduction were noted within the site boundary. Apart
+from the rural access road which bisects the site, the western portion of 41CX36 appears to be
+almost completely intact.
+AmaTerra Environmental, Inc.
+
+21
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+Figure 11. Map showing 41CX36 and the 26 prehistoric Isolated Occurrences.
+
+22
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+Figure 12. Site Map for the previously recorded 41CX36.
+
+AmaTerra Environmental, Inc.
+
+23
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+Figure 13. Field site location map from the Parker Ranch Survey.
+
+24
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+Figure 14. Excerpt from the field notes of Aaron Riggs during the Parker Ranch Survey.
+
+AmaTerra Environmental, Inc.
+
+25
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+Figure 15. Burned rock midden feature within 41CX36.
+
+Figure 16. Burned rock cluster exposed within the rural access road.
+
+26
+
+AmaTerra Environmental, Inc.
+
+Chapter 5
+
+Figure 17. Sample of artifacts observed at 41CX36.
+
+Common vegetation observed at the site included Juniper, Cedar, creosote. Mesquite, yucca,
+and Prickly Pear cactus. Ground surface visibility was consistently 100 percent throughout
+the site boundary. Soils were shallow, and laterally extensive areas of exposed bedrock were
+observed throughout the site.
+Overall the diversity of artifacts observed across the surface of the site, including burned
+rock features, reveal a variety of materials suggesting long-term use of the site. Based on
+field investigations, it is AmaTerra’s opinion that there is potential for the western portions
+of 41CX36 to contain significant intact buried archeological deposits. The portions of the
+site within and east of the access road have been completely disturbed and have no potential
+for intact deposits. For this reason, travel along the access road will have no adverse effect.
+However, the portion of the site west of the road retains the potential for intact deposits and
+AmaTerra recommends avoidance of the portion of the site west of the access road (see Figure
+12).
+
+Isolated Occurrences (IO’s)
+During field investigations, 26 IOs were identified within the proposed project area (Table 1).
+All 26 IOs were prehistoric and are summarized in the following table.
+
+AmaTerra Environmental, Inc.
+
+27
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+Table 1. Isolated Occurrences Recorded within the APE.
+Isolated
+Occurrence No.
+
+Northing
+
+Easting
+
+Artifacts
+
+1
+
+3434211
+
+224322
+
+blue-grey unifacial PPK; Archaic
+two secondary chert flakes
+
+28
+
+2
+
+3434118
+
+224458
+
+3
+
+3434141
+
+224506
+
+four small chert flakes
+
+4
+
+3434102
+
+224469
+
+small, displaced scatter of FCR
+
+5
+
+3434088
+
+224587
+
+small, displaced scatter of FCR
+
+6
+
+3434003
+
+224453
+
+broken biface fragment
+
+7
+
+3434042
+
+223589
+
+dispaced FCR alongside road
+
+8
+
+3433748
+
+223159
+
+single chert flake (red)
+
+9
+
+3433834
+
+222241
+
+single chert flake (white)
+
+10
+
+3433797
+
+222976
+
+reworked burin tool (tan chert)
+
+11
+
+3433735
+
+223212
+
+reworked chert core (brown)
+
+12
+
+3433833
+
+223305
+
+single chert core flake (yellow)
+
+13
+
+3433839
+
+223315
+
+single light grey/pink chert flake
+
+14
+
+3433879
+
+223373
+
+single chert core flake (tan/brown)
+
+15
+
+3434249
+
+223914
+
+single tertiary chert flake (brown)
+
+16
+
+3432752
+
+222170
+
+Stage 1 chert biface (gray)
+
+17
+
+3432704
+
+222063
+
+four small chert flakes
+
+18
+
+3432689
+
+221921
+
+single flake (gray) with retouched edge
+
+19
+
+3432676
+
+221954
+
+biface fragment
+
+20
+
+3432761
+
+221853
+
+four small chert flakes
+
+21
+
+3432743
+
+221761
+
+chert scraper tool
+
+22
+
+3432635
+
+221611
+
+two small chert flakes
+
+23
+
+3432566
+
+221647
+
+three small flakes
+
+24
+
+3432587
+
+221657
+
+single chert core flake (red)
+
+25
+
+3432528
+
+221693
+
+single core chert flake (white/gray)
+
+26
+
+3432487
+
+221784
+
+single chert flake (white)
+
+AmaTerra Environmental, Inc.
+
+Chapter 6
+
+Chapter 6
+
+Summary and Management
+Recommendations
+AmaTerra surveyed a total of 7.6-miles (12.2-km) of existing rural access roads in addition
+to a 15-acre substation location for the proposed Twelvemile Substation Project in Crockett
+County, Texas. Access was available to the entire proposed project area and archeologists
+did not encounter any conditions that inhibited the survey. AmaTerra conducted the cultural
+resource survey under Texas Antiquities Permit No. 8333 and work conformed to the guidelines
+for implementation of these regulations under 13 TAC Chapter 26.
+During the survey, archeologists excavated 10 shovel tests, all of which were located within
+the footprint of the proposed 15-acre substation location. All shovel tests revealed silty clay
+loams and sandy loams overlying shallow bedrock or upland gravels. No cultural material was
+encountered in any shovel test. Survey crews re-located and reassessed previously recorded
+Site 41CX36, in addition to documenting 26 IOs.
+None of the IOs meet the criteria as an archeological site, hence they do not need to be avoided.
+Site 41CX36 is a prehistoric burned rock midden site consisting of a moderately dense
+lithic scatter of debitage with occasional bifaces and lithic tools. No temporally diagnostic
+artifacts were observed. The site contains two burned rock midden features. One of which
+is approximately 12 m in diameter on the west side of the access road and is almost entirely
+intact. The second feature is on the eastern side of the road and is also exposed within the road
+bed and is nearly completely destroyed. The site was evaluated using criteria outlined under
+13 TAC 26. Although 41CX36 had shallow soils, an abundance of surficial artifacts, consisting
+mostly of lithic debitage, was noted.
+The portions of the site within the access road have been completely disturbed and the small
+remaining portion of the site east of the road has been significantly disturbed and has no
+potential for intact deposits; these portions of the site retain no archaeological potential. For
+this reason, travel along the access road will have no adverse effect. However, the portion of
+the site west of the road retains the potential for intact deposits and AmaTerra recommends
+avoidance of the portion of the site west of the access road.
+Field investigations in the remaining portions of the proposed project area and access roads
+did not identify any significant cultural materials or sites. Based on the results of the survey,
+AmaTerra recommends no further cultural resources investigations in these areas outside of
+the western portion of 41CX36 of the proposed project. If it is determined that the proposed
+project requires additional acreage or new access roads not included in the current study, then
+additional cultural resources investigations may be necessary in those areas. In the event that
+previously unidentified cultural materials are discovered during construction, work in the
+immediate area of discovery would cease and the THC will be contacted.
+AmaTerra Environmental, Inc.
+
+29
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+30
+
+AmaTerra Environmental, Inc.
+
+References
+
+References
+Black, Stephen L.
+1989
+
+Central Texas Plateau Prairie. In From the Gulf to the Rio Grande: Human Adaptation in
+Central, South, and Lower Pecos Texas, edited by T. R. Hester, S. L. Black, D. G. Steele, B.
+W. Olive, A. A. Fox, K. J. Reinhard, and L. C. Bement, pp. 17–36. Research Series No. 33.
+Arkansas Archeological Survey, Fayetteville.
+
+Blair, W. F.
+1950
+
+The Biotic Provinces of Texas. Texas Journal of Science 2(1):93–117.
+
+Bousman, C. B.
+1998
+
+Paleoenvironmental Change in Central Texas: The Palynological Evidence. Plains
+Anthropologist 43 (164):201–219.
+
+Bousman, C. B., S. A. Tomka, and G. L. Bailey
+1990
+
+Prehistoric Archaeology and paleoenvironments in Hidalgo and Willacy Counties, South
+Texas: Results of the Phase II Test Excavations. Reports of Investigations No. 76. Prewitt and
+Associates, Inc., Austin.
+
+Campbell, T. N.
+1983
+
+Coahuiltecans and Their Neighbors. In Handbook of North American Indians, Vol. 10, edited
+by W. C. Sturtevant, pp. 343–358. Smithsonian Institution, Washington DC.
+
+Collins, Michael B.
+2004
+
+Archeology in Central Texas. In The Prehistoric of Texas, edited by Timothy K. Perttula, pp.
+35–40. Texas A&M University Press.
+
+Council of Texas Archeologists
+1987
+
+Guidelines for Professional Performance Standards. Austin.
+
+Gould, F. W.
+1962
+
+Texas Plants: A Checklist and Ecological Survey. Texas Agricultural Extension Service, Texas
+A&M, College Station, Texas.
+
+Griffith, G., S. Bruce, J. Omernik, and A. Rogers
+2007
+
+Ecoregions of Texas. Project report to the Texas Commission on Environmental Quality.
+
+AmaTerra Environmental, Inc.
+
+31
+
+A Cultural Resource Survey of the LCRA’s Proposed Twelvemile 345-kV Substation Project,
+Crockett County, Texas
+
+Hester, T. R.
+1981
+
+Tradition and Diversity Among the Prehistoric Hunters and Gathers of South Texas. Plains
+Anthropologist 26(92): 119–128.
+
+Jennings, T., and M. Waters
+2014
+
+Pre-Clovis Lithic Technology at the Debra L. Friedkin Site, Texas: Comparisons to Clovis
+Through Site-Level Behavior, Technological Trait-List, and Cladistic Analyses. American
+Antiquity 79(1): 25–44.
+
+LCRA
+2018
+
+RFQ 10893 – Twelvemile Substation Design/Build. RFQ Documents for Twelvemile Substation.
+www.lcra.org/about/business-opportunities-with-lcra. Accessed February 15, 2018.
+
+Mallouf, Robert J.
+1985
+
+A Synthesis of Eastern Trans-Pecos Prehistory. Unpublished Master’s Thesis, Department of
+Anthropology, University of Texas at Austin.
+
+Mauldin, Raymond P., and David L. Nickels
+2001
+
+An Archaeological Survey of Twin Buttes Reservoir, Tom Green County, Texas. Archaeological
+Survey Report No. 300. Center for Archaeological Research, The University of Texas at San
+Antonio.
+
+Mauldin, R. P., C. J. Broehm, and D. L. Nickels
+2003
+
+Archaeological Testing to Determine the National Register Eligibility Status of 18 Prehistoric
+Sites on Camp Bowie, Brown County, Texas. Archaeological Survey Report No. 334. Center
+for Archaeological Research, The University of Texas at San Antonio. Prepared for Adjutant
+General’s Department of Texas Directorate of Facilities and Engineering, Environmental
+Branch.
+
+Miller, M. R. and N. A. Kenmotsu
+2004
+
+Prehistory of the Jornada Mogollon and Eastern Trans-Pecos Regions of West Texas. In The
+Prehistory of Texas, edited by T.K. Perttula, pp. 205–265. Texas A&M University Press,
+College Station.
+
+National Park Service
+1983
+
+Archeology and Historic Preservation: Secretary of the Interior’s Standard’s and Guidelines.
+Federal Register 48 (190):44734–44742.
+
+Perttula, Timothy K.
+2004
+
+32
+
+An Introduction to Texas Prehistoric Archaeology. In The Prehistory of Texas, edited by
+Timothy K. Perttula, pp. 5–13. Texas A&M Press, College Station.
+
+AmaTerra Environmental, Inc.
+
+References
+
+Prewitt, Elton R.
+1981
+
+Cultural Chronology in Central Texas. Bulletin of the Texas Archeological Society 52:65–89.
+
+Seebach, J. D.
+2001
+
+Paper presented at the Center for Big Bend Studies 8th annual Conference, November 9–10,
+2001. Sul Ross State University, Alpine, Texas.
+
+Smith, Julia Cauble
+2016
+
+Crockett County. Handbook of Texas Online. Electronic Document, https://tshaonline.org/
+handbook/online/articles/hcf03, accessed March 8, 2018.
+
+Texas Historical Commission (THC)
+2018
+
+Texas Archeological Sites Atlas. http://nueces.thc.state.tx.us. Accessed March 2018.
+
+Toomey, R. S., III, M. D. Blum, and S. Valastro, Jr.
+1993
+
+Late Quaternary Climates and Environments of the Edwards Plateau, Texas. Global and
+Planetary Change 7: 299–320.
+
+Turpin, S. A.
+1995
+
+The Lower Pecos River Region of Texas and Northern Mexico. Bulletin of the Texas
+Archaeological Society 66: 541–560.
+
+United States Department of Agriculture, Natural Resources Conservation Service (USDA-NRCS)
+2018
+
+Crockett County, Texas – Web Soil Survey. Electronic document, http:// websoilsurvey.nrcs.
+usda.gov/app/WebSoilSurvey.asp, accessed March 2018.
+
+Waters, R. Michael, S. L. Forman, T. A. Jennings, L. C. Nordt, S. G. Driese, J. M. Feinberg, J. L Keene,
+J. Halligan, A. Lindquist, J. Pierson, C. T. Hallmark, M. B. Collins, and J. E. Wiederhold
+2011
+
+The Buttermilk Creek Complex and the Origins of Clovis at the Debra L. Friedkin Site, Texas.
+Science, 331:1599–1603.
+
+Yelacic, David M., and Jon C. Lohse
+2011
+
+In Prehistoric Life, Labor, and Residence in Southeast Central Texas. Edited by Jon C.
+Lohse. Archaeological Studies Report No. 18. Center for Archaeological Studies, Texas State
+University, San Marcos.
+
+AmaTerra Environmental, Inc.
+
+33
+
+

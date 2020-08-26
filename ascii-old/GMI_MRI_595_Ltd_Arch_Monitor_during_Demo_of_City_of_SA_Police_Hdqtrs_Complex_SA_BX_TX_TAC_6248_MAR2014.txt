@@ -1,0 +1,1150 @@
+LIMITED ARCHAEOLOGICAL MONITORING
+DURING THE DEMOLITION OF
+THE CITY OF SAN ANTONIO POLICE
+HEADQUARTERS COMPLEX,
+SAN ANTONIO, BEXAR COUNTY, TEXAS
+by
+
+Melissa M. Green
+Dr. Harry J. Shafer
+Dr. Thomas R. Hester
+Principal Investigator
+Melissa M. Green
+
+for
+
+FORD POWELL & CARSON ARCHITECTS & PLANNERS, INC.
+San Antonio, Texas
+
+and
+
+CITY OF SAN ANTONIO
+San Antonio, Texas
+
+TEXAS ANTIQUITIES PERMIT NUMBER 6248
+
+MISCELLANEOUS REPORTS OF INVESTIGATIONS
+NUMBER 595
+
+March 2014
+
+LIMITED ARCHAEOLOGICAL MONITORING DURING THE
+DEMOLITION OF THE CITY OF SAN ANTONIO POLICE
+HEADQUARTERS COMPLEX,
+SAN ANTONIO, BEXAR COUNTY, TEXAS
+by
+Melissa M. Green
+Dr. Harry J. Shafer
+Dr. Thomas R. Hester
+with contributions by Leonard Kemp and Bill Hersch
+
+Principal Investigator
+Melissa Green
+for
+Ford Powell & Carson Architects & Planners, Inc.
+1138 East Commerce Street
+San Antonio, Texas 78205
+and
+City of San Antonio
+114 West Commerce Street
+San Antonio, Texas 78205
+
+TEXAS ANTIQUITIES PERMIT # 6248
+
+MISCELLANEOUS REPORTS OF INVESTIGATIONS
+NUMBER 595
+
+Geo-Marine, Inc.
+2201 K Avenue
+Plano, Texas 75074
+
+March 2014
+
+MANAGEMENT SUMMARY
+
+As part of a proposed land swap agreement made between the city of San Antonio and the
+General Services Administration, the city of San Antonio contracted with Ford Powell & Carson
+Architects & Planners, Inc., of San Antonio, Texas, to oversee the demolition of the San Antonio
+Police Headquarters complex in downtown San Antonio, Bexar County, Texas. Ford Powell and
+Carson then contracted with Geo-Marine, Inc., of Plano, Texas, to conduct archaeological
+monitoring during ground-disturbing activities during the demolition. Abasolo Archaeological
+Consultants were subcontracted by Geo-Marine as the local, on-call, immediate support.
+The purpose of the archaeological monitoring during the demolition activities of the former San
+Antonio Police Headquarters building and associated structures and facilities (utilities) was to
+identify and record any pre-1870 deposits that may exist within the boundary of the property on
+New City Blocks 248, 293, and 915 and evaluate their potential for inclusion in the National
+Register of Historic Places and/or for designation as a State Antiquities Landmark. As a result of
+this intensive archaeological monitoring, no evidence of intact archaeological deposits was
+encountered, and none of the potential pre-1870 deposits previously expected were found. A late
+1880s–early 1900s-era brick sewer pipe construction was encountered but considered not eligible,
+and thus documented and destroyed during pipe/utility removal. Likewise, an early twentiethcentury deposit encountered in contamination pits near San Pedro Creek was also noted, but no
+additional work conducted because the material was part of a redeposited fill. Therefore, since no
+significant resources were identified within the footprint of the demolished headquarters building,
+near San Pedro Creek, or within the utility-removal corridors, no additional work was
+recommended for these areas. However, areas that have not been examined closely during this
+phase of the demolition project (i.e., parking lots west and south of the building complex) would
+require archaeological investigation prior to construction of the new federal building. The
+potential for intact archaeological deposits in these unexamined areas is considered to be
+somewhat higher than in the headquarters footprint area. Any work prior to and during
+construction would be sponsored by the General Services Administration which will coordinate
+any and all compliance responsibilities at that time.
+All materials generated from this project were permanently housed at the Center for
+Archaeological Research at the University of San Antonio.
+ii
+
+TABLE OF CONTENTS
+
+ACKNOWLEDGMENTS ............................................................................................................. vii
+CHAPTER 1. INTRODUCTION .................................................................................................... 1
+CHAPTER 2. ENVIRONMENTAL CONTEXT............................................................................ 5
+Physiography ............................................................................................................................. 5
+Geology and Soils ...................................................................................................................... 5
+Climate ....................................................................................................................................... 7
+Flora ........................................................................................................................................... 7
+Fauna.......................................................................................................................................... 8
+CHAPTER 3. CULTURAL CONTEXT ......................................................................................... 9
+CHAPTER 4. METHODS............................................................................................................. 11
+Fieldwork ................................................................................................................................. 11
+Site Definition .......................................................................................................................... 12
+NRHP Eligibility Criteria ........................................................................................................ 12
+Texas State Antiquities Landmark Criteria.............................................................................. 13
+CHAPTER 5. MONITORING RESULTS .................................................................................... 14
+Monitoring CPS Energy Cut-Off, Bill Miller Property, Graham Street—June 6, 2012 .......... 14
+Monitoring along Santa Rosa Avenue, South Laredo Street, West Nueva Street,
+and Near San Pedro Creek .................................................................................................... 17
+July 24, 2012—CPS Energy Cut-Off, West Nueva Street at Casa Navarro ...................... 17
+August 6, 2012—Reschedule CPS Energy Cut-Off, West Nueva Street
+at Casa Navarro .............................................................................................................. 18
+August 24, 2012—Historic Brick Sewer Pipe at West Nueva and South
+Laredo Streets ................................................................................................................. 21
+August 29, 2012—Sanitary Sewer Reroute, West Nueva Street at Casa Navarro ............ 23
+April 8, 2013—Brick Sewer Line Demolition, Santa Rosa Avenue ................................. 24
+April 9, 2013—Monitoring a Trench at Santa Rosa Avenue ............................................ 29
+June 24, 2013—Contamination Pits near San Pedro Creek .............................................. 34
+CHAPTER 6. SUMMARY AND RECOMMENDATIONS ........................................................ 36
+REFERENCES CITED .................................................................................................................. 37
+iii
+
+LIST OF FIGURES
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+
+Location of the Police Headquarters demolition project area in San Antonio ........................ 2
+Aerial imagery of the Police Headquarters project area.......................................................... 3
+Geomorphology, hydrology, and soils of the Police Headquarters project area ..................... 6
+Plan map of old Police Headquarters complex area with monitored areas highlighted ........ 15
+View of trench excavated for CPS gas cut-off and reroute; looking east ............................. 17
+Typical profile in trench, north wall...................................................................................... 18
+View of project area in West Nueva Street with South Laredo Street in the
+background; looking slightly northeast ................................................................................. 19
+Overview of the project area; looking southwest .................................................................. 19
+View of a part of the thick concrete zone below the pavement; looking east ....................... 20
+Backhoe in use as gas meters and line are initially uncovered; looking north ...................... 20
+View of completed excavation; looking north ...................................................................... 21
+Field profiles of the west and east walls of the excavation pit .............................................. 22
+Part of a brick found in the excavation.................................................................................. 23
+Exposed brick sewer pipe; note the gray PVC tie-in on facing side; looking west
+down West Nueva Street ....................................................................................................... 24
+Exposed brick sewer pipe; note broken PVC tie-in on facing side; looking east
+up West Nueva Street ............................................................................................................ 25
+Exposed brick sewer pipe; looking north up South Laredo Street ........................................ 25
+Close-up of pipe construction after exposure ........................................................................ 26
+Worksite at the start of excavation; red line is the planned path of the trench;
+looking east ........................................................................................................................... 26
+Excavation of the trench in progress; looking northeast ....................................................... 27
+Shovel work exposing the iron water main encountered in the excavation;
+looking northeast ................................................................................................................... 27
+View showing the complex of pipes beneath West Nueva Street ......................................... 28
+The point at which work stopped at the end of the day ......................................................... 29
+Excavation images of the old San Antonio Police Headquarters lot ..................................... 30
+View of work site looking west............................................................................................. 31
+View of the initial cut at the east end of the proposed trench ............................................... 31
+View of the second cut with abandoned manhole exposed ................................................... 32
+A view of the second cut, looking west................................................................................. 32
+iv
+
+List of Figures
+(cont’d)
+
+28. View looking east along the east–west corridor left for pipeline removal ............................ 33
+29. Profile of contamination pit showing the layer of construction fill containing
+redeposited material .............................................................................................................. 34
+30. Tile, horseshoe, insulator, and stoneware sherd from contamination pit excavation ............ 35
+31. Bricks, wire, and pick mattock from contamination pit excavation ...................................... 35
+
+v
+
+LIST OF TABLES
+
+1. Flora Associated with Three Biotic Provinces ........................................................................... 7
+2. Central Texas Prehistoric Cultural Sequence ............................................................................. 9
+
+vi
+
+ACKNOWLEDGMENTS
+
+This project would not have been successful without the help of many people. First and foremost
+appreciation goes to John Mize at Ford Powell & Carson and the city of San Antonio for giving
+Geo-Marine this opportunity. Several city staff—John Cantu, Cathleen Crabb, and Leticia Arzate
+in particular—were diligent in making sure Geo-Marine was notified when needed. San Antonio
+City Archaeologist Kay Hindes, was always available for welcomed insights and cooperation.
+Michael Hellums and his crew—Doug Niedenberger, George Diaz, Sean Shokrok, Eric Dunn,
+and Joel Sanchez—at CPS Energy were extremely patient with all of the archaeological requests
+during the utility removal and reroutes, as was James Humphrey of Bartek Construction when
+live utilities were encountered during construction. Last, but by no means least, Abasolo
+Archaeological Consultants took on the brunt of the on-call local monitoring activities, and the
+project could not have been accomplished without its help.
+The efforts of several Geo-Marine personnel are greatly appreciated. Leonard Kemp ably
+assisted in compiling some cultural and environmental information, and Bill Hersch contributed
+to discussions of the pipelines. Erin King created the maps presented in this document. Sharlene
+Allday edited this report, and Denise Pemberton was responsible for its formatting and
+production. Steve Hunt prepared for final curation the records and photographs generated from
+this project.
+
+vii
+
+CHAPTER 1
+INTRODUCTION
+
+As part of a proposed land swap agreement made between the city of San Antonio and the
+General Services Administration (GSA), the city of San Antonio contracted with Ford Powell &
+Carson Architects & Planners, Inc., of San Antonio, Texas, to oversee the demolition of the San
+Antonio Police Headquarters complex in downtown San Antonio, Bexar County, Texas. Ford
+Powell & Carson then contracted with Geo-Marine, Inc., of Plano, Texas, to conduct
+archaeological monitoring during ground-disturbing activities during the demolition (Geo-Marine
+project number 30695.00.01). Abasolo Archaeological Consultants were subcontracted by GeoMarine as the local, on-call, immediate support. The city of San Antonio is a political
+subdivision of the state of Texas and thus is mandated to comply with the Antiquities Code of
+Texas [Title 9, Chapter 191, the Natural Resources Code of Texas], which requires an inventory
+of cultural resources within the boundaries of its projects. Accordingly, the present investigation
+was conducted under Texas Antiquities Code Permit # 6248. Likewise, as the Texas Historical
+Commission (THC) confirmed that the proposed land swap between the city and GSA constitutes
+a federal action, the work also falls under Section 106 of the National Historic Preservation Act
+(NHPA) of 1966, as amended through 2000 [16 U.S.C. § 470 et seq.; P.L. 89–665; 80 Stat. 915].
+The ultimate goal of this investigation was to identify and inventory cultural resources properties
+contained within the project area and to evaluate their potential for inclusion in the National
+Register of Historic Places (NRHP) and/or designation as a State Antiquities Landmark (SAL).
+Following 10 years of assessment studies undertaken by the GSA for constructing a new federal
+courthouse (see Adams et al. 2006; Freeman and Green 2008; Salo et al 2002), a decision was
+made for the new location: the site of the old San Antonio Police Headquarters complex. This
+headquarters complex was situated on the city block bounded by West Nueva Street on the north,
+San Pedro Creek on the east, Graham Avenue on the south, and Santa Rosa Avenue on the west
+(Figures 1 and 2). This entire location was occupied by the police headquarters, ancillary
+buildings, a large communications tower, and a large parking lot. Large light poles, electric
+gates, and drainage pipes had been installed within and around the parking lot, with much of the
+wiring placed underground. The drainage pipes emptied into San Pedro Creek at the rear of the
+property. In addition, buried gas tanks and oil drains had been placed at the southeast corner of
+the property at the service shop and filling station. San Pedro Creek has been channelized in this
+part of the city and is now within a paved waterway. Other buried utilities (gas, water, sewer)
+were at the northeast, northwest, and southwest corners of the property as well as below West
+Nueva Street at San Pedro Creek.
+1
+
+In addition to the ground-disturbing activities during demolition, work associated with gas and
+water line cut-offs and reroutes located outside the headquarters property during demolition
+activities was included in the monitoring investigation. These outside areas were in the
+intersection of West Nueva and South Laredo streets, in Santa Rosa Avenue, and on the Bill
+Miller property on the south side of Graham Avenue.
+Based on the 2007–2008 cultural resources assessment document by Freeman and Green (2008),
+a recommendation for more intensive archival research on the proposed property was made (THC
+letter May 22, 2008) that would be used to help in the determination of archaeological deposits or
+potential historic properties within the project limits. That intensive archival review honed in on
+three New City Blocks—248, 293, and 915—divided into 29 lots. The resulting summarizing
+document (Freeman and Pfeiffer 2010) included detailed synopses of settlement and development
+dating from 1718 to the present, and stated that early (pre-1870) deposits could potentially exist,
+but in limited areas. With respect to these potential early archaeological deposits, a plan for
+archaeological monitoring portions of the block during groundbreaking demolition and
+construction was proposed. The monitoring plan was approved by the City Archaeologist and
+THC, and an antiquities permit (#4481) to conduct the monitoring investigations issued on April
+10, 2012 (THC letter dated May 9, 2012). The results of these monitoring activities during
+demolition are presented here. Since this is a Section 106 action, any and all investigations that
+may occur due to the construction of the new federal courthouse will be the responsibility of the
+GSA coordinating closely with the THC.
+Monitoring fieldwork occurred several times during utility rerouting in 2012 (June 6, 2012; July
+24, 2012; August 6, 24, and 29, 2012), and in 2013 (April 8, 2103; June 24, 2013) Geo-Marine
+was notified that cultural materials had been encountered during demolition. Melissa M. Green,
+the Principal Investigator for the Geo-Marine project, monitored the gas cut-off on the Bill Miller
+property on June 6, 2012, and Dr. Harry J. Shafer and Dr. Thomas R. Hester of Abasolo
+Archaeological Consultants conducted the remaining field visits.
+All collected artifacts, notes, forms, and photographs obtained during this project will be curated
+at the Center for Archaeological Research at the University of Texas at San Antonio.
+
+4
+
+CHAPTER 2
+ENVIRONMENTAL CONTEXT
+
+PHYSIOGRAPHY
+Bexar County includes portions of three physiographic regions: the Edwards Plateau, the
+Blackland Prairie, and the Rio Grande Plain (also known as the South Texas Coastal Plain). The
+Edwards Plateau is north and west; the Blackland Prairie is east and southeast; and the Rio
+Grande Plain is south and southwest. The Balcones Fault Zone, which runs through this area of
+Texas, is characterized by undulating and hilly topography that ranges from about 213 to 335
+meters (m; 700–1,100 feet [ft]) above mean sea level (amsl). The area is dissected by small
+streams (Taylor et al. 1966). Chert, a raw material for the production of stone tools, is found in
+outcrops throughout the project area, particularly in the Balcones area. At the southern fringe of
+the Edwards Plateau, the Balcones Canyonlands is a natural subregion of Texas that has a
+landscape dissected by numerous high-gradient streams in steep-sided canyons that flow south
+and southeast to the Gulf of Mexico (Riskind and Diamond 1988:1).
+GEOLOGY AND SOILS
+The Geologic Atlas of Texas maps the surficial geology underlying the project area as consisting
+of Quaternary Fluviatile Terrace deposits (Bureau of Economic Geology 1983). The U.S.
+Department of Agriculture, Natural Resources Conservation Service (NRCS), shows one soil map
+unit within the project area: Houston Black clay, terrace, 1 to 3 percent slopes (HtB-Branyon)
+(Natural Resources Conservation Service 2013). The Houston Black Clay, Terrace, 1 to 3
+percent slopes is found on stream terraces and prior to urbanization was prime farmland. The
+Houston Black Clay soils are moderately well drained. A typical soil profile is a very dark gray,
+clay soil that is approximately 86.6 centimeters (cm; 34 inches [in]) deep overlaying a dark gray
+clay approximately 50.8 cm (20 in) thick containing a few lime concretions (Soil Survey Staff
+2013). Figure 3 shows the geomorphology, hydrology, and soils of the project area. It is
+important to note that the project is in an urban area that has been impacted to one degree or
+another by the construction of roadways, utilities, and both industrial and residential structures.
+
+5
+
+CLIMATE
+Bexar County has a modified subtropical climate. Winters are mild, with northerly winds
+prevailing, and summers are hot, with southeasterly winds prevailing. Strong winds and heavy
+rains occasionally occur as the result of tropical storms in the Gulf of Mexico. The San Antonio
+area has an average of 265 frost-free days. The warmest months are May through October.
+Temperatures rarely fall below -6.6 degrees Celsius (°C; 20° Fahrenheit [F]). The average daily
+maximum and minimum temperatures for December–January range from about 4.4 to 15.5°C
+(40–60°F), and from 21 to 35°C (70–95°F) for July–August (Taylor et al. 1966:102, 118–119,
+Table 11).
+Annual precipitation, about 71 cm (28 in), is generally distributed throughout the year, with the
+highest rainfalls occurring in May and September. Winter is the period of lowest precipitation.
+Thunderstorms account for most of the rain from April through September. Light hail often
+accompanies spring thunderstorms. Because of the presence of steep slopes, thin rocky soils, and
+narrow valleys/canyons in the northwest, portions of Bexar County are subject to flooding during
+heavy rain events. During the winter, snow is rare and most precipitation occurs as light rain or
+drizzle. The average minimum and maximum monthly precipitation, respectively, occurs during
+November (about 3.6 cm [1.4 in]) and September (about 8.9 cm [3.5 in]) (Taylor et al. 1966:118,
+Table 11).
+FLORA
+As indicated previously, Bexar County is situated in a transitional zone between three
+physiographic regions. Therefore, the flora is a mixture of three biotic provinces: the Balconian
+(associated with the Edwards Plateau), the Texan (associated with the Blackland Prairie), and the
+Tamaulipan (associated with the South Texas Coastal Plain) (Table 1). Each is represented to
+varying degrees (Blair 1950).
+
+Table 1
+Flora Associated with Three Biotic Provinces
+Province1
+
+Description
+
+Balconian
+
+Scrub forest (Mexican cedar, Texas oak, stunted live oak), mesic forest (large live oak, elm,
+hackberry, pecan), mesquite throughout
+Oak-hickory forests in sandy soils dominated by post oak, blackjack oak, and hickory;
+Tall-grass Prairies in clay soils
+Present day—brushland, dominated by thorny brush (mesquite, acacia, and mimosa), white
+brush, and prickly pear;
+Historically—grassland and savannah2
+
+Texan
+Tamaulipan
+
+1
+2
+
+Source: Provinces per Blair (1950)
+Source: Bogush (1952); Bray (1906); Inglis (1964)
+
+7
+
+Vegetation consists of mixed evergreen-deciduous woodlands along the edge of the escarpment,
+grading into deciduous woodlands, and finally into forest in riparian and deep canyon settings.
+Prior to European settlement, the vegetation setting along the southeastern border of the Edwards
+Plateau was predominantly grasslands, with woodlands and forests limited to hillsides and deeply
+incised limestone canyons (Weniger 1988). The mixture of grasslands and riparian forests, in
+addition to the nearby Blackland Prairie, would have provided prehistoric and the earliest historic
+inhabitants of the region with ample game and edible plant resources.
+FAUNA
+Bexar County is in a faunal transitional zone that is characterized by an intermixture of vertebrate
+fauna from other biotic provinces: Austroriparian, Tamaulipan, Chihuahuan, and Dansan (Blair
+1950:113–115). Major mammalian fauna include white-tailed deer, raccoon, coyote, fox, bobcat,
+opossum, fox squirrel, eastern cottontail, black-tailed jackrabbit, beaver, eastern wood rat, badger,
+skunk, river otter, and the extirpated pronghorn and bison (Blair 1950:113–114; Schmidly 1983).
+Important nonmammalian species consist of turkey, bobwhite, western box turtle, snapping turtle,
+channel catfish, and sunfish (Blair 1950:113–115; Bull and Farrand 1977; Ernst and Barbour
+1972; Hubbs 1982; Schmidly 1983; Taylor et al. 1966:3–4). Most of these species were of
+economic importance to prehistoric and the earliest historic populations of the region.
+
+8
+
+CHAPTER 3
+CULTURAL CONTEXT
+
+The project area falls within the southern portion of the Central Texas archaeological region. The
+archaeological record for Central Texas reflects the full North American cultural sequence;
+therefore, evidence of human occupation spans a time period of roughly 12,000 years. The
+Central Texas prehistoric cultural sequence is divided into region-specific cultural-historical
+subperiods within four broad cultural stages—Paleo-Indian, Archaic, Late Prehistoric, and
+Historic—that differentiate the broadly recognized North American cultural trends (Table 2).
+These four major cultural stages will not be summarized here, but can be reviewed in detail in
+such works on Central Texas as Arnn (2012), Black (1989), Collins (1995, 2004), Hester (2004),
+(Johnson 1994), Prewitt (1981, 1985), Suhm (1960), Suhm and Krieger (1954), and Weir (1976).
+
+Table 2
+Central Texas Prehistoric Cultural Sequence
+Stage
+Paleo-Indian
+Archaic
+
+Late Prehistoric
+Historic
+
+Cultural-Historical Subperiod
+
+Date (Converted Years Before Present [B.P.])*
+
+Early
+Late
+
+9550–8050 B.C. (11,500–10,000 B.P.)
+8050–6850 B.C. (10,000–8,800 B.P.)
+
+Early
+Middle
+Late
+
+6850–4050 B.C. (8,800–6,000 B.P.)
+4050–2050 B.C. (6,000–4,000 B.P.)
+2050 B.C.–A.D. 750 (4,000–1,200 B.P.)
+
+Austin phase
+Toyah phase
+
+A.D. 750–1200 (1,200–750 B.P.)
+A.D. 1200–1500 (750–450 B.P.)
+Post-A.D. 1500
+
+*B.P. based on date of 1950
+
+The Historic period began with Spanish exploration and settlement of Texas (1517–1821),
+Mexican statehood (1821–1836), the Texas Republic (1836–1845), and culminated with
+American statehood (1845–present). Since 1999, the Texas State Historical Association (2013)
+9
+
+has provided a searchable website with articles on both the prehistory and history of Texas.
+Printed works on the history of Texas and San Antonio are available from Bannon (1974),
+Campbell and Campbell (1996), Chabot (1937), Chipman (1992), Cox (2005), de la Teja (1995),
+Fehrenbach (1968), Fox (1989), Hogan (1975), McGraw and Hindes (1987), Montejano (1987),
+and Steinfeldt (1978). The archaeological reports of the late Anne Fox are also a significant
+resource for the historic period of San Antonio.
+Very detailed archival review of the Police Headquarters project area conducted in 2009 honed in
+on three early blocks, New City Blocks 248, 293, and 915, that were divided into 29 lots. These
+three blocks make up what is now the Police Headquarters parcel block. The resulting
+summarizing document (Freeman and Pfeiffer 2010) included detailed synopses of settlement and
+development dating from 1718 to the present, and stated that early (pre-1870) deposits could
+potentially exist, but in limited areas. The currently proposed archaeological monitoring was
+based on the results of that study.
+
+10
+
+CHAPTER 4
+METHODS
+
+FIELDWORK
+The monitoring was conducted to determine if any of the potential “archaeologically sensitive”
+areas exist within the demolition locale and what the possible function and age of the deposits or
+features might be. When archaeological materials were identified during monitoring, these
+materials were documented (photographed, mapped). If the archaeological materials represented
+intact features, limited testing occurred to determine age, function, and their potential SAL/NRHP
+eligibility. The decision as to whether to fully excavate a feature or just sample it was made in
+consultation with City Archaeologist Kay Hindes. Demolition go-ahead in these areas was
+contingent on the recommendations from the city archaeologist and/or THC. However, had the
+city archaeologist and THC determined that the feature was significant and additional
+investigations were required, these investigations were not to be conducted under this contract,
+but would be conducted under a separate scope and budget prior to the land swap with GSA.
+Detailed daily notes were kept by the archaeologist. Photographs were taken of the general area,
+general demolition activities, and all potential archaeological materials or deposits. A description
+of any deposits or features was made for future final reporting. Recording of features and
+deposits was made with a hand-held global positioning system (GPS) unit for accurate mapping.
+After each monitoring visit, a short report of findings was produced. All measurements were
+taken in English rather than metric in order to correspond with construction plans.
+Had buried human remains been encountered at any time during subsurface monitoring
+investigations, direct work would have been immediately stopped in the area and the city and
+THC immediately informed. Under the revised Health and Safety Code (new state law
+concerning cemeteries and unmarked graves), further action within and in association with the
+remains would be contingent on THC consultation.
+All materials generated from these investigations are permanently housed at the Center for
+Archaeological Research at the University of Texas at San Antonio.
+
+11
+
+SITE DEFINITION
+A site is defined on the basis of content and extent and contains cultural items of at least two
+different artifactual materials or classes (e.g., prehistoric stone tool manufacturing debris of
+different raw materials, or historic-era ceramics in addition to glass). Should any cultural
+resources be located within a trench, the site would be recorded to the extent possible within the
+backhoe trench. Cultural remains meeting these criteria are designated as a site, recorded on a
+Texas Archeological Site Data Form, and submitted to the Texas Archeological Research
+Laboratory (TARL) in Austin for official site trinomial assignment.
+NRHP ELIGIBILITY CRITERIA
+The assessment of significance of a cultural resources property is based on federal guidelines and
+regulations. The criteria (36 CFR Part 60.4 [a–d]) for evaluating properties for inclusion in the
+National Register of Historic Places are codified under the authority of the National Historic
+Preservation Act of 1966, as amended, and the Advisory Council on Historic Preservation has set
+forth guidelines to use in determining site eligibility. Based on Advisory Council guidelines, any
+resource that is included in or eligible for inclusion in the National Register is a “historic
+property.” Federal regulations state that “The term ‘eligible for inclusion in the National
+Register’ includes both properties formally determined as such by the Secretary of the Interior
+and all other properties that meet National Register listing criteria” (36 CFR §800.2 [e]).
+Subsequent to the identification of relevant historical themes and related research questions, the
+following four criteria for eligibility are applied:
+The quality of significance in American history, architecture, archeology, engineering, and culture is
+present in districts, sites, buildings, structures, and objects that possess integrity of location, design,
+setting, material, workmanship, feeling, and association and
+(a) that are associated with events that have made a significant contribution to the broad patterns of
+our history; or
+(b) that are associated with the lives of persons significant in our past; or
+(c) that embody the distinctive characteristics of a type, period, or method of construction, or that
+represent the work of a master, or that possess high artistic values, or that represent a significant
+and distinguishable entity whose components may lack individual distinction; or
+(d) that have yielded or may be likely to yield, information important in prehistory or history [36 CFR
+Part 60.4 (a–d)].
+
+The principal research objective is to determine whether a cultural resources property possesses
+the potential to meet to one or more of the above-defined criteria. Therefore, adequate
+information on site function, context, and chronological placement from both archaeological and,
+if appropriate, historical perspectives is essential for cultural resources investigations. Because
+research questions vary as a result of geography, temporal period, and project design,
+determination of site context and chronological placement of cultural properties is a particularly
+important objective during the inventory process. The objective of this current project was to
+locate and define both horizontally and vertically any cultural resources, document and describe
+those resources, and then, when adequate data were present, evaluate each for NRHP eligibility.
+
+12
+
+TEXAS STATE ANTIQUITIES LANDMARK CRITERIA
+For purposes of implementing the Antiquities Code of Texas, the Texas Historical Commission
+[Commission] is the statutorily created body responsible for protecting and preserving State
+Antiquities Landmarks under the Texas Natural Resources Code, Title 9, Chapter 191. A State
+Antiquities Landmark is an archaeological site, archaeological collection, ruin, building,
+structure, cultural landscape, site, engineering feature, monument or other object, or district that is
+eligible to be designated as a landmark or is already officially designated as a landmark. The
+state of Texas considers all publicly owned archaeological sites and historic buildings and
+structures to have some intrinsic historic value, and the Antiquities Code provides some level of
+protection for those sites, buildings, or structures regardless of their size, character, or ability to
+currently yield data that will contribute important information on the history or prehistory of
+Texas. Additionally, these publicly owned archaeological sites and historic buildings and
+structures are protected from vandalism, or other actions meant to take, alter, or destroy them, and
+information directly related to the specific location of archaeological sites is restricted from open
+records requests. However, not all cultural resources are equally significant to the history and
+prehistory of Texas. Some archaeological sites may not possess research value sufficient to
+warrant long-term preservation or investigations beyond survey level recordation, and some
+historic buildings and structures retain minimal integrity due to damage or deterioration.
+Therefore, the issue of whether cultural resources are significant and warrant preservation, and/or
+further research (such as archaeological testing and data recovery level investigations), is
+addressed through official landmark designation, permit issuance, and rules associated with
+enforcement of the Antiquities Code. Sections 191.091 and 191.092 of the Texas Natural
+Resources Code provide that archaeological sites and historic buildings and structures on lands
+belonging to state agencies or political subdivisions of the state of Texas are landmarks or may be
+eligible to be designated as landmarks. Also protected under the Texas Natural Resources Code
+(Section 191.094) are specially designated landmarks on private property. [Note: the above
+information compiled from Texas Administrative Code, Title 13, Part 2, Chapter 26, Subchapter
+A, Section 26.2].
+Under the Texas Antiquities Code at the state level, an archaeological site may be considered
+significant and be recognized or designated as an SAL. The commission uses one or more of the
+following criteria when assessing the appropriateness of official landmark designation, and/or the
+need for further investigations under the permit process:
+(1) the site has the potential to contribute to a better understanding of the prehistory and/or
+history of Texas by the addition of new and important information;
+(2) the site’s archaeological deposits and the artifacts within the site are preserved and intact,
+thereby supporting the research potential or preservation interests of the site;
+(3) the site possesses unique or rare attributes concerning Texas prehistory and/or history;
+(4) the study of the site offers the opportunity to test theories and methods of preservation,
+thereby contributing to new scientific knowledge;
+(5) there is a high likelihood that vandalism and relic collecting has occurred or could occur,
+and official landmark designation is needed to ensure maximum legal protection, or
+alternatively, further investigations are needed to mitigate the effects of vandalism and
+relic collecting when the site cannot be protected [Texas Administrative Code, Title 13,
+Part 2, Chapter 26, Subchapter C, Section 26.10].
+
+13
+
+CHAPTER 5
+MONITORING RESULTS
+
+Monitoring was conducted as the demolition of the old San Antonio Police Headquarters
+progressed: cut-off and reroutes of utilities, excavation of contamination pits and construction
+trenches, and identification of obvious cultural remains. A plan map of the Police Headquarters
+parcel shows the areas that were closely examined (Figure 4). Personnel from either Geo-Marine,
+Inc., or Abasolo Archaeological Consultants monitored various excavations. Each visit is
+discussed separately below by date of visit.
+MONITORING CPS ENERGY CUT-OFF, BILL MILLER PROPERTY, GRAHAM
+STREET—JUNE 6, 2012
+by
+Melissa M. Green, Geo-Marine, Inc.
+On June 6, 2012, Geo-Marine initiated the monitoring project by observing the excavation of the
+CPS gas cut-off and reroute trench on the Bill Miller property located on the south side of
+Graham Street across from the San Antonio Police Headquarters property (see Figure 4). A
+narrow trench (2 ft wide) 35 ft long was excavated to a depth ranging from 3.3 to 3.6 ft (Figure
+5). The trench was perpendicular to Santa Rosa Avenue and located approximately 26 ft north of
+the corner of Santa Rosa and Durango Boulevard. The trench walls demonstrated various
+disturbances over time through the installation of cast iron, copper, and PVC piping for water and
+gas lines, running both parallel and perpendicular to the trench, but for the most part, the walls
+indicated gravel and small cobbles in a grayish brown soil profile. Topsoil extended below the
+grass to about 13.8 in, with the gravel and cobbles to the base of the trench (Figure 6). A large
+chunk of approximately 6.5-in-thick concrete was encountered just below the grass at the
+sidewalk on the west end of the trench and was thought to be a cap over the gas line that ran
+along the sidewalk that was being rerouted. An old cast iron pipe approximately 3.3 ft east of the
+sidewalk was noted at 3.3 ft below the surface. The east end of the trench was expanded into a
+4.6-ft wide and 3.6-ft deep pit for the installation of the new gas reroute line. A large yellow
+PVC pipe was encountered near the base of this pit along the east wall at 4.2 ft below the surface.
+This area was the most disturbed, with several other utilities servicing the Bill Miller complex
+located just outside of the building. A single fragment of red machine-made brick was
+encountered; it was the only artifact noted in the entire excavation.
+14
+
+5.
+
+View of trench excavated for CPS gas cut-off and reroute; looking east
+
+Figure 5. View of trench excavated for CPS gas cut-off and reroute; looking east.
+
+MONITORING ALONG SANTA ROSA AVENUE, SOUTH LAREDO STREET, WEST
+NUEVA STREET, AND NEAR SAN PEDRO CREEK
+by
+Dr. Harry J. Shafer and Dr. Tom Hester, Abasolo Archaeological Consultants
+July 24, 2012—CPS Energy Cut-Off, West Nueva Street at Casa Navarro
+Dr. Harry Shafer of Abasolo Archaeological Consultants arrrived at the site for the excavation for
+the CPS gas cut-off and rerouting on the north side of the project area in the middle of West
+Nueva Street adjacent to Casa Navarro, but the work was delayed due to concerns about
+vibrations from the streetwork (use of an air hammer) and the effects on Casa Navarro. Vibration
+monitors had been established in two separate places in Casa Navarro and another monitor on the
+new clay tile wall where a mural illustrating Navarro’s place in San Antonio’s history exists.
+These monitors were being used to ensure that vibrations from the construction would not
+damage the wall or Casa Navarro itself. The monitoring for this was ultimately rescheduled.
+17
+
+6.
+
+Typical profile in trench, north wall
+
+Figure 6. Typical profile in trench, north wall.
+
+August 6, 2012—Reschedule CPS Energy Cut-Off, West Nueva Street at Casa Navarro
+On August 6, 2012, Dr. Tom Hester served as the monitor during the excavation of a pit designed
+to locate and expose an old gas line on West Nueva Street, just south of its juncture with South
+Laredo Street (Figures 7 and 8).
+Pavement removal required jackhammers and proceeded very slowly. Beneath one part of the
+paving was thick concrete, necessitating the continuance of jack-hammering (Figure 9). A
+backhoe (Figure 10) was used to complete the digging and removal of fill. The pit exposing parts
+of the old gas line measured roughly 4-x-8-ft (Figure 11).
+Upon the establishment of the gas line location and cessation of excavation, two profiles of the
+unit walls were sketched (Figure 12; the profiles provide additional data on the deposits). The
+unit size measured 5.6-x-6.0 ft and was excavated, in part, to a depth of 6.5 ft. No unusual or
+significant cultural material was found. The matrix appeared to be fairly clean fill, though an
+occasional brick fragment was found (Figure 13). However, nothing of cultural significance was
+encountered, and there was no impact on sites, historic or prehistoric, by this project. No further
+work was recommended. Once the pit walls were documented, it was backfilled with sand and
+capped with a thick metal plate until a utility crew could accomplish cutting the gas line.
+
+18
+
+7. View of project area in West Nueva Street with South Laredo Street in the background;
+looking slightly northeast
+
+Figure 7. View of project area in West Nueva Street with South Laredo Street in the background; looking slightly
+northeast.
+
+8.
+
+Overview of the project area; looking southwest
+
+Figure 8. Overview of the project area; looking southwest
+
+19
+
+9.
+
+View of a part of the thick concrete zone below the pavement; looking east
+
+Figure 9. View of a part of the thick concrete zone below the pavement; looking east.
+
+10. Backhoe in use as gas meters and line are initially uncovered; looking north
+
+Figure 10. Backhoe in use as gas meters and line are initially uncovered; looking north.
+
+20
+
+11. View of completed excavation; looking north
+
+Figure 11. View of completed excavation; looking north.
+
+August 24, 2012—Historic Brick Sewer Pipe at West Nueva and South Laredo Streets
+On the afternoon of August 23, 2012, a historic brick sewer pipe was exposed during the
+construction of the new sanitary sewer at the intersection of South Laredo and West Nueva
+streets, and the city archaeologist was called. At the request of the city archaeologist, GeoMarine was contacted and requested Dr. Shafer, the on-call, local archaeologist, conduct the
+examination and photodocumentation of the exposed late 1890s-early 1900s-era pipe. Dr.
+Shafer’s documentation took place midday on August 24.
+The large brick sewer pipe encountered is evidence of the City of San Antonio’s move toward a
+modern public sewer and waste-water system at the turn of the twentieth century. Large-scale
+urban drainage systems were constructed in commercial areas of New England cities as early as
+the colonial period (APWA 1976; Burian and Edwards 2002) as means to move or collect human
+waste and other nuisance water away from sources of drinking water (Schladweiler 2013). Early
+sewer conveyances were built of wood, brick, stone depending on materials available. In San
+Antonio, sewage was gathered in individual or community cess pools and drainage ditches or
+disposed of by private entities. Though an organized sewage system was advocated by then
+Mayor Bryan Callaghan II as early 1890, it was not authorized until 1894 and only became fully
+operational by 1900 (SAWS 2013).
+
+21
+
+12. Field profiles of the west and east walls of the excavation pit
+
+Figure 12. Field profiles of the west and east walls of the excavation pit.
+
+22
+
+13. Part of a brick found in the excavation
+
+Figure 13. Part of a brick found in the excavation.
+
+The excavation had been temporarily covered with sheet iron plates due to its depth and the size
+of the excavation. Once the plates were removed, photographs were taken of the pipe structure.
+Due to the depth of the construction trench, all photographs were taken from the original ground
+surface above the pipe. The large cylindrical pipe was encountered at a depth of approximately
+5–5.6 ft from the top of the pavement. The massive pipe was an impressive piece of construction
+composed of two layers of brick laid in an American running bond and was lined on the inside
+with a concrete slurry mixture (Figures 14–17). Smaller angled PVC pipes tied into the larger
+brick lateral pipe, and the bricks appeared to be have been bonded with standard Portland cement.
+Though an impressive structure, the pipe itself did not meet NRHP eligibility criteria. Therefore,
+no further archaeological investigation was conducted, and the construction was allowed to
+continue.
+August 29, 2012—Sanitary Sewer Reroute, West Nueva Street at Casa Navarro
+Monitoring by Dr. Shafer of the new sewer system installation continued on August 29, 2012 (see
+Figure 4). Shortly after excavation began, several utility lines that ran under West Nueva Street
+were encountered: an active 12-in water main and an AT&T phone line encased in PVC pipes
+capped with concrete (Figures 18–22). These two lines overlap the planned sewer line, making
+installation of the latter impossible as originally planned. The choices were not optimal: either
+run the sewer line under the water line (feasible), or remove the phone lines (very costly). No
+intact deposits were apparent during the excavation, and no historic features or artifacts were
+uncovered.
+23
+
+14. Exposed brick sewer pipe; note the gray PVC tie-in on facing side; looking west down West
+Nueva Street
+
+Figure 14. Exposed brick sewer pipe; note the gray PVC tie-in on facing side; looking west down West Nueva Street.
+
+The seriousness the existing lines imposed to the planned work stalled further excavation until a
+decision could be made by city engineers and construction personnel on how to proceed around
+the existing lines. Therefore, no monitoring was necessary until the construction crew could
+begin work on creating a manhole over the old brick line.
+April 8, 2013—Brick Sewer Line Demolition, Santa Rosa Avenue
+Dr. Shafer arrived at the old San Antonio Police Headquarters building razing worksite on April
+8, 2013, to monitor the demolition of an old buried brick-lined sewer line that transected the
+headquarters lot. A large backhoe was used to begin searching for the brick-lined sewer pipe that
+had been documented beneath Nueva Street the prior year. The trench began at the Nueva Street
+boundary and was excavated southwestward toward Graham Street. Historically, the pipe ran on
+24
+
+15. Exposed brick sewer pipe; note broken PVC tie-in on facing side; looking east up West
+Nueva Street
+
+Figure 15. Exposed brick sewer pipe; note broken PVC tie-in on facing side; looking east up West Nueva Street.
+
+16. Exposed brick sewer pipe; looking north up South Laredo Street
+
+Figure 16. Exposed brick sewer pipe; looking north up South Laredo Street.
+
+25
+
+17. Close-up of pipe construction after exposure
+
+Figure 17. Close-up of pipe construction after exposure.
+
+18. Worksite at the start of excavation; red line is the planned path of the trench; looking east
+
+Figure 18. Worksite at the start of excavation; red line is the planned path of the trench; looking east.
+
+26
+
+19. Excavation of the trench in progress; looking northeast
+
+Figure 19. Excavation of the trench in progress; looking northeast.
+
+20. Shovel work exposing the iron water main encountered in the excavation; looking northeast
+
+Figure 20. Shovel work exposing the iron water main encountered in the excavation; looking northeast.
+
+27
+
+21. View showing the complex of pipes beneath West Nueva Street
+
+Figure 21. View showing the complex of pipes beneath West Nueva Street. The water main can be seen about 5 ft
+below the surface on the left side of the trench; the AT&T phone line pipe is beneath the concrete at the
+upper left. Both of these lines cross the planned route of the sewer line.
+
+the north side of old South Laredo Street, which was once paved with brick, and was
+encompassed within the police headquarters block. Traces of the brick street (remnant bricks) in
+disturbed contexts had been encountered during earlier excavations.
+The pipe was about 3 ft in diameter and sealed with two layers of red brick (Figure 23). The
+bricks were heavy, dense, red-fired clay, commonly known as “Chicago” brick, though the origin
+of the brick is unknown and the nomenclature is unclear. At this location, the pipe was deeply
+buried, 10–15 feet below the present surface, and lying on yellowish gravel. These gravels,
+consisting of mostly balls of rolled limestone, were typical of the San Antonio River valley and
+were the only intact deposits observed in the entire trench. Using the backhoe, the brick-lined
+sewer pipe was excavated to the opposite end of the lot at Graham Street.
+
+28
+
+22. The point at which work stopped at the end of the day
+
+Figure 22. The point at which work stopped at the end of the day; note the gas line that crosses the trench, the
+concrete cap over the AT&T phone line along the right side of the trench, another white PCV pipe water
+line, and the older iron water line in the bottom left of the trench, hardly visible.
+
+Numerous utility lines, including water lines, drainage pipes, gas lines, fiber optic lines, etc.,
+crisscrossed the pipeline transect. These much shallower trenches were installed subsequent to
+the installation of the brick sewer pipe.
+April 9, 2013—Monitoring a Trench at Santa Rosa Avenue
+On April 9, 2013, Dr. Hester carried out archaeological monitoring at a pipe-removal trench near
+the corner of Graham Street and Santa Rosa Avenue. The pipe removal trench extended along a
+roughly east–west line, intersecting the big trench near its southern end (Figures 24–28). Initial
+digging was conducted at the west end, next to the massive transmission tower just north of
+Graham Street. Although an old abandoned manhole was encountered, there was scant evidence
+of a pipeline, which was supposed to be about 3 ft deep. Thus, the backhoe moved to the east
+29
+
+23. Excavation images of the old San Antonio Police Headquarters lot
+
+Figure 23. Excavation images of the old San Antonio Police Headquarters lot: top left, brick pipe exposed; top right,
+excavation in progress; middle left, excavation proceeding, note pipe opening at end of trench; middle
+right, view of brick pipe cross section; bottom, view of trench in progress, looking east toward old South
+Laredo Street, note drainage pipe intersecting trench.
+
+30
+
+24. View of work site looking west
+
+Figure 24. View of work site looking west.
+
+25. View of the initial cut at the east end of the proposed trench
+
+Figure 25. View of the initial cut at the east end of the proposed trench; note portion of old manhole, and the black
+sediments near the base of the cut.
+
+31
+
+26. View of the second cut with abandoned manhole exposed
+
+Figure 26. View of the second cut with abandoned manhole exposed, as being viewed by the Safety Officer (left) and
+the backhoe operator
+
+27. A view of the second cut, looking west
+
+Figure 27. A view of the second cut, looking west; note ceramic sewer tile more or less in place.
+
+32
+
+28. View looking east along the east–west corridor left for pipeline removal
+
+Figure 28. View looking east along the east–west corridor left for pipeline removal, end of day, April 9.
+
+and, after some digging, found another manhole (with metal rim and manhole cover), which as
+well was clearly abandoned. Between this manhole and the initial one found at the east end of the
+trench, the backhoe uncovered segments of a red ceramic sewer pipe, evidenced as short sections
+often collapsed or with some possibly removed at an earlier date. As the backhoe moved
+eastward, a PVC pipe encasing a smaller PVC water line was cut, and just east of that were three
+small PVC pipes containing transmission lines of some sort—perhaps related to computers in the
+old San Antonio Police Headquarters building. There was absolutely no evidence of prehistoric
+or historic cultural remains (though the base of one beer bottle was observed). At the east end,
+the trench descended down to more than 10 ft. Two basic stratigraphic units were exposed: a
+thick construction fill, overlying a dark, almost black, damp, fine-grained soil. It was thought that
+this might be in situ sediments derived from San Pedro Creek just to the east. However, there
+was absolutely no evidence of any cultural material. As the backhoe moved to the west, the
+stratigraphy changed somewhat as the trench was dug to only 6–7 ft in depth. The deposit was
+wholly construction fill of varied colors, though tending to be tan overall. When the ceramic
+sewer pipes were found, it was clear that they had been laid in a pipeline trench filled with
+yellowish gravel and soil.
+Construction personnel decided that the trench in its entirety would not be excavated, but rather
+that the PVC pipes and the remnants of the sewer line would be removed by heavy equipment as
+the redevelopment of the lot continued. Therefore, monitoring was terminated at that time. Since
+no intact cultural materials (aside from pipelines) were present, as stated above, no further
+monitoring was needed along this trench.
+
+33
+
+June 24, 2013—Contamination Pits near San Pedro Creek
+Possible historic materials had been encountered in the investigation for possible environmental
+contamination pits next of the old car wash at the police station and were reported to the city
+engineer on the morning of June 24, 2013. The report stated that some bricks and other artifacts
+had been found between the car wash building and the property line adjacent to San Pedro Creek
+in the southeast part of the property. As subcontractor for Geo-Marine for the archaeological
+monitoring of this site, authorization from Geo-Marine to do the work was necessary, and
+granted. Dr. Shafer arrived that afternoon and examined the historic materials.
+Two pits about 4 m square and about 2–3 m deep were excavated to test for contaminate soils.
+The profiles showed several distinct layers of fill, with one of these layers containing an
+assortment of bricks, horseshoes, broken tiles, some rusted metal, ceramic insulators, cable, a
+broken pick mattocks, etc.all representative of the late nineteenth and early twentieth centuries
+(Figures 29–31). One brick exhibited a portion of a painted mural that probably was part of an
+advertisement on the side of a demolished building. One whiteware sherd with a decalcomania
+print (possibly hotelware, ca. 1890–1960s [Conroy 1998]) was noted, but none of the artifacts
+was indicative of early nineteenth-century trash. The artifacts were clearly part of construction
+fill introduced to increase the elevation along the sloping north bank of San Pedro Creek. No in
+situ foundations or wall bases that would indicate intact deposits were found. Because these
+historic materials were found in redeposited fill, not in their original context, and had no
+association with any features or intact deposits, the materials were considered not to meet NRHP
+eligibility criteria and no additional work was recommended.
+
+29. Profile of contamination pit showing the layer of construction fill containing redeposited
+material
+
+Figure 29. Profile of contamination pit showing the layer of construction fill containing redeposited material.
+
+34
+
+30. Tile, horseshoe, insulator, and stoneware sherd from contamination pit excavation
+
+Figure 30. Tile, horseshoe, insulator, and stoneware sherd from contamination pit excavation.
+
+31. Bricks, wire, and pick mattock from contamination pit excavation
+
+Figure 31. Bricks, wire, and pick mattock from contamination pit excavation.
+
+35
+
+CHAPTER 6
+SUMMARY AND RECOMMENDATIONS
+
+The purpose of the archaeological monitoring during the demolition activities of the former San
+Antonio Police Headquarters building and associated structures and facilities (utilities) was to
+identify and record any pre-1870 deposits that may exist within the boundary of the property on
+New City Blocks 248, 293, and 915. As a result of this intensive archaeological monitoring, no
+evidence of intact archaeological deposits was encountered; and none of the potential pre-1870
+deposits (mostly residential and/or Colonial) previously expected was found. Though the turn-ofthe-twentieth-century brick sewer pipe construction was impressive, the pipe did not meet
+eligibility criteria or the period of significance so it was documented and removed during
+pipe/utility removal. Likewise, the early twentieth-century deposit encountered in contamination
+pits near San Pedro Creek was also noted but no additional work considered necessary.
+Therefore, no significant historic properties meeting the eligibility criteria for National Register
+inclusion (36 CFR Part 60.4 [a–d]) or for SAL designation (36 CFR 60.4, 13 TAC 26.5[6], 13
+TAC 26.5[32], and 13 TAC 26.8) were identified during these investigations within the footprint
+of the demolished headquarters building, near San Pedro Creek, or within the utility-removal
+corridors, and no additional work was recommended for these areas. However, areas that have
+not been examined closely during this phase of the demolition project (i.e., parking lots west and
+south of the demolished building complex) would require archaeological investigation prior to
+construction of the new federal building. As this is a Section 106 action under the NHPA (16
+U.S.C. § 470 et seq.; P.L. 89–665; 80 Stat. 915), and the potential for intact archaeological
+deposits in these unexamined areas is considered to be somewhat higher than in the headquarters
+footprint area, any work prior to and during construction would be sponsored by the General
+Services Administration which will coordinate any and all compliance responsibilities at that
+time.
+
+36
+
+REFERENCES CITED
+
+Adams, J. W., M. D. Freeman, and M. M. Green
+2006 Cultural Resources Reconnaissance and Assessment of Three Potential New Federal
+Courthouse Sites, San Antonio, Bexar County, Texas. Miscellaneous Reports of
+Investigations Number 356. Geo-Marine, Inc., Plano.
+Arnn, J. W., III
+2012 Land of the Tejas: Native American Identity and Interaction in Texas, A.D. 1300 to
+1700. University of Texas Press, Austin.
+APWA (American Public Works Association)
+1976 History of Public Works in the United States: 1776-1976. Chicago.
+Bannon, J. F.
+1974 The Spanish Borderlands 1513–1821.
+Albuquerque.
+
+University of New Mexico Press,
+
+Black, S. L.
+1986 The Clemente and Herminia Hinojosa Site, 41JW8: A Toyah Horizon Campsite in
+Southern Texas. Special Report 18. Center for Archaeological Research, the
+University of Texas at San Antonio.
+Blair, W. F.
+1950 The Biotic Provinces of Texas. Texas Journal of Science 2(1):93–117.
+Bogush, E. R.
+1952 Brush Invasion in the Rio Grande Plain of Texas. The Texas Journal of Science
+4(1):85–91.
+Bray, W. L.
+1906 Distribution and Adaptation of the Vegetation of Texas. Bulletin No. 82, Scientific
+Series No. 10. University of Texas, Austin.
+37
+
+Bull, J., and W. J. Farrand, Jr.
+1977 The Audubon Society Field Guide to North American Birds, Eastern Region. Alfred
+A. Knopf, New York.
+Burian, S. J., and F. G. Edwards
+2002 Historical Perspectives of Urban Drainage.
+Paper presented at the Ninth
+International Conference on Urban Drainage, September 8-13, 2002, Portland.
+Online document: http://cedb.asce.org/ Accessed 12 March 2013.
+Bureau of Economic Geology
+1983 Geologic Atlas of Texas, San Antonio Sheet. 1:250,000 scale. Robert Hamilton
+Cuyler Memorial Edition. 1974, revised 1983. University of Texas at Austin,
+Austin, Texas.
+Campbell, T. N., and T. J. Campbell
+1996 Indian Groups Associated with Spanish Missions of the San Antonio Missions
+National Historical Park. Special Report No. 16. 2nd Printing. Center for
+Archaeological Research, the University of Texas at San Antonio.
+Chabot, F. C.
+1937 With the Makers of San Antonio: Genealogies of the Early Latin, Anglo-American,
+and German Families. Artes Graficas, San Antonio.
+Chipman, D.
+1992 Spanish Texas 1519–1821. University of Texas Press, Austin.
+Cox, I. W.
+2005 The Spanish Acequias of San Antonio. Maverick Publishing, San Antonio, Texas.
+Collins, M. B.
+1995 Forty Years of Archeology in Central Texas. Bulletin of the Texas Archeological
+Society 66:361–400.
+2004
+
+Archeology in Central Texas. In The Prehistory of Texas, edited by T. K. Perttula,
+pp. 101–126. Texas A&M University Press, College Station.
+
+Conroy, B. J.
+1998 Restaurant China. Collector Books, Paducah, Kentucky.
+de la Teja, F. J.
+1995 Land and Society in 18th Century San Antonio de Béxar: A Community of New
+Spain’s Northern Frontier. University of New Mexico Press, Albuquerque.
+Ernst, C. H., and R. W. Barbour
+1972 Turtles of the United States. University Press of Kentucky, Lexington.
+Fehrenbach, T. R.
+1968 Lone Star, A History of Texas and the Texans. American Legacy Press, New York.
+
+38
+
+Fox, A. A.
+1989 From the Gulf to the Rio Grande: Human Adaptation in Central, South, and Lower
+Pecos, Texas, by T. R. Hester, S. L. Black, D. G. Steele, B. W. Olive, A. A. Fox, K.
+J. Reinhard, and L. C. Bement, pp. 85–92. Research Series No. 33. Arkansas
+Archeological Survey, Fayetteville.
+Freeman, M. D., and M. M. Green
+2008 Cultural Resources Reconnaissance and Assessment of Three Potential Locations for
+the New Federal Courthouse, San Antonio, Bexar County, Texas. Miscellaneous
+Reports of Investigations Number 407. Geo-Marine, Inc., Plano.
+Freeman, M. D., and M. W. Pfeiffer
+2010 Intensive Archival Research on New City Blocks 248, 293, and 915 Comprising the
+Police Headquarters Location for the Proposed New Federal Courthouse in San
+Antonio, Texas. Miscellaneous Reports of Investigations Number 500. Geo-Marine,
+Inc., Plano.
+Hester, T. R.
+2004 The Prehistory of South Texas. In The Prehistory of Texas, edited by T. K. Perttula,
+pp. 127–152. Texas A&M University Press, College Station.
+Hogan, W. R.
+1975 The Texas Republic: A Social and Economic History. University of Texas Press,
+Austin.
+Hubbs, C.
+1982 A Checklist of Texas Freshwater Fishes. Revised. Technical Series No. 11. Texas
+Parks and Wildlife Department, Austin.
+Inglis, J. M.
+1964 A History of Vegetation on the Rio Grande Plain. Bulletin 45. Texas Parks and
+Wildlife Department, Austin.
+Johnson, L.
+1994 The Life and Times of Toyah Culture Folk: The Buckhollow Encampment, Site
+41KM16, Kimble County, Texas. Report 38. Office of State Archeologist, Texas
+Historical Commission; and Texas Department of Transportation, Austin.
+McGraw, A. J., and K. Hindes
+1987 Chipped Stone and Adobe: A Cultural Resources Assessment of the Proposed
+Applewhite Reservoir, Bexar County, Texas. Archaeological Survey Report No. 163.
+Center for Archaeological Research, the University of Texas at San Antonio.
+Montejano, D.
+1987 Anglos and Texans in the Making of Texas 1836–1986. University of Texas Press,
+Austin.
+
+39
+
+Natural Resources Conservation Service [NRCS]
+2013 Web Soil Survey.
+U.S. Department of Agriculture.
+Available online at
+http://websoilsurvey.nrcs.usda.gov/app/. Accessed Janurary 10, 2013.
+Prewitt, E. R.
+1981 Cultural Chronology in Central Texas. Bulletin of the Texas Archeological Society
+52:65–90.
+1985
+
+From Circleville to Toyah: Comments on Central Texas Chronology. Bulletin of the
+Texas Archeological Society 13:175.
+
+Salo, E., J. C. Freeman, and M. Wurtz
+2002 Historical Context and National Register Eligibility Assessment of Ten Buildings
+within HemisFair Park, San Antonio, Texas. Miscellaneous Reports of Investigations
+Number 231. Geo-Marine, Inc., Plano.
+SAWS (San Antonio Water System)
+2013 San Antonio Water System History and Chronology. Online document:
+http://www.saws.org/who_we_are/history/index.cfm. Accessed March 12, 2014.
+Schmidly, D. J.
+1983 Texas Mammals East of the Balcones Fault Zone. Texas A&M University Press,
+College Station.
+Soil Survey Staff
+2013 Official Soil Series Descriptions. Natural Resources Conservation Service, United
+States Department of Agriculture. http://soils.usda.gov/ technical/classification/
+osd/index.html Accessed January 10, 2013.
+Steinfeldt, C.
+1978 San Antonio Was. San Antonio Museum Association, San Antonio, Texas.
+Suhm, D. A.
+1960 A Review of Central Texas Archeology. In A Review of Texas Archeology, Part One,
+edited by E. B. Jelks, E. M. Davis, and H. F. Sturgis. Bulletin of the Texas
+Archeological Society 29(for 1958):63–108.
+Suhm, D. A., and A. D. Kreiger
+1954 An Introductory Handbook of Texas Archaeology.
+Archeological Society 25.
+
+Bulletin of the Texas
+
+Riskind, D. H., and D. D. Diamond
+1988 An Introduction to Environments and Vegetation. In Edwards Plateau Vegetation—
+Plant Ecological Studies in Central Texas, edited by B. B. Amos and F. R. Gehlbach
+pp. 1–15. Baylor University Press, Waco, Texas.
+Schladweiler, J. C. (compiler)
+2013 Tracking down the Roots of our Sanitary Sewers, Part 3: The New American Roots.
+https://sewerhistorytemp.info/page_id=1326 Accessed March 12, 2014.
+40
+
+Taylor, F. B., R. B. Hailey, and D. L. Richmond
+1966 Soil Survey of Bexar County, Texas. U.S. Department of Agriculture, Soil
+Conservation Service, in cooperation with the Texas Agricultural Experiment Station.
+Texas Historical Commission (THC)
+2008 THC letter of concurrence on the Freeman and Green 2008 report. Dated May 22,
+2008.
+Texas State Historical Association
+2013 Texas State Historical Association, A Digital Gateway to Texas History. The
+Handbook of Texas Online, available at http://www.tshaonline.org/handbook/online.
+Weir, F. A.
+1976 The Central Texas Archaic. Unpublished Ph.D. dissertation.
+Anthropology, Washington State University, Pullman.
+
+Department of
+
+Weniger, D.
+1988 Vegetation before 1969. In Edwards Plateau Vegetation: Plant Ecological Studies
+in Central Texas, edited by B. B. Amos and F. R. Gehlbach, pp. 17–23. Baylor
+University Press, Waco, Texas.
+
+41
+
+

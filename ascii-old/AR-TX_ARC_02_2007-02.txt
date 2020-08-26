@@ -1,0 +1,901 @@
+AR Consultants, Inc.
+Archaeological and Environmental Consulting
+11020 Audelia Road, Suite C105, Dallas, TX 75243
+Phone: (214) 368-0478
+Fax:
+(214) 221-1519
+E-mail: arcdigs@aol.com
+
+ARCHAEOLOGICAL SURVEY
+OF PART OF THE
+DELL CITY TELEPHONE FIBER
+OPTIC CABLE SYSTEM
+
+Brett Lang, BA
+and
+S. Alan Skinner, PhD
+
+Prepared for:
+
+N-Com, L.P.
+8518 Urbana
+Lubbock, Texas 79424
+
+Prepared by:
+
+AR CONSULTANTS, INC.
+P.O. Box 820727
+Dallas, TX 75382
+Cultural Resources Report 2007-02
+
+HISTORICAL BUILDINGS
+
+ARCHAEOLOGY
+
+NATURAL SCIENCES
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+ARCHAEOLOGICAL SURVEY
+OF PART OF THE
+DELL CITY TELEPHONE FIBER
+OPTIC CABLE SYSTEM
+
+Brett Lang, BA
+and
+S. Alan Skinner, PhD
+
+Prepared for:
+
+N-Com, L.P.
+8518 Urbana
+Lubbock, Texas 79424
+
+Prepared by:
+
+AR CONSULTANTS, INC.
+P.O. Box 820727
+Dallas, TX 75382
+
+Cultural Resources Report 2007-02
+
+AR CONSULTANTS, INC.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+i
+
+ABSTRACT
+Dell City Telephone will be replacing fifteen miles of copper lines with
+fiber optic cables in Hudspeth, Culberson, and Jeff Davis counties, Texas.
+The Texas Historical Commission (THC) reviewed and specified three
+areas to be surveyed based on earlier surveys, previous sites recorded, and
+where the new lines will be installed in areas of high archaeological
+potential. The Area of Potential Effect (APE) was a ten meter wide path
+adjacent to the roads. The three surveyed areas were located near Clint,
+Plateau, and Kent, Texas. AR Consultants, Inc. conducted a pedestrian
+survey of these areas and found evidence of prehistoric occupation near
+Clint, has been heavily disturbed. Site 41EP5221 was revisited, as well as
+41EP5220 and 41EP5217. South of Plateau three prehistoric sites were
+documented. 41CU740 will not be impacted and is newly recorded,
+41CU741 will partially be impacted and is also newly recorded, and
+41CU449 was a revisit to a previously recorded chert quarry site that will
+not be impacted. Shovel tests at 41CU740 and 41CU741 failed to show
+any depth to the sites and nothing datable was recovered. All three sites
+associated with Plateau were disturbed with only surface scatter and
+lacking diagnostics. No cultural material was located on the four ranch
+roads surveyed south of Kent. ARC recommends that further
+archaeological investigations are unwarranted in conjunction with this
+project.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+ii
+
+ACKNOWLEDGEMENTS
+AR Consultants, Inc. would like to thank everybody who assisted with this project. The
+help from Christine Ward with Geo-Marine with previous work done in the Van Horn
+area was very informative. The El Paso Archaeological Society was very helpful in
+tracking down past issues of The Artifact. I would also like to thank my coworkers for
+their advice on writing this report.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+iii
+
+TABLE OF CONTENTS
+Abstract………………………………………………………………………
+Acknowledgements………………………………………………………….
+Table of Contents……………………………………………………………
+List of Figures……………………………………………………………….
+Introduction………………………………………………………………….
+Natural and Cultural Environment…………………………………………..
+Research Design and Methodology…………………………………………
+Results……………………………………………………………………….
+Recommendations……………………………………………………………
+References Cited…………………………………………………………….
+
+i
+ii
+iii
+iii
+1
+3
+11
+12
+22
+23
+
+LIST OF FIGURES
+Figure 1.
+Figure 2.
+Figure 3a.
+
+Figure 3b.
+Figure 4.
+Figure 5.
+Figure 6.
+Figure 7.
+Figure 8.
+Figure 9.
+Figure 10.
+Figure 11.
+
+Survey area counties shown in yellow on a section of a
+Texas county map.……………………………………………
+Survey area marked with red dots near Clint showing where
+the three previously recorded sites are located on a section of
+a Clint, Texas 7.5’ USGS map…………………………………
+Northern section of the survey route marked in red near
+Plateau showing the two recorded and one revisited
+site on sections of the Boracho and Boracho Peak, Texas 7.5’
+USGS map. Map overlaps Figure 3a…………………………
+Southern section of the survey route marked in red near
+Plateau on a section of the Boracho Peak, Texas 7.5’
+USGS map……………………………………………………
+Surveyed area near Kent marked in red on the Echo Canyon,
+Texas 7.5’USGS map………………………………………....
+Arial photo of the Clint area showing IH-10 and the
+surrounding development……………………………………..
+Previously recorded site 41EP5221 facing northeast
+showing El Paso brown ware next to compass………………..
+Heavily disturbed area of the previously recorded site
+41EP5220 facing northeast. The access road on the south side
+of IH-10 is in the center of the picture…………………………
+Site map of 41CU740 showing the location in relation to
+Plateau Valentine Road………………………………………….
+41CU741 facing north showing the multiple hearth features….
+Site map of 41CU741 showing the location in relation to
+Plateau Valentine Road………………………………………….
+Areas A, B, and C that were revisited at site 41CU449 on a
+section of the Boracho, Texas 7.5’ USGS map…………………
+
+2
+4
+
+5
+6
+7
+13
+14
+15
+16
+17
+18
+19
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+Figure 12.
+Figure 13.
+
+iv
+
+Purple/Tan chert located within the source rock discovered
+from Hill B heading northwest down from the hilltop………….
+Purple/Tan chert located on top of Hill C with trowel
+and glove to show scale…………………………………………
+
+20
+20
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+1
+
+INTRODUCTION
+In January 2007, AR Consultants, Inc. (ARC) conducted a pedestrian archaeological
+survey of a total of 70 acres of the Dell City Telephone Network. This service area covers
+an area of 10,500 square miles in West Texas and Southeastern New Mexico. The
+conversion to fiber optic cable is taking place in Hudspeth, Culberson, and Jeff Davis
+counties in Texas along with Otero and Eddy counties in New Mexico (Dell Telephone
+Cooperative). In addition, a twenty square foot building will be built in the Clint area
+near IH-10.in eastern El Paso County. The APE is an area ten meters wide adjacent to the
+roads where the new cables will be installed.
+Three areas were surveyed in El Paso, Culberson, and Jeff Davis counties near Clint,
+Plateau, and Kent, Texas (Figure 1). Clint is located southeast of El Paso on IH-10 at the
+FM-1110 exit where the proposed building will be located. The survey area near Plateau
+extends thirteen miles south on Plateau Valentine Road which is eighteen miles east of
+Van Horn. Here the entire thirteen miles of Plateau Valentine Road needed to
+investigated for cultural remains. The area near Kent has ranch roads to the east and west
+of CR-118 south of IH-10 that needed to be surveyed for cultural deposits. The survey
+was done at the request of N-Com, L.P. of Lubbock, Texas after they received a letter
+from the Texas Historical Commission (THC). The concerns of the THC were areas that
+had not been surveyed yet, primarily the small ranch roads. (Oaks 2006).
+The purpose of the survey was to locate any cultural resources that are present within the
+surveyed area and to make recommendations about their significance and if they would
+be impacted by construction. This report will be reviewed by the Archeology Division of
+the THC as part of their Section 106 review process. The relevant federal legislation
+includes the National Historic Preservation Act of 1966, as amended (PL-96-515). The
+Texas Antiquities Code is not applicable to this project.
+This report has been written in accordance with the report guidelines prepared by the
+Council of Texas Archeologists (ND). The following report presents a brief description
+of the natural and cultural environment of the surveyed areas. This is followed by the
+research design and methodology. The results of the investigation follow and constitute
+the body of the report. The last chapter presents recommendations.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+Figure 1.
+
+2
+
+Survey area counties shown in yellow on a section of a Texas county map.
+
+Administrative Information:
+
+Sponsor:
+N-Com, L.P., Lubbock, Texas
+Review Agencies:
+Texas Historical Commission, Archeology Division
+Principal Investigator: S. Alan Skinner, PhD
+Field Crew:
+Brett Lang, and S. Alan Skinner
+Fieldwork Dates:
+January 22, 23, 29 to February 1, 2007
+Project Man-days:
+8
+Acres Surveyed:
+70
+6 Sites:
+4 Revisits, 2 New
+Prehistoric: 41EP5221 (revisited and heavily disturbed)
+41EP5220 (revisited and unable to locate)
+41EP5217 (revisited and unable to locate)
+41CU449 (revisited and disturbed)
+41CU740 (new and mildly disturbed)
+41CU741 (new and mildly disturbed)
+Historic:
+None
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+3
+
+NATURAL AND CULTURAL ENVIRONMENT
+Natural Environment
+To get a better feel for the natural environment of Dell City Telephone’s service area
+imagine driving from El Paso to Kent on IH-10 in the Trans-Pecos region of West Texas.
+Heading southeast on IH-10 a long stretch of windblown sand can be seen that pinches
+off before turning east and crossing the Quitman Mountains towards Sierra Blanca.
+Further east the Quaternary alluvium is entered leading into the Salt Basin by Van Horn.
+Still further east heading towards Kent the southern most portion of the Apache
+Mountains are to the north and the Davis Mountains are to the southeast. Clint (Figure 2)
+is just southeast of El Paso on IH-10. Plateau (Figures 3a and 3b) with the Apache
+Mountains to the northeast and Davis Mountains to the southeast is in the Salt Basin with
+Black Peak. The third section is near Kent (Figure 4) with the Apache Mountains to the
+northwest and the Davis Mountains directly east of the ranch roads surveyed. The Lobo
+Valley is southwest of Plateau and Kent survey areas, and the Van Horn Mountains are
+west of Lobo Valley. Vegetation in all three areas primarily is cacti, mesquite tress,
+creosote bush, and grass (Hedrick 1968:1).
+The geology of the Clint survey area is a small section northeast and southwest of IH-10
+by the FM-1110 intersection. Windblown sand and bolson deposits from the Quaternary
+period are found in the area. The bolson deposits are clay, sand, and gravel with some
+caliche (Bureau of Economic Geology 1975). The soil within the Clint survey area is
+called the Bluepoint Association (USDA 2007). A detailed description was not available;
+however in the field it was noted that fine-grain sand was plentiful. Vegetation included
+primarily creosote bush, narrow leaf yucca, occasional mesquite, and very little grass.
+The geology of Plateau area is described as windblown sand and extends south from the
+Salt Flat north of IH-10 in Culberson County. This is next to young Quaternary deposits
+of alluvium and lower terraces formed along streams which moved southward in the
+valley between the mountain ranges. At the Jeff Davis County line the Victorio Peak
+Formation is isolated remnant surrounded by young Quaternary deposits. This formation
+is composed of limestone and dolomite that is medium to fine grained. The color is a
+brownish-black to medium-gray that weathers to a pale orange. The Victorio Peaks
+Formation was originally laid down in the Leonard Phase of the Permian Age. Red Hill is
+the southernmost point of the survey (Bureau of Economic Geology 1979). The general
+soil begins south of IH-10 and commonly has alkaline to noncalcareous clay loam with 0
+to 3 percent slopes. Bedrock is both igneous and limestone based. A gullied land section
+lies to the south of the plains has level and sloped land. The southern end rises up again
+with a 1 to 5 percent slope with mostly gravelly sandy loam originating from igneous
+material. The primary vegetation consists of low grasses and shrubs (Turner 1977).
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+Figure 2.
+
+4
+
+Survey areas marked with red dots near Clint showing where the three preplotted sites are located on a section of the Clint, Texas 7.5’ USGS map.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+Figure 3a.
+
+5
+
+Northern section of the survey route marked in red near Plateau showing
+the two recorded and one revisited sites on sections of the Boracho and
+Boracho Peak, Texas 7.5’ USGS maps. Map overlaps Figure 3b.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+Figure 3b.
+
+6
+
+Southern section of the survey route marked in red near Plateau on a
+section of the Boracho Peak, Texas 7.5’ USGS map.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+Figure 4.
+
+7
+
+Surveyed areas near Kent marked in red on the Echo Canyon, Texas 7.5’
+USGS map.
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+8
+
+The geology of the Kent area begins with the Boracho Formation south of IH-10
+composed of Levinson and San Martine Limestone in Culberson County off of CR-118.
+The composition of Levinson Limestone is limestone, shale, and sandstone with marine
+mega-fossils found at greater depths, and San Martine Limestone containing beds with
+calcareous shale and mega-fossils. The Boracho Formation was formed in the Lower
+Cretaceous. Entering Jeff Davis County, the old and young Quaternary alluvial deposits
+dominate the ranch roads in the project area east of CR-118 heading towards the Davis
+Mountains. The old Quaternary deposits are composed of Gozar and Bigtank gravels, and
+the young Quaternary is the same formation found in the Plateau area (Bureau of
+Economic Geology 1979). The soils range from gravelly to clayey loam (Turner 1977).
+In the north section of the survey area, hills are common with 1 to 40 percent slopes with
+mainly gravelly loams underlain by limestone bedrock or cobbles. Moving south the
+plains become more common with noncalcareous clay loamy soils which are underlain
+with limestone. In the southern-most section of the survey area, the Davis Mountains pick
+up again with noncalcareous well drained stony soils underlain by igneous bedrock with
+20 to 45 percent slopes. The main vegetation supported by the soils here are low grasses
+and shrubs.
+Cultural History
+A brief review the Trans-Pecos Region culture history is presented below. More
+information is compiled in other sources, particularly those prepared in conjunction with
+investigations at Fort Bliss and Geo-Marine, Inc. (Ward 2006:3-1 to 3-11). The
+chronological time frame is shown below beginning with the Paleo-Indian Period and
+ending with the Historic period.
+
+Chronological Framework
+Historic
+Protohistoric
+Formative
+Archaic
+Paleo-Indian
+
+A.D. 1540 to present
+A.D. 1400 to 1540
+A.D. 200/900 to 1400
+6,000 B.C. to 200/900 A.D.
+10,000 to 6,000 B.C.
+
+The Paleo-Indian period is associated with the distinctive Paleo-Indian Folsom and
+Clovis spear point types found in El Paso County (Meltzer and Bever 1995:Table 1). In
+Culberson County the Baylor Mountains near Van Horn a Folsom site was located along
+with other Paleo-Indian materials (Lindsay 1969). It is thought that the Paleo-Indians
+were migratory in the Trans-Pecos region since no habitation structures have been found.
+This group is associated with big game hunting with Folsom points found with bison.
+Clovis points were found with mammoth bones in West Texas and New Mexico.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+9
+
+In the Archaic period, hunting and gathering was still the primary food source, but there
+was a shift toward more dependence on plant foods and smaller game. This was probably
+due to the megafauna becoming extinct due to climatic changes. In the Trans-Pecos
+region evidence shows that succulents such as sotol and lechuguilla were processed
+(Ward 2006:3-7). Site types and locations consist of rock shelters, caves, burned rock
+loci, lithic scatters and isolated hearths.
+During the Formative period the cultivation of beans, squash and maize occurred. The
+Formative period is divided into two stages: the earlier pithouse village and later pueblo
+stage (Simmons, Dykeman, and Hicks 1989: 95-96). Arrow points and pottery make their
+appearance in this period. Pottery styles range from plainware to polychrome painted
+vessels, and imported ceramics are found on sites in the area. Pithouses can be found in
+the Western Trans-Pecos which is dated the entire period. Circular ones are more
+common after A.D. 1000 (Ward 2006 3-10). At approximately A.D. 1400, the area
+appears to have been abandoned, evidence points to a probable shift in subsistence
+strategies to try to counteract the change to a dryer environment.
+The Protohistoric period was the transition between the Formative and Historic Period.
+The lack of radiocarbon dates during this period shows an abandonment of the villages in
+the western Trans-Pecos region. This was probably due to the specialized agricultural
+practices and climate changes (Miller and Kenmotsu 2004: 258).
+The Historic period is divided into three phases to distinguish cultural influences in the El
+Paso area. The Spanish phase ranges from A.D. 1540 to 1821. The Mexican Phase ranges
+from 1821-1846, and finally the Anglo phase from 1841- today. More detailed
+information of these three phases can be found in the The Handbook of Texas Online El
+Paso, Texas (Timmons 2007). In the Trans-Pecos region the historic period began in
+1535 when the first Europeans stumbled upon the Native Americans. The area was
+sparsely populated until after 1846 at the start of the Anglo phase (Ward 2006 3-11).
+
+Previous Investigations
+Prior to fieldwork, the Texas Archeological Sites Atlas online (TASA) was checked for
+previous archaeological surveys in or near the areas of the survey. TX Dot has surveyed
+the main roads leaving only the smaller, less traveled ones still needing to be surveyed.
+Nearly all of the sites are prehistoric and are listed by the survey sections.
+In the Clint section of the survey the only previous studies were the recording of site
+41EP5217, 41EP5220, and 41EP5221 that were revisited in order to relocate. TASA does
+not have any site forms for the sites, but El Paso Brownware was discovered at
+41EP5221. Survey work at Milehigh between El Paso and Van Horn by Skinner, Steed
+and Bearden (1973) recorded 117 sites including numerous rock shelters, stone-lined
+hearths, historic glass, chipping sites, prehistoric ceramics, lithic scatters, and fireAR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+10
+
+cracked rock. Kimball Banks (1973) conducted a survey of the Three Mile and Sulphur
+Draw Watersheds finding eleven sites and several artifact locations. Four of these sites
+were chosen for further investigation where bifaces, projectile points, ceramics, manos,
+hammerstones, and retouched flakes were discovered.
+The Plateau section was extensively surveyed by the late John A. Hedrick (1968, 1975,
+1989) He recorded 23 base camps, 59 camp sites, 18 rock shelters, 8 quarries, 5 ring
+middens, 2 rock circles, 2 rock art sites, 5 lithic scatters, 3 isolated hearths, a cairn, and
+an isolated find. A total of 127 sites were located of which 16 had previously been
+recorded. A large quarry site near Black Peak, 41CU449, with large quantities of purpletan chert was recorded by Hedrick. Working in the Salt Basin region near Plateau in a
+roughly 24 square mile area finding surface sites that he described as large open
+campsites and small isolated campsites. Artifacts located included flint cores, flakes,
+scrapers, manos, metates, and arrow points. All of the sites listed above were prehistoric.
+Other groups have done surveys and excavations in the Plateau section as well. The Blue
+Origin Launch Facility Project by Christine Ward (2006) in Culberson County north of
+Van Horn was a prehistoric site, 41CU696, studied by Geo-Marine, Inc. The site was
+located on an alluvial fan. Artifacts included chipped stone, faunal bone, and ceramics.
+The University of Colorado (Lindsay 1969) excavated the Chispa Creek site near Van
+Horn in 1967. Clovis period material to recent pottery were located, including several
+Folsom points that were found in place. Almost 100 Folsom points were discovered
+there. The ElCOR Burial Cave (Skinner, Haas, and Wilson 1980:25-87) north of the
+plateau region in the Gypsum plain was an unusual find with seven very thick human
+skulls.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+11
+
+RESEARCH DESIGN AND METHODOLOGY
+The research design for the intensive pedestrian survey took into consideration previous
+investigations in the region that showed a similar natural environment. It was expected
+that prehistoric occupation would be found in the form of lithic or lithic scatters, isolated
+or multiple rock-filled hearths, burned rock middens, and possibly ceramics. Historic
+occupation would be much less common; however house structures, brick-lined cisterns,
+bottles, glass, and modern ceramics would be plausible.
+Based on known sites in and around the study area it is proposed that
+prehistoric occupation in the region was on a seasonal basis and sites were
+used for specific or limited maintenance activities. Current evidence
+shows that permanent occupation was not demonstrated. There is
+sufficient evidence to conclude that historical occupation was long term
+but widely scattered.
+In order to test these hypotheses, it was necessary to do the following:
+1.
+
+2.
+
+3.
+4.
+
+Systematically survey the route of the fiber optic cable looking for hearths,
+cairns, burned rock middens, or lithic scatters in a ten meter wide strip
+adjacent to the road.
+Record any evidence of prehistoric or historic occupation as sites or
+isolated occurrences [IOs] following the guidelines described by Stuart
+and Miller (1991:9)
+Map site arrangements on site survey forms or on graph paper if a more
+detailed map was warranted by the site arrangements/artifact scatter.
+Photograph each site.
+
+Limited shovel tests were placed at the sites within the survey area for the purpose of
+determining the boundaries and depth of the two sites. This would also try to determine
+the age by finding datable materials and the means to recreate the site.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+12
+
+RESULTS
+This section is arranged by describing the condition, ground surface coverage, sites
+located, shovel tests associated with sites, and the vegetation for the three survey areas.
+Starting with Clint southeast of El Paso on IH-10, then continuing east towards Plateau,
+and finally further east towards Kent.
+The area near Clint is where Dell City Telephone plans to build a twenty square foot
+switching station is now highly disturbed, and destroyed in some places, by the
+construction of IH-10. Erosion has occurred in much of the area as well with large ditches
+that have trash in them. An ariel photo of the area shows IH-10 and the surrounding
+development (Figure 5). Ground coverage was good at about 75 percent, but very little
+could be found. Three sites were previously plotted (41EP5221, 41EP5220, and
+41EP5217); however no site forms could be located on TASA online. Site 41EP5221
+(Figure 6) east of IH-10 was highly disturbed and eroded with ground visibility at 75
+percent. Artifacts consist of five El Paso Brown ceramic sherds, and a mano, metate, and
+FCR. The ceramic sherds were found on a sand dune running parallel with Roberts Ranch
+Road that leads to a land fill entrance. The mano appeared to be out of context, on top of
+sand dune, as if someone had simply dropped it there. No shovel tests were done at this
+location. Vegetation included primarily creosote bush, narrow leaf yucca, and
+occasionally a mesquite tree.
+Site 41EP5220 (Figure 7) was plotted south of IH-10 and is highly disturbed and eroded,
+if not destroyed, with water pipes, a large drainage system, cables, pipelines, and trash. A
+mobile home park and Exxon station with truck parking is next to the area. Ground
+coverage was good at 75 percent visible, but no evidence could be found to confirm the
+plotted site. The site was probably destroyed because of its close proximity to IH-10.
+Vegetation included creosote bush, and narrow leaf yucca.
+West from IH-10 is the previously plotted site of 41EP5217, and the destruction here is
+more intensive than at 41EP5220. Roads cut through the site location as well as large
+water pipes, an asphalt fill area, and a construction material platform. Ground visibility is
+still at 75 percent, but no cultural remains could be located. The site was probably
+destroyed because of its close proximity to IH-10. Creosote bush is the primary
+vegetation with narrow leaf yucca also present.
+The Plateau area is mildly disturbed due to natural erosion taking place. Ground visibility
+ranges from 50 to 75 percent depending on how thick the vegetation is. The proposed
+thirteen mile route for the fiber optic cable is marked in red (Figure 3a and 3b) and
+resides in a wide valley between the Davis and Van Horn Mountains in the Salt Basin
+(Bureau of Economic Geology 1979). The route starts in Culberson County and ends in
+Jeff Davis County. Archaeological potential is higher in the northern portion of the
+survey area where 41CU740, 41CU741 were recorded, and 41CU449 was revisited. The
+archaeological potential drops off considerably after the revisited site to almost nothing
+all the way to the end of the survey area at Red Hill. Vegetation was consistent for the
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+13
+
+entire length of the survey area with creosote bush, sacaton grass, occasional narrow leaf
+yucca, and some low barrel cactus.
+
+Figure 5.
+
+Arial photo of the Clint area showing IH-10 and the surrounding
+development.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+Figure 6.
+
+14
+
+Previously recorded site 41EP5221 facing northeast showing El Paso
+Brown ware next to compass.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+Figure 7.
+
+15
+
+Heavily disturbed area of the previously recorded site 41EP5220 facing
+northeast The access road on the south side of IH-10 is the center of the
+picture.
+
+41CU740 is an isolated single fire-cracked rock hearth (Hedrick 1968) just east of
+Plateau Valentine Road. It was readily located due to excellent ground visibility at 75
+percent due to the lack of vegetation. Artifacts present included a less than ten lithic
+debris scatter, mainly primary interior flakes, several core fragments, and half of a onehanded mano. Shovel tests were conducted in order to determine the boundaries of the
+site and showed that the first 30 - 35 cmbs of Shovel Tests 1-5 are a brown sandy loam
+(7.5YR4/3) followed by gravel caliche that were negative. Shovel test 6 showed 0–45
+cmbs as disturbed with no artifacts found. There is no evidence of any depth to the site,
+and nothing datable was found. The site is outside the APE and is mapped in Figure 8.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+Figure 8.
+
+16
+
+Site map of 41CU740 showing the location in relation to Plateau
+Valentine Road.
+
+41CU741 (Figure 9) is a multiple hearth site with very few associated lithics. The site is
+100 meters south of 41CU470 on the western sloping upland part of Black Peak hill east
+of Plateau Valentine Road. There are four rock concentrations here with two that are in
+the APE. The largest of the rock concentrations is seven by two meters and the smallest is
+one by one meters. Both of these rock concentrations are in the APE and will be
+destroyed. The remaining two angle up towards the northeast and are five by one meters
+and one by one meters. Lithics are present but the low artifact density suggests this was
+short term camp in size. All four are on the surface and have been heavily disturbed. The
+six shovel tests were all negative and showed (0 to 50 cmbs) a brown sandy loam
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+17
+
+(7.5YR4/4) followed by caliche gravel below 50 cmbs. Photographs were taken of the
+site. Nothing diagnostic was located on the surface or in the shovel tests. A site map is
+shown in Figure 10.
+
+Figure 9.
+
+41CU741 facing north showing the multiple hearth features.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+Figure 10.
+
+18
+
+Site map of 41CU741 showing the location in relation to Plateau
+Valentine Road.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+19
+
+Hedrick’s previously recorded Purple-Tan Chert Quarry, 41CU449, is roughly 700
+meters south of 41CU741 also on the east side of Plateau Valentine Road (Figure 11).
+Although well out of the APE, it was examined to find the source of the lithic material.
+Evidence of matrix removal, testing, and trimming chert was found (Hedrick 1988:135).
+Hill A is the closest to the road and the smallest on the east side of the road. Hill B
+(Figure 12) is the tallest and almost directly east of hill A. Walking up the east slope of
+the Hill B thousands of purple-tan, and brown lithic material could be seen, but at the top
+only limestone was present. Heading down the hill in a northwest direction the limestone
+source for the purple-tan chert could be seen, however the lithic flakes dropped to almost
+nothing. Hill C (Figure 13) is southwest of Hill B and is very similar with the exception
+that there is lithic material on its hilltop. It appears that the source of the lithic material
+has eroded away from the top of Hill B but not yet from C. Therefore the hilltops are the
+probable source for the lithic material at the site, which has eroded away over time. The
+valley between hill A and B showed a lesser amount of material to almost nothing
+cultural at all.
+
+Figure 11.
+
+Areas A, B, and C that were revisited at site 41CU449 on a section of a
+Boracho, Texas 7.5’ USGS map.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+20
+
+Figure 12.
+
+Purple/Tan chert located within the source rock discovered from Hill B
+heading northwest down from the hilltop.
+
+Figure 13.
+
+Purple/Tan chert located on top of Hill C with trowel and gloves to show
+scale.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+21
+
+The Kent area (Figure 4) sections of the proposed cable routing resides in the valleys of
+the Davis Mountains. Large boulders and various other rocks with very little soil is the
+predominate terrain cover for the region. The ground visibility was good at 75 percent
+due to the lack of vegetation in many parts. No cultural remains were located in these
+surveyed areas, and no shovel tests were done. This was determined by walking ranch
+roads to an unmarked ranch to the east and west towards the Rancho del Cielo Ranch off
+of CR-118 south. Further south on the east side another short section was surveyed to a
+ranch house where a rancher confirmed that the valley fill was mostly rock. Traveling
+further south, the last section surveyed led to a locked gate on the east side of the road
+for the Reynolds Cattle Company JN Ranch. The terrain looked the same as the previous
+sections. The predominant vegetation is creosote bush with some mesquite trees present
+for all four sections surveyed.
+Conclusions
+In the survey area near Clint, two of the three previously plotted sites, 41EP5220 and
+41EP5217, were not relocated and were probably destroyed during or after the
+construction of IH-10. Site 41EP5221 showed signs of cultural material, but it is located
+in a disturbed and eroded setting with no evidence of a buried cultural deposit. The
+absence of site forms at TASA online made relocating the sites much harder. Because of
+the shallow soil and extensive disturbances, all three sites are considered destroyed.
+The Plateau survey area yielded two newly recorded prehistoric sites, 41CU740 and
+41CU741, and Hedrick’s previously recorded Purple/Tan Chert Quarry 41CU449. All
+three sites are located at the north end of the survey area.. Sites 41CU740 and 41CU741
+are hearth sites that are deflated and eroded with a very dispersed lithic scatter
+associated. They are open camps and may have been staging points before or after
+collecting lithics at the nearby quarry.
+The survey area near Kent yielded no cultural remains. The four sections surveyed are
+all private ranch roads with very rocky terrain with boulders and rocks from the Davis
+Mountains.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+22
+
+RECOMMENDATIONS
+The building location in the Clint area has the three previously reported sites. Two of
+these appear to have been destroyed now and the third is badly eroded and is disturbed,
+therefore ARC does not recommend any further archaeological investigation. Replacing
+the old copper cable with fiber optics adjacent to the existing roadways in the Plateau
+area could impact the area around site 41CU449. Only one of the two recorded sites near
+Plateau is partly in the APE, but being a surface site with no depth or datable material no
+further investigation is warranted. No cultural material was discovered near Kent on any
+of the four sections for the proposed cable routing, thus not warranting any further
+archaeological study. All the sites to be impacted are ineligible for NRHP. It is AR
+Consultants, Inc. recommendation that no further archaeological investigations are
+warranted. If during burial of the new cable or construction of the building cultural
+material is discovered work should cease immediately until it can be investigated further.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+23
+
+REFERENCES CITED
+Banks, Kimball
+1975
+Prehistoric Settlement In The Three-Mile & Sulphur Draws Watersheds. Archaeology Research
+Program, Southern Methodist University, Research Report No. 82.
+Bureau of Economic Geology
+1975
+Geologic Atlas of Texas, Van Horn-El Paso Sheet. The University of Texas at Austin.
+1979
+Geologic Atlas of Texas, Marfa Sheet. The University of Texas at Austin.
+Council of Texas Archeologists
+ND
+Guidelines for the content of Cultural Resource Management Reports. Manuscript on file with the
+membership.
+Dell Telephone Cooperative
+2006
+Electronic document, http://www.delltelephone.com , accessed March 1, 2007.
+Hedrick, John A.
+1968
+Plateau Station Area Survey. The Artifact 6(1): 1-16.
+1975
+Archaeology of the Plateau Site, Culberson County. The Artifact 13(4): 45-82.
+1989
+A Preliminary Report on Archaeological Resources in Southern Culberson County in the Vicinity
+of Van Horn, Texas. Bulletin of the Texas Archeological Society 59:129-156.
+Lindsay, A.J., Jr.
+1969
+Current Research: Southwest Texas. American Antiquity 34(1):102-103.
+Meltzer, David J. and Michael R. Bever
+1995
+Paleoindians of Texas: An Update on the Texas Clovis Fluted Point Survey. Bulletin of the Texas
+Archeological Society 66:47-81.
+Miller, Myles R. and Nancy A. Kenmotsu
+2004
+Prehistory of the Jornado Mogollon and Eastern Trans-Pecos Regions of West Texas In The
+Prehistory of Texas, edited by Timothy K Perttula, pp. 205-266. Texas A&M University Press,
+College Station.
+Oaks, F. Lawrence
+2006
+Texas Historical Commission letter to Gaylord M. Ellerman of NCOM requesting archaeological
+survey.
+Skinner, S. Alan., Paul P. Steed Jr. and Susan E. Bearden
+1973
+Prehistory at Milehigh. Archaeology Research Program, Southern Methodist University, Research
+Report No. 30.
+Skinner, Alan S., Herbert Haas and Susan L. Wilson
+1980
+The ELCOR Burial Cave: An Example of Public Archaeology From West Texas. Plains
+Anthropologist. 25(87):1.
+Skinner, Alan S. and Jesse Todd
+2004
+Archaeological Survey of the West El Paso Tract. AR Consultants, Inc. Cultural Resources Report
+2004-8.
+Simmons, Alan H., Douglass D. Dykermann and Patricia A. Hicks
+1989
+The Formative Period-Neolithic Archeology in the Southwest In Human Adaptation and Cultural
+Change in the Greater Southwest, Arkansas Archeological Survey, Research Series No. 32:75119.
+Stuart, Trace and Myles R. Miller III
+1991
+An Archeological Survey of 2280 Acres for Phase II of the Proposed Rancho Las Lomas/Westport
+Development in Northwest El Paso, Texas. Batcho and Kaufmann Associates, Cultural Resources
+Report Number 128
+Texas Archeological Site Atlas
+2007
+Search for sites listed on the Clint, Plateau, and Kent, Texas 7.5 USGS Maps. Texas Historical
+Commission internet site. www.Pedernales.thc.state.tx.us
+Timmons, W.H.
+2007
+El
+Paso,
+TX.
+The
+Handbook
+of
+Texas
+Online.
+Accessed
+2-26-2007.
+http://www.tsha.edu/handbook/online.
+
+AR CONSULTANTS, INC.
+.
+
+DELL CITY TELEPHONE FIBER OPTIC CABLE
+
+24
+
+Turner, August, J.
+1977
+Soil Survey of Jeff Davis County, Texas. USDA Soil Conservation Service in Cooperation with
+Texas Agricultural Experiment Station.
+USDA
+2007
+Clint, El Paso County, Texas Online County Soil Survey, s.v. http://soils.usda.gov/survey
+(Accessed February 17, 2007).
+Ward, Christine, G.
+2006
+Mitigation of 41CU696 In The Blue Origin Launch Facility Project Area, Culberson County,
+Texas. Geo-Marine, Inc. Report of Investigations No. 716EP.
+
+AR CONSULTANTS, INC.
+.
+
+

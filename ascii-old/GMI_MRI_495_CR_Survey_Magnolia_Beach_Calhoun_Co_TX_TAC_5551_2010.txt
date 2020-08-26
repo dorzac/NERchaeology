@@ -1,0 +1,2423 @@
+MAGNOLIA BEACH
+INTENSIVE CULTURAL RESOURCES
+SURVEY, CALHOUN COUNTY, TEXAS
+by
+Clayton M. Tinsley
+and
+Jessica Forbes
+
+for
+Tim F. Glendening & Associates, Inc.
+Plano, Texas
+
+TEXAS ANTIQUITIES PERMIT NUMBER 5551
+
+MISCELLANEOUS REPORTS OF INVESTIGATIONS
+NUMBER 495
+
+May 2010
+
+MAGNOLIA BEACH INTENSIVE CULTURAL RESOURCES
+SURVEY, CALHOUN COUNTY, TEXAS
+
+by
+Clayton M. Tinsley
+Jessica Forbes
+
+Principal Investigator
+Clayton M. Tinsley
+
+submitted to
+Tim F. Glendening & Associates, Inc.
+5021 Trail Lake Drive
+Plano, Texas 75093
+
+TEXAS ANTIQUITIES PERMIT NUMBER 5551
+
+MISCELLANEOUS REPORTS OF INVESTIGATIONS
+NUMBER 495
+
+Geo-Marine, Inc.
+2201 K Ave, Suite A2
+Plano, Texas 75074
+
+May 2010
+
+EXECUTIVE SUMMARY
+
+In conjunction with the proposed resurfacing of a portion of Ocean Drive, southeast of Magnolia
+Beach, Calhoun County, Texas, a Phase I cultural resources assessment was undertaken to satisfy
+state requirements for the identification and evaluation of cultural resources that might be
+affected by the road work. The Ocean Drive resurfacing will encompass approximately 1,850
+feet of Right-of-Way (ROW) beginning at the intersection of 24th Street and moving north.
+Due to the potential impacts from the proposed resurfacing of Ocean Drive on cultural resources
+properties (i.e., archaeological sites and historic-era buildings, structures), Geo-Marine, Inc., was
+contracted by Tim F. Glendening and Associates, Inc. to conduct the Phase I studies (Geo-Marine
+project number 30646.00.01), under Texas Antiquities Permit Number 5551, to record and
+evaluate cultural resources in the area of potential effects (APE), as required by the National
+Environmental Policy Act (NEPA) of 1969 [42 U.S.C. §§ 4321–4347; P.L. 91-190; 83 Stat. 852],
+the National Historic Preservation Act (NHPA) of 1966, as amended through 2000 [16 U.S.C. §
+470 et seq.; P.L. 89-665; 80 Stat. 915].
+The Phase I investigations conducted on February 22-24, 2010 consisted of two tasks: (1)
+archaeological survey; and (2) historic architectural resources survey. In accordance with
+guidance from the Texas Historical Commission (THC) for this project, the architectural survey
+recorded all buildings that are 45 years of age or older. Two historic-age architectural resources
+were recorded in the architectural survey APE; neither is recommended eligible for listing on the
+National Register of Historic Places (NRHP). No buried cultural deposits were identified during
+the intensive survey of the archaeological APE. Within the APE for the architectural survey, two
+buildings appear to have been constructed in or before 1965. Of those buildings, one is a motel
+and one is a domestic single-dwelling. Neither of the historic-age architectural resources is
+recommended eligible for listing on the NRHP.
+
+ii
+
+TABLE OF CONTENTS
+
+EXECUTIVE SUMMARY ............................................................................................................. ii
+MANAGEMENT SUMMARY..................................................................................................... vii
+ACKNOWLEDGMENTS ............................................................................................................ viii
+CHAPTER 1. INTRODUCTION .................................................................................................... 1
+CHAPTER 2. ENVIRONMENTAL CONTEXT............................................................................ 3
+Geology and Geomorphology .................................................................................................. 3
+The Beaumont Formation...................................................................................................... 4
+Soils .......................................................................................................................................... 4
+Hydrology ................................................................................................................................. 6
+Climate ..................................................................................................................................... 6
+Flora.......................................................................................................................................... 6
+Fauna ........................................................................................................................................ 6
+Resource Potential .................................................................................................................... 6
+CHAPTER 3. CULTURAL CONTEXT ......................................................................................... 8
+Introduction .............................................................................................................................. 8
+Previous Investigations ............................................................................................................. 8
+Cultural Chronology ................................................................................................................. 8
+Paleo-Indian (ca. 9200–5500 B.C.) ...................................................................................... 10
+Early Archaic (ca. 5500–2200 B.C.) .................................................................................... 10
+Morhiss Mound Site (41VT1) .......................................................................................... 10
+The Buckeye Knoll Site (41VT98) .................................................................................. 11
+Middle Archaic (ca. 2200–1100 B.C.) ................................................................................. 11
+Late Archaic (ca. 1100 B.C.–A.D. 1000) .............................................................................. 12
+Late Prehistoric (ca. A.D. 1000–1700)................................................................................. 13
+Historic Period (ca. A.D. 1519–present) .............................................................................. 14
+CHAPTER 4. METHODOLOGY ................................................................................................. 18
+Archival Research................................................................................................................... 18
+Archaeological Survey ........................................................................................................... 18
+iii
+
+Table of Contents
+(cont‘d)
+
+Artifact Treatment and Analysis Methods .............................................................................. 19
+Historic Architectural Resources Survey................................................................................ 19
+CHAPTER 5. SURVEY RESULTS.............................................................................................. 20
+Archaeological Survey Results ............................................................................................... 20
+Historic Architectural Survey Results .................................................................................... 23
+General Comments on Architectural Resources in the APE ............................................... 23
+Historic Architectural Resources Recorded within the APE ............................................... 25
+Resource 01 ...................................................................................................................... 25
+Resource 02 ...................................................................................................................... 28
+CHAPTER 6. SUMMARY AND RECOMMENDATIONS ........................................................ 30
+REFERENCES CITED .................................................................................................................. 32
+APPENDIX A: THC HISTORIC RESOURCES SURVEY FORMS ....................................... A-1
+
+iv
+
+LIST OF FIGURES
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+
+Magnolia Beach Intensive Cultural Resources Survey Project location ................................. 2
+NRCS soil survey for Magnolia Beach project area in Calhoun County ................................ 5
+Location of site 41CL39 and shovel test units within the Magnolia Beach project area ....... 21
+Northern terminus of Magnolia Beach APE, looking south .................................................. 22
+Typical shovel test within APE (Transect 1, Shovel Test 5) ................................................. 22
+View of modern motel and residence within APE, facing south ........................................... 23
+Magnolia Beach Historic Architectural Survey location ....................................................... 24
+Dwelling on 1100 block of N. Ocean Drive, looking northeast ............................................ 25
+Dwellings on 1400 block of N. Ocean Drive, looking west .................................................. 26
+Dwelling on 1400 block of N. Ocean Drive, looking northeast ............................................ 26
+Resource 01, looking north .................................................................................................... 27
+Resource 01, looking east-southeast ...................................................................................... 27
+Resource 02, looking south-southwest .................................................................................. 29
+
+v
+
+LIST OF TABLES
+
+1. Cultural Chronology of the Central Texas Coast ....................................................................... 9
+
+vi
+
+MANAGEMENT SUMMARY
+
+This report presents the results of a Phase I cultural resources assessment conducted in relation to
+the proposed resurfacing of a portion of Ocean Drive, approximately 1.5 miles southeast of
+Magnolia Beach, Calhoun County, Texas. The Magnolia Beach project area encompasses
+approximately 1,850 linear feet of ROW which comprises the Area of Potential Effects (APE)
+which would potentially be impacted by the resurfacing of the segment of Ocean Drive. The
+ROW for the archaeological survey just involved the 50 foot Ocean Drive ROW, while the survey
+for architectural resources made use of an expanded 150 foot zone extending from each side of
+the Ocean Drive ROW. All construction and operation activities for resurfacing will take place
+within the Ocean Drive ROW.
+Due to the potential impacts of the proposed resurfacing of a portion of Ocean Drive to cultural
+resource properties (i.e., archaeological sites and historic buildings and structures), Tim F.
+Glendening and Associates, Inc., contracted with Geo-Marine, Inc., to conduct Phase I studies to
+record and evaluate historic properties in the APE, as required by the National Environmental
+Policy Act (NEPA) of 1969 [42 U.S.C. §§ 4321–4347; P.L. 91-190; 83 Stat. 852], the National
+Historic Preservation Act (NHPA) of 1966, as amended through 2000 [16 U.S.C. § 470 et seq.;
+P.L. 89-665; 80 Stat. 915. The results of the archaeological and historical architecture resources
+surveys are the focus of this volume of the report.
+The Phase I investigations conducted on February 22-24, 2010, consisted of two tasks: (1)
+archaeological survey; and (2) historic architectural resources survey. In accordance with Texas
+Historical Commission (THC) guidance for this project, the architectural survey recorded all
+buildings that are 45 years of age or older. Two historic architectural resources were recorded in
+the architectural survey APE; neither is recommended eligible for listing on the National Register
+of Historic Places (NRHP). No buried cultural deposits were identified during the intensive
+survey of the archaeological APE. Within the APE for the architectural survey, two buildings
+appear to have been constructed in or before 1965. Of those buildings, one is a motel and one is a
+domestic single-dwelling. Neither of the historic architectural resources is recommended eligible
+for listing on the NRHP. All written records will be curated at the Texas Archeological Research
+Laboratory in Austin for permanent curation and storage.
+
+vii
+
+ACKNOWLEDGMENTS
+
+Many individuals contributed both their time and expertise to the completion of this study. First
+and foremost, the authors would like to thank Tim F. Glendening of Tim F. Glendening and
+Associates, Inc., and Kay Howard of A&K Howco Services, Inc. Various other Geo-Marine,
+Inc., staff also aided the report production process. Sharlene Allday and Denise Pemberton,
+deserve special thanks for their preparation of the report.
+
+viii
+
+CHAPTER 1
+INTRODUCTION
+
+This report presents the results of a Phase I cultural resources assessment conducted in relation to
+the proposed resurfacing of a 1,850 foot portion of Ocean Drive, south-east of Magnolia Beach,
+Texas (Figure 1). Due to the potential impacts of the proposed resurfacing of a portion of Ocean
+Drive to cultural resource properties (i.e., archaeological sites and historic buildings and
+structures), Tim F. Glendening and Associates, Inc., contracted with Geo-Marine, Inc., to conduct
+Phase I studies to record and evaluate historic properties in the APE (GMI project #30646.00.01),
+as required by the National Environmental Policy Act (NEPA) of 1969 [42 U.S.C. §§ 4321–4347;
+P.L. 91-190; 83 Stat. 852], the National Historic Preservation Act (NHPA) of 1966, as amended
+through 2000 [16 U.S.C. § 470 et seq.; P.L. 89-665; 80 Stat. 915. This contract was initiated on 5
+February 2010. The results of the archaeological and historical architecture resources surveys are
+the focus of this report.
+The Magnolia Beach project area encompasses approximately 1,850 linear feet of ROW which
+comprises the Area of Potential Effects (APE). The APE for the archaeological survey involved
+the 50 foot Ocean Drive ROW, while the survey for architectural resources took place in an
+expanded survey area of 150 feet on both side of the ROW. Thus, the maximum extent of the
+APE consists of both the Ocean Drive ROW (50 feet) and the architectural resources zone
+extending 150 feet from both sides of the road ROW. Based on data obtained at the Texas
+Archeological Research Laboratory (TARL) in Austin, one archaeological site (41CL39) is
+recorded as present within the current project APE. Due to the presence of a recorded site within
+the APE, an intensive survey methodology was developed to fully document the presence of any
+undisturbed archaeological deposits within the Ocean Drive ROW.
+
+1
+
+CHAPTER 2
+ENVIRONMENTAL CONTEXT
+
+This chapter discusses the environmental setting of the Magnolia Beach Intensive Cultural
+Resources Survey Project Area within the context of the Central Texas Coast. The project area is
+located in Lavaca Bay, approximately 1.5 miles southeast of the community of Magnolia Beach
+in Calhoun County. The following sections summarize the area‘s geology and geomorphology,
+soils, hydrology, climate, flora, and fauna. Finally, biotic and nonbiotic resources that could have
+been of potential benefit to prehistoric peoples are discussed.
+
+GEOLOGY AND GEOMORPHOLOGY
+Although there have been few large-scale surveys of the coastal plain landscape that have
+examined the geomorphology in detail, a solid start is provided by Abbott (2001), who compiled
+a broad suite of local geomorphic and Quaternary stratigraphic information to achieve a similar
+goal for the Houston District of the Texas Department of Transportation, which shares a
+geological landscape similar to the project area. Site contexts within the coastal plain vary
+significantly, for the landscape is dynamic, with factors such as alluvial sedimentation and
+erosion, eolian deposition, colluvial deposition, and sea-level rise during the Holocene period, all
+affecting site location and site integrity.
+The project area consists of Pleistocene uplands overlain in some areas by coastal beach
+sediments of alluvial derivation. The middle Texas gulf coastal plain is underlain by a series of
+coastward-dipping fluvial and fluvial-deltaic deposits that have largely been mapped on the basis
+of their geomorphic expression as morphostratigraphic units. These surfaces are generally
+separated from one another by gentle scarps and often differ significantly in terms of their
+topography and the clarity of relict fluvial geomorphic features preserved on their surface as
+viewed from the ground (cf. descriptions in Sellards et al. 1932:786, 792–793) or on aerial
+imagery. In general terms, as the surfaces become older, the definition of relict fluvial
+geomorphic features diminishes, a process referred to by Fisk (1940) as ―landscape
+deterioration.‖ The relationship of these surface deposits to subsurface geology is reported to be
+somewhat tenuous (Winker 1990b). In the vicinity of the project area, the Pleistocene-age coastal
+morphostratigraphic unit Beaumont Formation is present.
+
+3
+
+The Beaumont Formation
+The Beaumont Formation is the youngest of the coast-parallel Pleistocene-age deposits. It crops
+out on the coastward side of and laps onto the Lissie Formation. It was first named by Hayes
+(1915) for exposures near Beaumont, Texas. Deposition of the Beaumont Formation is attributed
+to fluvial-deltaic processes during an interglacial period. The surface of the Beaumont Formation
+is generally flat and is known for its prominent vertisols and well-developed gilgai that cover
+more than 4 million hectares (Nordt et al. 2006).
+Beaumont Formation Age and Fossil Content: A few vertebrate fossils have been recovered
+from the Beaumont Formation (most notably Elephas imperator Leidy), but the most common
+fossils reported are marine and brackish water invertebrates such as Rangia cuneata Gray and
+Ostrea virginica Gmelin (Deussen 1924; Sellards et al. 1932). These are of little assistance in
+dating the unit. Radiocarbon ages have been used to constrain the upper limit of Beaumont
+Formation deposition at around 35,000 years (cf. Birdseye and Aronow 1991:A223; Gaston 1979;
+Nordt et al. 2006), but many samples of potentially radiocarbon datable material (shells and
+wood) that have been dated returned ―dead‖ ages in excess of 40,000 years old (Aronow 1988;
+Heinrich 2007; McFarlan 1961; Otvos 1971). The Beaumont clearly predates the Deweyville
+terraces that are inset into it and mark the entrenchment of the modern streams. Recent
+luminescence dating by Durbin (Durbin 1999; Durbin et al. 1997) has yielded ages for both the
+Beaumont Formation and the Deweyville terraces along the Nueces River. Durbin et al. (1997)
+report thermoluminescence (TL) dates for the Beaumont Formation derived from cutbank
+exposures around Nueces Bay of 91.7±7.9 ka and 71.9±6.9 ka and suggest that these ages provide
+an upper limit to Beaumont sedimentation that is consistent with TL dates from the High
+Deweyville terrace of 52.6±5.2 ka by Durbin et al. (1997) and optically stimulated luminescence
+(OSL) dates of 63.1±4.0 ka and 50.4±3.2 ka reported by Aiuvalasit (2006, 2007).
+Recently, Blum and Aslan (2006) and Blum and Price (1998) have presented new stratigraphic
+and geochronologic information for the Beaumont Formation near the mouth of the Colorado
+River that demonstrates that it is considerably more complex than previously thought. In specific,
+they have demonstrated that the complex of Beaumont Formation meanderbelts mapped by BEG
+can be separated into at least three distinct incised valley fills that they informally named the
+Lolita, El Campo, and Bay City. The oldest of these is the Lolita, which has yielded TL dates of
+307 and 323 ka, placing its deposition in oxygen isotope stage 9. The intermediate age unit, the
+El Campo, is undated but thought to have been deposited during oxygen isotope stage 7, whereas
+the youngest Beaumont-age incised valley deposit, the Bay City, has yielded TL dates from
+channel sands that range between 155 and 102 ka, placing its deposition during the falling sea
+levels of oxygen isotope stage 6 and the sea level high-stand of oxygen isotope stage 5. As a
+result, Blum and Aslan (2006) suggest that the Beaumont Formation likely includes deposits from
+the entire post-Lissie period but preceding the incision and deposition of the first Deweyville
+Formation deposits. This interpretation is in opposition to previous impressions of the Beaumont
+Formation as a last interglacial high-stand deposit.
+SOILS
+There is one soil type within the APE: Psamments (beach) deposits (Figure 2). The entire APE
+consists of gravelly beds of Psamments containing fine and very fine shell fragments mixed with
+varying amounts of sand – with water present at a depth of approximately 24 inches. Psamments
+of this type are commonly of zero to one percent slopes (Mowery and Bower 1978). This soil
+unit is of high salinity but is commonly used as a building and road material.
+4
+
+HYDROLOGY
+The uplands of the APE are devoid of natural fresh water sources. The project area fronts Lavaca
+Bay which is part of the greater Matagorda Bay system of the Central Texas coast.
+
+CLIMATE
+The climate of the project site can be characterized generally as subtropical humid (Larkin and
+Bomar 1983). Data from a local climate monitoring station (Southern Regional Climate Center
+[SRCC] 2008) show an average daily maximum temperature of 80°F, with an all-time maximum
+of 111°F in 2000, and an average daily minimum temperature of 61°F, with an all-time low of
+9°F in 1989. The mean wind speed throughout the year is 10 mph, with a record high of 83 mph
+in 2003. Relative humidity in Victoria averages 76 percent but increases dramatically throughout
+each night, rising from a 6:00 P.M. average of 60 percent and a 6:00 A.M. average of 91 percent.
+Precipitation averages 40 inches per year, with a 24-hour record of 10 inches in 1991, and
+snowfall is negligible (SRCC 2008).
+
+FLORA
+According to the TPWD broad-scale map, Vegetation Types of Texas (Frye et al. 1984), the APE
+lies within the bluestem grassland vegetation type. The APE is bordered by marsh to the west
+and coastal beaches to the east. Common plants in the APE include bushy bluestem, slender
+bluestem, little bluestem, silver bluestem, three-awn, buffalograss, bermudagrass, brownseed
+paspalum, single-spike paspalum, smutgrass, sacahuista, windmillgrass, southern dewberry, live
+oak, mesquite, huisache, baccharis, and Macartney rose (Frye et al. 1984).
+
+FAUNA
+Calhoun County is home to a variety of animal species. Mammals include whitetail deer
+(Odocoileus virginianus), beaver (Castor Canadensis), armadillo (Dasypus novemcinctus),
+raccoon (Procyon lotor), opossum (Didelphis marsupialis), gray fox (Urocyon cinereoargenteus),
+and rabbit (Sylvilagus spp.). Birds residing in the area include herons (Ardea spp.), ducks (Anas
+spp.), geese (Branta spp.), turkey vultures (Cathartes aura), hawks (Accipiter spp.), and owls
+(Strigidae spp.). Several species of snakes, lizards, frogs, and turtles are among the reptiles and
+amphibians living within Victoria County. Some of the aquatic species native to the county are
+gar (Lepisosteus spp.), gafftopsail catfish (Bagre marinus), eel (Anguilla spp.), clam (Rangia
+cuneata), eastern oyster (Crassostrea virginica), and several mussel species (McGuff 1978;
+White et al. 1989).
+
+RESOURCE POTENTIAL
+Lavaca Bay and to a lesser extent, the adjacent uplands, provided a wide range of resources useful
+to indigenous hunter-gatherers. The climate was generally warm to hot, with relatively low levels
+of rainfall. Even though no natural caves and shelters were present, the climate did not typically
+require tremendous investments in constructing substantial buildings. Much of the vegetation
+6
+
+tended to be thorny, but this does not seem to have been a major impediment to human
+movement; after all, Cabeza de Vaca traversed the area in the 1530s in a nearly naked state of
+dress (Krieger 2002).
+Generally, prehistoric sites are found near water rather than in dry upland contexts (Ricklis 2004).
+The Pleistocene-age Beaumont terraces discussed previously under Geology and Geomorphology
+would have provided excellent settlement locations as sea (and river) levels rose throughout the
+early and middle Holocene, reaching modern ranges approximately 3,000 years ago (Paine 1991).
+Given that few grinding implements have been recovered from prehistoric sites in the area, it
+seems likely that edible legume beans and pods were pounded in wooden mortar and pestles.
+Stone cobbles also served as heating elements in stone boiling or griddle cooking activities; other
+stones were used as heating elements in hearths for a wide range of activities.
+The region also has a great diversity of animals, as discussed previously under Fauna. Many of
+the larger animals could have been hunted using atlatl darts, spears, and later by bows and arrows;
+the smaller game might have been caught in wooden snares or deadfalls. After meat and hides
+were removed, animal bones provided the raw materials for various tools and ornaments such as
+pins and beads. Lacustrine, and estuarine environments along Lavaca Bay would have provided
+abundant resources, including various varieties of shellfish and finfish. Shell middens
+demonstrate a continuous subsistence focus on local mollusks from Archaic through Historic
+times, as well as utilization of fish with breeding cycles dependent on estuarine salinity
+fluctuations (Ricklis 2004). In addition to nutrients, mollusks also provided shells that could be
+made into scrapers or ground into fragments for use as ceramic temper in the Late Prehistoric
+period (although it must be said that the clays in the immediate study area often include a sandy
+fraction that serves as a natural temper, obviating the need for additional temper material).
+
+7
+
+CHAPTER 3
+CULTURAL CONTEXT
+
+INTRODUCTION
+Based on early taxonomic divisions within coastal archaeology (Ambler 1967; Aten 1983;
+Campbell 1960), the Texas Gulf Coast has been divided into three basic zones: upper, central,
+and lower coasts. This review of prehistory and history will only include the central Texas coast
+in general, and more specifically, it will focus on the current project site and the surrounding
+region within a 20-mile radius. The central Texas coast is most commonly discussed as
+extending from the Colorado River south to the northern reaches of Baffin Bay (Ricklis 2004).
+This area includes the barrier islands and coastal fringes and continues inland for approximately
+25 miles. The central Texas coast has survived as a useful geographical unit because its
+geomorphology, namely its five estuarine bay systems, has produced rather unique and bounded
+assemblages from at least the Late Archaic period (1150 B.C–1000 A.D.).
+
+PREVIOUS INVESTIGATIONS
+Professional archaeological investigations on the Central Texas coast date back to the early
+1930s. However, work in the immediate area of the APE is limited to one General land Office
+(GLO) survey performed in 1974 (Fritz 1975). The GLO survey recorded a total of seven
+archaeological sites. Five of the surveyed sites (41CL33, 41CL34, 41CL35, 41CL36, and 41CL
+37) were described as prehistoric shell middens of unknown age. The remaining two sites were
+described as a nineteenth century cemetery (41CL38) and the location of Indian Point (41CL39).
+Indian Point was also known as Karlshaven, the site of a ninteenth century German settlement.
+The site boundaries for Indian Point (41CL39) are located within the current project APE and the
+only site within one kilometer of the project area. No previous architectural studies conducted
+within or near the APE were discovered during this study.
+
+CULTURAL CHRONOLOGY
+Thomas N. Campbell (1960) was the first to fully synthesize the archaeology of the Texas central
+and lower coasts. Using information from many of his own excavations within Copano Bay and
+Laguna Madre, along with other existing yet sparse information, Campbell created a basic two8
+
+part chronology: the pre-ceramic Archaic Aransas focus, followed by the Late Prehistoric
+Rockport focus. These taxonomic designations were created using artifact typologies and
+apparent stratigraphic relationships without the assistance of radiocarbon dating techniques.
+Since Campbell‘s (1960) synthesis, there has been a tremendous increase in the number and
+complexity of archaeological research projects along the central Texas coast. The vast majority
+of this research in recent decades has been carried out as cultural resources management projects.
+Many attempts have been made to organize the large amount of archaeological data from this
+region into a cultural chronology that is both generally accepted and integrates well with adjacent
+areas. As part of a review of south Texas archaeology, including the coast, Stephen L. Black
+(1989) created a taxonomic cultural sequence for the central coast. Black‘s elaborate system of
+―phases‖ is a significant expansion of Campbell‘s simplistic two-part chronology. In Black‘s
+system, there are eight phases from just the Late Archaic to Historic periods. Richard Weinstein
+(1992) further expanded Black‘s work, but cultural chronologies for the central Texas coast are
+still the focus of much debate and little agreement (cf. Ricklis 2004).
+In order to avoid debates of taxonomy, the current review will use a simple chronological
+framework when discussing the indigenous archaeology of the central Texas coast (Table 1).
+This chronology includes the Paleo-Indian (ca. 9200–5500 B.C.), Early Archaic (ca. 5500–2200
+B.C.), Middle Archaic (ca. 2200–1100 B.C.), Late Archaic (ca. 1100 B.C.–A.D. 1000), Late
+Prehistoric (A.D. 1000–1700), and Early Historic (A.D. 1700–1800) periods.
+
+Table 1
+Cultural Chronology of the Central Texas Coast
+Period
+
+Date
+
+Diagnostics
+
+ca. 1840 A.D.
+
+Rockport and/or Goliad series ceramics; Young and Bulbarstemmed arrow points; Fresno and Guerrero arrow points;
+European artifacts and/or materials
+
+ca. 1700 A.D.
+
+Rockport, Leon Plain, and Goose Creek series ceramics; Perdiz,
+Fresno, and Scallorn arrow points; cemeteries
+
+ca. 1000 A.D.
+
+Ensor, Darl, and Fairland, Marcos, Montell, Castroville,
+Marshall, Williams, Lange(?), Morhiss and Pedernales dart
+points
+
+ca. 1100 B.C.
+
+Bulverde, Palmillas, Pedernales, Kinney, Kent, Tortugas, Nolan,
+Travis, and Refugio(?) dart points
+
+ca. 2200 B.C.
+
+Andice, Bell, Martindale, Uvalde, Early Triangular, Early
+Corner Notched, Gower, Wells, and Angostura dart points
+
+ca. 5500 B.C.
+ca. 9200 B.C.
+
+Scottsbluff, Angostura, Weak-shouldered Lanceolate,
+Golondrina, Plainview, Meserve, Folsom, Clovis points
+
+Early Historic
+
+Late Prehistoric
+
+Late Archaic
+
+Middle Archaic
+Early Archaic
+Paleo-Indian
+
+9
+
+Paleo-Indian (ca. 9200–5500 B.C.)
+The Texas coastal region underwent dramatic changes in geomorphology throughout the late
+Pleistocene and early Holocene. By the peak of glaciation within the Pleistocene (ca. 20,000
+B.C.), sea levels were at least 100 m below current levels. Global warming trends ca. 18,000
+years ago triggered sea level increases, which by 9,000 years ago allowed for the initial formation
+of the modern bay systems of the central Texas coast (Brown et al. 1976; McGowan et al. 1976).
+Sea levels continued rising throughout the early Holocene and did not approximate modern levels
+until ca. 1,050 B.C. (Anderson et al. 1992; Brown et al. 1976; McGowan et al. 1976; Paine 1991).
+The shallow water estuary/barrier island chain systems characteristic of the central Texas coast
+began to approximate their modern forms during the end of the Middle Archaic Period ca. 3,000
+years ago (Paine 1991).
+Due to the dynamic nature of the Texas coast during the early Holocene, evidence of Paleo-Indian
+archaeology is sparse on the central Texas coast and primarily consists of isolated, scattered finds.
+Site 41VT112 is the only stratified site with Paleo-Indian components within the region.
+Although some Paleo-Indian projectile points (Golondrina, Angostura and Plainview) were
+recovered from the Morhiss Mound (41VT1) excavations of the 1930s, they were from mixed
+contexts and provide little more data than the stray finds typified by site 41VT85 along the
+Guadalupe River (Campbell 1976:84–85).
+
+Early Archaic (ca. 5500–2200 B.C.)
+For the first two millennia of the Early Archaic, sea levels continued to slowly rise, and the active
+channels of the San Antonio and Guadalupe rivers were still below their current depths (Pearson
+et al. 1986). Phytolith data indicate that throughout the Early Archaic period the environment
+underwent a gradual transition to drier conditions (Robinson 1979). Given the amount of general
+geomorphological and climatic change occurring throughout the Early Archaic, it has been
+difficult for archaeologists to locate occupations dating to this period. In spite of two notable
+exceptions, intact sites attributed to the Early Archaic are rare for the central Texas coast. The
+two exceptions, the Morhiss Mound site (41VT1) and the Buckeye Knoll site (41VT98).
+
+Morhiss Mound Site (41VT1)
+When first investigated in 1932, the 300 x 400-ft mound was over 20 ft in height. A. T. Jackson,
+and later his assistant, A. M. Woolsey, began initial trenching of the site in 1932. This initial
+work resulted in the recovery of 10 human burials, Pleistocene fauna, and a range of artifacts
+(Campbell 1976). Although later determined to be a natural Pleistocene (Deweyville) terrace,
+Jackson believed the mound was anthropogenic in origin and should be more thoroughly
+excavated.
+As part of a WPA excavation, Morhiss Mound was once again investigated for a total of 16
+months from 1938–1940 under the direction of W. A. Duffen (1940). Duffen‘s large WPA crews
+often totaled more than 30 individuals, and they were able to excavate the entire mound, resulting
+in the removal of 5,000 five-foot-square units. As methods of the day were crude, the excavated
+material presently has little useful contextual information. Additionally, the excavation in its
+entirety has never been properly published, and current knowledge of the site is limited to a few
+10
+
+specialists‘ reports (e.g., Dockall and Dockall 1996). However, approximately 7,000 artifacts and
+200 human burials were recovered from the WPA excavation. Although no formal absolute
+dating has been carried out on organics from Morhiss Mound, lithics have provided one of the
+few glimpses into its chronology. The Early Archaic period is represented at Morhiss Mound in
+the form of Gower, Hoxie, and Victoria diagnostic projectile points (Campbell 1976).
+
+The Buckeye Knoll Site (41VT98)
+Located adjacent to the Victoria Barge Canal, site 41VT98 is situated atop a surviving
+Pleistocene terrace (Beaumont Formation). The large site was first identified by E. Vogt in the
+1960s, but professional work did not begin at the site until the late 1980s when the U.S. Army
+Corps of Engineers, Galveston District, initiated testing of several sites along the Victoria Barge
+Canal (Weinstein 1992). Testing of site 41VT98 revealed stratified deposits in excess of 2.5 m
+deep beginning with the Early Archaic period (Weinstein 1992). Additional testing began in
+November 2000 under the direction of Ricklis, and although results have yet to be published,
+initial reports indicate the presence of approximately 75 human burials dating to the Early
+Archaic, along with significant amounts of faunal material and other cultural remains (Ricklis
+n.d.).
+Although intact archaeological deposits dating to the Early Archaic are rare for the central Texas
+coast, it is significant to note that both Buckeye Knoll and Morhiss Mound are located within the
+20-mile project region. These two sites both occupy remnant Pleistocene terrace formations that
+would have provided natural protection in the floodplain of the Guadalupe River system during a
+time of sea level rise. As the central Texas coast continued to transform to its modern
+configuration throughout the Early Archaic, Pleistocene terrace remnants would have not only
+provided natural protection but also a higher probability of preserving archaeological deposits.
+
+Middle Archaic (ca. 2200–1100 B.C.)
+Sites with Middle Archaic components are slightly more numerous than previous periods. It has
+been suggested that by this time, the San Antonio estuary system would have extended farther
+north than in previous periods (Prewitt and Paine 1988; Weinstein 1992). Dated oyster reef
+deposits collected three miles north of Green Lake indicate that by the end of the Middle Archaic,
+productive estuary resource systems were well established for the lower Guadalupe River valley
+(Weinstein 1992).
+As for prehistoric occupation during this period, both Morhiss Mound (41VT1) and Buckeye
+Knoll (41VT98) contain diagnostic Middle Archaic projectile point types. Nolan, Travis,
+Bulverde, Palmillas, Kent, and Tortugas types were recovered from Morhiss Mound (Campbell
+1976). Both Bulverde and Kent Middle Archaic points were reported from the initial testing of
+Buckeye Knoll (Weinstein 1992). Other probable Middle Archaic sites within region include
+Sentinel Oak (41VT79), Linn Lake (41VT81), Texas West Indies Ranch (41VT9), and Eagles
+Roost (41VT80).
+Like the Morhiss Mound and Buckeye Knoll sites, other sites in the region with Middle Archaic
+components are all located on Pleistocene terrace remnants at the river valley edge. The Texas
+West Indies Ranch site (41VT9) contained both an occupation area and a possible Middle
+11
+
+Archaic cemetery in which a Palmillas point was found in association with one of the burials
+(Huebner 1988). Nearby Linn Lake (41VT81) has produced Tortugas and Palmillas points, and
+Bulverde dart points were found at Eagles Roost (41VT80) (Hester 1985). Lastly, Middle
+Archaic Refugio projectile points were recovered from Sentinel Oak (41VT79). Both Blue
+Bayou (41VT94) and Sentinel Oak (41VT79) have been tentatively associated with the Middle
+Archaic (Weinstein 1992).
+With the gradual stabilization of sea levels and establishment of active estuary systems
+throughout the Middle Archaic, the central Texas coast likely became a more predictable
+environment for the procurement of marine and brackish-water fish and mollusks. Throughout
+this and previous periods, Pleistocene terraces were the preferred locations for sites.
+
+Late Archaic (ca. 1100 B.C.–A.D. 1000)
+The number of archaeological sites attributed to the Late Archaic period on the central Texas
+coast is substantially greater than for previous periods. The reasons for the dramatic increase in
+number of known sites for this time period are still uncertain. However, it has been suggested the
+combination of sea level stabilization, increase in river sediments, and the gradual formation of
+Matagorda Island would have acted to reduce salinity of the San Antonio Bay system, thereby
+increasing the productivity of oysters and other estuarine resources (Nelson and Bray 1970;
+Pearson et al. 1986) and leading to an increase in the population of people. Concomitantly,
+evidence of Late Archaic subsistence is dominated by fish species—black drum, redfish, spotted
+sea trout, and Atlantic croaker—whose yearly cycle is tied to estuary bay systems (Ricklis 2004).
+In addition to the increased reliance upon estuarine resources, the archaeology of the Late
+Archaic reveals a diverse shell tool industry and evidence of basketry (Campbell 1947, 1952;
+Ricklis 1990, 2004). Although perforated oyster shell and edge-flaked clamshell scrapers are
+known from the Early Archaic and continue to be found in later periods, the use of conch shell for
+tools appears to begin only in the Late Archaic (Campbell 1952; Ricklis 1990, 2004).
+Additionally, the number of bone artifacts (e.g., awls, socketed points) increases dramatically in
+the archaeological record of the Late Archaic.
+Within the Central Texas coast region, Late Archaic occupations include both sites with earlier
+contexts—Morhiss Mound (41VT1), Blue Bayou (41VT94), Buckeye Knoll (41VT98), Sentinel
+Oak (41VT79), Linn Lake (41VT81), and Eagles Roost (41VT80)—as well as numerous sites
+upstream along the Guadalupe River and Coleto Creek and downstream adjacent to Green Lake.
+From Morhiss Mound, Late Archaic diagnostic material has included Morhiss, Marshall, Lange,
+Marcos, Darl, Ensor, and Fairland projectile points (Campbell 1976; Suhm and Krieger 1954).
+Campbell (1976) suggests that the majority of the burials from Morhiss Mound were interred
+during the Late Archaic period. Castroville, Marcos, Darl, and Fairland points were reported
+from the Sentinel Oak, Linn Lake, and Eagles Roost sites, suggesting similar components among
+sites along the western edge of the Guadalupe River valley (Weinstein 1992). Sites adjacent to
+Green Lake revealed Late Archaic diagnostics, and both sites 41CL1 and 41CL62 contained shell
+middens that gradually changed composition from mixed oyster and clam (Rangia) to
+predominantly Rangia (Weinstein 1992). This transition in taxa is cited as evidence of the
+Guadalupe River shifting to a more western course away from Green Lake, which in turn led to
+more brackish conditions in the lake.
+
+12
+
+As the central Texas coast estuary bay systems began to increase their biotic productivity
+throughout the Late Archaic, areas such as the lower Guadalupe River valley possibly began to
+offer more opportunities for prehistoric activities. In addition to the continued use of existing site
+locations (e.g., Morhiss Mound and Buckeye Knoll) during the Late Archaic, other areas (both
+upriver and downriver) were for the first time associated with significant increases in
+archaeology. The increase in both the number of sites and use of estuarine resources is a trend
+that continues into the Late Prehistoric period.
+
+Late Prehistoric (ca. A.D. 1000–1700)
+Using a socio-cultural evolutionary taxonomic system, the end of the Late Archaic period on the
+central Texas coast, like the remainder of the state, is signaled by the widespread adoption of the
+bow and arrow and ceramics (Hester 1975, 1981; Suhm and Krieger 1954). Based on changes in
+artifact types and suspected shifts in subsistence practices, the Late Prehistoric period for the
+central Texas coast is divided into Initial Late Prehistoric (ca. A.D. 1000–1250/1300) and Final
+Late Prehistoric ( ca. A.D. 1250/1300–1700) phases (Ricklis 2004).
+The Initial Late Prehistoric phase along the central Texas coast is characterized by Scallorn and
+Fresno arrow points along with plain, sandy paste ceramics similar to Goose Creek of the upper
+Texas coast (Ricklis 2004; Weinstein 1992). By the Final Late Prehistoric phase, Perdiz arrow
+points predominate along with a prismatic blade technology, thin bifacial knives, and Rockport
+sandy paste ceramics (Fritz 1975; Ricklis 1996). Rockport ceramics are quite distinctive because
+many have asphaltum decorations and were produced in a variety of shapes (e.g., bowls, jars, and
+ollas) (Ricklis 1996).
+Fishing continued to be a major focus of subsistence in the Late Prehistoric period and was
+possibly of even greater importance than in the Late Archaic (Ricklis 1990, 1996; Weinstein
+1992). At several sites (e.g., 41CL2) along the central Texas coast, Late Prehistoric fish-rich
+middens are stratigraphically above Late Archaic shell middens, suggesting a possible shift in
+resource selection (Weinstein 1992). Additionally, by A.D. 1250/1300, bison became a significant
+resource for the region as numerous upland hunting camps, such as 41RF21, have been dated to
+this period (Ricklis 1989, 1990, 1996).
+The abundance of subsistence data gathered from Late Prehistoric sites has made it possible to
+address issues of seasonality and group migration. Analysis of fish otolith data from large
+shoreline sites has shown that the most important species (black drum and redfish) were collected
+during the fall through early spring periods (Ricklis 1988, 1990, 1996). Additional data from
+Rangia cuneata shells in river margin sites have revealed late spring through summer occupations
+(Aten 1981; Carlson 1988; Ricklis 2004). Collectively, these data along with site size
+information suggest large aggregations of groups occurred during the fall and winter months
+along the coast, followed by a late spring and summer dispersal of smaller groups into upland
+river margin settings. Ricklis (1990, 1992, 1996), using archival sources, has suggested similar
+seasonality patterns existed within the early historic period Karankawa along the central Texas
+coast.
+Within the region, Late Prehistoric sites occupy a range of settings. Some of the major sites from
+earlier periods (e.g., Morhiss Mound [41VT1], Sentinel Oak [41VT79], Buckeye Knoll
+[41VT98]) have very small Late Prehistoric components, but others (e.g., Linn Lake [41VT81]
+and Blue Bayou [41VT94]) either continued at earlier size/use or took on greater significance
+13
+
+during the Late Prehistoric period (Weinstein 1992). The larger sites for this period appear to be
+near the coast and appear to have operated as large aggregation centers for winter fishing. One
+such aggregation center is the Guadalupe Bay (41CL2) site. Although first established in the Late
+Archaic, the Guadalupe Bay site has a significant Late Prehistoric component composed of
+Rockport ceramics, Fresno arrow points, and large amounts of faunal material. Smaller sites for
+this period are those located upstream along upland settings, often at the river margin. Many of
+the smaller upland sites are indicative of hunting camps such as the Mellon site (41RF21) which
+yielded concentrations of deer and bison bone (Ricklis 2004).
+Settlement patterns appear to have changed by the Late Prehistoric, whereby the larger sites
+upstream along the river margin such as Buckeye Knoll and Morhiss Mound were largely
+abandoned, as large aggregation sites along the coastal edge, such as Guadalupe Bay, became
+prevalent. At the same time that upland sites such as Morhiss Mound were falling out of use,
+many more were being created upstream along the river margin as short-term hunting/fishing
+camps. In some cases, sites that were active in earlier periods such as Linn Lake appear to be the
+focus of hunting and possible trade activities well into the historic period (Hester 1985; Weinstein
+1992).
+
+Historic Period (ca. A.D. 1519–present)
+Prior to any permanent European settlement on the Texas coast both French and Spanish
+explorers traveled in the area of present-day Matagorda Island. Spanish explorers were among
+the first Europeans to document what is now Matagorda Bay. In 1519, Alonso Alvarez de Pineda
+visited the locality as part of an expedition to map the Gulf coast from Florida to Vera Cruz
+(THRS 1941:1). Within a decade, on November 6, 1528, Alvar Nuñez Cabeza de Vaca and his
+crew arrived on the Texas coast near Galveston after a difficult expedition in Florida, and later
+traveled in the vicinity of Matagorda Bay during their eight year journey to Culiacan, Mexico
+(THRS 1941:1; Weber 1992:42-44).
+Though the Spanish recorded the area in the 16th century, Europeans did not establish any
+encampments in the vicinity of Matagorda Bay for over a century. In 1685, the French explorer
+Rene Robert Cavalier, Sieur de La Salle, landed on the Texas coast during his voyage to locate
+the mouth of the Mississippi River. Having miscalculated the latitude and longitude of the river‘s
+confluence with the Gulf of Mexico three years earlier, LaSalle traveled the Texas coast looking
+for the mouth of the river behind the region‘s numerous barrier islands (Weber 1992:42-44).
+LaSalle devised to construct a settlement from which to base his further explorations, and
+identified a location in early 1685 in present-day Calhoun County. Located five miles up
+Garcitas Creek from Matagorda Bay, La Salle ordered his crew to begin construction on a fort,
+which he named Fort St. Louis (Weber 1992:149). After two years of further hardships including
+loss of their ships, bouts with disease, and hostile encounters with Native Americans, a group of
+LaSalle‘s men murdered the explorer in March 1687. In 1689, a Spanish expedition sent to locate
+LaSalle‘s settlement discovered remains of the destroyed fort, and the bodies of a three colonists
+who had remained after LaSalle‘s death (Weber 1992:152). Fort St. Louis and its related ship La
+Belle, have been the focus of intensive archaeological investigations in recent years (Davis and
+Bruseth 2000; Bruseth and Turner 2005).
+LaSalle‘s short tenure at Fort St. Louis marked the first attempt at European settlement in presentday Calhoun County. Numerous European-Americans began settling in Southeast Texas under
+land grants issued by the Republic of Texas beginning in the late-1830s. The first permanent
+14
+
+European-American settlement at Indian Point occurred in 1842 when the board of land
+commissioners for Jackson County issued a headright certificate to Samuel A. White. White,
+after receiving the land grant, constructed a home on the land at Indian Point (Malsch 1977:7).
+Two years after White settled at Indian Point, he encountered Prince Carl of Solms-Braunfels, a
+representative of the Society for the Protection of German Immigrants, or the Verein zum Schutze
+deutscher Eidwanderer in Texas (commonly abbreviated as ‗the Verein‘) (Jordan 1975:41;
+Malsch 1977:7). The Verein was formed on April 20, 1842 at Biebrich am Rhein in Germany.
+The Verein appointed Solms-Braunfels commissioner to the Texas colony in May 1844, and the
+prince left for Texas the same month (Malsch 1977:6). The Verein consisted of wealthy German
+noblemen who sought to provide economic and social relief in Germany by acquiring land in
+Texas and encouraging emigration to their colonies. In turn, the members of the Verein hoped to
+one day see a profit from the venture once farming and other activities made land values in the
+colony increase (Jordan 1966:43).
+Prior to his arrival at Indian Point, Solms-Braunfels had first traveled to Galveston, where he
+found no accommodations or land available for the society‘s recruited settlers. Solms-Braunfels
+traveled south along the coast searching for a more favorable location to establish a port at which
+to disembark persons traveling to the society‘s colony. Solms-Braunfels identified Indian Point
+as an appropriate location to disembark German immigrants for the journey into the society‘s land
+grant, located further inland. The point, located ―on the northern end of a low, sandy strip of land
+along Lavaca and Matagorda Bays,‖ was ―virtually islanded by the bays, lakes, bayous, and
+marches‖ (THRS 1941:6). The location at which Indian Point projects into the water is the
+location where Lavaca and Matagorda bays join; unlike other locations along those bays in 1844,
+the water at Indian Point was of sufficient depth to allow ships traveling through Pass Cavallo to
+easily and safely dock (Malsch 1977:6). Solms-Braunfels made arrangements with Samuel White
+whereby German immigrants would land and camp near White‘s residence upon their arrival
+(Malsch 1977:7).
+Solms-Braunfels arrived at Indian Point in late 1844 ahead of several hundred German settlers
+who were to land there before making their way to the area of present-day New Braunfels,
+approximately 300 miles away (THRS 1941: 6; Fritz 1975: 58; Malsch 1977:8). The Adelsverein
+had procured a land grant in that region, but had not established any amenities, nor constructed
+any shelter there. The society‘s first group of immigrants arrived at Galveston on November 23,
+1844, and sailed for Indian Point shortly after. Three more vessels arrived at Indian Point in
+December of that year to find no quarters or amenities at ―Karlshaven‖ (Karl‘s Harbor), as the
+German immigrants referred to the community (Malsch 1977:7, 11). Some immigrants,
+discouraged by the Verein‘s obvious lack of planning, elected to remain in the vicinity of Indian
+Point rather than continue on into the interior colony once a route inland was attempted early in
+1845 (Malsch 1977: 8).
+Approximately three miles south of Karlshaven, a small settlement centered on a customs house
+and several cabins was also established in 1844 (THRS 1941:6). The settlement was located on
+Powderhorn (sometimes written as ―Powder Horn‖) Bayou, and one of the cabins was reportedly
+reserved for Prince Solms-Braunfels (THRS 1941:6). The limited number of houses at
+Powderhorn Bayou was in no way close to substantial lodging for the thousands of immigrants
+that arrived at Indian Point in 1844-47. Due to the large number of persons arriving during that
+time period, immigrants at Karlshaven lived in tents before moving further inland or constructing
+homes of their own, either on the coast, or between the coast and New Braunfels (Jordan 1966:52;
+Seeligson n.d.; THRS 1941:6).
+15
+
+Due to poor planning and poor execution, the Verein went bankrupt in 1847 (Jordan 1966:45).
+Thousands of German settlers had settled in areas along the road to the interior, including DeWitt,
+Victoria, and Goliad counties (Jordan 1966:52). Like the settlers in those areas, the German
+settlers at Indian Point planted roots and established communities, and essentially became the first
+Euro-Americans to settle in southeast Texas in significant numbers.
+Calhoun County was formed in 1846 from portions of Jackson, Victoria, and Matagorda counties
+(Guidry 198 1: ―Calhoun County History‖). By that year, an estimated 1000 German immigrants
+had arrived at Karlshaven (Fritz 1975:58). Despite bouts with numerous illnesses and the
+elements, many settlers remained at Karlshaven and began to establish permanent institutions.
+George Thielepape surveyed Indian Point in 1846 for Samuel White and William M. Cook,
+generally regarded as the town‘s founders. The plan laid out 733 building lots on 82 blocks,
+including lots for both a public and market square (Malsch 196:15-17). The following year, the
+United States established a Post Office at Indian Point. Transportation to and from the growing
+town developed as well, when, in 1848, John B. Brown established regular weekly stagecoach
+service from Victoria to Indian Point, which was meant to capitalize on the arrival of the New
+Orleans-based shipping firm of Harris & Morgan. The shipping firm established a weekly
+schedule between Galveston and Matagorda Bay, with Port Lavaca as its terminus in the area
+(Malsch 1977:20).
+Indian Point enjoyed increasing prosperity as a port throughout 1848. William Cook moved into
+a large wharehouse in January, and constructed a wharf for his commission business. In late
+1848, Harris & Morgan constructed a long wharf at Indian Point to accommodate their ships.
+Despite the collapse of the Verein under its bankruptcy, European immigrants continued to arrive
+steadily at Indian Point (Malsch 1977:22-23). On February 1, 1849, Indian Point was renamed
+Indianola at the suggestion of Mrs. (Mary) John Henry Brown. Mrs. Brown reportedly derived
+the name by combining the word ―Indian‖ with ―ola,‖ the Spanish word for wave (Wolf 1999:23).
+No sources state what prompted the change of name, but residents adopted the new name, though
+it was not long before broader developments resulted in yet another name change for Indianola.
+In 1849, officials at Port Lavaca increased dockage fees at the city‘s port. As a result of the
+increase in fees, Charles Morgan of Harris & Morgan relocated the firm‘s Matagorda Bay
+terminus to Powderhorn Bayou (Malsh 1977:39; THRS 1941:8). The bayou and adjoining lake
+were suited for use as a harbor, and had more land fronting the water on which a town could
+expand. Powerderhorn Bayou, in the vicinity of the customs house and dwellings constructed
+circa 1844, was at that time a small, residential community (THRS 1941:8). Johann Schwartz,
+one of the Verein‘s early immigrants, constructed a home there after purchasing land from
+Samuel White in 1845, and was later regarded as the first settler in Indianola (Malsch 1977:8).
+Initially envisioned as an extension of Indianola, Powderhorn (also known as Brown‘s Addition)
+eventually eclipsed Indian Point or ―Upper Indianola‖ in size and commercial import (Malsch
+1977:43). Many residents of Indian Point relocated to Indianola, and Indian Point became known
+as ―Old Town‖ (Fritz 1975: 58). In 1852, Indianola at Powderhorn became the county seat, and
+was incorporated as the city of Indianola in 1853 (THRS 1941:9). Though regarded as the upper
+portion of Indianola, Old Town lacked the significant commercial activities that made Indianola a
+thriving port for over two decades following its incorporation. Though commercial activities
+were centered in Indianola, Indian Point evidently retained residential and religious facilities, as a
+Reverand Holcinger, a Lutheran minister, reportedly relocated from Matagorda Island to Indian
+Point as early as 1854 to preach there (Seeligson n.d.). The focus of most historical studies,
+16
+
+however, shifts to Indianola after 1850 and it seems Old Town assumed alesser role in the region
+as it does in the historical record.
+In 1875, the first of two large hurricanes struck the city of Indianola, causing significant damage.
+Destruction was widespread and approximately 270 of the city‘s estimated 2,000 residents were
+killed (Malsch 1977:244; THRS 1941:14). Despite the loss of lives and property, the city rebuilt
+and attempted to re-establish its prominent role as a Texas seaport. Commerce suffered however,
+due in part to the Morgan Line reducing trips to Indianola by 50 percent (THRS 1941:14). Old
+Town was also damaged in the storm, but one report notes, ―the destruction of Old Town was
+great, although no lives were lost there‖ (THRS 1941:14).
+In August 1886, another hurricane devastated Indianola, and a fire followed the storm itself,
+essentially destroying much of what the storm had not. The city was subsequently abandoned,
+leaving the narrow strip of land along the bay with no settlement of significant size. Port Lavaca
+became the county seat once again. The devastation in Indianola and the subsequent exodus of its
+residents and institutions was so great that there is virtually no information on the condition of
+Old Town. Due to its proximity to Indianola, the community that was left at Old Town after the
+1875 hurricane most likely suffered substantial damage as well. The inscription on a headstone at
+Old Town Cemetery reveals the storm‘s impact on at least one survivor whose husband died in
+the storm; the headstone for David Lewis, died August 20, 1886, reads, ―Departed this life by
+drowning in the great Cyclone. Farewell, O husband dear, farewell. Thou hast left me lonely‖
+(Wolff 1999:115).
+Though historians have written little about developments in Indianola, Indian Point, or Magnolia
+Beach from late 1886 to the present day, photographs in a few local histories reveal that the area‘s
+waterfront location was utilized as a resort and fishing destination in the early 20th century, while
+field work for this study revealed that Indian Point and Magnolia Beach are utilized for that
+purpose at present. Sunbathers were photographed at Indianola in 1918 (Baker 1986:66), while a
+photograph of Magnolia Beach from 1920 showed several small beach houses that ―attracted
+resort dwellers and Sunday sightseers‖ and had ―been replaced many times during the past 55
+years‖ (Frier 1979:194). A U.S. military camp that utilized tents for barracks was established at
+Indianola during World War II, mirroring Indian Point‘s original use as a tent colony (CCHC
+1981:296).
+Indian Point appears to be have been used primarily as a resort area for tourists and fishing
+enthusiasts for several decades. An aerial photo from 1977 indicates little development in the
+area aside from an RV camp and a small number of residences. Web searches for Indianola and
+Indian Point today produce several advertisements for fish camps, rental houses, small hotels, and
+RV parks. The area‘s location, which once resulted in its rapid growth, has proven to be a
+hindrance to any substantial permanent construction, and the twentieth century brought several
+more hurricanes including significant storms in 1919, 1942, and 1961 (CCHC 1981:297, Malsch
+1977:270). Projecting into deep waters on the west shore of Matagorda and Lavaca bays, the
+point remains vulnerable to storm surges and damage from high winds brought by tropical storms
+and hurricanes. Today, the effects of the storms and adaptations to their inevitable occurrence are
+evident in the numerous vacant lots, extensively patched and repaired standing structures, and the
+predominance of moveable housing types (namely mobile homes and RVs) in and around Indian
+Point.
+
+17
+
+CHAPTER 4
+METHODOLOGY
+
+ARCHIVAL RESEARCH
+Prior to fieldwork, a search of the available archival data was undertaken by the Principal
+Investigator who reviewed data sources housed at TARL and in the Texas Archaeological Sites
+Atlas to obtain information on previous investigations and known sites within the project APE or
+located within one kilometer of the project area. An examination of geological sources, available
+early historic maps, and aerial photographs was instrumental in forming a background for the
+history of the area. Only one archaeological site (41CL39) was located within one kilometer of
+the APE. Site 41CL39, is the recorded location for the abandoned town of Indian Point. The site
+was recorded as part of a Government Land Office (GLO) archaeological survey performed in the
+area in 1974 (Fritz 1975). The results of the research were used to guide the field methods, to
+determine the areas in which previously recorded sites would be encountered, and to locate
+landforms with the highest probability to retain archaeological deposits. These data also served
+as a contextual framework so that any newly recorded sites could be evaluated for significance.
+In preparation for the architectural survey, the project architectural historian searched the Texas
+Historic Sites Atlas to identify any previously recorded or designated structures within the APE;
+none were found. Additionally, no recorded cemeteries are located within the APE, or within 500
+feet of the proposed work. Research efforts at the Victoria Public Library, the Plano Public
+Library, and the Texas/Dallas History & Archives Division of the Dallas Public Library provided
+both primary and secondary sources from which the historic context was developed. A limited
+number of historic aerial photographs were located, which were used in conjunction with Calhoun
+County Appraisal District (Calhoun CAD) records to assist in determining dates of construction
+for architectural resources documented during the field survey.
+
+ARCHAEOLOGICAL SURVEY
+From February 22 -24, 2010, Geo-Marine, Inc., undertook the intensive archaeological survey of
+the proposed location of road resurfacing to be completed on a 1,850 foot section of Ocean Drive,
+approximately 1.5 miles southeast of Magnolia Bay, Texas. The total APE for this project was
+approximately 1,850 feet in length with a right-of-way width of 50 feet.
+18
+
+Archaeological survey methodology consisted of systematic shovel testing along two transects;
+one on each side (east and west) of the existing road. The entire archaeological APE was
+considered to be high probability for encountering intact cultural deposits given that the entire
+project area is within the site limits of 41CL39 and as such, the entire 1,850 foot ROW was
+subjected to visual inspection and systematic shovel testing at 30 m (98.4 ft) intervals.
+A two-person field crew performed the archaeological survey of the project area using the above
+methodology. The crew was equipped with a Trimble® Pro XH global positioning system (GPS)
+unit for recording the position of data such as shovel tests, property boundaries and the limits of
+the Ocean Drive ROW. All shovel tests were approximately 30 cm (11.8 in) in diameter and
+were excavated either to the top of the B horizon or to a depth of 80 cm (31.5 in), whichever
+came first. Soil from each shovel test was screened through 0.25-inch hardware cloth. All
+artifactual material, whether encountered on the surface or in shovel tests, was collected and
+analyzed.
+
+ARTIFACT TREATMENT AND ANALYSIS METHODS
+No archaeological materials were collected during the survey of the project area. No prehistoric
+or historic-era artifacts were found during the survey.
+
+HISTORIC ARCHITECTURAL RESOURCES SURVEY
+Historic architectural resources within the Magnolia Beach project APE were documented and
+evaluated for NRHP eligibility by an architectural historian who meets the Secretary of the
+Interior‘s professional qualification standards. Fieldwork was conducted on February 23, 2010.
+The project historian recorded all historic resources within the APE with digital photography and
+field notes, and evaluated these resources based on National Park Service (NPS) standards for
+identification and evaluation of historic properties, as presented in 36 CFR Part 60.4 [a—d]. In
+brief, historic-age resources may be eligible for listing on the NRHP if they possess significance
+for at least one of the following criteria:
+A. be associated with events that have made a significant contribution to the broad patterns
+of our history; or
+B. be associated with the lives of persons significant in our past; or
+C. embody the distinctive characteristics of a type, period, or method of construction, or
+represent the work of a master, or possess high artistic values, or represent a significant
+and distinguishable entity whose components may lack individual distinction; or
+D. have yielded, or may be likely to yield, information important in prehistory or history.
+Not only must a resource possess significance for at least one of the three criteria, to be eligible
+for inclusion in the NRHP, it must also maintain a certain level of integrity. The National
+Register defines seven aspects of integrity: (1) location, (2) design, (3) setting, (4) materials, (5)
+workmanship, (6) feeling, and (7) association. Although not all seven aspects of integrity must be
+present for the resource to be eligible, the resource must retain, overall, the defining features and
+characteristics that were present during the property‘s period of significance.
+
+19
+
+CHAPTER 5
+SURVEY RESULTS
+
+ARCHAEOLOGICAL SURVEY RESULTS
+Intensive survey of the APE consisted of shovel testing performed at 30-m intervals along two
+transects. Transect one was located east of Ocean Drive within the ROW limits, while transect
+two was located to the west (Figure 3). The total APE for this project was approximately 1,850
+feet in length with a right-of-way width of 50 feet. The APE was located within a developed
+residential area adjacent to Lavaca Bay, Calhoun County, Texas. The APE contained several
+areas that could not be shovel tested due to street crossings and standing water. In total, 16
+shovel tests were excavated during the survey of the Ocean Drive APE. No buried archaeological
+deposits were identified during the intensive survey of the APE.
+Both transects began at the northern terminus of the APE and shovel tests were numbered
+sequentially (for each transect) moving south (see Figure 3). The northern end of the APE was
+typical of the project area in general with Ocean Drive fronting seasonal R.V. parks and beach
+homes (Figure 4). Throughout the project area, the Ocean Drive ROW consisted of cleared
+drainage ditches backed by a low to almost level berm.
+A representative shovel test from the APE consisted of mixed sediments (5Y 4/1, dark gray, clay
+sand mottled with shell hash beach deposits). All shovel tests were excavated until reaching
+water, which varied in depth from 25-40 cm (Figure 5). Modern roadside debris was noted in
+shovel tests to a depth of 40 cm and included vehicle safety glass and bathroom tile fragments.
+Although no clay is listed on the USDA soil survey for the APE, it was mixed with excavated
+sediments throughout the project area. Palcedo clay is listed on the USDA soil survey for the
+area several hundred meters to the north of the APE.
+The deeply buried modern roadside debris and mixed clay fill deposits, suggest heavy disturbance
+within the APE since the abandonment of Indian Point or Karlshaven (41CL39) in the later part
+of the nineteenth century. Based on the current survey results, there appears to be no remaining
+archaeological evidence of the long abandoned settlement of Indian Point. Even the only
+archaeological evidence of Indian Point noted in the Fritz (1975) survey (a shelcrete cistern
+foundation) is no longer present on the adjacent beach front. The two nineteenth century
+hurricanes and citywide fire along with significant beach erosion and modern development have
+profoundly affected the archaeological deposits of site 41CL39. Today, the area consists of
+modern beach residences and motels (Figure 6).
+20
+
+4.
+
+Northern terminus of Magnolia Beach APE, looking south
+
+Figure 4. Northern terminus of Magnolia Beach APE, looking south.
+
+5.
+
+Typical shovel test within APE (Transect 1, Shovel Test 5)
+
+Figure 5. Typical shovel test within APE (Transect 1, Shovel Test 5).
+
+22
+
+6.
+
+View of modern motel and residence within APE, facing south
+
+Figure 6. View of modern motel and residence within APE, facing south.
+
+HISTORIC ARCHITECTURAL SURVEY RESULTS
+No buildings or standing structures associated with the historic settlement of Indian Point or Old
+Town are extant in the APE or surrounding area. The majority of architectural resources in the
+APE are domestic dwellings, permanent structures associated with RV parks, small motels, and
+outbuildings and awnings associated with the domestic dwellings. Within the APE for the
+architectural survey, two buildings appear to have been constructed in or before 1965 (Figure 7).
+Of those buildings, one is a motel and one is a domestic single-dwelling. Neither of the historicage architectural resources is recommended eligible for listing on the NRHP. THC Historic
+Resources Survey forms for the recorded historic architectural resources are located in Appendix
+A of this report.
+
+General Comments on Architectural Resources in the APE
+Several of the buildings within the project APE share similar design characteristics and materials.
+Of the 20 buildings in the APE, all but two were domestic dwellings. Most commonly, domestic
+dwellings in and around the APE are elevated on timber piers or pilings, a foundation commonly
+seen and often required by local building codes in coastal areas. Typically, the area underneath
+the house remains open. Domestic dwellings are typically one story with gabled roofs. The
+majority of buildings feature no architectural ornamentation or discernable stylistic influences.
+Due to their similarity in form, assessment of the application and type of building materials
+present on the buildings was most helpful in estimating dates of construction for those buildings
+23
+
+without records in the Calhoun CAD database. Those buildings without Calhoun CAD records
+that were determined to post-date 1965 feature massing, fenestration, placement of materials and
+doors, and structural elements that are not consistent with pre-1965 construction (Figures 8–10).
+Two buildings listed in this report as historic have noticeable features such as wood window
+casings, wood sash windows, exposed rafter beam ends, and wood plank or asbestos shingle
+siding that clearly predate 1965.
+
+Figure
+
+8.
+
+Dwelling on 1100 block of N. Ocean Drive, looking northeast
+
+Figure 8. Dwelling on 1100 block of N. Ocean Drive, looking northeast.
+
+Historic Architectural Resources Recorded within the APE
+
+Resource 01
+Located at 1301 N. Ocean Drive, an L-shaped building associated with the Bayshore Courts RV
+camp appears to pre-date 1965 (Figure 11). Exterior siding consists of a mixture of concrete
+fiberboard and asbestos shingles. The building has side-gabled wings with a composite shingle
+roof. Exposed rafter beam ends are visible on all elevations except the gable ends. Single-hung,
+one-light wood-sash windows are present on the west and north elevations. Both aluminum- and
+wood-sash windows are present on the south and east elevation (the elevation facing the bay).
+Concrete piers visible on the north and west elevations indicate a pier-and-beam foundation is in
+place. At the east end of the north wing, timber piers partially support a second story addition
+which was most likely constructed circa 1970. A one-story dwelling atop timber piers is attached
+to the north elevation of the addition (Figure 12). The dwelling appears to have been constructed
+25
+
+Figure
+
+9.
+
+Dwellings on 1400 block of N. Ocean Drive, looking west
+
+Figure 9. Dwellings on 1400 block of N. Ocean Drive, looking west.
+
+Figure
+
+10. Dwelling on 1400 block of N. Ocean Drive, looking northeast
+
+Figure 10. Dwelling on 1400 block of N. Ocean Drive, looking northeast.
+
+26
+
+figure
+
+11. Resource 01, looking north
+
+Figure 11. Resource 01, looking north.
+
+Figure
+
+12. Resource 01, looking east-southeast
+
+Figure 12. Resource 01, looking east-southeast.
+
+27
+
+in the late 1970s or early 1980s due to its size, building materials (specifically horizontal vinyl
+siding and vinyl decorative shutters), and inset front porch, which are common among other
+residences in that area constructed during the same era.
+Based on its style and materials, an estimated date of construction for the L-shaped building is
+circa 1940. The massing and placement of doors and windows indicate that the building
+originally served as a motel, an association that it maintains. Resource 01 maintains its historic
+function as a motel in a coastal community, but is not found to have a significant association with
+historic events or persons (Criteria A and B), nor does it represent the work of a significant
+architect or engineer, nor display distinctive characteristics of a type, period, or method of
+construction (Criterion C), nor does it have the potential to provide information about prehistory
+or history (Criterion D). The building lacks sufficient historical and architectural importance for
+individual listing on the NRHP under Criteria A, B, C, or D, therefore, Resource 01 is not
+recommended eligible for listing on the NRHP.
+
+Resource 02
+Resource 02 is a single dwelling located on the west side of N. Ocean Drive (Figure 13). The
+one-story, front-gabled building is supported by unfinished (most likely pine) timber piers.
+Exterior siding consists primarily of horizontal wood siding; however, a portion of the north
+elevation has been clad in standing-seam metal siding, as has the roof. Exposed rafter beam ends
+are visible on the north and south elevations. Double-hung, two-light aluminum-sash windows
+are located on the north, south, and west elevations, all of which are installed in wood casings,
+which appear to predate the aluminum windows. On the east elevation, large windows flank a
+single-door entry, the only extant entry on the building. A raised deck, also supported by timber
+piers, is present on the east elevation. The materials and arrangement of fenestration and doors
+indicate Resource 02 was constructed circa 1950. The building appears to have always been a
+residential building, and maintains that association, though it appeared to be vacant at the time of
+the field survey.
+Though it maintains its historic function as a domestic dwelling in a coastal community, Resource
+02 is not found to have a significant association with historic events or persons (Criteria A and
+B), nor does it represent the work of a significant architect or engineer, nor display distinctive
+characteristics of a type, period, or method of construction (Criterion C), nor does it have the
+potential to provide information about prehistory or history (Criterion D). The building lacks
+sufficient historical and architectural importance for individual listing on the NRHP under
+Criteria A, B, C, or D, therefore, Resource 02 is not recommended eligible for listing on the
+NRHP.
+
+28
+
+Figure
+
+13. Resource 02, looking south-southwest
+
+Figure 13. Resource 02, looking south-southwest.
+
+29
+
+CHAPTER 6
+SUMMARY AND RECOMMENDATIONS
+
+Archaeologists and an architectural historian from Geo-Marine, Inc., conducted an archaeological
+survey and historic architectural resources analysis of the approximately 1,850 foot section of
+Ocean Drive to be resurfaced. Archaeological survey and a historic architectural resources
+assessment were conducted along the entire length of the project area. In the present study, the
+archaeological survey was restricted to the 50 foot Ocean Drive ROW, while an expanded zone
+(150 feet on each side of the 50 foot Ocean Drive ROW) was utilized for the historic architectural
+resources analyses.
+Archaeological survey methodology consisted of systematic shovel testing along two transects;
+one on each side (east and west) of the existing road. The entire archaeological APE was
+considered to be high probability for encountering intact cultural deposits given that entire project
+area is within the site limits of 41CL39 and as such, the entire 1,850 foot ROW was subjected to
+visual inspection and systematic shovel testing at 30 m (98.4 ft) intervals.
+Excavated shovel tests within the APE revealed disturbance likely related to numerous storms as
+well as previous road construction activities that included excavation activities as well the
+introduction of clay fill deposits. Modern roadside debris was detected in all shovel tests and was
+detectable at depths of approximately 40 cm, the deepest any shovel test could penetrate before
+reaching standing water. No historic or prehistoric archaeological materials were detected in any
+of the excavated shovel tests.
+An architectural historian recorded all historic resources within the APE with digital photography
+and field notes, and evaluated these resources based on NPS standards for identification and
+evaluation of historic properties, as presented in 36 CFR Part 60.4 [a—d]. The field survey for
+the historic architectural resources investigation found two of 20 buildings in the project APE to
+be of historic-age (constructed in 1965 or before). No marked or previously recorded cemeteries
+were located within the architectural survey APE or within 500 feet of the proposed work. Of the
+two buildings in the historic architectural resources survey APE, none are recommended eligible
+for listing on the NRHP (see Appendix A for the THC Historic Resources Survey forms for the
+recorded historic architectural resources).
+
+30
+
+The archaeological and architectural investigations identified no cultural deposits or potentially
+NRHP eligible structures within the Ocean Drive APE. Therefore, no further cultural resources
+investigations are considered necessary, and no further work is recommended for the 1,850 foot
+Ocean Drive APE.
+
+31
+
+REFERENCES CITED
+
+Abbott, J. T.
+2001 Houston Area Geoarchaeology. A Framework for Archeological Investigation,
+Interpretation, and Cultural Resource Management in the Houston Highway District.
+Environmental Affairs Division, Archeological Studies Program Report No. 27.
+Texas Department of Transportation, Austin.
+Aiuvalasit, M.
+2006 Geoarchaeological Investigations at the McNeill-Gonzales Site (41VT141), Victoria
+County, Texas. Master‘s thesis, Texas A&M University, College Station.
+2007
+
+The Geoarchaeology of the McNeil Ranch Site: Implications for Paleoindian Studies
+of the Gulf Coastal Plain of Texas. Bulletin of the Texas Archeological Society
+78:47–64.
+
+Ambler, J. R.
+1967 Three Prehistoric Sites near Cedar Bayou, Galveston Bay Area.
+Program Report, 8. Texas Building Commission, Austin.
+
+Archaeology
+
+Anderson, J., M. Thomas, F. Siringan, and W. C. Smyth
+1992 Quaternary Evolution of the East Texas Coast and Continental Shelf. In Quaternary
+Coasts of the United States: Marine and Lacustrine Systems, edited by C. H. Fletcher
+III and J. F. Wehmiller, pp. 253–265. Society of Sedimentary Geology, Tulsa
+Oklahoma.
+Aronow, S.
+1982 Surface Geology. In Soil Survey of Victoria County, Texas, by W. L. Miller. U. S
+Department of Agriculture, Soil Conservation Service, Washington, D. C.
+Aten, L. E.
+1981 Determining Seasonality of Rangia cuneata from Gulf Coast Shell Middens. Bulletin
+of the Texas Archaeology Society 52:179–200.
+32
+
+1983
+
+Indians of the Upper Texas Coast. Academic Press, New York.
+
+Baker, L. T.
+1986 Ghost Towns of Texas. University of Oklahoma Press, Norman.
+Birdseye, H., and S. Aronow
+1991 New Evidence for a Young Late Wisconsin Age for the Prairie Formation, Texas,
+U.S.A. Abstracts with Programs. Vol. 23. Geological Society of America, Boulder,
+Colorado.
+Black, S. L.
+1989 South Texas Plains. In From the Gulf to the Rio Grande: Human Adaptation in
+Central, South and Lower Pecos Texas, by T. R. Hester, S. L. Black, D. G. Steele, B.
+W. Olive, A. A. Fox, K. J. Reinhard and L. Bement, pp. 39–62. Research Series No.
+33. Arkansas Archaeological Survey, Fayetteville.
+Blum, M. D., and A. Aslan
+2006 Signatures of Climate vs. Sea-Level Change within Incised Valley-Fill Successions:
+Quaternary Examples from the Texas Gulf Coast. Sedimentary Geology 190:177–
+211.
+Blum, M. D., and D. M. Price
+1998 Quaternary Alluvial Plain Construction in Response to Interacting Glacio-Eustatic
+and Climatic Controls, Texas Gulf Coastal Plain. In Relative Role of Eustasy,
+Climate, and Tectonism in Continental Rocks, edited by K. W. Shanley and P. W.
+McCabe, pp. 31–48. Special Publication, No. 59. Society for Economic
+Paleontologists and Mineralogists.
+Brown, L. F., J. Brewton, J. H. McGowen, T. J. Evans, W. L. Fisher, and C. G. Groat
+1976 Environmental Geologic Atlas of the Texas Coastal Zone: Corpus Christie Area.
+Bureau of Economic Geology, University of Texas at Austin.
+Bruseth, J. E., and T. S. Turner
+2005 From a Watery Grave: The Discovery and Excavation of La Salle’s Shipwreck, La
+Belle. A&M University Press, College Station.
+Calhoun County Historical Commission [CCHC]
+1981 The Shifting Sands of Calhoun County, Texas. Self-published, Port Lavaca.
+Campbell, T. N.
+1947 The Johnson Site: Type Site of the Aransas Focus of the Texas Coast. Bulletin of the
+Texas Archaeological and Paleontological Society 18:40–75.
+1952
+
+The Kent-Crane Site: A Shell Midden on the Texas Coast. Bulletin of the Texas
+Archaeological and Paleontological Society 23:39–77.
+
+1960
+
+Archaeology of the Central and Southern Sections of the Texas Coast. Bulletin of the
+Texas Archaeological Society 29:145–175.
+
+33
+
+1976
+
+Archaeological Investigations at the Morhiss Site, Victoria County, Texas, 1932–
+1940. In An Archaeological Survey of Coleto Creek, Victoria and Goliad Counties,
+Texas, by A. A. Fox and T. R. Hester, pp. 81–85. Archaeological Survey Report No.
+18. Center of Archaeological Research, University of Texas at San Antonio.
+
+Carlson, D. L.
+1988 Rangia cuneata as a Seasonal Indicator for Coastal Archaeological Sites in Texas.
+Bulletin of the Texas Archaeological Society 58:201–214.
+Davis, M., and J. E. Bruseth
+2000 Fort St. Louis Archeological Project. Texas Heritage 18(4): 16-20.
+Deussen, A.
+1914 Geology and Underground Waters of the Southeastern Part of the Texas Coastal
+Plain. Water Supply Paper 335. U.S. Geological Survey. Government Printing
+Office, Washington D.C.
+1924
+
+Geology of the Coastal Plain of Texas West of the Brazos. Professional Paper 126.
+U.S. Geological Survey. Government Printing Office, Washington D.C.
+
+Dockall, H. D., and J. E. Dockall
+1999 The Shell Assemblage from Morhiss Mound (41VT1), an Archaic Site on the West
+Gulf Coastal Plain. Southeastern Archaeology 15(2):211–229.
+Duffen, W. A.
+1940 Morhiss Site. Texas Archaeological News 2:16–18.
+Durbin, J. M.
+1999 Geomorphic Responses to Late Quaternary Climate and Sea-Level Change, Lower
+Nueces River, Texas. Unpublished Ph.D. dissertation, Department of Geosciences,
+University of Nebraska, Lincoln.
+Durbin, J., M. Blum, and, D. Price
+1997 Late Pleistocene Stratigraphy of the Lower Nueces River, Corpus Christi, Texas:
+Glacio-Eustatic Influences on Valley-Fill Architecture. Transactions of the Gulf
+Coast Association of Geological Societies 47:119–129. Houston, Texas.
+Fisk, H. N.
+1940 Geology of Avoyelles and Rapides Parishes. Bulletin No. 18. Louisiana Geological
+Survey, Baton Rouge.
+Freier, P. H.
+1979 A ‘Looking Back’ Scrapbook for Calhoun County and Matagorda Bay, Texas. Selfpublished [Collection of articles from the Port Lavaca Wave].
+Fritz , G. J.
+1975 Matagorda Bay Area, Texas: A Survey of the Archaeological and Historical
+Resources. Research Report No. 45. Texas Archaeological Survey, University of
+Texas at Austin.
+
+34
+
+Frye, R. G., K. L. Brown, and C. A. McMahan
+1984 The Vegetation Types of Texas. Texas Parks and Wildlife Department, GIS Lab,
+Austin.
+Gaston, W.
+1979 Paleohydrologic Analysis of Late Pleistocene Fluvial Sediments, Brazoria and
+Galveston Counties, Texas. Master‘s thesis, University of Houston.
+Guidry, K.
+1981 Calhoun County Communities and Towns.
+Collection.
+
+Victoria Public Library, Genealogy
+
+Hay, O. P.
+1915 Contributions to the Knowledge of Mammals of the Pleistocene of North America.
+U. S. National Museum Proceedings 48:515–575.
+Heinrich, P. V.
+2007 The Houston Ridge: An Ancient Shoreline in Calcasieu Parish, Louisiana.
+NewsInsights 17(1): 1–4. Louisiana Geological Survey.
+Hester, T. R.
+1975 Chipped Stone Industries on the Rio Grande Plain, Texas:
+Observations. Texas Journal of Science 26(1–2):213–222.
+
+Some Preliminary
+
+1981
+
+Tradition and Diversity among the Prehistoric Hunters and Gatherers of Southern
+Texas. Plains Anthropologist 26(92):119–128.
+
+1985
+
+UTSA Archaeological Field School Excavations in Bandera and Victoria Counties,
+Texas. Friends of Archaeology: Newsletter of the Center for Archaeological
+Research, University of Texas at San Antonio 2:11–15.
+
+Jordan, T.G.
+1975 German Seed in Texas Soil: Immigrant Farmers in Nineteenth-Century Texas.
+University of Texas Press, Austin. Original edition, 1966.
+Krieger, A. D.
+2002 We Came Naked and Barefoot: The Journey of Cabeza de Vaca Across North
+America. University of Texas Press, Austin.
+Larkin, T. J., and G. W. Bomar
+1983 Climatic Atlas of Texas. Texas Department of Water Resources (now part of the
+Texas Commission on Environmental Quality).
+McFarlan, E., Jr.
+1961 Radiocarbon Dating of Late Quaternary Deposits, South Louisiana.
+Society of America Bulletin 72:129–158.
+
+Geological
+
+Malsch, B.
+1977
+Indianola: The Mother of Western Texas. Austin, Shoal Creek Publishers, Inc.
+35
+
+McGowan, J. H., C. V. Proctor, Jr., L. F. Brown, Jr., T. J. Evans, W. L. Fisher, and C. G. Groat
+1976 Environmental Geologic Atlas of the Texas Costal Zone—Port Lavaca Area. Bureau
+of Economic Geology, University of Texas at Austin.
+McGuff, P. R.
+1978 Prehistoric Archaeological Investigations at Palmetto Bend Reservoir: Phase I,
+Jackson County, Texas. Palmetto Bend Reservoir Series, vol 3. Research Report 58.
+Texas Archaeological Survey, Austin, Texas.
+Mowery, I. C., and J. E. Bower
+1978 Soil Survey of Calhoun County. United States Department of Agriculture Soil
+Conservation Service, Washington D.C.
+Nelson, H. F., and E. E. Bray
+1970 Stratigraphy and History of the Holocene Sediments in the Sabine-High Island Area,
+Gulf of Mexico. In Deltaic Sedimentation, edited by J. P. Morgan, pp. 48–77.
+Publication No. 15. Society of Economic Paleontologists and Mineralogists, Tulsa.
+Nordt, L. C., M. Orosz, S. Driese, and J. Tubbs
+2006 Vertisol Carbonate Properties in Relation to Mean Annual Precipitation:
+Implications for Paleoprecipitation Estimates. The Journal of Geology 114:501–510.
+Otvos, E. G.
+1971 Relict Eolian Dunes and the Age of the ‗‗Prairie‘‘ Coastwise Terrace, Southeastern
+Louisiana. Geological Society of America Bulletin 82:1753–1758.
+Paine, J. G.
+1991 Late Quaternary Depositional Units, Sea Level, and Verical Movement along the
+Central Texas Coast. Ph.D. dissertation, Department of Geology, University of
+Texas at Austin.
+Pearson, C. E., D. B. Kelly, R. A. Weinstein, and S. M. Gagliano
+1986 Archaeological Investigations on the Outer Continental Shelf: A Study within the
+Sabine River Valley, Offshore Louisiana and Texas. Coastal Environments, Inc.,
+Baton Rouge, Louisiana. Submitted to Minerals Management Service, U.S.
+Department of the Interior, Reston Virginia.
+Peter, D. E., and M. Prior (eds.)
+2008 Phase IA Investigations of the Proposed Site for Victoria County Station, Units 1 and
+2, Victoria County, Texas: Preliminary Analysis of Historic Property and Impact
+Potential. Miscellaneous Reports of Investigations Number 417. Geo-Marine, Inc.,
+Plano, Texas. Tetra Tech NUS, Inc.
+Prewitt, E. R., and J. G. Paine
+1988 The Swan Lake Site (41AS16) on Copano Bay, Aransas County, Texas: Settlement,
+Subsistence, and Sea Level. Bulletin of the Texas Archeological Society 58:147–174.
+
+36
+
+Ricklis, R. A.
+1988 Archaeological Investigations at the McKinzie Site (41NU221), Nueces County
+Texas: Description and Contextual Interpretations.
+Bulletin of the Texas
+Archaeological Society 58:1–76.
+1989
+
+Preliminary Observations on a Late Prehistoric Bison Processing Site (41RF21) on
+the Central Part of the Texas Coastal Plain. Texas Archaeology 33(2):12–13.
+
+1990
+
+A Historical Cultural Ecology of the Karankawan Indians of the Central Texas Coast:
+A Case Study in the Roots of Adaptive Change. Ph.D. dissertation, Department of
+Geography, University of Texas at Austin.
+
+1992
+
+The Spread of a Late Prehistoric Bison Hunting Complex: Evidence from the SouthCentral Coastal Prairie of Texas. Plains Anthropologist 37:261–273.
+
+1996
+
+The Karankawa Indians of the Texas Coast: An Ecological Study of Cultural
+Tradition and Change. University of Texas Press, Austin.
+
+2004
+
+Prehistoric Occupation of the Central and Lower Texas Coast. In The Prehistory of
+Texas, edited by T. K. Perttula, pp. 155–180. Texas A&M University Press, College
+Station.
+
+n.d.
+
+Analysis of Findings at the Buckeye Knoll Site (41VT98), Victoria County, Texas.
+Quarterly Report No. 4. Coastal Environments, Inc., Corpus Christi, Texas.
+
+Robinson, R. L.
+1979 Biosilica and Climatic Change at 41GD21 and 41GD21A. In Archaeological
+Investigations of Two Prehistoric Sites on the Coleto Creek Drainage, Goliad
+County, Texas, by D. E. Fox, App. IV. Archaeological Survey Report No. 69.
+Center for Archaeological Research, University of Texas at San Antonio.
+Seelingson, L.
+n.d.
+A History of Indianola. The Cuero Record and Indianola Historical Association,
+Cuero.
+Sellards, E. H., W. S. Adkins, and F. B. Plummer
+1932 Stratigraphy. The Geology of Texas, vol. I. Bulletin No. 3232. The Bureau of
+Economic Geology. The University of Texas Press, Austin.
+Southern Regional Climate Center (SRCC)
+2008 Normals, Means, and Extremes – Victoria, TX (VCT). Summary report downloaded
+from the Southern Regional Climate Center, National Climatic Data Center, National
+Oceanic and Atmospheric Administration. Available at http://www.srcc.lsu.edu/
+southernClimate/atlas/. Accessed July 9, 2008.
+Suhm, D., and A. D. Krieger
+1954 An Introductory Handbook of Texas Archaeology.
+Archaeological Society 25.
+
+37
+
+Bulletin of the Texas
+
+Texas Historical Records Survey [THRS], Works Progress Administration.
+1941 Inventory of the County Archives of Texas, No. 29, Calhoun County (Port Lavaca).
+Sponsored by the Bureau of Research in the Social Sciences, University of Texas.
+Published by Calhoun County, Texas.
+Weber, D. J.
+1992 The Spanish Frontier in North America. Yale University Press, New Haven.
+Weinstein, R. A. (editor)
+1992 Archaeology and Paleogeography of the Lower Guadalupe River/San Antonio Bay
+Region: Cultural Resources Investigations along the Channel to Victoria, Calhoun
+and Victoria Counties, Texas. Coastal Environments, Inc., Baton Rouge, Louisiana
+Weinstein, R. A., and S. L. Scott
+1992 National Register Testing of Seven Sites along Victoria Barge Canal. In
+Archaeology and Paleogeography of the Lower Guadalupe River/San Antonio Bay
+Region: Cultural Resource Investigations along the Channel to Victoria, Calhoun
+and Victoria Counties, Texas, edited by R. A. Weinstein. Coastal Environments,
+Inc., Baton Rouge, Louisiana.
+White, W. A., T. R. Calnan, R. A. Morton, R. S. Kimble, T. G. Littleton, J. H. McGowen, and
+H.S. Nance
+1989 Submerged Lands of Texas, Port Lavaca Area: Sediments, Geochemistry, Benthic
+Macro-invertebrates, and Associated Wetlands. Bureau of Economic Geology, The
+University of Texas at Austin.
+Winker, C. D.
+1990a Quaternary Geology, Northwestern Gulf Coast: A Quaternary Geologic Map of the
+Northwestern Gulf Coastal Plain and Shelf. In Quaternary Nonglacial Geology:
+Conterminous U. S., edited by R. Morrison, Plate 8. The Geology of North America,
+Volume K-2. The Geological Society of America, Boulder, Colorado.
+1990b Northwestern Gulf Coastal Plain. In Quaternary Nonglacial Geology: Conterminous
+U. S., edited by R. Morrison, pp. 585–587. The Geology of North America, Volume
+K-2. The Geological Society of America, Boulder, Colorado.
+Wolff, L.
+1999
+
+Indianola and Matagorda Island, 1837-1887: A Local History and Visitor’s Guide
+for a Lost Seaport and a Barrier Island on the Texas Gulf Coast. Eakin Press,
+Austin.
+
+38
+
+APPENDIX A
+THC HISTORIC RESOURCES SURVEY FORMS
+
+TEXAS HISTORICAL COMMISSION
+
+HISTORIC RESOURCES SURVEY FORM
+1. Identification
+County
+
+Calhoun
+
+Current name
+Address
+
+City
+
+Bayshore Courts
+
+Port Lavaca
+
+Historic name
+
+1301 N. Ocean Drive
+
+Owner/address 1265 N. Ocean Drive, Port Lavaca, TX
+Photo data: Roll
+
+Frame
+
+Current Designations:
+
+NR
+
+to Roll
+
+Frame
+
+NR District (Is property contributing?
+
+Recorded by: Jessica Forbes, Geo-Marine, Inc.
+General architectural description
+
+Yes
+
+No)
+
+RTHL
+
+HTC
+
+SAL
+
+Local
+
+Other
+
+Date recorded: February 23, 2010
+
+One-story, L-shaped motel building with side gabled roof. Second story addition on the east
+
+end of the north wing. An associated domestic dwelling is attached to the north elevation of the second story addition.
+Outbuildings (Specify number and type):
+Garage
+
+Barn
+
+Shed
+
+1
+
+Other
+
+Archeological evidence of outbuildings, specify
+Landscape Features:
+Sidewalks
+
+Terracing
+
+Drives
+
+Well/cistern
+
+Gardens
+
+Other
+
+2. Architectural Description
+Stylistic Influence(s):
+Log Traditional
+Greek Revival
+Italianate
+Second Empire
+Eastlake
+Queen Anne
+
+Shingle
+Romanesque Revival
+Folk Victorian
+Colonial Revival
+Renaissance Revival
+Exotic Revival
+
+Gothic Revival
+Tudor Revival
+Neo-Classical
+Beaux Arts
+Mission
+Monterey
+
+Pueblo Revival
+Spanish Colonial
+Prairie
+Craftsman
+Art Deco
+Moderne
+
+International
+Post-war Modern
+Ranch Style
+Commercial Style
+No Style
+Other
+
+Structural Details:
+Roof Type:
+
+Wall Façade:
+
+Gable
+Hipped
+Gambrel
+Shed
+Flat w/parapet
+Dormers:
+gable
+hipped
+shed
+Other
+
+Roof Materials:
+Wood shingles
+Tile
+Composition shingles
+Metal
+Other
+
+Construction:
+Frame
+Adobe
+Solid brick
+Solid stone
+Other
+
+Stories:
+
+1
+
+Windows:
+
+Number of bays
+Stucco
+Stone
+Brick
+Wood shingle
+Log
+Terra Cotta
+Metal
+Siding, type
+Fieldstone veneer
+Awning(s)
+Other
+
+Doors:
+Single-door primary entrance
+Double-door primary entrance
+With transom
+With sidelights
+Other Multiple single-doors
+
+Chimneys:
+0
+Specify number(s)
+Interior
+Exterior
+Brick
+Stone
+With corbelled caps
+Stuccoed
+Other
+
+Basement:
+
+None
+
+Partial
+
+Plan:
+
+Fixed
+Wood sash
+Double hung
+Casement
+Aluminum sash
+Decorative screenwork
+Other
+
+Full
+
+L-plan
+2-room
+T-plan
+Open
+Modified L-plan
+Center passage
+Bungalow
+Shotgun
+Irregular
+Four Square
+Rectangular
+Other
+
+Foundation:
+Slab
+Pier and beam
+Perimeter wall
+Other
+
+Porches:
+Shed roof
+Hipped roof
+Gable roof
+Inset
+Wood posts
+Brick piers
+Box columns
+
+Dimensions: L
+
+Classical columns
+Tapered box supports
+Fabricated metal
+Spindlework
+Jig-sawn trim
+Other
+
+xW
+
+= Square feet
+
+3. Integrity
+Location
+
+Design
+
+Materials
+
+Workmanship
+
+Setting
+
+Feeling
+
+Association
+
+4. Function
+Historic Use:
+
+Agriculture
+
+Industry/processing
+
+Current Use:
+
+Commerce/trade
+
+Recreation/culture
+
+Agriculture
+
+Industry/processing
+
+Defense
+
+Religious
+
+Commerce/trade
+
+Recreation/culture
+
+Domestic
+
+Social
+
+Defense
+
+Religious
+
+Educational
+
+Government
+
+Healthcare
+
+Educational
+
+Government
+
+Healthcare
+
+Other
+Domestic
+
+Social
+
+Vacant
+
+Other
+
+5. Architectural History
+Architect:
+
+Unknown
+
+Builder:
+
+Construction date: 1940
+
+Actual
+
+Additions/modifications, specify dates:
+
+Estimated
+
+Source:
+
+Unknown
+
+Assessment of design and materials
+
+Second story addition on east end of north wing; most likely constructed circa 1970
+
+Relocated, specify former location and reason:
+Other associated contexts and information of interest:
+
+6. Archeology Ground
+Original state
+
+Disturbed
+
+Explain
+
+Is a State Archeological Survey Form available for this site?
+
+Yes
+
+No
+
+Not known
+
+Details:
+
+7. Other Information
+Is prior documentation available for this resource?
+
+Yes
+
+No
+
+Not known
+
+Type:
+
+HABS
+
+Survey
+
+Other
+
+Details:
+Accessible to the public:
+Development
+
+Yes
+
+No
+
+Major alteration
+
+Not known
+
+Relocation
+
+Possible threat(s):
+
+Other
+
+None
+
+Damage (i.e. natural disaster)
+
+Neglect
+
+* Note: Also see Endangered Historic Property Identification Form
+
+8. Geographic Information
+USGS quad #:
+
+Year:
+
+UTM zone: 14
+
+Map scale:
+
+Easting: 742311
+
+Northing:
+
+3160997
+
+Legal description (Lot/Block):
+Addition:
+
+Year of addition:
+
+9. Significance
+Applicable National Register (NR) criteria:
+A. Associated with events that have made a significant contribution to the broad pattern of our history;
+B. Associated with the lives of persons significant in our past;
+C. Embodies the distinctive characteristics of a type, period or method of construction or represents the work of a master, or possesses high
+artistic value, or represents a significant and distinguishable entity whose components lack individual distinction;
+D. Has yielded, or is likely to yield, information important in prehistory or history;
+Areas of significance: Architecture, Entertainment/Recreation
+The building is not recommended eligible because its architecture and association with recreation activities/the recreation development of
+Indian Point is not considered significant or representative of broad patterns in history, design, or construction
+Period(s) of significance:
+Level of significance:
+Possible NR district:
+
+National
+Yes
+
+No
+
+State
+
+Local
+
+Is property contributing?
+
+10. Priority (See manual for definitions.)
+
+High
+
+Medium
+
+Yes
+
+No
+
+Low
+
+Explain
+
+Questions?
+Contact survey coordinator
+History Programs Division, Texas Historical Commission
+at 512/463-5853 or history@thc.state.tx.us.
+www.thc.state.tx.us
+
+1301 N. Ocean Drive (Resource 01)
+
+1301 N. Ocean Drive, looking north.
+
+1301 N. Ocean Drive, looking east.
+
+1301 N. Ocean Drive, looking east-southeast.
+
+Dwelling associated with 1301 N. Ocean Drive (building on right), looking south.
+
+TEXAS HISTORICAL COMMISSION
+
+HISTORIC RESOURCES SURVEY FORM
+1. Identification
+County
+
+Calhoun
+
+City
+
+Current name
+Address
+
+Port Lavaca
+
+Historic name
+
+1400 block of N. Ocean Drive, west of the road
+
+Owner/address None found; no Calhoun CAD record for this building
+Photo data: Roll
+
+Frame
+
+Current Designations:
+
+NR
+
+to Roll
+
+Frame
+
+NR District (Is property contributing?
+
+Recorded by: Jessica Forbes, Geo-Marine, Inc.
+
+Yes
+
+No)
+
+RTHL
+
+HTC
+
+SAL
+
+Local
+
+Other
+
+Date recorded: February 23, 2010
+
+General architectural description
+
+Outbuildings (Specify number and type):
+Garage
+
+Barn
+
+Shed
+
+Other
+
+Archeological evidence of outbuildings, specify
+Landscape Features:
+Sidewalks
+
+Terracing
+
+Drives
+
+Well/cistern
+
+Gardens
+
+Other
+
+2. Architectural Description
+Stylistic Influence(s):
+Log Traditional
+Greek Revival
+Italianate
+Second Empire
+Eastlake
+Queen Anne
+
+Shingle
+Romanesque Revival
+Folk Victorian
+Colonial Revival
+Renaissance Revival
+Exotic Revival
+
+Gothic Revival
+Tudor Revival
+Neo-Classical
+Beaux Arts
+Mission
+Monterey
+
+Pueblo Revival
+Spanish Colonial
+Prairie
+Craftsman
+Art Deco
+Moderne
+
+International
+Post-war Modern
+Ranch Style
+Commercial Style
+No Style
+Other
+
+Structural Details:
+Roof Type:
+
+Wall Façade:
+
+Gable
+Hipped
+Gambrel
+Shed
+Flat w/parapet
+Dormers:
+gable
+hipped
+shed
+Other
+
+Roof Materials:
+Wood shingles
+Tile
+Composition shingles
+Metal
+Other
+
+Construction:
+Frame
+Adobe
+Solid brick
+Solid stone
+Other
+
+Stories:
+
+1
+
+Windows:
+
+2
+Number of bays
+Stucco
+Stone
+Brick
+Wood shingle
+Log
+Terra Cotta
+Metal
+Siding, type Wood plank
+Fieldstone veneer
+Awning(s)
+Other
+
+Doors:
+Single-door primary entrance
+Double-door primary entrance
+With transom
+With sidelights
+Other
+
+Chimneys:
+0
+Specify number(s)
+Interior
+Exterior
+Brick
+Stone
+With corbelled caps
+Stuccoed
+Other
+
+Basement:
+
+None
+
+Partial
+
+Plan:
+
+Fixed
+Wood sash
+Double hung
+Casement
+Aluminum sash
+Decorative screenwork
+Other
+
+Full
+
+L-plan
+2-room
+T-plan
+Open
+Modified L-plan
+Center passage
+Bungalow
+Shotgun
+Irregular
+Four Square
+Rectangular
+Other
+
+Foundation:
+Slab
+Pier and beam
+Perimeter wall
+Other
+
+Porches:
+Shed roof
+Hipped roof
+Gable roof
+Inset
+Wood posts
+Brick piers
+Box columns
+
+Dimensions: L
+
+Classical columns
+Tapered box supports
+Fabricated metal
+Spindlework
+Jig-sawn trim
+Other Open deck
+
+xW
+
+= Square feet
+
+3. Integrity
+Location
+
+Design
+
+Materials
+
+Workmanship
+
+Setting
+
+Feeling
+
+Association
+
+4. Function
+Historic Use:
+
+Agriculture
+
+Industry/processing
+
+Current Use:
+
+Commerce/trade
+
+Recreation/culture
+
+Agriculture
+
+Industry/processing
+
+Defense
+
+Religious
+
+Commerce/trade
+
+Recreation/culture
+
+Domestic
+
+Social
+
+Defense
+
+Religious
+
+Educational
+
+Government
+
+Healthcare
+
+Educational
+
+Government
+
+Healthcare
+
+Other
+Domestic
+
+Social
+
+Vacant
+
+Other
+
+5. Architectural History
+Architect:
+
+Unknown
+
+Builder:
+
+Construction date: 1950
+
+Actual
+
+Additions/modifications, specify dates:
+
+Estimated
+
+Source:
+
+Unknown
+
+Assessment of design and materials
+
+No date is clear for installation of windows on east elevation, and application of metal siding & roof
+
+Relocated, specify former location and reason:
+Other associated contexts and information of interest:
+
+6. Archeology Ground
+Original state
+
+Disturbed
+
+Explain
+
+Is a State Archeological Survey Form available for this site?
+
+Yes
+
+No
+
+Not known
+
+Details:
+
+7. Other Information
+Is prior documentation available for this resource?
+
+Yes
+
+No
+
+Not known
+
+Type:
+
+HABS
+
+Survey
+
+Other
+
+Details:
+Accessible to the public:
+Development
+
+Yes
+
+No
+
+Major alteration
+
+Not known
+
+Relocation
+
+Possible threat(s):
+
+Other
+
+None
+
+Damage (i.e. natural disaster)
+
+Neglect
+
+* Note: Also see Endangered Historic Property Identification Form
+
+8. Geographic Information
+USGS quad #:
+
+Year:
+
+UTM zone: 14
+
+Map scale:
+
+Easting: 742322
+
+Northing:
+
+3160741
+
+Legal description (Lot/Block): Not available through Calhoun CAD
+Addition:
+
+Year of addition:
+
+9. Significance
+Applicable National Register (NR) criteria:
+A. Associated with events that have made a significant contribution to the broad pattern of our history;
+B. Associated with the lives of persons significant in our past;
+C. Embodies the distinctive characteristics of a type, period or method of construction or represents the work of a master, or possesses high
+artistic value, or represents a significant and distinguishable entity whose components lack individual distinction;
+D. Has yielded, or is likely to yield, information important in prehistory or history;
+Areas of significance: Architecture
+The dwelling is not recommended eligible because its architecture is not considered significant or representative of distinctive
+characteristics of a type, period or method of construction, is not the work of a master, and does not possess high artistic value
+Period(s) of significance:
+Level of significance:
+Possible NR district:
+
+circa 1940-1960
+National
+
+Yes
+
+No
+
+State
+
+Local
+
+Is property contributing?
+
+10. Priority (See manual for definitions.)
+
+High
+
+Medium
+
+Yes
+
+No
+
+Low
+
+Explain
+
+Questions?
+Contact survey coordinator
+History Programs Division, Texas Historical Commission
+at 512/463-5853 or history@thc.state.tx.us.
+www.thc.state.tx.us
+
+1400 block of N. Ocean Drive (Resource 02)
+
+Dwelling at 1400 block of N. Ocean Drive, looking north-northwest.
+
+Dwelling at 1400 block of N. Ocean Drive, looking south-southwest.
+
+Dwelling at 1400 block of N. Ocean Drive, looking northeast.
+
+

@@ -1,0 +1,27 @@
+Male
+Female
+No code
+Cranial
+Score
+Pelvic
+Left
+Right
+Dental
+Femur Head
+Femur Circumference
+Talus/Calcaneus
+
+1
+2
+0
+Sex determination after Giles, 1970
+Giles discriminant function score
+Sex assessment after Kelley, 1979
+Pelvic left score
+Pelvic right score
+Dentition discriminant function score after Ditch and Rose, 1972
+Score from measurement of femur head after Stewart, 1979
+Score from measurement of femur circumference after Steele and Bramblett, 1988
+Discriminant function score from measurement of talus and calcaneus after Steele, 1976
+
+

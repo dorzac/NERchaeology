@@ -1,0 +1,1845 @@
+Archeological Testing of 41GU107 within the SH130 Facility
+Right of Way, Guadalupe County, Texas
+CSJ: 3583-02-001
+By:
+Meg Thornton,
+Jon J. Dowling,
+and
+Jennifer Hatchett Kimbell
+
+Prepared for:
+Central Texas Highway Constructors, LLC
+1914 Borchert Drive
+Lockhart, Texas 78644-4820
+
+Prepared by:
+aci consulting, a division of aci group, LLC
+1001 Mopac Circle Suite 100
+Austin, TX 78746
+THC PERMIT # 5301
+
+March
+2010
+
+MANAGEMENT SUMMARY
+Central Texas Highway Constructors, LLC (CTxHC), working as the Design-Build Contractor to SH 130
+Concession Company, LLC., is constructing 38.4 miles of a new limited-access four-lane tolled facility.
+This will be Segment 5 and Segment 6 of State Highway 130 (SH 130). The route runs through southern
+Travis, Caldwell, and Guadalupe Counties. Examination of a total of 25 High Probability Areas (HPAs)
+in these segments has resulted in the identification of a number of archeological sites, including site
+41GU107. This project falls under both state and federal jurisdiction for cultural resources, and 41GU107
+required additional testing to determine the site’s potential eligibility for listing on the National Register
+of Historic Places and as a State Archeological Landmark. This additional testing work was conducted
+under Texas Antiquities Permit No 5301. Jon J. Dowling was the Project Archeologist and completed the
+lithic analysis. Meg Thornton was the Principal Investigator for the majority of the project. Ann M. Scott
+assumed the responsibilities of Principal Investigator in November 2010 and supervised the completion of
+the project. Documents associated with this project will be curated at the Texas Archeological Research
+Laboratory (TARL).
+In July of 2009, aci consulting carried out archeological testing at 41GU107, a prehistoric campsite
+recorded by aci consulting in 2008. aci consulting personnel conducted an intensive surface collection and
+excavated nine 1-x-1-meter test units, one 50-x-50-centimeter unit, and 15 backhoe trenches. Findings
+indicated that the site rests on a highly eroded floodplain, and subsurface cultural materials are situated
+within shallow deposits.
+The landscape reflects intensive brush clearing and cattle grazing episodes that impacted the integrity of
+41GU107. The high quantity of lithic tools recovered from the site, coupled with a significantly high
+tertiary flake ratio, suggests that the site represents a prehistoric tool manufacturing and refurbishing
+location. Unfortunately, artifact collecting is known to occur within this area, and no diagnostic materials
+were recovered during this project. Because diagnostic materials or charcoal from a cultural context were
+not present, dating of the site was not possible. The research potential of 41GU107 is, therefore, limited,
+and further archeological work is not recommended. Site 41GU107 was not recommended for inclusion
+on the National Register of Historic Places (NRHP) or listing as a State Archeological Landmark (SAL).
+
+ii
+
+TABLE OF CONTENTS
+Management Summary ................................................................................................................... ii
+Table of Contents........................................................................................................................... iii
+List of Figures ................................................................................................................................ iii
+List of Tables ................................................................................................................................. iv
+1 Introduction................................................................................................................................. 1
+1.1 Project Area .......................................................................................................................... 4
+1.2 Environmental Setting .......................................................................................................... 4
+2 Culture History and Previous Archeology .................................................................................. 6
+2.1 Culture History...................................................................................................................... 6
+2.2 Previous Archeology........................................................................................................... 12
+3 Field and Laboratory Methods .................................................................................................. 14
+3.1 Field Methods ..................................................................................................................... 14
+3.2 Laboratory Methods............................................................................................................ 16
+4 Phase II Investigation Results................................................................................................... 17
+4.1 Depositional Nature of the Landscape of 41GU107........................................................... 17
+4.2 Surface Collection............................................................................................................... 17
+4.3 Hand Excavations ............................................................................................................... 19
+4.4 Backhoe Trenches............................................................................................................... 22
+4.5 Discussion of 41GU107...................................................................................................... 24
+5 Conclusions and Recommendations ......................................................................................... 26
+References Cited ........................................................................................................................... 27
+Appendix A: Artifact Analysis ..................................................................................................... 31
+Debitage .................................................................................................................................... 31
+Lithic Tools............................................................................................................................... 31
+
+LIST OF FIGURES
+Figure 1. The location of the project area. ...................................................................................... 2
+Figure 2. Aerial view of the project area. ....................................................................................... 3
+Figure 3. Vegetation at 41GU107................................................................................................... 5
+Figure 4. Recorded archeological sites within one kilometer of Site 41GU107. ......................... 13
+Figure 5. Plan view of surface collection loci, hand excavations, and backhoe trenches at
+41GU107....................................................................................................................................... 15
+Figure 6. Hand excavation units in Locus 1. ................................................................................ 20
+Figure 7. Test Unit 10. .................................................................................................................. 22
+Figure 8. Backhoe Trench 1 profile. ............................................................................................. 23
+Figure 9. Charcoal and ash inclusion in Backhoe Trench 4 profile. ............................................. 24
+Figure A-1. Formal bifaces recovered from Locus 1. ................................................................... 32
+Figure A-2. Informal bifaces recovered from Locus 1. ................................................................ 33
+Figure A-3. Core tools recovered from Locus 1. .......................................................................... 33
+Figure A-4. Lithic artifacts recovered from Locus 2. ................................................................... 34
+Figure A-5. Lithic artifacts recovered from Locus 3. ................................................................... 35
+Figure A-6. Lithic artifacts recovered from Locus 1 test units. .................................................... 36
+iii
+
+LIST OF TABLES
+Table 1. Locus 1 artifacts recovered from ground surface. .......................................................... 18
+Table 2. Locus 2 artifacts recovered from ground surface. .......................................................... 18
+Table 3. Locus 3 artifacts recovered from ground surface. .......................................................... 19
+Table 4. Locus 1 artifacts recovered from test units. .................................................................... 20
+Table 5. Locus 2 artifacts recovered from test units. .................................................................... 21
+Table 6. Locus 3 artifacts recovered from test units. .................................................................... 21
+
+iv
+
+1 INTRODUCTION
+This report summarizes the results of archeological testing carried out at 41GU107 in July of 2009.
+Central Texas Highway Constructors, acting as the Design-Build Contractor in a Facility Concession
+Agreement (FCA) with the SH 130 Concession Co., LLC., contracted aci consulting to provide
+archeological services. The SH 130 Facility Right of Way (ROW) is located within an area containing a
+moderate density of historic farmsteads and towns as well as prehistoric sites adjacent to drainages of the
+Guadalupe and San Marcos Rivers.
+aci consulting was tasked with conducting an intensive survey of HPAs within several segments of the
+ROW. In addition, aci consulting was to assess the potential eligibility of sites within these HPAs for
+inclusion on the NRHP or designation as SALs. During archeological survey in the spring of 2008, site
+41GU107 was recorded by aci consulting personnel as being of undetermined eligibility (Gillentine and
+Yost 2008). The Texas Historical Commission (THC) concurred with the findings in this report in the
+Texas Department of Transportation’s (TxDOT) consultation letter on March 26, 2008.
+The SH 130 Facility ROW will consist of 38.4 miles (61.8 km) of a new four-lane limited-access toll road
+that will extend through Travis, Caldwell, and Guadalupe Counties to IH 10 in Seguin. The proposed 600­
+foot construction corridor for this Facility ROW consists of 57.12 acres within a larger 73.41-acre HPA
+(Figure 1). Site 41GU107 is located in north-central Guadalupe County and is situated within HPA 18, in
+the southernmost corner of Parcel 843 (Figure 2). According to the NEPA FEIS Reevaluation (2006),
+construction activities will consist of the erection and removal of short-term erosion and sedimentation
+controls, rough and complete surface grading episodes, laying of base materials and asphalt, landscaping,
+clearing and grubbing, and installation of curbs, gutters, and various utilities. The specific locality
+surrounding 41GU107 is earmarked for a proposed fill area where 10 feet of construction fill materials
+will be amassed on top of the ground surface, suggesting only minimal impact to cultural resources.
+The following archeological objectives of aci consulting were fulfilled. First, intensive archeological
+investigations within 41GU107 were completed, and the extent, nature, and depth of cultural deposits
+were ascertained by means of controlled excavation and backhoe trenching. Second, aci consulting
+determined whether the site warranted listing on the NRHP and/or designation as a SAL. Finally, a
+technical report summarizing the results of archeological investigations and recommendations has been
+generated for submission to satisfy cultural resource clearance requirements in this specific component of
+the overall project area.
+
+1
+
+41GU107
+
+123
+U
+V
+
+41GU107
+90
+
+£
+¤
+
+§
+¦
+¨
+10
+
+123
+V
+U
+
+q
+
+600
+
+300
+
+0
+
+1:24,000
+
+Figure 1. The location of the project area.
+
+600
+Meters
+
+Facility ROW
+
+ty
+un
+Co
+Ro
+ad
+1
+23
+
+FM
+
+20
+
+ty
+un
+Co
+
+R
+
+d
+oa
+
+0
+23
+
+41GU107
+
+300
+
+0
+
+1:24,000
+
+Figure 2. Aerial view of the project area.
+
+600
+Meters
+
+Facility ROW
+
+k
+Oa
+
+q
+
+600
+
+R
+
+0A
+23
+
+ill
+M
+
+ty
+un
+Co
+
+d
+oa
+
+Ro
+
+ad
+
+llje
+Hi
+
+ty
+un
+o
+C
+
+1A
+23
+
+1.1 Project Area
+Site 41GU107 is located on a terrace adjacent to and just west of an unnamed tributary of Mill Creek in
+north-central Guadalupe County, Texas. This site lies just west of Gravel Pit Road, north of Kingsbury
+and within HPA 18, in the southernmost corner of Parcel 843.
+Terraces of major drainages of the Central Texas region, like the one on which 41GU107 is located, have
+been the most heavily-occupied landforms going back to the prehistory of the region. From the Early
+Archaic into the Late Prehistoric, these terrace settings have offered the best access to a variety of
+resources necessary for survival in what has historically been a harsh, semi-arid, sub-tropical region prone
+to climatic fluctuations that often lead to drought conditions and scarce food resources (Collins 1995).
+Agricultural development has significantly modified the landscape of this parcel, which has been used in
+the past for cotton cultivation and was most recently used as rangeland for livestock. Modifications to the
+landscape have included scraping with heavy machinery and chaining (personal communication, RJ
+Henry 2008). This has resulted in the loss of much of the natural vegetation and the arrival of intrusive
+plant species such as cedar as well as thick stands of mesquite and prickly pear.
+
+1.2 Environmental Setting
+1.2.1 Physiography
+The project area is within the geographic region referred to as Central Texas. This landscape consists of
+the Blackland Prairie physiographic area, made up of tallgrass prairie. The Blackland Prairie is the most
+inland section of the Coastal Plains and is characterized by chalks and marls that weather to deep, black,
+fertile soils. The surface is gently undulating and has been cleared of much of the natural vegetation in
+favor of cultivated crops.
+1.2.2 Climate
+This region of Texas is subject to mild subtropical climates with fairly cool winters and hot summer
+conditions. Drought conditions can be prolonged, and intensive precipitation can cause significantly high
+standing water in the area surrounding 41GU107 due to the relatively low elevation of the site and the
+curvature of the tributary around this landscape.
+1.2.3 Flora and Fauna
+The vegetation within and around 41GU107 consists of mesquite trees, prickly pear cactus, live oak, and
+various native grasses (Figure 3). The terrace on which 41GU107 rests is believed to have once been
+much more thickly vegetated than it is today, but decades of farming, cattle grazing, and flash flooding
+have exposed upper soils. The banks of the unnamed tributary of Mill Creek remain more heavily forested
+than the rest of the terrace, with live oaks, hackberry, mesquite, cottonwood, cane, green briar, thornbrush, and various grasses.
+Wildlife in the project area consists primarily of a variety of small birds, fish, and numerous reptiles.
+Mammals found in the area of the ROW include deer, peccaries, coyotes, bobcats, ring-tailed cats,
+beavers, opossums, foxes, raccoons, skunks, and squirrels (Davis and Schmidly 1997). A wide variety of
+small and large birds are also present, including turkeys, mockingbirds, jays, and sparrows, as well as
+Mexican eagles and smaller raptors, primarily hawks.
+4
+
+Figure 3. Vegetation at 41GU107.
+
+1.2.4 Soils and Geology
+Soil units within HPA 18 are composed of the Crockett-Demona-Windthorst Association, found on
+diffused upland ridges and narrow valleys and drainages. Based on observations derived from the
+backhoe trench (BHT 1) excavated in the densest artifact distribution within 41GU107, three distinct
+strata exist within the top 1.5 meters of this heavily eroded rangeland. The top stratum consisted of sandy
+loamy clay overlying a second lens of slightly loamy clay. Below these two strata rested a significant
+horizon of dense gravels, many of which consisted of high-quality chert.
+The geological architecture of this portion of Guadalupe County consists of the Willis Formation, which
+straddles the southern component of the ROW. The Willis Formation was first defined by Doering (1935)
+in Montgomery County, Texas and dates to the Pliocene and Pleistocene (Barnes 1992). The Quaternary
+Terrace within the APE dates to the Pleistocene (Barnes 1974). Uvalde gravels also rest in this locality
+adjacent to terraces and drainages (Byrd 1971).
+
+5
+
+2 CULTURE HISTORY AND PREVIOUS ARCHEOLOGY
+The project area is situated in the southern portion of Central Texas. This culture history will reference
+primarily Central Texas regional patterns; however, it is important to note that Central Texas trends may
+be better conceptualized within biogeographical areas or drainage areas rather than homogenous locales
+(Black 1989). For example, Guadalupe County includes environmental traits from both the Post Oak
+Savannah and the Blackland Prairies, and site 41GU107 is closely associated with a drainage of the
+Guadalupe River. Once a culture chronology for this region of Texas has been reviewed, the following
+section will provide a brief summary of the history and intensive archeological work carried out within
+the vicinity of the project area.
+
+2.1 Culture History
+2.1.1 Paleoindian (ca. 12,000-8,000 B.P.)
+The arrival of humans in the New World occurred during the Paleoindian period, which dates from
+approximately 12,000-8,000 B.P. and is one of the least understood periods in Texas prehistory (Collins
+1995). As the Pleistocene period ended, diagnostic Paleoindian materials in the form of Clovis, Folsom,
+and Plainview projectile points began to enter the archeological record. These points were lanceolate in
+shape and longitudinally fluted for hafting to wooden spears. Using the launching momentum from atlatls
+(spear-throwers), these earliest Americans frequently hunted large game such as mammoth, mastodons,
+bison, camel, and horse (Black 1989). In addition to megafauna, Paleoindian groups likely harvested less
+daunting prey including antelope, rabbit, and turtle.
+Stylistic changes in projectile point technology occurred during this later portion of the period as Dalton,
+Scottsbluff, and Golondrina traditions became increasingly prevalent. While widespread in geographic
+range, these types occurred in high densities in the High Plains and Central Texas (Meltzer and Bever
+1995). Some sites representative of the Paleoindian period in Central Texas include the Kincaid and Pavo
+Real sites. Environmental studies suggest that Late Pleistocene climates were wetter and cooler (Mauldin
+et al. 2001; Toomey et al. 1993), gradually shifting to drier and warmer conditions during the Early
+Holocene (Bousman 1998). As megafauna gradually died off during the transition to warmer climates,
+subsistence patterns shifted toward smaller game and plant foraging.
+2.1.2 Archaic (ca. 8,000-1,200 B.P.)
+The Archaic period, broadly divided into the Early, Middle, and Late Archaic subperiods, is characterized
+by an intensified reliance on local floral and faunal resources and an increase in the number of projectile
+point styles (Collins 1995). The archeological record begins to indicate more widespread use of rocklined cooking features, a wider variety of site functions, and more localized geographic distributions of
+evidence of human occupation.
+2.1.2.1 Early Archaic (ca. 8,000-6,000 B.P.)
+According to Prewitt (1981), the Early Archaic witnessed an expansion in the diversity of plant and
+animal resources utilized for subsistence with a shift away from large game. Paleoenvironmental data
+suggests that the area of the Facility ROW and the surrounding regions underwent a gradual climate
+change, particularly between 7,000 and 5,000 B.P. (Bryant and Shafer 1977). The increasingly warm, dry
+conditions in what would become the western United States likely caused a significant decrease in
+
+6
+
+available ground water, and what had once been a lightly forested area became a more arid grassland
+savanna.
+The archeological record reflects a marked decrease in the presence of Pleistocene megafauna in sites
+from the Early Archaic. It has been theorized that intensive hunting, combined with environmental
+change, drove these species to near extinction. As megafauna populations decreased, a subsistence shift
+towards heavier reliance on deer, fish, and plants became necessary. In the archeological record, this trend
+equates to greater densities of ground stone artifacts, barbed dart points, task-specific tools such as Clear
+Fork gouges and Guadalupe and Nueces bifaces, and fire-cracked rock midden features (Turner and
+Hester 1999). These concentrations of heat-fractured rock are believed to be remnants of rock-lined
+roasting ovens.
+Early Archaic sites tend to be small and suggest low population densities in this region. They are
+described as non-specialized sites that are widely distributed across the landscape and are usually found
+on the surface or in shallow deposits. Those that have been recorded as deeply buried sites are often
+underlying larger Middle or Late Archaic sites (Story 1985). While few sites have been recorded in
+Guadalupe County due to the small amount of work performed there, there are numerous Early Archaic
+sites in south-central and western Texas. Most of the sites in this region are open campsites distributed
+along the eastern and southern margins of the Edwards Plateau in areas with reliable water sources
+(McKinney 1981). Site 41GU111, located 6.2 kilometers directly north of 41GU107, yielded numerous
+dart points associated with the Early Archaic (Gillentine et al. 2008). Artifacts that are considered unique
+to the Early Archaic extend well beyond the boundaries of Central Texas, suggesting that significant
+degrees of mobility carried these bands through relatively undefined territories. The Wilson-Leonard,
+Jetta Court, and Sleeper sites are all sites representative of the Early Archaic (Collins 1995).
+2.1.2.2 Middle Archaic (ca. 6,000-4,000 B.P.)
+Paleoenvironmental evidence suggests that the warm, dry conditions that began in the Early Archaic
+continued into the Middle Archaic. Research in Central Texas suggests that the driest period was ca.
+5,000-4,000 B.P. (Gunn and Weir 1976). These changes in the region’s climatic patterns undoubtedly had
+a significant influence on the behavioral adaptations of prehistoric people to the area’s environment.
+Sites from the Middle and Late Archaic are larger and more diverse than those of the Early Archaic. It has
+been theorized that these larger sites might represent an increase in the population density of the area
+(Story 1985, Prewitt 1981). The increased presence of ground stone implements such as manos, metates,
+and bedrock mortars in the archeological record suggests a shift to heavier reliance on plant resources as
+part of the overall subsistence strategy. According to Collins (1995) the beginning of the Middle Archaic
+still exhibited limited large-game hunting of bison, but the climate became much drier towards the end of
+the Middle Archaic, necessitating a heavier reliance on sotol and acorn harvesting (Weir 1976:126). An
+expansion of oak woodlands on the Edwards Plateau and Balcones Escarpment may have encouraged the
+intensified exploitation of certain plants (Weir 1976). Middle Archaic materials date from about 6,000 to
+4,000 B.P., with increased occurrence of multi-use bifacial knives and burned rock middens (Collins
+1995:383). Diagnostic points from this period include Bell, Andice, Taylor, Nolan, and Travis. The
+Tortugas point also appears in Middle Archaic contexts and possibly earlier (Turner and Hester 1999).
+Story (1985) suggests that the variation in size of sites from the Middle and Late Archaic periods
+indicates a change in local groups based on seasonal and spatial variations in resources. Hester (1975) and
+Gunn and Mahula (1977) have suggested that the climatic fluctuations during this time, coupled with the
+changes in available resources, resulted in populations clustering in major drainages where resources
+would have been more stable. The Landslide, Wounded Eye and Gibson sites demonstrate the cultural
+7
+
+trends of the Middle Archaic (Collins 1995).
+2.1.2.3 Late Archaic (ca. 4,000-1,200 B.P.)
+The last subperiod of the Archaic falls between ca. 4,000 and 1,200 B.P. (Collins 1995) and, in Central
+Texas, witnessed a gradual climatic shift from arid to relatively cool and moist. Since burned rock
+middens are specifically associated with cooking the tough plants adapted to hot, dry environments, these
+archeological features reflect the climatic change of this period and the accompanying shift in
+subsistence. Sites dating from the earliest portions of the Late Archaic are associated with the growth of
+burned rock middens, but by the end of the Late Archaic the use of these features had decreased. While
+rock-lined ovens continued to be used on the western fringes of Central Texas into the Late Prehistoric
+period, this practice had been almost completely abandoned in the rest of Central Texas by the end of the
+Late Archaic (Collins 1995).
+Diagnostic dart point styles of the Late Archaic are relatively small, triangular points with corner notches
+such as the Ensor and Ellis (Turner and Hester 1999). Other Late Archaic points include Bulverde,
+Pedernales, Marshall, and Marcos (Collins 1995). Cylindrical stone pipes, marine shell ornaments, caches
+of large bifaces, and finely-made “corner tang” knives are also distinctive items associated with the Late
+Archaic in Central Texas (Collins 2004). It is not entirely clear whether this period experienced a rise
+(Collins 1995, Prewitt 1981) or decline (Black 1989) in population numbers, but large cemeteries, grave
+goods, and exotic trade items are known to occur at this time in Central and South Texas at sites such as
+Loma Sandia, Rudy Haiduk, Silo, Ernest Witte, and Morhiss Mound. Evidence from the Thunder Valley
+sinkhole cemetery has suggested that territoriality may have been established during the Late Archaic,
+possibly as a result of population increase (Bement 1989). Characteristic Late Archaic sites include the
+Anthon and Loeve-Fox sites
+2.1.3 Late Prehistoric (ca. 1,200-500 B.P.)
+Late Archaic and Late Prehistoric diagnostic tools overlap to some degree, but the commonly held date
+for the beginning of the Late Prehistoric is ca. 1,200 B.P. The primary hallmark of the beginning of the
+Late Prehistoric period is the appearance of arrow points in the archeological record. These smaller
+points indicate the introduction of the bow and arrow, although the atlatl probably remained in limited use
+(Collins 2004). The Late Prehistoric period is divided into two phases: the Austin Phase, from ca. 1,200­
+800 B.P., and the Toyah Phase from ca. 800-200 B.P. Sites with distinct Late Prehistoric components
+include the Kyle, Smith and Currie sites (Collins1995).
+The Austin Phase of the Late Prehistoric, dated to between ca. 1,200 B.P. and 800 B.P., appears in
+Central Texas as a continuation of Late Archaic life ways with the addition of the bow and arrow. The
+use of burned rock middens continued in the relatively arid western portion of Central Texas, and other
+subsistence patterns appear to have been maintained as well. Skeletal injuries indicating possible arrowinflicted deaths during this early part of the Late Prehistoric suggest an increase in violence between
+groups of hunter-gatherers (Collins 2004). Scallorn and Edwards arrow points are diagnostic of this
+phase (Collins 1995; Turner and Hester 1999).
+The Toyah phase of the Late Prehistoric is much more well-defined than the Austin phase. In Central
+Texas, the Toyah phase is characterized by Perdiz arrow points, prismatic blades, large thin bifaces, end
+scrapers, and the introduction of ceramics. Archeological sites from this phase have yielded both locallymade ceramics and Caddo ceramics imported from further east (Collins 2004).
+
+8
+
+2.1.4 Historic (ca. 500 B.P.-Present)
+2.1.4.1 Colonial (ca. 500 B.P.-1821 AD)
+Alvar Nuñez Cabeza de Vaca and the remaining survivors of the Narvaez expedition were the first
+Europeans known to have set foot in modern-day Texas; they landed on the Texas coast following a
+shipwreck in 1528 (Chipman 1992). Between 1528 and the late 1600s, Spanish excursions into Texas
+were limited. In 1534, Cabeza de Vaca may have travelled through parts of what is now Guadalupe
+County, but his route likely passed south of present-day San Antonio. The early Spanish explorers to
+Texas and other parts of North America were looking for the same wealth that the conquistadors had
+found in Central and South America. The Spanish who followed sought to expand their empire in the
+New World and increase the presence of the Catholic Church among local populations they encountered.
+In 1689 Alonso de León led one of several expeditions searching for La Salle’s colony at Matagorda Bay.
+During this foray, de Leon named the Guadalupe River, but the northernmost extent of the route was
+likely near present-day Victoria. This was followed by Domingo Terán de los Ríos in 1691 as part of an
+inspection tour of eastern Texas and the missions there.
+The Spanish built several missions to the east and west but none in the immediate region of the project
+area. Between 1716 and 1722 they established five missions and two presidios in the San Antonio area for
+the Coahuiltecans (La Vere 2004). Also, in 1726, missions along the Gulf Coast were relocated along the
+Guadalupe River because warfare broke out between the Spaniards and the Karankawas (La Vere 2004).
+Between 1749 and 1762, Spain built more than a dozen new missions and presidios across Texas (La Vere
+2004). Missions built along the San Gabriel River to serve the Tonkawas of Rancheria Grande included
+San Francisco Xavier de Horcasitas (1746), San Ildefonso (1749), Nuestra Señora de la Candelaria
+(1749) and Presidio San Francisco Xavier (1751) (Bolton 1914; La Vere 2004). In 1749, Mission Nuestra
+Señora Espiritu Santo de Zuniga was moved to the lower San Antonio River. No resources dating to the
+Spanish Era have been noted within 1 kilometer of the project area.
+2.1.4.2 Mexico and the Texas Revolution (1821 – 1836 AD)
+Population in the area was relatively low during the Spanish colonial period; however, this changed after
+Mexican Independence in 1821. Central Texas saw a large influx of immigration from the southern
+United States from 1825 to 1835 as the Mexicans granted land for several small colonies on the Texas
+frontier (Fehrenbach 2000). During this time, 22 families moved into the region as part of the DeWitt
+colony. A total of 14 of these families received their land grants directly from the Mexican Government
+(HHM, Inc 2008a). The settlements were in portions of what are today Caldwell, Guadalupe, and Travis
+Counties and centered on the town of Gonzales.
+Guadalupe was a base for companies of Texas Rangers and frontier battalions as one of the major trails
+from West Texas to the Gulf of Mexico went through the area. Raids and conflicts with the Indians
+became so intense that the region was abandoned in 1834 and settlers were relocated to Gonzales (Hester
+1975).
+2.1.4.3 Republic of Texas (1836-1845 AD)
+Settlement was again disrupted in the region by the 1836 Texas Revolution and Santa Ana’s subsequent
+invasion of the area. In addition, it was impacted by raids from various native tribes such as the Kiowa
+and Comanche (Fehrenbach 2000). These raids continued through the 1840s and represent some of the
+significant events in local history during this time period. The battle of Plum Creek took place in the
+general vicinity of the town of Lockhart.
+9
+
+The threat of Indian raids in the region did not diminish until 1848 after the Mexican War changed the
+boundaries of the frontier and forced most of the Indian population out of the area. The end of the war
+also brought a stronger military presence into the area as the Texas Republic became part of the United
+States.
+2.1.4.4 Antebellum, Civil War, and Reconstruction (1845-1880 AD)
+Although the Texas Revolution slowed settlement of the region, it steadily increased afterwards.
+Guadalupe County experienced major growth between 1850 and 1860 as a result of agricultural
+expansion, including a growth of both crops and livestock (HHM, Inc 2008b).
+By the mid-1840s much of Guadalupe County had been colonized by Germans (New Braunfels,
+Schumannsville, and Clear Springs) (Fehrenbach 2000). The 1850 Guadalupe County census reported a
+total of 1,171 white residents and 335 slaves; and by 1860 grew to 3,689 white residents and 1,748 slaves.
+It is clear that many of the white settlers who arrived in Texas also brought their slaves with them (Smyrl
+1999). The county in general and the City of Seguin in particular grew and prospered until the Civil War.
+The majority of the fighting that took place in Texas during the Civil War was centered on the coastal
+areas of Brownsville and Galveston to the southeast of Guadalupe County. Nevertheless, impacts from
+the war were still extensive. The railroad interests in Texas that had begun construction before the war had
+to be postponed, and construction did not resume until 1866. A large number of the white male
+population served during the war, thus many of the farms lacked sufficient manpower; as such many acres
+of farm land were underutilized (Smyrl 1999). Although Guadalupe County had access to markets,
+despite the Union blockade, being on a major Confederate shipping route, many goods (and money) were
+still in short supply. At the end of the war many farms and businesses were looted until the arrival of
+federal troops (Fehrenbach 2000).
+No resources from this period were noted during the survey, and archival research proved inconclusive. A
+ranch located on the parcels to the south of 41GU107, is a Texas Century Ranch (owned and in use by the
+same family for more than 100 years); however, no resources dating to the nineteenth century were noted
+during aci’s 2008 survey (Shirley et al. 2008). At a minimum, however, the ranch does date to the later
+nineteenth century and is an official century ranch.
+During the Reconstruction period, Guadalupe County suffered major economic losses; much of this was a
+result of the end of slavery (upon which much commerce had been based). Most of the freed slaves left
+the county. Between 1870 and 1910 Guadalupe County had a surge of immigration. Immigrants to
+Guadalupe County included peoples from Russia, Poland, England, Wales, Ireland, France, Austria, and
+Switzerland, but the largest group increase came from Mexico (Smyrl 1999). Most of the newcomers
+engaged in either farming or ranching as their primary economic activities.
+Many of the large farms in the county were divided and leased for tenant farming and sharecropping in
+the 1870s. The practice continued into the early 1900s. Farmers in all three counties certainly continued
+to raise livestock (which could then be sold for better prices with the subsequent arrival of the railroad).
+Cotton was also a major cash crop for the counties. This land usage, which continued into the twentieth
+century, is in fact, one of the major defining influences seen in the various locations surveyed along the
+Facility ROW. It is the heritage of several later nineteenth century sites in Guadalupe County, such as
+Site 41GU112. However, on a broader level, the intensiveness of this land-use system represents (over
+time) one of the consistent impacts to soils (and potential site integrity) along the entire Facility ROW.
+
+10
+
+Guadalupe County’s economy finally received a boost later in the period with the completion of multiple
+railways in 1875. These included the Galveston and Red River Railway of the Houston and Texas Central
+Railway (1871), and the International and Great Northern Railroad railways (1876). The Galveston,
+Harrisburg, and San Antonio railway, also known as the Sunset Line, is the closest to the Facility ROW
+and was built through Kingsbury in 1875. In 1878, representatives of the Southern Pacific Railroad
+reached an understanding to expand the Sunset line to the west of San Antonio. The economic and social
+impacts of the railroads included a greater availability of materials and luxury goods. These influences
+extended over the next several decades. However, in spite of the potential access to goods from the larger
+regional and national economies, most of the archeological data from the later nineteenth century sites
+documented during the current project suggests that most material culture on the 11 historic sites still
+showed a heavy reliance on locally produced goods. Examples of definitive imports were few and
+included ginger ale beer from the northeast and laundry and cleaning products from the Midwest and East
+Coast. Although no reconstruction era resources were noted, the paucity of such goods on these slightly
+later sites would generally suggest a low frequency throughout the broader time period as well.
+2.1.4.5 Late Nineteenth and Early Twentieth Century (1880-1929 AD)
+Between 1870 and 1910 Central Texas, as already noted, experienced a surge of immigration. Immigrants
+included peoples from Germany, Russia, Poland, England, Wales, Ireland, France, Austria, Switzerland,
+and Mexico. These groups formed numerous communities in the area, including New Braunfels,
+Castroville, and Fredericksburg. Germans ranked as the third largest ethnic group of immigrants into the
+area behind Anglo-Saxons and Hispanics (Fehrenbach 2000). A broken belt of settlement, made up
+predominantly of Germans, but including other European groups, stretched from the Houston/Galveston
+port areas on the coast across south central Texas to the southern portion of the Hill Country, west of
+modern-day Austin and San Antonio.
+The completion of the railroads in the area brought several changes. One of the most evident influences
+was the change in architecture of the region. The nomadic groups prior to the Europeans used expedient
+temporary or mobile structures for housing as mentioned earlier. The Spanish and later the AngloAmericans brought more sedentary lifestyles to the area and thus more permanent structures. These often
+included split log cabins and post and adobe structures. Roofs were often constructed of native cypress.
+As Germans, Czechs, and other groups (primarily central and eastern European) moved into the region
+they brought their own building techniques and architectural styles with them. These new styles were
+derived primarily from Poland and the Alsace-Lorraine regions of Europe. They include walls made from
+the native limestone supported by timbers. These structures had steep pitched roofs and wide porches.
+The exteriors often contained intricate woodwork on the doors and columns (Hester 1975).
+The area also saw the beginnings of a new network of county roads and highways. This construction
+began in the early years of the twentieth century. This road system expanded and became more efficient,
+and automobiles became more commonplace in the region. This facilitated the concentration over time of
+the populations into larger communities such as Lockhart and Seguin along the Facility ROW. It had a
+visible effect on the small communities in the region as well. This is evident from the communities and
+structures that were present on earlier historic maps and are not present on later ones. This population
+move is also suggested by the abandoned structures present on sites like 41CW88 and those abandoned
+structures immediately outside the Facility ROW. Many of these towns such as Weinert ceased to be
+growing or thriving communities. The historic marker is placed several hundred meters outside the
+Facility ROW.
+Farmers in the region continued to raise livestock and cotton became a major crop. Cotton production
+peaked in 1900 (38,960 bales), but by 1930 was in a severe decline (8,266 bales) due to the soil depletion
+11
+
+and the start of the Great Depression (Smyrl 1999). The discovery of oil in 1913, in the Austin Chalk
+formation helped to rejuvenate the economy. Large-scale development in the area began from 1922 to
+1924 when a pipeline was constructed from Beaumont to Luling, and 1926 when the Lytton Field was
+opened 28 miles south of Austin. The oil and gas industry has subsequently contributed to economic
+growth in the Central Texas region throughout the twentieth century (Fehrenbach 2000).
+
+2.2 Previous Archeology
+Only four archeological sites have been recorded within one kilometer of 41GU107 (Figure 4). PBS&J
+documented sites 41GU72 and 41GU74 in 2001. Site 41GU72, located northeast of 41GU107, is a
+multicomponent site consisting of a prehistoric lithic scatter and remnants from a historic farmstead. Site
+41GU74 lies southwest of 41GU107 and consisted of four lithic flakes and a bifacial tool. Both sites were
+determined to be ineligible for listing on the NRHP.
+Site 41GU108, northeast of the present project area, is an unmarked historic grave within a hurricane
+fence enclosure recorded by aci consulting during survey. Archival research did not yield any information
+on the grave. Testing was conducted within the SH 130 ROW, and no additional work is required for this
+project; however a recommendation of additional research was made should further work impact the site
+(Thornton and Miller 2009; Gillentine and Yost 2008). Survey conducted on behalf of aci consulting also
+revealed a lithic scatter site, 41GU109, located northeast of 41GU107 that yielded a medial fragment of a
+formal biface.
+
+12
+
+ty
+un
+o
+C
+
+R
+
+d
+oa
+
+0
+23
+
+41GU72
+HPA 18
+41GU109
+41GU108
+41GU107
+
+41GU74
+
+q
+
+300
+
+150
+1:12,000
+
+0
+
+300
+Meters
+
+Facility ROW
+Archeological Sites
+HPA
+
+Figure 4. Recorded archeological sites within one kilometer of Site 41GU107. (Confidential information)
+
+3 FIELD AND LABORATORY METHODS
+3.1 Field Methods
+Site 41GU107 was identified by aci personnel during archeological survey in 2008. In order to warrant
+designation as an archeological site, a locality must contain a certain quantity of cultural materials or
+features older than 50 years within a given area. The definition of an archeological site for this area is: (1)
+five or more surface artifacts within a 15-meter radius, or (2) a single cultural feature, such as a hearth or
+midden, observed on the surface or exposed in a shovel test, or (3) a positive shovel test containing at
+least three artifacts within a given 10-centimeter level, or (4) a positive shovel test containing at least five
+total artifacts, or (5) two positive shovel tests located within 30 meters of each other. In the case of
+41GU107, more than five artifacts were exposed on the ground surface within a 15-meter radius, and a
+possible feature was identified in the south bank of the Mill Creek tributary during survey work
+(Gillentine and Yost 2008).
+Field methods for this project included surface collection of artifacts, hand excavations, and backhoe
+trenching (Figure 5). Field methods exceeded THC testing field work requirements.
+3.1.1 Surface Collection
+Preliminary observations during the archeological testing of 41GU107 suggested that a controlled surface
+collection of artifacts would be necessary as a point of departure for further testing work. All surface
+artifacts within Loci 1, 2, and 3 were collected, and artifact collection beyond the locus margins was
+limited to lithic tools (Figure 5). Surface artifact distributions provided the basis for site boundaries and
+the placement of test units. A great deal of artifact collecting (looting) is known to have occurred in this
+locality, and road-development traffic in the area has been escalating. The surface collection strategy was
+designed to locate the highest probability areas for the placement of test units, as well as to quickly
+recover highly visible tools that would be attractive to collectors.
+Five collecting loci were arbitrarily established during the survey component of work at this site
+(Gillentine and Yost 2008). However, surface visibility had increased greatly since then, and three
+densely clustered artifact groups were identified and defined as collection loci for this intensive testing
+project. The surface distribution of artifacts across the site was so extensive that the boundaries of the
+initial three collection loci eventually expanded into a single large perimeter, with three dense artifact
+clusters within. However, the boundaries of the three loci were maintained to retain some provenience for
+quantification purposes and the identification of higher probability locations for test unit placement. Since
+backhoe trenching proved unrevealing in the identification of subsurface deposits, test unit placement was
+dependent on surface distributions of artifacts.
+3.1.2 Hand Excavations
+The surfaces of Loci 1, 2, and 3 each exhibited a single dense cluster of artifacts within a dispersed
+artifact scatter; the three densely-clustered groupings of artifacts directly influenced test unit placement.
+Locus 1, which exhibited the highest density of burned rock and lithic tools on the surface, was subject to
+five hand-excavated 1-x-1-meter units (Figure 5). Two hand-excavated 1-x-1-meter units were placed in
+both Locus 2 and Locus 3. All test units were oriented to the cardinal directions. A datum was set just
+outside the southwest corner of the southwestern-most test unit in each collection locus. These datums
+were established at 10 centimeters above ground surface. A site datum was set in the center locus, Locus
+2, to use as a reference point for mapping purposes.
+
+14
+
+15
+14
+
+T
+T
+
+BH
+
+(
+
+^
+^
+
+Core-Tool Isolate
+Core-Tool Isolate
+TU 10
+
+BH
+
+T4
+
+r ee
+
+t ar y
+
+BH
+
+lC
+Mil
+
+ribu
+kT
+
+(
+
+BHT 13
+
+BHT 11
+
+(
+
+BHT 1
+
+BHT 10
+
+(
+
+c
+Fa
+
+^
+
+BHT 8
+
+BHT 9
+
+BHT 12
+
+(
+
+(
+
+#
+
+Informal Biface
+(non-hafted)
+
+BH
+
+T
+
+y
+ilit
+
+R
+
+O
+
+W
+
+2
+
+BHT 6
+
+BH
+
+T
+
+3
+
+BHT 7
+
+(
+
+BHT 5
+
+Sit
+e
+
+Bo
+u
+
+nd
+
+ar y
+
+TU 1
+
+TU 2
+
+TU 9
+TU 4
+
+TU 3
+
+TU 7
+
+TU 8
+TU 5
+
+q
+
+15
+
+7.5
+1:755
+
+0
+
+15
+Meters
+
+(
+
+Negative Survey Shovel Tests
+
+Back Hoe Trenches
+Negative BHT
+Positive BHT
+
+Figure 5. Plan view of surface collection loci, hand excavations, and backhoe trenches at 41GU107.
+
+TU 6
+
+In order to investigate the possible presence of a thermal feature, a 50-x-50-centimeter exploratory unit
+was positioned over the ashy soil anomaly in the tributary bank and excavated to the creek bed. This unit
+was outside the perimeters of Loci 1, 2, and 3.
+All units were excavated in 10-centimeter levels by hand, and all matrix was screened though ¼-inch
+hardware cloth. All cultural material was collected and bagged by unit and level, and appropriate
+unit/level forms were completed for each unit. The Project Archeologist maintained daily entries in a
+field journal. Sketch maps of the site were generated with simple compass-pacing. Site boundaries, locus
+margins, datums, and excavations were plotted with a GPS with sub-meter accuracy. Abundant digital
+photographs of all excavation units were taken at numerous stages with a scale and dry-erase board. All
+cultural material was collected and brought back to the aci consulting office for analysis.
+3.1.3 Backhoe Trenches
+The original research design for this project included plans to test approximately 1% of the surface area of
+the site, estimated at 3.38 acres (13678.374 square meters), using 17 backhoe trenches, each of which was
+to have measured approximately 10 x 0.8 meters (Gillentine et al. 2008). The 15 10-x-1-meter trenches
+actually excavated tested more than the required percentage of the site while requiring less time from the
+backhoe operator than would have been necessary to excavate 17 trenches. The research design specified
+that of the 17 planned trenches, 12 should be oriented north-south, while 5 should run east-west. Of the
+15 trenches actually excavated, 7 were oriented north-south, 3 were oriented east-west, and 5 ran from
+northeast to southwest, perpendicular to the Mill Creek tributary (Figure 5). The deviation from the
+research design represented an effort to collect the best sample of data possible based on actual field
+conditions.
+Several backhoe trenches were positioned around the margins of 41GU107 in an attempt to establish with
+more certainty the boundaries of the site, which were based primarily on artifact distributions on the
+ground surface. Many of these surface artifacts were highly pulverized and displaced by heavy machinery
+and bioturbation and were used for site boundary establishment only. One backhoe trench was placed
+adjacent to an ashy soil anomaly recorded by Gillentine and Yost (2008) within the south bank of the
+unnamed tributary of Mill Creek during archeological survey.
+The 15 10-x-1-meter backhoe trenches terminated at 1.5 meters below ground surface. All backhoe
+excavation complied with Occupational Safety & Health Administration (OSHA) standards. Elaborate
+scaled profiles of all backhoe trenches were generated, and soil colors, textures, structures, and cultural
+contents (if present) were noted. All back dirt and trench walls were inspected for cultural material.
+
+3.2 Laboratory Methods
+All cultural materials recovered during archeological testing were analyzed, described, and reported.
+Lithics were examined for attributes indicating cattle-crushing or mechanical breakage in order to
+establish that all materials inventoried and curated were actually cultural. All artifacts and records
+obtained and/or generated during the project were prepared in accordance with federal regulation 36 CFR
+79 and THC requirements for State Held-in-Trust collections. During curation, processed artifacts were
+washed, air-dried, and stored in 4-mil zip-locking archival-quality bags. An acid-free label was placed in
+each artifact bag. Each label contained provenience information and a corresponding lot number written
+in archival ink, with pencil or laser printed. Lithic tools were labeled with permanent ink over a clear coat
+of acrylic and covered by another acrylic coat. Artifacts were separated by class and will be stored in acid
+free boxes. All field forms were completed with pencil.
+16
+
+4 PHASE II INVESTIGATION RESULTS
+This section presents the results of archeological investigations at 41GU107. Testing at this site consisted
+of intensive surface collections, nine hand-excavated 1-x-1-meter units, one hand-excavated 50-x-50­
+centimeter unit, and fifteen 10-x-1-meter backhoe trenches. All archeological testing efforts were
+performed within the SH130 ROW that encompasses the majority of the site. Cultural materials in this
+locality rested primarily on ground surface and at shallow depths. Test Units 1 through 9 were excavated
+to 50 cmbd, while Test Unit 10 was excavated to 110 cmbd. Finally, 15 backhoe trenches distributed
+across the site were excavated to 1.5 meters below ground surface. The vast majority of cultural materials
+recovered during this investigation were collected from the surface of the badly eroded landscape.
+Archeological work via surface collection, test unit excavation, and backhoe trenching yielded lithic tools
+and debitage, burned rock, charcoal, and burned clay. Before discussing archeological testing results, a
+brief summary of the nature of the deposition in this locality is provided.
+
+4.1 Depositional Nature of the Landscape of 41GU107
+The landscape surrounding 41GU107 was at one time heavily vegetated. Recent grazing episodes and a
+severe drought have increased surface visibility, revealing dense artifact distributions on the ground
+surface. Such grazing episodes can result in the crushing of lithic materials, and aci personnel had to
+distinguish between materials that were the result of prehistoric lithic reduction and lithics crushed by
+cattle hooves during grazing.
+The increased ground surface visibility that resulted from these grazing episodes also enhanced the
+visibility of surface artifacts to collectors. The significant number of lithic tools recovered from
+41GU107, coupled with the complete dearth of diagnostic materials, indicates that intensive collecting of
+attractive projectile point artifacts in this locality has probably taken place.
+Other factors influencing the archeological record at 41GU107 are evident in signs of intensive erosion
+and other geomorphic processes present throughout the landscape. The site is located on a low terrace
+adjacent to a tributary of Mill Creek that is prone to flooding. Only two inches of precipitation are
+necessary to inundate this landscape, and a heavy rain can result in several inches of standing water. The
+landscape is highly deflated, and backhoe trench observations indicate that accretion of soil deposits laden
+with cultural materials is limited to the shallower deposits. It remains unclear whether surface artifact
+densities observed at 41GU107 reflect actual prehistoric activity areas or were caused by postdepositional processes.
+
+4.2 Surface Collection
+Initial survey results of 41GU107 suggested that artifact scatters on the landscape occurred within five
+discreet loci (Gillentine and Yost 2008). Upon closer examination during archeological testing, these five
+loci proved to be part of a large and definable artifact scatter with three dense artifact distributions within.
+This scatter was divided into three distinct loci, based on the three dense artifact concentrations, for
+collection purposes and provenience approximation. Intensive examination of the landscape indicated that
+no burned rock features were present although fire-cracked rock (FCR) was widely distributed across the
+ground surface of the site. No particular FCR density in any of the three loci resembled a thermal feature,
+but slightly more dense concentrations of FCR played key roles in the positioning of test units. All burned
+rock specimens were relatively small, and they did not appear to occur in any kind of associational
+pattern.
+17
+
+4.2.1 Locus 1
+Artifacts recovered from the ground surface of Locus 1 included lithic debitage and tools as well as small
+specimens of burned rock. The burned rock was not densely clustered in any particular area, nor were
+thermal features present. As indicated in Table 1, numerous formal bifaces were observed in Locus 1,
+several of which were densely clustered at the base of a large prickly pear cactus patch. It became clear
+that the cactus patch would need to be removed for test unit placement. Numerous artifacts were
+concealed by this overlying cactus patch, and other cactus patches were thoroughly examined
+subsequently. Backhoe Trench 1 was positioned over a separate cactus patch within Locus 1 that also
+concealed numerous artifacts on the ground surface, but this trench was excavated with negative results.
+Locus 1 exhibited the highest quantity of formal, thinned bifaces and burned rock specimens of the three
+loci. Five of the 10 test units excavated during this project were positioned in this locality as a result.
+Specimens of burned rock
+
+118
+
+Primary flake
+
+1
+
+Secondary flakes
+
+24
+
+Tertiary flakes
+
+98
+
+Formal biface medial fragment
+
+1
+
+Formal biface, retouched, non-hafted
+
+1
+
+Informal biface, non-hafted, proximal fragment
+
+1
+
+Formal biface, non-hafted, proximal fragment
+
+1
+
+Formal lanceolate biface, likely hafted, proximal fragment
+
+1
+
+Multidirectional core tools
+
+3
+
+Informal bifaces, non-hafted
+
+4
+
+Table 1. Locus 1 artifacts recovered from ground surface.
+
+4.2.2 Locus 2
+The center locus at 41GU107, Locus 2, contained the greatest diversity of lithic types present at the site.
+Types included bifaces, cores, core tools, and flake tools (Table 2). This locus also revealed a high
+quantity of tertiary debitage compared to Locus 1. This locality had a wider dispersal pattern of artifacts
+than did the other loci, but a concentrated cluster was still present within the center of the locus.
+Specimens of burned rock
+
+29
+
+Primary flakes
+
+6
+
+Secondary flakes
+
+40
+
+Tertiary flakes
+
+148
+
+Informal biface, non-hafted
+
+1
+
+Unimarginal flake tools
+
+4
+
+Multidirectional core tools
+
+2
+
+Multidirectional core
+
+1
+
+Table 2. Locus 2 artifacts recovered from ground surface.
+
+4.2.3 Locus 3
+Locus 3 yielded less burned rock but more lithic debitage from the surface than did Locus 1 or 2. As seen
+in Table 3 below, the surface of Locus 3 yielded the highest quantity of tertiary flakes as well as the most
+18
+
+debitage of all three loci. However, distributions at both Loci 2 and 3 lacked thinned formal bifacial tools,
+and burned rock was relatively scarce. Therefore, Loci 2 and 3 received two test units each, while five test
+units were positioned within Locus 1. The extent of cattle crushing and mechanical breakage apparent in
+the lithics resting on the landscape and the extensive evidence of erosion on the ground surface indicate
+that post-depositional forces have impacted the density and distribution of the surface artifacts. However,
+surface artifact distributions provided the basis for the locations of controlled excavation units.
+Specimens of burned rock
+
+17
+
+Primary flakes
+
+4
+
+Secondary flakes
+
+40
+
+Tertiary flakes
+
+158
+
+Informal biface, non-hafted
+
+1
+
+Informal biface, non-hafted, exhibiting post-depositional breakage
+
+1
+
+Informal thinned biface distal fragments
+
+2
+
+Informal bifaces, non-hafted, thinned proximal fragments
+
+2
+
+Informal biface, thinned medial fragment
+
+1
+
+Multidirectional core tool
+
+1
+
+Table 3. Locus 3 artifacts recovered from ground surface.
+
+Three lithic tools were recovered outside the margins of Loci 1, 2, and 3. An informal non-hafted biface
+in an early stage of reduction and two multi-directional core tools were found within the site boundaries
+of 41GU107, and they are plotted in Figure 5, above. The two multi-directional core tools were
+encountered in the creek bed of the unnamed tributary of Mill Creek, adjacent to 41GU107.
+
+4.3 Hand Excavations
+Controlled excavation work at 41GU107 consisted of nine 1-x-1-meter units and one 50-x-50-centimeter
+unit. The bulk of cultural materials encountered during archeological testing were recovered at shallow
+depths, and many excavation levels yielded no artifacts.
+4.3.1 Locus 1
+Locus 1 exhibited the most significant concentration of tools and burned rock on the surface and was
+subject to five 1-x-1-meter units, each of which was excavated to 50 cmbd (Figure 6). Test Units 1, 2, 3,
+8, and 9 within Locus 1 yielded formal biface fragments (n=2), lithic debitage (n=201), core tools (n=3), a
+flake tool (n=1), and burned rock (n=43) (Table 4). All recovered burned rock specimens were relatively
+small. Locus 1 yielded the highest quantity and density of cultural material of the three loci, but given the
+high-energy deposition of artifacts and their shallow depths, it is unclear whether this locality was
+actually a focal point of prehistoric activity.
+
+19
+
+Figure 6. Hand excavation units in Locus 1.
+Test Unit Level
+1
+
+2
+
+3
+
+8
+
+9
+
+Burned Rock
+
+Primary Flakes
+
+Secondary Flakes
+
+Tertiary Flakes
+
+1
+
+7
+
+0
+
+11
+
+23
+
+none
+
+2
+
+2
+
+0
+
+1
+
+1
+
+none
+
+3
+
+0
+
+0
+
+0
+
+4
+
+1
+
+4
+
+0
+
+6
+
+53
+
+none
+2 formal biface proximal frag. possibly hafted,
+1multidirectional core tool
+
+2
+
+1
+
+0
+
+1
+
+0
+
+none
+
+3
+
+0
+
+0
+
+0
+
+1
+
+none
+
+1
+
+7
+
+1
+
+0
+
+12
+
+none
+
+2
+
+0
+
+0
+
+1
+
+3
+
+none
+
+3
+
+5
+
+0
+
+1
+
+4
+
+none
+
+4
+
+1
+
+0
+
+0
+
+0
+
+none
+
+1
+
+10
+
+1
+
+0
+
+18
+
+1 bimarginal flake tool
+
+2
+
+2
+
+0
+
+3
+
+20
+
+none
+
+1
+
+4
+
+0
+
+10
+
+25
+
+2 multidirectional core tools
+
+0
+
+0
+
+0
+
+1
+
+none
+
+43
+
+2
+
+34
+
+165
+
+3
+Totals
+
+Other
+
+Table 4. Locus 1 artifacts recovered from test units.
+
+20
+
+4.3.2 Locus 2
+Test Units 4 and 5 were located in Locus 2. Artifacts from these units include a flake tool (n=1), lithic
+debitage (n=17), and burned rock (n=11) (Table 5). Subsurface cultural material from Locus 2 was
+limited compared to Locus 1. Burned rock specimens collected from Test Units 4 and 5 were also
+relatively small in size. Like Loci 1 and 3, Locus 2 yielded more tertiary than primary or secondary
+flakes, suggesting the later stages in lithic reduction were common at this site during tool manufacturing
+activities.
+Test Unit
+
+Level
+
+Burned Rock
+
+Primary Flakes
+
+Secondary Flakes
+
+4
+
+1
+
+7
+
+0
+
+1
+
+3
+
+0
+
+1
+
+0
+
+11
+
+0
+
+5
+
+2
+Totals
+
+Tertiary Flakes
+
+Other
+
+3
+
+4
+
+1 bimarginal flake-tool
+
+0
+
+10
+
+none
+
+0
+
+0
+
+none
+
+3
+
+14
+
+Table 5. Locus 2 artifacts recovered from test units.
+
+4.3.3 Locus 3
+Test Units 6 and 7 were situated within Locus 3. These units yielded lithic debitage (n=35), burned rock
+(n=15), burned clay, and charcoal (Table 6). Like Loci 1 and 2, Locus 3 yielded more tertiary than
+primary or secondary flakes. Burned rock specimens were, again, relatively small. Controlled excavation
+within all 3 loci suggested that only the shallow deposits contained cultural material. This trend was also
+observed in backhoe trench investigations.
+Test Unit
+6
+
+7
+
+Level
+
+Burned Rock
+
+Primary Flakes
+
+1
+
+5
+
+2
+
+2
+
+3
+1
+2
+3
+Totals
+
+Secondary Flakes
+
+Tertiary Flakes
+
+Other
+
+0
+
+8
+
+11
+
+none
+
+0
+
+0
+
+3
+
+burned clay and charcoal
+
+0
+
+1
+
+0
+
+1
+
+none
+
+6
+
+0
+
+2
+
+6
+
+none
+
+1
+
+0
+
+0
+
+3
+
+none
+
+1
+
+0
+
+0
+
+0
+
+none
+
+15
+
+1
+
+10
+
+24
+
+Table 6. Locus 3 artifacts recovered from test units.
+
+Test Unit 10, a 50-x-50-centimeter exploratory unit, was placed within the west wall of Backhoe Trench 4
+along the south edge of the tributary bank (Figure 7) in order to investigate the possible thermal feature
+discovered during archeological survey (Gillentine and Yost 2008). This unit yielded one fragment of
+lithic debitage and a single specimen of burned rock just below ground surface. Based on the stratigraphy
+of the unit, it is likely that the ashy anomaly is the result of a past burning of the vegetation of the area.
+
+21
+
+Figure 7. Test Unit 10.
+
+4.4 Backhoe Trenches
+Fifteen backhoe trenches were excavated within 41GU107. Five of the fifteen backhoe trenches were
+aligned perpendicular to the Mill Creek tributary in order to illuminate the architecture of soils in this
+locality. The profiled walls of backhoe trenches depicted highly eroded loam and loamy clay deposits
+resting over an extremely dense gravel horizon, exemplified by the soil architecture seen in Backhoe
+Trench 1 (Figure 8). Many of the exposed gravels consisted of high quality chert material. However, only
+two backhoe trenches yielded culturally modified material, and only at very shallow depths. Backhoe
+Trench 7 exhibited small amounts of burned rock and angular lithic debris at very shallow depths. These
+specimens were observed in the backfill and were not collected.
+
+22
+
+Figure 8. Backhoe Trench 1 profile.
+
+Backhoe Trench 4 was aligned perpendicular to the Mill Creek tributary skirting 41GU107. As discussed
+previously, it was positioned immediately east of a possible thermal feature noted in the south bank of the
+creek during archeological survey. A single piece of lithic debitage and a small piece of non-angular
+burned rock were noted in the west wall profile. This profile, coupled with the controlled excavation of
+Test Unit 10, confirmed that the anomaly observed within the south bank of the Mill Creek tributary was
+not a prehistoric thermal feature. The charcoal and ash inclusion seen in the west wall profile of Backhoe
+Trench 4 (Figure 9) is likely the result of large-scale vegetation burning in this area.
+
+23
+
+Figure 9. Charcoal and ash inclusion in Backhoe Trench 4 profile.
+
+4.5 Discussion of 41GU107
+Site 41GU107 yielded a large quantity of lithic tools, debitage, and burned rock but no diagnostic
+artifacts. However, a basic cortical analysis of debitage collected from both surface and subsurface
+deposits indicates that tertiary flakes occurred in more than twice the quantities of primary and secondary
+flakes combined. High frequencies of tertiary flakes are associated with late-stage reduction in tool
+manufacture, as the amount of cortex is less on late reduction specimens and greater on early reduction
+specimens (Andrefsky 1998; Sutton and Arkush 2002). The significantly higher percentage of tertiary
+versus primary or secondary flakes at 41GU107 likely reflects activities centered on lithic tool
+manufacture and refurbishing. The locality surrounding this site is rich with high-quality chert gravels and
+could have provided the raw material for stone tools.
+Burned rock often indicates the presence of hearth or cooking features, but surface fires (i.e. brush fires,
+either natural or man-made) may also produce burned rock. Land clearing activities that may have
+involved some brush burning are known to have occurred in this locality. However, in order for rock to
+develop the angular break attributes and heat spalls that indicate intentional cultural use, intense
+prolonged or repeated heating must occur. Since wildfires and modern landscape burning episodes tend to
+be relatively brief, no single location is subject to intense heat for a prolonged period of time. Site
+41GU107 exhibited a wide dispersal of small fire-cracked rock specimens, but only a small percentage
+exhibited angular break patterns and heat spall pits.
+Out of the 34 lithic tools recovered at 41GU107, only six were formal tools reflecting extensive
+production effort in the form of multiple sequences of lithic reduction. The other tools recovered from this
+24
+
+site were of a more informal, easily manufactured design. Expedient tools offer the hunter-gatherer more
+task variability because their more informal design is not constrained morphologically (Andrefsky 1998).
+Inferences can be drawn between the amount of effort exhausted in lithic tool production and the
+settlement strategies utilized by prehistoric tool makers. Some studies suggest that more formal tools
+requiring greater production effort are associated with mobile hunter-gatherers, and that expedient tools
+produced with less effort are associated with more sedentary groups (Parry and Kelly 1987). In general,
+lithic artifact diversity is expected to be greater at multifunctional base camps than more temporary camps
+with specialized functions (Andrefsky 1998). Also, one expects to find higher ratios of expediently
+produced informal tools in localities with abundant amounts of high quality raw lithic material
+(Andrefsky 1998). The presence of a combination of both formal and informal tools could also mean that
+this site was occupied multiple times and by different groups of people practicing varying degrees of
+sedentary/nomadic mobility patterns. However, with such poor site integrity and numerous postdepositional forces at play, cultural materials other than displaced lithics on the ground surface no longer
+remain to elaborate our understanding of prehistoric activity in this locality.
+The dating of 41GU107 is impossible without diagnostic tools or charcoal from a cultural context, but one
+of its primary functions can be inferred. The presence of 34 lithic tools and high tertiary flake ratios at this
+site strengthens the argument that 41GU107 was a prehistoric campsite where intensive lithic tool
+production was taking place; however, it is likely that this site served a number of functions during its
+semi-permanent occupation(s). Given the high ratio of expediently manufactured tools coupled with the
+diversity of tool types, it is likely that this site was subject to more long-term occupations or was
+frequently revisited. Its proximity to a river drainage and quality raw lithic materials would have made it
+an ideal place for prehistoric occupation. However, modern development, cattle grazing, artifact
+collecting, and erosive forces have removed or destroyed the bulk of informative materials that once
+rested within this site.
+
+25
+
+5 CONCLUSIONS AND RECOMMENDATIONS
+aci consulting carried out archeological testing work at 41GU107 in July of 2009 within the proposed SH
+130 Facility Right of Way project area. Testing efforts consisted of intensive surface collections, nine 1­
+x-1-meter test units, one 5-x-50-centimeter test unit, and fifteen backhoe trenches. Investigations suggest
+41GU107 was a prehistoric location for lithic tool manufacturing and refurbishment. Unfortunately, no
+diagnostic artifacts were recovered from the site, and its age of occupation(s) is unknown; thus, its
+interpretive research value has been severely diminished.
+Despite the absence of diagnostic artifacts at 41GU107, a large quantity of lithic tools, debitage, and
+burned rock were recovered. The significantly higher percentage of tertiary than primary or secondary
+flakes at 41GU107 suggests that tool manufacture and refurbishing may have been a dominant activity at
+this site, facilitated by the abundant high-quality chert gravels in this locality.
+The high quantity of early reduction stage tools recovered from this site may be associated with relatively
+sedentary occupations. These informal tools indicate a fair amount of diversity and versatility and may
+signify a multifunctional base camp rather than a temporary camp with a specialized function; however,
+this is impossible to ascertain without the identification of distinct occupations in intact subsurface
+deposits. Site 41GU107 may have been host to a wide range of prehistoric pursuits, but the high quantity
+of tools and tertiary debitage indicate that tool manufacture was likely a dominant activity. Unfortunately,
+the site lacks integrity, and numerous post-depositional forces have intensively impacted the
+archeological record in this area. Aside from displaced lithics on the ground surface, little else in the
+forms of features or diagnostic materials remains to offer insight into prehistoric activity in this locality.
+Modern development, cattle grazing, intensive artifact collecting, brush clearing and burning, and erosive
+forces have removed or destroyed the bulk of data that could have been recovered from 41GU107.
+aci consulting has fulfilled the archeological testing objectives for this project. First, aci consulting
+completed an archeological examination of 41GU107, ascertaining the extent, nature, and depth of
+cultural deposits. Second, aci consulting has determined that 41GU107 does not meet the specific criteria
+to render it eligible for listing on the NRHP and/or designation as a SAL under 13 TAC 26. This
+recommendation is based on the application of the four criteria for eligibility set forth in 36CFR60. This
+property is not significant for association with historic events or individuals significant to our past, the
+features do not embody characteristics of a type, period, or method of construction or represent the work
+of a master, and the property is not likely to yield information important in prehistory or history. Finally,
+the results of archeological investigations at 41GU107, in addition to the recommendations based on
+those findings, have been summarized in this technical report for submission to the Sponsor, Central
+Texas Highway Constructors, LLC, and the Texas Historical Commission (THC). All documents and
+artifacts associated with this project will be curated at TARL.
+In conclusion, 41GU107 offers minimal archeological information and extremely limited interpretive
+research potential. Therefore, aci consulting does not recommend additional archeological work, and
+development in this locality for the SH 130 Facility Right of Way should proceed.
+
+26
+
+REFERENCES CITED
+Andrefsky, William, Jr.
+1998 Lithics: Macroscopic Approaches to Analysis. Cambridge University Press, Cambridge.
+Barnes, Virgil E.
+1974 Geologic Map of Texas: Austin, The University of Texas Bureau of Economic Geology, scale:
+1:125,000.
+1992 Geologic Map of Texas: Austin, The University of Texas Bureau of Economic Geology, scale:
+1:500,000.
+Bement, Leland C.
+1989 Excavations at 41BP19: The Kennedy Bluffs Site, Bastrop County, Texas. Texas Archeological
+Research Laboratory, The University of Texas at Austin. Contract Reports in Archeology, Report
+No.5, Highway Design Division, Texas State Department of Highways and Public
+Transportation, Austin.
+Black, Stephen L.
+1989 Central Texas Plateau Prairie. In From the Gulf to the Rio Grande: Human Adaptation in Central,
+South, and Lower Pecos Texas, by T.R. Hester, S.L. Black, D.G. Steele, B.W. Olive, A.A. Fox,
+K.J. Reinhard, and L.C. Bement, pp. 17-36. Research Series No. 33. Arkansas Archeological
+Survey, Fayetteville.
+Bolton, Herbert E.
+1914 The Founding of the Missions on the San Gabriel River, 1745-1749. Southwestern Historical
+Quarterly 17(4): 323-378.
+Bousman, C. Britt
+1998 Paleoenvironmental Change in
+Anthropologist 43(164): 201-219.
+
+Central
+
+Texas:
+
+The
+
+Palynological
+
+Evidence.
+
+Plains
+
+Bryant, Vaughn M., Jr. and Harry J. Shafer
+1977 The Late Quaternary Paleoenvironment of Texas: A Model for the Archeologist. Bulletin for the
+Texas Archeological Society 48: 1-25.
+Byrd, Clifford Leon
+1971 Origin and History of the Uvalde Gravel of Central Texas. Baylor Geological Studies, Bulletin
+no. 20. Baylor University, Department of Geology, Waco, TX.
+Chipman, Donald E.
+1992 Spanish Texas, 1519-1821. University of Texas Press, Austin.
+Collins, M.B.
+2004 Archeology in Central Texas. In The Prehistory of Texas, edited by Timothy K. Perttula, pp. 101­
+126. Texas A&M University Press, College Station.
+1995 Forty Years of Archeology in Central Texas. Bulletin of the Texas Archeological Society 66:361­
+400.
+
+27
+
+Davis, William B. and David J. Schmidly
+1997 Mammals of Texas-Online Edition. Electronic document,
+http://www.nsrl.ttu.edu/tmot1/taxitaxu.htm, accessed October 29, 2008.
+Doering, John A.
+1935 Post-Fleming Surface Formations of Coastal Southeast Texas and South Louisiana. American
+Association of Petroleum Geologists Bulletin 19(5): 651-688.
+Fehrenbach, T R
+2000 Lone Star: A History of Texas and the Texans. Updated Edition. Da Capo Press, Cambridge, MA.
+Gillentine, Jim, Theresa Miller, and Stephen Yost
+2008 Research Design: Testing of Sites 41GU85, 41GU107, and 41GU108, SH 130 Extension,
+Guadalupe County, Texas. A technical report prepared for Central Texas Highway Constructors,
+LLC by aci consulting, Austin, Texas
+Gillentine, Jim and Stephen Yost.
+2008 Phase I Archaeological Survey of High Probability Area 18, Proposed SH 130 Extension,
+Guadalupe County, Texas. A technical report prepared for Central Texas Highway Constructors,
+LLC by aci consulting, Austin, Texas.
+Gunn, Joel and Royce Mahula (eds.)
+1977 Hop Hill: Culture and Climatic Change in Central Texas. Special Report no. 5,Center for
+Archeological Research, University of Texas at San Antonio.
+Gunn, Joel and F. A. Weir
+1976 Tool Kit Hypothesis: A Case of Numerical Induction. Newsletter of Lithic Technology 5(3): 31­
+40.
+HHM, Inc.
+2008a Archival Research for HPA 14 Guadalupe County, Texas, March 2008. HHM, Inc., Austin, TX.
+2008b Archival Research for HPA 16 and 17 Guadalupe County, Texas, March 2008. HHM, Inc.,
+Austin, TX.
+Hester, Thomas R.
+1975 Archaeological and Historical Resources in the San Antonio-Guadalupe River Basins: A
+Preliminary Statement. Center for Archeological Research, University of Texas at San Antonio.
+La Vere, David
+2004 The Texas Indians. Texas A & M University Press, College Station.
+Mauldin, Raymond P. and Daniel S. Amick
+1989 Investigating Patterning in Debitage from Experimental Bifacial Core Reduction. In Experiments
+in Lithic Technology, edited by Daniel S. Amick and Raymond P. Mauldin, pp. 88-100.
+International Series no. 528, British Archaeological Reports, Oxford.
+
+28
+
+Mauldin, Raymond P., David L. Nickels, Robert Jarrett Hard, and C. Britt Bousman
+2001 An Archaeological Survey of Twin Buttes Reservoir, Tom Green County, Texas. Archaeological
+Survey Report, No. 300. 3 vols. Center for Archaeological Research, University of Texas at San
+Antonio.
+McKinney, Wilson W.
+1981 Early Holocene Adaptations in Central and Southwestern Texas: The Problem of the PaleoindianArchaic Transition. Bulletin of the Texas Archeological Society 52: 91-120.
+Meltzer David J. and Michael R. Bever
+1995 Paleoindians of Texas: An Update on the Texas Clovis Fluted Point Survey. Bulletin of the Texas
+Archeological Society 66:47-81.
+Parry, William J., and Robert L. Kelly
+1987 Expedient Core Technology and Sedentism. In The Organization of Core Technology, edited by
+Jay K. Johnson and Carol A. Morrow, pp.285-304. Westview Press, Boulder, Colorado.
+Prewitt, Elton R.
+1981 Culture Chronology in Central Texas. Bulletin of the Texas Archeological Society 52: 65-89.
+Shirley, Shirley L., James Gillentine, and Stephen W. Yost, R.P.A
+2008 Draft Interim Report: Phase I Archaeological Survey of High Probability Area 19, Proposed SH
+130 Extension, Caldwell County, Texas. aci Consulting, Austin, TX.
+Smyrl, Vivian Elizabeth
+1999 Guadalupe County. In Handbook of Texas Online. Electronic document,
+http://www.tshaonline.org/handbook/online/articles/CC/hcc1.html, accessed March 10, 2010.
+Story, D. A.
+1985 Adaptive Strategies of Archaic Cultures of the West Gulf Coastal Plain. In Prehistoric Food
+Production in North America, edited by Richard I. Ford, pp. 19-56. Anthropological Papers no.
+75, Museum of Anthropology, University of Michigan, Ann Arbor.
+Sullivan, Alan P., III and Kenneth C. Rozen
+1985 Debitage Analysis and Archaeological Intrepretation. American Antiquity 50(4):755-779
+Sutton, Mark Q., and Brooke S. Arkush
+2002 Archaeological Laboratory Methods: An Introduction. 3rd ed. Kendall/Hunt Publishing
+Company, Dubuque, Iowa.
+Texas Historical Commission (THC)
+2009 Texas Archeological Sites Atlas. Electronic document, http://nueces.thc.state.tx.us, accessed July
+2009.
+Thornton, Meg and Theresa Miller
+2009 Interim Report for Archeological Intensive Survey: SH130 Segment 6, HPA 18, area adjacent to
+41GU108. A technical report prepared for Central Texas Highway Constructors, LLC by aci
+consulting, Austin, Texas.
+
+29
+
+Toomey, Rickard S., Michael D. Blum, and Salvatore Valastro, Jr.
+1993 Late Quaternary Climates and Environments of the Edwards Plateau, Texas. Global and
+Planetary Change 7(4): 299–320.
+Turner, Ellen Sue, and Thomas R. Hester
+1999 A Field Guide to Stone Artifacts of Texas Indians. Gulf Publishing, Lanham,
+
+Maryland.
+
+Weir, Frank A.
+1976 The Central Texas Archaic. Unpublished Ph.D. dissertation, Department of Anthropology,
+Washington State University, Pullman.
+
+30
+
+Appendix A: Artifact Analysis
+Cultural materials recovered during this project consisted of burned rock, lithic debitage, and stone tools.
+Many of the chert artifacts appear to be made from raw materials resembling the gray, brown, and tan
+cherts originating from the Edwards limestone formation. Burned rock specimens recovered from
+41GU107 were consistently small, and most lacked the angular breakage patterns engendered by the longterm heat maintenance associated with prehistoric thermal rock features used by hunter-gatherers. Their
+shared context with densely clustered prehistoric debitage and lithic tools is undeniable, but no distinctly
+larger, more angular fire cracked rock specimens with midden-like attributes were present at 41GU107.
+With the presence of such a high quantity of burned rock, it seems likely that thermal features were once
+present on the landscape but were subject to the destructive forces of high-energy flooding, breakage by
+bioturbation, sporadic pedestrian foot traffic, and brush burning/clearing episodes. Therefore, no analysis
+of burned rock was performed. A detailed debitage analysis was not attempted given the poor site
+integrity and the lack of a significant sequence of a vertical time dimension in subsurface deposits. A brief
+cortical examination of debitage and a discussion of the site’s tool inventory will follow.
+
+Debitage
+Established methodologies used to characterize and interpret debitage assemblages have been
+comprehensively studied (see Andrefsky 1998; Sullivan and Rozen 1985; Mauldin and Amick 1989). A
+detailed analysis of debitage recovered from this project was not conducted because approximately 67%
+of the recovered debitage was yielded from a ground surface subject to intensive cattle grazing and
+flooding episodes. However, the amount of cortex (chemically/physically weathered exterior surface of a
+rock) on recovered debitage was evaluated to obtain a glimpse of the reduction processes at play at this
+site. Flakes are typically assigned as primary, secondary or tertiary, based on the amount of cortex. It is
+assumed that the amount of cortex should be less on late reduction specimens and greater on early
+reduction pieces (Andrefsky 1998).
+The ground surface of 41GU107 yielded only 11 primary flakes, 104 secondary flakes, and 404 tertiary
+flakes. The integrity of any surface collection is subject to question, but the high ratio of tertiary flakes
+recovered from the ground surface at 41GU107 suggests that a large percentage of the lithic reduction
+activities that took place at this site reached the later stages in tool manufacture.
+Subsurface collections also support the same assessment. The majority of subsurface debitage was
+recovered from the top 3 levels of excavated test units. Within Locus 1, Test Units 1, 2, 3, 8, and 9
+yielded 2 primary flakes, 34 secondary flakes, and 165 tertiary flakes. Test Units 4 and 5, within Locus 2,
+yielded no primary flakes, 3 secondary flakes, and 14 tertiary flakes. Test Units 6 and 7, placed in Locus
+3, yielded 1 primary flake, 10 secondary flakes, and 24 tertiary flakes. Several artifacts exposed in situ
+during test unit excavation in Locus 1 rested in a vertical context, suggesting high energy deposition of
+subsurface cultural material. However, the ratio of tertiary flakes from test units within Loci 1, 2, and 3
+also indicate later stages in the lithic reduction processes.
+The percentage of tertiary flakes out of all surface collected debitage was 78%. The percentage of tertiary
+flakes recovered from the shallow subsurface deposits within Loci 1, 2, and 3 was 80%. These
+percentages coupled with the high quantity of lithic tools recovered from 41GU107 suggest a significant
+amount of prehistoric activity at this site was centered on lithic tool manufacture.
+
+Lithic Tools
+Lithic tools recovered from 41GU107, unfortunately, reflect the leftover components of a heavily
+collected/looted artifact assemblage. Many of the tools recovered from this site during testing were either
+too expediently manufactured to indicate to collectors that they were prehistoric tools, or too fragmentary
+31
+
+to be attractive to them. However, 34 lithic tools in various reduction stages were recovered during
+archeological investigations. Classification of tools was based on morphology rather than use-wear
+analysis. Many archeologists prefer not to use the analytical category of core tool. However, for the
+purposes of this examination, artifacts classified as bifaces possessed two faces that met to form a
+bifacially worked edge that circumscribed the entire artifact. Core tools were identified as lacking bifacial
+flaking along the entire perimeter, exhibiting a worked edge from flake removal, and lacking debitage
+attributes. From a reduction/manufacture point of view, many core-tools would be classified as bifaces.
+The presence/absence of cortex on tools was not considered a deciding factor in tool classification.
+The surface of Locus 1 yielded 12 tools. Figure A-1 illustrates four formal bifaces. Specimen a is a late
+reduction stage medial fragment that may have once been hafted. Specimen b is a late reduction stage
+biface that was retouched. It lacks grounded and dulled edges or backing along its proximal sides.
+However, it may have been hafted after it was retouched since its retouched distal edge is significantly
+more beveled than the other sides, as though it was re-sharpened after it was inserted into a handle as an
+endscraper. Specimen c represents a non-hafted proximal fragment of a late reduction biface. Specimen d
+is a late reduction lanceolate shaped biface. It is a proximal fragment and may have been hafted to a
+handle or dart. The scale of this biface is as such that it was likely too narrow and thin to be manipulated
+effectively as a bifacial knife. It exhibits a notch-like indentation reminiscent of a Pipe Creek phase
+biface; however, this notch-like indentation is believed to be post-depositional and not the result of human
+action. Figure A-2 depicts five informal bifaces that were non-hafted and expediently made. Specimens a
+and b are middle reduction stage bifaces, and Specimens c and d are early reduction stage bifaces.
+Specimen e is a proximal fragment of a middle reduction stage biface. Figure A-3 illustrates the three
+multidirectional core-tools recovered within the margins of Locus 1.
+
+Figure A-1. Formal bifaces recovered from Locus 1.
+
+32
+
+Figure A-2. Informal bifaces recovered from Locus 1.
+
+Figure A-3. Core tools recovered from Locus 1.
+
+33
+
+Locus 2 yielded seven tools and one core. Specimen a in Figure A-4 illustrates an informal biface that
+served in a non-hafted capacity. It was expediently made and represents an early reduction stage biface.
+Four flake tools were recovered that were unimarginally edged (Specimens b thru e). Two
+multidirectional core tools (Specimens f and g) and 1 multidirectional core (Specimen h) were also
+recovered from the ground surface of Locus 2.
+
+Figure A-4. Lithic artifacts recovered from Locus 2.
+
+A total of eight tools was collected from the ground surface of Locus 3. Figure A-5 depicts seven
+informal bifaces in various reduction stages. Specimens a and b are thinned distal fragments that were
+probably not hafted, and represent late stages of lithic reduction. They were likely preforms. Specimens c
+and d are late reduction stage proximal fragments of thinned bifaces that did not function in hafted
+capacities. Specimen e is a medial fragment of a non-hafted biface in a middle to late reduction stage. It
+was likely a preform. Specimen f is a middle reduction stage biface that was not hafted and exhibits some
+breakage from bioturbation. Specimen g is an early to middle reduction stage biface that was not hafted.
+One core tool was recovered from the surface of Locus 3 as well (Specimen h).
+
+34
+
+Figure A-5. Lithic artifacts recovered from Locus 3.
+
+The majority of lithic tools that were exposed in situ during archeological testing was found in the first
+level of Locus 1 test units. Test Unit 2 yielded two proximal fragments of formal bifaces as seen in Figure
+A-6 (Specimens a and b). These specimens represent late reduction stage bifaces. They may have been
+used in a hafted capacity, but they show no evidence of grinding or dulling along the edges. They were
+exposed in a vertical context as a result of the locality’s proneness to flooding episodes. Three
+multidirectional core tools (Specimens c thru e) and one bimarginal flake tool (Specimen f) were also
+recovered from shallow deposits.
+
+35
+
+Figure A-6. Lithic artifacts recovered from Locus 1 test units.
+
+36
+
+

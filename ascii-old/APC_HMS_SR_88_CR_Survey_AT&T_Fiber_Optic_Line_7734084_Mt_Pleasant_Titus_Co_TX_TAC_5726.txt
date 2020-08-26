@@ -1,0 +1,919 @@
+ANTIQUITIES PLANNING & CONSULTING
+
+A
+Cultural Resources Survey
+of the
+AT&T Fiber Optic Line 7734084
+Titus County, Texas
+
+Prepared for
+the
+Texas Historical Commission
+AT&T
+and
+TITAN Engineering
+
+Prepared by
+Antiquities Planning & Consulting
+
+HERITAGE MANAGEMENT SERIES SURVEY REPORT 88
+Phone/Fax 512 398-2946 831 Petra’s Way Kyle, Texas 78640 APC@GRANDECOM.NET
+
+A
+Cultural Resources Survey
+of the
+AT&T Fiber Optic Line 7734084,
+Titus County, Texas
+
+By
+Molly F. Godwin, MSIS, RPA
+
+Prepared for
+the
+Texas Historical Commission
+AT&T
+and
+TITAN Engineering
+
+Prepared by
+Antiquities Planning & Consulting
+Project Number 20100502
+TITAN Project Number 213-751
+
+Antiquities Permit Number 5726
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+Abstract
+
+Antiquities Planning & Consulting (APC), Kyle, Texas, performed an intensive cultural resources
+survey of the AT&T Fiber Optic Line 7734084 right-of-way (ROW) along the east and west sides of
+FM1402 north of Mt. Pleasant in Titus County. The survey area measured 18.56 miles long by 24 feet
+wide. The Area of Potential Effect (APE) measures 9.28 miles by 24 feet wide by 3 feet deep and is
+located on the east side of the existing FM1402 ROW.
+The ROW where AT&T plans to install the fiber optic line is owned by TxDOT, making the project
+subject to the Texas Antiquities Code which requires a project review by the THC. The THC
+recommended an intensive cultural resources survey of the ROW be performed due to proximity to known
+archeological sites. TITAN Engineering, on behalf of AT&T, contracted with APC to conduct the survey.
+APC performed an intensive pedestrian survey with shovel testing in accordance with Texas Minimum
+Archeological Survey Standards under Texas Antiquities Permit Number 5726.
+The results of the survey were negative; no new or existing archeological sites or cultural
+resources were found in the APE. No artifacts were observed, collected, or curated. For this reason, APC
+concludes that no significant eligible archeological and/or historic properties will be affected by the new
+construction and no further work is needed. APC, therefore, recommends that construction proceed, as
+planned.
+
+Antiquities Planning & Consulting
+
+i
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+.
+Table of Contents
+
+Abstract ............................................................................................................................................ i
+Table of Contents............................................................................................................................ ii
+List of Figures ................................................................................................................................ iii
+List of Tables.................................................................................................................................. iii
+1.0 EXECUTIVE SUMMARY ...................................................................................................... 1
+2.0 AT&T FIBER OPTIC LINE 7734084 , TITUS COUNTY, TEXAS ................................... 2
+2.1 INTRODUCTION ................................................................................................................ 2
+2.2 PROJECT DESCRIPTION................................................................................................. 4
+2.3 PROJECT AREA ................................................................................................................. 4
+2.4 CULTURAL CONTEXT......................................................................................................... 5
+3.0 CULTURAL RESOURCES SURVEY................................................................................... 7
+3.1 INTRODUCTION ................................................................................................................ 7
+3.2 METHODS................................................................................................................................ 7
+4.0 RESULTS.................................................................................................................................. 8
+4.1 INTRODUCTION ................................................................................................................ 8
+4.2 ARCHEOLOGICAL SITES ............................................................................................... 8
+4.3 HISTORIC BUILDINGS..................................................................................................... 9
+4.4 SHOVEL TESTING............................................................................................................. 9
+4.5 TRENCH PROFILES ........................................................................................................ 11
+5.0 CONCLUSIONS..................................................................................................................... 12
+5.1 DISCUSSION...................................................................................................................... 12
+5.2 CONCLUSIONS................................................................................................................. 12
+5.3 RECOMMENDATIONS ................................................................................................... 12
+References ..................................................................................................................................... 13
+Appendix I Project Maps............................................................................................................. 14
+Appendix II Historic Building Spatial Data.............................................................................. 18
+
+Antiquities Planning & Consulting
+
+ii
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+List of Figures
+Figure 1. Regional Map Showing the Locations of the AT&T Fiber Optic Line Project 7734084. .............. 2
+Figure 3. Photograph, Facing North, Showing Open Trench. ........................................................................ 3
+Figure 4. Photograph, Facing South, Showing a Back Filled Trench. ........................................................... 3
+Figure 5. Photograph, Facing East, Showing Ineligible Structure Number 4................................................. 9
+Figure 6. Photograph, Facing East, Showing Ineligible Structure Number 5.............................................. 10
+Figure 7. Photograph, Facing Northeast, Showing Potentially Eligible Structure Number 6. ..................... 10
+Figure 8. Photograph, Facing East, Showing the East Wall Profile of an Open Fiber Optic Trench........... 11
+Figure 9. Project Map Showing Project Start, and Creek Crossing 1 and 2. ................................................ 15
+Figure 10. Project Map Showing Creek Crossing 3 and ROW Segment at Gladewater and Midway. ........ 16
+Figure 11. Project Map Showing Project End at the Intersection of FM2390 and FM1402 and Creek
+Crossing 4..................................................................................................................................................... 17
+
+List of Tables
+
+Table 1. Summary of Soil Series Found in the Proposed ROW from South to North . . . . . . . . . . . . . . . . . 4
+Table 2. Summary of Known Archeological Sites Located Adjacent to FM1402 Outside the APE . . . . . . 6
+Table 3. Summary of Cultural Resources Older than Fifty Years Old Observed Adjacent to FM1402
+East and West ROWs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Table 4. Summary of Sterile Shovel Test Results. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Table 5. Summary of Location Data for Historic Building (UTM NAD WGS 84) . . . . . . . . . . . . 18
+
+Antiquities Planning & Consulting
+
+iii
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+1.0 EXECUTIVE SUMMARY
+AT&T proposes to install a fiber optic line in an existing right-of-way (ROW) of FM1402 in
+Titus County, Texas inside an easement owned by the Texas Department of Transportation
+(TXDOT). Because the ROW is located on publicly owned land, requirements of the Texas
+Antiquities Code apply, including review of the proposed project by the Archeology Division of
+the Texas Historical Commission (THC).
+The agency review resulted in a recommendation to perform a cultural resources survey of
+the ROW, due to its proximity to multiple known archeological sites. TITAN Engineering, Inc.,
+on behalf of AT&T contracted with Antiquities Planning & Consulting (APC) to perform an
+intensive pedestrian survey of the proposed ROW in accordance with the Texas Archeological
+State Survey Standards.
+The ROW is on the east side of FM1402 inside an existing easement that contains
+underground utilities. The Area of Potential Effect (APE) extends for 9.28 miles from Nw12
+Road, north of Mount Pleasant, to FM3290 (Ne5 Road), south of White Oak Creek, near
+Wilkinson, Texas. The route passes through historic and modern communities of Hart’s Bluff,
+Oak Grove, Gladewater, and Midway, Texas.
+The results of the intensive cultural resources survey of the AT&T Fiber Optic Line 7734084
+were negative. No new archeological or historical sites were found inside APE and/or the
+FM1402 ROW. No artifacts were observed during the survey, therefore, no artifacts were
+discarded or curated. Profiles observed in open trenches do not contain cultural strata to depths of
+36 inches. Shovel testing at three creek crossing locations was also negative. Outside the APE,
+fifteen cultural resource locales were observed during the survey that will not be affected by the
+proposed activity.
+Of the thirteen properties seen, three were historic buildings outside the ROW, within 100
+feet of the APE. Of the three structures, two are mid-twentieth century and one is early twentieth
+century Victorian style. The Victorian house has the potential to be eligible for listing in the
+National Register of Historic Places (NRHP) and /or as a State Archeological Landmark (SAL).
+The three historic buildings located east of FM1402 will not be affected by the installation of
+the fiber optic line cable. The ten cultural resources observed west of the FM1402 ROW will not
+be affected by the proposed activity. Therefore, no significant archeological and historic
+properties eligible or potentially eligible will be affected. Construction should proceed, as
+planned, without additional cultural resources work or consultation.
+If unexpected cultural resources are uncovered during the remaining trenching and boring
+activity, digging should stop at the location. The THC should be notified by telephone at (512)
+463-6096. The discovery should be evaluated by archeologist in consultation with the THC
+before digging resumes.
+
+Antiquities Planning & Consulting
+
+1
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+2.0 AT&T FIBER OPTIC LINE 7734084, TITUS COUNTY, TEXAS
+2.1 INTRODUCTION
+
+AT&T proposes to install a segment of fiber optic line in an existing Farm-toMarket Road (FM) 1402 ROW easement north of Mount Pleasant, Texas (Figure 1). The
+line will be installed in the unpaved part of the ROW on the east side of the road. It will
+begin at Nw5 Road and continue north through Harts Bluff, Gladewater, and Midway, to
+terminate at FM2390 near Wilkinson, Texas in Titus County, Texas. Portions of the
+ROW have been trenched and the cable has been installed and/or is being installed
+(Figure 2). The trenching activity provided a view of subsurface soils and strata. Boring
+under roads, driveways, and creeks has not yet begun.
+
+Figure 1. Regional Map Showing the Locations of the AT&T Fiber Optic Line Project 7734084.
+
+Antiquities Planning & Consulting
+
+2
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+Figure 2. Photograph, Facing North, Showing Open Trench.
+
+Figure 3. Photograph, Facing South, Showing a Back Filled Trench.
+
+Antiquities Planning & Consulting
+
+3
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+2.2 PROJECT DESCRIPTION
+The 10 feet wide construction ROW is inside an existing 24-feet wide easement from edge of
+FM 1402 pavement to private property fence lines. The fiber optic line will be installed in a 2 feet
+wide permanent easement. The existing ROW already contains a fiber optic line, a waste water
+line, a water line, and a telephone line.
+The APE is about 9.28 miles in length by 10 feet wide by 3 feet deep. It is situated inside the
+existing unpaved TxDOT ROW on the east side of FM1402 from NW12 ca. 1 mile north of
+Mount Pleasant, Texas to FM3290 (Ne5). In addition, the west side of the ROW was also
+covered, as originally planned, to ensure that the previously known site locations were viewed.
+The part of the FM1402 ROW covered is shown on the project Storm Water Protection Pollution
+Plan dated May 2010 (see Appendix I).
+
+2.3 PROJECT AREA
+Environmental Setting
+The project area is located north of Mount Pleasant in northeast Texas (Figure 1). .It is in the
+Eastern Timbers physiographic region (Raisz 1957). It is situated in the Oak-Hickory-Pine Forest
+vegetative region of Texas (Arbingst et al. 1976). The project area is subject to long hot summers,
+while winters are short and cool. Annual precipitation is about 46 inches. Prevailing winds are
+from the south and draw in moisture from the Gulf of Mexico.
+The ROWs run roughly north to south through hilly terrain and strip mine areas. Surface
+geology is comprised of Eocene era formations (BEG 1979).Terrain is hilly and divided by
+streams and tributaries. The route crosses Hart Creek and its tributaries which drain into Cypress
+Creek Tributaries of Stinking Creek are also crossed by the route. The area’s major drainage,
+White Oak Creek, is north of the project area. Stinking Creek and White Oak Creek and are part
+of the Sulphur River drainage.
+Soils
+Three types of general soil areas are present along the proposed ROW (Roberts 1984).
+The Hart Creek Drainage is lined in Nahatche-luka loamy soils. Woodtell-Freestone loamy soils
+cover uplands adjacent to the creeks. At the highest elevations, Wolfpen-Pickton sandy soils are
+present. Inside the proposed ROW are clay loams, sandy loams, and sand (Table 1).
+Table 1. Summary of Soil Series Found in the Proposed ROW from South to North.
+Soil Series
+Setting
+Slope
+Nahatche Loam-Silty Clay Loam
+Flood Plain
+Frequently Flooded
+Woodtell Fine Sandy Loam
+Ridgetops
+2 to 5 Percent
+Sideslopes
+Woodtell Fine Sandy Loam
+Sideslopes
+5 to 20 Percent
+Bernaldo Fine Sandy Loam
+Inter Stream Divide
+1 to 3 Percent
+Woodtell-Raino Complex
+Moundy Uplands
+1 to 3 Percent
+Freestone Fine Sandy Loam
+Sloping Stream Divides
+1 to 3 Percent
+Wolfpen Fine Sandy Loam
+Ridges
+Inter Stream Divides
+2 to 5 Percent
+Pickton Fine Sand
+Ridges
+2 to 6 Percent
+Inter Stream Divide
+Duffen Fine Sandy Loam
+Drainage Way Slopes
+8 to 15 Percent
+Kirvin Fine Sandy Loam
+Ridgetops
+3 to 8 Percent
+Derly Raino Complex
+Stream Terraces
+0 to 1 Percent
+
+Antiquities Planning & Consulting
+
+4
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+Roberts (1984) provides detailed soil data for the project area and it is summarized here
+starting at the south end of the project area and moving north. Nahatche Loam-Silty Clay Loam
+is only found along Hart Creek and is made up of silty clay loam (0-6 inches below the surface
+[bs]s), silt loam (7-44 inches bs), clay loam (45-68 inches bs), over loam (69-80 inches bs).
+Woodtell Fine Sandy Loam, 2 to 5 percent slope, is present on Hart Creek stream terraces. Sandy
+loam (0-5 inches bs), clay (6-48 inches bs), over clay with shale (49-80 inches bs) is the usual
+profile. Steeper slopes are covered in Woodtell Fine Sandy Loam, 5 to 20 percent slope which has
+a similar profile: fine sandy loam (0-6 inches bs) on clay (7-38 inches bs).
+Pickton Fine Sand covers the surface in the uplands around the old Oak Grove Church. A
+common soil profile is fine sand (0-48 inches bs) over sandy clay loam (49-80 inches bs).
+Wolfpen Loamy Fine Sand is also common in the area. It is made up of loamy fine sand (0-25
+inches bs) sitting on sandy clay loam (26-56 inches bs). In the vicinity of Gladewater, Duffen
+Fine Sandy Loam soil series is present. A typical soil profile consists of fine sand (0-84 inches
+bs). Kirvin Fine Sandy Loam is also present around Gladewater and is made up of very fine sandy
+loam (0-14 inches bs), clay (15-42 inches bs), over shale lenses (43-72 inches bs).
+Woodtell-Raino Complex soils are found in the north and south end of the project area
+close to streams. These soils have a profile made up of loam (0-12 inches bs), clay (13-49 inches
+bs), on top of shaly clay (50-60 inches bs). Bernaldo Fine Sandy Loam is present in the uplands
+throughout the project area. A typical profile is fine sandy loam (0-17 inches bs) over sandy clay
+loam (18-80 inches bs). Freestone Fine Sandy Loam is also found in numerous upland locations.
+A profile consists of fine sandy loam (0-5 inches bs), loam (6-11 inches bs), clay loam (12-27
+inches bs), clay (28-73 inches bs), over shale (83+ inches bs). Derly-Raino Complex is found in
+the northern part of the project area near Midway. The soils form natural mounds are poorly
+drained, and a profile is made up of silt loam (0-14 inches bs), silty clay loam (15-26 inches bs),
+over clay (27-83 inches bs).
+2.4 CULTURAL CONTEXT
+Chronology
+Archeological investigations have resulted in the construction of a temporal framework
+or chronology for the region (Schumbach 1993; Johnson 1962; Thurmond 1990; Perttula 1992;
+and Story, 1990). The framework is made up of the following prehistoric time periods and dates:
+PaleoIndian (11,000-10,000 BP), Late PaleoIndian (10,000-9000 BP), Early PaleoIndian (9000­
+6000 BP); Archaic (6000-2200 BP); Transitional times between the prehistoric and historic are
+the Early Ceramic (2200 BP-A.D. 800), Formative (AD 800-1000), Early Caddoan (AD 1000­
+1200), and Middle Caddoan (AD 1200-1400), and the Late Caddoan (AD 1400 to 1680). The
+historic time period in the region is from AD 1680 to 1960.
+Previous Cultural Resources Surveys
+Previous investigations in the vicinity of the proposed ROW were conducted at the
+TUMCO Monticello B-2 coal mine (PBSJ 1989; 1991). Large numbers of cultural resources were
+recorded during surveys of the mine prospect areas, including Caddoan villages, short-term and
+long-term prehistoric camp sites, historic nineteenth and twentieth century house sites and
+standing historic buildings. (Glander and Bond 1986, 1989; Hoyt et al. 1994; Jones 1993).
+Investigations of sites in the mine area were conducted to determine eligibility status and develop
+and test predictive models to determine significant site locations (Skokan 1993; Kotter et al.
+1993; and Nash et al 1995).
+
+Antiquities Planning & Consulting
+
+5
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+Previous Archeological Sites
+Seven known archeological sites (41TT94, 41TT484, 41TT511, 41TT518, 41TT519,
+41TT520, and 41TT521) were recorded related to mine activity are near the west side of the
+FM1402 easement (Table 2). They fall 90-670 feet outside the ROW of FM1402. The existing
+sites are more than 120 feet outside the fiber optic line APE and will not be affected by the new
+construction.
+Table 2. Summary of Known Archeological Sites Located
+APE.
+Site
+Temporal
+Number
+Description
+Affiliation
+41TT94
+Prehistoric Site
+Archaic to
+Village Site
+Early Ceramic
+41TT484
+20th Century House Site
+1920s-1940s
+41TT511
+19th Century House Site
+1896-1910
+th
+41TT518
+20 Century House
+1910-1936
+41TT519
+Oak Grove Church
+1910-1936
+41TT520
+Clapboard House
+1936+
+41TT521
+Clapboard House A
+1910-1936
+41TT521
+Clapboard House B
+1910-1936
+
+Antiquities Planning & Consulting
+
+Adjacent to FM1402 Outside the
+ROW
+Location
+West
+
+Distance
+from ROW
+160 ft
+
+West
+West
+West
+West
+West
+West
+West
+
+140 ft
+630 ft
+130 ft
+50 ft
+65 ft
+60 ft
+80 ft
+
+6
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+3.0 CULTURAL RESOURCES SURVEY
+3.1 INTRODUCTION
+The objectives of the intensive cultural resources survey are twofold. The first is to locate any
+known cultural resources present in the APE or the locations proposed for new construction. The second is
+to identify any significant historic properties present that could be affected by the proposed activity. These
+include, but are not restricted to, historic buildings built before 1959, cemeteries, and archeological sites.
+The cultural resources survey was performed in accordance with, and at the rates specified in the Texas
+Archeological Minimum Survey Standards, with modifications.
+The intensive pedestrian survey covered the 9.28 mile long fiber optic line right-of-way (ROW)
+on both the east and the west side of the road for a total of 18.56 miles. The fiber optic line APE is about
+10 feet wide and is inside an existing TxDOT FM1402 ROW on the east side. The ROW from the edge to
+the edge of the pavement measures 24 feet wide and contains buried utilities. Pedestrian inspection of 24
+foot wide-easements on both sides of the road was carried out. Visual inspection of adjacent private
+property 20-125 feet beyond the edge of the ROW was also performed from the ROW. Seven locations
+adjacent to and/or within 250 feet of existing archeological sites were visited and any extant structures
+were observed.
+3.2 METHODS
+Upon arrival in the field, it was found that trenching had already occurred in certain segments of
+the proposed route. Another modification encountered in the field, was the location of the fiber optic line
+installation. It was not on the west side as originally thought, but is located on the east side of the FM402
+ROW. For this reason, the survey area was expanded. The ROWs on both sides of FM1402 have been
+previously disturbed by the installation of fiber optic lines, water lines, telephone lines, and waste water
+lines.
+Due to conditions encountered, the minimum State Archeological Minimum Survey Standards
+were modified. Two parallel transects were walked along both sides of the existing FM ROW by
+technicians at 2-5 meter intervals apart. Technicians covered the APE and the FM1402 ROW. The rate of
+survey was about 3 miles per person per day. Shovel testing was not performed while walking transects,
+because surface visibility was more than 40 percent, trenches were open, and back dirt was available to
+examine for artifacts. No artifacts or chert rock were observed in the FM ROWs and/or APE on the
+ground surface.
+No shovel testing was conducted at Hart Creek because the area has been previously inspected for
+archeological sites and shovel tested with negative results. Shovel testing was implemented at the
+remaining three creek locations with less than 40 percent surface visibility and where locations with deep
+soils with the potential to contain buried archeological deposits might be present. Three creek crossings
+were intensively surveyed by narrowing transects within 100 meters of each stream examined during the
+survey. Controlled shovel tests were dug at arbitrary 20 cm levels and all soils were dry-screened through
+¼ inch hardware cloth. No artifacts were recovered or collected.
+Standing historic structures older than 50 years adjacent to the east side of the FM1402 ROW were
+identified. Historic structures within 125 feet of the proposed ROW were photo-documented, as needed.
+GPS data were also collected at each location. Existing sites and historic structures on the west side of the
+road were not documented, because they are located outside the APE and the FM 1402 ROW.
+Antiquities Planning & Consulting
+
+7
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+4.0 RESULTS
+4.1 INTRODUCTION
+The results of the cultural resources survey of the AT&T Fiber Optic Line 7734084 were negative.
+No new archeological or historical sites were found inside the APE and/or the FM1402 ROW. Profiles
+observed in open trenches do not contain cultural strata. Shovel testing at three of the four creek crossing
+locations were also negative. Outside the APE, however; thirteen cultural resource locales were observed
+during the survey (Table 3). Seven previously recorded archeological site locations were viewed that are
+on the west side of FM1402 to determine if the sites extended into the ROW and/or APE. Also observed
+on the west side of FM1402 were an historic barn and two early to mid-twentieth century houses. Lastly,
+three historic structures were observed on the east side of FM1402 outside the ROW and the fiber optic
+line APE. None of the standing structures will be directly and/or indirectly impacted by the installation of
+the fiber optic line.
+4.2 ARCHEOLOGICAL SITES
+The seven previously recorded archeological sites are located in the vicinity of the west side of the
+FM1402 ROW. They consist of a prehistoric site (41TT94), historic house sites (41TT484, 41TT508,
+41TT518) and historic structures (41TT519, 41TT520, and 41TT521). All of the seven known sites are
+located on the west side of FM1402 more than 50 feet outside the FM 1402 ROW and more than 110 feet
+from the AT&T fiber optic line APE. None of the locations will be affected by the proposed construction
+and, therefore, no additional investigation is needed before construction commences. No existing sites are
+present on the east side of FM1402, because it is outside the mine and has not been inspected by
+archeologists.
+
+Table 3. Summary of Cultural Resources Older than Fifty Years Old Observed Adjacent to FM1402
+East and West ROWs.
+Temporal
+ROW
+Distance
+Distance
+Number
+Description
+Affiliation
+Location
+from ROW
+from APE
+41TT94
+Prehistoric Site
+Archaic to
+West
+160 ft
+232 ft
+Early Ceramic
+41TT484
+House Site
+1920s
+West
+140 ft
+212 ft
+41TT511
+House Site
+1896-1910
+West
+630 ft
+702 ft
+41TT518
+Craftsman House
+1910-1936
+West
+130 ft
+202 ft
+No longer standing, new home has taken its place.
+41TT519
+Oak Grove Church
+1910-1936
+West
+50 ft
+122 ft.
+41TT520
+Clapboard House
+1936+
+West
+65 ft
+137 ft
+41TT521
+Clapboard House A
+1910-1936
+West
+60 ft
+132 ft
+41TT521
+Clapboard House B
+1910-1936
+West
+80 ft
+152 ft.
+Structure 1
+Clapboard House
+1940-1960
+West
+140 ft.
+212 ft.
+Structure 2
+Clapboard House
+1940-1960
+West
+50 ft.
+122 ft.
+Structure 3
+Historic Barn
+1890-1960
+West
+225 ft
+297 ft
+Structure 4
+Frame Bungalow
+1930-1950
+East
+100 ft.
+110 ft.
+Structure 5
+Frame Cottage
+1930-1950
+East
+70 ft
+80 ft.
+Structure 6
+Victorian House
+1890-1920
+East
+75 ft.
+85 ft.
+
+Antiquities Planning & Consulting
+
+8
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+4.3 HISTORIC BUILDINGS
+Three historic buildings were encountered on the east side of FM1402 adjacent to the ROW where
+construction is under way (Structures 4-6). Structure 4 is a frame bungalow style home built between the
+1930s-1950s. Structure 5 is a 1940s-1960s clapboard cottage with asphalt shingle siding. Structure 4
+(Figure 4) and Structure 5 (Figure 5) are not architecturally significant and are ineligible for listing in the
+NRHP and/or as SAL.
+Structure 6 is an early twentieth century (1910-1930s) Victorian-style house (Figure 6). It may be
+architecturally significant, if it has not been altered. The house may be potentially eligible for inclusion in
+the NRHP under Criterion C and/or as a SAL under Criterion (1) for historic structures. The building is
+located 85 feet east APE and will not be directly and/or indirectly affected by installation of the below-the­
+ground fiber optic line. Appendix II contains spatial data for historic building locations (Table 5).
+4.4 SHOVEL TESTING
+Shovel testing was implemented at Creek Crossing 2, 3, and 4. Six shovel tests total were dug by
+hand and soils were dry-screened to determine artifact content. One shovel test was placed in the ROW on
+the north and south side of creek crossings to depths of 40-50 cm below the surface (bs). The results were
+negative, no artifacts were found. Creek Crossing 1 at Hart Creek was not shovel tested because it has
+been previously cleared by archeologists and the THC.
+
+Figure 4. Photograph, Facing East, Showing Ineligible Structure Number 4.
+
+Antiquities Planning & Consulting
+
+9
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+Figure 5. Photograph, Facing East, Showing Ineligible Structure Number 5.
+
+Figure 6. Photograph, Facing Northeast, Showing Potentially Eligible Structure Number 6.
+
+Antiquities Planning & Consulting
+
+10
+
+Cultural Resources Survey
+AT&T Fiber Optic Line 7734084
+Table 4. Summary of Sterile Shovel Test Results.
+Crossing
+ST
+Soils
+Munsell
+Depth
+Location
+No.
+Description
+Color
+cm bs
+Tributary of Hart Crk
+1
+Fine Brown Sand
+10YR6/4
+0-30
+North Side Crossing 2
+Yellow Clay
+10YR5/6
+30-40
+Tributary of Hart Crk.
+2
+Fine Brown Sand
+10YR6/4
+0-30
+South Side Crossing 2
+Yellow Clay
+10YR5/6
+30-40
+Tributary of Stinking Crk.
+1
+Fine Brown Sand
+10YR6/4
+0-40
+North Side Crossing 3
+Yellow Clay
+10YR5/6
+40-50
+Tributary of Stinking Crk.
+2
+Fine Brown Sand
+10YR6/4
+0-30
+South Side Crossing 3
+Yellow Clay
+10YR5/6
+30-40
+Tributary of Stinking Crk.
+1
+Fine Brown Sand
+10YR6/4
+0-40
+North Side Crossing 4
+Yellow Clay
+10YR5/6
+40-50
+Tributary of Stinking Crk.
+2
+Fine Light Brown Sand
+10YR7/5
+0-30
+South Side Crossing 4
+Yellowish Brown Clay
+10YR5/6
+30-40
+Crk.= Creek; cm bs = centimeters below surface
+4.5 TRENCH PROFILES
+Segments of trenches were open showing subsurface soils, while others were closed and recently
+backfilled. Soil profiles exposed in trench walls were described and photo-documented at nine locations
+along the ROW. All trenches exposed a uniform profile of shallow sand over clay. Light brown to brown
+to yellowish brown fine sand to a depth of 30 cm – 1 m deep over yellow to yellowish-brown clays to 1.2
+meters deep (Figure 7). No artifacts or cultural zones were present. Back dirt and back fill were examined
+for artifacts. Profiles were similar at all locations. The potential for deeply buried cultural deposits in the
+lower clay strata is very low.
+
+Figure 7. Photograph, Facing East, Showing the East Wall Profile of an Open Fiber Optic Trench.
+
+Antiquities Planning & Consulting
+
+11
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+5.0 CONCLUSIONS AND RECOMMENDATIONS
+5.1DISCUSSION
+The cultural resources survey of the AT&T Fiber Optic Line Survey contributed limited new data
+about the cultural history of the Hart and Stinking Creek drainages, inter-stream terraces, and divides.
+Findings showed that installation of the fiber optic line will not affect any significant archeological and/or
+historic properties. Prehistoric activity was outside the upland areas studied, closer to major streams such
+as Hart’s Branch and White Oak Creek. The seven previously known sites viewed on the west side of
+FM1402 fall well outside the APE and will not be impacted.
+5.2CONCLUSIONS
+The east and west ROWs of FM1402 do not contain cultural resources and do not posses the
+potential to contain buried deposits, as evidenced in open trenches. APC, therefore concludes that no
+significant archeological and/or historical sites eligible for listing in the NRHP and/or as a SAL will be
+affected by the proposed new construction. Based on negative findings, no additional cultural resources
+work is needed before construction begins.
+5.3RECOMMENDATIONS
+Construction of the AT&T Fiber Optic Line 7734084 Project should proceed, as planned, without
+additional cultural resources investigation. In closing, if during construction, unanticipated archeological
+deposits are discovered by machinery, digging should stop at the location. The Archeology Division of the
+THC should be notified by telephone at (512) 463-6096. The finds should be evaluated by an archeologist
+in consultation with the THC, before digging resumes.
+
+Antiquities Planning & Consulting
+
+12
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+References
+
+Arbingst, S. A. and others
+1976 Atlas of Texas. Bureau of Economic Research. University of Texas at Austin.
+Bureau of Economic Geology
+1979
+Surface Geology of Texas. Bureau of Economic Geology. University of Texas at Austin.
+Glander, W. and C. Bond
+1989
+Cultural Resource Investigations of the Monticello-Winfield Coal Surface Mine, Titus and
+Franklin Counties, Texas. Espey, Huston Associates. Austin.
+1986
+Cultural Resource Investigations of the Monticello-Winfield Coal Surface Mine, Titus and Franklin
+Counties, Texas. Document # 85417. Espey, Huston Associates. Austin.
+Hoyt, S.D. R.Rogers, E. Skokan
+1994
+Cultural Resources Survey of the Proposed Monticello I Area Surface Mine. Job # 13299. Espey,
+Huston Associates. Austin.
+Jones, L. K., D. Moore, D. Brown, C. Fredrick, W.P. Glander, and R. Rogers
+1993
+Cultural Resources Survey of the Proposed Monticello B-2 Surface Mine, Titus County, Texas
+Volumes I and II. Espey, Huston Associates. Austin.
+Johnson L. J.
+1962
+The Yarborough and Miller Sites of Northeastern Texas, with a Preliminary Definition of the
+LaHarpe Aspect. Bulletin of the Texas Archeological Society 32:141-284.
+Kotter, S. M., R. Rogers, R. Taylor, K.Reese-Taylor, W. Glander
+1993
+Archeological Investigation within the Monticello B-2 First Five Year Disturbance Area, Titus,
+County. Job #13345. Espey, Huston Associates. Austin.
+Nash, M A., S M. Kotter, K.V. Reese-Taylor
+1995
+National Register Testing of Ten Sites in the Monticello B-2 Surface Mine, Titus County.
+Espey, Huston Associates. Austin.
+Pertulla , T.
+1992
+“The Caddoan Nation”: Archeological and Ethnohistorical Perspectives. University of Texas
+Press. Austin.
+1995
+The Archeology of the Pineywoods and Post Oak Savannah of Northeast Texas. In Bulletin 66.
+Texas Archeological Society. Austin.
+Raisz, E.
+1957
+Modified Land Forms of the United States. Bureau of Economic Geology. University of Texas at
+Austin.
+Roberts, K.
+1984
+Soil Survey of Camp, Franklin, and Titus Counties, Texas. United States Department of
+Agriculture. Soil Conservation Service. Texas Agricultural Experimental Station Texas A& M.
+College Station.
+Schumbach F. F.
+1993 A Summary of the History of the Caddo People. Notes on Northeast Texas Archeology.
+Skokan, E. A., G. Sundborg, and M. A. Nash
+1993
+Monticello B-2 Archaeological Investigations of an Incidental Boundary Revision, Titus County,
+Texas. Espey, Huston, Associates. Austin.
+Story, D.A.
+1990
+Cultural History of the Native Americans. In The Archeology and Bioarcheology of the
+Gulf Coastal Plain, by D.A. Story, J.A. Guy, B. A. Burnett, M.D. Freeman, J.C. Rose, D. G.
+Steele, B. W. Olive, and K.J. Reinhard, pp. 163-366.2 Vols. Research Series No. 38. Arkansas
+Archeological Survey, Fayettville.
+Thurmond J.P.
+1990 Archeology of the Cypress Creek drainage Basin, Northeastern Texas and Northwestern Louisiana.
+Studies in Archeology. No. 5. Texas Archeological Research Laboratory. University of Texas at
+Austin.
+
+Antiquities Planning & Consulting
+
+13
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+Appendix I Project Maps
+
+Antiquities Planning & Consulting
+
+14
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+Figure 8. Project Map Showing Project Start, and Creek Crossing 1 and 2.
+
+Antiquities Planning & Consulting
+
+15
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+Figure 9. Project Map Showing Creek Crossing 3 and ROW Segment at Gladewater and Midway.
+
+Antiquities Planning & Consulting
+
+16
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+Figure 10. Project Map Showing Project End at the Intersection of FM2390 and FM1402 and Creek Crossing
+4.
+
+Antiquities Planning & Consulting
+
+17
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+Appendix II Historic Building Spatial Data
+
+Antiquities Planning & Consulting
+
+18
+
+Cultural Resources Survey
+
+AT&T Fiber Optic Line 7734084
+
+Table 5. Summary of Location Data for Historic Building (UTM NAD WGS 84).
+Estimated
+Construction
+Eligibility
+No.
+Description Date
+Easting
+Northing
+Status
+4
+5
+6
+
+Bungalow
+Cottage
+Victorian
+
+1930-1940
+1950-1960
+1900-1930
+
+Antiquities Planning & Consulting
+
+3311743
+3311753
+3312593
+
+09457544
+09457540
+09487176
+
+Ineligible
+Ineligible
+Has Potential
+
+19
+
+

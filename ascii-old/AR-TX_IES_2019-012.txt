@@ -1,0 +1,3431 @@
+CULTURAL RESOURCES REPORT
+
+Cultural Resources Survey of the DFW 121 Mustang Business Park Project,
+Dallas Fort Worth International Airport, Tarrant County, Texas
+
+Prepared for:
+Texas Historical Commission
+Texas Antiquities Permit #8681
+
+On Behalf of:
+Dallas Fort Worth International Airport
+
+April 2019
+
+This page intentionally left blank
+
+Cultural Resources Survey of the
+DFW 121 Mustang Business Park Project,
+Dallas Fort Worth International Airport,
+Tarrant County, Texas
+by
+Thomas Chapman, MA, RPA
+Project Archeologist
+Anne Gibson, MA, RPA
+Project Archeologist
+Christopher Goodmaster, MA, RPA
+Principal Investigator
+&
+Kevin Stone, MA, RPA
+Vice President – Cultural Resources Director
+
+Submitted to:
+
+Texas Historical Commission
+1511 Colorado Street
+Austin, Texas 78701
+
+Prepared by:
+
+Integrated Environmental Solutions, LLC
+610 Elm Street, Suite #300
+McKinney, Texas 75069
+
+Cultural Resources Report
+April 2019
+
+This page intentionally left blank
+
+ABSTRACT
+This report documents the substantive findings and management recommendations of a
+cultural resources survey conducted by Integrated Environmental Solutions, LLC (IES)
+for the DFW 121 Mustang Business Park project located within the Dallas Fort Worth
+International Airport (DFW) property in Tarrant County, Texas. The proposed project
+pertains to the development of approximately 244 acres and is located along Mustang
+Drive, west of State Highway (SH) 114 and SH 121. Approval from the Federal Aviation
+Administration (FAA) will be required to modify the Airport Layout Plan (ALP) to
+reflect the permanent alterations on the DFW property. Since the ALP is considered a
+federal action, the project will require compliance with the National Environmental
+Policy Act and Section 106 of the National Historic Preservation Act. Additionally, as
+the DFW is a political subdivision of the State of Texas, the project will be subjected to
+the provisions of the Antiquities Code of Texas (ACT).
+The goal of the survey was to locate, identify, and assess any cultural resources that could
+be adversely affected by the proposed development, and to evaluate such resources for
+their potential eligibility for listing as a State Antiquities Landmark (SAL) and eligibility
+for listing in the National Register of Historic Places (NRHP).
+The cultural resources inventory survey was conducted on 09, 10, and 14 January 2019.
+All work conformed to 13 Texas Administrative Code 26, which outlines the regulations
+for implementing the ACT, and was conducted under Antiquities Permit No. 8681.
+During the survey, one newly recorded historic-age archeological site (41TR316) was
+documented within the APE. Based on the lack of association with historically important
+individuals or events, absence of significant architectural features, the degree of prior
+disturbance, and lack of contextual integrity, site 41TR316 is recommended as not
+eligible for listing in the NRHP or designation as a SAL.
+No artifacts were collected during this survey. All records will be permanently curated at
+the Center for Archeological Research at The University of Texas at San Antonio. No
+additional cultural resources evaluation or mitigation is recommended. However, if any
+cultural resources other than those discussed in this report are encountered during
+construction, the operators should stop construction activities in the vicinity of the
+inadvertent discovery, and immediately contact the project cultural resources
+representative to initiate coordination with the Texas Historical Commission prior to
+resuming construction activities.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+Page i
+
+This page intentionally left blank
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+Page ii
+
+TABLE OF CONTENTS
+ABSTRACT................................................................................................................................................... i
+CHAPTER 1: PROJECT DESCRIPTION ................................................................................................... 5
+1.1 Introduction ......................................................................................................................................... 5
+1.2 Area of Potential Effects ..................................................................................................................... 5
+Direct APE ................................................................................................................................... 5
+Indirect APE................................................................................................................................. 8
+1.3 Administrative Information ................................................................................................................ 8
+CHAPTER 2: ENVIRONMENTAL BACKGROUND................................................................................ 9
+2.1 Environmental Setting ........................................................................................................................ 9
+Climate ......................................................................................................................................... 9
+Topographic Setting ..................................................................................................................... 9
+Vegetation and Geology............................................................................................................... 9
+Soils............................................................................................................................................ 10
+CHAPTER 3: CULTURAL BACKGROUND ........................................................................................... 13
+3.1 Previous Investigations ..................................................................................................................... 13
+3.2 Cultural Resources Potential ............................................................................................................. 15
+Direct APE ................................................................................................................................. 15
+Indirect APE Resource Potential................................................................................................ 16
+CHAPTER 4: METHODOLOGY .............................................................................................................. 17
+4.1 Survey Methods ................................................................................................................................ 17
+Pedestrian Survey....................................................................................................................... 17
+Intensive Survey......................................................................................................................... 17
+Archival Research ...................................................................................................................... 17
+Site Recording ............................................................................................................................ 18
+4.2 Site Evaluation .................................................................................................................................. 18
+National Register Evaluation Criteria ........................................................................................ 18
+State Antiquities Landmark Evaluation Criteria ........................................................................ 19
+4.3 Curation............................................................................................................................................. 20
+CHAPTER 5: RESULTS ............................................................................................................................ 21
+5.1 Archeological Survey........................................................................................................................ 21
+5.2 Encountered Resources ..................................................................................................................... 21
+Site 41TR316 ............................................................................................................................. 21
+CHAPTER 6: SUMMARY AND RECOMMENDATIONS ..................................................................... 35
+CHAPTER 7: REFERENCES CITED ....................................................................................................... 37
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+Page iii
+
+LIST OF FIGURES
+Figure 1.1: General Location Map ................................................................................................................ 6
+Figure 1.2: Topographic Setting ................................................................................................................... 7
+Figure 2.1: Geological Setting ................................................................................................................... 11
+Figure 2.2: Soils Located within and Adjacent to the APE ....................................................................... 12
+Figure 3.1: Previous Investigations within 1 Mile of the APE .................................................................. 14
+Figure 5.1: Shovel Test Location Map........................................................................................................ 22
+Figure 5.2: Site 41TR316 Plan Map ........................................................................................................... 23
+Figure 5.3: 1942 Aerial Photograph of Site 41TR316 ................................................................................ 25
+Figure 5.4: 1968 Aerial Photograph of Site 41TR316 ................................................................................ 26
+
+LIST OF TABLES
+Table 2.1: Soils within the APE ................................................................................................................. 10
+Table 3.1: Previously Conducted Archeological Surveys within 1 Mi of the APE .................................... 13
+Table 3.2: Previously Recorded Archeological Sites within 1 Mi of the APE ........................................... 15
+Table 5.1: Historic Artifacts from Shovel Tests at Site 41TR316 .............................................................. 24
+Table 5.2: Historic Features at Site 41TR316 ............................................................................................. 27
+Table 6.1: Summary of NRHP/SAL Eligibility Recommendations ........................................................... 35
+
+APPENDICES
+Appendix A – Photograph Location Map and Photographs (Restricted Information)
+Appendix B – Archeological Site Location Map (Restricted Information)
+Appendix C – Chain-of-Title Records
+Appendix D – Archeological Site Location Map (Restricted Information)
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+Page iv
+
+CHAPTER 1: PROJECT DESCRIPTION
+This report presents the results of a cultural resources survey conducted by Integrated Environmental
+Solutions, LLC (IES), under subcontract to the Dallas Fort Worth International Airport (DFW). A
+description of the proposed project area or Area of Potential Effects (APE), environmental and historical
+contexts, field and analytical methods, results of the investigations, and recommendations regarding the
+identified cultural resources are provided in this document. Prepared in accordance with the Council of
+Texas Archeologists (CTA 2002) guidelines, this report satisfies the requirements of Section 106 of
+National Historic Preservation Act (NHPA) and the Antiquities Code of Texas (ACT) for the proposed
+project.
+
+1.1 Introduction
+As the project cultural resources consultant for the DFW, IES performed an intensive cultural resources
+survey for the 121 Mustang Business Park Project. The proposed project pertains to the development of
+multiple tracts of land within the DFW property in Tarrant County, Texas (Figures 1.1 and 1.2).
+Approval will be required from the Federal Aviation Administration (FAA) to modify the Airport Layout
+Plan (ALP) that will reflect the permanent alterations to the DFW property. Since this is considered a
+federal action, the project will consequently require compliance with the National Environmental Policy
+Act (NEPA) and Section 106 of the NHPA. In addition, as the DFW is a political subdivision of the State
+of Texas, the project will be subjected to the provisions of the ACT.
+This report documents the cultural resources survey conducted in support of the proposed project. The
+purpose of these investigations was to conduct an inventory of cultural resources (as defined by Code of
+Federal Regulations, Title 36, Section 800.4 [36 CFR 800.4]) present within the proposed project area and
+to evaluate identified resources for their eligibility for inclusion in the National Register of Historic
+Places (NRHP), as per Section 106 (36 CFR 800) of the NHPA of 1966, as amended, or for designation
+as State Antiquities Landmarks (SAL) under the ACT (Texas Natural Resources Code, Title 9, Chapter
+191 [9 TNRC 191]) and associated state regulations (Texas Administrative Code, Title 13, Chapter 26 [13
+TAC 26]). All investigations were conducted in accordance with 36 CFR 60.4 and 13 TAC 26, which
+outline the regulations for implementing Section 106 of the NHPA and the ACT, respectively. This
+survey was conducted under Antiquities Permit No. 8681.
+
+1.2 Area of Potential Effects
+Direct APE
+The direct APE for the project encompasses approximately 244 acres (ac) located along Mustang Drive,
+west of State Highway (SH) 114 and SH 121 (see Figure 1.1). Although exact project designs for the
+APE were not available at the time of this study, preliminary plans call for the construction of an
+industrial and mixed-use commercial building development. Ground disturbances associated with this
+development will include tree removal, general land clearing, grading, erosion control, building
+construction, and utility and transportation development. While subsurface impacts will occur as a result
+of these activities, the depth of the impacts are unknown at this time. However, field investigations will
+assess to the depth of soils capable of containing archeological deposits.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Figure 1.1: General Location Map
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Figure 1.2: Topographic Setting
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Indirect APE
+As the project will require approval from the FAA, an assessment of indirect effects is required to comply
+with the NHPA. The sole potential indirect effect of the undertaking is related to visual effects associated
+with the construction of multiple multi-story buildings and structures on historic-age (i.e., 50 years old or
+greater) architectural resources. To account for potential visual impacts associated with these aboveground project elements, a 300-foot (ft) indirect APE was considered surrounding the direct APE.
+
+1.3 Administrative Information
+
+Sponsor: DFW
+Review Agency: Texas Historical Commission (THC)
+Principal Investigator: Christopher Goodmaster, MA, RPA
+IES Project Number: 03.006.067
+Days of Field Work: 09, 10, and 14 January 2019
+Area Surveyed: 244 ac (98.8 hectares [ha])
+Resources Recommended Eligible for NRHP Under 36 CFR 60.4: None
+Resources Recommended Not Eligible for NRHP Under 36 CFR 60.4: 41TR316
+Resources Recommended Eligible for SAL Under 13 TAC 26: None
+Resources Recommended Not Eligible for SAL Under 13 TAC 26: 41TR316
+Curation Facility: No artifacts were collected. Field notes and project records will be temporarily stored
+at the IES office in McKinney and permanently curated at the Center for Archeological Research (CAR)
+at The University of Texas at San Antonio (UTSA).
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+CHAPTER 2: ENVIRONMENTAL BACKGROUND
+2.1 Environmental Setting
+Climate
+Tarrant County is located in the north central portion of the State of Texas. This region has a humid
+subtropical climate and an average annual precipitation ranging from approximately 35 to 40 inches (in;
+89 to 102 centimeters [cm]). About half of the precipitation usually falls as rain between April and May,
+with July and August being the two driest months of the year. The subtropical region tends to have a
+relatively mild year-round temperature with the occasional exceedingly hot and cold snaps (Estaville and
+Earl 2008).
+Topographic Setting
+Overall, the majority of the DFW is located within a gently rolling upland setting that is irregularly
+dissected by the headwaters of unnamed tributaries of surrounding streams. The transition of the gently
+sloping upland ridges to the low-lying Big Bear Creek valley floor correlates to a transition from the more
+stable, clay-rich Blackland Prairie soils to the more erosive, sandy soils of the Cross Timbers ecological
+region. The APE is located on a dissected upland escarpment slightly sloping to the southwest. An
+unnamed tributary of Big Bear Creek dissects the northwestern corner of the APE and flows south
+approximately 1.48 miles (mi) to the confluence of the two streams (see Figure 1.2). Elevations within
+the APE range from 610 to 680 ft above modern sea level (amsl).
+Vegetation and Geology
+The DFW property is located within an environmental interface, known as an ecotone, between the
+Northern Blackland Prairie and Eastern Cross Timbers ecoregions (McGowen et al. 1987). Variation
+among each ecoregion is a direct result of the underlying regional geology (Diggs et al. 1999). The
+natural divide between these two ecoregions is east of Big Bear Creek, which extends from the northwest
+to the southeast through the western portion of the DFW property.
+The Northern Blackland Prairie is distinguished from surrounding regions by gently rolling hills and finetextured, black, clay-rich soils that primarily support prairie vegetation (Griffith et al. 2007). Vertisols
+dominate the Blackland Prairie ecoregion and consist of high clay content soils with significant shrink
+and swell potential (Ressel 1981). Historical vegetation included little bluestem, big bluestem, yellow
+Indiangrass, and tall dropseed. Most of the native prairie has been converted to cropland, non-native
+pasture, and expanding urban uses around Dallas, Waco, Austin, and San Antonio.
+The Eastern Cross Timbers region was historically characterized by a narrow strip of timbered, low hills
+that are orientated along a north-to-south axis from Tishomingo, Oklahoma to Waco, Texas (Ferring
+1994; McGowan et al. 1987). This region contains numerous hills that were once heavily wooded with
+oak, walnut, and hickory trees supported by deep sandy soils (Hill 1901). Early pioneers referred to the
+region as the Monte Grande (Grand Forest) and later the Lower Timbers. However, due to urban
+expansion, agricultural development, and other modern activities, the natural vegetation has become
+highly fragmented, and only a few large tracts of undisturbed woodlands remain today (Texas Parks and
+Wildlife Department [TPWD] 2019).
+The APE is underlain by the Cretaceous-age Woodbine (Kwb) and Eagle Ford (Kef) geological
+formations (Figure 2.1). The Woodbine Formation is primarily sandstone and contains a small
+percentage of siltstone, mudstone, and clay (McGowen et al. 1987, U.S. Geological Survey [USGS]
+2019). Weathering of the Woodbine Formation has resulted in the formation of soils with a sandy
+epipedon within the Cross Timbers ecoregion. The Eagle Ford Formation (Kef) is comprised of shale,
+sandstone, and limestone dating to the Cretaceous (McGowen et al. 1987; Scoggins 2004) and
+weathering of the formation results in the dark, clay-rich soils of the Blackland Prairie.
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Soils
+There are 12 soil map units within the APE (Figure 2.2; Table 2.1; Ressel 1981). The APE contains
+soils typical of in situ soil development in upland settings within the Eastern Cross Timbers and Northern
+Blackland Prairie regions. The majority (90.8 percent) of the soils mapped within the APE are
+characteristic of the Eastern Cross Timbers region. Approximately 7.9 percent of the soils within the
+APE are characteristic of the Northern Blackland Prairie while the remainder is comprised of water
+impoundments. Soil data were viewed from the U.S. Department of Agriculture (USDA) Natural
+Resources Conservation Service (NRCS) Web Soil Survey (Web Soil Survey 2019).
+Table 2.1: Soils within the APE
+Soil Map Unit Description
+
+Percentage
+of the APE
+
+11 – Birome fine sandy loam, 1 to 5 percent slopes – This component is described as fine sandy loam weathered
+from sandstone and located on ridges. Depth to paralithic bedrock is 20 to 40 in. The natural drainage class is well
+drained.
+
+4.9
+
+21 - Crosstell fine sandy loam, 1 to 3 percent slopes - This component is described as fine sandy loam located on
+ridges. Depth to a root restrictive layer or bedrock is 40 to 60 in to densic bedrock. The natural drainage class is
+moderately well drained.
+
+4.1
+
+22 – Crosstell fine sandy loam, 3 to 6 percent slopes – This component is described as fine sandy loam located on
+ridges. Depth to a root restrictive layer or bedrock is 40 to 60 in. The natural drainage class is moderately well
+drained.
+
+0.2
+
+25 – Ferris-Heiden complex, 2 to 5 percent slopes – This component is described as clay located on ridges. Depth
+to a root restrictive layer or bedrock is 39 to 60 in to densic bedrock. The natural drainage class is well drained.
+
+3.9
+
+29 – Gasil fine sandy loam, 1 to 3 percent slopes – This component is described as fine sandy loam located on
+ridges. Depth to a root restrictive layer or bedrock is more than 80 in. The natural drainage is well drained.
+
+18.7
+
+30 – Gasil fine sandy loam, 3 to 8 percent slopes – This component is described as fine sandy loam located on
+ridges. Depth to a root restrictive layer or bedrock is more than 80 in. The natural drainage is well drained.
+
+8.5
+
+33 – Heiden clay, 1 to 3 percent slopes – This component is described as clay located on ridges. Depth to a root
+restrictive layer or bedrock is 40 to 65 in. The natural drainage class is well drained.
+
+1.7
+
+37 – Konsil fine sandy loam, 1 to 5 percent slopes – This component described as fine sandy loam located on
+ridges. The depth to a root restrictive layer or bedrock is 70 to 80 in. The natural drainage class is well drained.
+
+11.0
+
+50 – Navo clay loam, 1 to 3 percent slopes – This component is described as clay loam located on ridges. Depth to a
+root restrictive layer or bedrock is more than 80 in. The natural drainage class in moderately well drained.
+
+13.3
+
+63 - Rader fine sandy loam, 0 to 3 percent slope - This component is described as a fine sandy loam located on
+stream terraces. Depth to a restrictive layer is more than 80 in. The natural drainage class is moderately well drained.
+
+27.3
+
+71 – Silstid loamy fine sand, 1 to 5 percent slopes – This component is described as loamy fine sand weathered
+from sandstone of the Woodbine Formation and is located on ridges. Depth to a restrictive layer or bedrock is more
+than 80 in. The natural drainage class is well drained.
+
+2.4
+
+84 – Wilson clay loam, 0 to 2 percent slopes – This component is described as clay loam located on stream terraces.
+The depth to a root restrictive layer or bedrock is more than 80 in. The natural drainage class is well drained.
+
+2.3
+
+W – Water
+
+1.8
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Figure 2.1: Geological Setting
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Figure 2.2: Soils Located within and Adjacent to the APE
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+CHAPTER 3: CULTURAL BACKGROUND
+3.1 Previous Investigations
+A file search within the Texas Archeological Sites Atlas (TASA) and the Texas Historic Sites Atlas
+(THSA) electronic databases, maintained by the THC, identified that there are no previously recorded
+archeological sites, National Register properties or districts, historical markers, or cemeteries located
+within the proposed APE (TASA 2018; THSA 2018). The TASA database depicts that one previous
+archeological survey was conducted along the southwest and northwest boundaries of the APE (Figure
+3.1). This survey was performed by AR Consultants, Inc. (ARC) for the FAA and DFW in 2007 under
+Antiquities Permit No. 4491. TASA records further indicate that 13 professional archeological surveys
+have been previously conducted within 1 mi of the APE (Table 3.1). As a result of these previous
+surveys, eight archeological sites have been documented within 1 mi of the APE (Table 3.2).
+Table 3.1: Previously Conducted Archeological Surveys within 1 Mi of the APE
+Agency / Sponsor
+
+ACT
+Permit No.
+
+Firm/Institution
+
+Date
+
+Survey
+Type
+
+Location (Approximate)
+
+U.S. Environmental
+Protection Agency
+(EPA)
+
+No data
+
+Texas Department of Water
+Resources (TDWR)
+
+1976
+
+Linear
+
+0.41 mi west of APE
+
+EPA
+
+n/a
+
+TDWR
+
+1979
+
+Linear
+
+0.99 mi southwest of APE
+
+Federal Highway
+Administration
+(FHWA)
+
+No data
+
+State Department of
+Highways and Public
+Transportation (SDHPT)
+
+1987
+
+Linear
+
+0.62 mi north of APE
+
+SDHPT
+
+No data
+
+SDHPT
+
+1990
+
+Linear
+
+0.77 mi south of APE
+
+FHWA
+
+No data
+
+SDHPT
+
+1991
+
+Linear
+
+0.26 mi northeast of APE
+
+City of Grapevine
+
+1436
+
+ARC
+
+1994
+
+Linear
+
+0.79 mi north of APE
+
+Texas Department of
+Transportation
+(TxDOT)
+
+4054
+
+Horizon Environmental
+Services, Inc.
+
+2006
+
+Area
+
+0.32 mi southeast of APE
+
+Federal Transit
+Administration, Tarrant
+County
+
+4775
+
+URS Corporation
+
+2013
+
+Area
+
+Adjacent to the northwest APE
+boundary
+
+City of Grapevine
+
+6795
+
+AR Consultants, Inc.
+
+2014
+
+Area
+
+0.96 mi southwest of APE
+
+DFW
+
+7373
+
+IES
+
+2015
+
+Area
+
+0.96 mi east of APE
+
+Trinity River Authority
+
+7119
+
+AR Consultants, Inc.
+
+2015
+
+Area
+
+0.98 mi south of APE
+
+City of Grapevine
+
+7861
+
+Raba Kistner
+Environmental, Inc.
+
+2017
+
+Area
+
+0.91 mi east of APE
+
+DFW
+
+8392
+
+IES
+
+2018
+
+Area
+
+0.81 mi southeast of APE
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Figure 3.1: Previous Investigations within 1 Mile of the APE
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Table 3.2: Previously Recorded Archeological Sites within 1 Mi of the APE
+Site
+Trinomial
+
+Time Period
+
+Site Type
+
+Site Size
+
+Depth
+Extent
+
+41TR71
+
+Prehistoric
+
+Lithic
+scatter
+
+No data
+
+No data
+
+41TR84
+
+Prehistoric
+
+10 x 10
+m
+
+No data
+
+41TR102
+
+Prehistoric
+
+No data
+
+No data
+
+41TR105
+
+Prehistoric
+
+No data
+
+No data
+
+41TR106
+
+Prehistoric
+
+No data
+
+No data
+
+41TR213
+
+Historic
+
+Farmstead
+
+41TR277
+
+Historic
+
+Farmstead
+
+41TR315
+
+Historic
+
+Forging
+station
+Lithic
+scatter
+Lithic
+scatter
+Lithic
+scatter
+
+Refuse
+dump
+
+600 x
+400 ft
+520 x
+280 ft
+16 x 5 m
+
+40 cmbs
+
+Cultural Materials
+Projectile points (Middle –
+Late Archaic; Late
+Prehistoric), debitage,
+prehistoric ceramic sherd
+Debitage, scraper, biface
+fragment
+Projectile point (Late
+Prehistoric), debitage
+Projectile points (Archaic),
+bifaces, debitage
+Projectile points (Late
+Archaic), debitage
+Cut and wire nails, glass,
+ceramics, plastic, metal
+
+Unknown
+
+Domestic debris
+
+Surface
+
+Domestic debris (including
+clear bottle glass, ceramics,
+brick fragments; circa 1930s to
+1940s)
+
+Topographic
+Setting
+
+Reference
+
+Upland terrace
+
+Prikryl 1990
+
+Stream terrace
+
+Prikryl 1982
+
+Upland terrace
+
+Prikryl 1990
+
+Stream terrace
+
+Prikryl 1990
+
+Stream terrace
+
+Prikryl 1990
+
+Upland terrace
+
+Green 2006
+
+Upland terrace
+
+Stone 2015
+
+Stream channel
+
+Stone,
+Goodmaster,
+Chapman, and
+Gibson 2018
+
+3.2 Cultural Resources Potential
+In 2007 and 2008, ARC conducted intensive pedestrian surveys of 1,210 ac on the DFW property under
+Texas Antiquities Permit Number 4491 and published their results in the report An Archaeological Survey
+for Chesapeake Energy Corporation at DFW International Airport Dallas and Tarrant Counties, Texas
+(Shelton et al. 2008). Through this study, three environmental zones were identified within the airport
+that contain varying probabilities for the presence of cultural resources.
+The current APE will have ground disturbances within the Eastern Cross Timbers, identified as Zone 2 by
+the previous investigators (Shelton et al. 2008:17–19). Zone 2 is typified by a wide range of well-drained
+soil types ranging from those with high clay content to sandy loams located on uplands, ridges, terraces,
+tributary streams, and valleys. Accordingly, these soils supported a wide range of vegetation and dense
+stands of hardwood trees during the prehistoric period. These upland soils are moderately well suited for
+cropland, pastureland, or urban development and the area has been well utilized for agricultural purposes
+since early historic settlement. Thus, Zone 2 is considered to have a high potential for containing both
+prehistoric and historic-age sites (Shelton et al. 2008).
+Direct APE
+Prehistoric Resource Potential
+The Texas Department of Transportation (TxDOT) Potential Archeological Liability Map (PALM) for
+Tarrant County indicates that the majority of the APE contains a moderate potential for shallowly buried
+archeological deposits and a low to moderate potential for deeply buried archeological deposits in alluvial
+settings within areas that have retained a reasonable degree of contextual integrity. However, background
+review determined that approximately 22 ac in the northwestern portion of the APE is located within an
+existing natural gas well pad site with an associated pipeline and detention pond. As such, that portion of
+the APE does not contain a reasonable context and the potential is reduced to low. The remaining portion
+of the APE features a low potential within the TxDOT PALM for containing shallow and deeply buried
+prehistoric archeological resources.
+Historic Period Resource Potential
+During background review, a small, rural community was identified on historical aerial photographs and
+maps in the southern half of the APE. The unnamed community was located approximately 1.5 mi
+southwest of the City of Grapevine along County Road 648 (Mustang Drive). The 1895 Sam Street’s
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Map of Tarrant County illustrates that there were at least five houses within the APE. These homes were
+identified as being owned or occupied by Mrs. A. Newton, B. P. Payne, John Davis, A. E. Rodolph, and
+J. B. Fay. Three of the houses were located south of a wagon road (later the Fort Worth Cardinal Road;
+present-day Mustang Drive) and the remaining two houses were located north of the road near the
+northern APE boundary. The 1924 USDA Tarrant County soils map depicts three structures north of
+Mustang Drive in the APE and a structure adjacent to the western APE boundary, south of Mustang
+Drive. The 1931 USGS Grapevine 15-minute (1:64,000-scale) topographic map identifies four buildings
+along the corridor of Mustang Drive. The 1936 Texas State Highway Department map of Tarrant County
+indicates four buildings were located within or near the APE. A 1942 aerial photograph depicts at least
+four farmsteads within the APE. Three of these farmsteads were located north of Mustang Drive. Each
+of these farmsteads contained several associated buildings, including barns and outbuildings. The
+southernmost farmstead had a large orchard between the farmhouse and present-day Mustang Drive. By
+1956, an additional three houses had been constructed south of Mustang Drive and the southernmost
+farmstead associated with the large orchard had been demolished. Development of the southern portion
+of the APE continued into the 1960s with the construction of several additional houses and barns. After
+properties were acquired by DFW in the late 1960s or early 1970s, most of the standing structures within
+the APE were demolished between 1970 and 1979.
+During a resources inventory survey performed by DFW staff in 1968, over 50 structures were recorded
+within the APE. A similar inventory was conducted by DFW in 1988, during which the ruins of six
+buildings were identified. In September 2018, IES biologists observed multiple historic-aged resources
+within the APE during environmental surveys for the proposed project. As such, the APE is considered to
+have a high potential for containing historic-period cultural resources.
+Indirect APE Resource Potential
+Based on a review of historic maps and aerial photographs, no historic-age standing structures or
+architectural resources are present within the indirect APE.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+CHAPTER 4: METHODOLOGY
+The methods utilized during this survey satisfy the archeological survey standards for field investigations
+recommended by the CTA (2002), as approved by the THC. Components of the survey included archival
+and background research, pedestrian reconnaissance survey, intensive survey, archeological site
+recording, and NRHP/SAL evaluation of each documented resource. Prior to fieldwork, the IES staff
+conducted historical and archeological records reviews to determine the locations of previously recorded
+resources within the APE and within a 1-mi radius of the direct APE (see Section 3.1). IES staff also
+reviewed ecological, geologic, and soils data, historical and modern topographic maps, and aerial
+photographs of the APE. Due to the variability in prehistoric and historic-period settlement patterns, land
+use, and archeological site preservation within the APE, multiple survey and sampling methods were used
+during this investigation, including the use of systematic shovel testing to locate and define archeological
+sites.
+
+4.1 Survey Methods
+Pedestrian Survey
+This cultural resources survey consisted of a pedestrian survey augmented by the excavation of
+systematically-placed shovel tests. The pedestrian reconnaissance survey consisted of visual examination
+of the ground surface and existing subsurface exposures for evidence of archeological sites within the
+APE. The pedestrian survey consisted of a multiple transect scheme, which was implemented across the
+APE with a focus on areas determined during the background review to contain a high probability for the
+occurrence of cultural resources. Transects were spaced in 30-m intervals orientated in a general
+northeast-to-southwest orientation. Areas displaying high levels of disturbance were photographed to
+document the lack of potential for intact archeological deposits. Other documentation methods included
+narrative notes, maps, and shovel test records.
+Intensive Survey
+In previously unsurveyed and undisturbed portions of the APE with the potential for preserving
+archeological materials, shovel tests were excavated to the top of culturally sterile deposits, typically to
+the argillic (Bt) or calcic (Bk) subsoil horizon. Shovel tests were at least 30 cm in diameter and were
+hand-excavated in levels not exceeding 20 cm in thickness. Excavated soil was screened using 0.25-in
+hardware cloth to facilitate the recovery of buried cultural materials. When high clay content soils were
+encountered and could not be efficiently screened, material was manually troweled and inspected for
+cultural deposits. The physical properties of each natural soil stratum were recorded and investigators
+documented the results of each test on standardized shovel test forms. All shovel test locations were
+recorded and plotted using Garmin or Trimble GeoXT handheld global positioning system (GPS) units.
+Standards for archeological methods require that measurements be recorded in metric units. For this
+reason, while general distances and engineering specifications are described in imperial units (e.g., in, ft,
+mi) within this report, archeological measurements and observations are listed in metric units (e.g., cm,
+m, km), unless historic-period artifact or architectural elements are more appropriately recorded in
+imperial units.
+Archival Research
+Historical maps and aerial photographs encompassing the direct APE and indirect APE were reviewed to
+determine the locations of historic-age (e.g., greater than 50 years old) structures. Deed/title research was
+conducted for archeological sites that contained evidence of historic-period site components and historicperiod architectural resources. The purpose was to identify historically notable persons that were possibly
+associated with any resource documented during this survey. Initial research was carried out by
+examining deed and land title records from the Tarrant County Clerk’s Office (TCCO). The historic
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+significance of identified persons associated with each resource were also researched using The
+Handbook of Texas Online database, online genealogy websites, and within various local history
+publications.
+Site Recording
+An archeological site is typically considered to be a spatially discrete area containing cultural resources.
+The recognition of a “site” is therefore contingent on content and extent. Content may refer to artifacts or
+cultural features encountered in surface or subsurface contexts, architectural elements, or other
+manifestations of past human activity. The extent of a site is based on the vertical and horizontal spatial
+arrangement of these cultural remains. For surficial materials, a site is defined as five or more artifacts of
+at least two different materials or functional classes located within the same vicinity (typically a 400
+square meter [m2; 0.1-ac] area) or at least one cultural feature. The extent of the surface artifacts and
+cultural features are then defined as the site boundary. When artifacts or features are encountered in
+buried contexts, a site is defined within the extent of the culturally positive excavations. In cases where
+an excavated survey sampling location (i.e., shovel test) yields cultural materials, additional delineation
+excavations are conducted to define the boundary of the site. The spatial extent of the site is defined
+within the extent of positive excavations and surface artifacts or features when both are present. In
+addition, archival research can also be used to define the limits of some historic-period archeological
+sites.
+Cultural remains, meeting these criteria, are designated as a site, recorded on a Texas Archeological Site
+Data Form, and submitted to the Texas Archeological Research Laboratory (TARL) to be included in the
+TASA database. Conversely, discovery of cultural materials that do not meet these criteria are considered
+isolated occurrences of past human activity and are simply documented by location and content. Modern
+materials and features (i.e., less than 50 years old) are not considered sites, with only location and content
+noted during the survey. Depending on depositional integrity and cultural content, archeological sites can
+be eligible for inclusion in the NRHP or for designation as SALs. Cultural isolates and modern features
+are not eligible for inclusion in the NRHP or for designation as SALs because of their failure to meet the
+site definition and their inability to contribute important information to the understanding of history or
+prehistory.
+
+4.2 Site Evaluation
+Each identified archeological site was plotted on the appropriate 7.5-minute USGS topographic map and a
+scaled site map was prepared for each site. Field data were processed to evaluate site significance and
+potential eligibility for inclusion in the NRHP and designation as an SAL. When applicable, a variety of
+data were used to assess site significance including temporal period, artifact density, artifact variety,
+feature density, feature variety, feature preservation, stratigraphic integrity, and the amount of previous
+disturbance.
+National Register Evaluation Criteria
+The assessment of significance of a cultural resource is based on federal guidelines and regulations. The
+criteria for evaluating resources for inclusion in the NRHP are codified under the authority of the NHPA,
+as amended (36 CFR 60.4 [a–d]), and the Advisory Council on Historic Preservation has set forth
+guidelines to use in determining site eligibility. Federal regulations indicate that “[t]he term ‘eligible for
+inclusion in the National Register’ includes both properties formally determined as such by the Secretary
+of the Interior and all other properties that meet National Register listing criteria” (36 CFR 800.2[e]).
+Based on Advisory Council guidelines, any cultural resource that is included in or eligible for inclusion in
+the NRHP is a historic property.
+Subsequent to the identification of relevant historical themes and related research questions, four criteria
+for eligibility are applied. The quality of significance in American history, architecture, archeology,
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+engineering, and culture is present in districts, sites, buildings, structures, and objects that possess
+integrity of location, design, setting, material, workmanship, feeling, and association and:
+Criterion A:
+Criterion B:
+Criterion C:
+
+Criterion D:
+
+that are associated with events that have made a significant contribution to the
+broad patterns of our history; or
+that are association with the lives of persons significant in our past; or
+that embody the distinctive characteristics of a type, period, or method of
+construction, or that represent the work of a master, or that possess high artistic
+values, or that represent a significant and distinguishable entity whose components
+may lack individual distinction; or
+that have yielded, or may be likely to yield, information important in prehistory or
+history [36 CFR 60.4(a–d)].
+
+The principal objective is to determine whether a cultural resource possesses the potential to contribute to
+one or more of the above-defined criteria. Adequate information regarding site function, context, and
+chronological placement from both archeological and, if appropriate, historical perspectives is essential
+for cultural resources investigations. Because research questions vary as a result of geography, temporal
+period, and project design, determination of site context and chronological placement of cultural
+resources is a particularly important objective during the inventory and evaluation processes. Criterion D
+is generally associated with prehistoric, but also historic-era, archeological sites. Criteria A, B, and C
+typically reflect association with historic-era resources, rarely with prehistoric sites. The objective of the
+current project was to locate and define both the horizontal and vertical extents of any cultural resources,
+document and describe those resources, and then, when adequate data were present, evaluate each for
+NRHP eligibility.
+State Antiquities Landmark Evaluation Criteria
+For purposes of implementing the ACT, the THC is the statutorily created body responsible for protecting
+and preserving SALs (9 TNRC 191). A SAL is an archeological site, archeological collection, ruin,
+building, structure, cultural landscape, site, engineering feature, monument or other object, or district that
+is eligible to be designated as a landmark or is already officially designated as a landmark. The State of
+Texas considers all publicly-owned archeological sites and historic buildings and structures to have some
+intrinsic historic value, and the ACT provides some level of protection for those sites, buildings, or
+structures regardless of their size, character, or ability to currently yield data that will contribute important
+information on the history or prehistory of Texas. Additionally, these publicly-owned archeological sites
+and historic buildings and structures are protected from vandalism, or other actions meant to take, alter, or
+destroy them, and information directly related to the specific location of archeological sites is restricted
+from open records requests. However, not all cultural resources are equally significant to the history and
+prehistory of Texas. Some archeological sites may not possess research value sufficient to warrant longterm preservation or investigations beyond survey level documentation, and some historic buildings and
+structures retain minimal integrity due to damage or deterioration. Therefore, the issue of whether
+cultural resources are significant and warrant preservation, and/or further research (such as archeological
+testing and data recovery level investigations), is addressed through official landmark designation, permit
+issuance, and rules associated with enforcement of the ACT. Archeological sites and historic buildings
+and structures on lands belonging to state agencies or political subdivisions of the state of Texas are
+eligible to be designated as landmarks (9 TNRC 191.091 and 191.092). Also protected, under 9 TNRC
+191.094, are specially designated landmarks on private property.
+Under the ACT at the state level, archeological sites may be considered significant and be recognized or
+designated as an SAL. The THC uses one or more of the following criteria when assessing the
+appropriateness of official landmark designation, and/or the need for further investigations under the ACT
+permit process:
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Criterion 1:
+Criterion 2:
+Criterion 3:
+Criterion 4:
+Criterion 5:
+
+the site has the potential to contribute to a better understanding of the prehistory and/or
+history of Texas by the addition of new and important information;
+the site’s archeological deposits and the artifacts within the site are preserved and intact,
+thereby supporting the research potential or preservation interests of the site;
+the site possesses unique or rare attributes concerning Texas prehistory and/or history;
+the study of the site offers the opportunity to test theories and methods of preservation,
+thereby contributing to new scientific knowledge;
+there is a high likelihood that vandalism and relic collecting has occurred or could occur, and
+official landmark designation is needed to ensure maximum legal protection, or alternatively,
+further investigations are needed to mitigate the effects of vandalism and relic collecting
+when the site cannot be protected (13 TAC 26.10).
+
+4.3 Curation
+The survey employed a non-collection strategy. Artifacts encountered during fieldwork were identified,
+inventoried, and returned to the context from which they were recovered. Representative samples and
+temporally or functionally diagnostic artifacts were photographed. Records, correspondence, field notes,
+forms, and other documentation will be included in the curation package. These documents and
+photographs will be organized and catalogued according to CAR curation standards and submitted for
+curation. All field-generated documents will be temporarily stored at the IES office and permanently
+curated at UTSA CAR.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+CHAPTER 5: RESULTS
+During this survey, the direct APE was subjected to reconnaissance survey transects and a systematic
+intensive survey. Pedestrian reconnaissance survey was conducted across the entire APE to determine the
+extent of prior ground disturbances and assess the likelihood of encountering cultural resources. Ground
+surface visibility was highly variable and irregular across the APE, ranging from 0 to 70 percent.
+Intensive survey with systematic shovel test sampling was also conducted within previously undisturbed
+portions of the APE during this survey. As a result, one historic-period archeological site (41TR316) was
+documented within the direct APE. No cultural resources were encountered within the indirect APE.
+
+5.1 Archeological Survey
+During this survey, 89 shovel tests were excavated within the 244-ac APE (Figure 5.1). Shovel testing
+was conducted within portions of the APE with the potential to contain buried cultural deposits
+(Appendix A, Photographs 1 through 6). The remaining portion of the APE was determined to have
+been significantly disturbed and contained negligible potential for subsurface cultural deposits.
+Subsequently, these areas were visually assessed and photographed during pedestrian survey (Appendix
+A, Photographs 7 through 8).
+Soils exposed within shovel testing of the APE revealed a profile that transitioned from medium brown
+sandy loam, in the western portion of the APE, to a dark grayish-brown clay or clay loam, near the eastern
+boundary of the APE. Soils were generally characterized as sandy loam or sandy clay loam. Few
+subsurface inclusions were observed throughout the APE. Soils ranged from a brown (7.5YR 4/3 and
+4/4) sandy loam surface layer to a compact, dark brown (10YR 3/3) clay loam subsoil horizon. The
+maximum depth of the shovel tests was approximately 70 cm below surface (cmbs) with the majority
+terminating between 30 to 50 cmbs. In addition to shovel testing, subsurface exposures including animal
+burrows, disturbed patches, and the exposed cut banks of an unnamed tributary of Big Bear Creek were
+examined (Appendix A, Photographs 19 through 22).
+Archeologists observed large piles of construction debris and several, small scatters of modern trash
+(plastic and metal containers, tires, etc.) within the APE (Appendix A, Photographs 23 through 26). In
+addition, 27 historic-age features, including structural foundations, foundation remnants, wells, and a
+stone chimney, and a sparse historic-period surface artifact scatter were observed within the APE. As a
+result of this survey, site 41TR316 was documented and defined within the extent of historic-age features
+and historic-period property parcel boundaries.
+
+5.2 Encountered Resources
+Site 41TR316
+During the IES survey, newly documented historic-period archeological site 41TR316 was encountered
+within the APE (Figure 5.2). The site was located on the midslope of an interfluvial ridge bordering an
+unnamed tributary of Big Bear Creek. The site was located within undeveloped, densely overgrown land
+bisected by Mustang Drive (Appendix B, Photographs 01 through 05). An overhead electric utility
+easement crosses the site in a northeast-to-southwest orientation (Appendix B, Photographs 06 through
+08). Site 41TR316 was documented within an area extending approximately 800 m north-to-south by
+1,180 m east-to-west, encompassing approximately 47.3 ha (117 ac). The site was delineated based on
+the distribution of archeological features, surface artifacts, positive and negative shovel tests, archival
+research, observed disturbances, and the APE boundary.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Figure 5.1: Shovel Test Location Map
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Figure 5.2: Site 41TR316 Plan Map
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Survey Observations
+Ground surface visibility within the site area was generally very low with small sporadic patches of
+ground visible in the southeastern portion of the site. Vegetation within and surrounding the site was
+overgrown and consisted of dense woody shrubs, brier, poison ivy, and mixed hardwood and coniferous
+forest. Investigators observed a low density scatter of surface artifacts that consisted of brick and brick
+fragments, steel cans, scrap metal, bottle glass (colorless, amber, and green), window glass, metal wire,
+concrete fragments, and recent debris. Investigators observed several brick piles containing cream-paste
+three-hole bricks, horizontal hollow bricks, and machine-made red-paste bricks, some of which were
+manufactured by the Ferris Brick Company (1910 to 1923; Steinbomer 1982).
+During the survey and delineation of site 41TR316, IES investigators excavated 73 shovel tests which
+exposed slightly variable soil profiles. Generally, the soil profile consisted of a brown (7.5YR 4/4) sandy
+loam overlying a dark brown (7.5YR 3/4) sandy clay. Along the northern boundary of the site, the soil
+profile transitioned to a dark brown (10YR 3/3) loamy clay that overlaid a very dark grayish brown
+(10YR 3/2) clay. Shovel test depths ranged from 35 to 70 cmbs. Artifacts were encountered within three
+shovel tests (AG03, AG05, and AG07) at the site (Table 5.1). Subsurface artifacts consisted of colorless
+lamp glass (n=1), machine-made brick and tile fragments (n=6), a wire nail (n=1), and a butchered bone
+fragment (n=1) (Appendix B, Photographs 09 through 11).
+Table 5.1: Historic Artifacts from Shovel Tests at Site 41TR316
+Depth
+Provenience (cmbs) Activities
+AG03
+AG03
+AG05
+AG07
+ST Total
+
+0–20
+20–30
+30–40
+30–40
+–
+
+–
+–
+–
+1
+1
+
+Architectural
+
+Domestic
+
+Nail Glass Brick Other Ceramic Glass Metal
+1
+–
+3
+–
+–
+–
+–
+–
+–
+1
+–
+–
+–
+–
+–
+–
+1
+–
+–
+–
+–
+–
+–
+1
+–
+–
+–
+–
+1
+–
+6
+–
+–
+1
+–
+
+Furnishings Personal Indeterminate
+–
+–
+–
+1
+–
+
+–
+–
+–
+–
+–
+
+–
+–
+–
+–
+–
+
+Level ST
+Total Total
+4
+1
+1
+3
+9
+
+5
+1
+3
+9
+
+Features
+A total of 27 archeological features were documented at site 41TR316 (Table 5.2). These features,
+consisting primarily of structure foundations and wells, were distributed across a large portion of the APE
+and were concentrated at the locations of homesteads and farmsteads depicted on historic maps and aerial
+photographs. Aerial photography from 1942 illustrates that the APE contained farmsteads belonging to a
+small, rural community that included agricultural fields, pastures, and orchards (Figure 5.3). The
+community expanded during the mid-20th century, as evidenced by 1968 aerial photographs (Figure 5.4).
+Following the acquisition of these properties by DFW in the early to mid-1970s, most of the buildings
+and structures associated with site 41TR316 were demolished and many of the former agricultural fields
+and pastures fell into disuse and were replaced by dense, woody, secondary forest growth.
+The features documented at site 41TR316 were located within 19 former (historic-age) property tracts
+subdivided from the Alex Thompson Survey (Abstract 1532, patented on 13 February 1861) and the
+Jonathan B. Fay Survey (Abstract 530, patented on 07 December 1854) prior to their acquisition in the
+late 1960s by the City of Fort Worth for construction of DFW (see Figures 5.3 and 5.4). Early deed
+records indicate the construction of several buildings within the APE during the late 19th and early 20th
+centuries. The locations of the features documented at site 41TR316 were cross-referenced with deed
+records and a series of historic aerial photographs to determine the approximate date of construction.
+Using public records provided by the TCCO, chains-of-title were was produced for each property tract
+containing historic-age features to identify the possible former owner and evaluate the potential of the site
+for NRHP eligibility under Criterion A and/or B (Appendix C).
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Figure 5.3: 1942 Aerial Photograph of Site 41TR316
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Figure 5.4: 1968 Aerial Photograph of Site 41TR316
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Table 5.2: Historic Features at Site 41TR316
+Abstract
+
+Property
+Tract*
+
+Feature
+Number
+
+Tract 1A
+
+1
+2
+3
+4
+
+Feature Type
+
+Foundation
+Foundation
+Tract 2A
+Foundation
+A.
+Thompson
+Foundation
+Survey
+Foundation and
+5
+brick concentration
+Tract 3
+6
+Well
+7
+Foundation
+8
+Foundation
+9
+Foundation
+Tract 1
+10
+Foundation
+Well and
+11
+well house
+Tract 1A
+12
+Foundation
+Tract 1B
+13
+Foundation
+Tract 1C
+14
+Foundation
+Tract 2A
+15
+Well
+Jonathan B.
+Tract 9
+16
+Foundation
+Fay Survey
+Tract 9A1
+17
+Trough
+Tract 9A3
+18
+Foundation
+Tract 9A4
+19
+Foundation
+Tract 9A4A
+20
+Foundation
+Tract 9B
+21
+Foundation
+Tract 9B1
+22
+Foundation
+23
+Foundation
+Tract 9B2
+24
+Foundation
+Tract 9C
+25
+Enclosure
+26
+Foundation
+Tract 9C1
+27
+Well
+*
+based on deed/title records on file at the TCCO
+†
+based on historical aerial photographs and deed/title records
+
+5.2.1.2.1
+
+Dimensions
+
+Construction
+Date†
+
+Family Affiliation
+
+25 m x 15 m
+3mx4m
+3.5 m x 2.5 m
+2mx3m
+
+pre-1953
+pre-1942
+pre-1942
+not visible
+
+Lipscomb / Bunnell
+Dorris / Hollingsworth / Crabtree
+Dorris / Hollingsworth / Crabtree
+Dorris / Hollingsworth / Crabtree
+
+7 m x 24 m
+
+pre-1942
+
+Watson / Dorris / Hollingsworth / Crabtree
+
+0.85 m
+10 m x 11 m
+19 m x 11 m
+4mx9m
+11 m x 8 m
+0.75 m;
+1 m x 1.75 m
+2.5 m x 2 m
+25 m x 12 m
+7mx8m
+0.5 m
+12 m x 8 m
+1 m x 0.7 m
+12 m x 8 m
+11 m x 9 m
+11 m x 7 m
+8 m x 11 m
+15 m x 9 m
+12 m x 15.5 m
+11 m x 14 m
+16 m x 7 m
+3mx5m
+0.75 m
+
+not visible
+pre-1942
+pre-1968
+pre-1939
+pre-1939
+
+Watson / Dorris / Hollingsworth / Crabtree
+Payne / Self
+Payne / Self
+Payne / Self
+Payne / Self
+
+pre-1939
+
+Payne / Self
+
+pre-1964
+pre-1968
+pre-1964
+not visible
+pre-1953
+not visible
+pre-1964
+pre-1964
+pre-1968
+pre-1953
+pre-1953
+pre-1964
+pre-1964
+pre-1953
+pre-1964
+not visible
+
+Eakins
+Caster
+Self / Walling
+Morrow / Woodall / Roberts
+Lattimore / Jordan
+Jordan / Long
+Jordan / Long
+Jordan / Long
+Jordan / Long
+Lattimore / Vann
+Lattimore / Vann
+Vann / Sutton
+Vann / Sutton
+Lattimore / Rumfield
+Rumfield / Sanchez
+Rumfield / Sanchez
+
+Alex Thompson Survey – Tract 1A
+
+Feature 1 was a raised rectangular foundation measuring 25 m by 15 m (Appendix B, Photographs 12
+through 16). The foundation was raised approximately 1 m above the ground surface. Several anchor
+bolts were present within this feature. At the time of survey, the eastern half of the feature was covered
+and overgrown. The southeastern corner of the raised foundation contained a 2 m by 1.5 m concrete slab
+with a red slip. Galvanized steel flashing was located within the central portion of the foundation.
+Cylindrical concrete foundation piers were located within the remaining portions of the feature. Although
+the immediate area within and surrounding the foundation was heavily forested, historical aerial imagery
+depicts this structure as constructed between 1942 and 1953. It pertained to the main domestic dwelling
+located within Tract 1A. Based on deed records and site observations, Feature 1 most likely pertained to
+the ownership of the property by the Lipscomb or Bunnell families (Appendix C, Table 1).
+5.2.1.2.2
+
+Alex Thompson Survey – Tract 2A
+
+Feature 2 was a concrete slab measuring approximately 3 m by 4 m (Appendix B, Photograph 17). The
+slab was located approximately 42 m southwest of Feature 5. At the time of survey, a portion of the slab
+was buried, while the exposed portion of the slab was in a slight state of deterioration. Feature 2 was
+located in proximity to a large barn or animal enclosure visible on a 1942 aerial photograph. It is
+undetermined what function this slab served within the context of the farmstead.
+Feature 3 was an approximately 3.5-m-by-2.5-m concrete slab located approximately 60 m southwest of
+Feature 5 (Appendix B, Photograph 18). The slab was largely covered with leaf litter and soil. The
+exposed portion of the slab was in a state of moderate deterioration. Feature 3 was located in proximity to
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+a large barn or animal enclosure visible on the 1942 aerial photograph. The function of this slab was
+indeterminate.
+Feature 4 was a raised rectangular foundation measuring 2 m by 3 m (Appendix B, Photographs 19
+through 21). This feature was located approximately 181 m southwest of Feature 5. The foundation was
+raised approximately 8 cm from the ground surface. Several anchor bolts were present along the
+foundation perimeter. At the time of survey, the western half of the feature was covered and overgrown.
+The southeastern corner of the raised foundation contained a 1.5 m2 concrete slab. As the general
+location of this feature was heavily forested in historical aerial imagery, the presence and function of the
+foundation could not be discerned.
+Based on deed records and site observations, Features 2, 3, and 4 most likely pertained to the ownership
+of the property by the Dorris, Hollingsworth, or Crabtree families (Appendix C, Table 2).
+5.2.1.2.3
+
+Alex Thompson Survey – Tract 3
+
+Feature 5 was a rectangular raised foundation and brick scatter measuring approximately 7 m by 24 m
+(Appendix B, Photographs 22 and 23). The foundation was raised approximately 1 m above ground
+surface on the southern edge and 4 cm on the northern edge. The southern edge featured an
+approximately 5-m-wide multi-level slab covered with a brick scatter. The bricks were machine-made,
+three-hole bricks comingled with solid bricks. Based on historic-period aerial imagery, the feature
+pertained to a large barn servicing the farmstead that spanned Tracts 2A and 3.
+Feature 6 was a stone-lined well. The well was located on minimally sloped terrain approximately 45 m
+west of Feature 5. The well featured a machine-made brick collar approximately 85 cm in diameter
+(Appendix B, Photograph 24). None of the bricks featured any observable manufacturer marks.
+Historical deed cards indicate that Tract 3 contained a residence with a stone foundation, measuring 24 ft
+by 36 ft, constructed in 1875. A barn and shed, both of which also had stone foundations, were
+constructed on the property in 1906. None of the features documented within this tract can be definitively
+identified as any of these earlier buildings. By 1942, the tract featured at least three buildings within a
+large farmstead spanning Tracts 2A and 3. Based on deed records and site observations, the features
+within Tract 3 most likely pertained to the ownership of the property by the Watson, Dorris,
+Hollingsworth, or Crabtree families (Appendix C, Table 2).
+5.2.1.2.4
+
+Jonathan B. Fay Survey - Tract 1
+
+Feature 7 was a raised concrete foundation measuring approximately 10 m by 11 m (Appendix B,
+Photographs 25 through 28). The foundation was raised approximately 50 cm above the ground surface
+on the eastern edge and approximately 25 cm above the ground surface on the western edge. The
+easternmost 3 m of the foundation was a solid slab with fragments of linoleum attached to the surface.
+Cylindrical concrete foundation piers were located within the remaining portions of the feature.
+Numerous anchor bolts were embedded within the raised foundation. An approximately 6-m-tall
+flagstone chimney was observed standing along the central portion of the northern edge of the feature.
+Aerial imagery depicts Feature 7 as early as 1942. It is likely this feature represented the primary
+domestic dwelling of the farmstead located on this parcel.
+Feature 8 was an L-shaped, raised concrete foundation measuring approximately 19 m by 11 m
+(Appendix B, Photographs 29 through 30). This feature was located approximately 50 m northnortheast of Feature 7. The foundation was raised approximately 25 cm above the ground surface.
+Several anchor bolts were embedded within the raised foundation. This feature is clearly visible on
+historic-period aerial imagery as early as 1968. Although earlier aerial images exist for this location, the
+presence of this feature is undiscernible. Based on the configuration of this feature within the site, it is
+likely this foundation pertained to an elongated livestock enclosure associated with the dwelling located at
+Feature 7.
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Feature 9 was a rectangular, raised concrete foundation measuring approximately 4 m by 9 m (Appendix
+B, Photographs 31 and 32). The foundation was located approximately 30 m north-northeast of
+Feature 7. The foundation was raised approximately 4 cm above ground surface and was approximately
+20 cm wide. Several anchor bolts were present within this feature. Based on a review of aerial imagery,
+this foundation served as a small, secondary dwelling or shed.
+Feature 10 was a pair of raised rectangular concrete foundations measuring a total of 11 m by 8 m
+(Appendix B, Photographs 33 and 34). This feature was located approximately 140 m north of Feature
+7. The foundation was raised approximately 8 cm above the ground surface. Several anchor bolts were
+present within this feature. At the time of survey, the eastern half of the feature was covered and
+overgrown.
+Feature 11 was a brick-and-mortar-lined well measuring approximately 75 cm in diameter enclosed
+within a concrete well house (Appendix B, Photographs 35 and 36). The well feature was located on
+slightly sloping terrain approximately 20 m north of Feature 7. The well collar and walls featured
+machine-made bricks set in mortar. None of the bricks featured any observable manufacturer stamps.
+The well featured a rectangular poured concrete enclosure or well house measuring 1 m by 1.75 m. The
+walls of the well house extended approximately 1 to 2.5 m above the ground surface. The rim of the well
+house walls features an incised edge for an inset lid. No evidence of the inset lid was present at the time
+of survey.
+Tarrant County deed cards indicate that Tract 1 contained multiple buildings dating to the late 19th and
+early 20th centuries. The property featured a cottage with a stone foundation and box framing constructed
+in 1873. This cottage measured 14 ft by 28 ft. Another cottage, measuring 28 ft by 40 ft was constructed
+in 1906 and featured a brick foundation and box framing. Two barns featuring cement foundations and
+iron siding were added to the property in 1929 and 1932. By 1942, the tract contained five to seven
+buildings. Based on deed records and site observations, the features within Tract 1 most likely pertained
+to the ownership of the property by the Payne and Self families (Appendix C, Table 3).
+5.2.1.2.5
+
+Jonathan B. Fay Survey - Tract 1A
+
+Feature 12 was a concrete slab measuring approximately 2.5 m by 2 m (Appendix B, Photograph 37).
+At the time of survey, the slab was largely covered by leaf litter and soil. The exposed portion of the slab
+was in a state of slight deterioration. Historical aerial imagery suggests that Feature 12 serviced a
+farmstead located approximately 50 m to the south. Feature 12 was part of a group of buildings clearly
+visible on aerial photographs dating to 1953, 1968, and 1970. No further elements of the farmstead were
+observed. Based on deed records and site observations, Feature 12 most likely pertained to the ownership
+of the property by the Eakins family (Appendix C, Table 4).
+5.2.1.2.6
+
+Jonathan B. Fay Survey - Tract 1B
+
+Feature 13 was a raised concrete foundation measuring approximately 25 m by 12 m (Appendix B,
+Photographs 38 and 39). The foundation was raised approximately 50 cm above the ground surface on
+the eastern edge and approximately 25 cm above the ground surface on the western edge. Large
+cylindrical concrete foundation piers were located within the remaining portions of the feature. The
+foundation was significantly eroded. Aerial imagery illustrates Feature 13 was constructed between 1964
+and 1968. This foundation served as the main domestic dwelling in Tract 1B. Based on deed records and
+site observations, Feature 13 most likely pertained to the ownership of the property by E. Frank Caster
+(Appendix C, Table 5).
+5.2.1.2.7
+
+Jonathan B. Fay Survey - Tract 1C
+
+Feature 14 was a concrete slab measuring approximately 7 m by 8 m (Appendix B, Photographs 40 and
+41). At the time of survey, the entire slab was buried under leaf litter. The immediate area was
+overgrown and featured small, woody growth. The southwestern corner of the slab contained a
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+protruding steel pipe from its surface. Aerial photographs indicate Feature 14 was built between 1953
+and 1964 and demolished in the 1970s. Based on historic-period aerial imagery, the feature pertained to a
+secondary barn or shed servicing this parcel. Based on deed records and site observations, the feature
+associated with Tract 1C most likely pertained to the ownership of the property by the Self or Walling
+families (Appendix C, Table 6).
+5.2.1.2.8
+
+Jonathan B. Fay Survey - Tract 2A
+
+Feature 15 was a filled, stone-lined well approximately 50 cm in diameter (Appendix B, Photographs
+42 and 43). The well feature was located on generally level terrain within the margins of a utility
+easement. A single flagstone cap was observed adjacent to the well. The well was filled with soil and
+covered in herbaceous growth.
+Tarrant County historical deed cards indicate a farmstead was located on Tract 2A as early as 1900.
+Based on deed records and site observations, the well feature within Tract 2A most likely pertained to the
+ownership of the property by the Morrow, Woodall, and Roberts families (Appendix C, Table 7).
+5.2.1.2.9
+
+Jonathan B. Fay Survey - Tract 9
+
+Feature 16 was a raised foundation measuring approximately 12 m by 8 m (Appendix B, Photographs
+44 through 47). The foundation was raised approximately 15 cm above the ground surface and featured
+numerous anchor bolts protruding from the surface. Unlike the majority of the raised foundations
+observed within this site, Feature 16 was constructed of concrete masonry unit (CMU) blocks covered in
+mortar. Aerial imagery illustrates Feature 16 was constructed between 1942 and 1953. It is likely this
+feature represented the main domestic dwelling of the farmstead located on this parcel. Based on deed
+records and site observations, Feature 16 most likely pertained to the ownership of the property by the
+Lattimore or Jordan families (Appendix C, Table 8).
+5.2.1.2.10
+
+Jonathan B. Fay Survey - Tract 9A1
+
+Feature 17 was a raised rectangular concrete water trough measuring approximately 1 m by 0.7 m
+(Appendix B, Photographs 48 through 49). The trough was approximately 0.75 cm tall with walls
+measuring approximately 6 cm thick. It was located approximately 17 m south of Feature 18. At the time
+of survey, the trough was filled with water and vegetal debris. Although the feature is not visible on
+historic aerial imagery, it likely serviced the nearby farmstead visible on 1964 aerial photographs. Based
+on deed records and site observations, Feature 17 most likely pertained to the ownership of the property
+by the Jordan or Long families (Appendix C, Table 9).
+5.2.1.2.11
+
+Jonathan B. Fay Survey - Tract 9A3
+
+Feature 18 was a raised concrete foundation measuring approximately 12 m by 8 m (Appendix B,
+Photographs 50 through 52). The foundation was highly fragmentary with many exposed CMU blocks
+visible. Only a single course of CMU blocks was exposed above the ground surface. A concrete staircase
+extended from the central portion of the southern edge. Aerial imagery indicates Feature 18 was
+constructed between 1953 and 1964. It is likely this feature represented the main domestic dwelling of
+the farmstead located on this parcel. Based on deed records and site observations, Feature 18 most likely
+pertained to the ownership of the property by the Jordan or Long families (Appendix C, Table 10).
+5.2.1.2.12
+
+Jonathan B. Fay Survey - Tract 9A4
+
+Feature 19 was a raised concrete foundation measuring approximately 11 m by 9 m (Appendix B,
+Photographs 53 through 57). The foundation was raised approximately 15 cm above the ground surface
+and featured numerous anchor bolts protruding from the surface. Unlike the majority of the raised
+foundations observed within this site, Feature 19 was constructed of CMU blocks clad with a veneer of
+mortar. A CMU block platform was observed along the western edge of the foundation. The platform
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+consisted of two courses of CMU blocks above the ground surface covered with a 10 cm thick concrete
+cap. A disarticulated concrete staircase was observed approximately 10 m north of the platform.
+Cylindrical and square concrete foundation piers were located within the central portion of the feature. A
+1 m by 1.5 m concrete slab was observed along the southeastern corner of the foundation; however, the
+slab appeared to have been previously disturbed and it is likely not in its original context. Aerial imagery
+illustrates Feature 19 was constructed between 1953 and 1964. It is likely this feature represented the
+main domestic dwelling of the farmstead located on this parcel. Based on deed records and site
+observations, Feature 19 most likely pertained to the ownership of the property by the Jordan or Long
+families (Appendix C, Table 11).
+5.2.1.2.13
+
+Jonathan B. Fay Survey - Tract 9A4A
+
+Feature 20 was a raised concrete foundation measuring approximately 11 m by 17 m (Appendix B,
+Photographs 58 through 60). The foundation was raised approximately 10 cm above the ground surface
+and featured several anchor bolts protruding from the surface. A concrete stair or platform was observed
+along the southern edge of the foundation. A scatter of loose and mortared sections of cream-colored,
+three-hole bricks was located adjacent to the northeastern corner of the foundation. It is likely the
+structure at this location featured brick siding. Historical aerial imagery indicates Feature 20 was
+constructed between 1964 and 1968 and shared a driveway or access road to Mustang Drive with Features
+16 and 19. It is likely this feature represented the primary domestic dwelling of the farmstead located on
+this parcel. Based on deed records and site observations, Feature 20 most likely pertained to the
+ownership of the property by the Jordan or Long families (Appendix C, Table 12).
+5.2.1.2.14
+
+Jonathan B. Fay Survey - Tract 9B
+
+Feature 21 was an overgrown rectangular foundation measuring approximately 8 m by 11 m (Appendix
+B, Photograph 61). The foundation was nearly level with the ground surface and was heavily
+overgrown. The majority of the foundation was covered with leaf litter at the time of the survey. Visible
+portions of the foundation were heavily eroded. According to historical aerial imagery, this foundation
+was constructed between 1942 and 1953. This feature likely represented the main domestic dwelling on
+this tract. Based on deed records and site observations, Feature 21 most likely pertained to the ownership
+of the property by the Lattimore or Vann families (Appendix C, Table 13).
+5.2.1.2.15
+
+Jonathan B. Fay Survey - Tract 9B1
+
+Feature 22 was a raised concrete foundation in a state of slight deterioration (Appendix B, Photograph
+62). The foundation measured approximately 15 m by 9 m and was raised approximately 75 cm above
+the ground surface. Aerial imagery indicates that Feature 22 was constructed between 1942 and 1953 and
+served as the main domestic dwelling in Tract 9B1. Based on deed records and site observations, Feature
+22 most likely pertained to the ownership of the property by the Lattimore or Vann families (Appendix
+C, Table 14).
+5.2.1.2.16
+
+Jonathan B. Fay Survey - Tract 9B2
+
+Feature 23 was a rectangular foundation measuring approximately 12 m by 15.5 m (Appendix B,
+Photograph 63). The foundation was raised approximately 50 cm from the ground surface and was
+heavily eroded. Several anchor bolts were observed protruding from the foundation. Aerial imagery
+indicates that this foundation was constructed between 1953 and 1964 and served as the main dwelling of
+the farmstead extending across Tracts 9B2 and 9B3.
+Feature 24 was an approximately 11 m by 14 m rectangular foundation slab (Appendix B, Photograph
+64). At the time of field survey, most of the foundation was overgrown and heavily eroded. The
+southwestern corner of the foundation was visible and was raised approximately 15 cm above the ground
+surface. Aerial imagery illustrates Feature 24 was constructed between 1953 and 1968 and was connected
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+to Mustang Drive. It is likely this feature represented a barn associated with the farmstead located on
+Tracts 9B2 and 9B3. Based on deed records and site observations, Features 23 and 24 most likely pertain
+to the ownership of the property by the Vann or Sutton families (Appendix C, Tables 15 and 16).
+5.2.1.2.17
+
+Jonathan B. Fay Survey - Tract 9C
+
+Feature 25 was a rectangular enclosure measuring approximately 16 m by 7 m (Appendix B,
+Photographs 65 through 67). The structure was constructed using horizontal hollow bricks. The walls
+ranged from one to four courses tall (approximately 0.3 to 1.5 m tall). A fragment of molded concrete,
+apparently forming a decorative capital on a spiral column, was also observed within the feature
+(Appendix B, Photograph 68). Aerial imagery illustrates Feature 25 was constructed between 1942 and
+1953. Based on deed records and site observations, Feature 25 most likely pertained to the ownership of
+the property by the Lattimore or Rumfield families (Appendix C, Table 17).
+5.2.1.2.18
+
+Jonathan B. Fay Survey - Tract 9C1
+
+Feature 26 was a raised concrete slab foundation measuring approximately 3 m by 5 m (Appendix B,
+Photographs 69 through 70). The corners of the slab were eroded, while the remaining portions of the
+foundation were intact and raised approximately 50 cm above the ground surface. Historical aerial
+imagery depicts the foundation was constructed between 1953 and 1964 and pertained to a porch or
+entryway to the main domestic dwelling.
+Feature 27 was a concrete-lined well approximately 75 cm in diameter (Appendix B, Photograph 71).
+The well was located approximately 5 m east of Feature 26. No collar was visible, and the inside of the
+well was partially filled with leaves and modern debris. Based on deed records and site observations,
+Features 26 and 27 most likely pertained to the ownership of the property by the Rumfield or Sanchez
+families (Appendix C, Table 18).
+Site Integrity and Prior Ground Disturbances
+A background review of historic maps and aerial photographs indicate that much of the site has been
+exposed to some degree of prior ground disturbance. These disturbances are primarily related to past
+agricultural and pastoral activities during the late-19th and early 20th centuries and development of the
+DFW property during the later portion of the 20th century. Historical aerial photographs, dating to 1942,
+illustrate that the site consists of a rural agricultural community comprised of a series of farmsteads along
+present-day Mustang Drive. By 1968, the community had expanded south of Mustang Drive to occupy
+the extent of the archeological site boundary. Most of the standing structures were demolished by 1979,
+following acquisition of the properties by the City of Fort Worth in the early-to-mid 1970s.
+Between 1984 and 1986, multiple overhead electric transmission lines and a temporary access road were
+erected in the southern half of the APE. By 1995, Mustang Drive had been expanded from an undivided
+two-lane road to a divided four-lane road and an approximately 2-ac area within the center of the site was
+graded and channelized to allow north-to-south water flow through culverts along Mustang Drive. An
+overhead electric transmission line was also constructed through the central portion and eastern extent of
+the site at this time and has since been regularly maintained. In 2008, a natural gas well pad with
+associated infrastructure was constructed near the northern limits of the APE. Additionally, a buried
+natural gas pipeline was installed that extended from the well pad to SH 121 along the western APE
+boundary. In the early 2010s, an elevated ramp connecting SH 114 to SH 121 was constructed through
+the eastern portion of the APE. The APE now consists almost entirely of dense, mixed, hardwood forest.
+Site Summary
+Site 41TR316 represents the historic-period site pertaining to a rural agricultural community from the
+late-19th to the mid-20th centuries. The site is located in an area approximately 800 m northwest-tosoutheast by 1,180 m northeast-to-southwest, encompassing approximately 47.3 ha (117 ac) within the
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+APE. During the intensive archeological survey and site delineation, 73 shovel tests were excavated
+within the site. Three shovel tests excavated within the site yielded nine artifacts comprised largely of
+architectural-related items confined to the upper 40 cmbs. A total of 27 archeological features and a low
+density historic-period surface artifact scatter and modern debris were observed. All of the features
+identified within the site were related to domestic and agricultural buildings that were demolished in the
+mid-1970s following the acquisition of the original properties by the City of Fort Worth for the
+construction of DFW. Chains-of-title were produced to determine possible ownership of the former
+property parcels that comprise the site (Appendix C). None of the individuals associated with the former
+owners were listed in the Handbook of Texas, online genealogical research resources, or local history
+volumes. Based on the site’s lack of association with a significant historical event(s) or person(s),
+absence of important architectural features, and the low potential to yield significant archeological data, it
+is recommended that site 41TR316 be considered not eligible for listing in the NRHP under Criteria A, B,
+C, or D nor considered for SAL designation.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+This page intentionally left blank
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+CHAPTER 6: SUMMARY AND RECOMMENDATIONS
+During the intensive pedestrian survey, 89 shovel tests were excavated within the 244-ac APE. Through
+the survey, one archeological site (41TR316) was documented within the APE.
+Table 6.1: Summary of NRHP/SAL Eligibility Recommendations
+NRHP/SAL Eligibility
+Recommendations
+
+Site Trinomial
+
+Not Eligible
+
+41TR316
+
+41TR316 was a newly recorded historic-period archeological site related to small, rural agricultural
+community during the late 19th and mid-20th centuries. The site contained 27 historic-period features
+and a surface artifact scatter that extended across 19 former property parcels. Based on the site’s lack
+of association with a significant historical event(s) or person(s), the absence of important architectural
+features, and the low potential to yield significant archeological data, site 41TR316 is recommended
+not eligible for listing in the NRHP under Criteria A, B, C, or D nor considered for SAL designation.
+No further evaluation or mitigation efforts are recommended for this site.
+Therefore, it is the recommendation of IES that the DFW 121 Mustang Business Park project be
+permitted to continue without the need for further cultural resources investigations. However, if any
+cultural resources, other than those detailed within this report, are encountered during construction, the
+operators should immediately stop construction activities in those areas. The project cultural resources
+consultant should then be contacted to initiate further consultation with the THC/State Historic
+Preservation Officer (SHPO) prior to resuming construction activities in the area of the inadvertent
+discovery. In addition, if project designs change, and areas outside the APE detailed within this report are
+to be impacted, additional field investigations may be required.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+This page intentionally left blank
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+CHAPTER 7: REFERENCES CITED
+Council of Texas Archeologists (CTA)
+2002 Revised Archeological Survey Standards for Texas. CTA Newsletter 26(1).
+2002 Guidelines for the Content of Cultural Resource Management Reports, manuscript on file with
+the membership.
+Estaville, Lawrence, and Richard Earl
+2008 Texas Water Atlas. Texas A&M University Press, College Station.
+Ferring, C. R.
+1994 Late Quaternary Geology of the Upper Trinity River Basin, Texas. Doctoral Dissertation. The
+University of Texas at Dallas.
+Griffith, Glenn, Sandy Bryce, James Omernik, and Anne Rogers
+2007 Ecoregions of Texas. Texas Commission on Environmental Quality, Austin.
+Hill, R. T.
+1901 The Topography and Geology of the Cross Timbers and Surrounding Regions in North Texas.
+American Journal of Science 33(196).
+McGowen, J. H., C. V. Proctor, W. T. Haenggi, D. F. Reaser, and V. E. Barnes
+1987 Geological Atlas of Texas, Dallas Sheet. The University of Texas at Austin.
+Ressel, D.
+1981 Soil Survey of Tarrant County, Texas. United States Department of Agriculture, Soil
+Conservation Service, in cooperation with Texas Agricultural Experiment Station.
+Scoggins, P.
+2004 Surface Geology of Dallas and Tarrant Counties, Texas.
+http://www.dallaspaleo.org/details/surface_geology.htm.
+Shelton, Rebecca, Cody S. Davis, and S. Alan Skinner
+2008 An Archaeological Survey for Chesapeake Energy Corporation at DFW International Airport
+Dallas and Tarrant Counties, Texas. AR Consultants, Inc., Dallas.
+Texas Archeological Sites Atlas (TASA)
+2019 Texas Archeological Sites Atlas. s.v. “Tarrant County” http://nueces.thc.state.tx.us/ (accessed
+January 2019).
+Texas Historic Sites Atlas (THSA)
+2019 Texas Archeological Sites Atlas. s.v. “Tarrant County” http://nueces.thc.state.tx.us/ (accessed
+January 2019).
+Texas Parks and Wildlife Department (TPWD)
+2019
+Cross Timbers and Prairies Ecological Region.
+http://www.tpwd.state.tx.us/landwater/land/habitats/cross_timbers/ecoregions/cross_timbers.phm.
+Online electronic document (accessed January 2019).
+U.S. Geological Survey (USGS)
+2019 U.S. Department of the Interior Mineral Resources On-Line Spatial Data Website.
+http://mrdata.usgs.gov/sgmc/tx.html (accessed January 2019).
+Web Soil Survey
+2019 U.S. Department of Agriculture – Natural Resource Conservation Service Website:
+http://websoilsurvey.nrcs.usda.gov/app/WebSoilSurvey (accessed January 2019).
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+This page intentionally left blank
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+APPENDIX A
+Photograph Location Map and General Photographs
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Photograph 1 – General vegetation, view to the northwest.
+
+Photograph 2 - General vegetation, view to the south.
+
+Photograph 3 - General vegetation, view to the southwest.
+
+Photograph 4 - General vegetation, view to the northwest.
+
+Photograph 5 - General vegetation, view to the east.
+
+Photograph 6 - General vegetation, view to the northeast.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Photograph 7 – Mustang Drive, view to the west.
+
+Photograph 8 – William D. Tate Bridge, view to the east.
+
+Photograph 9 – Pipeline infrastructure, view to the northeast.
+
+Photograph 10 – Pipeline easement, view to the southwest.
+
+Photograph 11 – Pump station, view to the southeast.
+
+Photograph 12 – Retention pond, view to the north.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Photograph 13 – Pump station, view to the southwest.
+
+Photograph 14 – William D. Tate Drive culvert, view to the southeast.
+
+Photograph 15 – Transmission line and easement, view to the northeast.
+
+Photograph 16 – William D. Tate Bridge, view to the south.
+
+Photograph 17 – Standing water, view to the southwest.
+
+Photograph 18 – Standing water, view to the northeast.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Photograph 19 - Unnamed tributary cutbank, view to the southeast.
+
+Photograph 20 - Unnamed tributary cutbank, view to the south.
+
+Photograph 21 - Unnamed tributary cutbank, view to the east.
+
+Photograph 22 – Unnamed tributary cutbank, view to the southeast.
+
+Photograph 23 - General modern debris, view to the southwest.
+
+Photograph 24 - General modern debris, view to the west.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Photograph 25 – General modern debris, view to the east.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+Photograph 26 – General modern debris, view to the southwest.
+
+IES Project No. 03.006.067
+
+APPENDIX B
+Photograph Location Map and Archeological Site Photographs
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Site 41TR316 Photographs
+Photograph Setting
+
+Photograph Range
+
+General Site Setting
+
+01 through 11
+
+Feature 1
+
+12 through 16
+
+Feature 2
+
+17
+
+Feature 3
+
+18
+
+Feature 4
+
+19 through 21
+
+Feature 5
+
+22 and 23
+
+Feature 6
+
+24
+
+Feature 7
+
+25 through 28
+
+Feature 8
+
+29 and 30
+
+Feature 9
+
+31 and 32
+
+Feature 10
+
+33 and 34
+
+Feature 11
+
+35 and 36
+
+Feature 12
+
+37
+
+Feature 13
+
+38 and 39
+
+Feature 14
+
+40 and 41
+
+Feature 15
+
+42 and 43
+
+Feature 16
+
+44 through 47
+
+Feature 17
+
+48 and 49
+
+Feature 18
+
+50 through 52
+
+Feature 19
+
+53 through 57
+
+Feature 20
+
+58 through 60
+
+Feature 21
+
+61
+
+Feature 22
+
+62
+
+Feature 23
+
+63
+
+Feature 24
+
+64
+
+Feature 25
+
+65 through 67
+
+Feature 26
+
+69 through 70
+
+Feature 27
+
+71
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Photograph 1 – Site 41TR316, general vegetation, view to the northwest.
+
+Photograph 2 - Site 41TR316, general vegetation, view to the north.
+
+Photograph 3 - Site 41TR316, general vegetation, view to the south.
+
+Photograph 4 - Site 41TR316, corrugated steel siding, view to the north.
+
+Photograph 5 - Site 41TR316, corrugated steel siding, view to the northeast.
+
+Photograph 6 - Site 41TR316, utility easement, view to the southeast.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Photograph 7 - Site 41TR316, utility easement, view to the northeast.
+
+Photograph 8 - Site 41TR316, utility easement, view to the southeast.
+
+Photograph 9 - Site 41TR316, shovel test AG03 artifacts, wire nail and brick
+fragments.
+
+Photograph 10 - Site 41TR316, shovel test AG07 artifacts, lamp glass and
+butchered bone.
+
+Photograph 11 - Site 41TR316, shovel test AG05 artifact, hollow-brick
+fragment.
+
+Photograph 12 - Site 41TR316, Feature 1, view to the east.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Photograph 13 - Site 41TR316, Feature 1, view to the west.
+
+Photograph 14 - Site 41TR316, Feature 1, view to the south.
+
+Photograph 15 - Site 41TR316, Feature 1, view to the east.
+
+Photograph 16 - Site 41TR316, Feature 1, view to the north.
+
+Photograph 17 - Site 41TR316, Feature 2, view to the south.
+
+Photograph 18 - Site 41TR316, Feature 3, view to the northeast.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Photograph 19 - Site 41TR316, Feature 4, view to the southeast.
+
+Photograph 20 - Site 41TR316, Feature 4, view to the north.
+
+Photograph 21 - Site 41TR316, Feature 4, view to the east.
+
+Photograph 22 - Site 41TR316, Feature 5, view to the northeast.
+
+Photograph 23 - Site 41TR316, Feature 5, view to the southwest.
+
+Photograph 24 - Site 41TR316, Feature 6, view to the south.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Photograph 25 – Site 41TR316, Feature 7, view to the north.
+
+Photograph 26 – Site 41TR316, Feature 7, view to the west.
+
+Photograph 27 – Site 41TR316, Feature 7, view to the northeast.
+
+Photograph 28 – Site 41TR316, Feature 7, view to the southeast.
+
+Photograph 29 – Site 41TR316, Feature 8, view to the northwest.
+
+Photograph 30 – Site 41TR316, Feature 8, view to the southwest.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Photograph 31 – Site 41TR316, Feature 9, view to the northeast.
+
+Photograph 32 – Site 41TR316, Feature 9, view to the southwest.
+
+Photograph 33 – Site 41TR316, Feature 10, view to the west.
+
+Photograph 34 – Site 41TR316, Feature 10, view to the east.
+
+Photograph 35 – Site 41TR316, Feature 11, view to the west.
+
+Photograph 36 – Site 41TR316, Feature 11, view to the northwest.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Photograph 37 – Site 41TR316, Feature 12, view to the southwest.
+
+Photograph 38 – Site 41TR316, Feature 13, view to the east.
+
+Photograph 39 – Site 41TR316, Feature 13, view to the north.
+
+Photograph 40 – Site 41TR316, Feature 14, view to the southwest.
+
+Photograph 41 – Site 41TR316, Feature 14, view to the northwest.
+
+Photograph 42 – Site 41TR316, Feature 15, view to the north.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Photograph 43 – Site 41TR316, Feature 15, view to the northwest.
+
+Photograph 44 – Site 41TR316, Feature 16, view to the south.
+
+Photograph 45 – Site 41TR316, Feature 16, view to the east.
+
+Photograph 46 – Site 41TR316, Feature 16, view to the west.
+
+Photograph 47 – Site 41TR316, Feature 16, view to the south.
+
+Photograph 48 – Site 41TR316, Feature 17, view to the east.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Photograph 49 – Site 41TR316, Feature 17, view to the east.
+
+Photograph 50 – Site 41TR316, Feature 18, view to the east.
+
+Photograph 51 – Site 41TR316, Feature 18, view to the southwest.
+
+Photograph 52 – Site 41TR316, Feature 18, view to the northwest.
+
+Photograph 53 – Site 41TR316, Feature 19, view to the southwest.
+
+Photograph 54 – Site 41TR316, Feature 19, view to the south.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Photograph 55 – Site 41TR316, Feature 19, view to the north.
+
+Photograph 56 – Site 41TR316, Feature 19, view to the southwest.
+
+Photograph 57 – Site 41TR316, Feature 19, view to the south.
+
+Photograph 58 – Site 41TR316, Feature 20, view to the northeast.
+
+Photograph 59 – Site 41TR316, Feature 20, view to the northeast.
+
+Photograph 60 – Site 41TR316, Feature 20, view to the west.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Photograph 61 – Site 41TR316, Feature 21, view to the east.
+
+Photograph 62 – Site 41TR316, Feature 22, view to the northwest.
+
+Photograph 63 – Site 41TR316, Feature 23, view to the southeast.
+
+Photograph 64 – Site 41TR316, Feature 24, view to the east.
+
+Photograph 65 – Site 41TR316, Feature 25, view to the south.
+
+Photograph 66 – Site 41TR316, Feature 25, view to the southwest.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Photograph 67 – Site 41TR316, Feature 25, view to the south.
+
+Photograph 68 – Site 41TR316, Feature 25, view to the southwest.
+
+Photograph 69 – Site 41TR316, Feature 26, view to the west.
+
+Photograph 70 – Site 41TR316, Feature 26, view to the south.
+
+Photograph 71 – Site 41TR316, Feature 27, view to the northeast.
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Appendix C
+Chains of Title
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Alex Thompson Survey
+Table 1: Tract 1A
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+Ann E. Dorris, Ione Dorris
+Hollingsworth, and her husband
+O.O. Hollingsworth; heirs of
+Thomas B. Dorris
+
+Robert S. Lipscomb
+
+3/30/1918
+
+523
+
+631
+
+Robert S. Lipscomb, deceased
+
+Heirs of Robert S. Lipscomb,
+deceased
+
+DOD
+1/26/1936
+
+Alberta Lipscomb, individually
+and as Independent Executrix of
+the Estate of R.S. Lipscomb,
+deceased; E.M. Lipscomb, Mary
+L. Lipscomb, Verdie A. Stewart,
+E.M. Lipscomb, Rossie L.
+Williams, C.B. Williams, John R.
+Lipscomb, Marion Lipscomb,
+John C. Lipscomb, and Virginia
+Lipscomb
+
+D.E. Box
+
+4/25/1949
+
+2084
+
+55
+
+D.E. Box and Ruth Box
+
+Grant Bunnell
+
+5/20/1949
+
+2089
+
+535
+
+Grant Bunnell and Jean Bell
+Bunnell
+
+City of Fort Worth
+
+8/10/1971
+
+Case
+17-8353-71
+
+Table 2: Tract 2A and Tract 3
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+C.G. Payne
+
+S.H. Watson and H.B. Watson
+
+12/30/1870
+
+210
+
+603
+
+S.H. Watson and H.B. Watson
+
+Thomas B. Dorris
+
+1/26/1905
+
+217
+
+110
+
+Thomas B. Dorris, deceased
+
+Heirs of Thomas B. Dorris
+
+DOD
+1/19/1918
+
+Anna E. Dorris, the surviving
+widow of Thomas B. Dorris
+
+Ione D. Hollingsworth
+
+7/7/1919
+
+790
+
+106
+
+O.O. Hollingsworth and Ione D.
+Hollingsworth
+
+S.B. Crabtree
+
+1/15/1940
+
+1417
+
+34
+
+S.B. Crabtree
+
+Melvin B. Shuler
+
+12/30/1963
+
+3885
+
+55
+
+Melvin B. Shuler
+
+Charles D. Wyche and Juanita
+Wyche
+
+4/10/1964
+
+3920
+
+344
+
+Charles D. Wyche and Juanita
+Wyche
+
+Mae Vonne Wyche
+
+6/5/1968
+
+4699
+
+791
+
+Mae Vonne Wyche Martin and
+Herbert C. Martin
+
+City of Fort Worth
+
+11/29/1972
+
+5386
+
+55
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Jonathan B. Fay Survey
+Table 3: Tract 1
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+E.C. Womack, Bettie J. Womack,
+Mary C. Womack, D.G. Womack,
+W.H. Womack, V.B. Womack,
+R.Y. Womack
+
+Bailey P. Payne
+
+6/1/1876
+
+N
+
+568
+
+Apolonia Nash Payne, deceased
+
+Elizabeth Wakefield,
+Administratrix of the Estate of
+Apolonia Nash Payne
+
+DOD
+4/11/1925
+
+Elizabeth Wakefield,
+Administratrix of the Estate of
+Apolonia Nash Payne
+
+J.D. Self
+
+11/21/1927
+
+998
+
+263
+
+John Daniel Self, deceased
+
+Heirs of John Daniel Self
+
+DOD
+1/5/1967
+
+Mabel M. Self, Emily E.
+Hickman, Leroy Hickman, Ann
+Loucille Estill, W.H. Estill, Mary
+Gertrude Scott, and Archie B.
+Scott
+
+John Daniel Self, Jr. and Ivy
+Self
+
+8/26/1968
+
+4617
+
+29
+
+John Daniel Self, Jr. and Ivy Self
+
+City of Fort Worth
+
+11/14/1973
+
+5585
+
+401
+
+Table 4: Tract 1A
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+Elizabeth Wakefield,
+Administratrix of the Estate of
+Apolonia Nash Payne
+
+John D. Self and Mary Mabel
+Self
+
+11/21/1927
+
+998
+
+263
+
+John D. Self and Mary Mabel Self
+
+Richard Clinton Eakins and
+Billie Deloris Eakins
+
+2/10/1959
+
+3292
+
+418
+
+Richard Clinton Eakins and Billie
+Deloris Eakins
+
+City of Fort Worth
+
+11/22/1974
+
+5754
+
+174
+
+Table 5: Tract 1B
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+J.D. Self and Maybelle Self
+
+E. Frank Caster
+
+1/26/1960
+
+3409
+
+124
+
+E. Frank Caster
+
+City of Fort Worth
+
+4/5/1972
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+Case
+96-8638-71
+
+IES Project No. 03.006.067
+
+Table 6: Tract 1C
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+Elizabeth Wakefield
+
+J.D. Self and Mabel Self
+
+11/21/1927
+
+998
+
+263
+
+J.D. Self and Mabel Self
+
+Robert E. Walling and Carrie
+B. Walling
+
+3/22/1961
+
+3543
+
+276
+
+Robert E. Walling and Carrie B.
+Walling
+
+Jim J. Hatcher
+
+10/9/1969
+
+4795
+
+603
+
+Jim J. Hatcher
+
+City of Fort Worth
+
+6/4/1975
+
+5853
+
+510
+
+Table 7: Tract 2A
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+R.E. Morrow
+
+A.E. Woodall and Fannie
+Woodall
+
+7/20/1917
+
+527
+
+131
+
+A.E. Woodall and Fannie
+Woodall
+
+R.E. Morrow
+
+3/16/1943
+
+1558
+
+329
+
+R.E. Morrow
+
+Janie Crabtree
+
+12/1/1943
+
+1610
+
+198
+
+Janie Crabtree
+
+F.W. Roberts and Mary Jane
+Roberts
+
+5/22/1947
+
+1910
+
+100
+
+F.W. Roberts and Mary Jane
+Roberts
+
+Robert J. Shaeffer and W.S.
+DuBose
+
+1/19/1968
+
+4516
+
+803
+
+Robert J. Shaeffer
+
+William Y. Harvey
+
+3/25/1969
+
+4741
+
+566
+
+W.S. DuBose and William Y.
+Harvey
+
+Great Southwest Corporation
+
+6/17/1969
+
+4741
+
+574
+
+Great Southwest Corporation
+
+City of Fort Worth
+
+1/8/1974
+
+Case
+48-10146-71
+
+Table 8: Tract 9
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+E.C. Presley and Mattie Presley
+
+D.B. Lattimore and Alice
+Beck Lattimore
+
+6/1/1940
+
+1363
+
+9
+
+D.B. Lattimore and Alice Beck
+Lattimore
+
+Henry Floyd Jordan and Iona
+Jordan
+
+3/28/1949
+
+2076
+
+225
+
+Henry Floyd Jordan and Iona
+Jordan
+
+Homer E. Long and Joy Lee
+Long
+
+10/26/1964
+
+3996
+
+348
+
+Homer E. Long and Joy Lee Long
+
+City of Fort Worth
+
+11/20/1970
+
+4968
+
+335
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Table 9: Tract 9A1
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+D.B. Lattimore and Alice Beck
+Lattimore
+
+Henry Floyd Jordan and Iona
+Jordan
+
+3/28/1949
+
+2076
+
+225
+
+Henry Floyd Jordan and Iona
+Jordan
+
+H.T. Long and Myrtle Marie
+Long
+
+9/28/1957
+
+3154
+
+432
+
+H.T. Long and Myrtle Marie Long
+
+City of Fort Worth
+
+1/6/1971
+
+4987
+
+429
+
+Table 10: Tract 9A3
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+D.B. Lattimore and Alice Beck
+Lattimore
+
+Henry Floyd Jordan and Iona
+Jordan
+
+3/28/1949
+
+2076
+
+225
+
+Henry Floyd Jordan and Iona
+Jordan
+
+H.T. Long and Myrtle Marie
+Long
+
+9/28/1957
+
+3148
+
+643
+
+H.T. Long and Myrtle Marie Long
+
+City of Fort Worth
+
+1/6/1971
+
+4987
+
+429
+
+Table 11: Tract 9A4
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+D.B. Lattimore and Alice Beck
+Lattimore
+
+Henry Floyd Jordan and Iona
+Jordan
+
+3/28/1949
+
+2076
+
+225
+
+Henry Floyd Jordan and Iona
+Jordan
+
+Foster E. Long and Sherly Jo
+Long
+
+9/28/1957
+
+3148
+
+645
+
+Foster E. Long and Sherly Jo
+Long
+
+City of Fort Worth
+
+2/16/1971
+
+5008
+
+331
+
+Table 12: Tract 9A4A
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+Henry Floyd Jordan and Iona
+Jordan
+
+Foster E. Long and Sherly Jo
+Long
+
+9/28/1957
+
+3148
+
+645
+
+Foster E. Long and Sherly Jo
+Long
+
+Henry F. Jordan and Mary
+Iona Jordan
+
+11/25/1964
+
+4008
+
+438
+
+Henry F. Jordan and Mary Iona
+Jordan
+
+City of Fort Worth
+
+12/22/1970
+
+4979
+
+572
+
+Table 13: Tract 9B
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+E.C. Presley and Mattie Presley
+
+D.B. Lattimore and Alice
+Beck Lattimore
+
+6/1/1940
+
+1363
+
+9
+
+D.B. Lattimore and Alice Beck
+Lattimore
+
+James O. Vann and Lula M.
+Vann
+
+10/21/1949
+
+2132
+
+416
+
+James O. Vann and Lula M. Vann
+
+City of Fort Worth
+
+8/16/1971
+
+5101
+
+621
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Table 14: Tract 9B1
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+E.C. Presley and Mattie Presley
+
+D.B. Lattimore and Alice
+Beck Lattimore
+
+6/1/1940
+
+1363
+
+9
+
+D.B. Lattimore and Alice Beck
+Lattimore
+
+James O. Vann and Lula M.
+Vann
+
+10/21/1949
+
+2132
+
+416
+
+James O. Vann and Lula M. Vann
+
+W.O. Vann and Cleo B. Vann
+
+12/31/1951
+
+239
+
+164
+
+W.O. Vann, deceased
+
+Heirs of W.O. Vann
+
+DOD
+1/14/1970
+
+Coman Ray Vann and Mary Ellen
+Vann; Bonnie M. Turner and W.
+Leo Turner; Earnest M. Vann and
+Christine Vann; Hazle Sue
+Sizemore and David Sizemore,
+Wesley William Vann and Daisy
+Vann; James Oliver Vann and
+Lula M. Vann; Nora B. Lewis and
+Clarence Melton Lewis; David
+Russell Vann and Ruth Vann;
+Nellie Ellen Swinford and Jim
+Swinford
+
+Cleo B. Vann
+
+9/7/1971
+
+5154
+
+555
+
+Alvin J. Vann and Gloria C. Vann
+
+Cleo B. Vann
+
+9/28/1971
+
+5154
+
+561
+
+Cleo B. Vann
+
+City of Fort Worth
+
+2/7/1972
+
+5205
+
+559
+
+Table 15: Tract 9B2
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+D.B. Lattimore and Alice Beck
+Lattimore
+
+James O. Vann and Lula M.
+Vann
+
+10/21/1949
+
+2132
+
+416
+
+James O. Vann and Lula M. Vann
+
+Charles W. Sutton and
+Dorothy D. Sutton
+
+5/1/1954
+
+2707
+
+210
+
+Charles W. Sutton and Dorothy D.
+Sutton
+
+City of Fort Worth
+
+5/3/1971
+
+5053
+
+157
+
+Table 16: Tract 9B3
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+D.B. Lattimore and Alice Beck
+Lattimore
+
+James O. Vann and Lula M.
+Vann
+
+10/21/1949
+
+2132
+
+416
+
+James O. Vann and Lula M. Vann
+
+Jose Salinas and Pia Salinas
+
+3/21/1966
+
+4192
+
+102
+
+Jose Salinas and Pia Salinas
+
+City of Fort Worth
+
+10/23/1971
+
+5141
+
+940
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+Table 17: Tract 9C
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+E.C. Presley and Mattie Presley
+
+D.B. Lattimore and Alice
+Beck Lattimore
+
+6/1/1940
+
+1363
+
+9
+
+Alice Beck Lattimore, wife of
+D.B. Lattimore
+
+J.T. Mulhollan and Evelyn
+Mulhollan
+
+6/8/1950
+
+2204
+
+402
+
+J.T. Mulhollan and Evelyn
+Mulhollan
+
+J.T. Rumfield and Golda
+Rumfield
+
+8/27/1951
+
+2349
+
+416
+
+J.T. Rumfield and Golda
+Rumfield
+
+City of Fort Worth
+
+6/28/1971
+
+5070
+
+412
+
+Table 18: Tract 9C1
+Grantor
+
+Grantee
+
+Date
+
+Volume
+
+Page
+
+J.T. Mulhollan and Evelyn
+Mulhollan
+
+J.T. Rumfield and Golda
+Rumfield
+
+8/27/1951
+
+2349
+
+416
+
+J.T. Rumfield and Golda
+Rumfield
+
+C.E. Osborn and Jennie
+Osborn
+
+12/7/1960
+
+3510
+
+591
+
+C.E. Osborn and Jennie Osborn
+
+E.G. Osborn
+
+12/18/1962
+
+3764
+
+279
+
+E.G. Osborn
+
+Anita V. Sanchez and Angelita
+Sanchez
+
+9/20/1963
+
+3859
+
+547
+
+Anita V. Sanchez and Angelita
+Sanchez
+
+City of Fort Worth
+
+9/14/1971
+
+Case
+17-9397-71
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+This page intentionally left blank
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+APPENDIX D
+Archeological Site Location Map
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+This page intentionally left blank
+
+DFW 121 Mustang Business Park Project
+Cultural Resources Survey Report
+
+IES Project No. 03.006.067
+
+

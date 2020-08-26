@@ -1,0 +1,763 @@
+AR Consultants, Inc.
+
+Archaeological and Environmental Consulting
+
+805 Business Parkway, Richardson, Texas 75081
+Phone:
+(214) 368-0478
+Fax:
+(214) 221-1519
+E-mail: arc@arc-digs.com
+
+ARCHAEOLOGICAL SURVEY OF THE PROPOSED
+
+DT3 IRVING WILDWOOD PIPELINE
+DALLAS COUNTY, TEXAS
+Texas Antiquities Permit Number 7892
+
+Allen M. Rutherford, MA
+Principal Investigator
+and
+Joanna K. Suckling, MA
+
+Submitted to:
+HALFF ASSOCIATES, INC.
+1201 N. Bowser Road
+Richardson, Texas 75081
+Submitted by:
+AR CONSULTANTS, INC.
+805 Business Parkway
+Richardson, Texas 75081
+Cultural Resources Report 2017-10
+February 21, 2017
+
+HISTORIC BUILDINGS
+
+ARCHAEOLOGY
+
+NATURAL SCIENCES
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+ARCHAEOLOGICAL SURVEY OF THE PROPOSED
+
+DT3 IRVING WILDWOOD PIPELINE
+DALLAS COUNTY, TEXAS
+Texas Antiquities Permit Number 7892
+
+Allen M. Rutherford, MA
+Principal Investigator
+and
+Joanna K. Suckling, MA
+
+Submitted to:
+HALFF ASSOCIATES, INC.
+1201 N. Bowser Road
+Richardson, Texas 75081
+Submitted by:
+AR CONSULTANTS, INC.
+805 Business Parkway
+Richardson, Texas 75081
+Cultural Resources Report 2017-10
+February 21, 2017
+
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+I
+
+ABSTRACT
+Atmos Energy Corporation is planning to construct the 4.5-mile-long DT3 Irving
+Wildwood Pipeline in portions of the Elm Fork floodplain northeast of SH114
+along Tom Braniff/Wildwood Road and Northwest Highway in Dallas County,
+Texas. Pipeline construction will consist of a mixture of open cut trenching down
+to a maximum depth of 10 ft and boring to depths of 25-40 ft below the present
+ground surface. Much of the pipeline will be installed in wide, existing right-ofways along major roadways in the area. ARC proposed to survey only those areas
+that appear not to have been previously disturbed in floodplain settings, the
+location of site 41DL236, and along a 162-m portion of the route that passes
+within 100 ft of the western boundary of site 41DL235 along Las Colinas Blvd. It
+was hypothesized that there was a high potential for identifying prehistoric
+cultural resources in those locations. ARC surveyed these high potential areas on
+February 8, 2017. A total of five shovel tests were excavated and 8.9 acres were
+surveyed. The shovel tests were negative and no cultural resources were identified
+on the surface. Additionally, no evidence of 41DL236 was discovered on the
+surface and the location of the site has been heavily disturbed by road
+construction and maintenance. ARC recommends that the site is not eligible
+within the survey corridor. Given the results of this survey, ARC recommends
+that further cultural resource investigations are unnecessary for this project, and
+requests that the Texas Historical Commission concur with this recommendation.
+Project documents will be curated at the Center for Archaeological Studies, Texas
+State University, San Marcos.
+
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ii
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+TABLE OF CONTENTS
+Abstract ............................................................................................................................................ i
+Table of Contents ............................................................................................................................ ii
+List of Figures ................................................................................................................................. ii
+List of Tables .................................................................................................................................. ii
+Introduction ......................................................................................................................................1
+Natural Environment ........................................................................................................................5
+Cultural History ...............................................................................................................................7
+Research Design and Methodology ...............................................................................................10
+Results ............................................................................................................................................11
+Recommendations ..........................................................................................................................17
+References Cited ............................................................................................................................18
+
+LIST OF FIGURES
+Figure 1.
+Figure 2.
+Figure 3.
+Figure 4.
+Figure 5.
+Figure 6.
+Figure 7.
+Figure 8.
+
+The proposed DT3 Irving Wildwood Pipeline route and high potential areas
+shown on 7.5â USGS maps.......................................................................................... 3
+Shovel test locations and (a) HPA1, (b) HPA2, and (c) HPA3 shown on recent
+aerial photographs. .................................................................................................... 12
+The north bank of the Elm Fork of the Trinity River, photo taken facing south. ....... 13
+General vegetation in the wooded areas in LB Houston Park, photo taken
+facing north. ................................................................................................................ 13
+Surface disturbance associated with road maintenance in the east ROW of
+Wildwood Drive, photo taken facing southeast. ....................................................... 14
+The mapped location of 41DL236. Note that the ROW has been graded and
+shaped into a drainage ditch. Photo taken facing north. ............................................. 14
+The location of HPA2 under construction, photo taken facing northwest. ................ 15
+Location of HPA3 with flags indicating location of Atmos high-pressure line,
+photo taken facing west. ............................................................................................ 16
+
+LIST OF TABLES
+Table 1. Shovel test descriptions. ................................................................................................. 15
+
+R-arc: DT3 Irving Wildwood Pipeline 161114
+
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+1
+
+INTRODUCTION
+Atmos Energy Corporation is planning to construct the 4.5-mile-long DT3 Irving Wildwood
+Pipeline in portions of the Elm Fork floodplain northeast of SH114 along Tom
+Braniff/Wildwood Road in L.B. Houston Park and Northwest Highway in Dallas County, Texas.
+An additional line along Las Colinas Blvd. will link into the main line at the intersection of Las
+Colinas Blvd. and Northwest Highway. Approximately 2.6 miles of the line installation will be
+open-cut trenched and the rest will be bored (Figure 1). On November 4, 2016, ARC conducted a
+cultural resources evaluation of the proposed route and found that much of the route (including
+both boring and open-cut trenching locations) have low potential for cultural resources since they
+are within wide, well-established ROWs. The open-cut trenching will occur to a maximum depth
+of 10 ft below the surface. In all but one of the locations where open-cut trenching is to occur,
+the trenches will be dug in existing ROWs that have been disturbed by previous utility line
+installation and/or road construction.
+ARC proposed to survey only those areas that appear not to have been previously disturbed in
+floodplain settings and along a 162-m portion of the route that passes within 100 ft of the
+western boundary of site 41DL235 along Las Colinas Blvd., even though the area appeared to be
+heavily disturbed by road construction and urban development (Figure 1). The floodplain
+settings included high potential area 1 (HPA1) which was a 980 m long segment on the east side
+of Wildwood Road and included the location of 41DL236 at its north end. HPA2 was a 22-mlong segment at the northern end of the route running perpendicular to Colwell Blvd. This
+segment was originally meant to be trenched, but prior to survey, coordination with Texas811
+and Atmos indicated that Atmos had a high-pressure line in this location. Trenching did not
+ultimately occur along this segment, but it was surveyed. HPA3 was the segment passing
+41DL235. Along HPA1 the pipeline will be bored and pass more than 25 feet below the surface,
+well below depths of archaeological concern. The bored pipeline will pass up to 36 feet below
+the mapped location of 41DL236. Line-of-sight clearing will take place along HPA1 in a 30-ftwide corridor. Clearing will be done by hand and should not make significant ground
+disturbance. Halff Associates, Inc., which is handling the environmental permitting for the
+project, contracted with AR Consultants, Inc. (ARC) to conduct archaeological survey of the
+proposed pipeline project. ARC surveyed approximately 8.9 acres of high potential areas on
+February 9, 2017.
+The cultural resource investigation was required because L.B. Houston Park is a property of the
+City of Dallas and the City of Dallas is a state entity. Texas Antiquities Permit Number 7892 was
+issued for the archaeological survey. Relevant legislation includes the Antiquities Code of Texas
+(Texas Natural Resource Code, Title 9, Chapter 191). The Archeology Division of the Texas
+Historical Commission will review this report on behalf of the State. Relevant federal legislation
+includes the Section 404 Permit under the Clean Water Act, the National Historic Preservation
+Act of 1966, as amended (PL-96-515), the National Environmental Policy Act of 1969 (PL-90190), and the Archeological and Historical Preservation Act of 1974, as amended (PL-93-291),
+Executive Order No. 11593 âProtection and Enhancement of the Cultural Environmen,â and
+Procedures for the Protection of Historic and Cultural Properties (36CFR800), Appendix C.
+
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+2
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+This report is written in accordance with report guidelines used by the Archeology Division of
+the THC (Council of Texas Archeologists n.d.). The following report presents a brief description
+of the natural setting of the project area, followed by a discussion of the culture history and
+previous investigations within the study area. A chapter on the research design and methodology
+employed in the investigation is then followed by the results of the field investigation. The report
+concludes with recommendations followed by the references cited.
+
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+Figure 1.
+
+3
+
+The proposed DT3 Irving Wildwood Pipeline route and high potential areas
+shown on 7.5â USGS maps.
+
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+4
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+Administrative Information:
+Sponsor:
+Review Agency:
+Principal Investigator:
+Field Dates:
+Field Crew:
+Acres Surveyed:
+Curation:
+
+Atmos Energy Corporation with Halff Associates handling
+environmental permitting
+The Archeology Division of the Texas Historical Commission and
+the Fort Worth District of the U.S. Army Corps of Engineers.
+Allen M. Rutherford, MA
+February 8, 2017
+Joanna Suckling and Allen Rutherford
+approximately 8.9 acres
+Center for Archaeological Studies, Texas State University, San
+Marcos
+
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+5
+
+NATURAL ENVIRONMENT
+The project area is in the Northern Blackland Prairies ecoregion (Griffith et al. 2007:40-41).
+Historically, this region has been comprised of large expanses of grassland, with wooded areas in
+stream bottoms. KÃ¼chler (1964) classified the prairie as being dominated by Andropogon-Sipa
+grasses, while stream bottoms were wooded with big trees such as oak, ash, cottonwood, and
+pecan trees. However, a transition from ranching to farming in the late 19th century saw an end to
+most of these tallgrass prairie communities as they were converted to croplands and non-native
+pastures. Due to expanding urban and suburban uses, the prairie environment continues to be one
+of low biotic diversity and covers less and less acreage. The Blackland Prairies that once
+supported bison, pronghorns, wolves, and greater prairie chickens, now have little habitat to
+support a diversity of wildlife (Griffith et al. 2007). The study area is in the floodplain and
+terraces of the Elm Fork of the Trinity River. The route crosses the Elm Fork twice as well as
+crossing Cottonwood Branch once.
+Most of the study area is located on Quaternary alluvium and terrace deposits associated with the
+Elm Fork floodplain, but the southernmost portion of the area is underlain by the Cretaceousaged Eagle Ford Formation (Bureau of Economic Geology 1988). Several soils overlie these
+geological formations, but the most relevant are the frequently or occasionally flooded Trinity
+and Ovan clays (Coffee et al. 1980: Sheets 16 and 23). The Trinity clays feature approximately
+6-16 inches of very dark gray clay underlain by up to 60 inches of very hard, very dark gray to
+dark olive gray clay. The Ovan clay features 6-25 inches of grayish brown clay underlain by up
+to 65 inches of grayish brown clay with dark reddish to faint brown mottles.
+
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+7
+
+CULTURAL HISTORY
+The archaeological literature lacks a definitive chronological framework for the Upper Trinity
+River Basin and North Central Texas. However, for the purposes of this report, a prehistoric
+chronology for North Central Texas, based on Prikryl (1990) with an added historic period and a
+divided Late Prehistoric, is presented below to provide the reader with a temporal framework for
+the cultural history of the region.
+Historic European
+Protohistoric
+Late Prehistoric II
+Late Prehistoric I
+Archaic
+Paleoindian
+
+A.D. 1800 to Present
+A.D. 1700 to A.D. 1800 [Historic Native American]
+A.D. 1200 to A.D. 1700
+A.D. 700 to A.D. 1200
+6,000 B.C. to A.D. 700
+ca. 11,000 B.C. to 6,000 B.C.
+
+Prehistoric Native American settlement in North Central Texas began at least 10,000 years ago
+as attested to by the presence of distinctively shaped dart points and radiocarbon dated site
+deposits at the Lewisville site (Crook and Harris 1957) and the Aubrey Clovis site (Ferring
+2001). These early people hunted now-extinct large game and foraged off the land. Evidence of
+Paleo-Indian occupation in the Upper Trinity River is generally limited to surface finds of
+Clovis, Dalton, Plainview, Midland, San Patrice, and Scottsbluff projectile point types (Prikryl
+1990). The most common types found are Plainview and Dalton, suggesting that this region may
+have been a cultural hinterland used by both the western Plainview culture and eastern Dalton
+culture (Byers 2003). These types of artifacts have been recovered from deeply buried floodplain
+deposits along the Elm Fork of the Trinity River. Daniel Prikryl reported that in the Lower Elm
+Fork area most of the Paleoindian sites are located on the terraces above the floodplain
+(1990:19). Currently, six Clovis points have been reported in Dallas County, and more have been
+found in surrounding counties (Bever and Meltzer 2007:67-70).
+The subsequent period, the Archaic, lasted from as early as about 6,000 B.C. to possibly as late
+as A.D. 700. Archaic populations lived throughout North Central Texas, but particularly along
+the major and minor stream valleys where they could hunt and gather foods and resources. Dart
+points, grinding stones, fire-cracked rock, and scrapers are artifacts commonly found at Archaic
+sites across the state. The earliest Archaic populations continued making and using exotic cherts
+for dart points, but as time passed, there was a shift toward the use of local lithics, Uvalde
+Gravels, for chipped stone tools. Large Archaic sites are generally located on terraces or ridges
+that overlook the Trinity River and its various tributaries. Smaller lithic scatters have been
+recorded in upland areas throughout the area.
+Prikryl (1990) divides the Late Prehistoric into two phases for this region (at ca. 1200 A.D.)
+based on projectile point types and changes in raw material frequencies. Late Prehistoric I is
+generally represented by heat-treated quartzite and expanding-stemmed arrow points, such as
+Scallorn and Alba (Prikryl 1990:79-83). By the Late Prehistoric II 750-250 BP, there is an
+increase in buffalo bones in deposits and a shift in the tool kit with the appearance of Harrell,
+Fresno and Washita arrow points, along with scrapers and flake drills. Late Prehistoric II saw an
+increased use of chert, suggesting an increase of mobility or the expansion of trade networks.
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+8
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+During the Late Prehistoric, bison-hunting appears to have become the dominant subsistence
+strategy. There is a marked Plains influence on lithic tool assemblages found in North Central
+Texas dating to this period, with projectile points, scrapers, knives, and drills present here that
+are seen throughout the Southern Plains (Prikryl 1990:80).
+There is very little evidence of protohistoric era Native American occupation in the Dallas-Fort
+Worth area, although historic accounts indicate that groups were present in the early 1800s. At
+the end of the Late Prehistoric period, there appears to have been a general abandonment of the
+North Central Texas area based on an absence of sites with trade goods that might have been
+obtained from French, Spanish, or English traders (Skinner 1988). This interpretation is tied to a
+perceived general drying trend and attempts to factor in negative information generated by
+professional and avocational archaeologists who have conducted numerous site surveys
+throughout the region.
+Anglo-American settlers in the early 1800s were the first non-natives to settle in North Central
+Texas. Though, beginning in the 1830s and continuing into the 1840s, indigenous inhabitants
+continued to maintain a presence in the region. Anglo settler John Neely Bryan first occupied
+Dallas County in 1841 on the bluff of the Three Forks to the Trinity River. This early settlement
+attracted other settlers who arrived to receive land grants or to join established colonies within
+the area. Many settlers came through the auspices of Peters Colony land grants, although only
+160 families and single pioneers took advantage of the grants (Garrett 1972:57). Many of the
+families that obtained land through these grants maintained and farmed their land well into the
+mid-twentieth century.
+The Civil War took its toll on the North Central Texas population, as most of the able-bodied
+men left to fight for the Confederacy. Regardless, Dallas County continued to grow and prosper
+after the war. The primary industries throughout Dallas County were agricultural until the
+twentieth century, which was replaced by manufacturing soon after the Great Depression.
+Defense factories built near Grand Prairie for the development of goods for World War II
+attracted those seeking work from rural areas. From the 1940s onward, many factories in Dallas
+and Tarrant Counties continued to turn out a wide variety of products, including airplanes,
+helicopters, mobile homes, electronics, and plastics. Along with the increase of manufacturing
+was a rapid rise in the population of Dallas, Fort Worth, and the surrounding communities.
+Between 1950 and 1990, Dallas County has tripled in population to almost two million residents
+(Maxwell 2010). Today the Dallas area continues to grow along with the rest of North Central
+Texas.
+Previous Investigations
+A search of the Texas Archeological Sites Atlas (2017) located several archaeological sites, but
+no cemeteries, National Register of Historic Places (NRHP) properties, or State Antiquities
+Landmarks (SALs) within a 1-mi radius of the project area. Recorded sites include 41DL20,
+41DL32, 41DL35, 41DL215, 41DL230-232, 41DL236, 41DL244, and 41DL383, and are located
+primarily in the Elm Fork floodplain or on terraces overlooking the floodplain. These sites
+generally consist of lithic scatters exposed by ground disturbance, but there is evidence of shell
+middens and possible burials at 41DL20 and shell middens are recorded at 41DL231-232. Those
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+9
+
+three sites are in the western floodplain of the Elm Fork (TASA 2017). Site 41DL233 is located
+on an upland ridge overlooking the north side of Cottonwood Branch. The route intersects
+41DL236 which was exposed by the construction of Wildwood Drive in L.B. Houston Park in
+1971. Some flakes and unidentified points were identified in and collected from the road cut. The
+extent of the site was undetermined and no boundaries were drawn.
+Previous archaeological surveys have been conducted within the same search radius, with some
+overlapping the current project area. The most relevant of those surveys are those that intersect
+or are with half a mile of the proposed route. In 1998, ARC surveyed a wetland mitigation area
+between Loop 12 and Tom Braniff Drive on the south side of the Elm Fork. The survey included
+several trenches up to 23.7 m in length that exposed up to 1.5 m deep profiles in the Elm Fork
+floodplain. None of the trenches were positive for prehistoric resources, nor did they expose any
+buried paleosols. In 2001, ARC surveyed a 133-acre tract bisected by Tom Braniff Drive on the
+south side of the Elm Fork of the Trinity River for the University of Dallas (Kent et al. 2001). In
+2004, Geo-Marine, Inc. surveyed W. Northwest Highway between the Elm Fork and
+Cottonwood Branch for TxDOT (TASA 2017). The study area of a 2009 survey included the
+current project area in L.B. Houston Park as part of its reconnaissance (Davis et al. 2009). The
+study area was scouted for the best possible locales for trench excavation. The portion of the
+study area where the current project area is located was removed from consideration because
+surface disturbance in that part of the study area was to be minimal (Davis et al. 2009:19). It was
+also observed that much of the area along Wildwood Drive was inundated at the time. Trenching
+was ultimately conducted in an area to the northeast of the current project area. No sites were
+found and recorded in the surveys discussed above. However, the Elm Fork floodplain has been
+the location of the discovery of many prehistoric archaeological sites. The Dallas Archeological
+Society (DAS) has done considerable survey along the Elm Fork and recorded several sites
+(Prikryl 1990). Survey conducted through UT-Arlington recorded 35 prehistoric sites along the
+Elm Fork as part of reconnaissance associated with the potential construction of levees in the
+floodplain (Hays et al. 1972). The floodplain of the Elm Fork was designated as having a high
+probability for containing prehistoric sites (Kent et al. 2001; Skinner et al. 1978). One other
+relevant project was the testing project at the Hackberry Creek Archaeological Site (41DL383)
+near the confluence of the Elm Fork and channelized Hackberry Creek (Skinner and Ferring
+1998). Testing at the Late Archaic site included ten trenches and several test units. Though 2,400
+artifacts, including a burial, were recovered at the site, most the deposit was either discovered on
+the surface and near surface.
+The 1959 Irving and Carrolton, TX 7.5â USGS topographic maps, the 1936 and 1961 general
+highway maps for Dallas County, and the 1920 Dallas County Soil Map were examined to search
+for structures mapped within the project area. No structures were mapped along the proposed
+pipeline route. Current aerial photography reveals a continued absence of structures to the
+present day. However, the route does parallel some roadways that have been mapped in the area
+since as early as 1920.
+
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+10
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+RESEARCH DESIGN AND METHODOLOGY
+Research Design
+Based on research conducted prior to survey, two hypotheses were developed. The first is that
+there is high potential for encountering prehistoric archaeological sites within undisturbed
+floodplain settings. Previous investigations in the floodplain of the Elm Fork have identified
+many prehistoric sites, many which are deeply buried, in the last 40+ years. Sites are likely to be
+temporary camp sites and/or shell middens buried under 60 to 70 cm of alluvium. Additionally, a
+segment of the proposed pipeline passes within 100 ft. of the western boundary of site 41DL235
+and another segment passes through the location of site 41DL236. Both sites are prehistoric. The
+second hypothesis was that it is unlikely that historic cultural resources would be found in the
+floodplain as no structures were identified within the project area on historic maps or aerials and
+because it is unlikely that such structures would be in a floodplain setting. It is possible that trash
+scatters or isolated artifacts may be encountered, in part because of the project areaâs location
+along roadways that have been mapped in the area for more than 50 years.
+Methodology
+Survey was conducted in accordance with the standards set forth by the THC (n.d.). Field
+personnel walked the HPAs within a 30-meter survey corridor where merited. Shovel tests were
+placed every 100 m where ground visibility was less than 30-percent and the ground surface was
+not heavily disturbed. Shovel tests averaged 30 cm in diameter. The clay fill was inspected
+visually and broken into smaller chunks to determine if cultural materials were present. Shovel
+test matrices were described based on composition, texture, and color. The Munsell Soil Color
+Chart (2010) was used to identify soil colors. The authors made notes about the ground exposure,
+drainages, soil types, and disturbed areas where subsoil was exposed. Photographs were taken
+during the survey using a 16-megapixel, digital camera. Shovel test and project boundary
+locations were marked with a handheld Garmin GPSmap64st receiver.
+
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+11
+
+RESULTS
+This chapter is divided into two sections. The first describes the project areaâs natural setting
+along with results of the pedestrian survey. Conclusions derived from the survey close the
+chapter. Shovel tests are described generally throughout the text and detailed in Table 1 at the
+end of the survey results.
+Survey Results
+Prior to survey, three high potential areas for prehistoric cultural resources were identified
+through previous research in the area and minimal surface disturbance on aerial photographs
+(Figure 2). The first high potential area (HPA1) surveyed was a 980 m long segment along the
+east side of Wildwood Road. A total of five shovel tests were excavated in HPA1. Survey began
+at the southern end of the proposed route and proceeded north, terminating at the recorded
+location of 41DL236. The beginning of the route, located on the north bank of the Elm Fork, was
+heavily eroded with a sandy surface from recent flooding events (Figure 3). Even though ground
+visibility was greater than 30-percent in this location, a shovel test (ST1) was excavated due to
+proximity to the river. Moving north, the natural topography gently rises from the river bank into
+a wooded area. In parts of the woods that are slightly elevated, leaves cover the ground making
+ground visibility 0- to 10-percent. In areas with slightly lower elevation, the ground is either
+inundated or recently inundated. The recently inundated areas have ground visibility ranging
+from 40- to 70-percent. Vegetation in the wooded areas consisted of a mix of old and new
+growth forest and some invasive underbrush including greenbriar (Figure 4). The route continues
+through the parking lot of LB Houston Park and then back into a wooded area.
+At the north border of LB Houston Park, the route exits the wooded area and follows closely
+along the eastern ROW of Wildwood Road. Much of this part of the route is inundated and/or
+eroded. It is also disturbed in some locations from road construction and maintenance (Figure 5).
+There is a lot of evidence of modern garbage dumping along Wildwood Road and in LB Houston
+Park, but no evidence of historic artifacts were identified on the surface. There was no evidence
+of site 41DL236 within the survey corridor (Figure 6). No shovel tests were excavated at the
+marked location of the site because ground visibility was greater than 30-percent and the
+centerline of the route was within the ROW of Wildwood Drive which has been disturbed by
+road construction and maintenance. The trinomial for 41DL236 is located on Wildwood Drive.
+Its initial discovery was associated with the construction of Wildwood Drive in 1971. In the
+ensuing years, Wildwood Drive has been improved and its associated ROW houses many
+underground utility lines. The trinomial for the site is located on the road and the survey corridor
+lies within the disturbed ROW. Given the lack of evidence for the site, ARC recommends that
+the site is not eligible for NRHP or SAL within the survey corridor. Should ground disturbing
+activity occur outside of the survey corridor to the east or west, work should be done to
+determine whether evidence of the site exists in those locations.
+Shovel tests (STs) 2-5 revealed a similar soil profile consisting of a 30-50 cm thick layer of dark
+to very dark grayish brown clay underlain by brown to dark yellowish brown clay. ST3
+terminated with a layer of mottled light olive brown and strong brown clay. ST5 was terminated
+due to inundation after 30 cm. ST1 revealed an 18 cm thick top layer of light yellowish brown
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+12
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+sand underlain by 82 cm of dark grayish brown clay. All the shovel tests were negative and no
+cultural resources were encountered on the surface.
+HPAs 2 and 3 were visited, but ground disturbance in both locations precluded shovel testing.
+HPA2 was a 162 m segment that passes within 100 m of site 41DL235. Aerial photos of the area
+indicated that the segment passed through a heavily disturbed area but part of it was an open
+grass field/parking area. When the segment was visited during fieldwork there was a major
+construction project occurring along the segment (Figure 7). Additionally, site 41DL235 was
+located on a hilltop topographic feature when it was first discovered. There is no current
+evidence of this hilltop at the location of 41DL235 anymore. It has been leveled and graded.
+HPA3 was visited despite the knowledge that no excavation could occur there due to the
+presence of a high-pressure line below the surface. The entire survey corridor was flagged
+indicating the presence of the high-pressure line and much of the corridor is located along an
+artificial levee (Figure 8).
+
+Figure 2.
+
+Shovel test locations and (a) HPA1, (b) HPA2, and (c) HPA3 shown on recent
+aerial photographs.
+
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+13
+
+Figure 3.
+
+The north bank of the Elm Fork of the Trinity River, photo taken facing south.
+
+Figure 4.
+
+General vegetation in the wooded areas in LB Houston Park, photo taken facing
+north.
+
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+14
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+Figure 5.
+
+Surface disturbance associated with road maintenance in the east ROW of
+Wildwood Drive, photo taken facing southeast.
+
+Figure 6.
+
+The mapped location of 41DL236. Note that the ROW has been graded and
+shaped into a drainage ditch. Photo taken facing north.
+
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+15
+
+Table 1. Shovel test descriptions.
+ST
+1
+2
+
+3
+
+Depth
+(cm)
+0-18
+18-100
+0-50
+50-70
+70-100
+0-37
+37-70
+70-100
+
+4
+
+0-60
+60-90
+
+5
+
+0-30
+30+
+
+Figure 7.
+
+Description*
+Light yellowish brown (10YR6/4) sand
+Dark grayish brown (10YR4/2) clay
+Dark grayish brown (10YR4/2) clay
+Brown (10YR4/3) clay
+Dark yellowish brown (10YR4/4) silty clay
+Very dark gray (10YR3/1) clay
+Brown (10YR5/3) clay
+Mottled light olive brown (2.5Y5/4) and strong brown
+(7.5YR4/6) silty clay
+Dark brown (7.5YR3/2) clay
+Brown (7.5YR4/3) clay
+Dark brown (7.5YR3/2) clay
+Water table
+
+Comments/
+Artifacts
+None
+None
+
+None
+
+None
+None
+
+The location of HPA2 under construction, photo taken facing northwest.
+
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+16
+
+Figure 8.
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+Location of HPA3 with flags indicating location of Atmos high-pressure line,
+photo taken facing west.
+
+Conclusions
+No archaeological sites, features, or artifacts were identified during the survey. This was
+predicted regarding historic cultural resources due to the absence of mapped structures. Though
+it was predicted in the Research Design of this document that prehistoric sites may be found in
+the floodplains of the Elm Fork of the Trinity River and Hackberry Creek, none were discovered
+within the survey corridor either due to existing disturbance or because shovel testing below 100
+cmbs was necessary given the scope of the proposed construction project. Additionally, no
+evidence of site 41DL236 was identified on the surface and the segment that passes near the
+boundary of 41DL235 was entirely under commercial development.
+
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+17
+
+RECOMMENDATIONS
+The purpose of this investigation was to determine if significant cultural resources are present
+along the proposed DT3 Irving Wildwood Pipeline route in Dallas County, Texas. No
+archaeological sites were recorded. Additionally, no evidence of site 41DL236 was discovered
+within the survey corridor. ARC recommends that 41DL236 is ineligible for NRHP and/or SAL
+listing within the survey corridor. However, if ground disturbing activity is to occur outside the
+survey corridor to the east or west, a professional archaeologist should assess those areas to
+determine whether evidence for the site exists in those locations. AR Consultants, Inc. concludes
+that further cultural resource investigations are unwarranted within the proposed project area and
+recommends that the Texas Historical Commission concur with this assessment. However, if
+buried cultural materials are discovered during construction, the Archeology Division of the
+Texas Historical Commission should be notified.
+
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+18
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+REFERENCES CITED
+Bever, Michael R. and David J. Meltzer
+2007
+Exploring Variation in Paleoindian Life Ways: The Third Revised Edition of the Texas Clovis Fluted Point
+Survey. Bulletin of the Texas Archeological Society 78:65-99.
+Bureau of Economic Geology
+1988
+Geologic Atlas of Texas: Dallas Sheet. Bureau of Economic Geology, The University of Texas at Austin.
+Byers, Johnny A.
+2003
+Hutcheson Ranch Archaeological Investigations (41PR101, 41PR102, 41PR103). Texas Archeology
+Academy Report. Texas Archeological Society.
+Coffee, Daniel R., Ralph H. Hill and Dennis D. Ressel
+1980
+Soil Survey of Dallas County, Texas. USDA, Soil Conservation Service in cooperation with the
+Texas Agricultural Experiment Station.
+Crook, Wilson W., Jr. and R. King Harris
+1957
+Hearths and Artifacts of Early Man near Lewisville, Texas and Associated Faunal Material. Bulletin of the
+Texas Archeological Society 28:7-79.
+Davis, Cody, Nick Coleman, and S. Alan Skinner
+2009
+Archaeological Survey of the Elm Fork Flood Protection Project, Dallas, Texas. Cultural Resources Report
+2009-41. AR Consultants, Inc., Dallas.
+Ferring, C. Reid, Editor
+2001
+The Archaeology and Paleoecology of the Aubrey Clovis Site (41DN479), Denton County, Texas.
+Center for Environmental Archaeology, Department of Geography, University of North Texas, Denton.
+Garrett, Julia Kathryn
+1972
+Fort Worth: A Frontier Triumph. Encino Press, Austin.
+Griffith, Glenn, Sandy Bryce, James Omernik, and Anne Rogers
+2007
+Ecoregions of Texas. Texas Commission on Environmental Quality, Austin.
+Hays, Thomas R., Thomas R. Hellier, Jr., and Thomas E. Kennerly, Jr.
+1972
+Environmental Impact Study of the Elm Fork Region of the Trinity River. Report submitted to the Fort
+Worth District, US Army Corps of Engineers by the Department of Biology, The University of Texas at
+Arlington.
+Kent, Floyd D., Lance K. Trask, and S. Alan Skinner
+2001
+Cultural Resources Investigation Adjacent to Tom Braniff Drive at the Crossing of the Elm Fork of the
+Trinity River, Irving, Texas. Cultural Resources Report 2001-25. AR Consultants, Inc., Dallas.
+KÃ¼chler, A.W.
+1964
+Potential Natural Vegetation of the United States. US Geological Survey.
+Maxwell, Lisa C.
+2010
+Dallas County. Handbook of Texas Online. Electronic document,
+https://tshaonline.org/handbook/online/articles/hcd02, accessed February 6, 2017.
+Lowther, A.C.
+1990
+Soil Survey of Shackelford County, Texas. United States Department of Agriculture, Soil Conservation
+Service, in cooperation with Texas Agricultural Experiment Station.
+Prikryl, Daniel D.
+1990
+Lower Elm Fork Prehistory, A Redefinition of Culture Concepts and Chronologies along the Trinity River,
+North-Central Texas. Texas Historical Commission, Office of the State Archeologist, Report 37.
+Skinner, S. Alan, Jeffrey J. Richner, and Mary R. Johnston
+1978
+Dallas Archaeological Potential, Procedures for Location and Evaluating Prehistoric Resources. Research
+Report 111, Archaeology Research Program. Southern Methodist University, Dallas.
+Skinner, S. Alan
+1988
+Where Did All the Indians Go? The Record 42(3):101-104.
+Skinner, S. Alan and C. Reid Ferring
+1999
+The Hackberry Creek Archaeological Site, Irving, Texas. Cultural Resources Report 99-7. AR Consultants,
+Dallas.
+Skinner, S. Alan and Floyd D. Kent
+1998
+Cultural Resource Investigation of an Elm Fork Wetland Mitigation Area, Irving, Texas. Cultural
+Resources Report 98-22. AR Consultants, Dallas.
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+ARCHAEOLOGICAL SURVEY OF DT3 IRVING WILDWOOD PIPELINE
+
+19
+
+Texas Archeological Sites Atlas
+2017
+Search for features and archaeological sites listed in Dallas County. Texas Historical Commission Internet
+site, http://nueces.thc.state.tx.us, accessed February 21, 2017.
+
+_________________________________________________________________________________________________
+AR CONSULTANTS, INC.
+
+

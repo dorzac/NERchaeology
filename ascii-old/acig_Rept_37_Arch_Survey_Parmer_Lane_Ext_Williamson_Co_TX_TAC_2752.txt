@@ -1,0 +1,3835 @@
+Archaeological Survey of the Parmer Lane Extension Project,
+SH 29 to FM 3405, Williamson County, Texas
+Texas Antiquities Permit # 2752
+
+Prepared for:
+aci consulting, a division of aci group, LLC.
+1001 Mopac Circle Suite 100
+Austin TX, 78746
+
+For:
+Williamson County
+
+By:
+Sean R. Nash, RPA and Gregory D. Staples
+
+Principal Investigator: Sean R. Nash, RPA
+
+Reports of Investigations, Number 37
+
+Archaeological and Cultural Sciences Group
+Austin, Texas
+July 2004
+
+Table of Contents
+EXECUTIVE SUMMARY .............................................................................................. 4
+INTRODUCTION............................................................................................................. 8
+AREA OF POTENTIAL EFFECT ................................................................................. 9
+POTENTIAL IMPACTS.................................................................................................. 9
+ENVIRONMENTAL BACKGROUND.......................................................................... 9
+Physiography ................................................................................................................... 9
+Flora and Fauna ............................................................................................................. 10
+Geology and Soils.......................................................................................................... 10
+PREHISTORIC BACKGROUND ................................................................................ 11
+Paleo-Indian (Before 8800 B.P.) .................................................................................. 11
+Archaic (8800-1300 B.P.)............................................................................................. 12
+Late Prehistoric (1300 - ca. 500 B.P., or contact) ........................................................ 13
+HISTORICAL BACKGROUND................................................................................... 13
+PREVIOUSLY RECORDED ARCHAEOLOGICAL SITES.................................... 15
+METHODS ...................................................................................................................... 17
+Pedestrian Survey .......................................................................................................... 17
+Shovel and Backhoe Testing ......................................................................................... 21
+RESULTS OF FIELD INVESTIGATIONS................................................................. 21
+Pedestrian Survey Results (See Figure 15).................................................................... 21
+Section 1..................................................................................................................... 21
+Section 2..................................................................................................................... 22
+Section 3..................................................................................................................... 24
+Section 4..................................................................................................................... 29
+Newly Recorded Sites ................................................................................................... 36
+Site 41WM1079 ......................................................................................................... 36
+Site 41WM1080 ......................................................................................................... 42
+Site 41WM1084 ......................................................................................................... 47
+Historical Research Results ........................................................................................... 50
+Shovel Testing and Backhoe Trenching Results ........................................................... 57
+Shovel Test Results (See Appendix 1) ....................................................................... 57
+Section 1.................................................................................................................. 59
+Section 2.................................................................................................................. 59
+Section 3.................................................................................................................. 61
+Section 4.................................................................................................................. 70
+Backhoe Trench Test Results (See Appendix 2)........................................................ 70
+CONCLUSIONS ............................................................................................................. 78
+RECOMMENDATIONS................................................................................................ 79
+REFERENCES CITED .................................................................................................. 81
+APPENDIX 1: Summary Results of Formal Shovel Tests .............................................. 84
+APPENDIX 2: Summary Results of Formal Backhoe Trench Tests............................... 93
+
+List of Figures
+Figure 1. Location of APE within Williamson County. .................................................... 5
+Figure 2. USGS Topographic map showing APE. ............................................................ 6
+Figure 3. USGS Topographic map showing previously recorded sites, newly recorded
+sites (in red), and general environment. ..................................................................... 18
+Figure 4. USGS Topographic map showing ROW and survey sections. ........................ 20
+Figure 5. Top-Plowed field north of SH 29. Bottom-Environment at Middle Fork of the
+San Gabriel River (background). ............................................................................... 23
+Figure 6. Top-Environment north of the Middle Fork of the San Gabriel River. BottomView north along centerline of ROW showing canyon in background. .................... 25
+Figure 7. Top-Stream in canyon. Bottom-Exposed bedrock on canyon wall.................. 26
+Figure 8. Top-Quarry south of Sowes Branch. Bottom-Sowes Branch facing west. ...... 27
+Figure 9. Top-Field between Sowes Branch and CR 258. Bottom-Biface ISF found in
+field north of Sowes Branch....................................................................................... 28
+Figure 10. Top-Environment south of CR 258. Bottom-Unnamed tributary of Sowes
+Branch facing north. Note the exposed bedrock. ...................................................... 30
+Figure 11. Top-Environment north of CR 258. Note the skunk. Bottom-Fractured
+bedrock on the surface north of CR 258. ................................................................... 31
+Figure 12. Top-Upland field south of North Fork. Bottom-View north from bluff
+overlooking river flood plain...................................................................................... 32
+Figure 13. Top-View east across southern flood plain of river. Bottom-View south from
+north bank of river showing cut bank......................................................................... 33
+Figure 14. Top-View northwest across northern flood plain of river. Bottom-Upland
+environment immediately south of FM 3405............................................................. 34
+Figure 15. USGS Topographic map showing ROW, isolated surface finds, and newly
+recorded sites.............................................................................................................. 35
+Figure 16. Survey map of site 41WM1079...................................................................... 37
+Figure 17. Top-Feature 1 at 41WM1079. Bottom-Feature 2 at 41WM1079. ................. 39
+Figure 18. Top-Feature 3 at 41WM1079. Bottom-Feature 4 at 41WM1079. ................. 40
+Figure 19. Top-Feature 5 at 41WM1079. Bottom-Feature 6 at 41WM1079. ................. 41
+Figure 20. Survey map of site 41WM1080...................................................................... 43
+Figure 21. Top-View facing northeast at site 41WM1080 with depression and tree trunk
+in foreground. Bottom-Very old live oak trees that appear to mark a fence row and
+northwestern boundary of site 41WM1080................................................................ 44
+Figure 22. Top-Possible chimney base. Bottom-View of stone scatter (chimney fall) at
+41WM1080................................................................................................................. 45
+Figure 23. Top-Possible lintel. Bottom-Rock pile northeast of chimney fall.................. 46
+Figure 24. Top and Bottom-Two additional chimneys on the Van Artsdalen tract. ........ 48
+Figure 25. Top and Bottom-Rock fence north of site 41WM1080 .................................. 49
+Figure 26. Top-Site 41WM1084 looking north across river flood plain. Bottom-Nolan
+projectile point from ST 34. ....................................................................................... 51
+Figure 27. 1856 Williamson County map showing original land grants and approximate
+location of ROW. ....................................................................................................... 53
+Figure 28. 1940 County Road map showing approximate location of ROW and
+41WM1079................................................................................................................. 56
+2
+
+Figure 29. USGS Topographic map showing ROW and shovel test locations. .............. 58
+Figure 30. Top-ST 56. Bottom-ST 18. ............................................................................ 60
+Figure 31. Top-ST 39. Bottom-ST 41. ............................................................................ 62
+Figure 32. Top-ST 35. Bottom-ST 38. ............................................................................ 63
+Figure 33. Top-ST 42. Bottom-ST 44. ............................................................................ 64
+Figure 34. Top-ST 46. Bottom-ST 47. ............................................................................ 65
+Figure 35. Top-ST 22 at 41WM1079. Bottom-ST 24 at 41WM1079............................. 66
+Figure 36. Top- ST 28. Bottom-ST 29. ............................................................................ 68
+Figure 37. Top-ST 30 at nucleus of prehistoric component of 41M1080. Bottom-ST 32
+at 41WM1080............................................................................................................. 69
+Figure 38. Top-ST 34 at 41WM1084. Bottom-ST 48..................................................... 71
+Figure 39. Top-ST 51. Bottom-ST 52. ............................................................................ 72
+Figure 40. Top-BHT 1. Bottom-BHT 3........................................................................... 73
+Figure 41. Top- BHT 6. Bottom-BHT 9.......................................................................... 74
+Figure 42. Top-BHT 10. Bottom-BHT 11. ..................................................................... 75
+Figure 43. Top-Upper portion of BHT 16. Bottom-Lower portion of BHT 16. ............. 76
+Figure 44. Top-Upper portion of BHT 19 at 41WM1084. Bottom-Lower portion of BHT
+19 at 41WM1084........................................................................................................ 77
+
+3
+
+Archaeological Survey of the Parmer Lane Extension Project,
+SH 29 to FM 3405, Williamson County, Texas
+
+EXECUTIVE SUMMARY
+Archaeological and Cultural Sciences Group (ACSG) conducted an intensive
+archaeological survey of the proposed extension of Parmer Lane between State Highway
+(SH) 29 and Farm-to-Market (FM) 3405 in Williamson County, Texas, from November
+30, 2001 to April 11, 2003 and excavated backhoe trenches on April 04, 05, and 06,
+2003. The project area consists of the 5.2-mile-long, 200-ft-wide, County-controlled
+Right-of-Way (ROW) of the proposed extension of Parmer Lane between SH 29 and FM
+3405 (Figures 1 and 2). The Area of Potential Effect (APE) is of the 200-ft-wide, 5.2mile-long ROW of the proposed Parmer Lane extension. Funding for this project comes
+solely from the Williamson County Road Bonds Program. Because this permit was
+issued before the revised Texas Archeological Survey Standards were adopted, this
+project does not incorporate the revised standards.
+A records search was conducted at the Texas Archeological Research Laboratory
+(TARL) and the Texas Historical Commissionâs (THC) Texas Archeological Sites Atlas
+in order to locate any previously recorded historic and prehistoric cultural resources in
+the project area. With the benefit of this research a 100% pedestrian survey of the entire
+project area was performed. Shovel testing was performed in areas where the soil depth
+appeared to exceed 10 cm. Backhoe trenching was used as a supplement to shovel testing
+in the deeper sediments of the flood plains.
+There are nine previously recorded archaeological sites located near the ROW. They are
+41WM173, 41WM174, 41WM175, 41WM176, 41WM182, 41WM183, 41WM203,
+41WM214, and 41WM215. No previously recorded sites are located within the ROW.
+Three new archaeological sites were recorded within the ROW. Two of these sites are
+historic farmstead/homestead sites. The third site is a buried prehistoric site located in
+the floodplain of the North Fork of the San Gabriel River. Site 41WM1079 is an early to
+middle twentieth century farmstead located approximately 15 m (49 ft) northwest of CR
+258. The site includes four outbuildings, a limestone wall, and the remains of a house
+(limestone chimney and foundation stones). According to the present property owner, the
+house was likely constructed in the 1920s. The construction date is based on the use of
+1920s newspapers as wallpaper in the house. Shovel Tests executed within the ROW
+tested negative for artifacts, and bedrock was exposed in all of the shovel tests conducted
+at the site. Due to the lack of diagnostics and ambiguous historical affiliations, the site is
+not potentially eligible for nomination to the National Register of Historic Places (NRHP)
+or as a State Archeological Landmark (SAL). The extant buildings are twentieth century
+constructions that do not possess unique
+
+4
+
+Figure 1. Location of APE within Williamson County.
+5
+
+Figure 2. USGS Topographic map showing APE.
+6
+
+architectural characteristics or sufficient integrity to warrant potential eligibility to be
+listed on the NRHP.
+Site 41WM1080 is a historic house site located on a bluff overlooking the southern flood
+plain of the North Fork of the San Gabriel River. All that remains of the house is a
+heavily disturbed chimney fall, foundation stones, and an artifact scatter. No extant
+buildings are present at the site. Shovel tests executed within the ROW tested positive
+for historic artifacts (glass and unidentified metal fragments). However, no clear
+diagnostic artifacts were observed. Bedrock was exposed in three of the shovel tests
+executed at the site. Due to the lack of clear diagnostics, poor site integrity, and
+ambiguous historical affiliations, the historical component of site 41WM080 is not
+potentially eligible for nomination to the NRHP or as a SAL.
+Site 41WM1080 also contains a prehistoric component. The component consists of a
+sparse, surficial scatter of chert debitage that has been thoroughly disturbed by plowing.
+One chert flake fragment was discovered in a shovel test and several flake fragments
+were observed on the surface. Due to the surficial context and highly disturbed nature of
+the component and the corresponding lack of diagnostic artifacts, the prehistoric
+component has negligible research value and is not potentially eligible for nomination to
+the NRHP or as a SAL.
+Site 41WM1084 is a buried prehistoric site located in the southern flood plain of the
+North Fork of the San Gabriel River. The site is located at the base of steep bluff
+overlooking the floodplain. Shovel Test 34, which was conducted at the base of the bluff,
+tested positive for cultural materials. Chert debitage and one Nolan projectile point was
+located at 10 to 70 cmbs. Five additional shovel tests and two backhoe trench tests were
+executed to delimit the site boundaries. All additional subsurface tests tested negative for
+cultural materials. Due to the questionable context of the cultural deposits and scant
+artifacts present, site 41WM1084 is not potentially eligible for nomination to the NRHP
+or as a SAL.
+A total of 61 shovel tests were executed in the Parmer Lane ROW. Four shovel tests
+tested positive for cultural materials. Three of these (STâs 31, 32, and 33) were executed
+at site 41WM1080, a historic homestead. The fourth shovel test (ST 34) was executed at
+site 41WM1084, a buried prehistoric site located in the flood plain of the North Fork of
+the San Gabriel River.
+A total of 19 backhoe trenches were excavated in the northern and southern flood plains
+of the North Fork of the San Gabriel River. All backhoe trenches tested negative for
+archaeological deposits. The pedestrian survey and shovel test results revealed poor
+depositional environments at Sowes Branch, the Middle Fork of the San Gabriel River,
+and the minor tributaries of Sowes Branch and the North Fork of the San Gabriel River.
+Backhoe trenching was not performed at these locations during the archaeological survey
+due to the shallow deposits.
+
+7
+
+No cultural materials, other than a Nolan projectile point that will be returned to the land
+owner, were collected during any part of the survey.
+No further work is warranted. It is ACSGâs recommendation that the construction of the
+Parmer Lane Extension between SH 29 and FM 3405 be allowed to begin without delay
+at this time. ACSG seeks concurrence for the following in regard to the project:
+1) No historic properties listed or eligible for listing on the National Register of
+Historic Places will be impacted by the proposed project
+2) No archaeological deposits designated or eligible for designation as a State
+Archeological Landmark will be impacted by the proposed project
+3) No further archaeological work is required
+4) No further consultation with the State Historic Preservation Officer is required.
+5) The project may proceed to construction in the project area.
+This report follows the Council of Texas Archeologists (CTA) guidelines, and it is
+designed to satisfy State and Federal laws and regulations. The findings of the cultural
+resource survey and records search are summarized and assessments and
+recommendations concerning cultural resources are presented. A brief environmental
+background is provided.
+INTRODUCTION
+Archaeological and Cultural Sciences Group conducted an intensive archaeological
+survey of the proposed extension of Parmer Lane between SH 29 and FM 3405 in
+Williamson County, Texas, from November 30, 2001 to April 11, 2003 and excavated
+backhoe trenches on April 04, 05, and 06, 2003. The proposed road extension is
+approximately 5.2 miles long and is located in western Williamson County, Texas
+(Figures 1 and 2).
+The Parmer Lane Extension Project involves extending the existing Parmer Lane from its
+northern terminus at FM 1431 to the Williamson/Bell County Line. Eventually, Parmer
+Lane will connect with Interstate Highway (IH) 35 north of Georgetown. An intensive
+archaeological survey of the first two phases of the project (Parmer Lane Extension from
+FM 1431 to FM 2243 and Parmer Lane Extension from FM 2243 to SH 29) has been
+completed by ACSG. The third phase of the project is an approximately 9.1-mile-long
+extension of Parmer Lane between SH 29 to FM 2338.
+This report covers a 5.2-mile-long section of the third phase between SH 29 and FM
+3405. The remainder of the third phase (i.e., FM 3405 to FM 2338) will be addressed in
+a separate report that will be submitted to the THC at a later date. The scope of work for
+the project and the Texas Antiquities Permit issued by the THC include both portions of
+the third phase.
+
+8
+
+Funding for this project comes solely from the Williamson County Roads Bond Program.
+As a State entity, Williamson County is obligated to comply with the Texas Antiquities
+Act and the Rules of Practice and Procedure for the Texas Antiquities Act. These rules
+are interpreted and enforced primarily by the Texas Historical Commission (THC). After
+a visit to the project location, an initial scope of work was formulated to comply with the
+Texas Antiquities code. The stated goal of the Antiquities Code of Texas is, âto locate,
+protect, and preserve all sites, objects, buildingsâ¦, and locations of historical,
+archeological, educational, or scientific interest, including but not limited to prehistoric
+and historical American Indian or aboriginal campsites, dwellings, and habitation sites,
+archeological sites of every characterâ¦within the jurisdiction of the State of Texas.â The
+THC approved this initial scope of work before the revised Texas Archeology Survey
+Standards were adopted, and Texas Antiquities Permit #2752 was issued to Sean R. Nash
+as principal investigator for ACSG.
+
+AREA OF POTENTIAL EFFECT
+The APE for this project consists of the 200-ft-wide, 5.1-mile-long ROW of the proposed
+extension. The total APE is approximately 126 acres.
+
+POTENTIAL IMPACTS
+The road construction will impact all surface areas within the APE. In upland areas,
+impact to bedrock is anticipated. In the deeper sediments of the North Fork of the San
+Gabriel River and its tributaries, only bridge supports and abutments will impact
+sediments deeper than 1.5 m.
+
+ENVIRONMENTAL BACKGROUND
+Physiography
+Williamson County is divided into two physiographic regions by the Balcones
+Escarpment, which bisects the county along its north-south axis. On the western side of
+the escarpment, the landform is characterized by rolling limestone uplands with an
+average elevation of 850 ft above mean sea level (AMSL). The vegetation within the
+region consists of live oak, mesquite, Ashe juniper, prickly pear cactus, and tall and mid
+grasses. The land is used primarily for livestock, but some agriculture takes place along
+the eastern edge of the region. The mineral resources within the region are important
+assets for the county economy. Limestone quarrying and the production of quick lime
+have been significant industries in western Williamson County since the 1850s. On the
+eastern side of the escarpment, the physiographic province is characterized by nearly
+level to gently rolling blackland prairies with an average elevation of 600 ft AMSL. This
+region has been extensively cultivated. However, areas along the rivers, creeks, and
+9
+
+drainages contain riparian forests of hackberry, cottonwood, elm, walnut, and pecan.
+Approximately 30 percent of the land is prime farmland (Odintz 2002).
+The property is located at the southern end of the Lampasas Cut Plain (Barnes 1974). A
+rich ecotone, where three physiographic provinces intersect, encompasses the area of the
+project. The property is within the upper reaches of the Brazos River drainage system
+(Collins 1998:6). This landform is characterized in the area of the project by rolling
+limestone uplands dissected by broad, shallow valleys. Karst features are common in the
+region. A fault line bisects the project area at a point approximately 2.2 km south of the
+North Fork of the San Gabriel River and strikes northeast to southwest. The western side
+of the fault is the upthrown side. Sowes Branch, a tributary of the North Fork of the San
+Gabriel River, flows through the fault valley.
+The proposed extension will cross the North Fork and Middle Fork of the San Gabriel
+River and Sowes Branch, a tributary of the North Fork of the San Gabriel River. The
+ROW will also cross three minor tributaries of Sowes Branch and one minor tributary of
+the North Fork of the San Gabriel River. Only the North Fork of the San Gabriel has
+significant alluvial deposits. The North Fork of the San Gabriel River converges with the
+Middle Fork immediately west of the City of Georgetown and the South Fork of the San
+Gabriel River immediately east of the City of Georgetown. The San Gabriel River
+converges with the Little River, which is a tributary of the Brazos River.
+Flora and Fauna
+Upland soils are thin to non-existent and support a live oak savanna. Ashe juniper, live
+oak, pecan, agarita, and prickly pear cactus are common. Blairâs (1950) Texan and
+Balconian biotic provinces meet in the area of the property and the flora and fauna of
+both provinces can be found. During the survey, deer, jackrabbits, a skunk, and various
+birds were observed within the project area.
+Geology and Soils
+The project area is bisected by a fault line that strikes northeast to southwest. On the
+eastern side of the fault line (the downthrown side), the underlying geologic formations
+within the project area consist of Lower Cretaceous Edwards Limestone (Ked), Keys
+Valley Marl (Kkv), and Pleistocene stream terraces (Qt). On the western side of the fault
+line (the upthrown side), the underlying geologic formations are comprised of Glen Rose
+Formation (Kgr [u]), Bee Cave Marl (Kbc), and Cedar Park Limestone (Kcp). Recent
+flood plain deposits (Qal) and Pleistocene stream terraces (Qt) are the primary geologic
+formations within the flood plain of the North Fork of the San Gabriel River (Barnes
+1974)
+Soils that encompass the project area include Denton-Eckrant-Doss and EckrantGeorgetown association soils. East of the fault line, Eckrant-Georgetown association
+soils are the predominant soil types. These soils are described as âvery shallow to
+moderately deep, calcareous and noncalcareous, stony, cobbly, and loamy soils formed in
+indurated limestone; on uplandsâ (U.S. Department of Agriculture, Soil Conservation
+10
+
+Service [USDA, SCS] 1983). West of the fault line, Denton-Ekrant-Doss association
+soils are the predominant soil types. These are described as âmoderately deep, shallow
+and very shallow, calcareous, clayey, cobbly and stony soils formed in indurated
+fractured limestone or limy earths; on uplandsâ (USDA, SCS 1983).
+The flood plains of the North Fork of the San Gabriel River and Sowes Branch, a
+tributary of the river, contain Sunev silty clay loam on 1 to 3 percent slopes (SuB) and
+channeled Oakalla soils (Oc). The Oakalla-Sunev association soils are described as
+âdeep, calcareous, loamy soils formed in alluvium; on bottomlands and stream terracesâ
+(USDA, SCS 1983). The headwaters of the Middle Fork of the San Gabriel River cross
+the ROW in the southern section of the APE. The Middle Fork of the San Gabriel River
+contains very little alluvium. Four small ephemeral tributaries of Sowes Branch and the
+North Fork of the San Gabriel River cross the ROW in the central and northern section of
+the APE. These tributaries contain negligible amounts of alluvium.
+
+PREHISTORIC BACKGROUND
+The property falls within the Central Texas archaeological region (Collins 1995).
+Prehistoric archaeological sites in Central Texas represent continuous human occupation
+starting around 11,500 years ago. Throughout its occupation, hunting and gathering is
+believed to be the exclusive resource procurement strategy of prehistoric Central Texans.
+Sites have been interpreted to represent relatively short-term occupations. Deeper sites
+with large amounts of cultural materials are thought to be camps that were returned to
+through the years possibly on a regular basis.
+Michael B. Collins (1995) authored a recent synthesis of Central Texas archaeology. The
+cultural history summarized here is based in large part on his synthesis. Collins divides
+the prehistory of Central Texas into three periods: (1) the Paleo-Indian, (2) the Archaic,
+and (3) the Late Prehistoric. Each of these has further been divided into subperiods, such
+as early and late. Smaller units of time referred to as âstyle intervalsâ are used to
+coincide with the interval of use of a particular point style or group of point styles. These
+style intervals can overlap or extend over more than one subperiod. Most, however, can
+be used to subdivide the subperiods. Information pertaining to burned rock middens, if
+found, is based primarily on Blackâs (1997) research.
+Paleo-Indian (Before 8800 B.P.)
+The evidence (e.g., Meltzer 1993) no longer supports the long held belief that North
+American Paleo-Indians could be characterized as nomadic bands of big game hunters.
+Big game hunting is indicated, particularly in association with Folsom. However, a more
+generalized hunting and gathering subsistence is now evidenced at Paleo-Indian sites
+across Texas and the rest of North America (e.g., Burger Bluff (41GD30) and Baker
+Cave). The relatively mesic conditions that prevailed from about 11,500 allowed for a
+high biomass in central Texas and the surrounding regions (Collins 1995).
+
+11
+
+Clovis and Folsom style intervals divide Collinsâ early Paleo-Indian period (11,20010,000 B.P.). Clovis is the earliest recognized cultural horizon in central Texas. Clovis
+is securely dated to between 11,200 and 10,900 B.P. in radiocarbon years. The WilsonLeonard, Gault, and Pavo Real sites have recently added new data to the study of these
+early peoples of what is now Texas. Kincaid Rockshelter and Horn Shelter sites also
+have documented Clovis components. Clovis artifacts include prismatic blades, engraved
+stones, bola stones and the unique Clovis point (Collins 1995). Clovis points are usually
+lanceolate, fluted projectile or lance points (Collins 1998).
+The Folsom style interval is not as securely dated, and appears to overlap with Clovis.
+The finely retouched and fluted Folsom points are one of the most easily recognized
+points made in the Americas. In Folsom times, more than at any other interval, people
+were specialized hunters. Bison kills with associated Folsom points remain the typical
+Folsom site type. The postulated style intervals following Folsom, known as Plainview
+and Dalton-San Patrice, are not well known or clearly defined. However, evidence from
+sites containing components related to them, such as Horn Shelter 2, indicate an Archaiclike hunter-gatherer lifeway (Redder 1985).
+Wilson, Golondrina-Barber, and St. Maryâs Hall style intervals make up Collinsâ (1995)
+late Paleo-Indian subperiod. This subperiod is characterized as intermediate or
+transitional between Paleo-Indian and Archaic (Collins 1998:63-4). Burned rock features
+have been found associated with all three style intervals of this subperiod, but they are
+substantially smaller and less frequent than in the Archaic (Collins 1995).
+Archaic (8800-1300 B.P.)
+The mesic conditions of the Paleo-Indian period come to an end during the early
+subperiod of the Archaic. With the exception of the Bell-Andice-Calf Creek interval of
+the middle Archaic subperiod, this was a more xeric time for Central Texas and the
+surrounding regions. A jump in the number of ground stone tools, specifically manos and
+metates suggests an increased reliance on plant resources (Collins 1995). Central Texas
+Archaic sites are characterized by accumulations of heat-altered rock, including those
+known as burned rock middens.
+Three subperiods have been defined for the Central Texas Archaic: (1) early, (2) middle,
+and (3) late (Johnson and Goode 1994, Collins 1995). Early Archaic sites (8800-6000
+B.P.) are recognized by the presence of Angostura, Early Split Stem, and MartindaleUvalde points. Unifacial Clear Fork tools and Guadalupe bifaces are found in early
+Archaic sites along with ground stone tools and other bifacial and unifacial implements.
+Early Archaic earth ovens and accumulations of burned rock are found primarily on the
+better-watered portions of the Edwardâs plateau, in Live Oak savanna habitats. These
+earth ovens and accumulations of burned rock have been considered the technological
+antecedents of the classic burned rock middens (Collins 1995). However, at Ft. Hood
+seven burned rock middens were carefully dated using AMS. The features spanned from
+5500 BC (early Archaic) to 1400 AD (Quigg and Ellis 1994). Two others burned rock
+middens in Kerr County have been dated to the early Archaic (Luke 1980). It is possible
+12
+
+that these reported early burned rock ovens and accumulations may represent the same
+phenomenon in a different form or stage of development (e.g., incipient)
+During the first interval (6000-5000 B.P.) of the middle Archaic subperiod the climate is
+somewhat more mesic. Bison populations soared. The technically impressive BellAndice-Calf Creek points were likely made primarily for killing these Bison (Johnson
+and Goode 1994). By 5000 B.P., the Bison had dwindled and the climate had become
+more xeric again. Burned rock middens were likely used to cook sotol and other
+xerophytes that thrived during these dry years (Johnson and Goode 1994:26). The last
+thousand years of the middle Archaic (5000-4000 B.P.) are divided into two style
+intervals, Taylor and Nolan-Travis.
+The late Archaic (4000-1300 B.P.) began during the driest time central Texans had ever
+experienced. There was, however, a steady increase in effective moisture until it peaked
+in the later part of the late Archaic (Collins 1995). With the increase in effective
+moisture came the return of Bison. Six style intervals are recognized for the late Archaic:
+(1) Bulverde, (2) Pedernales-Kinney, (3) Lange-Marshall-Williams, (4) Marcos-MontellCastroville, (5) Ensor-Frio-Fairland, and (6) Darl.
+Late Prehistoric (1300 - ca. 500 B.P., or contact)
+The beginning of the late Prehistoric period is defined primarily by the introduction of the
+bow and arrow. Pottery was also introduced during this time, but unlike many areas in
+Texas and the rest of the New World, hunting and gathering resource procurement
+strategies prevailed (Collins 1995). Many documented instances of arrow wounds are
+recorded during this period (Prewitt 1974).
+The late Prehistoric is divided into early and late subperiods (Jelks 1962). Each
+subperiod has a single style interval. The early subperiod is represented by the Austin
+style interval and the late subperiod by the Toyah interval (Collins 1995). Scallorn and
+Edwards points are diagnostic of the early subperiod and Perdiz is representative of the
+Toyah archaeological manifestation.
+
+HISTORICAL BACKGROUND
+Historic exploration and settlement of the Williamson County area began in the late
+seventeenth and early eighteenth century when Spanish explorers traveled through the
+region searching for better routes to the missions in East Texas. Captain Alonso De LeÃ³n
+followed the Camino Real from San Antonio to Bastrop several times during the 1680s,
+and, at least once, he traveled on the Camino de Arriba, which crossed Brushy Creek and
+the San Gabriel River. In 1716, Louis Juchereau de St. Denis, a French explorer, and
+Captain Domingo Ramon, a Spanish explorer, led an expedition through the area and
+camped on the banks of Brushy Creek and the San Gabriel River. They named them
+Arroyo do las BendÃ­tas Ãnimas and Rio de San Xavier, respectively. In 1721, Marques
+de Aguayo led a large group of soldiers, livestock, and provisions through present-day
+13
+
+Williamson County to replenish supplies at the eastern missions (The City of Round
+Rock 1998). In the mid-eighteenth century, the San Xavier missions were established
+along the San Gabriel River, just east of the Williamson/Milam County line. By 1753,
+drought and disease made the missions uninhabitable and Spanish influence in the area
+declined (Odintz 2002).
+Anglo-American influence in the area began with a series of land grants from the
+Mexican government in the late-eighteenth and early-nineteenth century. In 1835,
+continual attacks by local Indians prompted Captain John J. Tumlinson and his company
+of Texas Rangers to construct a fort and Indian lookout near the headwaters of Brushy
+Creek, in southwestern Williamson County (Thompson 2002). Tumlinson Fort, as it was
+called, was abandoned in 1836 when General Santa Ana invaded Texas (Odintz 2002).
+Following the defeat of General Santa Ana at the Battle of San Jacinto, several veterans
+of the battle settled in Williamson County. In 1838, Dr. Thomas Kenney and his family
+built a fort on Brushy Creek, in what is now eastern Williamson County. Kenneyâs Fort
+became the first civilian settlement in Williamson County. By the 1840s, several
+settlements existed along Brushy Creek. However, Indian attacks were a frequent
+problem, and numerous settlers, including Kenney, were killed by Indians. By 1846, the
+Indian threat had waned and settlement in the region increased. In 1848, the Texas
+legislature established Williamson County, naming it after Robert Williamson, a Milam
+County Judge and state senator (Odintz 2002).
+By 1850, the county had a population of 1,379 whites and 155 slaves. Most of the
+population was located in the eastern part of the county on Brushy Creek and the San
+Gabriel (Odintz 2002), but a few families were living in the western half.
+During the 1850âs and 1860âs, towns, lumber mills, and tanneries sprang up around the
+county. Communities like Seward Junction and Rock House, which are located near the
+project area, developed during this period as significant agricultural centers in western
+Williamson County. Although urbanization and industrialization increased somewhat,
+the bulk of the county remained rural and agricultural. The majority of the families lived
+on subsistence farms in log houses and raised corn. During the 1850s and early 1860s,
+the slave population increased and the agricultural patterns within the county became
+more diverse. Wheat and corn were the predominant crops in the blackland prairies, and
+cattle and sheep ranching was widespread throughout the county, but particularly
+widespread in the hilly regions west of the Balcones Escarpment (Nash et al. 2002).
+Cotton was introduced in 1850s, but it was not a significant cash crop.
+The economy of Williamson County slumped during the Civil War, but picked up again
+in the 1870s with the growth of the cattle and sheep industry and the expansion of cotton
+farming. The cattle industry was sustained by tributaries of the Chisolm trail, which were
+established in 1864 and passed close to Round Rock. Many cattle drives passed through
+or originated in Williamson County. The 1870s and 1880s was also marked by the
+arrival of railroads to Williamson and Travis County (Odintz 2002).
+14
+
+By the early-twentieth century, cotton farming had surpassed the cattle industry. With
+the dramatic growth in cotton farming, a shift in farm tenancy developed. As late as
+1880, 77 percent of the farms were still worked by owners. By 1890, only 43 percent of
+the farms were worked by owners. By 1930, only 29 percent of the farms were worked
+by owners. The tenancy rates continued to drop during the Great Depression (Odintz
+2002).
+The cotton industry suffered economically during the 1920s from the effects of soil
+depletion, falling prices brought on by overproduction, and the boll weevil infestation.
+The Great Depression of the 1930s worsened the economic situation and encouraged
+farmers to shift away from cotton to livestock. Cotton production was reduced by nearly
+half, while sorghum and wheat became important crops. Along with cattle and sheep,
+poultry farming intensified (Odintz 2002).
+Significant population and economic changes occurred in the 1960s, 1970s, and 1980s.
+The construction and expansion of roads throughout the undeveloped areas of
+Williamson County meant urban populations now had easier access to the Hill Country.
+The consolidation of rural schools also meant children could now attend schools outside
+of their rural communities. For example, during the 1910s and 1920s, Rock House
+School was one of the largest schools in Williamson County. In 1903, the school boasted
+a population of 96 students and 2 teachers. The school was consolidated with Liberty
+Hill School in 1947, and by the 1990s, Rock House had become a dispersed agricultural
+community (Scarbrough 1973).
+Suburbanization of the portions of the county bordering Austin caused the population of
+Williamson County to boom in the 1970s and 1980s. In 1970, the population of
+Williamson County was 37,305. By 1982, the population had grown to over 85,700
+(Odintz 2002). A pattern of absentee ownership and of non-agricultural use of the land
+also intensified following World War II. The communities of Rock House and Seward
+Junction dwindled when residents moved to nearby Austin, Georgetown, and Liberty
+Hill. By 1990, only a few dozen people remained in the communities of Rock House and
+Seward Junction. Today, much of the property within the project area is now being held
+for investment purposes.
+PREVIOUSLY RECORDED ARCHAEOLOGICAL SITES
+No previously recorded sites are located within the ROW. There are, however, nine
+previously recorded archaeological sites located near the ROW. These are 41WM173,
+41WM174, 41WM175, 41WM176, 41WM182, 41WM183, 41WM203, 41WM214, and
+41WM215 (Figure 3).
+Site 41WM173 is a lithic scatter located approximately 2.6 km south of the North Fork
+of the San Gabriel River. The site, which was first investigated in 1970 during an
+archaeological survey of the North Fork Reservoir Project, consists of a sparse scatter of
+chert flakes, chert cores, and possible scraping tools that are located along an actively
+15
+
+eroding draw on the A. G. Braun Ranch. Many chert cobbles and a few artifacts were
+observed on the surface. Due to the sparse nature of the artifacts, the recorder concluded
+that the site was probably a short-term knapping area. No further investigation was
+recommended by the recorder.
+Site 41WM174 is a lithic scatter located approximately 2.6 km south of the North Fork
+of the San Gabriel River, on the A. G. Braun Ranch. The site was discovered during the
+same archaeological survey that discovered site 41WM173. The site is located along a
+dry tributary of the North Fork of the San Gabriel River, approximately 300 m south of
+Sowes Branch. The site contains a sparse, surficial lithic scatter that measures
+approximately 61 m x 122 m. The site is very similar to nearby site 41WM173.
+However, site 41WM174 contains more surficial flakes and no chert cobbles. The
+artifacts at the site consist primarily of chert flakes. However, two unidentified projectile
+point fragments were collected by the recorder. The recorder did not recommend further
+investigation of the site.
+Site 41WM175 is located approximately 2.7 km south of the North Fork of the San
+Gabriel River and immediately west of site 41WM174 on the A. G. Braun Ranch. It was
+first investigated in 1970 during the same archaeological survey that recorded sites
+41WM173 and 41WM174. The site is located in a cultivated field on a stream terrace
+east of Sowes Branch. The site contains a surficial scatter of chert flakes measuring
+approximately 92 m x 183 m. The site has been heavily disturbed by plowing, but due to
+its location on a stream terrace, the site may have intact, buried cultural deposits. The
+recorder suggested that shovel testing should be conducted at the site, but made no
+recommendations for further work.
+Site 41WM176 is located on the same stream terrace that contains site 41WM175. The
+site, which measures approximately 37 m x 55 m, consists of a surficial scatter of chert
+flakes located on the northern end of a cultivated field. The site is located approximately
+137 m north of site 41WM175, which is located at the southern end of the cultivated
+field. Because of the close proximity of the sites, the sites are most likely associated.
+The recorder recommended further testing to establish the relationship between the sites.
+Site 41WM182 is located approximately 1.1 km south of the North Fork of the San
+Gabriel River, along a tributary of Sowes Branch on the A. G. Braun Ranch. The site is a
+rock shelter and lithic scatter located on the east bank of the tributary. The site was first
+investigated in 1972 during an archaeological survey for the proposed North Fork
+Reservoir. The site, which measures approximately 30.5 m x 46 m, contains a surficial
+scatter of burned rocks and chert flakes. Because of the siteâs undisturbed nature, the
+recorded recommended further testing.
+Site 41WM183 is located approximately 274 m east of site 41WM182, on a tributary of
+Sowes Branch. The site, which measures approximately 183 m x 182 m, contains a
+surficial scatter of chert flakes and cobbles. No indicators of long-term occupation (e.g.,
+burned rock or burned rock features) were observed. Due to the strictly surficial nature
+of the site, the recorder did not recommend further work.
+16
+
+Site 41WM203 is a prehistoric mound site located on the south bank of the North Fork of
+the San Gabriel River. The site is located in a cultivated field bisected by an intermittent
+drainage. The site is located in the eastern portion of the cultivated field. The site
+contains a slight mound and a surface scatter of chert flakes, burned rocks, and freshwater
+bivalve shells. The area of occupation and depth of fill is unknown. The recorder
+recommended testing of the site.
+Site 41WM214 is a buried terrace site located on the south bank of the North Fork of the
+San Gabriel River. The site was recorded by William Sorrow of the University of Texas
+at Austin in 1970 during an archaeological survey of the North Fork Reservoir. Various
+strata of cultural materials were observed in the face of a cliff along the river. No
+surficial cultural materials were observed. The site extends approximately 11 m along
+the face of the cliff, and the depth of fill is <3 m. A 1.2-m x 2.5-m test unit and one
+backhoe trench test were excavated at the site. In addition, four C14 samples were
+collected from the site. However, the C14 tests were abandoned due to an indefinite
+association between the diagnostics collected and the C14 samples. Several biface
+fragments, uniface fragments, scrapers, engravers, and Late Archaic projectile points
+were collected from the test units. The recorder recommended further, extensive testing
+of the site.
+Site 41WM215 is a burned rock midden located on the south bank of the North Fork of
+the San Gabriel River, approximately 69 m downstream from site 41WM214. The site
+was recorded in 1970 during an archaeological survey of the North Fork Reservoir
+Project. The area of occupation and the depth of cultural deposits are unknown.
+However, the site is located on a river terrace that is older and higher that the terrace
+containing sites 41WM203 and 41WM214. A backhoe trench was excavated through the
+middle of the midden, and the excavated material was examined for cultural materials.
+Various projectile points, including several Nolans, a Martindale, two Tortugas, and a
+Bulverde, were collected from the backhoe test trench. A granite mano was also
+collected from the surface of the site. The recorder recommended further testing at the
+site.
+
+METHODS
+Pedestrian Survey
+A 100% pedestrian survey was conducted for Williamson County to âidentify obvious or
+well known propertiesâ and âareas where certain kinds of properties are likely to occurâ
+[36 CFR Â§ 64] (Derry et. al. 1985, King et. al. 1977). These include both historic and
+prehistoric aged properties. A thorough record search was completed in order to
+determine: (1) if there were any recorded sites within the project area; and (2) the nature
+of the recorded sites in the general area. Based on this data, a strategy for an intensive
+archaeological survey of the project area was devised. The survey strategy included a
+100% pedestrian survey and shovel testing.
+
+17
+
+Figure 3. USGS Topographic map showing previously recorded sites, newly recorded
+sites (in red), and general environment.
+18
+
+For the pedestrian survey and subsequent shovel testing, the APE was divided into four
+sections based on geographical characteristics (Figure 4). The segments are as follows:
+Section 1 begins at CR 268, immediately south of SH 29, and terminates at the Middle
+Fork of the San Gabriel River. This section is approximately 1.9 miles (3.0 km) long and
+crosses routinely plowed fields and pastures in the uplands south of the Middle Fork of
+the San Gabriel River.
+Section 2 begins at the Middle Fork of the San Gabriel River and terminates at Sowes
+Branch, a tributary of the North Fork of the San Gabriel River. This section is
+approximately 1.8 miles (2.9 km long). The topography in this section is remarkably
+varied with flat uplands in the southernmost portion, rugged canyons and steep bluffs in
+the central portion, and an expansive valley floor in the northern portion. The average
+elevation drops from 1043 ft AMSL in the southern uplands to 892 ft AMSL in the
+Sowes Branch Valley. Much of this section contains exposed bedrock and very thin soil
+over degrading bedrock.
+Section 3 begins at Sowes Branch and terminates at the North Fork of the San Gabriel
+River. This section is approximately .9 miles (1.4 km) long and is comprised of the
+uplands between Sowes Branch and the North Fork of the San Gabriel River and the
+southern flood plain of the river. The APE had been heavily plowed immediately north
+of Sowes Branch and in the uplands between CR 258 and the North Fork floodplain. A
+large limestone bluff overlooks the flood plain of the river, which contains deep alluvial
+deposits. The elevation drops from 900 ft AMSL at the summit of the bluff to 840 ft
+AMSL in the flood plain of the river. The flood plain has been routinely plowed in the
+past, but it now lays fallow.
+Section 4 begins at the North Fork of the San Gabriel River and terminates at FM 3405.
+This section is approximately .5 miles (.85 km) and ascends from the flood plain of the
+North Fork of the San Gabriel River to the uplands north of the river. The elevation at
+the river is approximately 819 ft AMSL, and it rises to approximately 887 ft AMSL at
+FM 3405. The northern flood plain has been routinely plowed and is currently a cattle
+pasture.
+A strategy of using closely spaced transects was determined to be the best way to
+discover any sites in the APE. Ten-meter transects were walked across the entire APE.
+Overall good ground visibility in the project area allowed for a confident appraisal of the
+open upland areas. Wooded areas had only fair to poor ground visibility. Areas of better
+visibility within the poor visibility areas received additional attention. If an artifact were
+found, the surrounding area would be cleared and carefully searched. Notes were taken
+describing conditions, environmental factors, and any other factors affecting the survey.
+Furthermore, photographs were taken of environmental settings, cultural artifacts, and
+features encountered during the survey. All naturally exposed profiles were examined.
+
+19
+
+Figure 4. USGS Topographic map showing ROW and survey sections.
+20
+
+Sites as defined by Hester et al. (1997:42) are âany discrete bounded location where
+humans lived, worked, or carried out a task - and where evidence of their behavior can be
+recovered by the archaeologist.â For practical purposes, any area where three or more
+artifacts were found within a 10-m diameter was recorded. Isolated artifacts would be
+plotted on a USGS 7.5â topographic map.
+Shovel and Backhoe Testing
+The THC approved this scope of work under the old minimum survey standards, which
+required at least one shovel test per three acres in a 100 to 200-acre project. The APE for
+this project is 126 acres, and a minimum of 42 shovel tests is required.
+Based on the background research, a scope of work was formulated to account for the
+lack of deep soils and sediments within the uplands of the APE and the heavily disturbed
+agricultural fields within the APE. The subsequent pedestrian survey results confirmed
+that the majority of the project area is located in an upland setting with heavily degraded
+surfaces and exposed limestone bedrock. The pedestrian survey also confirmed that the
+ROW crosses several routinely plowed fields. With this in mind, shovel tests were
+conducted at the Principal Investigatorâs discretion.
+Shovel tests were placed in areas where the soils and sediments appeared to exceed 10
+cm in depth and were relatively undisturbed. In order to confirm shallow depths, some
+shovel tests were also placed in areas that contain thin soils. Areas where soil profiles
+were naturally exposed through erosion were also examined. Shovel tests were
+approximately 30 cm in diameter and dug to bedrock or sterile clay. Shovel test locations
+were mapped by GPS. Notes were taken describing the depth, soils, stratigraphy, and any
+artifacts found. Whenever a site was located during the pedestrian survey, additional
+subsurface testing was conducted to evaluate the depth and nature of cultural deposits.
+The minimum survey standards for Texas require at least six shovel tests to define site
+boundaries, unless the site has more than 30 percent surface visibility.
+The intermittent drainages within the APE typically exhibit erosion rather than deposition
+and do not present a favorable environment for the preservation of archaeological sites.
+Shovel tests executed near the drainages revealed degrading limestone bedrock near the
+surface. Limestone bedrock is also exposed in the cutbanks of two tributaries of Sowes
+Branch. Because the intermittent tributaries of Sowes Branch and the North Fork of the
+San Gabriel River lack substantial alluvial deposits, no backhoe test trenches were
+conducted at these locations during the archaeological survey.
+
+RESULTS OF FIELD INVESTIGATIONS
+Pedestrian Survey Results (See Figure 15)
+Section 1
+
+21
+
+The majority of Section 1 crosses routinely plowed fields and pastures. Ground visibility
+is often good to excellent due to the overall lack of vegetation. However, a small portion
+of the APE between CR 268 and SH 29 is located in a fallow field overgrown with tall
+grasses, Ashe juniper, and mesquite. The field appears to have been routinely plowed in
+the past, but now lays uncultivated. A small, abandoned gravel pit is located immediately
+south of SH 29. The areas adjacent to the gravel pit have been heavily disturbed by
+quarrying activities.
+North of SH 29, the APE crosses an intensely cultivated cornfield (Figure 5). Ground
+visibility in this portion of the APE is excellent due to the overall lack of vegetation. The
+surface of the cornfield is covered with many chert cobbles, many of which exhibit fire
+and plow damage. Two possible chert cores were located in the cornfield. However, due
+to the proliferation of chert cobbles on the surface, it is possible that the cores are actually
+cobbles with fire and/or plow damage. These dubious cores were not collected.
+North of the cornfield, the ROW crosses a large pasture that gradually slopes to the
+Middle Fork of the San Gabriel River. Surface visibility in this portion of the APE is fair
+to good due to negligible vegetation. The ROW crosses the headwaters of the Middle
+Fork of the San Gabriel River at the northern boundary of Section 1 (Figure 5). At this
+point, the fork is an intermittent stream. The fork has been dammed just east of the APE
+to form a large stock tank. The banks of the Middle Fork of the San Gabriel River are
+heavily wooded with elm, oak, and scattered Ashe juniper. Subangular to subrounded
+limestone cobbles are common on the surface. A large biface was found on the surface in
+the pasture immediately south of the Middle Fork of the San Gabriel River. The biface is
+an isolated artifact and is not located within the APE. It was not collected. A twentieth
+century farm complex is also located in the pasture, east of the APE. The complex
+includes two extant barns, two ashlar limestone troughs, and a large refuse pile
+containing what appears to be the remains of an early to middle twentieth century house.
+The property owner informed ACSG personnel that the house was razed before the
+property was acquired and that the house was probably the living quarters of a previous
+ranch foreman.
+Section 2
+North of the Middle Fork of the San Gabriel River, the APE crosses a large pasture
+overgrown with small mesquite and live oak trees (Figure 6). Ground visibility is fair to
+good due to the negligible vegetation. A buried gas line bisects the APE approximately
+450 m north of the Middle Fork of the San Gabriel River. No cultural materials or
+features were observed in this area.
+Approximately 840 m north of the Middle Fork of the San Gabriel River, the ROW
+crosses a canyon formed by the confluence of three, deeply entrenched, spring-fed
+tributaries of Sowes Branch (Figures 6 and 7). The elevation drops from 1043 ft AMSL
+at the upland summit to 984 ft AMSL at the canyon floor. The vegetation consists
+primarily of Ashe juniper and scattered oaks. A thin mantle of degrading limestone
+fragments covers the gently sloping surfaces, and limestone bedrock is exposed in the
+22
+
+Figure 5. Top-Plowed field north of SH 29. Bottom-Environment at Middle Fork of the
+San Gabriel River (background).
+23
+
+steep canyon walls and in the cutbanks of the three tributaries (Figure 7). Surface
+visibility is good to excellent within the canyon due to the lack of leaf litter and grasses.
+A twentieth century farm complex is located on the northeastern rim of the canyon. The
+complex includes two extant barns, a cattle corral, and the collapsed remains of a third
+barn. A 1962 USGS topographic map shows a house at the site. However, the house was
+not evident during the survey. Site 41WM173 (a sparse lithic scatter) is reported to be
+located within the complex. ACSG personnel conducted a rapid surface inspection of the
+complex, but did not locate any artifacts associated with site 41WM173. The site is not
+located within the ROW, and further investigation was prohibited. The farm complex
+and site 41WM173 are located well outside the APE and will not be impacted by road
+construction.
+Immediately north of the farm complex and canyon, the APE descends into the Sowes
+Branch valley. The elevation drops from 1,008 ft AMSL at the canyon rim to 910 ft
+AMSL at the valley floor. The gently sloping valley floor is wooded with pecan, live
+oak, elm, and scattered mesquite trees and is currently used for pasturage and hunting.
+The valley walls have been disturbed by erosion and quarrying (Figure 8). A small field
+immediately south of Sowes Branch appears to have been routinely plowed in the past.
+The field now lays fallow and is overgrown with small mesquite trees. Surface visibility
+in this portion of the APE is fair to poor due to scattered pockets of heavy vegetation.
+During the survey, Sowes Branch was flowing rapidly and several springs were observed
+along the periphery of the creek (Figure 8). Limestone bedrock is exposed in the
+cutbanks and bed of the creek, and the banks of the creek are heavily wooded with elm,
+oak, pecan, and scattered Ash juniper. Ground visibility along the creek is fair to poor
+due to the heavy vegetation and leaf litter.
+Section 3
+The APE crosses a large, routinely plowed field north of Sowes Branch (Figure 9).
+Ground visibility in the field is good due to negligible vegetation. The surface of the
+field is covered with thousands of chert nodules and limestone cobbles, many of which
+exhibit fire and plow damage. A large biface (Figure 9) and a modified flake were found
+in the field, within the ROW. However, these artifacts are isolated finds and were not
+collected. No other artifacts were located in or near the ROW. An early to middle
+twentieth century house site is located at the eastern edge of the field, approximately 163
+ft from the eastern edge of the ROW. The site includes a limestone chimney fall, an
+artifact scatter, and two large depressions. The site could have a nineteenth century
+component, but it was not evident upon surface inspection. Since the site is located
+outside the APE, further investigation was prohibited.
+The APE crosses a heavily wooded area north of the plowed field. The vegetation
+consists primarily of Ashe juniper with scattered live oaks and tall grasses. A spring-fed
+tributary of Sowes Branch bisects the APE approximately 75 m south of CR 258.
+24
+
+Figure 6. Top-Environment north of the Middle Fork of the San Gabriel River. BottomView north along centerline of ROW showing canyon in background.
+25
+
+Figure 7. Top-Stream in canyon. Bottom-Exposed bedrock on canyon wall.
+26
+
+Figure 8. Top-Quarry south of Sowes Branch. Bottom-Sowes Branch facing west.
+27
+
+Figure 9. Top-Field between Sowes Branch and CR 258. Bottom-Biface ISF found in
+field north of Sowes Branch.
+28
+
+Limestone bedrock is exposed in the cutbanks of the tributary and on the surface between
+the tributary and site 41WM1079 (Figures 10 and 11). Ground visibility in this portion of
+the APE is poor due to heavy vegetation. Immediately north of CR 258, the ROW
+crosses site 41WM1079 an early to middle twentieth century farmstead (see Recorded
+Sites below).
+The APE crosses a large, routinely plowed field north of site 41WM1079 (Figure 12).
+The southern half of the field has poor ground visibility due to profuse grasses, but the
+northern half of the field has very little ground cover. The surface visibility in this
+portion of the field is approximately 45 to 50 percent. The northern half of the field also
+contains several artificial terraces that follow the natural contours of the field. The soil
+between the terraces is exceptionally thin, with a thin mantle of limestone pebbles and
+cobbles on the surface. Occasionally, degrading bedrock outcrops on the surface. The
+APE crosses site 41WM1080, a historic homestead site with a prehistoric component, at
+the northern edge of the field (see Recorded Sites below).
+Approximately 94 m north of site 41WM1080, the APE descends a steep bluff
+overlooking the southern flood plain of the North Fork of the San Gabriel River (Figure
+12). Many large limestone bedrock fragments are exposed along the face of the bluff,
+which is heavily wooded with Ashe juniper and live oak. The elevation drops from 900
+ft AMSL at the summit of the bluff to 840 ft AMSL at the valley floor. Site 41WM1084
+is located at the base of the bluff (see Recorded Sites below).
+The flood plain of the North Fork of the San Gabriel River is a large, open field with few
+trees (Figure 13). At the southern edge of the flood plain, the APE crosses a small,
+spring-fed tributary of the North Fork of the San Gabriel River. The tributary, which
+bisects the flood plain, has been dammed at its confluence with the river to form a small
+stock tank. The portion of the tributary that flows through the flood plain is an
+intermittent stream. Although there are few trees in the flood plain, surface visibility is
+poor due to an abundance of tall grasses. The APE crosses the North Fork of the San
+Gabriel River at the northwestern edge of the flood plain. The banks of the river contain
+oak, elm, pecan, and hackberry. Bedrock and high-energy alluvial deposits are exposed
+in the cutbanks of the river (Figure 13). Evidence of recent flooding (modern litter in the
+river banks) was also observed along the river channel.
+Section 4
+The APE crosses a heavily wooded area on the left (northern) bank of the river. The area
+contains large pecans, elm, hackberry, oaks, and scattered Ashe juniper. Ground
+visibility is poor due to heavy vegetation. Approximately 120 m north of the river, the
+APE crosses a large cattle pasture that is located within the flood plain of the river
+(Figure 14). At the northern boundary of the pasture, the APE ascends an eroding slope
+(Figure 14). The elevation within the floodplain is approximately 845 ft AMSL and rises
+to 887 ft at the summit of the slope (at FM 3405). The soil along the slope is thin to nonÂ­
+existent, and there are copious amounts of degrading bedrock fragments that range from
+small pebble to boulder size covering the surface of the slope. Degrading limestone
+29
+
+Figure 10. Top-Environment south of CR 258. Bottom-Unnamed tributary of Sowes
+Branch facing north. Note the exposed bedrock.
+30
+
+Figure 11. Top-Environment north of CR 258. Note the skunk. Bottom-Fractured
+bedrock on the surface north of CR 258.
+31
+
+Figure 12. Top-Upland field south of North Fork.
+overlooking river flood plain.
+
+Bottom-View north from bluff
+32
+
+Figure 13. Top-View east across southern flood plain of river. Bottom-View south from
+north bank of river showing cut bank.
+33
+
+Figure 14. Top-View northwest across northern flood plain of river. Bottom-Upland
+environment immediately south of FM 3405.
+34
+
+Figure 15. USGS Topographic map showing ROW, isolated surface finds, and newly
+recorded sites.
+35
+
+bedrock also outcrops on the surface. Vegetation along the slope consists primarily of
+Ash juniper and scattered live oaks. Ground visibility is good due to exposed bedrock
+and lack of soil cover. The slope gradually levels out at FM 3405.
+Newly Recorded Sites
+Site 41WM1079
+Description:
+Site 41WM1079 is located in a wooded area adjacent to CR 258. The site is located on
+gently sloping upland surface that ascends from a spring-fed tributary of Sowes Branch to
+a limestone bluff overlooking the North Fork of the San Gabriel River Valley. Local
+vegetation consists of large live oaks and scattered Ashe junipers. The soil at the site is
+very thin with numerous, fractured bedrock outcrops. Many, subangular to angular,
+limestone cobbles and stones litter the surface, and limestone boulders are concentrated
+around many of the trees. Ground visibility is approximately 45 percent.
+The site is approximately 4.7 acres and is comprised of four extant outbuildings, an
+extant limestone chimney, and a limestone wall (Figure 16).
+Feature 1
+The nucleus of the site is an ashlar limestone chimney and a rectangular scatter of
+foundation stones and wood debris (Figure 17). The chimney is constructed of cutlimestone blocks and a Portland cement-type mortar. The chimney hearth is lined with
+fire bricks and cement. The scatter of foundation stones forms a square measuring
+approximately 30 ft x 30 ft. Several tree stumps are located along the northern edge of
+the scatter. The house appears to have been oriented northeast-southwest with the
+chimney on the northeastern side of the building. The house scatter is located
+approximately 28 ft east of the ROW.
+Feature 2
+Feature 2 is a small pole shed located approximately 5 ft from the western corner of the
+house scatter, at the eastern edge of the ROW (Figure 17). The shed is constructed of
+cedar log uprights with dimensional 2 x 4 framing and corrugated sheet metal siding and
+roofing. Wire nails were used throughout. The outbuilding measures roughly 12 ft x 25
+ft and is oriented northeast-southwest. The shed is currently used for farm equipment
+storage.
+Feature 3
+Feature 3 is a similar but much larger pole shed located approximately 363 ft west of the
+house remains (Figure 18). Feature 3 is approximately 10 ft x 68 ft and is oriented
+northeast-southwest. The building is constructed of cedar log uprights with dimensional
+2 x 4 framing and corrugated sheet metal sheathing. Wire nails were used throughout.
+36
+
+Figure 16. Survey map of site 41WM1079.
+37
+
+The eastern portion of the building has partially collapsed. The shed is currently used for
+hay storage. The building is located approximately 35 ft west of the ROW, which passes
+between Feature 2 and the Feature 3.
+Feature 4
+Feature 4 is a pole shed located south of CR 258 (Figure 18). The building is identical in
+construction to the other outbuildings, except the building is sheathed with recycled
+materials. The building measures approximately 13 ft x 47 ft and is oriented northeastsouthwest with an attached corral and livestock chute on the southeastern side. The
+outbuilding is currently used for hay storage. The building is located approximately 53 ft
+from the eastern edge of the ROW.
+Feature 5
+Feature 5 is an outbuilding located approximately 218 ft east of the ROW (Figure 19).
+The building is a large pole barn with board-and-batten siding and corrugated sheet metal
+roofing. Dimensional lumber and wire nails were used throughout. It is currently used
+for hay and farm equipment storage.
+Feature 6
+Feature 6 is an ashlar limestone and mortar wall that measures approximately 113 ft long
+x y 5.5 ft tall and is located roughly 63 ft from the eastern edge of the ROW (Figure 19).
+The thickness of the wall tapers from 22 inches at the top to 35 inches at the bottom. A
+linear pile of loose stones and a double row of rebar stakes parallel the extant wall,
+approximately 15 ft south of the wall. The rebar stakes form the outline of what may be a
+second wall that was never completed. The loose stones appear to be building materials.
+The function of the extant wall is unknown, but it appears to be farm-related.
+Cultural Materials Observed/Collected:
+Surficial artifacts consist of clear and brown glass fragments, complete glass bottles (all
+machine-made), canning jar fragments (all machine-made), milk glass fragments, molded
+glass fragments (depression-era patterns), and tin cans. All artifacts observed are
+twentieth century cultural materials. Four shovel tests (STâs 22-25) were executed within
+the ROW at the site, and all tested negative for cultural materials. No cultural materials
+were collected from the surface.
+Assessment:
+Site 41WM1079 appears to be an early to middle twentieth century farmstead. Nothing
+that would indicate an earlier occupation was observed at the site. In fact, the majority of
+the artifacts and the extant buildings imply that the site is specifically a middle twentieth
+century (1930s-1950s) farmstead. The property owner, who recalls the house before it
+38
+
+Figure 17. Top-Feature 1 at 41WM1079. Bottom-Feature 2 at 41WM1079.
+39
+
+Figure 18. Top-Feature 3 at 41WM1079. Bottom-Feature 4 at 41WM1079.
+40
+
+Figure 19. Top-Feature 5 at 41WM1079. Bottom-Feature 6 at 41WM1079.
+41
+
+was razed, informed ACSG personnel that the house was probably constructed in the
+1920s. This construction date is based on the use of 1920s newspapers as wallpaper in
+the house. The bulk of the site, including the house scatter and outbuildings, is located
+outside the ROW, and shovel testing was prohibited in and around the house scatter and
+outbuildings. All shovel tests conducted within the ROW tested negative for cultural
+materials. The extant buildings are twentieth century constructions that lack significant
+architectural characteristics or historical affiliations that would make the site potentially
+eligible for nomination to the National Register or as a SAL.
+Site 41WM1080
+Description:
+Site 41WM1080 is located in the northern portion of a routinely plowed field,
+approximately 2,019 ft (615 m) north of site 41WM1079 (Figure 20). The site is defined
+by a low mound that contains several very large live oak trees and a sizeable prickly pear
+cactus patch. The nucleus of the site is located at the center of the mound, between a
+large, sprawling live oak tree to the east and a row of very large live oak trees to the west
+(Figure 21). The row of live oak trees appears to be an old fence row (barbed wire is
+embedded in the trees). Scattered limestone boulders along the tree row may be the
+remnants of a rock fence. The mound covers approximately one acre.
+The site includes a historic and a prehistoric component. The historic component is
+marked by a heavily disturbed chimney fall located at the center of the site. The fall is
+marked by a low rectangular mound measuring approximately 5 ft x 5 ft (Figure 22). The
+mound contains several partially buried, rectangular limestone blocks. A widely
+dispersed scatter of irregular-shaped limestone blocks fans out to the southeast (Figure
+22). The scatter measures approximately 20 ft (northeast-southwest) x 32 ft (northwestÂ­
+southeast). All stones appear to be uncut or roughly hewn, and no mortar was evident
+(Figure 23). A small pile of limestone blocks was observed approximately 30 ft north of
+the chimney fall (Figure 23). Due to the pileâs close proximity to the row of live oak
+trees, the feature may be the remnants of a livestock pen or fence. A cylindrical
+depression containing a large, upright tree trunk is located approximately 38 ft south of
+the chimney fall. The nature of the depression could not be determined due to its location
+outside the ROW.
+The prehistoric component consists of a sparse, surficial scatter of chert flake fragments.
+The scatter measures approximately 25 m x 25 m and is located at the southern edge of
+the site.
+Cultural Materials Observed/Collected:
+Cultural materials observed at site 41WM1080 include unidentified metal artifacts, sheet
+metal fragments, three crushed galvanized wash tubs, a horse shoe, and a cooking pot
+with a white enamel finish. These items were observed in an around the stone scatter.
+42
+
+Figure 20. Survey map of site 41WM1080.
+43
+
+Figure 21. Top-View facing northeast at site 41WM1080 with depression and tree trunk
+in foreground. Bottom-Very old live oak trees that appear to mark a fence row and
+northwestern boundary of site 41WM1080.
+44
+
+Figure 22. Top-Possible chimney base. Bottom-View of stone scatter (chimney fall) at
+41WM1080.
+45
+
+Figure 23. Top-Possible lintel. Bottom-Rock pile northeast of chimney fall.
+46
+
+Three shovel tests executed at the site tested positive for historic artifacts. Shovel Test 31
+contained one fragment of wire, one fencing staple, and one brown glass fragment.
+Shovel Test 32 contained four unidentified metal fragments, one brown glass fragment,
+and one chert flake fragment. Shovel Test 33 contained two clear glass fragments and
+one brown glass fragment. All artifacts were recovered at approximately 0-7 cmbs. A
+sparse, surficial lithic scatter was observed at the southern boundary of the site. Shovel
+Test 30, which was executed at the nucleus of the scatter, tested negative for cultural
+materials. Due to the lack of diagnostic artifacts, no artifacts were collected from the
+surface or subsurface.
+Assessment:
+Site 41WM1080 is a historic homestead with a possible nineteenth and twentieth century
+occupations. The surficial artifacts suggest an early twentieth century occupation, but no
+clear diagnostics were found to confirm this. The chimney fall, which has been heavily
+disturbed, may be the remains of nineteenth century chimney. Jim Van Artsdalen, father
+of the current property owner, showed ACSG personnel two extant limestone chimneys
+elsewhere on the property (Figure 24). One is located east of the APE on a bluff
+overlooking the North Fork flood plain. The second chimney is located in the flood plain
+of the North Fork. Mr. Van Artsdalen suggested that the two chimneys are probably
+nineteenth century features and that they are most likely associated with a stone wall that
+bisects the property east-west along the limestone bluff (Figure 25). Mr. Van Artsdalenâs
+wife added that their property realtor informed them that the wall was likely constructed
+by two slave women. Mr. Van Artsdalen also informed ACSG personnel that the
+property had at one time been referred to as âThree Chimney Ranch.â However, he was
+unaware of the location of the third chimney. It is possible that the chimney fall at site
+41WM1080 marks the location of the third chimney. A 1962 USGS topographic map
+and a 1940 county road map of the area do not show a building at the location. This
+suggests that the building was likely removed prior to 1940. Shovel tests conducted
+within the APE confirmed that sparse archaeological deposits extend into the ROW.
+However, the bulk of the site, i.e., chimney fall and artifact scatter, is located west of the
+ROW. The site is not potentially eligible for nomination to the National Register or as a
+SAL due to poor site integrity, a vague historical context, and lack of significant cultural
+deposits within the ROW.
+Site 41WM1084
+Description:
+Site 41WM1084 is a subsurface prehistoric site located at the southern edge of the North
+Fork flood plain. A spring-fed tributary of the river is located approximately 100 m east
+of the site, which is located in a narrow strip of trees at the base of a steep limestone
+bluff. A barbed wire fence separates the wooded strip and a large open field in the flood
+plain (Figure 26). Several old fence posts were observed near the toe of the bluff. This
+abandoned fence row appears to have at one time marked the southern boundary of the
+open field. The alignment of the original fence row would have placed the site north of
+47
+
+Figure 24. Top and Bottom-Two additional chimneys on the Van Artsdalen tract.
+48
+
+Figure 25. Top and Bottom-Rock fence north of site 41WM1080
+49
+
+the fence, in the open field. This suggests that the site has probably been disturbed by
+plowing. One shovel test (ST 34) conducted at the base of the bluff tested positive for
+cultural materials. Five additional shovel tests and two backhoe trenches were executed
+to delimit the site boundaries. All additional subsurface tests tested negative for cultural
+materials
+Cultural Materials Observed/Collected:
+Five pieces of chert debitage were located at 10 to 60 cmbs in ST 34, and an Early
+Archaic Nolan projectile point was found in situ at 70 cmbs (Figure 26). No surficial
+artifacts were collected or observed. The debitage was not collected, and the Nolan
+projectile point will be returned to the property owner, as per request of the property
+owner.
+Assessment:
+The cultural materials at site 41WM1084 appear to be colluvial remnants of a site at the
+summit of the bluff. Shovel Test 34 contains no distinct anthropomorphic horizons or
+stratigraphic boundaries, and the artifacts are well-dispersed throughout. The matrix
+consists primarily of colluvium with common angular and subangular limestone pebbles
+throughout.
+To determine the site boundaries, five additional shovel tests were executed at the base of
+the bluff, and two backhoe test trenches were excavated immediately north of the extant
+fence. All subsurface tests tested negative for cultural materials. The likely explanation
+for the presence of artifacts at the base of the bluff is that artifacts from the summit of the
+bluff were redeposited with slope wash in a relic depression or drainage channel, which
+was subsequently filled by colluvium from the bluff.
+The face and summit of the bluff were carefully examined for artifacts and features.
+None were found. Mr. Van Artsdalen informed ACSG personnel that there is a
+prehistoric campsite located west of the APE, at the headwaters of a spring-fed tributary
+that bisects the flood plain of the river. The site is located well outside the APE and will
+not be affected by the project, but it is possible that artifacts from the site were reÂ­
+deposited by erosion at the base of the bluff. In addition to the aforementioned
+prehistoric campsite, site 41WM1080, which has a prehistoric component, is located at
+the summit of the bluff, immediately south of the site. The artifacts may be associated
+with this site. Site 41WM1084 has little research value due to the questionable context of
+the artifacts recovered and the scant amount of artifacts present. No further investigation
+of the site is recommended.
+Historical Research Results
+Sites 41WM1079 and 41WM1080 are located within the Bartholomew Manlove Survey
+(Figure 27). Manlove was granted a 1st class Headright and received a patent from the
+Republic of Texas government in 1845 for 4,428.40 acres in Williamson County (then
+50
+
+Figure 26. Top-Site 41WM1084 looking north across river flood plain. Bottom-Nolan
+projectile point from ST 34.
+51
+
+Milam County) (Texas General Land Office 1845). Bartholomew Manlove was a
+resident of Bastrop County and served as mayor of Bastrop in 1838, 1842, and 1845
+(Adams 2002). No evidence could be found in the Williamson County archives
+indicating Manlove or a Manlove family member ever resided on the Manlove Survey.
+In 1853, Bartholomew Manlove sold 3,257 acres of the survey to Francis K. Hunt of
+Lexington, Kentucky. The tract sold is described as ââ¦situated in Milam County on a
+stream called the North San Gabriel River being part the land known as a headrightâ
+(Deed Record 4:211). Francis K. Hunt (1817-1879) was a prominent lawyer in
+Lexington and is probably best known for Loudoun, his residence in Lexington.
+Loudoun is one of only five remaining castellated Gothic Revival villas left in the United
+States by the architect, A. J. Davis, who was regarded as one of the premier designers of
+Gothic Revival country homes in America. Francis Hunt and his wife Julia Hunt lived in
+Loundoun from 1852 until his death in 1879. The house, which is listed on the National
+Register, is currently the headquarters of the Lexington Art League (Lexington Art
+League 2004). No record of Francis or Julia Hunt residing on the Manlove survey or in
+Williamson County was found in the Williamson County archives.
+There are several Hunts who lived on and near the Manlove Survey during the nineteenth
+century. Two prominent features near the project area are Hunt Cemetery, which is
+located on the south bank of the river, east of the APE, Hunt Crossing, and Hunt Hollow,
+both of which are located east of the cemetery. According to Clara Stearns Scarbrough
+(1973:431), Hunt Crossing was named for Hayden Hunt and several of his brothers, who
+settled in the area in the 1850s. Mart Hunt, one of Haydenâs brothers, operated a gin and
+cotton mill on the north bluff of the river. The Unites States Army Corps of Engineers
+reports that the ruins of the Hunt cabin are still visible on a hill overlooking the river near
+the cemetery (USACE 2004). W. V. Hunt, G. F. Hunt, and G. F. Huntâs wife, Effie Hunt,
+owned 208 acres of the Manlove Survey in the 1890s (see below). It is unclear whether
+these Hunts are related to F. K. Hunt.
+Upon Francis Huntâs death in 1879, his wife Julia, their daughter, and son-in-law
+inherited his estate (Deed Record 27:228). In 1882, Julia Hunt sold 1,250 acres of the B.
+Manlove Survey to G. G. Anderson, who declared a homestead on 200 acres of the
+property in 1885 (Deed Record 37:460). His homestead is most likely north of the river,
+near Anderson Cemetery and Anderson Branch.
+J. A. Montgomery and J. L. Rucker, known as the Firm of Rucker and Montomery,
+purchased Andersonâs promissory notes and subsequently declared them due. When
+Anderson failed to pay them, Rucker and Montgomery foreclosed on his property in 1885
+(Deed Record 38:162). The foreclosed property includes three tracts on and near the
+North Fork of the San Gabriel River. Two of the tracts, a 750-acre tract and a 3,000-acre
+tract, are located on the B. Manlove Survey. The third tract, totaling 1,885 acres, is
+located on the Dyches Survey, adjacent to the B. Manlove Survey.
+
+52
+
+Figure 27. 1856 Williamson County map showing original land grants and approximate
+location of ROW.
+53
+
+Rucker and Montgomery proceeded to sell portions of the foreclosed property. In 1886
+and 1887, John P. Singleton bought a 442-acre tract (Deed Record 41:319) and a 110.8acre tract (Deed Record 44:255) on the B. Manlove Survey. E. J. Duckett bought 135
+acres on the B. Manlove Survey from Rucker and Montgomery in 1889 (Deed Record
+51:125). John P. Singleton, who was married to Mallie J. Hunt, is buried in Hunt
+Cemetery. According to Scarbrough (1973:431), Singleton was an early settler in the
+area along with G. G. Anderson and the Hunt family.
+When Singleton failed to pay his promissory notes, 332 acres of his property was reconveyed to Rucker and Montgomery in 1889 (Deed Record 51:21). In 1890, D. S.
+Chesser, a business associate of Rucker and Montgomery, bought the 332-acre, Singleton
+tract (Deed Record 56:54).
+In 1892, W. J. Montgomery, who may be associated with Rucker and Montgomery, sold
+88 acres of the Manlove Survey to T. L. Dycus (Deed Record 71:36) and 121 acres to E.
+J. Duckett (Deed Record 61:383). Later in 1893, W. J. Montgomery bought âall of the B.
+Manlove Surveyâ from Rucker and Montgomery (Deed Record 62:483). This purchase
+included 1,800 acres, save and except for 182 acres that belonged to Henry Hunt, 157.5
+acres that belonged to A. H. Watts, 110.8 acres that belonged to John P. Singleton, 633
+acres that belonged to M. A. Hunt, and 332 acres that D. S. Chesser purchased in 1890
+(Deed Record 56:54). According to the deed records, Rucker and Montgomery sold the
+1,800 acres to pay a portion of a $4,624 note that was owed.
+In 1893, T. L. Dycus bought 350 acres from W. J. Montgomery (Deed Record 71:483).
+T. L. Dycus is buried in Anderson Cemetery, which is located north of the river, at the
+mouth of Anderson Branch. A creek that is south of the river and west of the project area
+bares the name Dycus Branch.
+W. V. Hunt bought 117 acres from E. J. Duckett in 1895 (Deed Record 69:413). In that
+same year, a mechanics lien was placed on the property by Leavell and Sharpe
+Lumberyard of Georgetown for the cost of materials that were purchased for the
+construction of a residence by Hunt (Mechanics Lien Record 2:521). This may be one of
+the three, nineteenth century house sites located on the Van Artsdalen property.
+However, due to the lack of diagnostics recovered from site 41WM1080 and the location
+of the other sites outside the ROW, no chronological link could be found.
+In 1897, W. J. Montgomery bought 88 acres from T. L. Dycus (Deed Record 86:328).
+The following year (1898), W. J. Montgomery sold 90 acres to G. F. Hunt, a relative of
+W. V. Hunt (Deed Record 87:214). The tract that is involved in the two transactions may
+be the same.
+In 1905, C. Campbell of Bell County released Effie Hunt, the wife of G. F. Hunt, from
+the mechanics lien on the 117-acre tract, and in 1906, A. N. W. Smith bought 208 acres
+(117-acre tract + 90-acre tract) from G. F. Hunt (Deed Record 121:191). The following
+year (1907), A. N. W. Smith sold the 208-acre tract to A. S. Maness (Deed Record
+127:72). Maness then sold the property to George W. McDaniel in 1909 (Deed Record
+54
+
+134:244). McDaniel sold the 208-acre tract to M. H. Barrington in 1914 (Deed Record
+172:126).
+In 1920, W. E. Creel bought the 208-acre tract from Barrington (Deed Record 198:367).
+Creel owned the tract until 1957, when he sold a portion of it to Roscoe H. Canon (Deed
+Record 419:667). By this time, Creelâs property was composed of a 90-acre tract that
+was the east and lower part of the 208-acre tract and a 30 ft. x 990 ft. tract that was also
+part of the 208-acre tract. Sometime between 1920 and 1950, Creel sold 121 acres of the
+208-acre tract to Carl C. Hardin. However no record of the transaction was found. Site
+41WM1079 may be the location of Creelâs house. According to James Van Artsdalen
+(personal communication 2003) the house at site 41WM1079 is contemporaneous with
+Creelâs ownership (i.e., post-1920).
+In 1951, Roscoe Canon bought three tracts on the B. Manlove Survey from Carl C.
+Hardin Jr. (Deed Record 371:196). The three tracts include a 121-acre tract that is the
+western part of the 208-acre tract discussed above, a 135-acre tract that was described in
+an early deed from J. M. Perry to John P. Singleton dated November 10, 1906 (Deed
+Record 121:235), and a 110-acre tract that was described in a deed from Rucker and
+Montgomery to John P. Singleton dated June 23, 1887 (Deed Record 81:273).
+In 1957, Roscoe Canon bought the remaining portion of Creelâs 208-acre tract (Deed
+Record 419:667). This includes a 90-acre tract that is the east and lower portion of the
+208-acre tract and the 30 ft. x 990 ft. tract that is also part of the original 208-acre tract.
+James B. Casey and David Perkins bought Roscoe Canonâs property, which included the
+two Creel tracts and the three Hardin tracts, in 1966 (Deed Record 484:171). In 1967,
+Spinks Edwards bought the property from Casey and Perkins (Deed Record 504:432),
+and in 1983, Spinks Edwardsâ widow, Olga, sold 338.62 acres of the property to J. Tim
+Brown (Deed Record 952:464). Brown sold the property to the current land owner,
+James Van Artsdalen in 1999 (deed available electronically).
+The historical research suggests that the site 41WM1079 may be associated with W. E.
+Creel or Carl J. Hardin, who both owned portions of Van Artsdalenâs property between
+1920 and the early 1950s. According to James Van Artsdalen, the house at site
+41WM1079 was constructed in the 1920s, making the site contemporaneous with Creel
+and Hardinâs ownership. The house is present on a 1940 County road map (Figure 28).
+The nineteenth century site, 41WM1080, could be associated with John P. Singleton, G.
+F. Hunt, or an as yet unidentified owner or tenant. The lack of diagnostics within the
+ROW hampered attempts to establish a site chronology, and due to budget and time
+constraints, archival research was limited. Two nineteenth century house sites located
+near the ROW further complicate efforts to identify the occupant(s) of the site. The two
+extant chimneys on the Van Artsdalen property (not in the ROW) are nearly identical and
+appear to be contemporaneous. Identifying the occupant of each site is unlikely without
+sufficient diagnostic artifacts and more intensive archival research.
+55
+
+Figure 28. 1940 County Road map showing approximate location of ROW and
+41WM1079.
+56
+
+Shovel Testing and Backhoe Trenching Results
+Shovel Test Results (See Appendix 1)
+Because the majority of the APE contains exposed bedrock, thin soils, and routinely
+plowed fields, shovel tests were conducted at the discretion of the Principal Investigator.
+In this case, shovel tests were executed wherever the soils or sediments appeared to
+exceed 10 cm in depth and were relatively undisturbed (Figure 29).
+Since the archaeological survey was first initiated in November 2002, some sections of
+the proposed road alignment have been changed. Consequently, the altered portions were
+resurveyed and additional shovel tests were conducted. The most significant alignment
+change took place in Section 1, immediately north of SH 29. Both the original alignment
+and revised alignment are located within a field heavily disturbed by agricultural
+activities. Because of the heavily disturbed nature of the field, no additional shovel tests
+were conducted. A second, significant alignment change occurred between the deep
+canyon in Section 2 (south of Sowes Branch) and CR 258 in Section 3. This alignment
+change was of great concern because several previously recorded archaeological sites are
+located near the APE. The new alignment was resurveyed and additional shovel tests
+were conducted to confirm that the APE did not encroach upon the previously recorded
+sites and that no new sites were located in the ROW. The change in alignment is
+reflected in Figure 29, which shows shovel tests located outside the defined APE. These
+outlying shovel tests are included in this report and in Appendix 1.
+Shovel test results confirmed that the southern portion of the project area (i.e., area south
+of the North Fork flood plain) contains Eckrant-Georgetown association soils, which are
+described as âvery shallow to moderately deep, calcareous and noncalcareous, stony,
+cobbly, and loamy soils formed in indurated fractured limestone; on uplandsâ (USDA,
+SCS 1983). The northern portion of the project area (i.e., area north of the North Fork
+flood plain) contains Denton-Ekrant-Doss association soils, which are described as
+âmoderately deep, shallow and very shallow, calcareous, clayey and stony soils formed in
+indurated fractured limestone; on uplandsâ (USDA, SCS 1983). Shovel test and backhoe
+trench test results confirmed the presence of Oakalla-Sunev association soils in the flood
+plain of the North Fork of the San Gabriel River. These soils are described as âdeep,
+calcareous, loamy soils formed in alluvium; on bottom lands and stream terracesâ
+(USDA, SCS 1983).
+The soils within the majority of the APE are generally stable to erosional and are not
+conducive to preserving archaeological sites. Sites within the APE are likely to be
+surficial, and components would be compressed within a few centimeters of the surface
+or mixed and resting on the surface. Only structured sites, like prehistoric burned rock
+middens, surficial lithic scatters, or historic homesteads, would likely be encountered in
+these settings. Any sites of this nature would have been most likely disturbed by contour
+plowing, grazing, or brush fires.
+
+57
+
+Figure 29. USGS Topographic map showing ROW and shovel test locations.
+58
+
+Whenever an archaeological site was located, a single shovel test was executed to
+characterize the subsurface deposits. The number of shovel tests conducted at each site
+was limited due to the surficial nature of the sites and the good surface visibility at each
+site (>30 percent), which aided the identification of the sites and the delineation of the
+site boundaries.
+Section 1
+Shovel Tests 2-9, 18, 21, and 55-56 are located in Section 1 of the APE. Shovel Tests 8
+and 21 are located in a fallow field south of SH 29, between SH 29 and CR 268. Shovel
+Test 8 contains dark brownish-black clay with many subangular limestone pebbles at 0Â­
+43 cmbs. Shovel Test 21 is located south of ST 8, near CR 268. The shovel test contains
+dark brownish-black silty clay with many subangular limestone and chert cobbles at 0-30
+cmbs. The matrix becomes redder at 30 cmbs. Shovel Tests 2-7 were executed in a
+large, intensely plowed corn field, north of SH 29. The shovel tests contain a
+homogenous zone of dark brown to brownish-black clay with subangular to angular,
+pebble to cobble-size, limestone and chert fragments. The upper 15-30 cm is a plow
+zone. The maximum depth of the shovel tests is 50-60 cmbs. Shovel Test 9 is located
+immediately north of SH 29, between SH 29 and the plowed corn field. The shovel test
+profile is identical to STâs 2-7. Shovel Test 18 (Figure 30) is located on the south bank
+of the Middle Fork of the San Gabriel River. The shovel test contains dark brownishblack silty clay at 0-30 cmbs overlying reddish-brown cobbly clay at 30-38 cmbs. The
+matrix at 30-38 cmbs is approximately 90 percent subangular limestone cobbles. Shovel
+Tests 55 and 56 (Figure 30) were conducted between the large plowed corn field and the
+Middle Fork of the San Gabriel River. They contain dark brownish-black cobbly clay at
+0-18 cmbs overlying grayish brown clay at 18-43 cmbs. The lower level contains
+reddish-brown mottling and the upper 14-18 cmbs is a plow zone. All shovel tests in
+Section 1 tested negative for archaeological deposits.
+Section 2
+Shovel Tests 1, 10-12, 16-17, 19-20, and 35-41 were excavated in Section 2 of the APE.
+Shovel Tests 1, 16-17, 39 (Figure 31), and 40 were conducted at the base of an eroding
+slope that descends into the Sowes Branch valley. The shovel tests contain dark brown
+pebbly clay loam underlain by light brown sandy clay. The matrix contains subangular
+pebbles and cobbles throughout. Hard bedrock was exposed at approximately 25 cmbs in
+ST 1. Shovel Tests 10 and 12 were executed within the Sowes Branch valley, east of the
+APE (within the old alignment). Shovel Test 10 contains highly humic, dark brown
+sandy clay loam overlying hard bedrock at 26 cmbs. Shovel Test 12 was executed on the
+south bank of Sowes Branch. The shovel test contains dark brown sandy clay that
+becomes lighter brown with depth and common subangular limestone fragments. The
+maximum depth of ST 12 is 50 cmbs. Shovel Test 41 (Figure 31) was conducted in the
+southern flood plain of Sowes Branch. The shovel tests contains a plow zone of dark
+brown silty clay at 0-18 cmbs underlain by mottled dark brown and olive clay with few
+angular pebbles. At 38-49 cmbs, the matrix is dark olive with some brown mottling, and
+angular pebbles increase with depth.
+59
+
+Figure 30. Top-ST 56. Bottom-ST 18.
+60
+
+Shovel Tests 11, 19-20, 35 (Figure 32), 36, and 37 were conducted in the uplands
+between the Middle Fork of the San Gabriel River and a deep canyon on the southern rim
+of the Sowes Branch valley. This portion of Section 2 consists of fallow fields
+overgrown with mesquite and young live oak trees. The area is currently used for
+pasturage. The shovel tests generally contain dark brown silty clay loam with many
+subangular to subrounded, pebble to cobble-size, chert nodules and isolated limestone
+fragments. The matrix becomes darker and more clayey and contains fewer chert nodules
+with depth. In some instances, the matrix is grayish-brown. The maximum depth of
+these shovel tests is approximately 40-50 cmbs. The upper 15 cm appears to be a plow
+zone. Shovel Test 38 (Figure 32) was executed in the floor of the deep canyon formed by
+the confluence of three tributaries of Sowes Branch. The shovel test contains dark
+grayish brown silty clay loam to a depth of 15 cmbs, at which point degrading bedrock
+was exposed.
+Section 3
+Shovel Tests 13-15, 22-34, and 42-47 were executed in Section 3 of the APE. Shovel
+Tests 13-15 were conducted at the eastern border of a routinely plowed field that is
+located north of Sowes Branch. Shovel Tests 43 and 44 (Figure 33) were conducted in
+the center of the same plowed field. The shovel tests contain brown silty clay and
+mottled red and brown silty clay with chert and limestone cobbles increasing in number
+with depth. The upper 18-20 cm in each shovel test is a plow zone. Two isolated
+prehistoric artifacts (a large biface and a worked flake) were found near STâs 43 and 44;
+however, no artifacts were found in the shovel tests. Shovel Test 42 (Figure 33) was
+executed on the northern bank of Sowes Branch. The shovel test contains reddish-brown,
+extremely cobbly clay with degrading bedrock at 20 cmbs.
+Shovel Tests 45-47 were conducted in a wooded zone between the plowed field and CR
+258. Shovel Test 45 was excavated immediately north of the plowed field. The shovel
+test contains brown silty clay, which becomes siltier and redder in color with depth.
+Degrading bedrock was exposed at 30 cmbs. Shovel Test 46 (Figure 34) was conducted
+on the southern bank of an ephemeral tributary of Sowes Branch. The shovel test
+contains dark brown silty clay grading to dark olive with depth. Angular limestone
+pebbles and limestone flecks were observed at 50 cmbs. Shovel Test 47 (Figure 34) was
+conducted immediately south of CR 258. The shovel test contains dark brown silty clay
+to a depth of 12 cmbs, at which point fractured bedrock was exposed. Charcoal was
+observed at 10 cmbs. However, burned wood on the surface suggests that the charcoal is
+the byproduct of past brushfires. No artifacts were found in or near ST 47.
+Shovel Tests 22 (Figure 35), 24 (Figure 35), 25, and 26 were executed at site
+41WM1079. The shovel tests contain a thin layer of brown to reddish brown silty clay
+and subangular to subrounded chert nodules underlain by degrading, chalky bedrock. All
+shovel test results were negative for artifacts.
+Shovel Test 23 was conducted in the flood plain of the North Fork of the San Gabriel
+River. The shovel test contains reddish-brown, silty-sandy clay loam (all alluvium) to a
+61
+
+Figure 31. Top-ST 39. Bottom-ST 41.
+62
+
+Figure 32. Top-ST 35. Bottom-ST 38.
+63
+
+Figure 33. Top-ST 42. Bottom-ST 44.
+64
+
+Figure 34. Top-ST 46. Bottom-ST 47.
+65
+
+Figure 35. Top-ST 22 at 41WM1079. Bottom-ST 24 at 41WM1079.
+66
+
+depth of 95 cmbs. Common rounded limestone pebbles were observed in the lower
+portion of the shovel test.
+Shovel Tests 27-29 were excavated in a plowed field between sites 41WM1079 and
+41WM1080. Shovel Test 27 contains mottled red and brown clay to a depth of 50 cmbs.
+The upper 23 cm is a plow zone. Shovel Tests 28 and 29 (Figure 36) contain light
+reddish brown and light brown silty clay loam with many limestone flecks and angular
+limestone fragments throughout. Degrading, chalky limestone bedrock exposed between
+10 and 19 cmbs.
+Shovel Tests 30-33 were executed at site 41WM1080. Shovel Test 30 (Figure 37) was
+conducted at the southern boundary of the site, within a lithic scatter that marks a
+prehistoric component of the site. The shovel test contains dark brown clay at 0-22 cmbs
+underlain by mottled dark brown and reddish-brown clay. At 40-50 cmbs, the shovel test
+contains many limestone flecks and few subangular limestone pebbles. No artifacts were
+found in ST 30. Shovel Tests 31-33 were conducted along the western edge of the ROW
+on the mound containing the historic component of site 41WM1080. The shovel test
+profiles revealed dark brown silty clay at approximately 0-8 cmbs. Degrading limestone
+bedrock was encountered at approximately 8-20 cmbs. Shovel Test 31 contained one
+metal wire fragment, one fencing staple, and one amber glass fragment at 0-7 cmbs.
+Shovel Test 32 (Figure 37) contained four unidentified metal fragments, one chert flake
+fragment, and one heavily patinated amber glass fragment at 0-6 cmbs. Shovel Test 33
+contained two clear glass fragments and one amber glass fragment at 0-8 cmbs. None of
+the artifacts were collected.
+Shovel Tests 34 and 57-61 were executed at site 41WM1084, which is located at the base
+of the limestone bluff overlooking the North Fork flood plain. Shovel Test 34 (Figure
+38) contains homogenous brown silty clay loam and few angular limestone pebbles.
+Roots and Rabdotus snail shells were observed throughout. At 70-80 cmbs, the matrix
+contains common, angular to subangular, limestone pebbles and few cobbles (colluvium).
+This shovel test tested positive for prehistoric artifacts. Five pieces of chert debitage
+were found at 10-60 cmbs and a nearly complete Nolan projectile point was found at 70
+cmbs. No artifacts were found at 70-80 cmbs. Because of poor surface visibility, five
+additional shovel tests and two backhoe trench tests were executed within the ROW at
+this location to delimit site boundaries and characterize the deposits. However, all shovel
+test and backhoe trench tests results (See below: Backhoe Trench Test Results) were
+negative for cultural materials. Shovel Tests 57 and 59-61 contain grayish-brown silty
+clay loam grading to brown silty-sandy clay loam. The shovel tests also contain common
+angular limestone pebbles throughout. Shovel Test 58, which was executed close to the
+bluff, contains many, pebble to boulder-size, angular limestone fragments (colluvium) in
+a grayish brown silty-sandy matrix. The maximum depth of ST 58 is approximately 30
+cmbs.
+
+67
+
+Figure 36. Top- ST 28. Bottom-ST 29.
+68
+
+Figure 37. Top-ST 30 at nucleus of prehistoric component of 41M1080. Bottom-ST 32
+at 41WM1080.
+69
+
+Section 4
+Shovel Tests 48-54 were executed in Section 4, the section between the North Fork and
+FM 3405. Shovel Tests 48-50 were executed in wooded zone between the river and a
+large cattle pasture north of the river. The Shovel Tests 48 (Figure 38) and 50 contain
+grayish brown silty clay loam that grades to brown silty loam. Both shovel tests contain
+few to common stream-rolled pebbles. Shovel Test 49 was executed in a clearing at the
+western edge of the ROW. This shovel test contains a highly disturbed layer of brown
+silty clay loam with few stream-rolled pebbles and much ash and charcoal. At 30 cmbs,
+the shovel test contains many stream-rolled pebbles (approximately 90-95 percent
+pebbles) in a light brown/reddish-brown sandy matrix.
+Shovel Test 51 (Figure 39) was conducted at the northern edge of the cattle pasture and
+flood plain, at the toe of an eroding slope. The shovel test contains a plow zone in the
+upper 18 cm. Below the plow zone, the shovel test contains brown silty clay loam that
+becomes lighter brown and siltier with depth. The number of angular limestone pebbles
+also increases with depth. The maximum depth of ST 51 is approximately 51 cmbs.
+Shovel Tests 52 (Figure 39), 53, and 54 were executed in the upland area between the
+North Fork flood plain and FM 3405. The shovel tests contain reddish-brown cobbly
+clay and brown silty clay overlying degrading bedrock. The maximum depth of the
+shovel tests is approximately 32 cmbs to bedrock.
+Backhoe Trench Test Results (See Appendix 2)
+Shovel test results confirmed the presence of deep alluvial deposits (>1 m deep) within
+the flood plain of the North Fork of the San Gabriel River. A total of nineteen backhoe
+trenches were excavated in the northern and southern flood plains of the river. The
+backhoe trench profiles revealed Sunev silty clay loam on 1 to 3 percent slopes (SuB).
+The USDA, SCS (1983) describes a typical SuB soil profile as having an A horizon of
+dark grayish brown silty clay loam about 18 inches thick, a B horizon of light yellowish
+brown silty clay loam about 52 inches thick, and a Cca horizon of reddish yellow silty
+clay loam that extends to 60 inches. The Cca horizon has many soft masses and calcium
+carbonate concretions and is underlain by mixed sand and gravel. The USDA, SCS
+profile is representative of the backhoe trench test profiles (Figures 40-44). All backhoe
+trenches tested negative for archaeological deposits, and the results are included in
+Appendix 2: Summary Results of Formal Backhoe Trench Tests.
+The pedestrian survey and shovel test results revealed poor depositional environments at
+Sowes Branch, the Middle Fork of the San Gabriel River, and the minor tributaries of
+Sowes Branch and the North Fork of the San Gabriel River. Stream terrace development
+and the preservation of archaeological deposits at these locations were impeded by
+erosion. No alluvial deposits deeper than 1 m were found. Backhoe trenching was not
+performed at these locations during the archaeological survey due to the shallow deposits.
+
+70
+
+Figure 38. Top-ST 34 at 41WM1084. Bottom-ST 48.
+71
+
+Figure 39. Top-ST 51. Bottom-ST 52.
+72
+
+Figure 40. Top-BHT 1. Bottom-BHT 3.
+73
+
+Figure 41. Top- BHT 6. Bottom-BHT 9.
+74
+
+Figure 42. Top-BHT 10. Bottom-BHT 11.
+75
+
+Figure 43. Top-Upper portion of BHT 16. Bottom-Lower portion of BHT 16.
+76
+
+Figure 44. Top-Upper portion of BHT 19 at 41WM1084. Bottom-Lower portion of BHT
+19 at 41WM1084.
+77
+
+CONCLUSIONS
+Within the APE, a thorough intensive survey has been completed. Results of a careful
+100% pedestrian survey, shovel testing, and backhoe trench testing indicate that there is
+no significant cultural resource within the ROW of the proposed Parmer Lane Extension
+between SH 29 to FM 3405. Because the majority of the APE contains exposed bedrock,
+thin, degrading soils, and routinely plowed fields, shovel tests were conducted at the
+discretion of the Principal Investigator. In this case, shovel tests were executed wherever
+the soils or sediments appeared to exceed 10 cm in depth or were relatively undisturbed.
+A total of 61 shovel tests were conducted within the APE. Four of the shovel tests tested
+positive for cultural materials. Three of the shovel tests (STâs 31, 32, and 33)
+wereexcavated at site 41WM1080, and one (ST 34) was excavated at site 41WM1084.
+Nineteen backhoe trench tests were excavated in the northern and southern flood plains
+of the North Fork of the San Gabriel River. All tested negative for cultural materials. No
+backhoe trench tests were excavated near Sowes Branch, the Middle Fork of the San
+Gabriel River, or the ephemeral tributaries of Sowes Branch and the North Fork of the
+San Gabriel River due to the lack of significant alluvial deposits (all <1 m).
+Only one artifact was collected during the survey. The artifact is a Nolan projectile point
+that was found in ST 34 at site 41WM084. The land owner requested that the artifact be
+returned to his possession following the survey and the preparation of the final report.
+Three sites were found to exist within the APE: 41WM1079 (an early to middle twentieth
+century farmstead), 41WM1080 (a historic homestead of unknown occupancy), and
+41WM1084 (a buried prehistoric lithic scatter).
+A single shovel test conducted at sites 41WM1079 and 41WM1080 confirmed that the
+sites are located on stable to erosional soils, which are not conducive to preserving
+archaeological sites. The sites are surficial, and components are compressed within a few
+centimeters of the surface or mixed and resting on the surface. Good ground visibility
+(>30 percent) aided the identification of the sites and the delineation of the site
+boundaries.
+Site 41WM1079 is an early to middle twentieth century homestead site. The site consists
+of four outbuildings, a limestone chimney, and a sparse artifact scatter. Four shovel tests
+were executed in the ROW, and all tested negative for cultural materials Due to the
+siteâs twentieth century affiliations, poor structural integrity, and lack of significant
+cultural materials within the ROW, site 41WM1079 is not eligible for nomination to the
+National Register or as a SAL and is not a significant archaeological site.
+Site 41WM1080 is a historic homestead of unknown occupancy and a prehistoric lithic
+scatter. It consists of a chimney fall and artifact scatter located at the northern edge of a
+plowed field. Shovel Tests 30-33 were executed in the ROW at the site. All but shovel
+test 30 tested positive for cultural materials. The artifacts uncovered in the shovel tests
+78
+
+include glass fragments, unidentified metal fragments, and a single fencing staple. No
+diagnostic artifacts were observed or collected. Because the nucleus of the site (the
+artifact scatter and chimney fall) is located outside of the ROW, shovel testing in this area
+was prohibited.
+Because of the historic componentâs poor integrity, lack of clear diagnostic artifacts, and
+ambiguous historical affiliations, site 41WM1080 is not potentially eligible for
+nomination to the NRHP or as a SAL.
+The prehistoric component of site 41WM1080 is a sparse, surficial lithic scatter that has
+been heavily disturbed by plowing. Shovel Test 31 was executed at the center of the
+scatter, but tested negative for cultural materials. Shovel Test 32, which was executed in
+the historic component, contained a chert flake fragment. The flake fragment was
+uncovered at 0-7 cmbs, along with a glass fragment and four unidentified metal
+fragments. Due to the heavily disturbed nature of the component and the lack of
+diagnostic artifacts, the prehistoric component has very little research value.
+Shovel Test 34 was conducted at site 41WM1084 and confirmed that cultural deposits are
+located at 10-70 cmbs. The deposits appear to be the colluvial remnants of a site that
+may have existed or exists at the summit of the bluff. One Early Archaic Nolan projectile
+point was located at 70 cmbs. No other diagnostic artifacts were uncovered. Two
+backhoe trench tests were excavated Â±20 m north of ST 34. The trenches tested negative
+for cultural materials. Because of the possibility of damaging trees, the property owner
+prohibited further backhoe trench testing near ST 34. Five additional shovel tests (STâs
+59-61) were executed at the base of the bluff to delimit site boundaries. All tested
+negative for cultural materials. The Nolan projectile point that was collected from ST 34
+will be returned to the property owner. No other artifacts were collected.
+Due to the questionable context of the artifacts recovered and the lack of significant
+cultural deposits, site 41WM1084 is not potentially eligible for nomination to the NRHP
+or as a SAL and does not warrant further investigation.
+
+RECOMMENDATIONS
+No further work is warranted. It is ACSGâs recommendation that the construction of the
+Parmer Lane Extension between SH 29 and FM 3405 be allowed to begin without delay
+at this time. ACSG seeks concurrence for the following in regard to the project:
+6) No historic properties listed or eligible for listing on the National Register of
+Historic Places will be impacted by the proposed project
+7) No archaeological deposits designated or eligible for designation as a State
+Archeological Landmark will be impacted by the proposed project
+8) No further archaeological work is required
+9) No further consultation with the State Historic Preservation Officer is required.
+10) The project may proceed to construction in the project area.
+79
+
+If any cultural remains are encountered during construction, all work should cease, and
+an ACSG professional archaeologist should be called to assess the site. If the site is
+assessed to be significant, further consultation with the THC should be pursued.
+
+80
+
+REFERENCES CITED
+Adams, Marjorie
+2002 "Manlove, Bartholomew." The Handbook of Texas Online.
+<http://www.tsha.utexas.edu/handbook/online/articles/view/MM/fma33.html>
+[Accessed Wed Jul 7 14:11:31 US/Central 2004].
+Barnes, Virgil E.
+1974 Geological Atlas of Texas: Austin Sheet. Bureau of Economic Geology,
+University of Texas at Austin. Austin.
+Black, S. L.
+1997 Oven Cookery at the Honey Creek Site. In Hot Rock Cooking on the Greater
+Edwards Plateau: Four Burned Rock Midden Sites in West Central Texas, by
+S. L. Black, L. W. Ellis, D. G. Creel, and G. T. Good, pp. 255-268. Studies in
+Archeology 22. Texas Archeological Research Laboratory, The University of
+Texas at Austin. Archeology Studies Program Report 2. Environmental Affairs
+Department, Texas Department of Transportation, Austin.
+Blair, W. F.
+1950 The Biotic Provinces of Texas. Texas Journal of Science 2(1): 93-117.
+City of Round Rock
+1998 âAn ongoing History: Chronological History.â The Historic Round Rock
+Collection. City of Round Rock: Planning and Community Development.
+<http://www.ci.round-rock.tx.us/planning/rrcollection/chronology/
+chronology.html> [Accessed Wed Jan 8 13:54:08 US/Central 2003].
+Collins, Michael B.
+1995 Forty Years of Archeology in Central Texas. Bulletin of the Texas Archeological
+Society 66:361-400.
+1998 Wilson-Leonard: An 11,000-year Archaeological Record of Hunter-Gatherers
+in Central Texas. Studies in Archaeology 31. Texas Archaeological Research
+Laboratory, The University of Texas at Austin.
+Derry, Anne, Ward E. Jandl, Carol D. Shull, and Jan Thorman
+1985 Guidelines for Local Surveys: A Basis for Preservation Planning. National
+Register Bulletin 24, first issued 1977, revised 1985 by Patricia L. Parker,
+National Park Service, Washington, D. C.
+Hester, Thomas R., Harry J. Shafer, and Kenneth L. Feder
+1997 Field Methods in Archaeology. Mayfield Publishing. Mountain View.
+Jelks, E. B.
+1962 The Kyle Site, a Stratified Central Texas Aspect Site in Hill County, Texas.
+81
+
+Archeological Series 5. The University of Texas at Austin.
+Johnson, L., Jr, and G. T. Goode
+1994 A New Try at Dating and Characterizing Holocene Climates, as well as
+Archeological Periods, on the Edwards Plateau. Bulletin of the Texas
+Archeological Society 65:1-51
+King, T. F.
+1977 The Archaeological Survey: Methods and Usage. Heritage Conservation
+and Recreation Service, U. S. Department of the Interior, Washington
+D. C.
+Lexington Art League
+2004 âHistory of the Loudoun House.â The Lexington Art League. Lexington, KY.
+<http://www.lexingtonartleague.org/historyoflooudon.htm> [Accessed Wed Jul
+12 10:15:45 US/Central 2004].
+Luke, C. J.
+1980 Continuing Archaeology on State Highway 16: The Shep Site (41KR109)
+and the Wounded Eye Site (41KR107). Publications in Archaeology 19. State
+Department of Highways and Public Transportation, Austin.
+Meltzer, D. J.
+1993 Is There a Clovis Adaptation? In From Kostenki to Clovis, edited by O. Soffer
+and N. D. Praslov, pp. 293-310. Plenium, New York.
+Nash, Sean R., RPA, Gregory D. Staples, and Martha Doty Freeman.
+2002 Cultural Resource Survey of the Parmer Lane Extension Project, FM 1431-FM
+2243, Williamson County, Texas. Reports of Investigations, Number 13.
+Archaeological and Cultural Sciences Group. Austin, Texas.
+Odintz, Mark
+2002 "Williamson County." The Handbook of Texas Online.
+<http://www.tsha.utexas.edu/handbook/online/articles/view/WW/hcw11.html>
+[Accessed Wed Jan 8 13:19:55 US/Central 2003].
+Prewit, E. R.
+1974 Archeological Investigations at the Loeve-Fox Site, Williamson County, Texas.
+Research Report 49. Texas Archeological Survey, The University of Texas at
+Austin.
+Redder, A. J.
+1985 Horn Shelter Number 2: The South End, a Preliminary Report. Central Texas
+Archeologist 10:38-65.
+
+82
+
+Scarbrough, Clara Stearns
+1973 Land of Good Water, Takachue Pouetsu: A Williamson County, Texas, History.
+Williamson County Sun Publishers, Georgetown, Texas.
+Texas General Land Office
+1845 Milam 1st class, File 118, Abstract 417, patented to Bartholomew Manlove,
+August 19, 1845.
+Thompson, Karen R.
+2002 "Tumlinson Fort." The Handbook of Texas Online.
+<http://www.tsha.utexas.edu/handbook/online/articles/view/TT/uet5.html>
+[Accessed Wed Jan 8 13:15:34 US/Central 2003].
+Unites States Army Corps of Engineers
+2004
+âLake Georgetown: Cultural Resources.â United States Army Corps of
+Engineers,
+Fort
+Worth
+District.
+<http://swf67.swfwc.usace.army.mil/georgetown/GTcultural.htm> [Accessed Tues Jul 13
+11:46:32 US/Central 2004].
+U.S. Department of Agriculture
+1983 Soil Survey of Williamson County, Texas. U.S. Government Printing Office.
+Washington D.C.
+Williamson County, Texas
+Deed Records
+Mechanics Lien Records
+
+83
+
+APPENDIX 1: Summary Results of Formal Shovel Tests
+
+84
+
+Appendix 1: Summary Results of Formal Shovel Tests
+
+ST
+ST1
+
+ST2
+
+ST3
+
+ST4
+
+UTM
+Coordinates
+Zone 14
+E 0611152
+N 3394100
+
+Zone 14
+E 0612358
+N 3390549
+
+Zone 14
+E 0612154
+N 3390706
+
+Zone 14
+E 0611874
+N 3390882
+
+Artifacts
+Observed/
+Collected
+none
+
+Level/Depth
+1: 0-15 cmbs
+
+Matrix
+dark brown clay loam with small to large limestone pebbles
+
+2: 15-25 cmbs
+
+light brown sandy clay loam with pebble to cobble size,
+angular to subangular, limestone pebbles; indurated limestone
+bedrock exposed at 25 cmbs
+
+none
+
+1: 0-16 cmbs
+
+dark brown silty clay loam with angular to subangular, pebble
+to cobble size, limestone and chert frags; plow zone
+
+none
+
+2: 16-34 cmbs
+
+dark blackish brown silty clay loam with many angular
+limestone pebbles; indurated limestone bedrock exposed at
+24 cmbs
+
+none
+
+1: 0-32 cmbs
+
+dark brown silty clay loam with well-developed peds and few,
+angular to subangular, limestone and chert pebbles; plow zone
+
+none
+
+2: 32-60 cmbs
+
+dark brownish black silty clay loam; more angular limestone
+pebbles and less compacted than previous level; limestone
+flecks observed in the lower portion of the level; level becomes
+sandier with depth
+
+none
+
+1: 0-3 cmbs
+
+humus/leaf litter
+
+none
+
+2: 3-12 cmbs
+
+dark brown clay loam with ped formation and few angular
+angular limestone pebbles; roots and rootlets throughout
+
+none
+
+3: 12-30 cmbs
+
+dark brownish black silty clay loam with few angular limestone
+pebbles and flecks; roots and rootlets throughout
+
+none
+
+4: 30-63 cmbs
+
+brown sandy clay loam with limestone flecks and angular
+pebbles in the lower portion of the level
+
+none
+
+ST5
+
+Zone 14
+E 0611691
+N 3391091
+
+1: 0-66 cmbs
+
+dark brown clay loam with subangular to angular, pebble to
+cobbles size, chert fragments; matrix is homogeous but
+appears to become grayer and damper with depth; upper
+15 cm is the plow zone
+
+none
+
+ST6
+
+Zone 14
+E 0611583
+N 3391345
+
+1: 0-50 cmbs
+
+dark brown clay loam with subangular to angular, pebble to
+cobble size, chert fragments; matrix is homogenous but
+apears to become grayer and damper with depth; upper 15 cm
+is the plow zone
+
+none
+
+ST7
+
+Zone 14
+E 0611478
+N 3391576
+
+1: 0-15 cmbs
+
+homeogenous dark brown clay loam with angular to
+subangular, pebble to cobble size, chert frags; roots and
+rootlets throughtout
+
+none
+
+2: 15-50 cmbs
+
+dark reddish brown clay loam with less chert frags than level
+1; becomes damper and stickier with depth
+
+none
+
+1: 0-43 cmbs
+
+dark brownish black clay with many subangular limestone
+pebbles
+
+none
+
+ST8
+
+Zone 14
+E 0612322
+N 3389661
+
+85
+
+ST9
+
+Zone 14
+E 0612327
+N 3389881
+
+1: 0-28 cmbs
+
+dark brownish black clay with many subangular limestone and
+chert pebbles
+
+none
+
+ST10
+
+Zone 14
+E 0611317
+N 3394088
+
+1: 0-26 cmbs
+
+highly humic, dark brown sandy clay loam; bedrock exposed
+at 26 cmbs
+
+none
+
+ST11
+
+Zone 14
+E 0611129
+N 3392874
+
+1: 0-50 cmbs
+
+dark brown clay loam with many rounded, pebble to small
+cobble size, limestone frags and one limestone boulder
+
+none
+
+ST12
+
+Zone 14
+E 0611190
+N 3394297
+
+1: 0-25 cmbs
+
+slightly sandy, dark brown clay loam
+
+none
+
+2: 25-50 cmbs
+
+brown silty clay loam with few subangular limestone frags
+
+none
+
+Zone 14
+E 0611024
+N 3394525
+
+1: 0-20 cmbs
+
+brown silty clay loam with limestone pebbles and few
+subangular cobbles
+
+none
+
+2: 20-40 cmbs
+
+reddish brown silty clay (lighter in color than level 1) with
+limestone cobbles in the lower portion of the level
+
+none
+
+1: 0-18 cmbs
+
+mottled red and black silty clay with subangular limestone
+cobbles in the upper portion of the level; heavily disturbed plow
+zone
+
+none
+
+2: 18-42 cmbs
+
+same matrix as level 1 but more red and lighter in color; the
+upper portion of the level has been heavily disturbed by plowing
+
+none
+
+ST13
+
+ST14
+
+Zone 14
+E 0610989
+N 3394663
+
+ST 15
+
+Zone 14
+E 0610930
+N 3394717
+
+1: 0-40 cmbs
+
+mottled reddish brown silty clay loam with small limestone
+cobble; no distinct strata
+
+none
+
+ST16
+
+Zone 14
+E 0611160
+N 3393959
+
+1: 0-36 cmbs
+
+light brown sandy clay loam with small to medium, subangular
+to angular, limestone pebbles throughout
+
+none
+
+ST17
+
+Zone 14
+E 0611107
+N 3393717
+
+1: 0-52 cmbs
+
+dark brown sandy clay loam with small to large, subangular to
+subrounded, limestone pebbles
+
+none
+
+ST18
+
+Zone 14
+E 0611263
+N 3392237
+
+1: 0-12 cmbs
+
+dark brownish black silty clay loam
+
+none
+
+2: 12-30 cmbs
+
+dark brown (slightly red) silty clay loam with ped formation
+and roots and rootlets throughout
+
+none
+
+3: 30-38 cmbs
+
+reddish brown silty clay loam with many subrounded, tabular
+limestone cobbles (level is approximately 90 percent LS frags)
+
+none
+
+1: 0-25 cmbs
+
+dark grayish brown silty clay loam with many, subangular to
+rounded, chert pebbles and cobbles
+
+none
+
+2: 25-36 cmbs
+
+dark brownish black clay loam with more chert pebbles than
+level 1; the matrix is very sticky and compacted
+
+none
+
+1: 0-35 cmbs
+
+dark brown silty clay loam with few, subangular to angular,
+chert pebbles
+
+none
+
+ST19
+
+ST20
+
+Zone 14
+E 0611224
+N 3392326
+
+Zone 14
+E 0611193
+N 3392589
+
+86
+
+ST21
+
+2: 35-50 cmbs
+
+dark brownish black clay loam with fewer pebbles than level 1;
+matrix is very sticky and compacted; ped formation evident
+
+none
+
+ST21
+
+Zone 14
+E 0612355
+N 3389550
+
+1: 0-30 cmbs
+
+dark brown sandy clay loam mixed with many chert and
+limestone, angular to subangular, pebble to cobble size rocks
+(matrix is 90% - 95% rocks); at 30 cmbs matrix becomes
+redder with many limestone flecks through out
+
+none
+
+ST22
+
+Zone 14
+E 0610805
+N 3395092
+
+1: 0-10 cmbs
+
+brown silty clay loam
+
+none
+
+2: 10-19 cmbs
+
+layer of small to medium size, subangular to angular,
+limestone and chert pebbles; same matrix as level 1
+
+none
+
+3: 19-23 cmbs
+
+brown silty clay; chert and limestone pebbles decrease;
+start seeing limestone flecks and degrading limestone
+
+none
+
+4: 23-50 cmbs
+
+grayish white and light brown silty clay; many, small pebble
+to cobble size, subangular, limestone and chert nodules; chalk
+increases with depth (90% chalk and chert at the bottom of
+the level)
+
+none
+
+1: 0-16 cmbs
+
+reddish brown silty/sandy clay loam (very little clay); plow
+zone
+
+none
+
+2: 16-95 cmbs
+
+brownish red silty/sandy loam with few, subrounded to
+rounded, limestone pebbles and few Rabdotus snail shells;
+common, rounded gravel at 95 cmbs (up to large pebble size);
+Ashe juniper roots throughout
+
+none
+
+Zone 14
+E 0610812
+N 3395091
+
+1: 0-12 cmbs
+
+brown silty clay loam (very silty)
+
+none
+
+2: 12-25 cmbs
+
+degrading limestone bedrock; many angular to subrounded
+limestone and chert nodules poorly cemented together; many
+limestone flecks throughout
+
+none
+
+Zone 14
+E 0610790
+N 3395103
+
+1: 0-20 cmbs
+
+brown silty clay loam with few, subrounded to rounded,
+limestone cobbles (many on the surface)
+
+none
+
+2: 20-22 cmbs
+
+friable reddish white limestone bedrock
+
+none
+
+ST23
+
+ST24
+
+ST25
+
+Zone 14
+E 0610238
+N 3396395
+
+ST26
+
+Zone 14
+E 0610754
+N 3395102
+
+1: 0-18 cmbs
+
+brown silty clay loam with few, subrounded to rounded,
+limestone cobbles; friable white bedrock exposed at 18 cmbs
+
+none
+
+ST27
+
+Zone 14
+E 0610748
+N 3395196
+
+1: 0-23 cmbs
+
+slightly mottled reddish brown clay with well-developed peds;
+plow zone
+
+none
+
+2: 23-50 cmbs
+
+mottled red-brown clay with peds and slicken sides throughout
+
+none
+
+Zone 14
+E 0610673
+N 3395360
+
+1: 0-3 cmbs
+
+light reddish yellow silty clay loam
+
+none
+
+2: 3-19 cmbs
+
+reddish brown (very red) silty clay loam with limestone flecks
+and small angular limestone pebbles throughout; bedrock
+exposed at 19 cmbs
+
+none
+
+Zone 14
+
+1: 0-10 cmbs
+
+brown silty clay loam with many limestone flecks and few
+
+none
+
+ST28
+
+ST29
+
+87
+
+ST29
+cont'd
+
+ST30
+
+ST31
+
+ST32
+
+E 0610602
+N 3395604
+
+Zone 14
+E 0610578
+N 3395685
+
+Zone 14
+E 0610548
+N 3395704
+
+Zone 14
+E 0610553
+N 3395722
+
+friable angular limestone fragments
+2: 10-26 cmbs
+
+very soft and friable limestone bedrock interbedded with brown
+silty clay
+
+none
+
+1: 0-22 cmbs
+
+dark brown clay with well-developed peds and slicken sides
+throughout; plow zone
+
+none
+
+2: 22-40 cmbs
+
+mottled dark brown and reddish brown clay with few
+subangular limestone pebbles and limestone flecks
+
+none
+
+3: 40-50 cmbs
+
+light reddish brown silty clay with dark brown clay veins; many
+limestone flecks and few subangular limestone pebbles
+
+none
+
+1: 0-7 cmbs
+
+dark brown silty clay loam with many limestone flecks and
+small limestone pebbles
+
+1 metal wire;
+1 fencing
+staple; 1
+brown glass
+fragment
+
+2: 7-20 cmbs
+
+degrading limestone bedrock; indurated limestone exposed at
+20 cmbs; matrix is brown silty clay loam with many limestone
+frags
+
+none
+
+1: 0-6 cmbs
+
+dark brown silty clay loam with with many limestone flecks and
+small limestone pebbles
+
+4 metal frags;
+1 chert flake
+fragment;
+1 tiny brown
+glass frag w/
+patination
+
+2: 6-17 cmbs
+
+degrading limestone bedrock; indurated limestone exposed at
+17 cmbs
+
+none
+
+ST33
+
+Zone 14
+E 0610530
+N 3395743
+
+1: 0-8 cmbs
+
+reddish brown silty clay loam with common, subangular to
+angular, limestone pebbles; limestone bedrock exposed at
+8 cmbs
+
+2 clear glass
+frags; 1 brown
+glass frag
+
+ST34
+
+Zone 14
+E 0610525
+N 3395903
+
+1: 0-70 cmbs
+
+homogenous brown silty clay loam with few angular limestone
+pebbles; roots and Rabdotus snail shells throughout
+
+see below
+
+Note: Artifacts recovered from arbitrary levels
+1a: 0-10 cmbs
+
+none
+
+1b: 10-20 cmbs
+
+2 flake frags
+
+1c: 20-30 cmbs
+
+1 flake frag
+
+1d: 30-48 cmbs
+
+1 flake frag;
+1 burned rock
+
+1e: 48-60 cmbs
+
+1 flake frag
+
+1f: 60-70 cmbs
+
+none
+
+88
+
+1g: 70 cmbs
+
+1 projectile pt
+"Nolan"
+
+2: 70-80 cmbs
+
+same matrix as level 1 but common, angular to subangular,
+limestone pebbles and few angular imestone cobbles;
+limestone fragments appear to be colluvium
+
+none
+
+1: 0-13 cmbs
+
+dark brown silty clay loam; plow zone
+
+none
+
+2: 13-29 cmbs
+
+dark blackish brown clay with many, subangular to subrounded,
+large chert pebbles and small cobbles
+
+none
+
+3: 29-40 cmbs
+
+dark blackish brown clay; very sticky and damp with few small
+angular limestone pebbles
+
+none
+
+1: 0-12 cmbs
+
+dark brown silty clay loam; plow zone
+
+none
+
+2: 12-30 cmbs
+
+dark blackish brown clay with many, subangular to subrounded,
+large chert pebbles and small cobbles
+
+none
+
+3: 30-38 cmbs
+
+dark blackish brown clay; very sticky and damp with few small
+angular limestone pebbles
+
+none
+
+1: 0-5 cmbs
+
+grayish brown silty clay loam
+
+none
+
+2: 5-18 cmbs
+
+dark grayish brown clay with common chert cobbles and large
+pebbles (like ST's 35 and 36)
+
+none
+
+3: 18-30 cmbs
+
+dark grayish brown clay; very sticky w/ slicken sides troughout
+
+none
+
+4: 30-50 cmbs
+
+grayish brown silty clay (very silty) with many limestone flecks
+and small, angular to subangular, limestone pebbles at the
+bottom of the level; matrix becomes lighter in color with depth w/
+more limestone flecks
+
+none
+
+ST34
+cont'd
+
+ST35
+
+ST36
+
+ST37
+
+Zone 14
+E 0611164
+N 3392424
+
+Zone 14
+E 0611143
+N 3392748
+
+Zone 14
+E 0611144
+N 3392985
+
+ST38
+
+Zone 14
+E 0611123
+N 3393238
+
+1: 0-15 cmbs
+
+dark grayish brown silty clay loam with limestone flecks
+throughout; degrading limestone bedrock exposed at 15 cmbs
+
+none
+
+ST39
+
+Zone 14
+E 0611123
+N 3393770
+
+1: 0-30 cmbs
+
+brown silty clay loam w/ few small angular limestone pebbles;
+very clayey in the upper 12 cm of the level
+
+none
+
+2: 30-56 cmbs
+
+reddish brown silty clay loam that becomes siltier and lighter in
+color with depth; common, small to large, angular limestone
+pebbles and flecks at the bottom of the level; some Rabdotus
+snail shells present
+
+none
+
+1: 0-12 cmbs
+
+dark brown silty clay with few subangular, large pebble to small
+cobble size, chert
+
+none
+
+2: 12-40 cmbs
+
+reddish brown silty clay loam that becomes lighter in color with
+depth; angular limestone pebbles and flecks present at the
+bottom of the level
+
+none
+
+1: 0-18 cmbs
+
+dark brown silty clay (very clayey); plow zone
+
+none
+
+ST40
+
+ST41
+
+Zone 14
+E 0611121
+N 3393987
+
+Zone 14
+E 0611050
+
+89
+
+N 3394203
+
+2: 18-38 cmbs
+
+ST41
+cont'd
+
+mottled dark brown and dark olive silty clay; common limestone
+
+none
+
+flecks and few small angular limestone pebbles
+3: 38-49 cmbs
+
+dark olive clay with some dark brown mottling; slicken sides
+throughout; angular limestone pebbles and limestone flecks
+increase with depth; clay in this level is very friable
+
+none
+
+Zone 14
+E 0611010
+N 3394315
+
+1: 0-5 cmbs
+
+reddish brown silty clay with many limestone flecks throughout
+
+none
+
+2: 5-20 cmbs
+
+extremely cobbly red clay with limestone flecks, pebbles, and
+degrading bedrock throughout
+
+none
+
+ST43
+
+Zone 14
+E 0610966
+N 3394435
+
+1: 0-8 cmbs
+
+reddish brown silty/sandy clay and degrading bedrock
+
+none
+
+ST44
+
+Zone 14
+E 0610899
+N 3394644
+
+1: 0-15 cmbs
+
+reddish brown clay with few small angular limestone pebbles;
+plowzone
+
+none
+
+2: 15-45 cmbs
+
+red clay with dark reddish brown clay veins; matrix becomes
+siltier with depth; slicken sides throughout; common angular
+limestone pebbles and cobbles encountered at 45 cmbs
+
+none
+
+1: 0-10 cmbs
+
+brown silty clay loam with few, small to large, subangular to
+angular, limestone pebbles
+
+none
+
+2: 10-30 cmbs
+
+reddish brown silty clay loam (very silty) with limestone flecks
+throughout; matrix becomes redder with depth; degrading
+bedrock exposed at 30 cmbs
+
+none
+
+1: 0-17 cmbs
+
+dark brown silty clay loam (very clayey)
+
+none
+
+2: 17-32 cmbs
+
+mottled dark brown and dark olive silty clay
+
+none
+
+3: 32-50 cmbs
+
+dark olive silty clay becoming lighter in color and siltier with
+depth; angular limestone pebbles and flecks at 50 cmbs
+
+none
+
+1: 0-12 cmbs
+
+dark brown silty clay loam with few small subrounded
+limestone pebbles; roots and rootlets throughout; charcoal
+observed at 10 cmbs
+
+none
+
+2: 12-17 cmbs
+
+fractured indurated limestone interbedded with dark brown
+silty clay loam; charcoal observed at 13 cmbs
+
+none
+
+1: 0-7 cmbs
+
+humus; leaf litter
+
+none
+
+2: 7-30 cmbs
+
+grayish brown silty clay loam with roots throughout
+
+none
+
+3: 30-36 cmbs
+
+buff sandy sandy zone
+
+none
+
+4: 36-73 cmbs
+
+grayish brown silty clay loam that is lighter in color than
+level 1and more brown; few Rabdotus shells; some gray and
+brown silty inclusions
+
+none
+
+1: 0-10 cmbs
+
+highly disturbed brown silty clay loam with few well-rounded
+pebbles and cobbles; much charcoal and ash in this level;
+
+none
+
+ST42
+
+ST45
+
+ST46
+
+ST47
+
+ST48
+
+ST49
+
+Zone 14
+E 0610870
+N 3394781
+
+Zone 14
+E 0610845
+N 3394938
+
+Zone 14
+E 0610809
+N 3395017
+
+Zone 14
+E 0610235
+N 3396461
+
+Zone 14
+E 0610191
+
+90
+
+N 3396484
+
+ST49
+cont'd
+
+ST50
+
+ST51
+
+Zone 14
+E 0610169
+N 3396529
+
+Zone 14
+E 0610012
+N 3396825
+
+thermally fractured pebbles present
+
+2: 10-22 cmbs
+
+brown silty clay loam with common stream-rolled pebbles;
+some charcoal and ash and few thermally fractured pebbles
+in this level; matrix is lighter brown than level 1
+
+none
+
+3: 23-26 cmbs
+
+brown silty clay loam with common stream-rolled limestone
+pebbles
+
+none
+
+4: 26-30 cmbs
+
+light brown-reddish brown silty clay loam with many streamrolled pebbles; this level is approximately 95 percent pebbles
+
+none
+
+1: 0-5 cmbs
+
+humus; leaf litter
+
+none
+
+2: 5-34 cmbs
+
+grayish brown silty clay loam with roots throughout
+
+none
+
+3: 35-55 cmbs
+
+brown silty clay loam that becomes lighter brown in color
+and siltier with depth; roots throughout; few stream-rolled
+pebbles and some sand observed at 53-55 cmbs
+
+none
+
+1: 0-18 cmbs
+
+plow zone; brown silty clay; matrix is very clayey with common
+small limestone pebbles and limestone flecks, all angular
+
+none
+
+2: 18-37 cmbs
+
+matrix is similar to level 1, but becomes lighter brown and siltier
+with depth; few limestone flecks and pebbles
+
+none
+
+3: 37-51 cmbs
+
+brown silty clay loam (very silty) with few limestone flecks;
+angular limestone pebbles increasing with depth
+
+none
+
+ST52
+
+Zone 14
+E 0609976
+N 3397042
+
+1: 0-25 cmbs
+
+extremely cobbly reddish brown silty clay (all cobbles are
+subangular); bedrock exposed at 25 cmbs
+
+none
+
+ST53
+
+Zone 14
+E 0609982
+N 3397153
+
+1: 0-18 cmbs
+
+brown silty clay loam with few subangular limestone pebbles
+
+none
+
+2: 18-32 cmbs
+
+brown-reddish brown silty clay loam that is siltier and lighter in
+color than level 1; common subangular limestone pebbles and
+cobbles at the bottom of the level (degrading bedrock)
+
+none
+
+ST54
+
+Zone 14
+E 0609983
+N 3397215
+
+1: 0-8 cmbs
+
+reddish brown silty clay with common, subangular to
+subrounded, limestone pebbles and flecks; degrading bedrock
+exposed at 8 cmbs
+
+none
+
+ST55
+
+Zone 14
+E 0611328
+N 3391838
+
+1: 0-18 cmbs
+
+plow zone; dark brownish black cobbly clay; many subangular
+chert cobbles
+
+none
+
+2: 18-41 cmbs
+
+dark grayish black silty clay with few subangular chert and
+limestone cobbles; matrix becomes siltier with depth and has
+light gray mottling
+
+none
+
+1: 0-14 cmbs
+
+dark brown clay with common, subangular to subrounded, chert
+cobbles and large pebbles; plow zone
+
+none
+
+2: 14-43 cmbs
+
+dark grayish brown and reddish brown mottled clay; becomes
+
+none
+
+ST56
+
+Zone 14
+E 0611231
+N 3392100
+
+91
+
+redder with depth, with fewer chert pebbles and cobbles
+ST57
+
+Zone 14
+
+ST57
+cont'd
+
+E 0610479
+N 3395939
+
+1: 0-13 cmbs
+
+grayish brown silty-sandy clay loam with common angular
+
+none
+
+limestone frags throughout (sand to large pebbles)
+2: 13-35 cmbs
+
+grayish brown silty-sandy clay loam with common angular
+limestone frags; matrix becomes browner with depth; few
+Rabdotus snail shells
+
+none
+
+3: 35-60 cmbs
+
+brown sandy clay loam with common, angular limestone
+flecks and pebbles
+
+none
+
+ST58
+
+Zone 14
+E 0610480
+N 3395912
+
+1: 0-30 cmbs
+
+gray silty-sandy loam with many, subrounded to angular,
+pebble to boulder-size, limestone frags (colluvium); Ashe
+juniper roots throughout
+
+none
+
+ST59
+
+Zone 14
+E 0610499
+N 3395927
+
+1: 0-15 cmbs
+
+grayish brown silty clay with many small angular limestone
+flecks and small pebbles
+
+none
+
+2: 15-46 cmbs
+
+grayish brown silty clay with common, small to large, angular
+limestone pebbles; matrix grades to brown with depth
+
+none
+
+3: 46-70 cmbs
+
+brown silty-sandy clay loam with many small, subangular to
+angular, limestone pebbles; limestone frags increase in
+number with depth; common Rabdotus shells
+
+none
+
+1: 0-20 cmbs
+
+grayish brown silty clay loam with many limestone frags; very
+compacted
+
+none
+
+2: 20-37 cmbs
+
+grayish brown silty clay loam grading to brown with depth; no
+distinct stratigraphic boundaries; common angular limestone
+pebbles that increase in number with depth; many Ashe juniper
+roots
+
+none
+
+3: 37-62 cmbs
+
+brown silty clay loam with many small , subangular to angular,
+limestone pebbles; common Rabdotus shells
+
+none
+
+1: 0-13 cmbs
+
+grayish brown silty clay loam with many limestone frags; very
+compacted
+
+none
+
+2: 23-41 cmbs
+
+grayish brown silty clay loam grading to brown with depth; no
+distinct stratigraphic boundaries; common angular limestone
+pebbles that increase in number with depth; many Ashe juniper
+roots
+
+none
+
+3: 41-60 cmbs
+
+brown silty clay loam with many small , subangular to angular,
+limestone pebbles; common Rabdotus shells
+
+none
+
+ST60
+
+ST61
+
+Zone 14
+E 0610543
+N 3395902
+
+Zone 14
+E 0610528
+N 3395896
+
+92
+
+APPENDIX 2: Summary Results of Formal Backhoe Trench Tests
+
+93
+
+Appendix 2: Summary Results of Formal Backhoe Trench Tests
+
+UTM
+BHT
+Coordnates Level/Depth
+BHT 1 Zone 14
+1: 0-35 cmbs
+E 0610227
+N 3396475
+2: 35-70 cmbs
+
+BHT2
+
+BHT3
+
+Zone 14
+E 0610212
+N 3396492
+
+Zone 14
+E 0610167
+N 3396510
+
+Matrix
+"A horizon;" grayish brown sandy loam with few stream
+rolled pebbles; blocky subangular peds
+
+Artifacts
+Collected/
+Observed
+none
+
+grayish brown loamy sand with some light brownish gray
+clayey mottles; blocky angular peds; bedded
+
+none
+
+3: 70-80 cmbs
+
+grayish brown loamy sand with significant clay content
+
+none
+
+4: 80-100 cmbs
+
+non-consolidated channel lag
+
+none
+
+5: 100-120 cmbs large stream rolled gravel in a sandy matrix
+
+none
+
+6: 120-137 cmbs large stream rolled gravel in a sandy matrix; some
+pebbles are almost cobble size
+
+none
+
+7: 137-150 cmbs loamy sand and stream rolled gravel
+
+none
+
+8: 150-175 cmbs coarse sand and stream rolled gravel
+
+none
+
+1: 0-36 cmbs
+
+"A horizon;" brown sandy loam with roots throughout;
+some charcoal at the surface; subangular blocky peds
+
+none
+
+2: 36-92 cmbs
+
+sand and gravel up to boulder size
+
+none
+
+3: 92-123 cmbs
+
+loamy sand; bedded
+
+none
+
+4: 123-142 cmbs dark gray sandy loam with poorly developed subangular
+blocky peds; bedded
+
+none
+
+5: 142-175 cmbs brownish gray sandy loam with gravel up to cobble size;
+subangular blocky peds (well developed at the bottom of
+the level)
+
+none
+
+1: 0-110 cmbs
+
+none
+
+grayish brown sandy loam with few gravels; one intact
+Rabdotus shell; no distinct boundary for "A horizon;" less
+gravel with depth; Rabdotus shell fragments throughout;
+subangular blocky peds; Matrix becomes darker in color
+at 60 cmbs
+
+2: 110-120 cmbs stream rolled gravel in a grayish brown clayey sand
+matrix
+
+none
+
+3: 120-130 cmbs buff clayey sand and stream rolled gravel
+
+none
+
+4: 130-140 cmbs coarse sand and stream rolled gravel
+
+none
+
+94
+
+BHT3 cont'd
+
+BHT4
+
+Zone 14
+E 0610174
+N 3396539
+
+5: 140-165 cmbs fine sand and stream rolled gravel
+
+none
+
+6: 165-190 cmbs coarse sand and stream rolled gravel
+
+none
+
+1: 0-30 cmbs
+
+"A horizon/plow zone;" reddish brown sandy clay loam
+with few gravels; well developed, blocky, subangular peds
+
+none
+
+2: 30-52 cmbs
+
+sandy loam with few gravels; calcium carbonate filaments
+
+none
+
+3: 52-90 cmbs
+
+light reddish brown fine sand with few stream rolled
+gravels up to cobble size
+
+none
+
+4: 90-125 cmbs
+
+fine buff sand with few stream rolled gravels and darker
+none
+light reddish brown vertical streaks; poor ped development
+
+5: 125-138 cmbs fine sand and stream rolled gravel
+
+none
+
+6: 138-190 cmbs poorly consolidated stream rolled gravel in a coarse sandy none
+matrix
+BHT5
+
+Zone 14
+E 0610154
+N 3396599
+
+1: 0-30 cmbs
+
+Plow zone; brown silty clay with subangular peds; good
+structure from bottom up
+
+none
+
+2: 30-75 cmbs
+
+light brown silty clay (very silty) with many Rabdotus
+shell frags throughout; few freshwater bivalve shell frags
+
+none
+
+3: 75-170 cmbs
+
+sandy silt with common stream rolled gravels (mainly
+silicious but some degrading limestone frags)
+
+none
+
+4: 170-225 cmbs light brown silt with calcium cabonate concretions;
+few Rabdotus shell fossils
+
+none
+
+5: >225 cmbs
+
+none
+
+buff sandy silt
+Note: BHT 5 is fairly homogenous from the bottom up
+
+BHT6
+
+Zone 14
+E 0610110
+N 3396683
+
+1: 0-45 cmbs
+
+"A horizon/plow zone;" brown silty clay with grass roots
+throughout; some light brown mottling at 30-45 cmbs; few
+subangular limestone pebbles
+
+none
+
+2: 45-95 cmbs
+
+light brown silty clay with brown silty clay vertical streaks
+and inclusions
+
+none
+
+3: 95-115 cmbs
+
+light brown silty clay with many Rabdotus shell fragments
+and little sand
+
+none
+
+4: 115-170 cmbs light brown silty clay (very clayey) with few Rabdotus shell
+fragments
+
+none
+
+5: 170-265 cmbs light brown clayey silt (mainly silt)
+
+none
+
+95
+
+BHT6 cont'd
+
+6: >265 cmbs
+
+buff silty sandy loam; no gravel
+
+none
+
+BHT7
+
+1: 0-45 cmbs
+
+"A horizon/plow zone;" dark brown silty clay loam with
+olive mottles at 25-45 cmbs; roots and rootlets throughout
+
+none
+
+2: 45-115 cmbs
+
+dark olive silty clay with dark brown mottling and few
+subangular limestone pebbles and Rabdotus shell frags
+
+none
+
+BHT8
+
+BHT9
+
+Zone 14
+E 0610050
+N 3396740
+
+Zone 14
+E 0610054
+N 3396788
+
+Zone 14
+E 0609994
+N 3396814
+
+3: 115-165 cmbs light reddish brown silty clay loam with darker brown
+vertical streaks and inclusions
+
+none
+
+4: 165-230 cmbs light reddish brown clay (little silt) with few subangular
+limestone pebbles and fosslized Rabdotus shells
+
+none
+
+5: 230-285 cmbs reddish brown silty clay with dark brown clay inclusions
+and few subangular limestone pebbles
+
+none
+
+6: >285 cmbs
+
+light reddish brown sandy loam
+
+none
+
+1: 0-90 cmbs
+
+dark brown silty clay loam with olive mottling at 50-80
+cmbs; upper 40 cm is "A horizon/plow zone;" few
+angular limestone pebbles and many grass roots and
+rootlets throughout; tree roots at 80 cmbs; few Rabdotus
+shells throughout
+
+none
+
+2: 90-170 cmbs
+
+brownish olive silty clay with light reddish brown and dark
+brown vertical streaks
+
+none
+
+3: 170-230 cmbs light reddish brown silty clay (very clayey) with some olive
+mottling
+
+none
+
+4: 230-280 cmbs light reddish brown silty clay loam with few subangular
+limestone pebbles
+
+none
+
+1: 0-40 cmbs
+
+"A horizon;" dark brown silty clay loam with roots
+throughout and few angular limestone frags;
+0-15 cmbs is a plow zone; Rabdotus shells; bedding
+and calcium carbonate filaments evident
+
+none
+
+2: 40-80 cmbs
+
+light brown silty clay loam with few subangular pebble to
+cobble size limestone frags; few Rabdotus shell frags
+throughout
+
+none
+
+3: 80-140 cmbs
+
+brown sandy clay loam with common stream rolled
+pebbles and angular limestone frags (colluvium); dark
+brown and light reddish brown mottling
+
+none
+
+4: 140-220 cmbs alternating bands of sand and stream rolled pebbles with
+some pockets of light reddish brown silty clay; indurated
+bedrock exposed at 220 cmbs
+
+none
+
+96
+
+BHT10 Zone 14
+E 0610249
+N 3396394
+
+BHT11 Zone 14
+E 0610299
+N 3396367
+
+BHT12 Zone 14
+E 0610303
+N 3396288
+
+1: 0-45 cmbs
+
+"A horizon;" light brown silty clay loam with roots
+throughout; 0-40 cmbs is a plow zone; few subangular
+limestone pebbles and Rabdotus snail shells
+
+none
+
+2: 45-105 cmbs
+
+reddish brown/buff silty clay loam with few stream
+rolled pebbles; becomes lighter in color with depth; brown
+mottles and roots in the upper portion
+
+none
+
+3: 105-160 cmbs stream rolled gravels (pebble to small cobble size) in a
+buff silty clay loam matrix; few brown mottles
+
+none
+
+4: 160-205 cmbs sand with few stream rolled pebbles (level is ~99% sand)
+
+none
+
+5: 205-260 cmbs buff sand with common stream rolled pebbles
+
+none
+
+1: 0-35 cmbs
+
+"A horizon/plow zone;" brown silty clay loam with blocky
+subangular structure; calcium carbonate filaments at 35
+cmbs
+
+none
+
+2: 35-55 cmbs
+
+light reddish brown silty clay grading to brown (transition
+between A and C horizons)
+
+none
+
+3: 55-135 cmbs
+
+light reddish brown silty loam; Rabdotus shells and shell
+frags throughout
+
+none
+
+4: 135-165 cmbs poorly sorted gravel up to boulder size in a silty-sandy
+matrix
+
+none
+
+5: 165-185 cmbs buff sandy silt with few fossilized Rabdotus shells
+
+none
+
+1: 0-38 cmbs
+
+"A horizon/plow zone;" brown silty clay loam with blocky
+subangular structure
+
+none
+
+2: 38-60 cmbs
+
+light reddish brown silty clay grading to brown (transition
+between A and C horizons)
+
+none
+
+light reddish brown silty loam; Rabdotus shells and shell
+frags throughout
+
+none
+
+3: 60-140 cmbs
+
+4: 140-170 cmbs poorly sorted gravel up to boulder size in a silty-sandy
+matrix
+
+none
+
+5: 170-210 cmbs buff sandy silt with few fossilized Rabdotus shells
+none
+BHT13 Zone 14
+E 0610377
+N 3396187
+
+1: 0-25 cmbs
+
+plow zone; brown silty clay loam (very silty) with roots
+and Rabdotus shells throughout
+
+none
+
+2: 25-60 cmbs
+
+light brown silty loam with very little clay content; few
+stream rolled pebbles in lower section; becomes lighter in
+
+none
+
+97
+
+BHT3 cont'd
+
+color with depth; few Rabdotus snail shells and roots
+3: 60-120 cmbs
+
+BHT14 Zone 14
+E 0610396
+N 3396114
+
+BHT15 Zone 14
+E 0610442
+N 3396071
+
+poorly sorted channel lag in a light brown silty matrix; few
+subangular boulders; bedded
+
+none
+
+4: 120-165 cmbs poorly sorted channel lag with small pebble to cobble
+size frags in a light buff sandy matrix; bedded
+
+none
+
+5: 165-195 cmbs compacted buff silty-sandy loam with common, small to
+large, stream rolled pebbles
+
+none
+
+6: 195-215 cmbs compacted buff silty-sandy loam with few stream rolled
+pebbles
+
+none
+
+1: 0-25 cmbs
+
+plow zone; dark brown silty clay loam with roots
+throughout
+
+none
+
+2: 25-55 cmbs
+
+brown silty clay loam with light brown mottles and few
+Rabdotus snail shell frags and stream rolled pebbles
+
+none
+
+3: 55-120 cmbs
+
+light brown silty loam with brown mottles and vertical
+streaks; few stream rolled pebbles and subangular
+limestone pebbles
+
+none
+
+4: 120-155 cmbs very light brown/buff silty clay with few subangular
+limestone pebbles and flecks
+
+none
+
+5: 155-220 cmbs degrading bedrock in a buff sandy clay matrix; many
+subangular limestone pebbles and limestone flecks
+
+none
+
+6: 220-245 cmbs degrading bedrock (chalky, light buff)
+
+none
+
+1: 0-45 cmbs
+
+"A horizon/plow zone;" dark brown silty clay loam with
+limestone flecks and and common angular to subangular
+pebbles and cobbles; Rabdotus snail shell frags
+throughout
+
+none
+
+2: 45-55 cmbs
+
+dark grayish brown silty clay loam with light brown
+none
+mottles and a thin layer of angular limestone pebbles; few
+Rabdotus snail shell fragments; transition between Level 1
+and Level 3
+
+3: 55-175 cmbs
+
+grayish brown silty clay (very clayey) with small limestone
+flecks and few subrounded pebbles; light brown vertical
+veins at 135-165 cmbs; few Rabdotus snail shell
+fragments
+
+4: 175-185 cmbs white chalky clay with red and brown mottles and many
+subrounded to rounded limestone pebbles
+
+none
+
+none
+
+98
+
+BHT15 cont'd
+
+BHT16 Zone 14
+E 0610448
+N 3396028
+
+BHT17 Zone 14
+E 0610484
+N 3396016
+
+BHT18 Zone 14
+E 0610488
+N 3395944
+
+5: 185-220 cmbs reddish brown sandy clay with limestone flecks and few
+small limestone pebbles
+
+none
+
+6: 220-235 cmbs degrading bedrock in a buff sandy clay matrix with
+common stream rolled pebbles
+
+none
+
+7: 235-245 cmbs degrading bedrock
+
+none
+
+1: 0-15 cmbs
+
+plow zone; brown silty clay loam with common angular
+limestone cobbles
+
+none
+
+2: 15-85 cmbs
+
+colluvium - angular pebble to boulder size limestone
+frags in a brown sandy clay matrix
+
+none
+
+3: 85-190 cmbs
+
+olive brown silty-sandy clay with many small subangular
+limestone pebbles; boulder size limestone frags at the
+interface of Level 2 and Level 3
+
+none
+
+4: 190-275 cmbs buff sandy clay with few rocks; becomes lighter in color
+with depth
+
+none
+
+1: 0-30 cmbs
+
+plow zone; dark brown silty clay with roots throughout
+
+none
+
+2: 30-75 cmbs
+
+olive-grayish brown silty clay (very clayey) with few
+subangular limestone pebbles and cobbles
+
+none
+
+3: 75-115 cmbs
+
+olive brown silty clay grading to light reddish brown
+with common subangular limestone pebbles and flecks
+throughout
+
+none
+
+4: 115-200 cmbs light reddish brown silty clay loam with many limestone
+flecks and small, subangular to angular, limestone
+pebbles
+
+none
+
+5: 200-205 cmbs buff sandy degrading bedrock (very chalky); few indurated
+limestone boulders (all angular)
+
+none
+
+1: 0-50 cmbs
+
+"A horizon;" dark grayish brown silty clay loam with
+limestone flecks and Rabdotus snail shell fragments;
+0-25 cmbs is a plow zone
+
+none
+
+2: 50-85 cmbs
+
+olive-grayish brown silty-sandy clay with light reddish
+brown mottles and common, subangular to angular,
+limestone pebbles
+
+none
+
+3: 85-135 cmbs
+
+light reddish brown sandy clay with many, subangular to
+angular, pebble to boulder size, limestone frags
+
+none
+
+4: 135-165 cmbs buff white silty-sandy clay loam with many angular
+
+none
+
+99
+
+BHT18 cont'd
+
+BHT19 Zone 14
+E 0610539
+N 3395927
+
+pebbles and few cobbles and boulders (colluvium and
+degrading bedrock fragments)
+5: 165-225 cmbs buff white silty-sandy clay (degrading bedrock) with few
+subangular limestone pebbles
+
+none
+
+1: 0-30 cmbs
+
+"A horizon;" dark grayish brown silty clay with roots and
+Rabdotus shell frags throughout; 0-20 cmbs is a plow
+zone
+
+none
+
+2: 30-60 cmbs
+
+dark grayish brown silty clay with light reddish brown
+mottles; few Rabdotus snail shell fragments
+
+none
+
+3: 60-90 cmbs
+
+reddish brown silty-sandy clay with few pebble to
+boulder size limestone fragments
+
+none
+
+4: 90-120 cmbs
+
+reddish brown silty-sandy clay with many pebble to
+boulder size limestone fragments
+
+none
+
+5: 120-170 cmbs light reddish brown silty clay with few pebbles and small
+cobbles (all angular)
+
+none
+
+6: 170-210 cmbs light reddish brown sandy clay with common, subangular
+to angular, limestone pebbles
+
+none
+
+100
+
+

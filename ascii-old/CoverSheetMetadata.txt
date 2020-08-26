@@ -1,0 +1,71 @@
+Type
+
+Type of feature
+0 Unknown
+1 Individual
+2 Commingled
+
+SX
+
+Sex
+0 Unknown
+1 Male
+2 Female
+
+AG
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Age
+Unknown
+Fetus/Neonate
+0-2 years
+3-5 years
+6-12 years
+13-24 years
+0-24 years
+Older subadult/adult indeterminate
+Young adult
+Old adult
+Adult indeterminate
+
+Time Period
+H
+
+Historic
+
+Material
+C
+V
+T
+O
+L
+M
+
+Osteological material present
+Cranial
+Vetebral column
+Teeth
+Os coxae (pelvis)
+Long bones
+Miscellaneous
+
+Complete
+
+Completeness of skeleton
+0%
+<25%
+25-50%
+50-75%
+75%+
+
+

@@ -1,0 +1,1731 @@
+Archaeological Investigations at the Levi Jordan State Historic Site,
+Brazoria County, Texas
+
+Center for A rchaeological Studies
+Texas State University-San Marcos
+601 University Dr.
+San Marcos, TX 78666
+www.txstate.edu/anthropology/cas/
+
+Archaeological Assessment
+and Monitoring for Construction
+of a New Boiler Station at
+Jowers Center and Sewell Park,
+Texas State University-San Marcos,
+Hays County, Texas
+
+by
+Carole Leezer, Julian A. Sitters, and Sarah Scogin
+Principal Investigator: Jon C. Lohse
+Texas Antiquities Permit No. 5416
+Technical Report No. 38
+
+Center
+A member of the Texas State University System
+
+for
+
+A rchaeological Studies
+
+Texas State University-San Marcos
+2010
+
+Archaeological Assessment and
+Monitoring for Construction of a New
+Boiler Station at Jowers Center and Sewell
+Park, Texas State University-San Marcos,
+Hays County, Texas
+
+by
+Carole Leezer, Julian A. Sitters, and Sarah Scogin
+
+Principal Investigator:
+Jon C. Lohse
+Texas Antiquities Permit No. 5416
+Technical Report No. 38
+
+Center for A rchaeological Studies
+Texas State University-San Marcos
+2010
+
+The following information is provided in accordance with the General Rules of Practice and Procedures, Title 13, Chapter
+26, Texas Administrative Code:
+1. Type of investigation: Archaeological test unit excavation and monitoring of shallow trench and horizontal bore line
+mechanical excavation.
+2. Project names: Archaeological Assessment and Monitoring for Construction of a New Boiler Station at Jowers Center
+and Sewell Park, Texas State University-San Marcos, Hays County, Texas
+3. County: Hays
+4. Principal Investigator: Jon C. Lohse
+5. Name and location of sponsoring agency: State of Texas, Texas State University-San Marcos
+6. Texas Antiquities Permit No. 5416
+7. Published by the Center for Archaeological Studies, Texas State University-San Marcos, 601 University 			
+Drive, San Marcos, Texas, 78666-4616 (2010)
+Texas State University-San Marcos is a member of the Texas State University System
+Copyright © 2010 by the Center for Archaeological Studies at Texas State University-San Marcos
+All rights reserved.
+No part of this book may be reproduced or utilized in any form or by any means,
+electronic or mechanical, including photocopying, recording,
+or by any information storage and retrieval system
+without permission in writing.
+
+For further information on this and other publications by
+the Center for Archaeological Studies, please contact:
+
+C enter for A rchaeological Studies
+Texas State University-San Marcos
+601 University Drive
+San Marcos, TX 78666-4616
+www.txstate.edu/anthropology/cas/
+Editor: Brooke Boyer
+Cover Photograph: Excavation of test units within footprint of proposed boiler station.
+Printed in the United States of America
+by
+Texas State University Print and Mail Services, Texas State University-San Marcos
+
+Abstract
+Between September 24 and 29th, 2009, the Center for Archaeological Studies (CAS) at Texas
+State University-San Marcos (University) excavated two test units within the footprint of the proposed
+Strahan-Jowers boiler station on behalf of Texas State University-San Marcos. As the University is a
+political subdivision of the State of Texas, the project was subject to provisions of the Texas Antiquities
+Code. Work was carried out by Project Archaeologist Carole Leezer, and CAS Staff Julian A. Sitters,
+and Sarah Scogin, under Texas Antiquities Permit Number 5416, with Jon C. Lohse as Principal
+Investigator. Two one by one meter test units were excavated to determine if any cultural resources were
+present within the area of potential effect, and if they would be impacted by the proposed construction.
+Excavations encountered mixed historic and prehistoric cultural deposits. These deposits are perceived
+as a continuation of nearby site 41HY161, and CAS recommends that the boundaries of 41HY161 be
+extended to include these newly uncovered cultural remains. Archaeological monitoring of trench and
+bore line excavations associated with new utility lines of the station was conducted on October 20,
+2009. No cultural remains were identified during trench monitoring.
+No intact significant archaeological deposits were determined to be impacted by the proposed
+construction. Based on these results, CAS concludes that the area of potential effect does not contain
+intact cultural properties or resources considered significant to the city, state, or nation’s history. It
+is therefore recommended that the University be granted permission to proceed with the proposed
+development.
+
+iii
+
+iv
+
+Table of Contents
+Abstract...................................................................................................................................................iii
+Table of Contents..................................................................................................................................... v
+List of Figures........................................................................................................................................vii
+List of Tables.........................................................................................................................................viii
+Acknowledgements................................................................................................................................. ix
+Introduction.............................................................................................................................................. 1
+Regulatory Overview............................................................................................................................... 2
+Project Area Setting................................................................................................................................. 3
+Soils................................................................................................................................................. 3
+Flora and Fauna............................................................................................................................... 3
+Hydrology........................................................................................................................................ 4
+Central Texas Chronology....................................................................................................................... 4
+Prehistoric....................................................................................................................................... 4
+Protohistoric (Spanish Entrada Period).......................................................................................... 6
+Historic............................................................................................................................................ 7
+Previous Investigations............................................................................................................................ 7
+Methods................................................................................................................................................. 10
+Results.................................................................................................................................................... 10
+Archival Background Research.................................................................................................... 10
+Test Unit Excavation..................................................................................................................... 13
+Trench Monitoring........................................................................................................................ 17
+Conclusions and Recommendations...................................................................................................... 18
+References Cited.................................................................................................................................... 21
+
+v
+
+vi
+
+List of Figures
+1.
+
+Project Location............................................................................................................................. 1
+
+2.
+
+Proposed natural gas line route...................................................................................................... 2
+
+3.
+
+1940s map of Sewell Park.............................................................................................................11
+
+4.
+
+Aerial photograph of project area.................................................................................................11
+
+5.
+
+Excavation of test units within footprint of proposed boiler station............................................ 12
+
+6.
+
+Sketch map of project location..................................................................................................... 12
+
+7.
+
+Profile of north wall of Unit 1...................................................................................................... 14
+
+8.
+
+Profile of north wall of Unit 2...................................................................................................... 16
+
+9.
+
+Sketch map of trench monitoring locations................................................................................. 18
+
+10.
+
+Backhoe trench located next to the entrance to the Lion’s Club and United States National
+Guard facility............................................................................................................................... 18
+
+11.
+
+Photograph of trench profile........................................................................................................ 19
+
+12.
+
+Photograph of modern brick....................................................................................................... 19
+
+vii
+
+List of Tables
+1.
+
+Unit 1 Artifacts............................................................................................................................ 13
+
+2.
+
+Unit 2 Artifacts............................................................................................................................ 13
+
+viii
+
+Acknowledgements
+The Center for Archaeological Studies greatly appreciates the support for this project that was
+provided by Don Compton of Office of Facilities Planning, Design, and Construction of Texas
+State University–San Marcos. Field work was carried out by Carole Leezer, who served as Project
+Archaeologist, and CAS Staff Julian A. Sitters and Sarah Scogin. Brooke Boyer was tremendously
+helpful with the editing and layout of the final version of this report.
+
+ix
+
+Introduction
+
+construction will occupy an approximate 30 by 36
+ft (9 m by 11 m) area, with supporting electricity,
+natural gas, and sanitation sewer to be supplied
+by shallow (no more than approximately 2 ft, or
+60.96 cm) trenching to tie into nearby existing
+services. All trenching, with the exception of
+the natural gas, occurred within a few feet of
+the proposed construction. The overall Area of
+Potential Effect (APE) is tightly constrained to the
+immediate vicinity of the intended construction.
+Construction will not extend beyond 3 ft (91.44
+cm) below the current ground surface, and will
+be significantly less than this in most cases. The
+power and sewage lines were tied into nearby
+existing lines. The natural gas line followed
+around the edge of the Jowers parking lot, then
+along the access road paralleling the rail road and
+then proceeded northeast towards the Riverside
+Apartments (Figure 2).
+
+The Center for Archaeological Studies (CAS)
+at Texas State University-San Marcos (University)
+conducted an archaeological assessment
+and archaeological monitoring work of the
+construction of a new boiler station to be built
+in Sewell Park immediately south of the Jowers
+Center and to the southeast of the Outdoor Center
+on the University campus. The project area is on
+the east bank of the San Marcos River, near its
+headwaters at Spring Lake, in San Marcos, Hays
+County, Texas (Figure 1).
+The University is proposing to construct
+a new boiler facility to provide service to the
+Jowers Center and nearby buildings. This project
+represents a new construction in an area that
+shows no clear signs of previous disturbance. The
+
+Figure 1. Location of project area on 7.5’ San Marcos North U.S.G.S. quad sheet, marked by red arrow.
+
+1
+
+Regulatory Overview
+
+necessary. The formal designation of SALs, as
+well as their administration, is the responsibility
+of the Texas Historical Commission (THC).
+
+Because the University is a political
+subdivision of the State of Texas, the University
+is required to comply with the Texas Antiquities
+Code (TAC). The TAC requires that such projects
+consider the potential impact on any cultural
+resources that might be present and that might
+contribute information that is meaningful or
+significant to understanding the history and
+prehistory of the State of Texas. All work was
+carried out under Antiquities Permit No. 5416
+issued by the THC. Cultural resources located on
+land owned or controlled by the State of Texas
+or its political subdivisions are protected by the
+TAC (Texas Natural Resources Code, Title 9,
+Chapter 191), which identifies significant sites as
+State Archaeological Landmarks (SALs). Should
+any historic or prehistoric sites located on land
+that is designated for impact during development
+be determined eligible for formal designation of
+landmark status under the TAC, some measure
+of protection or mitigation of impact may be
+
+The TAC generally requires that a
+complete archaeological survey be performed
+in conjunction with projects that fall under its
+purview, particularly in previously unsurveyed
+areas and in regions where cultural resources
+are expected. Any resources determined to be
+significant must then be avoided, protected, or
+their destruction mitigated by approved data
+recovery programs.
+Worthiness for designation as a SAL is
+defined in the TAC:
+Archaeological sites may be considered
+significant and be recognized or designated as
+State Archaeological Landmarks, provided that
+at least one of the following conditions is met
+(Rules and Practice, Chapter 41:10):
+
+Figure 2. Proposed natural gas line route, marked in yellow.
+
+2
+
+The archaeological site is situated on land
+owned or controlled by the State of Texas or one
+of its political subdivisions; [and then]
+
+occupations during both historic and prehistoric
+times.
+
+(a) preservation of materials must be sufficient
+to allow application of standard archaeological
+techniques to advantage; and/or
+
+Soils
+The current project area’s soils are within
+the Tinn (Tn) and Okalla Series. Tinn Series
+soils are typically found on floodplains and
+consist of deep, poorly drained and nearly level
+clayey soils formed in calcareous clay alluvium.
+The surface layer is made up of dark gray clay
+about 25 inches thick and overlies a 55 inches
+thick layer of grayish brown clay. Tinn clay has
+a high shrink-swell potential and is characterized
+by deep vertical cracks. Okalla Series soils are
+deep, nearly level soils that are often located on
+smooth to slightly undulating flood plains. The
+upper layer to a depth of 40 inches is dark grayish
+brown clay loam, while the subsoil to a depth of
+49 inches is light yellow brown clay loam (Batte
+1974).
+
+(b) the majority of artifacts are in place
+so that a significant portion of the site’s
+original characteristics can be defined through
+investigation; and/or
+(c) the site has the potential to contribute to
+cumulative cultural history by the addition of
+new information; and/or
+(d) the site offers evidence of unique or rare
+attributes; and/or
+(e) the site offers a unique or rare opportunity
+to test techniques, theory, or method of
+preservation, thereby contributing to scientific
+knowledge.
+
+Flora and Fauna
+Although the project area is in the
+aforementioned ecotonal zone and has the
+potential to support tremendous floral and
+faunal diversity, it has been disturbed by several
+different developments and no natural vegetation
+remains. The location of the project area was
+originally leased from the U.S. Bureau of
+Fisheries to Southwest Texas Teachers College in
+1917. The area was then transformed by college
+workers, armed with mud scrapers and mules,
+which cleaned the river bottom, built up the
+banks and smoothed the slopes converting it into
+a recreation area. In 1984, a $1 million renovation
+project gave the park its current look.
+
+Project Area Setting
+The City of San Marcos is located in Hays
+County, in southeastern Central Texas. The San
+Marcos River, which is less than 100 m to the
+west of the current project area, is fed by artesian
+springs at the base of the Balcones Escarpment,
+marking the boundary between the Edwards
+Plateau (hill country) and the Blackland Prairie.
+Ecotonal zones such as this one, comprising
+transitions between two adjoining large-scale
+environmental provinces, are understood as
+high-energy settings capable of supporting
+tremendous diversity in terms of plant and animal
+species (Crumley 1994). Accordingly, they also
+represent likely areas for supporting dense human
+
+The vegetation in the project area consists
+of native and non-native grasses and trees. Nonnative trees of the area include live oak, pecan,
+and hackberry. Natural vegetation located along
+3
+
+Central Texas Chronology
+
+permanent waterways and floodplains at the
+eastern edge Balcones Escarpment includes tree
+species such as bald cypress, black willow, and
+oak-elm-hackberry gallery forests with occasional
+stands of Ashe juniper (Riskind and Diamond
+1986). The native grass community along the
+eastern edge of the Balcones Escarpment has
+mostly been removed or destroyed. Remnant
+patches of little bluestem, big bluestem, Indian
+grass, and oats grama do occur in the project area
+(Diamond and Smeins 1985). The only known
+location of Texas Wild Rice (Zizania texana), an
+endangered species of wild rice, is in the upper
+two miles of the San Marcos River.
+
+The cultural chronologies for Central and
+South Texas are not completely understood or
+agreed upon. However, archaeological deposits
+indicate rich cultural development. Black (1995),
+Hester (1995, 2004), and Collins (1995, 2004)
+present the most recent syntheses of the available
+chronological evidence of archaeological culture
+history in the region. The following cultural
+chronology is based on Black (1995), Hester
+(1995, 2004), and Collins (1995, 2004).
+
+Prehistoric
+
+Common fauna of the area include
+whitetailed deer (Odocoileus virginianus), badger
+(Taxidea taxus), raccoon (Procyon lotor), eastern
+cottontail (Sylvilagus floridanus), and opossum
+(Didelphis virginiana). In prehistoric times, bison
+(Bison bison) were commonly found within the
+Blackland Prairie region.
+
+The Prehistoric period is divided into
+three major stages, the Paleoindian, Archaic,
+and Late Prehistoric. The Paleoindian stage is
+characterized by the earliest human occupation
+of North America prior to 8000 BP. The Archaic
+stage follows, extending from ca. 8000 BP to 1200
+BP, and is generally seen as a time during which
+humans made successful adaptations to changing
+environmental conditions. The Late Prehistoric
+stage begins ca. 1200 BP and is characterized
+by a resurgence of grassland habitats and the
+development of bow and arrow and ceramic
+technologies.
+
+Hydrology
+The San Marcos River lies less than 100 m to
+the west of the project area. The river is fed by the
+San Marcos Springs which lie approximately 525
+m to the north. San Marcos Springs, known by
+European settlers as St. Mark’s, by the Tonkawa
+as Canocanayesatetlo, and currently as Aquarena
+Springs, has attracted human populations for
+at least the last 8,000 years (Brune 2005). As
+described by Brune (2005), the springs were
+important stops on El Camino Real, a road
+system linking important parts of the northern
+Spanish New World colonial empire, and the
+Chisholm cattle trail. They are the second largest
+springs in Texas and support a tremendous
+amount of wildlife. The San Marcos Springs are
+the headwaters of the San Marcos River, which
+has provided power to gin, corn, saw, and grist
+mills, and an ice factory in recent history.
+
+Paleoindian
+Collins (1995:381–385, 2004) dates the
+Paleoindian period to 11,500–8800 BP in
+Central Texas, though he excludes the final
+Late Paleoindian interval known as Angostura.
+Diagnostic artifacts observed from this stage are
+associated with the Clovis, Folsom and a variety
+of later Paleoindian cultures (Bousman et al.
+2004). The Early Paleoindian stage, consisting of
+Clovis and Folsom, is generally characterized by
+nomadic cultures that relied heavily on hunting
+large game animals (Black 1989). Recent research
+4
+
+has shown that Paleoindian peoples also utilized
+a wide variety of plants and small game animals
+(Black 1989; Bousman et al. 2004; Collins and
+Brown 2000; Hester 1983).
+
+argues that the Early Archaic spans from 8800
+to 6000 BP based on three divisions of projectile
+point types. It is generally believed that at the
+beginning of the Holocene, a warming in climate
+led to the extinction of large herds of megafauna
+and stimulated behavioral changes of hunters and
+gatherers in South-Central Texas (McKinney
+1981). A dietary adjustment is evidenced by
+the increased number of ground stone artifacts,
+burned rock midden cooking features, and more
+specialized tools such as Clear Fork gouges and
+Guadalupe bifaces (Turner and Hester 1993:246–
+256). Early Archaic sites are thinly dispersed and
+are seen across a wide area of Texas and northern
+Mexico (Weir 1976).
+
+The Late Paleoindian substage occurs from
+ca.10,000 to 8000 BP. Reliable evidence for these
+dates was recovered from the Wilson-Leonard
+site, north of Austin (Bousman et al. 2004;
+Collins 1998). At Wilson-Leonard, archaeologists
+excavated an occupation known as Wilson, named
+after the unique stemmed projectile point. The
+dense occupation also included a human burial
+(Bousman et al. 2004; Collins 1998).
+
+Archaic
+
+Middle Archaic
+
+Collins (1995, 2004) contends the Archaic
+stage in Central Texas lasted approximately 7500
+years, from 8800 to 1200/1300 BP, and, following
+Weir (1976), divides the stage into Early, Middle,
+and Late Archaic. The Archaic stage marks several
+important transitions: a shift from large game
+hunting to hunting smaller animals; the increased
+use of plant food resources and use of ground
+stones in food processing; the implementation
+of stone cooking technology; increased use of
+organic materials for tool manufacturing and an
+increase in the number and variety of lithic tools
+for wood working; the predominance of cornerand side-notched projectile points; greater
+population stability and less residential mobility;
+and systematic burial of the dead. This stage is
+also distinguished by environmental and climatic
+changes.
+
+Collins (1995, 2004) divides the Middle
+Archaic, 4000 to 6000 BP, into three projectile
+point style intervals: Bell-Andice-Calf Creek;
+Taylor; and Nolan and Travis. The Middle Archaic
+is marked by the onset of the Altithermal, a very
+warm and dry period. The Bell-Andice-Calf
+Creek interval was a moist, mesic period when
+grasslands expanded southwards into Central and
+South Texas, followed by bison herds from the
+Plains. As the Altithermal progressed, the bison
+and bison hunters retreated northwards. By the
+latter part of the Middle Archaic, Taylor (Early
+Triangular) bifaces were replaced by Nolan and
+Travis points (Collins 1995, 2004). The NolanTravis interval was also a period when temperature
+and aridity were at their greatest levels, and there
+is evidence of increased utilization of xerophytes
+such as sotol (Johnson and Goode 1994). During
+drier episodes, the aquifer-fed streams and
+resource-rich environments of Central Texas
+were extensively utilized (Story 1985:40; Weir
+1976:125, 128).
+
+Early Archaic
+Collins and Hester debate the time frame
+of the Early Archaic stage in Central Texas.
+Hester (1995:436–438, 2004) defines the Early
+Archaic with Early Basal Notched and Early
+Corner Notched dart points dating between 7950
+and 4450 BP, while Collins (1995:383, 2004)
+
+Late Archaic
+The Central Texas Late Archaic dates to
+approximately 4000 to 1300/1200 BP (Collins
+5
+
+1995:384, 2004). Herds of bison began returning
+to the southern Great Plains, again influencing
+the subsistence strategies (Dillehay 1974). Some
+believe cemeteries at sites such as Ernest Witte
+(Hall 1981) and Olmos Dam (Lukowski 1988)
+are evidence that populations increased and
+that groups were becoming territorial (Story
+1985:44–45). Others challenge the interpretation
+by citing a decrease in burned rock middens
+(Prewitt 1981:80–81). Pottery began appearing
+in limited areas of the South Texas Plains during
+this period; however, most regions remained
+“pre-ceramic” for another thousand years (Story
+1985:45–47).
+
+by the introduction of bladelet technology that
+included prismatic blades, blade cores, and
+scrapers-on-blades, all considered to be part of a
+specialized Toyah bison hunting and processing
+toolkit (Black and McGraw 1985; Huebner 1991;
+Ricklis 1994). Toyah is also characterized by the
+appearance of bone-tempered pottery in Central
+Texas (Johnson 1994:241–281). The wide variety
+of ceramic styles and influences seen throughout
+Toyah phase ceramic assemblages provide
+important information on the social composition
+of these groups (Arnn 2005). Toyah ceramic
+assemblages display Caddo, Texas Gulf Coast,
+and Jornada Mogollon influences (Arnn 2005).
+
+Late Prehistoric
+
+Protohistoric (Spanish Entrada Period)
+
+Collins (1995, 2004) dates the Late
+Prehistoric in Central Texas at 1300/1200 to 260
+BP, and follows Kelley (1947) in dividing it into
+Austin and Toyah phases. The most significant
+changes include a technological shift away from
+the dart and atlatl to the bow and arrow and the
+incorporation of pottery (Black 1989:32; Story
+1985:45–47).
+
+In Texas, the Protohistoric period was marked
+by Spanish entradas, the formal expeditions
+from established forts and missions in Northern
+Mexico into Central, Coastal, and East Texas
+in the late seventeenth and early eighteenth
+centuries. These encounters began with the
+venture into Texas by the Spanish explorer
+Cabeza de Vaca and the Narvaez expedition in
+1528. The period is generally dated between
+1500 and 1700 (or 1528, the date of the Cabeza de
+Vaca/Narvaez expedition, to the establishment of
+the first Spanish mission, Mission San Antonio
+de Valero in 1718).
+
+Austin Phase
+The Austin phase is characterized by the
+appearance of small arrow points. Burned rock
+middens are occasionally found with these types
+of points (Houk and Lohse 1993), and ground and
+pecked stone tools used for plant food processing
+are increasingly common. Burials from this time
+reveal a high proportion of arrow-wound deaths
+(Black 1989; Meissner 1991; Prewitt 1974),
+suggesting that population growth resulted in
+disputes over limited resources.
+
+With Alonso de León’s expedition of 1680, El
+Camino Real (the King’s Road) was established
+from Villa Santiago de la Monclova in Mexico
+to East Texas. This roadway followed established
+Native American trade routes and trails and
+became a vital link between Mission San Juan
+Bautista in Northern Mexico and the Spanish
+settlement of Los Adaes in East Texas (McGraw
+et al. 1991).
+
+Toyah Phase
+The beginning of the Toyah phase (800 BP)
+in Central Texas is discernible by the appearance
+of contracting stem points with flaring, barbed
+shouldered points. This phase is also characterized
+6
+
+Spanish priests accompanying entradas
+provided the most complete information of
+indigenous cultures of early Texas. Those
+documented during the early entradas include the
+Cantona, Muruam, Payaya, Sana, and Yojuane,
+who were settled around the springs at San Marcos
+and described as semi-nomadic bands. Other
+tribes encountered at San Marcos included mobile
+hunting parties from villages in South and West
+Texas, such as Catequeza, Cayanaaya, Chalome,
+Cibolo, and Jumano, who were heading for bison
+hunting grounds in the Blackland Prairies (Foster
+1995:265–289; Johnson and Campbell 1992;
+Newcomb 1993). Later groups migrated into the
+region and displaced the former groups or tribes.
+These included the Tonkawa from Oklahoma and
+Lipan and Comanche from the Plains (Campbell
+and Campbell 1985; Dunn 1911; Newcomb 1961,
+1993).
+
+present day San Marcos. San Marcos de Neve was
+abandoned in 1812 as a result of constant raids
+by local tribes (Dobie 1932). During this time,
+massive depopulation occurred among the Native
+Americans, mostly due to European diseases to
+which the indigenous people had little resistance.
+Those few remaining were nearly all displaced to
+reservations by the mid-1850s (Fisher 1998).
+European presence in the region increased
+as settlers received land grants from the Mexican
+government until 1835. Settlement was difficult,
+however, due to continuation of hostilities with
+and raids by Native American tribes. The Texas
+Rangers provided protection from these conflicts
+after Texas secured independence from Mexico
+in 1836. Settlement in the region increased until
+1845, when Texas gained admission to the United
+States, resulting in the formation of Hays County
+in 1848 (Bousman and Nickels 2003).
+
+Archaeological sites dated to this period
+typically contain a mix of both European
+imported goods, such as metal objects and glass
+beads, and traditional Native American artifacts,
+such as manufactured stone tools.
+
+Previous Investigations
+Ten previously recorded archaeological
+sites lie within one kilometer of the project
+area: 41HY37, 41HY133, 41HY135, 41HY147,
+41HY160, 41HY161, 41HY165, 41HY319,
+41HY393 and 41HY432. A brief description of
+each site is presented using information from
+the THC Archeological Site Atlas Database
+(Database) and technical reports.
+
+Historic
+Spanish settlement in Central Texas first
+occurred in San Antonio with the establishment
+of Mission San Antonio de Valero (the Alamo)
+in 1718, and the later founding of San Antonio
+de Béxar (Bolton 1970; Habig 1977; de la Teja
+1995). Some researchers demarcate the transition
+in Texas between the Entrada (Protohistoric) and
+Historic periods by the construction of the first
+Spanish missions in Texas. Most knowledge of
+this period is gained through the written records
+of the early Spanish missionaries. Besides the
+mission town of San Antonio, the only other
+Spanish settlement in the region was San Marcos
+de Neve, established in 1808, four miles south of
+
+Site 41HY37, a State Archeological Landmark,
+was first recorded in 1970 by W.L. McClure as
+a prehistoric site of unknown age consisting of
+“arrow point fragments, miscellaneous bifacial
+tools, and worked flint” (McClure 1970). At that
+time, the site location was described to be on
+the hill behind (west of) the Aquarena Springs
+Inn and overlooking the golf course to the east.
+7
+
+A historic component was added in 1979, when
+John Clark Jr. recorded the reconstructed tworoom log home of Edward Burleson. The building
+was originally constructed in 1848, but had fallen
+into disrepair and in 1964 was restored with the
+original chimney stones and logs from different
+structures dated to the original time period. Clark
+also noted that the structure had most likely been
+moved from its original location.
+
+at the confluence of the San Marcos River and
+Purgatory Creek. The site, of unknown age,
+consisted of a surface lithic scatter and showed
+evidence of disturbance by a sewer line, gravel
+path, and natural erosion. Testing of the site
+was recommended to further delineate it both
+vertically and horizontally.
+In 1979, Shiner (1983) began underwater
+excavations at site 41HY147 (the Terrace Locality),
+a State Archeological Landmark, located
+adjacent to a large springhead. Excavations here
+recovered shouldered and side-notched Archaic
+points, Paleoindian lanceolate projectile points,
+large faunal remains including mammoth and
+mastodon teeth, and bison bone. Shiner’s (1983)
+excavations here and at 41HY161 in 1978 produced
+abundant evidence of Archaic and Paleoindian,
+including Clovis, occupation of the area; though
+the remains were not found in secure contexts.
+In 1990 and 1991, Southern Methodist University
+graduate student Paul Takac (1990, 1991a, 1991b)
+continued Shiner’s work at 41HY147. His project
+was eventually abandoned due to the difficulty
+of doing underwater investigations. Combined,
+Takac’s and Shiner’s excavations recovered a
+total of 46 Paleoindian projectile points, most
+dating to the Late Paleoindian period.
+
+The 1983 a Southwest Texas State University
+field school investigated 41HY37 (Garber and
+Orloff 1984). At this time it was determined that
+the site contained abundant chert resources that
+may have been the primary source of material
+for making tools at nearby 41HY160. Identified
+diagnostic artifacts included Pedernales and
+Edgewood points, indicating use during the Late
+Archaic. Additional investigations at 41HY37
+were conducted as part of the 2000 field school on
+the historic remains of the Burleson homestead,
+which also revealed a Late Prehistoric component
+(Bousman and Nickels 2003).
+Site 41HY133 was identified in 1977 during
+a survey conducted by the Soil Conservation
+Service (Warren 1977). The site is described as
+an open campsite and midden located on a small
+elevated knoll on the bank of the San Marcos
+River within present-day San Marcos City Park.
+The site was characterized as extending to a
+depth of 80 cm with charcoal, lithic flakes, and
+bone present. Lithic flakes, chips, cores, a scraper,
+utilized flakes, an Ensor point, burnt bone, and
+snails were collected during investigations. The
+site was recommended for further testing to
+determine depth and areal extent (Warren 1977).
+The site was designated a State Archeological
+Landmark in 1987.
+
+In 1982, a Southwest Texas State University
+field school conducted investigations at 41HY160
+(Garber et al. 1983), a State Archeological
+Landmark, and uncovered deposits dating from
+the Early Archaic to Late Prehistoric periods, with
+the deepest excavations extending 2.4 m. Over
+35,600 artifacts were recovered, including 504
+tools and 53 points. Fauna included bison, deer,
+and antelope. Features included small burned rock
+middens and hearths, stone alignments, a posthole,
+a trash pit, and an area possibly associated with
+ceramic production. The field school returned in
+1983, 1991, and 1998, but those results have not
+been fully analyzed. Finally, in 1997 a pedestrian
+
+Site 41HY135, a State Archaeological
+Landmark, was also identified by the Soil
+Conservation Service survey (Warren 1977)
+8
+
+survey and shovel testing was performed on the
+east side of Sink Creek; all but one shovel test
+produced prehistoric artifacts (Ramsey 1997).
+Excavations at 41HY160 resumed in 2001 as
+part of the Texas River Center Project (Bousman
+and Nickels n.d.). Researchers recovered a
+Middle Archaic, Nolan component at 170 cm
+below surface, and upper levels date to the Late
+Archaic and Late Prehistoric. Geomorphological
+testing (Nordt n.d.) indicated deposits extending
+almost eight meters below surface. More recent
+investigations in 2001, 2002, 2003, and 2006
+have been partially reported (Aery 2007) and a
+detailed analysis is currently underway by CAS.
+Early Archaic deposits were found at 135-140 cm
+below surface, but excavations ended at 150 cmbs,
+before the depth of these could be determined.
+
+Site 41HY165, a State Archeological
+Landmark, was recorded and briefly tested in
+1984 by a Southwest Texas State University
+field school. Excavations were renewed in 1996
+and continued through 1998 (Ringstaff 2000).
+Results from the 1996 and 1997 field school were
+also used for a preliminary faunal analysis by
+Gieske (1998). Her analysis identified changes
+in bison concentrations through time, with the
+greatest concentration occurring during the
+Middle Archaic, though these findings should be
+verified.
+The Center for Archaeological Studies
+performed a survey of the San Marcos City
+Park in 2001 and identified site 41HY319, a
+prehistoric site of unknown age (Barrera 2002).
+A possible intact cultural deposit was identified
+beneath disturbed sediments, represented by
+lithic debitage beginning at 50 cmbs (centimeters
+below surface). Due to the shallow nature of
+the proposed development and the absence of
+temporally diagnostic artifacts, no further work
+was recommended (Barrera 2002).
+
+In 1978, Shiner conducted underwater
+investigations at 41HY161, a State Archeological
+Landmark, below the Spring Lake dam (Shiner
+1979, 1981). Deposits showed mixed historic and
+Archaic artifacts. In 1997, Ford and Lyle (1998)
+conducted limited shovel testing and backhoe
+excavations in the parking lot for what is now
+the Salt Grass restaurant, and also uncovered
+extensive disturbed deposits. In 1998, another
+series of backhoe trenches, shovel tests, and
+units were excavated along a proposed water line
+(Lyle et al. 2000). Test units documented Late
+Archaic material overlying a Later Paleoindian
+component. In 1982, the interred remains of two
+individuals were discovered during excavation
+of irrigation lines and routine maintenance at the
+fishery ponds at 41HY161 (Garber and Glassman
+1992). Burial 1 contained insufficient remains
+for an osteological profile, while Burial 2 was an
+adult woman, between five feet four inches and
+five feet six inches in height. These burials have
+since been directly dated; the female dates to
+515 +/- 20 BP (PRI-09-129-HY161-1), while the
+indeterminate individual dates to 3510 +/- 20 BP
+(PRI-09-129-HY161-2).
+
+Site 41HY393 was identified during survey
+for improvements to Rio Vista Park conducted
+by the Center for Archaeological Studies in
+2006 (Oksanen and Leezer 2006). Investigations
+uncovered prehistoric lithic debitage, however
+the upper 50 cm of cultural deposits appeared
+to be disturbed. No further investigations were
+recommended (Oksanen and Leezer 2006).
+In the spring of 2007, site 41HY432 was
+identified by archaeologists from Hicks & Co.
+while conducting a survey on behalf of the City
+of San Marcos. A combination of shovel tests
+and mechanical excavation revealed that site
+41HY432 was an undeterminable prehistoric site
+(King 2007). As described by Brian King (2007)
+the proximity and similar depth suggest that
+41HY432 is an extension of 41HY319.
+9
+
+Methods
+
+photographing of excavation units, trenches, and
+artifacts.
+
+Prior to beginning field work on the current
+project, it was unknown if cultural deposits were
+present within the proposed APE, as no previous
+work had been carried out here or nearby. In
+order to determine whether cultural resources
+were present within the APE and to determine
+the extent of potential impact on identified
+resources, CAS conducted limited archival
+background research, excavated two test units,
+and conducted trench and bore hole excavation
+monitoring. Limited archival research consisted
+of a review of historical documents and deeds of
+Sewell/Riverside Park located in the University’s
+archive.
+Archaeological monitoring of a
+backhoe-excavated trench and a horizontal bore
+line was also conducted during archaeological
+investigations. The trench and bore line were
+both excavated in response to the installation of a
+gas line, running from the proposed Jowers boiler
+station to the gas line connection located near
+the Riverside Apartment complex. In addition,
+two one by one meter units within the proposed
+30 by 36 ft footprint area were excavated. Each
+unit was excavated in controlled 10 cm levels to
+a maximum depth of 100 cm, and all sediments
+passed through ¼ inch screen to recover any
+artifacts that might be present.
+
+Results
+Archival Background Research
+Prior to unit excavations and trench
+monitoring, CAS conducted limited archival
+background research that consisted of a review
+of historical documents and deeds of Sewell/
+Riverside Park. Sewell Park is operated by the
+University and is located along the banks of the
+San Marcos River south of the Aquarena Springs
+Drive Bridge at the intersection of Aquarena
+Springs Drive, University Drive, and Sessoms
+Drive. Initially named Riverside Park, it was later
+renamed Sewell Park in 1946 in honor of Dr. S.M.
+“Froggy” Sewell, a mathematics professor who
+helped develop the park. The park arose from a
+plan in 1916 put forth by University President
+Evans C.S. Smith and Professor S. M. Sewell to
+construct a swimming facility in the area.
+A lease for the use of approximately 4 acres
+of land extending west from the channel of the
+San Marcos River to the current University Drive
+(known as Highway No. 2 and then as Austin
+Road) was signed on September 26, 1916 with
+the Bureau of Fisheries in the U.S. Department
+of Commerce. Additional land was added though
+leases signed in 1921 and 1930. By the fourth
+lease, signed in 1935, all the land on the west
+side of the river was acquired. The east bank and
+island were eventually leased from private land
+owners (Figure 3). This area was once owned by
+the San Marcos Utility Company and then the
+Wilson Brothers, from whom the land was leased
+(Sanborn 1944).
+
+All features present and exposed in either
+the hand excavations or during monitoring were
+recorded and documented in place. Additionally,
+excavation unit profiles were described and
+recorded. Exposures were described for texture,
+color, and other features. All artifacts encountered
+in the hand excavation units were collected. Only
+temporally diagnostic artifacts were collected
+from monitored trench and bore hole locations. All
+collected materials were prepared for permanent
+curation at the Center for Archaeological Studies,
+Texas State University-San Marcos. Additional
+investigative work included mapping and
+10
+
+Over a hundred and fifty
+years ago, the San Marcos River
+in the area of Sewell Park was
+divided by a millrace that was
+created to the east of the main
+channel. In the area where a
+bend now occurs a corn mill
+once stood and a millrace was
+constructed to divert water from
+the river to the mill (Figure 4).
+A flood wiped away the mill
+and the main river diverted to
+the millrace creating an island
+within the river (Sanborn 1944).
+This island became part of the
+newly developed Riverside
+Park and remained so until the
+eastern channel was filled in
+during modifications to the park
+conducted in the early 1980s.
+At the time the park area
+was originally obtained, the river
+channel was only two to three feet
+deep with a soft, muddy bottom
+that was choked with fallen
+trees and debris from previous
+floods. College workers, armed
+with mud scrapers and mules,
+cleaned the river bottom, built
+up the banks and smoothed the
+slopes. Eventually a bathhouse
+and caretaker’s cottage was
+constructed on the western bank
+and more leased land along the
+western bank was acquired.
+Around 1924 the wooden
+reinforced banks were modified
+with cement reinforcements
+that included a drive bridge, a
+foot bridge, 1,200 ft of concrete
+wall, and 2,000 ft of walkway
+(see Figure 3). While physical
+
+Figure 3. 1940s map of Sewell Park (adapted from Sanborn 1944).
+
+Figure 4. Aerial photograph of project area.
+
+11
+
+education credit was given for
+swimming at Riverside Park,
+organized swimming classes
+did not appear until 1924 (The
+College Star [CS] May 1936). It
+was also around this time that a
+Red Cross Life Saver’s Certificate
+program was established and
+overseen by Dr. Sewell. Sewell
+was also responsible for the
+creation of the Annual Water
+Pageant. This event began in 1920
+as a Fourth of July entertainment
+event for students who remained
+in San Marcos. Originally a
+non-competitive swimming and
+diving exhibition the event was
+eventually held at night with the
+advent of electric lights for night
+football games. Dr. Sewell retired
+from the University in 1941 after
+twenty-six years of service (CS
+June 28, 1944).
+The University eventually
+obtained ownership of the
+Riverside/Sewell Park property
+in the mid 1940s. On November
+20, 1942, the University
+purchased the area lying to the
+west of the San Marcos River
+from the federal government. A
+bill signed by President Franklin
+Roosevelt deeded the property
+to the University for $1,000 (CS
+July 31, 1942). On May 15, 1943,
+the University purchased 18.75
+acres on the eastern side of the
+San Marcos River for $10,000
+from the Wilson Brothers. This
+parcel included the island and
+property extending eastward to
+the railroad and northward to
+
+Figure 5. Excavation of test units within footprint of proposed boiler
+station.
+
+the University athletic fields. A portion of this
+parcel, 15.40 acres, was then leased to the federal
+government to be used for federal housing during
+WWII. Following the war the property was
+returned to University ownership (Sanborn 1944).
+It was upon this parcel that the Jowers Center and
+
+Figure 6. Sketch map of project location.
+
+12
+
+the Outdoor Recreation Center were eventually
+constructed and where the proposed Strahan –
+Jowers boiler station is to be constructed (see
+Figure 4).
+
+99 specimens of cultural materials were collected,
+69 of which were historic and/or modern, and 31
+were prehistoric. The historic and/or modern
+artifacts included 13 ceramic sherds, 2 buttons,
+6 brick fragments, 3 pieces of metal hardware,
+22 glass fragments, 5 pieces of plastic, 1 rubber
+wheel, 13 nails, 3 pieces of metal scrap, and 1
+fragment of asphalt. The prehistoric artifacts
+consisted of 5 flake fragments with platforms,
+6 flake fragments without platforms, 1 complete
+flake, 1 modified flake, 1 biface, and 1 tested
+cobble (Table 1).
+
+Test Unit Excavation
+Two one by one meter units were excavated
+within the proposed boiler station footprint to
+determine if any cultural resources were present
+that would be impacted by construction (Figure
+5). The proposed location for the Strahan –
+Jowers boiler station occupies a relatively flat,
+nine by eleven meter area immediately southeast
+of the Texas State University Outdoor Recreation
+Center, west of the Jowers Center and northwest
+of a current University parking lot. The San
+Marcos River flows less than 100 m to the west of
+the project area and short, maintained grass and a
+few trees cover the vicinity (Figure 6).
+
+Unit 2 was roughly 3.5 m northwest of Unit
+1 (see Figure 6) and was excavated to a depth
+of 100 cmbs. Within this unit, 48 specimens of
+cultural material were collected. Of these, 28
+were historic and modern and 20 were prehistoric.
+The historic artifacts and modern debris included
+1 ceramic sherd, 9 brick fragments, 2 pieces of
+metal hardware, 2 fragments of glass, 8 nails,
+and 6 scraps of metal. The prehistoric artifacts
+included 7 flake fragments with platforms and 5
+flake fragments without platforms (Table 2).
+
+Unit 1 was located roughly 13 m west of the
+southwest corner of the Jowers Center (see Figure
+6) and was excavated to an approximate depth of
+100 cm below surface (cmbs). Within this unit,
+
+Artifact Type
+Ceramic
+Glass
+Lithic
+Shell
+Snail
+Metal
+Historic Other
+Total
+
+Artifact Type
+Ceramic
+Glass
+Lithic
+Snail
+Metal
+Historic Other
+Total
+
+Table 1. Unit 1 Artifacts
+
+Table 2. Unit 2 Artifacts
+
+13
+
+Amount
+13
+22
+13
+1
+17
+19
+15
+100
+
+Amount
+1
+2
+12
+8
+16
+9
+48
+
+Stratigraphy
+
+Unit 1 (Figure 7)
+
+Profiles were drawn of the north wall in each
+unit to record the stratigraphy. The composition
+of the soil had little variation between units due
+to their close proximity. Soils progressed from
+sandy loam, loam, construction fill to clay loam.
+The following is a description of each unit’s
+geological zones.
+
+Zone 1 extended from the surface to 10 cmbs
+and was comprised of sandy loam with a Munsell
+reading of 10YR 5/3 (Brown) as well as roots,
+rootlets, and a slight presence of clay towards the
+close of the level.
+
+Figure 7. Profile of north wall of Unit 1.
+
+14
+
+Zone 2 extended from 10 cmbs to 15 cmbs
+and was comprised of sandy loam with a Munsell
+reading of 10YR 5/4 (Yellowish Brown).
+
+reading of 5YR 4/1 (Dark Gray). Rootlets were
+present as well as medium sized pebbles and a
+few fist-size rocks mainly concentrated on the
+right side of the north wall.
+
+Zone 3 extended from 15 cmbs to 28 cmbs
+and was comprised of sandy loam with a Munsell
+reading of 10YR 3/3 (Dark Brown). Small to
+quarter-size pebbles were also present in this
+layer.
+
+Zone 3 extended from 28 cmbs to 38 cmbs
+and was comprised of loam with a Munsell
+reading of 7.5YR 4/2 (Brown). Rootlets and small
+to medium-size pebbles were also present.
+Zone 4 extended from 38 cmbs to 46 cmbs
+and was comprised of construction fill (sand/
+gravel) with a Munsell reading of 7.5YR 6/4
+(Light Brown). Pebble to golf ball-size rocks were
+abundant in this level.
+
+Zone 4 extended from 28 cmbs to 38 cmbs
+and was comprised of loam that was slightly more
+compact than previous layers. It had a Munsell
+reading of 10YR 4/4 (Dark Yellowish Brown) and
+pebbles to quarter-size rocks were present as well
+as roots and rootlets.
+
+Zone 5 extended from 46 cmbs to the close
+of the unit at 99 cmbs. This layer was comprised
+of clay loam with a Munsell reading of 10YR 3/2
+(Very Dark Grayish Brown). Within this layer
+there were a few large pebbles, few roots, and
+a spot of disintegrated metal that had a Munsell
+reading of 7.5YR 4/2 (Dark Brown)
+
+Zone 5 extended from 38 cmbs to 50 cmbs
+and was comprised of construction fill (sand/
+gravel). This had a Munsell reading of 10YR 5/6
+(Yellowish Brown). Quarter- size to golf ball-size
+rocks were present as well as roots, rootlets, and
+snail shell.
+Zone 6 extended from 50 cmbs to close at
+100 cmbs. It was comprised of very compact
+clay loam with a Munsell reading of 10YR 2/2
+(Very Dark Brown). Towards the top of the layer
+there are roots, rootlets, and a moderate amount
+of pebbles to quarter-size rocks. By 72 cmbs
+there are no roots, only rootlets, pebbles/rocks,
+and golf ball-size clay dobs. Earthworms appear
+between 82-92 cmbs.
+
+Artifacts
+During the excavation, a total of 148 artifacts
+were collected from the two units (100 artifacts
+from Unit 1 and 48 artifacts from Unit 2). Modern,
+historic and prehistoric artifacts were found
+throughout each unit, with possible historic and
+modern artifacts occurring in the same levels as
+prehistoric (see Tables 1 and 2). This indicates that
+the soils have been disturbed at least to the depth
+of these units. Therefore, the artifacts retrieved
+from these units were in a mixed context.
+
+Unit 2 (Figure 8)
+Zone 1 extended from surface to 14 cmbs
+and was comprised of sandy loam with a Munsell
+reading of 10YR 5/3 (Brown). Roots, rootlets,
+and small pebbles were present as well as small
+clay deposits.
+
+Historic and/or modern artifacts make up 65%
+of the total artifacts recovered. These artifacts
+appear throughout both units, from surface to 92
+cmbs in Unit 1 and from surface to 67 cmbs in
+Unit 2. Ceramic, glass, bricks, metal hardware,
+nails, and metal scrap artifacts were considered
+
+Zone 2 extended from 14 cmbs to 28 cmbs
+and was comprised of sandy loam with a Munsell
+15
+
+Figure 8. Profile of north wall of Unit 2.
+
+to be possible historic or modern remains, while
+recovered buttons, plastic, rubber, and asphalt
+were of a modern age (see Tables 1 and 2).
+
+to these artifacts; however, they appear to be of a
+recent historic and/or modern nature.
+Three types of glass fragments were collected
+from both units: amber, clear 2 mm thick, and clear
+4 mm thick. The 4 mm thick glass fragments are
+most likely window glass fragments while that
+amber fragments were from beer bottles and the
+remains of the clear 2 mm thick glass fragments
+were from bottles or jars. No maker’s marks
+
+Collected ceramics artifacts consisted of cup
+fragments, drain pipe fragments, rim sherds,
+and floor tile fragments. No maker’s marks were
+located on any of the ceramic fragments and it
+was not possible to attribute temporal designation
+
+16
+
+were discernible on these artifacts and thus no
+temporal designations were made.
+
+shell was also encountered and collected from
+Level 10 of Unit 1 (92 – 100.5 cmbs).
+
+Brick fragments were found in both units,
+with a large quantity noted in Unit 2. Due to the
+large numbers of brick fragments encountered
+during excavations, only a representative sample
+was collected. The brick fragments appeared to
+have been machine made and of a recent historic
+or modern nature.
+
+Trench Monitoring
+Archaeological monitoring of a backhoeexcavated trench and a horizontal bore line
+was also conducted during archaeological
+investigations. The trench and bore line were
+both excavated in response to the installation
+of a gas line, running from the proposed Jowers
+boiler station to the gas line connection located
+near the Riverside Apartment complex (Figure
+9). The trench and boring process was monitored
+to assess the potential disturbance of any
+archaeological features or remains and to ensure
+systematic recovery of artifacts if present. If
+any deposits were identified during monitoring
+the process would have stopped and all cultural
+deposits would have been recorded and diagnostic
+artifacts would have been collected. Photographs
+were taken throughout the excavation of the
+trench and boring of the gas line.
+
+Thirty-five of the collected artifacts were
+metal; 24% of the total artifacts. This category
+includes hardware, nails, and metal scrap.
+Metal hardware consisted of a metal fastener, a
+clothespin spring, a hook, and 2 wire fragments.
+A total of 21 wire, round headed nails of different
+lengths were found, 13 of these from Unit 1
+and 8 from Unit 2. There were also 9 pieces of
+undeterminable metal scrap.
+Modern artifacts also included two buttons,
+both found in Unit 1. One was a metal Faded Glory
+Jeans Co. button found in Level 1 (0 – 11 cmbs).
+The other was a white, plastic 2-hole button found
+in Level 6 (52.5 – 62.5 cmbs). Several plastic
+pieces were also collected and were of a modern
+nature. One fragment of asphalt was collected
+from Unit 1.
+
+The excavated trench was roughly 53 cm
+wide and 112 cm deep. The backhoe trench began
+at the location of the proposed boiler station
+and terminated at the entrance to the Lion’s
+Club and United States National Guard facility
+(Figure 10). Within the excavated backhoe trench
+three strata layers were present: the mottled
+sediments included an organic top soil 10YR
+4/6, construction fill including washed sand and
+calcareous pebbles, and a dark clay loam 10YR
+2/1 (Figure 11). Modern debris was encountered
+and included a brick (Figure 12), clear and amber
+colored glass, and a 1998 United States Dime.
+Fragments of plastic were also found throughout
+the trench in low frequencies. Boring commenced
+at the end of the backhoe trench and traveled
+roughly 780 ft to the northeast. The boring
+machine traveled underground and erupted
+
+Collect prehistoric artifacts included lithic
+material, snail and mussel shell. Lithics make up
+17% of the total artifacts collected and include
+flakes with and without platforms, one modified
+flake, one tested cobble, and one biface. The lithic
+biface was collected from level 7 of Unit 1. Snail
+represents 17% of all artifacts found and includes
+25 snail shells: 23 Rabdotus sp and 2 Helicina
+orbiculata. Interestingly, the Rabdotus sp snails
+were collected from Levels 3 and 4 of both
+units while the Helicina orbiculata snails were
+collected from Level 9 of Unit 2. One mussel
+
+17
+
+that no significant archaeological
+deposits were impacted.
+
+Conclusions and
+Recommendations
+The
+Center
+for
+Archaeological Studies (CAS)
+at Texas State University-San
+Marcos (University) conducted
+archaeological
+investigations
+in advance of the construction
+of the proposed StrahanJowers boiler station on behalf
+of Texas State UniversitySan Marcos. Investigations
+consisted of limited archived
+background
+research,
+the
+excavation of two 1 by 1 m test
+units and the monitoring of
+trench and bore line excavation
+associated with the installation
+of utility lines for the proposed
+station.
+
+Figure 9. Sketch map of trench monitoring locations.
+
+through the surface seven times, allowing for
+the inspection of archaeological material. No
+artifacts or modern debris were
+encountered with the exception
+of a metal pipeline in the fourth
+bore hole located within the
+Jowers practice fields. The
+presence of the metal pipeline
+suggests that this portion of
+the area of potential effect had
+been previously disturbed. The
+mottled sediments consisted
+solely of an organic top soil 10YR
+4/6 and a dark clay loam 10YR
+2/1. Archaeological monitoring
+during the excavation of the
+trench and bore holes revealed
+Figure 10. Backhoe trench located next to the entrance to the Lion’s
+Club and United States National Guard facility.
+
+18
+
+footprint and if so identified which cultural
+resources would be impacted by the proposed
+construction. Excavations encountered mixed
+historic and prehistoric cultural deposits.
+Encountered deposits are consistent with
+previously encountered deposits located at nearby
+41HY161. CAS recommends that the boundaries
+of 41HY161 be extended to include the area of the
+two excavated units in which the mixed cultural
+deposits were located. While the deposits are
+believed to be an extension of 41HY161, these
+deposits appeared in a mixed context suggesting
+a disturbed nature of the deposits. As such, these
+deposits do not constitute a significant finding,
+nor do they warrant additional investigations.
+Archaeological monitoring of the trench and
+horizontal bore excavations also revealed a lack
+of intact prehistoric or historic cultural deposits.
+The location of the trench and bore line is not
+considered to be an extension of 41HY161. The
+lack of cultural deposits within the trenching
+locations and the mixed nature of the cultural
+deposits within the construction footprint
+indicated that the project area lacks intact cultural
+properties or resources that can be construed as
+potentially significant to the city or state’s history
+under any criteria of the Texas Antiquities Code.
+
+Figure 11. Photograph of trench profile.
+
+Limited archival research indicated that the
+proposed boiler station will be located in the
+area of Sewell Park. Sewell Park is currently a
+recreation area owned and operated by Texas
+State University-San Marcos. Once known as
+Riverside Park, it was originally developed in
+1916 as a swimming facility
+for University Students. It was
+renamed in 1946 after Dr. S.M.
+“Froggy” Sewell, a mathematics
+professor who was instrumental
+in the park’s development. The
+park was renovated to its current
+look in 1984 and it continues to
+be a favorite hang-out location
+for University students.
+Two 1 m by 1 m test
+units were excavated in order
+to determine if any cultural
+resources were present within
+the
+proposed
+construction
+
+Figure 12. Photograph of modern brick.
+
+19
+
+CAS concludes that no additional archaeological
+investigations are necessary and recommends that
+the University be granted regulatory clearance to
+proceed with their plans.
+
+20
+
+R eferences Cited
+Aery, D.A.
+2007 Organization of Lithic Technology in Archaic Texas: An Example from 41HY160 in San
+Marcos, Texas. Unpublished Master’s thesis, Texas State University San Marcos.
+Arnn, John
+2005 Chronology, Technology, and Subsistence: Is That All There Is? CTA Newsletter 29(2):17–28.
+Barrera, Jimmy
+2002 San Marcos City Park Archaeological Survey, Hays County, Texas. Technical Report No. 4.
+Center for Archaeological Studies, Southwest Texas State University, San Marcos.
+Batte, C. C.
+1984 Soil Survey of Comal and Hays Counties, Texas. U.S. Department of Agriculture, Soil
+Conservation Service, in cooperation with the Texas Agricultural Experiment Station.
+Black, Stephen L.
+1989 Central Texas Plateau Prairie. In From the Gulf Coast to the Rio Grande: Human Adaptation
+in the Central, South, and Lower Pecos Texas, edited by Thomas R. Hester, Stephen L.
+Black, D. Gentry Steele, Ben W. Olive, Anne A. Fox, Karl J. Reinhard, and Leland C.
+Bement, pp. 17–38. Research Series No. 33. Arkansas Archeological Survey, Fayetteville.
+1995 Archeological and Ethnohistorical Background. In Archeological Investigations at the
+Loma Sandia Site (41LK28): A Prehistoric Campsite in Live Oak County, Texas, Vol. 1, by
+Anna Jean Taylor and Cheryl Lynn Highley, pp. 31–45. Studies in Archeology No. 20. Texas
+Archeological Research Laboratory, The University of Texas at Austin.
+Black, Stephen L., and Al J. McGraw
+1985 The Panther Springs Creek Site: Cultural Change and Continuity in the Upper Salado
+Creek Drainage, South-Central Texas. Archaeological Survey Report No. 100. Center for
+Archaeological Research, The University of Texas at San Antonio.
+Bolton, Herbert E.
+1970 [1915] Texas in the Middle Eighteenth Century: Studies in Spanish Colonial History and
+Administration, Vol. 3. University of California Publications in History. University of
+California, Berkeley.
+Bousman, C. Britt, Barry W. Baker, and Anne C. Kerr
+2004 Paleoindian Archeology in Texas. In The Prehistory of Texas, edited by Timothy K. Perttula,
+pp. 15–97. Texas A&M Press, College Station.
+
+21
+
+Bousman, C. Britt, and David L. Nickels (assemblers)
+2003 Archaeological Testing of the Burleson Homestead at 41HY37, Hays County, Texas.
+Archaeological Studies Report No. 4. Center for Archaeological Studies, Texas State
+University, San Marcos.
+Bousman, C. Britt and David L. Nickels
+n.d.
+Archaeological Testing at the Texas River Center in San Marcos, Hays County, Texas. Center
+for Archaeological Studies, Texas State University San Marcos.
+Brune, Gunner
+2005 Springs of Texas. Vol 1. Texas A&M University Press, College Station
+Campbell, T. N., and T. J. Campbell
+1985 Indian Groups Associated with Spanish Missions of the San Antonio Missions National
+Historical Park. Special Report No. 16. Center for Archaeological Research, The University
+of Texas at San Antonio.
+The College Star (CS) [San Marcos, Texas]
+1936 “Recreation Center is Constructed From River Bottom Jungle”, May, San Marcos, Texas
+1944 “Leaving Riverside is Sewell’s Chief Regret on Returning Home”, June 28, San Marcos,
+Texas.
+Collins, Michael B. (assembler and editor)
+1998 Wilson-Leonard: An 11,000-Year Archeological Record in Central Texas. 6 Vols. Studies in
+Archeology 31. Texas Archeological Research Laboratory, The University of Texas at Austin.
+Archeology Studies Program Report 10. Texas Department of Transportation, Environmental
+Affairs Division, Austin.
+Collins, Michael B.
+1995 Forty Years of Archaeology in Texas. Bulletin of the Texas Archeological Society 66:361–
+400.
+2004 Archeology in Central Texas. In The Prehistory of Texas, edited by Timothy K. Perttula, pp.
+101–126. Texas A&M University Press, College Station.
+Collins, Michael B., and Kenneth M. Brown
+2000 The Gault Gisement: Some Preliminary Observations. In Current Archeology in Texas
+2(1):163–166.
+Crumley, Carole L. (editor)
+1994 Historical Ecology: Cultural Knowledge and Changing Landscapes. School of American
+Research Press, Santa Fe, New Mexico.
+
+22
+
+de la Teja, Jesús F.
+1995 San Antonio de Bexár: A Community on New Spain’s Northern Frontier. University of New
+Mexico Press, Albuquerque.
+Dillehay, Thomas D.
+1974 Late Quaternary Bison Population Changes on the Southern Plains. Plains Anthropologist
+19(64):180–196.
+Dobie, Dudley R.
+1932 The History of Hays County, Texas. Unpublished Master’s thesis, The University of Texas at
+Austin.
+Dunn, William E.
+1911 Apache Relations in Texas, 1718–1750. Southwestern Historical Quarterly 14:198–274.
+Fisher, Lewis F.
+1998 The Spanish Missions of San Antonio. Maverick Publishing Company, San Antonio.
+Ford, O. A. and A. S. Lyle
+1998 Archaeological investigation of a Spring Lake lot for Joe’s Crab Shack Parking.
+Archaeological Survey Report No. 277. Center for Archaeological Research, University of
+Texas at San Antonio.
+Foster, William C.
+1995 Spanish Expeditions into Texas 1689–1768. University of Texas Press, Austin.
+Garber, J. F., S. Bergman, B. Dickinson, R. Hays III, J. Simpson, and J. Stefanoff
+1983 Excavations at Aquarena Springs, San Marcos, Texas. La Tierra 10:2:28-38.
+Garber, J.F. and D.M. Glassman
+1992 Excavation of Human Remains from the Fish Pond Site, 41HY161, in San Marcos,
+Hays County, Texas. Texas Antiquities Permit Number 338. Department of Sociology/
+Anthropology, Southwest Texas State University, San Marcos.
+Garber, J. F. and M. D. Orloff
+1984 Excavations at 41HY37: an Archaic site on the Balcones Escarpment in San Marcos, Texas.
+La Tierra 11:3:31-37.
+Giesecke, J.
+1998 Faunal Analysis: an independent study. Manuscript on file at Anthropology Department,
+Southwest Texas State University, San Marcos.
+
+23
+
+Habig, Marion A.
+1977 The Alamo Mission: San Antonio de Valero, 1718–1793. Franciscan Herald Press, Chicago.
+Hall, Grant D.
+1981 Allens Creek: A Study in the Cultural Prehistory of the Brazos River Valley, Texas. Texas
+Archaeological Survey Research Report No. 61. The University of Texas at Austin.
+Hester, Thomas R.
+1983 Late Paleo-Indian Occupations at Baker Cave, Southwestern Texas. Bulletin of the Texas
+Archeological Society 53:101–119.
+1995 The Prehistory of South Texas. Bulletin of the Texas Archeological Society 66:427–459.
+2004 The Prehistory of South Texas. In The Prehistory of Texas, edited by Timothy Perttula, pp.
+127–151. Texas A&M University Press, College Station.
+Huebner, Jeffery A.
+1991 Late Prehistoric Bison Populations in Central and Southern Texas. Plains Anthropologist
+36(137):343–358.
+Johnson, LeRoy, Jr., and T. N. Campbell
+1992 Sanan: Traces of a Previously Unknown Aboriginal Language in Colonial Coahuila and
+Texas. Plains Anthropologist 37(140):185–212.
+Johnson, LeRoy, Jr., and Glenn T. Goode
+1994 A New Try at Dating and Characterizing Holocene Climates, as well as Archeological
+Periods, on the Eastern Edwards Plateau. Bulletin of the Texas Archeological Society 65:1–51.
+Kelly, J. Charles
+1947 The Lehmen Rock Shelter: A Stratified Site of the Toyah, Uvalde, and Round Rock Foci.
+Bulletin of Texas Archeological and Paleontological Society 18:115-128.
+King, Brian
+2007 Archeological Survey of the Proposed City of San Marcos Pedestrian Bridge in Hays
+County, Texas. Archeology Series No. 183. Hicks & Company, Austin
+Lukowski, Paul D., with contributions by Robert F. Scott IV and Richard F. Shoup
+1988 Archaeological Investigations at 41BX1, Bexar County, Texas. Archaeological Survey Report
+No. 135. Center for Archaeological Research, The University of Texas at San Antonio.
+Lyle, A., C. Horrell, S.A. Tomka, and D.A. Cargill
+2000 Archaeological Testing at the Headwaters of the San Marcos River: Southwest Texas State
+University Raw Water Supply Project. Archaeological Survey Report No. 293. Center for
+Archaeological Research, University of Texas at San Antonio.
+
+24
+
+Meissner, Barbara
+1991 Notes on the Excavation of 41BX952. Manuscript on file, Center for Archaeological
+Research, The University of Texas at San Antonio.
+McGraw, Al J., John W. Clarke, Jr., and Elizabeth A. Robbins (editors)
+1991 A Texas Legacy: The Old San Antonio Road and the Caminos Reales, A Tricentennial
+History, 1691–1991. Texas State Department of Highways and Public Transportation, Austin.
+McKinney, Wilson W.
+1981 Early Holocene Adaptations in Central and Southern Texas: The Problem of the PaleoIndian-Archaic Transition. Bulletin of the Texas Archeological Society 52:91–120.
+Newcomb, William W., Jr.
+1961 The Indians of Texas from Prehistoric to Modern Times. University of Texas Press, Austin.
+1993 Historic Indians of Central Texas. Bulletin of the Texas Archeological Society 64:1–63.
+Nordt, L.
+n.d.
+Geology, Landscape Evolution and Geoarchaeology. In Archaeological Testing at the Texas
+River Center in San Marcos, Hays County, Texas, edited by C. Britt Bousman and David L.
+Nickels. Center for Archaeological Studies, Texas State University, San Marcos.
+Oksanen, Eric and Carole Leezer
+2006 Intensive Archaeological Investigations for the Proposed Rio Vista Park Improvements, San
+Marcos, Hays County, Texas. Technical Report No. 23. Center for Archaeological Studies,
+Texas State University-San Marcos.
+Prewitt, Elton R.
+1974 Preliminary Archeological Investigations in the Rio Grande Delta Area of Texas. Bulletin of
+the Texas Archeological Society 45:55–65.
+1981 Culture Chronology in Central Texas. Bulletin of the Texas Archeological Society 52:65–89.
+Ramsey, D.
+1997 Archaeological Survey of Aquarena Springs Park, Hays County, Texas. Manuscript on file at
+Anthropology Department, Southwest Texas State University, San Marcos.
+Ricklis, Robert A.
+1994 Toyah Components: Evidence for Occupation in the Project Area During the Latter Part of
+the Late Prehistoric Period: In Archaic and Late Prehistoric Human Ecology in the Middle
+Onion Creek Valley, Hays County, Texas, by Robert A. Ricklis and Michael B. Collins,
+pp. 207–316. Studies in Archeology 19. Texas Archeological Research Laboratory, The
+University of Texas at Austin.
+
+25
+
+Ringstaff, C. W.
+2000 A Study of Landform Evolution and Archaeological Preservation at Site 41HY165, San
+Marcos, Texas. Unpublished Master’s thesis, Department of Geography, Southwest Texas
+State University, San Marcos.
+Sanborn, Chole Walker
+1944 The Story of Riverside. Unpublished Master’s thesis, Department of Health, Physical
+Education and Recreation, Texas State University, San Marcos.
+Shiner, J. L.
+1979 Survey and testing of the Ice House site: San Marcos, Hays County, Texas. Unpublished ms,
+Southern Methodist University, Dallas.
+1981 History, economy, and magic at a fresh water spring. In The realms of gold, Proceedings of
+the Tenth Conference on Underwater Archaeology, edited by W. A. Cockrell, pp. 202-203.
+Fathom Eight, San Marino, California.
+1983 Large springs and early American Indians. Plains Anthropologist 28:99:1-7.
+Story, Dee Ann
+1985 Adaptive Strategies of Archaic Cultures of the West Gulf Coastal Plain. In Prehistoric Food
+Production in North America, edited by Richard I. Ford, pp. 19–56. Anthropological Papers
+No. 75. Museum of Anthropology, University of Michigan, Ann Arbor.
+Takac, P. R.
+1990 “Homes Bases” and the Paleoindian/Archaic transition in Central Texas”. Paper presented at
+the 55th Annual SAA Meeting, Las Vegas.
+1991a Underwater Excavations at Spring Lake: a Paleoindian site in Hays County, Texas. Current
+Research in the Pleistocene 8:46-48.
+1991b Paleoindian occupations at Spring Lake, Hays Co., Texas, Dissertation Research Proposal.
+Submitted to the Faculty, Department of Anthropology, Southern Methodist University,
+Dallas.
+Turner, Ellen S., and Thomas R. Hester
+1993 A Field Guide to Stone Artifacts of Texas Indians. 2nd ed. Texas Monthly Field Guide Series.
+Gulf Publishing Company, Houston.
+Warren, J.
+1977 Interim Report of Archeological and Historic Investigations in San Marcos Riverfront Park.
+Soil Conservation Service, Washington D.C.
+Weir, Frank A.
+1976 The Central Texas Archaic. Unpublished Ph.D. dissertation, Anthropology Department,
+Washington State University, Pullman.
+
+26
+
+27
+
+

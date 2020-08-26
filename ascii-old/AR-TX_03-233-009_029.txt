@@ -1,0 +1,1532 @@
+Archeological Survey of the FM 723
+Expansion Project from Avenue D to FM
+1093, Fort Bend County, Texas
+CSJs: 0188-09-040
+Permit No. 7293
+Prepared by: Bruce A. Darnell, Julian A. Sitters, and Heath Bentley, AmaTerra
+Environmental, Inc.
+Date: December 2017
+
+The environmental review, consultation, and other actions required by applicable Federal environmental laws for this project are being, or have been,
+carried-out by TxDOT pursuant to 23 U.S.C. 327 and a Memorandum of Understanding dated December 16, 2014, and executed by FHWA and TxDOT.
+
+ABSTRACT
+In June 2015, AmaTerra Environmental, Inc. began an intensive archeological survey for the Farm-toMarket (FM) 723 expansion project, north of the City of Rosenberg, Fort Bend County, Texas (CSJ#
+0188-09-040). Work was delayed due to a lack of right-of-entry (ROE) into portions of the project area.
+After ROE was granted, archaeological survey was completed in late August of 2017. The total project
+length is approximately 9.3 miles, or about 228.11 acres, of which 97.9 acres are proposed new Rightof-Way (ROW). AmaTerra conducted the archeological survey under Texas Antiquities Permit No. 7293.
+Archeological investigations consisted of a pedestrian survey, the manual excavation of 199 shovel
+tests, and the mechanical excavation of eight backhoe trenches throughout the Area of Potential Effect
+(APE). Field archeologists observed numerous landscape modifications, including, but not limited to,
+transportation, agricultural, and residential activities. A prehistoric archeological site, 41FB352, and a
+historic period archeological sites, 41FB353, were recorded during field investigations; neither is
+recommended as eligible to the National Register. However, Site 41FB352 within the APE is situated in
+close proximity to a historic family cemetery, the Briscoe Family Cemetery and it is possible that
+unmarked graves may be present within the APE at this location. As backhoe scraping was not
+permitted on this property during the survey, it remains unknown whether graves are present in the
+APE. Based on the results of field investigations, no additional archeological investigations are
+warranted for any portion of the APE accessed during this survey. However, a number of properties
+within the APE were not surveyed due to a lack of right-of-entry. AmaTerra recommends that survey
+be conducted in these parcels, as well as further investigations for unmarked graves in the portion of
+the Briscoe Family Cemetery parcel that overlaps the APE. No artifacts were collected during this survey
+and project records will be curated at the Texas Archaeological Research Laboratory in Austin.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+1
+
+TABLE OF CONTENTS
+ABSTRACT ………………………………………………………………………………..……….….………..1
+CHAPTER 1. INTRODUCTION AND MANAGEMENT SUMMARY ……………………….……...…………6
+CHAPTER 2. PROJECT BACKGROUND ………………………………………………………...………….11
+2.1 Environmental Setting ……………………………………………………………………..11
+2.2 Cultural Background ……………………………………………………..…….…………..14
+CHAPTER 3. PREVIOUS INVESTIGATIONS …………………………………………..……….………….20
+CHAPTER 4. METHODOLOGY…………………………………………………………..….….…..………23
+CHAPTER 5. RESULTS ……………………………………………………………..……..……..…………25
+CHAPTER 6. CONCLUSIONS AND RECOMMENDATIONS …………………………….….....…………44
+REFERENCES CITED ……………………………………………………………………….…..……………46
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+2
+
+LIST OF FIGURES
+Figure 1. Project location depicted on a topographic map………………………………………………………………………6
+Figure 2. Project location on aerial photograph…………………………………………………………………………….……….7
+Figure 3. Map depicting parcels within the proposed ROW that warrant survey, where ROE was not granted….8
+Figure 4. Geology and PALM of the APE………………………………………………………………………………………….….16
+Figure 5. Soils within the APE………………………………………………………………………………………………………….…17
+Figure 6. Project APE depicted on aerial photograph dated 1953……………………………………………………………..18
+Figure 7. Project APE depicted on aerial photograph dated 1977……………………………………………………………..19
+Figure 8. Previously conducted archaeological investigations within and near the APE……………………………….22
+Figure 9. Project APE depicted on a modern aerial photograph showing areas of disturbance along with shovel
+test and background trench locations………………………………………………………………………………………….26
+Figure 10. View of the general area surrounding backhoe trenches 1, 2 and 3…………………………………………….28
+Figure 11. Soil profile of the west wall for BHT1 (left to right: top, middle, bottom), note the distinct asphalt
+layer………………………………………………………………………………………………………………………………………28
+Figure 12. View of construction debris observed in BHT1……………………………………………………………………….29
+Figure 13. View of concrete slab and pillars in BHT1, facing north…………………………………………………………….29
+Figure 14. Detail of concrete spiral concrete stabilizing pillar in BHT1……………………………………………………….30
+Figure 15. View of soil profile on the west wall of BHT2………………………………………………………………………….31
+Figure 16. View of debris found in BHT2………………………………………………………………………………………………31
+Figure 17. Soil profile of the west wall of BHT3……………………………………………………………………………………..32
+Figure 18. Fragmented railroad tie and silt fence encountered in BHT3…………………………………………………….33
+Figure 19. General view of area surrounding BHT4………………………………………………………………………………..33
+Figure 20. Soil profile of the east wall of BHT4……………………………………………………………………………………..34
+Figure 21. View of broken timber of pier found in BHT4…………………………………………………………………………35
+Figure 22. View of BHT5 profile………………………………………………………………………………………………………….36
+Figure 23. Map of site 41FB352…………………………………………………………………………………………………………..38
+Figure 24. Artifacts observed at 41FB353…………………………………………………………………………………………….39
+Figure 25. 41FB353 depicted on a 1953 aerial photograph………………………………………………………………………41
+Figure 26. 41FB353 depicted on a 1973 aerial photograph………………………………………………………………………..42
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+3
+
+CHAPTER 1. INTRODUCTION AND MANAGEMENT SUMMARY
+In June 2015 and August 2017, on behalf of Ecosystem Planning and Restoration, AmaTerra
+Environmental, Inc. (AmaTerra) conducted an archeological survey in advance of the proposed
+expansion of Farm-to-Market (FM) 723 north of the City of Rosenberg, in north central Fort Bend
+County, Texas (CSJ# 0188-09-040). The project extends approximately 9.3 miles from Avenue D,
+crossing the Brazos River, to FM 1093 (Figure 1). The Texas Department of Transportation (TxDOT)
+proposes to improve FM 723 to a four-lane divided roadway.
+Currently, FM 723 is a two-lane rural highway with two 12-foot wide travel lanes. The road from Avenue
+D to the Brazos River Bridge also contains one 14-foot wide turn lane and a 5.5-foot wide sidewalk within
+a typical Right-Of-Way (ROW) of 60 feet. From the north end of the Brazos River Bridge to Baker Road,
+the street has 14-foot wide shoulders and a typical ROW width of 120 feet. Continuing from Baker Road
+to FM 359, FM 723 has eight-foot wide shoulders on either side of the travel lanes within a 120-foot wide
+ROW, before finally tapering into 2.5-foot wide shoulders within a 120-foot wide ROW from FM 359 to
+FM 1093. The entire roadway is bordered on both sides by roadside drainage ditches.
+The proposed undertaking would improve FM 723 to a four-lane divided roadway with a flush/raised
+median for a left-turn lane along with other improvements. FM 723 from Avenue D to south of the
+Brazos River would be expanded into four 11-foot wide travel lanes with 5.5-foot wide sidewalks within
+a 60 to 175-foot wide ROW. The Brazos River Bridge will not be modified. From the north end of the
+Brazos River Bridge to FM 1093, FM 723 would be expanded into four 12-foot wide travel lanes, with 12foot outside shoulders. The roadway would be divided by an 18-foot raised median and have two-foot
+curb offsets. In addition, six detention pond locations are proposed along the ROW. The existing facility
+covers 130.21 acres; the proposed improvements would require a total of approximately 97.9 acres of
+new ROW (Figure 2).
+The Area of Potential Effects (APE) for archeological resources is defined as the footprint of the
+proposed project to the maximum depth of impact(s), including all easements, retention pond
+locations, and project specific staging locations. Thus, the APE for archeological resources will cover a
+total distance of approximately 9.3 miles, within a typical road width of 180 feet. The APE encompasses
+97.9 acres of proposed new ROW and 130.21 of existing ROW for a total of 228.11 acres. The proposed
+undertaking will be built at grade and therefore the maximum depth of impact would be 4 feet (1.21 m)
+or less, except where bridge expansion is proposed, where the depth of impact from the construction
+of piers could potentially exceed 25 feet (7.62 m) below the surface, At these locations, impacts would
+likely extend below the depth of Holocene-age deposits.
+The project is being funded by the Federal Highway Administration (FHWA). In addition, the proposed
+project will involve land and easements owned or controlled by a political subdivision of the State of
+Texas and will occur within private property that will be purchased for new ROW. Since the proposed
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+4
+
+project will be built using FHWA funds on land owned or controlled by the State of Texas, the project is
+subject to the rules and regulations outlined by Section 106 of the National Historic Preservation Act of
+1966, as amended (Section 106), as well as the Antiquities Code of Texas (ACT). Therefore, AmaTerra’s
+work conformed to the guidelines under 36 CFR Part 800 and 13 TAC Chapter 26, which outline the
+regulations for implementing Section 106 and ACT, respectively.
+Coordination with the TxDOT resulted in a survey recommendation for the entire APE. Archeological
+investigations consisted of a pedestrian survey, shovel testing of all portions of the APE where Rightof-Entry (ROE) was made available, and backhoe trenching at two major water crossings: the Brazos
+River and Jones Creek. The proposed project would be built on both public and private property.
+Although access was available to much of the APE, approximately 1.5 miles of the proposed new ROW
+was not surveyed during the course of this project due to lack of landowner access. AmaTerra
+recommends that these parcels will require survey and shovel testing before construction efforts
+commence (Figure 3). Field investigations took place from June 8-12, 2015 and August 21-23, 2017
+under Texas Antiquities Permit No. 7293. Rachel Feit acted as Principal Investigator and Bruce A. Darnell
+and Julian A. Sitters served as Project Archeologists, while Heath Bentley, Noel Steinle, and Emory
+Worrell assisted with field investigations. A total of 188 person hours were expended in the field in
+support of this project. Two new archeological sites (41FB352 and 41FB353) were documented, though
+neither is recommended as eligible for the National Register. No artifacts were collected during the
+investigation and the records from this project will be curated at the Texas Archaeological Research
+Laboratory (TARL) in Austin.
+This report is divided into six chapters. The project background and cultural overview are discussed in
+Chapter 2. Chapter 3 discusses previously conducted cultural resources investigations near the project
+area. Chapter 4 includes the field methodology implemented during the project and the results of field
+investigations are discussed in Chapter 5. Chapter 6 presents the summary and recommendations.
+Appendix A contains the shovel test locations.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+5
+
+Figure 1. Project location depicted on a topographic map.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+6
+
+Figure 2. Project APE depicted on a modern aerial photograph.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+7
+
+Figure 3. Map depicting parcels within the proposed ROW that warrant survey, where ROE was not granted.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+8
+
+CHAPTER 2. PROJECT BACKGROUND
+The project area, located just north of downtown Rosenberg in Fort Bend County, Texas, is a rapidly
+growing suburban area, experiencing considerable residential and commercial development over the
+last decade. Twenty years ago, the majority of the APE was farm or pasture land, with scattered
+residential communities or commercial business adjacent to FM 723. Today, the expansion of Houston
+has led to the growth of suburbs around Houston like Katy, Richmond, and Rosenberg, Texas.
+2.1 Environmental Setting
+According to McMahan et al. (1984) the APE lies within the Western Gulf Coastal Plain Level III
+Ecoregion. Prior to development, the vegetation of the coastal plains consist primarily of grassland
+species with clusters of oak and other woody species. Grass species include little bluestem
+(Schizachyrium scoparium), yellow Indiangrass (sorghastrum nutans), brownseed paspalum (paspalum
+plicatulum), gulf muhly (Muhlenbergia capillaris), and switchgrass (Panicum virgatum). However, native
+vegetative species have largely been replaced by agricultural crops and invasive exotic species. It has
+been estimated that 99 percent of the coastal prairies has been lost to agricultural and urban land use.
+In areas not actively farmed, vegetation generally consists of a mix of native grasses and introduced
+Bermuda and San Augustine varieties, as well as ornamental flowers and shrubs. Surface visibility within
+these areas would be variable depending on crop growth and other seasonal variations in vegetation
+growth.
+Common fauna in this region include swamp rabbit (sylvilagus aquaticus), plains pocket gopher (Geomys
+bursarius), nutria (Myocaster coypus), scissor tailed flycatcher (Tyrannus forficatus), killdeer (Charadrius
+vociferous), cattle egret (Bubulcus ibis), coyote (Canis latrans), hog-nosed skunk (Conepatus leuconotus),
+American alligator (Alligator mississippiensis), Texas blind snake (Leptotyphlops dulcis), Gulf Coast toad
+(bufo valliceps), and diamondback terrapin (Malaclemys terrapin).
+Two natural sources of water cross the APE: the Brazos River flows west to east across the southern
+portion of the project area, and Jones Creek crosses through the middle portion of the APE.
+Topography
+Overall, the APE is extremely flat coastal plain, with very little variation in the topography. The only
+exceptions to this environment are the areas around the Brazos River, Jones Creek, and some small
+intermittent drainages, which have cut through the plain and contain gradual-to steep- slopes to the
+bottom of the waterway.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+9
+
+Soils and Geology
+Deltaic sands, silts, and clays of Quaternary-age typically underlie much of this ecoregion, which are
+located on the gently sloping coastal plain. Soils are usually fine-textured clay, clay loam, or sandy clay
+loam (Table 1).
+Table 1. Soil Units Within the APE
+Soil Series
+
+Map
+Symbol
+
+Parent Material
+
+Landform
+
+Type
+
+Asa-Pledger
+Complex
+Lake Charles clay, 2
+to 5 percent slopes
+
+AC
+
+Flood plains
+
+Silty clay
+loam
+Clay
+
+Brazoria clay, 0 to 1
+percent slopes,
+rarely flooded
+
+Ma
+
+Clemville silt loam,
+0 to 1 percent
+slopes, rarely
+flooded
+Clemville silty clay
+loam, 0 to 1 percent
+slopes, occasionally
+flooded
+Pledger clay
+
+Mc
+
+Loamy alluvium
+of Holocene age
+Clayey
+fluviomarine
+deposits derived
+from igneous,
+metamorphic and
+sedimentary rock
+Clayey alluvium
+derived from
+igneous,
+metamorphic and
+sedimentary rock
+Loamy alluvium
+of Holocene age
+
+Churnabog clay, 0
+to 1 percent slopes,
+frequently flooded
+Sandy alluvial land
+
+Sloping alluvial land
+Mohat loam, 0 to 1
+percent
+slopes,
+rarely flooded
+
+Lb
+
+Backswamp
+s
+
+Solum
+Thickness (cm;
+Abbott 2001)
+80+ inches
+
+Geoarcheologica
+l Potential
+
+50-80
+
+Low
+
+Flood plains
+
+Clay
+
+40-60
+
+Moderate-High
+
+Flood plains
+
+Silt loam/silty
+loam
+
+>60
+
+Very High
+
+>60
+
+Very High
+
+unknown
+
+unknown
+
+Md
+
+Loamy alluvium
+of Holocene age
+
+Flood plains
+
+Pa
+
+Clayey alluvium of
+quaternary age
+Clayey alluvium
+
+Flood plains
+
+Silty clay
+loam/silt
+loam/ silty
+clay
+Clay
+
+Oxbows on
+Flood plains
+
+Clay/Silty
+clay
+
+80+ inches
+
+Poorly drained
+
+Sa
+
+N/A
+
+Flood plains
+
+Loamy
+sand/stratifie
+d sand to
+loam
+
+60 inches (48
+inches to water
+table)
+
+Somewhat poorly
+drained
+
+Sb
+Ya
+
+N/A
+Loamy alluvium
+derived
+from
+igneous,
+metamorphic and
+sedimentary rock
+
+N/A
+Flood plains
+
+Clay loam
+Loam/very
+fine
+sandy
+loam
+
+80+ inches
+80+ inches
+
+Well drained
+Well drained
+
+Ra
+
+Geologically, the region is located over the Lissie Formation and the lower Beaumont Formation, which
+both date to the Pleistocene (BEG 1992). Typically the Lissie Formation contains lighter colored soils,
+mostly Alfisols and are sandy clay loam in texture. The Beaumont Formation has darker, more clayey
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+10
+
+soils associated with Vertisols. A large section of the APE falls within Holocene age alluvium deposits
+(Figure 4).
+The project APE consist of 10 different soil associations ranging from clays to sands. The majority of
+soils in the project area are Pledger clay (Pa), which represent almost half of the project APE (Figure 5).
+Pledger soils are located north of the Brazos River, primarily in areas that have been utilized as
+agricultural fields. The next most prominent soil type is Brazoria clay, 0 to 1 percent slopes, rarely
+flooded (Ma), which are also found north of the Brazos River, in agricultural fields. The remaining soil
+types are spread throughout the project area. Table 2 summarizes the various soils types found in the
+APE (USDA-NRCS 2015).
+Land Modifications and Historical Land Use
+The project area consists of land that has been utilized primarily as agricultural fields or pasture. An
+aerial from 1953 clearly shows the project area surrounded by farmland, with the exception of the area
+south of the Brazos River which had already developed into the Town of Rosenberg (Figure 6). North of
+the Brazos River, several structures can been seen within, or near the ROW. Historic period
+archeological deposits could be found at these locations. A 1977 aerial photograph illustrates that the
+landscape remains relatively unchanged from the 1950s (Figure 7). Modern aerials depict a largely
+agricultural setting with some development south of the Brazos River (see Figure 2). North of the
+Brazos, there is some commercial and residential development, primarily along the eastern side of the
+road. Three large schools have been constructed at the intersection of FM 723 and FM 359. North of FM
+359, sporadic residential housing has been constructed along with the occasional commercial business,
+including a large orchard near Old Pecan Road and FM 723. Finally, a large residential community was
+constructed at the northwestern intersection of Fulshear Gaston Road and FM 723. Despite these
+developments, large sections of the APE remain unaltered (Figure 8).
+Archeological Site Potential
+The deep sandy, clay loams, have the potential for containing intact archeological deposits, especially
+near the waterways, their tributaries, and at old oxbow lakes. The historic aerial photographs assessed
+by AmaTerra archeologists indicate that historically there were several structures located adjacent to
+the APE, suggesting a moderate potential for historic-period archeological materials. Several
+archeological surveys have been conducted within, or near, the APE resulting in the recording of one
+prehistoric archeological site within one kilometer (0.62 miles) of the APE. The deep soils, presence of
+previously recorded sites within the immediate vicinity, the APE’s proximity to water, and a lack of
+comprehensive archeological surveys suggest a moderate to high probability for unrecorded prehistoric
+sites to be within the APE or nearby.
+According to Abbott’s (2001) Potential Archeological Liability Mapping (PALM) for TxDOT’s Houston
+District, the soils within the APE have a high potential for archeological remains. Map units 1, 2, 2a and
+3 are present within the APE, and according to Abbott’s model all of these soils have potential for
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+11
+
+archeological remains from the surface to various depths. Deep deposits are most likely within map
+units 1 and 3, which fall along land between Jones Creek and the project terminus at Rosenberg (see
+Figure 4). North of Jones Creek, the APE crosses into PALM map units 2 and 2a, where archeological
+sites would most likely be on the surface or shallowly buried. The very southern portion of the project
+APE, south of the Brazos River, was labeled a 4 on PALM, indicating no survey was required. The PALM
+is a useful resource for predicting the potential for prehistoric archeological deposits, but does not
+account for the potential of an area to contain historic materials. Therefore recommendations need to
+take into account to the potential for historic deposits independent of the Houston PALM.
+Several large swaths of the APE have been disturbed by commercial and residential development). As
+a result, investigators believe that only some areas of the APE warranted survey, while others do not
+due to disturbances. Areas warranting survey include the areas around the Brazos River, large parcels
+south of FM 359, parcels near Jones Creek, and other areas not disturbed by development. It is in these
+areas that AmaTerra archeologists focused survey efforts.
+2.2 Cultural Background
+The project area is located in the Gulf Coast Prairies Region of Southeast Texas. This region has been
+extensively researched, and comprehensive chronological sequences have been established (Turner
+and Hester 1999). According to research conducted at archeological sites in this region, evidence of
+human occupation in the region roughly spans 12,000 years before present (BP). These 12,000 years of
+occupation are typically divided into five main periods, based on technological and cultural changes
+seen throughout the archaeological record. These five main periods are as follows: the Paleoindian
+(12,000/11,500–8,500/8,000 BP); the Archaic (8,500/8,000–2,000/1,500 BP); the Ceramic Period (2,000
+BP–1250 BP [AD 700]); the Late Prehistoric (AD 700–1650); and the Historic (AD 1650–1950’s). The
+following is a general overview of trends seen during each period, followed by a discussion of what
+occurred in the Gulf Coast Prairies Region of Southeast Texas.
+Paleoindian (ca. 11,500–8,000 BP)
+Generally, there is a lack of data relating to the Paleoindian Period in Southeast Texas and archeological
+excavation of any Paleoindian site has yet to be undertaken. While many projectile points such as Clovis,
+Plainview, Folsom, Scottsbluff, and San Patrice have been recovered, most were isolated, mixed, or
+surface finds, or found in excavations of later contexts (Ricklis 2004). The distribution of artifacts
+suggests that most sites occur along major streams or within major stream drainages.
+Because of the paucity of evidence, no detailed understanding of settlement mobility and subsistence
+patterns during the Paleoindian period in Southeast Texas exists. What evidence does exist suggests
+that groups likely engaged in a mix of hunting and gathering, and since many of the lithics recovered
+are made of materials that are sparse or absent in the region, extensive movement of people and
+materials over the landscape is also suggested (Ricklis 2004).
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+12
+
+Archaic in inland southeast Texas (ca. 8,000–1,500 BP)
+Many Archaic sites have been found in this region, mostly near major streams, and these are
+represented by flaked stone dart points and other lithic tools. A general outline of dart point chronology
+during this period in Southeast Texas is available (Ricklis 2004), yet the lack of any other evidence (i.e.,
+faunal, botanical, etc.), allows for little generalization regarding subsistence strategies other than the
+suggestion that groups were likely engaged in some form of hunting and gathering. By the Late Archaic
+period, the use of poor quality and local lithic materials suggest reduced mobility and smaller, more
+localized territories.
+The use of cemeteries in this region, most notably the Ernest Witte cemetery, became increasingly
+important culturally by the Late Archaic period. These cemeteries could be quite large and often
+contained grave goods. For example, Group 2 of the Ernest Witte cemetery contained 145 individuals
+along with lithics, bone pins, and shell beads and pendants.
+Archaic sites in the Coastal region of Southeast Texas consist mostly of shell middens. Most are located
+along the shores of secondary bays or in and around river mouths and deltas (Ricklis 2004). The most
+complete Archaic sequence of occupation in this region was recovered from the Eagle’s Ridge site, a
+densely stratified shell midden. A large sample of features and artifacts from the earliest part of the
+period to the latest were recovered at the midden, which comprises mostly of Rangia cuneata, but also
+oyster shells. By the Late Archaic (ca. 3000 BP), the increase in number of sites uncovered has led
+researchers to suggest significant population growth occurred during this period.
+Ceramic (ca. 2,000–1,250 BP [700 AD])
+The Ceramic Period in Southeast Texas has been defined as the point at which ceramics first appeared,
+and thus signaling the end of the Archaic Period. During the Early Ceramic period, while ceramics were
+introduced from Louisiana and the Lower Mississippi Valley, there is not much evidence of major
+changes in lifeways. Ceramic Period artifacts recovered overlying Archaic ones near river drainages
+suggest consistent patterns in subsistence and settlement over time. Story et al. (1990) coined the term
+Mossy Grove Tradition/Culture to describe groups that occupied areas surrounding Galveston Bay
+(including the current project area) during the Ceramic Period.
+Late Prehistoric (ca. 700–1650 AD)
+This period is usually defined by the introduction of the bow and arrow. Evidence from the Mitchell
+Ridge site (41GV66) suggests that the Late Prehistoric in Southeast Texas can be divided into the Initial
+Late Prehistoric subperiod, represented by Scallorn arrowpoints, and the Final Late prehistoric period.
+The Final Late period correlates with the well-documented Toyah phase, as defined by an abundance
+of bison bone and a lithic assemblage geared towards the processing of the meat and hides of large
+game (Ricklis 2004).
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+13
+
+Historic (1650–1950s AD)
+The Historic Period in Texas begins with the arrival of the Spanish explorer Cabeza de Vaca in 1528.
+During the sixteenth and seventeenth centuries, the French and Spanish made forays into Texas for the
+sake of exploration and trade, though no permanent European settlements were successful until the
+late seventeenth century. Archeological sites dating to this period contain a mix of both European (e.g.,
+metal and glass arrow points, trade beads, and wheel-made or glazed ceramics) and traditional Native
+American artifacts (e.g., manufactured stone tools). The effect that Europeans had on Indians in Texas
+prior to about 1700 is not well-understood. What is known is that the initial arrival of Spanish and French
+missionaries and explorers spread disease that killed, displaced, and fragmented a huge percentage of
+the population. As colonization spread from Mexico, many of the Coahuiltecan groups moved
+northward to avoid the Spanish. At the same time, invading Indian groups from the north put pressure
+on Native American groups in North Texas (Nickels et al. 1997). Historians believe that these pressures
+led to intense territorial disputes, further destabilizing Native American populations.
+Although it was not officially established until 1837, settlement in Fort Bend County began in the 1820s
+as part of Stephen F. Austin’s original colonization efforts. Initial settlers in Fort Bend County were 53
+of Austin’s original 297 families who are known as the Old Three Hundred. Many abandoned their
+homes during the Runaway Scrape of 1836 and returned to devastation. Richmond, the county seat,
+became a thriving trade center and helped rebound the post-war economy.
+Slaves were an important factor to the early economy in Fort Bend County. By 1845, it had one of the
+largest slave populations in Texas, and in 1860, the slave population was more than double that of the
+white population. Dependent on a plantation economy, Fort Bend County had 159 farms which
+produced 12,000 acres of cotton, 7,000 acres of corn, and 1,000 acres of sugarcane in 1860. Due to this
+economic structure, county residents overwhelmingly supported secession and the Confederacy during
+the Civil War. The area was devastated economically during and after the Civil War, with some
+plantations being totally destroyed. Agricultural production also dramatically decreased with the
+emancipation of slaves. Economic recovery was slow after the Civil War (Ott 2010).
+At the close of the nineteenth century, the county’s economy remained dependent on agriculture, but
+in the 1880s-1890s small farms and ranches dominated the landscape rather than large plantations. The
+national recession of the 1890s, a flood of the Brazos River in 1899, and the 1900 Galveston hurricane
+caused economic hardship at the turn of the 20th century in Fort Bend County. This difficulty increased
+the rate of farm tenancy and by 1910, 61% of the farmers in the county were tenants. By 1925 a state
+recession and poor weather conditions caused 72% of the farms in the county to be managed by
+tenants. This trend was eventually relieved by the rural to urban movement and the pull to military
+service of the 1940s. Commercial farming declined as residential, business, and industrial development
+have reduced the available agricultural land.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+14
+
+The area surrounding Rosenberg was first settled in the early 1820s as part of Steven F. Austin’s Old
+Three Hundred colony; however, intensive settlement did not begin until around 1880. In that year, the
+county seat, Richmond, refused to grant access to the Gulf, Colorado, and Santa Fe Railway (GCSF). As
+a result, the railroad was built to the west where it crossed the Galveston, Harrisburg, and San Antonio
+Railway. The junction of these lines resulted in the founding of Rosenberg, named after Swiss
+immigrant to Galveston and former GCSF president Henry Rosenberg. Town development was heavily
+dependent on the railroads and by 1883, the GCSF had platted land around a city square. As the 1880s
+continued, the New York, Texas, and Mexican Railway established headquarters in Rosenberg, and in
+1889 the Union Depot was constructed. At the close of the decade the population of Rosenberg reached
+1,000, largely due to immigrants from Czechoslovakia, Poland, and Germany. Rosenberg was
+incorporated in 1902 and continued to grow, becoming an oil boomtown in the 1920s, and a center for
+sulfur mining. Farming and ranching also played an important role in Rosenberg’s development (Myers
+2015).
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+15
+
+Figure 4. Geology and PALM of the APE.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+16
+
+Figure 5. Soils within the APE.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+17
+
+Figure 6. Project APE depicted on an aerial photograph dated 1953.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+18
+
+Figure 7. Project APE depicted on an aerial dated to 1977.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+19
+
+CHAPTER 3. PREVIOUS INVESTIGATIONS
+According to the Texas Historical Commission’s (THC’s) Archeological Sites Atlas (Atlas) and the
+records at the Texas archeological Research Laboratory (TARL), there are no previously recorded
+archeological sites within the APE, however, site 41FB252 is located within one kilometer (0.62 mile) of
+the APE (Figure 8). The site, located approximately 165 m (ca. 540 feet) west of the APE, is a middle to
+late Archaic campsite containing Bulverde, Yarbrough, Gary, Kent, Darl, Marcos, Ensor, Ellis, and
+Williams-like projectile points, as well as a bifacial knife, bifacial chopping tool, and large scrapers. The
+site was recommended for further study and its current eligibility for the National Register of Historic
+Places (NRHP) is undetermined.
+Three previously conducted archeological surveys crossed or abutted the APE. The earliest was
+conducted in 1987 by the Environmental Protection Agency (EPA). The survey was conducted in two
+places along the central portion of the project area. No archaeological sites were located during this
+survey. More recently, a survey was conducted in the northern portion of the APE by MAC, Inc. for the
+Texas Commission of Environmental Quality (TCEQ) in 2003; and by AmaTerra Environmental, Inc. for
+Texas Department of Transportation (TxDOT) in 2012. Neither of these surveys resulted in the
+recordation of archaeological sites.
+Within a kilometer (0.62 miles) of the APE, three additional surveys have been conducted including: a
+small area survey completed in 1977 (no information provided on the THC website); an area survey near
+the southern terminus of the project conducted in 1994 by BC & AD Archaeology for the City of
+Rosenberg; and a linear survey completed by HRA Gray & Pape for the United States Department of
+Agriculture in 2009. None of these nearby surveys resulted in finding archeological sites within one
+kilometer (0.62 miles) of the project area.
+In addition, several cemeteries are located within one kilometer (0.62 miles) of the APE, but not within
+the APE. These cemeteries, from north to south along the project area, are summarized in Table 2
+below.
+Several historical markers are found within one kilometer (0.62 miles) of the project area. These include
+the markers commemorating pioneers Randolph and John Foster, The Rosenberg Cemetery, The
+Vogelsang Building, The Rosenberg Post Office, the First Baptist Church of Rosenberg, the Trone-RayLane House, and the Julius Edward Junker community. None of these resources would be affected by
+project activities as they are currently designed.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+20
+
+Name
+
+Table 2. Cemeteries near the FM 723 project
+Dates
+No. of Graves
+Condition
+
+Notes
+
+Washington
+Cemetery
+
+1900-1945, 1945-1975
+
+1
+
+Maintained
+
+Spring Green
+Baptist Cemetery
+Andrews League
+Cemetery
+
+Unknown
+
+0
+
+Unknown
+
+1860-1900, 1900-1945,
+1945-1975
+
+50
+
+Unknown
+
+1838-present
+
+At least 38
+
+Maintained
+
+Moderately
+endangered by
+subdivision
+encroachment
+Occupies six acres
+in a pasture
+African American
+cemetery on two
+acres with marked
+and unmarked
+graves
+On private property
+
+1975-Present
+
+1
+
+Maintained
+
+Masonic marker
+
+Unknown
+
+Unknown
+
+Maintained
+
+Unknown
+
+Unknown
+
+Maintained
+
+Masonic, veteran
+graves. Fenced.
+Three acres
+adjacent to
+Rosenberg
+Cemetery
+
+Briscoe Family
+Cemetery
+Wilderness Branch
+Cemetery
+Rosenberg
+Cemetery
+Our Lady of
+Guadalupe Church
+Cemetery
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+21
+
+Figure 8. Previously conducted archeological investigations within and near the APE.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+22
+
+CHAPTER 4. METHODOLOGY
+Prior to field investigations, archeologists conducted archival research to assess the potential for buried
+historic archeological materials. This research involved examining historical maps (Perry-Castaneda
+Library 2015) and aerial photographs (EarthExplorer 2015). As mentioned above, archeologists
+consulted the Atlas to assess the potential for prehistoric archeological sites within the APE. This not
+only allowed investigators to determine the presence of previously recorded archeological sites within
+the APE, but also to gain a sense of site types (lithic scatter, vs. occupation site), artifact types (lithic
+debitage, mounds, and/or diagnostic artifacts), and average depth of cultural materials below the
+surface, among other things. Lastly, the APE was overlaid on aerial based gridded maps and loaded
+onto hand-held DeLorme GPS units to aid in navigation.
+Archeological investigations were carried out in accordance with the THC/CTA survey standards (as
+referenced in 13 TAC 26.20 and THC policy). Archeological fieldwork consisted of pedestrian survey and
+the manual excavation of 139 shovel tests at approximately 100 m intervals. In addition, archeologists
+excavated a total of four backhoe trenches at locations where the proposed road expansion crossed
+natural waterways (Brazos River and Jones Creek). These investigations took place within the existing
+and the proposed new ROW currently within public domain, as well as on private property for which the
+landowner explicitly granted authorization for the investigation work.
+AmaTerra inspected the entire APE for direct effects on foot through visual reconnaissance. As a result,
+archeologists observed multiple areas of disturbance. Areas of disturbances were thoroughly
+photographed and archeologists made notes on the conditions they encountered during their
+investigations. Shovel testing was not conducted within obviously disturbed locations. Disturbances
+observed while in the field include artificially raised and levelled surfaces, roadside drainage ditches,
+buried utilities, plowed agricultural fields, and natural erosion.
+Shovel tests measured 30 cm in diameter and extended to a maximum depth of 80 cm below the surface
+or until restrictive features (e.g., water or basal clay) were encountered. The shovel tests were
+excavated in 10 cm increments and all soil was screened through a ¼-inch hardware cloth. Relevant
+information for all shovel tests was recorded on a standardized form. Shovel tests were backfilled upon
+completion. This archeological investigation was a non-collection survey; therefore, artifacts
+encountered during the course of the work were returned to their original location.
+Backhoe trenches were mechanically excavated by Buddy Nelson using a Bobcat E55. Spatial
+constraints determined where the trenches were placed, as well as a trench’s horizontal dimensions;
+whereas, the vertical dimensions (depth) were defined by the proposed depth of impacts, the depth of
+the water table, and safety. Therefore, trench dimensions varied in length from 6–8.8 m, maintained an
+average width of 1.3 m, and extended to depths ranging from 1.8–2.4 m below the surface. A
+representative sample of sediment from each soil zone in each trench was screened through ¼-inch
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+23
+
+hardware cloth. Following the excavation of the each trench, the trench walls were intensively
+examined for artifacts and features. Relevant information was recorded on standardized forms. Digital
+photographs were used to document the excavation of each backhoe trench and soil profile. A profile
+and plan map drawing was completed for each trench. The locations of each trench were recorded using
+a DeLorme GPS unit. All backhoe trenches were backfilled upon completion.
+Archeological sites were defined using the THC/CTA standards (as referenced in 13 TAC 26.20). Thus,
+an archeological site had to contain a certain number of cultural materials or features older than 50
+years of age within a given area. The definition of a site is: (1) five or more surface artifacts within a 15m (50-foot) radius; or (2) a single cultural feature, such as a burned rock midden or cistern, observed on
+the surface or exposed during shovel testing; or (3) a positive shovel test containing at least five total
+artifacts; or (4) two positive shovel tests located within 30 m (98 feet) of each other. Archeologists
+documented two archeological sites using these criteria.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+24
+
+CHAPTER 5. RESULTS
+A review of historic aerial photographs indicated that the project area was primarily utilized as farmland
+with a few homesteads dotting the length of the APE. This level of agricultural activity has impacted
+the upper levels of the ground surface, disturbing any cultural material in the upper 30-40 cm below the
+surface (cmbs), known as the plow zone. Despite this disturbance, AmaTerra investigators excavated
+shovel tests in order to evaluate the ground surface beneath the plow zone.
+AmaTerra archeologists surveyed the APE through visual inspection and shovel testing, supplemented
+with backhoe trenching, from June 8-12, 2015 and August 21-23, 2017 and found the terrain to be flat
+and open with large sections containing heavily disturbed soils. Investigators found the APE to be
+largely disturbed by earth moving activities, roadway construction, utility line instillation, plowing, and
+residential and commercial development. A total of 199 shovel tests (Figure 9) and eight backhoe
+trenches were excavated in order to evaluate the APE for subsurface archeological deposits. The
+backhoe trenches typically revealed heavily disturbed subsurface soils containing a mix of modern trash
+and stabilizing fill material. Soils encountered during shovel testing consisted of thick, compact gray or
+brown clay loams terminating between 40-50 cmbs due to heavy compaction throughout the majority
+of the APE. Sections of the APE in the north consisted of brown sandy loams to depths of 80 cmbs. Deep
+soils encountered through backhoe trenching near the Brazos River revealed heavily disturbed
+yellowish and brown clays mixed with fill material and modern construction debris. The backhoe trench
+placed near Jones Creek revealed thick, compact clays.
+Shovel Testing
+AmaTerra archeologists were granted limited access to the project APE. Of the approximately 228 acres
+of existing and newly acquired ROW, investigators had access to approximately 93 percent of the
+parcels. Fortunately, AmaTerra personnel had access to a number of parcels that were relatively
+undisturbed, or around areas thought to be higher probability due to their proximity to permanent
+water sources or un-plowed sections of wooded land. Figure 8 illustrates the amount of APE which has
+been disturbed through road construction, utility installation, drainage ditches, residential and
+commercial construction, and extensive plowing.
+Shovel testing began at the northeast bank of the Brazos River and continued north to where the project
+terminated at the intersection of FM 723 and FM 1093. At the northern terminus of the APE,
+archeologists looped around and tested the western side of the project heading south. Investigators
+shovel tested only in parcels that AmaTerra was given ROE. Shovel tests were placed in approximately
+100 m intervals. A total of 199 shovel tests were placed throughout the APE, three of which led to the
+recovery of prehistoric artifacts (41FB352), and one surficial historic-age artifact scatter was discovered
+(41FB353). These sites will be discussed in detail below. Two shovel tests excavated in plowed fields
+exposed modern debris consisting of fragmented brown beer bottle glass in the upper 5 cmbs and a
+metal wire fragment at 15 cmbs. Additionally, two areas designated for potential retention ponds were
+shovel tested. The proposed pond areas were located in plowed field with brown sandy clays.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+25
+
+Figure 9. Project APE depicted on a modern aerial photograph showing areas of disturbance along with shovel test
+locations.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+26
+
+Areas of heavy disturbance included the northwestern portion of the APE between Fulshear-Gaston
+Road and FM 1093; a high school, junior high school, and middle school at the intersection of FM 359
+and FM 723; the subdivision of Kingdom Heights at Evans Road and FM 723; and both sides of FM 723
+south of the Brazos River. Much of the remaining portion of the APE consisted of plowed, or previously
+plowed fields. Little of the project area appeared to be undisturbed, with an area not accessible
+northwest of the Brazos River, and two wooded areas on the west side of FM 723 south of Riverside
+Blvd, and near Winner Foster Road.
+Soils encountered during shovel testing varied depending at which point along the APE they were
+excavated. In the southern portion, near the Brazos River, shovel tests typically consisted of very dark
+grayish brown (10YR3/2) clay loam over light yellowish brown (10YR6/4) silty clay loam. Shovel tests
+placed near the middle portion of the APE were typically mottled dark brown (7.5YR3/3) clay or clay
+loam over very dark gray (7.5YR3/1) clay. Shovel tests located near the northern terminus consisted of
+brown (10YR5/3) sandy loam over dark brown (10YR3/2) sandy clay loam. Two proposed retention
+ponds in the northern portion of the project area contained soils that were brown or dark brown
+(10YR5/3 or 10YR7.5YR3/3) sandy clays.
+Backhoe Trenching
+A total of eight backhoe trenches were excavated in the project area. Three of the trenches were placed
+near the Brazos River crossing at FM 723, one near Jones Creek at the FM 723 crossing (see Figure 9) in
+2015 and four in a proposed detention pond area north of the Brazos River crossing in 2017. Trenching
+was limited to parcels accessible to AmaTerra archeologists and within the designated ROW. Despite
+these limits, investigators attempted to place trenches in areas AmaTerra archeologists determined
+had the most potential for intact, deeply buried archaeological resources.
+Backhoe Trench (BHT) 1 was excavated at the southwest intersection of FM 723 and the Brazos River,
+in a strip of land designated as a city park and owned by the City of Rosenberg. The space for a backhoe
+trench was limited due to the constraints of the ROW and various improvements such as the
+construction of the Brazos River Bridge and a disc golf course in the park. BHT1 was positioned parallel
+to the FM 723 approximately 30-40 meters from the bank of the Brazos River, and measured seven
+meters in length, by 1.3 meters wide. The surrounding area was flat and clear, although the terrain
+sloped slightly towards the river (Figure 10).
+The trench was found to contain three layers or zones and reached a terminal depth of 1.8 meters. Zone
+I (0-50 cmbs) consisted of mottled brownish yellow (10YR6/8), yellowish brown (10YR5/8), and light
+brownish gray (10YR6/2) sandy clay loam with some gravels and a few roots (Figure 11). Zone 1 was
+heavily disturbed most likely as a result of road and bridge construction and from ground stabilizing
+activities. One green glass fragment, a piece of metal wire, and some broken concrete and brick
+fragments were encountered (Figure 12). Zone II (50-55 cmbs) was a distinct layer of asphalt (see Figure
+12), and was most likely the remains of an old road or asphalt truck washout area.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+27
+
+Figure 10. View of the general area surrounding backhoe trenches 1, 2, and 3.
+
+Figure 11. Soil profile of the west wall for BHT1 (left to right: top, middle, bottom), note the distinct asphalt layer.
+
+Below this, Zone III (55-180 cmbs) was very similar to Zone I with soils consisting of mottled brownish
+gray (10YR6/8), yellowish brown (10YR5/8), and light brownish gray (10YR6/2) sandy clay loam and
+sand. Zone III contained a large amount of construction debris including broken concrete, ceramic
+sewer pipe, fragmented brick, and asphalt (see Figure 13). Also encountered at a depth of 140-150
+cmbs were two spiral concrete pillars embedded into the soils and a large concrete slab in the
+southern portion of the trench, at a depth of about 60 cmbs (Figure 13).
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+28
+
+Figure 12. View of construction debris observed in BHT1.
+
+Figure 13. View of concrete slab and pillars in BHT1, facing north.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+29
+
+Running parallel to each other in a northwest to southeast trajectory, these pillars appear to have been
+placed in order to combat erosion and stabilize the banks near the bridge. These concrete pillars
+measured roughly six inches in diameter and were situated between the north of the trench and a
+concrete slab encountered three meters from the southern end of the trench (Figure 14). The slab
+exposed in the trench tilted slightly away from the road and bridge and was mostly likely placed to
+inhibit erosion. The trench was terminated at 1.8 meters due to the level of in place concrete and
+disturbances.
+
+Figure 14. Detail of concrete spiral concrete stabilizing pillar in BHT1.
+
+Backhoe Trench 2 was placed at the southeast intersection of the river and FM 723, within the limited
+ROW available. The terrain very closely matched the area surrounding BHT1: relatively flat with a
+slight slope towards the river bank. The trench was positioned parallel to FM 723, approximately 40-50
+meters from the river. The trench measured 8.8 meters in length and 1.3 meters wide. BHT2 was
+found to contain five distinct zones (Figure 15).
+Zone 1 consisted of disturbed, mottled yellowish brown (10YR5/8) and very pale brown sandy clay from
+0-23 cmbs. Construction debris and stabilizing fill material including broken concrete, brick and metal
+wire was encountered in Zone 1. Zone II (23-60 cmbs) consisted of mottled yellowish brown (10YR5/8),
+very pale brown (10YR7/3), and dark yellowish brown (10YR4/6) sandy clay with a large amount of fill
+material. Construction debris was encountered in this level and included broken concrete, bright red
+floor tile fragments, red ceramic sewer pipe and two pieces of chert likely deposited from road gravel
+or fill. Two wire cut metal nails were found mixed with the construction debris (Figure 16). Below this,
+Zone III (60-130 cmbs) consisted of a very disturbed level of broken concrete and asphalt and
+corresponds to the asphalt lens encountered in BHT1, although more fragmented. Zone IV (130-205
+cmbs) was characterized by a thick, compact layer of yellowish red (5YR5/6) clay devoid of cultural
+material, terminating at Zone V (205-240 cmbs), which consists of a sterile, very thick, highly compact
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+30
+
+layer of gray (5YR6/1) clay. Generally, BHT2, was very similar to BHT1: extremely disturbed down to the
+basal clays.
+
+Figure 15. View of soil profile on the west wall of BHT2.
+
+Figure 16. View of debris encountered in BHT2.
+
+Backhoe Trench 3 was excavated at the northeast intersection of the Brazos River and FM 723, in a flat,
+cleared area about 60 meters north of the river bank (see Figure 9). The entire area appeared to have
+been washed out and evidence of disturbance caused by bridge construction was evident on the surface.
+Despite this disturbance, AmaTerra excavated a trench in order to evaluate deeply buried deposits.
+BHT3 contained only two distinct levels or Zones (Figure 17): Zones I (0-150 cmbs) and II (150-180 cmbs).
+Zone I contained disturbed, mottled brownish yellow (10YR6/8), yellowish brown (10YR5/8), and light
+brownish gray (10YR6/2) sandy clay loam.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+31
+
+Figure 17. Soil profile of the west wall of BHT3.
+
+Modern debris was observed at this level, including a broken railroad tie at 120 cmbs, a metal T-post at
+about one meter in depth, and a silt fence and wire and cloth silt fence section at 120 cmbs (Figure 18).
+Below this, Zone II consisted of reddish brown (5YR5/3) and gray (5YR5/1) thick, compact clay. This zone
+was absent of archeological material and the water table was encountered at 180 cmbs.
+Backhoe Trench 4 was excavated in a cleared area southwest of the intersection of FM 723 and Jones
+Creek. The area was open and flat, and appeared to be the only available space that wasn’t disturbed
+and still within the ROW (Figure 19). AmaTerra did not have access to surrounding parcels. BHT4
+measured six meters in length and 1.3 meters wide. Soils in this area were less disturbed than those
+around the Brazos River, with four distinct levels encountered (Figure 20).
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+32
+
+Figure 18. Fragmented railroad tie and silt fence encountered in BHT3.
+
+Figure 19. General view of the area surrounding BHT4.
+
+Zone I (0-80 cmbs) consisted of dark yellowish brown (7.5YR4/6) clay mixed with strong brown
+(7.5YR4/6) sandy clay. The only cultural material encountered in Zone I was a 60 centimeter milled
+lumber beam or pier extending from the ground surface to about 70 cmbs (Figure 21). This timber may
+be an old bridge pier, although it is equally as likely it represents a piece of debris deposited during a
+flooding episode, as no associated timbers or features were found.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+33
+
+Figure 20. Soil profile of the east wall of BHT4.
+
+Below this, Zone II (80-125 cmbs) consisted of dark gray (10YR4/1) thick, blocky clay. A single
+fragmented mussel shell was encountered at 100 cmbs. Zone III (125-175 cmbs) consisted of a sterile
+layer of mottled sandy clay and clay. The lowest level, Zone IV, was characterized by strong brown
+(7.5YR4/6) clays before encountering the water table at 195 cmbs. No cultural material was encountered
+in Zone IV.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+34
+
+Figure 21. View of broken timber or pier found in BHT4.
+
+Backhoe trenches 5 through 8 were excavated in a proposed detention pond area located in a hay field
+on the east side of FM723, 325 meters north of the Brazos River crossing. Trenches were spaced
+throughout a tall-grass field across relatively level, open terrain. Consistent soils were encountered in
+all four trenches placed within the area (Figure 22). These consisted of three separate layers of soil. The
+top layer Zone I, consisted of dark brown (7.5YR 3/4) clay that ranged from zero to 80 cmbs and zero to
+100 cmbs. Zone II is composed of very dark gray (10YR 3/1) clay with moderate pebbles and small gravel
+inclusions and extends from the bottom of Zone I to depths that range from 180 to 190 cmbs where it
+is underlain by Zone III. Zone III consists of yellowish red (5YR 4/6) silt loam that extends to depths that
+range from 240 to 260 cmbs. No prehistoric or historic cultural materials were observed within trenches
+5 through 8.
+AmaTerra archeologists had limited access to portions of the APE, and the ROW near areas designated
+for trenching along the bank of Brazos was narrow, forcing investigators to trench in what turned out
+to be a heavily modified environment. Deep subsurface testing from backhoe trenching supported
+shovel testing and revealed a generally disturbed ground surface lacking any cultural material. Modern
+construction debris at depths of greater than one meter demonstrate the extent of disturbance in the
+areas trenched for cultural materials. Additionally, trenches excavated in the proposed detention pond
+area (BHT 5 to 8) did not recover any signs of buried cultural material. No sites were recorded as a result
+of backhoe trenching.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+35
+
+Figure 22. View of BHT5 profile.
+
+Newly Recorded Sites
+Two new archeological sites were recorded throughout the course of survey. These include one buried
+prehistoric site, 41FB352, and one surficial historic age artifact scatter named 41FB353. Both of these
+sites contain materials that are limited in diversity and occur in shallow depths. Neither site is
+recommended for NRHP listing.
+41FB352
+41FB352 consists of a buried prehistoric lithic scatter located on a stream terrace that overlooks a small
+unnamed drainage, 600 meters west of Jones Creek, and 5.58 miles north of the Brazos River (Figure
+23). The site is located within the ROW along the west side of FM723 in between Winner Foster Road
+and a private road. The fenced Briscoe Family Cemetery is located approximately 400 feet west of the
+APE and unmarked graves could extend into the APE. The site dimensions are defined by the
+distribution of positive shovel tests and measures 1,005 square feet. The site area occurs within an open
+manicured yard of private property under the shade of mature pine, elm and post oak trees.
+Groundcover consists of a dense patch of St. Augustine grass which limited ground surface visibility to
+between zero and five percent. According to the United States Department of Agriculture, Natural
+Resources Conservation Service (USDA-NRCS 2017), soils present within the site area include Lake
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+36
+
+Charles clay with two to five percent slopes. This series is composed of black (2.5Y 2/1) to very dark gray
+(2.5Y 3/1) clay which extends to depths that are greater than one meter. Shovel tests placed within the
+site encountered grayish brown (10YR 5/2) sandy loam that overlays very dark gray (10YR 3/1) clay loam
+at depths that range from 50 to 60 cmbs.
+41FB352 was discovered during shovel testing along the proposed expansion of the ROW. A total of six
+shovel tests were placed within the site area, three of which led to the recovery of prehistoric artifacts.
+The material observed at this site consists of 17 pieces of lithic debitage recovered from depths that
+range from 10 to 60 cmbs. These include a cortical flake, interior flakes (n=7) and angular debris (n=9).
+The majority of these artifacts (12 of 17), which includes all angular debris and the cortical flake, were
+recovered from between 10 and 60 cmbs in one shovel test (DS-07). The remaining five interior lithic
+flakes were recovered from between 40 and 60 cmbs in two shovel tests, named HB-07 and HB-08. All
+artifacts were composed of light yellowish brown, pink and gray chert, jasper and red fine-grained chert.
+Soils encountered in shovel tests placed within this parcel were intact and only contained prehistoric
+cultural remains.
+The current fenced boundary for the Briscoe Family Cemetery is located about 400 feet west outside of
+the proposed ROW at the 41FB352 location, but the dedicated cemetery parcel extends east all the way
+to the existing roadway. Shovel testing within the proposed ROW did not reveal any evidence that
+would suggest that graves are within the APE. However, according the Mason Briscoe and Dyal
+Schlitzkus, the family believes that unmarked graves of enslaved and freed blacks could be present
+outside the fenced limits of the cemetery and may well extend all the way to FM 723. Although no
+surface or subsurface evidence of graves was noted during the survey, Amaterra recommends that this
+area nevertheless be scraped prior to construction to confirm that unmarked graves are not present
+within the APE. AmaTerra did not have permission to enter the property with a backhoe and therefore
+could not conduct those investigations during this survey.
+To summarize, 41FB352 is a light lithic scatter of an unspecific prehistoric age that is buried between 10
+and 60 cmbs. The site is in close proximity to FM 723 and it is highly likely that this site once extended
+into the existing ROW, and may well extend outside the proposed new ROW to the west. A small
+number (n=17) of artifacts that are mostly limited to lithic debitage of early stages in manufacturing
+were observed at the site, with no features faunal materials, shell or charcoal observed. It is possible
+that there are additional components of the site outside of the ROW. However, within the APE there
+the site contains minimal data potential that would have value for future research. Therefore, we
+recommend that the prehistoric portion of 41FB352 that is located within the APE is not eligible for
+listing on the NRHP. However, backhoe scraping is recommended at this location to ensure that
+unmarked graves associated with the Briscoe Cemetery do not extend into the APE.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+37
+
+Figure 23. Map of site 41FB352.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+38
+
+41FB353
+41FB353 is a light scatter of mid-twentieth century artifacts on the ground surface, within a plowed field
+(see Figure 6) located along the eastern side of FM 723. This site is situated on floodplain about 0.84
+miles north of the Brazos River. According to the United States Department of Agriculture, Natural
+Resources Conservation Service (USDA-NRCS 2017), soils in the site area consist of Brazoria clay with
+zero to one percent slopes. This clay extends to depths greater than one meter. Elevation within the
+site area ranges from 87 to 89 feet above mean sea level (AMSL).
+During investigation, a total of five shovel tests were placed within the site area, none of which tested
+positive for cultural materials. Historic-age artifacts were observed along the surface of the plowed field
+and include red paste brick fragments, orange terracotta ceramic fragments, clear, brown, green, and
+aqua vessel glass fragments, milk glass fragments, undecorated whiteware sherds, white porcelain
+sherds, white ceramic tile fragments, and a pig tooth (Figure 24). None of the artifacts were clearly
+diagnostic, or had production ranges that spanned both the historic and modern periods, and it
+remained unclear if the material was over 50 years of age. The artifacts were observed in a small area
+measuring roughly 15 x 5 m north to south.
+
+Figure 24. Artifacts observed at 41FB353.
+
+Structures are shown adjacent to the location of the 41FB353 on a 1953 aerial (Figure 25), but they are
+not clearly visible on a 1977 aerial photograph (Figure 26). In 1955, the landowners did not use this
+property as their primary residence, though deed research (Table 3) determined that they may have
+leased the property at various times (Ft. Bend County Records). The property was involved in a court
+case between the middle of the 1960s and 1972 regarding the bequeath of the property to the DePelchin
+Faith Home by Emma K. Flanagan (Ft. Bend Co. Records Book 562, Pg. 586), during which the structures
+on the property may have remained unoccupied. The structures were likely occupied into the 1960s, but
+may have been demolished by 1977 after potentially sitting empty for a number of years.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+39
+
+Table 3. Chain of Title for 41FB353
+Owner
+
+Ownership Period
+
+Acquired Via
+
+Acreage
+
+Deed References
+
+Notes
+101.949 ac property
+part of larger
+purchase; William
+
+Laverne C. and Barbara
+May
+
+Andrews Survey,
+June 1982-current
+
+Purchase
+
+130.26
+
+Book 1060, Pg. 267
+
+Tract 2
+
+Book 716, Pg. 457; Book
+UT Board of Regents
+
+March 1977- June 1982
+
+Purchase
+
+130.26
+
+1060, Pg. 267
+Book 650, Pgs. 481-484;
+
+JM West Texas Corp.
+
+June 1975-March 1977
+
+Purchase
+
+130.38
+
+Ronald T. Sherman,
+Trustee
+
+Book 716, Pg. 457
+Book 650, Pgs. 481-484;
+
+Aug. 1973-June 1975
+
+Purchase
+
+130.38
+
+Book 595, Pg. 885
+Book 595, Pg. 885: Book
+
+JM West Texas Corp.
+
+Nov. 1972-Aug. 1973
+
+Purchase
+
+130.38
+
+577, Pg. 606
+E. Flanagan
+bequeathed other
+parcels in addition
+
+Bequeath from
+DePelchin Faith Home
+
+Book 595, Pg.606; Book
+
+to property in
+question
+
+Jan. 1972-Nov. 1972
+
+E. Flanagan
+
+131.9
+
+558, Pg. 888
+
+1964/1965 - Jan. 1972
+
+Temp. Custody?
+
+131.9
+
+Book 558; Pg. 888
+
+Buckner Baptist
+Benevolences
+
+Partitioned from
+RS and Emma K. Flanagan
+
+Feb. 1919-1964/1965
+
+Purchase
+
+110.9
+
+GW and Samantha
+Songer
+
+Book 79, Pg. 328
+
+Songer property
+
+Book 79, Pg. 328; Book
+June 1906-Feb. 1919
+
+Purchase
+
+320
+
+32, Pg. 500
+Land was a partition
+of the Estate of
+James and Susan
+Briscoe. Mary's
+
+JB and Mary (Maudie)
+McCloy
+
+Probable
+Unknown - June 1906
+
+Bequeath
+
+maiden name was
+?
+
+Book 32, Pg. 500
+
+Briscoe
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+40
+
+Figure 25. 41FB353 depicted on a 1953 aerial photograph.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+41
+
+Figure 26. 41FB353 depicted on a 1977 aerial photograph.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+42
+
+The scatter was thin, with an artifact density of about 2-3 artifacts per square meter. Investigators
+expanded the visual inspection outside the APE, but did not encounter any structures or other features
+related to the scatter. The scatter had evidently been re-deposited by plowing activities and shovel
+testing in the area revealed that no artifacts were present subsurface. The artifacts observed on the
+surface were out of context and not associated with any structures or features. Thus, we recommend
+that the scatter is not eligible for listing on the NRHP.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+43
+
+CHAPTER 6. CONCLUSIONS AND RECOMMENDATIONS
+Under TAC Permit No. 7293, AmaTerra archeologists completed an intensive archeological survey of
+proposed improvements totalling 228.19 acres of land (97.9 acres of which are proposed new ROW)
+within the FM 723 road expansion APE. The survey included 199 shovel tests and eight backhoe
+trenches. Shovel testing and backhoe trenching revealed a terrain that was generally disturbed with the
+only archeological material encountered consisting of a prehistoric lithic scatter (41FB352) and a historic
+artifact scatter within a plowed field (41FB353). Site 41FB352 consisted of 17 pieces of lithic debris all
+recovered within shovel tests, and is recommended not eligible for listing due to the small amount of
+debris documented and the lack of diagnostic artifacts. However, this site is located within a parcel
+dedicated as the Briscoe Family Cemetery, the fenced boundaries of which are 400 feet west of the APE.
+The cemetery parcel extends to the existing roadway and it is believed that unmarked graves may be
+located outside the fenced cemetery boundary, and could extend into the current APE. AmaTerra
+recommends that surface scraping be conducted at this location within the proposed ROW in order to
+test for unmarked graves associated within the Briscoe Family Cemetery parcel. The second site,
+41FB353, contained red paste brick fragments, orange terracotta ceramic fragments, clear, brown,
+green, and teal vessel glass shards, milk glass shards, undecorated whiteware sherds, white porcelain
+sherds, white tile fragments, and an animal tooth, spread over an area measuring approximately 15
+meters by 5 meters north to south. No associated structures or features were found in the vicinity and
+it was determined that the lack of diagnostic and subsurface artifacts, and the generally low density of
+material in a disturbed context warranted the scatter does not meet the requirements for National
+Register listing.
+The remaining portions of the APE, including the areas trenched around the Brazos River and Jones
+Creek did not contain any archeological deposits. Shovel testing revealed very dark grayish brown clay
+loam over light yellowish brown silty clay loam in the southern portion of the APE. Heading north, soils
+encountered tended to consist of mottled dark brown clay or clay loam over very dark gray clay, while
+soils in the northern most portion consisted of brown sandy loam over dark brown sandy clay loam.
+These shovel tests were generally located in areas currently, or recently plowed, although some of the
+central portions of the APE were wooded.
+AmaTerra surveyed the APE where access was available and recommends that project can proceed with
+no further archeological investigations in any of those properties except the property owned by Dyal
+Schlitzkus, where the Briscoe Family Cemetery is located. AmaTerra recommends scraping the
+proposed new ROW when access becomes available to determine whether unmarked graves are
+present. Archeologists did not have access to approximately 1.5 miles of the proposed new ROW;
+therefore, we recommend that survey and shovel testing of those properties take place prior to
+construction. The properties recommended for survey prior to construction are depicted on Figure 3
+and listed in Table 4 below.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+44
+
+No artifacts were collected during this survey. All notes and records for this project will be permanently
+curated at the Texas Archeological Research Laboratory to complete the terms of Permit No. 7293.
+Table 4. Properties to Survey Prior to Construction
+Survey
+Parcel
+Recommended
+Landowner
+R30367
+
+Yes
+
+Marcus and Juanita Ortiz
+
+R147572
+
+Yes
+
+Craig Maddox
+
+R157113
+
+Yes
+
+Craig Maddox
+
+R164310
+
+Yes
+
+Craig Maddox
+
+R192211
+
+Yes
+
+Roger and Marjorie Finley
+
+R149468
+
+Yes
+
+MATHEWS CARL JR & DONNA
+
+R30439
+
+Yes
+
+Attaway, Jennie M
+
+R30426
+
+Yes
+
+GILLETTE, ROBERT L
+
+R117907
+
+Yes
+
+Briscoe Alan Lee etal
+
+R285904
+
+Yes
+
+Millennium Alliance Corp
+
+R212383
+
+Yes
+
+Christopher, David
+
+R175502
+
+Yes
+
+R30394
+
+Yes
+
+Wilson Revocable Living Trust
+McMullan Jeffrey S & Joanne C
+Huesko
+
+R211738
+
+Yes
+
+Harris William D & Anita
+
+R145243
+
+Yes
+
+Al-Jazrawi Samir & Kathryn A
+
+R203408
+
+Yes
+
+LYNCH RICHARD H & REBEKAH J
+
+R46518
+
+Yes
+
+Land Tejas FM 1093 & 723 Ltd
+
+R47300
+
+Yes
+
+R30338
+
+Yes
+
+Land Tejas FM 1093 & 723 Ltd
+Dyal Schlitzkus, Trustee for Briscoe
+Family Cemetery Association
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+45
+
+References Cited
+Abbott, J. T.
+2001 Framework for Archeological Investigation, Interpretation, and Cultural Resource Management in
+the Houston Highway District. Archeological Studies Program. Report 27. Texas Department of
+Transportation, Environmental Affairs Division.
+Bureau of Economic Geology
+1992 Geological Atlas of Texas, Houston Sheet. The University of Texas at Austin.
+Griffith, G.E., and J.M. Omernik
+2009 Ecoregions of Texas (EPA) – The Encyclopedia of Earth. Electronic document,
+http://www.eoearth.org/view/article/152207/, accessed on February 2015.
+McMahan, C.A. R.G. Frye and K.L. Brown
+1984 Vegetation Types of Texas; Including Cropland. Texas Parks and Wildlife Department, Austin.
+Myers, Lynda Jill
+2015 “ROSENBERG, TX” Handbook of Texas Online
+(http://tshaonline.org/handbook/online/articles/her02), accessed February 04, 2015. Uploaded on June
+15, 2010. Published by the Texas State Historical Association.
+Perttula, T. K. (Editor)
+2004 The Prehistory of Texas. Texas A&M Press, College Station.
+Ricklis, R. A.
+2004 The Archeology of the Native American Occupation of Southeast Texas. In The Prehistory of
+Texas, edited by T.K. Perttula, pp. 181-202. Texas A & M University Press, College Station.
+Story, D. A., J. A. Guy, B. A. Burnett, M. D. Freeman, J. C. Rose, D. G. Steele, B. W. Olive, and K. J.
+Reinhard
+1990 The Archeology and Bioarcheology of the Gulf Coastal Plain. 2 vols. Research Series No. 38.
+Fayettesville: Arkansas Archeological Survey.
+Turner, S. E., and T. R. Hester
+1999 A Field Guide to Stone Artifacts of Texas (Third Edition). Gulf Publishing Company, Houston.
+Nickels, D. L., D. W. Pease, and C. B. Bousman
+1997 Archaeological Survey of Lackland Air Force Base, Bexar County, Texas. Archaeological Survey
+Report No. 248. Center for Archaeological Research, University of Texas, San Antonio.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+46
+
+Ott, V. L.
+2015 The Handbook of Texas Online, s.v “Fort Bend County.”
+http://www.tshaonline.org/handbook/online/articles/FF/hcf7.html, accessed June 2015.
+Texas Historical Commission
+2015 Texas Archeological Sites Atlas online. Texas Historical Commission. Online at
+http://nueces.thc.state.tx.us/. Accessed June 3, 2015.
+United States Department of Agriculture, Natural Resources Conservation Service (USDA-NRCS)
+2017
+
+Web Soil Survey, Fort Bend County Texas. Electronic document,
+http://websoilsurvey.nrcs.usda.gov/app/WebSoilSurvey.asp, accessed on February 2015.
+
+Archeological Survey of the FM 723 Expansion Project from Avenue D to FM 1093, Fort Bend County, Texas
+
+47
+
+This report was written on behalf of the Texas Department of Transportation by
+
+4009 Banister Lane, Ste. 300
+Austin, TX 78704
+www.amaterra.com
+
+

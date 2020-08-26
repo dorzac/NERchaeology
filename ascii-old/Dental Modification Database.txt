@@ -1,0 +1,112 @@
+Modification Surface
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+occlusal surface
+lingual surface
+buccal/labial surface
+mesial surface
+distal surface
+mesio-lingual surface
+mesio-buccal surface
+disto-lingual surface
+disto-buccal surface
+
+Modification Location
+1 crown
+2 cervical margin
+3 root
+Caries Type
+0
+1
+2
+3
+4
+99
+
+absent
+pit and groove
+interproximal
+root
+gross
+unobservable
+
+Abscess Type
+0 absent
+1 alveolar
+2 apical
+Abscess Size
+1
+2
+3
+99
+
+small (1-3 mm)
+medium (4-5 mm)
+large (>5 mm)
+unobservable
+
+Modification Types
+0
+1
+2
+3
+4
+5
+6
+
+absent
+interproximal grooves
+inlay
+filing
+dental filling
+habitual wear
+other, describe
+
+1
+2
+3
+4
+5
+6
+
+initial cusp formation
+coalescence of cusps
+cusp outline complete
+crown 1/2 complete
+crown 1/4 complete
+crown complete
+
+Formation Stages
+
+7
+8
+9
+10
+11
+12
+13
+14
+
+initial root formation
+initial cleft formation
+root length 1/4
+root length 1/2
+root length 3/4
+root length complete
+apex 1/2 closed
+apex closed
+
+Linear Enamel Hypoplasia
+0 absent
+1 present
+code multiple events by number present
+
+

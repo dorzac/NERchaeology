@@ -1,0 +1,4913 @@
+Intensive Cultural Resources Survey
+of the BPUB Cross Valley
+Pipeline Reroutes Project
+Cameron and Hidalgo Counties, Texas
+Restricted Distribution
+
+Document No. 150039
+Job No. 100033612
+
+INTENSIVE CULTURAL RESOURCES SURVEY
+OF THE BPUB CROSS VALLEY PIPELINE REROUTES PROJECT
+CAMERON AND HIDALGO COUNTIES, TEXAS
+TEXAS ANTIQUITIES PERMIT NO. 7208
+
+Prepared for:
+City of Brownsville Public Utilities Board
+1425 Robinhood Drive
+Brownsville, Texas 78520
+Prepared by:
+Atkins
+6504 Bridge Point Parkway
+Suite 200
+Austin, Texas 78730
+Principal Investigator:
+Mary Jo Galindo
+
+Report Authors:
+Dana Brown, Justin Rains,
+and Mary Jo Galindo
+
+February 2016
+
+Abstract
+Between March 16, and July 19, 2015, Atkins North America, Inc. (Atkins) conducted a Phase I
+cultural resources survey of rerouted sections of the proposed Cross Valley Pipeline Project (Project)
+on behalf of the City of Brownsville Public Utilities Board (BPUB). This investigation provides a basis
+to identify and assess cultural resources that could be impacted by construction of the proposed
+undertaking in accordance with the National Historic Preservation Act and the Antiquities Code of
+Texas.
+
+The overall project consists of 87.71 kilometers (km) (54.5 miles) of new 61-centimeter (cm)
+(24-inch) natural gas pipeline located in Cameron and Hidalgo Counties, Texas. The Area of Potential
+Effects (APE) for the current survey involved rerouted sections totaling 16.19 km (10.06 miles) was
+conducted within a corridor that measured approximately 27.43 meters (m) (90 feet [ft]) wide, and
+included the examination of five separate areas, encompassing approximately 38.23 hectares
+(94.47 acres). The depth of impact is estimated at 2.44 m (8 ft) throughout with deeper impacts of
+up to 6.1 m (20 ft) at boring pits associated with horizontal directional drilling. BPUB is a political
+subdivision of the state, and the utility easement would be publicly owned and/or controlled lands;
+therefore, compliance with the Texas Antiquities Code is required, and work was conducted under
+Antiquities Code Permit No. 7208. A total of 37 person days were associated with the fieldwork.
+
+The background review revealed that the APE has not been previously surveyed, and that no
+previously recorded cultural resources are within a 1-km (0.62-mile) radius of the rerouted sections.
+The survey resulted in one newly recorded site (41CF223) and two isolated finds (IF). Site 41CF223
+is a severely disturbed, prehistoric campsite with scattered burned clay balls mainly on the surface.
+Repeated disturbances caused by long-term agriculture production has impacted the site to a
+considerable degree, and it is unlikely any significant data could be recovered from a subsurface
+context. Consequently, site 41CF223 is not recommended eligible for inclusion to the National
+Register of Historic Places (NRHP) or for designation as a State Antiquities Landmark (SAL), and no
+further work is recommended.
+
+During the field survey, no cultural material besides burned clay balls associated with site 41CF223,
+historic ceramic from IF 1, chipped glass from IF 2, and modern trash were encountered on the
+surface or in 108 shovel tests and 6 backhoe trenches that were excavated within the APE. Of these
+cultural materials, only a representative sample of the burned clay balls and the historic ceramic
+were collected. In accordance with 36 Code of Federal Regulations (CFR) 800.4, Atkins has made a
+reasonable and good faith effort to identify archaeological historic properties within the APE. As no
+properties were identified that meet the criteria for listing in the NRHP according to 36 CFR 60.4 or
+for designation as an SAL according to 13 Texas Administrative Code 26.12, Atkins recommends no
+further work. Finally, nondiagnostic artifacts collected will be discarded pending Texas Historical
+100033612/150039
+
+ii
+
+Abstract
+Commission permission, and all project records will be curated at the Texas Archeological Research
+Laboratory at The University of Texas at Austin.
+
+100033612/150039
+
+iii
+
+Contents
+Page
+Abstract ......................................................................................................................................................... ii
+List of Figures ............................................................................................................................................... vi
+List of Tables ................................................................................................................................................ vi
+Acknowledgments........................................................................................................................................vii
+I. INTRODUCTION...............................................................................................................................1
+II. GENERAL ENVIRONMENT SETTING..................................................................................................4
+NATURAL ENVIRONMENT................................................................................................................... 4
+GEOLOGY ............................................................................................................................................ 4
+SOILS ................................................................................................................................................... 6
+TERRESTRIAL RESOURCES ................................................................................................................... 6
+III. CULTURAL SETTING .......................................................................................................................8
+PREHISTORIC PERIODS........................................................................................................................ 8
+Paleoindian Period (11,500â8000 B.P.) ................................................................................... 8
+Archaic Period (8000â1200 B.P.).............................................................................................. 8
+Early Archaic (6000â2500 B.C.) ...................................................................................... 9
+Middle Archaic (2500â400 B.C.)..................................................................................... 9
+Late Archaic (400 B.C.âA.D. 800).................................................................................. 10
+Late Prehistoric Period (circa A.D. 800â1600) ....................................................................... 10
+Protohistoric Period (circa A.D. 1600â1800) .......................................................................... 12
+HISTORIC PERIOD DEVELOPMENT IN HIDALGO AND CAMERON COUNTIES.................................... 14
+Colonial Contact and Early Settlement Period ....................................................................... 14
+Mexican Sovereignty and the Texas Republic Era.................................................................. 16
+The Mexican War ................................................................................................................... 16
+Nineteenth-Century Ranching and the Transition to Commercial Cultivation ...................... 18
+Railroad Era and Early-Twentieth-Century Development...................................................... 19
+Irrigation and the Creation of the âMagic Valleyâ ................................................................. 20
+Mid- to Late-Twentieth-Century Development ..................................................................... 21
+PREVIOUS ARCHAEOLOGICAL INVESTIGATIONS AND SITES ............................................................. 22
+IV. FIELD METHODS .......................................................................................................................... 25
+SHOVEL TESTING............................................................................................................................... 25
+BACKHOE TRENCHING ...................................................................................................................... 25
+CURATION......................................................................................................................................... 26
+V. RESULTS ...................................................................................................................................... 27
+SURVEY AREA 1 ................................................................................................................................. 29
+SURVEY AREA 2 ................................................................................................................................. 29
+SITE 41CF223 .................................................................................................................................... 30
+SURVEY AREA 3 ................................................................................................................................. 33
+
+100033612/150039
+
+iv
+
+Contents
+SURVEY AREA 4 ................................................................................................................................. 33
+SURVEY AREA 5 ................................................................................................................................. 36
+SURVEY AREA 6 ................................................................................................................................. 38
+VI. CONCLUSIONS AND RECOMMENDATIONS ................................................................................... 39
+VII. REFERENCES CITED ..................................................................................................................... 40
+Appendices:
+A
+Project Results Map (not for public disclosure)
+B
+Site 41CF223 Map (not for public disclosure)
+
+100033612/150039
+
+v
+
+Figures
+Page
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Project Vicinity Map .................................................................................................................. 2
+Historic Irrigation Districts....................................................................................................... 24
+Soil profile of shovel test KA11 at Survey Area 5 .................................................................... 27
+Agricultural fields within the APE at Survey Area 2 ................................................................ 28
+Inundated area within the APE on tract TX-HI-0010 ............................................................... 28
+Other disturbances within the APE ......................................................................................... 29
+A sampling of burned clay balls from site 41CF223 ................................................................ 31
+Lower strata of backhoe trench MS 3 in the northeast wall profile ....................................... 36
+Lower strata of backhoe trench MS 5 in the east-southeast wall profile ............................... 37
+Plan view of backhoe trench MS 6 .......................................................................................... 38
+
+Tables
+Page
+1
+2
+3
+
+Soils Present Within Survey Corridor ........................................................................................ 6
+Site 41CF223 Shovel Test Data ................................................................................................ 31
+Backhoe Trench Data............................................................................................................... 34
+
+100033612/150039
+
+vi
+
+Acknowledgements
+Dr. Mary Jo Galindo served as Principal Investigator for the duration of the project, overseeing overall
+logistics and organization, and managing reporting and agency consultation. Mary Jo Galindo, Dana
+A. Brown, Ruben Castillo, Kristen Atwood, Mike Smith, and Nicole Inskeep conducted the fieldwork
+between March 16â22 and July 16â19, 2015. Justin O. Rains contributed to the report writing, along
+with Virginia Moore and Devon Rains, while Maggie McClain supervised analysis and curation. Myron
+Freidel produced all field and report maps for the project. Chris Vidrick formatted the report, and
+Rebecca Katzke was Project Manager.
+
+100033612/150039
+
+vii
+
+I. INTRODUCTION
+Between March 16 and July 19, 2015, Atkins North America, Inc. (Atkins) conducted an intensive
+cultural resources survey for rerouted sections of the proposed Cross Valley Pipeline Project on
+behalf of the City of Brownsville Public Utilities Board (BPUB). The project involves construction of
+87.71 kilometers (km) (54.5 miles) of new 61-centimeter (cm) (24-inch) natural gas pipeline in
+Cameron and Hidalgo Counties, Texas (Figure 1). The overall project was surveyed by Burden et al.
+(2014a), and begins near Brush Line Road 8 km (5 miles) east of Faysville and continues in an eastsoutheast direction to its termination near the intersection of Farm-to-Market Road (FM) 511 and
+Old Alice Road in Brownsville, Texas. The Area of Potential Effects (APE) for the current survey
+involved rerouted sections totaling 16.19 km (10.06 miles). The survey corridor measured
+approximately 27.43 meters (m) (90 feet [ft]) wide, and included the examination of five separate
+areas, encompassing approximately 38.23 hectares (ha) (94.47 acres). The depth of impact is
+estimated at 2.44 m (8 ft) throughout with deeper impacts of up to 6.1 m (20 ft) at boring pits
+associated with horizontal directional drilling (HDD).
+
+BPUB is a political subdivision of the state, and the utility easement would become publicly owned
+and/or controlled lands; therefore, compliance with the Texas Antiquities Code is required, and work
+was conducted under Antiquities Code Permit No. 7208. This investigation was also performed in
+compliance with the National Historic Preservation Act (NHPA) of 1966 (PL 89-665) and in
+accordance with the Procedures for the Protection of Historic and Cultural Properties (36 Code of
+Federal Regulations (CFR) 800), the Rules of Practice and Procedure (Texas Administrative Code
+[TAC], Title 13, Chapter 26), and guidelines set forth by the Council of Texas Archeologists (CTA) and
+the Register of Professional Archaeologists (RPA).
+
+Three of the rerouted sections will cross irrigation canals. At each crossing, the proposed pipeline
+would be installed by HDD. The proposed project HDD locations on opposing sides of irrigation canals
+were trenched, while shovel testing was conducted throughout the remainder of the APE.
+
+The objectives of the survey were to (1) locate cultural resource sites (both archaeological and
+standing structures), if any, within the survey corridor; (2) delineate the vertical and horizontal
+extent of any identified sites; (3) assess site integrity; and (4) provide a preliminary evaluation of
+each identified siteâs potential eligibility for listing in the National Register of Historic Places (NRHP)
+and/or for designation as a State Antiquities Landmark (SAL).
+
+This report is divided into seven sections and two appendices. Following this introduction, Sections
+II and III discusses the general environmental setting and cultural background information pertinent
+to the project. Section IV is a summary of the purpose of the investigations and the methods used for
+the literature and records review and for conducting the fieldwork. Section V summarizes the results
+of the investigation. Section VI provides conclusions and recommendations. Section VII lists
+100033612/150039
+
+1
+
+Survey Area 1
+(TX-HI-0010 to TX-HI-0011)
+
+Survey Area 2
+(TX-CA-0034 to TX-CA-0040)
+Survey Area 3
+(TX-CA-0055 to TX-CA-0056)
+
+Survey Area 4
+(TX-CA-0093 to TX-CA-0097)
+
+Survey Area 5
+(TX-CA-0136 to TX-CA-0142)
+
+Proposed Pipeline Reroutes
+
+Project Vicinty Map
+Antiquities Permit
+Brownsville Public Utilities Board
+Tenaska to Brownsville Pipeline
+Hidalgo and Cameron Counties, Texas
+
+Datum: NAD 1983
+Projection: UTM
+Zone: 14
+Units: Meter
+
+0
+
+3
+
+6
+Miles
+
+Service Layer Credits: Sources: Esri, HERE, DeLorme, USGS, Intermap,
+increment P Corp., NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri
+(Thailand), TomTom, MapmyIndia, Â© OpenStreetMap contributors, and the
+GIS User Community
+
+I
+
+Prepared By: ATKINS/18827
+Job No.: 100033612
+
+Scale:
+
+1 " = 6 mi
+
+Date: Feb 27, 2015
+
+File: N:\Clients\A_B\Brownsville_PUB\100033612_gasline\geo\A_Antiquities_Permit_Vicinity_20150227.mxd
+
+I. Introduction
+references utilized to compile this report. Appendix A contains results maps of the APE showing the
+areas surveyed and identified isolated finds. Appendix B is the map for newly recorded site 41CF223.
+
+100033612/150039
+
+3
+
+II. GENERAL ENVIRONMENT SETTING
+This section provides an overview of the natural environment surrounding the proposed reroute
+sections of the Cross Valley Pipeline Project. Specific relevant information for such an overview
+consists of the regionâs geology, soils, and terrestrial resources (flora and fauna). Characteristics of
+the natural environment that affect the nature and preservation of cultural resources are also noted.
+
+NATURAL ENVIRONMENT
+
+The project area lies within the Lower Rio Grande Alluvial Floodplain portion of the Western Gulf
+Coastal Plain ecoregion in Hidalgo and Cameron Counties (Griffith et al. 2004). The Western Gulf
+Coast Plain maintains a relatively flat topography with predominantly grassland vegetation adjacent
+to the coast. Moving inland, the regionâs plains are older, more irregular, and have mostly forest or
+savanna-type vegetation. In addition, portions of the project area are located at the southern end of
+the Gulf Prairies and Marshes Vegetative Area of Texas and contains vegetation native to the South
+Texas Plains (Gould 1975).
+
+The Lower Rio Grande Alluvial Floodplain portion of the ecoregion predominantly consists of
+Holocene-aged alluvial sands and clays of the Rio Grande. Historically, the floodplain ridges once had
+abundant palm trees, and early Spanish explorers called the river âRio de las Palmasâ (Griffith et al.
+2004). However, most large palm trees and floodplain forests had been cleared by the early 1900s.
+Currently, the region is dominated by cropland with rice, grain sorghum, cotton, and soybeans as the
+principal crops. In addition, urban and industrial land uses have expanded greatly in recent decades,
+and oil and gas production is common. Channels for irrigation and urban use have mostly diverted
+the waters of the Rio Grande with little or no flow reaching the Gulf of Mexico.
+Elevations throughout the region range from sea level to approximately 30 m (100 ft) above mean
+sea level. Average annual precipitation ranges from 40 to 89 cm (16 to 35 inches), occurring mostly
+in the spring and fall. Summers are often characterized by drought conditions that are frequently of
+sufficient duration to depress crop growth.
+
+GEOLOGY
+
+The current Lower Rio Grande Valley is a mix of riverbank, shore, marsh, and lake settings with the
+amalgamation of silty and sandy flat floodplain giving rise to shifting stream channels. This system
+of altered steam channels results in the resacas and oxbows and meandering scars that are
+found throughout the region. These structures are perpetually affected by wind-borne sediments
+(Butzer 1982).
+
+Since the last glacial maximum (ca. 20,000 B.P.), the river valley has changed dramatically. Ocean
+levels had risen approximately 100 m causing the course of the Rio Grande to shorten with the
+influx of the rising sea water, which caused an increase in valley aggregation (Brown et al. 1980).
+100033612/150039
+
+4
+
+II. General Environment Setting
+After the last glacial maximum by the middle of the Holocene, the Rio Grande was depositing
+alluvial soils and ultimately flooding the valley several times (Boyd et al. 1994). These flooding
+episodes created an estuarine environment (Brown et al. 1980). The filling of the valley ceased
+between 10,000 and 7000 B.P., resulting in additional soil aggregation manifested as prograding
+delta lobes over earlier Holocene deposits. Sea level reached its present level at around 3000 B.P.,
+and due to the rising water, the lobes were reworked, eroded away, and redeposited.
+
+The geology of the Lower Rio Grande Valley consists of Holocene (>10,000 years), Pleistocene
+(10,000â2 million years [my]), and Pliocene (12.5â4.5 my) fluvial and deltaic deposits (Brown et al.
+1980). Multiple high, level Pleistocene terraces border the Holocene floodplain and delta complex.
+These terraces were formed by fluvial-deltaic deposition during maximum sea level periods and
+under glacial minimum conditions during the middle to late Pleistocene (Paine 2000). Overlying the
+terraces are extensive windblown deposits of sand and clay dunes, interspersed with sand sheets
+and localized wind deflation areas. Holocene stabilized sand dunes occur as broad, segmented
+expanses of northwestward-trending eolian deposits (Mallouf et al. 1977:9â10). These deposits
+usually have a height of 1 to 9 m. The surface relief of the stabilized sand dunes is typically undulating
+with occasional eolian depressions of varying size and shape (Mallouf et al. 1977:9â10). Because of
+the active nature of these windblown deposits, archaeological sites may be repeatedly buried and
+eroded. In addition, the depressions that can occur in them possess the capability of retaining
+water for a limited time after rains and, given the importance of water in the arid landscape, would
+have been attractive to prehistoric animals and people.
+
+The oldest bedrock deposit within the project area is the Pliocene epoch Goliad Formation (12.5â
+4.5 my). It is exposed in eastern Hidalgo County and manifested as fluvial deposits composed of clay,
+sand, sandstone, caliche, chert, limestone, and dark siliceous granules and pebbles in a caliche matrix
+(Brown et al. 1980). During the early Pliocene, the depositâs environment was under heavy erosional
+stress in its river valleys causing irregular bedding, and presence of gravel and caliche (Hosman
+1996). This formation is the source of much of the locally obtained raw materials used for prehistoric
+stone tools within the region (Bousman et al. 1990).
+
+The Lissie Formation overlays the eastern edge of the Goliad Formation as an unconformity in
+eastern Hidalgo County. The formation was deposited during the Oligocene into the middle
+Pleistocene and ended at 14,000 B.P. and included at least 14 continental glacial advances
+interspersed by warmer periods (Day et al. 1981). The Lissie Formation consists of gray to brown
+to pale yellow clay, silt, sand, siliceous gravel, and sandy caliche. Pockets of stabilized sand
+dune deposits characterized by dense live oak copses and scrub vegetation occur within the
+formation (Brown et al. 1980).
+Within eastern Hidalgo County and northwestern Cameron County is the Beaumont Formation of
+the Late Pleistocene, which is exposed as matrices of clay, silt, sand, and gravel to a depth to 270 m.
+The sediments composing the Beaumont Formation were primarily deposited by rivers and include
+100033612/150039
+
+5
+
+II. General Environment Setting
+natural levees and deltas that coalesced through shifting of the river mouths as they reached the
+coast. The marine element of the formation is much less pronounced and includes marine and
+lagoonal waters in the embayments between the stream ridges and delta plains (Sellards et al.
+1966). Archaeologically, the age of these deposits precludes the presence of deeply buried sites, but
+may contain megafaunal remains.
+
+SOILS
+
+The soils of eight soil series have been mapped within the survey corridor from the U.S. Department
+of Agriculture (USDA) soil maps of the area (Table 1) (Natural Resources Conservation Service
+[NRCS], USDA 2015). These soils can be grouped into three soil orders: Vertisols, Mollisols, and
+Inceptisols. Soils in the project vicinity date from the Pleistocene, Pliocene, and Holocene; the age of
+the soils roughly correlates with their position relative to the Arroyo Colorado. In general, soils north
+of the Arroyo Colorado are Pliocene and Pleistocene in age, although there are some Holocene-aged
+soils within the floodplain north of the Arroyo Colorado. South of this waterbody, the soils are
+Holocene in age (Bureau of Economic Geology 1976) and could have the potential to harbor
+archaeological deposits.
+Table 1. Soils Present Within Survey Corridor
+
+Soil Series
+
+Texture
+
+Order
+
+Lomalta
+
+Clay
+
+Vertisol
+
+Benito
+
+Clay
+
+Vertisol
+
+Chargo
+
+Silty Clay
+
+Inceptisols
+
+Racombes
+
+Sandy Clay Loam
+
+Mollisol
+
+Raymondville
+
+Clay Loam
+
+Mollisol
+
+Harlingen
+
+Clay
+
+Vertisol
+
+Hidalgo
+
+Sandy Clay Loam
+
+Mollisol
+
+Willacy
+
+Fine Sandy Loam
+
+Mollisol
+
+TERRESTRIAL RESOURCES
+The native flora of the Lower Rio Grande Valley is a mixture of elements from diverse geographic
+origins (Correll and Johnston 1970; Gould 1975). Blair (1950) includes south Texas and adjacent
+northern Tamaulipas in the Tamaulipan Biotic Province. Thorny brush is the dominant vegetation in
+this province. Because of more luxuriant growth in Cameron, Starr, Willacy, and Hidalgo Counties,
+Blair (1950) separates this area from the rest of the Tamaulipan Biotic Province by calling it the
+Matamoran District. The immediate project area is principally a mixture of coastal prairie grasslands,
+thorn-scrub and cultivated fields. Plant species that occur in the area include black mangrove
+(Avicennia germinans), buffalograss (Bouteloua dactyloides), curly mesquite (Hilaria belangeri),
+100033612/150039
+
+6
+
+II. General Environment Setting
+saltcedar (Tamarix ramosissima), sumpweed (Iva annua), mesquite, yucca, and prickly pear cactus
+(Hatch et al. 1990).
+
+Extreme southern Texas has a very diverse faunal assemblage. Wildlife typical of the Tamaulipan
+Biotic Province includes many species of the Neotropical, Texan, and Kansan Biotic provinces and a
+few species common to the Austroriparian and Chihuahuan provinces (Blair 1950). Animals common
+in the region are Virginia opossum (Didelphis virginiana), nine-banded armadillo (Dasypus
+novemcinctus), longtailed weasel (Mustela frenata), striped skunk (Mephitis mephitis), hog-nosed
+skunk (Conepatus chinga), coyote (Canis latrans), bobcat (Lynx rufus), black-tailed jack rabbit (Lepus
+californicus), cottontail, javelina, and white-tailed deer (Odocoileus virginianus) (Davis and Schmidly
+1994). Thirty-six species of snakes and numerous species of rodents also live in the area (Blair 1950).
+
+100033612/150039
+
+7
+
+III. CULTURAL SETTING
+This section presents information concerning the cultural setting of the proposed project area by
+providing a chronological summary of human occupation in the region. The chapter summarizes the
+prehistoric setting and different prehistoric and historic time periods followed by a brief description
+of the results of the review of previous archaeological investigations and recorded sites within
+0.5 mile (0.8 km) of the project location.
+
+PREHISTORIC PERIODS
+
+Paleoindian Period (11,500â8000 B.P.)
+The Paleoindian period in South Texas is recognized by the presence of projectile points such as
+Clovis, Folsom, Plainview, Golondrina, Scottsbluff, and Angostura. These points coupled with spears
+aided in the pursuit of large game animals. Although intact deposits containing evidence of
+Paleoindian occupations are unknown in South Texas, evidence from sites in adjacent regions
+suggests the period was characterized by low population density, small bands, and large territorial
+ranges of nomadic groups that subsisted by hunting Late Pleistocene megafauna. During this period,
+great expanses of land were inundated by the rising sea levels. Temperatures may have been
+10â15.4 degrees Fahrenheit cooler than today (Bousman et al. 1990:94).
+
+The scant evidence of Paleoindian occupations in the South Texas region includes Clovis points found
+at archaeological sites in Wilson, Dimmit, and Atascosa Counties as well as at the Southern Island site
+on the Mexican side of the Rio Grande at Falcon Reservoir (Hester 2004). Folsom artifacts have been
+found on the Rio Grande Plain, such as preforms and failures in Webb County and near Falcon
+reservoir, and isolated finds such as a Folsom projectile point base recovered from 41CF54 near
+Laguna Atascosa in Cameron County (Terneny 2005). However, no Folsom camp or kill sites have
+been found in the region (Hester 2004). Later Paleoindian projectile points have been recovered
+mostly from the northern extent of the region, such as Golondrina, Plainview, Angostura, and
+Scottsbluff types from Uvalde, Bexar, Victoria, and Williamson Counties (Terneny 2005). Noted
+Paleoindian sites in the South Texas Archeological Region include Berger Bluff (41GD30) in Goliad
+County, 41WY140 in Willacy County, and the Johnston-Heller (41VT15), J2 Ranch (41VT6), and
+Willeke (41VT16) sites in Victoria County.
+
+Archaic Period (8000â1200 B.P.)
+
+The Archaic period witnessed a shift to an exploitation of a wider range of plant and animal species,
+coupled with a decrease in mobility that was probably associated with climate change. Perennial
+steams existed in some areas of the local draws, but extensive freshwater ponds producing
+diatomaceous muds also began to appear where discharge declined. Water in the lakes and ponds
+fluctuated, sometimes completely drying up. By the end of the period, many of the streams ceased
+100033612/150039
+
+8
+
+III. Cultural Setting
+to flow and the diatomite lakes evolved into muddy marshes. The transition from flowing water to
+standing water represents a dramatic hydrologic change in the area. The widespread decrease in
+water was the result of decrease in regional effective precipitation from the late Pleistocene to the
+early Holocene. This decrease affected both runoff and spring discharge. Paleontological data
+(Graham 1987; Johnson 1986) document this environmental change as well as sedimentologic and
+stratigraphic information (Holliday 1995), which caused streams that formerly flowed year-round
+to dry up.
+
+Such a drastic, though perhaps gradual, loss of primary food sources exploited in the Paleoindian
+period would have caused considerable cultural stress. It was probably this stress that caused a
+shift of attention to previously unexploited plants and animals. Throughout the Americas, the
+Archaic was a time of increasing technological (and probably social) complexity. Toolkits become
+larger, and through time the many regional differences slowly coalesced into more-homogenous
+forms. This includes an emphasis on the exploitation of marine resources in coastal zones (Terneny
+2005). The Archaic period is often divided into the Early, Middle, and Late periods with additional
+divisions such as complexes and horizons attributed to the Archaic throughout the region. These
+include the Repelo (4000â2000 B.P.) and Abasolo (4000â2000 B.P.) complexes identified by
+MacNeish (1947) and the early corner-notched horizon (circa 8000â5500 B.P.) and the early basalnotched horizon (circa 5600â4500 B.P.) outlined by Hester (2004a). However, overall the period
+is also poorly understood in the Lower Rio Grande Valley, and sites dating to this time, especially
+Early and Middle Archaic sites, are rarely encountered and are limited to surface finds. Late Archaic
+sites are more common, but are often mixed with Late Prehistoric-aged deposits (Kibler and
+Freeman 1993).
+
+Early Archaic (6000â2500 B.C.)
+
+Like the Paleoindian period, sites associated with the Early Archaic are rare in South Texas, and areas
+such as the Rio Grande Delta and Sand Sheet have no representative sites for this time (Terneny
+2005). Hesterâs distinction between the early corner-notched and the early basal-notched horizons
+is primarily derived from data generated from Central Texas and the Lower Pecos areas with stronger
+cultural chronologies (Hester 2004). Representative artifacts associated with the early cornernotched horizon include early expanding-stem (Bandy, Martindale, and Uvalde) dart points and the
+Guadalupe distally beveled tool (Terneny 2005). The subsequent early basal- notched horizon
+includes Bell and Andice points, early triangular bifaces, and Clear Fork tools (Hester 2004; Terneny
+2005). The Mackenzie site (41VT17) in Victoria County produced Bell points and radiocarbon assays
+indicating an Early Archaic occupation and thus became the oldest shell midden in South Texas
+(Ricklis 1986).
+
+Middle Archaic (2500â400 B.C.)
+
+The Middle Archaic is identified by an easily recognized change in material culture patterns. This
+includes assemblages in South Texas consisting of triangular dart point forms, known as Tortugas,
+100033612/150039
+
+9
+
+III. Cultural Setting
+Abasolo, and Carrizo. In addition, smaller unifacially distally beveled tools and stemmed projectile
+points have been recovered in the northern part of South Texas. These points include Pedernales,
+Lange, Langtry, and Morhiss (Hester 2004). Information on settlement patterns during this period is
+sparse. However, substantial data from Choke Canyon and Chaparrosa indicate that open campsites
+were located along former stream channels early in the period before relocating to floodplains, low
+terraces, and natural levees later in the period (Hester 2004). Survey work in Willacy and Hidalgo
+Counties has yielded dart points that may be Archaic (Mallouf et al. 1977). However, work at Falcon
+Reservoir showed that some of these types continue into the Late Prehistoric period (Suhm and Jelks
+1962). Investigations at the cemetery site Loma Sandia (41LK28) in Live Oak County yielded detailed
+information on Middle Archaic burial practices derived from 205 burials, which included interments
+with dart points, stone pipes, shell ornaments, and deer antlers (Taylor and Highley 1995).
+
+Late Archaic (400 B.C.âA.D. 800)
+
+Dart points associated with the Late Archaic are small, with corner or side notches. Examples
+include Shumla, Ensor, Frio, Marcos, Montell, Fairland, and Ellis. Tools diagnostic of this period in
+South Texas include Olmos bifaces, Nueces scrapers, and corner tang bifaces (Black 1989:51).
+Examples of Late Archaic sites include Choke Canyon (41LK201), the Johnson site, the Kent-Crane
+site (41AS3), and a site at Ingleside Cove. At Choke Canyon, hearths, earth ovens, and manos and
+metates have been found, which illustrate exploitation of plant resources. Also recorded at the site
+were faunal remains of deer, rabbit, turtles, fish, and other species, as well as evidence that peoples
+were exploiting Rabdotus snails and mussel species (Hall et al. 1987). Additional data from Choke
+Canyon illustrate that favored locales for open campsites are on stream channels and their adjacent
+sloughs.
+
+Late Prehistoric Period (circa A.D. 800â1600)
+
+The Late Prehistoric occupation of the area by hunter-gatherer inhabitants has been often referred
+to as the âBrownsville Complex.â This complex has been defined on basic analysis and characteristics
+observed from small surface collections, salvage excavations, and a small number of cultural resource
+surveys. However, Terneny (2005:225) argues that the â. . . [Brownsville Complex] artifact sets
+thought to be present only in the Late Prehistoric burial situations were present in the Archaic as
+well.â She goes on to say: âAs such, the âBrownsville Complexâ must be redefined in terms of its
+presence in the Archaic and Late Prehistoric; cemeteries and burials that contain âBrownsville
+Complexâ artifacts cannot automatically be assumed to belong to the Late Prehistoricâ (Terneny
+2005:225).
+Therefore, this Late Prehistoric section provides a summary of the Late Prehistoric period of South
+Texas by Hester (2004) and a summary of the Brownsville Complex. However, the Brownsville
+Complex summary should be understood as needing further research to determine a more precise
+temporal affiliation (see Terneny 2005 for a more-in-depth discussion). Although a hunting and
+
+100033612/150039
+
+10
+
+III. Cultural Setting
+gathering lifeway continues in the Late Prehistoric as in the Archaic, the material culture, hunting
+patterns, settlement types, and other facets of the era mark a fairly distinctive break with the past
+(Hester and Turner 2015). In this time period, the bow and arrow and pottery are introduced, along
+with other distinctive types of stone tools (Hester and Turner 2015). As with any time period
+distinction, there is limited evidence to suggest that a new phase of cultural history was launched by
+the immigration of new peoples into the region as opposed to cultural diffusion or by the coming of
+a radically new mode of subsistence such as agriculture. The mode of organization of the Late
+Prehistoric people appears to mirror the full expression of traits already in existence. Therefore, it
+appears the Late Prehistoric societies took certain practices begun in the Archaic period and refined
+them to various degrees, which ultimately transformed the whole way of life.
+
+The Late Prehistoric in southern Texas shares cultural patterns with Central Texas (Hester 2004).
+This includes transitional Archaic âdart pointsâ such as Ensor and Matamoros, and Late Prehistoric
+Scallorn arrow points found at Blue Bayou (41VT94) in Victoria County and a burial site in Frio
+County. The main marker for the Late Prehistoric in the region is the occurrence of the Toyah horizon.
+Artifacts associated with the Toyah horizon include the Perdiz arrow point, small end scrapers, flake
+knives, beveled knives, bone-tempered pottery, perforators, shell ornaments, and assorted
+ornamental beads and objects (Hester 2004). These have been found at sites in Jim Wells County
+(41JW8) and Live Oak County (41LK201) and at other sites closer to central Texas. Although sites
+closer to the project areas in Zapata and Webb Counties often yield Perdiz points and some
+combination of Toyah-trait artifacts, the whole assemblage is not present, with bison often absent
+(Hester 2004).
+The bulk of our knowledge of the archaeology of the Late Prehistoric in South Texas is from
+MacNeishâs (1958) definition of two closely related complexes, the Brownsville and Barril, for the
+Lower Rio Grande area. This cultural complex has been defined on basic analysis and characteristics
+observed from small surface collections, salvage excavations, and a small number of cultural resource
+surveys. Common to both complexes are shell disks, pierced shell disk beads, plugs made from a
+columella that are round in cross section, rectangular conch shell pendants, mollusc shell scrapers,
+and Starr, Fresno, and Matamoros projectile points. Intrusive artifacts include pottery of Huastec
+origin from southern Tamaulipas, which appears in occupation sites and in burials (Anderson 1932;
+MacNeish 1947; Mason 1935), as well as obsidian and jadeite used in pendants. Burials of individuals
+are tightly flexed and located away from living areas.
+
+The largest known Brownsville/Barril site near the proposed project area is located approximately
+19 miles (30 km) southwest of the western end of the survey corridor and is known as the Ayala site
+(41HG1); the site is located on a bluff of a resaca and consisted of at least 45 flexed burials with
+associated burial materials. The site has been heavily looted, but it has also been subjected to an
+archaeological excavation (Campbell and Frizzell 1949; Hester and Ruecking 1969).
+
+100033612/150039
+
+11
+
+III. Cultural Setting
+
+Protohistoric Period (circa A.D. 1600â1800)
+The Protohistoric period is described as the transition period between the prehistoric and historic
+periods. The beginning of the period is attributed to the arrival in the early 1600s of Europeans
+(Spanish) to South Texas (Hester 2004). Native American sites from the final period are distinguished
+by the presence of European and nonaboriginal American trade goods that date from the sixteenth
+through mid-eighteenth centuries. Debris on Protohistoric sites indicates a continuation of the
+nomadic hunting and gathering existence that was begun during the Archaic period. The best account
+of the native peoples of Texas comes from the chronicle of Ãlvar NÃºÃ±ez Cabeza de Vaca, a survivor of
+a Spanish shipwreck in 1528 (Covey 1972). These first Spaniards encountered as many as 50
+different groups living in the immediate area. Many of these indigenous people were identified as
+speaking the Coahuiltecan language of southern Texas and northeastern Mexico (Salinas 1990).
+
+The natural resources of the RÃ­o Grande provided sustenance for hunting and gathering groups for
+millennia. The mid-eighteenth century colonists of Nuevo Santander encountered indigenous groups
+and others that had been displaced from Nuevo Leon and elsewhere (Galindo 2003). It is difficult to
+identify with certainty the groups that occupied eastern Nuevo LeÃ³n because the Spanish used
+descriptive names and not their native ones (Salinas 1990:17). Group names were often duplicated
+across vast geographical regions among unrelated peoples (Campbell and Campbell 1981; 1985:9â
+10). These practices make it impossible in most cases to determine the continuity between groups
+that may have migrated from Nuevo LeÃ³n to the RÃ­o Grande. MartÃ­n Salinas (1990), who built upon a
+foundation of ethnographic work laid by Thomas N. Campbell (1958, 1979, 1983, 1984), examined
+the primary documents created by the Spanish and extracted the scattered bits of information about
+indigenous groups on both banks of the lower RÃ­o Grande.
+When Jose de EscandÃ³n explored the region that became Nuevo Santander, he recorded at least 31
+separately named Indian groups (Salinas 1990:19). For his 1747 report, EscandÃ³n apparently relied
+on CapitÃ¡n Santiago, a leader of the Comecrudo group he encountered near his base camp, which was
+near the modern city of Matamoros (Salinas 1990:29). He reported that about 2,500 families lived
+south of the RÃ­o Grande, with the largest group being the Comecrudos. EscandÃ³n described Indians
+that fished and hunted deer and birds with bows and arrows. He noted that the men wore no clothing,
+while the women wore skirts made of animal skins or grass. CapitÃ¡n Santiago used smoke signals to
+communicate with surrounding groups to announce a meeting with EscandÃ³n (Salinas 1990:29).
+Comecrudo, Spanish for âthose who eat raw food,â is a name that was applied to at least three other
+unrelated groups (Salinas 1990:35). Although he does not quantify, EscandÃ³n reported in 1755 that
+there are many peaceful Indians who resided and worked with the colonists (Guerra 1989:18).
+Agustin LÃ³pez de la CÃ¡mara Alta inspected Nuevo Santander in 1757 and recorded 14 Indian groups
+for the RÃ­o Grande area (Salinas 1990:30). He wrote observations about eight of these that he
+grouped together as having similar cultural traits. For example, he noted that all of them were
+tattooed, although he could discern no correlation between the tattoo patterns and their ethnic
+
+100033612/150039
+
+12
+
+III. Cultural Setting
+affiliation (Salinas 1990:31). The men of these groups sported tattoos only on their faces, while
+women adorned both their faces and bodies. LÃ³pez de la CÃ¡mara Alta alluded that these eight groups
+spoke dialects of the same language, which may have been Comecrudo (Salinas 1990:31).
+
+The Indian groups identified in colonial documents along the lower Rio Grande before 1790 include
+the Comecrudos, Garzas, Malagueros (aka Malaguitas or Malahuecos), Narices, Nazas, Pintos,
+Tejones, Zacatiles, and Zalayas (Galindo 2003; Salinas 1990). Between 1790 and 1818, other area
+Indian groups are mentioned in missionary reports, including Aguichacas, Anda el Camino, Casas
+Chiquitas, Chinitos, Como se Llaman, Cotonames, Cueros Quemados, Guajolotes (or Cacalotes),
+Mayapemes, Pelones, Pajaritos, Saulapaguemes, Tampacuas, and Western and Eastern Carrizos
+(Salinas 1990:153-158).
+
+The Spanish encountered indigenous people speaking the Coahuiltecan language in southern Texas
+and northeastern Mexico (Salinas 1990). The Coahuiltecan language is similar to the Karankawan,
+which was spoken by coastal peoples north of Corpus Christi up to the west side of Galveston Bay
+(Swanton 1940). From Corpus Christi, the Coahuiltecan area extended northwestward to San
+Antonio, westward to just below the confluence of the Pecos River and Rio Grande, and southward
+into Nuevo Leon, northeastern Coahuila, northern San Luis Potosi, northeastern Zacatecas, and
+northern Tamaulipas. Coahuiltecan peoples were originally considered to be linguistically related to
+the Hokan groups of languages in California (Ruecking 1955; Sapir 1920; Swanton 1940). The theory
+of linking the prehistoric languages of Texas and California was known as the âHokan Hypothesesâ
+(Lyle 1997). Current studies suggest that Coahuiltecan was an isolated language (Lyle 1997).
+
+Research has indicated that the Coahuiltecans never existed as a single tribe. Rather, groups
+with similar language were identified by the Spanish as Coahuilteco, presumably because the
+native homeland of many groups was Coahuila, Mexico. By the 1850s, a combination of Europeanintroduced diseases and tribal wars stimulated by Europeans had decimated the Indians of South
+Texas (Campbell 1958). There is no extant Coahuiltecan tribe today; however, there is a group
+based in the San Antonio area that calls itself the Tap Pilamâthe Coahuiltecan Nation. They are
+not a federally recognized tribe at this time, but the tribe has filed a petition for recognition by the
+Secretary of the Interior that the group exists as an Indian tribe (Federal Register 1998).
+There are no indigenous tribes extant in the area. Modern tribes that in the past have been active in
+this part of Texas include the Comanche, Kiowa, and Lipan Apache. The Comanche and Kiowa, who
+both were mobile Southern Plains tribes, came into South Texas following herds of wild mustangs
+and bison as well as to raid Mexican towns near the present-day international border. The
+traditional homeland of the Lipan Apache included the area between the Texas Panhandle and the
+Hill Country of Central Texas; however, there were incursions by the Lipan Apache into southern
+Texas.
+
+100033612/150039
+
+13
+
+III. Cultural Setting
+
+HISTORIC PERIOD DEVELOPMENT IN HIDALGO AND CAMERON COUNTIES
+The Lower Rio Grande Valley, with its rich and diverse history, has long played a pivotal role in the
+history of the vast territories that extend on either side of the river. Because of its strategic location
+upstream from the mouth of one of the great waterways of North America, the region has been an
+important center of activity since the sixteenth century.
+
+Colonial Contact and Early Settlement Period
+
+Spain was the first European nation to lay claim to the region including present-day Hidalgo and
+Cameron Counties and to make contact with the Native American groups living in the region. Spanish
+exploration in the Rio Grande Valley may have occurred as early as 1528 when Ãlvar NÃºÃ±ez Cabeza
+de Vaca reportedly traveled through the area following his shipwreck in the Gulf of Mexico; however,
+this theory remains unsubstantiated. After a series of attempts to settle other areas in the Lower Rio
+Grande Valley by Gonzalo de Ocampo (1523), Sancho de Canielo (1528), and Pedro de Alvarado
+(1535) proved unsuccessful, Spanish activity in the area centered on maintaining their sovereignty
+over the region rather than on encouraging colonization. As a result, subsequent exploration of what
+became Hidalgo and Cameron Counties was only initiated in response to feared encroachment by
+other European nations (Dixon et al. 2003).
+
+For example, in 1638, Jacinto GarcÃ­a de Sepulveda crossed the Rio Grande from Mexico (then Spanish
+territory) in search of Dutch sailors reported to be in the current Hidalgo County area. The expedition
+âmarched down the north bank of the river as far as the site of present Brownsvilleâ (Garza and Long
+2015a). Other excursions into modern Hidalgo and Cameron Counties were made by Alonzo de LeÃ³n
+in 1687 in search of a French fort on the Texas coast and in 1747 by Miguel de la Garza FalcÃ³n, who
+traveled north of the Rio Grande in search of an area in which to establish a settlement. FalcÃ³n was
+unimpressed and characterized the land north of the river as unfit for settlement or for stock raising
+(Garza 2015a).
+
+Despite FalcÃ³nâs opinion, the Spanish crown was determined to settle the region and tasked JosÃ© de
+EscandÏn with colonizing the area along the Rio Grande. In 1746, he was appointed âconquistador
+and governor of Nuevo Santander,â the larger region containing the Lower Rio Grande Valley, and
+began the process of settling the area that continued throughout his 23-year-long career. Between
+1748 and 1755, the civilian colonists of Nuevo Santander established 23 communities, including 6
+along the banks of the RÃ­o Grande. These settlers received porciones, or land grants, in 1767 on which
+to establish livestock ranches. The porciones were on both banks of the RÃ­o Grande, because Nuevo
+Santanderâs northern boundary was the Nueces River. The pobladores, or colonists, and their
+descendants literally lived con un pie en cada lado, with a foot on each side of river (Galindo 2003).
+Ethnohistoric information documents the early settler practice of living and growing crops on the
+south bank, while conducting ranching activities on the north bank of the RÃ­o Grande (CasteÃ±eda
+1976). Thus, these ranches were among the first of their kind in present-day Texas, representing a
+100033612/150039
+
+14
+
+III. Cultural Setting
+unique form of civilian colonization based on the relocation of entire families, and without major
+emphasis on missions or presidios (Galindo 2003).
+
+Riverfront acreage was most valuable, as river access gave settlers the ability to irrigate their land
+and provided a shipping channel. Thus, surveyors laid out riverfront porciones in long, narrow strips
+extending several miles to the north. Larger grants were made north of the riverfront porciones and
+were usually composed of significantly more acreage. These grants were typically intended for
+livestock grazing, and many were granted to influential citizens of EscandÏnâs original settlements
+(Lang and Long 2015).
+
+Early landowners found the land conducive to livestock ranching, and several large-scale ranches
+formed in the Lower Rio Grande area. Small communities of ranch workers and their families soon
+developed in association with these ranches. The community of Hidalgo near the current project area
+was created from one of these early settlements. In 1749, a member of EscandÏnâs colony settled near
+the location of present-day Hidalgo. The settlement âwas known variously as La HabitaciÏn, Rancho
+San Luis, and San Luisitoâ (Garza 2008b). Early settlers here spread out to found their own large
+ranches in what became Hidalgo County (Garza 2008a).
+Ranching continued to characterize the regionâs economy through the remainder of the eighteenth
+century and into the period of Mexican rule. As original grantees died and passed their lands to their
+heirs, the large ranches began to be subdivided. Through these subdivisions, new communities
+developed, including La HabitaciÏn, Relampago, and PeÃ±itas (Garza 2008a).
+
+Early settlement in present day Cameron County during the Spanish Colonial period was initiated
+with the establishment of the community of San Juan de los Esteros (or present-day Matamoros)
+along the southern banks of the Rio Grande. Ranchers there often used the lands along the northern
+bank of the river as pasture for their livestock. In 1781, the Spanish government âgranted fifty-nine
+leagues of land . . . on the north bank of the river (including all of the site of Brownsville) to JosÃ©
+Salvador de la Garza.â He established a ranch in the area, and though several other grants were issued
+in present day Cameron County during the Spanish and Mexican periods, it was still sparsely settled
+at the advent of the Texas Revolution (Garza and Long 2015a).
+
+Early landowners found the land conducive to livestock ranching, and several large-scale ranches
+formed in the Lower Rio Grande area. Small communities of ranch workers and their families soon
+developed in association with these ranches. Ranching continued to characterize the regionâs
+economy through the remainder of the eighteenth century and into the period of Mexican
+sovereignty. As original grantees died and passed their lands to their heirs, the large ranches began
+to be subdivided. Through these subdivisions, new communities developed, and settlement
+expanded to more remote parts of the region.
+
+100033612/150039
+
+15
+
+III. Cultural Setting
+
+Mexican Sovereignty and the Texas Republic Era
+Mexico received its independence from Spain in 1821, and the new government continued the
+practice of encouraging settlement in the lower Rio Grande Valley, âespecially along the navigable
+stretch of the river between the Gulf and Roma in Starr Countyâ (Dixon et al. 2003). During this
+period, scattered ranching enterprises continued to characterize the local landscape. The key shift in
+local development that occurred during the brief period of Mexican ascendency involved the
+increasing importance of trade to the regional economy, which was a result of and in turn prompted
+an influx of American and European entrepreneurs and settlers âseeking economic opportunitiesâ
+(Dixon et al. 2003).
+
+It was also during this period that steamship service was inaugurated along the Rio Grande. Henry
+Austin, a cousin of Stephen F. Austin, arrived with his steamer Ariel from New York on June 29, 1829.
+Despite Austin's grand intentions, the operation of the steamboat was not profitable. The difficulty
+of navigation on the river and the lack of cooperation and participation among Mexican merchants
+were prime factors for its abandonment in September 1830. Austin then took the vessel to the Brazos
+River (Graf 1942). Although its impact on commercial trade was hardly noticeable, the arrival of
+Austin's steamboat ushered in an era that gained considerable significance in subsequent decades.
+
+Texas' struggle for independence, for the most part, bypassed the Lower Rio Grande Valley, as most
+military and political events took place farther north. Following the war's conclusion, 4,000 soldiers
+of Santa Anna's defeated army converged on Matamoros and depleted much of the available food
+supplies. Commerce and trade in the town and nearby areas diminished with this sudden influx, but
+its effects were only temporary. Soon, the economy rebounded and residents went on about their
+business (Thompson 1965).
+
+After the Republic of Texas was officially formed and was truly independent of Mexico, territory
+between the Rio Grande and Nueces River was claimed by both countries. The inability of each
+government to effectively control or exert much influence in this area left many residents vulnerable
+to attack by Indians and roaming bands of "soldiers" of both countries. Another event that increased
+tensions occurred in 1839 when Francisco Viadaurri and others declared that a new nation, the
+Republic of the Rio Grande, was being formed from the Mexican states of Nuevo Leon, Chihuahua,
+Coahuila and Tamaulipas, including the Lower Rio Grande. Laredo, a settlement established in 1755
+by Jose de Escandon was selected as the capital of the newly-formed republic. Unlike the Texas war
+for independence, this rebellion was successfully quelled by Mexican forces (Webb 1952).
+
+The Mexican War
+
+Disputes between Mexico and the United States erupted into full-scale warfare over the location of
+the boundary between the two countries. The United States recognized the Rio Grande as the sole
+boundary, while Mexico recognized the Rio Grande only to the headwaters of the Nueces River and
+from that point following the Nueces to its mouth near Corpus Christi. Present day Hidalgo and
+100033612/150039
+
+16
+
+III. Cultural Setting
+Cameron Counties were part of the disputed territory during the Mexican War. The dispute reached
+an impasse and President James Polk, in an effort to reinforce the American position, ordered General
+Zachary Taylorâs army to the disputed areas. Taylorâs infantry, artillery, and support units arrived in
+Corpus Christi via steamer from New Orleans, while his dragoons traveled overland from San
+Antonio. Personnel from his army surveyed the area across for Matamoros, selecting a site for the
+armyâs encampment.
+
+Taylorâs army arrived at the Rio Grande following a brief skirmish with Mexican irregulars at Arroyo
+Colorado. Taylor immediately began receiving dispatches from the Mexican commander General
+Mejia ordering the Americans to withdraw from the Rio Grande. When Taylor refused, the Mexican
+army placed artillery along the riverbank south of the fort. Taylor responded by placing his own
+heavy artillery in position to fire on Matamoros and ordered his chief engineer, Captain Joseph K.F.
+Mansfield to construct defensive works. Mansfield constructed a six-sided earthen bastion, 800 yards
+in circumference, with walls 8.5 to 9 ft in height and surrounded by a ditch 20 ft wide and 9 to 10 ft
+deep. The fortâs earthen ramparts were topped by wood and mud parapets and the bastions were
+protected by sandbag merlons between gun embrasures (Mahr-Yanez and Perttula 1995). Before the
+fort could be completed, Taylor was informed by Captain Walker of the Texas Rangers that Mexican
+General Arista, now commanding the Mexican forces, had crossed the Rio Grande downstream from
+the American army and was marching towards the American base at Port Isabel. Taylor, in a night
+march, beat the Mexican army to Port Isabel and secured his supply line. In his absence, he left Major
+Jacob Brown in command of the newly constructed fort, along with the 7th U.S. Infantry.
+
+On May 3, the Mexican artillery opened fire on the fort. Major Brown responded with his artillery,
+destroying one Mexican gun and forcing the Mexicans to reposition the others. The Mexican infantry
+next attacked, but were repulsed. In an artillery bombardment on May 6, Major Brown received a
+mortal would, dying on the afternoon of May 9.
+After securing his supply base at Port Isabel, General Taylor returned to relieve the fortâs defenders.
+On the return march, his forces encountered those of General Arista at Palo Alto and Resaca de la
+Palma and inflicted severe casualties, forcing the Mexican army to retreat. Upon learning of Major
+Brownâs death, Taylor ordered the fort named after him and pursued the Mexican army into
+Matamoros.
+
+All subsequent fighting took place within Mexico, thus, the battles at Palo Alto and Resaca de la Palma
+were the only ones north of the Rio Grande. Hostilities ceased with the signing of the Treaty of
+Hidalgo on July 4, 1848. Provisions of this agreement established the Rio Grande as the boundary
+between the two countries, but also recognized land titles issued by the Spanish and Mexican
+governments. All public lands, however, were granted to the State of Texas (Thompson 1965).
+
+At the conclusion of the war with Mexico, counties were formed throughout southern Texas. Cameron
+County was created by the Texas legislature and originally included 3,308 square miles âincluding
+100033612/150039
+
+17
+
+III. Cultural Setting
+parts of Hidalgo, Willacy, Kenedy, and Brooks Countiesâ (Garza and Long 2015a). Hidalgo County was
+formed in 1850 and named for Miguel Hidalgo y Costilla, a Mexican patriot (Dixon et al 2003).
+
+Another significant event during this period was the designation of the Old Military Road. Zachary
+Taylor oversaw the laying out of this road that connected Brownsville and Rio Grande City. The route,
+roughly paralleling the Rio Grande, became a major transportation artery through the area, linking
+many established communities and providing the impetus for the foundation of more communities
+along its reach during the antebellum period. The route likely paralleled or followed established trails
+linking area ranches and associated communities. Following the Mexican-American War, the road
+continued to serve as a shipping route for cotton and other goods and as the Rio Grande valleyâs main
+travel artery. The road was paved and improved by the 1960s and still serves as a major
+transportation thoroughfare for the region (Jones 2015).
+
+Nineteenth-Century Ranching and the Transition to Commercial Cultivation
+
+By 1850, a number of large ranches were operating in present-day Cameron and Hidalgo Counties.
+The ranches not only served as the economic mainstay for residents, but also influenced local
+community development during the eighteenth and nineteenth centuries. For example, some of the
+first communities established in Hidalgo County were developed in support of large ranches. La
+HabitaciÏn, at the site of present-day Hidalgo, formed in association with Rancho San Luis in 1749
+(Garza 2015b). The city of McAllen owes its roots to the McAllen Ranch, originally known as the Santa
+Anita Ranch, founded circa 1797 by JosÃ© Manuel GÏmez, an original Spanish grantee (Garza 2015c).
+Present-day PeÃ±itas originally served as the âcommon grazing groundsâ for EscandÏnâs Villa de
+Nuestra SeÃ±ora de Guadalupe de Reynosa located south of the Rio Grande in the mid-eighteenth
+century. After 1850, the community was associated with numerous populous ranches in the area,
+including those of RÏmulo MartÃ­nez and JesÃºs Chapa CantÃº (Garza 2015d).
+
+Ranching continued to be an important part of the local economy during the late nineteenth and early
+twentieth centuries; however, the advent of irrigation and increased Anglo-American migration to
+the area increased the significance of commercial agriculture during the period. One example of an
+early commercial agricultural operation located in Hidalgo County was the San Juan Plantation,
+named by owner John Closner. Closner began acquiring land in the area in 1884, and his plantation
+eventually contained 45,000 acres. He was an innovator in the area and transformed the land through
+a system of irrigation canals and a water pumping plant, creating the first irrigation system from the
+Rio Grande. These efforts inspired the extensive irrigation systems now present in both counties.
+Diverse crops were grown on the plantation, including sugarcane, alfalfa, tobacco, vegetables, fruits,
+melons, and nuts, and he traded on both sides of the river. Many families worked on the plantation,
+and a community developed in the area with a school and general store (McKenna 2015a; Texas
+Historic Sites Atlas 1964). George Paul Brulay introduced irrigation on a small scale near Brownsville
+in 1876, but irrigation remained limited in both counties through the turn of the twentieth century
+(Garza and Long 2015a).
+100033612/150039
+
+18
+
+III. Cultural Setting
+
+Railroad Era and Early-Twentieth-Century Development
+The arrival of the St. Louis, Brownsville and Mexico Railway to the Rio Grande Valley in 1904
+dramatically affected regional development patterns and increased the significance of commercial
+agriculture further. New communities sprang up along the railway and subsequent lines that
+intersected this route, and old settlements originally founded around ranches grew into sizable
+communities. Notable examples in Hidalgo County include the community of Pharr, which was
+originally part of lands granted to Juan JosÃ© Hinojosa in 1767 by the Spanish government. The
+Hinojosa family resided in the region through the 1880s during which time the area remained
+predominantly undeveloped. In 1909, partners John Connally Kelley Sr. and Henry N. Pharr
+purchased 16,000 acres containing the future community. Pharr, a Louisiana sugarcane farmer and
+founder of the Louisiana-Rio Grande Canal Company, became the namesake of the community. Pharr
+became a stop on the St. Louis, Brownsville and Mexico Railway by 1911 (Garza 2015e; Meyers
+[Myers] and Weitze 1995) and was the center of an agricultural boom that characterized
+development in the area during the early twentieth century.
+
+McAllen, which was a small community associated with the McAllen/Santa Anita Ranch established
+circa 1797, also experienced a period of growth with the arrival of the railroad. In 1904, when the
+Hidalgo and San Miguel Extension of the St. Louis, Brownsville and Mexico Railway reached the site,
+members of the BallÃ­ and McAllen families, proprietors of McAllen Ranch, donated land to allow the
+railroad to cross their property. The McAllen Townsite Company formed later that year and named
+the new townsite McAllen. McAllen grew at a steady, yet somewhat slower rate than other railroad
+towns in the area due to competition from neighboring communities. However, the town
+incorporated in 1911 and experienced a population boom during the late 1910s as a result of federal
+troops being stationed in the area during World War I (Garza 2015c).
+
+Similarly, the communities of Harlingen and Brownsville in Cameron County grew significantly after
+the arrival of the railroad. Harlingen was founded in 1904, the same year the railroad arrived in the
+area. Early promoters thought the nearby Arroyo Colorado could be used as a commercial waterway;
+however, like other communities in the region, the cityâs economy was based almost solely on
+agriculture during the early twentieth century (Gilbert 2015).
+Brownsville already existed prior to the arrival of the railroad, though development there had
+stagnated dramatically during the postbellum period due to lack of railroad access and a deepwater
+port facility. After the construction of the railroad, not only did the agricultural economy of the area
+diversify with the planting of the first citrus crop in 1904, but rail access also initiated dramatic
+infrastructure improvements in the community as the city sought to make itself appealing to the
+influx of new immigrants from the American Midwest. Growth continued through the first decades
+of the twentieth century, and in the 1930s, the Port of Brownsville and associated shipping channel
+opened, making the city an international trading port (Garza and Long 2015b).
+100033612/150039
+
+19
+
+III. Cultural Setting
+
+Irrigation and the Creation of the âMagic Valleyâ
+Contemporaneous with the emergence of the railroad and its influence on local community and
+economic development patterns, irrigation was also advancing in Hidalgo and Cameron Counties.
+Advances in irrigation technology and the development of major irrigation systems increased both
+large-scale commercial farming and small-scale irrigated farming in the area. As previously
+mentioned, the first irrigation system in Hidalgo County was developed in 1895 to serve the San Juan
+Plantation located on the banks of the Rio Grande. This private system was composed of pumping
+stations, canals, and laterals (McKenna 2015b). The American Rio Grande Land and Irrigation
+Company, incorporated in 1905, constructed a massive system of pumping stations, canals, laterals,
+and settling basins in Hidalgo County. This system, like many others, was a public system in that it
+sold water to private landowners, allowing an increase in irrigated farmland (Goza 2015).
+Between its inception and the 1920s, irrigation was the impetus for a steady pattern of AngloAmerican land promotion that altered the demographic, physical, political, and economic character
+of the entire Rio Grande Valley. The recruitment procedures for new residents became formulaic
+during this period. The process is described in detail in the NRHP nomination for the Louisiana-Rio
+Grande Canal Company Irrigation System:
+Valley land promotion from 1904 through the 1920s followed an elaborate, highly
+orchestrated procedure. A group of private investors obtained a large parcel of land
+with access to the Rio Grande where they established an irrigation system. Using
+cheap, primarily Mexican American labor, they financed the construction of pumping
+plants and irrigation canal systems. These systems extended throughout their
+property, which was subdivided into 20- to 80-acre farm plots. Simultaneously, the
+consortiums promoted their farms through mass distribution of glossy brochures
+that extolled the valleyâs many virtuesâboth real and imaginedâparticularly to
+midwestern [sic] farmers. . . . Interested parties contacted sales agents who enticed
+them to the valley on excursion trips that land companies either partly or wholly
+subsidized. (Meyers [Myers] and Weitze 1995)
+
+Many of the new settlers considered themselves civilizers and pioneers and tended to alienate or
+suppress the political and civil rights of the Mexican and Mexican-American residents who had lived
+in the area for centuries. Tension between the groups erupted into violence or unrest at various times
+during the twentieth century, particularly as the number of Mexican citizens seeking asylum from
+the unrest at home and/or economic opportunities in the United States increased during the early
+twentieth century. Many found work as underpaid farm labor on the newly irrigated lands of the
+Anglo immigrants or even as workers constructing the elaborate irrigation systems that made the
+regionâs transition into the âMagic Valleyâ possible.
+
+100033612/150039
+
+20
+
+III. Cultural Setting
+The trend of increased irrigated farming and railroad expansion continued through the 1930s as
+more railroad companies built lines through the area and irrigation improvements continued to
+multiply. The areaâs transition from a ranch-based economy to one based on truck farming was
+complete by 1930, when there were 4,321 farms in Hidalgo County and 2,936 in Cameron County,
+âmore than double the number in 1920.â As in other areas of the state, the majority of the farms
+engaged in cotton cultivation during the early twentieth century (Garza 2015a; Garza and Long
+2015a), although truck farming was also significant to economic development in both counties
+during the period.
+
+Concurrent with the implementation of irrigation in the region, steps were taken to control periodic
+flooding along the Rio Grande that, along with periods of drought, had plagued agricultural
+development in the area. In 1892, W.H. Chatfield was the first to propose development of a levee
+system for the Lower Rio Grande Valley that would address irrigation needs and flood control. His
+plan included a series of levees, canals, and floodgates built around the resacas to collect water during
+times of flooding and to distribute it in times of need (Matthews 1938:53â54). His plan was not
+directly implemented, but may have influenced John Closnerâs development of an irrigation system
+on his sugarcane plantation in 1895. Nevertheless, early canals did little to alleviate flooding in the
+area, and flooding concerns were confronted in 1924 and again in 1925 when bond issues were
+passed to build levees along the Rio Grande from Donna to Brownsville (Borunda 2007).
+
+Though the levees were a limited success, the 1933 Brownsville Hurricane caused severe flooding
+that resulted in a massive realignment of the Rio Grande. As a result of this and many other river
+realignments, the original levees roughly follow the course of the river as it ran in 1903, with the
+riverâs current position Â½ mile to the southwest. Historic map research suggests that the 1924/1925
+levee system was subsequently adapted for irrigation purposes and is now located around resacas.
+The 1933 flood also demonstrated that a levee system located only on the American side was
+insufficient to control flooding in the area. In 1932, the International Boundary Commission (IBC)
+recommended that floodways be constructed on either side of the river. These recommendations led
+to the construction of â300 miles of river and floodway levees, improvements, and control worksâ
+(Borunda 2007). The work was completed in 1951. The proposed survey corridor follows portions
+of the larger IBC (now International Boundary and Water Commission [IBWC]) floodway, and many
+of the existing canals recorded as part of the irrigation districts are also used for flood control.
+
+Mid- to Late-Twentieth-Century Development
+
+Unlike other areas in Texas and the country as a whole, the population and number of farms in the
+Rio Grande Valley increased during the Great Depression. This was due in part to the discovery of oil
+in 1934, which continued to represent an important part of the local economy through the remainder
+of the twentieth century (Garza 2015a). Besides its economic impact, the success of the oil and gas
+industry also resulted in significant alterations to the local built environment, as oil and gas wells and
+related roadways became a common interruption in the agricultural landscape. Other extractive
+100033612/150039
+
+21
+
+III. Cultural Setting
+industries, such as sand and gravel quarrying, also aided the regionâs economic development and
+altered the local landscape.
+
+In the 1960s, a decline in the cotton market resulted in a dramatic reduction in land values in the
+region, and many farmers sold all or portions of their land to developers. Some of these developers
+platted new subdivisions near cities, where employment opportunities were available in processing
+and other fields. In more-rural areas, some sold small plots at exorbitantly low rates to low-income
+families. These areas, known as colonias, were located outside of city limits on unfavorable farmland
+and were largely unregulated and without public services. These communities were characterized by
+squalid living conditions and a lack of public works services. Many of the houses were constructed
+by hand of scrap material, and residents obtained water from tainted wells or brought water in from
+incorporated areas, often in contaminated containers. By the 1980s, activists began urging officials
+to act regarding the high rates of disease in border colonias, but despite these efforts, no legislation
+was passed (GarcÃ­a 2015). Many of these colonias remain in the area and are home to low-income
+farm laborers and their families.
+
+Hidalgo and Cameron Counties continue to depend heavily on large-scale agricultural production,
+processing, and transportation, though commercial agricultural corporations have replaced the
+independent growers as the biggest producers. The Old Military Road is now part of U.S. Highway
+(US) 281, which links several international border-crossing points along the Rio Grande and
+continues north to the Oklahoma-Texas state line. Since the passage of the North American Free
+Trade Agreement in 1994, truck-transport traffic along the highway has increased in the region as
+more imports from Mexico are brought to the United States (Vigness and Odintz 2015). Other
+important facets of the areaâs economy and development at present include oil and gas extraction
+and tourism.
+
+PREVIOUS ARCHAEOLOGICAL INVESTIGATIONS AND SITES
+
+Atkins conducted a records search to locate recorded cultural resource sites within 1 km (0.6 mile)
+of the survey corridor. Atkins consulted the Texas Historical Commissionâs (THC) online Restricted
+Archeological Sites Atlas, maps and records at the Texas Archeological Research Laboratory (TARL),
+the National Park Service NRHP database and GIS Spatial Data, and the Geographic Resources
+Program National Historic Trails Map Viewer as well as the National Historic Landmarks Program
+for locations of previously-recorded cultural resource sites. Sites designated as SALs, Official Texas
+Historical Markers, and records of previously conducted cultural resource surveys were also
+researched.
+The background review revealed that the APE has not been previously surveyed, and no previously
+recorded cultural resources are within a 1-km (0.62-mile) radius of the rerouted sections. Besides
+the prior survey of the pipeline by Atkins (Burden et al. 2014a), there are seven surveys within 1 km
+(0.62 mile) of the APE. A survey along US 77 was conducted to the west of Survey Area 2 on behalf of
+100033612/150039
+
+22
+
+III. Cultural Setting
+the Texas Department of Transportation (TxDOT) in 2010 under Antiquities Permit 5036; along
+FM 508 south of Survey Area 3 on behalf of TxDOT in 1981; along FM 510 south of Survey Area 4 on
+behalf of TxDOT in 1990; north of Survey Area 5 on behalf of the Farmers Home Administration in
+1993; along FM 511 south of Survey Area 5 on behalf of TxDOT in 2009 under Antiquities Permit
+4938; south of Survey Area 5 on behalf of Southmost Regional Water Authority in 2003 under
+Antiquities Permit 2900; and south of Survey Area 5 on behalf of City of Brownsville in 2014 under
+Antiquities Permit 6655.
+
+The overall pipeline project corridor crosses four historic period irrigation districts: Cameron County
+Irrigation District No. 1, also known as the Harlingen Irrigation District, Cameron County Irrigation
+District No. 2, Cameron County Irrigation District No. 6, and Delta Lake Irrigation District (Figure 2).
+Two of these districts are currently assumed eligible for inclusion in the NRHP by the THC pending
+additional studies and one has been determined eligible for inclusion in the NRHP by the THC. Survey
+Area 1 is situated within the Delta Lake Irrigation District, Survey Area 3 is within Cameron County
+Irrigation District No. 1, Survey Area 4 is within Cameron County Irrigation District No. 2, and Survey
+Area 5 is within Cameron County Irrigation District No. 6.
+
+100033612/150039
+
+23
+
+Willacy
+County
+
+1
+
+2
+
+Hidalgo
+County
+
+3
+
+Cameron
+County
+
+4
+
+5
+
+Proposed Pipeline Reroute
+USIBWC Floodway
+County Boundary
+
+Figure 2
+Historic Irrigation Districts
+Brownsville Public Utilities Board
+Cross Valley Pipeline Reroutes Project
+
+Cameron Co. Irrigation District 1
+Cameron Co. Irrigation District 2
+Cameron Co. Irrigation District 6
+Delta Lake Irrigation District
+
+Datum: NAD 1983
+Projection: UTM
+Zone: 14
+Units: Meter
+
+0
+
+3
+
+6
+Miles
+
+Service Layer Credits: Sources: Esri, HERE, DeLorme, USGS, Intermap, increment P Corp.,
+NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, MapmyIndia,
+Â© OpenStreetMap contributors, and the GIS User Community
+
+Hidalgo and Cameron Counties, Texas
+
+I
+
+Prepared By: ATKINS/14923
+Job No.: 100033612
+
+Scale:
+
+1 " = 6 Miles
+
+Date: Aug 20, 2015
+
+File: N:\Clients\A_B\Brownsville_PUB\100033612_gasline\geo\Cultural_Maps\Report\Historic_Irrigation_Districts_Rerou tes.mxd
+
+IV. FIELD METHODS
+Atkins archaeologists conducted an intensive archaeological field survey of the APE that was of
+sufficient intensity to determine the nature, extent, and, if possible, significance of any cultural
+resources located within the APE. This investigation was performed in compliance with the NHPA
+and in accordance with the Procedures for the Protection of Historic and Cultural Properties (36 CFR
+800), the Rules of Practice and Procedure (13 TAC 26), and guidelines set forth by the CTA and RPA.
+The survey met all Texas minimum archaeological survey standards, or Atkins thoroughly
+documented any exceptions. The archaeological field crews judgmentally employed shovel testing
+and mechanical trenching to probe for subsurface cultural materials, and visually inspected the
+ground surface and any available cut bank exposures. The frequency and intensity of the shovel
+testing regime was keyed to the level of disturbance of the APE and the nature of the soils, geology,
+and topography.
+
+SHOVEL TESTING
+
+Shovel tests were excavated in 10-cm (3.9-inch) arbitrary levels to a 1-m (3.28-ft) depth or to preHolocene deposits, whichever comes first, and screening the matrix through 0.64-cm (Â¼-inch) mesh,
+unless it was dominated by clay; clay soils were hand sorted and visually inspected for the presence
+of cultural materials. Atkins plotted each shovel test location using a Trimble GPS receiver and
+recorded each test on appropriate project field forms. Texas survey standards require 16 shovel tests
+every 1.61 km (1 mile) for a linear project area that is 30 m (100 ft) wide. Shovel tests were typically
+excavated at 100-m (330-ft) intervals along transects that were spaced 30 m (100 ft) apart. Shovel
+testing frequency fluctuated depending on the nature of the disturbances, soils, topography, or
+proximity of previously recorded cultural resources. Any areas determined in the field to be
+sufficiently deflated, disturbed, and/or contaminated as to not require shovel testing were
+documented, and the reason for not conducting shovel tests in that area is explained in the report.
+
+BACKHOE TRENCHING
+
+As the project area encompassed a topographic setting (i.e., Rio Grande floodplain) that has the
+potential for deeply buried archaeological sites, investigation methods were proposed to reach these
+deposits. The primary method for quickly and efficiently exploring such areas is mechanical
+trenching. Specifically, the areas identified for horizontal directional drilling (HDD) were targeted
+with backhoe trenches. Generally, the trench investigations were placed approximately 30 to 100 m
+apart, with tighter intervals if necessary. Trench placement was based on the location of buried
+utilities, the location of any impacted areas, and the preservation potential for archaeological sites.
+Backhoe trenches were excavated to a depth sufficient to determine the presence/absence of buried
+cultural materials and allow the complete recording of all features and geomorphic information to
+depths of project impacts. Generally, trenches were a maximum 1.5 to 2 m (4.92 to 6.56 ft) deep, 8 m
+(26.25 ft) in length, and 1.5 m (4.92 ft) wide. All trenching was monitored by experienced
+100033612/150039
+
+25
+
+IV. Field Methods
+archaeologists while excavations are underway. Stratigraphic soils descriptions were recorded and
+photo-documented for each trench by an experienced archaeologist. Had any features been
+encountered during trenching, they would have been mapped and photographed.
+
+Safety is always a primary concern of Atkins when conducting trenching, particularly in deep
+deposits. Prior to investigations, Atkins performed a One-Call (Texas 811) to verify there were no
+existing utilities within the proposed excavation area. The One-Call notification required a 48-hour
+notice prior to any excavations within the project area to properly mark and note any existing
+utilities. All work was performed in accordance with Occupational Safety and Health Administration
+(OSHA) (29 CFR Part 1926) and the Texas Trench Safety Act (H.B. 1569). Appropriate measures were
+taken for any trenches that exceeded 2 m in depth, utilizing shoring or the stepping back of sidewalls
+to ensure that all OSHA protocols were followed. The entire process was thoroughly photographed.
+All trenches were backfilled and leveled upon completion of excavation and recording.
+During the survey, all located cultural resources were fully defined within the project area. Field
+crews explored any archaeological sites encountered during the investigations to the maximum
+extent possible and with consideration to land access constraints. Sites were defined by a minimum
+of six shovel tests except in areas where ground surface visibility was greater than 30 percent or
+where precluded by soil conditions, disturbances, or project boundaries. Shovel tests were conducted
+along radials from the site center at intervals not to exceed 10 m (30 ft) with site boundaries
+determined by two negative shovel tests at the terminus of each radial, if applicable. Site features,
+settings, and representative cultural materials were photographed, mapped, and marked with a GPS
+device. A detailed plan map of each site was produced using standard techniques and features, and
+site boundaries were documented using submeter GPS receiver. A State of Texas Archeological Site
+Form was filled out for each site identified and submitted to TARL for the assignment of a trinomial.
+
+Atkins conducted a diagnostic-only collection survey. Only artifacts such as projectile points, or
+historic artifacts with makerâs marks or other definitive characteristics were to be collected during
+the survey efforts. Artifacts such as common lithic debitage, historic-age trash, or burned rocks would
+have been photo-documented, tabulated, analyzed, and documented in the field but not collected.
+Had human remains been identified during the survey efforts, then all work would have immediately
+ceased in the area, and Atkins would have contacted BPUB staff about the discovery.
+
+CURATION
+
+With permission from the THC, any artifacts collected were documented, photographed, and
+discarded. Upon completion of all archaeological investigations, all paperwork was transported to
+Atkinsâ in-house laboratory and prepared for curation. Atkins submitted this documentation to the
+Texas Archeological Research Laboratory (TARL) at The University of Texas at Austin.
+
+100033612/150039
+
+26
+
+V. RESULTS
+The APE for the current survey involved rerouted sections of the proposed BPUB Cross Valley
+Pipeline Project totaling 23.72 km (14.74 miles). The survey corridor measured approximately
+27.43 m (90 ft) wide and involved the examination of five separate areas encompassing
+approximately 208.60 ha (129.62 acres). The depth of impact is estimated from 2.44 to 6.1 m (8 to
+20 ft.
+
+A total of 108 shovel tests and 6 backhoe trenches were excavated within the survey corridor
+(Appendix A). The shovel test depth averaged 55.11 cm (21.83 inches) below the surface (cmbs),
+ranging from 30 to 105 cm (11.81 to 41.34 inches). Backhoe trenches were excavated to an average
+depth of 1.39 m (4.6 ft), ranging from 1.34 to 1.45 m (4.40 to 4.78 ft) below the surface. They were
+an average of 5.83 m (19.13 ft) long. Upon completion of recording, three of these were then
+excavated to 2.44 m (8 ft), while archaeologists observed from the surface but did not enter the
+deeper trench.
+
+Much of the soil encountered was clay loam extending from surface (Figure 3). The majority of the
+survey corridor consists of agricultural fields and some improved pasture, affording excellent ground
+surface visibility that averaged 60 percent across much of it (Figure 4). Inundated areas and seasonal
+wetlands were also encountered within the APE (Figure 5). Noted disturbances included agricultural
+plowing, and construction related to canals, levees, roads, transmission lines, and pipelines (Figure
+6).
+
+Figure 3. Soil profile of shovel test KA11 at Survey Area 5
+
+100033612/150039
+
+27
+
+V. Results
+
+Figure 4. Agricultural fields within the APE at Survey Area 2, facing east-southeast
+
+Figure 5. Inundated area within the APE on tract TX-HI-0010, facing southeast
+
+100033612/150039
+
+28
+
+V. Results
+
+Figure 6. Other disturbances within the APE included overhead and buried utilities, fences,
+and seasonal wetlands at Survey Area 5, facing south
+
+SURVEY AREA 1
+Survey Area 1 (SA 1) is along FM 493 in Hidalgo County and involves a 1,894-m (6,214-ft) reroute on
+tracts TX-HI-0010 and TX-HI-0011 (Appendix A). Eight shovel tests were excavated within in the
+APE, mainly at the northern and southern extremes. An isolated find (IF 1), a ceramic sherd, was
+collected from shovel test NI 1 near the top of Level 1 (0 to 10 cmbs [0 to 3.94 inches below surface]).
+The body sherd of a probable plate had a dark blue glaze on both the interior and exterior, but no
+diagnostic features. It appears to date to the mid- or late twentieth century, and may represent
+Fiestaware, or something similar based on the concentric pattern evident on its interior. An area of
+inundation stretching about 1,219 m (4,000 ft) was noted at SA 1, precluding shovel testing in this
+area (see Figure 5). Other prior disturbances from agricultural activities and canal construction were
+also documented.
+
+SURVEY AREA 2
+
+Survey Area 2 (SA 2) extends east from US 77 for about 6.6 km (4.10 miles) and is a reroute from
+tract TX-CA-0034 to TX-CA-0040 (Appendix A). Fifty-one shovel tests were excavated, one site
+(41CF223) was recorded, and IF 2 was noted across recently plowed and fallow fields in shovel test
+KA 1. IF 2 is a shard of clear bottle glass that exhibited damage, probably from a plow observed within
+the top 10 cm. The shard did not have any diagnostic characteristics or other contextual information;
+thus, it was classified as an isolated find.
+100033612/150039
+
+29
+
+V. Results
+
+SITE 41CF223
+Site 41CF223 is a large sparse scattering of prehistoric burned clay balls situated within an
+agricultural field that is both plowed and fallow. The site dimensions are approximately 3,330 m
+(10,925.20 ft) east-west by 27.43 m (90 ft) north-south, although the artifact scatter extends in places
+up to 14 m (45.93 ft) south of the APE (Appendix B). The nearest waterbody of significance is the
+North Floodway, which is 3.90 km (2.42 miles) north, but an ephemeral drainage or relict channel is
+evident at the site on a recent aerial and was encountered on the ground as a ditch near shovel test
+RC 13. Soils at the site are mapped as Raymondville clay loam series (NRCS 2015); however, sediment
+more like Racombes sandy clay loam was encountered throughout site 41CF223. The Racombes
+series consists of deep, moderately well-drained, moderately permeable soil that formed in thick
+alkaline sediments, usually located on deltaic coastal terraces. Ground surface visibility varied from
+70 to nearly 100 percent across the site.
+
+While most of the site boundary was determined by the surficial extent of burned clay balls and
+fragments, a burned clay ball was observed in Level 7 (60 to 70 cmbs [23.62 to 27.56 inches below
+surface]) of Shovel Test RC 9 at the extreme western end of the site. At this depth, soils were recorded
+as brown (10YR 4/3) sandy clay underlying a gray (10YR 5/1) sandy clay loam and the plow zone (0
+to 30 cmbs [0 to 11.81 inches below surface]). Per THC standards, ground surface visibility
+consistently exceeded 30 percent, so in lieu of radial shovel tests, the survey team conducted
+systematic surface reconnaissance in the vicinity of Shovel Tests DB13, DB16, DB17, KA5, KA7 KA9,
+M13, M15, RC9, RC12, RC 14, and RC16, observing multiple clusters of burned clay balls on the surface
+and light scattering of clay balls throughout both plowed and fallow sections of the APE, as well as
+one piece of heat-treated lithic debitage (Figure 7). A small representative sample of burned clay balls
+was collected from the surface of the site. Clay balls were used in this region of Texas by prehistoric
+people as heating elements in their hearths or cooking fires because naturally occurring rock is either
+nonexistent or not of a type suitable for such use. A clay ball from Feature 2 at nearby site 41HG254
+was radiocarbon dated to Cal B.C. 2200 to 2160 (Cal B.P. 4150 to 110)/Cal B.C. 2150 to 2030 (Cal B.P.
+4100 to 3980) or 3710Â±30 years B.P. (Beta-370067), which is within the Middle Archaic cultural
+division (Burden et al. 2014b).
+
+In total, 31 shovel tests were excavated along the project corridor that are within the site boundary
+(Table 2). All, except for RC 9, were negative for subsurface cultural materials. Thus, the siteâs artifact
+assemblage was nearly exclusively surficial and evidently represents a secondary deposit that has
+been churned by heavy machinery during agricultural production.
+
+100033612/150039
+
+30
+
+V. Results
+
+Figure 7. A sampling of burned clay balls collected from site 41CF223
+Table 2. Site 41CF223 Shovel Test Data
+Shovel
+Level
+Test No. (10 cm)
+DB12
+
+DB13
+
+DB14
+DB15
+DB16
+DB17
+DB18
+DB19
+DB20
+DB21
+KA4
+
+Depth
+(cmbs)
+
+Test
+Result
+
+Munsell Soil
+Color
+
+Soil Texture
+
+1â4
+
+0â40
+
+Negative
+
+10YR 5/3
+
+Silty clay
+
+5
+
+40â50
+
+Negative
+
+7.5YR 6/3
+
+Silty clay
+
+1â4
+
+0â40
+
+Negative
+
+10YR 5/3
+
+Silty clay
+
+5
+
+40â50
+
+Negative
+
+10YR 5/4
+
+Silty clay
+
+1â3
+
+0â30
+
+Negative
+
+10YR 5/3
+
+Silty clay
+
+3â5
+
+30â50
+
+Negative
+
+10YR 5/4
+
+Silty clay
+
+1â3
+
+0â30
+
+Negative
+
+10YR 5/3
+
+Silty clay
+
+3â5
+
+30â50
+
+Negative
+
+10YR 5/4
+
+Silty clay
+
+1â4
+
+0â40
+
+Negative
+
+10YR 5/3
+
+Silty clay
+
+5
+
+40â50
+
+Negative
+
+10YR 5/4
+
+Silty clay
+
+1â4
+
+0â40
+
+Negative
+
+10YR 5/3
+
+Silty clay
+
+5
+
+40â50
+
+Negative
+
+10YR 5/4
+
+Silty clay
+
+1â5
+
+0â50
+
+Negative 10YR 5/3
+
+Silty clay
+
+1â4
+
+0â40
+
+Negative
+
+10YR 6/2
+
+Silty clay loam
+
+5
+
+40â50
+
+Negative
+
+10YR 5/4
+
+Silty clay
+
+1â4
+
+0â40
+
+Negative
+
+10YR 6/2
+
+Silty clay
+
+5
+
+40â50
+
+Negative
+
+10YR 5/4
+
+Silty clay
+
+1â4
+
+0â40
+
+Negative
+
+10YR 6/2
+
+Silty clay
+
+5
+
+40â50
+
+Negative
+
+10YR 5/4
+
+Silty clay
+
+1â4
+
+0â42
+
+Negative
+
+10YR 4/2
+
+Clay
+
+100033612/150039
+
+31
+
+Description/Comments
+Fallow agricultural field
+Fallow agricultural field;
+burned clay balls noted on
+surface within 5 m
+Fallow agricultural field
+Fallow agricultural field
+Fallow agricultural field
+Fallow agricultural field
+Gray mottle; sand
+inclusions/deposits
+Plowed agricultural field
+Plowed agricultural field
+Plowed agricultural field
+None
+
+Reason/Depth
+of Termination
+n/a
+Subsoil
+n/a
+Subsoil
+n/a
+Subsoil
+n/a
+Subsoil
+n/a
+Subsoil
+n/a
+Subsoil
+Water table
+n/a
+Subsoil
+n/a
+Subsoil
+n/a
+Subsoil
+Soil change
+
+V. Results
+Shovel
+Level
+Test No. (10 cm)
+
+KA5
+
+KA6
+
+KA7
+KA8
+
+KA9
+M12
+
+M13
+
+M14
+
+M15
+
+M16
+
+M17
+M18
+
+RC9
+
+RC10
+RC11
+
+Depth
+(cmbs)
+
+Test
+Result
+
+Munsell Soil
+Color
+
+5
+
+42â46
+
+Negative
+
+10YR 4/6
+
+Basal clay and
+sand
+
+1â5
+
+0â45
+
+Negative
+
+7.5YR 3/4
+
+Clay
+
+5
+
+45â50
+
+Negative
+
+10YR 4/3
+
+0â4
+
+0â42
+
+Negative
+
+4
+
+42â47
+
+1â3
+
+Soil Texture
+
+Description/Comments
+
+Reason/Depth
+of Termination
+Basal clay
+
+Clay, some sand
+
+Rabdotus snails and burned
+clay balls noted on surface
+within 5 m
+
+Basal clay
+
+10YR 3/3
+
+Clay
+
+None
+
+Soil change
+
+Negative
+
+7.5YR 6/4
+
+Basal clay and
+sand
+
+Rabdotus snails noted on
+surface
+
+Basal clay
+
+0â30
+
+Negative
+
+10YR 3/2
+
+Clay
+
+4
+
+30â37
+
+Negative
+
+7.5YR 5/6
+
+Clay
+
+1â4
+
+0â30
+
+Negative
+
+7.5YR 3/3
+
+Clay
+
+4
+
+35â39
+
+Negative
+
+7.5YR 5/3
+
+Clay
+
+1â3
+
+0â35
+
+Negative
+
+7.5YR 4/3
+
+Clay
+
+4
+
+35â39
+
+Negative
+
+7.5YR 5/3
+
+Clay
+
+1â4
+
+0â40
+
+Negative
+
+10YR 4/2
+
+Silty clay
+
+4â5
+
+40â50
+
+Negative
+
+10YR 5/3
+
+Clay
+
+1â4
+
+0â45
+
+Negative
+
+10YR 4/2
+
+Clay loam
+
+4â5
+
+45â55
+
+Negative
+
+10YR 5/3
+
+Clay loam
+
+1â4
+
+0â40
+
+Negative
+
+10YR 4/2
+
+Clay loam
+
+4â5
+
+40â45
+
+Negative
+
+10YR 5/2
+
+Clay loam
+
+1â4
+
+0â40
+
+Negative
+
+10YR 4/2
+
+Clay loam
+
+4â5
+
+40â45
+
+Negative
+
+10YR 5/2
+
+Clay loam
+
+1â4
+
+0â40
+
+Negative
+
+10YR 4/2
+
+Clay loam
+
+4â5
+
+40â45
+
+Negative
+
+10YR 5/2
+
+Clay loam
+
+1â4
+
+0â40
+
+Negative
+
+10YR 4/2
+
+Clay loam
+
+4â5
+
+40â50
+
+Negative
+
+10YR 5/2
+
+Clay loam
+
+1â5
+
+0â55
+
+Negative
+
+10YR 4/2
+
+Clay loam
+
+5â6
+
+55â60
+
+Negative
+
+10YR 5/2
+
+Clay loam
+
+1â6
+
+0â60
+
+Negative
+
+10YR 4/1
+
+Sandy clay/loam
+
+Plowed field, 100m from
+DB11, soil change
+
+n/a
+
+6â7
+
+60â70
+
+Positive
+
+10YR 5/1
+
+Sandy clay
+
+Burned clay @ 70cmbs, no
+other artifacts present
+
+n/a
+
+7â9
+
+70â90
+
+Negative
+
+10YR 4/2
+
+Clayey sand
+
+Sterile levels
+
+Dense stratum
+
+1â4
+
+0â40
+
+Negative
+
+10YR 5/1
+
+Sandy clay loam
+
+n/a
+
+4â6
+
+40â60
+
+Negative
+
+10YR 5/3
+
+Sandy clay
+
+Fallow field, 100 m away
+from DB13
+
+1â4
+
+0â40
+
+Negative
+
+10YR 5/1
+
+Sandy clay loam
+
+100033612/150039
+
+32
+
+None
+None
+
+Soil change
+
+Soil change
+Basal soil
+Soil change
+Basal soil
+
+Thumbnail-sized burned clay Soil change
+fragment observed 30 m SSE
+Basal soil
+of K9 on surface
+Fallow agricultural field
+
+n/a
+Basal clay
+
+n/a
+Fallow agricultural field;
+scattered, crushed rabdotus
+on surface; chert flake and
+Basal clay
+burned clay observed on
+surface 12 m away
+n/a
+Fallow agricultural field;
+scattered, crushed rabdotus
+Basal soil
+on surface
+n/a
+Fallow agricultural field;
+scattered, crushed rabdotus Basal soil
+on surface
+Super-saturated plowed
+field
+
+n/a
+Basal soil and
+water table
+
+Super-saturated plowed
+field
+
+n/a
+
+Super-saturated plowed
+field
+
+n/a
+
+Basal soil
+Basal soil
+
+Subsoil
+n/a
+
+V. Results
+Shovel
+Level
+Test No. (10 cm)
+
+RC12
+
+Munsell Soil
+Color
+
+Test
+Result
+
+4â6
+
+40â60
+
+Negative
+
+10YR 4/2
+
+Sandy clay loam
+
+6â7
+
+60â70
+
+Negative
+
+10YR 5/3
+
+Clayey sand
+
+1â6
+
+0â60
+
+Negative
+
+10YR 4/1
+
+Sandy clay loam
+
+6â7
+
+60â70
+
+Negative
+
+10YR 5/3
+
+Clay
+
+1â3
+
+0â30
+
+Negative
+
+10YR 4/1
+
+Sandy clay loam
+
+Plowed field, 12 m from
+filled ditch
+
+3â4
+
+30â40
+
+Negative
+
+10YR 5/3
+
+Clay
+
+Gray mottling, plowed field,
+Subsoil
+12 m from filled ditch
+
+1â3
+
+0â30
+
+Negative
+
+10YR 4/1
+
+Sandy clay loam
+
+Plowed field, 10 m from
+DB18
+
+n/a
+
+3â4
+
+30â40
+
+Negative
+
+10YR 5/3
+
+Clay
+
+Gray mottling, subsoil has
+layered clay with organic
+matter in parts
+
+Subsoil
+
+1â4
+
+0â40
+
+Negative
+
+10YR 4/1
+
+Sandy clay loam
+
+Plowed field, 100 m from
+KA9
+
+n/a
+
+4â5
+
+40â50
+
+Negative
+
+10YR 5/3
+
+Clay
+
+Gray mottling, plowed field,
+Subsoil
+100 m from KA9
+
+1â5
+
+0â50
+
+Negative
+
+10YR 4/1
+
+Sandy clay loam
+
+5â6
+
+50â60
+
+Negative
+
+10YR 5/3
+
+Clay
+
+Soil Texture
+
+RC13
+
+RC14
+
+RC15
+
+RC16
+
+Reason/Depth
+of Termination
+
+Depth
+(cmbs)
+
+Description/Comments
+Fallow field, 100 m away
+from DB14
+Fallow field, 34 m from
+burned clay ball scatter
+
+Plowed field, 100 m from
+M17; burned clay fragment
+observed on surface
+
+n/a
+Water table
+n/a
+Subsoil
+n/a
+
+n/a
+Subsoil
+
+It is possible that instead of a single, nearly 3-km-long site, the artifacts represent several smaller
+sites along this corridor; however, given the constraints of the survey limits, it was not possible to
+further explore this possibility. Undoubtedly, site 41CF223 has been extremely disturbed by
+agricultural operations, such as, grading, plowing, cultivating, and harvesting; the natural
+disturbances from seasonal flooding; and the effects of the expansion-contraction cycle of the clay
+soils at the site. No features or diagnostic artifacts were encountered on the surface or within any
+shovel test excavated at site 41CF223.
+
+SURVEY AREA 3
+
+Survey Area 3 (SA 3) is north of FM 508 (Combes Rio Hondo Road) in Cameron County, and involves
+a 366-m (1,200-ft) reroute on tracts TX-CA-0055 and TX-CA-0056. Four shovel tests were excavated
+within SA 3; all were negative for cultural resources (Appendix A).
+
+SURVEY AREA 4
+
+Survey Area 4 (SA 4) is north of FM 510 (San Jose Ranch Road) in Cameron County and involves a
+2,925.47-m (9,598-ft) reroute on tracts TX-CA-0093, TX-CA-0094, TX-CA-0095, TX-CA-0096, and TXCA-0097. Thirteen shovel tests and 3 trenches were excavated within SA 4; all were negative for
+cultural resources (Appendix A; Table 3). About 213.36 m (700 ft) of the reroute parallels an
+100033612/150039
+
+33
+
+V. Results
+Table 3. Backhoe Trench Data
+Backhoe
+Trench
+No.
+
+Level
+
+Depth
+(cmbs)
+
+Munsell
+Color
+
+Soil Color
+
+1
+
+0â50
+
+10YR 4/2
+
+Dark grayish brown
+
+Clay loam
+
+Friable
+
+none
+
+Rootlets, CaCO2
+>5%
+
+n/a
+
+2
+
+50â90
+
+10YR 4/3
+
+Brown
+
+Clay
+
+Loose, firm
+
+none
+
+CaCO2 >1%
+
+n/a
+
+3
+
+90â115
+
+10YR 5/4
+
+Yellowish brown
+
+Clay
+
+Firm
+
+none
+
+none
+
+n/a
+
+4
+
+115â130
+
+10YR 5/6
+
+Yellowish brown
+
+Silty clay
+
+Friable
+
+none
+
+none
+
+n/a
+
+5
+
+130â134
+
+10YR6/2
+
+Light brownish gray
+
+Clay
+
+Firm
+
+none
+
+CaCO2 10%
+
+Depth and
+water table
+
+1
+
+0â40
+
+10YR 4/2
+
+Dark grayish brown
+
+Clay loam
+
+Friable
+
+none
+
+CaCO2 >5%,
+rootlets, root
+
+n/a
+
+2
+
+40â65
+
+10YR 4.3
+
+Brown
+
+Clay
+
+Firm
+
+none
+
+CaCO2 >5%
+
+n/a
+
+3
+
+65â115
+
+10YR 5/4
+
+Yellowish brown
+
+Clay
+
+Firm
+
+none
+
+CaCO2 10%
+
+n/a
+
+4
+
+115â140
+
+10YR 5/6
+
+Yellowish brown
+
+Silty clay
+
+Firm, wet
+
+none
+
+CaCO2>5%
+
+Depth and
+water table
+
+1
+
+0â25
+
+10YR 4/2
+
+Dark grayish brown
+
+Clay loam, silty
+
+Friable
+
+none
+
+CaCo2 >1%,
+rootlets
+
+n/a
+
+2
+
+25â110
+
+10YR 4/2
+
+Dark grayish brown
+
+Clay
+
+Firm
+
+none
+
+CaCO2 >5%
+
+n/a
+
+3
+
+110â125
+
+7.5YR 4/3
+
+Brown
+
+Clay
+
+Firm
+
+none
+
+CaCo2 >5%
+
+n/a
+
+4
+
+135â140
+
+10YR 6/4
+
+Light yellowish
+brown
+
+Clay
+
+Friable, wet
+
+none
+
+CaCO2>1%
+
+n/a
+
+5
+
+140â145
+
+7.5YR 6/4
+
+Light brown
+
+Clay
+
+Friable, wet
+
+none
+
+CaCO2>1%
+
+Depth and
+water table
+
+MS 1
+
+MS 2
+
+MS 3
+
+100033612/150039
+
+34
+
+Soil Texture
+
+Consistency
+
+Mottles
+
+Inclusions
+
+Reason for
+Termination
+
+V. Results
+Backhoe
+Trench
+No.
+
+Level
+
+Depth
+(cmbs)
+
+Munsell
+Color
+
+1
+
+0â40
+
+7.5YR 4/2
+
+Brown
+
+Silty clay
+
+Friable
+
+none
+
+CaCO3, about 15%
+
+n/a
+
+2
+
+40â55
+
+7.5YR 5/3
+
+Brown
+
+Silty clay
+
+Friable
+
+none
+
+CaCO3, about >5%
+
+n/a
+
+3
+
+55â65
+
+5YR 5/4
+
+Reddish brown
+
+Clay
+
+Firm
+
+>10% 7.5YR 4/2,
+grayish brown
+
+none
+
+n/a
+
+4
+
+65â95
+
+5YR 5/4
+
+Reddish brown
+
+Clay
+
+Extra firm
+
+25% 10YR 4/2,
+grayish brown
+
+none
+
+n/a
+
+5
+
+95â120
+
+5YR 5/6
+
+Yellowish red
+
+Clay
+
+Extra firm
+
+25% 10YR 4/2,
+grayish brown
+
+none
+
+n/a
+
+6
+
+120â135
+
+5YR 5/6
+
+Yellowish red
+
+Clay
+
+Friable
+
+15% 5YR 8/1 white,
+and 25% 10YR 4/2
+grayish brown
+
+none
+
+Depth
+
+1
+
+0â25
+
+5YR 5/2
+
+Reddish gray
+
+Silty clay
+
+Friable
+
+none
+
+Roots, rootlets
+
+n/a
+
+2
+
+25â50
+
+5YR 5/3
+
+Reddish brown
+
+Silty clay
+
+Firm
+
+none
+
+CaCO3, 15â20%
+
+n/a
+
+3
+
+50â95
+
+7.5YR 7/3
+
+Pink
+
+Silty clay
+
+Firm
+
+20% 7.5YR 4/2,
+brown
+
+none
+
+n/a
+
+4
+
+95â140
+
+7.5YR 4/6
+
+Strong brown
+
+Silty loam clay
+
+Firm
+
+10% 7.5YR 4/2
+
+CACO3, 40%
+
+Depth
+
+1
+
+0â140
+
+10YR 4/2
+
+Dark grayish brown
+
+Clay
+
+Extra firm
+
+none
+
+CaCO3, about 40%;
+tree roots
+
+Depth
+
+MS 4
+
+MS 5
+
+MS 6
+
+100033612/150039
+
+Soil Color
+
+35
+
+Soil Texture
+
+Consistency
+
+Mottles
+
+Inclusions
+
+Reason for
+Termination
+
+V. Results
+irrigation canal and dredged material from the canal has been deposited here, forming a berm. This
+section was not shovel tested. Two backhoe trenches (MS1 and MS2) were excavated on the south
+side of an irrigation canal that separates tracts TX-CA-0095 and TX-CA-0096. A third trench (MS3)
+was placed on the north side of the canal within tract TX-CA-0094. Four to five stratigraphic levels
+were observed in the backhoe trenches, and all sediment profiles appeared intact, although a plow
+zone was noted in Trench MS3. The water table was evident in all trenches at about 140 cmbs
+(55.12 inches below surface); consequently, the trenches were not excavated any deeper. Typically,
+the upper stratum of dark grayish-brown (10YR 4/2) clay loam was about 40 to 110 cm (15.75 to
+43.31 inches) thick overlying about 25 to 40 cm (9.84 to 15.75 inches) of a yellowish-brown (10YR
+5/4) clay with a markedly higher calcium carbonate content. The lower strata were also yellowishbrown to light brown (10YR 6/2) clay with a moisture content that increased with depth until the
+water table was reached (Figure 8).
+
+Figure 8. Lower strata of backhoe trench MS 3 in the northeast wall profile
+
+SURVEY AREA 5
+Survey Area 5 (SA 5) is east of Old Alice Road near its intersection with Abrego Road in Cameron
+County, and involves a 4,419.6-m (14,500-ft) reroute on tracts TX-CA-0136, TX-CA-0138, TX-CA0139, TX-CA-0140, TX-CA-0141, and TX-CA-0145 (Appendix A). An approximately 1,829-m
+(6,000-ft) segment of the yellow reroute along the eastern edge was excluded from the survey by
+BPUB after it was determined that much of it was inundated. Thirty-three shovel tests and 3 trenches
+were excavated within SA 5; all were negative for cultural resources. Two backhoe trenches (MS4
+100033612/150039
+
+36
+
+V. Results
+and MS5) were excavated on the eastern and western sides of Old Alice Road, respectively. A third
+trench (MS6) was placed on the north side of tract TX-CA-0136.
+
+Six stratigraphic levels were observed in backhoe trench MS 4 on the east side of Old Alice Road. The
+top two strata of brown (7.5YR 4/2 and 7.5YR 5/3) silty clay totaled 55 cm and were overlaying two
+strata of reddish-brown (5YR 5/4) clay, a 30-cm (11.81-inch) stratum of yellowish-red (5YR 5/6)
+clay that was mottled with 25 percent grayish-brown (10YR4/2) clay, and finally 15 cm (5.91 inches)
+of yellowish-red (5YR 5/6) friable clay that was mottled with 15 percent white (5YR 8/1) sand and
+25 percent grayish-brown (10YR 4/2) clay. MS 4 was excavated to 135 cmbs (4.43 ft below surface),
+recorded, and then excavated to 2.44 m (8 ft), while archaeologists observed from the surface. The
+mottling noted in the lower two strata continued as the matrix changed color to a light yellowish
+brown (10YR 6/4) at 2.44 m (8 ft).
+
+Four stratigraphic levels were observed in backhoe trench MS 5 on the west side of Old Alice Road.
+The top stratum of reddish-gray (5YR 5/2) silty clay was 25 cm (9.84 inches) thick with no calcium
+carbonate inclusions. It was overlaying a 25-cm (9.84-inch) stratum of reddish-brown (5YR 5/3) silty
+clay with a calcium carbonate content of about 15 to 20 percent. Below that was a 45-cm (17.72-inch)
+stratum of pink (7.5YR 7/3) silty clay loam with 20 percent brown (7.5YR 4/2) clay mottling and no
+calcium carbonate. The lower stratum was a strong brown (7.5YR 4/6) silty clay with 10 percent
+brown (7.5YR 4/2) clay mottling and 40 percent calcium carbonate. MS 5 was excavated to 140 cmbs
+(4.59 ft below surface), recorded, and then excavated to 2.44 m (8 ft), while archaeologists observed
+from the surface. The strong brown (7.5YR 4/6) silty clay recorded as the bottom stratum was
+observed to continue to 2.44 m (8 ft) (Figure 9).
+
+Figure 9. Lower strata of backhoe trench MS 5 in the east-southeast wall profile
+
+100033612/150039
+
+37
+
+V. Results
+
+SURVEY AREA 6
+Backhoe trench MS 6 was placed along the north side of tract TX-CA-0136 next to an irrigation canal.
+One stratum of dark grayish brown (10YR 4/2) clay with 40 percent calcium carbonate inclusions
+was recorded from the surface to 140 cmbs (4.59 ft below surface). MS 5 was excavated to 140 cmbs
+(4.59 ft below surface), recorded, and then excavated to 2.44 m (8 ft), while archaeologists observed
+from the surface. This homogenous matrix continued for about another 70 cm (27.56 inches) until
+the soil color changed to yellowish brown, which was observed to continue to 2.44 m (8 ft) (Figure
+10).
+
+Figure 10. Plan view of backhoe trench MS 6 excavated to 2.44 m (8 ft)
+
+100033612/150039
+
+38
+
+VI. CONCLUSIONS AND RECOMMENDATIONS
+Atkins conducted an intensive cultural resources survey of rerouted sections of the proposed Cross
+Valley Pipeline Project on behalf of BPUB. The APE involved rerouted sections totaling 16.19 km
+(10.06 miles) and included the examination of five separate areas, encompassing approximately
+38.23 ha (94.47 acres). The depth of impact is estimated at 2.44 m (8 ft) throughout with deeper
+impacts of up to 6.1 m (20 ft) at boring pits associated with HDD. All work was conducted under
+Antiquities Code Permit No. 7208.
+
+The background review revealed that the APE has not been previously surveyed, and that no
+previously recorded cultural resources are within a 1-km (0.62-mile) radius of the rerouted sections.
+The survey resulted in one newly recorded site (41CF223) and two isolated finds. Site 41CF223 is a
+severely disturbed, prehistoric campsite with scattered burned clay balls mainly on the surface.
+Repeated disturbances caused by long-term agriculture production has impacted the site to a
+considerable degree and, it is unlikely any significant data could be recovered from a subsurface
+context. Consequently, site 41CF223 is not recommended eligible for inclusion to the NRHP or for
+designation as an SAL, and no further work is recommended.
+
+During the field survey, no cultural material besides burned clay balls associated with site 41CF223,
+historic ceramic from IF 1, chipped glass from IF 2, and modern trash were encountered on the
+surface or in 108 shovel tests and 6 backhoe trenches that were excavated within the APE. Of these
+cultural materials, only a representative sample of the burned clay balls and the historic ceramic
+were collected. Texas survey standards require 16 shovel tests every 1.61 km (1 mile) for a linear
+project area that is 30 m (100 ft) wide, or 160 shovel tests in this case. The current survey did not
+meet the minimum number of required excavations based on encountering prior disturbances from
+agricultural activities, and construction related to canals, levees, roads, transmission lines, and
+pipelines.
+In accordance with 36 CFR 800.4, Atkins has made a reasonable and good faith effort to identify
+archaeological historic properties within the APE. As no properties were identified that meet the
+criteria for listing in the NRHP according to 36 CFR 60.4 or for designation as an SAL according to 13
+TAC 26.12, Atkins recommends no further work. Finally, nondiagnostic artifacts collected will be
+discarded pending THC permission, and all project records will be curated at TARL.
+In the unlikely event that cultural material are encountered during construction, work in the
+immediate area should cease, and a qualified archaeologist should be called upon to evaluate the
+evidence and provide recommendations for how to manage the resource under the Stateâs Historic
+Preservation Plan. If human remains are encountered during the survey, all work will stop in the
+immediate vicinity of the uncovered human remains, and the appropriate action taken per Chapters
+711â715 of the Texas Health and Safety Code.
+
+100033612/150039
+
+39
+
+VII. REFERENCES CITED
+Anderson, A.E.
+1932
+Artifacts of the Rio Grande Delta Region. Bulletin of the Texas Archeological and
+Paleontological Society 4:29â31.
+Black, S.L.
+1989
+
+Blair, W.F.
+1950
+
+South Texas Plains. In From the Gulf to the Rio Grande: Human Adaptation in Central,
+South, and Lower Pecos, Texas, by T.R. Hester, S.L. Black, D.G. Steele, B.W. Olive, A.A.
+Fox, K.J. Reinhard, and L.C. Bement. Research Series No. 33. Arkansas Archeological
+Survey, Fayetteville.
+The Biotic Provinces of Texas. The Texas Journal of Science 2(1):93â117.
+
+Borunda, Daniel
+2007
+Letter from United States International Boundary Water Commission to Amy
+Hammons, Texas Historical Commission, regarding Section 106 Determination of
+Effect for the Proposed Hidalgo Protective Levee System in Hidalgo County, Texas.
+Original on file at the Texas Historical Commission, Austin.
+Bousman, C.B., S.A. Tomka, and G.L. Bailey
+1990
+Prehistoric Archeology and Paleoenvironments in Hidalgo and Willacy Counties, South
+Texas: Results of the Phase II Test Excavations. Prewitt and Associates Reports of
+Investigations Number 76.
+
+Boyd, D.K., A. Tijerina, K.W. Kibler, A.C. Earls, and M.D. Freeman
+1994
+Pharr-Reynosa International Bridge: Continued Archeological and Historical Research
+at El Capote Ranch Community. Report of Investigations 97. Prewitt & Associates,
+Inc., Austin, Texas.
+Brown, J.F., Jr., J.L. Brewton, T.J. Evans, J.H. McGowan, W.A. White, C.G. Groat, and W.L. Fisher
+1980
+Environmental Geologic Atlas of the Texas Coastal Zone: Brownsville-Harlingen Area.
+Bureau of Economic Geology, University of Texas at Austin.
+
+Burden, Andrea Stahman, Brandy Harris, Darren Schubert, Robert A. Rowe, Maximilian Jewett, and
+Collin Rucker
+2014a Results of a Phase I Cultural Resources Survey for the Proposed Cross Valley Pipeline
+Project, Cameron and Hidalgo Counties, Texas. TAC Permit 6643. Document No.
+130126. Atkins, Austin.
+Burden, Andrea Stahman, Charles D. Frederick, Amy McWhorter, C. Russ Shortes, Melanie Nichols,
+Robert Rowe, and Michael Nash
+2014b Results of Archeological Survey of the Proposed Hidalgo Loop Sections A and C, the
+International Bridge Trade Corridor, and State Highway 365 Projects, Hidalgo County,
+Texas. TAC Permits 5124, 5125, and 5683. Document No. 140023. Atkins, Austin.
+
+100033612/150039
+
+40
+
+VII. References Cited
+Bureau of Economic Geology
+1976
+Geologic Atlas of Texas, McAllen-Brownsville Sheet. Bureau of Economic Geology, The
+University of Texas at Austin.
+Butzer, K.W.
+1982
+
+Archaeology as Human Ecology: Method and Theory for a Contextual Approach.
+Cambridge University Press.
+
+Campbell, Thomas Nolan
+1958
+Archeology of the Central and Southern Section of the Texas Coast. Bulletin of the
+Texas Archeological Society 29:145â175.
+1979
+
+1983
+1984
+
+Ethnohistoric Notes on Indian Groups Associated with Three Spanish Missions at
+Guerrero, Coahuila. Archaeology and History of the San Juan Bautista Mission Area,
+Coahuila and Texas, Report No. 3. Center for Archaeological Research, The University
+of Texas at San Antonio.
+
+Coahuiltecans and Their Neighbors. In Handbook of North American Indians. Edited
+by William C Sturtevant.,10:343â358.
+
+The Cacaxtle Indians of Northeastern Mexico and Southern Texas. La Tierra, Journal
+of the Southern Texas Archaeological Association 2(1):4â20.
+
+Campbell, Thomas Nolan, and Tommy Jo Campbell
+1981
+Historic Indian Groups of the Choke Canyon Reservoir and Surrounding Area, Southern
+Texas. Choke Canyon Series 1. Center for Archaeological Research, The University of
+Texas at San Antonio.
+1985
+
+Indian Groups Associated with Spanish Missions of the San Antonio Missions National
+Park. Special Report 16. Center for Archaeological Research, The University of Texas
+at San Antonio.
+
+Campbell, T.N., and Jack Q. Frizzell
+1949
+Notes on the Ayala Site Lower Rio Grande Valley. Bulletin of the Texas Archeological
+and Paleontological Society 20:63â72.
+CasteÃ±eda, Carlos Eduardo
+1976
+Our Catholic Heritage in Texas, 1519â1936. Vols. 3 and 4. Amo Press, New York.
+
+Correll, D., and M.C. Johnston
+1970
+Manual of the Vascular Plants of Texas. Texas Research Foundation, Renner, Texas.
+Covey, C.
+1972
+
+100033612/150039
+
+Cabeza de Vaca's Adventures in the Unknown Interior of America. Collier Books, New
+York.
+
+41
+
+VII. References Cited
+Davis, W.B., and D.J. Schmidly
+1994
+The Mammals of Texas. Texas Parks and Wildlife Department â Nongame and Urban
+Program, Austin.
+
+Day, D. William, Jane Laurens-Day, and Elton R. Prewitt
+1981
+Cultural Resources Surveys and Assessments in Portions of Hidalgo and Willacy
+Counties, Texas. Reports of Investigations, Number 15. Prewitt & Associates, Inc.,
+Austin, Texas.
+
+Dixon, Boyd, Eugene Foster, and Meg Cruse
+2003
+Archaeological Survey of Sharyland Utilities-Mexico Tie Transmission Line Project,
+Hidalgo County, Texas. Prepared for Sutherland, Asbill, and Brennan, LLP. Document
+No. 030345. PBS&J, Austin, Texas.
+Federal Register
+1998
+Volume 63, No. 50, Monday, March 16, 1998.
+Galindo, M.J.
+2003
+
+Con un Pie en Cada Lado: Ethnicities and the Archaeology of Spanish Colonial
+Ranching Communities along the Lower Rio Grande Valley. Ph.D. dissertation,
+University of Texas at Austin.
+
+GarcÃ­a, Maria-Cristina
+2015
+âColonia,â Handbook of Texas Online (http://www.tshaonline.org/handbook/
+online/articles/poc03), accessed August 2015. Uploaded on June 12, 2010. Modified
+on July 28, 2015. Published by the Texas State Historical Association.
+
+Garza, Alicia A.
+2015a âHidalgo County,â Handbook of Texas Online (http://www.tshaonline.org/
+handbook/online/articles/hch14), accessed August 2015. Uploaded on June 15,
+2010. Published by the Texas State Historical Association.
+2015b
+2015c
+2015d
+2015e
+
+100033612/150039
+
+âHidalgo, Texas,â Handbook of Texas Online (http://www.tsha.online.org/
+handbook/online/articles/hjh09), accessed August 2015. Uploaded on June 15, 2010.
+Published by the Texas State Historical Association.
+âMcAllen, Texas,â Handbook of Texas Online (http://www.tshaonline.org/
+handbook/online/articles/hdm01), accessed August 2015. Uploaded on June 15,
+2010. Published by the Texas State Historical Association.
+
+âPeÃ±itas, Texas,â Handbook of Texas Online (http://tshaonline.org/handbook/
+online/articles/hlp17), accessed August 2015. Uploaded on June 15, 2010. Published
+by the Texas State Historical Association.
+
+âPharr, Texas,â Handbook of Texas Online (http://www.tshaonline.org/handbook/
+online/articles/hep05), accessed August 2015. Uploaded on June 15, 2010. Published
+by the Texas State Historical Association.
+42
+
+VII. References Cited
+Garza, Alicia A., and Christopher Long
+2015a âCameron County,â Handbook of Texas Online (http://www.tshaonline.org/
+handbook/online/articles/hcc04), accessed August 2015. Uploaded on June 12,
+2010. Published by the Texas State Historical Association.
+2015b
+
+âBrownsville, Texas,â Handbook of Texas Online (http://www.tshaonline.org/
+handbook/online/articles/hdb04), accessed August 2015. Uploaded on June 12,
+2010. Published by the Texas State Historical Association.
+
+Gilbert, Minnie
+2015
+âHarlingen, Texas,â Handbook of Texas Online (http://www.tshaonline.org/
+handbook/online/articles/hdh02), accessed August 2015. Uploaded on June 15,
+2010. Published by the Texas State Historical Association.
+
+Gould, F.W.
+1975
+
+Texas Plants. A Checklist and Ecological Summary. MP-585/Rev. Texas Agricultural
+Experiment Station, Texas A&M University, College Station.
+
+Goza, Mrs. Goldsby
+2015
+âAmerican Rio Grande Land and Irrigation Company,â Handbook of Texas Online
+(http://www.tshaonline.org/handbook/online/articles/gza01), accessed August
+2015. Uploaded on June 9, 2010. Published by the Texas State Historical Association.
+Graf, L.F.
+1942
+
+The Economic History of the Lower Rio Grande Valley, 1820â1875, Unpublished Ph.D.
+dissertation, Howard University, Cambridge.
+
+Graham, R.W.
+1987
+Late Quaternary Mammalian Faunas and Paleoenvironments of the Southwestern
+Plains of the United States. In Late Quaternary Mammalian Biogeography and
+Environments of the Great Plains and Prairies, editors R.S. Graham, H.A. Semken, and
+M.A. Graham, pp. 24â86. Illinois State Museum Scientific Papers 22, Springfield.
+
+Griffith, G.E., S.A Bryce, J.M. Omernik, J.A. Comstock, A.C. Rogers, B. Harrison, S.L. Hatch, and D.
+Bezanson
+2004
+Ecoregions of Texas (color poster with map, descriptive text, and photographs; map
+scale 1:2,500,000). U.S. Geological Survey, Reston, Virginia.
+Guerra, Antonio MarÃ­a
+1989
+Mier in History. New Santander Press, Edinburg, Texas.
+
+Hall, G.D., M.B. Collins, and E.R. Prewitt
+1987
+Cultural Resources Investigations along Drainage Improvements, Hidalgo and Willacy
+Counties, Texas: 1986 Investigations. Reports of Investigation 59. Prewitt & Associates,
+Inc., Austin, Texas.
+
+100033612/150039
+
+43
+
+VII. References Cited
+Hatch, S.L., K.N. Gandhi, and L.E. Brown
+1990
+Checklist of Vascular Plants of Texas. MP-1655. The Texas Agricultural Experiment
+Station, The Texas A&M University System, College Station.
+Hester, T.R.
+2004
+
+The Prehistory of South Texas. In The Prehistory of Texas, edited by T.K. Perttula, pp.
+127â151. Texas A&M University, College Station.
+
+Hester, T.R., and F. Ruecking, Jr.
+1969
+Additional Materials from the Ayala Site, a Prehistoric Cemetery Site in Hidalgo
+County, Texas, Part II. Bulletin of the Texas Archaeological Society 40:147â157.
+
+Hester, T.R., and E.S. Turner
+2015
+âPrehistory,â
+Handbook
+of
+Texas
+Online
+( http://www.tshaonline.org/
+handbook/online/articles/bfp02), accessed August 2015). Uploaded on June 15,
+2010.
+
+Holliday, V.T.
+1995
+Stratigraphy and Paleoenvironments of Late Quaternary Valley Fills on the Southern
+High Plains. Memoir 186. Geological Society of America, Boulder, Colorado.
+Hosman, R.L.
+1996
+
+Johnson, E.
+1986
+Jones, Dixie
+2015
+
+Regional Stratigraphy and Subsurface Geology of Cenozoic Deposits, Gulf Coastal Plain,
+South-Central United States. No. 1416-G. United States Geological Survey.
+The Late Pleistocene and Early Holocene Paleoenvironments of the Southern Plains
+(USA). Geographic Physique et Quaternaire 40:249â261.
+âOld Military Road,â Handbook of Texas Online (http://www.tshaonline.org/
+handbook/online/articles/exo02), accessed August 2015. Uploaded on June 15,
+2010. Published by the Texas State Historical Association.
+
+Kibler, K.W., and M.D. Freeman
+1993
+Preliminary Cultural Resources Investigations for the Pharr-Reynosa International
+Bridge, Hidalgo County, Texas. Reports of Investigations 90. Prewitt & Associates,
+Inc., Austin, Texas.
+
+Lang, Aldon S., and Christopher Long
+2015
+âLand Grants,â The Handbook of Texas Online (http://www.tsha.online.org/
+handbook/articles/mpl0l), accessed August 2015. Uploaded on June 15, 2010.
+Published by the Texas State Historical Association.
+
+Lyle, C.
+1997
+
+100033612/150039
+
+American Indian Languages: The Historic Linguistics of North America. Oxford
+University Press, New York.
+44
+
+VII. References Cited
+MacNeish, R.S.
+1947
+A Preliminary Report on Coastal Tamaulipas, Mexico. American Antiquity 13(1):1â15.
+1958
+
+Preliminary Archaeological Investigations in the Sierra de Tamaulipas, Mexico.
+Transactions of the American Philosophical Society 48:6.
+
+Mahr-Yanez, Aaron, and Timothy K. Perttula
+1995
+American Battlefield Protection Program, Fort Brown Battlefield Survey Form.
+
+Mallouf, Robert J., Barbara J. Baskin, and Kay L. Killen
+1977
+Predictive Assessment of Cultural Resources in Hidalgo and Willacy Counties, Texas.
+Archeological Survey Report 23. Office of the State Archeologist, Texas Historical
+Commission.
+
+Mason, J. Alden
+1935
+The Place of Texas in Pre-Columbian Relationships between the United States and
+Mexico. Bulletin of the Texas Archeological and Paleontological Society 7:29â46.
+
+Matthews, William K.
+1938
+A History of Irrigation in the Lower Rio Grande Valley. Unpublished Masterâs thesis,
+The University of Texas at Austin.
+McKenna, Verna J.
+2015a âClosner, John,â Handbook of Texas Online (http://www.tshaonline.org/handbook/
+online/articles/fcl33), accessed August 2015. Uploaded on June 12, 2010. Published
+by the Texas State Historical Association.
+2015b
+
+âSan Juan Plantation,â Handbook of Texas Online (http://www.tshaonline.org/
+handbook/online/articles/acs01), accessed August 2015. Uploaded on June 15, 2010.
+Published by the Texas State Historical Association.
+
+Meyers [Myers], Terri, and Karen J. Weitze
+1995
+National Register of Historic Places Registration Form, âLouisiana-Rio Grande Canal
+Company Irrigation System (a.k.a. Hidalgo County Irrigation District No. 2).â Copy on
+file at the Texas Historical Commission, Austin, Texas. Prepared by Hardy Heck Moore
+& Associates, Inc., Austin, Texas.
+Natural Resources Conservation Service, U.S. Department of Agriculture (NRCS)
+2015
+Survey Geographic (SSURGO) Database. Available online at http://websoilsurvey.
+nrcs.usda.gov/ (accessed March 2015).
+Paine, J.G.
+2000
+
+100033612/150039
+
+Identifying and Assessing Ground Water in the Lower Rio Grande Valley, Texas Using
+Airborne Electromagnetic Induction. Interagency Contract No. 99-483-310. Bureau of
+Economic Geology, The University of Texas at Austin.
+
+45
+
+VII. References Cited
+Ricklis, R.A.
+1986
+
+Archaeological Investigations at the McKinzie Site (41NU221): Description and
+Contextual Interpretations. Unpublished Masterâs thesis, Department of
+Anthropology, The University of Texas at Austin.
+
+Ruecking, Frederick, Jr.
+1955
+The Economic System of the Coahuiltecan Indians of Southern Texas and
+Northeastern Mexico. Texas Journal of Science 5(4):480â497.
+Salinas, M.
+1990
+
+Indians of the Rio Grande Delta: Their Role in the History of Southern Texas and
+Northeastern Mexico. University of Texas Press, Austin.
+
+Sapir, Edward
+1920
+The Hokan and Coahuiltecan Languages. International Journal of American Linguistics
+1:280â290.
+Sellards, E.H., W.S. Adkins, and F.B. Plummer
+1966
+The Geology of Texas, Vol. 1. Stratigraphy. Bulletin No. 3232. Bureau of Economic
+Geology, The University of Texas at Austin.
+
+Suhm, D.A., and E.B. Jelks
+1962
+Handbook for Texas Archaeology: Type Descriptions. Texas Archaeological Society,
+Special Publication 1 and Texas Memorial Museum Bulletin 4, Austin.
+
+Swanton, John R.
+1940
+Linguistic Material from the Tribes of Southern Texas and Northeastern Mexico.
+Bureau of American Ethnology Bulletin 127. Washington, D.C.
+
+Taylor, Anna Jean, and Cheryl Lynn Highley
+1995
+Archeological Investigations at the Loma Sandia Site (41LK28): A Prehistoric Cemetery
+and Campsite in Live Oak County, Texas. Studies in Archeology 20, Texas Archeological
+Research Laboratory, The University of Texas at Austin.
+Terneny, T.T.
+2005
+A Re-Evaluation of Late Prehistoric and Archaic Chronologies in the Rio Grande
+Delta of South Texas. Unpublished Ph.D. dissertation at The University of Texas at
+Austin.
+
+Texas Historic Sites Atlas
+1964
+âSan Juan Plantation,â RTHL Marker Text, http://atlas.thc.state.tx.us/common/
+viewform.asp?atlas_num=5215004544&site_name=San (accessed May 20, 2011).
+Thompson, J.H.
+1965
+Nineteenth Century History of Cameron County, Texas. Unpublished Masterâs thesis,
+University of Texas at Austin.
+
+100033612/150039
+
+46
+
+VII. References Cited
+Vigness, David M., and Mark Odintz
+2015
+âRio Grande Valley,â The Handbook of Texas Online (http://www.tshaonline.org/
+handbook/online/articles/ryr01), accessed August 2015. Uploaded on June 15, 2010.
+Published by the Texas State Historical Association.
+Webb, Walter Prescott (editor)
+1952
+The Handbook of Texas, Volumes I and II. Texas State Historical Association, Austin.
+
+100033612/150039
+
+47
+
+Appendix A
+Project Results Maps
+(Not for Public Disclosure)
+
+!
+!
+
+rc24
+
+ka17
+!
+!
+! backfill
+!
+! db30
+!
+
+!
+!
+
+TX-HI-0010
+
+inundated
+
+TX-HI-0011
+
+!
+!
+
+ni 1
+!
+!
+
+ms2
+
+!
+!
+ni2
+
+!
+!
+ms3
+
+!
+!
+ni3
+
+Wilacy
+County
+
+Hidalgo
+County
+
+! Positive Shovel Test
+!
+! Negative Shovel Test
+!
+
+Cameron
+County
+
+Appendix
+Survey Area 1 Results
+TX-HI_0010 to TX-HI-0011
+Brownsville Public Utility Board
+Cross Valley Pipeline Reroutes Project
+Hidalgo and Cameron Counties, Texas
+
+TX-HI-0010 to TX-HI-0011 Lt Green
+Route
+Land Parcel Boundary
+
+Datum: NAD 1983
+Projection: UTM
+Zone: 14 North
+Units: Meters
+Topo: USGS
+
+0
+
+500
+0
+
+100
+
+1,000
+Feet
+200
+Meters
+
+I
+
+Prepared By: ATKINS/18827
+
+Scale: 1 " = 1,000 feet
+
+Job No.: 100033612
+
+Date: Aug 20, 2015
+
+File: H:\Clients\A_B\Brownsville_PUB\100033612_gasline\geo\Cultural_Maps\Shovel_Tests_HI10_to_HI11_topo.mxd
+
+Service Layer Credits: Sources: Esri, HERE, DeLorme, USGS, Intermap, increment P Corp., NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom,
+MapmyIndia, Â© OpenStreetMap contributors, and the GIS User Community
+Copyright:Â© 2013 National Geographic Society, i-cubed
+
+Wilacy
+County
+
+! Positive Shovel Test
+!
+Hidalgo
+County
+
+! Negative Shovel Test
+!
+
+Cameron
+County
+
+Appendix
+Survey Area 1 Results
+TX-HI_0010 to TX-HI-0011
+Brownsville Public Utility Board
+Cross Valley Pipeline Reroutes Project
+Hidalgo and Cameron Counties, Texas
+
+TX-HI-0010 to TX-HI-0011 Lt Green
+Route
+Land Parcel Boundary
+
+Datum: NAD 1983
+Projection: UTM
+Zone: 14 North
+Units: Meters
+Aerial: Bing Maps Hybrid
+
+0
+
+500
+0
+
+100
+
+1,000
+Feet
+200
+Meters
+
+I
+
+Prepared By: ATKINS/18827
+
+Scale: 1 " = 1,000 feet
+
+Job No.: 100033612
+
+Date: Aug 20, 2015
+
+File: H:\Clients\A_B\Brownsville_PUB\100033612_gasline\geo\Cultural_Maps\Shovel_Tests_HI10_to_HI11_aerial.m xd
+
+Service Layer Credits: Sources: Esri, HERE, DeLorme, USGS, Intermap, increment P Corp., NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom,
+MapmyIndia, Â© OpenStreetMap contributors, and the GIS User Community
+Â© 2015 DigitalGlobe Image courtesy of USGS Â© 2015 GeoEye Image courtesy of ImagePatch.com Earthstar Geographics SIO Â© 2015 Microsoft Corporation Â© 2015 HERE Â©
+AND
+
+Individual burned
+clay ball
+rc6
+
+db13
+
+db8
+
+m9
+
+m8
+
+TX-CA-0040
+
+Individual burned
+clay ball
+
+rc7
+
+ka1
+
+Burned clay ball
+Concentration
+
+m11
+db7
+
+db9
+
+db11
+m10
+! !
+rc9
+! ! !
+! !
+!
+!
+! !
+! !
+! !
+m12
+! !
+! !
+!
+TX-CA
+TX-CA-0!
+!
+! !
+!
+ka4
+036
+! !
+TX-CA
+0034
+!
+!
+0037
+! !
+! !
+0035
+! !
+0038 !
+!
+! !
+!
+ka3
+db10
+rc8
+ka2
+
+ka5
+TX-CA-0039
+
+m14
+db14
+rc11
+db15
+
+Individual burned
+clay ball
+
+!
+!
+! !
+(
+! (
+ka6
+! !
+!
+! !
+! !
+! !
+! !
+! !
+! !
+!
+
+m13
+rc10
+db12
+
+m15
+db16
+rc12
+db17
+ka7
+
+Burned clay ball
+concentration
+
+m16
+
+Burned clay ball
+concentration
+
+db22
+
+m19
+! !
+!
+(!
+! !
+! !
+rc16
+! !
+! !
+! !
+db21
+! !
+! !
+! !
+! !
+! !
+!
+! !
+db18
+!
+! !
+! !
+( !
+!
+! !
+rc13
+! !
+! !
+! !
+!
+rc15
+ka8
+ka9
+m17
+m18
+db19
+db20
+rc14
+
+ka10
+rc17
+m20
+
+Individual burned
+clay ball
+
+Wilacy
+County
+
+!
+!
+!
+!
+
+Hidalgo
+County
+
+Datum: NAD 1983
+Projection: UTM
+Zone: 14 North
+Units: Meters
+Topo: USGS
+
+Cameron
+County
+
+(
+!
+
+Positive Shovel Test
+Negative Shovel Test
+Individual burned clay ball
+Site Boundary
+Burned clay ball concentration
+TX-CA-0034 to TX-CA-0040 Red Route
+TX-CA-0034 to TX-CA-0038 Lt Blue Route
+
+I
+0
+0
+
+1,000
+500
+
+2,000
+Feet
+1,000
+Meters
+
+Appendix
+Survey Area 2 Results
+TX-CA-0034 to TX-CA-0040
+Brownsville Public Utility Board
+Cross Valley Pipeline Reroutes Project
+Hidalgo and Cameron Counties, Texas
+Prepared By: ATKINS/18827
+
+Scale: 1 " = 2,000 feet
+
+Job No.: 100033612
+
+Date: Aug 20, 2015
+
+File: H:\Clients\A_B\Brownsville_PUB\100033612_gasline\geo\Cultural_Maps\Shovel_Tests_CA34_to_CA40_topo.mxd
+
+Service Layer Credits: Sources: Esri, HERE, DeLorme, USGS, Intermap, increment P Corp., NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, MapmyIndia, Â© OpenStreetMap contributors,
+and the GIS User Community
+Copyright:Â© 2013 National Geographic Society, i-cubed
+
+Wilacy
+County
+
+!
+!
+!
+!
+
+Hidalgo
+County
+
+Datum: NAD 1983
+Projection: UTM
+Zone: 14 North
+Units: Meters
+Aerial: Bing Map Hybrid
+
+Cameron
+County
+
+(
+!
+
+Positive Shovel Test
+Negative Shovel Test
+Individual burned clay ball
+Site Boundary
+Burned clay ball concentration
+TX-CA-0034 to TX-CA-0040 Red Route
+TX-CA-0034 to TX-CA-0038 Lt Blue Route
+
+I
+0
+0
+
+1,000
+500
+
+2,000
+Feet
+1,000
+Meters
+
+Appendix
+Survey Area 2 Results
+TX-CA-0034 to TX-CA-0040
+Brownsville Public Utility Board
+Cross Valley Pipeline Reroutes Project
+Hidalgo and Cameron Counties, Texas
+Prepared By: ATKINS/18827
+
+Scale: 1 " = 2,000 feet
+
+Job No.: 100033612
+
+Date: Aug 20, 2015
+
+File: H:\Clients\A_B\Brownsville_PUB\100033612_gasline\geo\Cultural_Maps\Shovel_Tests_CA34_to_CA40_aerial.mxd
+
+Service Layer Credits: Sources: Esri, HERE, DeLorme, USGS, Intermap, increment P Corp., NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, MapmyIndia, Â© OpenStreetMap contributors,
+and the GIS User Community
+Â© 2015 DigitalGlobe Image courtesy of USGS Â© 2015 GeoEye Image courtesy of ImagePatch.com Earthstar Geographics SIO Â© 2015 Microsoft Corporation Â© 2015 HERE Â© AND
+
+TX-CA-0055
+
+m1
+!
+!
+
+rc1
+!
+!
+
+TX-CA-0056
+
+!
+!
+
+db1
+
+m2
+!
+!
+
+Wilacy
+County
+
+Hidalgo
+County
+
+Cameron
+County
+
+Appendix
+Survey Area 3 Results
+TX-CA-0055 to TX-CA-0056
+Brownsville Public Utility Board
+Cross Valley Pipeline Reroutes Project
+Hidalgo and Cameron Counties, Texas
+
+! Negative Shovel Test
+!
+
+TX-CA-0056 Lt Green Route
+Land Parcel Boundary
+
+Datum: NAD 1983
+Projection: UTM
+Zone: 14 North
+Units: Meters
+Topo: USGS
+
+0
+
+250
+0
+
+50
+
+500
+Feet
+100
+Meters
+
+I
+
+Prepared By: ATKINS/18827
+
+Scale: 1 " = 500 feet
+
+Job No.: 100033612
+
+Date: Aug 20, 2015
+
+File: H:\Clients\A_B\Brownsville_PUB\100033612_gasline\geo\Cultural_Maps\Shovel_Tests_CA056_topo.mxd
+
+Service Layer Credits: Sources: Esri, HERE, DeLorme, USGS, Intermap, increment P Corp., NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, MapmyIndia, Â©
+OpenStreetMap contributors, and the GIS User Community
+Copyright:Â© 2013 National Geographic Society, i-cubed
+
+Wilacy
+County
+
+Hidalgo
+County
+
+Cameron
+County
+
+Appendix
+Survey Area 3 Results
+TX-CA-0055 to TX-CA-0056
+Brownsville Public Utility Board
+Cross Valley Pipeline Reroutes Project
+Hidalgo and Cameron Counties, Texas
+
+! Negative Shovel Test
+!
+
+TX-CA-0056 Lt Green Route
+Land Parcel Boundary
+
+Datum: NAD 1983
+Projection: UTM
+Zone: 14 North
+Units: Meters
+Aerial: Bing Maps Hybrid
+
+0
+
+250
+0
+
+50
+
+500
+Feet
+100
+Meters
+
+I
+
+Prepared By: ATKINS/18827
+
+Scale: 1 " = 500 feet
+
+Job No.: 100033612
+
+Date: Aug 20, 2015
+
+File: H:\Clients\A_B\Brownsville_PUB\100033612_gasline\geo\Cultural_Maps\Shovel_Tests_CA056_aerial.m xd
+
+Service Layer Credits: Sources: Esri, HERE, DeLorme, USGS, Intermap, increment P Corp., NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, MapmyIndia, Â©
+OpenStreetMap contributors, and the GIS User Community
+Â© 2015 DigitalGlobe Image courtesy of USGS Â© 2015 GeoEye Image courtesy of ImagePatch.com Earthstar Geographics SIO Â© 2015 Microsoft Corporation Â© 2015 HERE Â© AND
+
+TX-CA-0093
+
+rc5
+!
+!
+
+!
+!
+
+ms1
+
+TX-CA-0094
+
+mjg1
+!
+!
+
+!
+!
+!
+)
+"
+!
+Trench ms3
+
+TX-CA-0095
+
+!
+rc2 !
+
+m3
+!
+!
+
+Trench ms1 !
+!
+!
+!
+!
+)
+"
+!
+
+! Trench ms2
+!
+!
+!
+)
+"
+rc3
+!
+db2 !
+!
+!
+
+!
+db3 !
+
+m4
+!
+!
+
+TX-CA-0096
+
+!
+rc4 !
+
+db4
+!
+!
+
+m5
+!
+!
+
+TX-CA-0097
+
+! inundated
+!
+!
+jpw1 !
+
+Wilacy
+County
+
+! Negative Shovel Test
+!
+
+)
+"
+Hidalgo
+County
+
+Cameron
+County
+
+Trench
+TX-CA-0093 to TX-CA-0096 Lt Blue Route
+TX-CA-0093 to TX-CA-0096 Red Route
+TX-CA-0093 to TX-CA-0096 Lt Green Route
+Land Parcel Boundary
+
+Datum: NAD 1983
+Projection: UTM
+Zone: 14 North
+Units: Meters
+Topo: USGS
+
+0
+
+250
+0
+
+50
+
+500
+Feet
+100
+Meters
+
+I
+
+Appendix
+Survey Area 4 Results
+TX-CA-0093 to TX-CA-0097
+Brownsville Public Utility Board
+Cross Valley Pipeline Reroutes Project
+Hidalgo and Cameron Counties, Texas
+Prepared By: ATKINS/18827
+
+Scale: 1 " = 500 feet
+
+Job No.: 100033612
+
+Date: Aug 20, 2015
+
+File: H:\Clients\A_B\Brownsville_PUB\100033612_gasline\geo\Cultural_Maps\Shovel_Tests_CA93_to_CA96_topo.mxd
+
+Service Layer Credits: Sources: Esri, HERE, DeLorme, USGS, Intermap, increment P Corp., NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, MapmyIndia, Â©
+OpenStreetMap contributors, and the GIS User Community
+Copyright:Â© 2013 National Geographic Society, i-cubed
+
+Wilacy
+County
+
+! Negative Shovel Test
+!
+
+)
+"
+Hidalgo
+County
+
+Cameron
+County
+
+Trench
+TX-CA-0093 to TX-CA-0096 Lt Blue Route
+TX-CA-0093 to TX-CA-0096 Red Route
+TX-CA-0093 to TX-CA-0096 Lt Green Route
+Land Parcel Boundary
+
+Datum: NAD 1983
+Projection: UTM
+Zone: 14 North
+Units: Meters
+Aerial: Bing Maps Hybrid
+
+0
+
+250
+0
+
+50
+
+500
+Feet
+100
+Meters
+
+I
+
+Appendix
+Survey Area 4 Results
+TX-CA-0093 to TX-CA-0097
+Brownsville Public Utility Board
+Cross Valley Pipeline Reroutes Project
+Hidalgo and Cameron Counties, Texas
+Prepared By: ATKINS/18827
+
+Scale: 1 " = 500 feet
+
+Job No.: 100033612
+
+Date: Aug 20, 2015
+
+File: H:\Clients\A_B\Brownsville_PUB\100033612_gasline\geo\Cultural_Maps\Shovel_Tests_CA93_to_CA96_aerial.mxd
+
+Service Layer Credits: Sources: Esri, HERE, DeLorme, USGS, Intermap, increment P Corp., NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, MapmyIndia, Â©
+OpenStreetMap contributors, and the GIS User Community
+Â© 2015 DigitalGlobe Image courtesy of USGS Â© 2015 GeoEye Image courtesy of ImagePatch.com Earthstar Geographics SIO Â© 2015 Microsoft Corporation Â© 2010 NAVTEQ Â© AND
+
+disturbed
+rc20
+ka13
+
+inundated
+marsh
+db24
+
+ka12
+
+! !
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+! rc809
+!
+!
+!
+inundated
+sc152
+!
+TX-CA-0136
+!
+
+TX-CA-0136
+
+rc19
+
+!
+!
+
+ka11
+
+TX-CA-0136
+
+TX-CA-0136
+
+Trench ms4 "
+!
+!
+!!
+)
+!
+!
+
+!
+!
+
+!
+!
+
+!
+!
+
+!
+!
+
+TX-CA-0138
+
+M7
+!
+!
+db6
+TX-CA-0139
+
+m6
+
+db5
+
+TX-CA-0139
+
+ka14
+TX-CA-0139
+
+rc21
+
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+
+!
+!
+
+TX-CA-0136
+
+canal
+
+inundated
+
+!
+!
+Trench ms5 !
+!
+)
+"
+!
+disturbed
+!
+!
+
+pond
+
+db26
+db25
+!
+!
+inundated
+!
+!
+!
+!
+)
+"
+!
+!
+!
+!
+!
+!
+Trench ms6
+!
+!
+
+!
+!
+
+rc18
+
+canal
+db27
+sewer manhole
+
+!
+!
+
+!
+!
+
+db23
+
+inundated
+
+!
+!
+
+inundated
+
+TX-CA-0139
+
+ka15
+
+db28
+
+TX-CA-0139
+TX-CA-0140
+
+!
+!
+
+rc22 ka16
+db29 rc23 db30
+!
+!
+ka18 rc25
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+
+TX-CA-0141
+
+!
+!
+
+db31 rc26 db32
+ka19
+!
+!
+!
+!
+!
+!
+rc27
+!
+!
+TX-CA-0145
+
+Wilacy
+County
+
+! Negative Shovel Test
+!
+Hidalgo
+County
+
+Cameron
+County
+
+)
+"
+
+Trench
+TX-CA-0136 to TX-CA-0142 Yellow Route
+TX-CA-0136 to TX-CA-0142 Blue Route
+Land Parcel Boundary
+
+Datum: NAD 1983
+Projection: UTM
+Zone: 14 North
+Units: Meters
+Topo: USGS
+
+0
+
+500
+0
+
+100
+
+1,000
+Feet
+200
+Meters
+
+I
+
+Appendix
+Survey Area 5 Results
+TX-CA-0136 to TX-CA-0142
+Brownsville Public Utility Board
+Cross Valley Pipeline Reroutes Project
+Hidalgo and Cameron Counties, Texas
+Prepared By: ATKINS/18827
+
+Scale: 1 " = 1,000 feet
+
+Job No.: 100033612
+
+Date: Aug 20, 2015
+
+File: H:\Clients\A_B\Brownsville_PUB\100033612_gasline\geo\Cultural_Maps\Shovel_Tests_CA136_to_CA142_topo.mxd
+
+Service Layer Credits: Sources: Esri, HERE, DeLorme, USGS, Intermap, increment P Corp., NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, MapmyIndia, Â©
+OpenStreetMap contributors, and the GIS User Community
+Copyright:Â© 2013 National Geographic Society, i-cubed
+
+Wilacy
+County
+
+! Negative Shovel Test
+!
+Hidalgo
+County
+
+Cameron
+County
+
+)
+"
+
+Trench
+TX-CA-0136 to TX-CA-0142 Yellow Route
+TX-CA-0136 to TX-CA-0142 Blue Route
+Land Parcel Boundary
+
+Datum: NAD 1983
+Projection: UTM
+Zone: 14 North
+Units: Meters
+Aerial: Bing Maps Hybrid
+
+0
+
+500
+0
+
+100
+
+1,000
+Feet
+200
+Meters
+
+I
+
+Appendix
+Survey Area 5 Results
+TX-CA-0136 to TX-CA-0142
+Brownsville Public Utility Board
+Cross Valley Pipeline Reroutes Project
+Hidalgo and Cameron Counties, Texas
+Prepared By: ATKINS/18827
+
+Scale: 1 " = 1,000 feet
+
+Job No.: 100033612
+
+Date: Aug 20, 2015
+
+File: H:\Clients\A_B\Brownsville_PUB\100033612_gasline\geo\Cultural_Maps\Shovel_Tests_CA136_to_CA142_aerial.m xd
+
+Service Layer Credits: Sources: Esri, HERE, DeLorme, USGS, Intermap, increment P Corp., NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, MapmyIndia, Â©
+OpenStreetMap contributors, and the GIS User Community
+Â© 2015 DigitalGlobe Image courtesy of USGS Â© 2015 GeoEye Image courtesy of ImagePatch.com Earthstar Geographics SIO Â© 2015 Microsoft Corporation Â© 2015 HERE Â© AND
+
+Appendix B
+Site 41CF223 Map
+(Not for Public Disclosure)
+
+Individual burned
+clay ball
+db13
+Individual burned
+clay ball
+
+m11
+
+ka5
+db11
+
+db14
+
+m12
+!
+!
+
+!
+!
+
+Burned clay ball
+Concentration
+
+m14
+
+rc9
+
+!
+!
+
+!
+!
+
+!
+!
+
+!
+!
+
+!
+!
+
+Individual burned
+clay ball
+
+rc11
+
+ka4
+
+db15
+!
+!
+
+!
+!
+(
+!
+
+m16
+!
+!
+
+ka3
+
+(
+!
+!
+
+!
+!
+
+ka6
+!
+!
+
+!
+!
+
+!
+!
+
+!
+!
+
+Burned clay ball
+concentration
+
+db10
+
+!
+!
+
+!
+!
+
+m13
+
+Burned clay ball
+concentration
+!
+!
+
+!
+!
+
+(
+!
+
+!
+!
+
+!
+!
+
+rc16
+
+!
+!
+
+m15
+
+!
+!
+
+!
+!
+
+rc10
+db12
+
+m19
+
+!
+!
+
+db16
+db18
+
+!
+!
+
+db21
+!
+!
+
+!
+!
+
+!
+!
+
+!
+!
+
+rc12
+
+!
+!
+
+!
+!
+
+!
+!
+(
+
+rc13
+
+db17
+
+!
+!
+
+rc15
+
+ka8
+ka7
+
+ka9
+
+m17
+m18
+
+db19
+db20
+
+rc14
+
+Individual burned
+clay ball
+
+Wilacy
+County
+Hidalgo
+County
+
+Datum: NAD 1983
+Projection: UTM
+Zone: 14 North
+Units: Meters
+Topo: USGS
+
+Cameron
+County
+
+!
+!
+!
+!
+
+(
+!
+
+Positive Shovel Test
+Negative Shovel Test
+Site Boundary
+Individual burned clay ball
+Burned clay ball concentration
+TX-CA-0034 to TX-CA-0040 Red Route
+TX-CA-0034 to TX-CA-0038 Lt Blue Route
+
+I
+0
+0
+
+Service Layer Credits: Sources: Esri, HERE, DeLorme, USGS, Intermap, increment P Corp., NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, MapmyIndia, Â© OpenStreetMap contributors,
+and the GIS User Community
+Copyright:Â© 2013 National Geographic Society, i-cubed
+
+600
+300
+
+1,200
+Feet
+600
+Meters
+
+Site 41CF223
+TX-CA-0034 to TX-CA-0040
+Brownsville Public Utility Board
+Cross Valley Pipeline Reroutes Project
+Hidalgo and Cameron Counties, Texas
+Prepared By: ATKINS/18827
+
+Scale: 1 " = 1,200 feet
+
+Job No.: 100033612
+
+Date: Aug 20, 2015
+
+File: H:\Clients\A_B\Brownsville_PUB\100033612_gasline\geo\Cultural_Maps\Site_RC9_topo.mxd
+
+!
+!
+
+Wilacy
+County
+Hidalgo
+County
+
+Datum: NAD 1983
+Projection: UTM
+Zone: 14 North
+Units: Meters
+Aerial: Bing Map Hybrid
+
+Cameron
+County
+
+!
+!
+!
+!
+
+(
+!
+
+Positive Shovel Test
+Negative Shovel Test
+Site Boundary
+Individual burned clay ball
+Burned clay ball concentration
+TX-CA-0034 to TX-CA-0040 Red Route
+TX-CA-0034 to TX-CA-0038 Lt Blue Route
+
+I
+0
+0
+
+Service Layer Credits: Sources: Esri, HERE, DeLorme, USGS, Intermap, increment P Corp., NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, MapmyIndia, Â© OpenStreetMap contributors,
+and the GIS User Community
+Â© 2015 DigitalGlobe Image courtesy of USGS Â© 2015 GeoEye Image courtesy of ImagePatch.com Earthstar Geographics SIO Â© 2015 Microsoft Corporation Â© 2015 HERE Â© AND
+
+600
+300
+
+1,200
+Feet
+600
+Meters
+
+Site 41CF223
+TX-CA-0034 to TX-CA-0040
+Brownsville Public Utility Board
+Cross Valley Pipeline Reroutes Project
+Hidalgo and Cameron Counties, Texas
+Prepared By: ATKINS/18827
+
+Scale: 1 " = 1,200 feet
+
+Job No.: 100033612
+
+Date: Aug 20, 2015
+
+File: H:\Clients\A_B\Brownsville_PUB\100033612_gasline\geo\Cultural_Maps\Site_RC9_aerial.mxd
+
+

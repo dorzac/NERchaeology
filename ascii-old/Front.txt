@@ -1,0 +1,1701 @@
+Copyright
+by
+Kenneth Martin Brown
+2006
+
+The Dissertation Committee for Kenneth Martin Brown Certifies that this is the
+approved version of the following dissertation:
+
+The Bench Deposits at Berger Bluff: Early Holocene-Late Pleistocene
+Depositional and Climatic History
+
+Committee:
+Thomas R. Hester, Supervisor
+Samuel M. Wilson, Co-Supervisor
+Michael R. Bever
+Michael B. Collins
+Darrell G. Creel
+Ernest L. Lundelius, Jr.
+
+The Bench Deposits at Berger Bluff: Early Holocene-Late Pleistocene
+Depositional and Climatic History
+
+by
+Kenneth Martin Brown, B.A., M.A.
+
+Dissertation
+Presented to the Faculty of the Graduate School of
+The University of Texas at Austin
+in Partial Fulfillment
+of the Requirements
+for the Degree of
+
+Doctor of Philosophy
+
+The University of Texas at Austin
+May, 2006
+
+Dedication
+
+This dissertation is dedicated to two of my first archeology teachers, Cecil A. Calhoun
+(1932-2003) and Dee Ann Story. Both of them exemplify the value of pursuing inquiry
+with careful attention to detail.
+
+Acknowledgments
+
+First of all, I want to thank my committee members, especially co-chairs Dr.
+Thomas Hester and Dr. Samuel Wilson, who interceded on my behalf many times with
+the Department of Anthropology and the Graduate School, as well as the other members,
+Drs. Michael Bever, Michael Collins, Darrell Creel, and Ernest Lundelius, Jr.
+Unfortunately, they had to read all the text that follows. In particular, I couldn’t have
+gotten through this without Sam, who bent all the rules way beyond the elastic modulus.
+I must also thank the field crew, both paid and volunteer, who endured the
+freezing cold, when it got so bad that just holding a pencil to write was nearly
+impossible, ignoring the chilling drizzle settling out of the raw December sky, and
+straining against the cold gray winter light to see their field notes with a bitter wind
+whipping their backs. And that was merely what it was like in the crew house! Will
+Goetzmann, Dan Potter, Lang Scruggs, and Don White comprised the UTSA-CAR
+crew. Victoria archeological stalwarts Bill Birmingham, the late Smitty Schmiedlin,
+Mark Terry, Sonny Timme, and Ed Vogt rendered inestimable help; Bill not only helped
+on the site, but also loaned his own personal equipment many times. Special thanks also
+go to Sonny, who first found the hearth and recognized it for what it was. Let us also not
+forget that these Victorians were the first archeologists to locate the Berger Bluff site
+and bring it to the attention of the CAR survey team. Other volunteer workers were
+v
+
+Grant Hall and Erwin Roemer, Jr. of the CAR, both of whom took a day from busy
+schedules to come down and help when I needed it most; Cindy White, who helped
+with mapping; and Joan DeCosta, who helped set duplicate primary datum points and
+collect soil samples from the upper deposits. Crew members Ralph Snavely and Chuck
+Suhler and backhoe operator Lloyd Barefield helped in 1983 with testing in advance of
+Flume #3 construction; that project is reported elsewhere, and provided geological
+information on area B of the Berger Bluff site, information which helps us
+understand the origin of some of the upper deposits.
+
+I also want to thank the original owners of the land on which the site is located.
+Leslie Berger and Noel Dietzel allowed us to cross their land to get to the site. Mr.
+Berger and Nelson Pantel, who owns the land across the creek, also helped answer
+some of my questions about the history of the site environs. Stan Pantel (Nelson's
+nephew) and Earlene Madden visited us out of curiosity, then became friends as we
+spent a few pleasant evenings on the Pantel place, fortified with Lone Stars around a
+mesquite-stoked campfire. Stan, this one is for you. I understood your strong sense of
+belonging for the Coleto, and I expect others before us have felt it too.
+
+Still more thanks go to those who helped expedite the field project
+administratively: to Brian Serrold (Guadalupe-Blanco River Authority), to Dr. Thomas
+R. Hester (former Director, CAR), who helped in many ways, not the least of which
+was to help secure the vertebrate paleontology grant awarded by the Texas
+Archaeological Foundation. And, of course, thanks to the Foundation and to those
+board members (including Dr. Harry J. Shafer, the late C.K. Chandler, and others)
+who took a special interest in the project. Funding for this project has been provided
+vi
+
+by Central Power and Light, the Texas Archaeological Foundation, the Potts-Sibley
+Foundation, the Friends of Archaeology, the R. L. Andrews Memorial Award, and by
+an anonymous donor. Additional support in the form of radiocarbon dating (gratis) was
+provided by the NSF Facility for Radioisotope Analysis at the University of Arizona.
+
+Special thanks, too, go to Glen Evans, who briefly examined the
+stratigraphic section during David Brown's excavations and who provided the beginning
+stratigraphic framework necessary to interpret the depositional history of the site.
+Charles Winker, whose excellent master's thesis (Geological Sciences, UT Austin)
+provides another kind of framework, this one dealing with the Quaternary evolution of
+the Gulf coastal plain, visited the site and looked at the stratigraphy, and loaned me a
+copy of his thesis, which has proved very useful.
+
+Several people helped with an attempt at thermoluminescent dating of the hearth,
+later abandoned. The late Dr. Don Lewis (UTSA) supervised this aspect and taught me
+something about the mechanics of the technique. Dr. Clara Ho (Director, Mineral
+Studies Lab, Bureau of Economic Geology, UT Austin) provided the potassium
+analysis of the hearth sediment. David Cadena (Southwest Research Institute)
+provided irradiation of hearth sediment samples. Steve Black and Paul Lukowski
+(formerly UTSA-CAR) assisted with alpha-counting. Although this effort was not
+successful, all this help is no less appreciated.
+
+Pat Wallace and Maggie Gage recovered the microscopic snails from the
+sediment samples, and I especially want to thank Maggie for her meticulous efforts in
+this work. Thanks to her we acquired some excellent data which proved to be critical in
+vii
+
+understanding the site. Dr. Raymond Neck (former biologist, Texas Parks and Wildlife
+Department), a contributor to this report, analyzed the microsnail fauna and confirmed
+my identifications of the freshwater mussels from both the upper and lower deposits.
+
+Sam Valastro (formerly Radiocarbon Lab, Texas Memorial Museum and
+Balcones Research Center) provided radiocarbon dating of some of the miniscule
+samples from the lower deposits. Charles Tucek (formerly Radiocarbon Ltd.) attempted
+another one which proved too small; his work was done gratis.
+
+Several people expedited my work on grain size analysis of the sediment
+samples. Dr. Earle McBride (Geological Sciences, UT Austin) arranged for me to work
+in the sediment lab; Cindy Lopez graciously taught me how to do the analysis and
+endured my constant pestering for information and supplies. Thanks, Cindy! Dr.
+James O. Jones (Earth and Physical Sciences, UTSA) arranged for me to process more
+sediment samples at UTSA. Dr. Wulf Gose (Geological Sciences, UT Austin) and Paul
+Takac supervised my analysis of magnetic susceptibility samples.
+
+Mid-West Petrographic Service (Ypsilanti, Michigan) thin-sectioned various
+geological samples for me. Dr. Charles Frederick assisted with interpretation of sediment
+thin sections. Dr. David W. Stahle graciously furnished reprints and unpublished tree-ring
+data from the Coleto Creek power plant site.
+
+Extra special thanks go to Dr. Ernest Lundelius (Geological Sciences, UT
+Austin), who provided authoritative paleontological expertise, endured my persistent,
+frequent questions, xeroxed obscure articles for me, and arranged for fine screening of
+viii
+
+about a cubic meter of fill from one of the excavation units. He also re-examined some
+of the animal bone, including the microtine specimens. And I swear that Ernie carried
+more of that stuff up the bluff than anyone else. I'll never forget him with a bag of wet
+sand over each shoulder and another under each arm, waiting patiently on a six-inch
+ledge as I struggled to drag one bag up the footpath to the top of the bluff. Boyce
+Cabaniss, who did the vertebrate paleontological analysis and who is also a contributor
+to this report, and Ann Warren (both graduate students in geology at UT Austin at the
+time) visited the site at the same time and also helped carry matrix up the bluff. Boyce
+also washed and sorted the matrix, a thankless job if there ever was one. Dr. Michael
+A. Schmerling assisted with SEM studies of fish vertebrae.
+
+The first numerical studies that I did of some of the Berger Bluff data were done
+so long ago that they were done with mainframe computers, and several people helped
+with computer work. Liz Frkuska (CAR), Dr. Solveig Turpin, and Sue Boinski (Zoology,
+UT Austin) managed to beat assorted computers into submission for me, both in Austin
+and in San Antonio. Ultimately, the work was redone with modern desktop computer and
+software.
+
+Pollen analysis was done by Dr. Richard Holloway (formerly Texas A&M
+University) and Dr. Anne I. Woosley (SMU). Phil Dering (at the time at the
+Department of Biology, Del Mar College) provided wood species identification of
+charcoal samples. Billy Griffin and Russell Castro (Soil Conservation Service) and Dr.
+Oscar W. Van Auken (Division of Life Sciences, UTSA) helped with identification of
+modern plant specimens collected from the site. Dr. Barbara Winsborough (Austin)
+analyzed diatom samples from the site. She also provided references and autecological
+ix
+
+data, repeatedly checked my drafts of the diatom chapter, and identified diatoms that I
+had photographed for illustrations. She provided advice, consultation, and taxonomic
+expertise on many occasions. Robert G. Howells (Texas Parks and Wildlife Department,
+Inland Fisheries Division) identified freshwater mussels from the Coleto Creek catchment
+and provided unpublished freshwater mussel data. Alisa J. Winkler (SMU) identified
+some of the animal bone and helped with anatomical orientation for lab photography.
+
+Also providing information of various kinds were Melissa Van Ostran (Librarian,
+Geological Sciences, UT Austin), Shelby Anderson (Librarian, Water Resources
+Division, USGS), L. Scott Murray (Environmental Protection, Central Power and Light
+Company), Clell Bond (Espey, Huston and Associates), and Dora Guerra (Special
+Collections, UTSA). Dr. Steve Black (TARL) also let me use his film scanner. Dr. Dale
+Hudler helped with video microscopy, digitizer installation, and various other computer
+problems. Dr. Dean Hendrickson checked fish species names. Allegra Azulay and
+Carolyn Spock proofread some chapters.
+
+The late Cecil Calhoun (Victoria) expedited access to the Preiss Ranch and helped
+me collect snail, diatom, and mussel samples in November, 1998. Bob and Patsy Goebel
+provided comparative specimens of freshwater mussel shells from the Carlisle CreekGuadalupe River locality. And finally, special thanks to Curt Harrell for assistance above
+and beyond the cause.
+
+x
+
+The Bench Deposits at Berger Bluff: Early Holocene-Late Pleistocene
+Depositional and Climatic History
+
+Publication No._____________
+
+Kenneth Martin Brown, Ph.D.
+The University of Texas at Austin, 2006
+
+Supervisors: Thomas R. Hester and Samuel M. Wilson
+
+This study reports original field and laboratory studies on paleoenvironmental
+aspects of the Berger Bluff archeological site (Goliad County, Texas). It uses data from
+geoarcheology (stratigraphy, grain-size analysis, magnetic susceptibility and sediment
+thin sections) and several different biotic indicators (chiefly diatoms, snails, freshwater
+mussels, and vertebrates) of environmental change to reconstruct past environments of
+the site and upstream drainage, and relate these events to regional and global
+paleoenvironment.
+
+Berger Bluff is a sandy bluff about 9 m high on the west, or Goliad County side
+of Coleto Creek, west of Victoria. The bluff (41 GD 30A) records continuous deposition
+of sediments by Coleto Creek from the Late Pleistocene until the Late Holocene. The
+lowest 2.45 m of deposits form a prominent erosional bench from floodplain sediments
+cemented by phreatic carbonate, probably representing the fossilized damp margin of a
+xi
+
+spring or seep area, although no actual spring conduit was visible. Based on a series of
+radiocarbon assays, they are estimated to date from about 8500-11,000 radiocarbon years
+before present (or 9500-13,000 calendar years), but there are no assays from the upper or
+lower part of the bench, and there are a number of inversions among the assays. This
+corresponds to the Younger Dryas, Preboreal, and part of the Boreal period in the
+climatic chronology, and the Folsom and Late Paleoindian periods in the cultural
+chronology, although none of the artifacts from the bench are time-diagnostic.
+
+The bench consists of fine-grained overbank deposits (cyclically bedded sandy
+and muddy units) formed by vertical accretion near the south valley wall. Sedimentary
+evidence suggests the creek was probably narrower, deeper, more sinuous, and carried a
+much greater suspended load during the Younger Dryas/Early Holocene compared to
+today. Rainfall was probably less seasonally concentrated, discharge less flashy, and
+flood duration longer. The floodplain was probably wider, flatter, less drought-prone, and
+(based on evidence from snails and vertebrates) covered with a heavier, more continuous
+deciduous tree canopy than today. These conditions probably lasted some 1500 years into
+the Holocene, until regional drying and flash flooding stripped the wet riparian habitat
+out of Coleto Creek and other small tributaries on the Gulf Coastal Plain.
+Keywords: Berger Bluff, Goliad County, Younger Dryas, paleoenvironment,
+geoarcheology
+
+xii
+
+Table of Contents
+
+List of Tables .............................................................................................................. xxviii
+List of Figures ................................................................................................................ xxxi
+Chapter 1: Introduction ........................................................................................................1
+The Site ....................................................................................................................1
+Paleoclimates and paleoenvironments .........................................................2
+The Problem: Abrupt or Gradual Climate Change at the Dawn
+of the Holocene? ......................................................................................................3
+New data suggest abrupt climate change .....................................................7
+What happened in continental interiors?....................................................10
+Contributions from new technology ..........................................................18
+Insects record rapid temperature change....................................................18
+Fight or flight? ...........................................................................................20
+Cyclical Changes in Climate: Scale and Recognition............................................20
+Precipitation and Atmospheric Circulation............................................................24
+General Circulation Models: Ice Wasting Leads to Shifts in Storm Tracks..........24
+Empirical support.......................................................................................29
+Complications ............................................................................................32
+Volcanic aerosols .......................................................................................34
+Dust loading ...............................................................................................35
+The Bermuda High.....................................................................................36
+El Niño-Southern Oscillation (ENSO) Events...........................................37
+El Niño Events: Mini-Analogs for Pleistocene Climates?.........................39
+xiii
+
+Insolation................................................................................................................42
+Seasonality .............................................................................................................55
+Differing Views of Climate Change: Why the Discrepancy?................................59
+A Model for Climate Change.................................................................................64
+Summary ................................................................................................................66
+Berger Bluff ...........................................................................................................68
+History of Discovery and Investigation .................................................................70
+Contemporary Climate...........................................................................................73
+Rainfall in the catchment ...........................................................................79
+Wind ........................................................................................................83
+Contemporary Floral Associations ........................................................................85
+Paleontological Clues to Past Flora .......................................................................99
+Post oak dendroecology ...........................................................................100
+Regional Geologic Setting ...................................................................................104
+Catchment Basin Geology ...................................................................................105
+Description of the Site .........................................................................................117
+The Contemporary Coleto Creek Fluvial System................................................132
+Rainfall and runoff...................................................................................139
+Effects of flooding on biota .....................................................................150
+Channel form and bed sediments.............................................................151
+Comparison with Black Cypress Bayou ..................................................157
+Antiquity of the Modern Hydrologic Regime......................................................161
+References for Chapter 1 .................................................................................................168
+
+xiv
+
+Chapter 2: The Guadalupe-San Antonio River Basins at the End
+of the Younger Dryas.......................................................................................................216
+Introduction..........................................................................................................216
+Chronometric Conventions ..................................................................................216
+Kinds of years ..........................................................................................216
+The radiocarbon timescale .......................................................................219
+Known radiocarbon plateaux ...................................................................226
+The Younger Dryas: Glacial Reprise...................................................................226
+Dating the Younger Dryas .......................................................................227
+Origin of the Younger Dryas ...................................................................230
+Geographic extent ....................................................................................232
+Preboreal and Boreal events.....................................................................235
+The Gulf of Mexico: Sea Level, Meltwater, and Temperature History...............238
+Sea level during deglaciation ...................................................................238
+How episodic was sea level rise?.............................................................248
+Effects of rising sea level on channel gradients.......................................252
+Changing postglacial basin boundaries....................................................257
+Gulf of Mexico water temperature history: literature review ..................261
+Gulf of Mexico water temperature history: summary..............................276
+Hurricane Formation in the Gulf of Mexico ........................................................277
+Other Paleontological Sites in the Guadalupe-San Antonio River Basins ..........283
+South Soefje Bog (Gonzales County) ......................................................284
+Hershop Bog (Gonzales County) .............................................................285
+Further examination of the Hershop Bog pollen counts ..........................288
+Comments on bog palynology .................................................................297
+xv
+
+The River Spur Site (41 VT 112).............................................................299
+The Armstrong Site (41 CW 54)..............................................................300
+The Richard Beene Site (41 BX 831) ......................................................300
+Winston’s Cave (Bexar County)..............................................................302
+Friesenhahn Cave (41 BX 177, Bexar County) .......................................303
+Hall’s Cave (= Klein Cave, 41 KR 474, Kerr County)............................306
+Other Sites................................................................................................307
+Glacial-Age Caliche and Other Records in Deep South Texas ...........................308
+Conclusions..........................................................................................................313
+References for Chapter 2 .................................................................................................319
+
+Chapter 3: Excavation and Analysis Methods .................................................................362
+Introduction..........................................................................................................362
+Fieldwork objectives: how they structured results...................................362
+Field Methods ......................................................................................................364
+Grid system ..............................................................................................364
+Elevation control......................................................................................365
+Excavation units.......................................................................................371
+Excavation methods .................................................................................371
+Preventing contamination ........................................................................375
+Matrix (“constant volume”) samples .......................................................376
+Pollen/phytolith samples..........................................................................377
+Bulk sediment sampling from N109 E96.................................................385
+Unit 2 fill..................................................................................................385
+Block removal of Feature 5......................................................................386
+xvi
+
+Field observations and their recording.....................................................386
+Associated geologic samples ...................................................................388
+Lighting conditions and their effect.........................................................389
+Overview: Kinds of Data Recovered ...................................................................389
+Grain-size and carbonate content samples...............................................390
+Clasts........................................................................................................390
+Rhizoconcretions, ferromanganese concretions.......................................390
+Micromorphology samples ......................................................................390
+Magnetic susceptibility samples ..............................................................391
+Sediment lipid samples ............................................................................391
+Sediment samples assayed for radiocarbon and carbon isotopes.............391
+Animal bone.............................................................................................391
+Snails........................................................................................................392
+Freshwater mussels or sphaeriid clams....................................................392
+Pollen .......................................................................................................393
+Diatoms ....................................................................................................393
+Plant macrofossils: charcoal, seeds, resin or amber.................................393
+Cultural Evidence From the Bench Deposits.......................................................394
+Analysis Methods: General Principles.................................................................397
+References for Chapter 3 .................................................................................................399
+
+Chapter 4: The Depositional Record................................................................................400
+Introduction..........................................................................................................400
+The Floodplain Environment ...............................................................................400
+Grain-Size Analysis of Sediments .......................................................................411
+xvii
+
+The Phi Scale .......................................................................................................411
+Sieve and pipette analysis ........................................................................414
+Grain-size statistics ..................................................................................415
+Transport modes: how they relate to sediment texture ............................417
+Polymodal sediments ...............................................................................420
+Grain-size statistics: how they relate to transport mode ..........................421
+Grain-size analysis of Texas sediments and soils ....................................423
+Magnetic Susceptibility .......................................................................................425
+Magnetic minerals....................................................................................425
+Measures and units...................................................................................429
+Berger Bluff in Its Immediate Geologic Setting ..................................................430
+The ravine and Goliad Formation bedrock ..............................................431
+The Evangeline aquifer ............................................................................448
+Lissie terrace sediments ...........................................................................449
+Beaumont terrace surface.........................................................................460
+Post-Beaumont surfaces...........................................................................461
+Beaumont (?) and post-Beaumont terraces on the Preiss property ..........464
+Meander scars of unknown age................................................................468
+Remarks ...................................................................................................469
+Stratigraphy of the Post-Beaumont Deposits at Berger Bluff..............................471
+Overview..................................................................................................471
+Stratigraphy of the Bench Deposits .....................................................................527
+Stratum 1(sandy unit)...............................................................................527
+Stratum 2A (muddy unit) .........................................................................534
+Stratum 2B (sandy unit) ...........................................................................544
+xviii
+
+Stratum 2C (muddy unit) .........................................................................548
+Stratum 2D (sandy unit)...........................................................................552
+Stratum 2E (sandy unit) ...........................................................................556
+Stratum 3 (muddy/loamy unit).................................................................561
+Stratigraphy of the Upper Deposits......................................................................566
+Stratum 4 (massive sandy unit)................................................................566
+Stratum 5 (massive sandy unit)................................................................575
+How did Stratum 5 form? ........................................................................579
+When did Coleto Creek begin its Late Holocene incisive phase? ...........583
+Biological clues to Late Prehistoric hydrology........................................587
+Late Holocene Environmental Changes: Summary.................................591
+Depositional Properties of the Bench Sediments.................................................594
+Sediment texture ......................................................................................594
+Magnetic susceptibility ............................................................................609
+Organic carbon content ............................................................................618
+Coarse clastic material .............................................................................618
+Fossil wood ..............................................................................................622
+Diagenetic Properties of the Bench Sediments....................................................625
+Various forms of carbonate......................................................................627
+Redoximorphic features and precipitates.................................................639
+Animal and plant disturbances.................................................................649
+Sediment thin sections .............................................................................651
+Interpreting the Depositional and Diagenetic Record..........................................675
+Evidence for a nearby spring ...................................................................675
+Cyclic bedding .........................................................................................679
+xix
+
+Climate and sedimentation rates ..............................................................695
+Climate and textural changes ...................................................................700
+Aggradation and incision .........................................................................702
+Reconstructing past channel and floodplain configuration......................704
+The potential role of beaver in Coleto Creek paleohydrology.................708
+Summary and Conclusions for Chapter 4 ............................................................710
+References for Chapter 4 .................................................................................................718
+
+Chapter 5: Radiocarbon Assays .......................................................................................762
+Introduction and History of Analysis...................................................................762
+Assaying Sediment and Soil Samples..................................................................766
+Sediment assays From the Bench Deposits .........................................................770
+Documentation for Individual Assays .................................................................774
+Samples Submitted But Not Analyzed ................................................................787
+Evaluation of the Assays......................................................................................789
+Possible Sources of Error in Charcoal Assays.....................................................800
+Summary and Conclusions for Chapter 5 ............................................................802
+References for Chapter 5 .................................................................................................805
+
+Chapter 6: Pollen and Macrobotanical Remains..............................................................810
+Pollen Samples.....................................................................................................810
+Plant Macrofossil Remains ..................................................................................816
+Unidentified Charred Monocot (?).......................................................................817
+Unidentified Tree Resin or Sap............................................................................818
+Hackberry Seed Coats..........................................................................................818
+xx
+
+Summary and Conclusions for Chapter 6 ............................................................820
+References for Chapter 6 .................................................................................................821
+
+Chapter 7: Diatoms and Freshwater Sponge Spicules .....................................................823
+Introduction..........................................................................................................823
+Diatom Sampling and Analysis Methods ............................................................824
+Definitions of Terms ............................................................................................830
+Results of Diatom Studies....................................................................................831
+Habitat preference....................................................................................831
+Patterns of abundance, preservation, and species diversity .....................836
+Stratigraphic distribution of species.........................................................843
+Aquatic diatoms and suspended load content ..........................................854
+Correspondence analysis of the diatom data............................................856
+Species Accounts: Diatoms From the Bench Deposits........................................864
+Species Accounts: Diatoms From the Lissie Terrace ..........................................900
+Freshwater Sponge Spicules ................................................................................901
+Summary and Conclusions for Chapter 7 ............................................................909
+Declining diatoms: taphonomy or environmental change? .....................913
+Synopsis ...................................................................................................915
+Added note ...............................................................................................916
+References for Chapter 7 .................................................................................................917
+
+Chapter 8: Snails ..............................................................................................................936
+Introduction..........................................................................................................936
+Body Size, Abundance, and Habitat Specificity..................................................937
+xxi
+
+Biogeography.......................................................................................................943
+The Southern Plains Gastropod Survey ...............................................................966
+Terrestrial Snails as Environmental Proxies for Moisture and
+Deciduous Cover..................................................................................................970
+Moisture requirements .............................................................................972
+Vegetation and ground cover ...................................................................976
+Microhabitats ...........................................................................................978
+Snails as Paleoenvironmental Data......................................................................980
+Contemporary Snail Populations, Regional and Local ........................................987
+Contemporary Snail Samples From the Preiss Ranch .........................................994
+Snails From the Bench Deposits at Berger Bluff...............................................1003
+Kinds of samples....................................................................................1003
+Snail shell taphonomy and identification...............................................1004
+Opercula and snail eggs .........................................................................1016
+Snail faunas as death assemblages.........................................................1022
+Species Accounts ...............................................................................................1023
+Taxonomic Revisions Since 1982......................................................................1023
+Terrestrial Snails ................................................................................................1028
+Amphibious Snails .............................................................................................1116
+Aquatic Snails ....................................................................................................1122
+Interpretation of the Quarter-Inch Screen Sample .............................................1151
+Cluster Analysis of the Quarter-Inch Screen Sample ........................................1178
+Correspondence Analysis of the Quarter-Inch Screen Sample..........................1180
+Snails From Sieved Matrix Columns.................................................................1187
+Extraction methods ................................................................................1189
+xxii
+
+Cluster analysis of the matrix columns..................................................1201
+Correspondence analysis of the matrix columns ...................................1203
+Summary and Conclusions for Chapter 8 ..........................................................1213
+Composition of the fauna.......................................................................1213
+Extirpations and range changes .............................................................1217
+Comparisons with contemporary faunas................................................1220
+Stratigraphic trends and ordination results ............................................1223
+Summary of Chapter 8 .......................................................................................1225
+References for Chapter 8 ...............................................................................................1226
+
+Chapter 9: Freshwater Mussels and Miscellaneous Invertebrates .................................1266
+Introduction........................................................................................................1266
+Contemporary Mussel Populations in the Berger Bluff Catchment ..................1266
+Contemporary Freshwater Mussels in the Guadalupe River .............................1269
+Freshwater Mussels From Holocene Archeological Deposits ...........................1270
+Freshwater Mussels From the Upper Deposits at Berger Bluff........................1271
+Shell Preservation and Taphonomy ...................................................................1272
+Species Accounts ...............................................................................................1276
+The Shell-Bearing Surface in Stratum 2A .........................................................1307
+Mud-Dauber Nest...............................................................................................1315
+Summary and Conclusions for Chapter 9 ..........................................................1318
+References for Chapter 9 ...............................................................................................1326
+
+Chapter 10: Vertebrate Fauna ........................................................................................1351
+Introduction and Overview ................................................................................1351
+xxiii
+
+Contemporary Local Fauna................................................................................1356
+The Texan/Tamaulipan Boundary .....................................................................1372
+Species Richness Compared to Other Rancholabrean Sites ..............................1374
+History of Collection and Identification ............................................................1378
+Provenience Categories and Recovery Methods................................................1381
+Ambient bone.........................................................................................1381
+The Hearth Deposit: Excavation of a Microvertebrate Bone Bed .........1385
+Condition of the Bone........................................................................................1401
+Limited evidence for weathering ...........................................................1401
+Why is evidence for weathering limited? ..............................................1403
+Color and texture groups........................................................................1405
+Manganese and uranium oxide staining.................................................1408
+Carbonate deposits .................................................................................1411
+Rodent gnawing and root etching ..........................................................1411
+Fungal bioerosion, channeling and pitting.............................................1412
+Cutmarks ................................................................................................1416
+Chemical dissolution: limited evidence, ambiguous sources ................1420
+Fragmentation ........................................................................................1425
+Measurement of size grading .................................................................1427
+Measures of Abundance.....................................................................................1430
+Rational basis for counting ....................................................................1430
+The Ambient Fauna............................................................................................1438
+Heat-altered ambient bone .....................................................................1442
+Juveniles.................................................................................................1443
+Bone fragments from large animals.......................................................1444
+xxiv
+
+Carapace fragment from extinct large tortoise (?) .................................1449
+Whittled bone pin (?) .............................................................................1455
+The Hearth Deposit ............................................................................................1458
+Heat-altered bone from the hearth deposit.............................................1462
+Preparation of small animals for human consumption ..........................1465
+Juveniles.................................................................................................1470
+Illustrations of the hearth deposit faunal assemblage ............................1477
+Gas chromatographic analysis of sediment lipids..................................1493
+Interpretation of the Hearth Deposit ..................................................................1497
+The bone bed as a fluvial lag deposit.....................................................1499
+The bone bed as a raptor pellet midden .................................................1501
+The bone bed as a latrine area for a mammalian predator .....................1514
+Evaluation ..............................................................................................1518
+The bone bed as a human latrine............................................................1519
+Bias against small animals by archeologists and ethnographers ...........1542
+Evaluation: the bone bed as a human latrine .........................................1547
+Species Accounts ...............................................................................................1549
+Summary and Conclusions for Chapter 10 ........................................................1639
+Water-tethered fauna..............................................................................1641
+Xeric upland fauna.................................................................................1644
+Berger Bluff vertebrates: a reclusive fauna ...........................................1645
+The hearth deposit: what does it signify? ..............................................1648
+Comparable sites....................................................................................1649
+Missing taxa ...........................................................................................1650
+References for Chapter 10 .............................................................................................1651
+xxv
+
+Chapter 11: Summary and Conclusions.........................................................................1722
+The Bench at Berger Bluff.................................................................................1722
+The continental and chronological setting .............................................1723
+Substantive findings...............................................................................1727
+Paleoenvironmental Summary: Coleto Creek Catchment in the
+Younger Dryas-Early Holocene.........................................................................1738
+Comparisons With Other Sites...........................................................................1743
+Paleoenvironmental sites in Texas.........................................................1743
+Paleoenvironmental sites in the Southwestern US.................................1750
+Paleoenvironmental sites in northern Mexico........................................1753
+Paleoenvironmental sites in other regions .............................................1754
+Unanswered Questions.......................................................................................1755
+Why is the bench not a calcareous fen? .................................................1755
+How does autocyclic bedding develop in a narrow creek valley? .........1756
+How representative are the bench deposits? ..........................................1757
+Why are there so many inversions among the radiocarbon assays? ......1757
+Procedural Findings ...........................................................................................1757
+The importance of rare species ..............................................................1758
+The usefulness of numerical analysis ....................................................1759
+A geologic model for finding the next Berger Bluff..............................1760
+References for Chapter 11 .............................................................................................1762
+
+Appendix 1: Laboratory and Numerical Methods of Sediment Analysis......................1770
+Appendix 2: Laboratory Procedure for Determining Organic and Carbonate Content of
+Sediment Samples..............................................................................................1782
+xxvi
+
+Appendix 3: Magnetic Susceptibility Samples ..............................................................1785
+Appendix 4: Items Recovered From the Quarter-Inch Screen.......................................1795
+Appendix 5: Snails From Bulk Matrix, Selected Levels of N109 E96..........................1802
+Appendix 6: Vertebrate Faunal Inventory .....................................................................1803
+
+xxvii
+
+List of Tables
+Table 1.1:
+Table 1.2:
+Table 1.3:
+Table 1.4:
+Table 1.5:
+Table 1.6:
+Table 1.7:
+Table 1.8:
+Table 2.1:
+Table 2.2:
+Table 2.3:
+Table 2.4:
+Table 2.5:
+Table 3.1:
+Table 3.2:
+Table 4.1:
+Table 4.2:
+Table 4.3:
+Table 4.4:
+Table 4.5:
+Table 4.6:
+Table 4.7:
+Table 4.8:
+Table 4.9:
+Table 4.10:
+Table 4.11:
+Table 4.12:
+Table 4.13:
+Table 4.14:
+Table 5.1:
+Table 5.2:
+Table 5.3:
+Table 6.1:
+Table 6.2:
+Table 6.3:
+Table 6.4:
+Table 7.1:
+
+Climatic Cycles Recognized in the GISP2 Ice Core ....................................23
+Response Time of Different Organisms to Climatic Change.......................61
+Contemporary Climate Data for the Berger Bluff Environs ........................75
+Contemporary Precipitation at Yorktown ....................................................77
+Ground Cover in Post Oak Stand, Coleto Creek Power Plant Project .........94
+Ground Cover in Grassland I, Coleto Creek Power Plant Project ...............97
+Ground Cover in Grassland II, Coleto Creek Power Plant Project ..............98
+Mean Lag Time for Discharge Events, Coleto Creek
+and Black Cypress Bayou ..........................................................................146
+Radiocarbon Assays of Gulf of Mexico Samples Relevant to Sea Level
+at 8500-11,000 RCYBP..............................................................................241
+Sea Level Estimated by Curve-Fitted Data Sets ........................................247
+Estimated Channel Gradients, Coleto Creek/Guadalupe River Drainage..253
+Glacial Meltwater Flooding Events (condensed from
+Aharon 2003:Table 3, defined from LOUIS cores) ...................................271
+Radiocarbon Assays for South Texas Paleoenvironmental Sites...............311
+Excavation Levels and Level Volumes ......................................................373
+Analysis Software ......................................................................................399
+Wentworth Size Grades for Bench Sediments ...........................................413
+Potential Grain-Size Statistics for Bench Sediments .................................417
+Terrace Heights, USGS Schroeder Quad ...................................................432
+Grain-Size Statistics for Miscellaneous Samples.......................................455
+Material Recovered from Quarter-Inch Screen ..........................................529
+Lithology of Coarse-Grained Outwash Deposits, N109 E96 .....................540
+Grain-Size Statistics for the Upper Deposits..............................................571
+Munsell Soil Colors for Strata 4 and 5, Blufftop Excavation Block..........577
+Average Magnetic Susceptibility Values by Stratum ................................610
+Magnetic Susceptibility Values from Some Texas Archeological Sites....611
+Field-Recorded Munsell Values.................................................................641
+Munsell Colors for Archived Phytolith/Pollen Samples, N110 E102........642
+Point Count Data for Argillans on Skeleton Grains (Selected
+Samples From N111 E101) ........................................................................672
+Case Studies of Sediment Fining Away from Channels ............................687
+Uncalibrated Radiocarbon Assays from the Bench Deposits.....................763
+Grain-Size and Radiocarbon Data from the Melfort Soil, Saskatchewan..772
+Radiocarbon Assays on Sediment Humin From the Bench Deposits ........773
+Pollen Recovery from N113 E98 (Woosley) .............................................811
+Pollen Recovery from N109 E103 and N110 E102 (Holloway)................813
+Plant Macrofossils from the Bench Deposits .............................................816
+Hackberry Seed Coats from the Bench Deposits .......................................819
+Comprehensive List of Diatom Samples....................................................827
+xxviii
+
+Table 7.2:
+Table 7.3:
+Table 7.4:
+Table 7.5:
+Table 7.6:
+Table 7.7:
+Table 7.8:
+Table 8.1:
+Table 8.2:
+Table 8.3:
+Table 8.4:
+Table 8.5:
+Table 8.6:
+Table 8.7:
+Table 8.8:
+Table 8.9:
+Table 8.10:
+Table 8.11:
+Table 8.12:
+Table 8.13:
+Table 8.14:
+Table 8.15:
+Table 8.16:
+Table 8.17:
+Table 8.18:
+Table 8.19.
+Table 8.20:
+Table 8.21:
+Table 8.22:
+Table 8.23:
+Table 8.24:
+Table 8.25:
+Table 8.26:
+Table 8.27:
+Table 8.28:
+Table 8.29:
+Table 8.30:
+Table 8.31:
+Table 9.1:
+
+Diatom Taxa From the Bench Deposits .....................................................833
+Diatom Species Richness and Counts by Stratum .....................................838
+Diatom Species Diversity...........................................................................840
+Diatom Species Counts by Sample (Bench Deposits) ...............................850
+Siltation Tolerance of Selected Diatom Species From the
+Bench Deposits...........................................................................................855
+Correspondence Analysis of Diatom Samples: Case Scores .....................860
+Contemporary Water Chemistry of Coleto Creek......................................864
+Geographical Ranges of Terrestrial Species Found in the
+Bench Deposits...........................................................................................945
+Selected Examples of Paleoenvironmental Studies Using Snails ..............982
+Contemporary Drift Snails From the Brazos River and Colorado River ...989
+Live Snails from Smyth Crossing, Uvalde County ....................................990
+Contemporary Snails From Goliad County and Guadalupe
+River Floodplain.........................................................................................991
+Surface-Collected Snails from Diatom Sampling Localities .....................993
+Snails From 50-cm Quadrats on the Preiss Ranch .....................................995
+Contemporary Snails from Coleto Creek Drift Sample, Preiss Ranch ....1000
+Coleto Creek Drift Sample Ranked by Abundance .................................1002
+Stratigraphic Distribution of Opercula from Oligyra orbiculata .............1017
+Comprehensive List of Snail Taxa From the Bench Deposits .................1026
+Taxonomy of Land and Amphibious Snails From the Bench ..................1027
+Gastrocopta contracta and Gastrocopta pellucida Frequencies..............1044
+Metric Statistics for Polygyra Species .....................................................1083
+Metric Statistics for Praticolella Species.................................................1091
+Metric Statistics for Contemporary Rabdotus ..........................................1101
+Metric Statistics for Archeological Rabdotus ..........................................1102
+Provenience of Cincinnatia integra Specimens ......................................1127
+Provenience of Valvata tricarinata Specimens........................................1150
+Snails Recovered From the Quarter-Inch Screen in N109 E103 .............1153
+Snails Recovered From the Quarter-Inch Screen in N110 E102 .............1157
+Snails Recovered From the Quarter-Inch Screen in N111 E101 .............1161
+Snails Recovered From the Quarter-Inch Screen in N112 E99 ...............1165
+Snails Recovered From the Quarter-Inch Screen in N112 E97 ...............1169
+Snails Recovered From the Quarter-Inch Screen in N109 E96 ...............1171
+Correspondence Analysis of Snail Taxa From the Quarter-Inch Screen .1187
+Snail Matrix Sample Weights ..................................................................1188
+Snails Extracted From Sieved Matrix Samples, N109 E103 ...................1192
+Snails Extracted From Sieved Matrix Samples, N110 E102 ...................1194
+Correspondence Analysis of Snail Taxa From Combined
+Matrix Samples ........................................................................................1207
+Snail Species Richness at Some Southern Plains Sites ............................1214
+Contemporary (1949-73) Freshwater Mussels From the Guadalupe
+River Near Victoria ..................................................................................1269
+xxix
+
+Table 9.2:
+Table 9.3:
+Table 9.4:
+Table 9.5:
+Table 9.6:
+Table 9.7:
+Table 9.8:
+Table 10.1:
+Table 10.2:
+Table 10.3:
+Table 10.4:
+Table 10.5:
+Table 10.6:
+Table 10.7:
+Table 10.8:
+Table 10.9:
+Table 10.10:
+Table 10.11:
+Table 10.12:
+Table 10.13:
+Table 10.14:
+Table 10.15:
+Table 10.16:
+Table 10.17:
+Table 10.18:
+Table 10.19:
+Table 10.20:
+Table 10.21:
+Table 10.22:
+Table 10.23:
+Table 10.24:
+Table 10.25:
+Table 10.26:
+Table 10.27:
+Table 10.28:
+
+Freshwater Mussel Species from Nearby Holocene
+Archeological Deposits ............................................................................1270
+Freshwater Mussels from the Upper Deposits at Berger Bluff ................1271
+Stratigraphic Distribution of Freshwater Mussels in the Bench...............1276
+Length Statistics for Contemporary Amblema plicata, Central
+United States ............................................................................................1283
+Allometric Estimates for Amblema plicata Specimens From
+the Bench Deposits...................................................................................1287
+Length Statistics for Contemporary Megalonaias nervosa......................1300
+Sphaeriid Clams and Peaclams from the Bench Deposits........................1304
+Vertebrate Taxa Recovered From the Bench Deposits ............................1354
+Contemporary Mammals From Coleto Creek Reservoir .........................1357
+Contemporary Herpetofauna From Coleto Creek Reservoir....................1358
+Contemporary (Pre-Inundation) Fish From Coleto Creek .......................1359
+Additional Regionally Recorded Mammals .............................................1362
+Additional Regionally Recorded Herpetofauna .......................................1363
+Additional Regionally Recorded Fish ......................................................1365
+Species Richness of Contemporary Vertebrate Fauna .............................1366
+Extinct Species Potentially Present in the Region ...................................1367
+Fossil Species From Nearby Undated Rancholabrean Sites ....................1368
+Vertebrate Minimum Species Richness for Various Archeological
+and Paleontological Sites .........................................................................1376
+Specimen Counts (NISP) for Major Categories of Bone .........................1380
+Lot Numbers for Animal Bone.................................................................1395
+Size Grading of Bone Lots .......................................................................1429
+Ambient Fauna: Measures of Abundance ................................................1440
+Heat-Altered Ambient Bone.....................................................................1442
+Hearth Deposit: Measures of Abundance.................................................1461
+Ethnographic Examples of Small Animal Preparation ............................1474
+Results of Lipid Analysis .........................................................................1496
+Proximate Composition of Some Prey Species and Congeners ...............1498
+South Texas Raptor Diets.........................................................................1510
+Hearth Deposit: Element Representation for All Small Mammals
+Combined .................................................................................................1513
+Taxa Recovered From Coprolites, Texas and Tamaulipas Sites..............1527
+Element Representation in Baker Cave Coprolites ..................................1532
+Ring Counts of Fish Vertebrae From the Hearth Deposit........................1556
+Some Archeological Examples of Scalopus aquaticus in Texas .............1591
+Some Archeological Examples of Onychomys leucogaster in Texas ......1607
+Small Mammal Trapping Data for Coleto Creek Reservoir ....................1609
+
+xxx
+
+List of Figures
+Figure 1.1:
+Figure 1.2:
+Figure 1.3:
+Figure 1.4:
+Figure 1.5:
+Figure 1.6:
+Figure 1.7:
+Figure 1.8:
+Figure 1.9:
+Figure 1.10:
+Figure 1.11:
+Figure 1.12:
+Figure 1.13:
+Figure 1.14:
+Figure 1.15:
+Figure 1.16:
+Figure 1.17:
+Figure 1.18:
+Figure 1.19:
+Figure 1.20:
+Figure 1.21:
+Figure 1.22:
+Figure 1.23:
+Figure 1.24:
+Figure 1.25:
+Figure 1.26:
+Figure 1.27:
+Figure 1.28:
+Figure 1.29:
+Figure 1.30:
+Figure 1.31:
+Figure 1.32:
+Figure 1.33:
+Figure 1.34:
+Figure 1.35:
+Figure 1.36:
+
+Isopleth Map of Continentality for North America ...................................15
+A, Annual Insolation at 7500-18,000 Years BP; B, January Insolation.....45
+A, May Insolation at 7500-18,000 Radiocarbon Years BP; B, July
+Insolation for Same Period.........................................................................46
+A, August Insolation at 7500-18,000 Radiocarbon Years BP;
+B, September Insolation, Same Period.......................................................47
+A, Annual Range of Insolation at 7500-18,000 Radiocarbon Years BP;
+B, Seasonal Temperature Range, Rocky Mountain Fossil Insect Data......49
+Monthly Insolation Values at 7000 Radiocarbon Years BP ......................50
+Monthly Insolation Values at 8500 Radiocarbon Years BP ......................51
+Monthly Insolation Values at 10,000 Radiocarbon Years BP ...................52
+Monthly Insolation Values at 11,000 Radiocarbon Years BP ...................53
+Monthly Insolation Values at 18,000 Radiocarbon Years BP ...................54
+Temperature Estimates from Rocky Mountain Fossil Insect Data ............57
+Location of the Study Area ........................................................................74
+Isopleth Map of Continentality Index for Texas........................................78
+Precipitation in the Catchment, January-June............................................81
+Precipitation in the Catchment, July-December ........................................82
+Average Annual Wind Direction, Victoria Airport ...................................84
+Contemporary Floral Associations In and Near the
+Berger Bluff Catchment.............................................................................87
+Prairie on the Oakville Escarpment ...........................................................88
+Upland Prairie ............................................................................................89
+Pine Trees at Yorktown .............................................................................90
+Bison antiquus Skull from Welsch Fossil Locality..................................100
+Post Oak Woodland .................................................................................101
+Tree-Ring Index, Post Oaks at Coleto Creek Power Plant ......................102
+Lowess-Smoothed Tree-Ring Index, Post Oaks at Coleto Creek ............103
+Location of Fault Scarp North of Berger Bluff........................................106
+Geographic Position of the Catchment ....................................................107
+Geology of the Berger Bluff Catchment..................................................110
+Relative Exposures of Different Geologic Formations in the
+Berger Bluff Catchment...........................................................................111
+Berger Bluff .............................................................................................118
+Contour map of Berger Bluff Environs ...................................................120
+Contemporary Spring in Ravine ..............................................................121
+Knickpoint in Ravine ...............................................................................123
+Cross-Section of Deposits Along Line A-B.............................................124
+Looking Southwest at Bench Area Before Excavation............................125
+Coleto Creek Before Inundation ..............................................................128
+Sand Dunes Opposite the Site..................................................................129
+xxxi
+
+Figure 1.37:
+Figure 1.38:
+Figure 1.39:
+Figure 1.40:
+Figure 1.41:
+Figure 1.42:
+Figure 1.43:
+Figure 1.44:
+Figure 1.45:
+Figure 1.46:
+Figure 1.47:
+Figure 1.48:
+Figure 1.49:
+Figure 1.50:
+Figure 2.1:
+Figure 2.2:
+Figure 2.3:
+Figure 2.4:
+Figure 2.5:
+Figure 2.6:
+Figure 2.7:
+Figure 2.8:
+Figure 2.9:
+Figure 2.10:
+Figure 2.11:
+Figure 2.12:
+Figure 2.13:
+Figure 2.14:
+Figure 2.15:
+Figure 2.16:
+Figure 2.17:
+Figure 3.1:
+Figure 3.2:
+Figure 3.3:
+Figure 3.4:
+Figure 3.5:
+Figure 3.6:
+
+Overflow Chute........................................................................................130
+Salt Creek.................................................................................................133
+Smith Creek .............................................................................................134
+Coleto Creek ............................................................................................136
+Idealized Hydrographs for Streams in Two Different
+Climatic Regimes.....................................................................................138
+Coleto Creek Hydrographs for 1956 and 1957 ........................................141
+Coleto Creek Hydrographs for 1975 and 1976 ........................................143
+Detail of Coleto Creek Flood Events, April-May, 1976..........................144
+Coleto Creek Hydrograph for 1967, Showing Effects
+of Hurricane Beulah.................................................................................149
+Coleto Creek ............................................................................................153
+Coleto Creek ............................................................................................154
+Grain-Size Histograms for Three Samples of Bed Sediment ..................156
+Hydrographs for 1975 and 1976, Black Cypress Bayou
+(Marion County) ......................................................................................160
+Estimated Peak Discharge Frequency for Coleto Creek and
+Black Cypress Bayou...............................................................................162
+Atmospheric Radiocarbon Content in the Holocene ...............................221
+Atmospheric Radiocarbon Content at the Transition to the Holocene ....224
+Sea Level Estimated from Gulf of Mexico Radiocarbon Assays ............243
+Sea Level Estimated from Barbados Corals ............................................244
+Sea Level Estimated from Papua New Guinea Corals.............................246
+Sea Level Estimated from Tahiti Corals..................................................248
+A, Episodic or “Connect- the- Dots” Model of Sea Level Rise;
+B, Monotonic Model of Sea Level Rise...................................................250
+Paleogeography of the Central Gulf Coast ..............................................260
+Oxygen Isotope History of the Gulf of Mexico .......................................266
+Alkenone Estimates of Surface Mixed Layer Paleotemperature
+in the Gulf of Mexico...............................................................................274
+Water Temperature by Time and Depth in the Gulf of Mexico ..............279
+Average Number of Tropical Cyclones Per Month in the Northern
+Hemisphere ..............................................................................................280
+Age-Depth Model for Hershop Bog ........................................................286
+Hershop Bog, Species Richness...............................................................290
+Hershop Bog, Grass and Arboreal Pollen Distribution............................293
+Hershop Bog Sedge, Oak, Birch, and Alder Pollen Distribution.............295
+Hershop Bog, Pollen Distribution for Apiaceae and Asteraceae.............296
+Contour Map of the Bench Area..............................................................368
+Excavation Grid Layout...........................................................................369
+Oblique Schematic View of Excavation Units ........................................370
+Schematic View of an Excavation Level .................................................379
+Excavations in Progress, Looking Southeast ...........................................380
+Excavations in Progress, Looking Southwest..........................................381
+xxxii
+
+Figure 3.7:
+Figure 3.8:
+Figure 3.9:
+Figure 3.10:
+Figure 3.11:
+Figure 4.1:
+Figure 4.2:
+Figure 4.3:
+Figure 4.4:
+Figure 4.5:
+Figure 4.6:
+Figure 4.7:
+Figure 4.8:
+Figure 4.9:
+Figure 4.10:
+Figure 4.11:
+Figure 4.12:
+Figure 4.13:
+Figure 4.14:
+Figure 4.15:
+Figure 4.16:
+Figure 4.17
+Figure 4.18:
+Figure 4.19:
+Figure 4.20:
+Figure 4.21:
+Figure 4.22:
+Figure 4.23:
+Figure 4.24:
+Figure 4.25:
+Figure 4.26:
+Figure 4.27:
+Figure 4.28:
+Figure 4.29:
+Figure 4.30:
+Figure 4.31:
+Figure 4.32:
+Figure 4.33:
+Figure 4.34:
+Figure 4.35:
+Figure 4.36:
+
+Excavation of Unit N109 E96 into Artificial Cut ....................................382
+Removal of Stratum 3 Fill to Create an Artificial Floor..........................383
+Collecting Screened Matrix .....................................................................384
+Feature 5 Isolated for Removal................................................................387
+Cultural Debris from the Bench Deposits................................................396
+Cross-Valley Traverses of Plant Species Richness and Basal Area ........405
+Grain-Size Distribution of a Hypothetical Sample ..................................422
+Immediate Geologic Context of Berger Bluff .........................................434
+Simplified Map of Terrace Surfaces ........................................................435
+Terraces on the Preiss Property................................................................437
+Gravel Deposit on the Lower (?) Post-Beaumont Terrace.......................438
+Grain-Size Histogram for Lower (?) Post-Beaumont Terrace.................439
+The Ravine ...............................................................................................440
+Grain-Size Histograms for Goliad Sandstone Samples ...........................443
+Goliad Sandstone Bedrock Outcrop.........................................................444
+Goliad Formation Marl or Calcareous Clay.............................................445
+Lissie Formation, View of Section 1 .......................................................451
+Lissie Formation, Measured Section 1.....................................................452
+Lissie Formation, View of Top of Section 2............................................454
+Lissie Formation, Measured Section 2.....................................................456
+Grain-Size Histograms for Lissie Sediment Samples..............................458
+Preiss Ranch, Diatom and Snail Sampling Locality D-21.......................465
+Preiss Ranch, Diatom and Snail Sampling Locality D-20, Area “A.”.....466
+Schematic View of Stratigraphy at Berger Bluff.....................................472
+Photographic Section of Berger Bluff......................................................473
+Bench Cutbank, Looking West ................................................................479
+Cutbank Profile ........................................................................................481
+West Cutbank Profile...............................................................................482
+Profile of Unit N109 E103.......................................................................484
+N109 E103, Stratigraphic Plots of Screened and Magnetic
+Susceptibility Samples .............................................................................486
+Profile of Unit N110 E102.......................................................................488
+N110 E102, Stratigraphic Plots of Screened and Magnetic
+Susceptibility Samples .............................................................................490
+N110 E102, South Wall ...........................................................................491
+N110 E102, West Wall ............................................................................492
+Profile of Unit N111 E101.......................................................................494
+N111 E101, Stratigraphic Plots of Screened and Magnetic
+Susceptibility Samples .............................................................................496
+N111 E101, South Wall ...........................................................................497
+N111 E101, West Wall ............................................................................498
+Profile of Unit N112 E99.........................................................................500
+N112 E99, Stratigraphic Plots of Screened and Magnetic
+Susceptibility Samples .............................................................................502
+Profile of Unit N113 E98.........................................................................503
+xxxiii
+
+Figure 4.37:
+Figure 4.38:
+Figure 4.39:
+Figure 4.40:
+Figure 4.41:
+Figure 4.42:
+Figure 4.43:
+Figure 4.44:
+Figure 4.45:
+Figure 4.46:
+Figure 4.47:
+Figure 4.48:
+Figure 4.49:
+Figure 4.50:
+Figure 4.51:
+Figure 4.52:
+Figure 4.53:
+Figure 4.54:
+Figure 4.55:
+Figure 4.56
+Figure 4.57:
+Figure 4.58:
+Figure 4.59:
+Figure 4.60:
+Figure 4.61:
+Figure 4.62:
+Figure 4.63:
+Figure 4.64:
+Figure 4.65:
+Figure 4.66:
+Figure 4.67:
+Figure 4.68:
+Figure 4.69:
+Figure 4.70:
+Figure 4.71:
+Figure 4.72:
+Figure 4.73:
+Figure 4.74:
+
+N113 E98, West Wall ..............................................................................504
+Profile of Unit N112 E97.........................................................................506
+Profile of Unit N109 E96.........................................................................508
+N109 E96, Stratigraphic Plots of Screened and Magnetic
+Susceptibility Samples .............................................................................510
+Grain-Size Samples from N109 E96........................................................511
+N109 E96, West Wall ..............................................................................512
+N109 E96 Floor Plans, 92.05-92.00 m ....................................................514
+N109 E96, Looking Down and West at 92.05 m Floor ...........................515
+N109 E96, Looking Down and West at 92.10 m Floor ...........................516
+N109 E96 Floor Plans, 92.10-92.05 m ....................................................518
+N109 E96, Looking Down and West at 92.15 m Floor ...........................519
+N109 E96 Floor Plans, Two Views of 92.15 m Floor .............................521
+N109 E96 Floor Plans, 92.30-92.20 m ....................................................523
+N109 E96 Floor Plans, 92.80-92.60 and 92.45-92.40 m .........................525
+N109 E96, Grain-Size Histograms for Coarse-Grained
+Outwash Deposits ....................................................................................526
+N109 E96, Looking Down and South at 92.80 m Floor .........................527
+Closeup of Strata 1 and 2A in Cutbank Profile........................................531
+Turtle Plastron Fragments (With Cutmarks) in situ in Stratum 1
+Cutbank at 92.12 and 92.08 m, Looking Down and South......................533
+Probable Tree Mold, 91.60-91.55 m........................................................535
+Probable Tree Mold, 91.90 m ..................................................................536
+Raccoon Humerus Exposed in Stratum 2C, Cutbank ..............................551
+Stratum 2E Sediment Sample Column ....................................................557
+Grain-Size Histograms for Stratum 2E ....................................................559
+Stratum 3 and Basal Part of Stratum 4.....................................................564
+Stratigraphy of the Upper Deposits in Main Excavation Block ..............568
+Stratum 5 Profile, Looking South ............................................................569
+Grain-Size Histograms for the Upper Deposits .......................................573
+Looking Southwest at Excavations..........................................................576
+Stratigraphic Distribution of Gravel, Sand, Silt and Clay .......................595
+Grain-Size Sample Column: Stacked Histograms ...................................597
+Berger Bluff and Coleto Creek Bedload Samples: Scattergram of
+Mean Grain Size Versus Standard Deviation ..........................................598
+Grain-Size Sample Column: Scattergram of Mean Grain Size
+Versus Standard Deviation ......................................................................599
+Grain-Size Sample Column: Stratigraphic Plot of Statistics ...................600
+Grain-Size Sample Column: Stratigraphic Plot of Grain-Size
+Mean and Coefficient of Variation ..........................................................601
+Bench Deposits: Grain Size Regressed Against Elevation ......................602
+Bench and Upper Deposits: Grain Size Regressed Against Elevation ....603
+Silt, Clay, and Magnetic Susceptibility Curves for
+Grain-Size Column ..................................................................................614
+Magnetic Susceptibility Curves for the Upper Deposits..........................615
+xxxiv
+
+Figure 4.75:
+Figure 4.76:
+Figure 4.77:
+Figure 4.78:
+Figure 4.79:
+Figure 4.80:
+Figure 4.81:
+Figure 4.82:
+Figure 4.83:
+Figure 4.84:
+Figure 4.85:
+Figure 4.86:
+Figure 4.87:
+Figure 4.88:
+Figure 4.89:
+Figure 4.90:
+Figure 4.91:
+Figure 4.92:
+Figure 4.93:
+Figure 4.94:
+
+Fossil Wood Selected for Thin-Sectioning ..............................................623
+Thin Section of Fossil Wood ...................................................................624
+Thin Section of Fossil Wood ...................................................................625
+Rhizoconcretions Submitted for Thin-Sectioning ...................................631
+Rhizoconcretion in Transverse Thin Section...........................................632
+Rhizoconcretion with Attached Sediment Grains....................................633
+Minor Forms of Rhizoconcretions ...........................................................634
+Caliche Nodule from Bench Deposits......................................................636
+Thin Section of Caliche Nodule...............................................................637
+Thin Section of Caliche Nodule, Showing Attached Grains ...................638
+Caliche Nodule from Lissie Terrace ........................................................639
+Sediment Thin Section 1..........................................................................654
+Sediment Thin Section 2..........................................................................656
+Sediment Thin Section 3..........................................................................659
+Sediment Thin Section 4..........................................................................661
+Sediment Thin Section 5..........................................................................665
+Sediment Thin Section 6..........................................................................667
+Sediment Thin Sections 6 and 7...............................................................669
+N111 E101, Percentage of Grains With Argillans...................................674
+Reduction in Grain Size With Increasing Distance From
+Stream Channel........................................................................................690
+Figure 4.95: Relative Proportions of Sediment Fractions With Increasing
+Distance From Stream Channel ...............................................................692
+Figure 4.96: Sediment Yield and Ground Cover..........................................................697
+Figure 4.97: Effect of Temperature on Precipitation-Sediment Yield Relationship ....699
+Figure 4.98: Effect of Silt and Clay on Width/Depth Ratio .........................................706
+Figure 4.99: Effect of Silt and Clay in Bank on Width/Depth Ratio ...........................707
+Figure 4.100: A Stochastic Model for Cyclic Sedimentation.........................................712
+Figure 5.1:
+Part of Radiocarbon Sample 17 (AA 2831).............................................776
+Figure 5.2:
+Part of Radiocarbon Sample 22 (BETA 73471) ......................................778
+Figure 5.3:
+Part of Radiocarbon Sample 25 (AA 2832).............................................783
+Figure 5.4:
+Part of Radiocarbon Sample 16 ...............................................................788
+Figure 5.5:
+Uncalibrated Radiocarbon Assays Plotted Against Elevation:
+All Assays ................................................................................................792
+Figure 5.6:
+Uncalibrated Radiocarbon Assays Plotted Against Elevation:
+Rejected Assays Omitted .........................................................................794
+Figure 5.7:
+Calibrated Radiocarbon Assays Plotted Against Elevation:
+All Assays ................................................................................................796
+Figure 5.8:
+Calibrated Radiocarbon Assays Plotted Against Elevation:
+Rejected Assays Omitted .........................................................................798
+Figure 5.9:
+Uncalibrated Radiocarbon Assays Plotted Against Elevation
+and Cultural Chronology..........................................................................804
+Figure 6.1:
+Unidentified Charred Monocot ................................................................817
+Figure 7.1:
+Diatom Samples .......................................................................................826
+Figure 7.2:
+Major Habitat Categories for Diatoms From the Bench Deposits...........832
+xxxv
+
+Figure 7.3:
+Figure 7.4:
+Figure 7.5:
+Figure 7.6:
+Figure 7.7:
+Figure 7.8:
+Figure 7.9:
+Figure 7.10:
+Figure 7.11:
+Figure 7.12:
+Figure 7.13:
+Figure 7.14:
+Figure 7.15:
+Figure 7.16:
+Figure 7.17:
+Figure 7.18:
+Figure 7.19:
+Figure 7.20:
+Figure 7.21:
+Figure 7.22:
+Figure 7.23:
+Figure 7.24:
+Figure 7.25:
+Figure 7.26:
+Figure 7.27:
+Figure 8.1:
+Figure 8.2:
+Figure 8.3:
+Figure 8.4:
+Figure 8.5:
+Figure 8.6:
+Figure 8.7:
+Figure 8.8:
+Figure 8.9:
+
+Principal Diatom Taxa .............................................................................835
+Diatom Species Richness and Abundance by Level................................837
+Diatom Species Diversity and Evenness by Level ..................................839
+Percentage of Aquatic Diatoms by Level ................................................842
+Persistent Diatom Species........................................................................845
+Decreasing Diatom Species .....................................................................846
+Additional Decreasing Diatom Species ...................................................847
+“Increasing” or Late-Appearing Diatom Species ....................................848
+Unpatterned Diatom Species....................................................................849
+Correspondence Analysis of Diatom Samples from the
+Bench Deposits ........................................................................................861
+Vertical Plot of First Two Axes, Correspondence Analysis of
+Diatom Samples .......................................................................................862
+Epithemia sp., Probably E. adnata...........................................................873
+Epithemia turgida ....................................................................................875
+Fragilaria ulna Fragment ........................................................................878
+Hantzschia amphioxys Fragment .............................................................882
+Pinnularia borealis ..................................................................................892
+Rhopalodia gibba.....................................................................................897
+Freshwater Sponge Spicule Fragment From Stratum 5 ...........................903
+Freshwater Sponge Spicule From Stratum 2A.........................................904
+Freshwater Sponge Spicule From Stratum 1 ...........................................905
+Complete Sponge Spicule From Stratum 2A...........................................906
+Another Complete Sponge Spicule From Stratum 2A.............................907
+Probable Phytolith From Stratum 5 .........................................................908
+Unidentified Phytolith From Stratum 2B.................................................909
+Relative Proportions of Diatom Taxa ......................................................911
+Snail Abundance Plotted Against Body Size...........................................942
+Approximate Range of Gastrocopta pellucida as Mapped
+by Hubricht ..............................................................................................946
+Approximate Range of Anguispira strongylodes as Mapped
+by Hubricht ..............................................................................................947
+Approximate Range of Carychium mexicanum as Mapped
+by Hubricht ..............................................................................................948
+Approximate Range of Mesomphix friabilis as Mapped
+by Hubricht ..............................................................................................949
+Approximate Range of Gastrocopta contracta as Mapped
+by Hubricht ..............................................................................................950
+Approximate Range of Pomatiopsis lapidaria as Mapped
+by Hubricht ..............................................................................................951
+Approximate Range of Carychium mexicanum in Texas as
+Mapped by Fullington and Pratt ..............................................................955
+Approximate Range of Gastrocopta contracta in Texas as
+Mapped by Cheatum and Fullington........................................................956
+xxxvi
+
+Figure 8.10:
+
+Approximate Range of Gastrocopta pellucida in Texas as
+Mapped by Cheatum and Fullington........................................................957
+Figure 8.11: Approximate Range of Euchemotrema leai in Texas as
+Mapped by Cheatum and Fullington........................................................958
+Figure 8.12: Approximate Range of Mesodon thyroidus in Texas as
+Mapped by Cheatum and Fullington........................................................959
+Figure 8.13: Approximate Range of Oligyra orbiculata in Texas as
+Mapped by Fullington and Pratt ..............................................................960
+Figure 8.14: Approximate Range of Praticolella pachyloma in Texas as
+Mapped by Cheatum and Fullington........................................................961
+Figure 8.15: Approximate Range of Pupisoma dioscoricola in Texas as
+Mapped by Cheatum and Fullington........................................................962
+Figure 8.16: Approximate Range of Polygyra texasiana texasiana in
+Texas as Mapped by Cheatum and Fullington.........................................963
+Figure 8.17: Approximate Range of Rabdotus alternatus in Texas as
+Mapped by Fullington and Pratt ..............................................................964
+Figure 8.18.: Approximate Range of Rabdotus dealbatus in Texas as
+Mapped by Fullington and Pratt ..............................................................965
+Figure 8.19: The Southern Plains Gastropod Survey ...................................................969
+Figure 8.20: Effect of Humidity on Snail Density and Species Richness ....................974
+Figure 8.21: Density Variation by Microhabitat in the SPGS......................................980
+Figure 8.22: Density of Snails Recovered From Quarter-Inch Screen,
+Eastern Three Units................................................................................1008
+Figure 8.23: Density of Snails Recovered From Quarter-Inch Screen, Western
+Three Units.............................................................................................1009
+Figure 8.24: Coarse and Fine Mesh Recovery Compared for Unit N109 E103.........1012
+Figure 8.25: Coarse and Fine Mesh Recovery Compared for Unit N110 E102.........1013
+Figure 8.26: Principal Taxa From the Quarter-Inch Screen, Upper and
+Lower Part of the Bench Deposits .........................................................1015
+Figure 8.27: Opercula From Oligyra orbiculata ........................................................1019
+Figure 8.28: Calcified Eggshells From Anguispira strongylodes Aperture ...............1021
+Figure 8.29: Calcified Eggshells From Mesomphix friabilis Aperture ......................1021
+Figure 8.30: Anguispira strongylodes ........................................................................1029
+Figure 8.31: Carychium mexicanum...........................................................................1034
+Figure 8.32: Euchemotrema leai ................................................................................1036
+Figure 8.33: Gastrocopta contracta ...........................................................................1042
+Figure 8.34: Gastrocopta pellucida............................................................................1046
+Figure 8.35: Gastrocopta procera (?) Basal Fragment ..............................................1049
+Figure 8.36: Glyphyalinia umbilicata.........................................................................1052
+Figure 8.37: Glyphyalinia cf. G. roemeri (?)..............................................................1056
+Figure 8.38: Helicodiscus singleyanus .......................................................................1059
+Figure 8.39: Mesodon cf. M. roemeri (?) ...................................................................1063
+Figure 8.40: Mesodon cf. M. roemeri (?), Adaxial View ...........................................1064
+Figure 8.41: Mesodon thyroidus.................................................................................1066
+xxxvii
+
+Figure 8.42:
+Figure 8.43:
+Figure 8.44:
+Figure 8.45:
+Figure 8.46:
+Figure 8.47:
+Figure 8.48:
+Figure 8.49:
+Figure 8.50:
+Figure 8.51:
+Figure 8.52:
+Figure 8.53:
+Figure 8.54:
+Figure 8.55:
+Figure 8.56:
+Figure 8.57:
+Figure 8.58:
+Figure 8.59:
+Figure 8.60:
+Figure 8.61:
+Figure 8.62:
+Figure 8.63:
+Figure 8.64:
+Figure 8.65:
+Figure 8.66:
+Figure 8.67:
+Figure 8.68:
+Figure 8.69:
+Figure 8.70:
+Figure 8.71:
+Figure 8.72:
+Figure 8.73:
+Figure 8.74:
+Figure 8.75:
+Figure 8.76:
+Figure 8.77:
+Figure 8.78:
+Figure 8.79:
+Figure 8.80:
+Figure 8.81:
+Figure 8.82:
+Figure 8.83:
+
+Mesodon thyroidus, Adaxial View ........................................................1067
+Mesomphix friabilis ...............................................................................1071
+Mesomphix friabilis, Adaxial View .......................................................1072
+Oligyra orbiculata .................................................................................1074
+Vertical Distribution of Oligyra orbiculata...........................................1078
+Polygyra texasiana triodontoides ..........................................................1081
+Histograms of Polygyra texasiana triodontoides Body Size.................1082
+Approximate Range of Polygyra texasiana triodontoides in
+Texas as Mapped by Pratt ......................................................................1084
+Praticolella cf. P. pachyloma, Adaxial View ........................................1086
+Praticolella Height vs. Diameter, Smith Creek Bridge Site..................1087
+Praticolella Height vs. Diameter, Berger Bluff Bench..........................1089
+Histogram of Body Diameter, Praticolella cf. P. pachyloma................1090
+Pupisoma dioscoricola (?) .....................................................................1093
+Pupoides albilabris, Adaxial View........................................................1095
+Rabdotus sp. Adults, Adaxial View.......................................................1103
+Histograms of Rabdotus Body Size, Adults Only ................................1105
+Histograms of Rabdotus Body Size, Adults and
+Juveniles Combined ...............................................................................1106
+Strobilops texasiana, Adaxial View ......................................................1108
+Strobilops texasiana, Additional Views ................................................1109
+Zonitoides arboreus ...............................................................................1112
+Slug Plate From Unidentified Slug ........................................................1114
+Catinella vermeta, Adaxial View ..........................................................1117
+Pomatiopsis lapidaria, Adaxial View....................................................1120
+Cincinnatia integra, Adaxial View........................................................1125
+Gyraulus parvus.....................................................................................1129
+Helisoma anceps ....................................................................................1133
+Lymnaeidae, cf. Fossaria sp. (?), Adaxial View ...................................1135
+Planorbella trivolvis ..............................................................................1140
+Valvata tricarinata.................................................................................1143
+Valvata tricarinata, Adaxial View ........................................................1144
+Valvata tricarinata.................................................................................1145
+Valvata tricarinata, Apical View ..........................................................1146
+Valvata tricarinata.................................................................................1147
+Valvata tricarinata.................................................................................1148
+Snails Recovered From Quarter-Inch Screen, Strata 2D and 3 .............1175
+Snails Recovered From Quarter-Inch Screen, Strata 2B and 2C ...........1176
+Snails Recovered From Quarter-Inch Screen, Strata 1 and 2B..............1177
+Cluster Analysis of Snails From the Quarter-Inch Screen.....................1180
+Correspondence Analysis of Snails From the Quarter-Inch Screen ......1183
+Correspondence Analysis of Snails From the Quarter-Inch Screen ......1184
+Vertical Plot of First Three Axes, N109 E103.......................................1185
+Vertical Plot of First Three Axes, N110 E102.......................................1186
+xxxviii
+
+Figure 8.84:
+Figure 8.85:
+Figure 8.86:
+Figure 8.87:
+Figure 8.88:
+Figure 8.89:
+Figure 8.90:
+
+Percentage Composition of Combined Matrix Columns .......................1196
+Taxonomic Composition of Matrix Columns, Strata 2D and 2D/3 .......1198
+Taxonomic Composition of Matrix Columns, Strata 2B and 2C...........1199
+Taxonomic Composition of Matrix Columns, Strata 1 and 2A .............1200
+Cluster Analysis of Snails From Combined Matrix Columns ...............1202
+Cluster Analysis of Snails From Combined Matrix Columns ...............1203
+Correspondence Analysis of Snails From Combined
+Matrix Columns .....................................................................................1208
+Figure 8.91: Correspondence Analysis of Snails From Combined
+Matrix Columns .....................................................................................1209
+Figure 8.92: Correspondence Analysis of Snails From Combined
+Matrix Columns .....................................................................................1210
+Figure 8.93: Vertical Plot of First Three Axes, N109 E103.......................................1211
+Figure 8.94: Vertical Plot of First Three Axes, N110 E102.......................................1212
+Figure 8.95: Contemporary Range of Valvata tricarinata .........................................1219
+Figure 9.1:
+Closeup of Old Break on Amblema plicata Valve.................................1274
+Figure 9.2:
+Contemporary and Archeological Amblema plicata Valves..................1278
+Figure 9.3:
+Histograms of Shell Length for Contemporary Amblema plicata .........1285
+Figure 9.4:
+Von Bertalanffy Growth Curves for Contemporary
+Amblema plicata From Arkansas...........................................................1290
+Figure 9.5:
+Approximate Growth Curve for Contemporary Amblema plicata
+From the Illinois River...........................................................................1291
+Figure 9.6:
+Contemporary and Archeological Megalonaias nervosa ......................1292
+Figure 9.7:
+Lab Sketch of Megalonaias nervosa Valve ...........................................1293
+Figure 9.8:
+Growth Curves for Megalonaias nervosa..............................................1299
+Figure 9.9:
+Southern Mapleleaf (Quadrula apiculata).............................................1302
+Figure 9.10: Peaclam (?) (Cyclocalyx?) .....................................................................1305
+Figure 9.11: Plan View of Mussel-Bearing Surface...................................................1309
+Figure 9.12: Shell-Bearing Surface in N112 E99.......................................................1310
+Figure 9.13: Amblema plicata Valve in N113 E98 ....................................................1311
+Figure 9.14: Mud-Dauber Nest, Stratum 3.................................................................1316
+Figure 10.1: Dorsal Fin Spine of Unidentified Fish ...................................................1352
+Figure 10.2: Location of Major Divisions of the Vertebrate Fauna ...........................1383
+Figure 10.3: Density of Ambient Bone Fragments in N109 E96 ...............................1386
+Figure 10.4: Plan of Hearth Deposit...........................................................................1388
+Figure 10.5: Schematic Section, Bone Lots in the Hearth Deposit ............................1390
+Figure 10.6: Hearth Deposit, Taxonomic Composition by Number of Specimens....1396
+Figure 10.7: Hearth Deposit, Taxonomic Composition With
+Unidentified Categories .........................................................................1397
+Figure 10.8: Ambient Bone: Taxonomic Composition by Number of Specimens ....1398
+Figure 10.9: Ambient Bone: Taxonomic Composition by Number of Specimens ....1399
+Figure 10.10: Ambient Bone: Taxonomic Composition by Number of Specimens ....1400
+Figure 10.11: Calcined Bone Fragment........................................................................1406
+Figure 10.12: Examples of Semiglossy Texture...........................................................1409
+xxxix
+
+Figure 10.13:
+Figure 10.14:
+Figure 10.15:
+Figure 10.16:
+Figure 10.17:
+Figure 10.18:
+Figure 10.19:
+Figure 10.20:
+Figure 10.21:
+Figure 10.22:
+Figure 10.23:
+Figure 10.24:
+Figure 10.25:
+Figure 10.26:
+Figure 10.27:
+Figure 10.28:
+Figure 10.29:
+Figure 10.30:
+Figure 10.31:
+Figure 10.32:
+Figure 10.33:
+Figure 10.34:
+Figure 10.35:
+Figure 10.36:
+Figure 10.37:
+Figure 10.38:
+Figure 10.39:
+Figure 10.40:
+Figure 10.41:
+Figure 10.42:
+Figure 10.43:
+Figure 10.44:
+Figure 10.45:
+Figure 10.46:
+Figure 10.47:
+Figure 10.48:
+Figure 10.49:
+Figure 10.50:
+Figure 10.51:
+Figure 10.52:
+Figure 10.53:
+
+Example of Matte Texture .....................................................................1410
+Carbonate Growth Forces Longitudinal Splitting..................................1412
+Surface-Channeled Shaft Fragment, Ambient Bone..............................1415
+Cutmarked Raccoon Humerus ...............................................................1418
+Detail of Cutmarks on Turtle Plastron ...................................................1419
+Unidentified Fragment with Cutmarks ..................................................1421
+Surface-Corroded Bone Fragment From the Hearth Deposit ................1422
+Corroded Long Bone Epiphysis (?) From the Hearth Deposit ..............1423
+Edge-Polished Long Bone Fragment From the Hearth Deposit ............1424
+Size Distribution of Ambient and Hearth Deposit Bone Fragments......1430
+Fragmented Animal Bone From the Hearth Deposit .............................1431
+Ambient Bone: Taxonomic Composition by Minimum
+Number of Individuals ...........................................................................1441
+Calcined Rabbit Bones From the Ambient Fauna .................................1446
+Calcined Fish Spine From the Ambient Fauna ......................................1447
+Ambient Bone and Antler From Large Animals....................................1448
+Carapace Fragment From Large Tortoise (?).........................................1450
+Ambient Bone, Various Lots and Taxa..................................................1452
+More Ambient Bone, Various Lots and Taxa........................................1453
+More Ambient Bone, Various Lots and Taxa........................................1454
+Whittled Bone (?) Pin ............................................................................1456
+Detail of Whittled Bone (?) Pin .............................................................1457
+Hearth Deposit, Taxonomic Composition by Minimum
+Number of Individuals ...........................................................................1459
+Smallmouth Salamander Ilia From the Hearth Deposit.........................1465
+Eastern Cottontail, Fusion Rates for Proximal Humerus.......................1472
+Hearth Deposit and Ambient Bone: Eastern Mole, Gopher, Leporid....1478
+Hearth Deposit: Eastern Mole, Woodrat, Rabbit, Frog, Unidentified ...1479
+Hearth Deposit: Eastern Mole, Gopher, Rabbit Bone............................1480
+Hearth Deposit: Eastern Mole Humerus ................................................1481
+Hearth Deposit: Additional Eastern Mole Humerus Fragments ............1482
+Hearth Deposit: Rodent and Insectivore Bone.......................................1483
+Hearth Deposit: Rodent, Insectivore, Bird, Unidentified Bone .............1484
+Hearth Deposit: Small Mammal Metapodials........................................1485
+Hearth Deposit: Rodent and Amphibian Bone ......................................1486
+Hearth Deposit: Rodent, Amphibian, Bird and Fish Bone ....................1487
+Hearth Deposit: Amphibian and Lizard Dentition Fragments...............1488
+Hearth Deposit: Salamander Long Bone Fragments .............................1489
+Hearth Deposit: Salamander Vertebrae .................................................1490
+Hearth Deposit: Snake and Lizard Vertebrae ........................................1491
+Hearth Deposit: Fish and Bird Bone......................................................1492
+Location of Lipid Samples.....................................................................1494
+Contents of Raptor Pellet From Coleto Creek Reservoir.......................1505
+xl
+
+Figure 10.54: Comparing Fragment Size in the Hearth Deposit and a
+Raptor Pellet...........................................................................................1506
+Figure 10.55: Microflakes From the Hearth Deposit ...................................................1521
+Figure 10.56: Human Coprolite From Conejo Shelter .................................................1529
+Figure 10.57: Comparing Fragment Size in the Hearth Deposit and a
+Coprolite From Baker Cave ...................................................................1530
+Figure 10.58: Hearth Deposit: Shaft Fragment With Compression Fracture...............1531
+Figure 10.59: Element Representation Compared: Hearth Deposit and
+Baker Cave Coprolites ...........................................................................1533
+Figure 10.60: Prehistoric Small-Animal Procurement Gear From the Lower Pecos ...1545
+Figure 10.61: Gar Scale, Ambient Bone ......................................................................1550
+Figure 10.62: Ambient Bone, Small Fish Vertebra......................................................1551
+Figure 10.63: Ambient Bone, Small Fish Vertebra......................................................1551
+Figure 10.64: Very Small Unidentified Fish Vertebra From the Ambient
+Bone Assemblage...................................................................................1552
+Figure 10.65: SEM Photo of Fish Vertebra..................................................................1553
+Figure 10.66: Turtle Plastron Fragment From the Cutbank .........................................1568
+Figure 10.67: Another Turtle Plastron Fragment From the Cutbank ...........................1569
+Figure 10.68: Turtle Carapace Fragment, Ambient Bone ............................................1571
+Figure 10.69: Turtle Carapace Fragment, Ambient Bone ............................................1572
+Figure 10.70: Turtle Carapace Fragments, Ambient Bone...........................................1573
+Figure 10.71: Smallmouth Salamander ........................................................................1578
+Figure 10.72: Eastern Mole Elements Recovered From the Hearth Deposit ...............1587
+Figure 10.73: Grasshopper Mouse Molar From the Hearth Deposit............................1605
+Figure 10.74: Range Limits for Prairie and Pine Voles ...............................................1614
+Figure 10.75: Microtine Molar From Ambient Bone...................................................1617
+Figure 10.76: Closeup of Microtine Teeth From the Hearth Deposit ..........................1618
+Figure 10.77: Microtine Molar From the Hearth Deposit ............................................1619
+Figure 10.78: Microtine Skull From the Upper Deposits.............................................1620
+Figure 10.79: Microtine Mandibles From the Upper Deposits ....................................1621
+Figure 10.80: Comparative Specimens of Neotoma Molars ........................................1626
+Figure 10.81: Closeup of Neotoma Molar From the Hearth Deposit ...........................1628
+Figure 10.82: Closeup of Neotoma Teeth From the Hearth Deposit............................1629
+Figure 11.1: Advent of the Holocene at Berger Bluff ................................................1741
+Figure 11.2: Numerical Analysis Yields Stratigraphic Signatures.............................1761
+
+xli
+
+

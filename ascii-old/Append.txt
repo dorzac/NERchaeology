@@ -1,0 +1,7275 @@
+Appendix 1: Laboratory and Numerical Methods of Sediment Analysis
+
+LAB TECHNIQUES FOR GRAIN-SIZE ANALYSIS OF SEDIMENTS
+The lab techniques employed for grain size analysis of the bench sediments were,
+for the most part, the standard methods advocated by Folk (1980), employing dry sieving
+for gravel and sand-sized fractions and pipette analysis of the fines (based on Stoke's Law
+of settling velocity). However, the partially cemented nature of the sediments posed some
+special difficulties, as did persistent sample loss during blender homogenization of the
+fines. Some correction factors were introduced to try to counter these problems, and these
+are discussed below. Laboratory methods for analysis of organic carbon content are
+discussed elsewhere by Michael Marchbanks.
+Because the sediments were partially cemented, they contain many carbonate
+aggregates. These range in size from the large masses and tubular rhizoconcretions
+discussed elsewhere in this report to small, irregular aggregates a millimeter or so across.
+These latter were especially abundant and troublesome in the grain-size samples.
+Ultimately, I devoted about four months to disaggregating and analyzing a series of
+samples with what I considered to be acceptable precision. Sediment samples for grainsize analysis were removed from bulk matrix sample bags and therefore come from the
+lower three centimeters of each five-centimeter level, in contrast to the organic carbon
+samples, which were extracted from the pollen/phytolith samples and therefore come
+from the one or two centimeters of fill above that; otherwise, the samples are comparable.
+Grain-size samples were generally about 15 g of dry sediment. Two separate data forms
+were used: a master data form to track various weights as well as the weights of pipette
+1770
+
+grades, and a separate form for dry sieving of the coarse fractions. Lab methods were as
+follows:
+1. About 15 g of dry sediment was extracted; snail shells, chert flakes, charcoal, or other
+contaminants were picked out; the remaining sample was weighed on a triple beam
+balance and the weight was recorded;
+2. The sample was gently crushed with a rubber stopper (to avoid breaking sediment
+grains);
+3. The sample was placed in a sealed jar with dispersant solution and shaken for a while,
+then allowed to stand from one to several days.
+4. The settled sample was reshaken, then immediately washed with a squeeze bottle of
+dispersant solution into a #230 sieve held over a 500 ml beaker; the coarse fraction
+retained on the screen was then washed into another beaker with distilled water;
+5. The pyrex beaker with coarse fraction was baked in an oven to drive off the water, then
+allowed to cool to room temperature;
+6. After adjusting to room temperature and humidity (which might take several days) the
+coarse fraction was weighed, in the beaker, on an analytical balance and the weight
+recorded;
+7. The dry coarse fraction was saturated in 25% HCl until effervescence ceased (i.e., long
+enough to disaggregate small diagenetically-cemented carbonate masses, but not long
+enough to digest significantly any sand-sized carbonate clasts that might have been
+present). The sample was then diluted and neutralized so that residual acid would not
+alter the mesh size when the sample was rinsed on the #230 sieve;
+8. The carbonate-free coarse fraction was rinsed with distilled water into a Pyrex beaker
+and again baked to drive off water; after adjustment to room conditions, the sample
+was weighed as before;
+9. The difference in weights before and after the acid bath was taken as an approximation
+of the carbonate loss from the coarse fraction. Actually, some fines are also liberated
+as well by digestion of the carbonate masses, but these cannot practically be recovered
+or measured because of acid contamination; this is simply taken as unavoidable error;
+10. The carbonate-free coarse sediment was then sieved in nested, hand-tapped screens
+for 30 minutes;
+11. After sieving, some sediment passing the #230 sieve would inevitably be present; this
+fraction was considered to be sufficiently acid-free to add to the beaker with the fines;
+12. The coarse grade on each screen was collected and weighed separately and recorded;
+13. Fines from the 500 ml beaker were washed with dispersant into a blender and
+homogenized at high speed for 5 minute. Invariably some sample loss occurred in this
+step, which had to be corrected mathematically as described below;
+14. The blender contents were washed with enough dispersant into a labeled 1 liter
+graduated cylinder to fill it exactly to the 1 liter mark; the cylinder was then allowed to
+stand overnight;
+15. Eleven 50 ml beakers were marked and preweighed to correspond to each cylinder;
+16. The suspension in the graduated cylinder was stirred and then exactly 20 ml of
+suspension for each beaker was withdrawn by pipette, as described by Folk, at timed
+1771
+
+intervals; when samples were occasionally missed, the sample was restirred and the
+series repeated;
+17. Samples were oven-dried, then allowed to adjust to ambient temperature and
+humidity (this last factor proved to be critical), then weighed on an analytical balance.
+In practice it proved advisable to let the samples stand uncovered in the balance room
+for about three days before weighing;
+18. Sample weights for the fines were checked for monotonically declining weights;
+where violations were found, the series was repeated provided enough suspension
+remained; if not, the entire sample procedure was repeated beginning at step 1.
+Individual sieve fractions in the coarse grades were saved in labeled vials in case
+any future microscopic studies should be contemplated. Baked mud samples, however,
+were discarded.
+
+COMPUTATIONAL TECHNIQUES AND SOURCES OF ERROR
+Two main sources of potential error were encountered in the lab work. The first is
+possible differential digestion of carbonate masses. The cessation of effervescence was
+used as a timing standard, the assumption being that the carbonate in the sediment had
+nearly neutralized the acid. Related to this problem is the fact that some fines are
+inevitably trapped by the carbonate aggregates and are lost to the analysis when the
+sample is rinsed. Since the acid goes with the lost fines, the difficulty of recovery was
+considered to be too troublesome to justify the small increase in precision expected.
+Carbonate loss from the coarse fraction was measured as a variable of interest in its own
+right, and was also used as a correction factor to recompute the coarse grades, as
+described below.
+
+The other chief source of error lay in sample loss during blending. Eventually the
+course of action chosen was to assume that enough homogenization occurred before
+sample loss to justify treating the remainder as representative of the original sample.
+1772
+
+Enough sample weight was then added back in mathematically (using the cumulative
+weight in the first pipette sample withdrawn as an estimator). The original weight of
+sediment passing the #230 sieve was divided by the cumulative weight in the first pipette
+grade to arrive at a correction factor for blender loss.
+
+The final table of raw grade weights was keypunched in 1980 and used as input
+for an SPSS program which simultaneously applied the correction factors mentioned as
+recomputed the grade weights as percentages of the raw sample, so that sample-to-sample
+variations in amount would not matter. This was done on the mainframe computer at the
+Computation Center, University of Texas at Austin, but could as easily have been done
+with a personal computer and spreadsheet program had such things been available in
+1980. In 1986, the corrected data table was entered in a Lotus 1-2-3 worksheet in order to
+produce the tables for this report.
+
+The formulae used to produce the corrected data table are as follows:
+1. [weight of raw sample] - [wt. of coarse fraction before acid]
+2.
+
+wt. of fines
+cumulative wt. in pipette grade 1
+
+= correction factor for blender loss
+
+3. [wt. in each pipette grade] X [blender correction factor] = corrected pipette weights
+4. [weight of raw sample] - [weight loss after acid] = sample weight minus carbonate
+5. SAND GRADE PERCENTAGE =
+
+sand grade
+sample weight minus carbonate
+
+6. SILT/CLAY GRADE PERCENTAGE =
+
+corrected pipette weight
+sample weight minus carbonate
+
+1773
+
+PHI TRANSFORMATION OF THE WENTWORTH GRADE SCALE
+Measures of grain size used in this report are based on the phi (Ï) transformation
+of the Wentworth metric grade scale. In the Wentworth scale each size grade is half the
+size of the next coarser grade; for example, coarse sand falls in the range 1.0 to 0.5 mm in
+diameter while very coarse sand is 2.0 to 1.0 mm in diameter. This scale is well-suited to
+natural frequency distributions of particle sizes, which tend to be exponentially scaled
+and to approximate a log-normal distribution. The derivation of the phi scale is given by
+Krumbein (1978; original 1936) and is defined as
+Ï = -log2X
+where X is the grade limit in millimeters. This study uses grades measured at 0.5 phi
+intervals. A concordance of the Wentworth and phi grades is given in Table 4.1.
+
+NUMERICAL METHODS
+Three statistics were computed for the grain size data. The mean grain size (M Ï,
+the phi arithmetic mean) was used as a measure of central tendency, and the standard
+deviation (sigma Ï) was used as a measure of dispersion or sorting. The standard
+deviation (or more properly, the coefficient of variation, CV) is, of course, inversely
+proportional to the degree of sorting (heterogeneous, poorly sorted sediments have large
+coefficients of variation).
+
+The computational method is essentially that of Folk (1980), which in turn is
+closely similar to and based on the "method of moments" as advocated by Krumbein
+(1978). The procedure is the same as that termed computation of the mean from grouped
+1774
+
+data by Blalock (1972:61 ff). This differs from more customary computational methods
+in that it yields the average grade in phi units of a sample rather than the average
+quantity of sediment in a grade, which would be of little interest.
+
+The principal differences between the computational method of Folk and that
+used here are that
+1) the data used are percent in grade drawn from the data table corrected for carbonate
+loss and blender loss rather than weight in grade. The percentages do not add up to 100%
+as in Krumbein's (1978:Table II) example since varying amounts of the sample are
+composed of clay grades finer than 9.0 phi for which we have no data.
+2) the mean and standard deviation are only computed for grades up to 9.0 phi (i.e.,
+coarser than .002 mm). No arbitrary "pan fraction" figure is used as was employed by
+Folk (1980). The statistics computed here are, then, simply measures of that portion of
+the sample for which we have grade-by-grade data.
+The mean grain size is given as
+M Ï = Î£ (f d)
+Î£ (f)
+where M Ï = mean grain size in phi units
+Î£ = the sum of
+f = the weight percent of sediment in a grade
+d = the midpoint of a grade interval
+The standard deviation is given as
+Î£ Ï = SQR[ [Î£ [f(M Ï)2]] ]
+Î£(f)
+where Î£ Ï = standard deviation in phi units
+SQR = square root
+1775
+
+The coefficient is given as
+CV =
+
+Î£Ï/MÏ
+
+and is a dimensionless ratio in which the standard deviation is standardized by the mean,
+so as to yield a measure of sorting which is not biased by the average grain size of the
+sample.
+
+Besides Krumbein (1978) and Folk (1980), the reader may wish to consult
+McManus (1982) and Pierce and Graus (1981) on use of the phi scale and derivative
+statistics.
+
+Grain size statistics for samples discussed in this report were originally calculated
+by hand in 1983, using a pocket calculator. In 1986 all the statistics were recalculated on
+an IBM PC with a BASIC program (GRAIN) written specifically for this purpose. A
+listing of the program is on file at the Center for Archaeological Research. Statistics
+presented in this report are those calculated with the BASIC program.
+
+Table A1.1 (following) lists the grain-size data for the bench and Lissie terrace
+samples. The first 28 samples represent the composite grain-size column (three samples
+from N109 E103, the remaining 25 from N110 E102). There are also two miscellaneous
+samples from N109 E96, and a single sample from stratum 2E in the cutbank with all
+grades analyzed (a second sample from stratum 2E was also analyzed, but only for gravel
+and sand; it is not listed here).
+
+1776
+
+Table A1.1: Grain-Size Data for Bench and Lissie Terrace Samples.
+Gravel1
+-2.5 to
+-2.0 Ï
+N109 E103
+93.14-92.90
+92.90-92.85
+92.85-92.80
+N110 E102
+92.80-92.75
+92.75-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.10-92.05
+92.05-92.00
+92.00-91.95
+91.95-91.90
+91.90-91.85
+91.85-91.80
+91.80-91.75
+91.75-91.70
+91.70-91.65
+91.65-91.60
+91.60-91.55
+N109 E96
+92.30-92.25
+92.15-92.10
+Cutbank
+93.40-93.35
+Lissie terrace
+Lissie 2-1
+Lissie 1-2
+Lissie 1-3
+
+Gravel2
+-2.0 to
+-1.5 Ï
+
+Gravel3
+-1.5 to
+-1.0 Ï
+
+Sand 1
+-1.0 to
+-0.5 Ï
+
+Sand 2
+-0.5 to
+0.0 Ï
+
+Sand 3
+0.0 to
+0.5 Ï
+
+Sand 4
+0.5 to
+1.0 Ï
+
+Sand 5
+1.0 to
+1.5 Ï
+
+0
+0
+0
+
+0
+0
+0
+
+0.0008
+0.0024
+0
+
+0.0004
+0.0036
+0.0033
+
+0.0038
+0.0073
+0.0079
+
+0.0096
+0.0183
+0.0173
+
+0.0283
+0.0544
+0.0574
+
+0.0206
+0.0392
+0.0431
+
+0.0101
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0.0273
+0.014
+0
+0
+
+0
+0
+0.007
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0.0135
+0
+0
+0
+
+0.0037
+0.0018
+0
+0
+0
+0
+0.0009
+0.0007
+0
+0
+0
+0
+0.0006
+0
+0
+0
+0
+0
+0
+0
+0
+0.0044
+0.0105
+0.0011
+0
+
+0.0037
+0.0018
+0.0031
+0.0006
+0.0006
+0.0017
+0.0039
+0.0042
+0.0034
+0.0029
+0
+0
+0.0003
+0
+0.0008
+0.0103
+0
+0
+0.0008
+0.0007
+0.0029
+0.0132
+0.0106
+0.0064
+0.0004
+
+0.0093
+0.008
+0.0034
+0.002
+0.0021
+0.0077
+0.0051
+0.0056
+0.0069
+0.0064
+0.0017
+0.0006
+0.0001
+0.0003
+0.0009
+0.0003
+0.0008
+0
+0
+0.0005
+0.0003
+0.0137
+0.0127
+0.0072
+0.001
+
+0.0228
+0.0156
+0.0087
+0.0061
+0.0074
+0.0109
+0.0131
+0.0158
+0.0149
+0.0116
+0.0037
+0.0043
+0.0011
+0.0006
+0.0008
+0.0011
+0.0005
+0.0001
+0.0018
+0.0009
+0.0014
+0.0154
+0.0211
+0.0151
+0.0052
+
+0.0641
+0.0529
+0.0301
+0.0182
+0.0177
+0.0262
+0.0344
+0.0439
+0.0366
+0.0264
+0.0124
+0.0132
+0.0048
+0.0027
+0.0031
+0.005
+0.004
+0.0011
+0.0048
+0.0021
+0.0056
+0.031
+0.0399
+0.0343
+0.0138
+
+0.0494
+0.0417
+0.0249
+0.0148
+0.0141
+0.0184
+0.0212
+0.0263
+0.0265
+0.0173
+0.0128
+0.0129
+0.0054
+0.0028
+0.0031
+0.0043
+0.0052
+0.0031
+0.006
+0.0017
+0.005
+0.0215
+0.0285
+0.0259
+0.0136
+
+0
+0
+
+0.0057
+0
+
+0.0008
+0.0003
+
+0.0065
+0.0012
+
+0.0056
+0.0012
+
+0.0175
+0.0021
+
+0.0535
+0.0076
+
+0.0447
+0.0033
+
+0.0212
+
+0.004
+
+0.0058
+
+0.0101
+
+0.0199
+
+0.0364
+
+0.079
+
+0.05
+
+0.0223
+0
+0
+
+0.0115
+0
+0
+
+0.0035
+0
+0
+
+0.0098
+0
+0.0004
+
+0.0208
+0
+0
+
+0.0286
+0.0001
+0.0001
+
+0.0602
+0.0008
+0.0035
+
+0.0501
+0.0038
+0.0123
+
+1777
+
+(Table A1.1, continued)
+
+N109 E103
+93.14-92.90
+92.90-92.85
+92.85-92.80
+N110 E102
+92.80-92.75
+92.75-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.10-92.05
+92.05-92.00
+92.00-91.95
+91.95-91.90
+91.90-91.85
+91.85-91.80
+91.80-91.75
+91.75-91.70
+91.70-91.65
+91.65-91.60
+91.60-91.55
+N109 E96
+92.30-92.25
+92.15-92.10
+Cutbank
+93.40-93.35
+Lissie terrace
+Lissie 2-1
+Lissie 1-2
+Lissie 1-3
+
+Sand 6
+1.5 to
+2.0 Ï
+
+Sand 7
+2.0 to
+2.5 Ï
+
+Sand 8
+2.5 to
+3.0 Ï
+
+Sand 9
+3.0 to
+3.5 Ï
+
+Sand 10
+3.5 to
+4.0 Ï
+
+Silt 1
+4.0 to
+4.5 Ï
+
+Silt 2
+4.5 to
+5.0 Ï
+
+Silt 3
+5.0 to
+5.5 Ï
+
+0.041
+0.0764
+0.0876
+
+0.0305
+0.053
+0.0592
+
+0.0672
+0.097
+0.1008
+
+0.0791
+0.0717
+0.0694
+
+0.0701
+0.0429
+0.0384
+
+0.0613
+0.0286
+0.0288
+
+0.0617
+0.0366
+0.0316
+
+0.0388
+0.0321
+0.0389
+
+0.1063
+0.093
+0.0575
+0.0361
+0.0342
+0.0454
+0.0573
+0.0707
+0.0701
+0.0459
+0.0477
+0.0476
+0.0229
+0.0091
+0.0084
+0.0119
+0.0202
+0.0136
+0.0356
+0.0145
+0.0209
+0.0447
+0.061
+0.0607
+0.0451
+
+0.0738
+0.0693
+0.0451
+0.0329
+0.0309
+0.0399
+0.049
+0.0579
+0.0647
+0.048
+0.0502
+0.0504
+0.0255
+0.0118
+0.0102
+0.0139
+0.02
+0.0162
+0.0265
+0.0226
+0.0227
+0.0394
+0.0597
+0.0621
+0.0635
+
+0.1177
+0.1254
+0.0876
+0.0678
+0.0667
+0.0845
+0.0921
+0.0983
+0.1163
+0.1123
+0.0979
+0.1058
+0.0644
+0.0435
+0.0384
+0.0451
+0.0526
+0.0471
+0.0616
+0.07
+0.0672
+0.0851
+0.1298
+0.1473
+0.1621
+
+0.0732
+0.0845
+0.0717
+0.0622
+0.0589
+0.0659
+0.0763
+0.0749
+0.0768
+0.098
+0.0784
+0.0811
+0.0442
+0.0551
+0.0538
+0.0564
+0.0559
+0.0584
+0.0614
+0.0679
+0.0699
+0.0664
+0.0864
+0.099
+0.1177
+
+0.0363
+0.0409
+0.048
+0.045
+0.0274
+0.0391
+0.0353
+0.0282
+0.033
+0.0396
+0.044
+0.044
+0.042
+0.038
+0.0413
+0.0416
+0.0441
+0.0435
+0.038
+0.0443
+0.0439
+0.0345
+0.0403
+0.0483
+0.0541
+
+0.0322
+0.0243
+0.0343
+0.0442
+0.028
+0.0438
+0.038
+0.0375
+0.065
+0.0636
+0.0477
+0.0498
+0.0545
+0.0549
+0.0563
+0.0591
+0.0555
+0.0545
+0.0406
+0.0524
+0.0377
+0.0355
+0.0338
+0.0255
+0.0363
+
+0.0342
+0.0382
+0.047
+0.0542
+0.1154
+0.0435
+0.059
+0.0504
+0.0422
+0.0473
+0.0588
+0.0728
+0.0733
+0.0905
+0.0815
+0.0781
+0.0737
+0.0657
+0.0601
+0.0681
+0.0553
+0.0526
+0.0435
+0.0426
+0.0431
+
+0.0299
+0.0243
+0.0394
+0.0432
+0.0175
+0.0431
+0.0498
+0.0448
+0.0364
+0.039
+0.0521
+0.03
+0.0398
+0.0426
+0.0461
+0.0447
+0.0473
+0.0482
+0.0555
+0.0454
+0.0519
+0.0411
+0.0242
+0.0378
+0.0323
+
+0.1008
+0.0118
+
+0.0757
+0.0186
+
+0.1185
+0.0719
+
+0.0693
+0.0794
+
+0.033
+0.0391
+
+0.0152
+0.0545
+
+0.0444
+0.0632
+
+0.022
+0.0659
+
+0.1018
+
+0.075
+
+0.1292
+
+0.1023
+
+0.04
+
+0.0106
+
+0.0216
+
+0.029
+
+0.1136
+0.0515
+0.1211
+
+0.0876
+0.1008
+0.1986
+
+0.1347
+0.2072
+0.325
+
+0.077
+0.1243
+0.1272
+
+0.0387
+0.0452
+0.044
+
+0.0238
+0.0498
+0.018
+
+0.0368
+0.0579
+0.0192
+
+0.015
+0.0279
+0.0114
+
+1778
+
+(Table A1.1, continued)
+Silt 4
+5.5 to
+6.0 Ï
+N109 E103
+93.14-92.90
+92.90-92.85
+92.85-92.80
+N110 E102
+92.80-92.75
+92.75-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.10-92.05
+92.05-92.00
+92.00-91.95
+91.95-91.90
+91.90-91.85
+91.85-91.80
+91.80-91.75
+91.75-91.70
+91.70-91.65
+91.65-91.60
+91.60-91.55
+N109 E96
+92.30-92.25
+92.15-92.10
+Cutbank
+93.40-93.35
+Lissie terrace
+Lissie 2-1
+Lissie 1-2
+Lissie 1-3
+
+Silt 5
+6.0 to
+6.5 Ï
+
+Silt 6
+6.5 to
+7.0 Ï
+
+Silt 7
+7.0 to
+7.5 Ï
+
+Silt 8
+7.5
+8.0 Ï
+
+Clay 1 Clay 2
+8.0 to 8.5 to
+8.5 Ï 9.0 Ï
+
+0.0373 0.0266 0.0347 0.0325 0.0358 0.0306 0.0129
+0.0341 0.0303 0.0327 0.0251 0.0314 0.0307 0.0063
+0.0291 0.034 0.0249 0.0393 0.0277 0.0375 0.0077
+0.0279
+0.0208
+0.0405
+0.048
+0.042
+0.0438
+0.0425
+0.0375
+0.0375
+0.0343
+0.0424
+0.0383
+0.0523
+0.0542
+0.0555
+0.0531
+0.0693
+0.059
+0.0575
+0.0555
+0.0549
+0.0414
+0.0381
+0.035
+0.037
+
+0.02
+0.0243
+0.0379
+0.0507
+0.042
+0.0418
+0.0323
+0.0348
+0.0304
+0.0336
+0.041
+0.0401
+0.0471
+0.0546
+0.0551
+0.0584
+0.0456
+0.0536
+0.0514
+0.0511
+0.0463
+0.0463
+0.0303
+0.0306
+0.028
+
+0.0213
+0.0278
+0.0332
+0.0405
+0.0455
+0.0418
+0.0184
+0.0282
+0.03
+0.0314
+0.0372
+0.0338
+0.0387
+0.0549
+0.0508
+0.0418
+0.0517
+0.0536
+0.0452
+0.0397
+0.0433
+0.0325
+0.0274
+0.0318
+0.0305
+
+0.0207
+0.0139
+0.0296
+0.0346
+0.0385
+0.0339
+0.0514
+0.0302
+0.0264
+0.0264
+0.0287
+0.0254
+0.0379
+0.031
+0.0394
+0.0323
+0.0379
+0.0424
+0.0401
+0.0362
+0.0437
+0.0329
+0.0242
+0.0199
+0.0237
+
+0.019
+0.0139
+0.0257
+0.035
+0.028
+0.0277
+0.0228
+0.0252
+0.015
+0.0188
+0.0261
+0.0244
+0.0261
+0.0366
+0.0291
+0.038
+0.0368
+0.0375
+0.039
+0.0314
+0.0283
+0.025
+0.0214
+0.0195
+0.0345
+
+0.0131
+0.0139
+0.0289
+0.0333
+0.0245
+0.0309
+0.0162
+0.0209
+0.015
+0.0195
+0.0205
+0.0167
+0.0258
+0.0225
+0.0252
+0.0239
+0.0297
+0.0322
+0.0267
+0.0354
+0.03
+0.0228
+0.0132
+0.0127
+0.0108
+
+0.0243
+0.0139
+0.022
+0.0254
+0.0213
+0.0741
+0.0108
+0.0176
+0.0232
+0.0209
+0.0182
+0.0172
+0.0147
+0.0384
+0.0224
+0.0236
+0.0203
+0.0259
+0.0185
+0.0511
+0.0227
+0.0116
+0.0125
+0.0107
+0.0093
+
+0.0353 0.0326 0.0326 0.0231 0.0129 0.0102 0.0144
+0.0571 0.0457 0.0378 0.0395 0.0264 0.0224 0.0321
+0.0193 0.0147 0.0161 0.0106 0.0115 0.0083 0.0382
+0.0163 0.0064 0.0083 0.0111 0.0066 0.0186 0.0155
+0.0314 0.0311 0.0341 0.0287 0.0219 0.0168
+0.01
+0.0119 0.0069 0.0057 0.0123
+0 0.0082
+0
+
+1779
+
+(Table A1.1, continued)
+Gravel
+total
+N109 E103
+93.14-92.90
+92.90-92.85
+92.85-92.80
+N110 E102
+92.80-92.75
+92.75-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.10-92.05
+92.05-92.00
+92.00-91.95
+91.95-91.90
+91.90-91.85
+91.85-91.80
+91.80-91.75
+91.75-91.70
+91.70-91.65
+91.65-91.60
+91.60-91.55
+N109 E96
+92.30-92.25
+92.15-92.10
+Cutbank
+93.40-93.35
+Lissie terrace
+Lissie 2-1
+Lissie 1-2
+Lissie 1-3
+
+Sand
+total
+
+Silt
+Clay +
+total analytical
+error
+
+0.0008 0.3506 0.3287
+0.0024 0.4638 0.2509
+0 0.4844 0.2543
+
+0.3199
+0.2829
+0.2613
+
+0.0138
+0.0018
+0.007
+0
+0
+0
+0.0009
+0.0007
+0
+0
+0
+0
+0.0006
+0
+0
+0
+0
+0
+0
+0
+0
+0.0452
+0.0245
+0.0011
+0
+
+0.2052
+0.1875
+0.2876
+0.3504
+0.3569
+0.3194
+0.3142
+0.2886
+0.2829
+0.2944
+0.334
+0.3146
+0.3697
+0.4193
+0.4138
+0.4055
+0.4178
+04145
+0.3894
+0.3798
+0.3614
+0.3073
+0.2429
+0.2427
+0.2654
+
+0.2244
+0.2776
+0.3253
+0.3639
+0.3831
+0.3409
+0.2972
+0.2849
+0.2679
+0.2972
+0.3172
+0.3255
+0.419
+0.4168
+0.4254
+0.4046
+0.3789
+0.4024
+0.3741
+0.395
+0.3988
+0.2826
+0.2426
+0.2499
+0.2581
+
+0.0065 0.5251 0.2181
+0.0003 0.2362 0.3901
+
+0.2503
+0.3734
+
+0.031 0.6437 0.1334
+
+0.1919
+
+0.0373 0.6211 0.1243
+0 0.5337 0.2828
+0 0.8322 0.0854
+
+0.2173
+0.1835
+0.0824
+
+0.5566
+0.5331
+0.3801
+0.2857
+0.26
+0.3397
+0.3877
+0.4258
+0.4492
+0.4084
+0.3488
+0.3599
+0.2107
+0.1639
+0.1608
+0.1899
+0.2033
+0.1831
+0.2365
+0.2252
+0.2398
+0.3649
+0.49
+0.5063
+0.4765
+
+1780
+
+REFERENCES CITED IN APPENDIX 1
+Blalock, Hubert M. Jr.
+1972
+
+Social Statistics. Second Edition. McGraw-Hill, Inc.
+
+Folk, Robert L.
+1980
+
+Petrology of Sedimentary Rocks. Hemphill Publishing Company, Austin.
+
+Krumbein, W. C.
+1978
+
+Application of Logarithmic Moments to Size Frequency Distributions of
+Sediments. In John M. Cubitt and Stephen Henley (eds.), Statistical Analysis in
+Geology. Benchmark Papers in Geology 37, pp. 30-42 [originally published 1936
+in the Journal of Sedimentary Petrology 6(1):35-47].
+
+McManus, Dean A.
+1982
+
+Phi and Sediment Size Analysis: Discussion. Journal of Sedimentary Petrology
+52(3):1011-1026.
+
+Pierce, J. W. and R. R. Graus
+1981 Use and Misuses of the Î¦-Scale: Discussion. Journal of Sedimentary Petrology
+51(4):1348-1350.
+
+1781
+
+Appendix 2: Laboratory Procedure for Determining Organic and
+Carbonate Content of Sediment Samples
+
+MICHAEL MARCHBANKS
+
+SAMPLES SELECTED FOR ANALYSIS
+Small sediment samples extracted from the phytolith/pollen sample columns in
+N109 E103 and N110 E102 were used for this analysis. These were selected so as to
+duplicate as nearly as possible the grain-size samples extracted from the matrix samples.
+However, two samples at 91.85-91.80 m and 91.80-91.75 were unavailable for analysis,
+and duplicate samples at the top of the column were unavailable for three levels, so three
+samples at slightly different elevations were substituted. Except for these differences, the
+grain-size and organic carbon/carbonate sample columns are comparable.
+SAMPLE PREPARATION
+Step 1: Visible rocks, snail shell fragments, and organic matter (roots and leaves) were
+removed from the sediment sample.
+Step 2: The sample was ground in a clean mortar and pestle and sifted through a 100
+mesh screen. The ground sample was stored in a clean, labeled glass bottle.
+
+1782
+
+EXPERIMENTAL PROCEDURE
+Step 1: Initial weight. A single sheet of #42 filter paper was weighed on the analytical
+balance and approximately one gram (1.0 g) of the sample was placed on it.
+Combined weight of the paper and sample was determined.
+
+Step 2: Carbonate removal. Approximately ten milliliters (10 ml) of one normal (1N) HCl
+was added to the sample to remove carbonates. The HCl passed through the filter
+paper and four five-milliliter rinses of distilled water were administered to remove
+residual HCl.
+
+Step 3: The sample was dried and left in a desiccator to cool to room temperature.
+Step 4: A clean crucible was weighed. The sample was then transferred, with a camel hair
+brush, into the crucible and the combined weight of the crucible and sample was
+determined.
+Step 5: Ashing. The soil sample was heated in a furnace at about 850Â° C for 1.5 hours to
+burn out the finely divided organic matter. Samples were then placed in the
+desiccator to cool.
+Step 6: Final weight. Final weight of the ashed sample was determined by weighing the
+cooled crucible and sample and subtracting the crucible weight. Color of the
+ashed sample was also recorded.
+
+1783
+
+COMPUTATION AND REPLICABILITY
+Three subsamples were run from each sample so that the results could be
+averaged. In a few cases, some subsamples were ruined by laboratory mishaps so that
+fewer than three subsamples were available. A computer program, termed ORG.BAS,
+was written in BASIC to compute organic percentages from keyboard data entry, printing
+both subsample percentages and averaged subsample percentages. In some cases a slight
+film of sediment residue could not be removed from the filter paper, so a correction factor
+(based on the difference between the clean and dirty paper weights) was built into the
+program. The organic carbon content was initially computed as the weight loss after
+ashing divided by the initial sample weight before acid treatment, but this method of
+computation produced organic and carbonate curves with nearly perfect inverse
+correlation. This should not be true, since carbonate entry is believed to be
+postdepositional (diagenetic) and should be unrelated to original organic content of the
+sediment. The program was later written so as to divide the weight loss after ashing by
+the acid-rinsed, carbonate-free weight.
+
+1784
+
+Appendix 3: Magnetic Susceptibility Samples
+ORIGIN OF THE SAMPLES
+A total of 127 magnetic susceptibility samples was analyzed (Table A3.1). Ten of
+these are from the upper deposits (strata 4 and 5) and the remaining 117 are from the
+bench deposits. The 10 samples from the upper deposits (numbers 100-109) were
+extracted from a series of sediment samples collected on April 17, 1981, by K. Brown
+and J. DeCosta from the west wall of the abandoned blufftop excavation block, near the
+southwest (N97 E96) corner. The original samples were about 2 cm or more thick, and of
+variable width and depth. Magnetic susceptibility samples 100 and 109 correspond to
+diatom samples 29 and 39, respectively.
+With few exceptions, the samples from the bench sediments were extracted from
+pollen\phytolith ("phytopol") samples, and therefore derive from the upper 2 cm of a 5
+cm excavation level. Sample 42 came from a "phytopol" sample, but was extracted from
+excess sediment returned by Rick Holloway after processing for pollen analysis. Sample
+51 was extracted from a matrix sample ("CVS" sample) and therefore probably derives
+from the lower 3 cm of the 92.70-92.65 m level. Samples 110 and 143A are from feature
+fill. Samples 111, 145, 145A, 147A, 147B, 149A, and 149B are from special sediment
+samples collected to investigate depositional units encountered in excavation. Samples
+112-115 were extracted from bulk sediment samples of sand and gravel that were
+collected (chiefly for grain-size analysis) from the cutbank exposure of stratum 2E. The
+location is shown on Fig. 3.1 ("Stratum 2E sediment sample").
+
+1785
+
+SAMPLE EXTRACTION
+Magnetic susceptibility samples consist of sediment packed in plastic cubes 2 x 2
+cm square and either 1.8 cm or 2.4 cm high. Because I planned to archive these samples
+in the cubes for other possible future studies, considerable care was taken to avoid sample
+cross-contamination. Extraction tools were washed, first in tap water, then in
+commercially produced distilled water after each sample extraction. Sample cubes were
+weighed before and after packing, first on an electronic balance and then on a Mettler
+analytical balance (to 0.00001 g). Most samples were passed through a coarse, 2.7 mm
+nylon mesh before packing with a plastic tamper. Samples 49-81 were passed through a
+number 6 geologic sieve (3.36 mm mesh) and tamped with iron tools. Large snail shell
+fragments, rhizoconcretions, and chert or sandstone clasts retained on the sieve were
+removed. Most analysts advocate using raw, unsieved sediment samples, but the
+procedure used here prevents the chance inclusion of large clastic items that might
+unduly influence the magnetic signature of the sediment.
+SAMPLE MEASUREMENT
+Samples were run in two batches, the first on April 24, 1996, and the second on
+September 1, 1998 (Table A3.1), with only slight differences in procedure. The first
+batch used 4-gram cubes holding about 7-8 g of sediment; the second batch used slightly
+larger 6-gram cubes holding about 9.8 g of sediment. Measurements were done on a
+Bartington MS2 system at the University of Texas Department of Geological Sciences.
+Chi values are reported in Gaussian units, or cgs (centimeters/gram/second). The
+measurement device has a resolution of 2 x 10E-7 cgs at low frequency. Four
+determinations (two at low frequency and two again at high frequency) were run on each
+sample. In the first batch, low frequency samples were run at 0.465 kHz for 1.2 seconds
+1786
+
+(0.1 sensitivity on the instrument), high frequency at 4.65 kHz for 12 seconds (1.0
+sensitivity on the instrument). The second batch was run at a sensitivity of 1.0. The
+measurement software automatically averages the two readings for each sample and
+subtracts the background reading.
+VALUES
+Three values were computed for each sample:
+
+Xlf = (low-freq reading * 7.36)/ sample wt in g
+
+Xhf = (hi-freq reading * 7.36)/ sample wt in g
+
+Xfd = ((Xlf - Xhf) * 100)/ Xlf
+Xlf is the low-frequency chi value; Xhf is the high-frequency chi value. Xfd is the
+coefficient of frequency determination, a measure of the extent to which changing the
+measurement frequency changes the strength of the magnetic signal, and an indicator of
+the presence of ultrafine grains of magnetic material (Dalan and Banerjee 1998:6; Gale
+and Hoare 1991:207).
+
+Chi values in SI (Systeme International) units can be converted to cgs units by the
+formula
+Xcgs = 4 n Xsi
+
+1787
+
+Table A3.1: Provenience Data for Magnetic Susceptibility Samples.
+Sample
+
+Unit
+
+Level
+
+Analysis
+date
+
+Stratum
+
+Description
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+
+not used
+N109 E103
+N109 E103
+N109 E103
+N109 E103
+N109 E103
+N109 E103
+N109 E103
+N109 E103
+N109 E103
+N109 E103
+N109 E103
+N109 E103
+N109 E103
+N109 E103
+N109 E103
+N109 E103
+N109 E103
+N109 E103
+N109 E103
+N109 E103
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+N110 E102
+
+92.90-92.85
+92.85-92.80
+92.80-92.75
+92.75-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.10-92.05
+92.05-92.00
+92.00-91.95
+91.95-91.90
+92.90-92.80U
+92.90-92.80L
+92.80-92.75
+92.75-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.10-92.05
+92.05-92.00
+92.00-91.95
+91.95-91.90
+91.90-91.85
+91.85-91.80
+91.80-91.75
+91.75-91.70
+
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+
+2D
+2D
+2D
+2D
+2D
+2C
+2C
+2B
+2B
+2B
+2B
+2B
+2B
+2B
+2B/2A
+2A
+2A
+2A/1
+1
+1
+2D
+2D
+2D
+2D/2C
+2C
+2C
+2C
+2C/2B
+2B
+2B
+2B
+2B
+2B
+2B
+2B
+2A
+2A
+2A
+2A/carb
+carb
+carb
+1
+1
+1
+
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+pollen aliquot
+phytopol
+phytopol
+phytopol
+
+1788
+
+(Table A3.1, continued)
+Sample
+
+Unit
+
+Level
+
+Analysis
+date
+
+Stratum
+
+Description
+
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+
+N110 E102
+N110 E102
+N110 E102
+N111 E101
+N111 E101
+N111 E101
+N111 E101
+N111 E101
+N111 E101
+N111 E101
+N111 E101
+N111 E101
+N111 E101
+N111 E101
+N111 E101
+N111 E101
+N111 E101
+N111 E101
+N111 E101
+N111 E101
+N111 E101
+not used
+N112 E99
+N112 E99
+N112 E99
+N112 E99
+N112 E99
+N112 E99
+N112 E99
+N112 E99
+N112 E99
+N112 E99
+N112 E99
+N112 E99
+N112 E99
+N112 E99
+N113 E98
+N113 E98
+N113 E98
+N113 E98
+N113 E98
+N113 E98
+
+91.70-91.65
+91.65-91.60
+91.60-91.55
+92.89-92.80
+92.80-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.10-92.05
+92.05-92.00
+92.00-91.95
+91.95-91.90
+
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+
+1
+1
+1
+2D
+2D
+2C
+2C
+2C/2B
+2B
+2B
+2B
+2B
+2B
+2B
+2B
+2B/2A
+2A
+2A
+2A
+2A/1
+1
+
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+CVS matrix
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.10-92.05
+92.05-92.00
+92.00-91.95
+91.95-91.90
+92.72-92.50
+92.50-92.40
+92.40-92.30
+92.30-92.20
+92.20-92.15
+92.15-92.10
+
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+
+2D/2C
+2B
+2B
+2B
+2B
+2B/2A
+2A
+2A
+2A
+2A
+1
+1
+1
+1
+2C?
+2B
+2B/2A
+2A
+2A
+2A
+
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+
+1789
+
+(Table A3.1, continued)
+Sample
+
+Unit
+
+Level
+
+Analysis
+date
+
+Stratum
+
+Description
+
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+143A
+144
+145
+145A
+146
+147
+147A
+147B
+148
+149
+149A
+149B
+
+N97 E96
+N97 E96
+N97 E96
+N97 E96
+N97 E96
+N97 E96
+N97 E96
+N97 E96
+N97 E96
+N97 E96
+N111 E101
+N111 E101
+cutbank
+cutbank
+cutbank
+cutbank
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+N109 E96
+
+99.75
+99.50
+99.25
+99.00
+98.75
+98.55
+98.45
+98.25
+98.00
+97.75
+91.99
+92.00-91.95
+93.45-93.40
+93.35-93.30
+93.30-93.25
+93.40-93.35
+93.00-92.95
+92.95-92.90
+92.90-92.85
+92.85-92.80
+92.80-92.75
+92.75-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.14-92.12
+92.135-92.115
+92.10-92.05
+92.05-92.00
+92.05-92.04
+92.05-92.02
+
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+4/24/96
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+9/1/98
+
+5B
+5B
+5A
+5A
+4
+4
+4
+4
+4
+4
+2A?
+2A/1
+2E
+2E
+2E
+2E
+2D3
+2D3
+2D3
+2D3/D2
+2D2
+2D2
+2D2
+2D1
+2D1
+2D1
+2C
+2C
+2C
+2B
+2C?
+2B/2A
+2A
+2A
+2A
+2A
+lens
+lens
+silt
+silt
+silt
+lens
+
+upper deposits 4/17/81
+upper deposits 4/17/81
+upper deposits 4/17/81
+upper deposits 4/17/81
+upper deposits 4/17/81
+upper deposits 4/17/81
+upper deposits 4/17/81
+upper deposits 4/17/81
+upper deposits 4/17/81
+upper deposits 4/17/81
+Feature 6 fill
+matrix adjacent F6
+sediment sample
+sediment sample
+sediment sample
+sediment sample
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol
+phytopol *
+phytopol
+phytopol
+phytopol
+Feature 7 fill
+phytopol
+southwest corner
+southeast corner
+phytopol
+phytopol
+orange limey sand, E wall
+gray limey sand, N wall
+phytopol
+phytopol
+silt deposit, SW corner
+packed caliche, chert pebbles,
+sand, NE corner
+
+* This sample apparently labeled erroneously as 92.55-92.50 by D. Brown.
+1790
+
+Table A3.2: Magnetic Susceptibility Data.
+Sample
+
+Sample
+weight (g)
+
+Low-freq.
+reading
+
+High-freq.
+reading
+
+Low-freq.
+chi value
+
+High-freq
+chi value
+
+Coefficient
+of frequency
+dependence
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+
+not used
+7.01107
+6.94009
+6.66272
+7.06618
+6.77004
+6.80394
+6.65091
+6.76547
+6.79473
+6.90865
+6.58726
+6.9355
+6.61177
+6.50552
+6.58442
+6.77092
+6.93043
+6.93013
+6.75463
+6.28192
+7.24542
+7.41974
+7.45464
+7.42293
+7.38006
+7.07384
+7.25847
+7.03846
+6.95682
+7.12376
+7.45638
+7.35064
+7.45303
+7.15683
+7.18585
+7.08905
+6.84246
+6.84852
+6.5618
+
+6.1
+5.4
+4.0
+3.95
+3.8
+4.95
+5.0
+4.2
+4.7
+4.549
+4.9
+4.95
+4.75
+4.5
+4.35
+5.1
+5.45
+5.45
+4.7
+3.899
+5.2
+4.75
+4.35
+4.5
+4.2
+5.5
+5.799
+5.65
+5.25
+5.5
+5.049
+5.299
+5.149
+5.1
+5.35
+6.4
+5.75
+5.149
+4.5
+
+5.0
+4.5
+4.0
+3.5
+3.5
+5.0
+5.0
+4.0
+5.0
+4.5
+6.0
+5.5
+4.0
+3.5
+4.5
+5.0
+5.5
+5.0
+5.0
+4.0
+5.0
+5.0
+4.0
+4.5
+3.5
+4.5
+5.0
+5.0
+4.0
+4.5
+5.0
+5.0
+5.5
+4.0
+5.0
+5.0
+4.0
+4.5
+2.0
+
+6.403587
+5.726726
+4.418615
+4.114245
+4.131142
+5.354544
+5.533077
+4.569083
+5.091004
+4.846191
+5.474810
+5.252973
+5.287540
+5.091061
+4.862387
+5.543707
+5.787808
+5.788058
+5.121227
+4.568132
+5.282233
+4.711755
+4.294774
+4.461849
+4.188583
+5.722493
+5.880115
+5.908110
+5.554261
+5.682392
+4.983737
+5.305747
+5.084729
+5.244780
+5.479657
+6.644613
+6.184910
+5.533551
+5.047395
+
+5.24884219
+4.77227241
+4.41861582
+3.64553408
+3.80499968
+5.40863088
+5.53307743
+4.35150847
+5.41596208
+4.79399014
+6.70384955
+5.83663759
+4.45266547
+3.95971421
+5.03005580
+5.43500735
+5.84090742
+5.31014570
+5.44811485
+4.68646528
+5.07907064
+4.95974252
+3.94921821
+4.46184997
+3.49048653
+4.68203974
+5.06993898
+5.22841644
+4.23181856
+4.64923018
+4.93537078
+5.00636679
+5.43134806
+4.11355307
+5.12117564
+5.19110459
+4.30254616
+4.83608137
+2.24328690
+
+18.03278
+16.66666
+0
+11.39240
+7.894736
+-1.01010
+0
+4.761904
+-6.38297
+1.077159
+-22.4489
+-11.1111
+15.78947
+22.22222
+-3.44827
+1.960784
+-0.91743
+8.256880
+-6.38297
+-2.59040
+3.846153
+-5.26315
+8.045976
+0
+16.66666
+18.18181
+13.77823
+11.50442
+23.80952
+18.18181
+0.970489
+5.642574
+-6.81685
+21.56862
+6.542056
+21.87500
+30.43478
+12.60438
+55.55555
+
+1791
+
+(Table A3.2, continued)
+Sample
+
+Sample
+weight (g)
+
+Low-freq.
+reading
+
+High-freq.
+reading
+
+Low-freq.
+chi value
+
+High-freq.
+chi value
+
+Coefficient
+of frequency
+dependence
+
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+
+6.60965
+6.99701
+6.72615
+6.46087
+6.64964
+7.35669
+7.11498
+6.94462
+7.44938
+7.05585
+7.57599
+7.22159
+6.91763
+7.26258
+7.50286
+7.59634
+7.27968
+7.89489
+7.74735
+7.389
+7.18047
+7.12143
+6.76324
+7.25146
+6.54356
+6.77296
+not used
+6.93184
+7.0749
+7.07156
+7.46479
+7.02869
+7.33128
+7.41293
+7.41018
+7.1109
+6.38197
+6.83777
+6.23463
+6.10154
+6.53817
+9.83428
+9.99085
+10.06379
+10.05082
+
+4.1
+3.95
+4.799
+4.75
+3.7
+3.649
+2.8
+3.1
+4.85
+4.4
+5.85
+5.95
+5.7
+5.799
+6.149
+5.6
+5.7
+6.2
+6.1
+6.049
+6.1
+6.95
+6.299
+5.75
+5.2
+4.799
+
+3.5
+4.0
+4.5
+4.5
+3.5
+3.5
+2.5
+2.5
+4.5
+4.0
+5.5
+6.0
+5.0
+5.5
+6.0
+5.0
+5.0
+6.5
+5.0
+6.0
+5.0
+7.0
+6.0
+5.5
+5.0
+4.5
+
+4.565445
+4.154917
+5.251241
+5.411035
+4.095259
+3.650641
+2.896424
+3.285420
+4.791808
+4.589666
+5.683217
+6.064038
+6.064504
+5.876787
+6.031918
+5.425770
+5.762890
+5.779941
+5.795013
+6.025259
+6.252515
+7.182827
+6.854797
+5.836066
+5.848804
+5.214948
+
+3.89733193
+4.20751149
+4.92406503
+5.12624461
+3.87389393
+3.50157476
+2.58609300
+2.64953302
+4.44600759
+4.17242430
+5.34319607
+6.11499684
+5.31974101
+5.57377681
+5.88575557
+4.84443824
+5.05516726
+6.05961578
+4.75001129
+5.97645148
+5.12501271
+7.23450206
+6.52941490
+5.58232411
+5.62385001
+4.89003331
+
+14.63414
+-1.26582
+6.230464
+5.263157
+5.405405
+4.083310
+10.71428
+19.35483
+7.216494
+9.090909
+5.982906
+-0.84033
+12.28070
+5.156061
+2.423158
+10.71428
+12.28070
+-4.83870
+18.03278
+0.810051
+18.03278
+-0.71942
+4.746785
+4.347826
+3.846153
+6.230464
+
+4.9
+5.25
+5.7
+5.35
+5.2
+4.95
+5.5
+6.0
+6.2
+5.7
+5.65
+5.049
+4.25
+4.95
+6.5
+7.0
+5.0
+8.0
+
+4.5
+5.0
+5.0
+5.0
+4.5
+5.0
+5.0
+5.0
+5.0
+5.5
+5.0
+5.0
+4.5
+4.0
+5.5
+6.5
+6.0
+6.5
+
+5.202659
+5.461561
+5.932495
+5.274897
+5.445111
+4.969391
+5.460728
+5.959369
+6.417190
+6.573518
+6.081514
+5.960360
+5.126574
+5.572201
+4.864616
+5.156718
+3.656674
+5.858228
+
+4.77795217
+5.20148695
+5.20394368
+4.92981048
+4.71211563
+5.01958730
+4.96429887
+4.96614117
+5.17515364
+6.34286905
+5.38187158
+5.90251547
+5.42813781
+4.50278901
+4.11621389
+4.78838136
+4.38800889
+4.75981064
+
+8.163265
+4.761904
+12.28070
+6.542056
+13.46153
+-1.01010
+9.090908
+16.66666
+19.35483
+3.508772
+11.50442
+0.970489
+-5.88235
+19.19191
+15.38461
+7.142857
+-20
+18.75
+
+1792
+
+(Table A3.2, continued)
+Sample
+
+Sample
+weight (g)
+
+Low-freq.
+reading
+
+High-freq.
+reading
+
+Low-freq.
+chi value
+
+High-freq.
+chi value
+
+Coefficient
+of frequency
+dependence
+
+86
+87
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+143A
+144
+145
+145A
+146
+147
+147A
+147B
+148
+149
+149A
+149B
+
+9.28217
+9.50694 8.0
+8.72858
+9.02297
+9.94205
+10.43977
+10.39378
+10.01876
+10.12618
+9.86748
+10.19119
+9.9283
+6.762
+7.092
+8.20965
+8.61856
+8.43843
+8.59595
+9.51783
+9.82151
+9.78782
+9.71501
+9.46326
+9.34355
+9.62684
+8.94736
+9.45149
+9.45761
+9.25692
+9.2037
+9.13971
+9.62539
+9.42261
+9.68534
+10.05701
+10.5327
+9.33829
+9.49974
+11.43803
+11.94834
+9.05847
+9.64935
+10.44288
+11.16072
+
+8.5
+8.0
+10.5
+10.5
+10.5
+7.0
+7.0
+5.0
+5.0
+5.5
+7.0
+7.0
+5.25
+5.1
+4.149
+3.95
+3.7
+4.6
+8.0
+8.5
+8.5
+8.0
+3.0
+3.5
+7.0
+6.5
+7.5
+6.5
+7.0
+8.0
+
+7.5
+7.0
+9.5
+10.0
+8.5
+8.0
+6.5
+4.5
+4.5
+4.5
+6.0
+6.0
+4.5
+4.5
+3.5
+3.5
+3.0
+4.5
+6.5
+7.0
+7.5
+7.0
+7.0
+6.0
+6.5
+6.5
+6.5
+6.5
+7.0
+7.5
+7.5
+6.0
+7.0
+5.0
+7.0
+5.0
+7.0
+7.998
+3.5
+4.0
+7.0
+7.0
+8.0
+4.5
+
+6.739803
+6.193370
+8.853673
+8.564807
+7.773044
+4.934974
+4.956810
+3.673109
+3.634144
+4.102364
+5.055346
+5.189206
+5.714285
+5.292724
+3.719603
+3.373185
+3.227140
+3.938598
+6.186284
+6.369692
+6.391617
+6.060725
+2.333234
+2.756982
+5.351704
+5.346829
+5.840348
+5.058360
+5.565566
+6.397427
+
+5.94688526
+5.41919902
+8.01046676
+8.15695940
+6.29246483
+5.63997099
+4.60275280
+3.30579832
+3.27072992
+3.35648007
+4.33315442
+4.44789138
+4.89795918
+4.67005076
+3.13777079
+2.98889838
+2.61660048
+3.85297727
+5.02635579
+5.24562923
+5.63966236
+5.30313402
+5.44421267
+4.72625501
+4.96943961
+5.34682856
+5.06163578
+5.05836041
+5.56556608
+5.99758792
+6.03957893
+4.58786605
+5.46769950
+3.79955685
+5.12279494
+3.49388096
+5.51707004
+6.19651485
+2.25213607
+2.46394059
+5.68749468
+5.33921974
+5.63829135
+2.96755048
+
+11.76470
+12.5
+9.523809
+4.761904
+19.04761
+-14.2857
+7.142857
+10
+10
+18.18181
+14.28571
+14.28571
+14.28571
+11.76470
+15.64232
+11.39240
+18.91891
+2.173913
+18.75
+17.64705
+11.76471
+12.50
+-133.333
+-71.42857
+7.142857
+0
+13.33333
+0
+0
+6.25
+
+7.5
+6.5
+6.0
+7.0
+5.5
+6.5
+8.0
+4.5
+4.0
+7.5
+8.5
+4.5
+4.5
+
+1793
+
+5.734832
+5.077149
+4.559468
+5.122794
+3.843269
+5.122993
+6.198064
+2.895603
+2.463940
+6.093744
+6.483338
+3.171538
+2.967550
+
+20
+-7.69230
+16.66666
+0
+9.090909
+-7.69230
+0.025
+22.22222
+0
+6.666666
+17.64705
+-77.7777
+0
+
+REFERENCES CITED
+
+Dalan, Rinita and Subir K. Banerjee
+1998
+
+Solving Archaeological Problems Using Techniques of Soil Magnetism.
+Geoarchaeology 13(1):3-36.
+
+Gale, Stephen J. and Peter G. Hoare
+1991
+
+Quaternary Sediments. Petrographic Methods for the Study of Unlithified Rocks.
+Belhaven Press and Halsted Press.
+
+1794
+
+Appendix 4: Items Recovered From the Quarter-Inch Screen
+COUNTS AND WEIGHTS OF ITEMS
+Level
+
+Stratum
+
+Level
+volume
+(m3)
+
+Snail
+count
+
+Chert
+gravel
+count
+
+Rhizoconcretion
+weight (g)
+
+FeMn
+concretion
+count
+
+Sandstone
++ caliche
+nodule
+weight (g)
+
+N109 E103
+93.14-92.90
+92.90-92.85
+92.85-92.80
+92.80-92.75
+92.75-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.10-92.05
+92.05-92.00
+92.00-91.95
+91.95-91.90
+
+2D/3
+2D/3
+2D
+2D
+2D
+2D
+2C/2D
+2C
+2B/2C
+2B
+2B
+2B
+2B
+2B
+2B
+2A/2B
+2A
+2A
+1/2A
+1
+1
+
+0.1225
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+
+659
+307
+260
+163
+183
+131
+104
+68
+5
+32
+37
+17
+12
+19
+16
+22
+47
+9
+12
+5
+0
+
+220
+129
+141
+127
+189
+69
+25
+38
+40
+16
+12
+13
+6
+6
+5
+1
+3
+2
+4
+1
+7
+
+1529.2
+627
+487.4
+447.6
+455.9
+630.2
+448.7
+548
+579.6
+631.4
+383.6
+248.5
+143.9
+168.4
+359.7
+814.4
+705.1
+562.8
+1645.9
+1503.7
+984.2
+
+7
+5
+9
+14
+16
+4
+4
+2
+2
+3
+3
+2
+0
+0
+0
+2
+0
+0
+0
+0
+0
+
+302.7
+89.7
+83.6
+61.8
+33.7
+28.7
+20.3
+19.7
+31.4
+55
+66.9
+35.9
+13.1
+79.6
+3.8
+1.4
+1.4
+0
+0.9
+0
+1.5
+
+N110 E102
+93.08-92.90
+92.90-92.80
+92.80-92.75
+92.75-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.10-92.05
+92.05-92.00
+
+3*
+2D/3
+2D
+2D
+2C
+2C
+2B/2C
+2B/2C
+2B
+2B
+2B
+2B
+2B
+2A/2B
+2A/2B
+2A
+2A
+2A
+
+0.0475
+0.1
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+
+109
+110
+209
+60
+59
+91
+31
+11
+22
+11
+14
+5
+6
+6
+29
+33
+2
+5
+
+95
+212
+120
+72
+26
+17
+17
+28
+19
+17
+23
+19
+13
+11
+7
+8
+10
+10
+
+647.6
+1189.1
+701.8
+383.7
+472.2
+350.6
+505.7
+401
+599.1
+339.2
+269.6
+292.3
+365.5
+354.2
+534.8
+530.3
+677.3
+836.2
+
+6
+16
+7
+6
+5
+1
+0
+0
+1
+1
+4
+1
+0
+0
+2
+3
+1
+0
+
+105.7
+192.3
+82.9
+50.1
+31.7
+10.7
+27.2
+27.3
+77.1
+57
+84.9
+61.4
+50.5
+87.3
+26.5
+22
+50.3
+16.1
+
+1795
+
+(continued from previous page)
+Level
+
+Stratum
+
+Level
+volume
+(m3)
+
+Snail
+count
+
+Chert
+gravel
+count
+
+Rhizoconcretion
+weight (g)
+
+FeMn
+concretion
+count
+
+Sandstone
++ caliche
+nodule
+weight (g)
+
+(N110 E102, continued)
+92.00-91.95 2A/2A cal
+91.95-91.90 2A cal
+91.90-91.85 1/2A cal
+91.85-91.80 1
+91.80-91.75 1
+91.75-91.70 1
+91.70-91.65 1
+91.65-91.60 1
+91.60-91.55 1
+
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+
+1
+2
+0
+0
+0
+0
+0
+0
+0
+
+9
+3
+5
+11
+25
+258
+428
+91
+5
+
+1865.9
+2105
+1136.8
+813.3
+71.5
+60.2
+37.9
+27.3
+38.6
+
+1
+0
+1
+1
+2
+11
+22
+4
+1
+
+4.8
+2
+2
+2.4
+10.2
+199.6
+252.8
+67.5
+8
+
+N111 E101
+92.89-92.80
+92.80-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.10-92.05
+92.05-92.00
+92.00-91.95
+91.95-91.90
+
+2D/3
+2D
+2C/2D
+2C
+2B/2C
+2B
+2B
+2B
+2B
+2B
+2B
+2A/2B
+2A
+2A
+2A
+2A
+1/2A
+1
+
+0.01
+0.1
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+
+40
+247
+62
+140
+59
+77
+11
+9
+5
+19
+8
+9
+8
+17
+2
+0
+0
+0
+
+8
+78
+14
+12
+19
+21
+10
+7
+9
+3
+4
+3
+18
+117
+33
+13
+13
+15
+
+157.3
+1853.9
+700
+674.3
+879.3
+1276.6
+1018.1
+533.4
+464.9
+489.4
+475.9
+642.6
+819.9
+1255.4
+1758.1
+1859.4
+1714
+4616.2
+
+2
+4
+0
+0
+2
+1
+1
+2
+1
+0
+1
+0
+0
+0
+3
+1
+1
+1
+
+9.8
+82
+13.1
+28.1
+250.9
+186.8
+55.8
+51.4
+21.4
+11
+11.9
+4.9
+2.3
+11.5
+38
+17.9
+3.7
+7.1
+
+N112 E99
+92.89-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.10-92.05
+92.05-92.00
+92.00-91.95
+91.95-91.90
+
+2C/2D
+2B/2C
+2B
+2B
+2B
+2B
+2A/2B
+2A/2B
+2A
+2A
+2A
+1/2A
+1
+1
+1
+
+0.1033
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+
+173
+27
+28
+20
+11
+3
+4
+6
+10
+10
+6
+1
+0
+0
+0
+
+71
+22
+18
+14
+16
+8
+46
+16
+4
+4
+1
+1
+4
+8
+5
+
+2333.3
+911.8
+1149.5
+975.5
+471.8
+719
+311.2
+335.2
+686.2
+609.2
+474.3
+725.4
+1240.9
+2175.6
+4071.2
+
+9
+2
+1
+2
+1
+0
+3
+0
+0
+0
+1
+0
+0
+1
+0
+
+148.6
+96.6
+113.9
+113.4
+88.2
+50.4
+124.2
+26.8
+1.4
+0
+2.6
+0
+0.8
+0.3
+0.8
+
+1796
+
+(continued from previous page)
+Level
+
+Stratum
+
+Level
+volume
+(m3)
+
+Snail
+count
+
+Chert
+gravel
+count
+
+Rhizoconcretion
+weight (g)
+
+FeMn
+concretion
+count
+
+Sandstone
++ caliche
+nodule
+weight (g)
+
+N113 E98
+92.72-92.50
+92.50-92.40
+92.40-92.30
+92.30-92.20
+92.20-92.15
+92.15-92.10
+
+2C
+2B
+2A/2B
+2A
+2A
+2A
+
+0.0897
+0.10
+0.10
+0.10
+0.05
+0.05
+
+Unit 2
+92.68-92.38
+
+2B/2C
+
+0.0950
+
+N112 E97
+93.14-92.75
+92.75-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+
+2D/3
+2C/2D
+2C
+2C
+2B/2C
+2B
+2B
+2B
+2B
+2B
+2A/2B
+2A
+2A
+
+0.2971
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+
+1560
+131
+94
+60
+13
+5
+7
+0
+6
+4
+13
+0
+
+784
+35
+30
+45
+55
+54
+37
+34
+24
+53
+17
+3
+2
+
+5094.4
+778.9
+800.6
+1082.2
+759.3
+740.2
+535.4
+593.3
+244.2
+496.4
+435.3
+678.3
+790.4
+
+52
+0
+3
+5
+6
+3
+0
+5
+0
+7
+0
+2
+0
+
+689.4
+95.1
+94.2
+127.7
+162.9
+223.4
+179.1
+118.3
+32.3
+89.2
+17.2
+14
+2.2
+
+N109 E96
+93.08-93.00
+93.00-92.95
+92.95-92.90
+92.90-92.85
+92.85-92.80
+92.80-92.75
+92.75-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.10-92.05
+92.05-92.00
+
+2D
+2D
+2D
+2D
+2D
+2D
+2D
+2D
+2D
+2D
+2C/2D
+2C
+2C
+2B/2C
+2B
+2B
+2A
+2A
+2A
+2A
+2A
+
+0.0475
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+
+422
+280
+188
+265
+465
+344
+210
+229
+122
+96
+107
+120
+90
+28
+16
+30
+5
+3
+2
+8
+4
+
+152
+225
+144
+124
+115
+87
+103
+110
+135
+272
+247
+370
+343
+124
+72
+375
+992
+1285
+374
+779
+1365
+
+667.3
+657.4
+552.9
+664.2
+810.7
+833.1
+869.6
+792
+279.4
+334.9
+355.4
+310
+410.5
+180.8
+162.5
+240.4
+259.3
+653.8
+614
+893.6
+876.2
+
+3
+3
+6
+6
+4
+7
+3
+12
+10
+17
+16
+16
+25
+9
+0
+20
+52
+48
+29
+47
+35
+
+265.1
+157.7
+99.8
+257.3
+806.2
+760.5
+577.4
+686.9
+683.6
+622.1
+666.8
+881.2
+872.1
+371
+137.8
+985.2
+1889.7
+2174.2
+1242.7
+1296.9
+1634.4
+
+1797
+
+ITEM DENSITIES (COUNTS OR WEIGHTS BY EXCAVATED VOLUME)
+Level
+
+Stratum
+
+Level
+vol.
+(m3)
+
+Snail
+density
+(ct./m3)
+
+Gravel
+density
+(ct./m3)
+
+Rhizoconcretion density
+(wt. in g/m3)
+
+FeMn
+concretion
+density
+(ct./m3)
+
+Sandstone
++ caliche
+nodule
+density
+(g/m3)
+
+N109 E103
+93.14-92.90
+92.90-92.85
+92.85-92.80
+92.80-92.75
+92.75-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.10-92.05
+92.05-92.00
+92.00-91.95
+91.95-91.90
+
+2D/3
+2D/3
+2D
+2D
+2D
+2D
+2C/2D
+2C
+2B/2C
+2B
+2B
+2B
+2B
+2B
+2B
+2A/2B
+2A
+2A
+1/2A
+1
+1
+
+0.1225
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+
+5379.592
+6140.000
+5200.000
+3260.000
+3660.000
+2620.000
+2080.000
+1360.000
+100.000
+640.000
+740.000
+340.000
+240.000
+380.000
+320.000
+440.000
+940.000
+180.000
+240.000
+100.000
+0.000
+
+1795.918
+2580.000
+2820.000
+2540.000
+3780.000
+1380.000
+500.000
+760.000
+800.000
+320.000
+240.000
+260.000
+120.000
+120.000
+100.000
+20.000
+60.000
+40.000
+80.000
+20.000
+140.000
+
+12483.265
+12540.000
+9748.000
+8952.000
+9118.000
+12604.000
+8974.000
+10960.000
+11592.000
+12628.000
+7672.000
+4970.000
+2878.000
+3368.000
+7194.000
+16288.000
+14102.000
+11256.000
+32918.000
+30074.000
+19684.000
+
+57.143
+100.000
+180.000
+280.000
+320.000
+80.000
+80.000
+40.000
+40.000
+60.000
+60.000
+40.000
+0.000
+0.000
+0.000
+40.000
+0.000
+0.000
+0.000
+0.000
+0.000
+
+2471.020
+1794.000
+1672.000
+1236.000
+674.000
+574.000
+406.000
+394.000
+628.000
+1100.000
+1338.000
+718.000
+262.000
+1592.000
+76.000
+28.000
+28.000
+0.000
+18.000
+0.000
+30.000
+
+N110 E102
+93.08-92.90
+92.90-92.80
+92.80-92.75
+92.75-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.10-92.05
+92.05-92.00
+92.00-91.95
+91.95-91.90
+91.90-91.85
+91.85-91.80
+
+3*
+2D/3
+2D
+2D
+2C
+2C
+2B/2C
+2B/2C
+2B
+2B
+2B
+2B
+2B
+2A/2B
+2A/2B
+2A
+2A
+2A
+2A/2A cal
+2A cal
+1/2A cal
+1
+
+0.0475
+0.1
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+
+2294.737
+1100.000
+4180.000
+1200.000
+1180.000
+1820.000
+620.000
+220.000
+440.000
+220.000
+280.000
+100.000
+120.000
+120.000
+580.000
+660.000
+40.000
+100.000
+20.000
+40.000
+0.000
+0.000
+
+2000.000
+2120.000
+2400.000
+1440.000
+520.000
+340.000
+340.000
+560.000
+380.000
+340.000
+460.000
+380.000
+260.000
+220.000
+140.000
+160.000
+200.000
+200.000
+180.000
+60.000
+100.000
+220.000
+
+13633.684
+11891.000
+14036.000
+7674.000
+9444.000
+7012.000
+10114.000
+8020.000
+11982.000
+6784.000
+5392.000
+5846.000
+7310.000
+7084.000
+10696.000
+10606.000
+13546.000
+16724.000
+37318.000
+42100.000
+22736.000
+16266.000
+
+126.316
+160.000
+140.000
+120.000
+100.000
+20.000
+0.000
+0.000
+20.000
+20.000
+80.000
+20.000
+0.000
+0.000
+40.000
+60.000
+20.000
+0.000
+20.000
+0.000
+20.000
+20.000
+
+2225.263
+1923.000
+1658.000
+1002.000
+634.000
+214.000
+544.000
+546.000
+1542.000
+1140.000
+1698.000
+1228.000
+1010.000
+1746.000
+530.000
+440.000
+1006.000
+322.000
+96.000
+40.000
+40.000
+48.000
+
+1798
+
+(continued from previous page)
+Level
+
+Stratum
+
+Level
+vol.
+(m3)
+
+Snail
+density
+(ct./m3)
+
+Gravel
+density
+(ct./m3)
+
+Rhizoconcretion density
+(wt. in g/m3)
+
+FeMn
+concretion
+density
+(ct./m3)
+
+Sandstone
++ caliche
+nodule
+density
+(g/m3)
+
+(N110 E102, continued)
+91.80-91.75 1
+91.75-91.70 1
+91.70-91.65 1
+91.65-91.60 1
+91.60-91.55 1
+
+0.05
+0.05
+0.05
+0.05
+0.05
+
+0.000
+0.000
+0.000
+0.000
+0.000
+
+500.000
+5160.000
+8560.000
+1820.000
+100.000
+
+1430.000
+1204.000
+758.000
+546.000
+772.000
+
+40.000
+220.000
+440.000
+80.000
+20.000
+
+204.000
+3992.000
+5056.000
+1350.000
+160.000
+
+N111 E101
+92.89-92.80
+92.80-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.10-92.05
+92.05-92.00
+92.00-91.95
+91.95-91.90
+
+2D/3
+2D
+2C/2D
+2C
+2B/2C
+2B
+2B
+2B
+2B
+2B
+2B
+2A/2B
+2A
+2A
+2A
+2A
+1/2A
+1
+
+0.01
+0.1
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+
+4000.000
+2470.000
+1240.000
+2800.000
+1180.000
+1540.000
+220.000
+180.000
+100.000
+380.000
+160.000
+180.000
+160.000
+340.000
+40.000
+0.000
+0.000
+0.000
+
+800.000
+780.000
+280.000
+240.000
+380.000
+420.000
+200.000
+140.000
+180.000
+60.000
+80.000
+60.000
+360.000
+2340.000
+660.000
+260.000
+260.000
+300.000
+
+15730.000
+18539.000
+14000.000
+13486.000
+17586.000
+25532.000
+20362.000
+10668.000
+9298.000
+9788.000
+9518.000
+12852.000
+16398.000
+25108.000
+35162.000
+37188.000
+34280.000
+92324.000
+
+200.000
+40.000
+0.000
+0.000
+40.000
+20.000
+20.000
+40.000
+20.000
+0.000
+20.000
+0.000
+0.000
+0.000
+60.000
+20.000
+20.000
+20.000
+
+980.000
+820.000
+262.000
+562.000
+5018.000
+3736.000
+1116.000
+1028.000
+428.000
+220.000
+238.000
+98.000
+46.000
+230.000
+760.000
+358.000
+74.000
+142.000
+
+N112 E99
+92.89-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+92.15-92.10
+92.10-92.05
+92.05-92.00
+92.00-91.95
+91.95-91.90
+
+2C/2D
+2B/2C
+2B
+2B
+2B
+2B
+2A/2B
+2A/2B
+2A
+2A
+2A
+1/2A
+1
+1
+1
+
+0.1033
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+
+1674.734
+540.000
+560.000
+400.000
+220.000
+60.000
+80.000
+120.000
+200.000
+200.000
+120.000
+20.000
+0.000
+0.000
+0.000
+
+687.318
+440.000
+360.000
+280.000
+320.000
+160.000
+920.000
+320.000
+80.000
+80.000
+20.000
+20.000
+80.000
+160.000
+100.000
+
+22587.609
+18236.000
+22990.000
+19510.000
+9436.000
+14380.000
+6224.000
+6704.000
+13724.000
+12184.000
+9486.000
+14508.000
+24818.000
+43512.000
+81424.000
+
+87.125
+40.000
+20.000
+40.000
+20.000
+0.000
+60.000
+0.000
+0.000
+0.000
+20.000
+0.000
+0.000
+20.000
+0.000
+
+1438.529
+1932.000
+2278.000
+2268.000
+1764.000
+1008.000
+2484.000
+536.000
+28.000
+0.000
+52.000
+0.000
+16.000
+6.000
+16.000
+
+1799
+
+(continued from previous page)
+Level
+
+Stratum
+
+Level
+vol.
+(m3)
+
+Snail
+density
+(ct./m3)
+
+Gravel
+density
+(ct./m3)
+
+Rhizoconcretion density
+(wt. in g/m3)
+
+FeMn
+concretion
+density
+(ct./m3)
+
+Sandstone
++ caliche
+nodule
+density
+(g/m3)
+
+N113 E98
+92.72-92.50
+92.50-92.40
+92.40-92.30
+92.30-92.20
+92.20-92.15
+92.15-92.10
+
+2C
+2B
+2A/2B
+2A
+2A
+2A
+
+0.0897
+0.10
+0.10
+0.10
+0.05
+0.05
+
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+
+Unit 2
+92.68-92.38
+
+2B/2C
+
+0.0950
+
+0.000
+
+0.000
+
+0.000
+
+0.000
+
+0.000
+
+N112 E97
+93.14-92.75
+92.75-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+
+2D/3
+2C/2D
+2C
+2C
+2B/2C
+2B
+2B
+2B
+2B
+2B
+2A/2B
+2A
+2A
+
+0.2971
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+
+5250.757
+2620.000
+1880.000
+1200.000
+0.000
+260.000
+100.000
+140.000
+0.000
+120.000
+80.000
+260.000
+0.000
+
+2638.842
+700.000
+600.000
+900.000
+1100.000
+1080.000
+740.000
+680.000
+480.000
+1060.000
+340.000
+60.000
+40.000
+
+17147.089
+15578.000
+16012.000
+21644.000
+15186.000
+14804.000
+10708.000
+11866.000
+4884.000
+9928.000
+8706.000
+13566.000
+15808.000
+
+175.025
+0.000
+60.000
+100.000
+120.000
+60.000
+0.000
+100.000
+0.000
+140.000
+0.000
+40.000
+0.000
+
+2320.431
+1902.000
+1884.000
+2554.000
+3258.000
+4468.000
+3582.000
+2366.000
+646.000
+1784.000
+344.000
+280.000
+44.000
+
+N109 E96
+93.08-93.00
+93.00-92.95
+92.95-92.90
+92.90-92.85
+92.85-92.80
+92.80-92.75
+92.75-92.70
+92.70-92.65
+92.65-92.60
+92.60-92.55
+92.55-92.50
+92.50-92.45
+92.45-92.40
+92.40-92.35
+92.35-92.30
+92.30-92.25
+92.25-92.20
+92.20-92.15
+
+2D
+2D
+2D
+2D
+2D
+2D
+2D
+2D
+2D
+2D
+2C/2D
+2C
+2C
+2B/2C
+2B
+2B
+2A
+2A
+
+0.0475
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+0.05
+
+8884.211
+5600.000
+3760.000
+5300.000
+9300.000
+6880.000
+4200.000
+4580.000
+2440.000
+1920.000
+2140.000
+2400.000
+1800.000
+560.000
+320.000
+600.000
+100.000
+60.000
+
+3200.000
+4500.000
+2880.000
+2480.000
+2300.000
+1740.000
+2060.000
+2200.000
+2700.000
+5440.000
+4940.000
+7400.000
+6860.000
+2480.000
+1440.000
+7500.000
+19840.000
+25700.000
+
+14048.421
+13148.000
+11058.000
+13284.000
+16214.000
+16662.000
+17392.000
+15840.000
+5588.000
+6698.000
+7108.000
+6200.000
+8210.000
+3616.000
+3250.000
+4808.000
+5186.000
+13076.000
+
+63.158
+60.000
+120.000
+120.000
+80.000
+140.000
+60.000
+240.000
+200.000
+340.000
+320.000
+320.000
+500.000
+180.000
+0.000
+400.000
+1040.000
+960.000
+
+5581.053
+3154.000
+1996.000
+5146.000
+16124.000
+15210.000
+11548.000
+13738.000
+13672.000
+12442.000
+13336.000
+17624.000
+17442.000
+7420.000
+2756.000
+19704.000
+37794.000
+43484.000
+
+1800
+
+(continued from previous page)
+Level
+
+Stratum
+
+(N109 E96, continued)
+92.15-92.10 2A
+92.10-92.05 2A
+92.05-92.00 2A
+
+Level
+vol.
+(m3)
+
+Snail
+density
+(ct./m3)
+
+Gravel
+density
+(ct./m3)
+
+Rhizoconcretion density
+(wt. in g/m3)
+
+FeMn
+concretion
+density
+(ct./m3)
+
+Sandstone
++ caliche
+nodule
+density
+(g/m3)
+
+0.05
+0.05
+0.05
+
+40.000
+160.000
+80.000
+
+7480.000
+15580.000
+27300.000
+
+12280.000
+17872.000
+17524.000
+
+580.000
+940.000
+700.000
+
+24854.000
+25938.000
+32688.000
+
+* includes a small portion of stratum 2D.
+(end of data)
+Note: these tables do not include chipping debris, bone, mussel shell, baked clay nodules,
+and other miscellaneous items.
+
+1801
+
+Appendix 5: Snails From Bulk Matrix, Selected Levels of N109 E96
+
+Anguispira strongylodes juveniles
+Catinella vermeta
+Gastrocopta contracta
+Gastrocopta pellucida
+Gastrocopta sp. fragments
+Gastrocopta sp. juveniles
+Glyphyalinia umbilicata
+Hawaiia/Helicodiscus sp.
+Helicodiscus singleyanus
+Mesomphix friabilis embryos
+Oligyra orbiculata adults
+Oligyra orbiculata juveniles
+Opercula from Oligyra orbiculata
+Polygyra cf. P. texasiana
+Polygyra sp.
+Polygyra sp. juveniles
+Praticolella sp.
+Pupoides albilabris adults
+Pupoides albilabris juveniles (?)
+Rabdotus sp.
+Strobilops texasiana adults
+Strobilops texasiana juveniles
+Zonitoides arboreus
+Cincinnatia integra adults
+Cincinnatia integra juveniles (?)
+Gyraulus parvus
+Helisoma anceps juveniles
+Planorbidae
+Unidentified conical
+COLUMN TOTALS
+
+100
+1
+1 1
+153
+13
+6
+16
+21
+45
+1
+1
+167
+3
+24 1 1
+1 23
+4
+49
+1
+4
+2
+1
+5
+6
+19 1
+7
+1
+2
+7
+13
+22
+3
+16
+4
+1 1
+2
+693 32 25
+
+1802
+
+92.05-92.00
+N side
+92.05-92.00
+remainder
+ROW TOTALS
+
+92.15-92.10 SW
+
+92.15-92.10 NE
+
+N109 E96, snails from bulk matrix,
+coarse fraction, selected levels
+
+92.35-92.30
+
+Bulk matrix passing the 1/4-inch screen was collected from all levels in N109 E96 and later
+sieved through fine mesh, but only a few levels have been picked for bones, snails, and chipping
+debris. Of these, a preliminary snail inventory has been done for only three: 92.35-92.30 (stratum
+2B), 92.15-92.10 and 92.05-92.00 (both stratum 2A). Note many Cincinnatia integra juveniles.
+
+7
+1
+
+1
+2
+1
+
+1
+
+1
+1
+1
+16
+
+2 110
+2
+9 176
+1
+7
+2 18
+21
+1 48
+1
+15 187
+26
+25
+4
+2 51
+1
+4
+3
+1
+5
+6
+1 21
+3 11
+2
+7
+8 21
+25
+4 21
+1
+5
+3
+3
+6
+52
+
+Appendix 6: Vertebrate Faunal Inventory
+The following inventory represents vertebrate faunal remains identified to date
+and includes all the bone found on the Â¼-inch screen and in situ. It is by no means a
+complete inventory of animal bone from the bench deposits, however, because a
+substantial amount of bone has been extracted from matrix samples but not yet identified,
+and still more bone is known remain in matrix residue samples from N109 E96 that have
+not yet been picked. See Chapter 10 for counts of bone fragments not yet identified, and
+for explanation of identification and counting procedures.
+
+Bones and bone fragments (numbering 3272 altogether) in this inventory are
+listed by lot, grouped into two major divisions, the deposit associated with Feature 5 and
+all the rest of the bone from the bench deposits. Individual lots list the total number of
+fragments, regardless of whether breakage occurred before, during, or after excavation.
+The two totals given for hearth-related and ambient material, however, are an estimate
+of the number of fragments before post-excavation damage. Hence, fragments with
+obvious recent
+
+breakage representing specimens which broke during cleaning are
+
+usually counted as one specimen. The summary totals given, therefore, are slightly
+smaller than would be obtained by adding up the lot-by-lot counts and are probably a
+more accurate estimate of the original number of bone fragments. This inventory is based
+on one compiled by Boyce Cabaniss, later amended by Alisa Winkler, Bill McClure and
+Ken Brown.
+
+1803
+
+I. HEARTH DEPOSIT (2920 fragments)
+Lot # B-105
+N113 E98 (92.50-92.40)
+NOTE: This lot is divided into hierarchically organized sublots representing clusters of
+bone excavated as chunks of matrix and later disaggregated in the lab. See the text for a
+discussion of these sublots and their significance.
+
+Group 1a
+Onychomys leucogaster (Northern grasshopper mouse)
+right mandible: distal fragment containing root of incisor; 20%
+Rana cf. Rana berlandieri (cf. Rio Grande leopard frog)
+left humerus: distal fragment; 50%
+Group 1b
+Chaetodipus hispidus (hispid pocket mouse)
+right mandible: fragments containing incisor
+teeth: one P4 probably from a different individual
+Group 1c
+Unidentified small mammal
+skull roof: part of a small mammal skull roof, possibly Scalopus
+aquaticus
+centrum of cervical vertebra: from small mammal; 50%
+Unidentified fragments
+seven unidentified bits of bone
+Group 1d
+Unidentified small mammal
+1804
+
+pelvis: two fragments from a Neotoma-sized animal
+first phalanx: one specimen from a Neotoma-sized animal
+Group 1e
+rib: shaft fragment, approximately rabbit size
+Group 1f
+Geomys sp. (pocket gopher)
+right femur: proximal shaft fragment; 30%; comparable in size to a
+specimen of subadult G. bursarius on file at the Shuler Museum
+Unidentifiable fragments
+12 unidentifiable fragments, some probably from the element listed above
+Group 1g
+Bird, unidentified
+lower beak of a small passerine bird, almost complete
+Ambystoma texanum (smallmouth salamander)
+vertebrae: 15 vertebrae from the same individual; some complete,
+others broken; two are orange, semi-glossy, the remainder beige,
+matte-textured; MNI =1
+Rana cf. Rana berlandieri (Rio Grande leopard frog)
+long bone shaft fragment: possible shaft of metatarsal
+Fish, unidentified
+vertebrae: two small vertebrae
+Unidentified small mammal
+caudal vertebra: one small vertebra, probably from a rodent
+vertebra: lateral fragment from Neotoma-sized animal
+
+1805
+
+Group 1h
+Scalopus aquaticus (eastern mole)
+right tibia: proximal fragment; 50%
+left tibia: distal fragment; 25%
+carpal: one complete carpal
+second phalanx: one complete phalanx
+skull fragments: three fragments possibly from Scalopus aquaticus
+Chaetodipus hispidus (?) (hispid pocket mouse)
+right tibia: proximal shaft fragment; 30%
+Sylvilagus sp. (rabbit)
+left mandible: fragment from medial side containing alveoli for P3 and
+P4; 2%
+Unidentified small mammal
+caudal vertebra: from a Chaetodipus-sized animal
+rib head: from a Neotoma-sized animal
+Unidentified fragments
+three unidentified bone fragments
+Group 1i
+Rodent, unidentified
+femur: several fragments; about the size of Chaetodipus (probably one
+fragment recently broken into three pieces)
+Group 1j
+Scalopus aquaticus (eastern mole)
+right humerus: almost complete
+
+1806
+
+Group 1k
+Bird?
+long bone shaft fragment: very thin-walled, probably from a small bird
+Group 1 Residual Lot
+Scalopus aquaticus (eastern mole)
+left mandible: edentulous posterior fragment; 65%
+right mandible: edentulous, otherwise almost complete, two joining
+fragments; 80%; possibly the same individual represented by the
+element listed above
+left humerus: distal fragment; 30%
+left humerus: proximal fragment; 70%; this and the element listed above
+do not join but could be from the same individual
+third phalanges: two, almost complete
+carpals: two carpals
+left ulna: proximal fragment; 25%
+left ulna: distal fragment; 40%
+left tibia: two joining proximal and shaft fragments, representing 30%
+and 25% respectively
+left tibia: distal fragment; does not join fragments listed above but
+may be part of same bone; 10%
+teeth: one left P4; two incisors
+Geomys sp. (pocket gopher)
+left femur: proximal shaft fragment; comparable to G. bursarius; 30%
+left femur: distal exterior condyle fragment; comparable to G.
+bursarius; 5%
+1807
+
+left femur: proximal shaft fragment (rather large; larger than
+comparative specimen of subadult G. bursarius); 30%
+left humerus: distal shaft fragment; 30%
+left humerus: proximal fragment; 10%
+left humerus: proximal shaft fragment; 30%
+right scapula: articular fragment; comparable to G. bursarius; 10%
+teeth: left P4; length, 2.67 mm; width 2.33 mm (somewhat smaller than a
+comparative specimen of female G. bursarius from Nebraska, with a
+maximum length of 3.17 mm and occlusal width of 2.50 mm)
+cf. Geomys sp. (gopher?)
+caudal vertebrae: two vertebrae from Geomys or similar sized rodents
+right femur: exterior condyle fragment
+right humerus: fragment of distal articulation; 5%
+left femur: proximal shaft fragment; 20%
+left femur: proximal fragment; 10%
+teeth: two fragmentary incisors
+Chaetodipus hispidus (hispid pocket mouse)
+left mandible: edentulous anterior fragment with incisor; 40%
+teeth: one upper molar, either M1 or M2; two unidentified molar
+fragments
+Fish, unidentified
+vertebrae: five small vertebrae (including three nearly complete centra)
+unidentified elements: four unidentified fragments of fish bone
+Bird, unidentified
+right carpometacarpus: proximal fragment, from sparrow-sized bird; 15%
+1808
+
+Ambystoma texanum (smallmouth salamander)
+femur: one femur
+humerus: three fragments (MNI =1)
+vertebrae: seven vertebrae (MNI = 2)
+Rana cf. Rana berlandieri (Rio Grande leopard frog)
+left ilium: fragment including most of the acetabulum
+cf. Hylidae or Microhylidae (probable; cricket, chorus, treefrogs, narrowmouth
+toads)
+long bones: two ends of unidentified long bones (ossification indicates
+adults)
+Frog/toad
+vertebrae: three complete but mostly lacking transverse processes
+femur: three ends of femur (adults; condyles are ossified)
+Colubrinae
+vertebrae: two vertebrae (MNI = 2)
+Viperidae
+Vertebrae: two vertebrae (one is caudal)
+Unidentified mammal
+long bone shaft fragments: 29 small fragments, probably most from
+mammals
+long bone shaft fragment: one fragment from an animal larger than
+Geomys but probably smaller than small Sylvilagus
+mandible fragments: five fragments of edentulous mandibles; two are of
+Geomys size, two are of Chaetodipus size, and the size of animal
+represented by the sixth cannot be estimated
+1809
+
+vertebra fragments: six fragments (including one cervical and one
+caudal vertebra)
+rib shaft fragments: six fragments (two large, four small)
+first phalanx: two first phalanges, one Neotoma-sized and another very
+small, Pitymys-sized
+ulna: one proximal fragment, Chaetodipus-sized; 50%
+metapodial: seven small fragments
+carpals or tarsals: two small mammal carpals or tarsals
+teeth: three fragments of small rodent incisors; one insectivore incisor
+or premolar
+Unidentified bone
+unidentified fragments: 215 fragments (one of which may be potentially
+identifiable)
+Group 2
+Heteromyidae. (Chaetodipus or Dipodomys, pocket mouse or kangaroo rat)
+left proximal tibia: juvenile, no epiphyses present; 30%
+left mandible: one mandible fragment with incisor
+Chaetodipus/Perognathus sp. (pocket mouse)
+left mandible: partial mandible; 30%
+Unidentified small vertebrate
+unidentified bone fragments: two fragments
+Group 3
+Scalopus aquaticus (eastern mole)
+right ulna: one specimen; 80%
+
+1810
+
+Frog/toad
+vertebra: centrum of trunk vertebra in two fragments; 40%
+Small rodent (Onychomys size)
+left femur: ball of femur; 5%
+Fish, unidentified
+vertebra: two partial centra of vertebrae from medium sized fish; one 40%
+and the other 5% complete
+Ambystoma texanum (probable; smallmouth salamander)
+vertebra: complete trunk vertebra
+Amphibian, probable
+unidentified limb bone end
+Bird, unidentified
+right ulna: proximal fragment, blue jay sized bird; 30%
+Small mammal
+limb bone shaft fragments: two fragments from small rodent sized animal
+metapodial: proximal fragment, abraded; (Chaetodipus-sized animal); 60%
+rib shaft fragment: one fragment (Neotoma-sized animal); 15%
+Unidentified small vertebrate
+limb bone shaft fragment: one fragment; small rodent sized animal
+unidentified fragments: four fragments
+Group 4
+Neotoma sp. (packrat, wood rat)
+right humerus: two distal fragments not joining; 45%
+teeth: three lightly worn teeth (right incisor, M1, M2) from a large
+individual
+1811
+
+Unidentified small mammal
+unidentified fragments: 23 fragments, most probably from a Neotoma
+mandible represented by the teeth listed above
+Group 5
+Fish, unidentified
+dorsal fin spine: two fragments, not joining, of the base of an anterior
+dorsal fin spine; medium-sized fish; 35%
+[END LOT B-105]
+
+Lot # B-106
+N113 E98 (92.443-92.400)
+Scalopus aquaticus (eastern mole)
+left humerus: complete but in two joining fragments
+left humerus: proximal fragment including head; 25%
+left humerus: two joining distal fragments; 30%
+left radius: complete
+left radius: complete but in two joining fragments
+right radius: proximal fragment; 60%
+right radius: distal fragment; 15%
+right ulna: fragment of proximal articular area; 10%
+right ulna: fragment of proximal articular area; 15%
+left femur: distal fragment; 20%
+third anterior phalanges (unguals): six (one 5th left, one 5th right,
+four unidentified left)
+second anterior phalanges: seven (three left, four right)
+1812
+
+first anterior phalanges: six, undetermined as to side
+second posterior phalanx: one
+carpal/metacarpal elements: eight complete; one 60% complete
+teeth: one right M2 lightly worn; one left M2 heavily worn; one left M3
+lightly worn; one left M1 heavily worn; one left M3 heavily worn;
+one right P4 heavily worn; one right P3 heavily worn; one left
+incisor; two incisor roots
+cf. Chaetodipus hispidus (hispid pocket mouse)
+left tibia: distal fragment; 30%
+right tibia: distal fragment; 30%
+teeth: one left M1 heavily worn; one right M2 slightly worn; one right
+P4 slightly worn; one right M2 slightly worn; one left P4 slightly
+worn; one left P4 heavily worn; one left M1 slightly worn
+Geomys cf. G. bursarius or G. personatus (pocket gopher)
+metacarpals: two
+teeth: one right upper molar
+Sylvilagus cf. S. audubonii or S. floridanus (cottontail rabbit)
+teeth: one left M3
+Dipodomys cf. D. ordii (Ord kangaroo rat)
+teeth: one right P4, one right M3, one right M2, one unidentified molar
+Soricidae (shrews)
+left mandible: one partial edentulous left mandible
+Cryptotis parva (least shrew)
+teeth: one left M1
+
+1813
+
+cf. P. pinetorum or M. ochrogaster (vole)
+teeth: one right M2
+Unidentified microtine
+teeth: one molar fragment
+Neotoma sp. (packrat, wood rat)
+right femur: shaft from young adult, missing distal epiphysis; 80%
+caudal vertebrae: three
+teeth: one left M1; one left M2; one right M3; all from one individual
+Onychomys leucogaster (Northern grasshopper mouse)
+teeth: one left M2
+Peromyscus cf. P. maniculatus or P. leucopus (deer mouse or white-footed
+mouse)
+right femur: proximal fragment
+Ambystoma texanum (smallmouth salamander)
+precaudal vertebrae: 18 vertebrae (14 range in length from 2.4 to 3.4 mm,
+mean = 2.65 mm; centra are closed)
+ilium: two ilia, one burned or heat-discolored
+humerus: three proximal and two distal fragments (MNI = 3)
+femur: four proximal femur fragments
+Ambystoma cf. Ambystoma texanum (cf. smallmouth salamander)
+vertebrae: three charred; four manganese-stained
+Ambystoma sp. (Ambystomatid salamander)
+precaudal vertebrae: two vertebrae
+
+1814
+
+caudal vertebrae: one vertebra (both the precaudal and caudal vertebrae
+are slightly larger than the A. texanum vertebrae listed above, hence
+the uncertainty about species; the centrum of one is not closed)
+caudal or fragmentary vertebrae: 44 fragmentary or caudal vertebrae
+consistent with Ambystoma texanum but too incomplete for
+identification
+long bones: seven articular ends of unidentified long bones (cf.
+Ambystoma sp.)
+Salamander, unidentified
+long bones: 20 fragments of unidentified long bones
+vertebrae: 12 vertebra fragments
+Possible salamander
+axis vertebra: one vertebra, possibly from a salamander
+long bone: one end of an unidentified long bone
+Rana sp. cf. Rana berlandieri (cf. Rio Grande leopard frog)
+ilium: right ilium, acetabular end, from frog with 7-8 cm snout-vent length
+Bufo sp. cf. Bufo americanus (cf. American toad)
+ilium: left ilium, acetabular end
+Frog/toad
+urostyle: one urostyle fragment; 25%
+radio-ulna: two radio-ulna midshaft fragments
+atlas vertebrae: three fragmentary atlas vertebrae (one medium, two small)
+unidentified vertebrae: one vertebra fragment
+Amphibian, unidentified
+long bones: 12 long bone fragments of unknown amphibian
+1815
+
+Lizard, unidentified
+vertebrae: six vertebrae from a probable lizard
+vertebra: one vertebra from a small lizard, perhaps subadult Sceloporus
+Lizard, possible
+unidentified fragments: four fragments from possible lizard or other small
+vertebrate
+Snake or lizard, unidentified
+vertebrae: three vertebra fragments
+cf. Rhinocheilus lecontei (cf. longnose snake)
+vertebrae: one vertebra
+Colubrinae (colubrid snake, subfamily Colubrinae)
+vertebrae: ten small vertebrae (four are similar to Diadophis punctatus,
+ringneck snake)
+vertebrae: two vertebrae from a snake with snout-vent length about 60 cm
+Natricinae (colubrid snake, subfamily Natricinae, either Storeria dekayi or
+Virginia striatula)
+vertebrae: three vertebrae
+Snake, unidentified
+caudal vertebrae: five vertebrae
+vertebrae fragments: four small vertebra fragments
+Fish, unidentified
+vertebrae: 18 vertebrae, fairly small, varying in size and completeness
+dorsal fin spines: two complete specimens, very small; two basal
+fragments, small to medium-sized fish
+pectoral fin spine: one, medium large
+1816
+
+unidentified fin spine (?): one fragment with articular end
+teeth: two
+unidentified: eight bone fragments probably from fish
+Bird, unidentified
+long bones: six shaft fragments, all from small or very small birds
+left carpometacarpus: proximal fragment, small; 15%
+carpometacarpus: shaft fragment, quail-sized bird; 20%
+left ulna: proximal fragment, small bird; 40%
+radius: one radius fragment with articular end, very small
+Unidentified rodent
+left proximal femur: one fragment, juvenile individual
+distal tibia: one fragment
+tibia: one proximal epiphysis from juvenile, complete except for some
+exposure of cancellous interior
+baculum: one baculum, nearly complete
+Unidentified small mammal
+caudal vertebrae: 23 vertebrae of various sizes, all Neotoma-sized or
+smaller
+vertebrae: 11 vertebrae (one complete, remainder fragmentary)
+rodent incisors: 31 incisors differing in size and completeness, none
+larger than Chaetodipus hispidus
+calcanea: four, none larger than Chaetodipus hispidus
+astragali: three, none larger than Chaetodipus hispidus
+tarsals or carpals: 14 tarsals or carpals, all complete
+first and second phalanges: 22 phalanges, none larger than Neotoma
+1817
+
+third phalanges: five phalanges [one Pitymys-sized, two Chaetodipussized, two large (Neotoma-sized) ]
+ribs: 10 small fragments
+humerus: eight fragments, none more than 50% complete, none larger than
+Geomys size
+distal femoral epiphyses: three epiphyses, about Chaetodipus size; one
+epiphysis about the size of Geomys
+proximal femoral epiphysis: one epiphysis, about the size of Geomys
+metapodials: 25 metapodials, none larger than Neotoma; some complete
+scapula: articular region, Pitymys-sized; 20%
+pelvis: two fragments, one Neotoma-sized, the other Pitymys-sized; both
+20% complete
+femoral balls: three fragments, one epiphysis; all the size of
+Chaetodipus
+proximal ulna: two fragments, the size of Chaetodipus or smaller; both
+15% complete
+radius: three fragments with articular ends
+proximal radius: one fragment (juvenile)
+tibia: two shaft fragments, both small, about Pitymys size; one 40%, the
+other 50% complete
+unidentified charred bone: two small fragments
+unidentified fragment: one unidentified manganese-stained fragment
+Mammal or herpetofauna
+long bones: two fragments with articular ends
+
+1818
+
+Unidentified small vertebrate
+probable skull fragments: 12 fragments, various sizes and thicknesses
+ribs: three rib fragments
+carpals or tarsals: two possible carpals or tarsals
+astragalus: one complete astragalus
+claw: one very small claw, complete
+phalanx: one phalanx, fragmentary
+Unidentified bone fragments
+unidentified fragments: 1738 fragments
+[END LOT B-106]
+
+Lot # B-107A
+N113 E98 (approximately upper 5 cm of 92.40-92.30 m level)
+Note: this extensive lot of bone (about 1186 fragments) has not been identified yet.
+
+Lot # B-149
+Unit 2, Feature 5 (on fired surface of hearth and immediately surrounding area)
+Scalopus aquaticus (eastern mole)
+right humerus: 70% complete
+right mandible: two joining edentulous fragments; 60%
+first phalanx: proximal fragment; 30%
+carpals: two carpals
+Pitymys cf. P. pinetorum or M. ochrogaster (vole)
+teeth: one left M1; one left M2
+left mandible: two joining edentulous anterior fragments; 40%
+1819
+
+Onychomys leucogaster (Northern grasshopper mouse)
+teeth: left M1; one unidentified molar fragment
+Sylvilagus cf. S. audubonii or S. floridanus (cottontail rabbit)
+left calcaneum: from young adult, with epiphysis unfused
+Neotoma sp. (?) (packrat, wood rat?)
+left scapula: articular region; 20%
+Rana sp. cf. Rana berlandieri (cf. Rio Grande leopard frog with snout-vent length
+6-7 cm)
+tibiofibula: a 9 mm length of shaft midsection; 40%
+ilium: right ilium, acetabular area; 15%
+Unidentified mammal
+rodent incisors: 3 small incisors (two lower incisors, both distal
+fragments, 75% and 30% complete); one distal fragment of an upper
+incisor, 60%
+first phalanx: one phalanx, Neotoma-sized
+right femur: proximal fragment, Chaetodipus-sized; 30%
+right femur: three joining distal fragments, Chaetodipus-sized; 30%
+right humerus: distal fragment, Chaetodipus-sized; 10%
+left mandible: two fragments from diastema region; 15%
+long bone shaft fragments: six fragments unidentified as to element or
+taxon, all no larger than Chaetodipus size, ranging from 5% to 60%
+complete
+skull roof (?): one small fragment
+unidentified fragments: 10 small fragments
+unidentified cancellous bone: four fragments (one calcined), all from an
+1820
+
+animal Neotoma-sized or larger; the calcined fragment is V-shaped
+in section, light gray to white on the exterior with a somewhat
+glossy texture, black on the interior, and is 6.1 mm long, 3.45 mm
+wide, with a wall thickness varying from 0.25 mm to 1.05 mm.
+Judging by size and thickness, it may be from a lagomorph-sized or
+larger animal, though not necessarily a mammal.
+
+[END LOT B-149]
+
+Lot # B-107
+N113 E98 (92.40-92.30)
+Scalopus aquaticus (eastern mole)
+right humerus: 90% complete
+right humerus: smaller than the other right humerus by 20%; 80%
+complete
+right ulna: tip of olecranon process; 15%
+right ulna: proximal fragment including humeral articulation; 30%
+right ulna: proximal end; 15%
+right femur: proximal shaft fragment; 30%
+carpals (radiales?): two large carpals, one left and one right
+Geomys cf. G. bursarius or G. personatus (pocket gopher)
+left humerus: shaft fragment; comparable to a Recent specimen of G.
+bursarius on file at the Shuler Museum; 60%
+Dipodomys cf. D. ordii (cf. Ord kangaroo rat)
+teeth: one deciduous right P4
+1821
+
+Chaetodipus/Perognathus sp. (pocket mouse)
+teeth: one left P4
+Neotoma sp. (packrat, wood rat)
+right ischium: fragment with acetabulum; 20%
+Salamander, possible
+long bone: end of long bone
+cf. Bufo sp. (probable toad)
+left radius-ulna: proximal fragment; 50%
+Bird, unidentified
+probable distal phalanx fragment of a bird: one very small fragment
+long bones: three fragments, very small
+Unidentified mammal
+head of humerus: probably from Neotoma sp. or Geomys sp.; 20%
+first phalanges: two very small phalanges, one broken and manganese stained
+rib: shaft fragment, rabbit sized
+pelvis: very small fragment, Pitymys-sized; 15%
+incisor: one fragment, Pitymys-sized; 20%
+long bone shaft fragments: eight fragments unidentified as to element or
+taxon, none larger than Neotoma size
+Unidentified vertebrate
+unidentified fragments: 118 fragments
+[END LOT B-107]
+
+1822
+
+II. ISOLATED BONE NOT ASSOCIATED WITH FEATURE 5 (351 fragments)
+Items listed below were either plotted and recovered in situ, found on the 1/4inch screen, or recovered from sediment samples processed for microsnails and sediment
+analysis. Bones from sediment samples generally come from the lower two-thirds of
+an arbitrary excavation level (see Chapter 3 on excavation methods).
+
+Lot #B-104
+N113 E98 (92.722-92.500)
+Fish, unidentified
+vertebra: half of a small vertebra
+Unidentified animal
+Unidentified fragment: one fragment
+
+Lot # B-108
+N113 E98 (92.20-92.15)
+Geomys sp. (pocket gopher)
+right mandible with teeth: badly fragmented, but includes complete tooth
+row and incisor; comparable in size to a Recent specimen of G.
+bursarius
+Unidentified mammal
+third phalanx: from an unidentified rabbit-sized animal
+
+Lot B-108: Plotted bone at N113.64 E98.86 (elevation 92.14 m)
+Unidentified animal
+long bone shaft fragment: from a raccoon-sized or larger animal; with
+1823
+
+dry bone fracture, very slight polish, yellow stain
+NOTE: As in the case of lot B-105, this lot mostly consists of sublots representing
+small chunks of matrix collected intact in the field and later dissolved in the lab.
+
+Group 1
+Unidentified small mammal
+distal epiphysis of femur: from a Neotoma-sized animal
+unidentified fragments of cancellous bone: 11 fragments, probably from
+one element
+Group 2
+Unidentified small mammal
+long bone shaft fragments: six fragments representing one or more
+animals the size of Neotoma or smaller
+unidentifiable bone fragments: about 24 fragments
+Group 3
+Unidentified small mammal
+long bone (probably humerus) shaft fragments: 17 fragments (probably
+representing one element) from a Neotoma-sized animal
+Group 4
+Unidentified small mammal
+vertebra (?) fragments: 44 mostly very small fragments, possibly from a
+Neotoma-sized animal
+Group 5
+cf. Leporidae (rabbit?)
+metapodial: one distal fragment probably from a large rabbit (?), perhaps
+1824
+
+Sylvilagus aquaticus or Lepus californicus (?); 30% complete, badly
+fragmented
+Group 6
+Cricetidae (cricetid rodent; i.e., harvest, deer, grasshopper mice, etc.,
+cotton rat, packrat, vole, etc.)
+left femur: proximal shaft fragment, comparable in size to Chaetodipus
+hispidus; 40%
+Unidentified animal
+unidentified fragments: 32 very small fragments, possibly from the
+femur listed above
+
+Lot # B-109
+N113 E98 (92.15-92.10)
+Unidentified animal
+centrum of vertebra: in two fragments, from rabbit -sized or larger
+animal
+unidentified fragment: possibly a zygapophysis from another vertebra
+unidentified fragments: 49 small fragments, possibly from a small rabbitsized vertebra
+long bone fragments: unidentified fragments, probably all from one
+element disintegrated during cleaning
+phalanges?: three very small fragments, possibly phalanges of
+unidentified small vertebrate
+
+1825
+
+an
+
+Lot #B-110
+N113 E98 (92.30-92.20)
+Geomys sp. (pocket gopher)
+teeth: one right I1; width of this specimen is 2.67 mm, as compared to a
+width of 3.17 mm for a Recent specimen of G. bursarius from
+Nebraska on file at the Shuler Museum
+
+Lot # B-150
+Unit 2: Isolated bone found directly under Feature 5 (Note: although this single
+specimen was found about 10 cm directly under the hearth when it was removed from
+the site, it appears to predate development of the fired surface and is presumed to be
+unrelated). The field notes list two bones, but only one is inventoried here.
+
+Sylvilagus sp. (cottontail rabbit)
+femur: distal femur, disintegrated during collection
+
+Lot # B-1
+N109 E103 (93.14-92.90)
+Geomys sp. (pocket gopher)
+left mandible: anterior fragment with P4; 50%
+Lizard, probable
+vertebra: one fragment of a small vertebra probably from a lizard
+Unidentified animal
+long bone shaft fragments: two calcined fragments from a deer-sized
+animal; some polishing on interior of one
+1826
+
+unidentified fragments: fragments in carbonate concretion
+Lot # B-2
+N109 E103 (93.14-92.90) from sediment sample
+Geomys sp. (pocket gopher)
+maxilla: anterior fragment with left and right P4
+teeth: isolated upper molar probably from the maxilla listed above
+cf. Pitymys pinetorum or Microtus ochrogaster (vole)
+teeth: left M3
+Cryptotis parva (least shrew)
+right mandible: posterior edentulous fragment; 30%
+Chaetodipus hispidus (hispid pocket mouse)
+left femur: anterior shaft fragment
+cf. Ambystoma sp. (cf. Ambystomatid salamander)
+vertebra: one fairly large complete vertebra
+Unidentified rodent
+calcaneum: from Chaetodipus-sized animal
+Unidentified animal
+long bone or rib shaft fragments: two, very small
+long bone shaft fragments: two, from a rabbit-sized (?) animal; both
+have probable gastric rounding and polish over green bone fractures
+rib fragment: anterior fragment from small rib
+femur shaft fragment: from a Chaetodipus-sized animal
+unidentified fragments: two cancellous bone, one dense bone fragment
+
+1827
+
+Lot # B-3
+N109 E103 (92.90-92.85)
+Geomys sp. (pocket gopher)
+right mandible: with I, P4, M2, M3
+left mandible: in carbonate concretion with P4 and M1 visible
+Bird?
+humerus: proximal fragment from a small bird (?)
+Sylvilagus sp. (cottontail rabbit)
+right calcaneum: distal fragment from a small rabbit; 50%
+Unidentified rodent
+tibia: distal fragment
+long bones: two internal casts with adhering bone, both from Chaetodipus
+-sized animal
+Unidentified small vertebrate
+long bone shaft fragments: eight small fragments, from small vertebrate,
+many probably from mammal
+rib shaft: one fragment
+Unidentified animal
+unidentified fragment: cancellous bone probably from rabbit-sized or
+larger animal; calcined
+unidentified fragments: two (one in carbonate concretion)
+
+Lot # B-4
+N109 E103 (92.90-92.85) from sediment sample
+Fish, unidentified
+1828
+
+spine fragments: six (two from medium sized fish; four from mediumsized fish)
+Frog/toad
+Urostyle (?): one proximal fragment
+Unidentified animals
+caudal vertebra: from a Neotoma-sized animal; 50%
+teeth: enamel fragment, possibly from a Neotoma molar
+long bone or rib shaft fragments: four small fragments
+unidentified fragments: three fragments
+
+Lot # B-5
+N109 E103 (92.85-92.80)
+Sylvilagus cf. S. audubonii or S. floridanus (cottontail rabbit)
+right mandible: fragment with M3-P3
+right astragalus: mostly complete
+Sylvilagus? sp. (cottontail rabbit?)
+vertebra: one fragment probably from Sylvilagus
+Sylvilagus sp. or bird
+long bone shaft fragment: badly fragmented remains of shaft
+Geomys sp. (pocket gopher)
+left mandible: fragment with M1, P4P, and I; for the P4, occlusal length
+is 3.83 mm, width is 1.83 mm
+humerus: shaft fragment probably from Geomys sp.
+Unidentified rodent
+femur: small rodent femur shaft fragment
+1829
+
+Unidentified animal
+unidentified bone fragment
+
+Lot # B-6
+N109 E103 (92.85-92.80) from sediment sample
+Fish, unidentified
+unidentified fragment: one fragment of probable fish bone
+
+Lot #B-7
+N109 E103 (92.80-92.75)
+Sylvilagus sp. (cottontail rabbit)
+right scapula: fragment of neck near articulation, 14.6 mm long
+Rabbit or bird
+long bone shaft fragment: internal cast with adhering bone fragments
+Possible herpetofauna?
+humerus: fragment embedded in concretion
+Unidentified animal
+scapula: one fragment from a Geomys-sized animal
+humerus?: fragment embedded in concretion
+unidentified fragment: small fragment of cancellous bone
+
+Lot # B-8
+N109 E103 (92.75-92.70)
+Sylvilagus sp. (cottontail rabbit)
+left ilium: distal fragment including part of acetabulum, 12 mm long,
+1830
+
+from a small rabbit
+right tibia: proximal fragment
+
+Lot # B-9
+N109 E103 (92.75-92.70) from sediment sample
+Unidentified rodent
+right proximal femur: shaft fragment from Chaetodipus-sized rodent,
+stained dark reddish brown
+Unidentified animal
+long bone: internal cast with adhering bits of bone from a rabbit-sized
+animal (probably rabbit or bird)
+unidentified fragment: flat bone fragment, possibly pelvis fragment from
+a small mammal
+
+Lot # B-11
+N109 E103 (92.65-92.60)
+Sigmodon hispidus (hispid cotton rat)
+teeth: left M3 and M2 with bits of mandible embedded in carbonate
+concretion
+Rabbit or bird
+long bone shaft fragments: two internal casts with adhering bone,
+probably from Sylvilagus sp. or a bird of comparable size
+
+Lot # B-16
+N109 E103 (92.55-92.50) from sediment sample
+1831
+
+Bird?
+long bone shaft fragment: thin walled, from a bird or rabbit
+
+Lot # B-17
+N109 E103 (92.50-92.45)
+Geomys sp. (pocket gopher)
+teeth: maxillary dentition with right M2 and left M2, M3 embedded in
+carbonate concretion
+Unidentified rodents
+incisor: internal cast of large rodent incisor
+incisor: small fragment of Pitymys-sized rodent incisor
+
+Lot # B-18
+N109 E103 (92.45-92.40)
+Unidentifiable animal
+unidentifiable fragments: many fragments, probably of one bone
+
+Lot # B-19
+N109 E103 (92.45-92.40) from sediment sample
+cf. Rana berlandieri (cf. Rio Grande leopard frog)
+urostyle: articulating end of urostyle from a small frog
+
+Lot # B-28
+N109 E103 (92.10-92.05) from sediment sample
+Bird, unidentified
+1832
+
+left coracoid: anterior (proximal) fragment, from pigeon-sized bird; 30%
+
+Lot # B-29
+N109 E103 (92.05-92.00)
+Bird?
+long bone: end of unidentified long bone, probably from a small bird
+Unidentified animal
+long bone shaft fragment: small fragment from a deer-sized animal
+
+Lot # B-31
+N109 E103 (92.00-91.95)
+Unidentified animals
+long bone shaft fragments: two fragments probably from the same bone,
+though not joining; from a deer-sized animal. One is large (4.7 x
+1.0 cm, spirally fractured), the other smaller (1.8 x 1.0 cm)
+rib shaft: fragment from a Geomys-sized animal
+unidentified fragments: two small fragments
+
+Lot # B-32
+N109 E103 (91.95-91.90)
+Unidentified animal
+long bone shaft fragments: three fragments, the largest about 9 mm long,
+from Neotoma- or Geomys-sized animals
+
+1833
+
+Lot # B-33
+N110 E102 (93.08-92.90)
+Unidentified mammal
+long bone shaft fragment: one spirally fractured fragment probably from
+humerus or femur of deer-sized animal
+unidentified fragment: one flat piece of bone with possible gastric
+rounding, probably from a deer-sized animal
+long bone shaft fragment: from a Chaetodipus-sized animal
+
+Lot # B-34
+N110 E102 (92.90-92.80)
+Unidentified animal
+unidentified fragments: adhering to carbonate concretion
+long bone shaft fragment: internal cast with some adhering bone
+fragments, possibly from a medium-sized bird or rabbit
+rodent incisor: fragment from Pitymys-sized animal
+
+Lot # B-35
+N110 E102 (92.90-92.80) from sediment sample
+Unidentified animal
+long bone shaft fragment: from rabbit sized animal
+
+Lot # B-36
+N110 E102 (92.80-92.75)
+Geomys sp. (pocket gopher)
+1834
+
+right mandible: embedded in carbonate concretion; incisor is only tooth
+visible
+
+Lot # B-40
+N110 E102 (92.60-92.55
+Procyon lotor? (raccoon?)
+teeth: fragment of right M1 in carbonate concretion
+
+Lot # B-43
+N110 E102 (92.50-92.45)
+Geomys cf. G. bursarius or G. personatus (pocket gopher)
+left mandible with teeth: in carbonate concretion, fractured by
+carbonate growth
+
+Lot # B-44
+N110 E102 (92.50-92.45)
+Fish?
+unidentified bone fragment: one fragment
+Unidentified animal
+unidentified fragment: one fragment
+
+Lot # B-45
+N110 E102 (92.45-92.40)
+Geomys sp. (pocket gopher)
+right mandible: fragment with P4, M1, and M2
+1835
+
+Lot # B-46
+N110 E102 (92.45-92.40) from sediment sample
+Virginia striatula (Rough earth snake)
+vertebra: one small vertebra
+Unidentified animal
+unidentified fragments: two fragments
+
+Lot # B-50
+N110 E102 (92.30-92.25)
+Unidentified animal
+long bone shaft fragment: internal cast probably from rabbit or bird
+unidentified fragments: in carbonate concretion; probably rabbit or bird
+
+Lot # B-51
+N110 E102 (92.30-92.25) from sediment sample
+cf. Ambystoma sp. (cf. Ambystomatid salamander)
+vertebra: half of the centrum of a small vertebra
+Unidentified animal
+unidentified fragment: one fragment
+
+Lot # B-52
+N110 E102 (92.25-92.20)
+Sylvilagus sp. (cottontail rabbit)
+tibia: internal cast, with adhering bone bits, of distal end of tibia,
+lacking the epiphysis, from a small rabbit
+1836
+
+Unidentified animal
+unidentified fragments: fragments of one bone, possibly edentulous
+mandible of a small rodent (?)
+
+Lot # B-54
+N110 E102 (92.20-92.15)
+Unidentified animal
+antler fragments: seven small splinters of charred antler, probably one
+fragment shattered during excavation
+
+Lot # B-57
+N110 E102 (92.10-92.05)
+Unidentified animals
+long bone shaft fragments: two internal casts of long bones from rabbit
+-sized animal, with bone fragments adhering
+antler or long bone shaft fragment: one fragment from a deer-sized
+animal; burned
+Sylvilagus sp. (cottontail rabbit)
+right calcaneum: proximal fragment from a small rabbit
+
+Lot #B-59
+N110 E102 (92.05-92.00) from sediment sample
+Fish, unidentified
+teeth: one fairly large tooth
+Unidentified small mammal
+1837
+
+patella: one patella
+long bone shaft fragments: six small, from Chaetodipus-sized animal
+Unidentified animal
+unidentified fragments: four unidentified fragments
+
+Lot #B-61
+N110 E102 (92.00-91.95) from sediment sample
+Onychomys leucogaster (Northern grasshopper mouse)
+teeth: one right M1
+Geomys sp. (pocket gopher)
+teeth: unidentified molar
+Unidentified rodent (?)
+long bone shaft fragments (?): two unidentified fragments, probably
+rodent long bone fragments
+
+Lot # B-62
+N110 E102 (91.95-91.90) from sediment sample
+Geomys sp. (pocket gopher)
+teeth: unidentified molar (M1 or M2; whether mandibular or maxillary
+dentition cannot be identified)
+
+Lot # B-62A
+N110 E102 (91.95-91.90)
+Unidentified animal
+long bone shaft fragment: small fragment from a Geomys-sized animal;
+1838
+
+burned
+
+Lot # B-63
+N110 E102 (91.90-91.85)
+Sylvilagus sp. (cottontail rabbit)
+right astragalus: nearly complete astragalus from a small rabbit; 80%
+Unidentified animal
+femur (?): shaft fragment from a Geomys-sized animal
+
+Lot # B-69
+N110 E102 (91.70-91.65)
+Unidentified animal
+antler (?) fragment: small sliver of charred antler or bone
+
+Lot # B-72
+N111 E101 (92.80-92.70)
+Unidentified small vertebrate
+long bone shaft fragment: one fragment
+Unidentified animal
+unidentified fragments: two fragments
+
+Lot # B-73
+N111 E101 (92.70-92.65)
+Unidentified animal
+long bone: fragment embedded in carbonate concretion, from a rabbit or
+1839
+
+bird
+Lot # B-76
+N111 E101 (92.55-92.50)
+Unidentified animal
+long bone: fragment embedded in carbonate concretion, from a rabbit or
+bird
+
+Lot # B-86
+N111 E101 (92.05-92.00)
+Unidentified animal
+unidentified fragments: four cancellous bone fragments apparently from
+the same bone
+
+Lot # B-88A
+N111 E101 (91.95-91.90)
+Unidentified animal
+pelvis (?) fragment: one calcined fragment from a Geomys-sized animal
+
+Lot # B-89
+N112 E99 (92.89-92.60)
+Unidentified small vertebrate
+vertebra: one small dorsal fragment from snake, lizard, or small mammal;
+stained or oxidized reddish brown
+
+1840
+
+Lot # B-91
+N112 E99 (92.55-92.50)
+Unidentified animal
+femur: distal epiphysis (?) and possible shaft fragments of a rabbit
+sized animal (?)
+
+Lot # B-92
+N112 E99 (92.50-92.45)
+Bird, unidentified
+left femur: proximal fragment of a small bird; 20%
+Unidentified animal
+unidentified fragment: one fragment
+
+Lot # B-98
+N112 E99 (92.20-92.15)
+Geomys sp. (pocket gopher)
+teeth: two fragments of lower incisor (?), probably from Geomys sp.
+
+Lot # B-101
+N112 E99 (92.05-92.00)
+Unidentified animal
+vertebra: two fragments, possibly of a small vertebra
+unidentified fragments: two small fragments, possibly of a small
+vertebra
+
+1841
+
+Lot # B-109
+N113 E98 (92.15-92.10)
+Unidentified animal
+phalanx?: three fragments resembling phalanx of unidentified small
+vertebrate
+
+Lot # B-111
+N112 E97 (93.14-92.75) bag 1 of 2
+cf. Ambystoma sp. (cf. Ambystomatid salamander)
+vertebrae: one large vertebra and a smaller vertebra fragment
+Unidentified animal
+unidentified fragments: two fragments
+
+Lot # B-116
+N112 E97 (92.60-92.55)
+Unidentified rodent
+metapodial: distal epiphysis from Geomys-sized rodent metapodial
+Unidentified animal
+unidentified fragments: three small fragments
+
+Lot # B-123
+N112 E97 (92.25-92.20)
+Unidentified rodent
+long bone shaft fragment: one fragment from medium-sized rodent
+Unidentified animal
+1842
+
+caudal vertebra: centrum of caudal vertebra (epiphyses unfused) from
+raccoon-sized animal
+
+Lot # B-125
+N109 E96 (93.08-93.00)
+cf. Ambystoma sp. (cf. Ambystomatid salamander)
+vertebra: half of a vertebra
+
+Lot # B-126
+N109 E96 (92.95-92.90)
+Unidentified small mammal
+vertebra: one vertebra
+Unidentified animal
+unidentified fragment: one fragment, possibly a rib shaft fragment from
+a small vertebrate
+
+Lot # B-128
+N109 E96 (92.85-92.80)
+Turtle, unidentified
+carapace: one turtle carapace fragment, 7.5 mm long, 4.0 mm wide,
+maximum thickness 1.9 mm; no sutures evident
+
+Lot # B-129
+N109 E96 (92.80-92.75)
+Fish, unidentified
+1843
+
+left mandible: from a small unidentified fish
+Snake, unidentified
+vertebra: anterior portion of centrum from a small vertebra
+Unidentified animal
+long bone shaft fragment: two small shaft fragments
+
+Lot # B-130
+N109 E96 (92.75-92.70)
+Unidentified animal
+long bone shaft fragment: very small, from small rodent or insectivore
+-sized animal
+unidentified fragment: one very small fragment of cancellous bone,
+possibly the end of the centrum of a mammal vertebra
+
+Lot # B-131
+N109 E96 (92.70-92.65)
+Sylvilagus sp. (cottontail rabbit)
+teeth: one fragment of lower cheek tooth
+cf. Ambystoma sp. (cf. Ambystomatid salamander)
+vertebra: one vertebra
+Nerodia sp. (unidentified water snake)
+vertebra: one large vertebra
+Unidentified rodent
+long bone shaft fragment: one fragment from Chaetodipus-sized rodent
+Unidentified animal
+1844
+
+unidentified fragments: five fragments, one pitted
+
+Lot # B-133
+N109 E96 (92.60-92.55)
+Scalopus aquaticus (eastern mole)
+left humerus: distal fragment; 30%, iron oxide stained
+Unidentified rodents
+vertebrae: three fragments, the largest a nearly complete lumbar
+vertebra, possibly from Geomys sp.
+Unidentified animal
+long bone fragments: three very small fragments, one blackened by
+charring or manganese staining, one from very small animal
+unidentified fragments: eight small fragments, some possibly of
+vertebrae, one possibly femoral head or part of axis vertebra from
+a small mammal
+
+Lot # B-134
+N109 E96 (92.55-92.50)
+Kinosternidae, cf. Sternotherus odoratus (unidentified mud or musk turtle)
+carapace: two joining fragments of right pleural plate; when rejoined,
+14.1 mm long,
+
+9.15
+
+mm wide,
+
+thickness
+
+range 0.9-1.7 mm.
+
+Probably Sternotherus odoratus (stinkpot turtle), but possibly a
+subadult Kinosternon sp. (mud turtle). Plate is arched, from near the
+medial ridge and has small conical pits as part of the exterior surface
+sculpturing.
+1845
+
+Lot # B-135
+N109 E96 (92.50-92.45)
+Rana catesbeiana (bullfrog)
+urostyle: anterior articular surface of urostyle from a very large frog,
+probably a bullfrog
+Salamander
+vertebra: one fragment
+Unidentified animals
+caudal vertebra: from a mammal, probably a Neotoma-sized rodent
+unidentified fragment: one fragment
+
+Lot # B-136
+N109 E96 (92.45-92.40)
+Sylvilagus cf. S. audubonii or S. floridanus (cottontail rabbit)
+tibia: two proximal fragments of a tibia, calcined and thermally
+fissured and warped (possibly from some other rabbit sized animal)
+Unidentified rodent
+rib: one shaft fragment of a small rodent rib
+cf. Rana berlandieri (df. Rio Grande leopard frog)
+pelvic girdle: one small eroded fragment from a medium sized frog
+Fish, unidentified
+teeth: one very small fish tooth
+Unidentified animal
+skull fragment(?): one thin fragment with parallel cut marks (definite
+example of modification by a stone tool)
+1846
+
+unidentified fragments: three small fragments
+
+Lot # B-137
+N109 E96 (92.40-92.35)
+Salamander
+vertebra: part of one vertebra in two fragments
+Unidentified small mammal
+vertebra: anterior end of axis vertebra
+Unidentified animals
+long bone shaft fragment: one small fragment (4.2 mm long), charred or
+stained by manganese, with probable gastric polish on interior surface
+unidentified fragment: two fragments (one may be part of salamander
+vertebra listed above)
+
+Lot # B-139
+N109 E96 (92.35-92.30) bag 2 of 2
+Dipodomys sp. (unspecified kangaroo rat)
+left tibia: left proximal tibia fragment; 15%
+Kinosternidae (unidentified mud or musk turtle)
+carapace: one fragment of peripheral plate 9.5 mm long, 5.9 mm wide,
+thickness range 1.1-1.95 mm; flat tapering fragment with cavity for
+rib insertion on thin edge
+
+1847
+
+Lot # B-140
+N109 E96 FEATURE 7 FILL (92.35-92.30)
+cf. Dipodomys ordii (Ord kangaroo rat)
+left tibia: shaft and part of distal end with unfused epiphysis,
+probably from D. ordii juvenile; 40%
+cf. Rana berlandieri (cf. Rio Grande leopard frog)
+tibiofibula: end of tibiofibula
+Unidentified animal
+skull fragment (?): badly shattered, possibly skull of a small mammal
+(Scalopus aquaticus?)
+
+Lot # B-141
+N109 E96 (92.30-92.25)
+Unidentified animal
+long bone shaft fragment: from an animal larger than a rabbit, probably
+deer- or wolf-sized
+unidentified fragments: three fragments
+Unidentified small mammal
+Tibia (?): proximal shaft fragment of probable tibia from a very small
+mammal
+
+Lot # B-141A
+N109 E96 FEATURE 7 FILL (92.30-92.25)
+Unidentified small mammal
+left tibia: shaft fragment from Chaetodipus-sized small mammal
+1848
+
+Lot # B-142
+N109 E96 (92.25-92.20)
+cf. Gopherus hexagonatus (large extinct tortoise)
+carapace fragment: one small tabular fragment of plastron or carapace
+(has
+
+finely
+
+textured
+
+surface
+
+on
+
+exterior
+
+side,
+
+large-celled
+
+cancellous interior bone exposed on other side)
+
+Lot # B-143
+N109 E96 (92.25-92.20)
+Turtle, unidentified (perhaps Kinosternidae, mud or musk turtle)
+carapace: two fragments do not join but are evidently pieces of one
+fragment broken during excavation; both appear slightly heatdiscolored; larger fragment (6.3 mm long, 6.0 mm wide, thickness
+1.2-1.3 mm) has part of a suture along one edge; smaller fragment is
+5.35 mm long, 4.8 mm wide, 0.9-1.35 mm thick Small variety of
+turtle, perhaps Kinosternidae
+
+Lot # B-144
+N109 E96 (92.20-92.15)
+Geomys sp. (pocket gopher)
+teeth: one M3
+Unidentified small mammal
+long bone shaft fragment: one small fragment
+Unidentified animal
+unidentified fragment: one fragment
+1849
+
+Lot # B-146
+N109 E96 SW half (92.15-92.10)
+Turtle, unidentified (perhaps Emydidae, map, cooter, slider turtles)
+carapace: one small fragment, type indeterminate; 6.0 mm long, 5.9 mm
+wide, thickness range 2.0-2.25 mm. Medium-sized turtle, perhaps
+Emydidae
+
+Lot # B-147
+N109 E96 (92.10-92.05)
+Neotoma sp. (packrat, wood rat)
+teeth: one unidentified molar fragment
+
+Lot # B-148
+N109 E96 (92.05-92.00)
+Unidentified animal
+unidentified fragments: two fragments
+
+Lot #B-154
+Cutbank profile, Stratum 1 (elevation approximately 92.12 and 92.08 m)
+Emydidae (Pseudemys concinna or Trachemys scripta, river cooter or red-eared
+slider)
+plastron:
+
+one large hypoplastron fragment (7.8 x 3.2 cm, maximum
+
+thickness 5.94 mm, with two exterior sulci); one smaller fragment,
+apparently
+
+of anterior
+
+margin
+
+maximum
+
+thickness 6.14 mm, curvilinear sulci on interior and
+1850
+
+of epiplastron (4.0 x 3.3 cm;
+
+exterior surfaces), plus six small tabular fragments, one of which has
+two parallel cut marks on the interior (?) surface. All were
+found
+same
+
+closely associated and apparently are fragments of the
+plastron, comparable
+
+in shape and size to mature red-ear
+
+turtle. See discussion in Chapter 10; see Figs. 3.1, 4.22, and 4.54.
+
+Lot # B-156
+Cutbank profile, Stratum 2C (elevation 92.46 m; see profile for location)
+Procyon lotor (raccoon)
+left distal humerus: one left distal humerus, about 60% complete, with
+part of articular end removed by trowel; proximal end appears to
+have spiral fracture. Oblique cutmark on anterior surface (9 mm
+long and 0.3 to 0.6 mm wide, V-shaped in cross-section) is located
+1.5 cm from distal end and is tentatively regarded as a butchering
+mark made with a stone tool; appearance is different from marks
+left elsewhere on surface during cleaning with a dental pick;
+however, dirt and PVA obscure the scar.
+
+PARTIALLY IDENTIFIED LOTS FROM N109 E96
+Three lots of bone extracted from the coarse fraction of wet-sieved bulk matrix sample
+from N109 E96 (passing the Â¼-inch screen) were sent to Bill McClure for identification
+in 1989. These include both herpetofauna and non herpetofauna and are listed below;
+completeness estimates were not done. Other lots of bone have been picked but not yet
+identified, while still other samples have not yet been picked.
+1851
+
+Lot # B-157
+N109 E96 (92.50-92.45) bulk soil sample
+cf. Lepus californicus (cf. black-tailed jackrabbit)
+scapula: fragment of border of glenoid fossa from right scapula, calcined
+Sylvilagus sp. (cottontail rabbit)
+metatarsal: distal end of metatarsal
+Chaetodipus hispidus (hispid pocket mouse)
+incisor: right upper incisor
+cf. P. pinetorum or M. ochrogaster (voles)
+femur: proximal half of right femur
+metatarsal: one metatarsal
+Frog/toad, small, unidentified
+tibiofibula: midshaft of tibiofibula
+Unidentified vertebrate
+Unidentified fragments: 40 fragments
+
+Lot # B-158
+N109 E96 (92.70-92.65) bulk soil sample
+cf. Geomys sp. (cf. pocket gopher)
+cheek tooth: unidentified cheek tooth, subadult
+incisor: upper incisor, subadult
+cf. Bufo sp. (unidentified toad)
+humerus: proximal end of humerus
+Snake, unidentified
+vertebra: small vertebra from unidentified snake
+1852
+
+Unidentified vertebrate
+Unidentified fragments: 31 fragments
+
+Lot # B-159
+N109 E96 (92.35-92.30) bulk soil sample
+Geomys sp. (pocket gopher)
+incisor: one lower incisor
+cf. P. pinetorum or M. ochrogaster (voles)
+cheek tooth: fragment of unidentified cheek tooth
+Rana cf. Rana berlandieri (cf. Rio Grande leopard frog)
+ilium: left ilium
+phalanges: two phalanges
+cf. Bufo sp. (unidentified toad)
+humerus: proximal end of humerus
+Small mammal, unidentified
+humerus: midsection from humerus of a Sigmodon-sized mammal
+Unidentified vertebrate
+unidentified fragments: 37 unidentified fragments
+
+END OF FAUNAL INVENTORY
+
+1853
+
+
